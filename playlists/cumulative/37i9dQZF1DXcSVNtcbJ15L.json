@@ -772,10 +772,36 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 164000,
       "name": "Me Tira O Sossego",
       "url": "https://open.spotify.com/track/2os0PZg85oglHfJtBfpz6t"
+    },
+    {
+      "album": {
+        "name": "Me Tira O Sossego",
+        "url": "https://open.spotify.com/album/5zTS0TuaYLHmCxlOtdtzUf"
+      },
+      "artists": [
+        {
+          "name": "Indie Space",
+          "url": "https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr"
+        },
+        {
+          "name": "Sadnation",
+          "url": "https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY"
+        },
+        {
+          "name": "PedroWnx",
+          "url": "https://open.spotify.com/artist/6xhWbJdf04v6FfSXOQWxP1"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Me Tira O Sossego",
+      "url": "https://open.spotify.com/track/3PpAHRNr18TeX5w5J0MAic"
     },
     {
       "album": {

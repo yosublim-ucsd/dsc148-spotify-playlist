@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by Logan Staats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,881 likes - 27 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,924 likes - 27 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 8 | [Wolves Don't Live by the Rules](https://open.spotify.com/track/3QfR3RI6MfN8jOA8Nmz5Eg) | [Willie Thrasher](https://open.spotify.com/artist/1tQFd76V3HmxyEWwv8JN5k) | [Spirit Child](https://open.spotify.com/album/22w9yuze0FnbT89YfbiOev) | 2:16 |
 | 9 | [Me Myself & I](https://open.spotify.com/track/16CWSC0hWR5FwzFavbOLrq) | [Aspects](https://open.spotify.com/artist/69LoIKhuJuda9MLrxWLrLn) | [Keep Ya Head Up](https://open.spotify.com/album/710pEZK2dKx9PF3KtoBWTD) | 1:30 |
 | 10 | [Six Miles](https://open.spotify.com/track/2uFtPqRqzM6B3X06EtT2kO) | [Logan Staats](https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P) | [A Light in the Attic](https://open.spotify.com/album/5YivX6MADAUSfCEdDQpVk6) | 4:46 |
-| 11 | [Mehcinut](https://open.spotify.com/track/0VSAgC2eK4eoOVZMaYeITN) | [Jeremy Dutcher](https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f) | [Wolastoqiyik Lintuwakonawa](https://open.spotify.com/album/568Hw1PX6K12BdqyFSBj1E) | 4:46 |
+| 11 | [Mehcinut](https://open.spotify.com/track/4v3z9gDeThHmDKzdO6SwoF) | [Jeremy Dutcher](https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f) | [Wolastoqiyik Lintuwakonawa](https://open.spotify.com/album/3sFjEilk5pUJ7JgjHP6Anr) | 4:46 |
 | 12 | [Rez](https://open.spotify.com/track/5N1eBBqWscAeIAyXyiSjbi) | [Mattmac](https://open.spotify.com/artist/2wn3YMzruUNJ2Ee1z6xnjY) | [Blurred Visions](https://open.spotify.com/album/0Xgvvl6umYxwl5VlbHPSPq) | 4:19 |
 | 13 | [Spiritual Warrior](https://open.spotify.com/track/5p0bpzCyMDFWMY2Fr9mker) | [The Spiritual Warriors](https://open.spotify.com/artist/0QSAzRtAVUQ9meKQSMVR6H) | [Ancestors](https://open.spotify.com/album/7q6G1sk7NvNtgpgjjasyHs) | 4:32 |
 | 14 | [Truth](https://open.spotify.com/track/4VbffBUFxJ960bNtvCBbiE) | [Bear Fox](https://open.spotify.com/artist/5ADf44wT8qNVJQ8HKMM6tq) | [Truth](https://open.spotify.com/album/5BCRXxk1GMti6uPJZynWQh) | 3:10 |
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 26 | [Follow my lead](https://open.spotify.com/track/62IPnK3DLxTClWKNm9IUjw) | [Simbiyez Wilson](https://open.spotify.com/artist/39HMOKIeugHhEhQgYJAkYK) | [Follow my lead](https://open.spotify.com/album/2jaPDC4WhdFrbStgCeiERo) | 3:48 |
 | 27 | [Ironworking Hubby](https://open.spotify.com/track/6ObGhMM0ayVw7ky6EaOd8i) | [Bear Fox](https://open.spotify.com/artist/5ADf44wT8qNVJQ8HKMM6tq) | [Gifts](https://open.spotify.com/album/1zXvC39k196qcF4P8ttWPn) | 3:47 |
 
-Snapshot ID: `MCwwNjE3NjhlNGExMGJiMjRiYzQxZTdiOGZjZmVlZWEyZjE5Njc3ZGUx`
+Snapshot ID: `MCxmZWViZjNiMjYzNGZjMzhiNzQzNThhMmU5Nzc4MTNmMWY5MTBhNTRi`

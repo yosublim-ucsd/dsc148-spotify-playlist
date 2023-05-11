@@ -728,10 +728,28 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 150000,
       "name": "Around",
       "url": "https://open.spotify.com/track/1rxlKYkqpoq67Pzw9YHTNE"
+    },
+    {
+      "album": {
+        "name": "Around",
+        "url": "https://open.spotify.com/album/1D1N4s26kktiCG5cspFnsL"
+      },
+      "artists": [
+        {
+          "name": "Scotch Mist",
+          "url": "https://open.spotify.com/artist/63da4AKQZcSLyqcTFvt8Uu"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Around",
+      "url": "https://open.spotify.com/track/58W4eow72ceda18OWfqZol"
     },
     {
       "album": {

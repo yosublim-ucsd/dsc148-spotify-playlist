@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 575,
+  "num_followers": 584,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMWYwNzg1N2E1MDI3ZDI5NzNhMmQ2N2IwZjI2MWY1NGE4ZWI5ZmE1",
+  "snapshot_id": "MCw4NTgzNzY2ZjliMzg0MjBhNzEyMmIyMDhmOGU2ZTRhYWJmOTE1OTMx",
   "tracks": [
     {
       "added_at": "2023-04-14 00:30:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Mfalme Wa Amani",
-        "url": "https://open.spotify.com/album/36ZilAXt9d4ZqUphTaJaTG"
-      },
-      "artists": [
-        {
-          "name": "Solomon Mkubwa",
-          "url": "https://open.spotify.com/artist/3Up2Sprj20ft57tCYus7UZ"
-        }
-      ],
-      "duration_ms": 472477,
-      "name": "Mfalme Wa Amani",
-      "url": "https://open.spotify.com/track/131ZGEBLS3GBmcVcs57S3W"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
         "name": "Hapa Nilipo",
         "url": "https://open.spotify.com/album/4Rz5OPFfDnv1UHk6q0lKWz"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 261355,
       "name": "Upendo Wa Yesu",
       "url": "https://open.spotify.com/track/5vn3uwdsg6ymcQG7hY4oer"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Mfalme Wa Amani",
+        "url": "https://open.spotify.com/album/36ZilAXt9d4ZqUphTaJaTG"
+      },
+      "artists": [
+        {
+          "name": "Solomon Mkubwa",
+          "url": "https://open.spotify.com/artist/3Up2Sprj20ft57tCYus7UZ"
+        }
+      ],
+      "duration_ms": 472477,
+      "name": "Mfalme Wa Amani",
+      "url": "https://open.spotify.com/track/131ZGEBLS3GBmcVcs57S3W"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -613,22 +613,6 @@
       "url": "https://open.spotify.com/track/17xj9O92AfXMEBVvf8ACSN"
     },
     {
-      "added_at": "2023-04-21 00:01:00",
-      "album": {
-        "name": "Enjoy (Yo Blessings)",
-        "url": "https://open.spotify.com/album/24SeTWvJHoEFzO7zcxKOzy"
-      },
-      "artists": [
-        {
-          "name": "Levixone",
-          "url": "https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW"
-        }
-      ],
-      "duration_ms": 195056,
-      "name": "Enjoy (Yo Blessings)",
-      "url": "https://open.spotify.com/track/4y9lTRxtVT0OZgzpGRbRqT"
-    },
-    {
       "added_at": "2023-04-06 20:59:00",
       "album": {
         "name": "KELELE ZA USHINDI",
@@ -647,6 +631,22 @@
       "duration_ms": 221936,
       "name": "KELELE ZA USHINDI",
       "url": "https://open.spotify.com/track/7w80EEF4HgcsRHNT9fdMNQ"
+    },
+    {
+      "added_at": "2023-04-21 00:01:00",
+      "album": {
+        "name": "Enjoy (Yo Blessings)",
+        "url": "https://open.spotify.com/album/24SeTWvJHoEFzO7zcxKOzy"
+      },
+      "artists": [
+        {
+          "name": "Levixone",
+          "url": "https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW"
+        }
+      ],
+      "duration_ms": 195056,
+      "name": "Enjoy (Yo Blessings)",
+      "url": "https://open.spotify.com/track/4y9lTRxtVT0OZgzpGRbRqT"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Yesu Mtaani",
-        "url": "https://open.spotify.com/album/5grus83AKDhpY4rKcBV3VS"
-      },
-      "artists": [
-        {
-          "name": "Moji Shortbabaa",
-          "url": "https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn"
-        }
-      ],
-      "duration_ms": 194064,
-      "name": "Vimbada",
-      "url": "https://open.spotify.com/track/6PAZJPDC9Qrcz30gpiCMMx"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
         "name": "Pale Pale",
         "url": "https://open.spotify.com/album/1UCwuyBGve3MilWhoBhIhl"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 210809,
       "name": "Pale Pale",
       "url": "https://open.spotify.com/track/20CfRlYyl69ZcixsWjIXR9"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Yesu Mtaani",
+        "url": "https://open.spotify.com/album/5grus83AKDhpY4rKcBV3VS"
+      },
+      "artists": [
+        {
+          "name": "Moji Shortbabaa",
+          "url": "https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn"
+        }
+      ],
+      "duration_ms": 194064,
+      "name": "Vimbada",
+      "url": "https://open.spotify.com/track/6PAZJPDC9Qrcz30gpiCMMx"
     },
     {
       "added_at": "2023-04-14 00:30:00",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Wahu Gospel EP",
-        "url": "https://open.spotify.com/album/4IAGY70XLlwIs5X4ALHtZ1"
+        "name": "Yesu Mtaani",
+        "url": "https://open.spotify.com/album/5grus83AKDhpY4rKcBV3VS"
       },
       "artists": [
         {
-          "name": "Wahu",
-          "url": "https://open.spotify.com/artist/71rskhiIZ7C255cRyXfZOq"
+          "name": "Moji Shortbabaa",
+          "url": "https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn"
         }
       ],
-      "duration_ms": 237113,
-      "name": "My Everything",
-      "url": "https://open.spotify.com/track/701bS0JRIz8otP7cNysD63"
+      "duration_ms": 221754,
+      "name": "Wacha Story",
+      "url": "https://open.spotify.com/track/6tZ9ux4XLVmeHbW8yPrMtH"
     }
   ],
   "unique_name": "Sunday Service",

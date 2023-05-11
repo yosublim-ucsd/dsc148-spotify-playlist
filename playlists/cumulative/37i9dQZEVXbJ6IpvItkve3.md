@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-694 songs - 1 day 15 hr 9 min
+695 songs - 1 day 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [t h e \. c l i m b \. b a c k](https://open.spotify.com/track/5lLNBIyjp72btcnrjBG751) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 5:06 | 2021-05-16 | 2021-05-17 |
 | [Take My Breath](https://open.spotify.com/track/6M3PsepEj5gyJoIi7Xvr7u) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz) | 3:40 | 2021-08-18 | 2021-10-30 |
 | [Take My Breath](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2021-08-08 | 2021-08-18 |
+| [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 | 2023-05-10 |  |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-03-27\* | 2021-05-06 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-19 | 2022-05-06 |
 | [The Business](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business](https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm) | 2:44 | 2021-03-27\* | 2021-10-10 |
@@ -514,7 +515,7 @@
 | [לבד על המיטה](https://open.spotify.com/track/05KQMm1vL6MnJkgobUtwft) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לבד על המיטה](https://open.spotify.com/album/18m2Yfw0d6ceN5UUmY273m) | 2:35 | 2022-02-10 | 2023-03-22 |
 | [לבחור נכון & פוליטיקה וסקס](https://open.spotify.com/track/2EpdcPssADDCCMeOQ9GVtv) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [Amir Dadon](https://open.spotify.com/artist/398u4UqbG8yzv4H08Mc1Eq) | [לבחור נכון & פוליטיקה וסקס](https://open.spotify.com/album/3vZff9NFFWmvMO7jqVUg6h) | 5:44 | 2022-10-01 | 2022-12-31 |
 | [להיות שלך](https://open.spotify.com/track/4BBEoERaClW0ROQY9evmE9) | [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt), [Maya Dadon](https://open.spotify.com/artist/2CFhpsYDfBaq8q9enYLdBG) | [להיות שלך](https://open.spotify.com/album/7seV7Ag0PPEeNfLiMVa9hJ) | 3:18 | 2022-09-21 | 2022-10-02 |
-| [להיט של שיר אחד](https://open.spotify.com/track/52Do4VrXDPuXZ1KH2TZcqw) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE) | [לירז](https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G) | 2:30 | 2023-02-23 |  |
+| [להיט של שיר אחד](https://open.spotify.com/track/52Do4VrXDPuXZ1KH2TZcqw) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE) | [לירז](https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G) | 2:30 | 2023-02-23 | 2023-05-11 |
 | [לוקח ת'זמן](https://open.spotify.com/track/3uu3QjQnjWTAw1m9fFM5ca) | [Itzhak Klepter](https://open.spotify.com/artist/5RgilsTbpogtECkhDgcOZh), [Tuned Tone](https://open.spotify.com/artist/63IbjwUfWUh3rpOzO6ItHD) | [יצחק, לבד, מחזיק מעמד \- אוסף](https://open.spotify.com/album/37xgSs35rC7QczEFl8O9c7) | 3:42 | 2022-12-10 | 2022-12-12 |
 | [ליבינג דה דרים](https://open.spotify.com/track/3lc6b4cCbPLWNQ95GYxPkN) | [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG) | [סטטוס](https://open.spotify.com/album/25NrLi2xwYYO8WniTmdKL6) | 2:55 | 2022-07-20 | 2022-09-30 |
 | [ליבינג דה דרים](https://open.spotify.com/track/6so2IwKQyYFkNv1G0FrZ95) | [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG) | [ליבינג דה דרים](https://open.spotify.com/album/7gGR6IBvZYsqqSs3D1Eo6K) | 2:55 | 2022-03-06 | 2022-07-21 |
@@ -540,11 +541,11 @@
 | [מגבת באוויר](https://open.spotify.com/track/7qCwgzeZQbNp6VHt9wz8i7) | [NOROZ](https://open.spotify.com/artist/0rj0bYZWazgyJ3hZTDKQHD), [Ido B & Zooki](https://open.spotify.com/artist/5tTTzKBRrO8fTWrBjD1rd2) | [מגבת באוויר](https://open.spotify.com/album/5vuSfhLOx4QU4kPMeLBK2U) | 2:51 | 2021-10-17 | 2021-12-15 |
 | [מדברים בשקט \(מתוך חזרות למופע NEXT\)](https://open.spotify.com/track/6tldCcfbfXkLApFllqab7S) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [Idan Raichel](https://open.spotify.com/artist/5EBnQEKoaiAk37Q7cfGrE1) | [מדברים בשקט \(מתוך חזרות למופע NEXT\)](https://open.spotify.com/album/7M011HPciFztEdlXkJNzZ3) | 4:20 | 2022-12-10 | 2023-02-23 |
 | [מדליקה לי הכל](https://open.spotify.com/track/0FQ7tcdBk5d9s7juYV2QQj) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [מדליקה לי הכל](https://open.spotify.com/album/0Q13028sIQEmreai21rM4N) | 3:24 | 2021-10-30 | 2021-12-07 |
-| [מדליקה לי הכל](https://open.spotify.com/track/7rNA5Jwu23g7PaXcMwfLdq) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [אלבום 2](https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE) | 3:24 | 2021-12-07 |  |
+| [מדליקה לי הכל](https://open.spotify.com/track/7rNA5Jwu23g7PaXcMwfLdq) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [אלבום 2](https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE) | 3:24 | 2021-12-07 | 2023-05-11 |
 | [מה אברך](https://open.spotify.com/track/4JOXC3BL0NAZOCVL4zOEUv) | [Lehakat Heyl Hayam](https://open.spotify.com/artist/110wHDAsaXDaKKdUztwGlE) | [וביום השלישי](https://open.spotify.com/album/0Wes9s8uPfGDGJhT1DGJyC) | 4:01 | 2022-05-05 | 2023-04-28 |
 | [מה אברך](https://open.spotify.com/track/4NAts5vLoJITCYBheIUp8g) | [Lehakat Heyl Hayam](https://open.spotify.com/artist/110wHDAsaXDaKKdUztwGlE) | [וביום השלישי](https://open.spotify.com/album/0iM8ysKXxOALiYIYEY2YQY) | 4:04 | 2021-04-16 | 2021-04-17 |
 | [מה אתה רוצה](https://open.spotify.com/track/1inqeo4qN7t9nSPiwZtR82) | [Ella Lee](https://open.spotify.com/artist/0wVxjQGYkyNh5qQsVCZWlo) | [מה אתה רוצה](https://open.spotify.com/album/1tpJxzwq6ElBS8cKXe61nW) | 2:26 | 2021-03-27\* | 2021-07-09 |
-| [מה עובר לך בראש](https://open.spotify.com/track/6d8ZHsSyTg6ABLkWNCZdSy) | [Avi Aburomi](https://open.spotify.com/artist/6vAJpFtiQ7xPtkArtCnHfr) | [מה עובר לך בראש](https://open.spotify.com/album/4ggLAyFiTb8YnEuFQ85oq3) | 2:33 | 2022-08-24 | 2023-05-10 |
+| [מה עובר לך בראש](https://open.spotify.com/track/6d8ZHsSyTg6ABLkWNCZdSy) | [Avi Aburomi](https://open.spotify.com/artist/6vAJpFtiQ7xPtkArtCnHfr) | [מה עובר לך בראש](https://open.spotify.com/album/4ggLAyFiTb8YnEuFQ85oq3) | 2:33 | 2022-08-24 |  |
 | [מה פספסתי](https://open.spotify.com/track/2SxcL0eba2ILQpJPuBBHsG) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [מה פספסתי](https://open.spotify.com/album/42gtw83raWKkGy94UDpLLe) | 2:19 | 2021-12-16 | 2022-12-25 |
 | [מה קרה](https://open.spotify.com/track/5j36y0eeE3I7kCBYIsKqBF) | [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [מה קרה](https://open.spotify.com/album/7gbA698J3JWJsomCqxR1o9) | 2:23 | 2022-01-03 | 2022-03-27 |
 | [מה שנפל מהידיים](https://open.spotify.com/track/3Q1bZ5hE0mOKSyTN96deya) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [The 8](https://open.spotify.com/album/5dMa0I7cyLtXLn47oxGpph) | 3:01 | 2021-03-27\* | 2021-06-27 |

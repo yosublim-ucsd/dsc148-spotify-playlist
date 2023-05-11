@@ -1220,7 +1220,7 @@
     {
       "album": {
         "name": "Sprout",
-        "url": "https://open.spotify.com/album/2uBnEoUAtT1RaX2sdcKYzF"
+        "url": "https://open.spotify.com/album/2YE5QUcxuvpu3cNISQvCxt"
       },
       "artists": [
         {
@@ -1239,6 +1239,32 @@
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 59071,
+      "name": "Sprout",
+      "url": "https://open.spotify.com/track/2YpnY3013jldehP8lvJwSy"
+    },
+    {
+      "album": {
+        "name": "Sprout",
+        "url": "https://open.spotify.com/album/2uBnEoUAtT1RaX2sdcKYzF"
+      },
+      "artists": [
+        {
+          "name": "Arrow",
+          "url": "https://open.spotify.com/artist/2tatJcRF6iotLuc51uqaQq"
+        },
+        {
+          "name": "Yvette Young",
+          "url": "https://open.spotify.com/artist/502QOcjJiKbhtG2MyrFkc8"
+        },
+        {
+          "name": "Nito",
+          "url": "https://open.spotify.com/artist/2KYi5lKh0UYAjBrqhuJQ3Z"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-11",
       "duration_ms": 59071,
       "name": "Sprout",
       "url": "https://open.spotify.com/track/6RFG5HsLNp0V5AVArBl8Fz"

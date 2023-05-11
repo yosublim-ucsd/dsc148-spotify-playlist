@@ -4,7 +4,7 @@
 
 > This is the best of ska, new and classic\. Cover: The Interrupters
 
-239 songs - 12 hr 37 min
+240 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [I Think I've Had an Apostrophe](https://open.spotify.com/track/4xEzJmAo1s5VqW1iLW1kxf) | [Just Say Nay](https://open.spotify.com/artist/6U2ZNofzSN6bxYIEVF4laI) | [I Think I've Had an Apostrophe](https://open.spotify.com/album/6d95Wva8kL6xWfeV8MviVT) | 3:31 | 2021-09-02 | 2022-07-28 |
 | [If I Could Only Listen to My Heart](https://open.spotify.com/track/0bIcOHJmmumvvdsHmnFEy1) | [Bruce Lee Band](https://open.spotify.com/artist/6BhJtndfqL4E0eO0ZGKrhY) | [Rental!! Eviction!!](https://open.spotify.com/album/7jbc6VssvRQLTYCAYMAT9W) | 2:04 | 2021-09-02 | 2022-12-10 |
 | [In The Mirror](https://open.spotify.com/track/11ytsbCqnMlj2bV0hVKp5P) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Mirror](https://open.spotify.com/album/5s0vXZdva9QidlE4g5r2HC) | 3:04 | 2022-04-14 | 2022-08-14 |
-| [In The Mirror](https://open.spotify.com/track/5Pwenv6y4uSH8PwA6ikLLI) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild](https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg) | 3:04 | 2022-04-14 |  |
+| [In The Mirror](https://open.spotify.com/track/17EgS7BaS5b4TbSWTqynF5) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild \(Deluxe Edition\)](https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i) | 3:04 | 2022-12-09 |  |
+| [In The Mirror](https://open.spotify.com/track/5Pwenv6y4uSH8PwA6ikLLI) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild](https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg) | 3:04 | 2022-04-14 | 2023-05-11 |
 | [In Through the out Door](https://open.spotify.com/track/1iBqOig7UJw4KP0Sb9vDlE) | [Five Iron Frenzy](https://open.spotify.com/artist/1BcAEs4W94BrXMmVCOgwSx) | [Until This Shakes Apart](https://open.spotify.com/album/1NBcD5YIWTEo4Lp4t7xK5V) | 3:10 | 2021-09-02 | 2022-07-16 |
 | [J45](https://open.spotify.com/track/3S4ZQxz302QqbYYobuCdBM) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [Millington](https://open.spotify.com/album/5gz45mwB0QjezGF7nOpesx) | 3:34 | 2022-04-14 | 2022-04-21 |
 | [Johnny Quest Thinks We're Sellouts](https://open.spotify.com/track/3Sl62Dyoh3wI3gLIJSypnb) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Losing Streak](https://open.spotify.com/album/5cpnq6VX4FCWQJpm2tA8np) | 2:49 | 2022-12-09 |  |

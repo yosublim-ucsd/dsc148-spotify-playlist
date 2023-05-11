@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > The newest Hardstyle tracks \| 2023 Hardstyle\. Cover: Warface
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,688 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,820 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [Made of Stars](https://open.spotify.com/track/3kbLfKqT2ul31MOy1scPfX) | [Refuzion](https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1) | [Made of Stars](https://open.spotify.com/album/2GgqhUQScW7gr4DkDj8bBU) | 3:12 |
 | 100 | [Reality](https://open.spotify.com/track/6WkMCi8yZNfz8NT8h7Z7GR) | [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai), [Slenderino](https://open.spotify.com/artist/1rX0UQ4xdtxlSP2MlP7wQb), [Dimmalou](https://open.spotify.com/artist/0IOiHLj2Tkym3BoVk1p5AT) | [Reality](https://open.spotify.com/album/5c1miQshKBEz9MGtviYMHU) | 3:02 |
 
-Snapshot ID: `MCxkNzQ5ZWVjODBjODQ5NmQ0N2JmYjJiOGNlMTBhZDNhOGFmZGNkOWE5`
+Snapshot ID: `MCxmMjAwOWQyNDlmZTI0NTY3ZTJiYTA1M2E3MTdmZDk0NTkxMjQ5ZWZk`

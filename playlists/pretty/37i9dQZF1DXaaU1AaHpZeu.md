@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: La La Love You
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,008 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,017 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Lejos](https://open.spotify.com/track/4vt9GDEsZrfjyeYEPOjH93) | [Rollo California](https://open.spotify.com/artist/23WprTctrNSgdvOPEGFfGp), [Maltripeada](https://open.spotify.com/artist/1FMBQMgnFL2NDSPVEj86CL) | [Lejos](https://open.spotify.com/album/7t3TQpaZWkFcqNEw5B6zTx) | 2:55 |
 | 50 | [Mar](https://open.spotify.com/track/1t9igJ7iN9okLY68N4zYVT) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm) | [Mar](https://open.spotify.com/album/4WEcUqELK2VnadTp2ptzNY) | 3:18 |
 
-Snapshot ID: `MCw2OTg5NDRmN2JiNzJkNjdjOTJkNDk0Y2EyNDA5M2ZmNjMxMGQxNDhk`
+Snapshot ID: `MCw4MmY4NjM2YWRhNjJjMzliODEzY2FhNjc1MzQzNTRhYTljODc4YTVi`

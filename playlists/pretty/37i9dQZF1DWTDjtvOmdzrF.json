@@ -1,12 +1,12 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 551562,
+  "num_followers": 551653,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDU2OWZjMmEyZTNjYTQwNzQxY2MzYTg1MzgyNTFmZDBkMGIxYTAx",
+  "snapshot_id": "MCxjNDBjZTI1OGZmYmQwNjg0OTE5YzhmODE0ODM1ODQyY2E3NGQzNTM1",
   "tracks": [
     {
       "added_at": "2023-05-03 07:39:11",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2023-05-03 07:39:11",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
+        "name": "Senandung Hati dan Jiwa",
+        "url": "https://open.spotify.com/album/6JZRJTpUNTsaTqk5auZj52"
       },
       "artists": [
         {
-          "name": "Naif",
-          "url": "https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt"
+          "name": "NaFF",
+          "url": "https://open.spotify.com/artist/1ryXwlpQNzkSCfU685Ftx5"
         }
       ],
-      "duration_ms": 186933,
-      "name": "Jikalau",
-      "url": "https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp"
+      "duration_ms": 240600,
+      "name": "Kenanglah Aku",
+      "url": "https://open.spotify.com/track/0zJIPpVcHKWqmf2FaKXbQQ"
     },
     {
       "added_at": "2023-05-03 07:39:11",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-05-03 07:39:11",
       "album": {
-        "name": "Senandung Hati dan Jiwa",
-        "url": "https://open.spotify.com/album/6JZRJTpUNTsaTqk5auZj52"
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
       },
       "artists": [
         {
-          "name": "NaFF",
-          "url": "https://open.spotify.com/artist/1ryXwlpQNzkSCfU685Ftx5"
+          "name": "Naif",
+          "url": "https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt"
         }
       ],
-      "duration_ms": 240600,
-      "name": "Kenanglah Aku",
-      "url": "https://open.spotify.com/track/0zJIPpVcHKWqmf2FaKXbQQ"
+      "duration_ms": 186933,
+      "name": "Jikalau",
+      "url": "https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp"
     },
     {
       "added_at": "2023-05-03 07:39:11",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-05-03 07:39:11",
       "album": {
-        "name": "Gajah",
-        "url": "https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6"
-      },
-      "artists": [
-        {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
-        }
-      ],
-      "duration_ms": 239466,
-      "name": "Gajah",
-      "url": "https://open.spotify.com/track/7vZTvo2aJ6wHKCGjwjdWIf"
-    },
-    {
-      "added_at": "2023-05-03 07:39:11",
-      "album": {
         "name": "Dunia Batas",
         "url": "https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 267000,
       "name": "Berdua Saja",
       "url": "https://open.spotify.com/track/7tZ69fC235bauF9Dyxk8Ps"
+    },
+    {
+      "added_at": "2023-05-03 07:39:11",
+      "album": {
+        "name": "Gajah",
+        "url": "https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "duration_ms": 239466,
+      "name": "Gajah",
+      "url": "https://open.spotify.com/track/7vZTvo2aJ6wHKCGjwjdWIf"
     },
     {
       "added_at": "2023-05-03 07:39:11",

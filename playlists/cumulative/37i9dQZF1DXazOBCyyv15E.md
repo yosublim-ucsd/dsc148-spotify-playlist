@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Westerman
 
-1,478 songs - 3 day 15 hr 40 min
+1,480 songs - 3 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1010,7 +1010,8 @@
 | [pop tarts](https://open.spotify.com/track/3P23kcmBXrFyGmbthN3DLK) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [who gives a f\*\*k?](https://open.spotify.com/album/6LAD5tDe1O0PGXWgOqoND9) | 3:07 | 2020-09-29\* | 2020-10-09 |
 | [Popular \(feat\. Matthew Caws of Nada Surf\)](https://open.spotify.com/track/5ppPV0hCtwt5TMTKF1xY57) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs), [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy), [Matthew Caws](https://open.spotify.com/artist/2euOhDrnToDMpxBiCPf72Z) | [Popular \(feat\. Matthew Caws of Nada Surf\)](https://open.spotify.com/album/7nvPKeZxfHFgbKTrRWqvCo) | 3:26 | 2021-12-17 | 2022-02-11 |
 | [Port](https://open.spotify.com/track/5TnhWeSJAkolB4y8eY3P2T) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Port](https://open.spotify.com/album/0v8LHvECm25kz8i2ii5n7w) | 4:42 | 2021-10-01 | 2022-01-08 |
-| [Portraits](https://open.spotify.com/track/1n2POqjfHTnCt3bxaa1vCX) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Portraits](https://open.spotify.com/album/28cCm9j1feLv2jdqCdLmby) | 3:42 | 2023-04-13 |  |
+| [Portraits](https://open.spotify.com/track/1n2POqjfHTnCt3bxaa1vCX) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Portraits](https://open.spotify.com/album/28cCm9j1feLv2jdqCdLmby) | 3:42 | 2023-04-13 | 2023-05-11 |
+| [Portraits](https://open.spotify.com/track/6PypMXsV8zmifuFPMnWE4W) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Failed at Math\(s\)](https://open.spotify.com/album/0xCCtljPkA65lyDP3CXFgr) | 3:42 | 2023-05-04 |  |
 | [Posing In Bondage](https://open.spotify.com/track/1hAELGsPupvsffkG4tj9gu) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Posing In Bondage](https://open.spotify.com/album/6wm7glP4VOZntyLRsh7CTd) | 4:04 | 2021-04-13 | 2021-06-04 |
 | [Postman](https://open.spotify.com/track/0xXuP97Ap5hThLMNjVVRZq) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Postman b/w Magazine](https://open.spotify.com/album/583AzFOPRiKWBTj6Dz0F1Z) | 2:40 | 2022-01-28 | 2022-03-11 |
 | [Pow](https://open.spotify.com/track/4Qib6TriJfZgAXRAMfjNjd) | [The Go! Team](https://open.spotify.com/artist/6veTV9sF06FBf2KN0xAdvo) | [Pow](https://open.spotify.com/album/1UFeBdVWzaw43CJG0Ydhkh) | 3:14 | 2021-05-14 | 2021-07-23 |
@@ -1380,7 +1381,8 @@
 | [Undergrowth](https://open.spotify.com/track/31zmH5Bcd0CDRxcdw2M23D) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Undergrowth](https://open.spotify.com/album/6stBQmw0qjPeRjLnvypEn7) | 6:35 | 2023-04-20 |  |
 | [Undone](https://open.spotify.com/track/0kQhCLBL6AvBSxlmZnN2AV) | [LILITA](https://open.spotify.com/artist/7yjPJtEHUsXGKXOnRuTvuy) | [Undone](https://open.spotify.com/album/59CRfPkGCViTGOubwLKD7B) | 3:19 | 2022-07-21 | 2022-09-09 |
 | [Untethered](https://open.spotify.com/track/316Co4rvVxEFZ40FY8BbK8) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Untethered](https://open.spotify.com/album/4Vt4MU6r8NarsGofjJ6Bhv) | 3:36 | 2022-05-26 | 2022-08-06 |
-| [Until I Know](https://open.spotify.com/track/0HUgIoUcUZ2HpFqOL1FEcZ) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Until I Know](https://open.spotify.com/album/7p2g9K0YMavsJjbypdUod1) | 3:23 | 2023-03-30 |  |
+| [Until I Know](https://open.spotify.com/track/0HUgIoUcUZ2HpFqOL1FEcZ) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Until I Know](https://open.spotify.com/album/7p2g9K0YMavsJjbypdUod1) | 3:23 | 2023-03-30 | 2023-05-11 |
+| [Until I Know](https://open.spotify.com/track/4KH9g027K949LR2xkjC4jk) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Failed at Math\(s\)](https://open.spotify.com/album/0xCCtljPkA65lyDP3CXFgr) | 3:23 | 2023-05-04 |  |
 | [until my heart stops beating](https://open.spotify.com/track/0sZ3dRMYJYNr2Y2mffvgb3) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [until my heart stops beating](https://open.spotify.com/album/3w2ZKhoHP7cg7ypyy7sSW6) | 3:24 | 2022-11-11 | 2022-12-09 |
 | [Until the End](https://open.spotify.com/track/1NxiyjhHTiqNmZJn7K8KqN) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Home for Now](https://open.spotify.com/album/4PPsdoNggFJevcT7n1W0Wf) | 4:17 | 2020-11-20 | 2021-02-19 |
 | [up all week \(with slowthai\)](https://open.spotify.com/track/1l73bwJECQdHrcep2LNwLG) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [demon time](https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm) | 2:02 | 2022-09-15 | 2022-11-18 |

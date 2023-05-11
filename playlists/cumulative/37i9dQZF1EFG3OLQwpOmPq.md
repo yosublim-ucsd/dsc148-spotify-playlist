@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/315bvK1m77RNynw5ycETfA">sad alex</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-103 songs - 4 hr 55 min
+104 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,8 +104,9 @@
 | [until](https://open.spotify.com/track/7BNrGVWTLp7eoUfHGc9pT7) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 2:35 | 2022-05-29 |  |
 | [wash your hands](https://open.spotify.com/track/2jpM1xm3XkQRsPyQdcTbYM) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [wash your hands](https://open.spotify.com/album/4Gw0Ny1PuwGrKYmmHT8ZIL) | 2:32 | 2022-07-27 |  |
 | [wash your hands](https://open.spotify.com/track/4adT64TTEDpAelfTGZOEW2) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [wash your hands](https://open.spotify.com/album/2UZUH95n1E3m88UvB9zATy) | 2:32 | 2022-05-29 | 2022-07-28 |
-| [We Never Know Anymore](https://open.spotify.com/track/1dEJ16zJ0ljxRWbQIMdGCs) | [Hamster](https://open.spotify.com/artist/0XfWtCWAgbbYP899ssoZSo), [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [White Lie](https://open.spotify.com/album/0zGXhyq7D7vdrnC9qOIbe0) | 3:24 | 2022-10-18 |  |
+| [We Never Know Anymore](https://open.spotify.com/track/1dEJ16zJ0ljxRWbQIMdGCs) | [Hamster](https://open.spotify.com/artist/0XfWtCWAgbbYP899ssoZSo), [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [White Lie](https://open.spotify.com/album/0zGXhyq7D7vdrnC9qOIbe0) | 3:24 | 2022-10-18 | 2023-05-11 |
 | [We Never Know Anymore](https://open.spotify.com/track/1pGvJsyMFGB5jZmUblTe8x) | [Hamster](https://open.spotify.com/artist/0XfWtCWAgbbYP899ssoZSo), [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [White Lie](https://open.spotify.com/album/4jrmj4Eqot3PzjjRL8HNyc) | 3:24 | 2022-05-29 | 2022-10-19 |
+| [We Never Know Anymore](https://open.spotify.com/track/69k8DIplCut6DkdXwywYGN) | [Hamster](https://open.spotify.com/artist/0XfWtCWAgbbYP899ssoZSo), [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [White Lie](https://open.spotify.com/album/5K308e4DDvkBz2q0AZeujZ) | 3:24 | 2023-05-10 |  |
 | [Welcome To The Dark Side](https://open.spotify.com/track/6lCWOGO78tWFPiEgzFB2j6) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [Welcome To The Dark Side](https://open.spotify.com/album/09e9JBmn3fH1rXHp9GmGOf) | 2:23 | 2022-05-29 |  |
 | [What I Said](https://open.spotify.com/track/0EJtMx3EsBvwjRIADEQybR) | [Dola](https://open.spotify.com/artist/7zV7uaFYItDZduoF0E9XRK) | [What I Said](https://open.spotify.com/album/2fow3g80xPNbqTUs6QZhSM) | 2:42 | 2022-05-29 |  |
 | [Work](https://open.spotify.com/track/7LHf7zXbYdBOcTN7ZrEPUs) | [Crush Effect](https://open.spotify.com/artist/5zH3mqX70eMohRdwUWY2XJ) | [Work](https://open.spotify.com/album/5spSfPDkIm0WdVfqieJi3s) | 2:38 | 2022-05-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkxJwAfCZA3.md) - [plain]
 
 > <a href="spotify:artist:6TshTCYwh9ySzOO6Jy4Ux2"> Maya Jane Coles</a>' favorite tracks\. Updated regularly\. Curated by Maya Jane Coles Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,696 likes - 40 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,697 likes - 40 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkxJwAfCZA3.md) - [plain]
 | 28 | [Trying to Float](https://open.spotify.com/track/3AyAOA5O6PUwNYC3Oy4UdC) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Just Say You Don't Care](https://open.spotify.com/album/4nPKWikt1QDHHTfYhno0ze) | 2:15 |
 | 29 | [Scholar](https://open.spotify.com/track/2nAyVh5BDPFNjhazVsMhkk) | [GRXGVR](https://open.spotify.com/artist/0Uxe5OQyuew2Mhb6hF76Bk), [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [4Ever Young](https://open.spotify.com/album/7c7uudah8O78Y8TMqqTfuS) | 3:07 |
 | 30 | [Smoke a Sac](https://open.spotify.com/track/5qHIogPyes1NWItH9VnquU) | [Mac D.L.E.](https://open.spotify.com/artist/1Iele0nwsNHwCMHRdQZtKa) | [The Saga Continues](https://open.spotify.com/album/1u2YDreUOhfWiRW3lXlXcH) | 3:43 |
-| 31 | [Cake a Blow](https://open.spotify.com/track/266O0ONX1Fl6Hx1DpND3sb) | [Nikes](https://open.spotify.com/artist/6QHax4rcnBPAAfj1n26YNQ), [MoonDoctoR](https://open.spotify.com/artist/5bVR7EKHmtLsjjE7MtCIm7), [FreshtillDef](https://open.spotify.com/artist/503Cv0ES3BtLIqnp95So1N) | [Cake a Blow](https://open.spotify.com/album/1zkQgRC0p1zhenbI2vt6UL) | 3:36 |
+| 31 | [Cake a Blow](https://open.spotify.com/track/5I3ArKM5WGXBEBQRIUayXx) | [Nikes](https://open.spotify.com/artist/6QHax4rcnBPAAfj1n26YNQ), [MoonDoctoR](https://open.spotify.com/artist/5bVR7EKHmtLsjjE7MtCIm7), [FreshtillDef](https://open.spotify.com/artist/503Cv0ES3BtLIqnp95So1N) | [Cake a Blow](https://open.spotify.com/album/1rNggyTs6elu8OIcwOE1hn) | 3:36 |
 | 32 | [Decline Him](https://open.spotify.com/track/3Wa96y3cQWjIX9gN2dTb5t) | [Quay Dash](https://open.spotify.com/artist/6k6lSmhyFpe2oYcredvZHM) | [Transphobic](https://open.spotify.com/album/2vkSCPeqGqr2iCDZEbtieZ) | 3:33 |
 | 33 | [Badman](https://open.spotify.com/track/5NkbtBoUOsID3oD8EfqUZR) | [Instinct \(UK\)](https://open.spotify.com/artist/2sl9ekjwH9yLHO9JLA7BVH) | [Still Life](https://open.spotify.com/album/1VJqseeHvHzPZInUpzxYoY) | 5:31 |
 | 34 | [Ancestors](https://open.spotify.com/track/1eYsvMckAi04KcmRBvbtV2) | [Gonjasufi](https://open.spotify.com/artist/6pdYN3jOHWteVALy9sKGEf) | [A Sufi And A Killer \(Bonus Track Version\)](https://open.spotify.com/album/01L5H2Xyj7K43SeJSY2s4y) | 2:37 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkxJwAfCZA3.md) - [plain]
 | 39 | [Can’t Stand It](https://open.spotify.com/track/0YgkRyRI9TN0rKqwuWsrHK) | [Art Feynman](https://open.spotify.com/artist/6XlzzwOhKSberPLmwDEmkc) | [Blast Off Through the Wicker](https://open.spotify.com/album/5nkVWnfrsHKXJSfqP9IGjI) | 5:41 |
 | 40 | [Three King Fishers](https://open.spotify.com/track/6w3bIc0BxTPGNHqyH4KNiY) | [Gábor Szabó](https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG), [Jim Stewart](https://open.spotify.com/artist/1Gy2CxCb9Bvp6Wp0xQmSbq), [Hal Gordon](https://open.spotify.com/artist/08MG1w8piIBNcK7H4TTazQ), [Jimmy Keltner](https://open.spotify.com/artist/50appzhosvzQcqmeipXLtP), [Louis Kabok](https://open.spotify.com/artist/7ynQZmXaxvWuYmrHkVxs9u) | [Bacchanal](https://open.spotify.com/album/21c7ulNJzCSDIelgGBA1QF) | 4:48 |
 
-Snapshot ID: `MCxjNDg1NTlkNjQ3MDVmNDBjNWU2NGRjYzZhMzZjZjIyM2NlMmJlYTA1`
+Snapshot ID: `MCxkZTI4ZWU2MGUzOWNlNDkwMDgwYjMxYmNiZjNlODUxMDA3ZjNmODFh`

@@ -1,12 +1,12 @@
 {
   "description": "tu\u00ea se vingou",
-  "num_followers": 1129902,
+  "num_followers": 1131006,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjAxNTY5YjE3NjhlOWI0NjczMjc5ODllOTBkZTM5NjA5YjQ2ZGUw",
+  "snapshot_id": "MCw2YzZjZDg1ZWY3MDMxNTg2YzVhYzgxODM1NzRmMTY1MmQzMGU2NmJj",
   "tracks": [
     {
       "added_at": "2023-05-09 14:14:46",
@@ -779,26 +779,6 @@
     {
       "added_at": "2023-05-09 14:14:46",
       "album": {
-        "name": "Deus Perdoa",
-        "url": "https://open.spotify.com/album/0qruvxQou6I8A0fmUiMsFv"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Deus Perdoa",
-      "url": "https://open.spotify.com/track/4tuFNhM69UakXdPg4RrNvp"
-    },
-    {
-      "added_at": "2023-05-09 14:14:46",
-      "album": {
         "name": "Clickbait",
         "url": "https://open.spotify.com/album/4ICMUPXh8IwNeBvQoUpWSZ"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 161344,
       "name": "Clickbait",
       "url": "https://open.spotify.com/track/5qOZbLAjBqInXwAECb9NRS"
+    },
+    {
+      "added_at": "2023-05-09 14:14:46",
+      "album": {
+        "name": "Deus Perdoa",
+        "url": "https://open.spotify.com/album/0qruvxQou6I8A0fmUiMsFv"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Deus Perdoa",
+      "url": "https://open.spotify.com/track/4tuFNhM69UakXdPg4RrNvp"
     },
     {
       "added_at": "2023-05-09 14:14:46",

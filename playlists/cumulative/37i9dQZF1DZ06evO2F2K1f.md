@@ -4,7 +4,7 @@
 
 > This is Alan Hawkshaw\. The essential tracks, all in one playlist.
 
-109 songs - 4 hr 55 min
+110 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Getting It Together](https://open.spotify.com/track/0pzDuoJHPdyanUR95VEm1z) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Kpm 1000 Series: Synthesis](https://open.spotify.com/album/6H9lWC3gxOefkRfDrxmlaB) | 4:12 | 2022-05-29 | 2023-05-06 |
 | [Gingerbread](https://open.spotify.com/track/4lIVwUYL7ZmTjXs8hUWiab) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Friendly Faces](https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW) | 2:17 | 2022-05-29 |  |
 | [Girl in a Sportscar](https://open.spotify.com/track/3YT4KUgun2us1WLg3f0T9z) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Friendly Faces](https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW) | 2:42 | 2022-05-29 |  |
-| [Grange Hill](https://open.spotify.com/track/2FKrc7YAbpLeWD2G08IRvC) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The Seventies](https://open.spotify.com/album/6e9IDKC8TqlxvTFGJwFgHm) | 1:23 | 2022-05-29 |  |
+| [Grange Hill](https://open.spotify.com/track/2FKrc7YAbpLeWD2G08IRvC) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The Seventies](https://open.spotify.com/album/6e9IDKC8TqlxvTFGJwFgHm) | 1:23 | 2022-05-29 | 2023-05-11 |
 | [Grit Band Reggae](https://open.spotify.com/track/5nrylaTPkYn3B5b5dtHuGz) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The All American Powerhouse](https://open.spotify.com/album/5opSzualaqCe9iqHQxo6I8) | 3:48 | 2022-11-26 | 2023-04-30 |
 | [Hastle](https://open.spotify.com/track/5mEMZUryDazoP7uY6ZXgWC) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Friendly Faces](https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW) | 2:12 | 2022-06-02 | 2022-09-11 |
 | [High Diver](https://open.spotify.com/track/5YHOWugv9OFLaog6Cst2CS) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [New Blood](https://open.spotify.com/album/2BmJtmwBwF6VMFqYq0A7vn) | 3:42 | 2022-06-01 | 2022-10-09 |
@@ -79,6 +79,7 @@
 | [One Step Ahead](https://open.spotify.com/track/3fjunzo6VwfnWb2o0bbV31) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Music for a Young Generation](https://open.spotify.com/album/7DSXOfsLNItRe1nYDmAGpL) | 2:59 | 2022-05-29 | 2022-10-13 |
 | [Organ Mania](https://open.spotify.com/track/7bDfu6lter3bYAiPuz2PCJ) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH) | [The Kpm 1000 Series \- Volume 1](https://open.spotify.com/album/1svikpX3DorNerwbCIGi6H) | 1:31 | 2022-05-29 | 2022-10-13 |
 | [Original Mania](https://open.spotify.com/track/6hfhkHbprP0sPgIRCsyfZh) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH), [Andrew Smith](https://open.spotify.com/artist/2Ev37g5r1LebOhUikXBsB2), [Keith Lawrence](https://open.spotify.com/artist/7d5SlLpPi78IOzO5J7poTq) | [Bootleg Beats](https://open.spotify.com/album/5VeLluSageWRYdDLnWKY22) | 3:00 | 2022-05-30 | 2022-10-06 |
+| [Pacemaker](https://open.spotify.com/track/1udm3gM3s5K3kvY0yJ30Uq) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Hi\-Band](https://open.spotify.com/album/7lOhaOiA5O35RXQ8KOhvxf) | 2:17 | 2023-05-10 |  |
 | [Piccadilly Night Ride](https://open.spotify.com/track/1zi8xWfni4JFoPbxp8dLKL) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH) | [Kpm 1000 Series: Soul Organ Showcase](https://open.spotify.com/album/0igqSRlReNwphFAqsflrOZ) | 1:53 | 2022-05-29 |  |
 | [Powerboat](https://open.spotify.com/track/2T7So0EKMcfsIVlNsSV4TS) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Blow Up presents Exclusive Blend Volume 2](https://open.spotify.com/album/2LscdictQbjN7PTZZ2EjTO) | 1:31 | 2022-06-01 | 2022-10-22 |
 | [Powerboat](https://open.spotify.com/track/4rrNpVsELkya1KoOWorhOd) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Speed and Excitement](https://open.spotify.com/album/5rQHMZRMkdwgPwiznrkFTP) | 1:32 | 2022-10-21 | 2023-04-23 |

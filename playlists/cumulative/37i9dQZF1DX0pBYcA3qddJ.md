@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-390 songs - 1 day 2 hr 7 min
+391 songs - 1 day 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Chocolate Hills](https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:10 | 2022-10-20 |  |
 | [Chopin: 24 Preludes, Op\. 28: No\. 4 in E Minor](https://open.spotify.com/track/6DuWsaou7UwyoQK2h6I9Fo) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Aimi Kobayashi](https://open.spotify.com/artist/41YFPXmww0HCdIBjJj0uPs) | [Chopin: Preludes & Piano Works](https://open.spotify.com/album/0eHk94eZ5fUlGSjwEkkjFp) | 2:25 | 2022-10-20 | 2022-11-16 |
 | [Chopin: 前奏曲 第15番 変ニ長調 作品28の15《雨だれ》](https://open.spotify.com/track/1yfbcB4ZzZtkCnAAzzpqTA) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Fujiko Hemming](https://open.spotify.com/artist/4dHQoSYxFs7VSpbMRC9S6t) | [ピアノ名曲集](https://open.spotify.com/album/45XasnhM03A5fXf12xumR3) | 5:26 | 2022-10-20 | 2022-12-02 |
+| [Cloud9](https://open.spotify.com/track/1guVDJWyU2q5BGIaos8jZ2) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH) | [Cloud9](https://open.spotify.com/album/5if4TAmZGtsuUpyIqRludq) | 2:06 | 2023-05-09 |  |
 | [Clouds Over Bourbon Street](https://open.spotify.com/track/6IoVv51HuCcifPmHY7VdCb) | [Dnoir](https://open.spotify.com/artist/68SVqaQHSh7L6xsSMd5L5S) | [Clouds Over Bourbon Street](https://open.spotify.com/album/2ATy8fff9LsMoZb6mEsxu9) | 3:18 | 2023-03-23 | 2023-04-19 |
 | [Cutting My Fingers Off](https://open.spotify.com/track/0Wl2RALqRacaIJhnlRHK8J) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52) | [Peripheral Vision](https://open.spotify.com/album/5On8s1irA6JETiDvt2VUy7) | 3:15 | 2022-12-15 | 2023-01-25 |
 | [Dear Dustin](https://open.spotify.com/track/1IlIZkRAdgFaYTLFAy62Y9) | [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Dear Dustin](https://open.spotify.com/album/4Pnogn6xi5qunLhEKFw0mU) | 2:40 | 2022-12-01 | 2023-02-01 |
@@ -124,7 +125,7 @@
 | [Haru yo, Koi](https://open.spotify.com/track/6Omwpwl7DMVCgvyzdZJoYX) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU), [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [KIYOZUKA](https://open.spotify.com/album/6YsvJRT1Bhs3mOZuy6PqDQ) | 1:16 | 2022-12-22 |  |
 | [harukaze](https://open.spotify.com/track/0XflCyWk28wErpgiBPnNTK) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [harukaze](https://open.spotify.com/album/3pur6jiK9PCVKajSXvlWjJ) | 2:33 | 2023-03-02 |  |
 | [Hawk](https://open.spotify.com/track/4tmN5DNeqyW1E2CL5nA5iI) | [Asami Tono](https://open.spotify.com/artist/5uyECggyaBp2soVsms3MNK) | [Birds 2](https://open.spotify.com/album/5YRGHMPBe6bHwFzcs5sqyA) | 4:39 | 2022-11-01 | 2022-12-02 |
-| [Haze Garden \(Prayer\)](https://open.spotify.com/track/4XigfPo7zRs3S3ntut37zd) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Haze Garden \(Prayer\)](https://open.spotify.com/album/7hu4RONzaQHEArMTBnBzgJ) | 3:18 | 2023-02-28 |  |
+| [Haze Garden \(Prayer\)](https://open.spotify.com/track/4XigfPo7zRs3S3ntut37zd) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Haze Garden \(Prayer\)](https://open.spotify.com/album/7hu4RONzaQHEArMTBnBzgJ) | 3:18 | 2023-02-28 | 2023-05-11 |
 | [Henry St.](https://open.spotify.com/track/0Yl3Jh6DYFcAbT9HlnIAmh) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Henry St.](https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9) | 4:29 | 2023-04-25 | 2023-05-05 |
 | [Henry St.](https://open.spotify.com/track/70Ov0iAmFVnXsYQcQTP6AI) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Henry St.](https://open.spotify.com/album/5Y4VdmDCTKCFR1LXXL6SiN) | 4:29 | 2023-03-09 | 2023-04-26 |
 | [Holy](https://open.spotify.com/track/6HqUbd3s956kPMGovpL9FI) | [Asami Tono](https://open.spotify.com/artist/5uyECggyaBp2soVsms3MNK) | [Holy](https://open.spotify.com/album/2e8EsnQduWjhDsdmQBBN15) | 2:52 | 2023-03-14 |  |

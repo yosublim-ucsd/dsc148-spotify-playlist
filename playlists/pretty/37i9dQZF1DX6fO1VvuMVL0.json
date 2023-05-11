@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 52644,
+  "num_followers": 52703,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzQ3MDQ4YTFmY2FlYTVjYTM3ODkwZjVkMmRjNzJmZDU2ZGU0N2Q2",
+  "snapshot_id": "MCw3YzJhMTNjNDgwNGU4ZTRlODM1Y2FhZTY3NzM0YWI3NmM0YWEyNmJi",
   "tracks": [
     {
       "added_at": "2023-05-09 14:25:42",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-05-09 14:25:42",
       "album": {
-        "name": "September In The Rain",
-        "url": "https://open.spotify.com/album/5b86ek4lKCKjQgEfCq3142"
-      },
-      "artists": [
-        {
-          "name": "George Shearing",
-          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
-        }
-      ],
-      "duration_ms": 166640,
-      "name": "I'll Remember April",
-      "url": "https://open.spotify.com/track/2BMorWMRsJPc1hEstsFKRU"
-    },
-    {
-      "added_at": "2023-05-09 14:25:42",
-      "album": {
         "name": "Lee Konitz with Warne Marsh",
         "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 324773,
       "name": "Topsy",
       "url": "https://open.spotify.com/track/6NjhIcleyiyUmkuLcNhVek"
+    },
+    {
+      "added_at": "2023-05-09 14:25:42",
+      "album": {
+        "name": "September In The Rain",
+        "url": "https://open.spotify.com/album/5b86ek4lKCKjQgEfCq3142"
+      },
+      "artists": [
+        {
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
+        }
+      ],
+      "duration_ms": 166640,
+      "name": "I'll Remember April",
+      "url": "https://open.spotify.com/track/2BMorWMRsJPc1hEstsFKRU"
     },
     {
       "added_at": "2023-05-09 14:25:42",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-05-09 14:25:42",
       "album": {
-        "name": "Jazz Guitar",
-        "url": "https://open.spotify.com/album/5RfC4bI1lfV7PFOyVxawiM"
-      },
-      "artists": [
-        {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
-        }
-      ],
-      "duration_ms": 319240,
-      "name": "Thanks For The Memory",
-      "url": "https://open.spotify.com/track/6eBEARA33jF1lPXoPGhSqG"
-    },
-    {
-      "added_at": "2023-05-09 14:25:42",
-      "album": {
         "name": "Chet Baker Ensemble (Expanded Edition / Remastered)",
         "url": "https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 191906,
       "name": "Ergo - Remastered 2004",
       "url": "https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf"
+    },
+    {
+      "added_at": "2023-05-09 14:25:42",
+      "album": {
+        "name": "Jazz Guitar",
+        "url": "https://open.spotify.com/album/5RfC4bI1lfV7PFOyVxawiM"
+      },
+      "artists": [
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+        }
+      ],
+      "duration_ms": 319240,
+      "name": "Thanks For The Memory",
+      "url": "https://open.spotify.com/track/6eBEARA33jF1lPXoPGhSqG"
     },
     {
       "added_at": "2023-05-09 14:25:42",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-05-09 14:25:42",
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/3o9MM2gxNHvLKBv21JkhnD"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Giuffre",
-          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
-        }
-      ],
-      "duration_ms": 253640,
-      "name": "Lazy Tones",
-      "url": "https://open.spotify.com/track/2ppbxxVVyS1XKmNo1NV5qH"
-    },
-    {
-      "added_at": "2023-05-09 14:25:42",
-      "album": {
         "name": "Subconscious-Lee",
         "url": "https://open.spotify.com/album/59CmIk9Nm4m6qjber66Twe"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 224826,
       "name": "Fishin' Around",
       "url": "https://open.spotify.com/track/1z67MjOaUDdtUGMWShXQJM"
+    },
+    {
+      "added_at": "2023-05-09 14:25:42",
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/3o9MM2gxNHvLKBv21JkhnD"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Giuffre",
+          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
+        }
+      ],
+      "duration_ms": 253640,
+      "name": "Lazy Tones",
+      "url": "https://open.spotify.com/track/2ppbxxVVyS1XKmNo1NV5qH"
     },
     {
       "added_at": "2023-05-09 14:25:42",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2023-05-09 14:25:42",
       "album": {
-        "name": "Milestones of Jazz Legends: Jazz Around the World, Vol. 5",
-        "url": "https://open.spotify.com/album/2GYjjABGsOHjqGw3zowAnb"
+        "name": "Very Cool",
+        "url": "https://open.spotify.com/album/4Znupug2SmOqzImnUJ9aS6"
       },
       "artists": [
         {
-          "name": "Kenny Clarke Sextet",
-          "url": "https://open.spotify.com/artist/1wgJFAFqF8OMhISuHOZ2pD"
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
         }
       ],
-      "duration_ms": 178440,
-      "name": "On a Riff",
-      "url": "https://open.spotify.com/track/0xlSNO9OEtu4vlZkPOzJM9"
+      "duration_ms": 485013,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/7EzUxzOUcq6HocnqSUr8JT"
     },
     {
       "added_at": "2023-05-09 14:25:42",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2023-05-09 14:25:42",
       "album": {
-        "name": "Very Cool",
-        "url": "https://open.spotify.com/album/4Znupug2SmOqzImnUJ9aS6"
+        "name": "Milestones of Jazz Legends: Jazz Around the World, Vol. 5",
+        "url": "https://open.spotify.com/album/2GYjjABGsOHjqGw3zowAnb"
       },
       "artists": [
         {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+          "name": "Kenny Clarke Sextet",
+          "url": "https://open.spotify.com/artist/1wgJFAFqF8OMhISuHOZ2pD"
         }
       ],
-      "duration_ms": 485013,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/7EzUxzOUcq6HocnqSUr8JT"
+      "duration_ms": 178440,
+      "name": "On a Riff",
+      "url": "https://open.spotify.com/track/0xlSNO9OEtu4vlZkPOzJM9"
     },
     {
       "added_at": "2023-05-09 14:25:42",

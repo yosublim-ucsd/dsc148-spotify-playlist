@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: Against The Current
 
-276 songs - 13 hr 32 min
+277 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Bois Lie \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Love Sux](https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb) | 2:43 | 2022-07-18 | 2022-10-14 |
 | [Bored](https://open.spotify.com/track/1Zo5VosNNnN4kJffIVGFVY) | [Exit](https://open.spotify.com/artist/3jOKYfOuCZf19meuwqMUmj) | [Bored in America](https://open.spotify.com/album/6blTwNgoS9yg8DjQaolUg8) | 3:07 | 2021-12-20 | 2022-04-05 |
 | [Bowser's Castle](https://open.spotify.com/track/7KGCp5rReukE5rsPhoF8wJ) | [Belmont](https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp) | [Bowser's Castle](https://open.spotify.com/album/6HU1A82WqOKoc4f7Z5zLjG) | 2:57 | 2021-12-20 | 2023-04-01 |
-| [BRAINWASHED](https://open.spotify.com/track/4ImWu6A4KgQbTfNkkvaZQ3) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [BRAINWASHED](https://open.spotify.com/album/0LfDJpBcEmuU7DVbz1cI61) | 2:44 | 2023-03-10 |  |
+| [BRAINWASHED](https://open.spotify.com/track/4ImWu6A4KgQbTfNkkvaZQ3) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [BRAINWASHED](https://open.spotify.com/album/0LfDJpBcEmuU7DVbz1cI61) | 2:44 | 2023-03-10 | 2023-05-11 |
+| [BRAINWASHED](https://open.spotify.com/track/5rt1XJbhuC5NRqmdKMDscI) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:44 | 2023-03-31 |  |
 | [Breakup On The Weekend](https://open.spotify.com/track/6YmN4J2HoGJSLtrsicU7ow) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Red In Revenge \- EP](https://open.spotify.com/album/0K2XD1DvekT47y3o6MtCr3) | 2:35 | 2022-05-20 | 2022-08-26 |
 | [Brighter Days \(Are Before Us\)](https://open.spotify.com/track/6X6CxZ2XbfayOg2ldlBEJV) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Brighter Days \(Are Before Us\)](https://open.spotify.com/album/0RBkf8XXUW5Mihn42NiOUW) | 3:03 | 2021-12-20 | 2022-09-10 |
 | [cages](https://open.spotify.com/track/6zmpq82Tlev82M7BIl5V8b) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [SUCKERPUNCH](https://open.spotify.com/album/0EIqEFEc82T70pVTKh7w1k) | 2:31 | 2022-09-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: THAIMAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,328 likes - 142 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,332 likes - 142 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 69 | [Dream On](https://open.spotify.com/track/0rKi0fBy4sAM29TBKTAhr5) | [J Ho](https://open.spotify.com/artist/3hLoyLpu0vKQwSQ63c3xcy) | [Sky is the Limit](https://open.spotify.com/album/4uxs4OV71XqfDFct1eUfug) | 3:07 |
 | 70 | [Sponsor Me](https://open.spotify.com/track/4QXSWFFlH52EIpRhpiVqg7) | [hisbbuR](https://open.spotify.com/artist/6Bdob4UTEhELiXLw4tyGMa) | [Sponsor Me](https://open.spotify.com/album/6D3F6O4RM836vWlgl81zlb) | 3:40 |
 | 71 | [gömböc](https://open.spotify.com/track/3BzCye7qSkPzUvjITcgR6Y) | [hirsk](https://open.spotify.com/artist/1WxYe59SGsEY1e6fLII0hB), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [gömböc](https://open.spotify.com/album/3ynKmPgPzFzTT8krlAXBen) | 2:29 |
-| 72 | [RED](https://open.spotify.com/track/19K0OIFCngMctZewUmkl9U) | [Virgin Vacation](https://open.spotify.com/artist/5gUVCL8RB17Ehn5Q43c2AJ) | [RED](https://open.spotify.com/album/6JUJOejhs4UqdJ24idnPg2) | 3:58 |
+| 72 | [RED](https://open.spotify.com/track/3QW6IbzpXx56cpIkklKsPx) | [Virgin Vacation](https://open.spotify.com/artist/5gUVCL8RB17Ehn5Q43c2AJ) | [RED](https://open.spotify.com/album/5tWORmdy84nJq0DtDxBYLN) | 3:58 |
 | 73 | [Kowloon Cowboy Theme](https://open.spotify.com/track/6HmJ7v6gGkiZ8RFyfBmxEx) | [Kowloon Cowboy](https://open.spotify.com/artist/4Nd2OyYtobUJmHxRhEblFy) | [Kowloon Cowboy Theme](https://open.spotify.com/album/4Op3cpQTauXzROMdyhQNqH) | 3:12 |
 | 74 | [we know it's not, babe](https://open.spotify.com/track/73EcV0W0GZG2o8FjiRdEZ3) | [melatonin boy](https://open.spotify.com/artist/66vheDPkCTxEfvcqxPZR19) | [we know it's not, babe](https://open.spotify.com/album/4I3AjlGjqinI8xpkuQCVDw) | 3:33 |
 | 75 | [smth2feel](https://open.spotify.com/track/0uDndj1OaoLDqfIujh5XeQ) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [smth2feel](https://open.spotify.com/album/1Yi2QFQsvFDlQMjTS1IoMh) | 2:28 |
 | 76 | [ONE WAY TICKET](https://open.spotify.com/track/3FNKClHn7kEIXkN5ow9KcJ) | [mansonvibes](https://open.spotify.com/artist/1a8TIH1iv3shLyozSMjaoX) | [ONE WAY TICKET](https://open.spotify.com/album/70GYbQtWYzGYQQDT9IIYhT) | 3:14 |
 | 77 | [water comes out of my eyes](https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [WATER COMES OUT OF MY EYES](https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk) | 3:22 |
 | 78 | [ME U](https://open.spotify.com/track/3BztdQlSChX0PUeFinnsYr) | [ProdiG](https://open.spotify.com/artist/08CriCUDwsWSTvFDWsfpk1) | [XANADU](https://open.spotify.com/album/05pgDUmktdenplVwZwkEn5) | 1:51 |
-| 79 | [Forest](https://open.spotify.com/track/1xuC2jthRz6vwc2RncwtAc) | [Virgin Vacation](https://open.spotify.com/artist/5gUVCL8RB17Ehn5Q43c2AJ), [Gold Mountain](https://open.spotify.com/artist/0YZHNcGfT61Yvmp8FklTxT), [Romer String Quartet](https://open.spotify.com/artist/38iTibcPtXJZG3JQ1vGnWf) | [Forest](https://open.spotify.com/album/1Zl1BD9G5b8V9gsXZp9Mf1) | 5:27 |
+| 79 | [Forest](https://open.spotify.com/track/304SYYFETQyIXPHana8jaU) | [Virgin Vacation](https://open.spotify.com/artist/5gUVCL8RB17Ehn5Q43c2AJ), [Gold Mountain](https://open.spotify.com/artist/0YZHNcGfT61Yvmp8FklTxT), [Romer String Quartet](https://open.spotify.com/artist/38iTibcPtXJZG3JQ1vGnWf), [Kevin Chau](https://open.spotify.com/artist/1S9Z4YjELnR5xyi1l2GQc4) | [Forest](https://open.spotify.com/album/11Kvjk7Z8dC8QSmpfnzqsD) | 5:27 |
 | 80 | [Think I'm In Love](https://open.spotify.com/track/4Ip4uvrIqnxGM8RB9rsCrt) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Think I'm In Love](https://open.spotify.com/album/5lfI2lfNkgMpCpfSxsNdje) | 2:21 |
 | 81 | [轉生友誼戰隊](https://open.spotify.com/track/2y0FdmpncYoiJhPXa16ziY) | [Rae Law](https://open.spotify.com/artist/3R82T1kwSMzxEH1UbkRqLV), [FUNGMADE 卓峰整嘅](https://open.spotify.com/artist/2anUMLZS9l0BCp2edXOz9I), [KRAY](https://open.spotify.com/artist/1Vknqy3noTujdCjbI3xxF1) | [00](https://open.spotify.com/album/1GXxkt7bWKXlCzl6yADbOa) | 2:27 |
 | 82 | [魚蛋燒賣](https://open.spotify.com/track/4lSKRgNrR3x8nnLSTXpFI1) | [handwash](https://open.spotify.com/artist/752lc6wrZTHlw74HVfAAva), [N\-Free](https://open.spotify.com/artist/0or4a5LZi0qF0shTXnTNvZ) | [魚蛋燒賣](https://open.spotify.com/album/3EMwOR2jUzFD08ncmVCpnw) | 2:35 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 141 | [TAITAI \(太太\)](https://open.spotify.com/track/7Gt2XwekPAYXZW79aU835U) | [Derek Chan](https://open.spotify.com/artist/2LcWIUsksNKalGyzZj7a8x) | [TAITAI \(太太\)](https://open.spotify.com/album/2TWcKtOpTtyUOjzK9K98EQ) | 3:18 |
 | 142 | [Rosemary](https://open.spotify.com/track/2SVZHdvZX6wLCufft9ybBZ) | [Jonathan Yang](https://open.spotify.com/artist/6Ivb1T9PggzJSQZCkYQTRG) | [Rosemary](https://open.spotify.com/album/2YTZ1JrnsiUwlXArIQYMje) | 4:06 |
 
-Snapshot ID: `MCxlY2VkNTQ3OTMyZGY3M2QyNDE5MDNhOTdlMjc2Y2JkNWFmNzMxOWY3`
+Snapshot ID: `MCw4NTBhZWVkNjMwNTdiMjk0NWI0ZWRjYjc1MDEzNTEyMzFhNjE5Y2Ew`

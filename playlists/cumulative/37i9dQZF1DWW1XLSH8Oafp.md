@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring Kenya Grace
 
-593 songs - 1 day 10 hr 2 min
+594 songs - 1 day 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -592,7 +592,8 @@
 | [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 | 2021-10-01 | 2022-04-16 |
 | [You Don't Have To Worry](https://open.spotify.com/track/4GTcv071eE7WLFp7SintLr) | [Chrissy](https://open.spotify.com/artist/04zsBrhqOL2WNQvd5MDupE) | [You Don't Have To Worry](https://open.spotify.com/album/4bzyLLkiDFRy9BePIiFaps) | 4:55 | 2022-09-30 |  |
 | [you're a parasite](https://open.spotify.com/track/2uMv1AvQhvXk4F3DAeABGg) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [you're a parasite](https://open.spotify.com/album/0gxx85pC89jMKmPIyL0kPa) | 2:32 | 2022-06-10 | 2022-09-24 |
-| [your love](https://open.spotify.com/track/7666mOSUvHVcc7CJ0TaDq7) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [your love](https://open.spotify.com/album/3qgDicGJlPlPPJI4ISKGnh) | 2:34 | 2023-01-20 |  |
+| [your love](https://open.spotify.com/track/7666mOSUvHVcc7CJ0TaDq7) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [your love](https://open.spotify.com/album/3qgDicGJlPlPPJI4ISKGnh) | 2:34 | 2023-01-20 | 2023-05-11 |
+| [your love](https://open.spotify.com/track/3mzI3kjKPZJOch3SuMcsEn) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [your love](https://open.spotify.com/album/0pzzOxt5TDV3AZEwMRbcwU) | 2:36 | 2023-05-05 |  |
 | [your one and only](https://open.spotify.com/track/2tmrvvEzpTfqFV4QbmY8e9) | [Revin](https://open.spotify.com/artist/4h4xVUiuywBMpNJGq3hlMK) | [ORENDA](https://open.spotify.com/album/5kdNpOmxHmMyYJOvhJP7qu) | 3:39 | 2022-04-08 | 2022-06-04 |
 | [yummy dummy \*°:⋆ₓₒ╰\(◡‿◡✿╰\)](https://open.spotify.com/track/1q6SZVPUw8K5Nni1tSpAoz) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF) | [yummy dummy \*°:⋆ₓₒ╰\(◡‿◡✿╰\)](https://open.spotify.com/album/07or57dBPKdwwtxTwCB3FW) | 1:40 | 2022-10-14 | 2022-10-29 |
 | [ZERO](https://open.spotify.com/track/2TGL64n9M3FdwgGzc3FmRT) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0) | [ZERO](https://open.spotify.com/album/7eb3cO7zGX3wB4837szFAz) | 2:55 | 2021-10-29 | 2022-03-12 |

@@ -6896,6 +6896,28 @@
     {
       "album": {
         "name": "HEAVYWEIGHT",
+        "url": "https://open.spotify.com/album/5S8GPfqEGX6wYZ5ElDiOFY"
+      },
+      "artists": [
+        {
+          "name": "Ryan Oakes",
+          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
+        },
+        {
+          "name": "Loveless",
+          "url": "https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169325,
+      "name": "HEAVYWEIGHT",
+      "url": "https://open.spotify.com/track/5ekvOvSlUxUgDTitlGzWbe"
+    },
+    {
+      "album": {
+        "name": "HEAVYWEIGHT",
         "url": "https://open.spotify.com/album/5c3oE6tatGA1ZeLDA4IIa9"
       },
       "artists": [
@@ -7362,7 +7384,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 160000,
       "name": "how could you do this to me? feat. Kellin Quinn from Sleeping With Sirens",
       "url": "https://open.spotify.com/track/6jhBI8HZ1qxetz13hjL1PE"

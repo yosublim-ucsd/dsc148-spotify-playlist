@@ -1,12 +1,12 @@
 {
   "description": "Top hits from homegrown artists showcasing rich culture and talent from Uganda",
-  "num_followers": 1477,
+  "num_followers": 1475,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2Q3YWVkM2VlNzE4NTJiYjE3OWE5OTIwOTkyOTNmZWMxYWQ4NmVl",
+  "snapshot_id": "MCxlYTc5OGNkY2JhNGI0MzZlMzQ1ZTM2OWE4MGFmZGE2NDVmNWY3MWYw",
   "tracks": [
     {
       "added_at": "2023-04-27 21:59:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-04-27 21:59:00",
       "album": {
+        "name": "Wangi",
+        "url": "https://open.spotify.com/album/29C4HfzA6cLMNC7mttlUUT"
+      },
+      "artists": [
+        {
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+        }
+      ],
+      "duration_ms": 156055,
+      "name": "Wangi",
+      "url": "https://open.spotify.com/track/5TXU3a3csDRY2vyqEGItBK"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
         "name": "Baibe",
         "url": "https://open.spotify.com/album/3pxfc2qdtKQ4FBjcvLTsMe"
       },
@@ -731,18 +747,18 @@
     {
       "added_at": "2023-04-27 21:59:00",
       "album": {
-        "name": "Wangi",
-        "url": "https://open.spotify.com/album/29C4HfzA6cLMNC7mttlUUT"
+        "name": "4 U",
+        "url": "https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk"
       },
       "artists": [
         {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+          "name": "Ceee",
+          "url": "https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT"
         }
       ],
-      "duration_ms": 156055,
-      "name": "Wangi",
-      "url": "https://open.spotify.com/track/5TXU3a3csDRY2vyqEGItBK"
+      "duration_ms": 135965,
+      "name": "4 U",
+      "url": "https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve"
     },
     {
       "added_at": "2023-04-27 21:59:00",
@@ -771,22 +787,6 @@
     {
       "added_at": "2023-04-27 21:59:00",
       "album": {
-        "name": "4 U",
-        "url": "https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk"
-      },
-      "artists": [
-        {
-          "name": "Ceee",
-          "url": "https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT"
-        }
-      ],
-      "duration_ms": 135965,
-      "name": "4 U",
-      "url": "https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
         "name": "Plan Ki",
         "url": "https://open.spotify.com/album/4qfhrxohGB4hPhDfFJ2nDN"
       },
@@ -799,6 +799,22 @@
       "duration_ms": 194526,
       "name": "Plan Ki",
       "url": "https://open.spotify.com/track/2ZbeZtGMyBOhWo4gvoGZZR"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Bbuba",
+        "url": "https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3"
+      },
+      "artists": [
+        {
+          "name": "Maurice Kirya",
+          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
+        }
+      ],
+      "duration_ms": 204289,
+      "name": "Bbuba",
+      "url": "https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz"
     },
     {
       "added_at": "2023-04-27 21:59:00",
@@ -823,22 +839,6 @@
     {
       "added_at": "2023-04-27 21:59:00",
       "album": {
-        "name": "Bbuba",
-        "url": "https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3"
-      },
-      "artists": [
-        {
-          "name": "Maurice Kirya",
-          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
-        }
-      ],
-      "duration_ms": 204289,
-      "name": "Bbuba",
-      "url": "https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
         "name": "Byowaba",
         "url": "https://open.spotify.com/album/20BSAYhSq4zpyNlSJD210x"
       },
@@ -855,46 +855,18 @@
     {
       "added_at": "2023-04-27 21:59:00",
       "album": {
-        "name": "Saving My Love",
-        "url": "https://open.spotify.com/album/0x1lCC3RTUArlkWGiyUBTg"
+        "name": "Geza Bugeza",
+        "url": "https://open.spotify.com/album/6rpL5Yl2Gu8H0xqPSu445P"
       },
       "artists": [
         {
-          "name": "Akeine",
-          "url": "https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds"
-        },
-        {
-          "name": "Kohen Jaycee",
-          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
-        },
-        {
-          "name": "Andy Muzic",
-          "url": "https://open.spotify.com/artist/79oZcy8wWml3rDoZv8A47z"
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Saving My Love",
-      "url": "https://open.spotify.com/track/7kmuCdJaXVu2b5ntYHPDW5"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
-        "name": "Pause",
-        "url": "https://open.spotify.com/album/53V8rIv7Bix3IbNXbnG0px"
-      },
-      "artists": [
-        {
-          "name": "Mugaba",
-          "url": "https://open.spotify.com/artist/1EBLonfYVb5s9f047W2CS6"
-        },
-        {
-          "name": "Amani Greene",
-          "url": "https://open.spotify.com/artist/0nJznPzHXT4c62if3o5tsO"
-        }
-      ],
-      "duration_ms": 184778,
-      "name": "Pause",
-      "url": "https://open.spotify.com/track/2yx8yJQIWgyZ3xS67mg8Qp"
+      "duration_ms": 140822,
+      "name": "Geza Bugeza",
+      "url": "https://open.spotify.com/track/0KCeBr5ylT1GJzt9bu4SkW"
     },
     {
       "added_at": "2023-04-27 21:59:00",
@@ -915,6 +887,26 @@
       "duration_ms": 137333,
       "name": "Mama I Made It",
       "url": "https://open.spotify.com/track/1S3GfaCHCtLajfFXvmxueH"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Pause",
+        "url": "https://open.spotify.com/album/53V8rIv7Bix3IbNXbnG0px"
+      },
+      "artists": [
+        {
+          "name": "Mugaba",
+          "url": "https://open.spotify.com/artist/1EBLonfYVb5s9f047W2CS6"
+        },
+        {
+          "name": "Amani Greene",
+          "url": "https://open.spotify.com/artist/0nJznPzHXT4c62if3o5tsO"
+        }
+      ],
+      "duration_ms": 184778,
+      "name": "Pause",
+      "url": "https://open.spotify.com/track/2yx8yJQIWgyZ3xS67mg8Qp"
     }
   ],
   "unique_name": "Made In Uganda",

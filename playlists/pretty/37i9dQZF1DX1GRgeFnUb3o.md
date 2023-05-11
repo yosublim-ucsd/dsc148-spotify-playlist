@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GRgeFnUb3o.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,756 likes - 61 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,768 likes - 61 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GRgeFnUb3o.md) - [plain]
 | 9 | [Real Men \(Live\)](https://open.spotify.com/track/5SNZLoIt9mPRm3upkWYTHR) | [Savage Republic](https://open.spotify.com/artist/6axnf0hQccT5LWiCewXaPQ) | [Live Trek 1985\-1986](https://open.spotify.com/album/2hVs6bCKNP2xDS450JEFnU) | 3:21 |
 | 10 | [Love Buzz](https://open.spotify.com/track/5muVpPu8Fj9fXfDbbqDdrZ) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 3:35 |
 | 11 | [This Town](https://open.spotify.com/track/6bmlymaMLlpfcyWNjn4vRE) | [Green River](https://open.spotify.com/artist/1XIIxzmo6BNRR4QkImSdsX) | [Dry as a Bone/Rehab Doll](https://open.spotify.com/album/1yfs3jV84tLJf7i3dSHEDU) | 3:23 |
-| 12 | [I Saw an X\-Ray of a Girl Passing Gas](https://open.spotify.com/track/2YJWPV8spfJFo9fybOf2CH) | [Butthole Surfers](https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs) | [Hairway To Steven](https://open.spotify.com/album/3Izyai1krlLpf4BjUvxMx4) | 4:56 |
+| 12 | [I Saw an X\-Ray of a Girl Passing Gas](https://open.spotify.com/track/0dYjJIrxPlMU0TuOWodDs9) | [Butthole Surfers](https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs) | [Hairway To Steven](https://open.spotify.com/album/1fFKMj2ukkKHeatyWyYYfA) | 4:56 |
 | 13 | [Puke and Cry](https://open.spotify.com/track/2TgkOXNjNOIShvUY3XpNuO) | [Dinosaur Jr.](https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ) | [Green Mind](https://open.spotify.com/album/6O2rF8WIEEUPxxOYqWOacF) | 4:27 |
 | 14 | [The Day I Went Away](https://open.spotify.com/track/2OCEjdPPYORoncuWfGzOUf) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Sleater\-Kinney \(Remastered\)](https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM) | 3:04 |
 | 15 | [Touch Me I'm Sick](https://open.spotify.com/track/2x5FYXo5rL4Phmn3UPdkK3) | [Mudhoney](https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9) | [Superfuzz Bigmuff \(Deluxe Edition\)](https://open.spotify.com/album/318b6Is2MnqkuL079NnPko) | 2:32 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GRgeFnUb3o.md) - [plain]
 | 60 | [Good Enough \- Remastered](https://open.spotify.com/track/2wcpa5PSqWRRx2dQhxDjE4) | [Mudhoney](https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9) | [Every Good Boy Deserves Fudge \(30th Anniversary Deluxe Edition\)](https://open.spotify.com/album/12SPtVu2JnT2I6D3RNKMX4) | 3:26 |
 | 61 | [Marijuana](https://open.spotify.com/track/2eTUrr93UBSj7qcZcUOKuw) | [The Reverend Horton Heat](https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw) | [Smoke 'em if You Got 'em](https://open.spotify.com/album/1kg7rs0ZaIECwU2WCLS58w) | 4:49 |
 
-Snapshot ID: `MCw0N2ZkMmM2NjQ0YmI4YTI0OThjMGI0NTA2ZTBjN2JkNjNiNDBmMTA5`
+Snapshot ID: `MCwyZmY4OWExZTYzMTRmYmZhZTRmZTExNDVhN2MwYTBhMGMyYTVkNThj`

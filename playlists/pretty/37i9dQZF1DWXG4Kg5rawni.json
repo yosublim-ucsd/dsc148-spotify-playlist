@@ -1,12 +1,12 @@
 {
   "description": "Adoradores cantando sobre o amor. Foto: Paulo Cesar Baruk",
-  "num_followers": 83106,
+  "num_followers": 83131,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGYxZjNjMjVjNjEzOTRjOTE5MGQ3YmI4ZGE0ZDg3NTgxNDE4Mzdh",
+  "snapshot_id": "MCxkZTNiZThjNjVhMzhmMDEyMzU5MmYxZmMyOTU0OGUxYjY2ZjNhOWVh",
   "tracks": [
     {
       "added_at": "2023-03-11 01:28:01",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
+        "name": "Somos Iguais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/671MLGdr5GnsPqhA8ffxER"
+      },
+      "artists": [
+        {
+          "name": "Thiago Grulha",
+          "url": "https://open.spotify.com/artist/41gACtL0EdNfVnvT71cLRu"
+        }
+      ],
+      "duration_ms": 155106,
+      "name": "Pra Sempre",
+      "url": "https://open.spotify.com/track/7iKNtzU0VMgqzJRX742e0j"
+    },
+    {
+      "added_at": "2023-03-11 01:28:01",
+      "album": {
         "name": "Cantando o Amor Vol. 2",
         "url": "https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 232710,
       "name": "Isso \u00e9 Amor",
       "url": "https://open.spotify.com/track/4zmStTJkuik7l8IJA0BeaM"
-    },
-    {
-      "added_at": "2023-03-11 01:28:01",
-      "album": {
-        "name": "Somos Iguais (Ao Vivo)",
-        "url": "https://open.spotify.com/album/671MLGdr5GnsPqhA8ffxER"
-      },
-      "artists": [
-        {
-          "name": "Thiago Grulha",
-          "url": "https://open.spotify.com/artist/41gACtL0EdNfVnvT71cLRu"
-        }
-      ],
-      "duration_ms": 155106,
-      "name": "Pra Sempre",
-      "url": "https://open.spotify.com/track/7iKNtzU0VMgqzJRX742e0j"
     },
     {
       "added_at": "2023-03-11 01:28:01",

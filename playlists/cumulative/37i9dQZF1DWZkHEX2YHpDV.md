@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Waterparks
 
-946 songs - 2 day 2 hr 10 min
+947 songs - 2 day 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,6 +371,7 @@
 | [Heaven's Sake](https://open.spotify.com/track/5BDIfc3cF8SNCBs1arNNb7) | [Subcon](https://open.spotify.com/artist/1wXwnup2lmyDhzqM9ZEZ7K) | [Heaven's Sake](https://open.spotify.com/album/3QMtFSMdMCqAYnydNswv0A) | 3:14 | 2022-02-04 | 2022-07-29 |
 | [Heaven, We're Already Here](https://open.spotify.com/track/48Kt0Zugeset3zlvhLPJmz) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [You Are OK](https://open.spotify.com/album/0DRUOQBsax8QLUVctbEIAT) | 4:39 | 2022-01-14 | 2022-05-16 |
 | [Heavy \(feat\. blackbear\)](https://open.spotify.com/track/4xD908nOSNCQwAWfLgv3Vk) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Heavy \(feat\. blackbear\)](https://open.spotify.com/album/67LeSfcBb82sUrETmSGTkJ) | 2:47 | 2021-12-10 | 2022-05-20 |
+| [HEAVYWEIGHT](https://open.spotify.com/track/5ekvOvSlUxUgDTitlGzWbe) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [HEAVYWEIGHT](https://open.spotify.com/album/5S8GPfqEGX6wYZ5ElDiOFY) | 2:49 | 2023-04-28 |  |
 | [HEAVYWEIGHT](https://open.spotify.com/track/6bAx3WfHbtY4LjuS7tdCPK) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [HEAVYWEIGHT](https://open.spotify.com/album/5c3oE6tatGA1ZeLDA4IIa9) | 2:49 | 2022-11-04 | 2023-04-23 |
 | [HELLO//GOODBYE](https://open.spotify.com/track/0qbljrZfzWKZiBHlSKVay7) | [GARZI](https://open.spotify.com/artist/0w6YVGViQHcgC3eyc8LxUv) | [HELLO//GOODBYE](https://open.spotify.com/album/3cHlK9W4aabTv21Arf0xmb) | 2:19 | 2022-08-26 | 2022-12-03 |
 | [Here for War](https://open.spotify.com/track/7hxYTLsBilhqFM3B5wy5n4) | [Losers Club](https://open.spotify.com/artist/2qTzOTZEnY4BwtFVAry5iR) | [Here for War](https://open.spotify.com/album/1tKEiXjpNpvtRIorJFkzES) | 3:22 | 2022-03-25 | 2022-04-15 |
@@ -395,7 +396,7 @@
 | [HORROR SHOW](https://open.spotify.com/track/1r4ZfCIM1soKE3oh7pPUQ1) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [HORROR SHOW](https://open.spotify.com/album/2raloI8qFpP1GzU2Mb7hOW) | 3:15 | 2023-04-10 |  |
 | [hover like a GODDESS](https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [hover like a GODDESS](https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf) | 2:23 | 2022-08-05 |  |
 | [How Am I Still Alive? \(with Lydia Night\)](https://open.spotify.com/track/2ymOJYGe3noIiQF83yAysV) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU), [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E), [Lydia Night](https://open.spotify.com/artist/0J5n8cS1rKCAZ7eJek1uYK) | [How Am I Still Alive? \(with Lydia Night\)](https://open.spotify.com/album/6JMXuj7c10IpXdwHWp7ZHd) | 3:12 | 2021-12-10 | 2022-07-12 |
-| [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/track/6jhBI8HZ1qxetz13hjL1PE) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/album/5d9zUPulqyPiHYS48HbkX0) | 2:40 | 2022-04-29 |  |
+| [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/track/6jhBI8HZ1qxetz13hjL1PE) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/album/5d9zUPulqyPiHYS48HbkX0) | 2:40 | 2022-04-29 | 2023-05-11 |
 | [How It Feels to Be Lost](https://open.spotify.com/track/3A1jkLwsYjaH30J0v6oZCF) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost](https://open.spotify.com/album/19BZXyyyJmxcCys5VDFOOB) | 3:38 | 2021-12-10 | 2022-07-04 |
 | [I Can't Sleep](https://open.spotify.com/track/1gckzXZppc8a5qHZy4MCZJ) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [The Breakfast Club](https://open.spotify.com/album/2nGlHs1tylkU5Wv8SgVZv9) | 3:22 | 2021-12-10 | 2022-08-06 |
 | [I Don't Care](https://open.spotify.com/track/1I6s7XgnKIkGXtm4bcUWuf) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [I Don't Care](https://open.spotify.com/album/4z09qzhq7zGxibWmwcZxFE) | 3:45 | 2022-03-25 | 2022-04-20 |

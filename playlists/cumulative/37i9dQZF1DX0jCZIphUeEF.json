@@ -170,7 +170,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 368191,
       "name": "Basari - Amine K Remix",
       "url": "https://open.spotify.com/track/1pUAMieBlYE5aOLpCvzGnG"
@@ -280,7 +280,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 548212,
       "name": "Caf\u00e9 Del Mar - Dale Middleton Remix",
       "url": "https://open.spotify.com/track/5ibF56Z88lGgLdZOKqCl8l"
@@ -302,7 +302,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 430080,
       "name": "Chain",
       "url": "https://open.spotify.com/track/5mHfRLEWzHXPDjZqnqRzZa"
@@ -350,6 +350,24 @@
       "duration_ms": 208524,
       "name": "Chano - DJ Chus Remix",
       "url": "https://open.spotify.com/track/7AHLeuAT4F3aeYf9B4j4nY"
+    },
+    {
+      "album": {
+        "name": "Colombiana EP",
+        "url": "https://open.spotify.com/album/5zyKgUqdNUzk7rF4C5iiH7"
+      },
+      "artists": [
+        {
+          "name": "Dean Mickoski",
+          "url": "https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205365,
+      "name": "Colombiana",
+      "url": "https://open.spotify.com/track/1CFDe1tZ32HojzxWp4Acy9"
     },
     {
       "album": {
@@ -482,7 +500,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 375483,
       "name": "Dice",
       "url": "https://open.spotify.com/track/6pK1dCN0zuT6Rkf0rqA7AI"
@@ -837,6 +855,32 @@
     },
     {
       "album": {
+        "name": "In My Mind (Amine K Remix)",
+        "url": "https://open.spotify.com/album/1ifM3RIIphH8Jt3N9ZfkIb"
+      },
+      "artists": [
+        {
+          "name": "Bondi",
+          "url": "https://open.spotify.com/artist/0ZPxafqcgMv07OtNWFapKk"
+        },
+        {
+          "name": "Save The Kid",
+          "url": "https://open.spotify.com/artist/4l8tuypmSeKwQGd0uWeL9O"
+        },
+        {
+          "name": "Amine K (Moroko Loko)",
+          "url": "https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375395,
+      "name": "In My Mind - Amine K Remix",
+      "url": "https://open.spotify.com/track/15Ce71ZMT8bqN72qjDuOLz"
+    },
+    {
+      "album": {
         "name": "Infinite",
         "url": "https://open.spotify.com/album/1T5qmCtYT6lrjIHcCyu9Aa"
       },
@@ -866,10 +910,28 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 565013,
       "name": "Is Killing Me - Origianl Mix",
       "url": "https://open.spotify.com/track/7yov6F8T2Lnr9PH42Q1geT"
+    },
+    {
+      "album": {
+        "name": "Kaleta",
+        "url": "https://open.spotify.com/album/1DTpdbbsif7gLrpSOGDfVE"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270120,
+      "name": "Kaleta",
+      "url": "https://open.spotify.com/track/2ldNIVLYlSnxKGSlpud8bU"
     },
     {
       "album": {
@@ -910,7 +972,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 454873,
       "name": "Let No Man Put Asunder - Dam Swindle Remix",
       "url": "https://open.spotify.com/track/5nyWYE1Ld3Gr3xbFUMIbVP"
@@ -980,6 +1042,50 @@
       "duration_ms": 259672,
       "name": "Mafqoud - DJ Chus Remix",
       "url": "https://open.spotify.com/track/3dFvXuCrkC0sgCJUrw6KF9"
+    },
+    {
+      "album": {
+        "name": "Mandem",
+        "url": "https://open.spotify.com/album/4Lvndlgi6IBB4L4jn6d6RF"
+      },
+      "artists": [
+        {
+          "name": "OUENZA",
+          "url": "https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8"
+        },
+        {
+          "name": "Amine K (Moroko Loko)",
+          "url": "https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278095,
+      "name": "Mandem",
+      "url": "https://open.spotify.com/track/68n0XVahvsr0v0usJzykTH"
+    },
+    {
+      "album": {
+        "name": "Messiah",
+        "url": "https://open.spotify.com/album/7yzm9oCXO5cVcbw2d6jwkc"
+      },
+      "artists": [
+        {
+          "name": "Brandon Markell Holmes",
+          "url": "https://open.spotify.com/artist/49hxY3aryuNE1UJpuJ0YJf"
+        },
+        {
+          "name": "Cee ElAssaad",
+          "url": "https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278044,
+      "name": "Messiah - Edit",
+      "url": "https://open.spotify.com/track/4BRPlCE7YYYlVzRzMwIesY"
     },
     {
       "album": {
@@ -1326,6 +1432,28 @@
     {
       "album": {
         "name": "Starlight",
+        "url": "https://open.spotify.com/album/01jiI42ZCqSIlnGwGIia8Y"
+      },
+      "artists": [
+        {
+          "name": "Maga",
+          "url": "https://open.spotify.com/artist/3SLZrLX47S9PmPRabiESVl"
+        },
+        {
+          "name": "Sean Doron",
+          "url": "https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440500,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/0KOf5jmkQkCudX434vaMlq"
+    },
+    {
+      "album": {
+        "name": "Starlight",
         "url": "https://open.spotify.com/album/5uYX6qjy7ZtnmvrmxQaFPx"
       },
       "artists": [
@@ -1340,7 +1468,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 440500,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/3Sy7ls80tj135RutN7hWWk"
@@ -1698,7 +1826,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 419076,
       "name": "Won't Stop Now - Original Mix",
       "url": "https://open.spotify.com/track/0jOhiGwd4CRQ2BUiJOu1IR"
@@ -1738,7 +1866,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 574122,
       "name": "You Need to Dance - 12\" Version",
       "url": "https://open.spotify.com/track/7KCrcfAkajG0DNOrPUNqjt"

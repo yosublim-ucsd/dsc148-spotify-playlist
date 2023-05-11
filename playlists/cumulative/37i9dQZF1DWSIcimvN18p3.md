@@ -4,7 +4,7 @@
 
 > Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Sunny War
 
-375 songs - 22 hr 55 min
+376 songs - 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Just Like Leaving](https://open.spotify.com/track/1KtqnK25qwyUK17y19Aks9) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Just Like Leaving](https://open.spotify.com/album/1YFu2Ce9NLQeSWFuhdztFe) | 3:26 | 2021-03-05 |  |
 | [Just Like Leaving](https://open.spotify.com/track/63C5SO2zyoWvMS6JL6mv8Y) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Just Like Leaving](https://open.spotify.com/album/0Opbhs5LBTdPR63ndzzsNw) | 3:26 | 2021-03-05 | 2022-07-29 |
 | [Juvenescence](https://open.spotify.com/track/3AKAFRzGRwrMMZ8g9VEcAJ) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs) | [Urban Driftwood](https://open.spotify.com/album/0Qz0FCP2OvKtx4WG21PVrJ) | 3:50 | 2021-03-05 | 2023-04-30 |
+| [Juvenescence](https://open.spotify.com/track/5KrUt55R9EGl9ZMl8BL8kV) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs) | [Urban Driftwood](https://open.spotify.com/album/65a7yUVNDttPR2ioJOgyok) | 3:50 | 2023-03-08 |  |
 | [Juvenescence](https://open.spotify.com/track/73LVxUKfVeLqlQ9qqhTQ3h) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs) | [Urban Driftwood](https://open.spotify.com/album/233gqBTj1syIvhppH8NV7w) | 3:50 | 2021-03-05 | 2022-07-29 |
 | [Kentucky Borderline](https://open.spotify.com/track/3p1T3tocORKMJOulIOh4zc) | [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [One Step Ahead](https://open.spotify.com/album/6ycDawGWCxbT5dk860MWOE) | 3:32 | 2021-03-05 | 2022-03-08 |
 | [Kentucky, 1988](https://open.spotify.com/track/3PIY1joW8VtV8a6tC9ACt7) | [Kelsey Waldon](https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1) | [White Noise / White Lines](https://open.spotify.com/album/19aVoxGenyWL3zULEefF9a) | 4:04 | 2021-03-05 | 2022-07-09 |
@@ -353,7 +354,7 @@
 | [Whatever Fits Together](https://open.spotify.com/track/3Ya357rg6humSfjzHxpdJ2) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Quiet the Room](https://open.spotify.com/album/3aDm82IFj0OjSDWLGTWLBE) | 3:45 | 2023-03-08 |  |
 | [when i look at you.](https://open.spotify.com/track/2Hf4lbVibsJo6u6cFAxwdQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [when i look at you.](https://open.spotify.com/album/1RxM5TK6tax3e20Z90SRPC) | 3:52 | 2021-03-05 |  |
 | [When I Was a Girl in Colorado](https://open.spotify.com/track/7fEXK4nlHRU4WyGDCwx9AT) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [When I Was a Girl in Colorado](https://open.spotify.com/album/75sA20SoPvoZCsXdg0NKMx) | 5:00 | 2022-03-08 | 2022-07-29 |
-| [When You're Ready](https://open.spotify.com/track/7MkkZ2luXmVSBz7vM9MIvR) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [When You're Ready](https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV) | 3:47 | 2021-03-05 |  |
+| [When You're Ready](https://open.spotify.com/track/7MkkZ2luXmVSBz7vM9MIvR) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [When You're Ready](https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV) | 3:47 | 2021-03-05 | 2023-05-11 |
 | [Where Have All the Flowers Gone](https://open.spotify.com/track/1WMMzf0o1gD5dyyYhJ46fO) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Peter, Paul and Mary](https://open.spotify.com/album/1cRbbPxFMpHFeYIkLqqzBo) | 3:54 | 2021-03-05 | 2023-02-10 |
 | [White Lies](https://open.spotify.com/track/5i7g5BIOAQeZu4cXkuXh1H) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [White Lies](https://open.spotify.com/album/0jEb2g4SUcHyXBYItiOCGw) | 4:07 | 2022-03-08 | 2022-07-29 |
 | [White Lies](https://open.spotify.com/track/6jMEXMw4i0LZ1ZwU7Bw0lW) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Second Nature](https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw) | 4:07 | 2022-03-08 |  |

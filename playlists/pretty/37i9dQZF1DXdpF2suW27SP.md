@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Ivandro e Julinho Ksd entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,534 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,597 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [Quando Quiseres](https://open.spotify.com/track/5MGLrlZlzfCuosuAR6Q0xJ) | [Uzzy](https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi), [Mr\. Marley](https://open.spotify.com/artist/1IFNNxxrEmMT7e5H9ioRSB) | [Quando Quiseres](https://open.spotify.com/album/7zBnYqXux65VVgVWoo1V9B) | 2:58 |
 | 75 | [Entre Nós](https://open.spotify.com/track/2rdxhGC4hD97rwGn7SA0UM) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Entre Nós](https://open.spotify.com/album/7hK8tp2hartNZYIdAk7qwk) | 3:12 |
 
-Snapshot ID: `MCw4YjdjMTA3YzkzMmZmZTRjNjc4NThkYTBlMzQ5NDY5ZWRiMTAzMzBi`
+Snapshot ID: `MCxhYzEyMDVkNzczNzJlOGMwYWI3MTVjMzExODRmYmIwYTc2ZmI5Njgy`

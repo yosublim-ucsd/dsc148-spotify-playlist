@@ -4,7 +4,7 @@
 
 > Rap napoletano e il meglio della scena campana\. Yung Snapp, Lele Blade e Icy Subzero in cover.
 
-193 songs - 9 hr 7 min
+194 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [NA CRIATURA](https://open.spotify.com/track/5T9tDWyGQCkhasjfGVZabC) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [NA CRIATURA](https://open.spotify.com/album/07DTjfY4CXGe01KxN1HdwE) | 2:54 | 2022-05-10 | 2022-05-27 |
 | [NA STORIA](https://open.spotify.com/track/4tMC0vUpZnlYLPPukjy9ud) | [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [LOVE SEASON](https://open.spotify.com/album/4TAh5dyRd4oTnQDuRzrDPz) | 2:30 | 2022-12-15 | 2023-01-20 |
 | [NAPO\*\*\*\*NO](https://open.spotify.com/track/4y4wOYV6OJ2hlXeBFzazEO) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:48 | 2023-01-06 | 2023-03-18 |
+| [Niente](https://open.spotify.com/track/1BN4YTnHEAFAg5HRxIC1af) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile Vol\. 2](https://open.spotify.com/album/5533SD7HXknP7vKdshypG1) | 2:48 | 2023-05-10 |  |
 | [NO BODYGUARD](https://open.spotify.com/track/6YRgwPft1oLkMnAE42Zsx4) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [NO BODYGUARD](https://open.spotify.com/album/3tXUkUdnsMkOck4lN5ZX6F) | 2:52 | 2022-11-24 | 2023-04-21 |
 | [No Joke \(feat\. MadMan\)](https://open.spotify.com/track/3PFDJgtrBif1ORn5As2hly) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [AMBIZIONE](https://open.spotify.com/album/7ojtnqVHOa5Z5GvUHWqfzL) | 2:24 | 2022-05-10 | 2022-05-27 |
 | [No Love \(feat\. CoCo\)](https://open.spotify.com/track/04UJuGMKBimBWXdpL93dDd) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [Dove Volano Le Aquile](https://open.spotify.com/album/3ieJc57VdQ7aVLAKEazFMc) | 3:47 | 2022-07-28 | 2022-09-16 |
@@ -136,7 +137,7 @@
 | [PARTENOPE](https://open.spotify.com/track/60NC3OqjiISKBYbscb8vW3) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW) | [LIBERATO II](https://open.spotify.com/album/2C6181H1enBSZDL8kbhUXQ) | 3:37 | 2022-05-10 |  |
 | [Password](https://open.spotify.com/track/1WXNkrOGGFpG7tjMVHLzxr) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8) | 2:45 | 2022-05-10 | 2022-07-29 |
 | [Password](https://open.spotify.com/track/4mKhK3oDQoFvZc3LsqDKfm) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3cWKB68DH7QRVdoWEjdu8F) | 2:45 | 2022-07-28 | 2022-08-05 |
-| [Password](https://open.spotify.com/track/78fu3G69lVmwRdce8RuuYf) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F) | 2:45 | 2022-11-03 |  |
+| [Password](https://open.spotify.com/track/78fu3G69lVmwRdce8RuuYf) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F) | 2:45 | 2022-11-03 | 2023-05-11 |
 | [Password](https://open.spotify.com/track/7wuCjupWPv5nQkH8KRFnil) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3ieJc57VdQ7aVLAKEazFMc) | 2:45 | 2022-08-04 | 2022-11-04 |
 | [Pelle D'Oca \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/3pnXrY3E0rP0cJ0KKzil0w) | [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [NO MONEY MORE LOVE](https://open.spotify.com/album/3Ym605OOXFJfjw0cUSpq1l) | 2:24 | 2022-05-10 | 2022-12-16 |
 | [Penzier](https://open.spotify.com/track/4CFL4pIRkUkO8hkUQsP6xz) | [Priore](https://open.spotify.com/artist/7zWFzmh5NZhmBzwWjHjnro) | [Penzier](https://open.spotify.com/album/4o6BO1Zqqk9lnSXLBPk3bG) | 2:44 | 2022-05-12 | 2022-09-23 |

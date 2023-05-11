@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-715 songs - 1 day 16 hr 55 min
+716 songs - 1 day 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Shinkirou](https://open.spotify.com/track/2GJ4wf1R6fZaVgkzV3jbdz) | [HIMEGOTO](https://open.spotify.com/artist/7tDvpqwyQJ1HvksTwHaMQ6) | [Shinkirou](https://open.spotify.com/album/75n2DTZV1tfeBoLihLSWY7) | 5:33 | 2022-10-04 | 2022-10-19 |
 | [Shirayuki](https://open.spotify.com/track/1fcbAM10NJDMxShne4Vqjq) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Shirayuki](https://open.spotify.com/album/4CX8RRpkt9EXsC5yUptLHZ) | 3:41 | 2022-12-02 | 2023-01-20 |
 | [SHOCK!](https://open.spotify.com/track/2L1HeoX1m3Zv8KPM6HdfZN) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [SHOCK!](https://open.spotify.com/album/4L33Z8w28HGEwywExm2Z4L) | 3:00 | 2023-01-05 |  |
+| [shower room rendezvous](https://open.spotify.com/track/4656G8EnjFhXdKQDpTnUPg) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [shower room rendezvous](https://open.spotify.com/album/04nZ0av3cPzR8J32FSwjbw) | 3:24 | 2023-05-09 |  |
 | [SHOWレース](https://open.spotify.com/track/1lzzRoO0fWyrlmwOQ6UztW) | [Nexus\-Cry](https://open.spotify.com/artist/5G8jDBkwGmPXonbtVj8nJX) | [SHOWレース](https://open.spotify.com/album/0cjT5braEI6LZAJSgw2IAV) | 3:17 | 2022-06-30 | 2022-07-24 |
 | [Sign](https://open.spotify.com/track/7lzZQ6lSsWPVrWgaAXX6pP) | [JASPĘR](https://open.spotify.com/artist/1pyg2ihnuRiqlkOxzRTXz7) | [Sign](https://open.spotify.com/album/2ujaRJAKxnDtIjyacSkZcH) | 3:47 | 2022-07-26 | 2022-07-29 |
 | [Sing The Moon](https://open.spotify.com/track/5aDVNw5prQNcjWF02jhxmo) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Sing The Moon](https://open.spotify.com/album/5J5JoAGR9Ui790ti2gDNiO) | 3:26 | 2022-08-16 | 2022-09-07 |
@@ -374,7 +375,7 @@
 | [シャッターチャンス](https://open.spotify.com/track/3BOvX87QWTrfBRrwLsknTO) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [シャッターチャンス](https://open.spotify.com/album/3yQhrWT5kVTg1ME4oI043b) | 3:40 | 2022-06-14 | 2022-07-29 |
 | [シャルル](https://open.spotify.com/track/5ixum2qfNvOkG7CsC1SvJk) | [うみくん](https://open.spotify.com/artist/7AeFUOB2BZuIkeq2S6FpIp) | [シャルル](https://open.spotify.com/album/0bsDcu5BN7FA222wV07gO1) | 3:50 | 2022-10-06 | 2022-10-19 |
 | [シャルル feat.松下](https://open.spotify.com/track/3oOp8RI9kvdKckEVqPme86) | [Mada Mitakoto no Nai Sekai](https://open.spotify.com/artist/0p1pmY1X6Waf3rd4K5vY5y) | [シャルル feat.松下](https://open.spotify.com/album/45jyNfFUz5hqSsSAk31N25) | 3:48 | 2022-10-18 | 2022-10-26 |
-| [シャワールームランデブー](https://open.spotify.com/track/746svnxRSFBJOHEh84XsmE) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [シャワールームランデブー](https://open.spotify.com/album/3Phsmc2oKgMslU1URpjoRs) | 3:24 | 2023-05-09 |  |
+| [シャワールームランデブー](https://open.spotify.com/track/746svnxRSFBJOHEh84XsmE) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [シャワールームランデブー](https://open.spotify.com/album/3Phsmc2oKgMslU1URpjoRs) | 3:24 | 2023-05-09 | 2023-05-11 |
 | [シャンティ](https://open.spotify.com/track/2eY85CSPKYMYzilNKhs7N2) | [超学生](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [シャンティ](https://open.spotify.com/album/5o2WaZt2xiFY1gAGd1Y8Xj) | 2:45 | 2022-07-19 | 2022-07-24 |
 | [シャンティ \(feat\. KAITO\)](https://open.spotify.com/track/0LWfcbyKEdi7BKofXlYtEN) | [wotaku](https://open.spotify.com/artist/0685luDRQZRkN4JnhnRSKX) | [シャンティ](https://open.spotify.com/album/1X1YaU65nIfjTpd23hPskH) | 2:45 | 2023-01-03 | 2023-02-03 |
 | [シュガーグライダー](https://open.spotify.com/track/6d6aofOPPbvQQyHrEkzkbb) | [麻婆豆腐](https://open.spotify.com/artist/4rDjKnJ4UDzfROtTs37kDT) | [シュガーグライダー](https://open.spotify.com/album/1TXGEVdb72WeN7DY37oMCh) | 3:10 | 2023-05-09 |  |

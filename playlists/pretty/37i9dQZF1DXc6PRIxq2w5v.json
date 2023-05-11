@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Big Asher, 2metro, shiso",
-  "num_followers": 116945,
+  "num_followers": 117238,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmM0Y2VkNWI5ZGEzMWZkMmZlNzk4Y2IzMTA5NTQzNzhiYWU2ZmJi",
+  "snapshot_id": "MCxkZDgzOGQ2ZDJiZjNiM2VjZGEyNDcwNTgzMGQwMWYwMDcxZmI1NWI5",
   "tracks": [
     {
       "added_at": "2023-05-05 03:00:00",
@@ -267,6 +267,46 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
+        "name": "\u00c9 Voc\u00ea",
+        "url": "https://open.spotify.com/album/0Q3XvlrJ3lFZhR22nzEFYX"
+      },
+      "artists": [
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        },
+        {
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
+        },
+        {
+          "name": "Paloma Possi",
+          "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
+        }
+      ],
+      "duration_ms": 231575,
+      "name": "\u00c9 Voc\u00ea",
+      "url": "https://open.spotify.com/track/3dQXxShR7tRJF7of1tmPQ7"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "Ju\u00edzo Final",
+        "url": "https://open.spotify.com/album/6vn7pXMOSJHxTwUYkfNNOf"
+      },
+      "artists": [
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        }
+      ],
+      "duration_ms": 149576,
+      "name": "Ju\u00edzo Final",
+      "url": "https://open.spotify.com/track/7tyML8BrEAJJlYWXCrAr0D"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
         "name": "Metas e Versos (feat. Brunno Ramos)",
         "url": "https://open.spotify.com/album/1lvWIINLaBBYpz419bFlF0"
       },
@@ -291,22 +331,6 @@
       "duration_ms": 203081,
       "name": "Metas e Versos (feat. Brunno Ramos)",
       "url": "https://open.spotify.com/track/1Doa0Lxwyy3t5VXTVZFR9F"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "Ju\u00edzo Final",
-        "url": "https://open.spotify.com/album/6vn7pXMOSJHxTwUYkfNNOf"
-      },
-      "artists": [
-        {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
-        }
-      ],
-      "duration_ms": 149576,
-      "name": "Ju\u00edzo Final",
-      "url": "https://open.spotify.com/track/7tyML8BrEAJJlYWXCrAr0D"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -347,22 +371,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Te Agrade\u00e7o",
-        "url": "https://open.spotify.com/album/3w0JXy6UdPI8fMYo5O4TsG"
-      },
-      "artists": [
-        {
-          "name": "MC Jamil",
-          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
-        }
-      ],
-      "duration_ms": 136087,
-      "name": "Te Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/5DDWvqCt4JhlTy1gRo8Aj2"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "Ningu\u00e9m Me Entende",
         "url": "https://open.spotify.com/album/0H6cZpz9voCS4SpneRvu3f"
       },
@@ -399,6 +407,22 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
+        "name": "Te Agrade\u00e7o",
+        "url": "https://open.spotify.com/album/3w0JXy6UdPI8fMYo5O4TsG"
+      },
+      "artists": [
+        {
+          "name": "MC Jamil",
+          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+        }
+      ],
+      "duration_ms": 136087,
+      "name": "Te Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/5DDWvqCt4JhlTy1gRo8Aj2"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
         "name": "Fatos & Fatos",
         "url": "https://open.spotify.com/album/59bnawd1kF0zjtvAF1w9fh"
       },
@@ -419,54 +443,6 @@
       "duration_ms": 184324,
       "name": "Fatos & Fatos",
       "url": "https://open.spotify.com/track/448GP0uBndTsfEbx89H7dY"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "Primeiro e U\u0301ltimo",
-        "url": "https://open.spotify.com/album/75fiLD9CFlKt2JOCth6LLW"
-      },
-      "artists": [
-        {
-          "name": "Arthur Pompeo",
-          "url": "https://open.spotify.com/artist/6BeBYkKRsxy3Kw6iYTKoPP"
-        },
-        {
-          "name": "Cefas Music",
-          "url": "https://open.spotify.com/artist/1npL9RAyQ9lqL9CSKGZuUg"
-        },
-        {
-          "name": "Isadora Pompeu",
-          "url": "https://open.spotify.com/artist/58FEhqSreSEQ4x9CXDk7Im"
-        }
-      ],
-      "duration_ms": 162036,
-      "name": "Primeiro e U\u0301ltimo",
-      "url": "https://open.spotify.com/track/72UhDf5qi1m7KaufxMnL5F"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "\u00c9 Voc\u00ea",
-        "url": "https://open.spotify.com/album/0Q3XvlrJ3lFZhR22nzEFYX"
-      },
-      "artists": [
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        },
-        {
-          "name": "Brunno Ramos",
-          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
-        },
-        {
-          "name": "Paloma Possi",
-          "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
-        }
-      ],
-      "duration_ms": 231575,
-      "name": "\u00c9 Voc\u00ea",
-      "url": "https://open.spotify.com/track/3dQXxShR7tRJF7of1tmPQ7"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -555,6 +531,30 @@
       "duration_ms": 285634,
       "name": "Messias (feat. MN MC, Dona Kelly, Sarah Renata, tiago arrais & Jo\u00e3o Carlos Jr)",
       "url": "https://open.spotify.com/track/6WpsUNO3xmsctxQfwZpVYy"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "Primeiro e U\u0301ltimo",
+        "url": "https://open.spotify.com/album/75fiLD9CFlKt2JOCth6LLW"
+      },
+      "artists": [
+        {
+          "name": "Arthur Pompeo",
+          "url": "https://open.spotify.com/artist/6BeBYkKRsxy3Kw6iYTKoPP"
+        },
+        {
+          "name": "Cefas Music",
+          "url": "https://open.spotify.com/artist/1npL9RAyQ9lqL9CSKGZuUg"
+        },
+        {
+          "name": "Isadora Pompeu",
+          "url": "https://open.spotify.com/artist/58FEhqSreSEQ4x9CXDk7Im"
+        }
+      ],
+      "duration_ms": 162036,
+      "name": "Primeiro e U\u0301ltimo",
+      "url": "https://open.spotify.com/track/72UhDf5qi1m7KaufxMnL5F"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -807,26 +807,18 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Dependo de Ti (Remix)",
-        "url": "https://open.spotify.com/album/45mod29sjkt5TH1VPubweA"
+        "name": "Se P\u00e1",
+        "url": "https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC"
       },
       "artists": [
         {
-          "name": "Lito Atalaia",
-          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
-        },
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+          "name": "Ney Moura",
+          "url": "https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4"
         }
       ],
-      "duration_ms": 222472,
-      "name": "Dependo de Ti - Remix",
-      "url": "https://open.spotify.com/track/4Hop1Q65T8brZjw3c4DI0j"
+      "duration_ms": 163794,
+      "name": "Se P\u00e1",
+      "url": "https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -863,18 +855,26 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Se P\u00e1",
-        "url": "https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC"
+        "name": "Dependo de Ti (Remix)",
+        "url": "https://open.spotify.com/album/45mod29sjkt5TH1VPubweA"
       },
       "artists": [
         {
-          "name": "Ney Moura",
-          "url": "https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4"
+          "name": "Lito Atalaia",
+          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
+        },
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
-      "duration_ms": 163794,
-      "name": "Se P\u00e1",
-      "url": "https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR"
+      "duration_ms": 222472,
+      "name": "Dependo de Ti - Remix",
+      "url": "https://open.spotify.com/track/4Hop1Q65T8brZjw3c4DI0j"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1303,6 +1303,30 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
+        "name": "\u00caxodo I (Fruto de Ora\u00e7\u00e3o)",
+        "url": "https://open.spotify.com/album/62Pg15YV5qYPjpwJqdwnLn"
+      },
+      "artists": [
+        {
+          "name": "Felipin",
+          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
+        },
+        {
+          "name": "Cela \u00c9feso",
+          "url": "https://open.spotify.com/artist/7ueKl9kOlGIYEi6uVdlYVB"
+        },
+        {
+          "name": "Moskitto",
+          "url": "https://open.spotify.com/artist/3okdXZyurX68tcNnjx0HQM"
+        }
+      ],
+      "duration_ms": 283018,
+      "name": "\u00caxodo I (Fruto de Ora\u00e7\u00e3o)",
+      "url": "https://open.spotify.com/track/4Z8MeZrbHIyfJVQt5Pgcsg"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
         "name": "Disciples Cypher",
         "url": "https://open.spotify.com/album/2Pxxk66txREI90St2qNpgJ"
       },
@@ -1331,30 +1355,6 @@
       "duration_ms": 328322,
       "name": "Disciples Cypher",
       "url": "https://open.spotify.com/track/3JycOIzOf9bbspspBDqJah"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "\u00caxodo I (Fruto de Ora\u00e7\u00e3o)",
-        "url": "https://open.spotify.com/album/62Pg15YV5qYPjpwJqdwnLn"
-      },
-      "artists": [
-        {
-          "name": "Felipin",
-          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
-        },
-        {
-          "name": "Cela \u00c9feso",
-          "url": "https://open.spotify.com/artist/7ueKl9kOlGIYEi6uVdlYVB"
-        },
-        {
-          "name": "Moskitto",
-          "url": "https://open.spotify.com/artist/3okdXZyurX68tcNnjx0HQM"
-        }
-      ],
-      "duration_ms": 283018,
-      "name": "\u00caxodo I (Fruto de Ora\u00e7\u00e3o)",
-      "url": "https://open.spotify.com/track/4Z8MeZrbHIyfJVQt5Pgcsg"
     },
     {
       "added_at": "2023-05-05 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲をまとめてチェック。ゴールデンウィーク特別版！Cover: YOASOBI
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,197 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,248 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 99 | [メロウ](https://open.spotify.com/track/6cGU6sOzRem6E8S7tCme1n) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [メロウ](https://open.spotify.com/album/0jkxbnOM0JnTw4c3Uegf6e) | 4:09 |
 | 100 | [有頂天猫](https://open.spotify.com/track/3HgnyK2LWyhLtVnNFsCyQx) | [キヨ](https://open.spotify.com/artist/3AV2Gkfk7UMNVXeZFIlKBh) | [有頂天猫](https://open.spotify.com/album/1RSOLGYn6VhabvrG2tBuaH) | 3:40 |
 
-Snapshot ID: `MCw3ZTkwNjg0ZWEwMGMxMmQ0MzE0YTY1ZGY5MTY1MDdmNzI0N2I5Zjgx`
+Snapshot ID: `MCwzNWFjZWMyNDM0OGM1YzVkNGVjNGMzNmNiYTEzY2Q5YWI2M2NiNTRi`

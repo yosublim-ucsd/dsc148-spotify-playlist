@@ -1,12 +1,12 @@
 {
   "description": "Classic soul music for the perfect dinner.",
-  "num_followers": 57147,
+  "num_followers": 57161,
   "original_name": "Soulful Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzMwNWQ4NzFkOGY3ZWFjNGJmNGMxYjhmYTZiMjNjMTFjZDc5MmIy",
+  "snapshot_id": "MCxhNWQwNDE2Y2E5NDgzMzk1NjBiMGYyMWZhMTdhYWY3YTY2ZDk0MDk0",
   "tracks": [
     {
       "added_at": "2023-01-09 13:10:50",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Nightshift",
-        "url": "https://open.spotify.com/album/6QRiOSB53KZEe22LfWr6EP"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 306560,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/23IK8TF2MSiLnuEjaYPfVV"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "The First Family of Soul: The Best of The Five Stairsteps",
         "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 197160,
       "name": "O-o-h Child",
       "url": "https://open.spotify.com/track/74JdR9aXE6I74oS1BVRsvb"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Nightshift",
+        "url": "https://open.spotify.com/album/6QRiOSB53KZEe22LfWr6EP"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 306560,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/23IK8TF2MSiLnuEjaYPfVV"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Make Way for Dionne Warwick",
-        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
+        "name": "Bedroom Classics, Vol. 2",
+        "url": "https://open.spotify.com/album/5SUJuwK3WUmX1OxrJUiw6n"
       },
       "artists": [
         {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+          "name": "Peabo Bryson",
+          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
         }
       ],
-      "duration_ms": 178333,
-      "name": "Walk on By",
-      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
+      "duration_ms": 255720,
+      "name": "If Ever You're in My Arms Again",
+      "url": "https://open.spotify.com/track/4TIkesxpN5caX6XpsiirnH"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -783,34 +783,18 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Bedroom Classics, Vol. 2",
-        "url": "https://open.spotify.com/album/5SUJuwK3WUmX1OxrJUiw6n"
+        "name": "Make Way for Dionne Warwick",
+        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
       },
       "artists": [
         {
-          "name": "Peabo Bryson",
-          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
         }
       ],
-      "duration_ms": 255720,
-      "name": "If Ever You're in My Arms Again",
-      "url": "https://open.spotify.com/track/4TIkesxpN5caX6XpsiirnH"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
-        "name": "One Eighty",
-        "url": "https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH"
-      },
-      "artists": [
-        {
-          "name": "Ambrosia",
-          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
-        }
-      ],
-      "duration_ms": 324040,
-      "name": "Biggest Part of Me",
-      "url": "https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04"
+      "duration_ms": 178333,
+      "name": "Walk on By",
+      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -827,6 +811,22 @@
       "duration_ms": 127186,
       "name": "(What A) Wonderful World",
       "url": "https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "One Eighty",
+        "url": "https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH"
+      },
+      "artists": [
+        {
+          "name": "Ambrosia",
+          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
+        }
+      ],
+      "duration_ms": 324040,
+      "name": "Biggest Part of Me",
+      "url": "https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -1791,38 +1791,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Give Me the Night",
-        "url": "https://open.spotify.com/album/6qwOcN9wZgVF0bishcfFsh"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 286960,
-      "name": "Love X Love",
-      "url": "https://open.spotify.com/track/1Gnufs5iuI3h5ow29J7tOO"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/49oDv0OMQgI3bZvY5AshBQ"
-      },
-      "artists": [
-        {
-          "name": "The Crusaders",
-          "url": "https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b"
-        }
-      ],
-      "duration_ms": 332133,
-      "name": "Street Life - Single Edit",
-      "url": "https://open.spotify.com/track/6Llr9PVC1cirKUwu7Fle83"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "The Very Best of Aretha Franklin - The 70's",
         "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
       },
@@ -1839,6 +1807,22 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
+        "name": "Give Me the Night",
+        "url": "https://open.spotify.com/album/6qwOcN9wZgVF0bishcfFsh"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 286960,
+      "name": "Love X Love",
+      "url": "https://open.spotify.com/track/1Gnufs5iuI3h5ow29J7tOO"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
         "name": "All In The Name Of Love",
         "url": "https://open.spotify.com/album/1ciLacI1DyPsAWFW4fCE15"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 286973,
       "name": "Always",
       "url": "https://open.spotify.com/track/5ecomU85GzPgOJZ315oZ88"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/49oDv0OMQgI3bZvY5AshBQ"
+      },
+      "artists": [
+        {
+          "name": "The Crusaders",
+          "url": "https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b"
+        }
+      ],
+      "duration_ms": 332133,
+      "name": "Street Life - Single Edit",
+      "url": "https://open.spotify.com/track/6Llr9PVC1cirKUwu7Fle83"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -1903,6 +1903,22 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
+        "name": "The Very Best of Aretha Franklin - The 70's",
+        "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 333933,
+      "name": "Bridge over Troubled Water",
+      "url": "https://open.spotify.com/track/5YD86vWLu1YqR818b1GADO"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
         "name": "All The Great Love Songs",
         "url": "https://open.spotify.com/album/5ZsWgDWvZ2luAHlczO8h2o"
       },
@@ -1931,22 +1947,6 @@
       "duration_ms": 253004,
       "name": "Betcha by Golly Wow (Live)",
       "url": "https://open.spotify.com/track/0w6qnStMvC77oV25dTSiYg"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
-        "name": "The Very Best of Aretha Franklin - The 70's",
-        "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 333933,
-      "name": "Bridge over Troubled Water",
-      "url": "https://open.spotify.com/track/5YD86vWLu1YqR818b1GADO"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Come into My Life: The Very Best of Joyce Sims",
-        "url": "https://open.spotify.com/album/73n6TRu2pLwThwpXZiIxdP"
-      },
-      "artists": [
-        {
-          "name": "Joyce Sims",
-          "url": "https://open.spotify.com/artist/4AL3YviSMI70ARkSOHlxbQ"
-        }
-      ],
-      "duration_ms": 227773,
-      "name": "Come into My Life (Radio Mix)",
-      "url": "https://open.spotify.com/track/0cpTfK32V7XdCoOkPJI2kO"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "80's R&B Love Songs",
         "url": "https://open.spotify.com/album/4L3FI9QrKFMUTphuIm5m7n"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 246906,
       "name": "No One In the World",
       "url": "https://open.spotify.com/track/3P8v2bYhgJ7Eba8Br6pr3H"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Come into My Life: The Very Best of Joyce Sims",
+        "url": "https://open.spotify.com/album/73n6TRu2pLwThwpXZiIxdP"
+      },
+      "artists": [
+        {
+          "name": "Joyce Sims",
+          "url": "https://open.spotify.com/artist/4AL3YviSMI70ARkSOHlxbQ"
+        }
+      ],
+      "duration_ms": 227773,
+      "name": "Come into My Life (Radio Mix)",
+      "url": "https://open.spotify.com/track/0cpTfK32V7XdCoOkPJI2kO"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2363,18 +2363,22 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "The Best of Ashford & Simpson",
-        "url": "https://open.spotify.com/album/3YkK371EOh3Rs7sroGUYxv"
+        "name": "R&B: From Doo-Wop To Hip-Hop",
+        "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
       },
       "artists": [
         {
-          "name": "Ashford & Simpson",
-          "url": "https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi"
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 219378,
-      "name": "It Seems To Hang On - Single Version",
-      "url": "https://open.spotify.com/track/1j6Zoilc4AQFqcC7JPPUvO"
+      "duration_ms": 211426,
+      "name": "Wake up Everybody (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/6aeSAKcpmdXyxUJK4ojyyR"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2395,22 +2399,18 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "R&B: From Doo-Wop To Hip-Hop",
-        "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
+        "name": "The Best of Ashford & Simpson",
+        "url": "https://open.spotify.com/album/3YkK371EOh3Rs7sroGUYxv"
       },
       "artists": [
         {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+          "name": "Ashford & Simpson",
+          "url": "https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi"
         }
       ],
-      "duration_ms": 211426,
-      "name": "Wake up Everybody (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/6aeSAKcpmdXyxUJK4ojyyR"
+      "duration_ms": 219378,
+      "name": "It Seems To Hang On - Single Version",
+      "url": "https://open.spotify.com/track/1j6Zoilc4AQFqcC7JPPUvO"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2467,26 +2467,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "The Masters Series: Mellow Groove",
-        "url": "https://open.spotify.com/album/4T9c1w0NNJ4RC60igvEo1m"
-      },
-      "artists": [
-        {
-          "name": "Nicole",
-          "url": "https://open.spotify.com/artist/0wYizqFaidLBrf0CO4naWu"
-        },
-        {
-          "name": "Timmy Thomas",
-          "url": "https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B"
-        }
-      ],
-      "duration_ms": 283053,
-      "name": "New York Eyes",
-      "url": "https://open.spotify.com/track/20oUeycXhRS3iNp0Hl32hh"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "Back for More",
         "url": "https://open.spotify.com/album/4QshQgkwrqisn6j9yJZ1qb"
       },
@@ -2503,6 +2483,26 @@
       "duration_ms": 309226,
       "name": "I'm Back for More",
       "url": "https://open.spotify.com/track/2zC0uKFfERvtOYNKendhEs"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "The Masters Series: Mellow Groove",
+        "url": "https://open.spotify.com/album/4T9c1w0NNJ4RC60igvEo1m"
+      },
+      "artists": [
+        {
+          "name": "Nicole",
+          "url": "https://open.spotify.com/artist/0wYizqFaidLBrf0CO4naWu"
+        },
+        {
+          "name": "Timmy Thomas",
+          "url": "https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B"
+        }
+      ],
+      "duration_ms": 283053,
+      "name": "New York Eyes",
+      "url": "https://open.spotify.com/track/20oUeycXhRS3iNp0Hl32hh"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2587,6 +2587,26 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
+        "name": "Memorial Album",
+        "url": "https://open.spotify.com/album/5y03J1x7hj6yIm3SazQOcQ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Ace",
+          "url": "https://open.spotify.com/artist/3sFl2kyQgKddOq2sKgv6ah"
+        },
+        {
+          "name": "Johnny Otis & His Orchestra",
+          "url": "https://open.spotify.com/artist/61uK6fz9cwzgSdEAdXGGI1"
+        }
+      ],
+      "duration_ms": 148886,
+      "name": "Pledging My Love",
+      "url": "https://open.spotify.com/track/1UA7hoj7yPwW8V9NxXG8yT"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
         "name": "Smooth Soul",
         "url": "https://open.spotify.com/album/7JXpGPQdyjtD1FEMGGipSD"
       },
@@ -2615,26 +2635,6 @@
       "duration_ms": 196653,
       "name": "Come On Train - Original Mix",
       "url": "https://open.spotify.com/track/7sa9QlfY9MUYT2ysod85Rz"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
-        "name": "Memorial Album",
-        "url": "https://open.spotify.com/album/5y03J1x7hj6yIm3SazQOcQ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Ace",
-          "url": "https://open.spotify.com/artist/3sFl2kyQgKddOq2sKgv6ah"
-        },
-        {
-          "name": "Johnny Otis & His Orchestra",
-          "url": "https://open.spotify.com/artist/61uK6fz9cwzgSdEAdXGGI1"
-        }
-      ],
-      "duration_ms": 148886,
-      "name": "Pledging My Love",
-      "url": "https://open.spotify.com/track/1UA7hoj7yPwW8V9NxXG8yT"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2875,22 +2875,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "I'll Come Running Back (Mr Scruff Edit) - Single",
-        "url": "https://open.spotify.com/album/2EKyIHpA6cuVTY3ORE3azl"
-      },
-      "artists": [
-        {
-          "name": "Sandra Wright",
-          "url": "https://open.spotify.com/artist/7ljM9d3lbU9yR0NN8z18ER"
-        }
-      ],
-      "duration_ms": 125040,
-      "name": "I'll Come Running Back (Mr Scruff Edit)",
-      "url": "https://open.spotify.com/track/3ZfXSNjdRAegkuiz5JCNGj"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "The Essential Patti LaBelle",
         "url": "https://open.spotify.com/album/2BTLvBugU9bxzrXZtnFjn3"
       },
@@ -2903,6 +2887,22 @@
       "duration_ms": 300120,
       "name": "Love, Need And Want You",
       "url": "https://open.spotify.com/track/5Ikg1hHVz53mrytVXGrztN"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "I'll Come Running Back (Mr Scruff Edit) - Single",
+        "url": "https://open.spotify.com/album/2EKyIHpA6cuVTY3ORE3azl"
+      },
+      "artists": [
+        {
+          "name": "Sandra Wright",
+          "url": "https://open.spotify.com/artist/7ljM9d3lbU9yR0NN8z18ER"
+        }
+      ],
+      "duration_ms": 125040,
+      "name": "I'll Come Running Back (Mr Scruff Edit)",
+      "url": "https://open.spotify.com/track/3ZfXSNjdRAegkuiz5JCNGj"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2923,22 +2923,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Patches",
-        "url": "https://open.spotify.com/album/2AcHC18egTq63cyBagwINA"
-      },
-      "artists": [
-        {
-          "name": "Clarence Carter",
-          "url": "https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB"
-        }
-      ],
-      "duration_ms": 159040,
-      "name": "Your Love Lifted Me",
-      "url": "https://open.spotify.com/track/15F4bGHoQrlwmbBGTAfcu3"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "Funky Entertainment",
         "url": "https://open.spotify.com/album/4tLBJzaV71qm3TyepiEIBy"
       },
@@ -2951,6 +2935,22 @@
       "duration_ms": 251733,
       "name": "You Put A Charge In My Life",
       "url": "https://open.spotify.com/track/1r69KR1iUoLfoN4Z44Okca"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Patches",
+        "url": "https://open.spotify.com/album/2AcHC18egTq63cyBagwINA"
+      },
+      "artists": [
+        {
+          "name": "Clarence Carter",
+          "url": "https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB"
+        }
+      ],
+      "duration_ms": 159040,
+      "name": "Your Love Lifted Me",
+      "url": "https://open.spotify.com/track/15F4bGHoQrlwmbBGTAfcu3"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2987,22 +2987,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Chronicle: The 20 Greatest Hits",
-        "url": "https://open.spotify.com/album/1QMVI7vXJxC2f4R65Mu1zd"
-      },
-      "artists": [
-        {
-          "name": "Johnnie Taylor",
-          "url": "https://open.spotify.com/artist/4OGuNAnRFWZOgOA2d51taz"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "Steal Away",
-      "url": "https://open.spotify.com/track/6olcjo8bBSkin9fJtFj7hB"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "I'm A Stranger",
         "url": "https://open.spotify.com/album/4n5x5ax3mxf1ZIiLASmRrN"
       },
@@ -3015,6 +2999,22 @@
       "duration_ms": 336004,
       "name": "Now That I Have You",
       "url": "https://open.spotify.com/track/2QA4gRDRIkZswWy21GuRsE"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Chronicle: The 20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1QMVI7vXJxC2f4R65Mu1zd"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Taylor",
+          "url": "https://open.spotify.com/artist/4OGuNAnRFWZOgOA2d51taz"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "Steal Away",
+      "url": "https://open.spotify.com/track/6olcjo8bBSkin9fJtFj7hB"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -3067,22 +3067,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Holding the Losing Hand Hotlanta Soul 3",
-        "url": "https://open.spotify.com/album/3mm79Dcs5BqNaH4EeV6EyZ"
-      },
-      "artists": [
-        {
-          "name": "ROSZETTA JOHNSON",
-          "url": "https://open.spotify.com/artist/0CP7yKkslqES37eF1XGArP"
-        }
-      ],
-      "duration_ms": 214626,
-      "name": "A Woman's Way",
-      "url": "https://open.spotify.com/track/02UzkKpbiibdXtoczM0V2l"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "Second to None",
         "url": "https://open.spotify.com/album/4oREyJ5IyyNwPjbv8p6BlH"
       },
@@ -3095,6 +3079,22 @@
       "duration_ms": 174333,
       "name": "Win Or Lose",
       "url": "https://open.spotify.com/track/3rbkg8h6onwZLP0QJXt6oI"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Holding the Losing Hand Hotlanta Soul 3",
+        "url": "https://open.spotify.com/album/3mm79Dcs5BqNaH4EeV6EyZ"
+      },
+      "artists": [
+        {
+          "name": "ROSZETTA JOHNSON",
+          "url": "https://open.spotify.com/artist/0CP7yKkslqES37eF1XGArP"
+        }
+      ],
+      "duration_ms": 214626,
+      "name": "A Woman's Way",
+      "url": "https://open.spotify.com/track/02UzkKpbiibdXtoczM0V2l"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -3211,22 +3211,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Love And Beauty\u2026plus (The Complete Invictus Masters)",
-        "url": "https://open.spotify.com/album/4vnnYkH9s4srcV5hHImJqh"
-      },
-      "artists": [
-        {
-          "name": "Brian Holland",
-          "url": "https://open.spotify.com/artist/4XPpkQyvnxglukLPiqL3bp"
-        }
-      ],
-      "duration_ms": 239706,
-      "name": "I\u2019m So Glad (Part 1)",
-      "url": "https://open.spotify.com/track/1IibRWHZZj3piR7fHM1wyd"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "More: Johnny's Greatest Hits",
         "url": "https://open.spotify.com/album/2CB8bmEPNvBmBMglM7lFW7"
       },
@@ -3243,6 +3227,22 @@
       "duration_ms": 200933,
       "name": "Small World",
       "url": "https://open.spotify.com/track/2DugUShG2wj81Zf51l29Je"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Love And Beauty\u2026plus (The Complete Invictus Masters)",
+        "url": "https://open.spotify.com/album/4vnnYkH9s4srcV5hHImJqh"
+      },
+      "artists": [
+        {
+          "name": "Brian Holland",
+          "url": "https://open.spotify.com/artist/4XPpkQyvnxglukLPiqL3bp"
+        }
+      ],
+      "duration_ms": 239706,
+      "name": "I\u2019m So Glad (Part 1)",
+      "url": "https://open.spotify.com/track/1IibRWHZZj3piR7fHM1wyd"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -3359,22 +3359,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Soul Survivors",
-        "url": "https://open.spotify.com/album/1WdZEdjTwZnAtbrdjd80Gl"
-      },
-      "artists": [
-        {
-          "name": "Soul Survivors",
-          "url": "https://open.spotify.com/artist/6gUnpPjRKhAq45Mmi2hmkx"
-        }
-      ],
-      "duration_ms": 274920,
-      "name": "Start All Over",
-      "url": "https://open.spotify.com/track/7MS752SypWNJNeDHrhRHjK"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "A Man Needs a Woman",
         "url": "https://open.spotify.com/album/6JpD37NS5oX9Db7m51Hj8s"
       },
@@ -3387,6 +3371,22 @@
       "duration_ms": 154453,
       "name": "The Dark End of the Street",
       "url": "https://open.spotify.com/track/1dDKfo8La1mM5xpLK3Rqcv"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Soul Survivors",
+        "url": "https://open.spotify.com/album/1WdZEdjTwZnAtbrdjd80Gl"
+      },
+      "artists": [
+        {
+          "name": "Soul Survivors",
+          "url": "https://open.spotify.com/artist/6gUnpPjRKhAq45Mmi2hmkx"
+        }
+      ],
+      "duration_ms": 274920,
+      "name": "Start All Over",
+      "url": "https://open.spotify.com/track/7MS752SypWNJNeDHrhRHjK"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -3439,22 +3439,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "My Melody (Expanded)",
-        "url": "https://open.spotify.com/album/29qGTutavRfDv7gAcUC9pz"
-      },
-      "artists": [
-        {
-          "name": "Deniece Williams",
-          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
-        }
-      ],
-      "duration_ms": 275946,
-      "name": "Silly - Single Version",
-      "url": "https://open.spotify.com/track/4f8sTGdbepee0EIFve7G2s"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "25 Best Of...",
         "url": "https://open.spotify.com/album/7eurwOvLFAKYcWlzlGTofF"
       },
@@ -3467,6 +3451,22 @@
       "duration_ms": 180009,
       "name": "Go Back Home",
       "url": "https://open.spotify.com/track/6GubMMDcAAA77gbakbezWI"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "My Melody (Expanded)",
+        "url": "https://open.spotify.com/album/29qGTutavRfDv7gAcUC9pz"
+      },
+      "artists": [
+        {
+          "name": "Deniece Williams",
+          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
+        }
+      ],
+      "duration_ms": 275946,
+      "name": "Silly - Single Version",
+      "url": "https://open.spotify.com/track/4f8sTGdbepee0EIFve7G2s"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -3663,22 +3663,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Feeling My Way",
-        "url": "https://open.spotify.com/album/498xTVgNKJPfl5RvkjmbFQ"
-      },
-      "artists": [
-        {
-          "name": "Margie Joseph",
-          "url": "https://open.spotify.com/artist/5pq13QK3UcktjZaDw6dJEc"
-        }
-      ],
-      "duration_ms": 241360,
-      "name": "How Will I Know - LP / Single Version",
-      "url": "https://open.spotify.com/track/0btDLlwDTLubHUz8z7EsO3"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "Greatest Part of Loving You",
         "url": "https://open.spotify.com/album/0cG0hpDr9F9tI6gIxrtkcp"
       },
@@ -3691,6 +3675,22 @@
       "duration_ms": 266569,
       "name": "Greatest Part Of Loving",
       "url": "https://open.spotify.com/track/5epNw1pgwvjmyY3eJWfNfT"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Feeling My Way",
+        "url": "https://open.spotify.com/album/498xTVgNKJPfl5RvkjmbFQ"
+      },
+      "artists": [
+        {
+          "name": "Margie Joseph",
+          "url": "https://open.spotify.com/artist/5pq13QK3UcktjZaDw6dJEc"
+        }
+      ],
+      "duration_ms": 241360,
+      "name": "How Will I Know - LP / Single Version",
+      "url": "https://open.spotify.com/track/0btDLlwDTLubHUz8z7EsO3"
     },
     {
       "added_at": "2023-01-09 13:10:50",

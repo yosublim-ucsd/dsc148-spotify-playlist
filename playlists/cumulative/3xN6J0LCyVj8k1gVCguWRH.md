@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,203 songs - 5 day 6 hr 34 min
+2,205 songs - 5 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1306,6 +1306,7 @@
 | [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 | 2022-07-26 |  |
 | [Music Is My Way Of Life \- JKriv Remix](https://open.spotify.com/track/5DLEESU416w0XuJwr4ceux) | [Full Flava](https://open.spotify.com/artist/5t5JR8OaTz7lsKo9xFKnl3), [Kelli Sae](https://open.spotify.com/artist/5BtZ4qimzjq5yGth6PBJ17), [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K) | [Music Is My Way Of Life \(JKriv Remix\)](https://open.spotify.com/album/4SPyd2Z0wZNort5bJnDPyO) | 5:52 | 2021-11-27 | 2021-12-12 |
 | [Music Is My Woman](https://open.spotify.com/track/6XTAAKLGIP4vCCHA2ZNM9u) | [LAZYRAVE](https://open.spotify.com/artist/3AfVo7omZ2E22MfF27d5ca) | [Music Is My Woman](https://open.spotify.com/album/3sft3s7A0UEb9uMi2B5eB9) | 3:37 | 2020-04-18 | 2020-04-25 |
+| [Music of Life](https://open.spotify.com/track/1O92r7YlzWBp7jYNn7HK8E) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [Music of Life](https://open.spotify.com/album/5tqdzZyBKECO8AmpqNnOLX) | 4:00 | 2023-05-11 |  |
 | [Muñequita de Papel.](https://open.spotify.com/track/5ZRQEXAV0zLdlpEpfVPLtI) | [Amïn](https://open.spotify.com/artist/3LpVt4Rfa5RkNNisRd9vy0) | [Muñequita de Papel.](https://open.spotify.com/album/486iqtxMxt24sEIx09LoH9) | 3:37 | 2021-03-26 | 2021-04-11 |
 | [My 1st Song](https://open.spotify.com/track/69W44ENAu1t2JmZU6OJ2B7) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Black Album](https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO) | 4:45 | 2020-11-17 | 2020-12-04 |
 | [My Affection \(with PARTYNEXTDOOR\)](https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:33 | 2020-08-20 | 2023-02-12 |
@@ -1565,6 +1566,7 @@
 | [Redbone \(Cover\)](https://open.spotify.com/track/2KEt5L1bTaO319HB6xFfeu) | [Payton Moore](https://open.spotify.com/artist/0fpvePRZytTAtkNCIFasva) | [Redbone \(Cover\)](https://open.spotify.com/album/2py6c9kDc98goosXHmHCam) | 3:09 | 2023-01-13 | 2023-02-04 |
 | [Reelin' In The Years](https://open.spotify.com/track/1I7zHEdDx8Ny5RxzYPqsU2) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw) | 4:35 | 2019-09-29\* | 2020-08-20 |
 | [Reeling In The Years](https://open.spotify.com/track/3Xe4JagghOfs9NF1xaqbb8) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [A Decade Of Steely Dan](https://open.spotify.com/album/68HbhACgHQvDhfMIzQYt8P) | 4:38 | 2021-07-12 | 2021-11-19 |
+| [Release Me](https://open.spotify.com/track/6V2NbweLkOmRqhgN3Yxi7V) | [Ay Wing](https://open.spotify.com/artist/7cjLa6AQcbH9XWQYmPNpX4) | [Release Me](https://open.spotify.com/album/1i03UtsEINmOf8Mvjb5OLb) | 2:40 | 2023-05-10 |  |
 | [Remember Where You Are](https://open.spotify.com/track/1yELCmfuqESOtVx27fwVfB) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [What's Your Pleasure?](https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp) | 5:34 | 2021-07-12 | 2021-11-19 |
 | [Remix \#1](https://open.spotify.com/track/5PKtWt0ljzFq66dzGYHdha) | [Sean Kool](https://open.spotify.com/artist/7L3wTnkJU2jSzeOyX30nKR) | [Remix \#1](https://open.spotify.com/album/2R1w7k6GLzhh7hbrxfpUB2) | 1:32 | 2021-04-10 | 2021-05-05 |
 | [Rent Free](https://open.spotify.com/track/4tEvJ7cLWHjFbyCaZQdUeO) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Rent Free](https://open.spotify.com/album/2zXRdqWwdfLizJ99cbwn3Z) | 3:45 | 2022-03-04 | 2022-03-26 |

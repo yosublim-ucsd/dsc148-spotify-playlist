@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel.",
-  "num_followers": 261122,
+  "num_followers": 261166,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDY3N2NlOTViMDk0Yzk0YWQxODBhZjNmZDg3ZmFlMTMxNjEyMDFk",
+  "snapshot_id": "MCw0MjUxNDBmMDlmNTc1MzBkMDg5MTE5YmYwMDIxMWJkNDk1YWIzYzRm",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -303,18 +303,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Silvio Rodriguez y Pablo Milanes",
-        "url": "https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f"
+        "name": "Mis Otros Yo",
+        "url": "https://open.spotify.com/album/0k4rvGoxyV0esVswNRzL0j"
       },
       "artists": [
         {
-          "name": "Silvio Rodriguez and Pablo Milanes",
-          "url": "https://open.spotify.com/artist/182fhYiodsjX2AZnZlWWzK"
+          "name": "Fato",
+          "url": "https://open.spotify.com/artist/0U00G7l8bOOiI8NwNN8dqq"
         }
       ],
-      "duration_ms": 190066,
-      "name": "Te Doy Una Cancion",
-      "url": "https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC"
+      "duration_ms": 239200,
+      "name": "Me Hice Una Promesa",
+      "url": "https://open.spotify.com/track/4Yv9a9mYYPI4MKELXF5BLd"
     },
     {
       "added_at": "2022-08-19 02:13:59",
@@ -339,18 +339,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Mis Otros Yo",
-        "url": "https://open.spotify.com/album/0k4rvGoxyV0esVswNRzL0j"
+        "name": "Silvio Rodriguez y Pablo Milanes",
+        "url": "https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f"
       },
       "artists": [
         {
-          "name": "Fato",
-          "url": "https://open.spotify.com/artist/0U00G7l8bOOiI8NwNN8dqq"
+          "name": "Silvio Rodriguez and Pablo Milanes",
+          "url": "https://open.spotify.com/artist/182fhYiodsjX2AZnZlWWzK"
         }
       ],
-      "duration_ms": 239200,
-      "name": "Me Hice Una Promesa",
-      "url": "https://open.spotify.com/track/4Yv9a9mYYPI4MKELXF5BLd"
+      "duration_ms": 190066,
+      "name": "Te Doy Una Cancion",
+      "url": "https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Alfonsina Y El Mar",
+        "url": "https://open.spotify.com/album/5y1BwfQejuUHwwRCc4f0Eh"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "duration_ms": 279333,
+      "name": "Alfonsina Y El Mar",
+      "url": "https://open.spotify.com/track/2QVKzeaFuSmr6ckZLuKUDB"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "14 de Ciento Volando de 14",
         "url": "https://open.spotify.com/album/3LsMHrpcvea3tvd3zl16DX"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 154800,
       "name": "A Sabicas (with Joaqu\u00edn Sabina & Miguel Poveda)",
       "url": "https://open.spotify.com/track/4wc6PmKBQUA1VNvrmk89Ad"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Alfonsina Y El Mar",
-        "url": "https://open.spotify.com/album/5y1BwfQejuUHwwRCc4f0Eh"
-      },
-      "artists": [
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        }
-      ],
-      "duration_ms": 279333,
-      "name": "Alfonsina Y El Mar",
-      "url": "https://open.spotify.com/track/2QVKzeaFuSmr6ckZLuKUDB"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Arde Estocolmo",
+        "url": "https://open.spotify.com/album/2wj1Bn2fDfq5o7aQadrFPE"
+      },
+      "artists": [
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        }
+      ],
+      "duration_ms": 193875,
+      "name": "M\u00e1rgenes",
+      "url": "https://open.spotify.com/track/0QSE0jxcnhvp0yfxCmAz6r"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "M\u00e1s Alto",
         "url": "https://open.spotify.com/album/2Gxxed1c45BQTqHbfBbmsG"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 259066,
       "name": "Espectro",
       "url": "https://open.spotify.com/track/4JtwqHO8budsBHlr9XRWUH"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Arde Estocolmo",
-        "url": "https://open.spotify.com/album/2wj1Bn2fDfq5o7aQadrFPE"
-      },
-      "artists": [
-        {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
-        }
-      ],
-      "duration_ms": 193875,
-      "name": "M\u00e1rgenes",
-      "url": "https://open.spotify.com/track/0QSE0jxcnhvp0yfxCmAz6r"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Dentro de Mi",
+        "url": "https://open.spotify.com/album/2j6jUidNIwLsbsZQVbf2Tw"
+      },
+      "artists": [
+        {
+          "name": "Enrique Quezadas",
+          "url": "https://open.spotify.com/artist/1MkyRRV3u7M1vb7LfkWiUP"
+        }
+      ],
+      "duration_ms": 295306,
+      "name": "Dentro de Mi",
+      "url": "https://open.spotify.com/track/2qWT4vvbFcgsjWSmbMY4qX"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "Colecci\u00f3n Nos Queda Su Canci\u00f3n, Vol. 8: Entre Otros",
         "url": "https://open.spotify.com/album/2drFmUeIpLaHk3R3WeuqDR"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 206204,
       "name": "Para una Imaginaria Mar\u00eda del Carmen",
       "url": "https://open.spotify.com/track/7HHoh2ZEXYchu6tNdBQJwE"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Dentro de Mi",
-        "url": "https://open.spotify.com/album/2j6jUidNIwLsbsZQVbf2Tw"
-      },
-      "artists": [
-        {
-          "name": "Enrique Quezadas",
-          "url": "https://open.spotify.com/artist/1MkyRRV3u7M1vb7LfkWiUP"
-        }
-      ],
-      "duration_ms": 295306,
-      "name": "Dentro de Mi",
-      "url": "https://open.spotify.com/track/2qWT4vvbFcgsjWSmbMY4qX"
     },
     {
       "added_at": "2021-07-29 16:46:05",

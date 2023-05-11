@@ -4,7 +4,7 @@
 
 > A new shade of Country\. Cover: Logan Halstead
 
-441 songs - 1 day 3 hr 13 min
+442 songs - 1 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,7 +256,8 @@
 | [Love Is Selfish](https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Love Is Selfish](https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A) | 2:52 | 2022-01-14 | 2022-09-10 |
 | [Love You Tonight](https://open.spotify.com/track/6eB1ykuJXmtoJ8CmHra4ip) | [Caleb Lee Hutchinson](https://open.spotify.com/artist/1Ep9lOZuPcClsgR25odHK6) | [Slot Machine Syndrome](https://open.spotify.com/album/6FJMaNrAirTTv36lmZD3d4) | 3:03 | 2021-12-17 | 2022-09-17 |
 | [Lydia](https://open.spotify.com/track/7CfW5ThHbtvOjXKU9h0Cw2) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Lydia](https://open.spotify.com/album/5wiu4newGcJlBKsj4qWalD) | 6:11 | 2022-11-11 | 2023-05-06 |
-| [Lyin' low](https://open.spotify.com/track/2dXGmRWNxNwSakbBPxAbiH) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [How the Mighty Fall](https://open.spotify.com/album/7jo6e3KUvEk7DqwfI9eS6w) | 4:18 | 2021-12-17 |  |
+| [Lyin' low](https://open.spotify.com/track/2dXGmRWNxNwSakbBPxAbiH) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [How the Mighty Fall](https://open.spotify.com/album/7jo6e3KUvEk7DqwfI9eS6w) | 4:18 | 2021-12-17 | 2023-05-11 |
+| [Lyin' Low](https://open.spotify.com/track/3g8UrwhapPBLVUU6WX6MH0) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [How the Mighty Fall](https://open.spotify.com/album/0xSyaaBZ3hrYf8rROAs125) | 4:18 | 2023-05-05 |  |
 | [Mahogany](https://open.spotify.com/track/0yh0dKIdp1uTZMVau5J0oH) | [Chris Acker](https://open.spotify.com/artist/6zOZGDOyElPbPuiI8kahym) | [Odd, Ordinary & Otherwise](https://open.spotify.com/album/0vpnY9l4BZxZqj3SbLEifx) | 3:21 | 2022-02-18 | 2022-03-12 |
 | [Marfa Lights](https://open.spotify.com/track/62TNzM2AkC9NiTu9nEcmMI) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Marfa Lights](https://open.spotify.com/album/24NOQ09OAx540cYX976EEo) | 3:42 | 2021-12-17 | 2022-10-15 |
 | [Married Alone \(feat\. Vince Gill\)](https://open.spotify.com/track/0zvwzNNpHS4Z4cLk1KNOzD) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Married Alone \(feat\. Vince Gill\)](https://open.spotify.com/album/1wOHneMzn80srFomjCpTR9) | 4:14 | 2022-08-19 | 2023-03-04 |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-808 songs - 2 day 9 hr 59 min
+809 songs - 2 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,6 +406,7 @@
 | [Leaving Earth](https://open.spotify.com/track/5TiJIieCsjUMFbQJiYUOwH) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp) | [Creation](https://open.spotify.com/album/759sclnD3ycdQqfjMpmnl4) | 7:06 | 2019-05-26\* | 2020-06-12 |
 | [Leaving Earth 2](https://open.spotify.com/track/0u74chsSgmcIyhhOqTrEyV) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Irene](https://open.spotify.com/album/156TeTaPykSuBs9lh0h2vc) | 3:13 | 2019-06-19\* | 2022-04-21 |
 | [Let You](https://open.spotify.com/track/3mZUPucA0LcSKoZbLHRhyY) | [Autumn Glow](https://open.spotify.com/artist/4VlqUkFSCfcGj6CpDMPd0b) | [Let You](https://open.spotify.com/album/2KupnIXyKS0Mprddu9on23) | 3:26 | 2021-09-10 | 2022-07-29 |
+| [Let You In \(feat\. East Forest\)](https://open.spotify.com/track/2weK6bsvMtRaYWydEnMhfw) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Let You In \(feat\. East Forest\)](https://open.spotify.com/album/5HxnTLT7UjQ2DQxtaYqG1T) | 5:56 | 2023-05-09 |  |
 | [Liberty Flute](https://open.spotify.com/track/17U2BzBip7bVEICiEoXSDe) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ) | [Feels](https://open.spotify.com/album/3JJooKCUYSStZMieqXok6U) | 4:51 | 2019-05-26\* | 2020-08-26 |
 | [Lido](https://open.spotify.com/track/0HZtVLVL6oLU9WobKQxqGu) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Isles](https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9) | 3:20 | 2021-01-23 |  |
 | [Lies](https://open.spotify.com/track/3ITz7EuikyRkS8FL9dVJoB) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc) | [Realm Of Consciousness](https://open.spotify.com/album/3JhFuFkXfTCjXj4Uh6gx2w) | 5:40 | 2019-05-26\* | 2019-06-19 |
@@ -581,7 +582,7 @@
 | [Rings](https://open.spotify.com/track/5DQEWQoJ3deYCPkRIFm3Ci) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Epoch](https://open.spotify.com/album/0GXI4iAc5FshqWgIlaNAXO) | 4:08 | 2019-06-19\* | 2020-10-21 |
 | [Rising Fire \- Montoya Remix](https://open.spotify.com/track/0J6aBcWVVVsqNWs7ATnfcB) | [Clap! Clap!](https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF), [Kety Fusco](https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR), [Montoya](https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa) | [Black Acre: A Year Under](https://open.spotify.com/album/7cD1A8Z4vay6arf4JYwL9N) | 4:13 | 2020-12-04 | 2022-07-12 |
 | [Rising from the Ashes](https://open.spotify.com/track/6GygZN0o9JNs1x3adaLBBh) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx) | [New Edge](https://open.spotify.com/album/33fn2sXWPDkFRKJe58KJbr) | 3:19 | 2019-06-19\* | 2020-10-19 |
-| [Rising Urge \(Lost Tapes\) \- Original](https://open.spotify.com/track/4D2zAaCFuDMlIboD7UH8X5) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Rising Urge \(Lost Tapes\) \[Original\]](https://open.spotify.com/album/2d6veFrbZmMkQucorw6HhG) | 5:06 | 2022-07-01 |  |
+| [Rising Urge \(Lost Tapes\) \- Original](https://open.spotify.com/track/4D2zAaCFuDMlIboD7UH8X5) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Rising Urge \(Lost Tapes\) \[Original\]](https://open.spotify.com/album/2d6veFrbZmMkQucorw6HhG) | 5:06 | 2022-07-01 | 2023-05-11 |
 | [Rising Urge \- Lost Tapes](https://open.spotify.com/track/7Bm0j8ALNJ7ledPN0fKfBw) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Rising Urge \(Lost Tapes\)](https://open.spotify.com/album/6vWgySuOqxQcfOyvzYV74B) | 5:06 | 2019-06-19\* | 2022-04-16 |
 | [Roman](https://open.spotify.com/track/6xIoTyFvqpswNNiLPpfLvz) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Young Alaska](https://open.spotify.com/album/2DstkNuTgbUk6hcHHMaVed) | 7:28 | 2019-06-19\* | 2020-08-26 |
 | [Rose's Thorn](https://open.spotify.com/track/0VCUjtHZm8SRvKLWGzQKBf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 4:24 | 2022-07-01 |  |

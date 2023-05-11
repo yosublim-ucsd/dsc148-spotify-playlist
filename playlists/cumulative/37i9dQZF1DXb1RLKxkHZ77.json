@@ -346,7 +346,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 187164,
       "name": "Berkunjung Di Hari Raya",
       "url": "https://open.spotify.com/track/6bWQZ2rQR71qPr59MGZurE"
@@ -2225,6 +2225,24 @@
     },
     {
       "album": {
+        "name": "Masih Yuna",
+        "url": "https://open.spotify.com/album/6yzS4B3517AyjytLYAukvm"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "Masih Sunyi",
+      "url": "https://open.spotify.com/track/5VyaFEMVKCFuuKXAlIgD1W"
+    },
+    {
+      "album": {
         "name": "Masuk",
         "url": "https://open.spotify.com/album/6N5gdazIpVUbG1WIjNid1g"
       },
@@ -2254,7 +2272,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 185040,
       "name": "Menanti",
       "url": "https://open.spotify.com/track/6ML4LAPC9WmSyoorNSkSOD"
@@ -2422,6 +2440,24 @@
       "duration_ms": 228923,
       "name": "Mini Love",
       "url": "https://open.spotify.com/track/2dAmKNCT1ImkO4sNtolvuH"
+    },
+    {
+      "album": {
+        "name": "Miris",
+        "url": "https://open.spotify.com/album/0eptI6ypa8ZdFkim1AfPAv"
+      },
+      "artists": [
+        {
+          "name": "Amylea",
+          "url": "https://open.spotify.com/artist/0wKBxTlgjMQvntR1t7JhZR"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220740,
+      "name": "Miris",
+      "url": "https://open.spotify.com/track/5flEc5qL87VHnDqSLrMfSm"
     },
     {
       "album": {
@@ -3843,6 +3879,24 @@
     },
     {
       "album": {
+        "name": "Tiada Lagi",
+        "url": "https://open.spotify.com/album/76AVJicfUQrh5sWOj5JW4u"
+      },
+      "artists": [
+        {
+          "name": "Sheila Majid",
+          "url": "https://open.spotify.com/artist/6ccyDNcfDQR2yDbF3JV0xl"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277133,
+      "name": "Tiada Lagi",
+      "url": "https://open.spotify.com/track/0zPMKNDboMccix9ZPBaA8Z"
+    },
+    {
+      "album": {
         "name": "Tiara",
         "url": "https://open.spotify.com/album/6UASAVNYB9kczpKIlX0aFJ"
       },
@@ -3930,7 +3984,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 257142,
       "name": "Tulus",
       "url": "https://open.spotify.com/track/3IXfUTUTICN5nvlTtrbf4C"

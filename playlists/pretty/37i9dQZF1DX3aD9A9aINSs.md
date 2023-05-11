@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Rana Türkyılmaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,918 likes - 65 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,909 likes - 65 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 50 | [Sakarmeke](https://open.spotify.com/track/7Mz4xJZOUhn39QKhdV7xLA) | [Bade Nosa](https://open.spotify.com/artist/1HBN8wkDHbw1cp8EX4CFpX) | [Sakarmeke](https://open.spotify.com/album/0HHLLFIOunNN7Yj9e5egIk) | 4:41 |
 | 51 | [Siyah](https://open.spotify.com/track/2uD0dS2XrzluaG0uCEKrtp) | [Şebnem Tovuzlu](https://open.spotify.com/artist/1SPYtBFfU5U3p2yQG0Wsrv) | [Siyah](https://open.spotify.com/album/2TpcUdUNAfd5Go4poG0FWx) | 4:25 |
 | 52 | [Unut Artık](https://open.spotify.com/track/3Rww9JQKfsX5r3alCtLxG4) | [Özge Şafak](https://open.spotify.com/artist/5dOcJTlBOadLXvablIpZCi) | [Unut Artık](https://open.spotify.com/album/7fJg5P51UPLKKFsjBViqjv) | 2:51 |
-| 53 | [Hiçbir Çiçek](https://open.spotify.com/track/2Ml0ffDN0ci6d6hA2hHVdw) | [Sevda Deniz Karali](https://open.spotify.com/artist/15Z0sgBT1nnrFz5lkxVFmZ) | [Hiçbir Çiçek](https://open.spotify.com/album/05IRiSGqlFYUnW6gS976bw) | 2:50 |
+| 53 | [Hiçbir Çiçek](https://open.spotify.com/track/2Ml0ffDN0ci6d6hA2hHVdw) | [Sevda Deniz Karali](https://open.spotify.com/artist/15Z0sgBT1nnrFz5lkxVFmZ) | [Hiçbir Çiçek](https://open.spotify.com/album/05IRiSGqlFYUnW6gS976bw) | 2:52 |
 | 54 | [Yıldızlardan Oluştum](https://open.spotify.com/track/2KHhQ70vgWlCTVuSDD6pMZ) | [Öykü Aras](https://open.spotify.com/artist/3nqLD7UecbqSOcLSuGCw1M) | [Yıldızlardan Oluştum](https://open.spotify.com/album/75OkNOWX4i3D2SWaAdmqj6) | 3:12 |
 | 55 | [Çöl](https://open.spotify.com/track/3gcadccxHzdcP410i4N8s8) | [Canay Doğan](https://open.spotify.com/artist/67neQRprEWkco2mIyKkXCb) | [Çöl](https://open.spotify.com/album/1bxbSinqZ0bc4WBEv01225) | 3:42 |
 | 56 | [Bazı Şeyler](https://open.spotify.com/track/3NZaf3A2o9GG0xEeRJh7xy) | [Ezgi Gergin](https://open.spotify.com/artist/2EMMNlNS4JYqsJpXZNFCcb) | [Bazı Şeyler](https://open.spotify.com/album/6dJhfO3L473gMxI2RlQMzx) | 2:29 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 64 | [After Bach](https://open.spotify.com/track/7H18Ltox2LGLnB1HVmtvCi) | [Aysedeniz Gokcin](https://open.spotify.com/artist/0MhNojJNQsaW1KXqKTX2Y0) | [After Bach](https://open.spotify.com/album/4GfQfjGTu1fCsKXZE3sJLg) | 3:17 |
 | 65 | [Doğum/Birth revisited](https://open.spotify.com/track/6kaNbSBY6ZD2QhEwR2WDuq) | [Büşra Kayıkçı](https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E) | [Doğum/Birth revisited](https://open.spotify.com/album/0SjlP9XA8xAKll2JDUO08K) | 4:52 |
 
-Snapshot ID: `MCxkZDA1YzZjZWY3OGM3NmQxNDk4MjIzZGNhZWI0ZWYzN2QyMmNmNjY5`
+Snapshot ID: `MCw0NjM3YzVlMDQwOWE1ODg2OWZjNjNkNTA2YjMyOGFiODM0MjM1Y2Mx`

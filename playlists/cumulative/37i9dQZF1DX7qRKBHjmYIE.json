@@ -5373,6 +5373,28 @@
     },
     {
       "album": {
+        "name": "No Quiero Llegar",
+        "url": "https://open.spotify.com/album/0sDILyPpj276t7sl9FaezS"
+      },
+      "artists": [
+        {
+          "name": "Cigarbox Man",
+          "url": "https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV"
+        },
+        {
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223451,
+      "name": "No Quiero Llegar",
+      "url": "https://open.spotify.com/track/6f3jXPScNHBPi2MdaXSAbD"
+    },
+    {
+      "album": {
         "name": "NORTE A SUR",
         "url": "https://open.spotify.com/album/0Cfa8A3NCWF9pgPKZHbgOO"
       },
@@ -7694,7 +7716,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 175007,
       "name": "t\u00fa y yo",
       "url": "https://open.spotify.com/track/0Ss650In2VXxwhXy166Gu4"

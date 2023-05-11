@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-7,745 songs - 16 day 18 hr 29 min
+7,746 songs - 16 day 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2257,7 +2257,8 @@
 | [FLEEK](https://open.spotify.com/track/2BQMGNScdPTSB7OdZiwE0U) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [FLEEK](https://open.spotify.com/album/4QDkFgUYaGqqB7m079sRuS) | 2:30 | 2022-12-15 | 2022-12-24 |
 | [FLEX](https://open.spotify.com/track/2WDNr2kjwAhtlqEXELyYkz) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ) | [FLEX](https://open.spotify.com/album/5phOcxFTbyfLAHaIVflpLf) | 2:14 | 2023-01-05 | 2023-01-13 |
 | [Flip A Switch\. \(feat\. Coi Leray\) \- Remix](https://open.spotify.com/track/72b7GzsnUAjsk5I56hLkjp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Flip A Switch\. \(feat\. Coi Leray\) \[Remix\]](https://open.spotify.com/album/6il1IQ2A2yvZaGPgcqXDBd) | 3:21 | 2023-04-20 | 2023-04-28 |
-| [FlippChill3](https://open.spotify.com/track/10sqEv4i44ptfTBF4OSq9e) | [M9](https://open.spotify.com/artist/2WPbnqVgrR3nonwfeuBYmx) | [Gamechanger](https://open.spotify.com/album/0LqV4LW19VtjAWVfEUFWFO) | 3:47 | 2023-05-04 |  |
+| [FlippChill3](https://open.spotify.com/track/10sqEv4i44ptfTBF4OSq9e) | [M9](https://open.spotify.com/artist/2WPbnqVgrR3nonwfeuBYmx) | [Gamechanger](https://open.spotify.com/album/0LqV4LW19VtjAWVfEUFWFO) | 3:47 | 2023-05-04 | 2023-05-11 |
+| [FlippChill3](https://open.spotify.com/track/7HRZ68ZZOoQvmYWYWpQ4Q7) | [M9](https://open.spotify.com/artist/2WPbnqVgrR3nonwfeuBYmx) | [Gamechanger](https://open.spotify.com/album/7ls6zCjc7AaiZH8jnOoE2T) | 3:47 | 2023-05-05 |  |
 | [Float \(feat\. Seun Kuti & Egypt 80\)](https://open.spotify.com/track/2JIY6nN5kkkfNz0TckPqYu) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Egypt 80](https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW) | [Float \(feat\. Seun Kuti & Egypt 80\)](https://open.spotify.com/album/6KfYPDq58mLwd3yjOfXIU7) | 4:02 | 2023-02-16 | 2023-02-24 |
 | [Flood](https://open.spotify.com/track/2UInEBrxfzqshPhwiuzzVV) | [Vilma Flood](https://open.spotify.com/artist/34mQpvCjyifYcrScoIlcmW) | [Flood](https://open.spotify.com/album/6p9HOpXSI81mlJVdjXt6A6) | 2:56 | 2023-03-02 | 2023-03-10 |
 | [Flossin’ \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/3zDMTxEANpj6hedyCrHXBg) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Flossin’ \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/5SzQj9rNCNbXcp1jyr9LWb) | 2:48 | 2022-01-20 | 2022-01-28 |
@@ -4692,7 +4693,7 @@
 | [Nervous](https://open.spotify.com/track/5PJFQNheT35xP0Frs5BR2m) | [Slopes](https://open.spotify.com/artist/3KJJk2RU4RbO0yoDUZzHwZ) | [Nervous](https://open.spotify.com/album/5BrhIjbCDdIm82lovJYrUn) | 2:48 | 2023-03-10 | 2023-03-18 |
 | [Nervous](https://open.spotify.com/track/5tPgNrhouhvhh6xyf9X3C0) | [Slopes](https://open.spotify.com/artist/3KJJk2RU4RbO0yoDUZzHwZ) | [Nervous](https://open.spotify.com/album/74DygHe0nMcYjfcGt3O5Hg) | 2:48 | 2023-03-09 | 2023-03-11 |
 | [Nervous Baby](https://open.spotify.com/track/6r8QYOKuakZN4TvynGvfjP) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Nervous Baby](https://open.spotify.com/album/4HLH8OhPIA7EvYFhyqOXKG) | 3:05 | 2022-05-26 | 2022-06-03 |
-| [Never Alone](https://open.spotify.com/track/19F9zI5CTg1MZAVMA9EQ5P) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t), [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Never Alone](https://open.spotify.com/album/3JqNfyou9m91bGd9s7HMMU) | 2:23 | 2023-05-04 |  |
+| [Never Alone](https://open.spotify.com/track/19F9zI5CTg1MZAVMA9EQ5P) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t), [Elina](https://open.spotify.com/artist/1SGZQU1X9gWYaF7VXe4P9C) | [Never Alone](https://open.spotify.com/album/3JqNfyou9m91bGd9s7HMMU) | 2:23 | 2023-05-04 |  |
 | [Never Be Alone](https://open.spotify.com/track/5VwpadAaMN0CCVeaiSvf4B) | [NOTSOBAD](https://open.spotify.com/artist/2aLLYZ0sdqweMEPFUyYIXJ), [Siadou](https://open.spotify.com/artist/6P4MaYD97c9CnGibMPf4rd) | [Never Be Alone](https://open.spotify.com/album/18AfrSLYrHc0mPQ40nnSnm) | 3:00 | 2023-02-02 | 2023-02-10 |
 | [Never Be Mine](https://open.spotify.com/track/4hPlaTkPr2PDvvnLXqwHSe) | [Christian Ramirez](https://open.spotify.com/artist/6KCg6KcJ6vIjLkyhvtjvtk) | [Never Be Mine](https://open.spotify.com/album/6Xd7O6HueJWfR0d5Kagspe) | 2:48 | 2022-08-05 | 2022-08-12 |
 | [Never Be Mine](https://open.spotify.com/track/40X3bzEwiAyvjo9b9vOS5M) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Never Be Mine](https://open.spotify.com/album/7MigeuNpatBwRQB5n0CWui) | 3:42 | 2023-03-30 | 2023-04-07 |
@@ -7419,7 +7420,7 @@
 | [What's Wrong With Your Head](https://open.spotify.com/track/1Qep5GpmekRswT7G765MuZ) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn) | [What's Wrong With Your Head](https://open.spotify.com/album/0XALUdQ5xYLxfildxaWyCt) | 2:15 | 2023-05-04 |  |
 | [What, Me Worry?](https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [What, Me Worry?](https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA) | 2:57 | 2022-02-11 | 2022-02-18 |
 | [Whatever](https://open.spotify.com/track/48hZBPxdgHlFb5w5KxQCVh) | [Dopha](https://open.spotify.com/artist/7KNTK1VIkAqbjrFWGhYSwn) | [Whatever](https://open.spotify.com/album/2J8eTNCVJxf7KFeNf8O16w) | 3:03 | 2023-05-04 |  |
-| [whatever](https://open.spotify.com/track/2WSORfJyTbgy90ZtJYcOZX) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [whatever](https://open.spotify.com/album/7dt6sUWujCzWUkNhI73mk7) | 1:59 | 2023-05-04 |  |
+| [whatever](https://open.spotify.com/track/2WSORfJyTbgy90ZtJYcOZX) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [whatever](https://open.spotify.com/album/7dt6sUWujCzWUkNhI73mk7) | 1:59 | 2023-05-04 |  |
 | [Whatever It Takes](https://open.spotify.com/track/2Bv3pU74afHFWdCAZ8irlT) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Whatever It Takes](https://open.spotify.com/album/0cgPswcsgn7OSiqsrk71TO) | 2:33 | 2023-04-27 | 2023-05-05 |
 | [Whatever Simon Says](https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whatever Simon Says](https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn) | 3:32 | 2022-03-17 | 2022-03-25 |
 | [Wheelie \(feat\. 21 Savage\)](https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Wheelie \(feat\. 21 Savage\)](https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag) | 2:50 | 2022-03-10 | 2022-03-18 |

@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 12543,
+  "num_followers": 12562,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjQ3YjcyMjMzMzBiMTIyODhhMjNkNDhjYTBmMmUyZWMwYzQ1ZGY5",
+  "snapshot_id": "MCwyYWE1NWVmYjUzZGYyYWQ3NDYzYmVlYjYyZGFlNzE3ZDgxMTMzZjY4",
   "tracks": [
     {
       "added_at": "2023-05-04 23:00:00",
@@ -519,26 +519,6 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Spell (Remix)",
-        "url": "https://open.spotify.com/album/1PkHJwwi8qhvfT7f5UDPfW"
-      },
-      "artists": [
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 173304,
-      "name": "Spell - Remix",
-      "url": "https://open.spotify.com/track/1rgpvUOxnI0Mno6OTsXTFh"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
         "name": "19 & Dangerous",
         "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 208500,
       "name": "Beggie Beggie",
       "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
+        "name": "Spell (Remix)",
+        "url": "https://open.spotify.com/album/1PkHJwwi8qhvfT7f5UDPfW"
+      },
+      "artists": [
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 173304,
+      "name": "Spell - Remix",
+      "url": "https://open.spotify.com/track/1rgpvUOxnI0Mno6OTsXTFh"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "What Have We Done",
-        "url": "https://open.spotify.com/album/2hYF39ZoQ7zf9bXHi0Qe9n"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 180773,
-      "name": "Confession",
-      "url": "https://open.spotify.com/track/2yIUb32c5s0cjMFuQJKTy7"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
         "name": "Come Closer",
         "url": "https://open.spotify.com/album/24ExWn1W0i4NzG1CPxXYXT"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 161583,
       "name": "Come Closer",
       "url": "https://open.spotify.com/track/2SBPw60niF4PMa0i5HRrBS"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
+        "name": "What Have We Done",
+        "url": "https://open.spotify.com/album/2hYF39ZoQ7zf9bXHi0Qe9n"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 180773,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/2yIUb32c5s0cjMFuQJKTy7"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Suma",
-        "url": "https://open.spotify.com/album/78R2R0naBOdOkgGPu8SHz8"
-      },
-      "artists": [
-        {
-          "name": "Samuel G",
-          "url": "https://open.spotify.com/artist/0AioSVgKfEMoGOqYYYE4zF"
-        }
-      ],
-      "duration_ms": 181743,
-      "name": "Suma",
-      "url": "https://open.spotify.com/track/5qlgg0Av4R0jd8KV7Uc0HM"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
         "name": "ULTRALIGHT",
         "url": "https://open.spotify.com/album/555u9I3MowqYOghGFSAR7U"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 237346,
       "name": "MEDITATE",
       "url": "https://open.spotify.com/track/3luCfdUPwws6omTEmIUKXX"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
+        "name": "Suma",
+        "url": "https://open.spotify.com/album/78R2R0naBOdOkgGPu8SHz8"
+      },
+      "artists": [
+        {
+          "name": "Samuel G",
+          "url": "https://open.spotify.com/artist/0AioSVgKfEMoGOqYYYE4zF"
+        }
+      ],
+      "duration_ms": 181743,
+      "name": "Suma",
+      "url": "https://open.spotify.com/track/5qlgg0Av4R0jd8KV7Uc0HM"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
+        "name": "Love Takes Me Higher",
+        "url": "https://open.spotify.com/album/02TpC9jzJjMYvZBRU9R9oy"
+      },
+      "artists": [
+        {
+          "name": "Josh X",
+          "url": "https://open.spotify.com/artist/2h2eheYRqB6maoKoP76zsc"
+        }
+      ],
+      "duration_ms": 142040,
+      "name": "Love Takes Me Higher",
+      "url": "https://open.spotify.com/track/1VwvA88UpQZXbYAxlNMMeD"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
         "name": "History",
         "url": "https://open.spotify.com/album/44zdr1Zpmdyh01GgGIONF0"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 177946,
       "name": "History",
       "url": "https://open.spotify.com/track/42ksa1gP6QjQo12FUd0C1H"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
-        "name": "Love Takes Me Higher",
-        "url": "https://open.spotify.com/album/02TpC9jzJjMYvZBRU9R9oy"
-      },
-      "artists": [
-        {
-          "name": "Josh X",
-          "url": "https://open.spotify.com/artist/2h2eheYRqB6maoKoP76zsc"
-        }
-      ],
-      "duration_ms": 142040,
-      "name": "Love Takes Me Higher",
-      "url": "https://open.spotify.com/track/1VwvA88UpQZXbYAxlNMMeD"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Boujee",
-        "url": "https://open.spotify.com/album/7sjFxdJ9g5uPLNCxwfO2Sk"
-      },
-      "artists": [
-        {
-          "name": "Keeya Keys",
-          "url": "https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6"
-        },
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        }
-      ],
-      "duration_ms": 207037,
-      "name": "Boujee",
-      "url": "https://open.spotify.com/track/3UgVuTqgQTO8u3m9Zuqotq"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
         "name": "Fight For You",
         "url": "https://open.spotify.com/album/6c9lJuYxGTn9u7WEYimS67"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 208896,
       "name": "Fight For You",
       "url": "https://open.spotify.com/track/486xqw5vpm02s7I4ft7p3Q"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
+        "name": "Boujee",
+        "url": "https://open.spotify.com/album/7sjFxdJ9g5uPLNCxwfO2Sk"
+      },
+      "artists": [
+        {
+          "name": "Keeya Keys",
+          "url": "https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "duration_ms": 207037,
+      "name": "Boujee",
+      "url": "https://open.spotify.com/track/3UgVuTqgQTO8u3m9Zuqotq"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
+        "name": "No Stress",
+        "url": "https://open.spotify.com/album/0oZfRIJnwhVHbtgeHqoPvB"
+      },
+      "artists": [
+        {
+          "name": "Tony Frank",
+          "url": "https://open.spotify.com/artist/6wC3pFGIEB7mzGlBdSbseh"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 155141,
+      "name": "No Stress",
+      "url": "https://open.spotify.com/track/4MB9KjYBDN1EsXFGDXVdfC"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
         "name": "Feelin U",
         "url": "https://open.spotify.com/album/4OcqHYAYxhyYfSZ81IZpo6"
       },
@@ -1379,26 +1399,6 @@
       "duration_ms": 198555,
       "name": "Bordeaux",
       "url": "https://open.spotify.com/track/0eAudWJz6SUYPA2CGE0Z8H"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
-        "name": "No Stress",
-        "url": "https://open.spotify.com/album/0oZfRIJnwhVHbtgeHqoPvB"
-      },
-      "artists": [
-        {
-          "name": "Tony Frank",
-          "url": "https://open.spotify.com/artist/6wC3pFGIEB7mzGlBdSbseh"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 155141,
-      "name": "No Stress",
-      "url": "https://open.spotify.com/track/4MB9KjYBDN1EsXFGDXVdfC"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Naked Wire",
-        "url": "https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG"
-      },
-      "artists": [
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Naked Wire",
-      "url": "https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
         "name": "Dutty Love",
         "url": "https://open.spotify.com/album/5PJtsGGSWAP8qDTVu0zXJ4"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 171428,
       "name": "Dutty Love",
       "url": "https://open.spotify.com/track/6k7TGPkAitlkUamq2maMNT"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
+        "name": "Naked Wire",
+        "url": "https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Naked Wire",
+      "url": "https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN"
     }
   ],
   "unique_name": "Chill Bops",

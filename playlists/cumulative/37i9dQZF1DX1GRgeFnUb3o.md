@@ -4,7 +4,7 @@
 
 > Releases from the legendary label.
 
-122 songs - 7 hr 26 min
+123 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Hunted Down \- Remastered](https://open.spotify.com/track/4nnDr2vyxvKudkOH4CQv3K) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Screaming Life/Fopp](https://open.spotify.com/album/2yN7nOorUYUHWZdbZLeOB1) | 2:42 | 2019-10-02 | 2022-07-29 |
 | [I Love Rock 'N' Roll](https://open.spotify.com/track/78WsXfoC65EE9X5djYf2jx) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Munki](https://open.spotify.com/album/6MdsCUxxSnrkVkcKUfl2kn) | 2:37 | 2019-10-02 | 2022-07-29 |
 | [I Love Rock N Roll](https://open.spotify.com/track/74AdkaCp9HYmS8eA9S5PK8) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Munki](https://open.spotify.com/album/6BMc7cqJLOb9Z6RF5IXiPR) | 2:37 | 2019-10-02 |  |
-| [I Saw an X\-Ray of a Girl Passing Gas](https://open.spotify.com/track/2YJWPV8spfJFo9fybOf2CH) | [Butthole Surfers](https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs) | [Hairway To Steven](https://open.spotify.com/album/3Izyai1krlLpf4BjUvxMx4) | 4:56 | 2019-10-02 |  |
+| [I Saw an X\-Ray of a Girl Passing Gas](https://open.spotify.com/track/0dYjJIrxPlMU0TuOWodDs9) | [Butthole Surfers](https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs) | [Hairway To Steven](https://open.spotify.com/album/1fFKMj2ukkKHeatyWyYYfA) | 4:56 | 2019-10-02 |  |
+| [I Saw an X\-Ray of a Girl Passing Gas](https://open.spotify.com/track/2YJWPV8spfJFo9fybOf2CH) | [Butthole Surfers](https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs) | [Hairway To Steven](https://open.spotify.com/album/3Izyai1krlLpf4BjUvxMx4) | 4:56 | 2019-10-02 | 2023-05-11 |
 | [Keep On Trash](https://open.spotify.com/track/1a615F4l3HgxpLBxeNCoS9) | [The Go](https://open.spotify.com/artist/2m0xdXsYglZKSzqVkZtFi8) | [Whatcha Doin'](https://open.spotify.com/album/76ioQYsj2LjKW7hewrz9uX) | 3:32 | 2019-10-02 |  |
 | [Keep On Trash](https://open.spotify.com/track/4ndkiZgBO9CPlzOPKaV4IL) | [The Go](https://open.spotify.com/artist/2m0xdXsYglZKSzqVkZtFi8) | [Whatcha Doin'](https://open.spotify.com/album/6SAkZCPTD0cM0GDTSEfS5m) | 3:32 | 2019-10-02 | 2022-07-29 |
 | [Kill Yr\. Idols](https://open.spotify.com/track/7h11bXXfAeNvvNDIGno9XW) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Confusion Is Sex \(Plus Kill Yr\. Idols\)](https://open.spotify.com/album/0WCESPeSMPElpEddTE4KeG) | 2:51 | 2019-10-02 |  |

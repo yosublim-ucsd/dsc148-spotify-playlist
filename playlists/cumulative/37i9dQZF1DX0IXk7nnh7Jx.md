@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI?si=f757c25bb9da48e0">Madison Ryann Ward</a>
 
-331 songs - 20 hr 16 min
+332 songs - 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Home Called Heaven](https://open.spotify.com/track/1RUgjAvt8majG62li8evpf) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Home Called Heaven](https://open.spotify.com/album/2QlmS7ToKED5SenA36CSsV) | 3:47 | 2023-02-19 |  |
 | [Hope](https://open.spotify.com/track/5zi9xHZ5qEdBSPkNVGumCY) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Hope](https://open.spotify.com/album/7bklnY03LmtbfgZQbU407O) | 2:59 | 2023-02-19 |  |
 | [I Am One](https://open.spotify.com/track/6cuwOV2JrWQSY2wKBCawzJ) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [I Am One](https://open.spotify.com/album/0UBI5alyeqYSys0BUPAnEF) | 4:10 | 2020-12-18 | 2023-02-19 |
-| [I Came Home](https://open.spotify.com/track/6u2fcb4doVMXe4BLacMrSc) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [I Met Jesus In Miami](https://open.spotify.com/album/5AoqaPhWwaCy49vv73guSG) | 3:50 | 2023-02-19 |  |
+| [I Came Home](https://open.spotify.com/track/6u2fcb4doVMXe4BLacMrSc) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [I Met Jesus In Miami](https://open.spotify.com/album/5AoqaPhWwaCy49vv73guSG) | 3:50 | 2023-02-19 | 2023-05-11 |
 | [I Could Sing Of Your Love Forever](https://open.spotify.com/track/3AH3BlWghzttvghcywuNX3) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [I Could Sing Of Your Love Forever](https://open.spotify.com/album/6CheSffpHQycPIZ4YwnWRj) | 3:56 | 2023-02-24 | 2023-03-03 |
 | [I Don't Want to Lose Touch](https://open.spotify.com/track/41pAcUqZqadRAMI4mATV2n) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo), [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP) | [I Don't Want to Lose Touch](https://open.spotify.com/album/4J9jdoEw6z9FWdf3gJVNGz) | 5:08 | 2023-04-07 |  |
 | [I Don’t Know](https://open.spotify.com/track/3tKhWuILxx3tWTNMkZ3GuF) | [Bela Konstancja](https://open.spotify.com/artist/3WZ3k9JoAfyD6wC5s8dHTn) | [I Don’t Know](https://open.spotify.com/album/6yYA31nTW832gp9usVSyhF) | 3:49 | 2020-12-18 | 2022-07-24 |
@@ -244,6 +244,7 @@
 | [Scotoma](https://open.spotify.com/track/0QXYZ9DHNY2D3jjkDveTdq) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Scotoma](https://open.spotify.com/album/3D67jo28f5OAlDX3dBgSMv) | 1:57 | 2023-02-20 |  |
 | [Seabird](https://open.spotify.com/track/3R11mM7L0MDY7xVHUp5TUX) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Seabird](https://open.spotify.com/album/7oG2VgFoXxqkrelrDhKlOU) | 3:02 | 2023-02-24 | 2023-04-22 |
 | [Self Righteous](https://open.spotify.com/track/2Ajaiy5blpMAe3jjMhBfYB) | [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Self Righteous](https://open.spotify.com/album/0scnkRQmi8ACXacs8nNJvj) | 3:28 | 2023-02-24 | 2023-03-11 |
+| [Shadow of Your Wings](https://open.spotify.com/track/7y8LVSztDWNpT8TPImzy3A) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Alex Taylor](https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi) | [Shadow of Your Wings](https://open.spotify.com/album/2Vf1XlTguvYdL63PgLSo5y) | 2:37 | 2023-04-21 |  |
 | [shine now](https://open.spotify.com/track/48DIlVS9amxr16u95y2CZd) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [shine now](https://open.spotify.com/album/4t5cWxseHAKq9Cf5sPEZ6x) | 2:50 | 2023-02-19 | 2023-04-14 |
 | [SLEEPIN!](https://open.spotify.com/track/7IeEeLdTBfXfRE6Er9ZZhz) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [SLEEPIN!](https://open.spotify.com/album/3FUhQgqZui42V0Sek6nb2P) | 2:40 | 2023-02-19 |  |
 | [Slow Down](https://open.spotify.com/track/0z0jIa4ieoF1U2kMXJRemg) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Slow Down](https://open.spotify.com/album/0R36i2T4Afvy3frSywQ9dy) | 3:07 | 2020-12-18 | 2023-02-19 |

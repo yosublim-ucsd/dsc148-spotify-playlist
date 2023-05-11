@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Lil Baby, DaBaby, and more\. Cover: Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,002 likes - 51 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,116 likes - 51 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 11 | [how u feel?](https://open.spotify.com/track/5BsigwhOMHxCkF6ntEhUQ5) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [If Looks Could Kill](https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29) | 3:53 |
 | 12 | [Still Movin' \(feat\. Fivio Foreign & Jay Critch\)](https://open.spotify.com/track/14feWRgz9wh0Z1OIFXcJGh) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [Still Movin' \(feat\. Fivio Foreign & Jay Critch\)](https://open.spotify.com/album/6vEioFzvVWKZxcrXEpDAUZ) | 2:22 |
 | 13 | [SELLIN CRACK \(feat\. Offset\)](https://open.spotify.com/track/4n5vrfS3mYdxiEz0ODBnlL) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [CALL DA FIREMAN](https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL) | 2:04 |
-| 14 | [Didn't Cha Know \[Feat\. Bilal\]](https://open.spotify.com/track/33VfEqHmo459jipU1W7it1) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [Live At Electric Lady \(Spotify Exclusive\)](https://open.spotify.com/album/1ZJIrjZ6OVtVC2TMAVlEQ4) | 4:23 |
+| 14 | [Didn't Cha Know \[Feat\. Bilal\] \- Live At Electric Lady](https://open.spotify.com/track/33VfEqHmo459jipU1W7it1) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [Live At Electric Lady](https://open.spotify.com/album/1ZJIrjZ6OVtVC2TMAVlEQ4) | 4:23 |
 | 15 | [Tiimmy Turner 2](https://open.spotify.com/track/0eoVAYAp4mq7UjT3WW8QMP) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Tiimmy Turner 2](https://open.spotify.com/album/6Bgdg8odR8SfvQMZ6lptXQ) | 2:30 |
 | 16 | [Healing](https://open.spotify.com/track/1l40rYTK1jU4OMpSK6BwD0) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Healing](https://open.spotify.com/album/6MKGuZlTv1ECBhjJ5AvrFl) | 2:40 |
 | 17 | [Brucifix](https://open.spotify.com/track/46mU5vw10PGn5yT9jVopns) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [WON'T HE DO IT](https://open.spotify.com/album/2neNj1lj4R6QgEyqwIrXLc) | 3:10 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 50 | [Been Here Before](https://open.spotify.com/track/3oSh9cXjrOqKcGXDpWCndn) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w) | [Been Here Before](https://open.spotify.com/album/7eXL8w60EH5cpkW4LpqjAM) | 3:52 |
 | 51 | [For a Long Time](https://open.spotify.com/track/4ptNuOJcx7V7FNTxkXCxNz) | [Star Pitchee](https://open.spotify.com/artist/77bGnvwtUdvzBMyo2kqutl), [Quincy](https://open.spotify.com/artist/19dpHprxtijzCuWbrtmGrL) | [For a Long Time](https://open.spotify.com/album/5xmkG61QhE8AfNxCMrNidR) | 3:29 |
 
-Snapshot ID: `MCwxMGM4MDE2ODFhZjQzY2IyZTJmZGZjMzU5ZDJjZTkyYzkyMWEyMWI2`
+Snapshot ID: `MCwxOGEyZjQxNzRiY2QwNmNiOGJmMGQzYTY5YzczOTNhYTk1OTdhMmVi`

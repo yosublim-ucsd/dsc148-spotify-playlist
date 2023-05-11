@@ -1,12 +1,12 @@
 {
   "description": "The emotional interludes we wish were longer.",
-  "num_followers": 11307,
+  "num_followers": 11306,
   "original_name": "Mood Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGYzMzk2YTYxYjAwYzg3YjA4ZjA1OWJhZmZjZTFmNzk4NDdhZjMz",
+  "snapshot_id": "MCw5YTI3YWE1Yzk0ODQ4Yzc0NDMyNDJlNjgyMTEwNTVlMDEzZTVlYjQ2",
   "tracks": [
     {
       "added_at": "2022-12-03 05:29:16",
@@ -115,22 +115,18 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "James Fauntleroy",
-          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 75800,
-      "name": "Wavy (Interlude) (feat. James Fauntleroy)",
-      "url": "https://open.spotify.com/track/3LcoHjgdNl4xtWVaJGSA1p"
+      "duration_ms": 62253,
+      "name": "All Of The Lights (Interlude)",
+      "url": "https://open.spotify.com/track/4D6TpthzUVNTjWQqfBW5Kb"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -155,18 +151,22 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
         }
       ],
-      "duration_ms": 62253,
-      "name": "All Of The Lights (Interlude)",
-      "url": "https://open.spotify.com/track/4D6TpthzUVNTjWQqfBW5Kb"
+      "duration_ms": 75800,
+      "name": "Wavy (Interlude) (feat. James Fauntleroy)",
+      "url": "https://open.spotify.com/track/3LcoHjgdNl4xtWVaJGSA1p"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Danity Kane",
-        "url": "https://open.spotify.com/album/7KD97Fr5oLwKPabOBdIMiV"
-      },
-      "artists": [
-        {
-          "name": "Danity Kane",
-          "url": "https://open.spotify.com/artist/3FD9VAd0ppjmKbfxF4LzUh"
-        }
-      ],
-      "duration_ms": 104093,
-      "name": "Come Over Interlude",
-      "url": "https://open.spotify.com/track/4czs4AZ1YfZGhVV2qkH5NP"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "Songs In A Minor (Expanded Edition)",
         "url": "https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 120933,
       "name": "Never Felt This Way",
       "url": "https://open.spotify.com/track/6FyPqOyyNJt5t7FICy1cdm"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Danity Kane",
+        "url": "https://open.spotify.com/album/7KD97Fr5oLwKPabOBdIMiV"
+      },
+      "artists": [
+        {
+          "name": "Danity Kane",
+          "url": "https://open.spotify.com/artist/3FD9VAd0ppjmKbfxF4LzUh"
+        }
+      ],
+      "duration_ms": 104093,
+      "name": "Come Over Interlude",
+      "url": "https://open.spotify.com/track/4czs4AZ1YfZGhVV2qkH5NP"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -531,6 +531,22 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
+        "name": "The Diary Of Alicia Keys",
+        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "Nobody Not Really (Interlude)",
+      "url": "https://open.spotify.com/track/4g8W8YNI1lbb4v8Rd49pmA"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
         "name": "Part III",
         "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 70386,
       "name": "Definition of a Bad Girl (Interlude)",
       "url": "https://open.spotify.com/track/7pCs7Zi5ya5NCwMPDC6Cuk"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
-        "name": "The Diary Of Alicia Keys",
-        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 176733,
-      "name": "Nobody Not Really (Interlude)",
-      "url": "https://open.spotify.com/track/4g8W8YNI1lbb4v8Rd49pmA"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -939,18 +939,22 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Soul Of A Woman",
-        "url": "https://open.spotify.com/album/0k75jOkzHNHY3IdmjyZA9u"
+        "name": "Vibes",
+        "url": "https://open.spotify.com/album/6IhFRqfxOviJed0wbxT1Yr"
       },
       "artists": [
         {
-          "name": "Kelly Price",
-          "url": "https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r"
+          "name": "Theophilus London",
+          "url": "https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE"
+        },
+        {
+          "name": "Soko",
+          "url": "https://open.spotify.com/artist/7jY8kqH6TphQsiT0wjlsqZ"
         }
       ],
-      "duration_ms": 76533,
-      "name": "Don't Go Away (Interlude)",
-      "url": "https://open.spotify.com/track/1IJi8PLl6G5C4gvaI8LuhG"
+      "duration_ms": 162866,
+      "name": "Smoke (Interlude) (feat. Soko)",
+      "url": "https://open.spotify.com/track/5XrSD5qp2cTeSz7zDsNskG"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -971,22 +975,18 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Vibes",
-        "url": "https://open.spotify.com/album/6IhFRqfxOviJed0wbxT1Yr"
+        "name": "Soul Of A Woman",
+        "url": "https://open.spotify.com/album/0k75jOkzHNHY3IdmjyZA9u"
       },
       "artists": [
         {
-          "name": "Theophilus London",
-          "url": "https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE"
-        },
-        {
-          "name": "Soko",
-          "url": "https://open.spotify.com/artist/7jY8kqH6TphQsiT0wjlsqZ"
+          "name": "Kelly Price",
+          "url": "https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r"
         }
       ],
-      "duration_ms": 162866,
-      "name": "Smoke (Interlude) (feat. Soko)",
-      "url": "https://open.spotify.com/track/5XrSD5qp2cTeSz7zDsNskG"
+      "duration_ms": 76533,
+      "name": "Don't Go Away (Interlude)",
+      "url": "https://open.spotify.com/track/1IJi8PLl6G5C4gvaI8LuhG"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Still Ghetto",
-        "url": "https://open.spotify.com/album/10NYla7wqjbdNXNExgtRGa"
-      },
-      "artists": [
-        {
-          "name": "Jaheim",
-          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
-        }
-      ],
-      "duration_ms": 48933,
-      "name": "Interlude",
-      "url": "https://open.spotify.com/track/3vFubrcAel5283u4pFoBr2"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "Miss Thang",
         "url": "https://open.spotify.com/album/71mPApAzW9HkbUGdYzMQHb"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 97240,
       "name": "Woman In Me - Interlude",
       "url": "https://open.spotify.com/track/043ZLCXdYqnD8TK0UkLBNK"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Still Ghetto",
+        "url": "https://open.spotify.com/album/10NYla7wqjbdNXNExgtRGa"
+      },
+      "artists": [
+        {
+          "name": "Jaheim",
+          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
+        }
+      ],
+      "duration_ms": 48933,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/3vFubrcAel5283u4pFoBr2"
     },
     {
       "added_at": "2022-12-03 05:29:16",

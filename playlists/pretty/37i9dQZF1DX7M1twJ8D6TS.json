@@ -1,12 +1,12 @@
 {
   "description": "The biggest Texas Country Hits over the last couple of years. Formerly Texas Music Rewind.",
-  "num_followers": 2302,
+  "num_followers": 2403,
   "original_name": "Texas Country Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWFlZTNiY2JjMDc1ZjU0YjM5MDk1NjJhZGIzNDlmNTlkZGIxOTI4",
+  "snapshot_id": "MCw2YzM4OTk5OGM0NzNlYWM4YzM5OTkwYjg1YTU0NTNhZTdlMWRjOTBl",
   "tracks": [
     {
       "added_at": "2023-02-10 16:12:28",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Lovin' Where It's Goin'",
-        "url": "https://open.spotify.com/album/5DmcSJypcNe2D3ljGDyeMA"
-      },
-      "artists": [
-        {
-          "name": "Josh Ward",
-          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
-        }
-      ],
-      "duration_ms": 179691,
-      "name": "Lovin' Where It's Goin'",
-      "url": "https://open.spotify.com/track/2sErEhMGHJsGjm0LFKqesJ"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
         "name": "Borrowed Time",
         "url": "https://open.spotify.com/album/6JCx6z1S2vChr5L78EbuRb"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 220649,
       "name": "Don't Tell Me",
       "url": "https://open.spotify.com/track/3lIseaWnhgvIcklKySbCJV"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
+        "name": "Lovin' Where It's Goin'",
+        "url": "https://open.spotify.com/album/5DmcSJypcNe2D3ljGDyeMA"
+      },
+      "artists": [
+        {
+          "name": "Josh Ward",
+          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
+        }
+      ],
+      "duration_ms": 179691,
+      "name": "Lovin' Where It's Goin'",
+      "url": "https://open.spotify.com/track/2sErEhMGHJsGjm0LFKqesJ"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -607,18 +607,22 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Acoustic Covers",
-        "url": "https://open.spotify.com/album/0K2mpuVrs4BpjxiX6TYKw7"
+        "name": "Ain't My Day",
+        "url": "https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        },
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
         }
       ],
-      "duration_ms": 246576,
-      "name": "This Damn Song",
-      "url": "https://open.spotify.com/track/2M6VNGj5BrClV62olW5OcR"
+      "duration_ms": 201480,
+      "name": "Ain't My Day",
+      "url": "https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -655,22 +659,18 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Ain't My Day",
-        "url": "https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61"
+        "name": "Acoustic Covers",
+        "url": "https://open.spotify.com/album/0K2mpuVrs4BpjxiX6TYKw7"
       },
       "artists": [
         {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        },
-        {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 201480,
-      "name": "Ain't My Day",
-      "url": "https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d"
+      "duration_ms": 246576,
+      "name": "This Damn Song",
+      "url": "https://open.spotify.com/track/2M6VNGj5BrClV62olW5OcR"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Leanna",
-        "url": "https://open.spotify.com/album/4uqbe0uw5d6aLvjPSxwoCd"
-      },
-      "artists": [
-        {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
-        }
-      ],
-      "duration_ms": 174555,
-      "name": "Hey Moon",
-      "url": "https://open.spotify.com/track/55UgjwzWbQqOGMu66RHQRe"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
         "name": "'21",
         "url": "https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 169813,
       "name": "There's Always Next Year",
       "url": "https://open.spotify.com/track/2LEparJLsmYGlf51zAquu8"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
+        "name": "Leanna",
+        "url": "https://open.spotify.com/album/4uqbe0uw5d6aLvjPSxwoCd"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "duration_ms": 174555,
+      "name": "Hey Moon",
+      "url": "https://open.spotify.com/track/55UgjwzWbQqOGMu66RHQRe"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
+        "name": "Black Sheep",
+        "url": "https://open.spotify.com/album/0tNJiCqDocKe1rG3jwdqK1"
+      },
+      "artists": [
+        {
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+        }
+      ],
+      "duration_ms": 224027,
+      "name": "Happier Alone",
+      "url": "https://open.spotify.com/track/6TTb1rInj0xBs0naVYyaHD"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
         "name": "When Love Comes Around",
         "url": "https://open.spotify.com/album/1P2UKfT58J3L0wSdUs92jc"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 210437,
       "name": "When Love Comes Around",
       "url": "https://open.spotify.com/track/6YlFNWOL2Q1kFOsIvd3Otm"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
-        "name": "Bad Reputation",
-        "url": "https://open.spotify.com/album/6z3Qev2DZEDOCDnZX0eNyw"
-      },
-      "artists": [
-        {
-          "name": "Mike Ryan",
-          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
-        }
-      ],
-      "duration_ms": 219613,
-      "name": "Bad Reputation",
-      "url": "https://open.spotify.com/track/0icfvcZgDWltdFtgBZNUB2"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Black Sheep",
-        "url": "https://open.spotify.com/album/0tNJiCqDocKe1rG3jwdqK1"
+        "name": "Bad Reputation",
+        "url": "https://open.spotify.com/album/6z3Qev2DZEDOCDnZX0eNyw"
       },
       "artists": [
         {
-          "name": "Austin Meade",
-          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+          "name": "Mike Ryan",
+          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
         }
       ],
-      "duration_ms": 224027,
-      "name": "Happier Alone",
-      "url": "https://open.spotify.com/track/6TTb1rInj0xBs0naVYyaHD"
+      "duration_ms": 219613,
+      "name": "Bad Reputation",
+      "url": "https://open.spotify.com/track/0icfvcZgDWltdFtgBZNUB2"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -1139,22 +1139,6 @@
       "duration_ms": 211075,
       "name": "Heaven's Jukebox",
       "url": "https://open.spotify.com/track/33QqkzUWbk3G8pijsnK70L"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
-        "name": "Where Phones Don't Work",
-        "url": "https://open.spotify.com/album/0VNn10LfXJkzFLdk3l9RNQ"
-      },
-      "artists": [
-        {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
-        }
-      ],
-      "duration_ms": 213643,
-      "name": "Phones Don't Work",
-      "url": "https://open.spotify.com/track/20XMAhJsX2qZtzfaCxn9Ml"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -1227,6 +1211,22 @@
       "duration_ms": 239045,
       "name": "Hold My Beer",
       "url": "https://open.spotify.com/track/6PXDfeOlL2y2FBQKpHKIcW"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
+        "name": "Where Phones Don't Work",
+        "url": "https://open.spotify.com/album/0VNn10LfXJkzFLdk3l9RNQ"
+      },
+      "artists": [
+        {
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+        }
+      ],
+      "duration_ms": 213643,
+      "name": "Phones Don't Work",
+      "url": "https://open.spotify.com/track/20XMAhJsX2qZtzfaCxn9Ml"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "High on the Bottle",
-        "url": "https://open.spotify.com/album/4Mf1pb2hkmWet5MDEYgtkr"
-      },
-      "artists": [
-        {
-          "name": "Creed Fisher",
-          "url": "https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu"
-        }
-      ],
-      "duration_ms": 253952,
-      "name": "High on the Bottle",
-      "url": "https://open.spotify.com/track/3PvgOx0N7kbRjVQHD7lXx4"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
         "name": "In the Dark",
         "url": "https://open.spotify.com/album/3X6pi4gHeBN14Lt9ItfOiX"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 232520,
       "name": "In the Dark",
       "url": "https://open.spotify.com/track/7nlNwrNlmvOZVBuP00ax0v"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
+        "name": "High on the Bottle",
+        "url": "https://open.spotify.com/album/4Mf1pb2hkmWet5MDEYgtkr"
+      },
+      "artists": [
+        {
+          "name": "Creed Fisher",
+          "url": "https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu"
+        }
+      ],
+      "duration_ms": 253952,
+      "name": "High on the Bottle",
+      "url": "https://open.spotify.com/track/3PvgOx0N7kbRjVQHD7lXx4"
     },
     {
       "added_at": "2023-02-10 16:12:28",

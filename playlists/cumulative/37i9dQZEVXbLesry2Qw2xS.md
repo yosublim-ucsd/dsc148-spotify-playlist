@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Estonia.
 
-1,305 songs - 2 day 21 hr 56 min
+1,306 songs - 2 day 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -559,7 +559,7 @@
 | [keset kevadet](https://open.spotify.com/track/4v0mXmZyuj000ZIFYkye0H) | [säm](https://open.spotify.com/artist/6kvEy25jX5e1RtdFn1Eo3X) | [keset kevadet](https://open.spotify.com/album/07WT65HNhErHfEODMna94Y) | 3:05 | 2023-04-29 |  |
 | [KIDS \(feat\. Emily Roberts\) \- Single Edit](https://open.spotify.com/track/35sMV8hCbGQuB257M4UGbT) | [NOËP](https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [KIDS \(feat\. Emily Roberts\)](https://open.spotify.com/album/0ceppUANx2jYjXOyrSodbM) | 2:31 | 2021-10-31 | 2021-11-08 |
 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2022-12-13 |  |
-| [kinnisilmi](https://open.spotify.com/track/7wjkxtRV6tSlqb7ma43JYM) | [villemdrillem](https://open.spotify.com/artist/5nZADoZFWVB90dHpk5zvXy) | [kinnisilmi](https://open.spotify.com/album/2SETMe4da10n68MUwGI91w) | 3:45 | 2023-03-30 |  |
+| [kinnisilmi](https://open.spotify.com/track/7wjkxtRV6tSlqb7ma43JYM) | [villemdrillem](https://open.spotify.com/artist/5nZADoZFWVB90dHpk5zvXy) | [kinnisilmi](https://open.spotify.com/album/2SETMe4da10n68MUwGI91w) | 3:45 | 2023-03-30 | 2023-05-11 |
 | [Kiri külmkapi peal](https://open.spotify.com/track/7IK25tcCFFqkU08EbTRxsc) | [STEFAN](https://open.spotify.com/artist/4PLGCdwxxGsxNXX7G7Spug) | [Hope](https://open.spotify.com/album/5XJXWvVyYgd0L1QU0HWDIJ) | 3:36 | 2022-12-28 |  |
 | [Kiri külmkapi peal](https://open.spotify.com/track/0xcXTrdFbUDuu7SJHKM1m7) | [STEFAN](https://open.spotify.com/artist/4PLGCdwxxGsxNXX7G7Spug) | [Kiri külmkapi peal / Never let go](https://open.spotify.com/album/6LnuAFif2uncKoMSxKjZOV) | 3:37 | 2022-11-15 | 2022-11-28 |
 | [Kirsikivi](https://open.spotify.com/track/0pJww1V82wLvQbG5ayelRP) | [Reket](https://open.spotify.com/artist/4vnAcwsYeJD9QcQsowEuKN) | [Kirsikivi](https://open.spotify.com/album/2dnXxGmUhaxLpA7EkPYCxG) | 2:24 | 2021-10-31 | 2021-11-30 |
@@ -726,7 +726,7 @@
 | [Miss The Rage \(feat\. Playboi Carti\)](https://open.spotify.com/track/2BITQ360Knh6qNAOqR7Dyq) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Miss The Rage \(feat\. Playboi Carti\)](https://open.spotify.com/album/1FsFHXroF1ILBdVyBRMt3A) | 3:56 | 2021-05-09 | 2021-06-13 |
 | [Miss The Rage \(feat\. Playboi Carti\)](https://open.spotify.com/track/6iBlllot0wdy8f7V5t8OnR) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Trip At Knight](https://open.spotify.com/album/2CKiKnlmneU5Lr0aQLB83Q) | 3:56 | 2021-08-22 | 2021-08-26 |
 | [Miss You](https://open.spotify.com/track/4VgSGm7CroAlCCt9GKQ75Z) | [Jérémie Makiese](https://open.spotify.com/artist/6VCBinAerlvZxvXSHAFVuq) | [Miss You](https://open.spotify.com/album/65zDaQ8wTT3GptmsF98fXs) | 2:53 | 2022-05-16 | 2022-05-20 |
-| [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-09-27 |  |
+| [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-09-27 | 2023-05-11 |
 | [Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4) | 3:26 | 2022-09-14 | 2022-12-31 |
 | [Miss You \- Sped Up Version](https://open.spotify.com/track/4pH8cIlMI9NrTWcDiQbuRe) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Miss You \(Sped Up Version\)](https://open.spotify.com/album/7EM9FAc6VnTpn8enoucp5q) | 2:51 | 2022-10-31 | 2022-11-18 |
 | [Miss You \- Sped Up Version](https://open.spotify.com/track/1R133Fme0thKYEVPlWHhaW) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/2IHPG4aVcIcwz9Rpme2WaT) | 2:50 | 2022-10-18 | 2022-10-27 |
@@ -900,6 +900,7 @@
 | [Pärlipüüdja](https://open.spotify.com/track/5roWPTh1cBdLSeuMF6QtoR) | [Karavan](https://open.spotify.com/artist/2kCYuLt9oD8xX4bjU85RDF) | [Pärlipüüdja](https://open.spotify.com/album/0HPHxxyRL1yilLgxEKZ0rp) | 3:21 | 2022-06-12 | 2022-06-29 |
 | [Põgenemisplaan](https://open.spotify.com/track/2cdeW9kRKB62aeMsQ4YY71) | [Shanon](https://open.spotify.com/artist/00vyK6r4xVqTZHeltSOcSZ) | [Põgenemisplaan](https://open.spotify.com/album/7eIHhlQyJqI8rHJys4koAZ) | 3:17 | 2022-06-11 | 2022-06-26 |
 | [Põleme koos](https://open.spotify.com/track/23VW3oG4NBqjc7tXHx5Bkn) | [säm](https://open.spotify.com/artist/6kvEy25jX5e1RtdFn1Eo3X), [Heleza](https://open.spotify.com/artist/5BWqdIvyPGKRyA8xe6kkBe) | [EMPS VAATA KUIS LENDAN MA](https://open.spotify.com/album/4z4l4S4AFVpe0ZWu0z7sPU) | 2:53 | 2022-11-12 | 2022-11-21 |
+| [Queen of Kings](https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Queen of Kings](https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB) | 2:27 | 2023-05-10 |  |
 | [Question...?](https://open.spotify.com/track/0heeNYlwOGuUSe7TgUD27B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:30 | 2022-10-22 | 2022-11-06 |
 | [Race My Mind](https://open.spotify.com/track/2Q3jFbyE61mCjS3SkW4toJ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:29 | 2021-09-05 | 2021-09-06 |
 | [Racked](https://open.spotify.com/track/6Puwg0sgPn5ByIXy4srRCj) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [MONEYSUTRA](https://open.spotify.com/album/6yxdybIsZMRnsAAMR1A2vf) | 3:04 | 2021-04-11 | 2021-04-13 |
@@ -1171,7 +1172,7 @@
 | [Vaikus](https://open.spotify.com/track/7jWwkaV9aHN6Nm4KDsE8EM) | [Kaia\-Liisa Kesler](https://open.spotify.com/artist/1xc92c686KGvnde4VRPF9S) | [Vaikus](https://open.spotify.com/album/1Jgs7pVu6MSZdAfIpl1Wqu) | 2:54 | 2022-02-05 | 2022-02-07 |
 | [Valik](https://open.spotify.com/track/44vGp19um3bF9UI8C3wSBH) | [kaw](https://open.spotify.com/artist/6weRqL7wRIEdJgNXvBXqGe) | [Valik](https://open.spotify.com/album/2A52lXyX2jHWqMw2Gd3ISm) | 2:46 | 2023-01-15 | 2023-01-24 |
 | [Valikud \(feat\. An\-Marlen\)](https://open.spotify.com/track/4yU0tY2zj2RgpxPuBKinMR) | [Andrei Zevakin](https://open.spotify.com/artist/2ZbuL9QHBvRoB61NSaI35E), [An\-Marlen](https://open.spotify.com/artist/4Ej2jIiPJF0VL1F92mwmOx) | [Valikud \(feat\. An\-Marlen\)](https://open.spotify.com/album/3EhVZUjPq4kjhhTDwRTMlW) | 2:44 | 2022-10-01 | 2022-10-09 |
-| [vamos](https://open.spotify.com/track/2XNRbWeHolZn9SqAUnxeO4) | [5MIINUST](https://open.spotify.com/artist/6acByqWJeuaM0TX5VoY6an) | [vamos](https://open.spotify.com/album/07KLpAji6G2kovteS0hhIG) | 3:18 | 2022-06-18 | 2023-05-10 |
+| [vamos](https://open.spotify.com/track/2XNRbWeHolZn9SqAUnxeO4) | [5MIINUST](https://open.spotify.com/artist/6acByqWJeuaM0TX5VoY6an) | [vamos](https://open.spotify.com/album/07KLpAji6G2kovteS0hhIG) | 3:18 | 2022-06-18 |  |
 | [vanad vigurid](https://open.spotify.com/track/08QpVniPh4znA2EwR90RvU) | [Villemdrillem](https://open.spotify.com/artist/5nZADoZFWVB90dHpk5zvXy) | [vanad vigurid](https://open.spotify.com/album/0nlPVlhymW1H39za9ssWvk) | 3:05 | 2022-01-29 | 2022-02-17 |
 | [Vastupandamatu](https://open.spotify.com/track/7uk0Rc06dguEGAsHppuDZe) | [Karl\-Erik Taukar](https://open.spotify.com/artist/0IBo1QzwnBeD4N8WS5aD5X) | [Vääramatu jõud](https://open.spotify.com/album/5Q8W2sZwXL0nlbc6n4g0eW) | 3:14 | 2022-06-24 | 2022-06-26 |
 | [veelparem](https://open.spotify.com/track/1It8pz6oWcguNAWeipETj0) | [villemdrillem](https://open.spotify.com/artist/5nZADoZFWVB90dHpk5zvXy), [Elina Born](https://open.spotify.com/artist/70ANZII0p7JCQ4ArAesCbA) | [veelparem](https://open.spotify.com/album/2FvqQKpPYJyGgg8dW9MTkT) | 2:42 | 2022-06-11 | 2022-07-05 |

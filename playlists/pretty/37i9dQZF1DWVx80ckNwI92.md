@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 
 > The future of African Indie and Alternative
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,707 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,716 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 | 49 | [Isn't Love](https://open.spotify.com/track/2QmHGPhKmgCKhlrnvihVK6) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [Closure](https://open.spotify.com/album/3ocN0pai5zWdLg5CJLTLc5) | 1:53 |
 | 50 | [Canadian Tuxedo](https://open.spotify.com/track/0jWOcfI6BIjeJswYXKXVhv) | [Tano Jackson](https://open.spotify.com/artist/3mm6gcWlR8bu5jtddiuRwa), [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [Canadian Tuxedo](https://open.spotify.com/album/5LhBwvU9Yo6TO0HuYCUSCg) | 3:10 |
 
-Snapshot ID: `MCwyMjBlZWFjM2Q5MGFiNDE4ZmU1Yzk3NjRhMGIwNzAyYWM2NDYwNWIz`
+Snapshot ID: `MCxmNTE1ZDYzNTZmNDJkMmFlY2RkZDM5YTAxMjM3NTg4OTg3NDJjODBi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Poslechněte si ženy z Česka a Slovenska na plnou hlasitost\. Cover: Laura Weng
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,636 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,653 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 8 | [girl next door](https://open.spotify.com/track/1oNvcPq1zO9AjloGpmbqH3) | [Thia Vittek](https://open.spotify.com/artist/2O3e4BbsOHRkYxbL1ZGAlo) | [girl next door](https://open.spotify.com/album/3oUOYrkELQfN3aNDlHUYp0) | 4:07 |
 | 9 | [Iné](https://open.spotify.com/track/5dqjwYHV11wuu4RtQrLwU8) | [Tina](https://open.spotify.com/artist/0ZzVyuKOsz1YLpAujWhDWf), [Tager](https://open.spotify.com/artist/1hbkPMgypyMu8bSPuxZIKq) | [Iné](https://open.spotify.com/album/2DVXumoV2WyTlbvpnRpWLy) | 2:38 |
 | 10 | [Friendzone](https://open.spotify.com/track/6bK4JJ1QBDlXfrarR4VDTP) | [Kristal Shine](https://open.spotify.com/artist/1jschkhe5eRensKBEq1lVY), [Yael](https://open.spotify.com/artist/5TSjeYa1XO0i6b4FVKZYYz) | [Friendzone](https://open.spotify.com/album/5TCS5441Y2HYq3JpoPGY3h) | 3:17 |
-| 11 | [Want it](https://open.spotify.com/track/26HS6KmMaf3hHFX78ZGUjq) | [Natally](https://open.spotify.com/artist/18SuS3JGwUxMVBKW7CAJGG) | [Want it](https://open.spotify.com/album/4LIl2sKvDXojKJo6jj9dhj) | 2:18 |
+| 11 | [Want it](https://open.spotify.com/track/26HS6KmMaf3hHFX78ZGUjq) | [Natally](https://open.spotify.com/artist/4vzgXODPnHlhSXNlUChzxa) | [Want it](https://open.spotify.com/album/4LIl2sKvDXojKJo6jj9dhj) | 2:18 |
 | 12 | [Polepšovna](https://open.spotify.com/track/5lyIh5zsOgARcgBoBIxtqf) | [Anna Vaverková](https://open.spotify.com/artist/6g9ensOdCVDvhlP4pjrShZ) | [Polepšovna](https://open.spotify.com/album/5OSHL6tkmrWMvGK08zWC10) | 3:27 |
 | 13 | [Lady](https://open.spotify.com/track/3CQXvkVz9tYXBKMxj9C38M) | [Elly](https://open.spotify.com/artist/58SiiPGMtAPMaQyNkn9Fbs), [The Carsleepers](https://open.spotify.com/artist/3v41iVaGUNWdtCgImSVexO) | [Lady](https://open.spotify.com/album/3RRt8DQUQZkyu6WGpmqlYn) | 2:49 |
 | 14 | [Nasty](https://open.spotify.com/track/6UqY8nn6u5yUUXaVm8wvmF) | [Mishala Orth](https://open.spotify.com/artist/3XfYmn43TUqyNgeq4eFJ5c) | [Nasty](https://open.spotify.com/album/7tTiIPXywSjL0UFSlZ0Gqs) | 2:43 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 39 | [Souls in Need](https://open.spotify.com/track/3lHTmRD4msnNo2xECzDqL1) | [&Tilly](https://open.spotify.com/artist/6ywghg7NMnYNOY8HVATu1N) | [Souls in Need](https://open.spotify.com/album/0mZBh764LtiKJUKbgTaQwZ) | 3:21 |
 | 40 | [Blind Tomorrow](https://open.spotify.com/track/7bHzluTgD7IIIewUklaojd) | [Zuzana Mikulcova](https://open.spotify.com/artist/3DuhjH3LQhXz6nV3rNu7pd), [Graeme Mark Donaldson](https://open.spotify.com/artist/6NMXaCGCG0ug4d111cNDhi) | [Blind Tomorrow](https://open.spotify.com/album/5tPoBNWty5adBjeLQIC4B0) | 3:52 |
 | 41 | [Fialová mood](https://open.spotify.com/track/3jujCYeVeByXGW2rBnEfOn) | [DIANA](https://open.spotify.com/artist/0mtxg8pzPsL6qZ7aoK0yBX) | [Fialová mood](https://open.spotify.com/album/416qkcu3wyMlW4l4QmgWzU) | 2:22 |
-| 42 | [Born Perfect](https://open.spotify.com/track/7KZwZMrLYazdbvr8VX15HC) | [Natally](https://open.spotify.com/artist/18SuS3JGwUxMVBKW7CAJGG) | [Born Perfect](https://open.spotify.com/album/3PELAUYJLTMUZlrqCk8ITL) | 2:45 |
+| 42 | [Born Perfect](https://open.spotify.com/track/7KZwZMrLYazdbvr8VX15HC) | [Natally](https://open.spotify.com/artist/4vzgXODPnHlhSXNlUChzxa) | [Born Perfect](https://open.spotify.com/album/3PELAUYJLTMUZlrqCk8ITL) | 2:45 |
 | 43 | [Instincts](https://open.spotify.com/track/601ysvmx4INBIwtAtGgS0b) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [Instincts](https://open.spotify.com/album/6iVB9kSoSPQUklb6wJnBcg) | 2:28 |
 | 44 | [ghosting](https://open.spotify.com/track/4HZ871AMnHNaI4C0XnkCar) | [Pam Rabbit](https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU) | [ghosting](https://open.spotify.com/album/0YH5HG326jgub6RwcyfLgP) | 2:18 |
 | 45 | [So mnou celý hood](https://open.spotify.com/track/7jkztsr5MX9SeSxj5IwAoQ) | [Saimonsa](https://open.spotify.com/artist/3nSE4R78cKheOA3EQwUbee) | [So mnou celý hood](https://open.spotify.com/album/5YnqouUmwoZOU7XhAcLOfv) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 49 | [I Think I Don't Understand](https://open.spotify.com/track/3ni9pYBE9LVwbinEwQ0cQw) | [Kaya](https://open.spotify.com/artist/2zzGa3s9F0bQ7Tp4YDcweH) | [I Think I Don't Understand](https://open.spotify.com/album/04V50WP0eGYgaCo29E9cmM) | 3:03 |
 | 50 | [Spicylicious](https://open.spotify.com/track/6V6BsHuezOczpkPz7ncl9i) | [Annet X](https://open.spotify.com/artist/3wTmekbMox022tiwirdy6F) | [Až budu velká, chci být Aneta Charitonova](https://open.spotify.com/album/72Px5AQMKmpdfYwgYFBcHs) | 3:00 |
 
-Snapshot ID: `MCwyZDEwMWJhMjdhYjMxZDZkODM1NzU3MzYyOGExMGM2ZWJmNTkwMGVk`
+Snapshot ID: `MCxmNTg2M2YyYTc5ZjY4NDIyMzllMmJkZTQ0Y2Q4OTAyYWY0YzE1Yzc4`

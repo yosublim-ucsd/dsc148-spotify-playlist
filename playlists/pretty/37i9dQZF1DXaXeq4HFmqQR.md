@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres que la rompen feat\. Catana\. <br/>Dales play, dales power.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,858 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,857 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,17 +29,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 19 | [Miénteme](https://open.spotify.com/track/0GBcdV6ebwVmOXijWZK3U2) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Miénteme](https://open.spotify.com/album/5uwGva3r6hhKZgfX14eI4w) | 3:24 |
 | 20 | [Eso Ta Perfecto](https://open.spotify.com/track/2sC0GlXccYYlRfian9JVsY) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375) | [Eso Ta Perfecto](https://open.spotify.com/album/3rkeqmoFs3k8SmnZwZwnA9) | 2:17 |
 | 21 | [Soy una Gerla](https://open.spotify.com/track/197ZZGvA3mTwIZ6V2dtat1) | [Almeyda](https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF) | [Soy una Gerla](https://open.spotify.com/album/5Dtr4425ZrOdNdH8dKVMqR) | 1:56 |
-| 22 | [Cm no me va a doler?](https://open.spotify.com/track/6qM4WikwmfjWPDGwfA83tX) | [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Crónicas de un cora roto](https://open.spotify.com/album/0FfnQ5pL5KLaJIkZOkzfV2) | 3:32 |
+| 22 | [<3](https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [<3](https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6) | 2:22 |
 | 23 | [Libre Albedrío](https://open.spotify.com/track/1V199S6f6QMqqb7j1V4MaF) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Cristal](https://open.spotify.com/album/0k8fiM3A193BLZqPWYhWD1) | 3:04 |
-| 24 | [<3](https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [<3](https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6) | 2:22 |
+| 24 | [Cm no me va a doler?](https://open.spotify.com/track/6qM4WikwmfjWPDGwfA83tX) | [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Crónicas de un cora roto](https://open.spotify.com/album/0FfnQ5pL5KLaJIkZOkzfV2) | 3:32 |
 | 25 | [To' Caro](https://open.spotify.com/track/5L8dZ39OJpa4t0AGJX7FhJ) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [GATA PISTOLA](https://open.spotify.com/album/61WaPbQFOC0svswIVNQpUn) | 2:06 |
 | 26 | [No Le Bajes](https://open.spotify.com/track/4lfJ1o9QFUhqULepgZdlD8) | [Zita Zoe](https://open.spotify.com/artist/5w3yQZC4IFbbGaOTTne3Nk), [Cjupiter](https://open.spotify.com/artist/3tSPx7EgteNsCF9RiGF8RN) | [No Le Bajes](https://open.spotify.com/album/2IJhnQ4zhnRG11pEbz3wFT) | 2:57 |
 | 27 | [Siempre Nice](https://open.spotify.com/track/7cXUURjoM0VmxkMDXFyIKO) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Back to Basics](https://open.spotify.com/album/32sbVfAJ3CK8Uu27g4VAJY) | 3:11 |
 | 28 | [Molly](https://open.spotify.com/track/4gfaPD5mHYGe792vAb1a2Z) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375) | [Molly](https://open.spotify.com/album/2GxFT2qN34pDypV0r4veRK) | 2:56 |
 | 29 | [X Detra \(feat\. Saitoape\)](https://open.spotify.com/track/5ozANUJQBPX33q29RXGTJ6) | [Amikiraa](https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2), [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf), [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Saitoape](https://open.spotify.com/artist/1uXQ1A3Jy85T7cWKFvlgoU) | [X Detra \(feat\. Saitoape\)](https://open.spotify.com/album/78KwaH54fwPpOltpzc5hYM) | 3:37 |
 | 30 | [Jui$y](https://open.spotify.com/track/0J6ZsFfF2vUw1lf0EbZgrQ) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS), [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Feels](https://open.spotify.com/album/789Zq50xXSDEYuLDmo56Gj) | 3:26 |
-| 31 | [XULA](https://open.spotify.com/track/7pONy7BDKUf9RnGwj541Lq) | [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf), [Saito ape](https://open.spotify.com/artist/2MPqvA1H0bdSKq7hohfxL1) | [XULA](https://open.spotify.com/album/08isqualO1ZcEKPVWl2e4L) | 2:17 |
-| 32 | [Mi Cula \(Remix\)](https://open.spotify.com/track/4mRfyjonZZuRy3iTxKHazl) | [Señorita Chu](https://open.spotify.com/artist/66HozQ44x8qKTB7irTL2NJ), [Almeyda](https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF), [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Señorita](https://open.spotify.com/album/7t50mP3PTQZkO1O8BeqV4z) | 3:47 |
+| 31 | [Mi Cula \(Remix\)](https://open.spotify.com/track/4mRfyjonZZuRy3iTxKHazl) | [Señorita Chu](https://open.spotify.com/artist/66HozQ44x8qKTB7irTL2NJ), [Almeyda](https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF), [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Señorita](https://open.spotify.com/album/7t50mP3PTQZkO1O8BeqV4z) | 3:47 |
+| 32 | [XULA](https://open.spotify.com/track/7pONy7BDKUf9RnGwj541Lq) | [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf), [Saito ape](https://open.spotify.com/artist/2MPqvA1H0bdSKq7hohfxL1) | [XULA](https://open.spotify.com/album/08isqualO1ZcEKPVWl2e4L) | 2:17 |
 | 33 | [No Verán](https://open.spotify.com/track/5ad4erSBw23M9ZR9qXxKJO) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [No Verán](https://open.spotify.com/album/0uEDpAuha70JI917sWwjfK) | 3:25 |
 | 34 | [Flor de Loto](https://open.spotify.com/track/2MywTeCcDn6ClNrGewWeUh) | [Gigi Caro](https://open.spotify.com/artist/5tNMNTIBXGY7Hq6AyGCAR8) | [Flor de Loto](https://open.spotify.com/album/7BeWJPSCV5V47GqEXCi4wH) | 3:14 |
 | 35 | [Bendecía](https://open.spotify.com/track/1whBPxqXxk75fRRwlOLfgb) | [Otherness](https://open.spotify.com/artist/5TErnITI1p7XdTWM5CTwIL), [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Ata RK](https://open.spotify.com/artist/1uaqThDFNKkktLbwFejfxW) | [Bendecía](https://open.spotify.com/album/7MzBpaRgt9pUI4oYdLzK8q) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [ZODIACO](https://open.spotify.com/track/7bboKjKKX9K9SL4mGavgWS) | [Mariana Bfly](https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw), [Catiusca](https://open.spotify.com/artist/2ZVR14iRL4B4bLq6CWVAPb) | [ZODIACO](https://open.spotify.com/album/14axp3OJF0cqgx3mP0MxKx) | 3:18 |
 | 50 | [Luces](https://open.spotify.com/track/4jfsxJSwR3h9kPTPOlGV54) | [Rvyo](https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n) | [Rayokuza](https://open.spotify.com/album/3RbneQRC7hqcFIn2DZpCKg) | 3:38 |
 
-Snapshot ID: `MCxkODk0ODk5OTlkZTI4N2Y2ZjRhODk4NjcwYWZkOGQ3NDkyNzk5MTZk`
+Snapshot ID: `MCwyMDExMjdkZWFmYWRjOGJhNjA3MDVmNzM0ZmVhNzlkNjBhM2QxOWM5`

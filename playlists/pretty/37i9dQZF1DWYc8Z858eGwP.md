@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=apOHmSg9SXuME1XM97lMPg">Tyla</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,496 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,644 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 | 49 | [Wetin](https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Wetin](https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb) | 1:18 |
 | 50 | [ZOZA](https://open.spotify.com/track/04uUjjh7lhF1kGuYs4mMRq) | [Lilmaina](https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv), [BURUKLYN BOYZ](https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX) | [ZOZA](https://open.spotify.com/album/1tfhl1hGOqEYvqvzcrTvDG) | 2:58 |
 
-Snapshot ID: `MCwwNzExOGUyZDcyYTI3YTgwNGI1MDdmN2U4NTg3YTY2Y2M1NTQ5YWIz`
+Snapshot ID: `MCw1MmNjMGVlZmQ1MDg0MGYzOWU0OWNlNjJmOTQwY2UwNTAxZTEzMjQ1`

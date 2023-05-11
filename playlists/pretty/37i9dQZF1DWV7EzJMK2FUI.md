@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Soft instrumental Jazz for all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,134,439 likes - 584 songs - 1 day 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,135,154 likes - 584 songs - 1 day 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -593,4 +593,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 583 | [Dave’s Waltz](https://open.spotify.com/track/3iy07tO59bZ6YkKk49eLbr) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Dave’s Waltz](https://open.spotify.com/album/2wZOolV02qRIJjOI71L8F1) | 4:25 |
 | 584 | [Waltz At Midnight](https://open.spotify.com/track/6fmBZeSeM8Cp4mNivC7AGT) | [Midtown Trio](https://open.spotify.com/artist/6WVEwzrXXaJ8JTk1KLkleT) | [Waltz At Midnight](https://open.spotify.com/album/2qKhcF6JaeTuNcr1uzrcY8) | 3:34 |
 
-Snapshot ID: `MCxjODJkZTc5ZTdhNzU3MWQzNjg3NDI1ZTIxMTUwMjVhOGRlZjNmMDUw`
+Snapshot ID: `MCw4NTgyMjVlNzdkZGM2NDQ3NWE4MTc5ZDg5ZTU1N2Q0ZWJlM2E4ZTZk`

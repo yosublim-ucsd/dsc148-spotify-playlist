@@ -4,7 +4,7 @@
 
 > The Most Popular Ambient Tracks in 2022\. Kaitlyn Aurelia Smith on cover.
 
-105 songs - 9 hr 10 min
+106 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [A Light Without Flame](https://open.spotify.com/track/7iFOhRAni6M6bPyfsmvapG) | [Slow Meadow](https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3) | [A Light Without Flame](https://open.spotify.com/album/0dypri6yEpgORaQbPFJmxK) | 3:23 | 2023-01-01 |  |
 | [Abandoned Places](https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [Our True Nature](https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7) | 5:43 | 2023-01-01 |  |
 | [acceptances](https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [acceptances](https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ) | 3:18 | 2023-01-01 |  |
-| [All The Light They Cannot See](https://open.spotify.com/track/27iGKkcGPY4pGcOW7hr5em) | [Nili Fossae](https://open.spotify.com/artist/2OK2TRERh4tmACxlgjIvp0) | [Into The Blue](https://open.spotify.com/album/5VzhW20SptDDaQ3FjjO6IQ) | 5:32 | 2023-01-01 |  |
+| [All The Light They Cannot See](https://open.spotify.com/track/27iGKkcGPY4pGcOW7hr5em) | [Nili Fossae](https://open.spotify.com/artist/2OK2TRERh4tmACxlgjIvp0) | [Into The Blue](https://open.spotify.com/album/5VzhW20SptDDaQ3FjjO6IQ) | 5:32 | 2023-01-01 | 2023-05-11 |
+| [All The Light They Cannot See](https://open.spotify.com/track/5yx4wEiqwftOWWArUes897) | [Nili Fossae](https://open.spotify.com/artist/2OK2TRERh4tmACxlgjIvp0) | [Into The Blue](https://open.spotify.com/album/3Myx0XEGPjTmfWBTGKZ4F4) | 5:32 | 2023-01-01 |  |
 | [Always](https://open.spotify.com/track/5X28wVhPZ2RK91PPyfOOgQ) | [Franz Kirmann](https://open.spotify.com/artist/5ZPoz4WrKX7jKlbTp4S9Qe) | [Forget Me Not](https://open.spotify.com/album/0pu0cQ9JdarbHra7MOZs7Z) | 5:12 | 2023-01-01 |  |
 | [Alzheimer's Disease \(Floor 1\)](https://open.spotify.com/track/644RtTy8O2hT4zpF5BSVTA) | [Kyle Preston](https://open.spotify.com/artist/4y34hJ1oLcRl5wOn7FnhX8) | [Persona \(Original Soundtrack\)](https://open.spotify.com/album/4J7oRjeqqBkz1JQ1GZP8j7) | 4:16 | 2023-01-01 |  |
 | [Aparaquasynthe \- Remastered 2022](https://open.spotify.com/track/77rf3VU7sQ8UVDteOI2MCy) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Streichelfisch \(Remastered 2022\)](https://open.spotify.com/album/1eEua7JBS2N2lPq0l0gcq6) | 5:51 | 2023-01-01 |  |

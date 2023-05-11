@@ -370,6 +370,24 @@
     {
       "album": {
         "name": "Veronica Falls",
+        "url": "https://open.spotify.com/album/14vFC84BzjOc8Ud9ga0vFi"
+      },
+      "artists": [
+        {
+          "name": "Veronica Falls",
+          "url": "https://open.spotify.com/artist/0mgbAj6btHW215UxhLq1AV"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239066,
+      "name": "Found Love in a Graveyard",
+      "url": "https://open.spotify.com/track/6o1oknbpGILs6eG8q3j8vV"
+    },
+    {
+      "album": {
+        "name": "Veronica Falls",
         "url": "https://open.spotify.com/album/02oz6Rr7JK31RIRHtzUx2g"
       },
       "artists": [
@@ -1136,7 +1154,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 162127,
       "name": "Skeleton Song",
       "url": "https://open.spotify.com/track/7H4N9ufe5nkeyAYvWg8OwB"

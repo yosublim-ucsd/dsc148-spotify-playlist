@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Greylan James
 
-263 songs - 13 hr 54 min
+264 songs - 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,8 @@
 | [My Mistake](https://open.spotify.com/track/7qob3E6PdqRBJw0BnSjE5g) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [My Mistake](https://open.spotify.com/album/3kXYEKoW7QdKQALUEdKvbp) | 3:41 | 2021-12-31 |  |
 | [My Turn](https://open.spotify.com/track/4fREYVupHFsPepnZeZrKI5) | [Alyssa Trahan](https://open.spotify.com/artist/0aMw8k8BbQf9sEeVokLzSo) | [Baby Blues & Stilettos](https://open.spotify.com/album/7xhGmTGboj8tUh1XfeW0k6) | 2:53 | 2021-12-31 | 2022-01-08 |
 | [My Way \(feat\. Tyler Hubbard\)](https://open.spotify.com/track/42OXgCBByC4p3tm0w4MXIT) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [My Way](https://open.spotify.com/album/3nF1XbXuOHfFUxAPN6p3VM) | 2:22 | 2021-12-31 | 2022-01-08 |
-| [Naive](https://open.spotify.com/track/31Ptw3pIczChzLahyqzUXC) | [Erin Gibney](https://open.spotify.com/artist/6T2lvnNVmGWVzbmmMAH4TF) | [Naive](https://open.spotify.com/album/3u0p3sbi4mWFXBoiyYmNcQ) | 3:28 | 2022-01-28 |  |
+| [Naive](https://open.spotify.com/track/0pOqOiXB6UGyBMJyFKveGs) | [Erin Gibney](https://open.spotify.com/artist/6T2lvnNVmGWVzbmmMAH4TF) | [Naive \(Acoustic\)](https://open.spotify.com/album/5okczttY81sU0vEyqW5iy2) | 3:28 | 2023-05-03 |  |
+| [Naive](https://open.spotify.com/track/31Ptw3pIczChzLahyqzUXC) | [Erin Gibney](https://open.spotify.com/artist/6T2lvnNVmGWVzbmmMAH4TF) | [Naive](https://open.spotify.com/album/3u0p3sbi4mWFXBoiyYmNcQ) | 3:28 | 2022-01-28 | 2023-05-11 |
 | [Need You to Not](https://open.spotify.com/track/1OcwLTaGoXPSxqxJQK8XlP) | [Payton Smith](https://open.spotify.com/artist/4ZLKYFbf4KJWJR0MeQWLEt) | [Need You to Not](https://open.spotify.com/album/30mSy3n5vcDD1aozCEzrmK) | 3:05 | 2022-01-21 |  |
 | [Never Been in Love](https://open.spotify.com/track/4SACHtzLlcNaUKGYC9oX30) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Never Been in Love](https://open.spotify.com/album/25xDXodLiZRjEve55T9A8G) | 2:59 | 2021-12-31 | 2022-02-12 |
 | [Never Found You](https://open.spotify.com/track/0ejYonr6iCOveRWn2vBFJ0) | [Leaving Austin](https://open.spotify.com/artist/67igAZjBrO42dnYYbTT6WI) | [Never Found You](https://open.spotify.com/album/1bgekG3dViYKaPeiTyErnX) | 2:52 | 2021-12-31 | 2023-01-14 |

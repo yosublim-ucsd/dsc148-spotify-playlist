@@ -1216,10 +1216,28 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 211111,
       "name": "How To Save A Life",
       "url": "https://open.spotify.com/track/0OfJNkSwSLUxEywRxQ3ose"
+    },
+    {
+      "album": {
+        "name": "How to Save a Life",
+        "url": "https://open.spotify.com/album/3cFVzUQUQqcUPT9mWLWFMH"
+      },
+      "artists": [
+        {
+          "name": "Kate McGill",
+          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211111,
+      "name": "How to Save a Life",
+      "url": "https://open.spotify.com/track/3MonYB3irqpYoY4wFSqwW0"
     },
     {
       "album": {

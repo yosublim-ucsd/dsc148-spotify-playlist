@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: Lor
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,409 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,417 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 49 | [Ciebie dość](https://open.spotify.com/track/167xDG1JXOI5K6CoJm6Kgr) | [evelina ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Ciebie dość](https://open.spotify.com/album/11ru2zqb1bxnqPON2RYcbJ) | 2:48 |
 | 50 | [Przypomnij mi](https://open.spotify.com/track/6cK6TCBl2NNav93JFokMKw) | [IVO](https://open.spotify.com/artist/4CFG411wMD1khytZEpHD4D), [St\. Elmo](https://open.spotify.com/artist/4Zda412x1VMIPuEAUdZ7Zy) | [Przypomnij mi](https://open.spotify.com/album/5QtkmHrEQVdNZKrtu1Bt1n) | 3:36 |
 
-Snapshot ID: `MCxmNTBiNjkwM2JiMjIwNDBiY2U3MzcxNGYxNzJhODI2MDNiZTYyMDU2`
+Snapshot ID: `MCxjYzZkNjY0MjNmYjg0ZmFiYjY4NDA2MzhiZTNhOTNmYmFlNTIyZDAw`

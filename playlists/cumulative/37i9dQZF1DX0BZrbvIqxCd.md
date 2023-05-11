@@ -4,7 +4,7 @@
 
 > A mix of punk rock to get you through your workout.
 
-277 songs - 14 hr 45 min
+278 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Broken Heart](https://open.spotify.com/track/64kDGEpOWlkv2l6x4TVNOs) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Broken Heart](https://open.spotify.com/album/0xpSM1rZxOJZR3o5kpcfQE) | 3:07 | 2020-11-20 | 2022-11-13 |
 | [Bullet for Your Sweetheart](https://open.spotify.com/track/4Z4EeEBGhvcoBwQmHIl0km) | [Make Out Monday](https://open.spotify.com/artist/3GIXsr5vAVkwN5i0noYsBp) | [Visions of Hollywood](https://open.spotify.com/album/4wX8RD86rnLDEjpKrG8Pxr) | 3:07 | 2020-11-20 | 2022-07-28 |
 | [Bullfrog](https://open.spotify.com/track/0jDGtdVh5TM69LxqaI1mp3) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Skinny Dipping](https://open.spotify.com/album/4xtHySb6XaNo8SLRgfpUSu) | 3:01 | 2020-11-20 | 2022-07-27 |
-| [Burn It Down](https://open.spotify.com/track/7vUeM6Bftbd4wBSml0KffV) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Caleb Shomo](https://open.spotify.com/artist/0YbrhcmTTHZbsXyqjsGCGD) | [A Beautiful Place To Drown](https://open.spotify.com/album/4orRroMtRrVGnlpheJbuap) | 3:10 | 2020-11-20 |  |
+| [Burn It Down](https://open.spotify.com/track/7vUeM6Bftbd4wBSml0KffV) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Caleb Shomo](https://open.spotify.com/artist/0YbrhcmTTHZbsXyqjsGCGD) | [A Beautiful Place To Drown](https://open.spotify.com/album/4orRroMtRrVGnlpheJbuap) | 3:10 | 2020-11-20 | 2023-05-11 |
 | [Burn It Down](https://open.spotify.com/track/7zziAaDRIHcKWSBC4DTAZZ) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Caleb Shomo](https://open.spotify.com/artist/0YbrhcmTTHZbsXyqjsGCGD) | [A Beautiful Place To Drown](https://open.spotify.com/album/2mEJTFHUOCEv4QFNTQv2Rg) | 3:10 | 2020-11-20 | 2022-07-29 |
 | [Chasing Ghosts](https://open.spotify.com/track/03y1mDlbMHZ40TBnwPvbAs) | [Calling All Captains](https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG) | [Nothing Grows Here](https://open.spotify.com/album/3KtiLWd9uMx5dVe3n2nW2p) | 2:53 | 2020-11-20 | 2022-07-28 |
 | [Check Yes, Juliet](https://open.spotify.com/track/0wVluBsVAVzBKrqspuCcwR) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [We The Kings](https://open.spotify.com/album/5kykHij9W4lQ4fFEfIo7BB) | 3:40 | 2020-11-20 |  |
@@ -283,6 +283,7 @@
 | [Worry Seed](https://open.spotify.com/track/3yWbedbZB6qp7FALvp4Q7C) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc) | [Piecing It Together](https://open.spotify.com/album/2OWssmFogmnwTnzynsTNcC) | 2:48 | 2021-07-08 | 2022-07-14 |
 | [You're Gonna Go Far, Kid](https://open.spotify.com/track/1FMm3wG5WOhi7js35KR7Ea) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/3LhnJMmYkizRwyHdw8y0Qr) | 2:57 | 2020-11-20 | 2022-07-29 |
 | [You're Gonna Go Far, Kid](https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 2:57 | 2020-11-20 |  |
+| [You’d Be Paranoid Too \(If Everyone Was Out To Get You\)](https://open.spotify.com/track/02Lki714RZrfUS65pzJ2lj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [Greatest Hits](https://open.spotify.com/album/6Em0b24eKa7vVf6sUYxOdI) | 2:31 | 2021-07-08 |  |
 | [You’d Be Paranoid Too \(If Everyone Was Out To Get You\)](https://open.spotify.com/track/6DvNarTGaQFkWpYM7CtqbC) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [You’d Be Paranoid Too \(If Everyone Was Out To Get You\)](https://open.spotify.com/album/7gCnE2Rtc62Je6ouel8QKA) | 2:31 | 2021-07-08 | 2022-07-29 |
 | [Zero Remorse](https://open.spotify.com/track/3moomsVlUVM1oUEE5Wslsg) | [The Bombpops](https://open.spotify.com/artist/6ZNVzBbI6yffAp1GYfNSke) | [Death in Venice Beach](https://open.spotify.com/album/0DD6b1BSi5eWrccJKsX86p) | 2:35 | 2020-11-20 | 2022-07-28 |
 

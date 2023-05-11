@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 
 > Keep calm and focus with ambient and post\-rock music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,936,611 likes - 252 songs - 11 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,937,005 likes - 252 songs - 11 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -261,4 +261,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 | 251 | [Seeming](https://open.spotify.com/track/1AzBMkqhcv8KKyCYc2A1C2) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Veriditas](https://open.spotify.com/album/3QTsU264hhPO4cEOrHrZC0) | 2:35 |
 | 252 | [Willow \- Instrumental Version](https://open.spotify.com/track/5TtfSQoBYHfCVPRS0M9DUs) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Fireflies & Willow \(Instrumental Version\)](https://open.spotify.com/album/3ULQIed3zR6E2Ak2oV66sW) | 3:39 |
 
-Snapshot ID: `MCxhNTNmM2QxNmQzNDU0NmRhNzY0OWI5YTMwMWI1N2NlZjQyMjdhZGQ3`
+Snapshot ID: `MCwxNmUwM2ZlNWMyOGQyOTI3YWU5OTBhOTFkYzRjZmEyYjNmYTZlODBh`

@@ -1,12 +1,12 @@
 {
   "description": "Soul for the blues. Cover: Otis Redding.",
-  "num_followers": 128082,
+  "num_followers": 128337,
   "original_name": "Sad Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzVmYzIxMjRjYmFmM2VhNjYyODA3ZTViYmJjMzE2OTQ3NDlhMGMz",
+  "snapshot_id": "MCw3MzZlZjkzNmJmZjA1ZTg1YjNlZjIyYTBjMDM2MTE1ZWY5NGE2MGU4",
   "tracks": [
     {
       "added_at": "2021-11-11 14:02:18",
@@ -639,22 +639,6 @@
     {
       "added_at": "2021-11-11 14:02:18",
       "album": {
-        "name": "The Very Best of Otis Redding",
-        "url": "https://open.spotify.com/album/28Pt7Q4ikXNPOEbtGnKlFA"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 195866,
-      "name": "I've Got Dreams to Remember",
-      "url": "https://open.spotify.com/track/4Ym0HjYfgEaUgjI3WuDqMK"
-    },
-    {
-      "added_at": "2021-11-11 14:02:18",
-      "album": {
         "name": "Faithful Man",
         "url": "https://open.spotify.com/album/38vdzwOSCNDvh81G0QmGfk"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 252973,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/2BZjcbZpQyyhpVr3gMGPn6"
+    },
+    {
+      "added_at": "2021-11-11 14:02:18",
+      "album": {
+        "name": "The Very Best of Otis Redding",
+        "url": "https://open.spotify.com/album/28Pt7Q4ikXNPOEbtGnKlFA"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 195866,
+      "name": "I've Got Dreams to Remember",
+      "url": "https://open.spotify.com/track/4Ym0HjYfgEaUgjI3WuDqMK"
     }
   ],
   "unique_name": "Sad Soul",

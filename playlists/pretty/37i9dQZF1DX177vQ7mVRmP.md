@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX177vQ7mVRmP.md) - [plain]
 
 > Silk Sonic plus all the essential Bruno Mars hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,877 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,863 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX177vQ7mVRmP.md) - [plain]
 | 49 | [Uptown Funk \(feat\. Bruno Mars\) \- Will Sparks Remix](https://open.spotify.com/track/5MpKzeXvOBFiZpQWV9iP5O) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Funk \(Remixes\) \(feat\. Bruno Mars\)](https://open.spotify.com/album/6oJPf4A0f047HhhANIFJVK) | 4:37 |
 | 50 | [That's What I Like \- BLVK JVCK Remix](https://open.spotify.com/track/4YS0JF9kSLe15ggwOQqQit) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg) | [That's What I Like \(BLVK JVCK Remix\)](https://open.spotify.com/album/0219JhsyibMkftKsI94Mv1) | 3:45 |
 
-Snapshot ID: `MCxlYWQ1MWNkNTQ5NDAxZmNmNzk5NzY5MjU2YTU4MGYwODJkNGZmZmNm`
+Snapshot ID: `MCw2MGRmNmY1NGUzYjE5ZmZmZGEwMjNiYzI2OWUwM2E4NGE2MWI4M2Y3`

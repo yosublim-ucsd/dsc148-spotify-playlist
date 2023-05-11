@@ -4,7 +4,7 @@
 
 > You can practically taste the desert dirt in your mouth while listening to these riff\-heavy, fuzzed out numbers\. Cover: Queens of the Stone Age
 
-285 songs - 1 day 2 hr 33 min
+286 songs - 1 day 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Big Sky Theory](https://open.spotify.com/track/676z61jraS43HoLu3Tc9dB) | [Dozer](https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N) | [Through The Eyes Of Heathens](https://open.spotify.com/album/4oFfTnY3Je6IT4QbeaPbQp) | 8:28 | 2021-11-30 | 2022-07-29 |
 | [Black](https://open.spotify.com/track/1MAZXGVX6v3630AjDhSHPE) | [Witchrider](https://open.spotify.com/artist/6yR8Nf8o56ZZR070jTti83) | [Unmountable Stairs](https://open.spotify.com/album/3zdNW4axkxhHI6kxmVX8cu) | 6:47 | 2022-04-28 | 2023-03-23 |
 | [Black](https://open.spotify.com/track/5iaVpwfa6T8ygaZXNhva8P) | [Witchrider](https://open.spotify.com/artist/6yR8Nf8o56ZZR070jTti83) | [Unmountable Stairs](https://open.spotify.com/album/10aQPFy03P8QGK2oRQaC2g) | 6:47 | 2021-11-30 | 2022-07-29 |
-| [Black Lilly](https://open.spotify.com/track/0JHW6P8sKS9GdN11fuGN1G) | [Colour Haze](https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8) | [In Her Garden](https://open.spotify.com/album/4Rna96AH3yctoFy4GWla4G) | 6:48 | 2021-11-30 |  |
+| [Black Lilly](https://open.spotify.com/track/0JHW6P8sKS9GdN11fuGN1G) | [Colour Haze](https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8) | [In Her Garden](https://open.spotify.com/album/4Rna96AH3yctoFy4GWla4G) | 6:48 | 2021-11-30 | 2023-05-11 |
 | [Black Smoke](https://open.spotify.com/track/0vZrU143kLdTS0wmOpif5u) | [Blues Pills](https://open.spotify.com/artist/2lmQ4CUnjmLIIfnwZdRmMY) | [Black Smoke](https://open.spotify.com/album/7Ml0kvmqPLNyoKVPRH00pr) | 4:38 | 2021-11-30 | 2022-07-19 |
 | [Blood Leaves a Trail](https://open.spotify.com/track/6u6cQr5HcIrU00h4xlrmCb) | [Somali Yacht Club](https://open.spotify.com/artist/4sgZ0Kad8DGhIP422wLArV) | [The Sea](https://open.spotify.com/album/5ZO5pXlgYkn7U5z403VSg1) | 6:19 | 2021-11-30 | 2022-07-07 |
 | [Blue Snow](https://open.spotify.com/track/4L6txSW8V2KqNVY1LZHMes) | [Orange Goblin](https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo) | [Time Travelling Blues](https://open.spotify.com/album/4EflZcGXhZGptft8fzxwI3) | 4:25 | 2021-11-30 | 2022-02-13 |
@@ -195,6 +195,7 @@
 | [Putain!](https://open.spotify.com/track/3dadlxoCAy15mHh3h9gcVr) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [All You Can Eat!!](https://open.spotify.com/album/0SZdR12aWXo9aZRurBvADH) | 3:48 | 2022-04-28 | 2023-03-23 |
 | [Putain!](https://open.spotify.com/track/4AvOo721haYzKYYODVwJ0i) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [All You Can Eat!!](https://open.spotify.com/album/7L9LTvVyQvLTUEzkPyKrpN) | 3:48 | 2021-11-30 | 2022-07-20 |
 | [Rabbit One](https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA) | [Masters Of Reality](https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb) | [Sunrise On The Sufferbus](https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5) | 3:33 | 2021-11-30 |  |
+| [Rattle](https://open.spotify.com/track/2G7nuGoxXXKbxoMmTyXk1h) | [Wailin' Storms](https://open.spotify.com/artist/2e1J5JQpROgSuT7RcsUbZ2) | [Rattle](https://open.spotify.com/album/3H640JprxOBh9mxeD4kLHx) | 5:32 | 2023-03-10 |  |
 | [Rattle](https://open.spotify.com/track/5t5NH0Rx2VuJ9UVflTieoT) | [Wailin' Storms](https://open.spotify.com/artist/2e1J5JQpROgSuT7RcsUbZ2) | [Rattle](https://open.spotify.com/album/2mZfuMXQuGX8ktWQvwq9rO) | 5:32 | 2021-11-30 | 2022-07-29 |
 | [Regular John](https://open.spotify.com/track/0R0m9mTXa81zp1qtcU3dSR) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Queens of the Stone Age](https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp) | 4:37 | 2022-04-28 |  |
 | [Regular John](https://open.spotify.com/track/0fZLTsasJCJ2EaaczK2Nob) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Queens of the Stone Age](https://open.spotify.com/album/4ZVYZI1wY4TmLOQ3as1UNI) | 4:37 | 2021-11-30 | 2022-07-29 |

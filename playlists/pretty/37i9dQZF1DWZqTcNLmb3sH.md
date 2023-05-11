@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Kabzaa
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,961 likes - 102 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,979 likes - 102 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Chum Chum Chali Chali \(from "Kabzaa"\) \[Kannada\]](https://open.spotify.com/track/6mpqDE2MUjLgPicgv2UPY3) | [Aira Udupi](https://open.spotify.com/artist/2XiW2XvpJ1Mh4FVA2iHDcx), [Manish Dinakar](https://open.spotify.com/artist/70HfG4IYLoQ6X4jyxUSmXw), [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q) | [Chum Chum Chali Chali \(from "Kabzaa"\) \[Kannada\]](https://open.spotify.com/album/0YBVSfWLr7SMKFy0AhNtvf) | 3:27 |
-| 2 | [Nanna Roja Neene](https://open.spotify.com/track/062kpqZXAQyyWkrXmS3bXY) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Nanna Roja Neene \(From "Kushi"\) \(Kannada\)](https://open.spotify.com/album/6VxjpUhtdOHgpmaK7lMBLX) | 4:03 |
-| 3 | [Bareyada Saalugala \(from "Elra Kaaleliyatte Kaala"\)](https://open.spotify.com/track/6LIgDXnDFi2BETv9aQDIyb) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Praveen\-Pradeep](https://open.spotify.com/artist/2Nh3McF50LBstOocdkW6m9), [Vishwajith Rao](https://open.spotify.com/artist/4yoso4oy6CJUzfVOS6zkjS) | [Bareyada Saalugala \(from "Elra Kaaleliyatte Kaala"\)](https://open.spotify.com/album/2dLlzGyoeQgy46tbNsTdJQ) | 4:40 |
+| 2 | [Nanna Roja Neene \(From "Kushi"\)](https://open.spotify.com/track/6CcjkrkV1WiUhfuNChsIyT) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [V Nagendra Prasad](https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU) | [Nanna Roja Neene \(From "Kushi"\) \- Single](https://open.spotify.com/album/7FtT1jxHHDVLb8Xo30IFiH) | 4:03 |
+| 3 | [Bareyada Saalugala \- From "Elra Kaaleliyatte Kaala"](https://open.spotify.com/track/3MOXoiVvshqaSUQxH6J2Vm) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Bareyada Saalugala \(From "Elra Kaaleliyatte Kaala"\)](https://open.spotify.com/album/3GuSMowAalmwB4b2lMRTX7) | 4:40 |
 | 4 | [Kanasali](https://open.spotify.com/track/6Y65F48GSTT2d4ygzo6Ufc) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Pancham Jeeva](https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s), [Harshika Devanath](https://open.spotify.com/artist/5PKcHZjlcaKjI9L1eDga3S) | [Virupaksha \(Kannada\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6LoBXm4ljYiTVpjBCd4t0o) | 3:51 |
 | 5 | [Jai Shri Ram \(KANNADA\)](https://open.spotify.com/track/3oGP2kJuEkBf2qzwlyMJbt) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [V Nagendra Prasad](https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU) | [Jai Shri Ram \(KANNADA\)](https://open.spotify.com/album/1vG9GtlO0kFm0zNF7rIpP4) | 1:04 |
 | 6 | [Gaalige Gandha\(From "Raghavendra Stores"\)](https://open.spotify.com/track/0WO4oGkSd2oPqbBq3RatRF) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Gaalige Gandha \(From "Raghavendra Stores"\)](https://open.spotify.com/album/3StfUJ9jdGxg1wWvt2CdqF) | 3:41 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 101 | [Haaduve Naa Haaduve](https://open.spotify.com/track/5T8wOodxnY4yKIUqL3WyC7) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Siddharth Belmannu](https://open.spotify.com/artist/79LdQ8oCiYU93qEqWMEUCj) | [Orchestra, Mysuru! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1xZ7njeguIdXjWWuBFDnqd) | 6:52 |
 | 102 | [Kranti Deepa](https://open.spotify.com/track/1FGQznFkfQ2nggQ4fs41ke) | [Satvik C S](https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR) | [Kranti Deepa](https://open.spotify.com/album/4J1yPPWodToG9L4QJUrc8h) | 2:59 |
 
-Snapshot ID: `MCw3NDg1N2ZlNmVkMTEyYmU1ZjM5YmRmZjM4MWI1ZDcxMjNjYzE2OThl`
+Snapshot ID: `MCw4YWE2YTFlYzEyZGE2ODQ4MDI1NzQ4ZDQzOGVhNGI0MWM2MGMwZTJl`

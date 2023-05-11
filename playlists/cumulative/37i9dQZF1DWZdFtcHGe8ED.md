@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Anthrax
 
-374 songs - 1 day 2 hr 41 min
+375 songs - 1 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Chaos Possession](https://open.spotify.com/track/1DHf4SG3bLDoHXAstlcAWV) | [Dust Bolt](https://open.spotify.com/artist/4YTVF2l3v9pGQz1QbUfg2q) | [Chaos Possession](https://open.spotify.com/album/0vLCfHnHq5VcM8tt9gG8OP) | 3:53 | 2021-12-17 | 2022-07-28 |
 | [CHØKE ØN THE ASHES ØF YØUR HATE](https://open.spotify.com/track/5sykvfEJHupA8mjhhgylVk) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 4:06 | 2022-07-13 |  |
 | [CHØKE ØN THE ASHES ØF YØUR HATE](https://open.spotify.com/track/74Ijstyp0EXcdEZzyLOJy6) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [CHØKE ØN THE ASHES ØF YØUR HATE](https://open.spotify.com/album/6EhTaVPe67FETk9tIbi8nq) | 4:06 | 2022-04-15 | 2022-08-27 |
-| [Circle of the Tyrants](https://open.spotify.com/track/4esTgfKqcMbrjs9MLsxpO8) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [To Mega Therion \(Expanded Version\)](https://open.spotify.com/album/4jlatOhKoYXYXxoFJsBMDg) | 4:27 | 2022-09-09 |  |
+| [Circle of the Tyrants](https://open.spotify.com/track/4esTgfKqcMbrjs9MLsxpO8) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [To Mega Therion \(Expanded Version\)](https://open.spotify.com/album/4jlatOhKoYXYXxoFJsBMDg) | 4:27 | 2022-09-09 | 2023-05-11 |
 | [Circle of the Tyrants](https://open.spotify.com/track/4PAsYAQCAm5pNPPtqIZmwF) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [Morbid Tales](https://open.spotify.com/album/2G2c7jjmwDaJVLfJc47859) | 4:28 | 2022-07-13 | 2022-09-04 |
 | [Clickbait](https://open.spotify.com/track/0HpfDXJFYDF8ZZAWhTa7Aq) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Clickbait](https://open.spotify.com/album/0Niay8TGkPcu9gm5DdtCi7) | 4:31 | 2021-12-17 | 2022-07-27 |
 | [Combat Mosh](https://open.spotify.com/track/04FfBJZBfU0UR5uqR4CJAD) | [Lich King](https://open.spotify.com/artist/4rlxS0LeVnHz6z1zp2iJbz) | [Born Of The Bomb](https://open.spotify.com/album/0zV6u0B6tozejS9ol4rfca) | 4:39 | 2021-12-17 |  |
@@ -252,6 +252,7 @@
 | [Possessed by Fire](https://open.spotify.com/track/6wiuSleBg7fx2C5B0HwtLy) | [Exumer](https://open.spotify.com/artist/03sDKsD3y34NBAjeRHucde) | [Possessed by Fire](https://open.spotify.com/album/5C8Mjwwruh2IFfg4WbdnlR) | 5:00 | 2022-07-13 | 2022-10-05 |
 | [Post\-Truth Era](https://open.spotify.com/track/0sQJS58QryP50hsYo2CI8u) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Post\-Truth Era](https://open.spotify.com/album/0omA3faLxpyUINQMCeq4ly) | 3:53 | 2021-12-17 | 2022-07-27 |
 | [Practice What You Preach](https://open.spotify.com/track/1KmX2Q8IwwLY2AMIMOmYlw) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Practice What You Preach](https://open.spotify.com/album/7lNeBg16EP03ifo5Wutq52) | 4:57 | 2022-07-13 |  |
+| [Prepare For Attack](https://open.spotify.com/track/4IOi7IORghPMhRPpjkU0cP) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Time Is Up](https://open.spotify.com/album/7cTTwQZXVtlaLNVFOTuDXn) | 3:56 | 2022-12-15 |  |
 | [Prepare For Attack](https://open.spotify.com/track/6cTvR35cvugp2SLSPsnzy0) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Time Is Up](https://open.spotify.com/album/7275posUjEJ7H9tLyaxyLH) | 3:56 | 2022-07-13 | 2023-05-07 |
 | [Prisoner](https://open.spotify.com/track/3YLyBeCT9tgFLvZMpjyf8m) | [The Southern Oracle](https://open.spotify.com/artist/1IV9JLta5jCCN6YmlNoLq7) | [Prisoner](https://open.spotify.com/album/4zv6HmhOHygHHDZVs7qBhF) | 2:21 | 2021-12-17 | 2022-07-07 |
 | [Prospect of Immortality](https://open.spotify.com/track/4011bzR6xClAGZ71YCcHOO) | [Cryptosis](https://open.spotify.com/artist/6wOhrwpLn8mjwUs14xh9nD) | [Prospect of Immortality](https://open.spotify.com/album/5FLNpvpZtonW80c2IOicDn) | 6:21 | 2021-12-17 | 2022-03-03 |

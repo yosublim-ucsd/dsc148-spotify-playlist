@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 169973,
       "name": "If Love Is Just a Word",
       "url": "https://open.spotify.com/track/3QVLxtGbyrzWDPdqlDNIo0"
@@ -1854,6 +1854,24 @@
       "duration_ms": 296060,
       "name": "Rituel",
       "url": "https://open.spotify.com/track/2Nac4pGLIiXjLyo7lLDK4R"
+    },
+    {
+      "album": {
+        "name": "Roll The Credits",
+        "url": "https://open.spotify.com/album/0fpFEstlRYE58T2sIuubdg"
+      },
+      "artists": [
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253411,
+      "name": "Roll The Credits",
+      "url": "https://open.spotify.com/track/6St9uiBUG4L7LvVNuUcm8a"
     },
     {
       "album": {

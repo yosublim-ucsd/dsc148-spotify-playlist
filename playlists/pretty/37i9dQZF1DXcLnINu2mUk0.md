@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bispo e Bárbara Tinoco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,028 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,113 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 62 | [Não Me Leves a Mal](https://open.spotify.com/track/74lzWQmKWFI5Z0RJqV8hEG) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Não Me Leves a Mal](https://open.spotify.com/album/11hvGr1BS32qZ4MOAAGiXP) | 4:00 |
 | 63 | [Confortable](https://open.spotify.com/track/7A6yZH0XOkn1qhgaNnOKYZ) | [SOLUNA](https://open.spotify.com/artist/6sIsLfY5y0OFtBSbSNEjmW), [Dotorado Pro](https://open.spotify.com/artist/6CMcJKC5K1MFHQJYKdTLPd) | [Confortable](https://open.spotify.com/album/6bRjSUOtBfPiUSb47hlh5Y) | 2:48 |
 | 64 | [Na Minha](https://open.spotify.com/track/62YBP8pqutiMD6Ui9EjFRD) | [Cálculo](https://open.spotify.com/artist/1MOKHbjTVCqrzy7o3Es8hI) | [Na Minha](https://open.spotify.com/album/5Kude9sqn9Z5XjV5QfrHI8) | 2:58 |
-| 65 | [Falling](https://open.spotify.com/track/6dS3q4aYdfNTQ3ZMRP2p2u) | [J.Yen](https://open.spotify.com/artist/1cHrAXseLt7kFWFdvQE2HO) | [Falling](https://open.spotify.com/album/1s8l50CTfyziLZqKR9OkPz) | 3:28 |
-| 66 | [Culpa Do Álcool](https://open.spotify.com/track/1GAy3MLjR2Nlhdr1Z4iQb0) | [Stefânia Leonel](https://open.spotify.com/artist/5vBDGts6FgwIFgGezr0gZE) | [Culpa Do Álcool](https://open.spotify.com/album/0vnNwTitOdyUljMkE1qUPW) | 2:13 |
-| 67 | [aventura](https://open.spotify.com/track/1vfTcheHkwGSSbNQjiaom8) | [ÉLLÀH](https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt), [Vincee](https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN) | [aventura](https://open.spotify.com/album/1WxyMf0XHnJjDZoULpX0la) | 3:18 |
+| 65 | [Culpa Do Álcool](https://open.spotify.com/track/1GAy3MLjR2Nlhdr1Z4iQb0) | [Stefânia Leonel](https://open.spotify.com/artist/5vBDGts6FgwIFgGezr0gZE) | [Culpa Do Álcool](https://open.spotify.com/album/0vnNwTitOdyUljMkE1qUPW) | 2:13 |
+| 66 | [aventura](https://open.spotify.com/track/1vfTcheHkwGSSbNQjiaom8) | [ÉLLÀH](https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt), [Vincee](https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN) | [aventura](https://open.spotify.com/album/1WxyMf0XHnJjDZoULpX0la) | 3:18 |
+| 67 | [Falling](https://open.spotify.com/track/6dS3q4aYdfNTQ3ZMRP2p2u) | [J.Yen](https://open.spotify.com/artist/1cHrAXseLt7kFWFdvQE2HO) | [Falling](https://open.spotify.com/album/1s8l50CTfyziLZqKR9OkPz) | 3:28 |
 | 68 | [Chama](https://open.spotify.com/track/21IKJYkz8ixquQUHXu6cXK) | [Jovem Ricch](https://open.spotify.com/artist/6h1XzP48C784CYNKfgCY8D) | [Chama](https://open.spotify.com/album/6ahh3FXc4m8PpHLXzaC5kS) | 2:15 |
-| 69 | [Amar De Novo](https://open.spotify.com/track/2sDhRWH2VrOYdYwmmUciAo) | [Jay Arghh](https://open.spotify.com/artist/7o2higvi9ddnRkkeexfCw5), [Nelson Nhachungue](https://open.spotify.com/artist/3vDKB1JXTy4KJteAUoh4yZ) | [Amar De Novo](https://open.spotify.com/album/0aIYlO8e2HHdye8mHIBLMA) | 3:04 |
-| 70 | [Entorpecente](https://open.spotify.com/track/0fZ7aqPmqDSI1sGTO5MPqg) | [Manaux](https://open.spotify.com/artist/6tq70oYBgLGQmo3Rit9khr) | [Entorpecente](https://open.spotify.com/album/5TlSkej09g8DTIRYj1DHDC) | 2:38 |
+| 69 | [Entorpecente](https://open.spotify.com/track/0fZ7aqPmqDSI1sGTO5MPqg) | [Manaux](https://open.spotify.com/artist/6tq70oYBgLGQmo3Rit9khr) | [Entorpecente](https://open.spotify.com/album/5TlSkej09g8DTIRYj1DHDC) | 2:38 |
+| 70 | [Amar De Novo](https://open.spotify.com/track/2sDhRWH2VrOYdYwmmUciAo) | [Jay Arghh](https://open.spotify.com/artist/7o2higvi9ddnRkkeexfCw5), [Nelson Nhachungue](https://open.spotify.com/artist/3vDKB1JXTy4KJteAUoh4yZ) | [Amar De Novo](https://open.spotify.com/album/0aIYlO8e2HHdye8mHIBLMA) | 3:04 |
 | 71 | [Compensa](https://open.spotify.com/track/5Gy6YKL17vrzMVnsve5aCd) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Compensa](https://open.spotify.com/album/3iQUWcwiOXIa5BVwczmbbY) | 3:11 |
 | 72 | [Outono](https://open.spotify.com/track/01DyRyMOPecrfZdVZQvdqJ) | [10/16](https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE), [Djenga](https://open.spotify.com/artist/2eMReurbaZ9DrN632vlbae) | [Outono](https://open.spotify.com/album/7FfkXkOVmdEDVp9Y6hWIn7) | 3:56 |
 | 73 | [Férias](https://open.spotify.com/track/5kvAbrnaVqt40FkzWLq23j) | [Projecto 51](https://open.spotify.com/artist/5kHEKWF1LxmEo7w9Lq3xus) | [Férias](https://open.spotify.com/album/4nKNDoaUp9CEywn6SRSGfX) | 4:22 |
 | 74 | [Lua](https://open.spotify.com/track/1WjnWfl2X36CBYDB0Dtga0) | [Curl](https://open.spotify.com/artist/7y655l8CPBN1uuVpeZHQ5y) | [Lua](https://open.spotify.com/album/4Oyobh3tcmdIuf8c3nrkTj) | 3:36 |
 | 75 | [Preciso de alguém](https://open.spotify.com/track/30U1EU9Tn3cx8iFp2QSbQn) | [Dougie Knight](https://open.spotify.com/artist/2PU8j6LKs1ndgXQQ92n5RB) | [Preciso de alguém](https://open.spotify.com/album/5j326RJto69tuJk04jned4) | 2:30 |
 
-Snapshot ID: `MCxiODRkOGM3MWQ5OGJjNWYxYzhhNmZkMWQxYTZiMmJiMzU4MjI3YzUy`
+Snapshot ID: `MCwyM2M4ZDg3MmEwNjcxMzE0NTQ2Y2EyZGI5NTY1MzdlMjMxNzQwZDI5`

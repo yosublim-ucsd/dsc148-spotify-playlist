@@ -876,7 +876,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 236800,
       "name": "Falaytaka Tahlou",
       "url": "https://open.spotify.com/track/2QC2N9Y3qfyeqFqyizohk6"
@@ -1168,6 +1168,28 @@
       "duration_ms": 286424,
       "name": "Holm",
       "url": "https://open.spotify.com/track/1BLbyhemxMhIds5cf4lHxx"
+    },
+    {
+      "album": {
+        "name": "Hotel Palestina",
+        "url": "https://open.spotify.com/album/7CI4K0ZBnjF11FwF3SkVVq"
+      },
+      "artists": [
+        {
+          "name": "Rola Azar",
+          "url": "https://open.spotify.com/artist/17WvUHY56BGNm6i6uTqyj1"
+        },
+        {
+          "name": "Phil Halo",
+          "url": "https://open.spotify.com/artist/6dyzieLNuthwQsahZSxbOv"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172506,
+      "name": "Hotel Palestina",
+      "url": "https://open.spotify.com/track/0yVtNraXOJHVFUZmzg4CVx"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Furui Riho
 
-833 songs - 2 day 3 hr 24 min
+835 songs - 2 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,6 +382,7 @@
 | [Shisso](https://open.spotify.com/track/4vc2xLv40ExLHTuSYLaM7F) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [SHIKI](https://open.spotify.com/album/3hG301XBzgG9WMXB9xaC8d) | 2:34 | 2022-11-08 | 2022-12-14 |
 | [short short](https://open.spotify.com/track/3GsUIqbzPxQPhYcBGchpWu) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [short short](https://open.spotify.com/album/2vT5XBZqx4iOmzqk7vRsuK) | 3:22 | 2022-12-06 | 2023-02-15 |
 | [Shower](https://open.spotify.com/track/1rS2X092hCdnS1DCrajMkd) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Shower](https://open.spotify.com/album/5OpqTol5Qnm3kZejdelVPP) | 3:12 | 2022-08-04 | 2022-09-09 |
+| [shower room rendezvous](https://open.spotify.com/track/4656G8EnjFhXdKQDpTnUPg) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [shower room rendezvous](https://open.spotify.com/album/04nZ0av3cPzR8J32FSwjbw) | 3:24 | 2023-05-09 |  |
 | [Siesta](https://open.spotify.com/track/74J0ffff6Hp3fYCkp3ceKW) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Siesta](https://open.spotify.com/album/4q5mMGjlcMUUhlGd4RWDp3) | 3:11 | 2023-04-25 |  |
 | [signal](https://open.spotify.com/track/5SAVeDv2tKYyfPm7NJ6zTr) | [AKIRA](https://open.spotify.com/artist/6ssW8So4tdpbto3NUOktqv), [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO) | [signal](https://open.spotify.com/album/0kT3niMIXUSdbzd7dLDO81) | 3:39 | 2022-08-09 | 2022-09-28 |
 | [sinister](https://open.spotify.com/track/7tR03ofElFzll0dVIgnIAm) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [sinister](https://open.spotify.com/album/2sYMWQ3gsmhz8waGwYpGCq) | 3:38 | 2023-04-11 |  |
@@ -499,6 +500,7 @@
 | [yours](https://open.spotify.com/track/5aUGn26DPGI2ZhpeYYcKJP) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [yours](https://open.spotify.com/album/3Bongu2IlWvd9QIOGLrPOM) | 4:11 | 2022-02-17 | 2022-03-16 |
 | [yugi](https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [yugi](https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc) | 3:21 | 2022-07-07 | 2022-07-27 |
 | [Yume wa Sametemo](https://open.spotify.com/track/2rqgyouAVrWeRjGvFKnqLm) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Yume wa Sametemo](https://open.spotify.com/album/6Ohpoh84DNmZLaW6aTGuhP) | 3:41 | 2023-04-04 |  |
+| [Yumemirudakenara](https://open.spotify.com/track/4E0sHNrQxoP7LHBMdGCToR) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [Yumemirudakenara](https://open.spotify.com/album/0KpYB0bKXN0YQXdxnfAOxB) | 3:32 | 2023-05-09 |  |
 | [yurari](https://open.spotify.com/track/65eOpQXaCOmtC5qkSZBdnW) | [Quw](https://open.spotify.com/artist/17ryZCE9CTpuNkJMYTwB5M) | [yurari](https://open.spotify.com/album/4GDsYeXUrL7rGXcc42OnfU) | 3:03 | 2022-10-20 | 2022-11-02 |
 | [Y字路](https://open.spotify.com/track/1Bdco5s8iglJYo0zHFVcMF) | [ナカムラマユ](https://open.spotify.com/artist/0SEwHBIuSqJzE4b8OrOlKz) | [Y字路](https://open.spotify.com/album/29qj5rbigArk4Z6jdj5PiN) | 3:49 | 2022-06-21 | 2022-07-13 |
 | [zettaizetsumei](https://open.spotify.com/track/6x0WG2IIzpXkldDE1E7jtP) | [NOMAD POP](https://open.spotify.com/artist/2sggfxkeQ5OFGNPZpadSFZ) | [zettaizetsumei](https://open.spotify.com/album/4GT3kyFUUC3h093sN4H9Mu) | 3:53 | 2022-08-09 | 2022-09-06 |
@@ -583,7 +585,7 @@
 | [シット・バイアス・ミュージック](https://open.spotify.com/track/1ztIyUs89PLJv0NQH8eb5m) | [ポンツクピーヤ](https://open.spotify.com/artist/0j56Vr9S3Iq3Inp8pLX02Q) | [19歳/シット・バイアス・ミュージック](https://open.spotify.com/album/5Sntp3QM3VhnDAJDD56eki) | 4:30 | 2023-02-01 | 2023-02-08 |
 | [シトラス](https://open.spotify.com/track/3E7EqKi9z8dRoWUame2a88) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [シトラス](https://open.spotify.com/album/7w8SJy9LxvERNlDtuFulId) | 3:10 | 2022-02-17 | 2022-03-09 |
 | [シニスター](https://open.spotify.com/track/3LQgY2kGn9BYf8E7WIbW6Q) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [シニスター](https://open.spotify.com/album/3en4RwQh65pS5GtV9cZCcn) | 3:38 | 2023-04-11 | 2023-04-13 |
-| [シャワールームランデブー](https://open.spotify.com/track/746svnxRSFBJOHEh84XsmE) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [シャワールームランデブー](https://open.spotify.com/album/3Phsmc2oKgMslU1URpjoRs) | 3:24 | 2023-05-09 |  |
+| [シャワールームランデブー](https://open.spotify.com/track/746svnxRSFBJOHEh84XsmE) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [シャワールームランデブー](https://open.spotify.com/album/3Phsmc2oKgMslU1URpjoRs) | 3:24 | 2023-05-09 | 2023-05-11 |
 | [シューズは脱がないで](https://open.spotify.com/track/79uQGELJZmGKRB1d6ru7zH) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [シューズは脱がないで](https://open.spotify.com/album/6oBRsPbalhRy2TmM8TbcyQ) | 4:08 | 2022-12-13 | 2023-01-13 |
 | [ショートショート](https://open.spotify.com/track/51u6JSKwD9wDMQ40DyYc4i) | [幽体コミュニケーションズ](https://open.spotify.com/artist/3dLMNvMcmgkMxqf2smWYs4) | [\(汽水のコピー\)](https://open.spotify.com/album/20QQSAjtnSXzG8U4PmJKpU) | 3:07 | 2022-03-01 | 2022-03-30 |
 | [ショートショート](https://open.spotify.com/track/0NZcinfdZ1THF9YaFaigid) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [ショートショート](https://open.spotify.com/album/0knJhBcwQ3zgKD1skJ9ErK) | 3:22 | 2022-12-06 | 2022-12-08 |
@@ -692,7 +694,7 @@
 | [夢のしるし](https://open.spotify.com/track/7k4O76xxXaOfSW7MbTrSVv) | [まなつ](https://open.spotify.com/artist/5jrKolawagaQ6oSN5VCcnO) | [夢のしるし](https://open.spotify.com/album/12nNBrL39FSaR9xlEUBA7Z) | 3:08 | 2023-02-21 | 2023-03-01 |
 | [夢はさめても](https://open.spotify.com/track/6qGRdMmPJzb5hA6eqTegnG) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [夢はさめても](https://open.spotify.com/album/32jcdlCziq8Y8olpXHj2Jc) | 3:41 | 2023-04-04 | 2023-04-06 |
 | [夢中](https://open.spotify.com/track/4Gtnu9xFjyznf1za92wHqH) | [Ochunism](https://open.spotify.com/artist/3w5Y9qujoqMYzjk6aIgpnS) | [夢中](https://open.spotify.com/album/0YPwMGNvyNwXlp1W3Ug6T1) | 3:59 | 2022-04-27 | 2022-06-06 |
-| [夢見るだけなら](https://open.spotify.com/track/2ZazGKyCiP0BJXR8FNGjeF) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [夢見るだけなら](https://open.spotify.com/album/5IoUwSGawKTbd2i6wQ5SVy) | 3:32 | 2023-05-09 |  |
+| [夢見るだけなら](https://open.spotify.com/track/2ZazGKyCiP0BJXR8FNGjeF) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [夢見るだけなら](https://open.spotify.com/album/5IoUwSGawKTbd2i6wQ5SVy) | 3:32 | 2023-05-09 | 2023-05-11 |
 | [天使](https://open.spotify.com/track/3aF6sZZLBdHh1RxE0tt1Da) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [P・O・N](https://open.spotify.com/album/5kd9iymKxO4uXMDWzdBoEE) | 4:36 | 2022-03-08 | 2022-03-16 |
 | [天文部](https://open.spotify.com/track/2Bq6MBfyG1SG7RYH66KyMj) | [平理央](https://open.spotify.com/artist/5XV5kNtCkFTwVcL5rdCUln) | [sayonara rhapsody](https://open.spotify.com/album/2P0LaU0YcCVafwv5wEaOAA) | 2:48 | 2022-10-18 | 2022-10-20 |
 | [天気雨 \-Still Love me\- \(feat\. ひかり\)](https://open.spotify.com/track/7trAsgfCsb4zWYAu1ydGM9) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [天気雨 \-Still Love me\- \(feat\. ひかり\)](https://open.spotify.com/album/57LhNeBgIORm3Q9G6tVaOH) | 3:21 | 2022-06-21 | 2022-07-20 |

@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 603934,
+  "num_followers": 604036,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGNiYjQ5Yjg3ZWM1NjcwNzJlMDlhNzQyMWI2MTdhMWFiNDZjMDEz",
+  "snapshot_id": "MCxjODRiZDkzZTljZDJhZjdkNWZkNDNhNWM3NjgyZjhkZjkyMTIwZGE5",
   "tracks": [
     {
       "added_at": "2022-12-21 12:27:58",
@@ -723,6 +723,22 @@
     {
       "added_at": "2022-12-21 12:27:58",
       "album": {
+        "name": "Fettes Brot l\u00e4sst gr\u00fcssen",
+        "url": "https://open.spotify.com/album/0Mbt27Q40cXFkhbTMQW5QL"
+      },
+      "artists": [
+        {
+          "name": "Fettes Brot",
+          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
+        }
+      ],
+      "duration_ms": 320040,
+      "name": "Da draussen",
+      "url": "https://open.spotify.com/track/3pw3W5nRx5MDmWOd9sawYA"
+    },
+    {
+      "added_at": "2022-12-21 12:27:58",
+      "album": {
         "name": "Beat of Life, Vol. 1",
         "url": "https://open.spotify.com/album/1x0sohs1p9hvf2RtLdUiXY"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": "2022-12-21 12:27:58",
       "album": {
-        "name": "Fettes Brot l\u00e4sst gr\u00fcssen",
-        "url": "https://open.spotify.com/album/0Mbt27Q40cXFkhbTMQW5QL"
-      },
-      "artists": [
-        {
-          "name": "Fettes Brot",
-          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
-        }
-      ],
-      "duration_ms": 320040,
-      "name": "Da draussen",
-      "url": "https://open.spotify.com/track/3pw3W5nRx5MDmWOd9sawYA"
-    },
-    {
-      "added_at": "2022-12-21 12:27:58",
-      "album": {
         "name": "Leben und Tod des Kenneth Gl\u00f6ckler",
         "url": "https://open.spotify.com/album/1rR7VSYfXUZWFWZALjBcC4"
       },
@@ -775,22 +775,6 @@
       "duration_ms": 601000,
       "name": "Leben und Tod des Kenneth Gl\u00f6ckler",
       "url": "https://open.spotify.com/track/3ai0DFuYn5KnHPUbRjAkga"
-    },
-    {
-      "added_at": "2022-12-21 12:27:58",
-      "album": {
-        "name": "Mercedes Dance",
-        "url": "https://open.spotify.com/album/2SBaZj97eH8S2s2KYjM6Th"
-      },
-      "artists": [
-        {
-          "name": "Jan Delay",
-          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
-        }
-      ],
-      "duration_ms": 295440,
-      "name": "Klar",
-      "url": "https://open.spotify.com/track/01y4v0GVDAFwj9hjxTMshg"
     },
     {
       "added_at": "2022-12-21 12:27:58",
@@ -811,6 +795,22 @@
       "duration_ms": 234400,
       "name": "Verstrahlt",
       "url": "https://open.spotify.com/track/1wblDHAGAHk9v3prkgPZwI"
+    },
+    {
+      "added_at": "2022-12-21 12:27:58",
+      "album": {
+        "name": "Mercedes Dance",
+        "url": "https://open.spotify.com/album/2SBaZj97eH8S2s2KYjM6Th"
+      },
+      "artists": [
+        {
+          "name": "Jan Delay",
+          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
+        }
+      ],
+      "duration_ms": 295440,
+      "name": "Klar",
+      "url": "https://open.spotify.com/track/01y4v0GVDAFwj9hjxTMshg"
     },
     {
       "added_at": "2022-12-21 12:27:58",

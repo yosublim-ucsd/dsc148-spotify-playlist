@@ -4,7 +4,7 @@
 
 > La música que prende la fiesta!
 
-378 songs - 22 hr 8 min
+378 songs - 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Llora Me Llama \- Remix](https://open.spotify.com/track/6U4VSEIR6N63JBpbCQfyEh) | [Dj Kairuz](https://open.spotify.com/artist/691W1gqZuTStArZXHw2fT5), [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Llora Me Llama \(Remix\)](https://open.spotify.com/album/2t4EzAGtkcu8iek1TcGGKu) | 3:28 | 2022-05-13 | 2022-07-12 |
 | [Lloraras por Mi](https://open.spotify.com/track/6RIbI3LsAZXfkBo5L48YoB) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ), [Chapa C](https://open.spotify.com/artist/5tGexnJ20XnSHoqqP7bjZC), [Bryan Alvez](https://open.spotify.com/artist/6FZjAN4tUrVUtL1YcJvUsQ) | [Lloraras por Mi](https://open.spotify.com/album/6NeslMHNyo6imAQNkEOaly) | 2:38 | 2022-06-07 | 2022-07-10 |
 | [Locura](https://open.spotify.com/track/5379uuUPHodsdVhy8pIAAr) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Colegio](https://open.spotify.com/album/6IJ3u6R56lp0AUT0W9snon) | 3:29 | 2022-06-17 | 2022-06-25 |
-| [Los Del Fuego Megamix: Jurabas tu / Un dia sin ti / Y tu te vás / Juegos de seducción / Sabes / Otra como tu / Pupilas lejanas / Tu boca miente / Bailando con tu sombra / Si quieres mi amor](https://open.spotify.com/track/32AXXsD1x90IJL00y44nuL) | [Nico Vallorani DJ](https://open.spotify.com/artist/2ebw2UvIeAWFGykGkXEyfx) | [Los Del Fuego Megamix: Jurabas tu / Un dia sin ti / Y tu te vás / Juegos de seducción / Sabes / Otra como tu / Pupilas lejanas / Tu boca miente / Bailando con tu sombra / Si quieres mi amor](https://open.spotify.com/album/5k16jK2m8YIQjuCSK5TT8H) | 16:50 | 2023-05-05 |  |
+| [Los Del Fuego Megamix: Jurabas tu / Un dia sin ti / Y tu te vás / Juegos de seducción / Sabes / Otra como tu / Pupilas lejanas / Tu boca miente / Bailando con tu sombra / Si quieres mi amor](https://open.spotify.com/track/32AXXsD1x90IJL00y44nuL) | [Nico Vallorani DJ](https://open.spotify.com/artist/2ebw2UvIeAWFGykGkXEyfx) | [Los Del Fuego Megamix: Jurabas tu / Un dia sin ti / Y tu te vás / Juegos de seducción / Sabes / Otra como tu / Pupilas lejanas / Tu boca miente / Bailando con tu sombra / Si quieres mi amor](https://open.spotify.com/album/5k16jK2m8YIQjuCSK5TT8H) | 13:33 | 2023-05-05 |  |
 | [Los Fiesteros Se Enamoran](https://open.spotify.com/track/6dHkwRSI5ja8OdEBLF73WV) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [El Super Hobby](https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V) | [No Es Tan Fácil](https://open.spotify.com/album/1BtjQQmVRRs5m7AoBh81Xv) | 3:03 | 2022-05-13 | 2022-07-02 |
 | [Love Nwantiti \- Remix](https://open.spotify.com/track/5b0WVFVs3LKldv8F6BKCAg) | [Manu Rg](https://open.spotify.com/artist/4BYjb5lZPyqyEJgSCkxXuH) | [Love Nwantiti \(Remix\)](https://open.spotify.com/album/42W7fylfVxe74edQjNJvfu) | 2:46 | 2022-06-17 | 2022-07-12 |
 | [M.A \(Mejores Amigos\)](https://open.spotify.com/track/1eIDsKCLwZF6CJK8pOgHX5) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Phontana](https://open.spotify.com/artist/41BZwHjzWGfT4wsOP3yZOz) | [M.A \(Mejores Amigos\)](https://open.spotify.com/album/2ESUDQUE3ku1wEBCO5RKG6) | 2:38 | 2023-02-10 |  |

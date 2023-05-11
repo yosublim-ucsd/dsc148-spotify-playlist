@@ -4,7 +4,7 @@
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: Måneskin
 
-287 songs - 18 hr 35 min
+288 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Black Hole Sun](https://open.spotify.com/track/6D2gXbeLojuNlaYxno8MmF) | [Evan Konrad](https://open.spotify.com/artist/1kbwbl2LLa2zBfnKQbvw6Y) | [Black Hole Sun](https://open.spotify.com/album/1fh2yEipcfET3dKdHQ7owj) | 3:27 | 2022-03-25 | 2022-04-19 |
 | [Blank Generation \- Studio Version \- Recorded at Electric Lady Studios](https://open.spotify.com/track/1cHKubFP60htes9wa4Y5JO) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Live At Electric Lady](https://open.spotify.com/album/1OMEu56fo3rz6Oo0e0vYxQ) | 3:53 | 2020-12-16 | 2022-07-29 |
 | [Blinded By The Light \- From "Super Troopers 2" Soundtrack](https://open.spotify.com/track/3kgtj0csPcN5uqPyEObXu9) | [Eagles Of Death Metal](https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o) | [Blinded By The Light \(From "Super Troopers 2" Soundtrack\)](https://open.spotify.com/album/35CSAGjxuiLJhGEQ1KoRY9) | 4:36 | 2020-12-16 | 2022-11-26 |
+| [Blinding Lights](https://open.spotify.com/track/1nJOzQiAY0d9YGopbYlQsr) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8) | [Blinding Lights](https://open.spotify.com/album/3Bp4QzJlhnqgJ5CW9zfEo7) | 3:03 | 2023-04-07 |  |
 | [Blinding Lights](https://open.spotify.com/track/7js8kgidJpIpFuFaB8e8qp) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8) | [Blinding Lights](https://open.spotify.com/album/6kuMKz2YDKCmHd5njGXsbi) | 3:03 | 2021-11-19 | 2023-05-05 |
 | [Blue Monday](https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE) | [Orgy](https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0) | [Candyass](https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A) | 4:27 | 2020-12-16 |  |
 | [Blue on Black](https://open.spotify.com/track/0JHREzo9WzIP4vyybhSKPa) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Brian May](https://open.spotify.com/artist/2NcbLU1bW55eahD0UgD7U3), [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Blue on Black](https://open.spotify.com/album/0kGUgf5DwZvaDbjmupbPsc) | 4:34 | 2022-06-17 |  |
@@ -163,7 +164,7 @@
 | [Like a Virgin](https://open.spotify.com/track/55tH1vUqhMrLlcJ09k2QGq) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [The Dirt Soundtrack](https://open.spotify.com/album/1FeIa1My6QQ6oQjUYxI36O) | 3:08 | 2022-06-17 | 2023-04-06 |
 | [Like a Virgin](https://open.spotify.com/track/5y1QAwcpZ6cDSAQDYgw9dX) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Like a Virgin](https://open.spotify.com/album/77eoArzqUsV6nffTcaND6B) | 3:08 | 2020-12-16 | 2022-07-29 |
 | [Listen To Your Heart](https://open.spotify.com/track/29b2h29UnjjL8jGrDIfEsU) | [Through Fire](https://open.spotify.com/artist/1SPVRGHIGb9TJxBKQ9O9XT) | [All Animal](https://open.spotify.com/album/7CcfBGRoxEuWkudbhLMr3H) | 3:35 | 2020-12-16 | 2022-11-05 |
-| [Listen To Your Heart](https://open.spotify.com/track/6NxTKEfNa5DyhOIin6VWYP) | [Through Fire](https://open.spotify.com/artist/1SPVRGHIGb9TJxBKQ9O9XT) | [All Animal](https://open.spotify.com/album/5hDU20tlpRjeN2PJnmfiv6) | 3:35 | 2023-01-13 |  |
+| [Listen To Your Heart](https://open.spotify.com/track/6NxTKEfNa5DyhOIin6VWYP) | [Through Fire](https://open.spotify.com/artist/1SPVRGHIGb9TJxBKQ9O9XT) | [All Animal](https://open.spotify.com/album/5hDU20tlpRjeN2PJnmfiv6) | 3:35 | 2023-01-13 | 2023-05-11 |
 | [Lithium](https://open.spotify.com/track/6GfqX5QB43nsHGeyYTeFDS) | [The Polyphonic Spree](https://open.spotify.com/artist/0inqWv3OS4VpWt691ki8yk) | [Wait](https://open.spotify.com/album/2jx7CKfpInHEB5DT6wT8kf) | 5:23 | 2022-03-25 | 2022-04-19 |
 | [Live And Let Die](https://open.spotify.com/track/0rFWuqFgHAfuzE8uSB9TWR) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 3:02 | 2020-12-16 |  |
 | [Losing My Religion](https://open.spotify.com/track/5pNRCnwwQZmluol3V1pR6e) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Songs That Saved My Life](https://open.spotify.com/album/5XkUTL5Ccl5krryba7M7JI) | 4:29 | 2020-12-16 | 2022-07-28 |

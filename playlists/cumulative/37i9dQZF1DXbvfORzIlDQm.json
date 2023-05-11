@@ -504,10 +504,32 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 190770,
       "name": "Goodnight America",
       "url": "https://open.spotify.com/track/0UdHQ44HgM8bTdqcEHzdQn"
+    },
+    {
+      "album": {
+        "name": "Our Country",
+        "url": "https://open.spotify.com/album/5e5PRCyX77IfDVxTQF0vUZ"
+      },
+      "artists": [
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        },
+        {
+          "name": "The Resurrectors",
+          "url": "https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190770,
+      "name": "Goodnight America",
+      "url": "https://open.spotify.com/track/349nGduTgMBG7WmwAL1LQp"
     },
     {
       "album": {

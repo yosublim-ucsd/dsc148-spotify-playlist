@@ -76,8 +76,16 @@
       },
       "artists": [
         {
-          "name": "Noname feat. Raury, Cam O'bi",
-          "url": "https://open.spotify.com/artist/5rMMhHaZpO8I0y1D8RuE8T"
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        },
+        {
+          "name": "Raury",
+          "url": "https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ"
+        },
+        {
+          "name": "Cam O'bi",
+          "url": "https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ"
         }
       ],
       "date_added": "2022-11-11",

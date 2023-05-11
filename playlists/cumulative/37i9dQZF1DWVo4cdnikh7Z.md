@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Pathu Thala
 
-645 songs - 1 day 15 hr 58 min
+646 songs - 1 day 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [En Kanmani](https://open.spotify.com/track/0uO1KUHpnxJJmG9b0fBgKP) | [Aditya Rao](https://open.spotify.com/artist/1R1TnxUWLvnOzsBChmemTa), [Dan Konopka](https://open.spotify.com/artist/2DtkYIOwjh2C3xzcOy65LJ) | [Rocketry The Nambi Effect \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/20iay512dC8aywRGfvkXRg) | 3:47 | 2022-06-24 | 2022-07-05 |
 | [En Mel Vizhundha Mazhaiye](https://open.spotify.com/track/7pRGQW4Q2BGL9eIraIUTht) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [En Mel Vizhundha Mazhaiye \(From "Dejavu"\)](https://open.spotify.com/album/7uSfDSWPwYyyl2l4f2YFvY) | 3:19 | 2022-07-27 | 2022-07-29 |
 | [En Mel Vizhundha Mazhaiye \(From "Dejavu"\)](https://open.spotify.com/track/7bYJeI6AAiP4TIB1vtCh3J) | [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ) | [En Mel Vizhundha Mazhaiye \(From "Dejavu"\) \- Single](https://open.spotify.com/album/7i30RXzaG2FbVE5NQq522b) | 3:19 | 2022-07-27 | 2022-08-05 |
-| [En Rojaa Neeye](https://open.spotify.com/track/3lH2RPkpaDvj4aKEeTV6rA) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [En Rojaa Neeye \(From "Kushi"\) \(Tamil\)](https://open.spotify.com/album/16KiJHyPW6BcOm46xulMwd) | 4:03 | 2023-05-09 |  |
+| [En Rojaa Neeye](https://open.spotify.com/track/3lH2RPkpaDvj4aKEeTV6rA) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [En Rojaa Neeye \(From "Kushi"\) \(Tamil\)](https://open.spotify.com/album/16KiJHyPW6BcOm46xulMwd) | 4:03 | 2023-05-09 | 2023-05-11 |
+| [En Rojaa Neeye \(From "Kushi"\)](https://open.spotify.com/track/13fsvYMK0cPDgYcWIasc2o) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [En Rojaa Neeye \(From "Kushi"\) \- Single](https://open.spotify.com/album/06B2tZByNLYFnNJAFVTDsv) | 4:03 | 2023-05-09 |  |
 | [En Urava \(From "Saandrithazh"\)](https://open.spotify.com/track/5BmH5THMBD1nztfR6YidfL) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Baiju Jacob](https://open.spotify.com/artist/5vDVZD7qmHX9WujAfkUEzU), [Jayachandran aka JVR](https://open.spotify.com/artist/7DZZ368tLsLWH6BnZqmCRC) | [En Urava \(From "Saandrithazh"\) \- Single](https://open.spotify.com/album/7Aoa9UyRE4r3Yo77W5BTXU) | 4:31 | 2023-05-09 |  |
 | [En Vaanathil Vandha](https://open.spotify.com/track/5OOXswASw1DqaHp3NAAeP7) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Sagar](https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5), [Vaishnavi Kovvuri](https://open.spotify.com/artist/4x2ISDzC44n2AmVAiBTp4g) | [Liger \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/4ydhI41x0lQcldkLNsFkd8) | 4:06 | 2022-08-29 | 2022-09-16 |
 | [Enakku Mattum Yean Yean \- From "My Dear Bootham"](https://open.spotify.com/track/6c2i9VGNF37KSEBR3CHRui) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Enakku Mattum Yean Yean \(From "My Dear Bootham"\)](https://open.spotify.com/album/5ai0ullj9DugwyhB1Dvgox) | 4:15 | 2022-06-15 | 2022-06-29 |

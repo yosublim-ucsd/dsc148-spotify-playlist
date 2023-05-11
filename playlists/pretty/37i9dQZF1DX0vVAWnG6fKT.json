@@ -1,12 +1,12 @@
 {
   "description": "Classic Country from the Legends of the 1940's.  Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 137674,
+  "num_followers": 137309,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjBiNDZiZGYyMzA0NGM1NmQxMTIwYmY5MGI0MTAxYTcxODZkYmVh",
+  "snapshot_id": "MCwyNjg5Y2I4YjE0Y2Y3YjU5MTkyMmM4MjdkMjY5ZWVkOTZjM2U4MWI2",
   "tracks": [
     {
       "added_at": "2023-01-02 21:50:32",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Vintage Collections",
-        "url": "https://open.spotify.com/album/0pvHJDiUCaXMKXafTh80wU"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Wakely",
-          "url": "https://open.spotify.com/artist/1bkPltv18ZrFr2IhEdIae5"
-        }
-      ],
-      "duration_ms": 168160,
-      "name": "One Has My Name (The Other Has My Heart) - 1948 Single",
-      "url": "https://open.spotify.com/track/30S4lAJWRdFtgZJys5VoNW"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Together Again",
         "url": "https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 140280,
       "name": "Ida Red",
       "url": "https://open.spotify.com/track/6Va6Mpqj9prgmYwUHdxj4z"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Vintage Collections",
+        "url": "https://open.spotify.com/album/0pvHJDiUCaXMKXafTh80wU"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Wakely",
+          "url": "https://open.spotify.com/artist/1bkPltv18ZrFr2IhEdIae5"
+        }
+      ],
+      "duration_ms": 168160,
+      "name": "One Has My Name (The Other Has My Heart) - 1948 Single",
+      "url": "https://open.spotify.com/track/30S4lAJWRdFtgZJys5VoNW"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Psycho - The K-Ark and Allstar Recordings 1962-1969",
-        "url": "https://open.spotify.com/album/462l1oFisu47gbsvGv0tH6"
-      },
-      "artists": [
-        {
-          "name": "Eddie Noack",
-          "url": "https://open.spotify.com/artist/69QgxPDHaeDRDMl6icLzCp"
-        }
-      ],
-      "duration_ms": 140426,
-      "name": "Invisible Stripes",
-      "url": "https://open.spotify.com/track/5m2aHtyWdsUMFPtpv6I6IQ"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/79LDSEJQWGmsApFH2GG0Fr"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 178226,
       "name": "So, Round, So Firm, So Fully Packed",
       "url": "https://open.spotify.com/track/0OmEXfD8wnUDd5hCQktc5x"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Psycho - The K-Ark and Allstar Recordings 1962-1969",
+        "url": "https://open.spotify.com/album/462l1oFisu47gbsvGv0tH6"
+      },
+      "artists": [
+        {
+          "name": "Eddie Noack",
+          "url": "https://open.spotify.com/artist/69QgxPDHaeDRDMl6icLzCp"
+        }
+      ],
+      "duration_ms": 140426,
+      "name": "Invisible Stripes",
+      "url": "https://open.spotify.com/track/5m2aHtyWdsUMFPtpv6I6IQ"
     },
     {
       "added_at": "2023-01-02 21:50:32",

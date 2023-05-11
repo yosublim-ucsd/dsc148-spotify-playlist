@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Ed Sheeran \(pictured\), Bring Me The Horizon, Lava La Rue and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 830,590 likes - 127 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 830,623 likes - 127 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 95 | [I Want The Vibes](https://open.spotify.com/track/57wBDp7tJbLX3bmRdiFXAE) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Martin Badder](https://open.spotify.com/artist/6YDB8EqiwJvkIzXUtYgpA8), [Mr\. V](https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8) | [I Want The Vibes](https://open.spotify.com/album/3fWTc7D9YyAjVJag4gbSeH) | 2:31 |
 | 96 | [A Lens Turning](https://open.spotify.com/track/201WjMkZFs5QmXzyl1RbMC) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [A Lens Turning](https://open.spotify.com/album/2JMVCH6A6shzYAJ8NC0j7q) | 6:38 |
 | 97 | [Ambiance](https://open.spotify.com/track/4E6ywa4T4jflnXe6KeB54G) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [Ambiance](https://open.spotify.com/album/4ZxWW2tTsVcDqk4TkuEINf) | 2:17 |
-| 98 | [whatever](https://open.spotify.com/track/2WSORfJyTbgy90ZtJYcOZX) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [whatever](https://open.spotify.com/album/7dt6sUWujCzWUkNhI73mk7) | 1:59 |
+| 98 | [whatever](https://open.spotify.com/track/2WSORfJyTbgy90ZtJYcOZX) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [whatever](https://open.spotify.com/album/7dt6sUWujCzWUkNhI73mk7) | 1:59 |
 | 99 | [So Sweet I Could Die](https://open.spotify.com/track/7kTBQJiVorqjhoJ3Efed9d) | [Lucia & The Best Boys](https://open.spotify.com/artist/3hihvmS048d6bb8YlZaTU1) | [So Sweet I Could Die](https://open.spotify.com/album/31m9L9q0WAUAjl7Ulj0vt1) | 2:22 |
 | 100 | [Shit We Do For Love](https://open.spotify.com/track/2bIxNWvnynGGNq87gMbNcn) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Shit We Do For Love](https://open.spotify.com/album/1B9tQW1mpmwtahZ9EYrin7) | 2:47 |
 | 101 | [Honey Love](https://open.spotify.com/track/2wWXZGkYZwjzW84fstJdyC) | [Producerboibrad.](https://open.spotify.com/artist/7vicJmnVJ4aW8yKB4AEEAB), [Amalie Bryde](https://open.spotify.com/artist/6ZRXf3EvRlQul3Uq06WnYN) | [Honey Love](https://open.spotify.com/album/0YiDuhb3BweEUXzrDORQfp) | 3:02 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 126 | [Floating Up](https://open.spotify.com/track/3Af5zhW5h50D6cXP1sMHWe) | [ESSIRAY](https://open.spotify.com/artist/0N6VYBSkR7fV8OsAsm3uk9) | [Floating Up](https://open.spotify.com/album/0d7hn4pMkkWbXK9Cu79Hk3) | 3:42 |
 | 127 | [Greatest Day \(feat\. Calum Scott\) \- Robin Schulz Rework](https://open.spotify.com/track/1Oae67sHC45sBQMrYhMiWF) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Greatest Day \(feat\. Calum Scott\) \[Robin Schulz Rework\]](https://open.spotify.com/album/66L6pO8awweuEwUBn0cLdS) | 2:44 |
 
-Snapshot ID: `MCwyN2Q1ZmIyZTg0OTlhNGZmNjcyNmYwODBlZTFlN2RmZGEyZDY1Yzk4`
+Snapshot ID: `MCw0YmFmOThhZTgyNjVhYjkxZmFjZmQxMGExNjI4OWY1YjY4ZmYxYTQ1`

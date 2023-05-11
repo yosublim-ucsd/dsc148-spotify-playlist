@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: SCANDAL
 
-912 songs - 2 day 9 hr 48 min
+914 songs - 2 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,8 @@
 | [Don't Obsess](https://open.spotify.com/track/1VPdPQ7xmxOyCQodIw24R0) | [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [i!i!i!i!](https://open.spotify.com/album/4fSo1ByAhFJSzhQ5YyMDaZ) | 1:52 | 2023-04-04 | 2023-04-12 |
 | [Don't Stop the Rock](https://open.spotify.com/track/3NoEpZC1xZN8rxtGIssyaG) | [Cerveteri](https://open.spotify.com/artist/1QxwPVYrEOpJ5LKl8b7Gla) | [Don't Stop the Rock](https://open.spotify.com/album/4UOTjg4Ec1eWMNDtcb4tbd) | 3:46 | 2022-06-02 | 2022-06-08 |
 | [Don’t Poy Me!](https://open.spotify.com/track/3NSmQajuG4igfFEJ07cafX) | [℃\-want you!](https://open.spotify.com/artist/1oePCCijpoxaCwJSzNahwa) | [Don’t Poy Me!](https://open.spotify.com/album/7Hi9846O5h1toP1Mf6d1eB) | 3:51 | 2022-06-30 | 2022-07-06 |
-| [door](https://open.spotify.com/track/2I4ispQ4UjY6cot5eSJHTg) | [ULTRA](https://open.spotify.com/artist/0lyPo2zoahnoeFXTq1JHeS) | [door](https://open.spotify.com/album/4lycjMMaKA1imPO6Wm4OUc) | 3:47 | 2023-05-09 |  |
+| [door](https://open.spotify.com/track/2I4ispQ4UjY6cot5eSJHTg) | [ULTRA](https://open.spotify.com/artist/0lyPo2zoahnoeFXTq1JHeS) | [door](https://open.spotify.com/album/4lycjMMaKA1imPO6Wm4OUc) | 3:47 | 2023-05-09 | 2023-05-11 |
+| [door](https://open.spotify.com/track/3NaPqTnUAjxXcauToHr93O) | [ULTRA](https://open.spotify.com/artist/0lyPo2zoahnoeFXTq1JHeS) | [浮いた欲](https://open.spotify.com/album/4IuKdpvd8I9WVZC73J7elQ) | 3:49 | 2023-05-09 |  |
 | [Dramatic](https://open.spotify.com/track/3pT5vtG177l2jrxpPy76jB) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [Awakening:Sleeping](https://open.spotify.com/album/3CtgykVNQgaZ42o6f89PQy) | 3:47 | 2022-08-17 |  |
 | [dude](https://open.spotify.com/track/5jrxtIyNZ3N9FMTu8bIXSw) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [dude](https://open.spotify.com/album/1pNDXyvB9CPWie2vbNyf2Y) | 3:44 | 2022-05-26 | 2022-07-09 |
 | [Early So](https://open.spotify.com/track/6iAT9mTKqFZKuSpGPZYDjD) | [cesco](https://open.spotify.com/artist/0d5y6aTfiTyAnTlzsI0Nh9) | [The Natural Diet](https://open.spotify.com/album/0FROvwBj7H0OOj0JPKFXtA) | 2:41 | 2022-05-26 | 2022-07-24 |
@@ -405,7 +406,8 @@
 | [UTOPIA](https://open.spotify.com/track/6155KcjQlwKcrbUAW6tAOF) | [Living Rita](https://open.spotify.com/artist/0ekt0GY3EGCsVugNHfBkHJ) | [Reality / UTOPIA](https://open.spotify.com/album/1rS3zYiUpv89HAuiedJf8X) | 4:02 | 2022-08-09 | 2022-08-17 |
 | [utouto](https://open.spotify.com/track/49RH7RyhJnF83In6yelKJO) | [sitaq](https://open.spotify.com/artist/6lajY9kGucnlFVlixs7Ne7) | [night](https://open.spotify.com/album/13DkAPBzkRZ1MxYdZO1Ywi) | 3:22 | 2022-11-01 | 2022-11-09 |
 | [violet](https://open.spotify.com/track/7G7ugnWj3iYMCCEYn171lN) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [violet](https://open.spotify.com/album/04bHJcq13Fuh20o3pgmDY0) | 3:52 | 2023-02-21 | 2023-03-01 |
-| [Vision](https://open.spotify.com/track/0GcPTSS0Jy1HAhfq1KPuiX) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Line of sight](https://open.spotify.com/album/7eqEaO6vnNqeAK7bUbkf7L) | 3:29 | 2023-05-09 |  |
+| [Vision](https://open.spotify.com/track/0GcPTSS0Jy1HAhfq1KPuiX) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Line of sight](https://open.spotify.com/album/7eqEaO6vnNqeAK7bUbkf7L) | 3:29 | 2023-05-09 | 2023-05-11 |
+| [Vision](https://open.spotify.com/track/6uqWmEvHkKxkd5fOSwbqCf) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Line of sight](https://open.spotify.com/album/3ujGZAZXx5IRrKQqDzwcC9) | 3:29 | 2023-05-09 |  |
 | [WACHA](https://open.spotify.com/track/5PZ9S7rWyCQ8fdT4pPXG1T) | [ORESKABAND](https://open.spotify.com/artist/56OQWVhAWYw1yRxD0R2HSR) | [WACHA](https://open.spotify.com/album/20pjam3Y6492zdq31Ow3eo) | 3:19 | 2023-04-18 | 2023-05-10 |
 | [Wake Up](https://open.spotify.com/track/60N0UcJn2N0xpi0r6CcsJT) | [寂しがり屋なピアニシモ](https://open.spotify.com/artist/7LJfNsnE1ZBOBvhrTUhpHk) | [Wake Up](https://open.spotify.com/album/2B59DIKRjOJBN2myNeVZjv) | 4:06 | 2022-07-14 | 2022-07-19 |
 | [wake up call \| 待つ夜、巡る朝](https://open.spotify.com/track/37MSIBFykGBThwHLdFFCkT) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [wake up call \| 待つ夜、巡る朝](https://open.spotify.com/album/76VWLRHzxDQ2mgbYyFJNBK) | 4:04 | 2022-06-02 | 2022-07-28 |

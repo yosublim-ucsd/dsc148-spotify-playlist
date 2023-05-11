@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,010,431 likes - 518 songs - 19 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,010,509 likes - 518 songs - 19 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -527,4 +527,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 517 | [Tune in](https://open.spotify.com/track/4L6KI2P3DKrJU69ff6C1QZ) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Tune in](https://open.spotify.com/album/4Lvc7H7bGRI8KokdHdBTu4) | 2:15 |
 | 518 | [Distraction](https://open.spotify.com/track/3p37thzAWbCzBHLynh43Qv) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe), [Lo\-Fi Luke](https://open.spotify.com/artist/02CSsXlCyOTZgxKnmxweqc) | [Distraction](https://open.spotify.com/album/2zDAcoRIgMhlSEYgUf6OoH) | 2:25 |
 
-Snapshot ID: `MCwwODA0M2MyMjFjNjlmMTRjZjJiZjc3Yzk0YTc3ZDNkNmRhMDc5OWVm`
+Snapshot ID: `MCxlN2Q5MzJjODc0ZGVmYTJiMmFmN2YyNjUwMTVhOGJmMmNlMzhlNTZj`

@@ -1,15 +1,115 @@
 {
-  "description": "resurging tracks coming in hot. cover: Sure Thing era Miguel.",
-  "num_followers": 23694,
+  "description": "resurging tracks coming in hot. cover: Dog Days Are Over era Florence + The Machine",
+  "num_followers": 23802,
   "original_name": "reheat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmNmYWY3YWEwODZiZDBlNWM3YzhjNjJmMDlkOWQ3MjBmYjMwZTJk",
+  "snapshot_id": "MCw5Nzg0MGQ5YTUzOTY5ZDA4ZDIwY2Y0MGY4YjRjNDcwM2EwNDU3YTli",
   "tracks": [
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
+      "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 251840,
+      "name": "Dog Days Are Over",
+      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
+    },
+    {
+      "added_at": "2023-05-10 22:05:44",
+      "album": {
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 180386,
+      "name": "See You Again (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
+    },
+    {
+      "added_at": "2023-05-10 22:05:44",
+      "album": {
+        "name": "Plastic Hearts",
+        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 196453,
+      "name": "Angels Like You",
+      "url": "https://open.spotify.com/track/1daDRI9ahBonbWD8YcxOIB"
+    },
+    {
+      "added_at": "2023-05-10 22:05:44",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "added_at": "2023-05-10 22:05:44",
+      "album": {
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 229720,
+      "name": "Work Song",
+      "url": "https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb"
+    },
+    {
+      "added_at": "2023-05-10 22:05:44",
+      "album": {
+        "name": "Pablo Honey",
+        "url": "https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 238640,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r"
+    },
+    {
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "All I Want Is You",
         "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
@@ -25,7 +125,7 @@
       "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Bad Boy 20th Anniversary Box Set Edition",
         "url": "https://open.spotify.com/album/52TqKxbJkOBsbjKxlKgLwu"
@@ -49,7 +149,7 @@
       "url": "https://open.spotify.com/track/2yr2HnFYl7XvqJk4fXoQBt"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "What You Won't Do for Love",
         "url": "https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2"
@@ -65,7 +165,7 @@
       "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Shock Value",
         "url": "https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI"
@@ -89,7 +189,7 @@
       "url": "https://open.spotify.com/track/0wbDgMuAoy7O7pL3a69uZx"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Talk That Talk",
         "url": "https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn"
@@ -105,7 +205,7 @@
       "url": "https://open.spotify.com/track/5WQQIDU3HRaMyPkob8mpFb"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "She Wolf (Expanded Edition)",
         "url": "https://open.spotify.com/album/5u0OuxRnf3FzvZR07xAxL2"
@@ -121,7 +221,7 @@
       "url": "https://open.spotify.com/track/4cS2HQ6jK80vqdY9ofpztx"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "No Angel",
         "url": "https://open.spotify.com/album/5HC0K52InwrhTEd5zDPzRk"
@@ -137,7 +237,7 @@
       "url": "https://open.spotify.com/track/751gBcu62kORDelX7FV0mM"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Human (Deluxe)",
         "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
@@ -153,7 +253,7 @@
       "url": "https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Supernatural (Remastered)",
         "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
@@ -173,7 +273,7 @@
       "url": "https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
@@ -189,7 +289,7 @@
       "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Love Deluxe",
         "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
@@ -205,7 +305,7 @@
       "url": "https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Collide (feat. Tyga)",
         "url": "https://open.spotify.com/album/2LbrGt2oc08xV8IDJvLzYi"
@@ -225,7 +325,7 @@
       "url": "https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
@@ -241,7 +341,7 @@
       "url": "https://open.spotify.com/track/7B5Npv8NjjTCzk8PLpU66h"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "High Times: Singles 1992-2006",
         "url": "https://open.spotify.com/album/3gm6ZS73n5yGZvWfq7CoLX"
@@ -257,7 +357,7 @@
       "url": "https://open.spotify.com/track/2hNaljpWGHzwcIvkPIHMk7"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Chris Brown (Expanded Edition)",
         "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
@@ -277,7 +377,7 @@
       "url": "https://open.spotify.com/track/7xYnUQigPoIDAMPVK79NEq"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Neveroddoreven",
         "url": "https://open.spotify.com/album/0MNY21WYhxGWfT9WQzrZe5"
@@ -293,7 +393,7 @@
       "url": "https://open.spotify.com/track/1QxcWlk8PivolUaWcpAoNq"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Indigo (Extended)",
         "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
@@ -309,7 +409,7 @@
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "ANTI (Deluxe)",
         "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
@@ -325,7 +425,7 @@
       "url": "https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Unorthodox Jukebox",
         "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
@@ -341,7 +441,7 @@
       "url": "https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Once Upon a Mind",
         "url": "https://open.spotify.com/album/4gkWfdUgz4jWrGx4sKQpb4"
@@ -357,7 +457,7 @@
       "url": "https://open.spotify.com/track/4SykS8RWkF6eK6xeua7XLP"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Thank You (Deluxe Version)",
         "url": "https://open.spotify.com/album/08eweM0IZoZPCCxODbrMoL"
@@ -373,7 +473,7 @@
       "url": "https://open.spotify.com/track/0l0CvurVUrr2w3Jj1hOVFc"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "OK Computer",
         "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
@@ -389,7 +489,7 @@
       "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Encore (Deluxe Version)",
         "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
@@ -405,7 +505,7 @@
       "url": "https://open.spotify.com/track/4dh34dyav8M5jCN3yidn8Z"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Flockaveli",
         "url": "https://open.spotify.com/album/6MQtWELG7aRX7CkAzQ6nLM"
@@ -429,7 +529,7 @@
       "url": "https://open.spotify.com/track/03tqyYWC9Um2ZqU0ZN849H"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "I Love You.",
         "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
@@ -445,7 +545,7 @@
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Rumours (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3nuRoTy7gi52Z4C0negdw1"
@@ -461,7 +561,7 @@
       "url": "https://open.spotify.com/track/2Y8BloifAHEn6GproQgPs7"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Ladies And Gentlemen... The Best Of George Michael",
         "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
@@ -477,7 +577,7 @@
       "url": "https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Brand New Eyes",
         "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
@@ -493,7 +593,7 @@
       "url": "https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Hozier (Expanded Edition)",
         "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
@@ -509,7 +609,7 @@
       "url": "https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Homesick for Another World",
         "url": "https://open.spotify.com/album/4rxbgmrhbG44B0DiOwa9g4"
@@ -529,7 +629,7 @@
       "url": "https://open.spotify.com/track/43cdY9ASMvp94qmVuLEoxd"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Nothing But The Best (Remastered)",
         "url": "https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2"
@@ -545,7 +645,7 @@
       "url": "https://open.spotify.com/track/2YkIDPL5lGhRhomCq4S2RO"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "All The Leaves Are Brown The Golden Era Collection",
         "url": "https://open.spotify.com/album/6d9b6qTmzQ2WOOGB2cDCDq"
@@ -561,7 +661,7 @@
       "url": "https://open.spotify.com/track/1ZEOIhSn6BKErV59bIgn76"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Born This Way (Special Edition)",
         "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
@@ -577,7 +677,7 @@
       "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Long Way Down (Deluxe)",
         "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
@@ -593,7 +693,7 @@
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Double Fantasy",
         "url": "https://open.spotify.com/album/1NWA2fPLUAW5df7UGI5thp"
@@ -609,7 +709,7 @@
       "url": "https://open.spotify.com/track/5URfZHMlUWTWxPvvSBWcPk"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Depression Cherry",
         "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
@@ -625,7 +725,7 @@
       "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Here Comes The Cowboy",
         "url": "https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW"
@@ -641,7 +741,7 @@
       "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "All About You",
         "url": "https://open.spotify.com/album/3sGj0fBj5EJbewKgCWA1uD"
@@ -661,7 +761,7 @@
       "url": "https://open.spotify.com/track/0x3TibRgnSqzkcwrqBd4iX"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Blonde",
         "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
@@ -677,7 +777,7 @@
       "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Viva La Vida or Death and All His Friends",
         "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
@@ -693,7 +793,7 @@
       "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
@@ -713,7 +813,7 @@
       "url": "https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Shock Value",
         "url": "https://open.spotify.com/album/4BxB8U8QgpR4UCvJ0moj8Z"
@@ -737,7 +837,7 @@
       "url": "https://open.spotify.com/track/2bLqfJjuC5syrsgDsZfGmn"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Voulez-Vous",
         "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
@@ -753,7 +853,7 @@
       "url": "https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "The Message",
         "url": "https://open.spotify.com/album/4dEczweFPXeLMMVD1zIdi7"
@@ -777,7 +877,7 @@
       "url": "https://open.spotify.com/track/5DuTNKFEjJIySAyJH1yNDU"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Memoirs of an imperfect Angel",
         "url": "https://open.spotify.com/album/3RPImDZ7Ihh5YR5iJh1gH1"
@@ -793,7 +893,7 @@
       "url": "https://open.spotify.com/track/0SgbP5ZZOsUiHlE8EfeHma"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "The Dutchess",
         "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
@@ -813,7 +913,7 @@
       "url": "https://open.spotify.com/track/4KTtYhxFtFL7mBwnjkKfLm"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Tha Carter III",
         "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
@@ -833,7 +933,7 @@
       "url": "https://open.spotify.com/track/4P7VFiaZb3xrXoqGwZXC3J"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "reputation",
         "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
@@ -849,7 +949,7 @@
       "url": "https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Offering",
         "url": "https://open.spotify.com/album/3trAc3cGjtbFXbljFVdzZG"
@@ -865,7 +965,7 @@
       "url": "https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Favourite Worst Nightmare (Standard Version)",
         "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
@@ -881,7 +981,7 @@
       "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "The Colour And The Shape",
         "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
@@ -897,7 +997,7 @@
       "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Tell Me It's Real (Expanded Edition)",
         "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
@@ -913,7 +1013,7 @@
       "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Hopes And Fears",
         "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
@@ -929,7 +1029,7 @@
       "url": "https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "A Perfect Contradiction (Outsiders' Expanded Edition)",
         "url": "https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC"
@@ -945,7 +1045,7 @@
       "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Music for the Masses (2006 Remaster)",
         "url": "https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES"
@@ -961,7 +1061,7 @@
       "url": "https://open.spotify.com/track/2H1BmB1b6Px9KJXIUpD03u"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Whenever You Need Somebody",
         "url": "https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw"
@@ -977,7 +1077,7 @@
       "url": "https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "This Is Acting (Deluxe Version)",
         "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
@@ -993,7 +1093,7 @@
       "url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "One Kiss (with Dua Lipa)",
         "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
@@ -1013,7 +1113,7 @@
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "ARTPOP",
         "url": "https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9"
@@ -1029,7 +1129,7 @@
       "url": "https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Encore (Deluxe Version)",
         "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
@@ -1045,7 +1145,7 @@
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "FUTURE",
         "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
@@ -1061,7 +1161,7 @@
       "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "My Dear Melancholy,",
         "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
@@ -1081,7 +1181,7 @@
       "url": "https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "In The Zone",
         "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
@@ -1097,7 +1197,7 @@
       "url": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Voulez-Vous",
         "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
@@ -1113,7 +1213,7 @@
       "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Songs About Jane: 10th Anniversary Edition",
         "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
@@ -1129,7 +1229,7 @@
       "url": "https://open.spotify.com/track/5qII2n90lVdPDcgXEEVHNy"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
@@ -1145,7 +1245,7 @@
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Born Sinner (Deluxe Version)",
         "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
@@ -1169,7 +1269,7 @@
       "url": "https://open.spotify.com/track/0Fs9cdPDhptWEDJmiCbkEW"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "The Mail Man (Original Master Peace)",
         "url": "https://open.spotify.com/album/114ZMnc0KTYGO7bLz0o0dX"
@@ -1201,7 +1301,7 @@
       "url": "https://open.spotify.com/track/4ixD6bSwnSlzuBrd2c80vI"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Loose",
         "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
@@ -1217,7 +1317,7 @@
       "url": "https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "No Secrets",
         "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
@@ -1233,7 +1333,7 @@
       "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Whipped Cream & Other Delights",
         "url": "https://open.spotify.com/album/7DxaerKtPdBxBZLwlgGcqP"
@@ -1249,7 +1349,7 @@
       "url": "https://open.spotify.com/track/7ubd6wvhN4TKMwQUy6hR69"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Aerosmith",
         "url": "https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE"
@@ -1265,7 +1365,7 @@
       "url": "https://open.spotify.com/track/1xsYj84j7hUDDnTTerGWlH"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "XSCAPE",
         "url": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ"
@@ -1281,7 +1381,7 @@
       "url": "https://open.spotify.com/track/5BKKy9fIJL5uM9fz1SnqyP"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Summer Party Anthems",
         "url": "https://open.spotify.com/album/7oA3n7CRInntyXA0GQiJsm"
@@ -1301,7 +1401,7 @@
       "url": "https://open.spotify.com/track/1ZlHr9FYHT7YTbXCoxPq5C"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Born This Way",
         "url": "https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd"
@@ -1317,7 +1417,7 @@
       "url": "https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Dizzy up the Girl",
         "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
@@ -1333,7 +1433,7 @@
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
@@ -1349,7 +1449,7 @@
       "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Lip Gloss",
         "url": "https://open.spotify.com/album/3vgVsm9GY3i39fZ7b1sqV5"
@@ -1365,7 +1465,7 @@
       "url": "https://open.spotify.com/track/1Y4ZdPOOgCUhBcKZOrUFiS"
     },
     {
-      "added_at": "2023-04-18 17:50:55",
+      "added_at": "2023-05-10 22:05:44",
       "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"

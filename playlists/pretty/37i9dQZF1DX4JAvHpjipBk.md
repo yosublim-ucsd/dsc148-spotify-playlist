@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Ed Sheeran, Q, Lil Baby, Peso Pluma, Bring Me The Horizon, Luke Bryan and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,111,120 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,111,259 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Breaking Me Down](https://open.spotify.com/track/0HzYgueezLLElF3nU6owz3) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Praise Paige](https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e), [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [Breaking Me Down](https://open.spotify.com/album/45E5aRQy738kHrJlxzuGUZ) | 4:17 |
 | 100 | [Ain't Proud](https://open.spotify.com/track/6ykRYSG0m2iuoArpjDpJrT) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Ain't Proud](https://open.spotify.com/album/2BMZC0Al0UlwdvvtwYSptW) | 3:26 |
 
-Snapshot ID: `MCwyYjQ5YjVmNDk2OGE3NGMyZjUzODY3NTIyYmU0NTNmZjJlYWYzMzlh`
+Snapshot ID: `MCxmODNkYzMxZmNmMWM2YmIzZDQ0MDliODRhYjRhOTQ5OTEwOTQ5MDU1`

@@ -118,6 +118,24 @@
     {
       "album": {
         "name": "Either/Or",
+        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176826,
+      "name": "Angeles",
+      "url": "https://open.spotify.com/track/1aMafyDbpEw3a8FrVhwRlg"
+    },
+    {
+      "album": {
+        "name": "Either/Or",
         "url": "https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K"
       },
       "artists": [
@@ -448,6 +466,24 @@
     {
       "album": {
         "name": "Color Pomelo",
+        "url": "https://open.spotify.com/album/6BdL4sKb4pZzCpwbq0miIh"
+      },
+      "artists": [
+        {
+          "name": "Cheti",
+          "url": "https://open.spotify.com/artist/14MWie92G8fspcINNwL7n7"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233168,
+      "name": "Color Pomelo",
+      "url": "https://open.spotify.com/track/2N1IkXdMqhO12VUUU4TKlw"
+    },
+    {
+      "album": {
+        "name": "Color Pomelo",
         "url": "https://open.spotify.com/album/0bxfLarWsZfBgRmfiMy16Y"
       },
       "artists": [
@@ -458,7 +494,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 233168,
       "name": "Color Pomelo",
       "url": "https://open.spotify.com/track/5BmPzGQctgm3XkNNZnkSKq"
@@ -1864,7 +1900,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 222391,
       "name": "Qu\u00e9 Bueno!",
       "url": "https://open.spotify.com/track/3pCibQLOsHM1z7DnyEpysp"

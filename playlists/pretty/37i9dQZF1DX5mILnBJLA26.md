@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4?si=zE3KUBBnRY\-lmf1RRezgpw">Tyler ICU</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,161 likes - 50 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,868 likes - 50 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 49 | [Quantum Sounds](https://open.spotify.com/track/1wRVZ49rN1urWuFgkHRyuF) | [De Tories](https://open.spotify.com/artist/3iY9EMGIsjRayDYl5TvSPk), [Citykingrsa](https://open.spotify.com/artist/2Mudgi66HA90FPyhrTFLNr) | [Quantum Sounds](https://open.spotify.com/album/5c4ZZgkPLIk8TASBsXe8Ix) | 4:49 |
 | 50 | [Uyinkanyezi](https://open.spotify.com/track/4iJ75Zg7NeSo0FhXClZf4F) | [Charlotte\_lyf](https://open.spotify.com/artist/5L6oK8NQKw5bqt7qwWJchP), [Lowsheen](https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU) | [Uyinkanyezi](https://open.spotify.com/album/5zcl7kpI46UdvIN0J2Od0L) | 5:48 |
 
-Snapshot ID: `MCwzNTU1ZWFlNTViMDlmMWRhN2U4YjQ4YjUxYWJkODM3NGFlMzljODNi`
+Snapshot ID: `MCxkYWMxMDBkNDRlNjI1N2M1NjFiYmZhOWY2OWVhOGRmYTMyM2MwNGU4`

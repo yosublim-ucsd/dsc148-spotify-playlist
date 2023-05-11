@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Meet the vocalists representing Korea! (Cover:\bLena Park(\ubc15\uc815\ud604)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Meet the vocalists representing Korea! (Cover:\bYOUNHA(\uc724\ud558)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "v o K a l",
   "tracks": [
     {
@@ -3188,6 +3188,24 @@
       "duration_ms": 221746,
       "name": "Just Look for you",
       "url": "https://open.spotify.com/track/1rP25u8w92R4rq1UttWSeq"
+    },
+    {
+      "album": {
+        "name": "YOUNHA Studio Live Album 'MINDSET'",
+        "url": "https://open.spotify.com/album/3pY7uXFrbq96BhWXcomLIi"
+      },
+      "artists": [
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331600,
+      "name": "Kaze",
+      "url": "https://open.spotify.com/track/686EAFs0uJRvVTHaOhkP1u"
     },
     {
       "album": {
@@ -6770,7 +6788,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 215653,
       "name": "You Are The Sea",
       "url": "https://open.spotify.com/track/6lTD3lLyCXNojKvse242Fb"

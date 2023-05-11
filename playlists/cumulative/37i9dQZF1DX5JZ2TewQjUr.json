@@ -1738,10 +1738,40 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 327736,
       "name": "Forest",
       "url": "https://open.spotify.com/track/1xuC2jthRz6vwc2RncwtAc"
+    },
+    {
+      "album": {
+        "name": "Forest",
+        "url": "https://open.spotify.com/album/11Kvjk7Z8dC8QSmpfnzqsD"
+      },
+      "artists": [
+        {
+          "name": "Virgin Vacation",
+          "url": "https://open.spotify.com/artist/5gUVCL8RB17Ehn5Q43c2AJ"
+        },
+        {
+          "name": "Gold Mountain",
+          "url": "https://open.spotify.com/artist/0YZHNcGfT61Yvmp8FklTxT"
+        },
+        {
+          "name": "Romer String Quartet",
+          "url": "https://open.spotify.com/artist/38iTibcPtXJZG3JQ1vGnWf"
+        },
+        {
+          "name": "Kevin Chau",
+          "url": "https://open.spotify.com/artist/1S9Z4YjELnR5xyi1l2GQc4"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327770,
+      "name": "Forest",
+      "url": "https://open.spotify.com/track/304SYYFETQyIXPHana8jaU"
     },
     {
       "album": {
@@ -4298,10 +4328,28 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 238096,
       "name": "RED",
       "url": "https://open.spotify.com/track/19K0OIFCngMctZewUmkl9U"
+    },
+    {
+      "album": {
+        "name": "RED",
+        "url": "https://open.spotify.com/album/5tWORmdy84nJq0DtDxBYLN"
+      },
+      "artists": [
+        {
+          "name": "Virgin Vacation",
+          "url": "https://open.spotify.com/artist/5gUVCL8RB17Ehn5Q43c2AJ"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238096,
+      "name": "RED",
+      "url": "https://open.spotify.com/track/3QW6IbzpXx56cpIkklKsPx"
     },
     {
       "album": {

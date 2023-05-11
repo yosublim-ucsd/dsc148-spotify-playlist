@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSVNtcbJ15L.md) - [plain]
 
 > vem de dm 🔥  ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,528 likes - 65 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,578 likes - 65 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSVNtcbJ15L.md) - [plain]
 | 47 | [Faz Calor](https://open.spotify.com/track/3ZaK8PfUPouyYTjg1FwBrg) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Jonis](https://open.spotify.com/artist/12nbzTpTTl5EW9LmNcY7Sn), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Faz Calor](https://open.spotify.com/album/0atczb3hWSrMtRyOhvFXUM) | 2:21 |
 | 48 | [Rockstar](https://open.spotify.com/track/6MeMDyJpSZ25KIxksb6buc) | [Junior Lord](https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP), [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Rockstar](https://open.spotify.com/album/5hhi0tip2L13MxUfE9QNeu) | 4:15 |
 | 49 | [Impostora](https://open.spotify.com/track/5gQ4e0SkYpXWrFj3X9CIee) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [Impostora](https://open.spotify.com/album/4mLvt0SqXjrks2XRAWKBPT) | 2:29 |
-| 50 | [Me Tira O Sossego](https://open.spotify.com/track/2os0PZg85oglHfJtBfpz6t) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY), [PedroWnx](https://open.spotify.com/artist/6xhWbJdf04v6FfSXOQWxP1) | [Me Tira O Sossego](https://open.spotify.com/album/2es0GKloxQo0T6EOQtwBF2) | 2:44 |
+| 50 | [Me Tira O Sossego](https://open.spotify.com/track/3PpAHRNr18TeX5w5J0MAic) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY), [PedroWnx](https://open.spotify.com/artist/6xhWbJdf04v6FfSXOQWxP1) | [Me Tira O Sossego](https://open.spotify.com/album/5zTS0TuaYLHmCxlOtdtzUf) | 2:44 |
 | 51 | [Liga pra Mim](https://open.spotify.com/track/7jvr55Bd5Pphy2vYikqrus) | [Truh](https://open.spotify.com/artist/7htWEHwEK1hZFkDeTkdOHQ), [Erix](https://open.spotify.com/artist/1nBbgjGsyozg0Ybfr49tma) | [Liga pra Mim](https://open.spotify.com/album/6hHCoiufU9G2STQC4vzQcc) | 2:42 |
 | 52 | [E\-Girl Me Tira Do Sério](https://open.spotify.com/track/0GlUNYKRfTGhnSBzIgquPE) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [H o u d i n i](https://open.spotify.com/artist/2xysuV21VYh93dle4QZq7T), [J a u m](https://open.spotify.com/artist/1IyuVaJ5TMJ9GYJBYVu5Di) | [E\-Girl Me Tira Do Sério](https://open.spotify.com/album/4mhUCtMXTaGylGsZBFKz2Y) | 3:05 |
 | 53 | [Te Espero](https://open.spotify.com/track/0DJDVFbVe9KF4xnVxDhi09) | [Pedrosa](https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2) | [Te Espero](https://open.spotify.com/album/4VOctUPHdfnjnQUXsJ9J36) | 2:19 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSVNtcbJ15L.md) - [plain]
 | 64 | [Quero Agora](https://open.spotify.com/track/2EaOYBodrkKFceFdbIBRYC) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ) | [Quero Agora](https://open.spotify.com/album/0Wwfj23cw97BCGrOHznMvQ) | 3:25 |
 | 65 | [A Garota Mais Linda de Oz](https://open.spotify.com/track/6blFfIKfjek2zgrcNjWcnU) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY), [L3ozz](https://open.spotify.com/artist/2re8PPjIT5xydo7CAYQb02) | [A Garota Mais Linda de Oz](https://open.spotify.com/album/6EnL3B0Co201xFS185pL0B) | 2:45 |
 
-Snapshot ID: `MCwxMWFjNzlhMjViZWI5ZjBmNjkxMWZmZTI0OWZjZDZlZTAwOGZjOGEy`
+Snapshot ID: `MCwzODdmZDU5YTg0NzNmZWU0YjM2ODk1ZTYzN2VlYWZmYzI3OWI2MWY1`

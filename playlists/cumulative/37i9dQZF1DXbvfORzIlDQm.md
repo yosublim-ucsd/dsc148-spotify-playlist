@@ -4,7 +4,7 @@
 
 > A collection of roots music and covers urging peace and calling for change\. Cover: Tré Burt
 
-75 songs - 4 hr 53 min
+76 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Future People](https://open.spotify.com/track/2g2iRWlBoOVvvW0a8pbhRK) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY) | 3:21 | 2021-02-24 | 2022-11-13 |
 | [Future People](https://open.spotify.com/track/4zmJhhKDBdRceqXvfhvQay) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/6TWqxofcKQaZ9gHI49G36P) | 3:21 | 2021-02-24 | 2022-07-29 |
 | [Give The People What They Want](https://open.spotify.com/track/5GSVH5qhutFR5k95UMqzTg) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Give The People What They Want](https://open.spotify.com/album/3bKA19kc24Ro0wtEO0IlCg) | 3:45 | 2021-02-24 |  |
-| [Goodnight America](https://open.spotify.com/track/0UdHQ44HgM8bTdqcEHzdQn) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Goodnight America](https://open.spotify.com/album/6JU7YqHB90mst6vC7sGOEp) | 3:10 | 2021-02-24 |  |
+| [Goodnight America](https://open.spotify.com/track/0UdHQ44HgM8bTdqcEHzdQn) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Goodnight America](https://open.spotify.com/album/6JU7YqHB90mst6vC7sGOEp) | 3:10 | 2021-02-24 | 2023-05-11 |
+| [Goodnight America](https://open.spotify.com/track/349nGduTgMBG7WmwAL1LQp) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Our Country](https://open.spotify.com/album/5e5PRCyX77IfDVxTQF0vUZ) | 3:10 | 2021-02-24 |  |
 | [Green & Gold \- Live from Spotify, London](https://open.spotify.com/track/7i7YuOz9VtxCrUmWlZgtQN) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Spotify Sessions](https://open.spotify.com/album/6k5wZGeFAgaF8zI6JoguFV) | 4:54 | 2021-02-24 |  |
 | [I'm Going Away](https://open.spotify.com/track/1ZcBa2buf2Mx5LHTyOujri) | [Elizabeth Cotten](https://open.spotify.com/artist/1eTZGzLkukATM7FoGltyFs) | [Shake Sugaree](https://open.spotify.com/album/7t6jknbXRsm0Us3dxwcLbt) | 3:25 | 2021-02-24 |  |
 | [If All I Was Was Black](https://open.spotify.com/track/3urjT4HEkfpPGJWGPf8cB9) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [If All I Was Was Black](https://open.spotify.com/album/7lyJLRjQk2dC16AiMQyyUf) | 3:55 | 2021-02-24 |  |

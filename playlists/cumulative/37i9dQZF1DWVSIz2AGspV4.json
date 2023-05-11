@@ -1701,6 +1701,24 @@
     },
     {
       "album": {
+        "name": "Ghannili Ya Hussain",
+        "url": "https://open.spotify.com/album/636COZGHEOYKsqB3vxh5YX"
+      },
+      "artists": [
+        {
+          "name": "Hussain Ghazal",
+          "url": "https://open.spotify.com/artist/1dbZLkKMOFCuCouMiGfXXF"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263513,
+      "name": "Ghannili Ya Hussain",
+      "url": "https://open.spotify.com/track/2Izws8auHSM9MZwyyXit4a"
+    },
+    {
+      "album": {
         "name": "Gher Any",
         "url": "https://open.spotify.com/album/5HkpOu0MwwMcQdo6DUA5CQ"
       },
@@ -3196,7 +3214,7 @@
       ],
       "date_added": "2022-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 204204,
       "name": "Shoof El Qahar",
       "url": "https://open.spotify.com/track/0A1TN1veorX1HdN4G0Coal"

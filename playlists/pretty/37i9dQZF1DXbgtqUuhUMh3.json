@@ -1,15 +1,15 @@
 {
   "description": "Listen to Arab women, at full volume. Cover: Carmen Soliman\n\n",
-  "num_followers": 7091,
+  "num_followers": 7133,
   "original_name": "EQUAL Arabia ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTAwYzE0OTk1NTA0NWQ1YjJhOTViODNlNTIxYmU5YzgzZjU2NmM3",
+  "snapshot_id": "MCxiYmNkNDQwMjMwZTkwOTBmNjg0NGY0Y2MyNmZhZTI2MDgzNTZiMTMy",
   "tracks": [
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Ya Gamalak",
         "url": "https://open.spotify.com/album/5v8jq0RRWoPf2bMGQiXAiv"
@@ -25,7 +25,135 @@
       "url": "https://open.spotify.com/track/50sZsJhllImZwUIDGq8Dzs"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
+      "album": {
+        "name": "El Sabr Gamel -\u0627\u0644\u0635\u0628\u0631 \u062c\u0645\u064a\u0644",
+        "url": "https://open.spotify.com/album/5jnqYPsl7285qQeqUkYYlk"
+      },
+      "artists": [
+        {
+          "name": "Maha Ftouni",
+          "url": "https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn"
+        }
+      ],
+      "duration_ms": 299431,
+      "name": "El Sabr Gamel -\u0627\u0644\u0635\u0628\u0631 \u062c\u0645\u064a\u0644",
+      "url": "https://open.spotify.com/track/5DWgoXhsm5LjfyERSbaqzO"
+    },
+    {
+      "added_at": "2023-05-10 06:43:24",
+      "album": {
+        "name": "\u0627\u0633\u062a\u0648\u0649",
+        "url": "https://open.spotify.com/album/4Cpd0aeZO26OpXOsyXS76n"
+      },
+      "artists": [
+        {
+          "name": "Ghaliaa",
+          "url": "https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8"
+        }
+      ],
+      "duration_ms": 179110,
+      "name": "\u0627\u0633\u062a\u0648\u0649",
+      "url": "https://open.spotify.com/track/7KXUvqS31iZQFOb21h5ewW"
+    },
+    {
+      "added_at": "2023-05-10 06:43:24",
+      "album": {
+        "name": "Baad Sneen",
+        "url": "https://open.spotify.com/album/6GIUWZvRkFJyjgLwXak8Md"
+      },
+      "artists": [
+        {
+          "name": "Hiba Tawaji",
+          "url": "https://open.spotify.com/artist/2CitZjt8DI9S447r6GBGAX"
+        }
+      ],
+      "duration_ms": 222066,
+      "name": "Baad Sneen",
+      "url": "https://open.spotify.com/track/613tFlzrS2BfYZ1zqcTHqZ"
+    },
+    {
+      "added_at": "2023-05-10 06:43:24",
+      "album": {
+        "name": "Baaet Aada",
+        "url": "https://open.spotify.com/album/2fPu8XfcLZZyrlDkM4X4ap"
+      },
+      "artists": [
+        {
+          "name": "Sheme",
+          "url": "https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw"
+        }
+      ],
+      "duration_ms": 260164,
+      "name": "Baaet Aada",
+      "url": "https://open.spotify.com/track/3Ec2Y6dxVB49jbIhaZM5sh"
+    },
+    {
+      "added_at": "2023-05-10 06:43:24",
+      "album": {
+        "name": "Ghazaleh",
+        "url": "https://open.spotify.com/album/2Zc9QTMpG13Zvj8LJiJ0h9"
+      },
+      "artists": [
+        {
+          "name": "Dana Salah",
+          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
+        }
+      ],
+      "duration_ms": 155930,
+      "name": "Ghazaleh",
+      "url": "https://open.spotify.com/track/0Ry7WiDzMxBmwKHKmE2JAJ"
+    },
+    {
+      "added_at": "2023-05-10 06:43:24",
+      "album": {
+        "name": "Nefrah Barsha (Aswatna)",
+        "url": "https://open.spotify.com/album/5eLO5PfIjYC2wVmMGsZvud"
+      },
+      "artists": [
+        {
+          "name": "Faia Younan",
+          "url": "https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Nefrah Barsha - Aswatna",
+      "url": "https://open.spotify.com/track/4VuAVQzUkli3xSHeN957gR"
+    },
+    {
+      "added_at": "2023-05-10 06:43:24",
+      "album": {
+        "name": "Shof Galbi",
+        "url": "https://open.spotify.com/album/0bL0jJFjvRneRInaGQDVkf"
+      },
+      "artists": [
+        {
+          "name": "Eman AlShmety",
+          "url": "https://open.spotify.com/artist/6m0P4htB7F19GZ2VYlpofd"
+        }
+      ],
+      "duration_ms": 229200,
+      "name": "Shof Galbi",
+      "url": "https://open.spotify.com/track/1Qn3MbsA6Dae8cFx56IHCK"
+    },
+    {
+      "added_at": "2023-05-10 06:43:24",
+      "album": {
+        "name": "Five Seasons",
+        "url": "https://open.spotify.com/album/46GrjxPRDj59cFzTw0Pwqq"
+      },
+      "artists": [
+        {
+          "name": "Dina El Wedidi",
+          "url": "https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA"
+        }
+      ],
+      "duration_ms": 319445,
+      "name": "Elmagd",
+      "url": "https://open.spotify.com/track/24UYFmNIhDChgHuP0EKeOx"
+    },
+    {
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Lw",
         "url": "https://open.spotify.com/album/1zHi1zlyhdrFkM00DoDNVL"
@@ -45,135 +173,7 @@
       "url": "https://open.spotify.com/track/21pRBYqcpAHzzyrSrX2HCb"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
-      "album": {
-        "name": "\u0627\u0633\u062a\u0648\u0649",
-        "url": "https://open.spotify.com/album/4Cpd0aeZO26OpXOsyXS76n"
-      },
-      "artists": [
-        {
-          "name": "Ghaliaa",
-          "url": "https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8"
-        }
-      ],
-      "duration_ms": 179110,
-      "name": "\u0627\u0633\u062a\u0648\u0649",
-      "url": "https://open.spotify.com/track/7KXUvqS31iZQFOb21h5ewW"
-    },
-    {
-      "added_at": "2023-05-08 11:05:34",
-      "album": {
-        "name": "Baad Sneen",
-        "url": "https://open.spotify.com/album/6GIUWZvRkFJyjgLwXak8Md"
-      },
-      "artists": [
-        {
-          "name": "Hiba Tawaji",
-          "url": "https://open.spotify.com/artist/2CitZjt8DI9S447r6GBGAX"
-        }
-      ],
-      "duration_ms": 222066,
-      "name": "Baad Sneen",
-      "url": "https://open.spotify.com/track/613tFlzrS2BfYZ1zqcTHqZ"
-    },
-    {
-      "added_at": "2023-05-08 11:05:34",
-      "album": {
-        "name": "Baaet Aada",
-        "url": "https://open.spotify.com/album/2fPu8XfcLZZyrlDkM4X4ap"
-      },
-      "artists": [
-        {
-          "name": "Sheme",
-          "url": "https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw"
-        }
-      ],
-      "duration_ms": 260164,
-      "name": "Baaet Aada",
-      "url": "https://open.spotify.com/track/3Ec2Y6dxVB49jbIhaZM5sh"
-    },
-    {
-      "added_at": "2023-05-08 11:05:34",
-      "album": {
-        "name": "Ghazaleh",
-        "url": "https://open.spotify.com/album/2Zc9QTMpG13Zvj8LJiJ0h9"
-      },
-      "artists": [
-        {
-          "name": "Dana Salah",
-          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
-        }
-      ],
-      "duration_ms": 155930,
-      "name": "Ghazaleh",
-      "url": "https://open.spotify.com/track/0Ry7WiDzMxBmwKHKmE2JAJ"
-    },
-    {
-      "added_at": "2023-05-08 11:05:34",
-      "album": {
-        "name": "Nefrah Barsha (Aswatna)",
-        "url": "https://open.spotify.com/album/5eLO5PfIjYC2wVmMGsZvud"
-      },
-      "artists": [
-        {
-          "name": "Faia Younan",
-          "url": "https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Nefrah Barsha - Aswatna",
-      "url": "https://open.spotify.com/track/4VuAVQzUkli3xSHeN957gR"
-    },
-    {
-      "added_at": "2023-05-08 11:05:34",
-      "album": {
-        "name": "Shof Galbi",
-        "url": "https://open.spotify.com/album/0bL0jJFjvRneRInaGQDVkf"
-      },
-      "artists": [
-        {
-          "name": "Eman AlShmety",
-          "url": "https://open.spotify.com/artist/6m0P4htB7F19GZ2VYlpofd"
-        }
-      ],
-      "duration_ms": 229200,
-      "name": "Shof Galbi",
-      "url": "https://open.spotify.com/track/1Qn3MbsA6Dae8cFx56IHCK"
-    },
-    {
-      "added_at": "2023-05-08 11:05:34",
-      "album": {
-        "name": "Five Seasons",
-        "url": "https://open.spotify.com/album/46GrjxPRDj59cFzTw0Pwqq"
-      },
-      "artists": [
-        {
-          "name": "Dina El Wedidi",
-          "url": "https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA"
-        }
-      ],
-      "duration_ms": 319445,
-      "name": "Elmagd",
-      "url": "https://open.spotify.com/track/24UYFmNIhDChgHuP0EKeOx"
-    },
-    {
-      "added_at": "2023-05-08 11:05:34",
-      "album": {
-        "name": "Makhelaw magalou",
-        "url": "https://open.spotify.com/album/1aiMHJEw75iDP9reYTQ4lO"
-      },
-      "artists": [
-        {
-          "name": "Manal",
-          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
-        }
-      ],
-      "duration_ms": 180763,
-      "name": "Makhelaw magalou",
-      "url": "https://open.spotify.com/track/0jqUiExctgLt7bcghvD7Kw"
-    },
-    {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Iyam Tamouz",
         "url": "https://open.spotify.com/album/7w43XWpCWg6LrTRs0APRyw"
@@ -189,23 +189,23 @@
       "url": "https://open.spotify.com/track/4d62zzGWCLSWKYAWjd66wX"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
-        "name": "If You Were Mine",
-        "url": "https://open.spotify.com/album/0O8mBcnG7nKSN6LEgfLrYw"
+        "name": "Makhelaw magalou",
+        "url": "https://open.spotify.com/album/1aiMHJEw75iDP9reYTQ4lO"
       },
       "artists": [
         {
-          "name": "MINOVA",
-          "url": "https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC"
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
         }
       ],
-      "duration_ms": 218800,
-      "name": "If You Were Mine",
-      "url": "https://open.spotify.com/track/2bhbwipmX2S5PsE1VHPk0V"
+      "duration_ms": 180763,
+      "name": "Makhelaw magalou",
+      "url": "https://open.spotify.com/track/0jqUiExctgLt7bcghvD7Kw"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Eshra W Meshwar",
         "url": "https://open.spotify.com/album/4xwt1kPZIqD7zAeICkVWWg"
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/45IIm5FDdAVtyhStLAuKo7"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "\u0634\u063a\u0651\u0644 \u0645\u0648\u0633\u064a\u0642\u0649",
         "url": "https://open.spotify.com/album/3yjvgfbHJLaGmiAwLS4hOh"
@@ -241,7 +241,7 @@
       "url": "https://open.spotify.com/track/7JZedq4x8vGRrBnPvYJFMB"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Lahzet Qarar",
         "url": "https://open.spotify.com/album/1aw6EBgd55YRrFDvv18iEr"
@@ -257,7 +257,23 @@
       "url": "https://open.spotify.com/track/0nXdRZzMumjCBFZDmKVC9d"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
+      "album": {
+        "name": "If You Were Mine",
+        "url": "https://open.spotify.com/album/0O8mBcnG7nKSN6LEgfLrYw"
+      },
+      "artists": [
+        {
+          "name": "MINOVA",
+          "url": "https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "If You Were Mine",
+      "url": "https://open.spotify.com/track/2bhbwipmX2S5PsE1VHPk0V"
+    },
+    {
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "\u0628\u0646\u062a \u0627\u0628\u0648\u064a\u0627",
         "url": "https://open.spotify.com/album/7b3HsBstujKBNDT9tJQQRc"
@@ -273,23 +289,7 @@
       "url": "https://open.spotify.com/track/5mHgUdUiaLYXyCLzbOfhfD"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
-      "album": {
-        "name": "Shokran",
-        "url": "https://open.spotify.com/album/572v0Jez74h9cMKAYPCIug"
-      },
-      "artists": [
-        {
-          "name": "Assala Nasri",
-          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
-        }
-      ],
-      "duration_ms": 208351,
-      "name": "Shokran",
-      "url": "https://open.spotify.com/track/3zpuelnjip23dk1hxTqklg"
-    },
-    {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Bumble",
         "url": "https://open.spotify.com/album/0TW5DtLhLZXYyngRsSqSRW"
@@ -305,7 +305,23 @@
       "url": "https://open.spotify.com/track/6SY8dp9yl9YWdh8rErTsEW"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
+      "album": {
+        "name": "Shokran",
+        "url": "https://open.spotify.com/album/572v0Jez74h9cMKAYPCIug"
+      },
+      "artists": [
+        {
+          "name": "Assala Nasri",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        }
+      ],
+      "duration_ms": 208351,
+      "name": "Shokran",
+      "url": "https://open.spotify.com/track/3zpuelnjip23dk1hxTqklg"
+    },
+    {
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Stylo warqa",
         "url": "https://open.spotify.com/album/0g7SOVgoPw2bH4cV7Yd65d"
@@ -321,7 +337,7 @@
       "url": "https://open.spotify.com/track/2KB0Hva9YPWOnU7GF5Kgv0"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Sokkar",
         "url": "https://open.spotify.com/album/3WANh1LW70HosSAYQxWfkd"
@@ -337,23 +353,7 @@
       "url": "https://open.spotify.com/track/2BYTEkHsEa6BaFxvddYsee"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
-      "album": {
-        "name": "Hetta Tanya",
-        "url": "https://open.spotify.com/album/18REYwJulzZfAYpdvUXHtR"
-      },
-      "artists": [
-        {
-          "name": "Ruby",
-          "url": "https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814"
-        }
-      ],
-      "duration_ms": 199288,
-      "name": "Hetta Tanya",
-      "url": "https://open.spotify.com/track/5zn9ZT7dKnRX5fnYvb3loq"
-    },
-    {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Helw El Kalam",
         "url": "https://open.spotify.com/album/2LX8nfd7ZNYHBOFxiHqTBQ"
@@ -369,7 +369,23 @@
       "url": "https://open.spotify.com/track/0K9cS7axpvMGE67LPO3lqH"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
+      "album": {
+        "name": "Hetta Tanya",
+        "url": "https://open.spotify.com/album/18REYwJulzZfAYpdvUXHtR"
+      },
+      "artists": [
+        {
+          "name": "Ruby",
+          "url": "https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814"
+        }
+      ],
+      "duration_ms": 199288,
+      "name": "Hetta Tanya",
+      "url": "https://open.spotify.com/track/5zn9ZT7dKnRX5fnYvb3loq"
+    },
+    {
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Elak w Bas",
         "url": "https://open.spotify.com/album/6YkN9Z2hJk7g9h2aeBN7RY"
@@ -385,7 +401,7 @@
       "url": "https://open.spotify.com/track/16QkRfapLRwe9kBtYlctFC"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Fi 7eta Tanya",
         "url": "https://open.spotify.com/album/1HHTEpym8TUKaM7xJrsX0n"
@@ -401,7 +417,7 @@
       "url": "https://open.spotify.com/track/2PY7SkaaxjjRtxiLMGgc2f"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "\u0642\u0644\u0628\u064a \u0627\u0644\u0648",
         "url": "https://open.spotify.com/album/2jEyAidrKSxLYj8lsz0H4Y"
@@ -417,7 +433,7 @@
       "url": "https://open.spotify.com/track/7uIdrMD04D7jsL7lI6ytTw"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Da Elly 7sal (\u062f\u0627 \u0627\u0644\u0644\u064a \u062d\u0635\u0644)",
         "url": "https://open.spotify.com/album/0Vw2fBg9gnCfKIBwfiS4JO"
@@ -433,23 +449,7 @@
       "url": "https://open.spotify.com/track/5eRUK0x3XJSbrk57aET9aX"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
-      "album": {
-        "name": "Houwa",
-        "url": "https://open.spotify.com/album/7BpNyAXToxtSKfkO8sRshM"
-      },
-      "artists": [
-        {
-          "name": "RYM",
-          "url": "https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc"
-        }
-      ],
-      "duration_ms": 211891,
-      "name": "Houwa",
-      "url": "https://open.spotify.com/track/0yRZBgfcq7lAMl34Kn9WlY"
-    },
-    {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Ann Alawan",
         "url": "https://open.spotify.com/album/6COdyb4CSsqAvdvQGcOPMg"
@@ -465,23 +465,23 @@
       "url": "https://open.spotify.com/track/2xVKEPd40xSs0LJbr6SNYa"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
-        "name": "Henain",
-        "url": "https://open.spotify.com/album/0sTZwBd1iLGi7BAraWy0ex"
+        "name": "Houwa",
+        "url": "https://open.spotify.com/album/7BpNyAXToxtSKfkO8sRshM"
       },
       "artists": [
         {
-          "name": "Assala Nasri",
-          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+          "name": "RYM",
+          "url": "https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc"
         }
       ],
-      "duration_ms": 188653,
-      "name": "Henain",
-      "url": "https://open.spotify.com/track/3suQDOXGODa1MrFFnvJtFv"
+      "duration_ms": 211891,
+      "name": "Houwa",
+      "url": "https://open.spotify.com/track/0yRZBgfcq7lAMl34Kn9WlY"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Five Seasons",
         "url": "https://open.spotify.com/album/46GrjxPRDj59cFzTw0Pwqq"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/3KageFXJDD7z1EehXS2N3J"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "3asal Ya Nas",
         "url": "https://open.spotify.com/album/4PukzqTnEoXMAd2VwEooNb"
@@ -513,7 +513,23 @@
       "url": "https://open.spotify.com/track/6N7OyyrRQRMiVaUzDh9RiP"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
+      "album": {
+        "name": "Henain",
+        "url": "https://open.spotify.com/album/0sTZwBd1iLGi7BAraWy0ex"
+      },
+      "artists": [
+        {
+          "name": "Assala Nasri",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        }
+      ],
+      "duration_ms": 188653,
+      "name": "Henain",
+      "url": "https://open.spotify.com/track/3suQDOXGODa1MrFFnvJtFv"
+    },
+    {
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Kan Ya Ma Kan",
         "url": "https://open.spotify.com/album/6pOn8wrzid7Vjj2SwWT0Lv"
@@ -529,7 +545,7 @@
       "url": "https://open.spotify.com/track/7pSIxWwue7kcqomsmaltbT"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "\u0623\u0633\u064a\u0628 \u0646\u0641\u0633\u064a \u0648\u0623\u063a\u0646\u0649",
         "url": "https://open.spotify.com/album/0kg0psLhvJNYNSowHPiti6"
@@ -545,7 +561,7 @@
       "url": "https://open.spotify.com/track/2vPWM7HRQqv54d34itTpTS"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "\u0646\u0633\u064a\u0646\u0627 \u0646\u0639\u064a\u0634",
         "url": "https://open.spotify.com/album/5TlwYlQKbof258r72pe1lu"
@@ -561,7 +577,7 @@
       "url": "https://open.spotify.com/track/0Ia5kzbFM2iMADp1Wq1EZe"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "La7za",
         "url": "https://open.spotify.com/album/0bTeTZPnvaUfdhAXj8RTyU"
@@ -577,7 +593,7 @@
       "url": "https://open.spotify.com/track/4VVpPqUEwJLJgAblQVBFWG"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Ana Wein",
         "url": "https://open.spotify.com/album/4ahaqIfKhv72tl8TxDzjHt"
@@ -593,7 +609,7 @@
       "url": "https://open.spotify.com/track/5FUkSeyQJaH4kZ8frwvKYo"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Al Kawn Janni Maak",
         "url": "https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG"
@@ -609,7 +625,7 @@
       "url": "https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Kifi Kif Nass",
         "url": "https://open.spotify.com/album/0d5CtbaLEpJTDHjJ106V9m"
@@ -625,7 +641,7 @@
       "url": "https://open.spotify.com/track/3OGzKIGRrtnKWWYOBnretT"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Yallah Rouh",
         "url": "https://open.spotify.com/album/3oouovHnQ89O7clarzK0mD"
@@ -641,23 +657,7 @@
       "url": "https://open.spotify.com/track/3uWSYjmimNU6BKRTktp6MS"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
-      "album": {
-        "name": "Lazemni Break",
-        "url": "https://open.spotify.com/album/2YKxZXEbtRbB5fcCUhZpPT"
-      },
-      "artists": [
-        {
-          "name": "Noel Kharman",
-          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
-        }
-      ],
-      "duration_ms": 142848,
-      "name": "Lazemni Break",
-      "url": "https://open.spotify.com/track/3c5jOjIWCDHjy7XPFuWuaM"
-    },
-    {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Milyar",
         "url": "https://open.spotify.com/album/52zA6GXEOJYBQKc5oQk6PC"
@@ -673,39 +673,23 @@
       "url": "https://open.spotify.com/track/4xJ5nB1f7G1wxCp6SYayHE"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
-        "name": "Helw Dah",
-        "url": "https://open.spotify.com/album/3dxxw8jACcV0ZYpa4TnLLP"
+        "name": "Lazemni Break",
+        "url": "https://open.spotify.com/album/2YKxZXEbtRbB5fcCUhZpPT"
       },
       "artists": [
         {
-          "name": "Maya Diab",
-          "url": "https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz"
+          "name": "Noel Kharman",
+          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
         }
       ],
-      "duration_ms": 181730,
-      "name": "Helw Dah",
-      "url": "https://open.spotify.com/track/1prDjlgIQI1V5ZJjEwipFx"
+      "duration_ms": 142848,
+      "name": "Lazemni Break",
+      "url": "https://open.spotify.com/track/3c5jOjIWCDHjy7XPFuWuaM"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
-      "album": {
-        "name": "Fawda",
-        "url": "https://open.spotify.com/album/5Fob6Veclpqwcp28gUXneD"
-      },
-      "artists": [
-        {
-          "name": "Carole Samaha",
-          "url": "https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3"
-        }
-      ],
-      "duration_ms": 198352,
-      "name": "Fawda",
-      "url": "https://open.spotify.com/track/3arw0QpzjtfvrwyXGAd5Ax"
-    },
-    {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "\u0639\u0634\u0627\u0646 \u0627\u0631\u0636\u064a\u0643",
         "url": "https://open.spotify.com/album/37OnRbBYRcEvKcJBOeZRpG"
@@ -721,7 +705,23 @@
       "url": "https://open.spotify.com/track/6XVMwb57cf90rjTPaWqd94"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
+      "album": {
+        "name": "Helw Dah",
+        "url": "https://open.spotify.com/album/3dxxw8jACcV0ZYpa4TnLLP"
+      },
+      "artists": [
+        {
+          "name": "Maya Diab",
+          "url": "https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz"
+        }
+      ],
+      "duration_ms": 181730,
+      "name": "Helw Dah",
+      "url": "https://open.spotify.com/track/1prDjlgIQI1V5ZJjEwipFx"
+    },
+    {
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Rezq El Wared",
         "url": "https://open.spotify.com/album/3URkpUufiqInzAGBhFn9Az"
@@ -737,39 +737,23 @@
       "url": "https://open.spotify.com/track/4yMY3INVgDXfDUIRuuIMRC"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
-        "name": "Ani Alaqwa",
-        "url": "https://open.spotify.com/album/5LNT6XOT8DoNIbEqqSGGgc"
+        "name": "Fawda",
+        "url": "https://open.spotify.com/album/5Fob6Veclpqwcp28gUXneD"
       },
       "artists": [
         {
-          "name": "Rahma Riad",
-          "url": "https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx"
+          "name": "Carole Samaha",
+          "url": "https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3"
         }
       ],
-      "duration_ms": 177958,
-      "name": "Ani Alaqwa",
-      "url": "https://open.spotify.com/track/3Cj7v2kZNOoqIEcOTcUT6c"
+      "duration_ms": 198352,
+      "name": "Fawda",
+      "url": "https://open.spotify.com/track/3arw0QpzjtfvrwyXGAd5Ax"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
-      "album": {
-        "name": "Nazar Aayni",
-        "url": "https://open.spotify.com/album/1QwswXYVpJ31bZ4eM4mZm6"
-      },
-      "artists": [
-        {
-          "name": "Farah Chreim",
-          "url": "https://open.spotify.com/artist/76hwkSg4dVAp3IYhM5VqWc"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "\u0646\u0638\u0631 \u0639\u064a\u0646\u064a",
-      "url": "https://open.spotify.com/track/1SWoEHNrMXTMVt4xlOxw1P"
-    },
-    {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Mamnounlak",
         "url": "https://open.spotify.com/album/4JVzSKHgVOJXWqzK1huMBy"
@@ -785,23 +769,39 @@
       "url": "https://open.spotify.com/track/48kZid7PsapGIxQ1HWq40C"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
-        "name": "3ALA BALI",
-        "url": "https://open.spotify.com/album/4H6F1ToFkjw4pDQWsA2CON"
+        "name": "Ani Alaqwa",
+        "url": "https://open.spotify.com/album/5LNT6XOT8DoNIbEqqSGGgc"
       },
       "artists": [
         {
-          "name": "Malak",
-          "url": "https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf"
+          "name": "Rahma Riad",
+          "url": "https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx"
         }
       ],
-      "duration_ms": 162102,
-      "name": "3ALA BALI",
-      "url": "https://open.spotify.com/track/6Ne0DGBMgtmY1Maj3QAVIF"
+      "duration_ms": 177958,
+      "name": "Ani Alaqwa",
+      "url": "https://open.spotify.com/track/3Cj7v2kZNOoqIEcOTcUT6c"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
+      "album": {
+        "name": "Nazar Aayni",
+        "url": "https://open.spotify.com/album/1QwswXYVpJ31bZ4eM4mZm6"
+      },
+      "artists": [
+        {
+          "name": "Farah Chreim",
+          "url": "https://open.spotify.com/artist/76hwkSg4dVAp3IYhM5VqWc"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "\u0646\u0638\u0631 \u0639\u064a\u0646\u064a",
+      "url": "https://open.spotify.com/track/1SWoEHNrMXTMVt4xlOxw1P"
+    },
+    {
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Keef Bensa",
         "url": "https://open.spotify.com/album/3hFV4MTmLw5Np8xwGLgqx4"
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/0uwOOnge02dhkX4kPl7Kkk"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Tetr Mosalsal Alnoon Wama Yalamoon",
         "url": "https://open.spotify.com/album/6Ei1CYvfA6SPfCP0LEFDvl"
@@ -833,7 +833,23 @@
       "url": "https://open.spotify.com/track/7p7dbDDQlz9pmiVeyZFOGi"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
+      "album": {
+        "name": "3ALA BALI",
+        "url": "https://open.spotify.com/album/4H6F1ToFkjw4pDQWsA2CON"
+      },
+      "artists": [
+        {
+          "name": "Malak",
+          "url": "https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf"
+        }
+      ],
+      "duration_ms": 162102,
+      "name": "3ALA BALI",
+      "url": "https://open.spotify.com/track/6Ne0DGBMgtmY1Maj3QAVIF"
+    },
+    {
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Ala El Hady",
         "url": "https://open.spotify.com/album/6riYimL3CYEpHcq8k8Agla"
@@ -853,7 +869,7 @@
       "url": "https://open.spotify.com/track/2wdjKsBwJikP1TPNhKuyyo"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "A la vie a la mort (Ily)",
         "url": "https://open.spotify.com/album/04Djd7y8AvR8KeEzvUdQKP"
@@ -869,23 +885,7 @@
       "url": "https://open.spotify.com/track/3plDNkto0jjCOMtgKnedBJ"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
-      "album": {
-        "name": "Badal Madi",
-        "url": "https://open.spotify.com/album/5htTIypAWNOYGcDkSWrsgv"
-      },
-      "artists": [
-        {
-          "name": "Rahma Riad",
-          "url": "https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx"
-        }
-      ],
-      "duration_ms": 168680,
-      "name": "Badal Madi",
-      "url": "https://open.spotify.com/track/1yv1J9jpn2HrSgA5m7Rb02"
-    },
-    {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Ensanein",
         "url": "https://open.spotify.com/album/38MJVqssjkHcmUZKM9ERUt"
@@ -901,7 +901,23 @@
       "url": "https://open.spotify.com/track/1b7XaGjQ8dGQMP4sVuOgHO"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
+      "album": {
+        "name": "Badal Madi",
+        "url": "https://open.spotify.com/album/5htTIypAWNOYGcDkSWrsgv"
+      },
+      "artists": [
+        {
+          "name": "Rahma Riad",
+          "url": "https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx"
+        }
+      ],
+      "duration_ms": 168680,
+      "name": "Badal Madi",
+      "url": "https://open.spotify.com/track/1yv1J9jpn2HrSgA5m7Rb02"
+    },
+    {
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Makanak Khali",
         "url": "https://open.spotify.com/album/1BxWhitrI65tgN8ciUyzjC"
@@ -917,23 +933,7 @@
       "url": "https://open.spotify.com/track/47fiFvcSChzOIrvh1BnRlR"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
-      "album": {
-        "name": "Wesh Yes3edk",
-        "url": "https://open.spotify.com/album/7m3Vn1oyNWrwK2kcHhTSos"
-      },
-      "artists": [
-        {
-          "name": "Nawal El Kuwaitia",
-          "url": "https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ"
-        }
-      ],
-      "duration_ms": 258467,
-      "name": "Wesh Yes3edk",
-      "url": "https://open.spotify.com/track/7cQKp7oT1YXT7z2MXvydhR"
-    },
-    {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Eiish Ahla Snin",
         "url": "https://open.spotify.com/album/0I58q7plyh0jifvzl4gMzh"
@@ -949,7 +949,23 @@
       "url": "https://open.spotify.com/track/5cTeuErPw3vt8SBga9YAfM"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
+      "album": {
+        "name": "Wesh Yes3edk",
+        "url": "https://open.spotify.com/album/7m3Vn1oyNWrwK2kcHhTSos"
+      },
+      "artists": [
+        {
+          "name": "Nawal El Kuwaitia",
+          "url": "https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ"
+        }
+      ],
+      "duration_ms": 258467,
+      "name": "Wesh Yes3edk",
+      "url": "https://open.spotify.com/track/7cQKp7oT1YXT7z2MXvydhR"
+    },
+    {
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Ya Bakhty Beh",
         "url": "https://open.spotify.com/album/0tFBtGwjlCel82hP0xN1hy"
@@ -965,7 +981,7 @@
       "url": "https://open.spotify.com/track/1CEYTW1P2mKpZgxouGDw8f"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "\u0645\u063a\u0631\u0648\u0645\u0629 \u0628\u0645\u064a\u0646",
         "url": "https://open.spotify.com/album/4HQ1AeGjuScD19ns8f67uM"
@@ -981,7 +997,7 @@
       "url": "https://open.spotify.com/track/3fLW5dX5FfnZ2g3Rmp4Cpr"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "\u0639\u0627\u0631\u0641\u0647 \u0642\u064a\u0645\u062a\u064a",
         "url": "https://open.spotify.com/album/0csj4uie2SFphm4M2aPrJh"
@@ -997,7 +1013,7 @@
       "url": "https://open.spotify.com/track/0k1pF4SI4m4xYHRw8M022J"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Ohebuka Raghman",
         "url": "https://open.spotify.com/album/6BOAJQ63qhOdFOuU8O9rAW"
@@ -1013,7 +1029,7 @@
       "url": "https://open.spotify.com/track/2Y0K3JBY7toZYiq4cUP9Eu"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Bedi e7kik / \u0628\u062f\u064a \u0627\u062d\u0643\u064a\u0643 (Remix by DJ JO MK)",
         "url": "https://open.spotify.com/album/38d60nfn1G0W8tlzfvSUAY"
@@ -1033,7 +1049,7 @@
       "url": "https://open.spotify.com/track/66iwWLfDAvp2DVDE33fhKR"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "El Tofah w El Farawla",
         "url": "https://open.spotify.com/album/2N2XSkFrcw73VFlfQsPE5g"
@@ -1049,7 +1065,7 @@
       "url": "https://open.spotify.com/track/5vU5TfXFf3cUFBSHzBiyqt"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "\u064a\u0630\u0643\u0631\u0646\u064a \u0627\u0644\u0634\u062a\u0627\u0621",
         "url": "https://open.spotify.com/album/2H1sagWhwYpDkxI3lprHUC"
@@ -1065,7 +1081,7 @@
       "url": "https://open.spotify.com/track/7m8xFOiG78eaTpnWCVT5Xp"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Hyati Ana",
         "url": "https://open.spotify.com/album/3ATnydBE42x10NtDiXe4mt"
@@ -1081,7 +1097,7 @@
       "url": "https://open.spotify.com/track/0UvW5kLHvjzN4YsHGM0oai"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "3ARI",
         "url": "https://open.spotify.com/album/7JpbK6ZrdKDRaZfYJI4B6u"
@@ -1097,7 +1113,7 @@
       "url": "https://open.spotify.com/track/2DBR3Wrmt3QzdwGYWi3ULi"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Ahenu Ilayka",
         "url": "https://open.spotify.com/album/2WrO9FMMDPLcIRrwag5v4A"
@@ -1113,7 +1129,7 @@
       "url": "https://open.spotify.com/track/1cMmjfiraN9MdBMliiJDrR"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Dandana",
         "url": "https://open.spotify.com/album/1YClS4T4KtiPRSuErccnLM"
@@ -1129,7 +1145,7 @@
       "url": "https://open.spotify.com/track/0Jxc621ZPErwELUjuQCrXr"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Aamel Nasini",
         "url": "https://open.spotify.com/album/6JtgZQjsNoj5ZwA2MPJL78"
@@ -1145,7 +1161,7 @@
       "url": "https://open.spotify.com/track/63bfjUj6fMBP6LgI0cHKX9"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Atoul",
         "url": "https://open.spotify.com/album/7uR9bmwan77bo430VOvIzX"
@@ -1161,7 +1177,7 @@
       "url": "https://open.spotify.com/track/2nxNsJ9Lve8edydwY8oL5b"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Ma A7lak",
         "url": "https://open.spotify.com/album/2dsx8wJMoIeh8TNObnyYrC"
@@ -1181,7 +1197,7 @@
       "url": "https://open.spotify.com/track/2v3jkteY4K6X3zqvij2aI3"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Hobbak Me'zi",
         "url": "https://open.spotify.com/album/4dyjBU7cvyqXNmxaY62U6r"
@@ -1197,7 +1213,7 @@
       "url": "https://open.spotify.com/track/2YmifrQSCaXqlRoH7MlgQu"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "\u064a\u0627 \u0628\u0646\u062a\u064a",
         "url": "https://open.spotify.com/album/40YSCvlRc50vEqpQzqiIN8"
@@ -1213,7 +1229,7 @@
       "url": "https://open.spotify.com/track/10QCLEQ4Lmo2vIB25DvU8L"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Aalam Tani",
         "url": "https://open.spotify.com/album/1TjRs9gegBD9q15b461EiI"
@@ -1229,7 +1245,7 @@
       "url": "https://open.spotify.com/track/2u7YPthKHdP2MHPDnpzNLm"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Qadduka Al Mayyas",
         "url": "https://open.spotify.com/album/3C8Pdn0Ojq4T9CzkffQnIp"
@@ -1249,23 +1265,7 @@
       "url": "https://open.spotify.com/track/2l5norERJd8AKTAw0wF91c"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
-      "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/3GgcE4HqgTP4IDaNJ08z1j"
-      },
-      "artists": [
-        {
-          "name": "Neveen Ragab",
-          "url": "https://open.spotify.com/artist/2Jm92HVUNKUHiVytpozUvT"
-        }
-      ],
-      "duration_ms": 223820,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/0mQUJSauS5hrMJuoTGqmGe"
-    },
-    {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Elwarda Elbaida",
         "url": "https://open.spotify.com/album/2QsEDwrvsdqTbHXfOmdkGO"
@@ -1281,7 +1281,7 @@
       "url": "https://open.spotify.com/track/506DZmhqvdH9574i9S5g5x"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Mishta'a",
         "url": "https://open.spotify.com/album/2JX4flVTuPELhry4HCPu1I"
@@ -1297,7 +1297,23 @@
       "url": "https://open.spotify.com/track/4w2hGIB38EBnf4l0y8Y1UE"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
+      "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/3GgcE4HqgTP4IDaNJ08z1j"
+      },
+      "artists": [
+        {
+          "name": "Neveen Ragab",
+          "url": "https://open.spotify.com/artist/2Jm92HVUNKUHiVytpozUvT"
+        }
+      ],
+      "duration_ms": 223820,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/0mQUJSauS5hrMJuoTGqmGe"
+    },
+    {
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Mosafer Anta",
         "url": "https://open.spotify.com/album/0Zj3QSrDMeGxumSuxPQt7O"
@@ -1317,7 +1333,7 @@
       "url": "https://open.spotify.com/track/0BVpJSZrmysREiUbIMaDNC"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Korbag",
         "url": "https://open.spotify.com/album/5bNkoDJ2IKDVJu6sNcgzXt"
@@ -1333,7 +1349,7 @@
       "url": "https://open.spotify.com/track/0gBY3xJ8eig3YWnbASh5Xy"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "\u0627\u062e\u062a\u0627\u0631\u064a",
         "url": "https://open.spotify.com/album/3ty4b0EddF0sWH4FyMtYpi"
@@ -1349,7 +1365,7 @@
       "url": "https://open.spotify.com/track/2V3E17nHsmFLpuV3aswZKn"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "3amlt 5er",
         "url": "https://open.spotify.com/album/2906UsdxF63k38NfKXMnjA"
@@ -1365,23 +1381,7 @@
       "url": "https://open.spotify.com/track/7zEyLmurfWk1i1MGrnOtH8"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
-      "album": {
-        "name": "Endal Eneed",
-        "url": "https://open.spotify.com/album/7ygqnUn67EX1VQ9DUA0JSp"
-      },
-      "artists": [
-        {
-          "name": "Hana Malhas",
-          "url": "https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu"
-        }
-      ],
-      "duration_ms": 184069,
-      "name": "Endal Eneed",
-      "url": "https://open.spotify.com/track/4p3XxooOxt2YHbC9DTI0mj"
-    },
-    {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Maksour Albi - \u0645\u0643\u0633\u0648\u0631 \u0642\u0644\u0628\u064a (From Eshret Omor Series - \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0639\u0634\u0631\u0629 \u0639\u0645\u0631)",
         "url": "https://open.spotify.com/album/5xX7kQ7GkCUF1B9lW8XzS2"
@@ -1397,7 +1397,23 @@
       "url": "https://open.spotify.com/track/7DrQNFN993CYcTZlUbY4ft"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
+      "album": {
+        "name": "Endal Eneed",
+        "url": "https://open.spotify.com/album/7ygqnUn67EX1VQ9DUA0JSp"
+      },
+      "artists": [
+        {
+          "name": "Hana Malhas",
+          "url": "https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu"
+        }
+      ],
+      "duration_ms": 184069,
+      "name": "Endal Eneed",
+      "url": "https://open.spotify.com/track/4p3XxooOxt2YHbC9DTI0mj"
+    },
+    {
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "ISMAK",
         "url": "https://open.spotify.com/album/6RHUwel7CdqLpPtpRRRrnL"
@@ -1413,7 +1429,7 @@
       "url": "https://open.spotify.com/track/04gRvCyz2JZZnvfEnW8pAQ"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Kelma Akhera",
         "url": "https://open.spotify.com/album/1Pr1IhoF1383C9ZIbwO3Jb"
@@ -1429,23 +1445,7 @@
       "url": "https://open.spotify.com/track/2A2NV6TRVGHV9Ggxb3Glmb"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
-      "album": {
-        "name": "YAMMI",
-        "url": "https://open.spotify.com/album/7D7510MFKUTrZN96Ax5uvl"
-      },
-      "artists": [
-        {
-          "name": "Samira Said",
-          "url": "https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD"
-        }
-      ],
-      "duration_ms": 171230,
-      "name": "YAMMI",
-      "url": "https://open.spotify.com/track/1QHZJihSD4Ks6yNOaUJBVe"
-    },
-    {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Bi Saraha",
         "url": "https://open.spotify.com/album/4PvK6tDuoEeeYy7jzI2xA9"
@@ -1461,7 +1461,7 @@
       "url": "https://open.spotify.com/track/5Is9gbdTLHpZfaieLYGvrr"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "\u0644\u0627 \u0644\u0627 \u064a\u0627\u0644\u062e\u064a\u0632\u0631\u0627\u0646\u0647",
         "url": "https://open.spotify.com/album/5kfATHTrJ77l3NVCQPqK8q"
@@ -1477,7 +1477,23 @@
       "url": "https://open.spotify.com/track/4ZBUuvMtpGqiqF18lqeeIB"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
+      "album": {
+        "name": "YAMMI",
+        "url": "https://open.spotify.com/album/7D7510MFKUTrZN96Ax5uvl"
+      },
+      "artists": [
+        {
+          "name": "Samira Said",
+          "url": "https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD"
+        }
+      ],
+      "duration_ms": 171230,
+      "name": "YAMMI",
+      "url": "https://open.spotify.com/track/1QHZJihSD4Ks6yNOaUJBVe"
+    },
+    {
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "\u0647\u0646\u064a\u0627\u0644\u0648",
         "url": "https://open.spotify.com/album/24San4mNpcyhkYH4oiu0iO"
@@ -1493,23 +1509,7 @@
       "url": "https://open.spotify.com/track/28L8RTHgg9XPvDtL3R0pmX"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
-      "album": {
-        "name": "Satantahi Al Harbu",
-        "url": "https://open.spotify.com/album/5I81x0FiYIibjurMtysKRC"
-      },
-      "artists": [
-        {
-          "name": "Carole Samaha",
-          "url": "https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3"
-        }
-      ],
-      "duration_ms": 220704,
-      "name": "Satantahi Al Harbu",
-      "url": "https://open.spotify.com/track/7CEatH4LJGZhDWCP7ijvJj"
-    },
-    {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Shou Ela Maana",
         "url": "https://open.spotify.com/album/7JX1iOqeu2k4Fa359PLLHw"
@@ -1525,7 +1525,23 @@
       "url": "https://open.spotify.com/track/55CnEXVm4lxZfQPcaAaxuv"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
+      "album": {
+        "name": "Satantahi Al Harbu",
+        "url": "https://open.spotify.com/album/5I81x0FiYIibjurMtysKRC"
+      },
+      "artists": [
+        {
+          "name": "Carole Samaha",
+          "url": "https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3"
+        }
+      ],
+      "duration_ms": 220704,
+      "name": "Satantahi Al Harbu",
+      "url": "https://open.spotify.com/track/7CEatH4LJGZhDWCP7ijvJj"
+    },
+    {
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Endi Rooh",
         "url": "https://open.spotify.com/album/7HiwjvsxLEWs1IEZ6VK2J9"
@@ -1541,23 +1557,7 @@
       "url": "https://open.spotify.com/track/1D01O8Tk05AZtAPqMQQT7C"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
-      "album": {
-        "name": "Ya Yema",
-        "url": "https://open.spotify.com/album/6ncyf9iCc3h3gvtPmvmPbd"
-      },
-      "artists": [
-        {
-          "name": "Bouchra Elm",
-          "url": "https://open.spotify.com/artist/2JeWGigve92LrpLG6UfEwd"
-        }
-      ],
-      "duration_ms": 148494,
-      "name": "Ya Yema",
-      "url": "https://open.spotify.com/track/0yhfnQQXbiBPAfPHGRBLfM"
-    },
-    {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "Bi Saraha",
         "url": "https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E"
@@ -1573,7 +1573,23 @@
       "url": "https://open.spotify.com/track/1agBHShZNYgVpjbAnhMmbG"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
+      "album": {
+        "name": "Ya Yema",
+        "url": "https://open.spotify.com/album/6ncyf9iCc3h3gvtPmvmPbd"
+      },
+      "artists": [
+        {
+          "name": "Bouchra Elm",
+          "url": "https://open.spotify.com/artist/2JeWGigve92LrpLG6UfEwd"
+        }
+      ],
+      "duration_ms": 148494,
+      "name": "Ya Yema",
+      "url": "https://open.spotify.com/track/0yhfnQQXbiBPAfPHGRBLfM"
+    },
+    {
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "TRAUMA (2023)",
         "url": "https://open.spotify.com/album/7i1bXILDFwI9u4SaHFOTEJ"
@@ -1593,7 +1609,7 @@
       "url": "https://open.spotify.com/track/7bLqMAFFxl3NcMS1AJXyaA"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "\u0632\u0627\u0646\u062a \u0627\u0644\u062f\u0646\u064a\u0627",
         "url": "https://open.spotify.com/album/6jCgIgKjHDVxTAxJkndLSI"
@@ -1609,7 +1625,7 @@
       "url": "https://open.spotify.com/track/64HUI1fV8NCK4mXIuJjpTM"
     },
     {
-      "added_at": "2023-05-08 11:05:34",
+      "added_at": "2023-05-10 06:43:24",
       "album": {
         "name": "\u0631\u062d\u064a\u0644",
         "url": "https://open.spotify.com/album/65sOpDahfqO6srZGGhtgH5"
@@ -1623,22 +1639,6 @@
       "duration_ms": 293071,
       "name": "\u0631\u062d\u064a\u0644",
       "url": "https://open.spotify.com/track/3JlGlUGcHXG2YXyykHGLWS"
-    },
-    {
-      "added_at": "2023-05-08 11:05:34",
-      "album": {
-        "name": "Eh Aadi",
-        "url": "https://open.spotify.com/album/7k2QlgdalWVBEYWfgZv5tf"
-      },
-      "artists": [
-        {
-          "name": "Lama Shreif",
-          "url": "https://open.spotify.com/artist/3g6wVPkHomiONRHWn6v5YZ"
-        }
-      ],
-      "duration_ms": 132604,
-      "name": "Eh Aadi",
-      "url": "https://open.spotify.com/track/62Imq6fPJkweUSZsA7wiVc"
     }
   ],
   "unique_name": "EQUAL Arabia ",

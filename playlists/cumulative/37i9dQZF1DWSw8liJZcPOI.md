@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-414 songs - 1 day 4 hr 57 min
+415 songs - 1 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Clear Language](https://open.spotify.com/track/3wOktPNamu01hvLN36g9A0) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Clear Language](https://open.spotify.com/album/5z1mF6xLNvsKp132hNxqZ3) | 3:13 | 2022-07-22 |  |
 | [Clockworking](https://open.spotify.com/track/5auxPiQ8ouJWE1Pe3SWhOc) | [Maria Huld Markan Sigfúsdóttir](https://open.spotify.com/artist/5av1vXlTFqanXU3g9k4tlQ), [Nordic Affect](https://open.spotify.com/artist/4p6qqywaSCExdEYczbAFGY) | [Clockworking](https://open.spotify.com/album/51xXBhnd7HsJSx9nnlC7zv) | 7:35 | 2020-12-04 | 2020-12-11 |
 | [Cloud Memory](https://open.spotify.com/track/2dUIvQRy9wfxNVcm0JLwNm) | [Jim Perkins](https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi) | [Cloud Memory](https://open.spotify.com/album/1uu3zbo7cvj4NM2U15fCOU) | 1:57 | 2022-03-25 |  |
+| [Coalescence](https://open.spotify.com/track/2VILtFKQp13gGUSHGM0INt) | [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP), [Gabe Saltman](https://open.spotify.com/artist/7nkeYcy1PQ0DLtWmmh0Yjh) | [Coalescence](https://open.spotify.com/album/06sSRqpl8c9lp3JHx03i0M) | 2:26 | 2023-05-05 |  |
 | [Coeur](https://open.spotify.com/track/19kPbJLbOA6XK3jbO6gNoG) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [Rêveries](https://open.spotify.com/album/7MyL55te5fPpNkleFCc56W) | 5:15 | 2020-10-20\* | 2022-04-19 |
 | [Colours](https://open.spotify.com/track/6r7NOq6l38wp2w5mDFqdeb) | [Hilmar Örn Hilmarsson](https://open.spotify.com/artist/3p5cqyRrl8N8aYx2yMKBB1) | [Angels of the Universe](https://open.spotify.com/album/4wxQFiQ2AblWOXazUDPo1P) | 1:56 | 2020-12-04 | 2020-12-11 |
 | [Corn](https://open.spotify.com/track/7jH6HaPyBRL2SH1AvzVe6h) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj) | 4:04 | 2021-12-10 |  |
@@ -361,7 +362,7 @@
 | [The Nomad](https://open.spotify.com/track/2CqYEUz87EmtXLpu5QhjrQ) | [Koral Banko](https://open.spotify.com/artist/77POcMr56NHorl74QoH1Lj) | [The Nomad](https://open.spotify.com/album/5ha7u3ly8G0bEDLxidwWRD) | 2:57 | 2021-02-23 | 2022-04-17 |
 | [The North Wind \- Daigo Hanada Re\-work](https://open.spotify.com/track/3oM82Zz63KrnYQ0ZaTTQ9l) | [Jim Perkins](https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi), [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [The North Wind \(Daigo Hanada Re\-work\)](https://open.spotify.com/album/1LjC5SMuxGzphoo6e9KEG5) | 1:55 | 2022-05-13 |  |
 | [The Ocean Wave Rocks My Knee Shells](https://open.spotify.com/track/3QL0mUN8AIg6m9CeGONqdx) | [Kristín Anna](https://open.spotify.com/artist/3X6nVUiHTHi70gtw8RHCA8) | [I Must Be the Devil](https://open.spotify.com/album/7iku5X7Tc8UKcszi6cC2u2) | 4:03 | 2020-12-04 | 2020-12-11 |
-| [The Open](https://open.spotify.com/track/2sSzhlTz0N1HlSuoLLxv8z) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [The Open](https://open.spotify.com/album/2AcC9SJ0mMyKGJLONZx6lt) | 3:34 | 2022-04-08 |  |
+| [The Open](https://open.spotify.com/track/2sSzhlTz0N1HlSuoLLxv8z) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [The Open](https://open.spotify.com/album/2AcC9SJ0mMyKGJLONZx6lt) | 3:34 | 2022-04-08 | 2023-05-11 |
 | [The Plover and the Raven](https://open.spotify.com/track/5y3yUHsEpbpVyJxahMBUrk) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD), [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs), [Þorsteinn Eyfjörð](https://open.spotify.com/artist/1mMr1vZmRoRoPKVqJ80Z6O) | [The Plover and the Raven](https://open.spotify.com/album/3iiQcVhNVKFhy5Um9LEpLN) | 3:11 | 2023-04-21 |  |
 | [The Rain](https://open.spotify.com/track/6Q67hjXZheXoN6uZU7Rlea) | [Claire Deak](https://open.spotify.com/artist/0xUjHFxfaM4g7IPwqNEEAl), [Tony Dupé](https://open.spotify.com/artist/11v9Gs74xVa4JUkvFgNNex) | [The Rain](https://open.spotify.com/album/5RPM5zF8I7FeQq2Ias02od) | 4:28 | 2020-10-21 | 2021-03-11 |
 | [The Sea Within](https://open.spotify.com/track/7z3UjQkrOM5B2eY50Sv7ux) | [Úlfur Eldjárn](https://open.spotify.com/artist/46LH9HoKkHC1lSFJ1fU78o) | [Innsaei: The Sea Within](https://open.spotify.com/album/3PxHXL8JonLWQMDBk0O1dr) | 8:26 | 2020-12-04 | 2020-12-11 |

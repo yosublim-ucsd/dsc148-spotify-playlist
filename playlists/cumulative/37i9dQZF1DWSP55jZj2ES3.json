@@ -2334,7 +2334,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 193401,
       "name": "Maple Syrup Tears",
       "url": "https://open.spotify.com/track/5t7VNXoXW1CYjSZNO1jziH"
@@ -3094,7 +3094,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-10",
+      "date_removed": null,
       "duration_ms": 217386,
       "name": "Rockets (feat. Moe Moks)",
       "url": "https://open.spotify.com/track/5LWKsMeXaYBoKzCHk8syQy"
@@ -3253,6 +3253,36 @@
     },
     {
       "album": {
+        "name": "Telefone",
+        "url": "https://open.spotify.com/album/5kjqLxeQxdW3CcUdOXuO2c"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        },
+        {
+          "name": "Phoelix",
+          "url": "https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0"
+        },
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311000,
+      "name": "Shadow Man",
+      "url": "https://open.spotify.com/track/0EN4QjJqiAufEh6g4xPNvC"
+    },
+    {
+      "album": {
         "name": "telefone",
         "url": "https://open.spotify.com/album/3WQSmz0juSSmEmzXpv9l6M"
       },
@@ -3280,24 +3310,6 @@
       "duration_ms": 311000,
       "name": "Shadow Man",
       "url": "https://open.spotify.com/track/5RZ9Tlmiy9NioldpMCZvaN"
-    },
-    {
-      "album": {
-        "name": "Telefone",
-        "url": "https://open.spotify.com/album/5kjqLxeQxdW3CcUdOXuO2c"
-      },
-      "artists": [
-        {
-          "name": "Noname feat. Smino, Phoelix, Saba",
-          "url": "https://open.spotify.com/artist/0sN6V0DZiCbB1exRjapMNo"
-        }
-      ],
-      "date_added": "2022-07-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 311000,
-      "name": "Shadow Man",
-      "url": "https://open.spotify.com/track/0EN4QjJqiAufEh6g4xPNvC"
     },
     {
       "album": {

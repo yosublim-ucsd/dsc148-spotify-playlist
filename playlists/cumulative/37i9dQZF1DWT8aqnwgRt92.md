@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-666 songs - 1 day 18 hr 21 min
+669 songs - 1 day 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [As the Gods Say \- Maniac Ver.](https://open.spotify.com/track/1TqPXOmJzhLLwjgB6CVHU6) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [As the Gods Say \(Maniac Ver.\)](https://open.spotify.com/album/02JA34PUXRpX5EOowhGion) | 1:59 | 2022-12-27 | 2023-01-18 |
 | [ASEED](https://open.spotify.com/track/48eYAbFWCsSEs3oKMAlI0h) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [ASEED](https://open.spotify.com/album/7IRJ6a77nAR2jYEg5rDu1K) | 4:49 | 2022-05-28 | 2022-06-09 |
 | [Ashita no Katachi](https://open.spotify.com/track/09pGnc78yB3BXMVfz6kt4J) | [Ayana Taketatsu](https://open.spotify.com/artist/34UBKoTrfN5mZ0qzJtsZSS) | [Ashita no Katachi](https://open.spotify.com/album/145dJ4C6P0UOSzRO6PUCz6) | 4:33 | 2023-01-10 | 2023-03-29 |
-| [Aster wish](https://open.spotify.com/track/2q7TbRk4G9KIbDXuwC67Ya) | [ChamJam](https://open.spotify.com/artist/75GCSXSSPgPLsQ8Orvbden) | [「推しが武道館いってくれたら死ぬ」コンプリートボーカルアルバム「きみのために生きてる」](https://open.spotify.com/album/01AFEu2qyKs1qEz4oVblED) | 5:06 | 2023-05-09 |  |
+| [Aster wish](https://open.spotify.com/track/2q7TbRk4G9KIbDXuwC67Ya) | [ChamJam](https://open.spotify.com/artist/75GCSXSSPgPLsQ8Orvbden) | [「推しが武道館いってくれたら死ぬ」コンプリートボーカルアルバム「きみのために生きてる」](https://open.spotify.com/album/01AFEu2qyKs1qEz4oVblED) | 5:06 | 2023-05-09 | 2023-05-11 |
+| [Aster Wish](https://open.spotify.com/track/4zKg6FKoZWIIHN3kWeFeYV) | [ChamJam](https://open.spotify.com/artist/75GCSXSSPgPLsQ8Orvbden) | [Oshi ga Budokan Ittekuretara Shinu Complete Vocal Album "Kimi no Tame ni Ikiteru"](https://open.spotify.com/album/6JkGdjng41cuI6vUYDl72j) | 5:06 | 2023-05-10 |  |
 | [Awake](https://open.spotify.com/track/1GChdtgRm4YlTPp4JPFDc9) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Awake](https://open.spotify.com/album/1UFJUX3c8hieMx0HQd9JHr) | 5:25 | 2022-07-28 | 2022-09-15 |
 | [Awake](https://open.spotify.com/track/4Ct1sAdB2kL7LuxpCjJzZf) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Awake](https://open.spotify.com/album/6fdrR5Cxdp0zbhLEs4HYYB) | 5:25 | 2022-07-12 | 2022-07-29 |
 | [Awesome!](https://open.spotify.com/track/4nn6DnOS4lRqoMQlhuBJ7g) | [Maneki Kecak](https://open.spotify.com/artist/0LA2C0Cbh1jk7lDtQiTehi) | [Awesome!](https://open.spotify.com/album/42aC4sZesjIbfh8RWu8ymh) | 4:00 | 2022-05-28 | 2022-07-08 |
@@ -76,7 +77,8 @@
 | [Dance In The Game](https://open.spotify.com/track/5deMG1Ko0ycpPVYPwW0yi8) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [Dance In The Game](https://open.spotify.com/album/1a2xSbvHc69UpRhx5MO2Nk) | 3:28 | 2022-07-12 | 2022-10-19 |
 | [DANCE IN THE MAGIC](https://open.spotify.com/track/6BVNrVh84996f4QxwK8VHx) | [kim taehoon](https://open.spotify.com/artist/6qQHzLu9pasNUZGt1cdD1N) | [DANCE IN THE MAGIC](https://open.spotify.com/album/74c8aJPvqMmJW9rgPXifaL) | 2:58 | 2022-08-16 | 2022-09-07 |
 | [DARLING IN THE NIGHT](https://open.spotify.com/track/7AnMPMbtd3L90yKv9cNyrp) | [七陰](https://open.spotify.com/artist/30xGJe0vTq03OuzcOxY8Ln) | [ENDING THEME FROM TV SERIES ”THE EMINENCE IN SHADOW”](https://open.spotify.com/album/0AngWuk5QRZ3e3tKBXEXAH) | 4:09 | 2022-12-13 | 2023-01-13 |
-| [Dash and Go!](https://open.spotify.com/track/2GDl59OtWByTMEuRhqyHJG) | [鈴木愛奈](https://open.spotify.com/artist/5h7WdhT6aUg1SMMklKJHHV) | [Dash and Go!](https://open.spotify.com/album/6k7nWAnJ1Rhai758ptD8wv) | 4:15 | 2023-05-09 |  |
+| [Dash and Go!](https://open.spotify.com/track/0YRzOA8SIKZqBosnlxVeaF) | [鈴木愛奈](https://open.spotify.com/artist/5h7WdhT6aUg1SMMklKJHHV) | [Dash and Go!](https://open.spotify.com/album/3oog2rHOJ6qKLiolJ3wTP8) | 4:15 | 2023-05-10 |  |
+| [Dash and Go!](https://open.spotify.com/track/2GDl59OtWByTMEuRhqyHJG) | [鈴木愛奈](https://open.spotify.com/artist/5h7WdhT6aUg1SMMklKJHHV) | [Dash and Go!](https://open.spotify.com/album/6k7nWAnJ1Rhai758ptD8wv) | 4:15 | 2023-05-09 | 2023-05-11 |
 | [DAWN](https://open.spotify.com/track/35CvDqm8F1aesWtBJfM882) | [ELFENSJóN](https://open.spotify.com/artist/5vomJOkSx5xcnZg09Q8XGt) | [DAWN](https://open.spotify.com/album/4Og8uM6Zdp1G1ImPrXVqkf) | 3:41 | 2022-11-15 | 2023-01-11 |
 | [Dawn](https://open.spotify.com/track/2NmEYIZ24bLuxQGFKXfkPP) | [Sir Vanity](https://open.spotify.com/artist/7HAVj2cCdBRXq6BYf1C6qA) | [midnight sun](https://open.spotify.com/album/5XYyr4HDb5s7f6lGrtooI4) | 3:38 | 2023-03-07 | 2023-03-15 |
 | [dawn of infinity](https://open.spotify.com/track/6XGW8WSZ2ZFmvR2rUg2aAZ) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [dawn of infinity](https://open.spotify.com/album/5uhmrzAYZGmiIxXSClQ9Mk) | 4:53 | 2022-05-28 | 2022-06-10 |
@@ -93,7 +95,7 @@
 | [Dried Up Youthful Fame \- Version:Free](https://open.spotify.com/track/1p4caO5oJVVFjwtpuQep7N) | [OLDCODEX](https://open.spotify.com/artist/7CdQSdjEWtSQ5DQEeaikUq) | [『劇場版 Free!\-the Final Stroke\-』後編オリジナルサウンドトラック「Never Ending Blue」](https://open.spotify.com/album/3dysUUTUGwxrzMJAZ9AHMi) | 3:37 | 2022-05-28 | 2022-06-08 |
 | [eclatante](https://open.spotify.com/track/112WDXECopsAdtn7SsMP0x) | [Momo Asakura](https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy) | [eclatante](https://open.spotify.com/album/5hKIOSEGI4lWBtgh8by38x) | 4:21 | 2022-07-12 | 2022-08-17 |
 | [edge of chainsaw](https://open.spotify.com/track/2fOPkvOguFiHA7CQgZg7N5) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack EP Vol.1 \(Episode 1\-3\)](https://open.spotify.com/album/5SSghC1WJVRm05ohNFZScq) | 3:10 | 2022-10-25 | 2022-11-30 |
-| [ENDLESS LABYRINTH](https://open.spotify.com/track/2jtA0PU9bCmIuUCDxVoNFC) | [EverdreaM](https://open.spotify.com/artist/41NSrch5W6mvr9t0I8oeG5) | [ENDLESS LABYRINTH](https://open.spotify.com/album/2ZD2G7ou2ascCvgLX2DM6H) | 3:20 | 2023-04-11 |  |
+| [ENDLESS LABYRINTH](https://open.spotify.com/track/2jtA0PU9bCmIuUCDxVoNFC) | [EverdreaM](https://open.spotify.com/artist/41NSrch5W6mvr9t0I8oeG5) | [ENDLESS LABYRINTH](https://open.spotify.com/album/2ZD2G7ou2ascCvgLX2DM6H) | 3:20 | 2023-04-11 | 2023-05-11 |
 | [Endless Love](https://open.spotify.com/track/0StYBemv9yt0DmbCPNUnC7) | [蒼井翔太\(CV:蒼井翔太\)](https://open.spotify.com/artist/7y5S6DOjwUD3KxK0pQc99q) | [Endless Love/仲良ピース](https://open.spotify.com/album/329JSn2SToLHrtusx8fN55) | 1:42 | 2022-10-01 | 2022-10-03 |
 | [Endless Love](https://open.spotify.com/track/2xMPg1YIRtvpq8Q55r37TS) | [蒼井翔太\(CV:蒼井翔太\)](https://open.spotify.com/artist/7y5S6DOjwUD3KxK0pQc99q) | [Endless Love / Nakayopiece](https://open.spotify.com/album/2WT3mjH5Rdwc1fO2bdj1kH) | 1:42 | 2022-10-01 | 2022-11-09 |
 | [escalate](https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [escalate](https://open.spotify.com/album/0y2rZTOKv2EvzF0F8Dv7bz) | 4:02 | 2023-01-10 | 2023-04-09 |
@@ -532,6 +534,7 @@
 | [ローリンソウル・ハッピーデイズ](https://open.spotify.com/track/4TuSvwEIqhBHcYxEYkbvyZ) | [Pop Never Dies](https://open.spotify.com/artist/09sIEZ75poO3BQBaQ7EfGm) | [ローリンソウル・ハッピーデイズ](https://open.spotify.com/album/0kG9v9GX4Ibm2UStcFWf8s) | 4:31 | 2022-10-04 | 2022-11-25 |
 | [ワスレガタキ](https://open.spotify.com/track/24PaqdVWQBvwnJmbRsvV5a) | [Huwie Ishizaki](https://open.spotify.com/artist/4NZJF1Qong0IAWBRE2EjTr) | [ワスレガタキ](https://open.spotify.com/album/3soHYtUh1ITKtBAHPPBJwO) | 2:57 | 2023-04-20 |  |
 | [一番光れ!\-ブッチギレ\-](https://open.spotify.com/track/4Lwu5jxAauZYj5JWPjD72P) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz) | [一番光れ!\-ブッチギレ\-](https://open.spotify.com/album/025d3ip2r1hEWZwhTWBeTX) | 4:03 | 2022-07-28 | 2022-10-07 |
+| [七色の絵の具で](https://open.spotify.com/track/6X3JSvWiDKI9zbcOJUKAtp) | [NANALAND](https://open.spotify.com/artist/50LJWpfb50Or2UZo6PgAcx) | [七色の絵の具で / なんじゃこりゃ / コ・ナ・オ・ト・シ / もう一度僕と恋愛してくれませんか?](https://open.spotify.com/album/3pYEx2sh7E0HYGXfdmzoSA) | 4:18 | 2023-05-10 |  |
 | [不完全ドリーマー](https://open.spotify.com/track/3m6dse2AdzEZ83Fa5OqaeD) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [不完全ドリーマー](https://open.spotify.com/album/4Lo5xGczeAbrU4LZP0QiDa) | 4:47 | 2022-05-28 | 2022-06-03 |
 | [云う透り](https://open.spotify.com/track/41NFzRUXoCWR94hVRNqNTV) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [云う透り e.p](https://open.spotify.com/album/5Ng3rikw2a7AWG0bbK9ccN) | 2:51 | 2023-01-19 | 2023-01-21 |
 | [云う透り \- Maniac ver.](https://open.spotify.com/track/3Qe02mMZQuCc1hyr71Nd3l) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [云う透り \(Maniac ver.\)](https://open.spotify.com/album/1D6iNejlXLIaqdzpRrhXle) | 1:59 | 2022-12-27 | 2022-12-29 |

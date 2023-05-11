@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Taylor Moss
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,648 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,758 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 74 | [I Wonder](https://open.spotify.com/track/19Sf2YrUN9ohsdBk8BWJTF) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [I Wonder](https://open.spotify.com/album/1wGuExpsgmoymARmzDdnfy) | 3:26 |
 | 75 | [Spin Me Around](https://open.spotify.com/track/11O5vNAyZk5Ls2NcuALmcj) | [HUTCH](https://open.spotify.com/artist/55qwxSOjW4bmtSEI8INDpQ) | [Spin Me Around](https://open.spotify.com/album/5MIy6bDypXVV3G9OIFH1VK) | 3:04 |
 
-Snapshot ID: `MCxlNDkwY2FjODA0MTEyYTZkN2NhZGRiNzEzODg0MjY1YjhlMDYwYzcx`
+Snapshot ID: `MCw1OTM2YWIyZDEzZmVlZjBmOWNlNjRiM2I0OTI0MjI3ZTM3ZTA5Njli`

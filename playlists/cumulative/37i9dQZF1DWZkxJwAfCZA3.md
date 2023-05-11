@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6TshTCYwh9ySzOO6Jy4Ux2"> Maya Jane Coles</a>' favorite tracks\. Updated regularly\. Curated by Maya Jane Coles Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-98 songs - 8 hr 20 min
+99 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Badlands](https://open.spotify.com/track/4GhHrgsaiQsuMQCHTGa87C) | [Brennan Savage](https://open.spotify.com/artist/6SSmy635N3a4oWmPk85xpK) | [Badlands](https://open.spotify.com/album/1xYRPoZyZL4hCMJfKuViZO) | 1:46 | 2022-07-29 |  |
 | [Badman](https://open.spotify.com/track/5NkbtBoUOsID3oD8EfqUZR) | [Instinct \(UK\)](https://open.spotify.com/artist/2sl9ekjwH9yLHO9JLA7BVH) | [Still Life](https://open.spotify.com/album/1VJqseeHvHzPZInUpzxYoY) | 5:31 | 2021-09-16 |  |
 | [Blooming \- Brame & Hamo Remix](https://open.spotify.com/track/0V0LuHEeOLczTGpPOJEVIO) | [Madben](https://open.spotify.com/artist/1Ky9YENYbC5XUBRGLQUZBY), [Brame & Hamo](https://open.spotify.com/artist/0GH3NHvWddE49Egn2D5aRg) | [Blooming EP](https://open.spotify.com/album/6irUDp1xFlAKOX9UHuEgwq) | 5:41 | 2021-09-16 | 2022-07-30 |
-| [Cake a Blow](https://open.spotify.com/track/266O0ONX1Fl6Hx1DpND3sb) | [Nikes](https://open.spotify.com/artist/6QHax4rcnBPAAfj1n26YNQ), [MoonDoctoR](https://open.spotify.com/artist/5bVR7EKHmtLsjjE7MtCIm7), [FreshtillDef](https://open.spotify.com/artist/503Cv0ES3BtLIqnp95So1N) | [Cake a Blow](https://open.spotify.com/album/1zkQgRC0p1zhenbI2vt6UL) | 3:36 | 2022-07-29 |  |
+| [Cake a Blow](https://open.spotify.com/track/266O0ONX1Fl6Hx1DpND3sb) | [Nikes](https://open.spotify.com/artist/6QHax4rcnBPAAfj1n26YNQ), [MoonDoctoR](https://open.spotify.com/artist/5bVR7EKHmtLsjjE7MtCIm7), [FreshtillDef](https://open.spotify.com/artist/503Cv0ES3BtLIqnp95So1N) | [Cake a Blow](https://open.spotify.com/album/1zkQgRC0p1zhenbI2vt6UL) | 3:36 | 2022-07-29 | 2023-05-11 |
+| [Cake a Blow](https://open.spotify.com/track/5I3ArKM5WGXBEBQRIUayXx) | [Nikes](https://open.spotify.com/artist/6QHax4rcnBPAAfj1n26YNQ), [MoonDoctoR](https://open.spotify.com/artist/5bVR7EKHmtLsjjE7MtCIm7), [FreshtillDef](https://open.spotify.com/artist/503Cv0ES3BtLIqnp95So1N) | [Cake a Blow](https://open.spotify.com/album/1rNggyTs6elu8OIcwOE1hn) | 3:36 | 2022-07-29 |  |
 | [Can’t Stand It](https://open.spotify.com/track/0YgkRyRI9TN0rKqwuWsrHK) | [Art Feynman](https://open.spotify.com/artist/6XlzzwOhKSberPLmwDEmkc) | [Blast Off Through the Wicker](https://open.spotify.com/album/5nkVWnfrsHKXJSfqP9IGjI) | 5:41 | 2022-07-29 |  |
 | [Celesta 33](https://open.spotify.com/track/5LiR4vN7hWQwv7OJKsfbj3) | [Stef Mendesidis](https://open.spotify.com/artist/0V2TzRR7BczSNMxDyCIL1J) | [Klockworks 26](https://open.spotify.com/album/30AmILfevLO4r5k7HAIMP1) | 5:08 | 2021-09-16 | 2022-07-30 |
 | [Channeling Pain](https://open.spotify.com/track/0rdNHSO1pIkIZer895nvOm) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [No Justice No Peace](https://open.spotify.com/album/5oWXPHjjXF9OOZnWHyZOzJ) | 5:50 | 2021-09-16 | 2022-07-30 |

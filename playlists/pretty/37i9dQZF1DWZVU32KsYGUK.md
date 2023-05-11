@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 
 > Restaurant style background music for chill dinner ambiance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,897 likes - 202 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,925 likes - 202 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 | 48 | [Virgil's Keep](https://open.spotify.com/track/0XwIXwm8GgFI3IlSB7eKNE) | [Aglisia](https://open.spotify.com/artist/1wkWfJO2iWD4TL4tCag8Sh) | [Virgil's Keep](https://open.spotify.com/album/0H0intbJCcPJKpvailkeTb) | 3:08 |
 | 49 | [En Lille Drøm](https://open.spotify.com/track/4kKFkTHhUgNz1pAUCmtF7l) | [Auguste Blanc](https://open.spotify.com/artist/5nVYmZntdGuW8hqgifpxMe) | [En Lille Drøm](https://open.spotify.com/album/1qC1Mg1LyYKQVs7cpcniHb) | 2:18 |
 | 50 | [The Trossachs](https://open.spotify.com/track/4AtlOZKRC6JKiO2rPeclbt) | [Kyran Martin](https://open.spotify.com/artist/64MFoNwcBdeE8R9hqpo6cH) | [The Trossachs](https://open.spotify.com/album/5Tjp20cBDI238C82Nvj9wu) | 2:32 |
-| 51 | [Who You Are](https://open.spotify.com/track/2IInKjGL3tht91GL2ZCRsN) | [Levi Meyer](https://open.spotify.com/artist/1xzi3oDoPShzW8iOY8KtEN), [Cozy](https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq), [Cozy Piano](https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6) | [Who You Are](https://open.spotify.com/album/6QASqs23q3trkXhljIUw1f) | 1:44 |
+| 51 | [Who You Are](https://open.spotify.com/track/2IInKjGL3tht91GL2ZCRsN) | [Daniel Zachary](https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO), [Levi Meyer](https://open.spotify.com/artist/1xzi3oDoPShzW8iOY8KtEN), [Cozy](https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq), [Cozy Piano](https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6) | [Who You Are](https://open.spotify.com/album/6QASqs23q3trkXhljIUw1f) | 1:44 |
 | 52 | [Sommarvals](https://open.spotify.com/track/0tL0JB08d5De5zBko245Y8) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Midsommarnatt](https://open.spotify.com/album/3MGHKETrexY8Hl5lgry1uH) | 2:56 |
 | 53 | [Coulant](https://open.spotify.com/track/445KHitEvap0tspDZ3C78V) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Coulant](https://open.spotify.com/album/2yVjc4mMxopxCDyPDBP1Iq) | 2:28 |
 | 54 | [Couleurs d'automne](https://open.spotify.com/track/5lUYGEPjLy035LnTrHTOYN) | [Jeremy Hababou](https://open.spotify.com/artist/3S7Lr7NOUxWimVwXrW8xT4) | [Couleurs d'automne](https://open.spotify.com/album/04clNEuo1m1P8LQihqCYgY) | 4:15 |
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 | 201 | [La consolation](https://open.spotify.com/track/1rmTdklw8wgOStLgI4B25Q) | [Gaétan Buisson](https://open.spotify.com/artist/6DGaGOFxqqKATh3iRZ1MKs) | [La consolation](https://open.spotify.com/album/7JdF9ISUD6AReDwZhvJ4K0) | 2:45 |
 | 202 | [Shared Shelter](https://open.spotify.com/track/2gtgt4HljfLVdXRMPG9QiA) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Shared Shelter](https://open.spotify.com/album/0s1hXlZf3ioJGkBzNKuQpQ) | 2:41 |
 
-Snapshot ID: `MCxhNWVkNDVmZjNjNzI2YTRkM2QxY2NlMzhmNDU1NTVkMjJlNmVkM2I3`
+Snapshot ID: `MCw5N2E1ODg5NzA5MWFlNzM3ZTljNzNiMzkxOTJiNWZlZjg3MzkxYmQ3`

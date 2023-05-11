@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:MIRANI\(미란이\)\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,055 likes - 130 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,659 likes - 130 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 8 | [in my room \(feat\. pH\-1, Marv\) \(prod\. moocean\)](https://open.spotify.com/track/3x3STzbhNeCivtioNh2k2I) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Marv](https://open.spotify.com/artist/1V2ep7618bYgCcTVyDKPcW) | [love is](https://open.spotify.com/album/5uivJupx1ZmlrLMIBVbbYy) | 3:57 |
 | 9 | [RINDAMAN \(Feat\. ZICO\)](https://open.spotify.com/track/5zoGBq6N98J1NnLeB2OPPy) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [\[ Rorschach \] Part 1](https://open.spotify.com/album/4oJZ6lxEkCpw8ESH9NrCdZ) | 2:16 |
 | 10 | [Haegeum](https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-DAY](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) | 2:48 |
-| 11 | [Loungin](https://open.spotify.com/track/0JnvHhphqeXozyBhaOPQFI) | [Chillin Homie](https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM), [ABLE](https://open.spotify.com/artist/0L8Yoz8yEChBhBLAkwkTcw), [iiso](https://open.spotify.com/artist/0oveUySQ3sjC5GVG7IIQ4e), [JINBO](https://open.spotify.com/artist/4SJSnnKMzPXeQ8Mtj3TViL), [ROH YUNHA](https://open.spotify.com/artist/3dLZdTWMaokxt4y9sDzEWq), [DAMINI](https://open.spotify.com/artist/1yNIinWsNuQUyXJsqnmaLh), [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq) | [Loungin](https://open.spotify.com/album/5pzc8cpIAZ0tm03mt7Mlp8) | 3:15 |
+| 11 | [Loungin](https://open.spotify.com/track/0JnvHhphqeXozyBhaOPQFI) | [Chillin Homie](https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM), [ABLE](https://open.spotify.com/artist/6Ay0v0mmMXhAx0qc4UA6hu), [iiso](https://open.spotify.com/artist/0oveUySQ3sjC5GVG7IIQ4e), [JINBO](https://open.spotify.com/artist/4SJSnnKMzPXeQ8Mtj3TViL), [ROH YUNHA](https://open.spotify.com/artist/3dLZdTWMaokxt4y9sDzEWq), [DAMINI](https://open.spotify.com/artist/1yNIinWsNuQUyXJsqnmaLh), [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq) | [Loungin](https://open.spotify.com/album/5pzc8cpIAZ0tm03mt7Mlp8) | 3:15 |
 | 12 | [WONDER](https://open.spotify.com/track/3nW7zEVZamOeAYnWp5LqVh) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [ROSE](https://open.spotify.com/album/1eAn8kJlH243L4OXipRqdr) | 2:53 |
 | 13 | [Buck](https://open.spotify.com/track/1BCONvj86ada7Wbr7v0irk) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [DIFF](https://open.spotify.com/album/6mU3As6giMDJU8kV6Hx65B) | 2:04 |
 | 14 | [Smoke \(feat\. Polodared\)](https://open.spotify.com/track/058ZQqNEtrQ4Wp9IbgcFWh) | [YLN Foreign](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl), [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd) | [Born Broke Die Rich](https://open.spotify.com/album/1t9dVL3qkg7sKZSeXzbc4y) | 3:34 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 129 | [Complex \(Feat\. ZICO\)](https://open.spotify.com/track/07trPhWMgiagFnSOlmpzl0) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [FIVE SENSES](https://open.spotify.com/album/1RZ5UZ7r76wiOjDEZANzOP) | 3:15 |
 | 130 | [That's Why I Can't Talk About Love \(Feat\. Woo\)](https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [That's Why I Can't Talk About Love](https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG) | 3:22 |
 
-Snapshot ID: `MCxiYWQyMWViM2QwNzIyODlhMzA1MDI3NzkwZTVlNmNhOTQwZjFjYmZm`
+Snapshot ID: `MCw2NzZmMmY0YmQ3NTEwMTdlOGIxZWE0NWY5Zjc1ODk0ZTdmZGUzZjkw`

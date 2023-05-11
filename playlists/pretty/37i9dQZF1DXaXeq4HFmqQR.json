@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Catana. \nDales play, dales power.",
-  "num_followers": 11858,
+  "num_followers": 11857,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODk0ODk5OTlkZTI4N2Y2ZjRhODk4NjcwYWZkOGQ3NDkyNzk5MTZk",
+  "snapshot_id": "MCwyMDExMjdkZWFmYWRjOGJhNjA3MDVmNzM0ZmVhNzlkNjBhM2QxOWM5",
   "tracks": [
     {
       "added_at": "2023-05-03 03:00:00",
@@ -395,22 +395,18 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "Cr\u00f3nicas de un cora roto",
-        "url": "https://open.spotify.com/album/0FfnQ5pL5KLaJIkZOkzfV2"
+        "name": "<3",
+        "url": "https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6"
       },
       "artists": [
         {
-          "name": "Nihla",
-          "url": "https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf"
-        },
-        {
-          "name": "Nass G",
-          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
+          "name": "J18",
+          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
         }
       ],
-      "duration_ms": 212088,
-      "name": "Cm no me va a doler?",
-      "url": "https://open.spotify.com/track/6qM4WikwmfjWPDGwfA83tX"
+      "duration_ms": 142106,
+      "name": "<3",
+      "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -431,18 +427,22 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "<3",
-        "url": "https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6"
+        "name": "Cr\u00f3nicas de un cora roto",
+        "url": "https://open.spotify.com/album/0FfnQ5pL5KLaJIkZOkzfV2"
       },
       "artists": [
         {
-          "name": "J18",
-          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
+          "name": "Nihla",
+          "url": "https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf"
+        },
+        {
+          "name": "Nass G",
+          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
         }
       ],
-      "duration_ms": 142106,
-      "name": "<3",
-      "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
+      "duration_ms": 212088,
+      "name": "Cm no me va a doler?",
+      "url": "https://open.spotify.com/track/6qM4WikwmfjWPDGwfA83tX"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -567,26 +567,6 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "XULA",
-        "url": "https://open.spotify.com/album/08isqualO1ZcEKPVWl2e4L"
-      },
-      "artists": [
-        {
-          "name": "Nihla",
-          "url": "https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf"
-        },
-        {
-          "name": "Saito ape",
-          "url": "https://open.spotify.com/artist/2MPqvA1H0bdSKq7hohfxL1"
-        }
-      ],
-      "duration_ms": 137140,
-      "name": "XULA",
-      "url": "https://open.spotify.com/track/7pONy7BDKUf9RnGwj541Lq"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
         "name": "Se\u00f1orita",
         "url": "https://open.spotify.com/album/7t50mP3PTQZkO1O8BeqV4z"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 227769,
       "name": "Mi Cula (Remix)",
       "url": "https://open.spotify.com/track/4mRfyjonZZuRy3iTxKHazl"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
+        "name": "XULA",
+        "url": "https://open.spotify.com/album/08isqualO1ZcEKPVWl2e4L"
+      },
+      "artists": [
+        {
+          "name": "Nihla",
+          "url": "https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf"
+        },
+        {
+          "name": "Saito ape",
+          "url": "https://open.spotify.com/artist/2MPqvA1H0bdSKq7hohfxL1"
+        }
+      ],
+      "duration_ms": 137140,
+      "name": "XULA",
+      "url": "https://open.spotify.com/track/7pONy7BDKUf9RnGwj541Lq"
     },
     {
       "added_at": "2023-05-03 03:00:00",

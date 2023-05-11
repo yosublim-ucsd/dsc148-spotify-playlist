@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/315bvK1m77RNynw5ycETfA">sad alex</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 883 likes - 77 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 889 likes - 77 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 27 | [No Lo Sé](https://open.spotify.com/track/2XcefXbBEpVDyPrPXDBhpc) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Arkano](https://open.spotify.com/artist/5ACyfaynUH9FpBaR8uZprQ) | [La Mexicana](https://open.spotify.com/album/3jvseqHtHdkQXMWDjsoT4C) | 2:20 |
 | 28 | [Red Sangria](https://open.spotify.com/track/0rvBpvSy3on3VR1oDJ46sG) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Red Sangria](https://open.spotify.com/album/3bNtHQhVXWiBq2lX07D7m1) | 3:05 |
 | 29 | [Diamonds](https://open.spotify.com/track/1wfUGpVX8ufoTJpKOVctFt) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Lord Quest](https://open.spotify.com/artist/1ckwRTxh0ESM12gYEUHf89), [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [The Kelly Rowland Edition](https://open.spotify.com/album/0yVRzvvD1Wes1p4ffeZhhC) | 3:11 |
-| 30 | [We Never Know Anymore](https://open.spotify.com/track/1dEJ16zJ0ljxRWbQIMdGCs) | [Hamster](https://open.spotify.com/artist/0XfWtCWAgbbYP899ssoZSo), [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [White Lie](https://open.spotify.com/album/0zGXhyq7D7vdrnC9qOIbe0) | 3:24 |
+| 30 | [We Never Know Anymore](https://open.spotify.com/track/69k8DIplCut6DkdXwywYGN) | [Hamster](https://open.spotify.com/artist/0XfWtCWAgbbYP899ssoZSo), [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [White Lie](https://open.spotify.com/album/5K308e4DDvkBz2q0AZeujZ) | 3:24 |
 | 31 | [rearview](https://open.spotify.com/track/2MSAwuM5wRtyOlKsTOl6AY) | [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [rearview](https://open.spotify.com/album/3m4yOqyElVb8RkJeDyciz8) | 3:37 |
 | 32 | [dear whatever](https://open.spotify.com/track/4kDVrzz871IGFeYwdweUYJ) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [dear whatever](https://open.spotify.com/album/5lxeZj31ST56LJXKMWQpvF) | 2:29 |
 | 33 | [Top of My List](https://open.spotify.com/track/4SxUmLltcw9E4GX3LJUTZf) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Cider & Hennessy](https://open.spotify.com/album/7jYoJlj4s36tJTcVtdfqjC) | 2:22 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 76 | [The Heart Always Wins](https://open.spotify.com/track/3bNXPv2uIbtc9x8YnGmjiY) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:32 |
 | 77 | [It's All Good](https://open.spotify.com/track/7k4IoEjEyhWgITb1JoF3mO) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:15 |
 
-Snapshot ID: `MjgwNjEzNTUsMDAwMDAwMDAzNzE5ZDQ1YjA4ZjlkN2ExNjUwYzFmZWZlZDgzNDU0YQ==`
+Snapshot ID: `MjgwNjI3OTUsMDAwMDAwMDA1NDZiYjk2OTJjY2YxNDAxZmVlN2IxMGEyYWRiMTExNw==`

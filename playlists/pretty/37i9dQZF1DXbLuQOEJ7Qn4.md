@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLuQOEJ7Qn4.md) - [plain]
 
 > when bass music was life
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,395 likes - 57 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,411 likes - 57 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLuQOEJ7Qn4.md) - [plain]
 | 17 | [Anthemic](https://open.spotify.com/track/3wuXZJiYwyp5LiKK70pYru) | [Magnetic Man](https://open.spotify.com/artist/40ttEBZPhAHbXH6aUg4GkL) | [Magnetic Man](https://open.spotify.com/album/1xlyG4VH7qEx1tNVXDtcmr) | 6:08 |
 | 18 | [Eastern Jam](https://open.spotify.com/track/4WygV70LzaCA8FgOcpN1w4) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [More Than Alot](https://open.spotify.com/album/3ilT1S2FeNalS9JXwzlmx9) | 3:56 |
 | 19 | [Rock It](https://open.spotify.com/track/69PmbaybVYoxErPtJ5v7Th) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Sub Focus](https://open.spotify.com/album/1puaRzEhhLvXP17jUEGWb3) | 4:35 |
-| 20 | [Tarantula \- Original Mix](https://open.spotify.com/track/0G7qyvqwjfMdHZn4RwiAdf) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC), [Tenor Fly](https://open.spotify.com/artist/37uswdRBtJ0qyXas292Uo0), [MC Spyda](https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl) | [Hold Your Colour](https://open.spotify.com/album/5wHNla8BT8KcqMhAbvqoPU) | 5:31 |
+| 20 | [Tarantula \- Original Mix](https://open.spotify.com/track/0G7qyvqwjfMdHZn4RwiAdf) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [Tenor Fly](https://open.spotify.com/artist/37uswdRBtJ0qyXas292Uo0), [MC Spyda](https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl), [Fresh](https://open.spotify.com/artist/5OrqQQfSZjmgoFMhMdhffs) | [Hold Your Colour](https://open.spotify.com/album/5wHNla8BT8KcqMhAbvqoPU) | 5:31 |
 | 21 | [Smash TV](https://open.spotify.com/track/5jkcQdiMVvSpEzkyjjVQIm) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [More Than Alot](https://open.spotify.com/album/3ilT1S2FeNalS9JXwzlmx9) | 3:39 |
 | 22 | [Next Hype \- Vocal](https://open.spotify.com/track/545wdZdz8ZtOxoW2qXL7sl) | [Tempa T](https://open.spotify.com/artist/5itdSz26wZC57bo3dhQTPq) | [Next Hype](https://open.spotify.com/album/6ByhCiFhYPN67Mc1c5I0hA) | 3:59 |
 | 23 | [Blinded By the Lights \- Nero Remix](https://open.spotify.com/track/5tauvPEvGX5Zu3hWtakFGs) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Whistle: 00's Electro Pop](https://open.spotify.com/album/1PL3vo4vKeE75Ho50RoOR1) | 6:45 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLuQOEJ7Qn4.md) - [plain]
 | 56 | [Source 16](https://open.spotify.com/track/73qzJNohM4C0h02kWMe21B) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Source 16](https://open.spotify.com/album/5rvNcDCoS3esebzx8crgZ6) | 3:20 |
 | 57 | [Bopha \(feat\. DJ Maphorisa, Madumane & Young Stunna\)](https://open.spotify.com/track/3ODhKM44KPGGaHSXLCgMuk) | [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Felo Le Tee](https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd), [Young Stunna](https://open.spotify.com/artist/7C9Em0Ta3Fw470hEF0LVrI) | [Bopha \(feat\. DJ Maphorisa, Madumane & Young Stunna\)](https://open.spotify.com/album/6lm0XXJ7My7n0j8tMiWogR) | 8:00 |
 
-Snapshot ID: `MCw1MDQ3NjQ4ZWQ1NzQzNThjZWIyNjU2ZTk4ZWUyOGJiZmYyNzhmMTdh`
+Snapshot ID: `MCwxMTE0Yjg2YjY5ZmQyNjg0OWYzYTEyYjMyOGJlNDI0ZWJkMzJiNzhi`

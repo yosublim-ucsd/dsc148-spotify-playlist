@@ -827,6 +827,24 @@
     },
     {
       "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/4jdTsAlGWNCJ7xyTUPlFZe"
+      },
+      "artists": [
+        {
+          "name": "Geo22",
+          "url": "https://open.spotify.com/artist/1BF2tnFiO15m9Y1s0ph0gr"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138546,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/7wzMbipfjq1bv39UZYOQQ9"
+    },
+    {
+      "album": {
         "name": "Make It Thru",
         "url": "https://open.spotify.com/album/4jlRkCwvRARTe4ua3T1Lzb"
       },
@@ -940,7 +958,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 327555,
       "name": "Neo Eros",
       "url": "https://open.spotify.com/track/1OWIJ8oVoeoKto8vNKQs5R"
@@ -1173,6 +1191,24 @@
     },
     {
       "album": {
+        "name": "Push Up (Main Edit)",
+        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
+      },
+      "artists": [
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139300,
+      "name": "Push Up - Main Edit",
+      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
+    },
+    {
+      "album": {
         "name": "Push Up EP",
         "url": "https://open.spotify.com/album/78XpOkI7hXvDvO0prSJJ4b"
       },
@@ -1202,7 +1238,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 240059,
       "name": "Push Up - Original Mix",
       "url": "https://open.spotify.com/track/43OMUa5jouGCZEz9k9vooo"
@@ -1268,6 +1304,28 @@
       "duration_ms": 250145,
       "name": "Romantika",
       "url": "https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD"
+    },
+    {
+      "album": {
+        "name": "Schreien! (Turbo Remix)",
+        "url": "https://open.spotify.com/album/39nZLctQpTKoFBNZ8gHjsE"
+      },
+      "artists": [
+        {
+          "name": "Paula Carolina",
+          "url": "https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ"
+        },
+        {
+          "name": "Marti Fischer",
+          "url": "https://open.spotify.com/artist/5kcg3AWB22uwFWJWhpVfBV"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165293,
+      "name": "Schreien! - Turbo Remix",
+      "url": "https://open.spotify.com/track/4tQxA4wt4knZ19uqRka3u6"
     },
     {
       "album": {
@@ -1522,7 +1580,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 189729,
       "name": "Walking Alone",
       "url": "https://open.spotify.com/track/1YHcwgrbsYdyyAFYiW8MNN"

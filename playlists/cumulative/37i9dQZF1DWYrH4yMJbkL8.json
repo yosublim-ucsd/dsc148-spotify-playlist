@@ -3392,10 +3392,28 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 286970,
       "name": "Mehcinut",
       "url": "https://open.spotify.com/track/0VSAgC2eK4eoOVZMaYeITN"
+    },
+    {
+      "album": {
+        "name": "Wolastoqiyik Lintuwakonawa",
+        "url": "https://open.spotify.com/album/3sFjEilk5pUJ7JgjHP6Anr"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Dutcher",
+          "url": "https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286970,
+      "name": "Mehcinut",
+      "url": "https://open.spotify.com/track/4v3z9gDeThHmDKzdO6SwoF"
     },
     {
       "album": {

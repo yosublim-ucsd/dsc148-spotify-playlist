@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-1,128 songs - 2 day 13 hr 30 min
+1,129 songs - 2 day 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Can I Get It](https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:30 | 2021-11-21 | 2021-12-04 |
 | [Candy Necklace \(feat\. Jon Batiste\)](https://open.spotify.com/track/3MlEryrxCKZkcfX18ZLX96) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 5:14 | 2023-03-25 | 2023-03-27 |
 | [Carry Through](https://open.spotify.com/track/6PpVmrny58xyn7DZlxlFdn) | [Jacqueline Loor](https://open.spotify.com/artist/6JFE2Z9iI5yFLoUsIgDLMg), [Sunflower Summit](https://open.spotify.com/artist/3osTxq6p6tWR1Jek9Q3bzd) | [Carry Through](https://open.spotify.com/album/4fajHH7Bg2wvPm6jKLSM6z) | 3:42 | 2021-04-07 | 2021-04-08 |
+| [Cha Cha Cha](https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Cha Cha Cha](https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6) | 2:55 | 2023-05-10 |  |
 | [Champagne Poetry](https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:36 | 2021-09-05 | 2021-09-18 |
 | [Change My Clothes](https://open.spotify.com/track/4mnjwMLCk3JZkhkok3u5g1) | [Dream](https://open.spotify.com/artist/6LArUyIoMiHmDvvOAsE2cd), [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Change My Clothes](https://open.spotify.com/album/2Y5WftWX9ZA7a01NYaBX4L) | 3:06 | 2021-08-22 | 2021-08-23 |
 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-04-16 | 2023-04-20 |
@@ -1115,7 +1116,7 @@
 | [Your Love \(9PM\)](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Your Love \(9PM\)](https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b) | 2:30 | 2021-03-27\* | 2021-08-31 |
 | [Your Power](https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Your Power](https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3) | 4:05 | 2021-05-03 | 2021-05-25 |
 | [ZITTI E BUONI](https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:14 | 2021-05-20 | 2022-07-06 |
-| [Į Tave](https://open.spotify.com/track/4EbZM1P99mTOdt9kqaMRcb) | [Monika LIU](https://open.spotify.com/artist/2YLwIrzSnsbpBMKWzwu6JD) | [KODĖL TU ČIA?](https://open.spotify.com/album/3AG71CU4i34I2Mj3xsKqvM) | 5:18 | 2023-05-09 |  |
+| [Į Tave](https://open.spotify.com/track/4EbZM1P99mTOdt9kqaMRcb) | [Monika LIU](https://open.spotify.com/artist/2YLwIrzSnsbpBMKWzwu6JD) | [KODĖL TU ČIA?](https://open.spotify.com/album/3AG71CU4i34I2Mj3xsKqvM) | 5:18 | 2023-05-09 | 2023-05-11 |
 | [Šampanas \(bul bul bul\)](https://open.spotify.com/track/6fd5kDvxREHQVUOtreViXO) | [Monika LIU](https://open.spotify.com/artist/2YLwIrzSnsbpBMKWzwu6JD) | [Šampanas \(bul bul bul\)](https://open.spotify.com/album/7u41qXp5altFUhrPxqFfS3) | 3:39 | 2022-12-09 | 2022-12-14 |
 | [Šauksmas](https://open.spotify.com/track/6nuXB67lyPip9QahGEWPV5) | [Gabrielius Vagelis](https://open.spotify.com/artist/0dJJpF4ULA7xCU5xwHbCB3) | [Šauksmas](https://open.spotify.com/album/4wzuYeXrI7Z2t3CThd0eiU) | 3:00 | 2023-01-23 | 2023-01-29 |
 | [ŠIRDELE](https://open.spotify.com/track/3Ts1ofcPKOFNlLlm31Qs6R) | [Gabrielė Vilkickytė](https://open.spotify.com/artist/5az2A2xwHne4d9q8kVcgMy) | [VILKO ŠVELNUMAS](https://open.spotify.com/album/7mnMiGdr3rZQ1wDlPfXOzd) | 4:38 | 2021-05-19 | 2021-05-21 |

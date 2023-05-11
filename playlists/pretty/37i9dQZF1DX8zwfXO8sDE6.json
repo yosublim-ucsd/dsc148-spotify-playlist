@@ -1,12 +1,12 @@
 {
   "description": "Discover the amazing world of Japanese City Pop from the \u201870s./ \u30cb\u30e5\u30fc\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3068\u3082\u4e00\u7dda\u3092\u753b\u3059\u3001\u90fd\u4f1a\u7684\u3067\u6d17\u7df4\u3055\u308c\u305f\u97f3\u697d\uff1d\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7 \u306e\u8a95\u751f\u3002\u9ece\u660e\u671f\u306e\u8f1d\u304d\u306f\u6c38\u9060\u306b\u3002",
-  "num_followers": 43138,
+  "num_followers": 43199,
   "original_name": "City Pop '70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGViOTFjZDYwZDZhY2JiMjQ0ODVkODk5ZTQwNjVmZTZkNDM5OTlj",
+  "snapshot_id": "MCw0OWNmNTIwN2Y1MTMxYmNmNjYxNWIzYzJhNmMzNmVjMGRlZmEyMzRh",
   "tracks": [
     {
       "added_at": "2022-11-16 00:55:45",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
+        "name": "City Lights by the Moonlight",
+        "url": "https://open.spotify.com/album/3T28jNrwSvbhytK59y3cAg"
+      },
+      "artists": [
+        {
+          "name": "\u60e3\u9818 \u667a\u5b50",
+          "url": "https://open.spotify.com/artist/69L8hpJ0Tvo0jGRCbX3PNb"
+        }
+      ],
+      "duration_ms": 193693,
+      "name": "I SAY WHO",
+      "url": "https://open.spotify.com/track/1Ehd4X1eWAm2IP43xqPV2x"
+    },
+    {
+      "added_at": "2022-11-16 00:55:45",
+      "album": {
         "name": "\u30c7\u30ad\u30b7\u30fc\u30fb\u30d5\u30a3\u30fc\u30d0\u30fc",
         "url": "https://open.spotify.com/album/5ZSwD45BH7WFK2wmUwvdur"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 241733,
       "name": "\u661f\u304f\u3059\u3099",
       "url": "https://open.spotify.com/track/61hZsSHXCRgjhxBl6bKL8Q"
-    },
-    {
-      "added_at": "2022-11-16 00:55:45",
-      "album": {
-        "name": "City Lights by the Moonlight",
-        "url": "https://open.spotify.com/album/3T28jNrwSvbhytK59y3cAg"
-      },
-      "artists": [
-        {
-          "name": "\u60e3\u9818 \u667a\u5b50",
-          "url": "https://open.spotify.com/artist/69L8hpJ0Tvo0jGRCbX3PNb"
-        }
-      ],
-      "duration_ms": 193693,
-      "name": "I SAY WHO",
-      "url": "https://open.spotify.com/track/1Ehd4X1eWAm2IP43xqPV2x"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -487,18 +487,18 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "\u30c7\u30c3\u30c9\u30ea\u30a4\u30fb\u30c9\u30e9\u30a4\u30d6 (40\u5468\u5e74\u8a18\u5ff5\u30c7\u30e9\u30c3\u30af\u30b9\u30fb\u30a8\u30c7\u30a3\u30b7\u30e7\u30f3)",
-        "url": "https://open.spotify.com/album/6Ws4QGER5BggUtDGS7q9SZ"
+        "name": "Funny Walkin' (2017 \u30ea\u30de\u30b9\u30bf\u30fc)",
+        "url": "https://open.spotify.com/album/1Kzw7ST2rFIQ2CRwvPINkV"
       },
       "artists": [
         {
-          "name": "Ginji Ito",
-          "url": "https://open.spotify.com/artist/5bYp8QsjOW6NAkb9FQCjjY"
+          "name": "Nanako Sato",
+          "url": "https://open.spotify.com/artist/3X1YtMHFPYXcwtGo4VKT33"
         }
       ],
-      "duration_ms": 354746,
-      "name": "\u3053\u306c\u304b\u96e8",
-      "url": "https://open.spotify.com/track/17eMW7XloVIo9Z5z4h02I0"
+      "duration_ms": 194853,
+      "name": "\u30b5\u30d6\u30bf\u30ec\u30cb\u30a2\u30f3\u4e8c\u4eba\u307c\u3063\u3061 - 2017 \u30ea\u30de\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/0Bm8KQPVBA4neqiy5mqEiw"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -519,34 +519,18 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "Funny Walkin' (2017 \u30ea\u30de\u30b9\u30bf\u30fc)",
-        "url": "https://open.spotify.com/album/1Kzw7ST2rFIQ2CRwvPINkV"
+        "name": "\u30c7\u30c3\u30c9\u30ea\u30a4\u30fb\u30c9\u30e9\u30a4\u30d6 (40\u5468\u5e74\u8a18\u5ff5\u30c7\u30e9\u30c3\u30af\u30b9\u30fb\u30a8\u30c7\u30a3\u30b7\u30e7\u30f3)",
+        "url": "https://open.spotify.com/album/6Ws4QGER5BggUtDGS7q9SZ"
       },
       "artists": [
         {
-          "name": "Nanako Sato",
-          "url": "https://open.spotify.com/artist/3X1YtMHFPYXcwtGo4VKT33"
+          "name": "Ginji Ito",
+          "url": "https://open.spotify.com/artist/5bYp8QsjOW6NAkb9FQCjjY"
         }
       ],
-      "duration_ms": 194853,
-      "name": "\u30b5\u30d6\u30bf\u30ec\u30cb\u30a2\u30f3\u4e8c\u4eba\u307c\u3063\u3061 - 2017 \u30ea\u30de\u30b9\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/0Bm8KQPVBA4neqiy5mqEiw"
-    },
-    {
-      "added_at": "2022-11-16 00:55:45",
-      "album": {
-        "name": "\u30aa\u30f3\u30fb\u30b6\u30fb\u30e0\u30fc\u30f4",
-        "url": "https://open.spotify.com/album/4AZTW2PtZazbRpUtt1owwz"
-      },
-      "artists": [
-        {
-          "name": "Jun Fukamachi",
-          "url": "https://open.spotify.com/artist/488oRgvtKkBufay6VMpULR"
-        }
-      ],
-      "duration_ms": 299160,
-      "name": "LETTER TO NEW YORK",
-      "url": "https://open.spotify.com/track/7zCIXu0Ekri6cVDEzbFysM"
+      "duration_ms": 354746,
+      "name": "\u3053\u306c\u304b\u96e8",
+      "url": "https://open.spotify.com/track/17eMW7XloVIo9Z5z4h02I0"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -567,6 +551,22 @@
       "duration_ms": 199120,
       "name": "\u79c1\u81ea\u8eab",
       "url": "https://open.spotify.com/track/7iyfmOUN6wBobBPXVRdWvR"
+    },
+    {
+      "added_at": "2022-11-16 00:55:45",
+      "album": {
+        "name": "\u30aa\u30f3\u30fb\u30b6\u30fb\u30e0\u30fc\u30f4",
+        "url": "https://open.spotify.com/album/4AZTW2PtZazbRpUtt1owwz"
+      },
+      "artists": [
+        {
+          "name": "Jun Fukamachi",
+          "url": "https://open.spotify.com/artist/488oRgvtKkBufay6VMpULR"
+        }
+      ],
+      "duration_ms": 299160,
+      "name": "LETTER TO NEW YORK",
+      "url": "https://open.spotify.com/track/7zCIXu0Ekri6cVDEzbFysM"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "Feel Happy 2007 ~Debut 30th Anniversary~",
-        "url": "https://open.spotify.com/album/6bGCv2abpf9hLDrHrZ7wzB"
-      },
-      "artists": [
-        {
-          "name": "Shinji Harada",
-          "url": "https://open.spotify.com/artist/5Lo7ke2VQqfAyNhWGBg2t1"
-        }
-      ],
-      "duration_ms": 227733,
-      "name": "\u3066\u3043\u30fc\u3093\u305a \u3076\u308b\u30fc\u3059",
-      "url": "https://open.spotify.com/track/2yz2pO5xGSfOetZUX8y6u7"
-    },
-    {
-      "added_at": "2022-11-16 00:55:45",
-      "album": {
         "name": "SUMMER KNOWS",
         "url": "https://open.spotify.com/album/2gjQ3FxHHiYyjzn634Si1c"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 281680,
       "name": "\u30d4\u30f3\u30af\u30fb\u30b7\u30e3\u30c9\u30a6",
       "url": "https://open.spotify.com/track/1lnWb1e7XWFBnwiKmBq9ZS"
+    },
+    {
+      "added_at": "2022-11-16 00:55:45",
+      "album": {
+        "name": "Feel Happy 2007 ~Debut 30th Anniversary~",
+        "url": "https://open.spotify.com/album/6bGCv2abpf9hLDrHrZ7wzB"
+      },
+      "artists": [
+        {
+          "name": "Shinji Harada",
+          "url": "https://open.spotify.com/artist/5Lo7ke2VQqfAyNhWGBg2t1"
+        }
+      ],
+      "duration_ms": 227733,
+      "name": "\u3066\u3043\u30fc\u3093\u305a \u3076\u308b\u30fc\u3059",
+      "url": "https://open.spotify.com/track/2yz2pO5xGSfOetZUX8y6u7"
     },
     {
       "added_at": "2022-11-16 00:55:45",

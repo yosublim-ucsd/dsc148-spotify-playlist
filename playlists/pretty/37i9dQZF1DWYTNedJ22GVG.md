@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 
 > Tinsel! Lights! Yelling! These family\-friendly Christmas songs will get the party started.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,164 likes - 111 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,160 likes - 111 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,11 +113,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 | 103 | [Because It's Christmas](https://open.spotify.com/track/1qGnUL1QqUFMIIG2tVf1Qh) | [Daniel Tashian](https://open.spotify.com/artist/4RldQHPp4l6UV78DAvf5qz) | [A Tashian Family Christmas](https://open.spotify.com/album/31UM7flh32SoxhfEW7hy95) | 1:51 |
 | 104 | [What Christmas Means To Me](https://open.spotify.com/track/5MPd7GzOkGRoFBaSqmqiSL) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Snowed In](https://open.spotify.com/album/564uqr2elEUQySk2eKFp6V) | 3:43 |
 | 105 | [Seasons Of Love](https://open.spotify.com/track/7E9Z2RvE21eMCPh76ihLZ1) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [We Need A Little Christmas](https://open.spotify.com/album/090o9kMZEhvkB5Vw211meV) | 2:51 |
-| 106 | [Silent Night](https://open.spotify.com/track/7qCZOApel8eCUQXICqfxL8) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [A Walk Off the Earth Christmas](https://open.spotify.com/album/4mZeWbE7FbYYkoFSlLY1tM) | 1:19 |
+| 106 | [Silent Night](https://open.spotify.com/track/7qCZOApel8eCUQXICqfxL8) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [A Walk Off the Earth Christmas](https://open.spotify.com/album/4mZeWbE7FbYYkoFSlLY1tM) | 1:19 |
 | 107 | [Carol of the Bells](https://open.spotify.com/track/1JkD85e8leiLWPwW4b0qWa) | [The Disney Holiday Chorus](https://open.spotify.com/artist/4ag7CRSzcTZQX2Bter3fLR) | [Disney's Family Christmas Collection](https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg) | 1:33 |
 | 108 | [We Wish You a Merry Christmas](https://open.spotify.com/track/14qzig8cvFMvUVeCxbaO38) | [The Disney Holiday Chorus](https://open.spotify.com/artist/4ag7CRSzcTZQX2Bter3fLR) | [Disney's Family Christmas Collection](https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg) | 1:44 |
 | 109 | [Do You Hear What I Hear?](https://open.spotify.com/track/2QEJNfOrRjC4O1msrVXJo4) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Best Of Pentatonix Christmas](https://open.spotify.com/album/1ohdh4vzVUXhtaE04cHvle) | 3:33 |
 | 110 | [Holiday](https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 4:08 |
 | 111 | [Snow In California](https://open.spotify.com/track/6Uc4EHr3ktYmLfLDY7LifJ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas Kisses](https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr) | 3:26 |
 
-Snapshot ID: `MCw4YzU5YjJmZGRkZjlmYzExYmVjNzkwNDEwNjI0NWQ0Y2FmNDg4ZTI1`
+Snapshot ID: `MCwzMTcwYWE4YTVmMDJiZDZiODFiNjY2OWI2NTA0NDYzOWJiY2QyMDY2`

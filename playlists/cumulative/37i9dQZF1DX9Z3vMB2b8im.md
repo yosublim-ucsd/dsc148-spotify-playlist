@@ -4,7 +4,7 @@
 
 > Songs so beautiful, they'll stop you in your tracks
 
-178 songs - 10 hr 38 min
+179 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Bardennoch](https://open.spotify.com/track/1YQjWqGwJmyscFhUNxsC33) | [VanIves](https://open.spotify.com/artist/6KFpXJms1gsfFAayMjj7Tj) | [Thanks](https://open.spotify.com/album/6nBTYX7rMWqpBBZnuK1Odh) | 3:51 | 2022-10-14 |  |
 | [Becoming](https://open.spotify.com/track/5B5Zjcrl4IOb2RwnUx0Qt2) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Becoming](https://open.spotify.com/album/1QipggjYx6zUGKciuPT8FF) | 3:34 | 2022-11-25 | 2022-12-04 |
 | [Becoming](https://open.spotify.com/track/0G7TIPBaYi0pgCsfRE5gFf) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Becoming](https://open.spotify.com/album/0hKim7XEJ4yPC65smJjVkM) | 3:34 | 2022-11-25 | 2023-03-04 |
-| [Becoming](https://open.spotify.com/track/28XUeiaQ7l7VbZvLtuQN3g) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Becoming](https://open.spotify.com/album/1p8UJzaavk1HL2Xjr0hok8) | 3:34 | 2023-02-17 |  |
+| [Becoming](https://open.spotify.com/track/28XUeiaQ7l7VbZvLtuQN3g) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Becoming](https://open.spotify.com/album/1p8UJzaavk1HL2Xjr0hok8) | 3:34 | 2023-02-17 | 2023-05-11 |
+| [Becoming](https://open.spotify.com/track/3JV5W3aXSfNGOSHIHndnX0) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Becoming](https://open.spotify.com/album/6InGSsBvvFqX6fo3fEwFFW) | 3:34 | 2023-03-31 |  |
 | [big brother](https://open.spotify.com/track/0pcNE2VKwl6LQCShBS7tRL) | [ST LUNA](https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw) | [big brother](https://open.spotify.com/album/4OjUugcUcIX1XosSeeZEHG) | 2:58 | 2021-12-10 | 2022-08-20 |
 | [Bumblebees and Blue Skies](https://open.spotify.com/track/0Bczbw2k63cjhOS078dXaF) | [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k) | [Bumblebees and Blue Skies](https://open.spotify.com/album/0OhZ0ZfAmshKSHDrxHALYW) | 5:16 | 2022-11-25 | 2023-02-18 |
 | [Bygone](https://open.spotify.com/track/3HIKGBx8u4F8o5kLyPmnez) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu), [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [Bygone](https://open.spotify.com/album/4VQ6zTBdeimyD77EmvnsrM) | 2:51 | 2021-12-10 |  |

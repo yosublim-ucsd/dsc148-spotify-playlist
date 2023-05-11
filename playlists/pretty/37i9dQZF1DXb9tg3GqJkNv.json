@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: Drake \ud83e\udd89",
-  "num_followers": 3671,
+  "num_followers": 3805,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTQ4NTViNzE4NDgzNzE4YzQ5NTQ2ZDllZjlmMjY0M2I2Yzg5M2Ez",
+  "snapshot_id": "MCw1ZmI1ZDMxYTI4MTZjN2U4ZTk5ZDJlZTFjNTFlZDQ2ODBmODE3MDM2",
   "tracks": [
     {
       "added_at": "2023-05-08 17:01:50",
@@ -447,22 +447,18 @@
     {
       "added_at": "2023-05-08 17:01:50",
       "album": {
-        "name": "Gardner Express",
-        "url": "https://open.spotify.com/album/24nydg8i966CawS06yCtZh"
+        "name": "Dead Or Alive",
+        "url": "https://open.spotify.com/album/3TDEhWhq4igbjoquhj8NOp"
       },
       "artists": [
         {
-          "name": "Pressa",
-          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
-        },
-        {
-          "name": "Taliban Glizzy",
-          "url": "https://open.spotify.com/artist/2J4wmwS5YSjQKzEEM7AiJh"
+          "name": "Jazz Cartier",
+          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Attachments",
-      "url": "https://open.spotify.com/track/1SedJ3dLWoCqnPIGeEMUJH"
+      "duration_ms": 194946,
+      "name": "Dead Or Alive",
+      "url": "https://open.spotify.com/track/6ekV6MGnPTuCOnjB4VcWGc"
     },
     {
       "added_at": "2023-05-08 17:01:50",
@@ -483,18 +479,22 @@
     {
       "added_at": "2023-05-08 17:01:50",
       "album": {
-        "name": "Dead Or Alive",
-        "url": "https://open.spotify.com/album/3TDEhWhq4igbjoquhj8NOp"
+        "name": "Gardner Express",
+        "url": "https://open.spotify.com/album/24nydg8i966CawS06yCtZh"
       },
       "artists": [
         {
-          "name": "Jazz Cartier",
-          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
+          "name": "Pressa",
+          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+        },
+        {
+          "name": "Taliban Glizzy",
+          "url": "https://open.spotify.com/artist/2J4wmwS5YSjQKzEEM7AiJh"
         }
       ],
-      "duration_ms": 194946,
-      "name": "Dead Or Alive",
-      "url": "https://open.spotify.com/track/6ekV6MGnPTuCOnjB4VcWGc"
+      "duration_ms": 171000,
+      "name": "Attachments",
+      "url": "https://open.spotify.com/track/1SedJ3dLWoCqnPIGeEMUJH"
     },
     {
       "added_at": "2023-05-08 17:01:50",
@@ -955,30 +955,6 @@
     {
       "added_at": "2023-05-08 17:01:50",
       "album": {
-        "name": "002 / LOVE ME",
-        "url": "https://open.spotify.com/album/06tuQubTO3GAXGOcMtfHok"
-      },
-      "artists": [
-        {
-          "name": "Lou Phelps",
-          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Jazz Cartier",
-          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
-        }
-      ],
-      "duration_ms": 266599,
-      "name": "Come Inside (Kaytranada Edit)",
-      "url": "https://open.spotify.com/track/3jQL0t4Jg4EZ77oNEvjEtN"
-    },
-    {
-      "added_at": "2023-05-08 17:01:50",
-      "album": {
         "name": "Mansion",
         "url": "https://open.spotify.com/album/1nwyxrszUQuWwdwgIKw02E"
       },
@@ -999,6 +975,30 @@
       "duration_ms": 166000,
       "name": "Mansion",
       "url": "https://open.spotify.com/track/7yWPBTrbUO3VmIsD6hLhGf"
+    },
+    {
+      "added_at": "2023-05-08 17:01:50",
+      "album": {
+        "name": "002 / LOVE ME",
+        "url": "https://open.spotify.com/album/06tuQubTO3GAXGOcMtfHok"
+      },
+      "artists": [
+        {
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Jazz Cartier",
+          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
+        }
+      ],
+      "duration_ms": 266599,
+      "name": "Come Inside (Kaytranada Edit)",
+      "url": "https://open.spotify.com/track/3jQL0t4Jg4EZ77oNEvjEtN"
     },
     {
       "added_at": "2023-05-08 17:01:50",

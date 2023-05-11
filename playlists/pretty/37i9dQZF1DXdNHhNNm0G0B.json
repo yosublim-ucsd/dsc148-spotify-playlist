@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sounds of acoustic blues and folk.",
-  "num_followers": 70714,
+  "num_followers": 70733,
   "original_name": "Rockin' Chair Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWNlMTc0YTljMzM4MDcyN2Y5OGYzYTUzOTBmNmFjZTljODdjNTk0",
+  "snapshot_id": "MCwyMzRlNDhiNzk0NWJmMzQyNTAxM2E3NGVlZWMzMDQ5ZGZlNWY0NmVl",
   "tracks": [
     {
       "added_at": "2023-04-07 00:01:00",
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ"
     },
     {
-      "added_at": "2023-05-10 01:24:53",
+      "added_at": "2023-05-11 01:02:29",
       "album": {
         "name": "Blues Jumped a Rabbit",
         "url": "https://open.spotify.com/album/5cOjiagbLZqw85RJNk8lQ4"
@@ -487,18 +487,18 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Willow Witchin' (Hot Take)",
-        "url": "https://open.spotify.com/album/3DO5TaKuot0DPdfrDxZxZl"
+        "name": "Legs to Make us Longer",
+        "url": "https://open.spotify.com/album/2gAagCBpgV4wa8KBMUBYWL"
       },
       "artists": [
         {
-          "name": "Nat Myers",
-          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+          "name": "Kaki King",
+          "url": "https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV"
         }
       ],
-      "duration_ms": 150941,
-      "name": "Willow Witchin' (Hot Take)",
-      "url": "https://open.spotify.com/track/6QaEUzzNtspNmCAdG4OUb6"
+      "duration_ms": 260253,
+      "name": "Can the Gwot Save Us?",
+      "url": "https://open.spotify.com/track/5rNaSws9k7wzVLOyJ508IO"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Legs to Make us Longer",
-        "url": "https://open.spotify.com/album/2gAagCBpgV4wa8KBMUBYWL"
+        "name": "Willow Witchin' (Hot Take)",
+        "url": "https://open.spotify.com/album/3DO5TaKuot0DPdfrDxZxZl"
       },
       "artists": [
         {
-          "name": "Kaki King",
-          "url": "https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV"
+          "name": "Nat Myers",
+          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
         }
       ],
-      "duration_ms": 260253,
-      "name": "Can the Gwot Save Us?",
-      "url": "https://open.spotify.com/track/5rNaSws9k7wzVLOyJ508IO"
+      "duration_ms": 150941,
+      "name": "Willow Witchin' (Hot Take)",
+      "url": "https://open.spotify.com/track/6QaEUzzNtspNmCAdG4OUb6"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "County Farm Blues",
-        "url": "https://open.spotify.com/album/0xQyiVS5BLQzBmfOuUxIzx"
-      },
-      "artists": [
-        {
-          "name": "Johnny Stachela",
-          "url": "https://open.spotify.com/artist/0S1BmerVaINiJar88KgNzi"
-        }
-      ],
-      "duration_ms": 164285,
-      "name": "County Farm Blues",
-      "url": "https://open.spotify.com/track/1ycQB39KcU6DcdfY3XFyXR"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Fate Is Only Twice",
         "url": "https://open.spotify.com/album/6W8PmtEtz4GbBFBksE0xQC"
       },
@@ -807,18 +791,34 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Imaginational Anthem",
-        "url": "https://open.spotify.com/album/0Aht6TMCyVgToFJGKR22VO"
+        "name": "County Farm Blues",
+        "url": "https://open.spotify.com/album/0xQyiVS5BLQzBmfOuUxIzx"
       },
       "artists": [
         {
-          "name": "Kaki King",
-          "url": "https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV"
+          "name": "Johnny Stachela",
+          "url": "https://open.spotify.com/artist/0S1BmerVaINiJar88KgNzi"
         }
       ],
-      "duration_ms": 214786,
-      "name": "Night After Sidewalk",
-      "url": "https://open.spotify.com/track/6aEKWnhMVr2rdaqSdNha6U"
+      "duration_ms": 164285,
+      "name": "County Farm Blues",
+      "url": "https://open.spotify.com/track/1ycQB39KcU6DcdfY3XFyXR"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "Fountain",
+        "url": "https://open.spotify.com/album/5rYIynWlr7cv7AXi1pPJy7"
+      },
+      "artists": [
+        {
+          "name": "Danny Paul Grody",
+          "url": "https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx"
+        }
+      ],
+      "duration_ms": 303946,
+      "name": "Natural West",
+      "url": "https://open.spotify.com/track/59eoAFWBywElrjWlUfsCCM"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
+        "name": "Imaginational Anthem",
+        "url": "https://open.spotify.com/album/0Aht6TMCyVgToFJGKR22VO"
+      },
+      "artists": [
+        {
+          "name": "Kaki King",
+          "url": "https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV"
+        }
+      ],
+      "duration_ms": 214786,
+      "name": "Night After Sidewalk",
+      "url": "https://open.spotify.com/track/6aEKWnhMVr2rdaqSdNha6U"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
         "name": "Alaska Blue",
         "url": "https://open.spotify.com/album/06Kzl9ecftxWgV62vO4ufq"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 173688,
       "name": "Alaska Blue",
       "url": "https://open.spotify.com/track/4O1R9qRPlfmuOlBMsWtrIZ"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
-        "name": "Fountain",
-        "url": "https://open.spotify.com/album/5rYIynWlr7cv7AXi1pPJy7"
-      },
-      "artists": [
-        {
-          "name": "Danny Paul Grody",
-          "url": "https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx"
-        }
-      ],
-      "duration_ms": 303946,
-      "name": "Natural West",
-      "url": "https://open.spotify.com/track/59eoAFWBywElrjWlUfsCCM"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
+        "name": "Bootleg USA",
+        "url": "https://open.spotify.com/album/4WvjLRuyca7wsn1ab6cz7p"
+      },
+      "artists": [
+        {
+          "name": "Martin Simpson",
+          "url": "https://open.spotify.com/artist/5nUScDmyGIvoX7ol79YnBQ"
+        }
+      ],
+      "duration_ms": 339320,
+      "name": "Plains of Waterloo / James Connolly",
+      "url": "https://open.spotify.com/track/6I1z2fe4YlpWsuaR0X1RSy"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
         "name": "The Blues Never End",
         "url": "https://open.spotify.com/album/43w78hH7AEQmunINV8bxw1"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 192946,
       "name": "Way Down Yonder Blues",
       "url": "https://open.spotify.com/track/5cMLUxRl1dO83NLNgo8by9"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
-        "name": "Bootleg USA",
-        "url": "https://open.spotify.com/album/4WvjLRuyca7wsn1ab6cz7p"
-      },
-      "artists": [
-        {
-          "name": "Martin Simpson",
-          "url": "https://open.spotify.com/artist/5nUScDmyGIvoX7ol79YnBQ"
-        }
-      ],
-      "duration_ms": 339320,
-      "name": "Plains of Waterloo / James Connolly",
-      "url": "https://open.spotify.com/track/6I1z2fe4YlpWsuaR0X1RSy"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Black Dog Blues",
-        "url": "https://open.spotify.com/album/7IHg6vllMBDdKuIcx9Lu72"
-      },
-      "artists": [
-        {
-          "name": "Bayless Rose",
-          "url": "https://open.spotify.com/artist/3IUvB4k0XiutzRg2utdL9M"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Frisco Blues",
-      "url": "https://open.spotify.com/track/7e1WYEzC9wZwlAaCmvSJPW"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Orange County Serenade",
         "url": "https://open.spotify.com/album/5fPjBAFjqX4Cf0XAPhGVcf"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 238000,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/4Y4P44bLQ7tz5qy8XJmQtg"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "Black Dog Blues",
+        "url": "https://open.spotify.com/album/7IHg6vllMBDdKuIcx9Lu72"
+      },
+      "artists": [
+        {
+          "name": "Bayless Rose",
+          "url": "https://open.spotify.com/artist/3IUvB4k0XiutzRg2utdL9M"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Frisco Blues",
+      "url": "https://open.spotify.com/track/7e1WYEzC9wZwlAaCmvSJPW"
     },
     {
       "added_at": "2023-04-07 00:01:00",

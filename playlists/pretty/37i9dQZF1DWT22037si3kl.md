@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: Vulgo FK, Kyan
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,280 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,545 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 40 | [Animais Traidores](https://open.spotify.com/track/0joR9BM1Y2ieSnl7bA2EHY) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [VEGA](https://open.spotify.com/artist/6x0SXnV5f1D9q5pHkwToub) | [Animais Traidores](https://open.spotify.com/album/6y2A0eRXjwkJ0b9VCaLkum) | 3:16 |
 | 41 | [Relógio](https://open.spotify.com/track/6HppJU5SojuWGcQ296a4eb) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Relógio](https://open.spotify.com/album/5uILYUGi75xEwKeRmieFNN) | 2:40 |
 | 42 | [Mimos](https://open.spotify.com/track/5zSJYov8aD46ZzSWI9esQo) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [Mimos](https://open.spotify.com/album/59sZdRkWb71F0pU1v8unwF) | 3:20 |
-| 43 | [Isso Que É Bom](https://open.spotify.com/track/2LUj933qs4IEFzSLLS9aJS) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Isso Que É Bom](https://open.spotify.com/album/5FtV4axHZhRLHjT33tpaMk) | 2:35 |
-| 44 | [Dama de Vermelho](https://open.spotify.com/track/7JCd1CnqOfGAYjRiSFtzKE) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ) | [Dama de Vermelho](https://open.spotify.com/album/2pksnUtr8DU9I6ufkHLh1V) | 2:42 |
+| 43 | [Dama de Vermelho](https://open.spotify.com/track/7JCd1CnqOfGAYjRiSFtzKE) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ) | [Dama de Vermelho](https://open.spotify.com/album/2pksnUtr8DU9I6ufkHLh1V) | 2:42 |
+| 44 | [Isso Que É Bom](https://open.spotify.com/track/2LUj933qs4IEFzSLLS9aJS) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Isso Que É Bom](https://open.spotify.com/album/5FtV4axHZhRLHjT33tpaMk) | 2:35 |
 | 45 | [Vim de Lá](https://open.spotify.com/track/4VAlW0vTLKn5YPFbEhyawL) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Vim de Lá](https://open.spotify.com/album/0FPaL1Vcjhppw7HCW0Jibb) | 2:48 |
 | 46 | [Hugo Boss](https://open.spotify.com/track/1OfwTYZQrsImsfnhHWrJr1) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Hugo Boss](https://open.spotify.com/album/0xoScocnUYyr9f49aCbsho) | 3:34 |
 | 47 | [Baw Baw](https://open.spotify.com/track/3WkQB4dC44RqD7P33z0Ck9) | [Oreozin](https://open.spotify.com/artist/6MWb3O5RfehDbCZsBfGrIG), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [A Matilha](https://open.spotify.com/artist/5sgcMUmYMaHj2Rd99rGOWk) | [Baw Baw](https://open.spotify.com/album/7lBIr3DeMX63iy0C9FMCJP) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [Silenciador](https://open.spotify.com/track/3biKlRmlBqKIFDEbTGGC1S) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Silenciador](https://open.spotify.com/album/0R7Z7BN0utY3V8e1MOWmxM) | 2:44 |
 | 50 | [Ouro Rose](https://open.spotify.com/track/7CISV57Tvy6FeeRoUV0Mov) | [rarefireboy](https://open.spotify.com/artist/6O5EY8Q7cx4MFhbgcUIAZ8), [St.Borges](https://open.spotify.com/artist/1Yc7h842kGeQTZfdSVQtrQ), [Drey](https://open.spotify.com/artist/5U8u5F9IqRQrUAut8by0wN) | [Ouro Rose](https://open.spotify.com/album/7cck41bWwvuVgc20hPXgCC) | 2:35 |
 
-Snapshot ID: `MCwyMGEyODczZDdkYTBkZjBkNmNlY2Q2MmFhZDAzMGVlODljNDZjYzBk`
+Snapshot ID: `MCwwZjhhNjZlMjk1MmU5ODFiYjc3NjFiM2M5MGVmZjgwZDRmMjI3Njdk`

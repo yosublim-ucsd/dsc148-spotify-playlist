@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Septeto Acarey
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,858 likes - 80 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,932 likes - 80 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 | 67 | [Amarte Es Mi Pecado](https://open.spotify.com/track/2niwYvW4SPtimr7jWAk9ke) | [Jose Carlos Garcia](https://open.spotify.com/artist/0X0GekJ2TVUTakNbRbmeh9), [Amy Gutiérrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [Amarte Es Mi Pecado](https://open.spotify.com/album/1zCWDAa3D4bZOxHG0WTnGL) | 5:17 |
 | 68 | [Dime Cómo Hago \- \(Versión Salsa\)](https://open.spotify.com/track/4LknpTc1p9XbeRTpp2hYqf) | [Alvaro Rod](https://open.spotify.com/artist/5UjFDinYOVndyri7JqzcAP) | [Dime Cómo Hago](https://open.spotify.com/album/0ZlOYdEeqYUbi4iRrOlN0x) | 3:33 |
 | 69 | [Dime Cómo Hago](https://open.spotify.com/track/3WSASuEFLKfnGbn3ZelPdu) | [Nelson Arrieta](https://open.spotify.com/artist/7jS9nzysQ66L1yfPA0HATF), [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2), [Oscarcito](https://open.spotify.com/artist/1BCfXYvYcVKfcNNV7h3TKJ) | [Dime Cómo Hago](https://open.spotify.com/album/5JvSBEoi4cOPAdFMpR178G) | 3:48 |
-| 70 | [Sincero \- Versión Salsa](https://open.spotify.com/track/5mQtZ1tv8of7sHwdOOiW6T) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Sincero](https://open.spotify.com/album/1z4qd96xvRzjc5MWONlsWG) | 3:05 |
+| 70 | [Sincero \(Versión Salsa\)](https://open.spotify.com/track/5Zqw6aZ5zqVcpo1D9rFxhD) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Sincero](https://open.spotify.com/album/4VeUVQDF5zX4oyELx7ewIA) | 3:05 |
 | 71 | [Loque Nunca Sera](https://open.spotify.com/track/0MvdpnIcWNngj2nm4AnGzQ) | [La Novel de Martín Guevara](https://open.spotify.com/artist/6sqyTXpgNn2BzllXaoUfWr) | [Lo Que Nunca Sera](https://open.spotify.com/album/5WauGYtyRPbBS1kOy38aBv) | 3:46 |
 | 72 | [Mami](https://open.spotify.com/track/6q4l4MRRrqwtkrjlwHcAwg) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y) | [Mami](https://open.spotify.com/album/7z1Bjl01ywsdKdAX5KYw6F) | 3:00 |
 | 73 | [Que Voy a Hacer Con Mi Amor](https://open.spotify.com/track/5wnAIdzevofAf22VSmkbwU) | [Jose Carlos Garcia](https://open.spotify.com/artist/0X0GekJ2TVUTakNbRbmeh9) | [Que Voy a Hacer Con Mi Amor](https://open.spotify.com/album/1nmtoyJ23z0NL8eOrvQwpe) | 4:34 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 | 79 | [Amarte Duele Así](https://open.spotify.com/track/5TE1mAaQJZS8VQPBN0eADT) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Amarte Duele Así](https://open.spotify.com/album/5SoaSY0mexom8MbC4sbzSP) | 4:28 |
 | 80 | [Si No Es Contigo](https://open.spotify.com/track/50GLVAzqvKamz7pArlrHST) | [Los Barraza](https://open.spotify.com/artist/5uX7ebKHlBttut8EUM9Uzs) | [Si No Es Contigo](https://open.spotify.com/album/6oM1bBU97ZRAduzNcBCCqj) | 4:44 |
 
-Snapshot ID: `MCwxMTA0YzQ5YjdiZGFmYzBkYmJmYTJmMTAwZDE5NjUwNjlhNTdjMTZj`
+Snapshot ID: `MCxiMjQwMjI1YTM2ODE4YTExMzhmNjkwODMwMDI4MjQ1MTE3ODc5ZjYw`

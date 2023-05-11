@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. Federico Dragogna in cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,879 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,889 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 59 | [Torino non è la mia città](https://open.spotify.com/track/3YL6KwcKsIoQ7yLgBR4fUG) | [Scheletri](https://open.spotify.com/artist/5tzlUTfnx5Wp7dRPrJ8nPj) | [Torino non è la mia città](https://open.spotify.com/album/0y0n9AJZaUJ1QefMfIRlKU) | 3:33 |
 | 60 | [Mondo Cane](https://open.spotify.com/track/7a8r6vINl5QByT6ktCadYK) | [Methos](https://open.spotify.com/artist/6EgN0y0qGF6ifXnc35B33h) | [Mondo Cane](https://open.spotify.com/album/4eTP3mLT8xxizGeaahzXJ8) | 2:14 |
 
-Snapshot ID: `MCxhNjVlZWI2ZWQ1ZThhODY5MDVmZjE4NDAwYmRjYWI3NGMzNGNiMmZk`
+Snapshot ID: `MCxkN2ZhOTllNTE4N2Y2ZjFlNjhlYjljNzAwNTUxNGZlN2FhY2Y4MzIy`

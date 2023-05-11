@@ -4,7 +4,7 @@
 
 > Lovely, acoustic pop\. Cover: Taylor Swift
 
-167 songs - 9 hr 15 min
+168 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Hold Me Closer \- Acoustic](https://open.spotify.com/track/5kXZv2JwuZ0qgqNalgwvJt) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer \(Acoustic\)](https://open.spotify.com/album/1vN546nWNaesS0pAAL017l) | 3:22 | 2022-11-25 |  |
 | [Holy \- Acoustic](https://open.spotify.com/track/6gcQJ6W4H89xkQFm63gcsB) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Holy \(Acoustic\)](https://open.spotify.com/album/7CMuwbRcESagTQFvKHGuYU) | 3:25 | 2022-01-28 |  |
 | [How Do I Say Goodbye \- Acoustic](https://open.spotify.com/track/7fAoDr6naastKUtqo75SNm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/1F0usgSkjLQNKW7wRsNvRY) | 2:44 | 2022-11-13 |  |
-| [How To Save A Life](https://open.spotify.com/track/0OfJNkSwSLUxEywRxQ3ose) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [How to Save a Life](https://open.spotify.com/album/4h28S7c6IhSAAkdi3owsJ7) | 3:31 | 2023-05-09 |  |
+| [How To Save A Life](https://open.spotify.com/track/0OfJNkSwSLUxEywRxQ3ose) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [How to Save a Life](https://open.spotify.com/album/4h28S7c6IhSAAkdi3owsJ7) | 3:31 | 2023-05-09 | 2023-05-11 |
+| [How to Save a Life](https://open.spotify.com/track/3MonYB3irqpYoY4wFSqwW0) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [How to Save a Life](https://open.spotify.com/album/3cFVzUQUQqcUPT9mWLWFMH) | 3:31 | 2023-05-09 |  |
 | [Hurricane \- Acoustic Version](https://open.spotify.com/track/44W5tInDK41nwJ3k3AEplU) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Hurricane \(Acoustic Version\)](https://open.spotify.com/album/69XUoQgDdcktIwDqCugjPy) | 2:50 | 2022-01-28 |  |
 | [Hypnotized \- Acoustic](https://open.spotify.com/track/1o9c8bI4cIWj26DC14nMOF) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Hypnotized \(Acoustic\)](https://open.spotify.com/album/1YX8gwRQ8VUmJPTN54pVDv) | 3:31 | 2022-01-28 | 2022-07-29 |
 | [Hypnotized \- Acoustic](https://open.spotify.com/track/47iizIcROe1dhW3ii9cvTf) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Hypnotized \(Acoustic\)](https://open.spotify.com/album/31sIFQ5fOYUQZ62LpNmQzY) | 3:31 | 2022-07-15 |  |

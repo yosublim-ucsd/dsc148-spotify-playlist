@@ -4,7 +4,7 @@
 
 > hop in and take the long way.
 
-307 songs - 19 hr 22 min
+308 songs - 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,8 @@
 | [It’s a good day \(to fight the system\) \(feat\. Joy Oladokun\)](https://open.spotify.com/track/0E5MOJcS4Fluq18lTvTVkf) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [It’s a good day \(to fight the system\) \(feat\. Joy Oladokun\)](https://open.spotify.com/album/4PLKogyBkZU5ApXNogSDIF) | 3:17 | 2022-01-07 | 2022-07-29 |
 | [I’m A Stranger Now](https://open.spotify.com/track/59j4k21fP6SfrCwurmLHZZ) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [I Love You\. It's a Fever Dream.](https://open.spotify.com/album/21iUYmZgiaPv5xvfTYKqRs) | 4:21 | 2021-10-08 | 2022-04-21 |
 | [Jara](https://open.spotify.com/track/6ttJq2kuufZBqkuowqMzhH) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:09 | 2021-10-08 | 2022-04-28 |
-| [Jesse \(Live From The Church\)](https://open.spotify.com/track/2FZ8y1dyZApc1l3bAvHf6U) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Live From The Church](https://open.spotify.com/album/6UO7cL7AvqrbL0KKTiaxtt) | 4:09 | 2023-02-17 |  |
+| [Jesse \(Live From The Church\)](https://open.spotify.com/track/2FZ8y1dyZApc1l3bAvHf6U) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Live From The Church](https://open.spotify.com/album/6UO7cL7AvqrbL0KKTiaxtt) | 4:09 | 2023-02-17 | 2023-05-11 |
+| [Jesse \(Live From The Church\)](https://open.spotify.com/track/6Jzicbi5LCVwfaRhV6a4Q9) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Live From The Church](https://open.spotify.com/album/0gUhb109IhVVNGzPlv7GFW) | 4:09 | 2023-05-05 |  |
 | [Johnny](https://open.spotify.com/track/4WDtGj1M2HFlcjvYIiRFug) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:59 | 2021-10-08 | 2022-07-29 |
 | [Juniper](https://open.spotify.com/track/6IvKlVYLelgejG0H9yeUTq) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Cool Dry Place](https://open.spotify.com/album/531NHwsLFtaeWsjIaytagu) | 2:39 | 2021-10-08 | 2022-07-29 |
 | [Juniper](https://open.spotify.com/track/7boY9U14Ss41yLp320uVGX) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Cool Dry Place](https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE) | 2:39 | 2022-03-22 |  |

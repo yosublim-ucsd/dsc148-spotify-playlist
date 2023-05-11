@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,930 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,935 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 49 | [Musaboru](https://open.spotify.com/track/3brYbbSuxEvTahx41dJ1Vn) | [mayu](https://open.spotify.com/artist/13UpT9Gex05qV9ukq0e7RO) | [Musaboru / Colorful](https://open.spotify.com/album/5wQvP75573asL61ZwpL3mw) | 4:26 |
 | 50 | [A Full Moon in the Sky Tonight](https://open.spotify.com/track/2HqqxhoZRN9BVRgntTEbwx) | [Ayatake Ezaki](https://open.spotify.com/artist/30XTStA4lExo4PotWkoOQT), [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [A Full Moon in the Sky Tonight](https://open.spotify.com/album/3LPknvHeKAF5Pbx2n1inFU) | 5:49 |
 
-Snapshot ID: `MCw1OTZhZWEwYjI0N2I5YjIwNWU3OTFmOWQ2OWRhMDgzYjJmNDRmNjIw`
+Snapshot ID: `MCwxZjIyYzAyYzhkNTk5NjM2MzMwZGZmYmJjYmE3NWJmOGJkYmE2MGQ4`

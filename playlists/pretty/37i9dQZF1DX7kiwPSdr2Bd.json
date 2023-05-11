@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Eyshila",
-  "num_followers": 289157,
+  "num_followers": 289260,
   "original_name": "Mulheres do Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDQ4N2Y0YTJlZGFlMmEwMDViMjMyYWFiNDMwOWZkMzQzNjZiMzJj",
+  "snapshot_id": "MCw1MDNhNzdhNDRmZTBjMTdkZTRjMzJlM2NhMWVjMWIwMGQyYmRjNGU2",
   "tracks": [
     {
       "added_at": "2023-05-05 03:00:00",
@@ -375,18 +375,22 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Deus do Imposs\u00edvel (Ao Vivo em Mojave Desert)",
-        "url": "https://open.spotify.com/album/3VRNnp5f7vPHZXQ81rVj1m"
+        "name": "Eu Tenho Pai",
+        "url": "https://open.spotify.com/album/2qXVPwFzQIoCpTwWD5hPJw"
       },
       "artists": [
         {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        },
+        {
+          "name": "ONE Service",
+          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
         }
       ],
-      "duration_ms": 209293,
-      "name": "Deus do Imposs\u00edvel (Ao Vivo em Mojave Desert)",
-      "url": "https://open.spotify.com/track/0hD0KWK4te47pXBRJXVbY4"
+      "duration_ms": 400906,
+      "name": "Eu Tenho Pai",
+      "url": "https://open.spotify.com/track/6tyGZ5AYYRSaUop9z3PbBP"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -407,22 +411,18 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Eu Tenho Pai",
-        "url": "https://open.spotify.com/album/2qXVPwFzQIoCpTwWD5hPJw"
+        "name": "Deus do Imposs\u00edvel (Ao Vivo em Mojave Desert)",
+        "url": "https://open.spotify.com/album/3VRNnp5f7vPHZXQ81rVj1m"
       },
       "artists": [
         {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
-        },
-        {
-          "name": "ONE Service",
-          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 400906,
-      "name": "Eu Tenho Pai",
-      "url": "https://open.spotify.com/track/6tyGZ5AYYRSaUop9z3PbBP"
+      "duration_ms": 209293,
+      "name": "Deus do Imposs\u00edvel (Ao Vivo em Mojave Desert)",
+      "url": "https://open.spotify.com/track/0hD0KWK4te47pXBRJXVbY4"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Poder Pra Salvar (Mighty to Save) [Ao Vivo Em Los Angeles]",
-        "url": "https://open.spotify.com/album/2b0XVRX9gGvngP9Dr5onIz"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "Poder Pra Salvar (Mighty to Save) [Ao Vivo Em Los Angeles]",
-      "url": "https://open.spotify.com/track/4ZwerMeMyAbdyY2cBmrcGe"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "Deus Vai Agir (Ao Vivo)",
         "url": "https://open.spotify.com/album/7yARppxr1hG93yPKWIfgsA"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 234093,
       "name": "Deus Vai Agir (Ao Vivo)",
       "url": "https://open.spotify.com/track/5vSTBOJukCTLSoQK5hkx2o"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "Poder Pra Salvar (Mighty to Save) [Ao Vivo Em Los Angeles]",
+        "url": "https://open.spotify.com/album/2b0XVRX9gGvngP9Dr5onIz"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "Poder Pra Salvar (Mighty to Save) [Ao Vivo Em Los Angeles]",
+      "url": "https://open.spotify.com/track/4ZwerMeMyAbdyY2cBmrcGe"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -707,22 +707,18 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP"
+        "name": "O Segredo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd"
       },
       "artists": [
         {
           "name": "Cassiane",
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 334310,
-      "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE"
+      "duration_ms": 306694,
+      "name": "O Segredo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -859,18 +855,22 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "O Segredo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd"
+        "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP"
       },
       "artists": [
         {
           "name": "Cassiane",
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 306694,
-      "name": "O Segredo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO"
+      "duration_ms": 334310,
+      "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Midian Lima (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 307803,
-      "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3RFBznx059TnrkSvJgAzjq"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "Cristo / Face a Face (Agnus Dei) [Ensaio Aberto]",
         "url": "https://open.spotify.com/album/760kAKxycq6NStzZ3vg5rH"
       },
@@ -919,22 +903,6 @@
       "duration_ms": 479305,
       "name": "Cristo / Face a Face (Agnus Dei) - Ensaio Aberto",
       "url": "https://open.spotify.com/track/4tWplPdR7JPZrNO8WpXKCQ"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "Amigo Jesus",
-        "url": "https://open.spotify.com/album/4c1kWI0RiMkQMrUbdMFVDb"
-      },
-      "artists": [
-        {
-          "name": "Valesca Mayssa",
-          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
-        }
-      ],
-      "duration_ms": 262826,
-      "name": "Amigo Jesus",
-      "url": "https://open.spotify.com/track/35jMewGCMi7RF6CrJMz0wC"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -955,6 +923,38 @@
       "duration_ms": 561464,
       "name": "Ele Vivo Est\u00e1 - Ao Vivo",
       "url": "https://open.spotify.com/track/1rdX7BDE5okxQ3gIVbj1sy"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "Amigo Jesus",
+        "url": "https://open.spotify.com/album/4c1kWI0RiMkQMrUbdMFVDb"
+      },
+      "artists": [
+        {
+          "name": "Valesca Mayssa",
+          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
+        }
+      ],
+      "duration_ms": 262826,
+      "name": "Amigo Jesus",
+      "url": "https://open.spotify.com/track/35jMewGCMi7RF6CrJMz0wC"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "Midian Lima (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 307803,
+      "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3RFBznx059TnrkSvJgAzjq"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
+        "name": "Porque Ele Vive",
+        "url": "https://open.spotify.com/album/4YaBiCeYejEfV6gPDx0r6Z"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00f3ria Souza",
+          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
+        }
+      ],
+      "duration_ms": 341420,
+      "name": "Porque Ele Vive",
+      "url": "https://open.spotify.com/track/1UxXYjUoBikUHg85ij9sIk"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
         "name": "Vida (Ao Vivo)",
         "url": "https://open.spotify.com/album/5SAP9wOXqQ16J393goGNBi"
       },
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Acalma",
-        "url": "https://open.spotify.com/album/2OEpzKL5wIriq3VfQLVPts"
-      },
-      "artists": [
-        {
-          "name": "Michelle Nascimento",
-          "url": "https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq"
-        }
-      ],
-      "duration_ms": 296988,
-      "name": "Acalma",
-      "url": "https://open.spotify.com/track/2DdQXkkf5y4kuNAhPTMO09"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "Tudo \u00e9 Poss\u00edvel (Ao Vivo)",
         "url": "https://open.spotify.com/album/1YIJcCFdQGZyLBenh3xPAJ"
       },
@@ -1151,6 +1151,22 @@
       "duration_ms": 383968,
       "name": "Tudo \u00e9 Poss\u00edvel (Ao Vivo)",
       "url": "https://open.spotify.com/track/1pZoySbCn2iTP3q03yUOhZ"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "Acalma",
+        "url": "https://open.spotify.com/album/2OEpzKL5wIriq3VfQLVPts"
+      },
+      "artists": [
+        {
+          "name": "Michelle Nascimento",
+          "url": "https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq"
+        }
+      ],
+      "duration_ms": 296988,
+      "name": "Acalma",
+      "url": "https://open.spotify.com/track/2DdQXkkf5y4kuNAhPTMO09"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1187,22 +1203,6 @@
       "duration_ms": 240000,
       "name": "Dependente (Ao Vivo)",
       "url": "https://open.spotify.com/track/7t79MtUh8zfrhN1KT56eQv"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "Porque Ele Vive",
-        "url": "https://open.spotify.com/album/4YaBiCeYejEfV6gPDx0r6Z"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00f3ria Souza",
-          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
-        }
-      ],
-      "duration_ms": 341420,
-      "name": "Porque Ele Vive",
-      "url": "https://open.spotify.com/track/1UxXYjUoBikUHg85ij9sIk"
     },
     {
       "added_at": "2023-05-05 03:00:00",

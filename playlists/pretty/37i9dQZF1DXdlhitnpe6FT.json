@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 159202,
+  "num_followers": 159489,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzQ0M2NhYjE2MDQyZWI2NWU5ZTdhOWFkMWFiM2NiYmE1N2QzZGI4",
+  "snapshot_id": "MCw0ZTRlY2FjY2Q5YWI5N2EzNDFlNmM0NzhlZmRkOGMzYmMwYWY4ZDFj",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -759,22 +759,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Las No. 1 Instrumentales",
-        "url": "https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb"
-      },
-      "artists": [
-        {
-          "name": "Bebu Silvetti",
-          "url": "https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ"
-        }
-      ],
-      "duration_ms": 353680,
-      "name": "Lluvia de Primavera",
-      "url": "https://open.spotify.com/track/6zbtxndjT0ZXejFfWxp7Ve"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Playas de Ensue\u00f1o",
         "url": "https://open.spotify.com/album/31E3FJeD3mPINXJu4kXpVD"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 193213,
       "name": "Playas de Ensue\u00f1o",
       "url": "https://open.spotify.com/track/1IXc0lJmLcPHHrGL9rSWzX"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Las No. 1 Instrumentales",
+        "url": "https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb"
+      },
+      "artists": [
+        {
+          "name": "Bebu Silvetti",
+          "url": "https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ"
+        }
+      ],
+      "duration_ms": 353680,
+      "name": "Lluvia de Primavera",
+      "url": "https://open.spotify.com/track/6zbtxndjT0ZXejFfWxp7Ve"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -827,18 +827,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "The Gold Series - Latin Romance",
-        "url": "https://open.spotify.com/album/1whKZ8ETP2nATRiZPjN1ya"
+        "name": "La m\u00e9lodie du lac d'amour",
+        "url": "https://open.spotify.com/album/1mIBAczDftPkMTP3FWszdW"
       },
       "artists": [
         {
-          "name": "Francis Goya",
-          "url": "https://open.spotify.com/artist/1qFy3FK37qaUCE2y2vWCak"
+          "name": "Jean Claude Borelly",
+          "url": "https://open.spotify.com/artist/15BHk5GnZ3AZVGO6P1vFmn"
         }
       ],
-      "duration_ms": 234962,
-      "name": "La Playa",
-      "url": "https://open.spotify.com/track/7kemw7c5YI6j1riypUAWQ3"
+      "duration_ms": 172266,
+      "name": "Dolannes m\u00e9lodie",
+      "url": "https://open.spotify.com/track/7qqnQFC8rnyCOhfd4DTWzO"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -859,18 +859,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "La m\u00e9lodie du lac d'amour",
-        "url": "https://open.spotify.com/album/1mIBAczDftPkMTP3FWszdW"
+        "name": "The Gold Series - Latin Romance",
+        "url": "https://open.spotify.com/album/1whKZ8ETP2nATRiZPjN1ya"
       },
       "artists": [
         {
-          "name": "Jean Claude Borelly",
-          "url": "https://open.spotify.com/artist/15BHk5GnZ3AZVGO6P1vFmn"
+          "name": "Francis Goya",
+          "url": "https://open.spotify.com/artist/1qFy3FK37qaUCE2y2vWCak"
         }
       ],
-      "duration_ms": 172266,
-      "name": "Dolannes m\u00e9lodie",
-      "url": "https://open.spotify.com/track/7qqnQFC8rnyCOhfd4DTWzO"
+      "duration_ms": 234962,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/7kemw7c5YI6j1riypUAWQ3"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -939,6 +939,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "14 Estelares",
+        "url": "https://open.spotify.com/album/5qdfgUX0wfynSt3xW15lT5"
+      },
+      "artists": [
+        {
+          "name": "Franck Pourcel",
+          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
+        }
+      ],
+      "duration_ms": 197093,
+      "name": "Il",
+      "url": "https://open.spotify.com/track/0izjzd0NlwUtigcgk8DyHg"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "90s 100 Hits",
         "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 260200,
       "name": "Lily Was Here (feat. Candy Dulfer)",
       "url": "https://open.spotify.com/track/2F9MyVj3AtJTDp7X8tZYmV"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "14 Estelares",
-        "url": "https://open.spotify.com/album/5qdfgUX0wfynSt3xW15lT5"
-      },
-      "artists": [
-        {
-          "name": "Franck Pourcel",
-          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
-        }
-      ],
-      "duration_ms": 197093,
-      "name": "Il",
-      "url": "https://open.spotify.com/track/0izjzd0NlwUtigcgk8DyHg"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Best of Pop Concerto Orchestra",
+        "url": "https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ"
+      },
+      "artists": [
+        {
+          "name": "Pop Concerto Orchestra",
+          "url": "https://open.spotify.com/artist/5RAZ2L3pXwmPmDx6OxKW30"
+        }
+      ],
+      "duration_ms": 156773,
+      "name": "Lady Milady",
+      "url": "https://open.spotify.com/track/2V98PvQvwRMGsJTyDmbY41"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Instrumental History, The Best",
         "url": "https://open.spotify.com/album/4IfUM4HqTrBNX2gm5VZCVq"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 257633,
       "name": "The Shuffle",
       "url": "https://open.spotify.com/track/4KbNSEkFUqFVUMX9Js85ty"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Best of Pop Concerto Orchestra",
-        "url": "https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ"
-      },
-      "artists": [
-        {
-          "name": "Pop Concerto Orchestra",
-          "url": "https://open.spotify.com/artist/5RAZ2L3pXwmPmDx6OxKW30"
-        }
-      ],
-      "duration_ms": 156773,
-      "name": "Lady Milady",
-      "url": "https://open.spotify.com/track/2V98PvQvwRMGsJTyDmbY41"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Look for a Star",
-        "url": "https://open.spotify.com/album/50Xmgxm7zIqyDuEbNCu6s0"
-      },
-      "artists": [
-        {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
-        }
-      ],
-      "duration_ms": 135993,
-      "name": "Look for a Star",
-      "url": "https://open.spotify.com/track/3MDPMyycA17IoF6XaC4XIM"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Born Losers",
         "url": "https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 121333,
       "name": "Billy Jack's Theme",
       "url": "https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Look for a Star",
+        "url": "https://open.spotify.com/album/50Xmgxm7zIqyDuEbNCu6s0"
+      },
+      "artists": [
+        {
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+        }
+      ],
+      "duration_ms": 135993,
+      "name": "Look for a Star",
+      "url": "https://open.spotify.com/track/3MDPMyycA17IoF6XaC4XIM"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Happy Time Cha Chas",
-        "url": "https://open.spotify.com/album/7LbPRspn8h5NedA4QCkJPb"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Juarez",
-          "url": "https://open.spotify.com/artist/6IqlP90ae1omoteM4omT70"
-        }
-      ],
-      "duration_ms": 175960,
-      "name": "Too Young",
-      "url": "https://open.spotify.com/track/4xA82yaxvwY4AbhxSlurst"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Taboo 2: New Exotic Sounds of Arthur Lyman",
         "url": "https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 128066,
       "name": "Taboo Tu",
       "url": "https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Happy Time Cha Chas",
+        "url": "https://open.spotify.com/album/7LbPRspn8h5NedA4QCkJPb"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Juarez",
+          "url": "https://open.spotify.com/artist/6IqlP90ae1omoteM4omT70"
+        }
+      ],
+      "duration_ms": 175960,
+      "name": "Too Young",
+      "url": "https://open.spotify.com/track/4xA82yaxvwY4AbhxSlurst"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1843,18 +1843,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Die Zauberwelt der Panfl\u00f6te",
-        "url": "https://open.spotify.com/album/4omSoKmpKlAavCTPIlNYtU"
+        "name": "Yellow Bird",
+        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
       },
       "artists": [
         {
-          "name": "Edward Simoni",
-          "url": "https://open.spotify.com/artist/0nCX0OS37qHcF3xP74yRmT"
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
         }
       ],
-      "duration_ms": 174666,
-      "name": "Gefangenenchor aus \"Nabucco\"",
-      "url": "https://open.spotify.com/track/4FLfAjRMQeNbqgwbdUMja6"
+      "duration_ms": 164920,
+      "name": "Yellow Bird",
+      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1875,18 +1875,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Yellow Bird",
-        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
+        "name": "Die Zauberwelt der Panfl\u00f6te",
+        "url": "https://open.spotify.com/album/4omSoKmpKlAavCTPIlNYtU"
       },
       "artists": [
         {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+          "name": "Edward Simoni",
+          "url": "https://open.spotify.com/artist/0nCX0OS37qHcF3xP74yRmT"
         }
       ],
-      "duration_ms": 164920,
-      "name": "Yellow Bird",
-      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
+      "duration_ms": 174666,
+      "name": "Gefangenenchor aus \"Nabucco\"",
+      "url": "https://open.spotify.com/track/4FLfAjRMQeNbqgwbdUMja6"
     }
   ],
   "unique_name": "Golden Instrumentals",

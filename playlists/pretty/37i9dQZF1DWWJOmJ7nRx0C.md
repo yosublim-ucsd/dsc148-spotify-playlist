@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: From Ashes To New
 
-[Spotify](https://open.spotify.com/user/spotify) - 907,380 likes - 151 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 907,636 likes - 151 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 150 | [Blow \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/track/3YqJ7QhsNbmluU3qzbd3ns) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Love, Drugs & Misery](https://open.spotify.com/album/0P49eFNrsqjfnz4txLvFe6) | 2:45 |
 | 151 | [One More Day](https://open.spotify.com/track/4x9A6Ymy2u6FfoE4ba4iP3) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Darkbloom](https://open.spotify.com/album/15q7078X1sRf9ivhEnv1tm) | 4:28 |
 
-Snapshot ID: `MCxhYjE4NGZjNzEwMDk5NDNiYzM0MzgzZjZjY2VjZWMyZDJkNjhiZGQx`
+Snapshot ID: `MCxiNDg1MWM4ZjRhYjk1NjJkNWNhMmZiNTQxYmU2OTRjMWI4NDFmNGQ5`

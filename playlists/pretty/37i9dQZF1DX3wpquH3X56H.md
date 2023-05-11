@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wpquH3X56H.md) - [plain]
 
 > The Most Popular Ambient Tracks in 2022\. Kaitlyn Aurelia Smith on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,605 likes - 100 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,617 likes - 100 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wpquH3X56H.md) - [plain]
 | 97 | [Mysteries](https://open.spotify.com/track/3bDoYfu85Z3UhfRt53zsTv) | [Antarctic Wastelands](https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1) | [Mysteries](https://open.spotify.com/album/6jGXRmqwwd25TgRbNT6X2P) | 3:03 |
 | 98 | [Raddir \- Halo Infinite Version](https://open.spotify.com/track/6OPuu0XHbNOhGIkeiRbVKC) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Raddir \(Halo Infinite Version\)](https://open.spotify.com/album/7gz5AeJBeJ77wjdyLXXc9s) | 2:14 |
 | 99 | [ever, after](https://open.spotify.com/track/1bIZWsVJatlo8hBzn0IEdI) | [Project AER](https://open.spotify.com/artist/0iMWUBpWAGKAenBVePrZFP) | [after.](https://open.spotify.com/album/0lySn87GZkkmgPOInrnuC2) | 3:03 |
-| 100 | [All The Light They Cannot See](https://open.spotify.com/track/27iGKkcGPY4pGcOW7hr5em) | [Nili Fossae](https://open.spotify.com/artist/2OK2TRERh4tmACxlgjIvp0) | [Into The Blue](https://open.spotify.com/album/5VzhW20SptDDaQ3FjjO6IQ) | 5:32 |
+| 100 | [All The Light They Cannot See](https://open.spotify.com/track/5yx4wEiqwftOWWArUes897) | [Nili Fossae](https://open.spotify.com/artist/2OK2TRERh4tmACxlgjIvp0) | [Into The Blue](https://open.spotify.com/album/3Myx0XEGPjTmfWBTGKZ4F4) | 5:32 |
 
-Snapshot ID: `MCw2NmRhYTRjYWY4MjlmYmZhZGFkZjNlM2RmODkzNmZjZDk5NTYxYzJm`
+Snapshot ID: `MCw4MTJhMTc2ZDYwYWJjZTZiNmY0YjE2MDRkNTg4OTllZDE1ZGMzYzUw`

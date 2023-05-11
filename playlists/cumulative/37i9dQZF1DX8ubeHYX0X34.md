@@ -2,7 +2,7 @@
 
 ### [All Time Pakistani Hits](https://open.spotify.com/playlist/37i9dQZF1DX8ubeHYX0X34)
 
-> Timeless Pakistani hits, all in one place\. Cover \- Jun
+> Timeless Pakistani hits, all in one place\. Cover \- Junoon
 
 204 songs - 16 hr 32 min
 
@@ -76,7 +76,7 @@
 | [Ibtada\-e\-Ishq](https://open.spotify.com/track/0QgtJw3nkrvAtvh4DxEhwG) | [Haroon](https://open.spotify.com/artist/4S0WPsBEcic5O5Dv2aAPvM) | [Haroon Ka Nasha](https://open.spotify.com/album/2VCx3ekibEp0409xfWrzOK) | 3:51 | 2021-08-16 | 2022-07-28 |
 | [Ik Arzu](https://open.spotify.com/track/4cndbON398hOOnGgqJwj4M) | [Jal](https://open.spotify.com/artist/2f50lwdTtShldrc5JrA5fU) | [Pyaas](https://open.spotify.com/album/6tR4OP2sLkYlUgdaz1y9bW) | 4:39 | 2021-08-16 | 2023-04-20 |
 | [Ik Chah](https://open.spotify.com/track/0hNiPGtdTVeZEhSTZlvbch) | [Aaroh](https://open.spotify.com/artist/0FkdHz5RBdvLUTBf97WRSo) | [Raag Neela](https://open.spotify.com/album/6jxi9QkkeaykE0tcoATEjk) | 4:51 | 2021-08-16 | 2022-07-27 |
-| [Ik Din Aye Ga](https://open.spotify.com/track/3wUreem0PICuBnFN8nfvz7) | [Jal \-The Band](https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8) | [Aadat](https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5) | 4:18 | 2021-08-16 | 2023-05-02 |
+| [Ik Din Aye Ga](https://open.spotify.com/track/3wUreem0PICuBnFN8nfvz7) | [Jal \-The Band](https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8) | [Aadat](https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5) | 4:18 | 2021-08-16 |  |
 | [Insaan](https://open.spotify.com/track/29XITUkEsoV6eyOymJr3Me) | [Mizraab](https://open.spotify.com/artist/0h96R0yP58SpvbS6hMrZJe) | [Maazi Haal Mutaqbil](https://open.spotify.com/album/5ZB9hCtbNx07Che3yQOV4I) | 6:57 | 2021-08-16 | 2022-07-27 |
 | [Intezaar](https://open.spotify.com/track/7HlCsOXMNxrFfoaccPsimt) | [Junaid Jamshed](https://open.spotify.com/artist/2DmMcw1UxHSzAEFrMY3r2D) | [Dil Ki Baat](https://open.spotify.com/album/5amY0cWsD0XmPL5D2xzHE9) | 5:08 | 2021-08-16 | 2022-07-25 |
 | [Iraaday](https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Iraaday](https://open.spotify.com/album/5rrokeOdlkdlyLaGfiixYy) | 2:13 | 2023-04-18 |  |
@@ -127,7 +127,7 @@
 | [Meray Log](https://open.spotify.com/track/2YLYj3H91rrrU5TMt2yGyn) | [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Peeli Patti Aur Raja Jani Ki Gol Dunya](https://open.spotify.com/album/1ulFNPGcDNipaa6e1SbHsj) | 4:31 | 2021-08-16 |  |
 | [Mere Pass Pass \- From "Mere Pass Pass"](https://open.spotify.com/track/5QNd9dmBWPcP3q7fceWxWP) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP) | [Mere Pass Pass \(From "Mere Pass Pass"\)](https://open.spotify.com/album/1ZyRRjIVDnxD5ZeIsPIwW4) | 5:27 | 2021-08-16 | 2022-07-27 |
 | [Meri Rarhan](https://open.spotify.com/track/1LTk8liBxwtnliWDPseslm) | [Mizraab](https://open.spotify.com/artist/0h96R0yP58SpvbS6hMrZJe) | [Maazi Haal Mutaqbil](https://open.spotify.com/album/5ZB9hCtbNx07Che3yQOV4I) | 4:38 | 2021-08-16 | 2022-07-27 |
-| [Mitwa](https://open.spotify.com/track/4BTPzhEsyW3blWcxcuhLM0) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Caralisa Monteiro](https://open.spotify.com/artist/2Yf4MRVpt0rcAd5y5h5ph1), [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Kabhi Alvida Naa Kehna \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4hYTERVUXY74XJdm8tyXBV) | 6:22 | 2021-08-16 |  |
+| [Mitwa](https://open.spotify.com/track/4BTPzhEsyW3blWcxcuhLM0) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Caralisa Monteiro](https://open.spotify.com/artist/2Yf4MRVpt0rcAd5y5h5ph1), [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Kabhi Alvida Naa Kehna \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4hYTERVUXY74XJdm8tyXBV) | 6:22 | 2021-08-16 | 2023-05-11 |
 | [Mona](https://open.spotify.com/track/4DDOtpRIvQcfsciohLVkXZ) | [Mauj](https://open.spotify.com/artist/7hF2h024edRGQQZ4XSfVLb) | [Now in Technicolor](https://open.spotify.com/album/3YKc6pe4R3oM2sY8UXWEIz) | 4:04 | 2021-08-16 | 2022-07-25 |
 | [Moray Saiyaan](https://open.spotify.com/track/3yGDIR4j6XejzxUoU8MXxs) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3) | [Gunkali \(Original Score\)](https://open.spotify.com/album/1lCyYMOz15QK4vhcUxHxEW) | 4:05 | 2021-08-16 |  |
 | [Moray Sayyaan](https://open.spotify.com/track/0Ng8B5tNxF1rwucEehLgNu) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3) | [Gunkali](https://open.spotify.com/album/5joHir1GOCMuArukMLKVVJ) | 4:05 | 2021-08-16 | 2022-07-29 |
@@ -160,7 +160,7 @@
 | [Pyareya](https://open.spotify.com/track/79cLz6xNrqZjPFShXirTun) | [Haroon](https://open.spotify.com/artist/4S0WPsBEcic5O5Dv2aAPvM) | [Haroon Ki Awaz](https://open.spotify.com/album/4eyWYh9SUzBnIt2sWEH49I) | 4:31 | 2021-08-16 | 2022-07-27 |
 | [Raag Neela](https://open.spotify.com/track/3yR06OToULFMvC8AIapM2j) | [Aaroh](https://open.spotify.com/artist/0FkdHz5RBdvLUTBf97WRSo) | [Raag Neela](https://open.spotify.com/album/6jxi9QkkeaykE0tcoATEjk) | 3:58 | 2021-08-16 | 2022-07-28 |
 | [Raba](https://open.spotify.com/track/6frplKFuESveHMvu3GAVN0) | [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy) | [Sampooran](https://open.spotify.com/album/21MMf1Nv9iD4XVkLf91TQl) | 6:55 | 2021-08-16 | 2022-07-22 |
-| [Rangeen](https://open.spotify.com/track/68NKwqYYhDz347R1w0z5sD) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Huqa Pani](https://open.spotify.com/album/4ccLUwsTaAt2fvVC75Copb) | 4:35 | 2021-08-16 |  |
+| [Rangeen](https://open.spotify.com/track/68NKwqYYhDz347R1w0z5sD) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Huqa Pani](https://open.spotify.com/album/4ccLUwsTaAt2fvVC75Copb) | 4:35 | 2021-08-16 | 2023-05-11 |
 | [Ranjan](https://open.spotify.com/track/3O5FJlCwM1zUimuBbMm3Ul) | [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP) | [Rung](https://open.spotify.com/album/6hyh4qo5rt47cea7PXfO7s) | 4:06 | 2021-08-16 | 2022-07-29 |
 | [Ranjha](https://open.spotify.com/track/7LFAzQ8ICbxuNXc2bufYHO) | [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy) | [Saptak](https://open.spotify.com/album/7jsDOMK6ZlfSTZ6n8KefxP) | 4:00 | 2021-08-16 | 2022-07-22 |
 | [Ranjish Hi Sahi](https://open.spotify.com/track/4t2sMBajRuSKudtieXPgPp) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Coke Studio Season 10: Episode 1](https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8) | 5:36 | 2021-08-16 |  |
@@ -180,7 +180,7 @@
 | [Sawaal](https://open.spotify.com/track/78ebXoVF2HmY4RfaO1Eyk5) | [Aaroh](https://open.spotify.com/artist/0FkdHz5RBdvLUTBf97WRSo) | [Sawaal](https://open.spotify.com/album/0fVgvrRb2zst9O7HiCYJOU) | 6:00 | 2021-08-16 | 2022-07-25 |
 | [Sayonee](https://open.spotify.com/track/075QYa566prNemChnZDEY1) | [Junoon](https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK) | [Azadi](https://open.spotify.com/album/5xLL0ENxSbpHlSjstHntIM) | 5:04 | 2021-08-16 |  |
 | [Shareekan Nu Agg Lagdi](https://open.spotify.com/track/1TYptychNtxkcekD2AoByD) | [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw) | [Nachaan Mein Oday Nall](https://open.spotify.com/album/0NmjrBjO6RYj6bLDZMDVBb) | 4:03 | 2021-08-16 | 2022-07-28 |
-| [Shareekan Nu Agg Lagdi](https://open.spotify.com/track/2zl7lKlPv2rKwy0awC6I5m) | [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw) | [Nachaan Mein Oday Nall](https://open.spotify.com/album/09OUqCA4QUA4U3Dv7PDBWd) | 4:03 | 2021-08-16 | 2023-05-08 |
+| [Shareekan Nu Agg Lagdi](https://open.spotify.com/track/2zl7lKlPv2rKwy0awC6I5m) | [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw) | [Nachaan Mein Oday Nall](https://open.spotify.com/album/09OUqCA4QUA4U3Dv7PDBWd) | 4:03 | 2021-08-16 |  |
 | [Shayad](https://open.spotify.com/track/2LJymusf0Q0gfDF0tP7GsZ) | [Call](https://open.spotify.com/artist/5QHScjNJhVCWz5VM3XMYZI) | [Jilawatan](https://open.spotify.com/album/5ZCgLCP9jpoCxsYrqUPiCS) | 4:53 | 2021-08-16 | 2022-07-13 |
 | [Sohniyae](https://open.spotify.com/track/32eBFBZD9htEMKyF0VIQ67) | [Strings](https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX) | [Dhaani](https://open.spotify.com/album/21luKloROzEZKHzgbhye2U) | 4:01 | 2021-08-16 | 2022-07-27 |
 | [Sukh](https://open.spotify.com/track/6Jk0heMbgKvKiWMFh99J2Z) | [Rushk](https://open.spotify.com/artist/0M12q0sYgM4yYWBAf7rqME) | [Sawal](https://open.spotify.com/album/1maNCNkafMkUNxRVvt5iqW) | 5:13 | 2021-08-16 | 2022-07-25 |

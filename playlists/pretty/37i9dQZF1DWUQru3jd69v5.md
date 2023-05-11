@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Nerissima Serpe in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,759 likes - 55 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,786 likes - 55 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 54 | [Nuovo John Gotti](https://open.spotify.com/track/06aa7ZRI20dR0iJLIfbpM8) | [Dot Valentino](https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA) | [Nuovo John Gotti](https://open.spotify.com/album/3Jh62mJFaIQj0umX3TZeTy) | 2:20 |
 | 55 | [Captato](https://open.spotify.com/track/4kSEO7zOY10fak3s1KF04k) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [Cultura](https://open.spotify.com/album/2dsU9lVMag4W7Fu12cdQEt) | 2:03 |
 
-Snapshot ID: `MCxmZGNjMzhmNDY5ZTdiNzFkMjMxNjQ4YzkxNGU0N2JhMmQ1ZGQwMDZm`
+Snapshot ID: `MCw4Mzg5ZTQ4MWNmMTQyMjhmMGZmYjNlNDNiMjUzZGFiZGZhOGExODg3`

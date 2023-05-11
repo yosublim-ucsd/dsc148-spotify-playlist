@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 364746,
+  "num_followers": 364800,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjI0N2ViZjY1OWNlODI1Zjk2ZGY4NzBkNzEzYjU3ZjA5MWQ4ODIy",
+  "snapshot_id": "MCw3NDYxYmU5NzgxMWIyMjg1YThlMmZiMWIwYmRmYjFkOGExYjU5NzE0",
   "tracks": [
     {
       "added_at": "2023-04-20 22:00:00",
@@ -424,7 +424,7 @@
       "added_at": "2023-04-20 22:00:00",
       "album": {
         "name": "Color Pomelo",
-        "url": "https://open.spotify.com/album/0bxfLarWsZfBgRmfiMy16Y"
+        "url": "https://open.spotify.com/album/6BdL4sKb4pZzCpwbq0miIh"
       },
       "artists": [
         {
@@ -434,7 +434,7 @@
       ],
       "duration_ms": 233168,
       "name": "Color Pomelo",
-      "url": "https://open.spotify.com/track/5BmPzGQctgm3XkNNZnkSKq"
+      "url": "https://open.spotify.com/track/2N1IkXdMqhO12VUUU4TKlw"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "I'm Like A Bird - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2JtSnwYNKOphDrshYL8n4p"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 174360,
       "name": "Stay With Me - Live From Spotify Berlin",
       "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "I'm Like A Bird - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2JtSnwYNKOphDrshYL8n4p"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Veneer",
-        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 161680,
-      "name": "Heartbeats",
-      "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Everyday Life",
         "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 258533,
       "name": "Everyday Life",
       "url": "https://open.spotify.com/track/0h9fnCSnbUgOEgibnQByFv"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Veneer",
+        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 161680,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -767,22 +767,18 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "The Crimson Wing: Mystery of the Flamingos (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1XkXmvhIZzIZDIg70zaLMW"
+        "name": "Ghost Stories",
+        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
       },
       "artists": [
         {
-          "name": "The Cinematic Orchestra",
-          "url": "https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB"
-        },
-        {
-          "name": "London Metropolitan Orchestra",
-          "url": "https://open.spotify.com/artist/3fYr24qYhJejxewFrckFE4"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 157240,
-      "name": "Arrival of the Birds",
-      "url": "https://open.spotify.com/track/0Gr2XQOIMaaUH86iOrWGur"
+      "duration_ms": 228373,
+      "name": "Ink",
+      "url": "https://open.spotify.com/track/6c6W25YoDGjTq3qSPOga5t"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -803,18 +799,22 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Ghost Stories",
-        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+        "name": "The Crimson Wing: Mystery of the Flamingos (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1XkXmvhIZzIZDIg70zaLMW"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "The Cinematic Orchestra",
+          "url": "https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB"
+        },
+        {
+          "name": "London Metropolitan Orchestra",
+          "url": "https://open.spotify.com/artist/3fYr24qYhJejxewFrckFE4"
         }
       ],
-      "duration_ms": 228373,
-      "name": "Ink",
-      "url": "https://open.spotify.com/track/6c6W25YoDGjTq3qSPOga5t"
+      "duration_ms": 157240,
+      "name": "Arrival of the Birds",
+      "url": "https://open.spotify.com/track/0Gr2XQOIMaaUH86iOrWGur"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Qu\u00e9 Bueno!",
-        "url": "https://open.spotify.com/album/5KJd4syqmjCuCWIMV4mBZM"
-      },
-      "artists": [
-        {
-          "name": "Cheti",
-          "url": "https://open.spotify.com/artist/14MWie92G8fspcINNwL7n7"
-        },
-        {
-          "name": "Chukky",
-          "url": "https://open.spotify.com/artist/1pbypJzDS0Glu3baISY6AL"
-        }
-      ],
-      "duration_ms": 222391,
-      "name": "Qu\u00e9 Bueno!",
-      "url": "https://open.spotify.com/track/3pCibQLOsHM1z7DnyEpysp"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Electric Light",
         "url": "https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R"
       },
@@ -1467,22 +1447,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Go\u00fbter +",
-        "url": "https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n"
-      },
-      "artists": [
-        {
-          "name": "Lou Val",
-          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
-        }
-      ],
-      "duration_ms": 208192,
-      "name": "in ur motion",
-      "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Barcelona",
         "url": "https://open.spotify.com/album/6TzswGbJlD3UorEQoST3bc"
       },
@@ -1499,6 +1463,22 @@
       "duration_ms": 155048,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/4ksOH8hJAZJpqWzOJJ5fCV"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Go\u00fbter +",
+        "url": "https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n"
+      },
+      "artists": [
+        {
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        }
+      ],
+      "duration_ms": 208192,
+      "name": "in ur motion",
+      "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1619,22 +1599,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "In Deepest Blue (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/6xWGNnipxLJCfRPPB9e9Iy"
-      },
-      "artists": [
-        {
-          "name": "Joshua Hyslop",
-          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
-        }
-      ],
-      "duration_ms": 201933,
-      "name": "The Spark",
-      "url": "https://open.spotify.com/track/1jkBuvWI9IGEz9thXiKOlP"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Hoy es siempre (feat. Nicole Zignago)",
         "url": "https://open.spotify.com/album/3PJhuL6uxw9HQUTYRu2Ecx"
       },
@@ -1651,6 +1615,38 @@
       "duration_ms": 196666,
       "name": "Hoy es siempre (feat. Nicole Zignago)",
       "url": "https://open.spotify.com/track/0oCQAJMx0PbuDYxBIaDN2z"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "In Deepest Blue (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/6xWGNnipxLJCfRPPB9e9Iy"
+      },
+      "artists": [
+        {
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+        }
+      ],
+      "duration_ms": 201933,
+      "name": "The Spark",
+      "url": "https://open.spotify.com/track/1jkBuvWI9IGEz9thXiKOlP"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Either/Or",
+        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 176826,
+      "name": "Angeles",
+      "url": "https://open.spotify.com/track/1aMafyDbpEw3a8FrVhwRlg"
     },
     {
       "added_at": "2023-04-20 22:00:00",

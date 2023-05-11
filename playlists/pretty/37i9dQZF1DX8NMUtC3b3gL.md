@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,356 likes - 262 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,520 likes - 262 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,7 +141,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 131 | [Nocturn Doubts](https://open.spotify.com/track/5zVTc85gPq1ncILKdK9vXc) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq) | [Night Times](https://open.spotify.com/album/7wIa2SC3g2x4YvVzTFO3xd) | 2:18 |
 | 132 | [Ripples to Shore](https://open.spotify.com/track/3hIyjMuHctZZ0e3pcCzNcA) | [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK), [Aiguille](https://open.spotify.com/artist/3MhGQxnXMGb8fgTlAqcxeu) | [Alone at Dusk](https://open.spotify.com/album/2M24MgxeKXbrPBY1GYppfF) | 2:53 |
 | 133 | [Remain](https://open.spotify.com/track/4bNewDsQMCHz8eYbobTV8o) | [Jav Cast](https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj) | [Remain](https://open.spotify.com/album/7hC4FhRas3FdiYrQAOGSos) | 2:17 |
-| 134 | [Todos Santos](https://open.spotify.com/track/6N4eb103gL0UycNecc54HR) | [HEIXI](https://open.spotify.com/artist/5XhBFCP9dO1Mi0elkhmC7s) | [Wavy Gold](https://open.spotify.com/album/4eJOXXsJh7FRgzNeDMDLgm) | 1:35 |
+| 134 | [Todos Santos](https://open.spotify.com/track/6N4eb103gL0UycNecc54HR) | [HEIXI](https://open.spotify.com/artist/5XhBFCP9dO1Mi0elkhmC7s), [CaPT.FLuFFY](https://open.spotify.com/artist/0gvyNkYF79XvecGYb68rOE) | [Wavy Gold](https://open.spotify.com/album/4eJOXXsJh7FRgzNeDMDLgm) | 1:35 |
 | 135 | [You’re a wizard Larry](https://open.spotify.com/track/4uj5GzaGYcWhMQJ8gs2Muf) | [Wezley Wiz](https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg) | [You’re a wizard Larry](https://open.spotify.com/album/2u5LhMdMHGTbQU5JC7wXhM) | 2:07 |
 | 136 | [Green](https://open.spotify.com/track/2NViRu5OCG5c8yFfIvOtBO) | [Walterwarm](https://open.spotify.com/artist/07kiOUGRiofjbQZbEPH8yk), [Weston Smith](https://open.spotify.com/artist/3tpN5ZRLUzm5Znk3Z68Kdx) | [Green](https://open.spotify.com/album/3jVYgWqBoabCkwllAaBzPu) | 2:43 |
 | 137 | [Dont Cry Shorty](https://open.spotify.com/track/27u6SntXD6nJuYAArR9qjg) | [Alexander Vera](https://open.spotify.com/artist/4zQnlSlfg2Hy87ULJpjzkB) | [Dont Cry Shorty](https://open.spotify.com/album/5fF9t8zqLg4WKE3arCwn2k) | 1:37 |
@@ -253,7 +253,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 243 | [Kintsugi](https://open.spotify.com/track/5E3YYm8EmBn35w42VDj1fb) | [Third and Forever](https://open.spotify.com/artist/61ZLysh2sp3zFa23osGqBg) | [Third and Forever](https://open.spotify.com/album/07nMvYw3JrqK5832GuoFGD) | 2:20 |
 | 244 | [Super Film](https://open.spotify.com/track/7IQo63pHyV9TR9QS59TY4Q) | [Nizmar Ola](https://open.spotify.com/artist/7hoiEgMS78aEnIy44lmSwh) | [Catch Me Lofi](https://open.spotify.com/album/7JdNOgdGS6ve2x7caUpeKO) | 1:46 |
 | 245 | [Summer Nights in Berlin](https://open.spotify.com/track/29qx3pWrRzp7O6BR0bgAze) | [Lofi Soul](https://open.spotify.com/artist/4nPMjbF7QajTpVMGffa0Jn), [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [Summer Nights in Berlin](https://open.spotify.com/album/6Y7zwPclMpDIJ5MfUIpQ4N) | 2:13 |
-| 246 | [Cubism Crunk](https://open.spotify.com/track/47PMOlkzkBanoQC4LknwZ5) | [HEIXI](https://open.spotify.com/artist/5XhBFCP9dO1Mi0elkhmC7s) | [Cubism Crunk](https://open.spotify.com/album/5mEhuvyfqlFX0N8fva83BP) | 1:35 |
+| 246 | [Cubism Crunk](https://open.spotify.com/track/47PMOlkzkBanoQC4LknwZ5) | [HEIXI](https://open.spotify.com/artist/5XhBFCP9dO1Mi0elkhmC7s), [CaPT.FLuFFY](https://open.spotify.com/artist/0gvyNkYF79XvecGYb68rOE) | [Cubism Crunk](https://open.spotify.com/album/5mEhuvyfqlFX0N8fva83BP) | 1:35 |
 | 247 | [yume](https://open.spotify.com/track/7AUPjm4vyi040tP5xrLJNH) | [Pat Poker](https://open.spotify.com/artist/6CAC4ia3z2NKbunyFfzEDS) | [yume](https://open.spotify.com/album/4ZfEICxa7tKz4UkrrQ3vPP) | 2:30 |
 | 248 | [Shinin'](https://open.spotify.com/track/2s7rlnKjJJ8b8UskCtZ7VQ) | [nuttin](https://open.spotify.com/artist/4VO2SFvePDZLXlr7W1EJlu) | [Shinin'](https://open.spotify.com/album/2QjcsjYwpRoP0dRirJVc8Z) | 2:15 |
 | 249 | [Sunrise Citi](https://open.spotify.com/track/7yBBeYGkFgASRI6LxKiLgJ) | [Stereo Pack](https://open.spotify.com/artist/7En99WrIYmOSMXYJK3A16w) | [Sunrise Citi](https://open.spotify.com/album/3ZV8TP7HHfTQN5JnpRrTUM) | 1:58 |
@@ -271,4 +271,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 261 | [Baciati dall'Alba](https://open.spotify.com/track/1jxRI7gGElI8Ub2r3RfGmu) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Dolce far niente](https://open.spotify.com/album/6fwztztqcC6sBS4ceFEpiX) | 1:35 |
 | 262 | [Summer Nights](https://open.spotify.com/track/4ie8E16PC1VHVESsUXUfYx) | [Louis Woods](https://open.spotify.com/artist/2vVChmDdarQ6uVWL5QpIOq) | [Summer Nights](https://open.spotify.com/album/4rTQm79IK5yrJDJkTz9uNE) | 2:02 |
 
-Snapshot ID: `MCwzOTk2NTRlZDI3MjhhNTUyMmZlODZjMTU5ZmM0OTlmOTAzNzAzZDFi`
+Snapshot ID: `MCwwZjUwYmFlN2VmZWFjY2UyMjNkYjllYWE4ZWM0YjNmZmQwNmZjMjU3`

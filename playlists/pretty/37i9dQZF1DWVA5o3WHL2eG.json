@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: Pretty Pink",
-  "num_followers": 26225,
+  "num_followers": 26229,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2RmOTdkOTJlY2I3M2ZmOGQxNGMyMDQzNjY0OGM2Yzg3NmEzMTdj",
+  "snapshot_id": "MCwwNjg2YmY4OGM3YzNiNzEyMjk5MTkyZDU4MTQxNDlhMTQ3ZjFhMjQz",
   "tracks": [
     {
       "added_at": "2023-05-02 22:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-05-02 22:00:00",
       "album": {
-        "name": "I want it bad",
-        "url": "https://open.spotify.com/album/3r0rOGXSz7RSZ5dhMpxNo1"
-      },
-      "artists": [
-        {
-          "name": "Dottie Andersson",
-          "url": "https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM"
-        }
-      ],
-      "duration_ms": 152706,
-      "name": "I want it bad",
-      "url": "https://open.spotify.com/track/0vd63b6Tyq3iQeORinVPzj"
-    },
-    {
-      "added_at": "2023-05-02 22:00:00",
-      "album": {
         "name": "Now Or Never",
         "url": "https://open.spotify.com/album/4YKUIhAo0WvlE2qKkCvMUh"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 148997,
       "name": "Now Or Never",
       "url": "https://open.spotify.com/track/7xcmPlJlJZ4JsGapKjdkCu"
+    },
+    {
+      "added_at": "2023-05-02 22:00:00",
+      "album": {
+        "name": "I want it bad",
+        "url": "https://open.spotify.com/album/3r0rOGXSz7RSZ5dhMpxNo1"
+      },
+      "artists": [
+        {
+          "name": "Dottie Andersson",
+          "url": "https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM"
+        }
+      ],
+      "duration_ms": 152706,
+      "name": "I want it bad",
+      "url": "https://open.spotify.com/track/0vd63b6Tyq3iQeORinVPzj"
     },
     {
       "added_at": "2023-05-02 22:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-05-02 22:00:00",
       "album": {
-        "name": "i don\u2019t get stressed (Radio Edit)",
-        "url": "https://open.spotify.com/album/6UoTkDGrw1tNwPzGqf9M5c"
-      },
-      "artists": [
-        {
-          "name": "PAENDA",
-          "url": "https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz"
-        }
-      ],
-      "duration_ms": 151195,
-      "name": "i don\u2019t get stressed - Radio Edit",
-      "url": "https://open.spotify.com/track/45j85vQMOtPQFMkxQRFOvG"
-    },
-    {
-      "added_at": "2023-05-02 22:00:00",
-      "album": {
         "name": "Augen zu",
         "url": "https://open.spotify.com/album/4quko6tSRQ2bAZlZxTCtHU"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 161225,
       "name": "Augen zu",
       "url": "https://open.spotify.com/track/2WBl3RGjTOc1b7fV7l3PMt"
+    },
+    {
+      "added_at": "2023-05-02 22:00:00",
+      "album": {
+        "name": "i don\u2019t get stressed (Radio Edit)",
+        "url": "https://open.spotify.com/album/6UoTkDGrw1tNwPzGqf9M5c"
+      },
+      "artists": [
+        {
+          "name": "PAENDA",
+          "url": "https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz"
+        }
+      ],
+      "duration_ms": 151195,
+      "name": "i don\u2019t get stressed - Radio Edit",
+      "url": "https://open.spotify.com/track/45j85vQMOtPQFMkxQRFOvG"
     },
     {
       "added_at": "2023-05-02 22:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-05-02 22:00:00",
       "album": {
+        "name": "DJ in Berlin",
+        "url": "https://open.spotify.com/album/3oqqu6ebPQBMp4xgITBe3w"
+      },
+      "artists": [
+        {
+          "name": "3LNA",
+          "url": "https://open.spotify.com/artist/1emgDf5qBtbL909f2Pt7uP"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "DJ in Berlin",
+      "url": "https://open.spotify.com/track/5DCH8ZcKlZyfXYetdaPOiv"
+    },
+    {
+      "added_at": "2023-05-02 22:00:00",
+      "album": {
         "name": "Glue sein",
         "url": "https://open.spotify.com/album/1ChdP18rSplml6aVLa0Xh6"
       },
@@ -603,18 +619,18 @@
     {
       "added_at": "2023-05-02 22:00:00",
       "album": {
-        "name": "DJ in Berlin",
-        "url": "https://open.spotify.com/album/3oqqu6ebPQBMp4xgITBe3w"
+        "name": "Watching Strangers Smile",
+        "url": "https://open.spotify.com/album/0zpSsEuwv5VbuiyuvfpjmZ"
       },
       "artists": [
         {
-          "name": "3LNA",
-          "url": "https://open.spotify.com/artist/1emgDf5qBtbL909f2Pt7uP"
+          "name": "FILLY",
+          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
         }
       ],
-      "duration_ms": 166500,
-      "name": "DJ in Berlin",
-      "url": "https://open.spotify.com/track/5DCH8ZcKlZyfXYetdaPOiv"
+      "duration_ms": 133280,
+      "name": "Motorola",
+      "url": "https://open.spotify.com/track/0vEVGIB0WqzWRD5D8dfxAw"
     },
     {
       "added_at": "2023-05-02 22:00:00",
@@ -635,22 +651,6 @@
     {
       "added_at": "2023-05-02 22:00:00",
       "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/5pNla67YFt6fzF4kDs13Yr"
-      },
-      "artists": [
-        {
-          "name": "Velvet Two Stripes",
-          "url": "https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g"
-        }
-      ],
-      "duration_ms": 161306,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/0fnZuQ3x6ZKW7GhcbBZOkP"
-    },
-    {
-      "added_at": "2023-05-02 22:00:00",
-      "album": {
         "name": "Zwischen den sch\u00f6nsten B\u00e4umen",
         "url": "https://open.spotify.com/album/798k3MMihXKGasMfctNrXF"
       },
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-05-02 22:00:00",
       "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/5pNla67YFt6fzF4kDs13Yr"
+      },
+      "artists": [
+        {
+          "name": "Velvet Two Stripes",
+          "url": "https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g"
+        }
+      ],
+      "duration_ms": 161306,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/0fnZuQ3x6ZKW7GhcbBZOkP"
+    },
+    {
+      "added_at": "2023-05-02 22:00:00",
+      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/7LhkWbwq2Boz1borVsHS13"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 163000,
       "name": "Star",
       "url": "https://open.spotify.com/track/5xGZRYQ5H7bJT5oZWg7Bag"
-    },
-    {
-      "added_at": "2023-05-02 22:00:00",
-      "album": {
-        "name": "Watching Strangers Smile",
-        "url": "https://open.spotify.com/album/0zpSsEuwv5VbuiyuvfpjmZ"
-      },
-      "artists": [
-        {
-          "name": "FILLY",
-          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
-        }
-      ],
-      "duration_ms": 133280,
-      "name": "Motorola",
-      "url": "https://open.spotify.com/track/0vEVGIB0WqzWRD5D8dfxAw"
     },
     {
       "added_at": "2023-05-02 22:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-05-02 22:00:00",
       "album": {
-        "name": "family",
-        "url": "https://open.spotify.com/album/4eLBLRDyzkrswZ3SujKAqs"
-      },
-      "artists": [
-        {
-          "name": "Soukou",
-          "url": "https://open.spotify.com/artist/0eRpKXLg1McmJuL3ASNbiz"
-        }
-      ],
-      "duration_ms": 171527,
-      "name": "family",
-      "url": "https://open.spotify.com/track/6MLeZ2yO9hjIars3emNHCR"
-    },
-    {
-      "added_at": "2023-05-02 22:00:00",
-      "album": {
         "name": "K\u00fcnstlerische Freiheit II",
         "url": "https://open.spotify.com/album/0Cvm4VAqv24QIAAfwNbiWs"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 397891,
       "name": "Poetry",
       "url": "https://open.spotify.com/track/0H4dkHiQ5zmqEtoNbCnhyG"
+    },
+    {
+      "added_at": "2023-05-02 22:00:00",
+      "album": {
+        "name": "family",
+        "url": "https://open.spotify.com/album/4eLBLRDyzkrswZ3SujKAqs"
+      },
+      "artists": [
+        {
+          "name": "Soukou",
+          "url": "https://open.spotify.com/artist/0eRpKXLg1McmJuL3ASNbiz"
+        }
+      ],
+      "duration_ms": 171527,
+      "name": "family",
+      "url": "https://open.spotify.com/track/6MLeZ2yO9hjIars3emNHCR"
     },
     {
       "added_at": "2023-05-02 22:00:00",

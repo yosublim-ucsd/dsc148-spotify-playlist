@@ -3602,10 +3602,28 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 205493,
       "name": "DRAMA",
       "url": "https://open.spotify.com/track/1PIZfCbPbv4bQZkM9x81ET"
+    },
+    {
+      "album": {
+        "name": "PRIVATE",
+        "url": "https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205493,
+      "name": "DRAMA",
+      "url": "https://open.spotify.com/track/6n5LDeiPqFCcAp7RwdkwL9"
     },
     {
       "album": {
@@ -9500,10 +9518,28 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 234702,
       "name": "Our story",
       "url": "https://open.spotify.com/track/39ULK4lssqo0FgqUcLtI1h"
+    },
+    {
+      "album": {
+        "name": "Our story",
+        "url": "https://open.spotify.com/album/0jtmQ3RcmnaVXsZj96Kprr"
+      },
+      "artists": [
+        {
+          "name": "RUNG HYANG",
+          "url": "https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234702,
+      "name": "Our story",
+      "url": "https://open.spotify.com/track/4tEDd2ckkPPxSZkMT8kpDy"
     },
     {
       "album": {
@@ -11070,6 +11106,24 @@
       "duration_ms": 192484,
       "name": "Shower",
       "url": "https://open.spotify.com/track/1rS2X092hCdnS1DCrajMkd"
+    },
+    {
+      "album": {
+        "name": "shower room rendezvous",
+        "url": "https://open.spotify.com/album/04nZ0av3cPzR8J32FSwjbw"
+      },
+      "artists": [
+        {
+          "name": "Kei Sugawara",
+          "url": "https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204946,
+      "name": "shower room rendezvous",
+      "url": "https://open.spotify.com/track/4656G8EnjFhXdKQDpTnUPg"
     },
     {
       "album": {
@@ -14681,6 +14735,24 @@
     },
     {
       "album": {
+        "name": "Yumemirudakenara",
+        "url": "https://open.spotify.com/album/0KpYB0bKXN0YQXdxnfAOxB"
+      },
+      "artists": [
+        {
+          "name": "\u30d5\u30b8\u30bf \u30ab\u30b3",
+          "url": "https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212587,
+      "name": "Yumemirudakenara",
+      "url": "https://open.spotify.com/track/4E0sHNrQxoP7LHBMdGCToR"
+    },
+    {
+      "album": {
         "name": "Y\u5b57\u8def",
         "url": "https://open.spotify.com/album/29qj5rbigArk4Z6jdj5PiN"
       },
@@ -17386,7 +17458,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 204946,
       "name": "\u30b7\u30e3\u30ef\u30fc\u30eb\u30fc\u30e0\u30e9\u30f3\u30c7\u30d6\u30fc",
       "url": "https://open.spotify.com/track/746svnxRSFBJOHEh84XsmE"
@@ -21160,7 +21232,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 212587,
       "name": "\u5922\u898b\u308b\u3060\u3051\u306a\u3089",
       "url": "https://open.spotify.com/track/2ZazGKyCiP0BJXR8FNGjeF"

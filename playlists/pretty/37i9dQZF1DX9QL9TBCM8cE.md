@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 
 > Music from "THE IDOLM@STER SHINY COLORS"\. アイドルマスター シャイニーカラーズの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,312 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,340 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 | 49 | [ラビリンス・レジスタンス \- 2023 Version](https://open.spotify.com/track/38KKysXvXOTjmLSBzNkAG1) | [アンティーカ](https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY) | [THE IDOLM@STER SHINY COLORS FR@GMENT WING 03 \(2023 Version\)](https://open.spotify.com/album/3U2w2LF7VOu4U0JwDwwDoN) | 3:37 |
 | 50 | [Secret utopIA](https://open.spotify.com/track/3TE8TVyNEPutMardTtgl62) | [illumination STARS](https://open.spotify.com/artist/4hdNG4UKCFXjzfuCB37vyj), [ALSTROEMERIA](https://open.spotify.com/artist/6JqEyRLu7IsykcxMFFMZAc), [SHHis](https://open.spotify.com/artist/5Myi8VWLHStjf0nqwLMMMO) | [THE IDOLM@STER SHINY COLORS Synthe\-Side 03](https://open.spotify.com/album/5VWEYE7ttilS4rRwoDk6HS) | 3:48 |
 
-Snapshot ID: `MCwyN2E3NTFjMDUzZDZjNzhkYjQwMDc4NjMwMjMwMzQxMjA2ZWZlY2Rl`
+Snapshot ID: `MCxjZjhlODk4OGQzMGZlZWI3Y2EyYjYxMjJlYWFmMWViNGNkMDQ0ZjZk`

@@ -5352,7 +5352,7 @@
     {
       "album": {
         "name": "The Lover",
-        "url": "https://open.spotify.com/album/5UfVzZAONfOUcZonfMA7mW"
+        "url": "https://open.spotify.com/album/0QCyj1UlVJQ91sFNqHx9nc"
       },
       "artists": [
         {
@@ -5363,6 +5363,24 @@
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 174473,
+      "name": "Like A Seraph",
+      "url": "https://open.spotify.com/track/4KISFq8uuKx0TPW5LEr08s"
+    },
+    {
+      "album": {
+        "name": "The Lover",
+        "url": "https://open.spotify.com/album/5UfVzZAONfOUcZonfMA7mW"
+      },
+      "artists": [
+        {
+          "name": "haruno",
+          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-11",
       "duration_ms": 174473,
       "name": "Like A Seraph",
       "url": "https://open.spotify.com/track/6qP01shvp5iyBEhkKAaiRT"

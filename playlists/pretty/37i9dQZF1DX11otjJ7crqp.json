@@ -1,12 +1,12 @@
 {
   "description": "This week's essential new pop tracks. Cover: Benson Boone",
-  "num_followers": 57319,
+  "num_followers": 57399,
   "original_name": "New Pop Picks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWZkNGRkOWRiYjU5NjcyYzI3YmRjYzAzNTIzNGQ0MTI0ZGI0MDky",
+  "snapshot_id": "MCwwMTllNDcyNDgzNzNjYjA4ODFlY2JkZTkzZTAxZjEwMTIzZDIyZmE1",
   "tracks": [
     {
       "added_at": "2023-05-05 14:32:58",
@@ -264,7 +264,7 @@
       },
       "artists": [
         {
-          "name": "Walk Off the Earth",
+          "name": "Walk off the Earth",
           "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
         }
       ],
@@ -507,6 +507,22 @@
       "duration_ms": 199918,
       "name": "Flight Risk",
       "url": "https://open.spotify.com/track/368mOZ4hV8aacFU4XN0vLe"
+    },
+    {
+      "added_at": "2023-05-05 14:32:58",
+      "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/6TNSl6N3tdvWQ6hBm81Dz7"
+      },
+      "artists": [
+        {
+          "name": "Big Time Rush",
+          "url": "https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd"
+        }
+      ],
+      "duration_ms": 194880,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/3VAKlkSSrbEasm9WDDD9Jd"
     },
     {
       "added_at": "2023-05-05 14:32:58",
@@ -983,22 +999,6 @@
       "duration_ms": 242240,
       "name": "Eat The Acid",
       "url": "https://open.spotify.com/track/7IaZ2WDYVYi0OImUNQm6Vl"
-    },
-    {
-      "added_at": "2023-05-05 14:32:58",
-      "album": {
-        "name": "Another Life",
-        "url": "https://open.spotify.com/album/6TNSl6N3tdvWQ6hBm81Dz7"
-      },
-      "artists": [
-        {
-          "name": "Big Time Rush",
-          "url": "https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd"
-        }
-      ],
-      "duration_ms": 194880,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/3VAKlkSSrbEasm9WDDD9Jd"
     },
     {
       "added_at": "2023-05-05 14:32:58",

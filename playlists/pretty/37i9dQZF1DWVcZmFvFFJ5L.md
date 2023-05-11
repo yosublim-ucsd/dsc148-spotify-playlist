@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcZmFvFFJ5L.md) - [plain]
 
 > Jumping BoAs, Our Beloved BoA is here and BETTER than ever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,286 likes - 107 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,305 likes - 107 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcZmFvFFJ5L.md) - [plain]
 | 64 | [is this love](https://open.spotify.com/track/6wTfwVI0mFJyBJNqCCFioE) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [IDENTITY](https://open.spotify.com/album/1OratIVYQdiMHffTOtnv4j) | 4:04 |
 | 65 | [JEWEL SONG](https://open.spotify.com/track/0GaVCVBDWgSgPhkYn1e2ED) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [VALENTI](https://open.spotify.com/album/2btLO8L7RQ4r4gl6ADpaog) | 5:26 |
 | 66 | [Winter Love](https://open.spotify.com/track/4M3wUm1wL2zAiz9ehLXiZ5) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [MADE IN TWENTY\(20\)](https://open.spotify.com/album/0F9dZ8Cdm6Rr5tXkAZvW45) | 5:41 |
-| 67 | [One Dream](https://open.spotify.com/track/23fq2Sh3OpvhlKttYA1gJP) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4), [HENRY](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt), [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [Only One \- The 7th Album](https://open.spotify.com/album/54xacjSt0jd9cELJc2j7UR) | 2:28 |
+| 67 | [One Dream](https://open.spotify.com/track/23fq2Sh3OpvhlKttYA1gJP) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Only One \- The 7th Album](https://open.spotify.com/album/54xacjSt0jd9cELJc2j7UR) | 2:28 |
 | 68 | [WOO WEEKEND](https://open.spotify.com/track/2zUCj6qgmyoHejf1uCaA9n) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [WHO'S BACK?](https://open.spotify.com/album/1HdNlqFSppUorSoYQeOcBu) | 3:54 |
 | 69 | [Jazzclub](https://open.spotify.com/track/4vMDAZTZuLMtFwec3H4iqO) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [私このままでいいのかな](https://open.spotify.com/album/3aubaYePHVY5rQVtpUwf1y) | 2:50 |
 | 70 | [Amazing Kiss](https://open.spotify.com/track/7yYVoMQp93NnZgOprsGVJA) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [BEST OF SOUL](https://open.spotify.com/album/0gxS6h33HGI5jEAgcMsTWA) | 4:31 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcZmFvFFJ5L.md) - [plain]
 | 106 | [Good Love](https://open.spotify.com/track/22t8DIoRe0e5NLmbZU2mJx) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [WOMAN \- The 9th Album](https://open.spotify.com/album/68AStxkvhmfQv3A1qdW8CP) | 3:12 |
 | 107 | [Little More](https://open.spotify.com/track/1UUrSBdCVORp3w0GcZrWcU) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [WOMAN \- The 9th Album](https://open.spotify.com/album/68AStxkvhmfQv3A1qdW8CP) | 3:57 |
 
-Snapshot ID: `MCw0ZjRhN2UxN2QzMjcyOGQzOWM0Y2YyOTk2NWFhMzZjZjVjNzk3Yzdl`
+Snapshot ID: `MCwzM2NiZGFjNDY1ZjdmYjNjNGQwMTY5Y2U3YmY3NjRjZDNmNzljYzE2`

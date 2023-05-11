@@ -2,7 +2,7 @@
 
 ### [Arab X](https://open.spotify.com/playlist/37i9dQZF1DWWkrGNlIHxPl)
 
-> Global crossovers by/with Arab artists\. Cover: Mishaal Tamer
+> Global crossovers by/with Arab artists\. Cover: Zeina & Saint Levant
 
 267 songs - 15 hr 4 min
 

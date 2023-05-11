@@ -273,6 +273,24 @@
     },
     {
       "album": {
+        "name": "AOTOHARU",
+        "url": "https://open.spotify.com/album/1JFNHo7DcKh0mmcwHg4S4V"
+      },
+      "artists": [
+        {
+          "name": "bokula.",
+          "url": "https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273000,
+      "name": "AOTOHARU",
+      "url": "https://open.spotify.com/track/0jndSJguaUF4ERgMBFmDGI"
+    },
+    {
+      "album": {
         "name": "Asayake no Mukou",
         "url": "https://open.spotify.com/album/3GurbiI6aWgptNIkGKJ9Xs"
       },
@@ -3672,10 +3690,28 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 209933,
       "name": "Vision",
       "url": "https://open.spotify.com/track/0GcPTSS0Jy1HAhfq1KPuiX"
+    },
+    {
+      "album": {
+        "name": "Line of sight",
+        "url": "https://open.spotify.com/album/3ujGZAZXx5IRrKQqDzwcC9"
+      },
+      "artists": [
+        {
+          "name": "SCANDAL",
+          "url": "https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209933,
+      "name": "Vision",
+      "url": "https://open.spotify.com/track/6uqWmEvHkKxkd5fOSwbqCf"
     },
     {
       "album": {
@@ -4378,7 +4414,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 273000,
       "name": "\u30a2\u30aa\u30c8\u30cf\u30eb",
       "url": "https://open.spotify.com/track/6mzJebohonm5pMVPepGygB"

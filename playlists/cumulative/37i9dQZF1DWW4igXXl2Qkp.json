@@ -936,7 +936,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 99709,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/1IV6iZ3OzhRgcosTrW7uXI"
@@ -3336,7 +3336,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 192116,
       "name": "Dance On Me",
       "url": "https://open.spotify.com/track/0lO6UXUZ6yyN9B24B5bbYd"
@@ -4045,6 +4045,24 @@
     },
     {
       "album": {
+        "name": "Drunk",
+        "url": "https://open.spotify.com/album/5LcckaVsEQOadgwP3INJOt"
+      },
+      "artists": [
+        {
+          "name": "Portraits Of Tracy",
+          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390000,
+      "name": "Drunk",
+      "url": "https://open.spotify.com/track/4Y0O8smeKZqhauJh9zT8iS"
+    },
+    {
+      "album": {
         "name": "Dwayne Carter Flow",
         "url": "https://open.spotify.com/album/0DN87LYvjreENZHFUCbk6d"
       },
@@ -4546,6 +4564,24 @@
       "duration_ms": 144065,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/42hfVS3MCDIbyFoBriCiJF"
+    },
+    {
+      "album": {
+        "name": "FIESTA",
+        "url": "https://open.spotify.com/album/6m4f5lFKJfbl5sAo2t3b6V"
+      },
+      "artists": [
+        {
+          "name": "Joey Trap",
+          "url": "https://open.spotify.com/artist/0qpRQJnULShIWFKhcW5pce"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112920,
+      "name": "FIESTA",
+      "url": "https://open.spotify.com/track/3etouJKdaLH1CcXKiKo6zx"
     },
     {
       "album": {
@@ -5450,6 +5486,24 @@
       "duration_ms": 198517,
       "name": "Good Day",
       "url": "https://open.spotify.com/track/28oUuNBe1YxigxUTSDolo5"
+    },
+    {
+      "album": {
+        "name": "GOOD GUYS",
+        "url": "https://open.spotify.com/album/3rco725IKm4H8xoReOKUE6"
+      },
+      "artists": [
+        {
+          "name": "OD",
+          "url": "https://open.spotify.com/artist/52mj5aYgAlSF03Gpx1KHX9"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152904,
+      "name": "GOOD GUYS",
+      "url": "https://open.spotify.com/track/68tqTEwnCTQzGZKyB0fB1E"
     },
     {
       "album": {
@@ -6950,7 +7004,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 173681,
       "name": "Krazy",
       "url": "https://open.spotify.com/track/2yD3rny0lKgHqh7Y6KmAY5"
@@ -6976,6 +7030,24 @@
       "duration_ms": 162352,
       "name": "Kurt Cobain",
       "url": "https://open.spotify.com/track/25gdGXIrZ1Oxa3yh9AT22r"
+    },
+    {
+      "album": {
+        "name": "Kyrie Irving",
+        "url": "https://open.spotify.com/album/6bwoG7Pjlrv5Kcne3pg3W4"
+      },
+      "artists": [
+        {
+          "name": "WTM MILT",
+          "url": "https://open.spotify.com/artist/6Ycgw4zf7tiJM54vvJxH2k"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113311,
+      "name": "Kyrie Irving",
+      "url": "https://open.spotify.com/track/0vlQKXaVYZvd1LlL8srDYq"
     },
     {
       "album": {
@@ -7241,6 +7313,24 @@
     },
     {
       "album": {
+        "name": "Life Notes",
+        "url": "https://open.spotify.com/album/46e60rsbMek5SsTgox5Cjm"
+      },
+      "artists": [
+        {
+          "name": "Mati",
+          "url": "https://open.spotify.com/artist/16nyx3S0mgSs2cGlw9Sol8"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156002,
+      "name": "Life Notes",
+      "url": "https://open.spotify.com/track/71JfRimpfjNuafEmoVfc8T"
+    },
+    {
+      "album": {
         "name": "Lifes a B****",
         "url": "https://open.spotify.com/album/7LsNppw32BeeDm7o3Nyidk"
       },
@@ -7346,7 +7436,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 167314,
       "name": "lil (sun)ny +++ freestyle",
       "url": "https://open.spotify.com/track/0vfQAvqmbzuO4vcVNgbgIZ"
@@ -9101,6 +9191,28 @@
     },
     {
       "album": {
+        "name": "No Lies",
+        "url": "https://open.spotify.com/album/0YNczsb7k9kwsPGtPURcBV"
+      },
+      "artists": [
+        {
+          "name": "Lucid Kidd",
+          "url": "https://open.spotify.com/artist/18fitAD50Su7lbUq5TvApN"
+        },
+        {
+          "name": "Dro Kenji",
+          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182305,
+      "name": "No Lies",
+      "url": "https://open.spotify.com/track/0t58xiARE4ZH1AmuWN55Lt"
+    },
+    {
+      "album": {
         "name": "No More",
         "url": "https://open.spotify.com/album/0TG1iHKIaeHA5pAJzwZptr"
       },
@@ -9134,6 +9246,24 @@
       "duration_ms": 149304,
       "name": "No More",
       "url": "https://open.spotify.com/track/2ew6Sp4DaM7K3zqgQK3hDc"
+    },
+    {
+      "album": {
+        "name": "No Names",
+        "url": "https://open.spotify.com/album/0irXANWDdPdhqKPC6N7Q4D"
+      },
+      "artists": [
+        {
+          "name": "Shug Da Trappa",
+          "url": "https://open.spotify.com/artist/0SSGmhCpWCGOujTJDmlHh1"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166608,
+      "name": "No Names",
+      "url": "https://open.spotify.com/track/6pO0ZoWeeXoa3xOZH0eRzF"
     },
     {
       "album": {
@@ -10068,7 +10198,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 129429,
       "name": "Pound Town (and Tay Keith)",
       "url": "https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3"
@@ -10924,7 +11054,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 119666,
       "name": "RUN",
       "url": "https://open.spotify.com/track/534avBzVLI828YFVtxYaHe"
@@ -12064,7 +12194,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 101698,
       "name": "Still Lookin",
       "url": "https://open.spotify.com/track/6WFoDsJW8mi28u2uuIsdIj"
@@ -12406,6 +12536,36 @@
       "duration_ms": 198821,
       "name": "Tell Em How You Feel",
       "url": "https://open.spotify.com/track/4FRHo2eXjShYV7555U7hD0"
+    },
+    {
+      "album": {
+        "name": "That Boat Sailed",
+        "url": "https://open.spotify.com/album/1a0U0ryUd8VgvuKpS72YNf"
+      },
+      "artists": [
+        {
+          "name": "Thomas Maggart",
+          "url": "https://open.spotify.com/artist/4ByeJmj8U4Pp7VLpHxTRWK"
+        },
+        {
+          "name": "John Wells",
+          "url": "https://open.spotify.com/artist/62VYCXrlHGnWT5DZAHG41L"
+        },
+        {
+          "name": "Donta\u00e9",
+          "url": "https://open.spotify.com/artist/7DJWT2NBNxaT4XLkXWQzmF"
+        },
+        {
+          "name": "Ferris",
+          "url": "https://open.spotify.com/artist/5L4zqF3LDH8FL1v0F19GJ1"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162040,
+      "name": "That Boat Sailed",
+      "url": "https://open.spotify.com/track/00eAm6FQ58zYH4SIaJmpy5"
     },
     {
       "album": {

@@ -1,13 +1,61 @@
 {
   "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: MER\u014cN",
-  "num_followers": 184210,
+  "num_followers": 184386,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTM4MjdhODY3MmYxOTlkMWEyZWYzY2UzZjY1OWY0MmU5MDUzYTk4",
+  "snapshot_id": "MCwwM2UxMDQyMDdkYjdlZTE4YWRiN2Y1MjA4ODllYjBmYTI1OWE0YWZj",
   "tracks": [
+    {
+      "added_at": "2023-05-03 04:00:00",
+      "album": {
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/1FHfPh4tGlzWrnY6Yw6iZ2"
+      },
+      "artists": [
+        {
+          "name": "Isaac Stuart",
+          "url": "https://open.spotify.com/artist/7vqrMptsKefoZat5ztYapE"
+        }
+      ],
+      "duration_ms": 201515,
+      "name": "Midnight Train From Marylebone",
+      "url": "https://open.spotify.com/track/4AE4FWams3vyYkcObRAn7o"
+    },
+    {
+      "added_at": "2023-05-10 04:00:00",
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/6Pb81ahYdhNVwfElML7KQW"
+      },
+      "artists": [
+        {
+          "name": "Claudia Neuser",
+          "url": "https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq"
+        }
+      ],
+      "duration_ms": 180500,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/0aeOa10DSMZqVh6C7aTHac"
+    },
+    {
+      "added_at": "2023-05-10 04:00:00",
+      "album": {
+        "name": "Rain In California",
+        "url": "https://open.spotify.com/album/0R6IlEAhvgQkcfcsMc6E0Z"
+      },
+      "artists": [
+        {
+          "name": "VIBI",
+          "url": "https://open.spotify.com/artist/5WXBhs4qvg2LSdklOaZCAl"
+        }
+      ],
+      "duration_ms": 148150,
+      "name": "Rain In California",
+      "url": "https://open.spotify.com/track/7e7Ahta2Z36i0kxM6JkSxi"
+    },
     {
       "added_at": "2023-05-03 04:00:00",
       "album": {
@@ -25,20 +73,68 @@
       "url": "https://open.spotify.com/track/1cF3WDh4C8iRMvMZf8g3Kg"
     },
     {
-      "added_at": "2023-05-03 04:00:00",
+      "added_at": "2023-05-10 04:00:00",
       "album": {
-        "name": "Skyline",
-        "url": "https://open.spotify.com/album/1FHfPh4tGlzWrnY6Yw6iZ2"
+        "name": "Mississippi Air",
+        "url": "https://open.spotify.com/album/6zeZ9qDPwT8EHn5FLikcpR"
       },
       "artists": [
         {
-          "name": "Isaac Stuart",
-          "url": "https://open.spotify.com/artist/7vqrMptsKefoZat5ztYapE"
+          "name": "Caroline Romano",
+          "url": "https://open.spotify.com/artist/1MgbE6bu4MzbVLfAesPRol"
         }
       ],
-      "duration_ms": 201515,
-      "name": "Midnight Train From Marylebone",
-      "url": "https://open.spotify.com/track/4AE4FWams3vyYkcObRAn7o"
+      "duration_ms": 208275,
+      "name": "Mississippi Air",
+      "url": "https://open.spotify.com/track/7rTNTUxQW3Ekv5HX90BFSO"
+    },
+    {
+      "added_at": "2023-05-10 04:00:00",
+      "album": {
+        "name": "Drink Me",
+        "url": "https://open.spotify.com/album/5UlTq1mAwoKZkSMmixCkou"
+      },
+      "artists": [
+        {
+          "name": "Elli Moore",
+          "url": "https://open.spotify.com/artist/5qtgvemHd1Dl0WsgfpQIir"
+        }
+      ],
+      "duration_ms": 201086,
+      "name": "Blueberry Mojito",
+      "url": "https://open.spotify.com/track/0ajLglsDN2MJlf4pX6EpaP"
+    },
+    {
+      "added_at": "2023-04-26 04:00:00",
+      "album": {
+        "name": "Sunshine Roams",
+        "url": "https://open.spotify.com/album/00lDuonqVhC4Bt8ZPTBh4o"
+      },
+      "artists": [
+        {
+          "name": "MoonBee",
+          "url": "https://open.spotify.com/artist/2lpThELNjySTGNx4CmkyqH"
+        }
+      ],
+      "duration_ms": 216888,
+      "name": "Sunshine Roams",
+      "url": "https://open.spotify.com/track/0GHZOdTKBL7fQmjxErlIk7"
+    },
+    {
+      "added_at": "2023-05-10 04:00:00",
+      "album": {
+        "name": "Roster",
+        "url": "https://open.spotify.com/album/4Zg5BfAOaqBuvj7NSMN0iV"
+      },
+      "artists": [
+        {
+          "name": "OhEm",
+          "url": "https://open.spotify.com/artist/5a9tuA9hAvmwXEjk9t6x0U"
+        }
+      ],
+      "duration_ms": 217795,
+      "name": "Roster",
+      "url": "https://open.spotify.com/track/1UfZWmGkJuNQVlhXMPs9P8"
     },
     {
       "added_at": "2023-05-03 04:00:00",
@@ -295,22 +391,6 @@
       "duration_ms": 245272,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/0OuU7OaaKhuxBUu55FoHqF"
-    },
-    {
-      "added_at": "2023-04-26 04:00:00",
-      "album": {
-        "name": "Sunshine Roams",
-        "url": "https://open.spotify.com/album/00lDuonqVhC4Bt8ZPTBh4o"
-      },
-      "artists": [
-        {
-          "name": "MoonBee",
-          "url": "https://open.spotify.com/artist/2lpThELNjySTGNx4CmkyqH"
-        }
-      ],
-      "duration_ms": 216888,
-      "name": "Sunshine Roams",
-      "url": "https://open.spotify.com/track/0GHZOdTKBL7fQmjxErlIk7"
     },
     {
       "added_at": "2023-04-26 04:00:00",
@@ -1453,54 +1533,6 @@
       "url": "https://open.spotify.com/track/1Hkd8jn6mg0gfYoSixYi1V"
     },
     {
-      "added_at": "2023-03-22 04:00:00",
-      "album": {
-        "name": "Homecoming",
-        "url": "https://open.spotify.com/album/29f7zYlRzXVYHNy2w4udCI"
-      },
-      "artists": [
-        {
-          "name": "Serena Sun",
-          "url": "https://open.spotify.com/artist/6QE08doGmrNOROa5TWnVnG"
-        }
-      ],
-      "duration_ms": 181168,
-      "name": "Homecoming",
-      "url": "https://open.spotify.com/track/0aOGL2BD4pMXUYw7BAsa7j"
-    },
-    {
-      "added_at": "2023-03-22 04:00:00",
-      "album": {
-        "name": "Can't Deny",
-        "url": "https://open.spotify.com/album/18C6wjZcWdQ85X9a3SklyP"
-      },
-      "artists": [
-        {
-          "name": "Amanda Flowers",
-          "url": "https://open.spotify.com/artist/0m1n2Fyn0UbIDIvGojBKad"
-        }
-      ],
-      "duration_ms": 152876,
-      "name": "Can't Deny",
-      "url": "https://open.spotify.com/track/61IGMLCrIcV7DyZjedqXVK"
-    },
-    {
-      "added_at": "2023-03-22 04:00:00",
-      "album": {
-        "name": "Beautiful Regret",
-        "url": "https://open.spotify.com/album/0EL4FAgG4ni1bRehXyRwfP"
-      },
-      "artists": [
-        {
-          "name": "Emma Zander",
-          "url": "https://open.spotify.com/artist/1e5shldsBYSPVVugyEzvcQ"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Beautiful Regret",
-      "url": "https://open.spotify.com/track/3Midlv3EHzNit1rgDUOo26"
-    },
-    {
       "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "Attention",
@@ -1515,26 +1547,6 @@
       "duration_ms": 111986,
       "name": "Attention",
       "url": "https://open.spotify.com/track/7wU4q6Axt5ST67cs86H7HP"
-    },
-    {
-      "added_at": "2023-03-22 04:00:00",
-      "album": {
-        "name": "Relief (Remix feat. Jeffrey Eli)",
-        "url": "https://open.spotify.com/album/7mRs2g5HvP6fLlmCHs98Gx"
-      },
-      "artists": [
-        {
-          "name": "Madeline",
-          "url": "https://open.spotify.com/artist/3u5FXThTL9t0pv8PhUCElb"
-        },
-        {
-          "name": "Jeffrey Eli",
-          "url": "https://open.spotify.com/artist/7y2o4IQi5QnL6PbsOYuNp5"
-        }
-      ],
-      "duration_ms": 180392,
-      "name": "Relief - Remix",
-      "url": "https://open.spotify.com/track/1LyuLrCGL9Ku02uhf4kNUm"
     },
     {
       "added_at": "2023-03-15 05:00:00",
@@ -1599,22 +1611,6 @@
       "duration_ms": 154884,
       "name": "Better Than the Boys",
       "url": "https://open.spotify.com/track/7GLpR7N8nD4yOmcDBx8rhx"
-    },
-    {
-      "added_at": "2023-03-15 05:00:00",
-      "album": {
-        "name": "Anything With You",
-        "url": "https://open.spotify.com/album/0x5njTr5rYoAbN0vhqR9fE"
-      },
-      "artists": [
-        {
-          "name": "KASSEO",
-          "url": "https://open.spotify.com/artist/76UKhIGvZtS7jjb1muDTUM"
-        }
-      ],
-      "duration_ms": 203893,
-      "name": "Anything With You",
-      "url": "https://open.spotify.com/track/2ltmosY3NkVRwt0RPOmynA"
     }
   ],
   "unique_name": "Fresh Finds Pop",

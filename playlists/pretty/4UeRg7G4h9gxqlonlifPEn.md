@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4UeRg7G4h9gxqlonlifPEn.md) - [plain]
 
 > From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. Cover: Real Boston Richey
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 40,481 likes - 116 songs - 5 hr 29 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 40,480 likes - 116 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

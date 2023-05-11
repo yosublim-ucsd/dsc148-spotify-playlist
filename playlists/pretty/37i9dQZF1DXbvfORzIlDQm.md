@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvfORzIlDQm.md) - [plain]
 
 > A collection of roots music and covers urging peace and calling for change\. Cover: Tré Burt
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,841 likes - 54 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,851 likes - 54 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvfORzIlDQm.md) - [plain]
 | 16 | [A Change Is Gonna Come](https://open.spotify.com/track/0FEqhGaxp8Gq5m2KvnunJU) | [Los Coast](https://open.spotify.com/artist/22L3FsvrXWoLLEUApoNfpr), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [A Change Is Gonna Come](https://open.spotify.com/album/4fKOZdl2QP1TNTLbwhpXBp) | 3:23 |
 | 17 | [The Capitalist Blues](https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [The Capitalist Blues](https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ) | 3:55 |
 | 18 | [Working Poor](https://open.spotify.com/track/1bUh3o9tJiX9ylkQyc1bw4) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [The Last Days of Oakland](https://open.spotify.com/album/5XgUtV3205kTcgoSLNf8ix) | 4:00 |
-| 19 | [Goodnight America](https://open.spotify.com/track/0UdHQ44HgM8bTdqcEHzdQn) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Goodnight America](https://open.spotify.com/album/6JU7YqHB90mst6vC7sGOEp) | 3:10 |
+| 19 | [Goodnight America](https://open.spotify.com/track/349nGduTgMBG7WmwAL1LQp) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Our Country](https://open.spotify.com/album/5e5PRCyX77IfDVxTQF0vUZ) | 3:10 |
 | 20 | [Nina Cried Power \(feat\. Mavis Staples\)](https://open.spotify.com/track/7wR5r0KYGXBpyWXCdyYs3F) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Nina Cried Power \- EP](https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU) | 3:45 |
 | 21 | [Young, Black and Beautiful](https://open.spotify.com/track/5HyHmrM9Agef0556T4qhJW) | [Chris Pierce](https://open.spotify.com/artist/559oVBc653k5TOpiwhhr3r) | [Young, Black and Beautiful](https://open.spotify.com/album/2QbJt6O1XgVZwYRXLWi4Gn) | 2:31 |
 | 22 | [I'm Going Away](https://open.spotify.com/track/1ZcBa2buf2Mx5LHTyOujri) | [Elizabeth Cotten](https://open.spotify.com/artist/1eTZGzLkukATM7FoGltyFs) | [Shake Sugaree](https://open.spotify.com/album/7t6jknbXRsm0Us3dxwcLbt) | 3:25 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvfORzIlDQm.md) - [plain]
 | 53 | [Woodstock](https://open.spotify.com/track/1cXOxrN1qDxgjDvqcJANKc) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Woodstock](https://open.spotify.com/album/6S2lVoBmDELDPVgMtETs1I) | 5:07 |
 | 54 | [Give The People What They Want](https://open.spotify.com/track/5GSVH5qhutFR5k95UMqzTg) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Give The People What They Want](https://open.spotify.com/album/3bKA19kc24Ro0wtEO0IlCg) | 3:45 |
 
-Snapshot ID: `MCw2MzBjZjZiMGI4NTNiNDk4MzhmYjdlOWQ0Y2Q3NGU0NTkyMjYxNzAw`
+Snapshot ID: `MCxiMzllMDVmN2RkMTViN2MwYzhiNDBjYjk0Y2RhMmFlMWYwYzRiMjhk`

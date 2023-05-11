@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: Meghan Patrick
 
-1,303 songs - 2 day 21 hr 47 min
+1,304 songs - 2 day 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -962,7 +962,8 @@
 | [She's Looking Like I'm Lonely](https://open.spotify.com/track/6E824xMP2vW21XBaV6EuI0) | [Lance Carpenter](https://open.spotify.com/artist/7yaJ9uPFCrwNphKw2sIRmh) | [She's Looking Like I'm Lonely](https://open.spotify.com/album/3kNZNwuvOpa9DW1PcXisSW) | 3:14 | 2021-12-31 | 2022-01-22 |
 | [She's No Good for Me](https://open.spotify.com/track/4dmNC1afkVZKr5RfHkaj0E) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [She's No Good for Me](https://open.spotify.com/album/0guJBJw9wfICcXsEBgyHyu) | 3:25 | 2023-01-20 | 2023-02-11 |
 | [She's On It](https://open.spotify.com/track/5ImWIX3cFFtj5e3dkyKgs0) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [She's On It](https://open.spotify.com/album/5uVLJPLkOglCOaYKcG6JCd) | 3:17 | 2022-04-22 | 2022-08-06 |
-| [Shirley Temple](https://open.spotify.com/track/12TmKdt6ZDVr2UzXSg6hjK) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [Introducing: Lauren Watkins](https://open.spotify.com/album/7HvWK6u6afgFbmOcKDQf1g) | 3:38 | 2023-04-14 |  |
+| [Shirley Temple](https://open.spotify.com/track/0WjwCzxoqbxUPv9ia2PXi1) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [Introducing: Lauren Watkins](https://open.spotify.com/album/7xZb3Il98QIiag803YmofH) | 3:38 | 2023-05-05 |  |
+| [Shirley Temple](https://open.spotify.com/track/12TmKdt6ZDVr2UzXSg6hjK) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [Introducing: Lauren Watkins](https://open.spotify.com/album/7HvWK6u6afgFbmOcKDQf1g) | 3:38 | 2023-04-14 | 2023-05-11 |
 | [Shoot Tequila](https://open.spotify.com/track/6nTul7GTW3DInboBkJvvHw) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [Shoot Tequila](https://open.spotify.com/album/6qm6WlvE5XIrFEoYTcKT2Q) | 3:13 | 2023-01-13 | 2023-02-11 |
 | [Shootin' Me Down](https://open.spotify.com/track/1FSgk75diCUOO5UTBOSv16) | [Jason Benoit](https://open.spotify.com/artist/0Xi32ldFYxsc4g2vQ7b20w) | [Time Traveller \- Side A](https://open.spotify.com/album/1doWfJeIMlRSvRbpx5iVRl) | 3:00 | 2022-04-29 | 2022-07-09 |
 | [Shot Glass](https://open.spotify.com/track/1GwfKxtZb6JAr9lXa7b383) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Shot Glass](https://open.spotify.com/album/0LjZjuCqFFYCeit3OqcNVH) | 3:19 | 2022-03-18 | 2022-05-28 |

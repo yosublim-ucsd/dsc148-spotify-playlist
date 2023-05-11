@@ -1,12 +1,12 @@
 {
   "description": "Japanese female rock icons. \u56fd\u5185\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u305f\u3061\u3092\u7279\u96c6\u3002Cover: SCANDAL",
-  "num_followers": 41280,
+  "num_followers": 41338,
   "original_name": "She Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODFlMjcwMWQ2NGUwNWFhNjE5ZDhhZDllYTE0MzJlMmRlZGQ4NDVi",
+  "snapshot_id": "MCw2OTBmNjVkMzFkNzFhNzNlYzg2MDlmMjM3MjlmMTEwMzk2MmZlYjZk",
   "tracks": [
     {
       "added_at": "2023-05-09 15:00:00",
@@ -60,7 +60,7 @@
       "added_at": "2023-05-09 15:00:00",
       "album": {
         "name": "Line of sight",
-        "url": "https://open.spotify.com/album/7eqEaO6vnNqeAK7bUbkf7L"
+        "url": "https://open.spotify.com/album/3ujGZAZXx5IRrKQqDzwcC9"
       },
       "artists": [
         {
@@ -70,7 +70,7 @@
       ],
       "duration_ms": 209933,
       "name": "Vision",
-      "url": "https://open.spotify.com/track/0GcPTSS0Jy1HAhfq1KPuiX"
+      "url": "https://open.spotify.com/track/6uqWmEvHkKxkd5fOSwbqCf"
     },
     {
       "added_at": "2023-05-09 15:00:00",
@@ -431,8 +431,8 @@
     {
       "added_at": "2023-05-09 15:00:00",
       "album": {
-        "name": "door",
-        "url": "https://open.spotify.com/album/4lycjMMaKA1imPO6Wm4OUc"
+        "name": "\u6d6e\u3044\u305f\u6b32",
+        "url": "https://open.spotify.com/album/4IuKdpvd8I9WVZC73J7elQ"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/0lyPo2zoahnoeFXTq1JHeS"
         }
       ],
-      "duration_ms": 227913,
+      "duration_ms": 229000,
       "name": "door",
-      "url": "https://open.spotify.com/track/2I4ispQ4UjY6cot5eSJHTg"
+      "url": "https://open.spotify.com/track/3NaPqTnUAjxXcauToHr93O"
     },
     {
       "added_at": "2023-05-09 15:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-05-09 15:00:00",
       "album": {
-        "name": "Bye-Bye Show",
-        "url": "https://open.spotify.com/album/1m85FhfhwsxWNmE27G2a69"
-      },
-      "artists": [
-        {
-          "name": "BiSH",
-          "url": "https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj"
-        }
-      ],
-      "duration_ms": 248803,
-      "name": "SPARK",
-      "url": "https://open.spotify.com/track/3m0WWZ39p9t3DSgr3MqRyK"
-    },
-    {
-      "added_at": "2023-05-09 15:00:00",
-      "album": {
         "name": "\u5922\u3092\u307f\u305b\u3066",
         "url": "https://open.spotify.com/album/1PuFtFOnOSXNOHkKJkYcWm"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 324184,
       "name": "\u5922\u3092\u307f\u305b\u3066",
       "url": "https://open.spotify.com/track/6Xl3ty4oPbccRS9ehumXID"
+    },
+    {
+      "added_at": "2023-05-09 15:00:00",
+      "album": {
+        "name": "Bye-Bye Show",
+        "url": "https://open.spotify.com/album/1m85FhfhwsxWNmE27G2a69"
+      },
+      "artists": [
+        {
+          "name": "BiSH",
+          "url": "https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj"
+        }
+      ],
+      "duration_ms": 248803,
+      "name": "SPARK",
+      "url": "https://open.spotify.com/track/3m0WWZ39p9t3DSgr3MqRyK"
     },
     {
       "added_at": "2023-05-09 15:00:00",

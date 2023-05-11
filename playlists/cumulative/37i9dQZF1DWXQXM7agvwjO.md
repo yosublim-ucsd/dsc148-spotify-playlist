@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: The Chairs \(Taiwan\)
 
-761 songs - 1 day 21 hr 40 min
+762 songs - 1 day 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,7 +409,7 @@
 | [Mayflower](https://open.spotify.com/track/4dkUIKRDVbl3Btd0020IRt) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Mayflower](https://open.spotify.com/album/2uSoNhTaQQsPV9PXIuxOeQ) | 4:09 | 2022-09-08 | 2022-10-07 |
 | [Mejikuhibiniu](https://open.spotify.com/track/0wBdb4pmz0hyyI0M6ilZTy) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv), [Laze](https://open.spotify.com/artist/1IqTdUbQ33vM6tbV1fiWKZ) | [Mejikuhibiniu](https://open.spotify.com/album/5ErP3mluV25TH2ncKKcWM4) | 3:46 | 2022-05-19 | 2022-07-08 |
 | [Melody on Replay](https://open.spotify.com/track/1rXM4OirUNGGtkbYeqZ9je) | [jomm](https://open.spotify.com/artist/2izgD6xMmNboivbb1A6PHE), [readyaimfire27](https://open.spotify.com/artist/2Y65mGq91IEC2tfXNotVQ2) | [Melody on Replay](https://open.spotify.com/album/0nbF8G410gMpuDCv7TMIx6) | 2:48 | 2022-12-02 | 2023-02-17 |
-| [Merry Midnight](https://open.spotify.com/track/6qR09FJQiF8We0qtsjMK5Y) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d), [Tseng Kuo Hung](https://open.spotify.com/artist/0Ib2ZUmA8BXyCP18UZd8xP) | [Bloom](https://open.spotify.com/album/18RDnaVusM3sD5chVIUFzh) | 4:29 | 2023-04-20 |  |
+| [Merry Midnight](https://open.spotify.com/track/6qR09FJQiF8We0qtsjMK5Y) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d), [Tseng Kuo Hung](https://open.spotify.com/artist/0Ib2ZUmA8BXyCP18UZd8xP) | [Bloom](https://open.spotify.com/album/18RDnaVusM3sD5chVIUFzh) | 4:29 | 2023-04-20 | 2023-05-11 |
 | [Metamorphosis](https://open.spotify.com/track/0oNip00viM5wjLuAJQQiGc) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Metamorphosis](https://open.spotify.com/album/58X1FSKjMEcuWTyHWU9LSX) | 4:08 | 2022-04-14 | 2022-05-20 |
 | [Midnight Hotline](https://open.spotify.com/track/3vTvVfBQis7wysyjxUJJ8x) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Midnight Hotline](https://open.spotify.com/album/0Si5mCrv82BWvDogiYjzs9) | 3:38 | 2023-04-13 | 2023-04-21 |
 | [Midnight Shower](https://open.spotify.com/track/2HAQUaYAb7ZOvB3H4hbm17) | [The Candle Light Children](https://open.spotify.com/artist/59PyMbVTNW1JNa6aCHGFGW) | [Midnight Shower](https://open.spotify.com/album/7LVxJi3t2gt9wUv27F3tiF) | 3:20 | 2022-05-06 | 2022-06-24 |
@@ -603,6 +603,7 @@
 | [Take Me Back](https://open.spotify.com/track/1ezPtg7OOklRD4b3KY9osM) | [Kevin Kaho Tsui](https://open.spotify.com/artist/71Q8MlYcb2SiGxqyEAjBgX) | [Take Me Back](https://open.spotify.com/album/10YPFcXMzBP9qdC8jEOcpT) | 3:55 | 2022-06-02 | 2022-07-29 |
 | [Take My Hug](https://open.spotify.com/track/4Fml95IHlQ9QE976vkyvZk) | [thepicnik](https://open.spotify.com/artist/4SMvJNBPlNx6JsonzNi3Nw) | [Take My Hug](https://open.spotify.com/album/3gf0iNThdkWm4GmyPIwCGQ) | 4:01 | 2022-11-17 | 2023-02-10 |
 | [Teenager](https://open.spotify.com/track/2oXYNuC2MyRIBEAuhVCIAz) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Teenager](https://open.spotify.com/album/306w1PbQAo2jBo2k1IG7JJ) | 2:59 | 2022-03-24 | 2022-04-29 |
+| [Tell It To My Face](https://open.spotify.com/track/3BhdlvVCtfCzKFSmRQtUN4) | [Nathan Hartono](https://open.spotify.com/artist/6n8yGGsqYQhvH412YUbBsd) | [Tell It To My Face](https://open.spotify.com/album/17MkvC9Poj68uGnZ1W3468) | 4:04 | 2023-05-04 |  |
 | [Temple Fair](https://open.spotify.com/track/65IQJhKCLw0yHLL6OSiyvG) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Temple Fair](https://open.spotify.com/album/3sPEorgDnsLIHkEhWyQaZO) | 5:03 | 2022-09-22 | 2022-11-18 |
 | [Temu Hilang](https://open.spotify.com/track/0PBu9JJYbbNWEQwlq4h1mr) | [L'Alphalpha](https://open.spotify.com/artist/46ipdIq678HcnKpQqYFPuh) | [Temu Hilang](https://open.spotify.com/album/5fhlsWWzVbuRDJ0K9QwKIF) | 5:51 | 2023-03-23 | 2023-04-14 |
 | [thank you](https://open.spotify.com/track/1F5Q7g5lfBnOilwjWfbJmb) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Yung Lee Records](https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw) | [the art of thanking yourself](https://open.spotify.com/album/4uF1wU7jWUCKOr0NoqOaim) | 2:22 | 2022-05-12 | 2022-06-24 |

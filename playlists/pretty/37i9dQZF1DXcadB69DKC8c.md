@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcadB69DKC8c.md) - [plain]
 
 > Traditional Ethiopian nostalgic Tezeta music, soul and Afro\-funk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,587 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,627 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcadB69DKC8c.md) - [plain]
 | 49 | [Suur Tõll](https://open.spotify.com/track/7CrA3Zt9he26Dea8pFCYeD) | [The Sorcerers](https://open.spotify.com/artist/2eTKPnPlLHpFi8QH5aIVYA) | [The Sorcerers](https://open.spotify.com/album/5qpYtUeBDnzSttzGNgg1Je) | 4:45 |
 | 50 | [Addis Abèba bété](https://open.spotify.com/track/4G9tOUZe3bAg7IMm810hEb) | [Ukandanz](https://open.spotify.com/artist/6eid2mbg2XPVDyqdRmNIqb) | [Yetchalal \(EthioSonic\)](https://open.spotify.com/album/08isD5fKxI0WcEklKMni4k) | 5:21 |
 
-Snapshot ID: `MCw2N2RlYTRlNzcyNjRiN2FjZjA1OGQ0ZDZkNjI2Y2M1OGZhZmVkOGI2`
+Snapshot ID: `MCxlNTQwN2JmZDkxNzMxYzkzYWYzMmEzNmE0ZGZiMzlkMDlkZDVkYjFi`

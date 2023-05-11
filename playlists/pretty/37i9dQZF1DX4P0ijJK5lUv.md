@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4P0ijJK5lUv.md) - [plain]
 
 > Heartwarming carols and classical Christmas favourites, guaranteed to make any festive occasion merry and bright.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,306 likes - 126 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,295 likes - 126 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4P0ijJK5lUv.md) - [plain]
 | 125 | [Weihnachtsoratorium, BWV 248: Brich an, o schönes Morgenlicht \(Arr\. for Brass Ensemble by Werner Heckmann\)](https://open.spotify.com/track/2aWVNKs4388SAo18V8Pt9z) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [German Brass](https://open.spotify.com/artist/23OFuPJgFz1jGnHFW4WBiM) | [Weihnachtsoratorium, BWV 248: Brich an, o schönes Morgenlicht \(Arr\. for Brass Ensemble by Werner Heckmann\)](https://open.spotify.com/album/0CE05IHZPmURpV1TAgPSor) | 1:15 |
 | 126 | [Noel nouvelet](https://open.spotify.com/track/3wT4YKvuN98JeRgy7rxYRp) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Stephen Jackson](https://open.spotify.com/artist/1cEikHs79iLOlejgoN68Uv), [Alan Weiss](https://open.spotify.com/artist/1Ymxvcn96fgY1Cu2dZUJxe), [Judy Saiki](https://open.spotify.com/artist/4HjcjMR2VBHgz2hTTe39Uj), [Michael Kleinschmidt](https://open.spotify.com/artist/0G6pSgiaATbP7nIoCMf0Mr), [Richard Flanagan](https://open.spotify.com/artist/224oDBAt4j2YzKBAcrsqBm), [Jean Munroe](https://open.spotify.com/artist/75HcACj2jyfwxFAh7iPv6D), [Liza Wirtz](https://open.spotify.com/artist/2HXi1RwVyayWP9MuUPvlET), [Boston Trinity Church Choir](https://open.spotify.com/artist/7i3VvshJpQslCOPdSCNhSl), [Brian Jones](https://open.spotify.com/artist/59jIxiRAeLlkkXYiDPhsvf) | [A Choral Christmas](https://open.spotify.com/album/1a8ueiMZH1dqfm5rX7aFiU) | 4:43 |
 
-Snapshot ID: `MCwzMDMwZmNkMmFjNGYyYTFkODYyZDU5NDc4MDZjMDNlOTAyMzEwNWM0`
+Snapshot ID: `MCw3MDA5ZmEyNWE4YTViZDM0OTk4ZTZjMTQyNjcwMjUzYTdhNTZmNDdl`

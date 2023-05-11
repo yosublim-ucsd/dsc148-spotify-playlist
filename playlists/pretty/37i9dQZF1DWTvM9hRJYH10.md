@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Greylan James
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,673 likes - 143 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,695 likes - 143 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,7 +143,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 133 | [Pieces](https://open.spotify.com/track/5h0xfskqYqiDYG4jc8EMyb) | [Zac Hart](https://open.spotify.com/artist/5IMlHwNBRTSplBWaMMPuYb) | [Pieces](https://open.spotify.com/album/5FyigvplnzcKCIfAzvVAA9) | 3:07 |
 | 134 | [Over Me](https://open.spotify.com/track/0jXKRePIfoF4Cx85AySGv0) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Over Me](https://open.spotify.com/album/4cbl9hNkpawd8VCyGe8IiB) | 3:25 |
 | 135 | [Just Want My Love](https://open.spotify.com/track/7vr9z3BpXTnLrHthI9rVrg) | [Jack Harris](https://open.spotify.com/artist/27edmR0EqnlQYsj80VTusr) | [Just Want My Love](https://open.spotify.com/album/39JOX2Eoh0Hb6EBdbfpc3t) | 2:39 |
-| 136 | [Naive](https://open.spotify.com/track/31Ptw3pIczChzLahyqzUXC) | [Erin Gibney](https://open.spotify.com/artist/6T2lvnNVmGWVzbmmMAH4TF) | [Naive](https://open.spotify.com/album/3u0p3sbi4mWFXBoiyYmNcQ) | 3:28 |
+| 136 | [Naive](https://open.spotify.com/track/0pOqOiXB6UGyBMJyFKveGs) | [Erin Gibney](https://open.spotify.com/artist/6T2lvnNVmGWVzbmmMAH4TF) | [Naive \(Acoustic\)](https://open.spotify.com/album/5okczttY81sU0vEyqW5iy2) | 3:28 |
 | 137 | [Me Myself and Why](https://open.spotify.com/track/2s4arq5gE02rBGtGrn2PKj) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Me Myself and Why](https://open.spotify.com/album/4YloWyesV0HgASNvaNuoqR) | 3:33 |
 | 138 | [Me & the Bar](https://open.spotify.com/track/33x0whf3VnrG1mNBhJfteu) | [Kelsey Lamb](https://open.spotify.com/artist/2eoYr2pnDgyoDe9GLhuBoo) | [Me & the Bar](https://open.spotify.com/album/76UjGdURpADH42GpnXnR23) | 3:01 |
 | 139 | [Get Even](https://open.spotify.com/track/36l59Hx86AH7T3LpMgZA3F) | [Nikita Karmen](https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM) | [Get Even](https://open.spotify.com/album/3jViv3WtbhilkvlwXDdrFq) | 2:58 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 142 | [You Can Have Him](https://open.spotify.com/track/6dEnXxziCl4UwUL3BZUE9g) | [Jillian Steele](https://open.spotify.com/artist/0pkLsR4G0gWsY5OyIXuXQz) | [You Can Have Him](https://open.spotify.com/album/4An9zUetG23BuNpjDVo28D) | 3:17 |
 | 143 | [Beautifully Broken](https://open.spotify.com/track/3EEnS5a2qAKgWNjNf9CspG) | [Onoleigh](https://open.spotify.com/artist/2k2ug0ceFkR3QzBmlMZsrt) | [Beautifully Broken](https://open.spotify.com/album/6iwv4JaUaiJdHXZuqfijvR) | 3:11 |
 
-Snapshot ID: `MCwwZGI1NDA1ZDBiMGIyMzQ3YjU4MmM4N2YzZGQzOGFmOGUxZDMwOGM1`
+Snapshot ID: `MCwyM2VlNGY4NzFkODVlNjBiOWZkOTQ0MmZmODI0MWZmZjgzZDA1Nzc3`

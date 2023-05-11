@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Midnight Ontario](https://open.spotify.com/track/5tPAaQJwbEsFl3unzrBLdt) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9), [Pearson Sound](https://open.spotify.com/artist/3lN70MoiO9u6b95CsTeB1J) | [Midnight Ontario](https://open.spotify.com/album/2u5bejNVm2oQfsqzxtABAa) | 3:06 |
+| 1 | [Midnight Ontario](https://open.spotify.com/track/5tPAaQJwbEsFl3unzrBLdt) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Midnight Ontario](https://open.spotify.com/album/2u5bejNVm2oQfsqzxtABAa) | 3:06 |
 | 2 | [i m e s s a g e](https://open.spotify.com/track/6BXxG6LJlIGadSySZE2h9h) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [lil spirits](https://open.spotify.com/album/1qSGvtNStL6ELifn51W1va) | 3:06 |
 | 3 | [Starry](https://open.spotify.com/track/5b6ixVweRcabzJVIJwwFqY) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [Godson of House: The Album](https://open.spotify.com/album/3lQRDE6Zfi4DQ3yDrw6TXx) | 5:45 |
 | 4 | [Arise](https://open.spotify.com/track/5w9vW52kigTJR0bFC3TRNm) | [Death In Vegas](https://open.spotify.com/artist/5aj3LEYRbuaabjjHkj5oE1), [Sasha Grey](https://open.spotify.com/artist/5DWVtxlkGSCNxqEN7KWNpU) | [Transmission](https://open.spotify.com/album/0PhdBZuLPXXwuF2mbuefld) | 4:15 |

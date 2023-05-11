@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,821 likes - 109 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,829 likes - 109 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 33 | [Have You Seen Me Lately](https://open.spotify.com/track/3HU59vCYsrHX6bO8iTj6mv) | [Deportees](https://open.spotify.com/artist/64WsK4rMjSwnyuzTPFHVH4) | [Have You Seen Me Lately](https://open.spotify.com/album/29aZ6oPtFn4d9sTHoQ172w) | 4:45 |
 | 34 | [Killiana](https://open.spotify.com/track/4h0GeHnUxllqil2GtY5Igi) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [Killiana](https://open.spotify.com/album/70tu1kdlfAxheSaDF0NnPa) | 2:33 |
 | 35 | [Be Somebody](https://open.spotify.com/track/6GLATZeuyPYDhYs5VEOq7s) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8), [Alex Aris](https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G) | [Be Somebody](https://open.spotify.com/album/5WOxCncOqb9j4UL44wjJDt) | 4:00 |
-| 36 | [whatever](https://open.spotify.com/track/2WSORfJyTbgy90ZtJYcOZX) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [whatever](https://open.spotify.com/album/7dt6sUWujCzWUkNhI73mk7) | 1:59 |
-| 37 | [Never Alone](https://open.spotify.com/track/19F9zI5CTg1MZAVMA9EQ5P) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t), [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Never Alone](https://open.spotify.com/album/3JqNfyou9m91bGd9s7HMMU) | 2:23 |
+| 36 | [whatever](https://open.spotify.com/track/2WSORfJyTbgy90ZtJYcOZX) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [whatever](https://open.spotify.com/album/7dt6sUWujCzWUkNhI73mk7) | 1:59 |
+| 37 | [Never Alone](https://open.spotify.com/track/19F9zI5CTg1MZAVMA9EQ5P) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t), [Elina](https://open.spotify.com/artist/1SGZQU1X9gWYaF7VXe4P9C) | [Never Alone](https://open.spotify.com/album/3JqNfyou9m91bGd9s7HMMU) | 2:23 |
 | 38 | [Enough](https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 5:22 |
 | 39 | [Ondare](https://open.spotify.com/track/0utk1HOEE9S37ILEEPzLLp) | [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Vattnet är varmt snälla kom i jag lovar](https://open.spotify.com/album/6fHmX8sEa8C9PdAQomKLDc) | 3:51 |
 | 40 | [Över dig \(feat\. Lisa Ajax\)](https://open.spotify.com/track/4lOdySk6VskLgOCpXGEGQv) | [Klockrent!](https://open.spotify.com/artist/6XFNM3VxPM64ATHs1EYJn9), [Lisa Ajax](https://open.spotify.com/artist/15k33gArN2NU6cEYyQC3xZ) | [Över dig \(feat\. Lisa Ajax\)](https://open.spotify.com/album/60ECmClFpLGkdEP4SGnJWz) | 3:01 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 90 | [666](https://open.spotify.com/track/6oe7pckqiHPvNjQCO3NCME) | [Loxell](https://open.spotify.com/artist/6jqOiXsSb8FanwnWtz6OZu) | [666](https://open.spotify.com/album/2eD69WbIj8fGEYdj66mvXT) | 2:11 |
 | 91 | [Day One](https://open.spotify.com/track/3OLSNsjLlDxMIBCrGQSnJv) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Day One](https://open.spotify.com/album/6Yj1mLYVWdQWTIgix1YYfi) | 2:28 |
 | 92 | [Ooh \(Show Ya\)](https://open.spotify.com/track/0BTJg3ZV4IeCPjdz7hvjEu) | [J Swey](https://open.spotify.com/artist/7qF6NAMsPdmVz0o8n5v1Ht) | [Ooh \(Show Ya\)](https://open.spotify.com/album/1HcuJzwneobXv8plhUVd7q) | 2:27 |
-| 93 | [FlippChill3](https://open.spotify.com/track/10sqEv4i44ptfTBF4OSq9e) | [M9](https://open.spotify.com/artist/2WPbnqVgrR3nonwfeuBYmx) | [Gamechanger](https://open.spotify.com/album/0LqV4LW19VtjAWVfEUFWFO) | 3:47 |
+| 93 | [FlippChill3](https://open.spotify.com/track/7HRZ68ZZOoQvmYWYWpQ4Q7) | [M9](https://open.spotify.com/artist/2WPbnqVgrR3nonwfeuBYmx) | [Gamechanger](https://open.spotify.com/album/7ls6zCjc7AaiZH8jnOoE2T) | 3:47 |
 | 94 | [Leave My Heart Alone](https://open.spotify.com/track/38KvyXWBlhK13sYoOrFN0i) | [Minus Manus](https://open.spotify.com/artist/22ZMBKCKYvSLoplZDA3Pl0), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl) | [Leave My Heart Alone](https://open.spotify.com/album/52MOP5EOa0XAzn5yHM6nL4) | 1:57 |
 | 95 | [Nasty](https://open.spotify.com/track/2XYUIu1N5iUQw4p0lzpM0E) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk) | [Nasty](https://open.spotify.com/album/5TaUsd9PMFYsKk9ipZiGC4) | 2:40 |
 | 96 | [Bitch Is Fire](https://open.spotify.com/track/2IlBUNjLmdnh4gXAMm7riS) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Bitch Is Fire](https://open.spotify.com/album/6NmcPeyOPlRMn8YajEjlKv) | 2:15 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 108 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 |
 | 109 | [Fireflies](https://open.spotify.com/track/2Pb1ekr2pXVYEMER3rNcIa) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [ATUM](https://open.spotify.com/album/4Sd50ORhLkyoddNHyLnr49) | 3:26 |
 
-Snapshot ID: `MCxkZDJiMjU0Y2RlYjhlZmQzNDg3ODI3OGMwMmNiOGEyYTQzYWJmZjZk`
+Snapshot ID: `MCxlMmQxMDQ3YTNhZGY4YzZjMjlhZjgwY2EyNGRjYzU3YzMxMGI0OGQ5`

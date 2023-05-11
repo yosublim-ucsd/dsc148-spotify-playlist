@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSobRXOCtFPM.md) - [plain]
 
 > Listen to  <a href="spotify:artist:19SmlbABtI4bXz864MLqOS">Carl Cox</a>' favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,985 likes - 74 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,054 likes - 74 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Poem for the Planet \(Christopher Coe Remix\)](https://open.spotify.com/track/5KcDuJ3YTAs7RJfapoWmtz) | [Hannes Bieger](https://open.spotify.com/artist/3t6NA1aXgEgmkhKGf2bsP9), [Christopher Coe](https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP) | [Poem for the Planet \(Christopher Coe Remix\)](https://open.spotify.com/album/27J3jhdsNcwLrUFIXfJeQu) | 7:18 |
+| 1 | [Poem for the Planet \(Christopher Coe Remix\)](https://open.spotify.com/track/3vkvUKTZt14o8IYdT6YAzo) | [Hannes Bieger](https://open.spotify.com/artist/3t6NA1aXgEgmkhKGf2bsP9), [Christopher Coe](https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP) | [Poem for the Planet \(Christopher Coe Remix\)](https://open.spotify.com/album/7zKLxDFtxc4HRNOY6bJnFo) | 7:18 |
 | 2 | [Body Sweat](https://open.spotify.com/track/3rYdmZ90weUjvLRapJlaPb) | [Rory Marshall](https://open.spotify.com/artist/6tS7Kh3N3ItYKa4hhy5JSE), [yanzo](https://open.spotify.com/artist/2rnFMim0VQS6LCDgbuwbEH) | [Body Sweat](https://open.spotify.com/album/7JDs614E0yuIcfycO16M9S) | 7:06 |
 | 3 | [Die Zeit](https://open.spotify.com/track/7efDsVyiM3A3YNMkDSgkkQ) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [Timo Maas](https://open.spotify.com/artist/1nN9sUUgtCl0Z9ciCLc48Q) | [Die Zeit](https://open.spotify.com/album/1ICdlPnj6NC7x5AjIv5v45) | 7:16 |
 | 4 | [Light of the Universe](https://open.spotify.com/track/3MbHnU1WGGpaF2SzMN58sX) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [Light of the Universe](https://open.spotify.com/album/5yTwUr6JPFUkAbZeJF1k37) | 3:56 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSobRXOCtFPM.md) - [plain]
 | 73 | [N04](https://open.spotify.com/track/4eRRD7IAgepERtb9lg3RbH) | [Sato](https://open.spotify.com/artist/5OKlzH3DGCKLZoYwRiRTRD), [Satoshi Tomiie](https://open.spotify.com/artist/3TrAOZvW0MzZeKZRFnU7Ul) | [Blue, Black And Grey](https://open.spotify.com/album/08yr2guH6hVzoWT49bQ5d9) | 6:32 |
 | 74 | [Look a Crane](https://open.spotify.com/track/1OxOJ7qB9rT0TIhtyj8XmP) | [Monolith](https://open.spotify.com/artist/1lAiqmElW2YfeYVQbKWrBI) | [Ambiguous](https://open.spotify.com/album/2ePRLHdJNV5R7N0vKirbmD) | 4:52 |
 
-Snapshot ID: `MCxjMzQxNjRlMzQxYzg1NThkZWRlMjNjZmI1NjU0MDQyOGEzYjZiY2I3`
+Snapshot ID: `MCxkYjFlOGE0OTFhN2Y5MmNkODQwNzM2ZDE3YjNlNjRiNzM1ZGQ0MmM1`

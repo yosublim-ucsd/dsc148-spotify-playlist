@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from DJ Minx.",
-  "num_followers": 433619,
+  "num_followers": 433714,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjRmNGVlNzE1NzJiMzJjMjFiYTY4YmNhNzM0YjFiZjY0ZjgzNGQ2",
+  "snapshot_id": "MCw4YTVmOGY3MmU0YTE1YTgzOTEwZWUyZDI3ODU2MTc0YjA2MWY0ZGI5",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -563,26 +563,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "I Need You (Adriatique Remix)",
-        "url": "https://open.spotify.com/album/5xoWT0xsoV2jQ5wFvLUEfN"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        }
-      ],
-      "duration_ms": 291304,
-      "name": "I Need You - Adriatique Remix",
-      "url": "https://open.spotify.com/track/4RfOBweHWhbKwFDqIsuxdY"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 135796,
       "name": "Closer",
       "url": "https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "I Need You (Adriatique Remix)",
+        "url": "https://open.spotify.com/album/5xoWT0xsoV2jQ5wFvLUEfN"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        }
+      ],
+      "duration_ms": 291304,
+      "name": "I Need You - Adriatique Remix",
+      "url": "https://open.spotify.com/track/4RfOBweHWhbKwFDqIsuxdY"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -663,6 +663,26 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Golden Years (TOKiMONSTA Remix)",
+        "url": "https://open.spotify.com/album/370rX8pnkJuSCFBNnUHQWp"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 181636,
+      "name": "Golden Years - TOKiMONSTA Remix",
+      "url": "https://open.spotify.com/track/6m4C4gtiienQVNSWJ1JuU8"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Envy",
         "url": "https://open.spotify.com/album/60K91BZTnabLByBJejwqVS"
       },
@@ -699,26 +719,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Golden Years (TOKiMONSTA Remix)",
-        "url": "https://open.spotify.com/album/370rX8pnkJuSCFBNnUHQWp"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        },
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 181636,
-      "name": "Golden Years - TOKiMONSTA Remix",
-      "url": "https://open.spotify.com/track/6m4C4gtiienQVNSWJ1JuU8"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Kima Che",
         "url": "https://open.spotify.com/album/4dsvmUgxApRolK93WfddIR"
       },
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "2084",
+        "url": "https://open.spotify.com/album/68yEeHuIGikcVlyBo5UHvI"
+      },
+      "artists": [
+        {
+          "name": "KAS:ST",
+          "url": "https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN"
+        }
+      ],
+      "duration_ms": 366235,
+      "name": "2084",
+      "url": "https://open.spotify.com/track/2rgtmHB1O8GHaLFQZTF2tR"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "My Bills (feat. FEYI)",
         "url": "https://open.spotify.com/album/464yUiXI1Z48DbS4pENIFE"
       },
@@ -763,18 +779,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "2084",
-        "url": "https://open.spotify.com/album/68yEeHuIGikcVlyBo5UHvI"
+        "name": "Love Is A Highway (feat. NERIAH)",
+        "url": "https://open.spotify.com/album/2LkFKtRubAVcnJPVNtW5Vf"
       },
       "artists": [
         {
-          "name": "KAS:ST",
-          "url": "https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN"
+          "name": "NURKO",
+          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+        },
+        {
+          "name": "NERIAH",
+          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
         }
       ],
-      "duration_ms": 366235,
-      "name": "2084",
-      "url": "https://open.spotify.com/track/2rgtmHB1O8GHaLFQZTF2tR"
+      "duration_ms": 234776,
+      "name": "Love Is A Highway (feat. NERIAH)",
+      "url": "https://open.spotify.com/track/1725ZPzVwEYaFTztQzmu9s"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -795,26 +815,6 @@
       "duration_ms": 255609,
       "name": "Stop Calling",
       "url": "https://open.spotify.com/track/09JhSbew1W0vlnqiTPCfUb"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Love Is A Highway (feat. NERIAH)",
-        "url": "https://open.spotify.com/album/2LkFKtRubAVcnJPVNtW5Vf"
-      },
-      "artists": [
-        {
-          "name": "NURKO",
-          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
-        },
-        {
-          "name": "NERIAH",
-          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
-        }
-      ],
-      "duration_ms": 234776,
-      "name": "Love Is A Highway (feat. NERIAH)",
-      "url": "https://open.spotify.com/track/1725ZPzVwEYaFTztQzmu9s"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Just Like You",
-        "url": "https://open.spotify.com/album/6Nyy3Mp85GkTtQV8eMv5Dy"
-      },
-      "artists": [
-        {
-          "name": "Conro",
-          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
-        },
-        {
-          "name": "Boslen",
-          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Just Like You",
-      "url": "https://open.spotify.com/track/3KX6ILZKKVZwCqLQGtrjCk"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Bring The Heat",
         "url": "https://open.spotify.com/album/48oAYz2T9Iesq20OIMXNBK"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 157440,
       "name": "Bring The Heat",
       "url": "https://open.spotify.com/track/6jWloOddI8GE5qZXu7sir9"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Just Like You",
+        "url": "https://open.spotify.com/album/6Nyy3Mp85GkTtQV8eMv5Dy"
+      },
+      "artists": [
+        {
+          "name": "Conro",
+          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
+        },
+        {
+          "name": "Boslen",
+          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Just Like You",
+      "url": "https://open.spotify.com/track/3KX6ILZKKVZwCqLQGtrjCk"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Air",
-        "url": "https://open.spotify.com/album/7KGE6G4CQDvAoWpCg8vjFS"
-      },
-      "artists": [
-        {
-          "name": "Rezident",
-          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
-        }
-      ],
-      "duration_ms": 226906,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/2tVifODuxy46RFMDFzYMkI"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "My Mind",
         "url": "https://open.spotify.com/album/1i7vS2MZXIu4BcCkESRVL6"
       },
@@ -1291,22 +1275,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Truths (Making Moves)",
-        "url": "https://open.spotify.com/album/6A6tQkZTOVcvAuvfQaiogp"
+        "name": "Air",
+        "url": "https://open.spotify.com/album/7KGE6G4CQDvAoWpCg8vjFS"
       },
       "artists": [
         {
-          "name": "Alan Fitzpatrick",
-          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
-        },
-        {
-          "name": "3STRANGE",
-          "url": "https://open.spotify.com/artist/4H9nlRIz8akpjJurwlFf6i"
+          "name": "Rezident",
+          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Truths (Making Moves)",
-      "url": "https://open.spotify.com/track/0GvzI6DGFi2fqw0t7YU7He"
+      "duration_ms": 226906,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/2tVifODuxy46RFMDFzYMkI"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1331,18 +1311,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/4DtFjK1yiGjvKE7YqVt5wX"
+        "name": "Truths (Making Moves)",
+        "url": "https://open.spotify.com/album/6A6tQkZTOVcvAuvfQaiogp"
       },
       "artists": [
         {
-          "name": "Chronical Deep",
-          "url": "https://open.spotify.com/artist/391IHvSC8S9yNnt3VHZUYt"
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        },
+        {
+          "name": "3STRANGE",
+          "url": "https://open.spotify.com/artist/4H9nlRIz8akpjJurwlFf6i"
         }
       ],
-      "duration_ms": 447973,
-      "name": "Wake Them Up - Siyo'bavusa",
-      "url": "https://open.spotify.com/track/6qZJoaKhQA57rYLsZ7cA65"
+      "duration_ms": 176000,
+      "name": "Truths (Making Moves)",
+      "url": "https://open.spotify.com/track/0GvzI6DGFi2fqw0t7YU7He"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/4DtFjK1yiGjvKE7YqVt5wX"
+      },
+      "artists": [
+        {
+          "name": "Chronical Deep",
+          "url": "https://open.spotify.com/artist/391IHvSC8S9yNnt3VHZUYt"
+        }
+      ],
+      "duration_ms": 447973,
+      "name": "Wake Them Up - Siyo'bavusa",
+      "url": "https://open.spotify.com/track/6qZJoaKhQA57rYLsZ7cA65"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Shine A Light",
         "url": "https://open.spotify.com/album/7H9kqqBKqbU3eSxRpeEyrz"
       },
@@ -1379,22 +1379,6 @@
       "duration_ms": 200000,
       "name": "Shine A Light",
       "url": "https://open.spotify.com/track/1K663sfW7sbGOQVJ468v3u"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Don't Tell Me",
-        "url": "https://open.spotify.com/album/0UkxPgr1xYlGMxzm6GiLK6"
-      },
-      "artists": [
-        {
-          "name": "Duke & Jones",
-          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
-        }
-      ],
-      "duration_ms": 169523,
-      "name": "Don't Tell Me",
-      "url": "https://open.spotify.com/track/38CuN4CRLP5s76gE2PVmgD"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1423,6 +1407,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Don't Tell Me",
+        "url": "https://open.spotify.com/album/0UkxPgr1xYlGMxzm6GiLK6"
+      },
+      "artists": [
+        {
+          "name": "Duke & Jones",
+          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
+        }
+      ],
+      "duration_ms": 169523,
+      "name": "Don't Tell Me",
+      "url": "https://open.spotify.com/track/38CuN4CRLP5s76gE2PVmgD"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Bored",
         "url": "https://open.spotify.com/album/64RY3WoNtQIbPjfH69eiW5"
       },
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Tokyo Flower",
-        "url": "https://open.spotify.com/album/47YEoBCvoakAWX6LtQ39U6"
-      },
-      "artists": [
-        {
-          "name": "Krystal Klear",
-          "url": "https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI"
-        }
-      ],
-      "duration_ms": 258663,
-      "name": "Tokyo Flower",
-      "url": "https://open.spotify.com/track/1ePTOMXU0I6uB9NfsSConB"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Ibiza Sky",
         "url": "https://open.spotify.com/album/037IvHwQQZciy1bn85NvXd"
       },
@@ -1467,26 +1451,6 @@
       "duration_ms": 166451,
       "name": "Ibiza Sky",
       "url": "https://open.spotify.com/track/6TLKDxEM5wllCAxwln9MiT"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "SHEEESH",
-        "url": "https://open.spotify.com/album/7MGp4cfGpvAdgkQFdxyL9n"
-      },
-      "artists": [
-        {
-          "name": "Riot Ten",
-          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
-        },
-        {
-          "name": "Bandlez",
-          "url": "https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA"
-        }
-      ],
-      "duration_ms": 132413,
-      "name": "SHEEESH",
-      "url": "https://open.spotify.com/track/1LhdHHyfSr8LR8dFqz3NTg"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1511,22 +1475,38 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Bulldozer",
-        "url": "https://open.spotify.com/album/3mmGpsFRLodEWkK3kmBsHt"
+        "name": "SHEEESH",
+        "url": "https://open.spotify.com/album/7MGp4cfGpvAdgkQFdxyL9n"
       },
       "artists": [
         {
-          "name": "DJ Lag",
-          "url": "https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO"
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
         },
         {
-          "name": "Novelist",
-          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
+          "name": "Bandlez",
+          "url": "https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA"
         }
       ],
-      "duration_ms": 301950,
-      "name": "Bulldozer",
-      "url": "https://open.spotify.com/track/63aJ6gi41fLZdmd29AMi01"
+      "duration_ms": 132413,
+      "name": "SHEEESH",
+      "url": "https://open.spotify.com/track/1LhdHHyfSr8LR8dFqz3NTg"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Tokyo Flower",
+        "url": "https://open.spotify.com/album/47YEoBCvoakAWX6LtQ39U6"
+      },
+      "artists": [
+        {
+          "name": "Krystal Klear",
+          "url": "https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI"
+        }
+      ],
+      "duration_ms": 258663,
+      "name": "Tokyo Flower",
+      "url": "https://open.spotify.com/track/1ePTOMXU0I6uB9NfsSConB"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1547,6 +1527,26 @@
       "duration_ms": 189109,
       "name": "Blasphemy",
       "url": "https://open.spotify.com/track/1VFP7rkQB2dkEqWj9hBZym"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Bulldozer",
+        "url": "https://open.spotify.com/album/3mmGpsFRLodEWkK3kmBsHt"
+      },
+      "artists": [
+        {
+          "name": "DJ Lag",
+          "url": "https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO"
+        },
+        {
+          "name": "Novelist",
+          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
+        }
+      ],
+      "duration_ms": 301950,
+      "name": "Bulldozer",
+      "url": "https://open.spotify.com/track/63aJ6gi41fLZdmd29AMi01"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Short Term Agreement",
+        "url": "https://open.spotify.com/album/0vY4bhdPZInooe1bqsFGA8"
+      },
+      "artists": [
+        {
+          "name": "NxxxxxS",
+          "url": "https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "external meMories",
+      "url": "https://open.spotify.com/track/1H9WjQBIXGw05iJ5Ju3wPY"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/5s21XVqI0I31porPGWJ97T"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 245000,
       "name": "The Ecstasy",
       "url": "https://open.spotify.com/track/4Y4ibbxZ4cW8cwgTHOp4W3"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Short Term Agreement",
-        "url": "https://open.spotify.com/album/0vY4bhdPZInooe1bqsFGA8"
-      },
-      "artists": [
-        {
-          "name": "NxxxxxS",
-          "url": "https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "external meMories",
-      "url": "https://open.spotify.com/track/1H9WjQBIXGw05iJ5Ju3wPY"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1907,6 +1907,26 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Air River",
+        "url": "https://open.spotify.com/album/4rMArLjJW6ODYGlrqNz0qw"
+      },
+      "artists": [
+        {
+          "name": "Kelbin",
+          "url": "https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6"
+        },
+        {
+          "name": "RamonPang",
+          "url": "https://open.spotify.com/artist/5rgp60RQWM2lsyrHloYD7D"
+        }
+      ],
+      "duration_ms": 408117,
+      "name": "Air River",
+      "url": "https://open.spotify.com/track/5MnY3puht7tU2DdeGNa024"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "0793 (Chlo\u00e9 Robinson & DJ ADHD Remix)",
         "url": "https://open.spotify.com/album/5PfntI6Wc8RDSmGdExveIu"
       },
@@ -1927,26 +1947,6 @@
       "duration_ms": 318186,
       "name": "0793 - Chlo\u00e9 Robinson & DJ ADHD Remix",
       "url": "https://open.spotify.com/track/39sWHj3vEIfwM6YoBcQf98"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Air River",
-        "url": "https://open.spotify.com/album/4rMArLjJW6ODYGlrqNz0qw"
-      },
-      "artists": [
-        {
-          "name": "Kelbin",
-          "url": "https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6"
-        },
-        {
-          "name": "RamonPang",
-          "url": "https://open.spotify.com/artist/5rgp60RQWM2lsyrHloYD7D"
-        }
-      ],
-      "duration_ms": 408117,
-      "name": "Air River",
-      "url": "https://open.spotify.com/track/5MnY3puht7tU2DdeGNa024"
     },
     {
       "added_at": "2023-05-05 04:00:00",

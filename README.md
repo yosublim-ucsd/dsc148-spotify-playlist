@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6002\)
+## Playlists \(6003\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -4150,7 +4150,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Summer Chill](/playlists/pretty/37i9dQZF1DX4psg7TSYpot.md)
 - [Summer Chillout](/playlists/pretty/37i9dQZF1DX4DlNbZckE1g.md)
 - [Summer Cocktails](/playlists/pretty/37i9dQZF1DWWzhxZzVxMP3.md)
-- [Summer Dance Hits](/playlists/pretty/37i9dQZF1DWZ7eJRBxKzdO.md)
+- [Summer Dance Hits 2023](/playlists/pretty/37i9dQZF1DWZ7eJRBxKzdO.md)
 - [Summer Days](/playlists/pretty/0nUPQhoNrmw7Kr7sOeUCQh.md)
 - [Summer Daze](/playlists/pretty/37i9dQZF1DXcI8jhSl9B0G.md)
 - [Summer Heat](/playlists/pretty/37i9dQZF1DWX1UA045EoPG.md)
@@ -5079,6 +5079,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [This Is Yoss Bones](/playlists/pretty/37i9dQZF1DZ06evO0sej1C.md)
 - [This Is YoungBoy Never Broke Again](/playlists/pretty/37i9dQZF1DX08Pol1s74FY.md)
 - [This Is Yuki Hayashi](/playlists/pretty/37i9dQZF1DZ06evO1YiLbd.md)
+- [This Is Yuna](/playlists/pretty/37i9dQZF1DWZqOoX6ompfy.md)
 - [This Is Yuridia](/playlists/pretty/37i9dQZF1DZ06evO3ioSFW.md)
 - [This Is ZZ Top](/playlists/pretty/37i9dQZF1DZ06evO1uge6k.md)
 - [This Is Zach Bryan](/playlists/pretty/37i9dQZF1DZ06evO2llutr.md)

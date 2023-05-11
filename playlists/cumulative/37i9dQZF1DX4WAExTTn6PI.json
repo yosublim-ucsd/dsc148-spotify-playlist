@@ -1595,6 +1595,24 @@
     },
     {
       "album": {
+        "name": "How the Mighty Fall",
+        "url": "https://open.spotify.com/album/0xSyaaBZ3hrYf8rROAs125"
+      },
+      "artists": [
+        {
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258683,
+      "name": "Lyin' Low",
+      "url": "https://open.spotify.com/track/3g8UrwhapPBLVUU6WX6MH0"
+    },
+    {
+      "album": {
         "name": "Lyin' Low",
         "url": "https://open.spotify.com/album/20XVs57B5nrk68OGkSbWh4"
       },
@@ -1606,7 +1624,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 258683,
       "name": "Lyin' Low",
       "url": "https://open.spotify.com/track/4zKzSlADNWYQ8dKOQ3eMf0"
@@ -2111,6 +2129,24 @@
     },
     {
       "album": {
+        "name": "See You Next Time",
+        "url": "https://open.spotify.com/album/0k6hyzG6ntUuTVxiQIWpol"
+      },
+      "artists": [
+        {
+          "name": "Joshua Ray Walker",
+          "url": "https://open.spotify.com/artist/5SlqleEyFgUYZEZCJ5juDr"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230520,
+      "name": "Sexy After Dark",
+      "url": "https://open.spotify.com/track/4bsmxYIlAsApRfvopNMFdb"
+    },
+    {
+      "album": {
         "name": "Sexy After Dark",
         "url": "https://open.spotify.com/album/0m467Jz2jf5yXmK3gpxBzO"
       },
@@ -2122,7 +2158,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 230520,
       "name": "Sexy After Dark",
       "url": "https://open.spotify.com/track/5hOuD8UufsA8K2tqAtNj0d"

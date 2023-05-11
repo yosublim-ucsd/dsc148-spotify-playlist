@@ -1,12 +1,12 @@
 {
   "description": "Chill to these acoustic songs from the Middle East and North Africa. Cover: Labess.",
-  "num_followers": 55063,
+  "num_followers": 55097,
   "original_name": "Acoustic Arabic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGE1ZDU3ZmMxMTg4MTg1ZGQxNjgxNTJkM2UyZmE2OWQ5MzM4NTNl",
+  "snapshot_id": "MCxlZGU0MzdkNzQyOTQyNGVhMGFkMzA2ZjFjNjY2M2ZiMWEyMDlmYjI2",
   "tracks": [
     {
       "added_at": "2022-05-09 08:05:11",
@@ -299,6 +299,22 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
+        "name": "Ya Bay",
+        "url": "https://open.spotify.com/album/6GVvydaazmv0WjUfmyLAHw"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        }
+      ],
+      "duration_ms": 247028,
+      "name": "Ya Bay",
+      "url": "https://open.spotify.com/track/0UCLNOF0ZSi7tnENQE60yJ"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
         "name": "\u0635\u062d \u0627\u0644\u0646\u0648\u0645",
         "url": "https://open.spotify.com/album/5GLEKnaRshEuOfenkwAC0j"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 199636,
       "name": "Ahwak Hiba",
       "url": "https://open.spotify.com/track/4dMQ70p4sCovJ4qrpyOvmN"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "Ya Bay",
-        "url": "https://open.spotify.com/album/6GVvydaazmv0WjUfmyLAHw"
-      },
-      "artists": [
-        {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
-        }
-      ],
-      "duration_ms": 247028,
-      "name": "Ya Bay",
-      "url": "https://open.spotify.com/track/0UCLNOF0ZSi7tnENQE60yJ"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Rawquha",
-        "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
-      },
-      "artists": [
-        {
-          "name": "Apo & the Apostles",
-          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
-        }
-      ],
-      "duration_ms": 274363,
-      "name": "Walhani",
-      "url": "https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "\u064a\u0627\u0645\u0651\u0647 \u0645\u0648\u064a\u0644 \u0627\u0644\u0647\u0648\u0649 (feat. Frankly Jazz)",
         "url": "https://open.spotify.com/album/0VGa2gazFA7invA9hBmv4J"
       },
@@ -819,18 +803,18 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Ella Enta (Live Session)",
-        "url": "https://open.spotify.com/album/4v585gO6VevpUdxqcyvIV3"
+        "name": "Rawquha",
+        "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
       },
       "artists": [
         {
-          "name": "Dana Hourani",
-          "url": "https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6"
+          "name": "Apo & the Apostles",
+          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
         }
       ],
-      "duration_ms": 248952,
-      "name": "Ella Enta (Live Session)",
-      "url": "https://open.spotify.com/track/3dyoifUuRTOhUbF4sN3oGd"
+      "duration_ms": 274363,
+      "name": "Walhani",
+      "url": "https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -847,6 +831,22 @@
       "duration_ms": 256998,
       "name": "Dalia",
       "url": "https://open.spotify.com/track/7dQTHfMuE5itGnge9oREXI"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Ella Enta (Live Session)",
+        "url": "https://open.spotify.com/album/4v585gO6VevpUdxqcyvIV3"
+      },
+      "artists": [
+        {
+          "name": "Dana Hourani",
+          "url": "https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6"
+        }
+      ],
+      "duration_ms": 248952,
+      "name": "Ella Enta (Live Session)",
+      "url": "https://open.spotify.com/track/3dyoifUuRTOhUbF4sN3oGd"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Konna Sghar",
-        "url": "https://open.spotify.com/album/10qHkq9kvK4PbUenAbHX0p"
-      },
-      "artists": [
-        {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
-        }
-      ],
-      "duration_ms": 136279,
-      "name": "Konna Sghar",
-      "url": "https://open.spotify.com/track/1I0wn8z1DRR0JA9YWLVah4"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "Oumniya",
         "url": "https://open.spotify.com/album/6q0t1SQ8v2P0rfTG2nN9xb"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 264506,
       "name": "Salam",
       "url": "https://open.spotify.com/track/2NHbmvLriduIB96qXrO3yr"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Konna Sghar",
+        "url": "https://open.spotify.com/album/10qHkq9kvK4PbUenAbHX0p"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        }
+      ],
+      "duration_ms": 136279,
+      "name": "Konna Sghar",
+      "url": "https://open.spotify.com/track/1I0wn8z1DRR0JA9YWLVah4"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
+        "name": "Malak",
+        "url": "https://open.spotify.com/album/0w4C0NtyNXnNjVczCx2D5o"
+      },
+      "artists": [
+        {
+          "name": "Luay Hijazeen",
+          "url": "https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Malak",
+      "url": "https://open.spotify.com/track/2yaXvRBhiJB8qTljHWnhKw"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
         "name": "Mish Maoul",
         "url": "https://open.spotify.com/album/00oemMx6T4Jdd86Q29vmuW"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 333066,
       "name": "Oully Ya Sahbi",
       "url": "https://open.spotify.com/track/3KujYyygA5owoZZ3o8iyAE"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "Malak",
-        "url": "https://open.spotify.com/album/0w4C0NtyNXnNjVczCx2D5o"
-      },
-      "artists": [
-        {
-          "name": "Luay Hijazeen",
-          "url": "https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Malak",
-      "url": "https://open.spotify.com/track/2yaXvRBhiJB8qTljHWnhKw"
     },
     {
       "added_at": "2022-05-09 08:05:11",

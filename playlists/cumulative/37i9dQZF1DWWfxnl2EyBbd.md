@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-487 songs - 1 day 13 hr 50 min
+488 songs - 1 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [At Night](https://open.spotify.com/track/24U3tHtsmkqzdYGQUcBH5J) | [Marc Copland](https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Voices \- New York Trio Recordings, Vol\. 2](https://open.spotify.com/album/570mrFV8CbE6VpSDRT3QOW) | 8:43 | 2022-02-10 | 2022-11-09 |
 | [Autumn Leaves](https://open.spotify.com/track/2M5EVZsjXDyj532rLybsHt) | [Rasmus H Thomsen Trio](https://open.spotify.com/artist/5Ep05EOVNYVc5b5trOuDI1), [Krydda Sundström](https://open.spotify.com/artist/6dI8O0N6q3qFU8OgvgpEIm), [Oskar Cederblad](https://open.spotify.com/artist/2FglkJbc16UM02HY1VovVM) | [Autumn Leaves](https://open.spotify.com/album/6LXuAUGcglKV3b4zEwbDqJ) | 4:01 | 2022-11-17 |  |
 | [Autumn Once Again](https://open.spotify.com/track/3FFYuymUtI8DihGhLMHggW) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Autumn Once Again](https://open.spotify.com/album/3XWIqHBr7g3vkRKOx94SFk) | 4:44 | 2022-11-12 |  |
-| [Baby Plays Around](https://open.spotify.com/track/4yOHkrkJHqE7sruMEgDJBb) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Where Do You Start](https://open.spotify.com/album/2s8XWSfq0eLzFd6oaNiIx2) | 10:07 | 2022-02-10 |  |
+| [Baby Plays Around](https://open.spotify.com/track/4yOHkrkJHqE7sruMEgDJBb) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Where Do You Start](https://open.spotify.com/album/2s8XWSfq0eLzFd6oaNiIx2) | 10:07 | 2022-02-10 | 2023-05-11 |
 | [Babycat Please Come Back Home](https://open.spotify.com/track/5Z2jx1UikCHMjtjzPkjG5l) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU), [Jules Billé](https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng), [Christophe Piot](https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi) | [Babycat Please Come Back Home](https://open.spotify.com/album/57jw52zfyQVp57sbVhdUCQ) | 5:12 | 2022-06-03 |  |
 | [Barney's](https://open.spotify.com/track/4SPtyeZCNeiPsquKP8B8ip) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Life in Space](https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn) | 3:03 | 2022-11-24 | 2023-02-17 |
 | [Based On Gustav](https://open.spotify.com/track/03CuJU4nQBANkiHpRrazC9) | [Sir Roland Hanna Trio](https://open.spotify.com/artist/0nZO7OnpC74SRJQDxTWf7O) | [Apres Un Reve](https://open.spotify.com/album/1hbf0va1E55xuy2vssn0D3) | 6:36 | 2022-02-10 |  |
@@ -282,6 +282,7 @@
 | [My Cherie Amour](https://open.spotify.com/track/7DHFPzbBjip4vhw5DM9AFR) | [Jon Davis](https://open.spotify.com/artist/50COs4RSxBcXjOyOg56BZc) | [Changes over Time](https://open.spotify.com/album/6eMW0RnkkZMD7cBIznCP6i) | 4:05 | 2022-02-10 |  |
 | [My Foolish Heart](https://open.spotify.com/track/6eB1aRfbz36gO0YCoKj2R4) | [Dado Moroni](https://open.spotify.com/artist/5ZWvQaDozNtEy2WY5ZhSzz), [Jesper Lundgaard](https://open.spotify.com/artist/162KggIDGRImG9BUPWKsxf), [Lee Pearson](https://open.spotify.com/artist/6zTSAPQ1M1W1pdZK9I4G1K) | [My Foolish Heart](https://open.spotify.com/album/3VqTU5Jo7zVDTv6yOBa9v4) | 8:51 | 2022-08-30 |  |
 | [My Fortune](https://open.spotify.com/track/0jXPKgpfyYXEWNHVBSCJ4P) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [My Fortune](https://open.spotify.com/album/4FEMX7bMR5J0w3cRUXOoKJ) | 4:31 | 2022-11-12 |  |
+| [My Heart Is A Prism](https://open.spotify.com/track/5KdeyyZl1bKXHRrtzNefOi) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [My Heart Is A Prism](https://open.spotify.com/album/3qakmpWIbDJHI8zXNN3Fkc) | 3:50 | 2023-05-04 |  |
 | [My lids closed down](https://open.spotify.com/track/130PBtsuj1VyxWdn3fhN46) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [My lids closed down](https://open.spotify.com/album/6zxGisZi4shjN2KDc2MEll) | 3:51 | 2022-12-30 |  |
 | [My One and Only Love](https://open.spotify.com/track/1WJcMxYFOI7ZGXVq4P8HAn) | [Jean\-Pierre Como](https://open.spotify.com/artist/2Ljlfck4EICwQziKkapzlO), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph), [Niclas Campagnol](https://open.spotify.com/artist/1VqIpsJWDzAFIxWXCGCLuL) | [My Days in Copenhagen](https://open.spotify.com/album/7uHalLMcXcHRQxtI8usglb) | 5:29 | 2022-09-29 |  |
 | [My Reverie](https://open.spotify.com/track/4bXxeSD7lqij49IKogh7VP) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [My Reverie](https://open.spotify.com/album/2MSZ71NLAb0uAAAc29Grq8) | 3:48 | 2022-11-12 |  |

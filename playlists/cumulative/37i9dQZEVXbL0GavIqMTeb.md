@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Chile.
 
-627 songs - 1 day 11 hr 39 min
+628 songs - 1 day 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,7 +410,8 @@
 | [Olvidona \(feat\. Lleflight, Best\)](https://open.spotify.com/track/4o5DgFbeHH6kG84MrP85Ly) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Balbi El Chamako](https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt), [El Futuro Fuera De Orbita](https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk), [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [Olvidona \(feat\. Lleflight, Best\)](https://open.spotify.com/album/0kBgcGgNqyr0tCqY4PRuEw) | 3:53 | 2022-08-02 | 2022-08-14 |
 | [Otro Atardecer](https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:04 | 2022-05-07 | 2022-06-05 |
 | [PA K TE ENAMORE](https://open.spotify.com/track/1DmPVoJJgSAMHEMamRV4DH) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [PA K TE ENAMORE](https://open.spotify.com/album/4xLrTiXtCAguTznMly4H5z) | 2:20 | 2023-01-11 | 2023-05-06 |
-| [Pa La Europa](https://open.spotify.com/track/79Ias0x3ygL9ZQcQ7rAvbG) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [Pa La Europa](https://open.spotify.com/album/3UeGVaUGFEwU2lvYRdP1Nn) | 3:39 | 2023-04-11 |  |
+| [Pa La Europa](https://open.spotify.com/track/0MoTNY46hAvSVq2CdN1xHk) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [Pa La Europa](https://open.spotify.com/album/1wuxxtmnD0DAsMEHmqMcgu) | 3:39 | 2023-05-10 |  |
+| [Pa La Europa](https://open.spotify.com/track/79Ias0x3ygL9ZQcQ7rAvbG) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [Pa La Europa](https://open.spotify.com/album/3UeGVaUGFEwU2lvYRdP1Nn) | 3:39 | 2023-04-11 | 2023-05-11 |
 | [Panamera](https://open.spotify.com/track/4yG3Pgc8McT71M6jwRE9Hf) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Panamera](https://open.spotify.com/album/587dbQNUDsGAL4xMkNScm6) | 3:55 | 2022-05-01 | 2022-12-08 |
 | [Pantano \- Remix](https://open.spotify.com/track/1sDvWQbVj3anRUpONsubM9) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew) | [Pantano \(Remix\)](https://open.spotify.com/album/0qteDpvYnK1Oe5QCCyA7Wu) | 6:28 | 2022-07-31 | 2022-08-28 |
 | [PANTIES Y BRASIERES](https://open.spotify.com/track/4uVEdikP5eLUy8Dq6gjiPV) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:17 | 2023-01-28 | 2023-01-30 |

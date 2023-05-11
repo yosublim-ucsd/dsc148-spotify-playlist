@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Kabzaa",
-  "num_followers": 48961,
+  "num_followers": 48979,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDg1N2ZlNmVkMTEyYmU1ZjM5YmRmZjM4MWI1ZDcxMjNjYzE2OThl",
+  "snapshot_id": "MCw4YWE2YTFlYzEyZGE2ODQ4MDI1NzQ4ZDQzOGVhNGI0MWM2MGMwZTJl",
   "tracks": [
     {
       "added_at": "2023-02-28 11:36:56",
@@ -35,42 +35,38 @@
     {
       "added_at": "2023-05-09 07:09:05",
       "album": {
-        "name": "Nanna Roja Neene (From \"Kushi\") (Kannada)",
-        "url": "https://open.spotify.com/album/6VxjpUhtdOHgpmaK7lMBLX"
+        "name": "Nanna Roja Neene (From \"Kushi\") - Single",
+        "url": "https://open.spotify.com/album/7FtT1jxHHDVLb8Xo30IFiH"
       },
       "artists": [
         {
           "name": "Hesham Abdul Wahab",
           "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
         }
       ],
       "duration_ms": 243789,
-      "name": "Nanna Roja Neene",
-      "url": "https://open.spotify.com/track/062kpqZXAQyyWkrXmS3bXY"
+      "name": "Nanna Roja Neene (From \"Kushi\")",
+      "url": "https://open.spotify.com/track/6CcjkrkV1WiUhfuNChsIyT"
     },
     {
       "added_at": "2023-05-09 07:09:05",
       "album": {
-        "name": "Bareyada Saalugala (from \"Elra Kaaleliyatte Kaala\")",
-        "url": "https://open.spotify.com/album/2dLlzGyoeQgy46tbNsTdJQ"
+        "name": "Bareyada Saalugala (From \"Elra Kaaleliyatte Kaala\")",
+        "url": "https://open.spotify.com/album/3GuSMowAalmwB4b2lMRTX7"
       },
       "artists": [
         {
           "name": "Vijay Prakash",
           "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        },
-        {
-          "name": "Praveen-Pradeep",
-          "url": "https://open.spotify.com/artist/2Nh3McF50LBstOocdkW6m9"
-        },
-        {
-          "name": "Vishwajith Rao",
-          "url": "https://open.spotify.com/artist/4yoso4oy6CJUzfVOS6zkjS"
         }
       ],
       "duration_ms": 280836,
-      "name": "Bareyada Saalugala (from \"Elra Kaaleliyatte Kaala\")",
-      "url": "https://open.spotify.com/track/6LIgDXnDFi2BETv9aQDIyb"
+      "name": "Bareyada Saalugala - From \"Elra Kaaleliyatte Kaala\"",
+      "url": "https://open.spotify.com/track/3MOXoiVvshqaSUQxH6J2Vm"
     },
     {
       "added_at": "2023-05-08 08:30:40",

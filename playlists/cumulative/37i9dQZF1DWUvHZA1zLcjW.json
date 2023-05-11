@@ -49,6 +49,32 @@
     },
     {
       "album": {
+        "name": "Inner World",
+        "url": "https://open.spotify.com/album/3UJZTdSHNjNDYhaMWkQSxf"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Mikayel Hakhnazaryan",
+          "url": "https://open.spotify.com/artist/3gW3kuE8DMlNJhyqdiTKO0"
+        },
+        {
+          "name": "Lia Hakhnazaryan",
+          "url": "https://open.spotify.com/artist/3OlkteUHZTNTldvqj8L16K"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355960,
+      "name": "14 Romances, Op. 34/14: No. 14, Vocalise (Arr. For Cello & Piano by Alexander Shtrimer)",
+      "url": "https://open.spotify.com/track/0mYYgXh7nfgqyblzj08zZJ"
+    },
+    {
+      "album": {
         "name": "Hungarian Dances / Waltzes, Op. 39",
         "url": "https://open.spotify.com/album/30JPDQFmVwnBN78AVvzXhD"
       },
@@ -628,6 +654,32 @@
       "duration_ms": 558666,
       "name": "Cello Sonata in F Major, Op.6: II. Andante ma non troppo",
       "url": "https://open.spotify.com/track/5hl5NU3fJXDsakF7pJga35"
+    },
+    {
+      "album": {
+        "name": "The Chopin Project : Complete Chamber Music",
+        "url": "https://open.spotify.com/album/1HrMj86fuP1wlkAXeVGtpq"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Camille Thomas",
+          "url": "https://open.spotify.com/artist/4jr0QTGJnWJNUPeHjju3RD"
+        },
+        {
+          "name": "Julien Brocal",
+          "url": "https://open.spotify.com/artist/5xFAEWAcB0A5e7qk3UO2pc"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230720,
+      "name": "Cello Sonata in G Minor, Op. 65: III. Largo",
+      "url": "https://open.spotify.com/track/2AT23SSi0WuGvpNi79SsBG"
     },
     {
       "album": {
@@ -2131,6 +2183,32 @@
     },
     {
       "album": {
+        "name": "Folded Landscapes",
+        "url": "https://open.spotify.com/album/38mhxC6TEoXfimNwed6MhD"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        },
+        {
+          "name": "Daniel Pioro",
+          "url": "https://open.spotify.com/artist/4ZrHyIxtzxZC1yIot7S7qM"
+        },
+        {
+          "name": "Leo Abrahams",
+          "url": "https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188998,
+      "name": "Movement 7 - Instrumental",
+      "url": "https://open.spotify.com/track/5KCUSNueB7hssdiYyGU2Pf"
+    },
+    {
+      "album": {
         "name": "Muku",
         "url": "https://open.spotify.com/album/1uFnrq7fSZ0ezLUe7ve9Cv"
       },
@@ -3458,6 +3536,36 @@
       "duration_ms": 128013,
       "name": "Tune from the Film by Lana Gogoberidze: When Almonds Blossomed",
       "url": "https://open.spotify.com/track/0vqNv43ZdOMGwq6ZZiRBEH"
+    },
+    {
+      "album": {
+        "name": "Saint-Georges: Violin Concerto, Op. 7 No. 1: II. Adagio",
+        "url": "https://open.spotify.com/album/2jO8krKlYgNIaOfFu2evey"
+      },
+      "artists": [
+        {
+          "name": "Joseph Bologne, Chevalier de Saint-Georges",
+          "url": "https://open.spotify.com/artist/4RvPISSU4oEferxWVQ0MkI"
+        },
+        {
+          "name": "Fumika Mohri",
+          "url": "https://open.spotify.com/artist/0VUqNrrKBO5nEMyAgceMBD"
+        },
+        {
+          "name": "Czech Philharmonic Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/15TbaQl7va7MrUviXt4l7M"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318693,
+      "name": "Violin Concerto in A Major, Op. 7 No. 1: II. Adagio",
+      "url": "https://open.spotify.com/track/6WmjXazGnWVQBbsuFzbmF4"
     },
     {
       "album": {

@@ -7650,7 +7650,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 269000,
       "name": "Merry Midnight",
       "url": "https://open.spotify.com/track/6qR09FJQiF8We0qtsjMK5Y"
@@ -11308,6 +11308,24 @@
       "duration_ms": 179249,
       "name": "Teenager",
       "url": "https://open.spotify.com/track/2oXYNuC2MyRIBEAuhVCIAz"
+    },
+    {
+      "album": {
+        "name": "Tell It To My Face",
+        "url": "https://open.spotify.com/album/17MkvC9Poj68uGnZ1W3468"
+      },
+      "artists": [
+        {
+          "name": "Nathan Hartono",
+          "url": "https://open.spotify.com/artist/6n8yGGsqYQhvH412YUbBsd"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244650,
+      "name": "Tell It To My Face",
+      "url": "https://open.spotify.com/track/3BhdlvVCtfCzKFSmRQtUN4"
     },
     {
       "album": {

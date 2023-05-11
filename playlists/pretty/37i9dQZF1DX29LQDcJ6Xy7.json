@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal \u2013 fresh and old tunes. Cover: Rammstein",
-  "num_followers": 275843,
+  "num_followers": 276096,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWQ3NjcxYmMxNDUyYjE1YzVlNjUwZTY4MzRlNTMyMDc4ZDYxMzFm",
+  "snapshot_id": "MCxjMDA4YjQxZDc1ZTllYTJmNjQ4ZjYzN2JlZjQ4MjE5Y2U3ZDRmZjk3",
   "tracks": [
     {
       "added_at": "2023-05-05 05:09:11",
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Wisconsin Death Trip",
-        "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
+        "name": "Anyone For Doomsday?",
+        "url": "https://open.spotify.com/album/5H2p4hpkLk7JgZrjj79Q4Y"
       },
       "artists": [
         {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+          "name": "Powerman 5000",
+          "url": "https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC"
         }
       ],
-      "duration_ms": 204626,
-      "name": "I'm With Stupid",
-      "url": "https://open.spotify.com/track/6uOzYMGucTA0MAFwS2FNB2"
+      "duration_ms": 194173,
+      "name": "Bombshell",
+      "url": "https://open.spotify.com/track/2yY4ojg6wfEFBGVZoJuXqK"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -299,18 +299,18 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Anyone For Doomsday?",
-        "url": "https://open.spotify.com/album/5H2p4hpkLk7JgZrjj79Q4Y"
+        "name": "Wisconsin Death Trip",
+        "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
       },
       "artists": [
         {
-          "name": "Powerman 5000",
-          "url": "https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC"
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 194173,
-      "name": "Bombshell",
-      "url": "https://open.spotify.com/track/2yY4ojg6wfEFBGVZoJuXqK"
+      "duration_ms": 204626,
+      "name": "I'm With Stupid",
+      "url": "https://open.spotify.com/track/6uOzYMGucTA0MAFwS2FNB2"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Emigrate",
-        "url": "https://open.spotify.com/album/6F84H4YaytAQkJk6cvP0ri"
+        "name": "G\u00f6tterd\u00e4mmerung",
+        "url": "https://open.spotify.com/album/4JL1w8tZb0C07FcLYQROra"
       },
       "artists": [
         {
-          "name": "Emigrate",
-          "url": "https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1"
+          "name": "Megaherz",
+          "url": "https://open.spotify.com/artist/4tM8qmqg5cEZPHNLNQwHeb"
         }
       ],
-      "duration_ms": 257493,
-      "name": "My World",
-      "url": "https://open.spotify.com/track/3GwzYHGrRn7wMfRtvbjg2U"
+      "duration_ms": 258106,
+      "name": "Jagdzeit",
+      "url": "https://open.spotify.com/track/1mTCbTpcM1nKkH0wGf70Zq"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "G\u00f6tterd\u00e4mmerung",
-        "url": "https://open.spotify.com/album/4JL1w8tZb0C07FcLYQROra"
-      },
-      "artists": [
-        {
-          "name": "Megaherz",
-          "url": "https://open.spotify.com/artist/4tM8qmqg5cEZPHNLNQwHeb"
-        }
-      ],
-      "duration_ms": 258106,
-      "name": "Jagdzeit",
-      "url": "https://open.spotify.com/track/1mTCbTpcM1nKkH0wGf70Zq"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
         "name": "Bites",
         "url": "https://open.spotify.com/album/48uIwIUdrqvY27C7sXF9CA"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 416706,
       "name": "Assimilate",
       "url": "https://open.spotify.com/track/512No5uXtXbhNh7OOz03pF"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "Emigrate",
+        "url": "https://open.spotify.com/album/6F84H4YaytAQkJk6cvP0ri"
+      },
+      "artists": [
+        {
+          "name": "Emigrate",
+          "url": "https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1"
+        }
+      ],
+      "duration_ms": 257493,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/3GwzYHGrRn7wMfRtvbjg2U"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Come Back to Life",
-        "url": "https://open.spotify.com/album/7auksAd2OUTBNWgYFTmHCx"
-      },
-      "artists": [
-        {
-          "name": "Lock The Basement",
-          "url": "https://open.spotify.com/artist/1zSnVk8QCuI5kAaNsfOQpi"
-        }
-      ],
-      "duration_ms": 208917,
-      "name": "Come Back to Life",
-      "url": "https://open.spotify.com/track/4D1ucjSLckZ74e0rUfdFMg"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
         "name": "Sins Of The Flesh",
         "url": "https://open.spotify.com/album/557HaDd1BQ1EsBCORYv542"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 306426,
       "name": "Sins of the Flesh",
       "url": "https://open.spotify.com/track/1sVdAZGlSHDGUfOqLnJpeS"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "Come Back to Life",
+        "url": "https://open.spotify.com/album/7auksAd2OUTBNWgYFTmHCx"
+      },
+      "artists": [
+        {
+          "name": "Lock The Basement",
+          "url": "https://open.spotify.com/artist/1zSnVk8QCuI5kAaNsfOQpi"
+        }
+      ],
+      "duration_ms": 208917,
+      "name": "Come Back to Life",
+      "url": "https://open.spotify.com/track/4D1ucjSLckZ74e0rUfdFMg"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "MDFMK",
-        "url": "https://open.spotify.com/album/6kqX8YYU2vBjbzfGc03ya1"
-      },
-      "artists": [
-        {
-          "name": "MDFMK",
-          "url": "https://open.spotify.com/artist/42rBYWqiCzxYUFQM0iKWwM"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "Torpedoes",
-      "url": "https://open.spotify.com/track/40Nz6mf4yuDeOW0sscIS63"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
         "name": "Out For Blood",
         "url": "https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 220026,
       "name": "Out For Blood",
       "url": "https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "MDFMK",
+        "url": "https://open.spotify.com/album/6kqX8YYU2vBjbzfGc03ya1"
+      },
+      "artists": [
+        {
+          "name": "MDFMK",
+          "url": "https://open.spotify.com/artist/42rBYWqiCzxYUFQM0iKWwM"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "Torpedoes",
+      "url": "https://open.spotify.com/track/40Nz6mf4yuDeOW0sscIS63"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
+        "name": "Fault Lines",
+        "url": "https://open.spotify.com/album/4lDCkCAcxuiQ3DNzoKVTu3"
+      },
+      "artists": [
+        {
+          "name": "IAMX",
+          "url": "https://open.spotify.com/artist/223iUzG0kb5V166FJP9ovD"
+        }
+      ],
+      "duration_ms": 263126,
+      "name": "Fault Lines",
+      "url": "https://open.spotify.com/track/18sPvpeqaxYwd8pZ5RNvDj"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
         "name": "Supernaut",
         "url": "https://open.spotify.com/album/59or2rVv97PQ4dS45ohNlQ"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 243814,
       "name": "I Am Nothing",
       "url": "https://open.spotify.com/track/3AbsnquyVPrryreclU5fvx"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
-        "name": "Black Lipstick",
-        "url": "https://open.spotify.com/album/4sZ7rJiz0mmGjVFK8cC7ql"
-      },
-      "artists": [
-        {
-          "name": "Powerman 5000",
-          "url": "https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC"
-        }
-      ],
-      "duration_ms": 203636,
-      "name": "Black Lipstick",
-      "url": "https://open.spotify.com/track/0jXfVK691dITawcnze17h2"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
+        "name": "Black Lipstick",
+        "url": "https://open.spotify.com/album/4sZ7rJiz0mmGjVFK8cC7ql"
+      },
+      "artists": [
+        {
+          "name": "Powerman 5000",
+          "url": "https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC"
+        }
+      ],
+      "duration_ms": 203636,
+      "name": "Black Lipstick",
+      "url": "https://open.spotify.com/track/0jXfVK691dITawcnze17h2"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
         "name": "Haunted",
         "url": "https://open.spotify.com/album/0f2GeuwtgobWCjVFPGHLOX"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 218205,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/1XwC7lFWY9R8s2qO8iiXxx"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
-        "name": "Fault Lines",
-        "url": "https://open.spotify.com/album/4lDCkCAcxuiQ3DNzoKVTu3"
-      },
-      "artists": [
-        {
-          "name": "IAMX",
-          "url": "https://open.spotify.com/artist/223iUzG0kb5V166FJP9ovD"
-        }
-      ],
-      "duration_ms": 263126,
-      "name": "Fault Lines",
-      "url": "https://open.spotify.com/track/18sPvpeqaxYwd8pZ5RNvDj"
     },
     {
       "added_at": "2023-05-05 05:09:11",

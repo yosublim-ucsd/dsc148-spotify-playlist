@@ -1,12 +1,12 @@
 {
   "description": "it was never just a phase ",
-  "num_followers": 68099,
+  "num_followers": 68160,
   "original_name": "dear diary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYWVmMTk2NDE5ODk3ZDMyZWJlOWViYzA4YjhhZmIyZjQ2NmViODQ1",
+  "snapshot_id": "MCw3ZmVkN2JlYmFhMzQ0YzI4NjkzZWEzOGM3OTZjNjYxZGU0ZWFkY2Jj",
   "tracks": [
     {
       "added_at": "2022-08-16 22:06:35",
@@ -791,6 +791,22 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
+        "name": "Tell Me About Tomorrow",
+        "url": "https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 205723,
+      "name": "NO VANITY",
+      "url": "https://open.spotify.com/track/0tQPcLmwvAnS5eXSuAUokD"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
         "name": "abcdefu (feat. Royal & the Serpent)",
         "url": "https://open.spotify.com/album/4yfT2AABmfgPrr40yhhyXx"
       },
@@ -809,20 +825,20 @@
       "url": "https://open.spotify.com/track/3xSyUXUkSiBLsJNpPpG4v1"
     },
     {
-      "added_at": "2022-08-16 22:06:35",
+      "added_at": "2022-12-08 13:00:09",
       "album": {
-        "name": "Tell Me About Tomorrow",
-        "url": "https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T"
+        "name": "Backtrack",
+        "url": "https://open.spotify.com/album/1HhLhDSaSqWGTb9DEkCt68"
       },
       "artists": [
         {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
         }
       ],
-      "duration_ms": 205723,
-      "name": "NO VANITY",
-      "url": "https://open.spotify.com/track/0tQPcLmwvAnS5eXSuAUokD"
+      "duration_ms": 158840,
+      "name": "Backtrack",
+      "url": "https://open.spotify.com/track/7qhLm7FPhf7OjuSQoezTgC"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -839,22 +855,6 @@
       "duration_ms": 222640,
       "name": "Creep",
       "url": "https://open.spotify.com/track/5nC2VyPxefp5EXVViTcz7S"
-    },
-    {
-      "added_at": "2022-12-08 13:00:09",
-      "album": {
-        "name": "Backtrack",
-        "url": "https://open.spotify.com/album/1HhLhDSaSqWGTb9DEkCt68"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 158840,
-      "name": "Backtrack",
-      "url": "https://open.spotify.com/track/7qhLm7FPhf7OjuSQoezTgC"
     }
   ],
   "unique_name": "dear diary",

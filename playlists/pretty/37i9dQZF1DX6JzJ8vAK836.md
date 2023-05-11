@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JzJ8vAK836.md) - [plain]
 
 > Prince was a true original and earth\-shattering performer\. Hear Prince Rogers Nelson best right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 773,426 likes - 80 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 773,556 likes - 80 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JzJ8vAK836.md) - [plain]
 | 79 | [Our Destiny / Roadhouse Garden](https://open.spotify.com/track/0skqC0rGnezyhGmBCrSgg9) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain \(Deluxe Expanded Edition\)](https://open.spotify.com/album/12DmuRtZNTx84ELHKD3VGL) | 6:25 |
 | 80 | [Let's Go Crazy \- Live In Syracuse, March 30, 1985 \- 2022 Remaster](https://open.spotify.com/track/15BL8ku45JiAS9dSuAD2ap) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Prince and The Revolution: Live \(2022 Remaster\)](https://open.spotify.com/album/4Y8oukfqpJupRcCsHucO7J) | 5:50 |
 
-Snapshot ID: `MCwyMThkODNiNzZhZjZiYjI0MjFkODQ4YzA1OGI3MDRiNTZjYzIwMDdj`
+Snapshot ID: `MCxkMDY4NTY2MjUwZWZiZjZkZjE5NDJkYWNiNTUyZTQ3Y2YyZDE4ZmI5`

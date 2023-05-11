@@ -1,12 +1,12 @@
 {
   "description": "lighters up for these awesome rock ballads.",
-  "num_followers": 665243,
+  "num_followers": 665422,
   "original_name": "Rock Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjQ3NjZlOTE4MGRhODIxM2MzNTg3MzVlNmFlMTRkY2Y5MjAxOWU0",
+  "snapshot_id": "MCxmMzNhYjI5ZmE3NzliM2JmZDI0Mjc5ODg1ZjA2ZWEzZjUxN2NkMjZj",
   "tracks": [
     {
       "added_at": "2023-01-20 05:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "The Heart Of Everything",
-        "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 290946,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/02oW7CYWjfiCs1rZs7GNes"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
         "name": "Gore",
         "url": "https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 320546,
       "name": "Hearts / Wires",
       "url": "https://open.spotify.com/track/1SeMnyEb5dwCBLU3QUC0K2"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "The Heart Of Everything",
+        "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 290946,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/02oW7CYWjfiCs1rZs7GNes"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Dressed Up As Life",
-        "url": "https://open.spotify.com/album/7zEvxcdeNWrFZCnWUnpDOC"
-      },
-      "artists": [
-        {
-          "name": "Sick Puppies",
-          "url": "https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk"
-        }
-      ],
-      "duration_ms": 258586,
-      "name": "All The Same",
-      "url": "https://open.spotify.com/track/3vIw7vxgUTPtppVwMfhcwo"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
         "name": "Order In Decline",
         "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 260093,
       "name": "Never There",
       "url": "https://open.spotify.com/track/3ujzd7pcdAhILCnS3oGbaU"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Dressed Up As Life",
+        "url": "https://open.spotify.com/album/7zEvxcdeNWrFZCnWUnpDOC"
+      },
+      "artists": [
+        {
+          "name": "Sick Puppies",
+          "url": "https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk"
+        }
+      ],
+      "duration_ms": 258586,
+      "name": "All The Same",
+      "url": "https://open.spotify.com/track/3vIw7vxgUTPtppVwMfhcwo"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Stars (The Shack Film Version)",
-        "url": "https://open.spotify.com/album/65VDJ8KgsyQ4NnBc6d1K2d"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 224946,
-      "name": "Stars - The Shack Film Version",
-      "url": "https://open.spotify.com/track/2KPjz1SM7AWC9GxXHmRucG"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
         "name": "Adelitas Way",
         "url": "https://open.spotify.com/album/5P5ckQNn8AibK7TVTVrUoC"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 224666,
       "name": "Last Stand",
       "url": "https://open.spotify.com/track/27TPpj59ml6N7las1h696d"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Stars (The Shack Film Version)",
+        "url": "https://open.spotify.com/album/65VDJ8KgsyQ4NnBc6d1K2d"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 224946,
+      "name": "Stars - The Shack Film Version",
+      "url": "https://open.spotify.com/track/2KPjz1SM7AWC9GxXHmRucG"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "On My Own",
-      "url": "https://open.spotify.com/track/3hccRLElirZOGOTHfCbg9p"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
         "name": "Black Widow",
         "url": "https://open.spotify.com/album/7jMxSZ332lLfENKNEFAd9P"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 292506,
       "name": "The Fighter",
       "url": "https://open.spotify.com/track/54sEj5GIx2EW78nRDyC58R"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/3hccRLElirZOGOTHfCbg9p"
     },
     {
       "added_at": "2023-01-20 05:00:00",

@@ -3571,6 +3571,24 @@
     },
     {
       "album": {
+        "name": "Damn",
+        "url": "https://open.spotify.com/album/5xM06Tdm3WUkdtFqBeN4Mb"
+      },
+      "artists": [
+        {
+          "name": "Jerome Thomas",
+          "url": "https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196792,
+      "name": "Damn",
+      "url": "https://open.spotify.com/track/4DV342x7moUswqcVzD8ekZ"
+    },
+    {
+      "album": {
         "name": "Dawn at the Souk",
         "url": "https://open.spotify.com/album/1WLgN8sZUOEukP5YAvS9Jt"
       },
@@ -3745,7 +3763,7 @@
     },
     {
       "album": {
-        "name": "Live At Electric Lady (Spotify Exclusive)",
+        "name": "Live At Electric Lady",
         "url": "https://open.spotify.com/album/1ZJIrjZ6OVtVC2TMAVlEQ4"
       },
       "artists": [
@@ -3762,7 +3780,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 263562,
-      "name": "Didn't Cha Know [Feat. Bilal]",
+      "name": "Didn't Cha Know [Feat. Bilal] - Live At Electric Lady",
       "url": "https://open.spotify.com/track/33VfEqHmo459jipU1W7it1"
     },
     {
@@ -14844,7 +14862,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 258650,
       "name": "Talk Is Cheap",
       "url": "https://open.spotify.com/track/1p1iq2npedwN1k112m7UPf"

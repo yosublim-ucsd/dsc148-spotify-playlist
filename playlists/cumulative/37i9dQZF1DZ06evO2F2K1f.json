@@ -914,7 +914,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 83226,
       "name": "Grange Hill",
       "url": "https://open.spotify.com/track/2FKrc7YAbpLeWD2G08IRvC"
@@ -1436,6 +1436,24 @@
       "duration_ms": 180384,
       "name": "Original Mania",
       "url": "https://open.spotify.com/track/6hfhkHbprP0sPgIRCsyfZh"
+    },
+    {
+      "album": {
+        "name": "Hi-Band",
+        "url": "https://open.spotify.com/album/7lOhaOiA5O35RXQ8KOhvxf"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137466,
+      "name": "Pacemaker",
+      "url": "https://open.spotify.com/track/1udm3gM3s5K3kvY0yJ30Uq"
     },
     {
       "album": {

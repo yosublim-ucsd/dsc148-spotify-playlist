@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: king isis
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,282 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,304 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 22 | [Shrapnel](https://open.spotify.com/track/1ADmIBKMDRcs6Cfj2Xe0XJ) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [Shrapnel](https://open.spotify.com/album/3KXLjYoXnh0yqH6J94s6Ce) | 3:35 |
 | 23 | [Cigarette](https://open.spotify.com/track/0mgi4eJrjd0uv0PGIx4MJo) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Cigarette](https://open.spotify.com/album/0Xv7O6PBVUdkdma1Qe5nbK) | 3:16 |
 | 24 | [Amoeba](https://open.spotify.com/track/5O4dlgfCLqkyrHWghRfIrT) | [Do Nothing](https://open.spotify.com/artist/73N7cGNNww6Uod1d3IiBKP) | [Amoeba](https://open.spotify.com/album/52FqqjTl9kg5St3EAJMqBz) | 3:52 |
-| 25 | [Until I Know](https://open.spotify.com/track/0HUgIoUcUZ2HpFqOL1FEcZ) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Until I Know](https://open.spotify.com/album/7p2g9K0YMavsJjbypdUod1) | 3:23 |
+| 25 | [Until I Know](https://open.spotify.com/track/4KH9g027K949LR2xkjC4jk) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Failed at Math\(s\)](https://open.spotify.com/album/0xCCtljPkA65lyDP3CXFgr) | 3:23 |
 | 26 | [Drive Your Car](https://open.spotify.com/track/6LzL8uBvUdJnq4z50QuHfA) | [Oddnesse](https://open.spotify.com/artist/2LjbaKAB72Nj5zKjcRyOxz) | [Drive Your Car](https://open.spotify.com/album/5B4Z6qjLNlWggMQl9Q1dzK) | 2:55 |
 | 27 | [Where I Met U](https://open.spotify.com/track/3CAdXjzEKPgNXKvmp8dgRi) | [heavn](https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz) | [House](https://open.spotify.com/album/1XQrxEQ2qTHQBHxOvTfHOw) | 2:02 |
 | 28 | [Coming of Age](https://open.spotify.com/track/3n5teaWGB99IrQwVo1oyCU) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE) | [Coming of Age](https://open.spotify.com/album/16FLaxWATZYpPLEA9siZe6) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [Quotidian](https://open.spotify.com/track/0WHOeXFbBnzskl9rRc686O) | [EVNTYD](https://open.spotify.com/artist/3z32J9a8nv9EJKQX07bwxh) | [Eventide](https://open.spotify.com/album/5n4twzXZkAwdZFAJFCI5jj) | 4:32 |
 | 100 | [Dry](https://open.spotify.com/track/3B1BzvXzF4Xhre3SLxTDz7) | [psykhi](https://open.spotify.com/artist/6Jv3pqZlwHy3RlsfdBGbRc) | [Dry](https://open.spotify.com/album/66IrzcJ0xrFyfzeh51DbyS) | 3:59 |
 
-Snapshot ID: `MCw5MjIwODk3YWQxYjE4OTYyZDhlOTZkNjljYmZlNDA0NGFhNzllZjcy`
+Snapshot ID: `MCw0Yjg3ZmU2YTM2ZWM4MjNiZjZiMmVjZDA1ZTExNDgwODIwNWVkOWYy`

@@ -4,7 +4,7 @@
 
 > 女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー:  ちゃんみな \(CHANMINA\)
 
-812 songs - 2 day 0 hr 12 min
+813 songs - 2 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [MY DREAM](https://open.spotify.com/track/3Ai9IjVhRy5eMWFQ3luIG6) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [MY DREAM](https://open.spotify.com/album/2wrsym38hvB4Wp9BYkCQxS) | 3:35 | 2022-09-06 | 2023-03-01 |
 | [My Mr.Right](https://open.spotify.com/track/7jg3UyQr4zJdiBcjrXN0rd) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [My Mr.Right](https://open.spotify.com/album/77R5JWquBVS0tqeB2J0pG9) | 3:26 | 2022-03-07 | 2023-04-05 |
 | [MY NAME](https://open.spotify.com/track/0uUnwZF9EQ7nIY3vJe1EWc) | [AKKOGORILLA](https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U) | [MY NAME](https://open.spotify.com/album/64aZooeuvhT2AlL0vVwUoI) | 2:45 | 2023-05-02 |  |
+| [n.o.y.b \(feat\. Furui Riho\)](https://open.spotify.com/track/0znEN9HIkCXf4wZn16hVJD) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8), [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [n.o.y.b \(feat\. Furui Riho\)](https://open.spotify.com/album/3GPIrOmn7HCQp52OD6Gnhf) | 3:57 | 2023-05-10 |  |
 | [NAINAINAI](https://open.spotify.com/track/4LnMz836E4F1Z3qIPxUGVR) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [NAINAINAI](https://open.spotify.com/album/1syyqRfv0iRNmVzrxFXSdo) | 3:13 | 2022-09-06 | 2022-11-09 |
 | [NAKED](https://open.spotify.com/track/1lnMbzxaNUi1XBYOL1Qs3e) | [Rei\(C\)hi](https://open.spotify.com/artist/5BQWK2wChHTnJKqmgR9D3D) | [SHIKIBU](https://open.spotify.com/album/2c8PhG02N3d7kYTwIdVqYH) | 3:14 | 2023-05-02 |  |
 | [Naughty](https://open.spotify.com/track/6kAzFO8OcKjBGOMrLY8QY5) | [A VIRGIN](https://open.spotify.com/artist/0dDP1gsPC4bWS5vnynu99s) | [MORNING](https://open.spotify.com/album/1q0vg2lgXCJHPpwW1dS4QQ) | 4:02 | 2022-05-31 | 2022-07-06 |
@@ -760,7 +761,7 @@
 | [摩天楼](https://open.spotify.com/track/6HrRqbT6lIFJa8grf7vYNO) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [neon](https://open.spotify.com/album/6MFq8UGpeyZW8dxFR6PNMp) | 3:36 | 2022-04-05 | 2022-05-05 |
 | [支度](https://open.spotify.com/track/16Oi71zRHNLNARlmouIY16) | [RYUTist](https://open.spotify.com/artist/4BSpF4yQWrGiYdxNsLRdX1), [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [\(エン\)](https://open.spotify.com/album/3fqh0iDJYo5w2fM8kSyrGm) | 1:00 | 2023-02-01 | 2023-03-01 |
 | [散歩道](https://open.spotify.com/track/4bEnMDDfHrfgnxb5ea8LBy) | [moeki](https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM) | [散歩道](https://open.spotify.com/album/1BRlmHDS6X3DxeAcVEXadr) | 4:20 | 2023-01-03 | 2023-02-02 |
-| [文句BOO](https://open.spotify.com/track/0KQNpbibprdmxZC5IqWZlT) | [Yoshida Rinne](https://open.spotify.com/artist/5gTFlmH6wrELPY1F9wjL4X), [Taiyo Doki](https://open.spotify.com/artist/6XgVTH23mwOsLLQoqwKjHz) | [文句BOO](https://open.spotify.com/album/6470zFVyUVT77yHp81YlvX) | 3:07 | 2023-05-02 |  |
+| [文句BOO](https://open.spotify.com/track/0KQNpbibprdmxZC5IqWZlT) | [Yoshida Rinne](https://open.spotify.com/artist/5gTFlmH6wrELPY1F9wjL4X), [Taiyo Doki](https://open.spotify.com/artist/6XgVTH23mwOsLLQoqwKjHz) | [文句BOO](https://open.spotify.com/album/6470zFVyUVT77yHp81YlvX) | 3:07 | 2023-05-02 | 2023-05-11 |
 | [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [新時代 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb) | 3:48 | 2022-09-06 | 2022-10-05 |
 | [春](https://open.spotify.com/track/5Ln0DFBZQsmiG6OyOaxnZ8) | [東京初期衝動](https://open.spotify.com/artist/0yIugVENIPSMYiZTYi2CUM) | [春](https://open.spotify.com/album/2AWsKrlvdPptbEfCxz58Dv) | 3:45 | 2022-03-07 | 2023-04-05 |
 | [時間を溶かしてお願いダーリン](https://open.spotify.com/track/4qEj2rUmWEIB1s6ZwLclbk) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [骨格](https://open.spotify.com/album/1t5NspTaHRuDwAwSLNQH16) | 3:34 | 2022-03-07 | 2022-03-16 |

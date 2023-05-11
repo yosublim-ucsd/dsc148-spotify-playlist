@@ -1300,10 +1300,28 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 177777,
       "name": "No Love",
       "url": "https://open.spotify.com/track/3zVqGejJKVPlGUEWRO6ZLk"
+    },
+    {
+      "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/1iF700mTP95gGLjDKnY9oR"
+      },
+      "artists": [
+        {
+          "name": "92elm",
+          "url": "https://open.spotify.com/artist/5YCia3zgXxdXMKePBNMkJk"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177777,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/4ncuzXLHYIh6KSW4UrEH0Y"
     },
     {
       "album": {

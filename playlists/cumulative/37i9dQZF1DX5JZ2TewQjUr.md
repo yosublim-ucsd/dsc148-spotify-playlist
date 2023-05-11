@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: THAIMAY
 
-511 songs - 1 day 5 hr 5 min
+513 songs - 1 day 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [Feelin'](https://open.spotify.com/track/2KBlnIRT9BiUqIcf9E6V6S) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [Feelin'](https://open.spotify.com/album/0DFzivEqYeYcURlXDRzHks) | 3:01 | 2022-10-27 | 2023-02-03 |
 | [First Love](https://open.spotify.com/track/71EGyGq824vWbn0YcFdPpu) | [Lucid Fuzzy](https://open.spotify.com/artist/5d9ViTf7DQ0PBUHN3JTQu5) | [First Love](https://open.spotify.com/album/1nNbyuAox38W1VvOKD1aP1) | 3:21 | 2023-04-13 |  |
 | [First Priority](https://open.spotify.com/track/5OMLvu7m5bRyTr5payjcUe) | [Thewzy](https://open.spotify.com/artist/4RU4k4WMO5OtU6zsHHM7Co) | [First Priority](https://open.spotify.com/album/079KSpwAXiuEg99M8BAStP) | 2:52 | 2022-06-09 | 2022-09-09 |
-| [Forest](https://open.spotify.com/track/1xuC2jthRz6vwc2RncwtAc) | [Virgin Vacation](https://open.spotify.com/artist/5gUVCL8RB17Ehn5Q43c2AJ), [Gold Mountain](https://open.spotify.com/artist/0YZHNcGfT61Yvmp8FklTxT), [Romer String Quartet](https://open.spotify.com/artist/38iTibcPtXJZG3JQ1vGnWf) | [Forest](https://open.spotify.com/album/1Zl1BD9G5b8V9gsXZp9Mf1) | 5:27 | 2023-02-23 |  |
+| [Forest](https://open.spotify.com/track/1xuC2jthRz6vwc2RncwtAc) | [Virgin Vacation](https://open.spotify.com/artist/5gUVCL8RB17Ehn5Q43c2AJ), [Gold Mountain](https://open.spotify.com/artist/0YZHNcGfT61Yvmp8FklTxT), [Romer String Quartet](https://open.spotify.com/artist/38iTibcPtXJZG3JQ1vGnWf) | [Forest](https://open.spotify.com/album/1Zl1BD9G5b8V9gsXZp9Mf1) | 5:27 | 2023-02-23 | 2023-05-11 |
+| [Forest](https://open.spotify.com/track/304SYYFETQyIXPHana8jaU) | [Virgin Vacation](https://open.spotify.com/artist/5gUVCL8RB17Ehn5Q43c2AJ), [Gold Mountain](https://open.spotify.com/artist/0YZHNcGfT61Yvmp8FklTxT), [Romer String Quartet](https://open.spotify.com/artist/38iTibcPtXJZG3JQ1vGnWf), [Kevin Chau](https://open.spotify.com/artist/1S9Z4YjELnR5xyi1l2GQc4) | [Forest](https://open.spotify.com/album/11Kvjk7Z8dC8QSmpfnzqsD) | 5:27 | 2023-05-04 |  |
 | [Fotan Jazz Club](https://open.spotify.com/track/2EThbrd13icX0eP6OPzdBR) | [Room307](https://open.spotify.com/artist/0DlQgBmj0XzrSsOknlxUHw), [Matt Force](https://open.spotify.com/artist/4ymVglyzE9C7StALg2Sx9N), [Akira Mimasu](https://open.spotify.com/artist/5JtWkrls291QYKbtm1oSVU) | [Windsong](https://open.spotify.com/album/1oCtNZFONXjJoAgZJBckHJ) | 3:44 | 2022-05-26 | 2022-09-09 |
 | [FREE](https://open.spotify.com/track/4i4AX86CSIigRdVsU0yR8P) | [Crlsyiu](https://open.spotify.com/artist/3QCcg3sxycinU9J2khknoK) | [FREE](https://open.spotify.com/album/45TbgMtq1d6KxOhXdN3Sax) | 6:14 | 2022-07-28 | 2022-11-04 |
 | [Freighter](https://open.spotify.com/track/1O5iLaml9rErV9yx4ssIwb) | [Clave](https://open.spotify.com/artist/5m5BbvIBUCGtqMSYTqvlxN) | [Freighter](https://open.spotify.com/album/1vF7E2jU58DWjytLgY0u4F) | 4:52 | 2023-02-02 |  |
@@ -233,7 +234,8 @@
 | [Rain On Me](https://open.spotify.com/track/2Ha5WK1UecSA134oD4itZN) | [Lester Lam](https://open.spotify.com/artist/2oicwXEZfc7OVHxgpszBX9) | [Rain On Me](https://open.spotify.com/album/3Jvo1WUkRmZTZP0mgsQwbN) | 3:33 | 2022-12-01 | 2023-03-18 |
 | [Rari](https://open.spotify.com/track/4Dt9J1ac16L4XV7jRs7E6L) | [Ethan Chu](https://open.spotify.com/artist/4GAxH0WL7ChoWWdpGw6PZq) | [Rari](https://open.spotify.com/album/1q9G3PA0UMdrDifhGmRyw5) | 2:17 | 2022-08-18 | 2022-11-04 |
 | [REAL](https://open.spotify.com/track/3X3xIOH6BYOxt6UoZWbuIY) | [Jonathan Yang](https://open.spotify.com/artist/6Ivb1T9PggzJSQZCkYQTRG) | [REAL](https://open.spotify.com/album/11zwue1tQvvXTkJb9qOzqT) | 3:48 | 2022-06-02 | 2022-09-09 |
-| [RED](https://open.spotify.com/track/19K0OIFCngMctZewUmkl9U) | [Virgin Vacation](https://open.spotify.com/artist/5gUVCL8RB17Ehn5Q43c2AJ) | [RED](https://open.spotify.com/album/6JUJOejhs4UqdJ24idnPg2) | 3:58 | 2023-03-02 |  |
+| [RED](https://open.spotify.com/track/19K0OIFCngMctZewUmkl9U) | [Virgin Vacation](https://open.spotify.com/artist/5gUVCL8RB17Ehn5Q43c2AJ) | [RED](https://open.spotify.com/album/6JUJOejhs4UqdJ24idnPg2) | 3:58 | 2023-03-02 | 2023-05-11 |
+| [RED](https://open.spotify.com/track/3QW6IbzpXx56cpIkklKsPx) | [Virgin Vacation](https://open.spotify.com/artist/5gUVCL8RB17Ehn5Q43c2AJ) | [RED](https://open.spotify.com/album/5tWORmdy84nJq0DtDxBYLN) | 3:58 | 2023-05-04 |  |
 | [red & gold](https://open.spotify.com/track/6Ag0kjU5LUCRCHUiXNwycg) | [cornelia](https://open.spotify.com/artist/6gDLZVjPZvyKYHYujcrNdO) | [red & gold](https://open.spotify.com/album/5YvfeqgciOc85XlTFn72r1) | 4:27 | 2022-12-01 | 2023-02-03 |
 | [Rosemary](https://open.spotify.com/track/2SVZHdvZX6wLCufft9ybBZ) | [Jonathan Yang](https://open.spotify.com/artist/6Ivb1T9PggzJSQZCkYQTRG) | [Rosemary](https://open.spotify.com/album/2YTZ1JrnsiUwlXArIQYMje) | 4:06 | 2022-12-29 |  |
 | [RUN](https://open.spotify.com/track/4fIOOhK1Nu2VsltjMef1U4) | [Lok Chow](https://open.spotify.com/artist/4QQ4Au2vMm6e0QxoPhjhHg), [Jacky Fcy](https://open.spotify.com/artist/2Zfhyxqj6j0MYbX8Tmjelw) | [RUN](https://open.spotify.com/album/41V3xE0TjvtWBAMfW1VLoP) | 2:56 | 2023-04-13 |  |

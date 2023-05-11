@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。5月8日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,858 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,979 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [愛の波](https://open.spotify.com/track/2pitZk9jjMrkHVHgtEyx12) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [愛の波](https://open.spotify.com/album/2mBNWnAlpgGhAOeNlbZXRu) | 3:43 |
 | 50 | [紅蓮華 \-TV ver.\-](https://open.spotify.com/track/5Xs2wcsqZwZ6bfLSpAs08G) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [紅蓮華](https://open.spotify.com/album/03dTdtI7lVRiD2D3D9R4Be) | 1:29 |
 
-Snapshot ID: `MCxmNDMyZmI5MmZmMjBjYmY4MTU5NGJkMTA1ZGZiOTFhYTE3YWZmZjM0`
+Snapshot ID: `MCxhMjRiMTYyMzM3ZTM5M2FmY2UxNjhjNWUwZTlkMmE4M2UwNzVhYzFl`

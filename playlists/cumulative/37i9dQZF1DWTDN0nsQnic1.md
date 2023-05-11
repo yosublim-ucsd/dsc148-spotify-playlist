@@ -4,7 +4,7 @@
 
 > Lush, shimmery guitars\. Cover: Ichika Nito
 
-89 songs - 4 hr 42 min
+90 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Sip](https://open.spotify.com/track/79IPNSo8ppCtLws6rb8mDM) | [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Snax: Sip](https://open.spotify.com/album/3UVsnhncejiQKPNOUb4z9p) | 2:53 | 2023-03-28 |  |
 | [So What](https://open.spotify.com/track/265wSVvd8vDhT10eskjJS5) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo), [Cool Cats Lofi](https://open.spotify.com/artist/6tchLnaQY0JmNKvYJ2riX3) | [So What](https://open.spotify.com/album/7DXMRH7UGYLZ6eSrqNxd3C) | 2:09 | 2022-03-11 |  |
 | [Something More](https://open.spotify.com/track/1WUenMBQLpOkvu1lc9AbFg) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL), [Butcher Brown](https://open.spotify.com/artist/1EjwcoJN7uzJPuv1vbf2qk) | [Juicebox](https://open.spotify.com/album/7LkpnXXvh8x6EU4mRHgFQW) | 5:03 | 2021-09-08 |  |
-| [Sprout](https://open.spotify.com/track/6RFG5HsLNp0V5AVArBl8Fz) | [Arrow](https://open.spotify.com/artist/2tatJcRF6iotLuc51uqaQq), [Yvette Young](https://open.spotify.com/artist/502QOcjJiKbhtG2MyrFkc8), [Nito](https://open.spotify.com/artist/2KYi5lKh0UYAjBrqhuJQ3Z) | [Sprout](https://open.spotify.com/album/2uBnEoUAtT1RaX2sdcKYzF) | 0:59 | 2023-03-28 |  |
+| [Sprout](https://open.spotify.com/track/2YpnY3013jldehP8lvJwSy) | [Arrow](https://open.spotify.com/artist/2tatJcRF6iotLuc51uqaQq), [Yvette Young](https://open.spotify.com/artist/502QOcjJiKbhtG2MyrFkc8), [Nito](https://open.spotify.com/artist/2KYi5lKh0UYAjBrqhuJQ3Z) | [Sprout](https://open.spotify.com/album/2YE5QUcxuvpu3cNISQvCxt) | 0:59 | 2023-03-28 |  |
+| [Sprout](https://open.spotify.com/track/6RFG5HsLNp0V5AVArBl8Fz) | [Arrow](https://open.spotify.com/artist/2tatJcRF6iotLuc51uqaQq), [Yvette Young](https://open.spotify.com/artist/502QOcjJiKbhtG2MyrFkc8), [Nito](https://open.spotify.com/artist/2KYi5lKh0UYAjBrqhuJQ3Z) | [Sprout](https://open.spotify.com/album/2uBnEoUAtT1RaX2sdcKYzF) | 0:59 | 2023-03-28 | 2023-05-11 |
 | [Sunn](https://open.spotify.com/track/4ZAA5ABChC3NtSGNvXsMGV) | [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu) | [Flutter](https://open.spotify.com/album/0AIhIiAotftWvQlP0qXyuu) | 2:36 | 2021-09-08 | 2023-01-29 |
 | [Sunn](https://open.spotify.com/track/5dqMx00nPmSH6fKdqq7r67) | [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu) | [Flutter](https://open.spotify.com/album/1iXnreOHsfrUOF81pv2Alk) | 2:36 | 2021-09-08 |  |
 | [Super Sad Always](https://open.spotify.com/track/1BqSqUUGo1ilm7Pg4ghJvR) | [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Super Sad Always](https://open.spotify.com/album/5TZUlZef0K4UmjUFzOh3HL) | 3:13 | 2021-09-08 | 2022-10-13 |

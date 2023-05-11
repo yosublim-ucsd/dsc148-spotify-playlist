@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 232674,
+  "num_followers": 232730,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzdmMDZlNGJhOGM4YzZlZjU5YzA1MjY5YmYxOGEzMWQwMTE4NmFk",
+  "snapshot_id": "MCwwYjUzOWJkM2FlNzE2MWUxOGEzYTM2Y2IzMDkzZGVjYzQ1N2QyZjIy",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -451,26 +451,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "How Are You",
-        "url": "https://open.spotify.com/album/5CzE7H2HSJCRNj4qNHIoly"
-      },
-      "artists": [
-        {
-          "name": "Mounika.",
-          "url": "https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO"
-        },
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 127137,
-      "name": "Cut My Hair",
-      "url": "https://open.spotify.com/track/3DYZKxjG8SZrWpVcoUilqQ"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "Running Away",
         "url": "https://open.spotify.com/album/4UmlS91PmUrukRnM8x4JiR"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 111957,
       "name": "Running Away - Vocal Remix",
       "url": "https://open.spotify.com/track/09SQixfCZZ9rUDoY1MZB2d"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "How Are You",
+        "url": "https://open.spotify.com/album/5CzE7H2HSJCRNj4qNHIoly"
+      },
+      "artists": [
+        {
+          "name": "Mounika.",
+          "url": "https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO"
+        },
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 127137,
+      "name": "Cut My Hair",
+      "url": "https://open.spotify.com/track/3DYZKxjG8SZrWpVcoUilqQ"
     },
     {
       "added_at": "2022-02-02 00:21:48",

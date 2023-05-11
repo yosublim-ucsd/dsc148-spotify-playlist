@@ -1,12 +1,12 @@
 {
   "description": "You better duck, when I show you up, the goo goo muck! The Cramps on the cover.",
-  "num_followers": 604552,
+  "num_followers": 605042,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDMyMDBiMDg1NjUxMTRhN2JhMzBiYjY0OGIyNGVkMTM2MzRiMGJh",
+  "snapshot_id": "MCwyYTFjZGQzY2ViNTJlZGRkZWI2ODA2MTBiNTk5ODVkNmY4YjBmMjMx",
   "tracks": [
     {
       "added_at": "2022-11-28 15:12:32",
@@ -975,22 +975,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Isn't Anything",
-        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Lose My Breath",
-      "url": "https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Closer (Collector's Edition)",
         "url": "https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 268013,
       "name": "Twenty Four Hours - 2007 Remaster",
       "url": "https://open.spotify.com/track/36HznXQNGoen7dwq4Vv6nP"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Isn't Anything",
+        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Lose My Breath",
+      "url": "https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Bad Ambient",
-        "url": "https://open.spotify.com/album/24KvacOpWn4tdCti5KGCrK"
-      },
-      "artists": [
-        {
-          "name": "Bloody Dead And Sexy",
-          "url": "https://open.spotify.com/artist/47YmKMWnvn1TfBanzvAUTc"
-        }
-      ],
-      "duration_ms": 295280,
-      "name": "One by One",
-      "url": "https://open.spotify.com/track/5F1ZjpCFKcgk4VcsL2on2h"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Suicide (2019 - Remaster)",
         "url": "https://open.spotify.com/album/0wKU4153oTf5Ne3Wbbcykd"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 153440,
       "name": "Ghost Rider - 2019 - Remaster",
       "url": "https://open.spotify.com/track/0SlVvyU9LWTzsnPc8lcoUs"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Bad Ambient",
+        "url": "https://open.spotify.com/album/24KvacOpWn4tdCti5KGCrK"
+      },
+      "artists": [
+        {
+          "name": "Bloody Dead And Sexy",
+          "url": "https://open.spotify.com/artist/47YmKMWnvn1TfBanzvAUTc"
+        }
+      ],
+      "duration_ms": 295280,
+      "name": "One by One",
+      "url": "https://open.spotify.com/track/5F1ZjpCFKcgk4VcsL2on2h"
     },
     {
       "added_at": "2021-10-15 04:04:50",

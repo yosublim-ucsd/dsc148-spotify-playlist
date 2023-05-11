@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 125529,
+  "num_followers": 125556,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODRhOTA5NDk1NWJlY2FmMmU3MmI5ZDA2OWM1NjY1ZGJkMjNmNGQ2",
+  "snapshot_id": "MCxkY2M4MjA5OWRkNGFhNDFhZTAwYTM5YTcwNjA0NTY5M2ZkNDc4MDIz",
   "tracks": [
     {
       "added_at": "2023-03-11 03:38:22",
@@ -769,7 +769,7 @@
       "url": "https://open.spotify.com/track/3zlC6H9LLQQhpJYOBofEZ0"
     },
     {
-      "added_at": "2023-05-10 00:09:52",
+      "added_at": "2023-05-11 00:56:24",
       "album": {
         "name": "Esque\u00e7o das Horas (Always On Replay)",
         "url": "https://open.spotify.com/album/7vvNWY6dc9BK3glpycLOf6"
@@ -787,22 +787,6 @@
       "duration_ms": 216060,
       "name": "Esque\u00e7o das Horas (Always On Replay)",
       "url": "https://open.spotify.com/track/2kFXNHDvTSFwm5d7vsCV1p"
-    },
-    {
-      "added_at": "2023-03-11 03:38:22",
-      "album": {
-        "name": "Para\u00edso da Miragem",
-        "url": "https://open.spotify.com/album/62WF6z5NAbTK5sPOc3BxRy"
-      },
-      "artists": [
-        {
-          "name": "Russo Passapusso",
-          "url": "https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm"
-        }
-      ],
-      "duration_ms": 128438,
-      "name": "Areia",
-      "url": "https://open.spotify.com/track/4VZCV9TBVfxEAKiiimCvFa"
     },
     {
       "added_at": "2023-03-11 03:38:22",
@@ -827,6 +811,38 @@
     {
       "added_at": "2023-03-11 03:38:22",
       "album": {
+        "name": "C\u00e9U",
+        "url": "https://open.spotify.com/album/6dG1XPrl1KEeK4MND7WAoB"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "Concrete Jungle",
+      "url": "https://open.spotify.com/track/0WAZhuiNHBnFVluqlFK5Qb"
+    },
+    {
+      "added_at": "2023-03-11 03:38:22",
+      "album": {
+        "name": "Para\u00edso da Miragem",
+        "url": "https://open.spotify.com/album/62WF6z5NAbTK5sPOc3BxRy"
+      },
+      "artists": [
+        {
+          "name": "Russo Passapusso",
+          "url": "https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm"
+        }
+      ],
+      "duration_ms": 128438,
+      "name": "Areia",
+      "url": "https://open.spotify.com/track/4VZCV9TBVfxEAKiiimCvFa"
+    },
+    {
+      "added_at": "2023-03-11 03:38:22",
+      "album": {
         "name": "Bossanova",
         "url": "https://open.spotify.com/album/7mWnMU0JMv9IhluaZSEfWh"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 201878,
       "name": "Bossanova",
       "url": "https://open.spotify.com/track/2ZgGStsZYfObB9TnhGDMoa"
-    },
-    {
-      "added_at": "2023-03-11 03:38:22",
-      "album": {
-        "name": "C\u00e9U",
-        "url": "https://open.spotify.com/album/6dG1XPrl1KEeK4MND7WAoB"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "Concrete Jungle",
-      "url": "https://open.spotify.com/track/0WAZhuiNHBnFVluqlFK5Qb"
     },
     {
       "added_at": "2023-03-11 03:38:22",

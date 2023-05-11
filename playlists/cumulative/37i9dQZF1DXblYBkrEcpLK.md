@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ヒプノシスマイク \-D.R.B\- \(中王区 言の葉党\)
 
-419 songs - 1 day 4 hr 47 min
+420 songs - 1 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,7 @@
 | [エメラルド](https://open.spotify.com/track/1YVMz0iftvnc4stAEMkhJr) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [エメラルド](https://open.spotify.com/album/09mACU8bjpR5TiX37AXTEp) | 3:40 | 2023-05-09 |  |
 | [オンリー](https://open.spotify.com/track/4hJmc8djXkDik2wEKrfe6R) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [オンリー](https://open.spotify.com/album/3OpRSmtFASdDxOGZyt8IN0) | 3:50 | 2022-06-12 | 2022-07-29 |
 | [カナユメ](https://open.spotify.com/track/5n63vjAwKJy4GN9B6vu4cd) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [カナユメ](https://open.spotify.com/album/3BwWZNxUTv3qJXKkrygSC3) | 5:07 | 2022-06-24 | 2022-07-29 |
-| [キミトノミライ](https://open.spotify.com/track/4kWZybr12HVofExyX9zrMT) | [和氣あず未](https://open.spotify.com/artist/3xmpisx9RrqCxxnkzD3dYK) | [キミトノミライ/Invisible stars](https://open.spotify.com/album/6ixLpTe3kb4WJ8Zp7tH9PT) | 4:05 | 2023-04-11 |  |
+| [キミトノミライ](https://open.spotify.com/track/4kWZybr12HVofExyX9zrMT) | [和氣あず未](https://open.spotify.com/artist/3xmpisx9RrqCxxnkzD3dYK) | [キミトノミライ/Invisible stars](https://open.spotify.com/album/6ixLpTe3kb4WJ8Zp7tH9PT) | 4:05 | 2023-04-11 | 2023-05-11 |
 | [キョリ感](https://open.spotify.com/track/3Dk2LSzebLiP4Al8AKcgbo) | [ハコニワリリィ](https://open.spotify.com/artist/2rsT3GtKdBr9qBYXEn8lEZ) | [キョリ感](https://open.spotify.com/album/2NfyjfSfTz6L1X16qxT0hq) | 3:51 | 2022-06-24 | 2022-07-27 |
 | [キンギョバチ](https://open.spotify.com/track/11CfCFLGBkAYLfhld5hsRz) | [KanoeRana](https://open.spotify.com/artist/41xWPhTGTkBVZwftEX2Xft) | [キンギョバチ](https://open.spotify.com/album/3b0uUWITNCJLycX3smrciS) | 4:40 | 2022-06-12 | 2022-07-14 |
 | [ギターと孤独と蒼い惑星](https://open.spotify.com/track/17rhDgnYYryQU4uS71ZxFu) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [ギターと孤独と蒼い惑星](https://open.spotify.com/album/6PmIi4asxDdrpIcZKHYfWp) | 3:48 | 2023-01-06 |  |
@@ -330,6 +330,7 @@
 | [リナリア](https://open.spotify.com/track/6BoQEDKLDRG1HrwtGecGmg) | [友希](https://open.spotify.com/artist/2Fd3nN9J9geFilaeOdCwfE) | [リナリア](https://open.spotify.com/album/7ILv4JYFhy16quHxrkN7HP) | 3:55 | 2022-06-24 | 2022-07-05 |
 | [ローリンソウル・ハッピーデイズ](https://open.spotify.com/track/2VSP5LdDJsMNEdASO07PHb) | [Pop Never Dies](https://open.spotify.com/artist/09sIEZ75poO3BQBaQ7EfGm) | [ローリンソウル・ハッピーデイズ / UFOを呼ぶダンス / メデューサ / 月の踊り子](https://open.spotify.com/album/6wgWmznoimZdSy6lpzFfja) | 4:31 | 2023-02-14 | 2023-03-29 |
 | [ローリンソウル・ハッピーデイズ](https://open.spotify.com/track/4TuSvwEIqhBHcYxEYkbvyZ) | [Pop Never Dies](https://open.spotify.com/artist/09sIEZ75poO3BQBaQ7EfGm) | [ローリンソウル・ハッピーデイズ](https://open.spotify.com/album/0kG9v9GX4Ibm2UStcFWf8s) | 4:31 | 2023-02-14 | 2023-02-16 |
+| [七色の絵の具で](https://open.spotify.com/track/268LIixdVDrn4FY99ktG9Y) | [NANALAND](https://open.spotify.com/artist/50LJWpfb50Or2UZo6PgAcx) | [七色の絵の具で \(Special Edition\)](https://open.spotify.com/album/3u0BsVBrwRBHRbhnQLBS9m) | 4:18 | 2023-05-10 |  |
 | [不完全ドリーマー](https://open.spotify.com/track/3m6dse2AdzEZ83Fa5OqaeD) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [不完全ドリーマー](https://open.spotify.com/album/4Lo5xGczeAbrU4LZP0QiDa) | 4:47 | 2022-06-14 | 2022-07-29 |
 | [不規則性エントロピー](https://open.spotify.com/track/380LeI6moud4Zlrr8EXSdr) | [彩音](https://open.spotify.com/artist/18ept9gCH3chL1S16u5CSQ) | [不規則性エントロピー \(TVアニメ「ひぐらしのなく頃に 業」新EDテーマ\)](https://open.spotify.com/album/2C6nNaQMeZUg9D9qpcsv3n) | 4:23 | 2022-06-14 | 2022-06-19 |
 | [世界が私を呼ぶから](https://open.spotify.com/track/3ti5HbpOassT7t56Gs5JNH) | [Sachika Misawa](https://open.spotify.com/artist/7cFgscmiwzpnPjOKx1ZZAZ) | [深呼吸](https://open.spotify.com/album/46qejdyZJ6QBJJzSg7ItIv) | 3:00 | 2022-06-24 | 2022-07-27 |

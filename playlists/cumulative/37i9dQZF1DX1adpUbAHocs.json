@@ -2784,10 +2784,28 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 249310,
       "name": "Jesse (Live From The Church)",
       "url": "https://open.spotify.com/track/2FZ8y1dyZApc1l3bAvHf6U"
+    },
+    {
+      "album": {
+        "name": "Live From The Church",
+        "url": "https://open.spotify.com/album/0gUhb109IhVVNGzPlv7GFW"
+      },
+      "artists": [
+        {
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249310,
+      "name": "Jesse (Live From The Church)",
+      "url": "https://open.spotify.com/track/6Jzicbi5LCVwfaRhV6a4Q9"
     },
     {
       "album": {

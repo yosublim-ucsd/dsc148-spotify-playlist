@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: Jim Legxacy",
-  "num_followers": 139453,
+  "num_followers": 139511,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDMzZjUzMjlhNTZiZjNkYThmZDE4ZjgyZGE3ZDQ0MzJjMzY5YTYw",
+  "snapshot_id": "MCxhNDc4OTMxN2Y4MWFjZWRhYjFkNTU1ZTRkZGM0OGE0OGY5ZTBmYTVm",
   "tracks": [
     {
       "added_at": "2022-10-28 10:36:10",
@@ -1055,22 +1055,18 @@
     {
       "added_at": "2022-10-28 10:36:10",
       "album": {
-        "name": "Never Leave",
-        "url": "https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp"
+        "name": "Extrovert",
+        "url": "https://open.spotify.com/album/3Rbg1yJHg5yf87IkeT7iic"
       },
       "artists": [
         {
-          "name": "WSTRN",
-          "url": "https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs"
-        },
-        {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+          "name": "Monjola",
+          "url": "https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6"
         }
       ],
-      "duration_ms": 196153,
-      "name": "Never Leave",
-      "url": "https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq"
+      "duration_ms": 186856,
+      "name": "Extrovert",
+      "url": "https://open.spotify.com/track/6yfmbb66n84EZH1bFOH739"
     }
   ],
   "unique_name": "Free Form",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new indie music every Friday\. Cover: BETWEEN FRIENDS ft Teezo Touchdown
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,277,234 likes - 175 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,277,236 likes - 175 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 174 | [Rainbow](https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Joker & Rainbow](https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk) | 2:56 |
 | 175 | [Psychos](https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Psychos](https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1) | 3:05 |
 
-Snapshot ID: `MCw1NWVkZjk5MWRiYWQzODI5NmMwNWI0NmFmOWMyNTE5ODk1MzQ0Y2Rm`
+Snapshot ID: `MCwwMGJlM2FlYWVkYWQ3Y2ZhZjdhMmI0OWE1ZDhlZGU5NDU4M2I0Mzg4`

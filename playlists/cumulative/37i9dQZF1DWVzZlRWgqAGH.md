@@ -4,7 +4,7 @@
 
 > Smooth joints\. Cover: KIRBY
 
-857 songs - 2 day 2 hr 23 min
+858 songs - 2 day 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Cyclical](https://open.spotify.com/track/3wH3I5K1ncdQc0VCXoBwSV) | [Cassowary](https://open.spotify.com/artist/3T3Ta5gL9MFTQ9xuZ0h9Dy), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [Cassowary](https://open.spotify.com/album/3ps9Voi4DN1YSxbdeGxQ9v) | 3:18 | 2020-04-24 | 2020-05-22 |
 | [Daily](https://open.spotify.com/track/4nYAZXnEkeQUydNuNRml5k) | [Ben Esser](https://open.spotify.com/artist/1s3tUuJFDb56RcgjUlwVbs), [Jessy Rose](https://open.spotify.com/artist/71WVLOuQ8jIwgpudcz80Rd) | [Daily](https://open.spotify.com/album/4j6dGTZITzMsywJCLvvlt7) | 3:05 | 2020-04-18 | 2020-12-18 |
 | [Damaged](https://open.spotify.com/track/2zKsGLytwZOY5WKEZ1ARAk) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [All For You](https://open.spotify.com/album/6VpIFMps1Uha73gk1c50sJ) | 3:16 | 2023-04-28 |  |
+| [Damn](https://open.spotify.com/track/4DV342x7moUswqcVzD8ekZ) | [Jerome Thomas](https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp) | [Damn](https://open.spotify.com/album/5xM06Tdm3WUkdtFqBeN4Mb) | 3:16 | 2023-05-05 |  |
 | [Dawn at the Souk](https://open.spotify.com/track/05KyHSK22P4sLoszUk34dD) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Dawn at the Souk](https://open.spotify.com/album/1WLgN8sZUOEukP5YAvS9Jt) | 5:06 | 2020-03-20 | 2020-06-16 |
 | [Daylight](https://open.spotify.com/track/0cVrv8dZAhs19LKGX61EvS) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Daylight](https://open.spotify.com/album/3NdmyGu5zVDaihh0BGFnNx) | 3:52 | 2020-04-24 | 2022-04-18 |
 | [Daylight](https://open.spotify.com/track/7vg03Vdn4Oxia5YsSgjN3A) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Cereal](https://open.spotify.com/album/78QTgD4N5xiyp7rAYFbC5R) | 3:52 | 2022-07-22 | 2022-09-10 |
@@ -192,7 +193,7 @@
 | [delicate](https://open.spotify.com/track/4rHSTlvxBGn8clY6aEaHeq) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [souvenir](https://open.spotify.com/album/4cabxBosFk0C7xVD1lVitq) | 3:16 | 2022-10-07 | 2022-10-15 |
 | [Desert Flower](https://open.spotify.com/track/4fT4kJxP3QfmktqB6hxDhE) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Hues](https://open.spotify.com/album/3CU1TMUl0c6XzIVWPvzPv0) | 2:54 | 2020-12-11 | 2022-04-21 |
 | [Diamond Dreams](https://open.spotify.com/track/6qhuqciifFd2bZvivsypsk) | [Suff Daddy](https://open.spotify.com/artist/7BYXrz5LhCrix6A3EwPvU0), [Kadeshia](https://open.spotify.com/artist/0IpGKmzQ2Gl1wj5XVFXoh5) | [Pompette](https://open.spotify.com/album/2pDqdWecnduil8PsR6UZEz) | 3:31 | 2020-03-04 | 2020-05-01 |
-| [Didn't Cha Know \[Feat\. Bilal\]](https://open.spotify.com/track/33VfEqHmo459jipU1W7it1) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [Live At Electric Lady \(Spotify Exclusive\)](https://open.spotify.com/album/1ZJIrjZ6OVtVC2TMAVlEQ4) | 4:23 | 2023-05-05 |  |
+| [Didn't Cha Know \[Feat\. Bilal\] \- Live At Electric Lady](https://open.spotify.com/track/33VfEqHmo459jipU1W7it1) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [Live At Electric Lady](https://open.spotify.com/album/1ZJIrjZ6OVtVC2TMAVlEQ4) | 4:23 | 2023-05-05 |  |
 | [Die for You \(feat\. Serious Klein\)](https://open.spotify.com/track/4ZwWHEhdxsVOsVaF4TMrMD) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D), [Serious Klein](https://open.spotify.com/artist/118HlFjDgUCku033j3YD81) | [Die for You \(feat\. Serious Klein\)](https://open.spotify.com/album/2t91FExxOUBMyo13cQkiNy) | 4:14 | 2019-09-29\* | 2019-11-22 |
 | [Dime Piece](https://open.spotify.com/track/72KUbNNeIz9A2jPHpVlFzi) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp), [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [The Shining](https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5) | 3:15 | 2023-02-17 | 2023-03-04 |
 | [Dirtknock](https://open.spotify.com/track/6Eo6VMANKQi3Zc1IdkDfSp) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Dirtknock](https://open.spotify.com/album/6b5SURdUoINESwJRl3Vy64) | 2:14 | 2021-02-22 | 2022-04-17 |
@@ -732,7 +733,7 @@
 | [Take Care](https://open.spotify.com/track/2cDpmXyh3PE57jrnmmvzno) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Take Care](https://open.spotify.com/album/2h1iaTg7mmALw6Xm7KUOb7) | 3:49 | 2022-10-14 | 2022-11-19 |
 | [Take Care of You \(feat\. Syd\)](https://open.spotify.com/track/2ENxOXbxhfJ3lfItO0MFDv) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Take Care of You / Summertime](https://open.spotify.com/album/1TOxhqUtnHSJHnOqRlVxQa) | 3:34 | 2020-08-25 | 2020-12-18 |
 | [Take Me Away \(feat\. EARTHGANG\)](https://open.spotify.com/track/0jdit0IB5OJbDmPRqadZbs) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Take Me Away \(feat\. EARTHGANG\)](https://open.spotify.com/album/7uArP6gpDdQXQrkfdFOpvA) | 2:52 | 2020-10-16 | 2022-12-31 |
-| [Talk Is Cheap](https://open.spotify.com/track/1p1iq2npedwN1k112m7UPf) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Velvet](https://open.spotify.com/album/2wN3fuTXmj387DO7wxNjz8) | 4:18 | 2022-08-19 |  |
+| [Talk Is Cheap](https://open.spotify.com/track/1p1iq2npedwN1k112m7UPf) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Velvet](https://open.spotify.com/album/2wN3fuTXmj387DO7wxNjz8) | 4:18 | 2022-08-19 | 2023-05-11 |
 | [Tastes Like Freedom \- Radio Edit](https://open.spotify.com/track/4EAEt7y5pOzv1uY7w2QyKX) | [30/70](https://open.spotify.com/artist/2hmDAP9qrP22L93Pbq7FWM) | [Tastes Like Freedom](https://open.spotify.com/album/0XMEO0DmREPTcpquyo0aAd) | 3:11 | 2021-09-12 | 2022-07-29 |
 | [TEARS OF JOY](https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [LET IT RAIN EP](https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D) | 3:23 | 2022-10-28 |  |
 | [Tell Me Why](https://open.spotify.com/track/75QLOfbDw2IyEuY5OZWV5r) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Tell Me Why](https://open.spotify.com/album/0g8h1QxnKUsfnEgVwKTuJN) | 3:08 | 2022-05-13 | 2023-02-05 |

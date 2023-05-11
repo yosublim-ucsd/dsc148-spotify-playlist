@@ -690,7 +690,7 @@
     {
       "album": {
         "name": "Hairway To Steven",
-        "url": "https://open.spotify.com/album/3Izyai1krlLpf4BjUvxMx4"
+        "url": "https://open.spotify.com/album/1fFKMj2ukkKHeatyWyYYfA"
       },
       "artists": [
         {
@@ -701,6 +701,24 @@
       "date_added": "2019-10-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 296853,
+      "name": "I Saw an X-Ray of a Girl Passing Gas",
+      "url": "https://open.spotify.com/track/0dYjJIrxPlMU0TuOWodDs9"
+    },
+    {
+      "album": {
+        "name": "Hairway To Steven",
+        "url": "https://open.spotify.com/album/3Izyai1krlLpf4BjUvxMx4"
+      },
+      "artists": [
+        {
+          "name": "Butthole Surfers",
+          "url": "https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-11",
       "duration_ms": 296853,
       "name": "I Saw an X-Ray of a Girl Passing Gas",
       "url": "https://open.spotify.com/track/2YJWPV8spfJFo9fybOf2CH"

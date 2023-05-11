@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-300 songs - 21 hr 39 min
+301 songs - 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,8 @@
 | [Phantom Throb](https://open.spotify.com/track/4HTssxgiSfzBgJz0OpGflP) | [Hymie's Basement](https://open.spotify.com/artist/13EcvIBumjgScGWRdX4z3b), [WHY?](https://open.spotify.com/artist/0d7aBBLFcc4dlETnae6zcH), [Fog](https://open.spotify.com/artist/07fCHWZAafI3Dd4T1svHhd) | [Phantom Throb](https://open.spotify.com/album/30nUHO4LbymjkGJLDM2QTq) | 3:54 | 2022-01-11 | 2023-04-30 |
 | [Plans](https://open.spotify.com/track/08IFsxnFORrTeM1mz4EuvH) | [Kate NV](https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx) | [Room For The Moon](https://open.spotify.com/album/1GmdNCH9lvYzn0ZgtG8Mpa) | 5:38 | 2021-10-06 | 2022-07-29 |
 | [Plans](https://open.spotify.com/track/7qCsvM2VP5cAbMFgBbS60B) | [Kate NV](https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx) | [Room For The Moon](https://open.spotify.com/album/5KduXFab1jkKushmutNYbq) | 5:38 | 2021-10-06 |  |
-| [Portraits](https://open.spotify.com/track/1n2POqjfHTnCt3bxaa1vCX) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Portraits](https://open.spotify.com/album/28cCm9j1feLv2jdqCdLmby) | 3:42 | 2023-04-13 |  |
+| [Portraits](https://open.spotify.com/track/1n2POqjfHTnCt3bxaa1vCX) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Portraits](https://open.spotify.com/album/28cCm9j1feLv2jdqCdLmby) | 3:42 | 2023-04-13 | 2023-05-11 |
+| [Portraits](https://open.spotify.com/track/6PypMXsV8zmifuFPMnWE4W) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Failed at Math\(s\)](https://open.spotify.com/album/0xCCtljPkA65lyDP3CXFgr) | 3:42 | 2023-04-13 |  |
 | [Quirk](https://open.spotify.com/track/326iKm66vm3bhCXAOxh3xK) | [Really From](https://open.spotify.com/artist/1qTmg9Vib3GHabe1ygHW9y) | [Really From](https://open.spotify.com/album/06jgHnFcljRkBImNYTddpB) | 4:12 | 2021-10-06 | 2022-07-15 |
 | [Rain Take Me Back Himalaya](https://open.spotify.com/track/4S2be7DT90dt19piW7wj8O) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU) | [Plexiglass](https://open.spotify.com/album/34vLOdj6NXH9oESFFJa9F1) | 4:27 | 2022-07-04 | 2022-09-23 |
 | [Ready To Ball](https://open.spotify.com/track/7AN04wyG4AnzJN3cR20CQT) | [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf) | [Ready To Ball](https://open.spotify.com/album/0oKYfLeymlC92TAHzSDzRp) | 3:27 | 2023-03-23 |  |

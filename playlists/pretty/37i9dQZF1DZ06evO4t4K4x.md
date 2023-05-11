@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 
 > This is Delia Derbyshire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,243 likes - 30 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,245 likes - 30 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 | 29 | [Great Zoos of the World](https://open.spotify.com/track/4HnfjfedOmmZkxjaAeEkcY) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy) | 0:37 |
 | 30 | [Hannett and Delia synth exchanges track 18](https://open.spotify.com/track/6eE4C3OBhLH6racpXnzM32) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Martin Hannett](https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb) | [The Synth And Electronic Recording Exchanges](https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks) | 1:29 |
 
-Snapshot ID: `MjgwNjA1NTksMDAwMDAwMDA1NDI1ZDk1MGRhNTQ4YWVmYjZmOGQ5ODkzOWYzYTYyYQ==`
+Snapshot ID: `MjgwNjIwMzUsMDAwMDAwMDBkYjI1ZWJlNWFiM2M5MjFkMDc2YzFhYmJjYzMxM2I3Ng==`

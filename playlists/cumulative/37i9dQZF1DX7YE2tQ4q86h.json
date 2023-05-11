@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 162500,
       "name": "Better Off Alone",
       "url": "https://open.spotify.com/track/1CuGuLSXI9k85Ppxw908yP"
@@ -1036,6 +1036,24 @@
       "duration_ms": 162500,
       "name": "Better Off Alone",
       "url": "https://open.spotify.com/track/2PkIMHlkRJjG0saAcQRZPO"
+    },
+    {
+      "album": {
+        "name": "TECHNICOLOR: The Full Spectrum",
+        "url": "https://open.spotify.com/album/5PxSXvwxo1pKKcEl0S6qY7"
+      },
+      "artists": [
+        {
+          "name": "Madison Rose",
+          "url": "https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "Better off Alone",
+      "url": "https://open.spotify.com/track/5oT0W6JKJo8or78vqzd5XX"
     },
     {
       "album": {

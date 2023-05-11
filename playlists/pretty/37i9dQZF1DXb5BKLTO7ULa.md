@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: De Jeugd Van Tegenwoordig
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,842 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,848 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 57 | [Amapiano](https://open.spotify.com/track/3KAYBhqb0hm5SYBzcetYHi) | [The Plugz Europe](https://open.spotify.com/artist/63qgmJRhJ07e8O9ez4IYql), [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi), [DJ Spinciti](https://open.spotify.com/artist/7DeHUckipSB4bwaR6Krn9z) | [Amapiano](https://open.spotify.com/album/4CNUTOyQNgtcCKalqXGcw2) | 3:47 |
 | 58 | [Might Just Make It](https://open.spotify.com/track/0jRcaxm19oxnlKBbEucjZm) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Might Just Make It](https://open.spotify.com/album/74rexr4XjvEjgOVHmFH0ow) | 4:29 |
 | 59 | [What More Can I Say](https://open.spotify.com/track/6HPF8EnycKjys9R3vjgvUO) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [What More Can I Say](https://open.spotify.com/album/5GqFftx87ccwc2WOCtHh6S) | 2:21 |
-| 60 | [whatever](https://open.spotify.com/track/2WSORfJyTbgy90ZtJYcOZX) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [whatever](https://open.spotify.com/album/7dt6sUWujCzWUkNhI73mk7) | 1:59 |
+| 60 | [whatever](https://open.spotify.com/track/2WSORfJyTbgy90ZtJYcOZX) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [whatever](https://open.spotify.com/album/7dt6sUWujCzWUkNhI73mk7) | 1:59 |
 | 61 | [Deur Open](https://open.spotify.com/track/1wsp3FnhxPKoBvuwRR63J1) | [Jozo](https://open.spotify.com/artist/45eUXWgwkv92uAk1KQFI6D) | [Deur Open](https://open.spotify.com/album/17sl4ccnNqbiffTrLOBAQP) | 1:33 |
 | 62 | [Shit We Do For Love](https://open.spotify.com/track/2bIxNWvnynGGNq87gMbNcn) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Shit We Do For Love](https://open.spotify.com/album/1B9tQW1mpmwtahZ9EYrin7) | 2:47 |
 | 63 | [Ya Nari](https://open.spotify.com/track/5oqiOSeSuSIX5aiXI2s8ug) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Ya Nari](https://open.spotify.com/album/1arozXUfxz58RACd4ss2NB) | 2:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Pieces](https://open.spotify.com/track/5bwL1JGq1j4SFfCSGZtwZd) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Pieces](https://open.spotify.com/album/7wXDiXmcDVgqSQZeZwIM4d) | 4:24 |
 | 100 | [Hey Zonnebloem](https://open.spotify.com/track/7BxNuSuxxoT3EN1lQuvxB6) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Hey Zonnebloem](https://open.spotify.com/album/7lHVCPQO5bkTAdU7b9l3oN) | 3:27 |
 
-Snapshot ID: `MCw5M2M2ZGI3ODExMTVjY2QwN2U5YmYxNjYyMjc1OTE5MTM0OGYyODlm`
+Snapshot ID: `MCxiNjRiNzhkM2JmNTM0YWVlYjVhZWNkNzAyMGU0OTQwMDg4MTk1YjIx`

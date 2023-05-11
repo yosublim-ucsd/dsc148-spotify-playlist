@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,769 likes - 110 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,779 likes - 110 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 72 | [Fading](https://open.spotify.com/track/6a6ukMkLFXcWvqP0fdlDfZ) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Fading](https://open.spotify.com/album/4bUlfYprHew2m5NsyzD84I) | 4:27 |
 | 73 | [Bogus Operandi](https://open.spotify.com/track/1TJmuC4kMe1ewZdybH159I) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Bogus Operandi](https://open.spotify.com/album/14ZnjDuT7OhZGNO0bvRbbh) | 3:43 |
 | 74 | [Eww](https://open.spotify.com/track/4okvbms2ajKt6617aqkn0A) | [Aisha Vibes](https://open.spotify.com/artist/7x6XwopgxWpVKTUiDSwRaN), [Nura](https://open.spotify.com/artist/3gkbRDj7pkIylWVBpRfrQf) | [Eww](https://open.spotify.com/album/30k9VJz1caQQyR359ikfk9) | 2:27 |
-| 75 | [whatever](https://open.spotify.com/track/2WSORfJyTbgy90ZtJYcOZX) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [whatever](https://open.spotify.com/album/7dt6sUWujCzWUkNhI73mk7) | 1:59 |
+| 75 | [whatever](https://open.spotify.com/track/2WSORfJyTbgy90ZtJYcOZX) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [whatever](https://open.spotify.com/album/7dt6sUWujCzWUkNhI73mk7) | 1:59 |
 | 76 | [Lost In Communication](https://open.spotify.com/track/3y30f531eMYEakYm2dNAsj) | [Odd Beholder](https://open.spotify.com/artist/3QXIzf05xhPdEUciKVif6v), [Long Tall Jefferson](https://open.spotify.com/artist/4dPlgLFpJ1w0BtzNVwQNZq) | [Lost In Communication](https://open.spotify.com/album/7B2eRtlQFr3cwkH5TzB3Fx) | 5:28 |
 | 77 | [nach 2 jahren](https://open.spotify.com/track/3PUQIrzjV7rUPQw1sNAZvQ) | [siovo](https://open.spotify.com/artist/00ektSs4zWX7aBQqs5cgST) | [nach 2 jahren](https://open.spotify.com/album/6AnQwTHag3PNRjy4W0BRc8) | 2:51 |
 | 78 | [Healing](https://open.spotify.com/track/1l40rYTK1jU4OMpSK6BwD0) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Healing](https://open.spotify.com/album/6MKGuZlTv1ECBhjJ5AvrFl) | 2:40 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 109 | [Attack On Us](https://open.spotify.com/track/4N1tF1jz1JKLpnaoUSxG9Z) | [Orphée Noah](https://open.spotify.com/artist/1rDh7YkRICrNYqN3livXq3) | [Attack On Us](https://open.spotify.com/album/0N4kxrPiQ8PuixSIJg2owR) | 2:28 |
 | 110 | [Electric](https://open.spotify.com/track/3PuPU4fgsuBJMfXQ2mXyNc) | [The BossHoss](https://open.spotify.com/artist/1sICjVlCMOCah0snHXWUz0) | [Electric Horsemen](https://open.spotify.com/album/7j3sm2ctSeCf2DHB3b5OkW) | 3:27 |
 
-Snapshot ID: `MCw4YmM4MzY0ZjI3N2U0MDRkYjBlYmI0OWM5MjQ3YjRmODc1M2ZmMDk1`
+Snapshot ID: `MCw5Y2RmYTFmZWZlNmQ3ZjZkZGU5YzllYzBlMWQ4OTc3NGNjOGIxYmQ1`

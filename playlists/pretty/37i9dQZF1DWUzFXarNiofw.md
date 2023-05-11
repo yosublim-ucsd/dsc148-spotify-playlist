@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Brent Faiyaz & Marshmello
 
-[Spotify](https://open.spotify.com/user/spotify) - 999,546 likes - 151 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 999,735 likes - 151 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 150 | [Show & Prove](https://open.spotify.com/track/449FBzMELJSNmcZOhobcyq) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Show & Prove](https://open.spotify.com/album/1OeiauwrDJM0ZhHsqwsQd9) | 2:29 |
 | 151 | [World In My Hands](https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW) | [LAVI$H](https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32) | [World In My Hands](https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT) | 3:14 |
 
-Snapshot ID: `MCw5YTBhM2YyNzM2ZGFjNjQ1YTQ2YzBhMjQ0ZGYzMDdkOWYxNDBkMmI3`
+Snapshot ID: `MCw4YjdiNDRmODA4ZTNiNWRkZjRlYjhhOTA3NzkyYjZiNTJjNzAwMTc4`

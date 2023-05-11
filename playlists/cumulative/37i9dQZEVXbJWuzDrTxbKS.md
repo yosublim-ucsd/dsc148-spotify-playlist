@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Latvia.
 
-1,319 songs - 2 day 22 hr 51 min
+1,320 songs - 2 day 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [After Dark](https://open.spotify.com/track/5FkJHVudUByVjanCqFXRql) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/0yeP5olfo8IIu6UBGfUWHo) | 4:17 | 2022-10-14 | 2023-04-09 |
 | [Ai \- dundur \- dundur \- dun \- dun \- dun](https://open.spotify.com/track/5v6iZZfshtun3duyFIC1ov) | [Nora Bumbiere](https://open.spotify.com/artist/4CYZRz0HWS20cTgIhD8Vy0), [Raimonds Pauls](https://open.spotify.com/artist/01pSsqt7FLdq2SC6UqjER3), [Viktors Lapčenoks](https://open.spotify.com/artist/3PaCz9DDjeSdse2rSFttko) | [Zelta 75 1](https://open.spotify.com/album/7pHK6xPzSCUtYusooFWRCd) | 3:15 | 2022-06-24 | 2022-06-27 |
 | [Ai, jel manu vieglu prātu](https://open.spotify.com/track/59MD2NDaTT0ZvOELrOCthn) | [Jauns Mēness](https://open.spotify.com/artist/7GIvsDVOV1bjghuisC9opx) | [Garastāvoklis](https://open.spotify.com/album/5zWwuV71CPoMDL7S9w86KN) | 3:42 | 2021-06-25 | 2022-06-28 |
-| [Aijā](https://open.spotify.com/track/2XhLiOVoMTWR0LNkvVEYA5) | [Sudden Lights](https://open.spotify.com/artist/3hUQbGcka7Ta13TPySOZ0O) | [Aijā](https://open.spotify.com/album/6rjEzmzwPlDKSsLNr8TSCu) | 3:00 | 2023-02-06 | 2023-02-25 |
+| [Aijā](https://open.spotify.com/track/2XhLiOVoMTWR0LNkvVEYA5) | [Sudden Lights](https://open.spotify.com/artist/3hUQbGcka7Ta13TPySOZ0O) | [Aijā](https://open.spotify.com/album/6rjEzmzwPlDKSsLNr8TSCu) | 3:00 | 2023-02-06 |  |
 | [Ain't Shit](https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:54 | 2021-06-27 | 2021-08-31 |
 | [Aiz Sienas](https://open.spotify.com/track/5yhcJBmWo03kIDZieSkpTa) | [Prāta Vētra](https://open.spotify.com/artist/52SusfPq6EW5PgrjUqMHSy) | [Gads Bez Kalendāra](https://open.spotify.com/album/11ENs0gcerHrD5Yp9Pi6qy) | 3:39 | 2021-10-31 | 2022-08-24 |
 | [Alien Blues](https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh) | 2:35 | 2021-12-28 | 2022-03-05 |
@@ -727,7 +727,7 @@
 | [N95](https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:15 | 2022-05-14 | 2022-06-08 |
 | [Nakts](https://open.spotify.com/track/6L9dtMNX2QrY7Tuif7OwSg) | [Bet Bet](https://open.spotify.com/artist/7s2VdSlsOjIesOjjC2Ty0Q) | [20 Labākās Dziesmas](https://open.spotify.com/album/3aKtLk8jB0JQWLslUGFNTw) | 4:40 | 2021-12-25 | 2022-12-28 |
 | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/track/23bkmqAXxuId9FaUJvrP29) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/album/3OCnOKuifIlUkYkCaqlHfd) | 1:50 | 2023-05-07 | 2023-05-10 |
-| [NARCISSISTICPERSONALITYDISORDER](https://open.spotify.com/track/4Gh7On1O5VzyFJ1mpHqdOw) | [FenoSkii](https://open.spotify.com/artist/21vH6ZrmLrLiMTH6DqUgsC) | [NARCISSISTICPERSONALITYDISORDER](https://open.spotify.com/album/7vW1HMhMkyuDcGADlfM3PU) | 1:50 | 2023-05-09 |  |
+| [NARCISSISTICPERSONALITYDISORDER](https://open.spotify.com/track/4Gh7On1O5VzyFJ1mpHqdOw) | [FenoSkii](https://open.spotify.com/artist/21vH6ZrmLrLiMTH6DqUgsC) | [NARCISSISTICPERSONALITYDISORDER](https://open.spotify.com/album/7vW1HMhMkyuDcGADlfM3PU) | 1:50 | 2023-05-09 | 2023-05-11 |
 | [narenes ir klāt](https://open.spotify.com/track/2wijOKMP3ccgtfO6Idhfns) | [rolands če](https://open.spotify.com/artist/35liSWoGK1NcMBLNQqamHZ), [Steps](https://open.spotify.com/artist/6RqVzuPaClLObg598kQEn7) | [visurgājējs](https://open.spotify.com/album/359NpKcAHBDr1bD3jdqOMe) | 3:12 | 2022-04-30 | 2022-05-02 |
 | [Natural](https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Origins \(Deluxe\)](https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr) | 3:09 | 2022-06-02 | 2022-06-08 |
 | [Naukšēnu Disko](https://open.spotify.com/track/3ujJ6h5ElONBUw4vPJj3o4) | [Labvēlīgais Tips](https://open.spotify.com/artist/6lCjsH7dRjXIbYHdRJHAc1) | [Naukšēnu Disko](https://open.spotify.com/album/47Glqmc2RE0i2qZmk9zOXm) | 3:32 | 2021-06-25 | 2021-06-26 |
@@ -940,7 +940,7 @@
 | [Set Me Free Pt.2](https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Set Me Free Pt.2](https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz) | 3:20 | 2023-03-18 | 2023-03-27 |
 | [Sex Sells](https://open.spotify.com/track/6ShHxD0hoJSXajmcpQ5Ri8) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Are You Alright?](https://open.spotify.com/album/6rPU1BHqLneslZ1N1EvVdR) | 4:06 | 2021-05-13 | 2021-05-15 |
 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 | 2022-06-14 | 2023-03-05 |
-| [Sex, Drugs, Etc.](https://open.spotify.com/track/7MlDNspYwfqnHxORufupwq) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Pineapple Sunrise](https://open.spotify.com/album/7gA8QSNSZvHUYC9feFpeLj) | 3:16 | 2023-03-04 |  |
+| [Sex, Drugs, Etc.](https://open.spotify.com/track/7MlDNspYwfqnHxORufupwq) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Pineapple Sunrise](https://open.spotify.com/album/7gA8QSNSZvHUYC9feFpeLj) | 3:16 | 2023-03-04 | 2023-05-11 |
 | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:37 | 2023-01-17 | 2023-02-05 |
 | [Sharks](https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Sharks](https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e) | 3:10 | 2022-06-26 | 2022-07-03 |
 | [Sharks](https://open.spotify.com/track/7sA2SKTo1QbTSSYn5YvJC4) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 3:10 | 2022-07-02 | 2022-07-11 |
@@ -1050,6 +1050,7 @@
 | [Talk](https://open.spotify.com/track/0oO1AbL92F6329z13C2qQH) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:54 | 2022-09-10 | 2022-09-19 |
 | [Talk](https://open.spotify.com/track/0ypjMI7vHiDP4sLB1C0Qna) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Talk](https://open.spotify.com/album/7dMwNA2bcmk60N4s27fk5e) | 2:54 | 2022-09-03 | 2022-09-11 |
 | [Talking to the Moon](https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:37 | 2021-04-26 | 2021-04-30 |
+| [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 | 2023-05-10 |  |
 | [TATU](https://open.spotify.com/track/6ZlZ3uBMRyM4cmj0AVcfwc) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [LAST ONE](https://open.spotify.com/album/3Mp2TOTZpTGvU1cExaHs7w) | 2:22 | 2022-10-22 | 2022-10-27 |
 | [Taunt](https://open.spotify.com/track/0r3QJbwBuR9UL0ai5qDTw7) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Are You Alright?](https://open.spotify.com/album/6rPU1BHqLneslZ1N1EvVdR) | 2:13 | 2021-05-13 | 2021-05-16 |
 | [Tautas laiks](https://open.spotify.com/track/5oN9r9ZbJJEPoqJRrE2Ktx) | [Zodiaks](https://open.spotify.com/artist/1od8B42klc1J4JrIXqzdfB) | [Mirušais gadsimts](https://open.spotify.com/album/0naGXndQs0MSa56NkWElSY) | 2:48 | 2022-11-19 | 2022-11-21 |

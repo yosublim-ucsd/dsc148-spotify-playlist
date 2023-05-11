@@ -4,7 +4,7 @@
 
 > Classical compositions from Ravi Shankar and more.
 
-77 songs - 18 hr 20 min
+77 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Ananda Nadamadum Tillai Sankara](https://open.spotify.com/track/6n0zRU7mAzwLyuvswZM4Zq) | [L\. Shankar](https://open.spotify.com/artist/5X75aYCKG5hS5yONW4IPRr) | [Who's To Know \- Indian Classical Music](https://open.spotify.com/album/3OMXlAb0CBDAq37LajekYQ) | 23:53 | 2021-12-07 |  |
 | [Bairan](https://open.spotify.com/track/3VkIejOeatDUJGq9faLncj) | [Shakir Khan](https://open.spotify.com/artist/1y8wQpxPrJamcHovxJu9UX), [Aarya Ambekar](https://open.spotify.com/artist/5eq2uN2yinN4ZJezM2N9Gm) | [Taurat](https://open.spotify.com/album/2LsJpdLEVENc7rjVOBu935) | 5:01 | 2021-12-07 |  |
 | [Bheempalas\-Ek Taal \(feat\. Charudatta Phadke\)](https://open.spotify.com/track/6oSEq00mzuxI7FpRNc84qc) | [Milind Date](https://open.spotify.com/artist/7zF7CHrGMDojcnsWUWJvlx), [Charudatta Phadke](https://open.spotify.com/artist/61h6rVGmXRAWbWB8Q0tdIR) | [Swar Venu](https://open.spotify.com/album/6eHZYEfasxwW7VLVLUOrH5) | 12:15 | 2023-01-15 |  |
-| [Bindiya Ka Rang Uda Jaye \- Raga Bhairavi \- Tala Dadra](https://open.spotify.com/track/6sVEyEssNWWbX8eABiNfdN) | [Manjusha Patil](https://open.spotify.com/artist/3LDjhTMmzOTXWXcnteHHcU), [Suyog Kundalkar](https://open.spotify.com/artist/2MShZojcDtiCJtodRnKWbk), [Prashant Pandav](https://open.spotify.com/artist/2lHCSPBPOfpetcA99KlhYR) | [Bindiya Ka Rang \- Dadra](https://open.spotify.com/album/6qaUTjlKmx2mkOz8drtklF) | 7:36 | 2023-04-16 |  |
+| [Bindiya Ka Rang Uda Jaye \- Raga Bhairavi \- Tala Dadra](https://open.spotify.com/track/6sVEyEssNWWbX8eABiNfdN) | [Manjusha Patil](https://open.spotify.com/artist/3LDjhTMmzOTXWXcnteHHcU), [Chaitanya Kunte](https://open.spotify.com/artist/3eWmQr836d0WvH4Fid3oj6), [Prashant Pandav](https://open.spotify.com/artist/2lHCSPBPOfpetcA99KlhYR) | [Bindiya Ka Rang \- Dadra](https://open.spotify.com/album/6qaUTjlKmx2mkOz8drtklF) | 8:07 | 2023-04-16 |  |
 | [Brochevarevarurar](https://open.spotify.com/track/5gRW0aQdzRizSiXVvfLsLl) | [A\. Kanyakumari](https://open.spotify.com/artist/1KpLrWibd8HAU54JqTgEaH) | [Strings Of Harmony \- Violin On 3 Octaves](https://open.spotify.com/album/4MuwtJ3EQ0ibtM4XLsjxob) | 5:28 | 2021-12-07 | 2023-05-09 |
 | [Chaiti \- Raat Hum Dekhli Sapanwa](https://open.spotify.com/track/0AJJvNFYrXJIofnpguOOaS) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Sur Tarangini Part 2](https://open.spotify.com/album/45ogchMjhkNMsjpMqNU6w3) | 11:16 | 2023-05-08 |  |
 | [Chandrakaush Alap](https://open.spotify.com/track/4hrp2BLqRV6XO2oOp5IVeY) | [Nikhil Banerjee](https://open.spotify.com/artist/7ieM2QOG3mf89WSTAfGvu1) | [Chandrakaush Khamaj 1967](https://open.spotify.com/album/4fY7XyZhcMPXyqXo5FOkh7) | 20:24 | 2021-12-07 |  |

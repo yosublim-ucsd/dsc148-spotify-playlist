@@ -990,10 +990,28 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 231672,
       "name": "Jesse",
       "url": "https://open.spotify.com/track/5loHd8KKK93wxEOkgGU12Q"
+    },
+    {
+      "album": {
+        "name": "How the Mighty Fall",
+        "url": "https://open.spotify.com/album/0xSyaaBZ3hrYf8rROAs125"
+      },
+      "artists": [
+        {
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231672,
+      "name": "Jesse",
+      "url": "https://open.spotify.com/track/7qb6DlOmbPOllTfCvmmkH6"
     },
     {
       "album": {
@@ -2009,6 +2027,24 @@
     },
     {
       "album": {
+        "name": "The Jealous Kind (Live From The Church)",
+        "url": "https://open.spotify.com/album/6cZwwQJr7F9hTcrvSWx3rJ"
+      },
+      "artists": [
+        {
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215347,
+      "name": "The Jealous Kind (Live From The Church)",
+      "url": "https://open.spotify.com/track/4kVZzwAjL8y73Oc7qsNG0p"
+    },
+    {
+      "album": {
         "name": "The Jealous Kind (Live from the Church)",
         "url": "https://open.spotify.com/album/1KSDcbkwcDd1XrjYz8Lpx0"
       },
@@ -2020,7 +2056,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 215347,
       "name": "The Jealous Kind (Live from the Church)",
       "url": "https://open.spotify.com/track/5s39a54LU092WwtEGoOmtp"

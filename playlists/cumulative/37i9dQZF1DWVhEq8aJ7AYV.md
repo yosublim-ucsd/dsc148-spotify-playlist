@@ -4,7 +4,7 @@
 
 > Tengan a la mano las máscaras de lucha libre y la tabla de surf.
 
-228 songs - 11 hr 21 min
+229 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [El Beach Boy](https://open.spotify.com/track/1P56hKJF93achBpRvllYcV) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Martinis & Bikinis](https://open.spotify.com/album/05IVUYcH4LBJifRy3C0BBB) | 2:17 | 2021-09-03 | 2022-07-29 |
 | [El Beach Boy](https://open.spotify.com/track/6oqxj450uTm4141WYeLLOM) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Martinis & Bikinis](https://open.spotify.com/album/3E2iEWxguD9ypkLuZ6UMoz) | 2:17 | 2021-09-03 |  |
 | [El Bikini de la Chica Popof](https://open.spotify.com/track/5v9qoKW6B0czgAEubebKJt) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Martinis & Bikinis](https://open.spotify.com/album/05IVUYcH4LBJifRy3C0BBB) | 2:21 | 2021-09-03 | 2022-07-29 |
-| [El Bikini de la Chica Popof](https://open.spotify.com/track/6XMx1sjG5glE19x87YDew3) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Martinis & Bikinis](https://open.spotify.com/album/3E2iEWxguD9ypkLuZ6UMoz) | 2:21 | 2021-09-03 |  |
+| [El Bikini de la Chica Popof](https://open.spotify.com/track/6XMx1sjG5glE19x87YDew3) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Martinis & Bikinis](https://open.spotify.com/album/3E2iEWxguD9ypkLuZ6UMoz) | 2:21 | 2021-09-03 | 2023-05-11 |
 | [El Exorsista](https://open.spotify.com/track/2uEbPvG2mUuDuvwN3JhPiu) | [Espectroplasma](https://open.spotify.com/artist/48ljuzBJK83T0146ueaNZq) | [Espectroplasma I](https://open.spotify.com/album/4VDEjivZLmKKHWR01lIPjL) | 2:25 | 2021-09-03 | 2022-07-28 |
 | [El Garage de Gina Monster](https://open.spotify.com/track/6L6npzAT4Cd8cD0U2n8Fgk) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Tequila Connection 3](https://open.spotify.com/album/1jzDxQ0X1yNxjcg7mKEhlC) | 3:03 | 2021-09-03 | 2022-11-13 |
 | [El Gran Sur](https://open.spotify.com/track/6yA543x9Q4ayk9nMOBpJ1C) | [The Cavernarios](https://open.spotify.com/artist/6fsKu7O1tqv4la4xy0fIOZ) | [Sangre en el Atlántico](https://open.spotify.com/album/0dGcnozdWfdgdPez34CCbp) | 4:10 | 2021-09-03 | 2022-07-26 |
@@ -141,6 +141,7 @@
 | [Mavericks](https://open.spotify.com/track/0d2nwq8bTVzvHzx60A0IP7) | [Los Kahunas](https://open.spotify.com/artist/7BaYvs3P41031o3edkXrce) | [El Fantastico Sonido Surf & Hot Rod de los Kahunas](https://open.spotify.com/album/4AR2Ig1ZjyMxfyske9Ohak) | 2:22 | 2021-09-03 | 2022-07-22 |
 | [Metralleta](https://open.spotify.com/track/3L7RYCRoKOnqsgDL9cXdUD) | [Acuario Cosmico](https://open.spotify.com/artist/6Sq1Zu3ALe2ldsnYUS7zYY) | [Metralleta](https://open.spotify.com/album/5nY5psozTUXskeoczm947N) | 2:35 | 2021-09-03 | 2022-07-06 |
 | [Mil Navajas](https://open.spotify.com/track/3AmJoBwYvzfIGRD708ayaa) | [El General Villamil](https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH) | [Mil Navajas](https://open.spotify.com/album/5Ul9BEPWYLF6K27B1pMnfI) | 5:00 | 2023-03-24 |  |
+| [Miradas de Amor](https://open.spotify.com/track/005PrMKAhDjR0cUSMYmdYH) | [Danny Amis with Lost Acapulco](https://open.spotify.com/artist/0PLhEPFzmqf0yjfyb8261k) | [Daddy\-O Grande In Mexico](https://open.spotify.com/album/7jOrFMu39xWwTIKvhGwlDj) | 2:58 | 2021-09-03 |  |
 | [Miradas de Amor](https://open.spotify.com/track/4V69bmJHHOcWctu9BroqW0) | [Danny Amis with Lost Acapulco](https://open.spotify.com/artist/0PLhEPFzmqf0yjfyb8261k) | [Daddy\-O Grande In Mexico](https://open.spotify.com/album/0eyG4OGP4qQdEAI7jchSgv) | 2:58 | 2021-09-03 | 2023-04-29 |
 | [Miradas de Amor](https://open.spotify.com/track/69yUYFDZvdT31jTwWYG9XN) | [Danny Amis with Lost Acapulco](https://open.spotify.com/artist/0PLhEPFzmqf0yjfyb8261k) | [Daddy\-O Grande In Mexico](https://open.spotify.com/album/26eEerapTfJvphEBK0mks5) | 2:58 | 2021-09-03 | 2022-07-29 |
 | [Miserlou](https://open.spotify.com/track/6CpYgr1lWHTmPHhNzMIQnW) | [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [King of the Surf Guitar](https://open.spotify.com/album/1nZdm2NWYjweOEXNzct84A) | 2:15 | 2021-09-03 |  |

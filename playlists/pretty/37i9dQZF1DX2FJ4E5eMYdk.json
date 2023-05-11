@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 139125,
+  "num_followers": 139222,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGMzOTNlYmQ5NzJmNzRlMThhYzg0NmU1ZjQ0ODM1Y2U1NTk5YjRk",
+  "snapshot_id": "MCxiZDEyMmY4NzQ4MTk0ZmJmMTYwZjBkNTIzZjNiYmYwMDE3MTFjYmFi",
   "tracks": [
     {
       "added_at": "2023-04-07 04:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Cheers",
-        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
-      },
-      "artists": [
-        {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
-        }
-      ],
-      "duration_ms": 228707,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Brain Cycles",
         "url": "https://open.spotify.com/album/3f4iLZtqLg1oNhLKNziNAi"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 292000,
       "name": "250 Miles",
       "url": "https://open.spotify.com/track/0Wze0lWoUjs8TrfLySyzDg"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Cheers",
+        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
+      },
+      "artists": [
+        {
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+        }
+      ],
+      "duration_ms": 228707,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Oh My God",
-        "url": "https://open.spotify.com/album/0iLJfkAoeTd3BSj9IguASU"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 262542,
-      "name": "Sing a Glad Song",
-      "url": "https://open.spotify.com/track/0NvChpeglptzoEUB7jmcvz"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "The Unseen In Between",
         "url": "https://open.spotify.com/album/349hcptM7Y0HRpgrsSY570"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 310360,
       "name": "New Moon",
       "url": "https://open.spotify.com/track/0ZWliPPI1OGqhcDSBJUHim"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Oh My God",
+        "url": "https://open.spotify.com/album/0iLJfkAoeTd3BSj9IguASU"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 262542,
+      "name": "Sing a Glad Song",
+      "url": "https://open.spotify.com/track/0NvChpeglptzoEUB7jmcvz"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Private Tales",
-        "url": "https://open.spotify.com/album/2A2CCRLatKBrBodEp4UIz6"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Sun",
-          "url": "https://open.spotify.com/artist/4CL0ezfJvQDkDmjMG7XrV0"
-        }
-      ],
-      "duration_ms": 266946,
-      "name": "Seaquest",
-      "url": "https://open.spotify.com/track/2VsAxaacbKF0L54eymlPVd"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Trust Me",
         "url": "https://open.spotify.com/album/0YCsUvfWmhU7Yuzc8nbJsq"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 221514,
       "name": "Trust Me",
       "url": "https://open.spotify.com/track/2e8mFEbOdFBVBlqmo6nas0"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Private Tales",
+        "url": "https://open.spotify.com/album/2A2CCRLatKBrBodEp4UIz6"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Sun",
+          "url": "https://open.spotify.com/artist/4CL0ezfJvQDkDmjMG7XrV0"
+        }
+      ],
+      "duration_ms": 266946,
+      "name": "Seaquest",
+      "url": "https://open.spotify.com/track/2VsAxaacbKF0L54eymlPVd"
     },
     {
       "added_at": "2023-04-07 04:00:00",

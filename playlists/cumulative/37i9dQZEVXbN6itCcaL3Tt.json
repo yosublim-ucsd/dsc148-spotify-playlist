@@ -5227,6 +5227,28 @@
     },
     {
       "album": {
+        "name": "Dach",
+        "url": "https://open.spotify.com/album/2KVrZA9PN9WsKDhVIjxMM3"
+      },
+      "artists": [
+        {
+          "name": "Matlane",
+          "url": "https://open.spotify.com/artist/5Tt6oEj00gN6DlLnQPuSEu"
+        },
+        {
+          "name": "Grew",
+          "url": "https://open.spotify.com/artist/2PP3iCvLuPgZZOoycNEv37"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149508,
+      "name": "Dach",
+      "url": "https://open.spotify.com/track/1ryBtjEDxoMI1YsHzJ3zRw"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -5678,7 +5700,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 193333,
       "name": "Discopolo",
       "url": "https://open.spotify.com/track/09m29we7x9tgxyo6f3OQ87"
@@ -13929,6 +13951,24 @@
     },
     {
       "album": {
+        "name": "Moje Najlepsze Lata",
+        "url": "https://open.spotify.com/album/6FJ15JWy6crs3ZUg7S8W3E"
+      },
+      "artists": [
+        {
+          "name": "Kacperczyk",
+          "url": "https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "Moje Najlepsze Lata",
+      "url": "https://open.spotify.com/track/1A3oSCIOhJ2KlMTzC2lYcJ"
+    },
+    {
+      "album": {
         "name": "LALISA",
         "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
       },
@@ -19412,7 +19452,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 151048,
       "name": "Rarara",
       "url": "https://open.spotify.com/track/1VEzvYlDWGz3KhxGg73jHG"
@@ -19820,7 +19860,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 185000,
       "name": "RONDO",
       "url": "https://open.spotify.com/track/6bj4cH8DseYmq9G1fQ8CZV"
@@ -21878,7 +21918,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 183374,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"

@@ -4,7 +4,7 @@
 
 > Listen to  <a href="spotify:artist:19SmlbABtI4bXz864MLqOS">Carl Cox</a>' favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-156 songs - 15 hr 3 min
+157 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [Party Started \(Set It Off\)](https://open.spotify.com/track/6V0q9nG9UqYhNWyD62qjAA) | [Avision](https://open.spotify.com/artist/25L7U77b5R5fO5pRjDP1Cj), [Strafe](https://open.spotify.com/artist/7MRMahYCfHhumbcvdV8joK) | [Party Started \(Set It Off\)](https://open.spotify.com/album/4q3odp3wACk0ax5G1LoBgx) | 4:07 | 2022-08-15 | 2023-02-14 |
 | [Perception](https://open.spotify.com/track/3ll4L5Dd6LIdYRvJnp9l7a) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN) | [Perception](https://open.spotify.com/album/3kKpXacCqn5kUo5wSbP93Z) | 6:44 | 2023-04-18 |  |
 | [Pink Flamingo](https://open.spotify.com/track/5Zw5gZ3xM6v9AYJR4bU1sE) | [Rory Marshall](https://open.spotify.com/artist/6tS7Kh3N3ItYKa4hhy5JSE), [William Kiss](https://open.spotify.com/artist/2AI2RMWWeOAhkMhrQgxyNx) | [Numbers](https://open.spotify.com/album/3VQmEgbd7RQocjK7o0vGQ4) | 5:57 | 2022-08-15 | 2023-02-14 |
-| [Poem for the Planet \(Christopher Coe Remix\)](https://open.spotify.com/track/5KcDuJ3YTAs7RJfapoWmtz) | [Hannes Bieger](https://open.spotify.com/artist/3t6NA1aXgEgmkhKGf2bsP9), [Christopher Coe](https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP) | [Poem for the Planet \(Christopher Coe Remix\)](https://open.spotify.com/album/27J3jhdsNcwLrUFIXfJeQu) | 7:18 | 2023-05-05 |  |
+| [Poem for the Planet \(Christopher Coe Remix\)](https://open.spotify.com/track/3vkvUKTZt14o8IYdT6YAzo) | [Hannes Bieger](https://open.spotify.com/artist/3t6NA1aXgEgmkhKGf2bsP9), [Christopher Coe](https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP) | [Poem for the Planet \(Christopher Coe Remix\)](https://open.spotify.com/album/7zKLxDFtxc4HRNOY6bJnFo) | 7:18 | 2023-05-05 |  |
+| [Poem for the Planet \(Christopher Coe Remix\)](https://open.spotify.com/track/5KcDuJ3YTAs7RJfapoWmtz) | [Hannes Bieger](https://open.spotify.com/artist/3t6NA1aXgEgmkhKGf2bsP9), [Christopher Coe](https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP) | [Poem for the Planet \(Christopher Coe Remix\)](https://open.spotify.com/album/27J3jhdsNcwLrUFIXfJeQu) | 7:18 | 2023-05-05 | 2023-05-11 |
 | [Poem for the Planet \(feat\. Ursula Rucker\)](https://open.spotify.com/track/6jsEDcynmoH5TtNf8JdH2f) | [Hannes Bieger](https://open.spotify.com/artist/3t6NA1aXgEgmkhKGf2bsP9), [Ursula Rucker](https://open.spotify.com/artist/3HVMTISidSkv0TNur6fmkj) | [Pele](https://open.spotify.com/album/2EEd9SBF36mJwAYJdSInKn) | 11:59 | 2023-02-13 |  |
 | [Ptolmey](https://open.spotify.com/track/19pDP6VcqQWNaILzyRtyjc) | [Mat Playford](https://open.spotify.com/artist/5hNs2vvPOq8U24ZsZzS7es) | [Solar](https://open.spotify.com/album/7ymTHkrWxZPXaVuZGfz75e) | 4:59 | 2023-02-13 |  |
 | [Pump the Move \- Bart Skils Groove Mix](https://open.spotify.com/track/1vxwzeIhdE7E0xLsPuuL2F) | [e\-Dancer](https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Re:Generate](https://open.spotify.com/album/1PRF1vYTbZmZyZKnJ7yEZ4) | 4:44 | 2022-08-15 | 2023-02-14 |

@@ -1639,6 +1639,24 @@
     },
     {
       "album": {
+        "name": "When I Say So",
+        "url": "https://open.spotify.com/album/63j2ptfGmKCBdR0gx4llJj"
+      },
+      "artists": [
+        {
+          "name": "Dolores Forever",
+          "url": "https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172335,
+      "name": "When I Say So",
+      "url": "https://open.spotify.com/track/28XJPXfzBRT1PxHxHkuB8b"
+    },
+    {
+      "album": {
         "name": "When I'm Alone",
         "url": "https://open.spotify.com/album/0fRUzWQyis7uWNvnX04K57"
       },

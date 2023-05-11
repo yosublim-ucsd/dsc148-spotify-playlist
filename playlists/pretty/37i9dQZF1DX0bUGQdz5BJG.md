@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Meghan Patrick
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,961 likes - 185 songs - 9 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,101 likes - 185 songs - 9 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 81 | [Unlive \(with Yelawolf\)](https://open.spotify.com/track/5vBFnLvfjXLdcY8Df6PHj4) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [Unlive \(with Yelawolf\)](https://open.spotify.com/album/3fwKc0nqwk0yomvchwxGMn) | 3:57 |
 | 82 | [Heart On Fire In Mexico](https://open.spotify.com/track/72SRZVihNBosupaENmkdrv) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Heart On Fire In Mexico](https://open.spotify.com/album/5mJcJMEQLumfNkNYo2mTN7) | 3:24 |
 | 83 | [Single At The Same Time](https://open.spotify.com/track/4nNcfQNNZKDbqvHpbtEvBz) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [Jake Worthington](https://open.spotify.com/album/4GCuShg7xtOlfmxBbd4GcR) | 4:12 |
-| 84 | [Shirley Temple](https://open.spotify.com/track/12TmKdt6ZDVr2UzXSg6hjK) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [Introducing: Lauren Watkins](https://open.spotify.com/album/7HvWK6u6afgFbmOcKDQf1g) | 3:38 |
+| 84 | [Shirley Temple](https://open.spotify.com/track/0WjwCzxoqbxUPv9ia2PXi1) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [Introducing: Lauren Watkins](https://open.spotify.com/album/7xZb3Il98QIiag803YmofH) | 3:38 |
 | 85 | [She Ain't Takin Your Call](https://open.spotify.com/track/56ae1tAz3wtaWfWJ4gsEvd) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [She Ain't Takin Your Call](https://open.spotify.com/album/6hED9cnLsEBHNwAL5R9sj4) | 3:13 |
 | 86 | [Pray All The Way Home](https://open.spotify.com/track/7mhe8marcC1uyu17L5oxyF) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Pray All The Way Home](https://open.spotify.com/album/55BEOWkidLBWuSVaavBmRn) | 2:24 |
 | 87 | [Somethin' I Ain't](https://open.spotify.com/track/1UbW3xh0lZVGdRtNyGzBRt) | [Isaac Harris](https://open.spotify.com/artist/1YkGrMI2SjGuGcRlmD1BfW) | [Somethin' I Ain't](https://open.spotify.com/album/4TL88Lz8kExoYmgqJA7Vor) | 2:25 |
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 184 | [Missed the Boat](https://open.spotify.com/track/3DQi4r0z82AD5cQgVQYkTP) | [Payton Smith](https://open.spotify.com/artist/4ZLKYFbf4KJWJR0MeQWLEt) | [Missed the Boat](https://open.spotify.com/album/358todtduHcbUf6KOKzvma) | 3:19 |
 | 185 | [Stoned](https://open.spotify.com/track/1E0MQXTmFHJnaOGIMqq5LF) | [Derek Austin](https://open.spotify.com/artist/0uNsoq1EVnteLuHRwzvYfZ) | [Stoned](https://open.spotify.com/album/7fzDWt3ZsttqHdjr0bugrz) | 2:42 |
 
-Snapshot ID: `MCwyNjBjMGI4M2IwMDc4MTgzM2M3ZGI4OTUwMzhhNzc0MWRhY2RjZTYw`
+Snapshot ID: `MCxiNmQ1NGIyNGQ5M2EyMzI5YzY3MTAxMTc4ZTVjODkyMDYxYTI0MjRj`

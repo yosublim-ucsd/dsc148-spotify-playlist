@@ -1,12 +1,12 @@
 {
   "description": "Get into the spirit of New Orleans",
-  "num_followers": 141442,
+  "num_followers": 141441,
   "original_name": "New Orleans Brass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWNlYWEwOTE0NTljZjQ4NzRlYWU4MGRkOGMyNjkwYzFjODU4NWE5",
+  "snapshot_id": "MCw0NDJiNTU2MGFiNmFlNDQ3ZGU1M2Q3YWJhMzEzOThkNjBiM2VjY2E4",
   "tracks": [
     {
       "added_at": "2021-04-26 16:53:52",
@@ -827,6 +827,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "The Best of Dixieland",
+        "url": "https://open.spotify.com/album/6cwK33nXxr4ijR6rsy7RZd"
+      },
+      "artists": [
+        {
+          "name": "Original Dixieland Jazz Band",
+          "url": "https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh"
+        }
+      ],
+      "duration_ms": 156003,
+      "name": "Tiger Rag 3",
+      "url": "https://open.spotify.com/track/4GHM6gF3ajMxUyRKfYRApf"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "New Orleans Traditional Jazz Legends, Vol. 3",
         "url": "https://open.spotify.com/album/0E1F15zOti40v8RWZ4fADs"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 267093,
       "name": "When You're Smiling",
       "url": "https://open.spotify.com/track/0Kgk900i6WkIjzLH6vYJMR"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "The Best of Dixieland",
-        "url": "https://open.spotify.com/album/6cwK33nXxr4ijR6rsy7RZd"
-      },
-      "artists": [
-        {
-          "name": "Original Dixieland Jazz Band",
-          "url": "https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh"
-        }
-      ],
-      "duration_ms": 156003,
-      "name": "Tiger Rag 3",
-      "url": "https://open.spotify.com/track/4GHM6gF3ajMxUyRKfYRApf"
     }
   ],
   "unique_name": "New Orleans Brass",

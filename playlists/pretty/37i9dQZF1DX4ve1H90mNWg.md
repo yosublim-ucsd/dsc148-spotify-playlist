@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 
 > Texas music breaking waves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,325 likes - 52 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,364 likes - 52 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [OFF THE PORCH \(feat\. BigXthaPlug & Maxo Kream\)](https://open.spotify.com/track/3RPLr5siFwdjQbueFakIQB) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [OFF THE PORCH \(feat\. BigXthaPlug & Maxo Kream\)](https://open.spotify.com/album/2dLAa7o3gsVCnOnvyMTwef) | 3:50 |
 | 2 | [Right Now](https://open.spotify.com/track/3tlNc5CDNUNYWAPoXZNkG2) | [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY) | [Right Now](https://open.spotify.com/album/5lWimXCE4kCpNwvY9OAyYo) | 2:57 |
 | 3 | [Fix Up](https://open.spotify.com/track/28Mw0t5Sl05JwpLoTNQMtu) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J) | [Fix Up](https://open.spotify.com/album/6TPC1jOWDOz9PvEVmTyL4C) | 2:35 |
-| 4 | [Underground Legend](https://open.spotify.com/track/2x4HMvgnuakc5jBOp6m509) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Underground Legend](https://open.spotify.com/album/0tAc3eRGwVuNO2VgJqSMM7) | 2:34 |
+| 4 | [Underground Legends](https://open.spotify.com/track/2x4HMvgnuakc5jBOp6m509) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Underground Legends](https://open.spotify.com/album/0tAc3eRGwVuNO2VgJqSMM7) | 2:34 |
 | 5 | [Softest Touch](https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Softest Touch](https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi) | 2:44 |
 | 6 | [Be The One \(with Khalid\)](https://open.spotify.com/track/4jMbQ5H6KaSRPRCBuNnW16) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Be The One \(with Khalid\)](https://open.spotify.com/album/1K1Tr5tlgU8aCfijFih1zf) | 3:20 |
 | 7 | [Familiarity](https://open.spotify.com/track/6hB5O4G6L5xa4r3wKSisH3) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Familiarity](https://open.spotify.com/album/48CGCAKq0qCLqZjEnKFBbE) | 3:27 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 51 | [B.E.D](https://open.spotify.com/track/2oJYToyHxZ7mehhlvEhArB) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [B.E.D](https://open.spotify.com/album/4XzsqZssA5YNJ6lq8SRjXK) | 2:53 |
 | 52 | [YM](https://open.spotify.com/track/6ovL4bnn861hLOuWMBP6Am) | [Trapboy Freddy](https://open.spotify.com/artist/2ZF0d4lkHLE6MIbVmpN6nN), [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY), [Hotboy Wes](https://open.spotify.com/artist/2Lgyk37aJufoDDSoU4S5nO) | [No Distractions](https://open.spotify.com/album/4FZY7aOtUxDOPKFBJlnTrB) | 2:37 |
 
-Snapshot ID: `MCw2N2M1NzJkOGQxMjRiMDA2ZmIwMDRiNjhlZjZjNDEwYTU2MWU0Zjc5`
+Snapshot ID: `MCxjN2UzNGIxZTZmOGI4Y2Q5NzFkYTc0N2EwZTAwYzk2MzUzY2Q5MWIz`

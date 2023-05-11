@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-728 songs - 1 day 21 hr 2 min
+729 songs - 1 day 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,8 @@
 | [Life’s A Game](https://open.spotify.com/track/5PHqslBNMYjZGjAa2VEAP6) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [This Too Shall Pass](https://open.spotify.com/album/22VtQWVPaMtZXlwKc82rxz) | 2:34 | 2023-03-14 | 2023-03-29 |
 | [LIGHT HOUSE](https://open.spotify.com/track/6dCgABDpFP95qZpLvx48iW) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [LIGHT HOUSE](https://open.spotify.com/album/40GFIASzdvtix58rdPJZco) | 3:47 | 2022-06-28 | 2022-07-27 |
 | [Lights \(feat\. Blu\)](https://open.spotify.com/track/0ivm0kmxQLyp6njZ7QerWn) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT) | [Orbit](https://open.spotify.com/album/3qjoOf3C7LHzNJz9xJOF6p) | 3:17 | 2022-10-11 | 2022-11-29 |
-| [Like A Seraph](https://open.spotify.com/track/6qP01shvp5iyBEhkKAaiRT) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [The Lover](https://open.spotify.com/album/5UfVzZAONfOUcZonfMA7mW) | 2:54 | 2023-05-09 |  |
+| [Like A Seraph](https://open.spotify.com/track/4KISFq8uuKx0TPW5LEr08s) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [The Lover](https://open.spotify.com/album/0QCyj1UlVJQ91sFNqHx9nc) | 2:54 | 2023-05-09 |  |
+| [Like A Seraph](https://open.spotify.com/track/6qP01shvp5iyBEhkKAaiRT) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [The Lover](https://open.spotify.com/album/5UfVzZAONfOUcZonfMA7mW) | 2:54 | 2023-05-09 | 2023-05-11 |
 | [Limbo](https://open.spotify.com/track/2yeVKV31JmQFH97Kok32xh) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE) | [Limbo](https://open.spotify.com/album/65h4tA2Hfuse7IxxeXtBi1) | 3:15 | 2022-08-24 | 2022-09-28 |
 | [Little Lights](https://open.spotify.com/track/12YzPNCd83GVt8cCaw3JrL) | [Ayumi Nakamura](https://open.spotify.com/artist/5bsG93iJyOk4gCdaLFpHuR) | [Little Lights](https://open.spotify.com/album/47f3jgSzBpISM5RzKIMwGK) | 2:57 | 2022-06-16 | 2022-07-20 |
 | [Lonely](https://open.spotify.com/track/0TmhYlyTkhaHWNwyAyXSBK) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [Yonawo House](https://open.spotify.com/album/1SMSwFypOv7m5OWgSObTdX) | 3:31 | 2022-11-08 | 2023-04-19 |

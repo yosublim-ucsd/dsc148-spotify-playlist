@@ -4,7 +4,7 @@
 
 > Trending lofi beats from across the World Wide Web.
 
-151 songs - 5 hr 55 min
+152 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Let Me Down Slowly X Aaya Na Tu \- Lofi Mashup](https://open.spotify.com/track/0E2G8f6X9JOUZV7gGzjJjt) | [It's DPK](https://open.spotify.com/artist/72alqzixeOnANB0JmmYUoi) | [Let Me Down Slowly X Aaya Na Tu \(Lofi Mashup\)](https://open.spotify.com/album/74bHFaG2mbDFNGmqPwOOfB) | 2:59 | 2023-01-18 |  |
 | [Let Me Down Slowly X Aaya Na Tu \- Lofi Mix](https://open.spotify.com/track/3ksl6hn7Ya34q5K3cl7w9I) | [It's DPK](https://open.spotify.com/artist/72alqzixeOnANB0JmmYUoi) | [Let Me Down Slowly X Aaya Na Tu \(Lofi Mix\)](https://open.spotify.com/album/0ldVxOOtaHjanNazGIhWl3) | 2:59 | 2022-09-23 | 2023-02-04 |
 | [let me hold you](https://open.spotify.com/track/66k75vZNgRnOuJosuAFNeY) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col), [Insowmya](https://open.spotify.com/artist/3DbDp2eOPCBKqQiuVhlQVC) | [oldies](https://open.spotify.com/album/2qFWwW20dcp45bEFEgSAc1) | 1:25 | 2022-12-09 |  |
-| [Lisergia](https://open.spotify.com/track/3bQUlCT5sDqM2pSeKWETJk) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Ócio](https://open.spotify.com/album/4Qpy6jTrqsNcOzFfuJwGxn) | 2:46 | 2022-09-09 |  |
+| [Lisergia](https://open.spotify.com/track/3bQUlCT5sDqM2pSeKWETJk) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Ócio](https://open.spotify.com/album/4Qpy6jTrqsNcOzFfuJwGxn) | 2:46 | 2022-09-09 | 2023-05-11 |
+| [Lisergia](https://open.spotify.com/track/64cJzItg1k1j7ILw9txYYz) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Ócio](https://open.spotify.com/album/7nPWGluEUZnHt0Il81DSgz) | 2:46 | 2023-03-10 |  |
 | [lofi rain](https://open.spotify.com/track/0NDUuWBh1ykEGtIBtD9tAm) | [a girl and a cat](https://open.spotify.com/artist/3uK7MCVwr7FSxnhNKso4Hi) | [lofi study 2021](https://open.spotify.com/album/260iH4R6MRNcDQ79106Icv) | 1:58 | 2022-09-09 |  |
 | [Lofi Rain](https://open.spotify.com/track/0bUYgpgrUaoFouvS0vf6qe) | [Chilled Cougar](https://open.spotify.com/artist/5mxwOjRqpFDSn6zXCqwqiH), [LoFi Waiter](https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61) | [Lofi Rain](https://open.spotify.com/album/57AgBWZUvxvtK48Iqf4S3F) | 2:00 | 2022-09-09 |  |
 | [Long Walks](https://open.spotify.com/track/1lPsRTNOVRIACJug3VaZ1X) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/6EzlIIHKHZtnpdiTmDLZ9X) | 2:49 | 2022-09-09 | 2022-11-03 |

@@ -1,13 +1,33 @@
 {
   "description": "De lunes a domingo, descubre un tema elegido por tus editores de Spotify.",
-  "num_followers": 421898,
+  "num_followers": 421894,
   "original_name": "Canci\u00f3n del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmY0OGY2NmMyYWVmZjIwYWVkYmZlNzhlMzVlYWIxZTA5ZDE4Zjdh",
+  "snapshot_id": "MCxhNjc4ODFmZDY1Y2ZjZmRjZTU4ZmZiZWIxYTAzNjQ3Y2E1NDE4ZjUy",
   "tracks": [
+    {
+      "added_at": "2023-05-10 07:00:00",
+      "album": {
+        "name": "Mi vida en llamas (feat. Buscabulla)",
+        "url": "https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        },
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 288624,
+      "name": "Mi vida en llamas (feat. Buscabulla)",
+      "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
+    },
     {
       "added_at": "2023-05-09 07:00:00",
       "album": {
@@ -895,26 +915,6 @@
       "duration_ms": 208606,
       "name": "Ruta 7",
       "url": "https://open.spotify.com/track/21M3XwoJcEXdLp9cQPJKeK"
-    },
-    {
-      "added_at": "2023-04-10 18:00:00",
-      "album": {
-        "name": "Cada Vez Te Extra\u00f1o Menos",
-        "url": "https://open.spotify.com/album/4rS5g1pEmfxWV0Eg1kH0Is"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 162209,
-      "name": "Cada Vez Te Extra\u00f1o Menos",
-      "url": "https://open.spotify.com/track/4X1h5E9JSl1hlyuRJNLnOe"
     }
   ],
   "unique_name": "Canci\u00f3n del D\u00eda",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: julia amor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,358 likes - 49 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,390 likes - 49 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 48 | [Tirarme Flores](https://open.spotify.com/track/1Fbluwnn5yS0llcs85U4pn) | [Ley DJ](https://open.spotify.com/artist/6sNZNThSCAtpTfHD3CyKJ6), [La Shica](https://open.spotify.com/artist/2XgiA7sbThkYxJeRbz7IRX) | [Tirarme Flores](https://open.spotify.com/album/1Yfh2n0W91JR00s2R7FgOu) | 3:04 |
 | 49 | [Oro](https://open.spotify.com/track/6kmkxkP677J4nWJXL1qtlG) | [Caro Raro](https://open.spotify.com/artist/4d9bVps5YG8iSVVfQVMSsP) | [Oro](https://open.spotify.com/album/5tqsUbazhWQM8Y5I8uqmkE) | 2:54 |
 
-Snapshot ID: `MCwwMmI4YzhkNGYwZDA2OTM0OTAwNzk2MTMzYmQ0ZjgxZGMxY2JjZTgz`
+Snapshot ID: `MCwwY2VhYTBkYTZmYzE5NmNhYzViYTRjZGQyZDMwNDBiNGI4N2Q4ZjZj`

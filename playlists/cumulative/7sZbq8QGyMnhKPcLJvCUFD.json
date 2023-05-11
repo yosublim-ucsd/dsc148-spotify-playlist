@@ -1535,6 +1535,28 @@
     },
     {
       "album": {
+        "name": "Erased",
+        "url": "https://open.spotify.com/album/2jJIV7E91WZud6aYJn6u24"
+      },
+      "artists": [
+        {
+          "name": "Thymen Wiendels",
+          "url": "https://open.spotify.com/artist/4AoUUjAhARgjpTeo6vmRG5"
+        },
+        {
+          "name": "Barmuda",
+          "url": "https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140714,
+      "name": "Erased",
+      "url": "https://open.spotify.com/track/5qstwrd8TfZHP01Dx3R6Dz"
+    },
+    {
+      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/2IfWnh5Z3PvgwHxX20qCE8"
       },

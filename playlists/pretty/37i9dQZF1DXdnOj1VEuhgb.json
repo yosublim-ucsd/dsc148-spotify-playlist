@@ -1,12 +1,12 @@
 {
   "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Motive x Ohash",
-  "num_followers": 1223538,
+  "num_followers": 1223863,
   "original_name": "NKVT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzNkZTNkMjQ1OTIxMDgzNDI1ZjU1MjBlOWRhMGFlN2E2MTdhOGEz",
+  "snapshot_id": "MCw3MjFiNTRmNDNhMjcxZTBiNWE4OTM4ZTFlYmYwODBlNjZlNzdjYThl",
   "tracks": [
     {
       "added_at": "2023-05-09 07:39:25",
@@ -67,22 +67,6 @@
     {
       "added_at": "2023-05-09 07:39:25",
       "album": {
-        "name": "HAYRAN KALICAN",
-        "url": "https://open.spotify.com/album/2TFRTagsgrcP5FVOoFvhVk"
-      },
-      "artists": [
-        {
-          "name": "cakal",
-          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
-        }
-      ],
-      "duration_ms": 97722,
-      "name": "HAYRAN KALICAN",
-      "url": "https://open.spotify.com/track/3ctKyKjBeJNtqqGaFNoJX8"
-    },
-    {
-      "added_at": "2023-05-09 07:39:25",
-      "album": {
         "name": "Yolunda \"pavyon\"",
         "url": "https://open.spotify.com/album/55xd86fvi9qV5KT7oYAVnM"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 150909,
       "name": "Yolunda \"pavyon\"",
       "url": "https://open.spotify.com/track/0i0kO2WYXFNkyB6aTJbPGo"
+    },
+    {
+      "added_at": "2023-05-09 07:39:25",
+      "album": {
+        "name": "HAYRAN KALICAN",
+        "url": "https://open.spotify.com/album/2TFRTagsgrcP5FVOoFvhVk"
+      },
+      "artists": [
+        {
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+        }
+      ],
+      "duration_ms": 97722,
+      "name": "HAYRAN KALICAN",
+      "url": "https://open.spotify.com/track/3ctKyKjBeJNtqqGaFNoJX8"
     },
     {
       "added_at": "2023-05-09 07:39:25",

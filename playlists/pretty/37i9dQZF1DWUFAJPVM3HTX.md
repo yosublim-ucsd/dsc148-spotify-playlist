@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: Lekan\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,214 likes - 201 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,444 likes - 201 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 200 | [OVER2U](https://open.spotify.com/track/4sc7jAI60N6X76lHEvzLcx) | [GODBLESSRODNEY](https://open.spotify.com/artist/3auMRV71rt0N49G3dXmXaX) | [OVER2U](https://open.spotify.com/album/35M2X07gE66HuGWqySS3tV) | 2:46 |
 | 201 | [Lucky Girl](https://open.spotify.com/track/6f6SbYsZtqP3DpPjR5OLiB) | [Carlina](https://open.spotify.com/artist/0rhwS3z7tnZwt9UhyjyL77) | [Lucky Girl](https://open.spotify.com/album/77G5rwJ5sBhLpdIPsF1OVl) | 3:47 |
 
-Snapshot ID: `MCw3OGZmYjA5NTFkYTEwZTQ4ZDA1NzNmNDI0NjdkZWUxNDQ3YjJiYjNi`
+Snapshot ID: `MCxhNzYxOGE3MjI3NGEzNzY3NTI3MzJmMDkxNjljZTFlYmU1YTEzOTQz`

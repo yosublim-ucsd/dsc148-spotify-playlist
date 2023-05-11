@@ -4,7 +4,7 @@
 
 > Lo mejor y lo último del pop en español\. Foto: Abraham Mateo, Chanel
 
-137 songs - 6 hr 52 min
+139 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Diablo, Qué Chimba](https://open.spotify.com/track/1mW1e6QAGPnhMbJoDTCLS3) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Diablo, Qué Chimba](https://open.spotify.com/album/1BZibC0fiDXBFq0lrP82Yy) | 3:52 | 2023-03-28 | 2023-04-11 |
 | [Disfrutármela](https://open.spotify.com/track/3O3zWXgKpxzqcME24Xllsi) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Disfrutármela](https://open.spotify.com/album/4UsJPeGA3HUCRCeWWHGqCL) | 2:45 | 2023-04-17 | 2023-05-04 |
 | [Donde tú quieras, yo voy](https://open.spotify.com/track/6xyeYEV9oDGlKhfSbLi8k8) | [Chema Rivas](https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ) | [Donde tú quieras, yo voy](https://open.spotify.com/album/1v8uoo66sDT6P6iECiKOiO) | 2:22 | 2023-04-10 |  |
-| [DOS PRIMAVERAS](https://open.spotify.com/track/5FZxffn8Mnymhy7atrBfT4) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [SÚBEME EL VOLUMEN](https://open.spotify.com/album/24zX07CzVp04RN4qNgsFn9) | 2:55 | 2023-04-10 |  |
+| [DOS PRIMAVERAS](https://open.spotify.com/track/2AigAbn9Uq8PZsVRS1zMBw) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [MI BANDERA](https://open.spotify.com/album/2JfufZUm8YJWyCB9Onb17n) | 2:55 | 2023-05-09 |  |
+| [DOS PRIMAVERAS](https://open.spotify.com/track/5FZxffn8Mnymhy7atrBfT4) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [SÚBEME EL VOLUMEN](https://open.spotify.com/album/24zX07CzVp04RN4qNgsFn9) | 2:55 | 2023-04-10 | 2023-05-11 |
 | [DOS PRIMAVERAS](https://open.spotify.com/track/75pwnaLuYXESW07uyWxOcF) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [DOS PRIMAVERAS](https://open.spotify.com/album/1A7MPKCRLfcPz8hz9fBLH0) | 2:55 | 2023-03-13 | 2023-04-12 |
 | [DRAGÓN](https://open.spotify.com/track/0rrkslhl5uGUzmS9oUcIED) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 3:54 | 2023-04-17 |  |
 | [El Fin del Mundo](https://open.spotify.com/track/70JnnNNAxPjvZGPwjJfX47) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Axolotes Mexicanos](https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx) | [La la Love You Bonus](https://open.spotify.com/album/5RpGs1cIVJHLtn88LEdXjb) | 3:08 | 2023-03-13 |  |
@@ -91,7 +92,8 @@
 | [Muero](https://open.spotify.com/track/0vznL0EKo9deBq1FFvBFxd) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Muero](https://open.spotify.com/album/6Kjg8PWvUHhQHNw7XKghtc) | 3:00 | 2023-05-09 |  |
 | [Nada ha cambiado](https://open.spotify.com/track/1DSifk5tKB93s9rAUJi4kn) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [NO ME PASA NADA](https://open.spotify.com/album/0KJSpW77D1DmoN5tBJKeyI) | 2:40 | 2023-03-21 | 2023-04-18 |
 | [NADA QUE DECIR](https://open.spotify.com/track/2Qnjj1OqW9NDTzBeanuXIP) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [NADA QUE DECIR](https://open.spotify.com/album/4CIjghQcVgXkYJscGKEQKF) | 3:33 | 2023-03-13 | 2023-04-20 |
-| [NADA QUE DECIR](https://open.spotify.com/track/6G1MDQDDID2UqYOJKmv8WU) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [SÚBEME EL VOLUMEN](https://open.spotify.com/album/24zX07CzVp04RN4qNgsFn9) | 3:33 | 2023-04-17 |  |
+| [NADA QUE DECIR](https://open.spotify.com/track/6G1MDQDDID2UqYOJKmv8WU) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [SÚBEME EL VOLUMEN](https://open.spotify.com/album/24zX07CzVp04RN4qNgsFn9) | 3:33 | 2023-04-17 | 2023-05-11 |
+| [NADA QUE DECIR](https://open.spotify.com/track/6wVyxwuHnyhwgS9rQj06Pc) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [MI BANDERA](https://open.spotify.com/album/2JfufZUm8YJWyCB9Onb17n) | 3:33 | 2023-05-09 |  |
 | [NADIE ME HA PREGUNTADO](https://open.spotify.com/track/1Z2WPWbT7TVKIwIz0lll8f) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [NADIE ME HA PREGUNTADO](https://open.spotify.com/album/15Z0uBEHEw1huJlm0mHQro) | 2:42 | 2023-04-25 |  |
 | [Necesito silencio](https://open.spotify.com/track/1731Kg4nGnLl1Rtwo5q5GF) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Necesito silencio](https://open.spotify.com/album/6Aq2rxyoCmE86tHnMpVroj) | 3:04 | 2023-03-13 | 2023-03-22 |
 | [No me preguntes por qué](https://open.spotify.com/track/57uYrFRzFwbgH04QLA6TuB) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A), [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [No me preguntes por qué](https://open.spotify.com/album/3TCx6YZbU2caIAw2ETPhbu) | 2:53 | 2023-03-13 | 2023-04-18 |

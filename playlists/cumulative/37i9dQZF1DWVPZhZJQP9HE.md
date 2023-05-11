@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-402 songs - 23 hr 57 min
+403 songs - 1 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Inneram Indha Neram](https://open.spotify.com/track/3M4PpixFma16wWsBCNFZol) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Inneram Indha Neram](https://open.spotify.com/album/5xsj5KNmtzrZ992CJR519j) | 5:25 | 2022-03-08 | 2022-11-25 |
 | [Insta Instagram](https://open.spotify.com/track/04Sp1e4G7xoTvGHcoMl6ou) | [Leo Peters](https://open.spotify.com/artist/4MMARjT8FuxvD3inBuloPW), [Naksha Saran](https://open.spotify.com/artist/2dRBC4Whl2IXFcVGq9cOpQ) | [Insta Instagram](https://open.spotify.com/album/4cEAdsQ5h7H0dl3QQECUX4) | 3:32 | 2022-02-23 | 2022-07-08 |
 | [International Perazhage](https://open.spotify.com/track/2mXDBH9Mgxt7XrOwYCP1oy) | [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y) | [International Perazhage](https://open.spotify.com/album/1Cp9FvS11YeJfXNbBKnb6B) | 2:59 | 2022-11-02 |  |
+| [Iravillaa Maalai](https://open.spotify.com/track/2Z31haqJVZGymjwgdlBeo5) | [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3), [Maanasi G Kannan](https://open.spotify.com/artist/6OXAnYyxRl5HCYhmqxbEAx) | [Iravillaa Maalai](https://open.spotify.com/album/2ZWTwG1Njr6D8zGRDB56V4) | 4:19 | 2023-05-10 |  |
 | [Isaiyai Nee](https://open.spotify.com/track/67nrUmAX18k5PLpmsBfald) | [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd), [Nilukshan](https://open.spotify.com/artist/2hBjBVtnPvVJ8HycacP7EL) | [Isaiyai Nee](https://open.spotify.com/album/2w0FPic0Oag0MZeyS3zmBz) | 4:03 | 2023-01-10 |  |
 | [Ithu Ellam Unnale](https://open.spotify.com/track/6EbbVS4m0opr8cyVjIkgqR) | [Tajmeel Sheriff](https://open.spotify.com/artist/0SyOW7GFk4hsjBI0cztpI8) | [Ithu Ellam Unnale](https://open.spotify.com/album/5OjkUlvcyk24eMoS5wJJc6) | 4:38 | 2022-03-01 | 2022-05-31 |
 | [Ithu Engalin Desam](https://open.spotify.com/track/2QPP4MCbAwqdcq43EqxDiN) | [Paul Dany](https://open.spotify.com/artist/166XeaA9q60eXe9HA5nbgA), [Ashwin Johnson](https://open.spotify.com/artist/1okEkm8xBhv73zHcTnFimQ) | [Ithu Engalin Desam](https://open.spotify.com/album/1LVOWye5WdnhVSipUk89Cj) | 4:10 | 2023-01-20 | 2023-01-28 |

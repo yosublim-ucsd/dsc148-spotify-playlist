@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAdqTQgzvYM.md) - [plain]
 
 > Because everyone else is already taken!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,518 likes - 88 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,516 likes - 88 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Rule the World](https://open.spotify.com/track/0gF8D0YtCwdlZPsu0Tx9T1) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Sing It All Away](https://open.spotify.com/album/0znuTvl59JCTczo6F0NLEV) | 3:25 |
+| 1 | [Rule the World](https://open.spotify.com/track/0gF8D0YtCwdlZPsu0Tx9T1) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Sing It All Away](https://open.spotify.com/album/0znuTvl59JCTczo6F0NLEV) | 3:25 |
 | 2 | [Encourage Me \(Remix\)](https://open.spotify.com/track/3YL3BElfZhKbeQSQCHBfXq) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [We Dream in 3d](https://open.spotify.com/album/1HuMsnnRL335ObYNXydOyg) | 2:45 |
 | 3 | [This Is Me](https://open.spotify.com/track/45aBsnKRWUzhwbcqOJLwfe) | [Keala Settle](https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS), [The Greatest Showman Ensemble](https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8) | [The Greatest Showman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F) | 3:54 |
 | 4 | [Different is Beautiful \(Yeah, Yeah, Yeah\)](https://open.spotify.com/track/3YOYMflnybTtAkGncjcpqq) | [Brady Rymer and the Little Band That Could](https://open.spotify.com/artist/2q0R0ObitsBJIp1sMtfHz6) | [Under the Big Umbrella](https://open.spotify.com/album/3EGoaqW3tguVFNOT985vpl) | 3:01 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAdqTQgzvYM.md) - [plain]
 | 87 | [Fight Song](https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Wildfire](https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT) | 3:24 |
 | 88 | [Sing Your Song](https://open.spotify.com/track/0fjty03g806qqdJtz38ebJ) | [Recess Monkey](https://open.spotify.com/artist/0oXrvAp6NnKeWz1qnKrNLb) | [Family Photo Album](https://open.spotify.com/album/5ReK6CXisDMoAfz8dKf1nD) | 2:11 |
 
-Snapshot ID: `MCxmMTU5YzI5MDc0ZjE5YzhmZDBhMGQxNWE5YjkzZDExNmQ3ODViOTE5`
+Snapshot ID: `MCw5YzY3ZTUyMTljYjA0ZjZhYTMyY2U5MGMyMDRmNzhlMTA5ODc0M2Y0`

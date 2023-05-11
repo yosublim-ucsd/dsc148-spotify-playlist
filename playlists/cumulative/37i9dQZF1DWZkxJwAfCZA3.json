@@ -234,10 +234,36 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-11",
       "duration_ms": 216000,
       "name": "Cake a Blow",
       "url": "https://open.spotify.com/track/266O0ONX1Fl6Hx1DpND3sb"
+    },
+    {
+      "album": {
+        "name": "Cake a Blow",
+        "url": "https://open.spotify.com/album/1rNggyTs6elu8OIcwOE1hn"
+      },
+      "artists": [
+        {
+          "name": "Nikes",
+          "url": "https://open.spotify.com/artist/6QHax4rcnBPAAfj1n26YNQ"
+        },
+        {
+          "name": "MoonDoctoR",
+          "url": "https://open.spotify.com/artist/5bVR7EKHmtLsjjE7MtCIm7"
+        },
+        {
+          "name": "FreshtillDef",
+          "url": "https://open.spotify.com/artist/503Cv0ES3BtLIqnp95So1N"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Cake a Blow",
+      "url": "https://open.spotify.com/track/5I3ArKM5WGXBEBQRIUayXx"
     },
     {
       "album": {

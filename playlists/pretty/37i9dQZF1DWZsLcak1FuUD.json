@@ -1,12 +1,12 @@
 {
   "description": "Fue durante los '70 que el Rock se manifest\u00f3 como un gigante a nivel mundial. Argentina no fue la excepci\u00f3n.  Foto: <a href=\"spotify:artist:10vtHOCA3qPLmrGylgO2F1\">Manal</a>",
-  "num_followers": 32328,
+  "num_followers": 32369,
   "original_name": "Esp\u00edritu Setentista",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Y2RkOTA2ZGJhMTlhMzAyMmNjZWEyOTk5YWExNzg4OTU2NzdhZjZh",
+  "snapshot_id": "MCwzYTk5OTA2M2I4YTM0NWM2MjBhYmQ5OWRmZWFlYmFlMWZiN2ZiZTVk",
   "tracks": [
     {
       "added_at": "2020-02-26 16:25:22",
@@ -123,22 +123,6 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "La Joven Guardia Cronolog\u00eda - El Extra\u00f1o del Pelo Largo (1969)",
-        "url": "https://open.spotify.com/album/2Z5PSIAehRpKj55QrAMasD"
-      },
-      "artists": [
-        {
-          "name": "La Joven Guardia",
-          "url": "https://open.spotify.com/artist/5Pq1eqKbVKRziJs6cSUoBy"
-        }
-      ],
-      "duration_ms": 166253,
-      "name": "El Extra\u00f1o del Pelo Largo",
-      "url": "https://open.spotify.com/track/684mSIt8bHBYGgIQjFsERt"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
         "name": "La M\u00e1quina De Hacer P\u00e1jaros",
         "url": "https://open.spotify.com/album/4uXadaCsBVwLK6s5V14Kjw"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 164440,
       "name": "Como Mata el Viento Norte",
       "url": "https://open.spotify.com/track/7BbpLe12HpkoZJcJs1A3SP"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
+        "name": "La Joven Guardia Cronolog\u00eda - El Extra\u00f1o del Pelo Largo (1969)",
+        "url": "https://open.spotify.com/album/2Z5PSIAehRpKj55QrAMasD"
+      },
+      "artists": [
+        {
+          "name": "La Joven Guardia",
+          "url": "https://open.spotify.com/artist/5Pq1eqKbVKRziJs6cSUoBy"
+        }
+      ],
+      "duration_ms": 166253,
+      "name": "El Extra\u00f1o del Pelo Largo",
+      "url": "https://open.spotify.com/track/684mSIt8bHBYGgIQjFsERt"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -875,18 +875,18 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "Oro",
-        "url": "https://open.spotify.com/album/67TJF7Es43tCAfZtWv5kiq"
+        "name": "PorSuiGieco",
+        "url": "https://open.spotify.com/album/4cNKM9xwyyavxurd0T0vub"
       },
       "artists": [
         {
-          "name": "Pastoral",
-          "url": "https://open.spotify.com/artist/3budmcJD4fTyytFVDp5lud"
+          "name": "Porsuigieco",
+          "url": "https://open.spotify.com/artist/4LoFcBNitqIC130rvzS6BG"
         }
       ],
-      "duration_ms": 217706,
-      "name": "En El Hospicio",
-      "url": "https://open.spotify.com/track/6NZ2OTfVCJ9rf6hm6tpJxh"
+      "duration_ms": 219039,
+      "name": "La Mam\u00e1 de Jimmy",
+      "url": "https://open.spotify.com/track/01IQmxKdUJ7xaOVdMtWPPE"
     }
   ],
   "unique_name": "Esp\u00edritu Setentista",

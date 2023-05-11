@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: Witch Fever",
-  "num_followers": 143440,
+  "num_followers": 143585,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Mzc3ZjMxOWJiY2MyYWE5YjFjMjg3MDBkZWNiY2UwOTJkY2FhMDFm",
+  "snapshot_id": "MCxhYjg5NGY1MGIwNDlmYzFkYjg2NjM3YmM5NGUzMmUyMWQ3MWVjMmFh",
   "tracks": [
     {
       "added_at": "2022-05-31 23:01:00",
@@ -267,6 +267,22 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
+        "name": "Standing in the Way of Control",
+        "url": "https://open.spotify.com/album/4JRTqlBGtuMjXNaK3macIW"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "duration_ms": 256398,
+      "name": "Standing In the Way of Control",
+      "url": "https://open.spotify.com/track/7B6jxcVkJTHMUE83ZndMjl"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
         "name": "Impeach My Bush",
         "url": "https://open.spotify.com/album/5CSak2h5F36n6QieudTObv"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 225841,
       "name": "Don't You Feel Amazing?",
       "url": "https://open.spotify.com/track/6BxlRoxVztZNLsaSOnh3ja"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
-        "name": "Standing in the Way of Control",
-        "url": "https://open.spotify.com/album/4JRTqlBGtuMjXNaK3macIW"
-      },
-      "artists": [
-        {
-          "name": "Gossip",
-          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
-        }
-      ],
-      "duration_ms": 256398,
-      "name": "Standing In the Way of Control",
-      "url": "https://open.spotify.com/track/7B6jxcVkJTHMUE83ZndMjl"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -507,18 +507,18 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "gasoline",
-        "url": "https://open.spotify.com/album/5fpTeGoair7Yj69gyJfjUh"
+        "name": "Pity Boy",
+        "url": "https://open.spotify.com/album/4YGMJS0WLOU318ITYqpYo5"
       },
       "artists": [
         {
-          "name": "Baby Guts",
-          "url": "https://open.spotify.com/artist/0n7Xc7tVMZdgrQgNoVyqIR"
+          "name": "Mal Blum",
+          "url": "https://open.spotify.com/artist/4tT8fWyOy0hVI7jo9fJmXX"
         }
       ],
-      "duration_ms": 114053,
-      "name": "Staplegun",
-      "url": "https://open.spotify.com/track/4JRs49S2iWLrYKppB2Nmql"
+      "duration_ms": 151473,
+      "name": "Things Still Left to Say",
+      "url": "https://open.spotify.com/track/4aZq3QHHQHI5tCcjnhIES7"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -535,6 +535,22 @@
       "duration_ms": 230350,
       "name": "Nvr Pass",
       "url": "https://open.spotify.com/track/7yJLS5bbD1BbVVXaRktMxP"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "gasoline",
+        "url": "https://open.spotify.com/album/5fpTeGoair7Yj69gyJfjUh"
+      },
+      "artists": [
+        {
+          "name": "Baby Guts",
+          "url": "https://open.spotify.com/artist/0n7Xc7tVMZdgrQgNoVyqIR"
+        }
+      ],
+      "duration_ms": 114053,
+      "name": "Staplegun",
+      "url": "https://open.spotify.com/track/4JRs49S2iWLrYKppB2Nmql"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -567,22 +583,6 @@
       "duration_ms": 124316,
       "name": "Fem in a Black Leather Jacket",
       "url": "https://open.spotify.com/track/7Gjze5dPQjujzoHGOQReWT"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
-        "name": "Pity Boy",
-        "url": "https://open.spotify.com/album/4YGMJS0WLOU318ITYqpYo5"
-      },
-      "artists": [
-        {
-          "name": "Mal Blum",
-          "url": "https://open.spotify.com/artist/4tT8fWyOy0hVI7jo9fJmXX"
-        }
-      ],
-      "duration_ms": 151473,
-      "name": "Things Still Left to Say",
-      "url": "https://open.spotify.com/track/4aZq3QHHQHI5tCcjnhIES7"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Too Young To Be In Love",
-        "url": "https://open.spotify.com/album/0PBnBbcUe9KaCmt4x6izYP"
-      },
-      "artists": [
-        {
-          "name": "Hunx & His Punx",
-          "url": "https://open.spotify.com/artist/5xTWck1vHVlTTI0jTQzUuF"
-        }
-      ],
-      "duration_ms": 215133,
-      "name": "Lovers Lane",
-      "url": "https://open.spotify.com/track/7sJePyELvhBcR6m8obIvWf"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Model Citizen",
         "url": "https://open.spotify.com/album/7qGZWGsspSXTXiqTWa4sT5"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 192281,
       "name": "Baby, I Had an Abortion",
       "url": "https://open.spotify.com/track/5wzYAfUDyqRcC87J7JEG2V"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Too Young To Be In Love",
+        "url": "https://open.spotify.com/album/0PBnBbcUe9KaCmt4x6izYP"
+      },
+      "artists": [
+        {
+          "name": "Hunx & His Punx",
+          "url": "https://open.spotify.com/artist/5xTWck1vHVlTTI0jTQzUuF"
+        }
+      ],
+      "duration_ms": 215133,
+      "name": "Lovers Lane",
+      "url": "https://open.spotify.com/track/7sJePyELvhBcR6m8obIvWf"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Make Yr Life",
-        "url": "https://open.spotify.com/album/1cToLlfIfMju4zS9TXS0RZ"
-      },
-      "artists": [
-        {
-          "name": "The Butchies",
-          "url": "https://open.spotify.com/artist/0P0f0x8UquMimAjIKGPaB9"
-        }
-      ],
-      "duration_ms": 202293,
-      "name": "She's so Lovely",
-      "url": "https://open.spotify.com/track/4GP9tCJKmYD8maZqiFNdzp"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Fuck Danny Denial",
         "url": "https://open.spotify.com/album/0iJ5e19OUZmJH8ywlj5NLR"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 205293,
       "name": "CCCHOKEMEEE",
       "url": "https://open.spotify.com/track/4c9xAn5v8trWontgFe9Q2A"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Make Yr Life",
+        "url": "https://open.spotify.com/album/1cToLlfIfMju4zS9TXS0RZ"
+      },
+      "artists": [
+        {
+          "name": "The Butchies",
+          "url": "https://open.spotify.com/artist/0P0f0x8UquMimAjIKGPaB9"
+        }
+      ],
+      "duration_ms": 202293,
+      "name": "She's so Lovely",
+      "url": "https://open.spotify.com/track/4GP9tCJKmYD8maZqiFNdzp"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -1065,6 +1065,22 @@
       "url": "https://open.spotify.com/track/310OmUKAvBV8hHZQxXZsIu"
     },
     {
+      "added_at": "2023-01-24 14:00:00",
+      "album": {
+        "name": "Quitter",
+        "url": "https://open.spotify.com/album/59PEcpy0wVxQJLcrdFTVwn"
+      },
+      "artists": [
+        {
+          "name": "Weakened Friends",
+          "url": "https://open.spotify.com/artist/3GA7XHdtdiTpR4gDWgADwK"
+        }
+      ],
+      "duration_ms": 182477,
+      "name": "Quitter",
+      "url": "https://open.spotify.com/track/2ekn27DjITVI4vSudrxpdX"
+    },
+    {
       "added_at": "2022-05-31 23:01:00",
       "album": {
         "name": "Talk It Out",
@@ -1079,6 +1095,22 @@
       "duration_ms": 180442,
       "name": "Precious and Perfect",
       "url": "https://open.spotify.com/track/4pxxxqnaDQZMEHWS9AP5gD"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Personal Best",
+        "url": "https://open.spotify.com/album/6FkTtMBKTWf4qV5aeL8Sp5"
+      },
+      "artists": [
+        {
+          "name": "Team Dresch",
+          "url": "https://open.spotify.com/artist/1i0UobirqiiWT0AbrkZKrs"
+        }
+      ],
+      "duration_ms": 165560,
+      "name": "Fagetarian and Dyke",
+      "url": "https://open.spotify.com/track/5tO8kFjt6vhHVAFzRxDaYK"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -1099,38 +1131,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/12mEYu1QsUj8mWVhNMuyr5"
-      },
-      "artists": [
-        {
-          "name": "LIINES",
-          "url": "https://open.spotify.com/artist/1JfKFoNd6l125tY9uJcd4f"
-        }
-      ],
-      "duration_ms": 144170,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/1LrMwgLn973lcjAlkxoX0p"
-    },
-    {
-      "added_at": "2023-01-24 14:00:00",
-      "album": {
-        "name": "Quitter",
-        "url": "https://open.spotify.com/album/59PEcpy0wVxQJLcrdFTVwn"
-      },
-      "artists": [
-        {
-          "name": "Weakened Friends",
-          "url": "https://open.spotify.com/artist/3GA7XHdtdiTpR4gDWgADwK"
-        }
-      ],
-      "duration_ms": 182477,
-      "name": "Quitter",
-      "url": "https://open.spotify.com/track/2ekn27DjITVI4vSudrxpdX"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Divine Violence",
         "url": "https://open.spotify.com/album/5F3NCovJyL6jjJevjEp5Q4"
       },
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/12mEYu1QsUj8mWVhNMuyr5"
+      },
+      "artists": [
+        {
+          "name": "LIINES",
+          "url": "https://open.spotify.com/artist/1JfKFoNd6l125tY9uJcd4f"
+        }
+      ],
+      "duration_ms": 144170,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/1LrMwgLn973lcjAlkxoX0p"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
         "name": "Always Already",
         "url": "https://open.spotify.com/album/266CkD6b9yrFX60cDNAyKy"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 113413,
       "name": "House Party",
       "url": "https://open.spotify.com/track/4LeuJ3WfqbEm0TiYOjdm89"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
-        "name": "Personal Best",
-        "url": "https://open.spotify.com/album/6FkTtMBKTWf4qV5aeL8Sp5"
-      },
-      "artists": [
-        {
-          "name": "Team Dresch",
-          "url": "https://open.spotify.com/artist/1i0UobirqiiWT0AbrkZKrs"
-        }
-      ],
-      "duration_ms": 165560,
-      "name": "Fagetarian and Dyke",
-      "url": "https://open.spotify.com/track/5tO8kFjt6vhHVAFzRxDaYK"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
+        "name": "Dream Wife",
+        "url": "https://open.spotify.com/album/4XNMQKhyNE3BYCPhwTzcFF"
+      },
+      "artists": [
+        {
+          "name": "Dream Wife",
+          "url": "https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a"
+        }
+      ],
+      "duration_ms": 175760,
+      "name": "Let's Make Out",
+      "url": "https://open.spotify.com/track/3mTP21FXfGTeZsvyfhiVvO"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
         "name": "Bad Girls Go to Hell",
         "url": "https://open.spotify.com/album/1USnl3zRNiSnGZF7toUpcp"
       },
@@ -1259,34 +1275,18 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Dream Wife",
-        "url": "https://open.spotify.com/album/4XNMQKhyNE3BYCPhwTzcFF"
+        "name": "In Search of Lost Time",
+        "url": "https://open.spotify.com/album/43q6kUOk6TRY9m343H9cLf"
       },
       "artists": [
         {
-          "name": "Dream Wife",
-          "url": "https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a"
+          "name": "Partner",
+          "url": "https://open.spotify.com/artist/15rbZYMoW9AYb3zcuFUNOU"
         }
       ],
-      "duration_ms": 175760,
-      "name": "Let's Make Out",
-      "url": "https://open.spotify.com/track/3mTP21FXfGTeZsvyfhiVvO"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
-        "name": "I Found the Answers and Now I Want More",
-        "url": "https://open.spotify.com/album/0tDPveQFHjPpuSTYaOP9Cl"
-      },
-      "artists": [
-        {
-          "name": "Tokky Horror",
-          "url": "https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp"
-        }
-      ],
-      "duration_ms": 86842,
-      "name": "Eden on Acid",
-      "url": "https://open.spotify.com/track/1RNfuLU3uGrhUDitaQ0AW8"
+      "duration_ms": 176786,
+      "name": "Play the Field",
+      "url": "https://open.spotify.com/track/5bLvqbeBT72cnJ53BQ3XHk"
     }
   ],
   "unique_name": "Queercore",

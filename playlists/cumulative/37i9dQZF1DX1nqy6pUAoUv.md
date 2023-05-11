@@ -4,7 +4,7 @@
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Jake Blount
 
-235 songs - 15 hr 20 min
+236 songs - 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Left\-Centred Weight](https://open.spotify.com/track/5cmDQ3eW1Oyv6KecErLNM2) | [Chloe Foy](https://open.spotify.com/artist/3KSEcvpvbR40uwA4eiSJUa) | [Left\-Centred Weight](https://open.spotify.com/album/1Fok53eLl1IUC9qwLIgN4N) | 4:03 | 2021-10-13 | 2022-07-25 |
 | [Loathe](https://open.spotify.com/track/6s6sTLOAqPutQ4ezaLx5B4) | [Barbaro](https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq) | [Loathe](https://open.spotify.com/album/0lfALpPJ6UhDmzoXlCVFW7) | 4:49 | 2022-01-12 | 2022-04-25 |
 | [Lockdown On Date Night Tuesday](https://open.spotify.com/track/5l4KZmLaiImt906CJxl5nv) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Folk n’ Roll Vol\. 1: Tales Of Isolation](https://open.spotify.com/album/5rxYtc0dKFxROEin9UkD9d) | 5:03 | 2021-10-13 |  |
+| [Lonely Time](https://open.spotify.com/track/23pqwMUUlCAgk5bc3I0wW1) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [More From the Levee](https://open.spotify.com/album/7gTpnJLwYoQYS4oIJtnnpv) | 3:22 | 2022-02-25 |  |
 | [Lonely Time](https://open.spotify.com/track/3e8ZAmuMsWEOAiv0FEHdKX) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [Lonely Time](https://open.spotify.com/album/34Hf2N92TMZOLrRPv1xINQ) | 3:22 | 2021-10-13 | 2022-07-29 |
 | [Lonesome Old River Blues](https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc) | [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb) | [Black Cowboys](https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw) | 2:42 | 2021-10-13 |  |
 | [Los Lunas](https://open.spotify.com/track/4a3qPo0Jl2ws3tpHlz8SlS) | [Over the Rhine](https://open.spotify.com/artist/1z26dqCz3PySR4G7HWsn93) | [Love & Revelation](https://open.spotify.com/album/5QT49UMm1gBAUszWaxmpaL) | 4:12 | 2021-10-13 | 2022-06-27 |
@@ -135,7 +136,7 @@
 | [Love Part Three](https://open.spotify.com/track/5OoccFPlv12WWzdzJfcrfx) | [Dani Larkin](https://open.spotify.com/artist/6s74lp18Qqs5s46mJKtxWi) | [Love Part Three](https://open.spotify.com/album/5Quw6izA6Ub8cmeFIYLxnt) | 4:27 | 2021-10-13 | 2022-06-27 |
 | [Lucid Lucy](https://open.spotify.com/track/6Xw7qv0H03e7bPBIH6tMQQ) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Simple Syrup](https://open.spotify.com/album/1WO7SNNBa9NddGXi3UDNjF) | 3:37 | 2021-10-13 |  |
 | [Machine](https://open.spotify.com/track/0VhedNKd5Ca71G1zsn3XTT) | [Emily Barker](https://open.spotify.com/artist/25uHIpsCWoj8wEHFOEhbuV) | [A Dark Murmuration of Words](https://open.spotify.com/album/0Ng0jOnn1nO0WshVGE19fo) | 3:17 | 2021-10-13 | 2022-07-27 |
-| [Maggie May](https://open.spotify.com/track/4qWfC3YqUVlJSOpyOvqBU0) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Banjo Babes](https://open.spotify.com/album/25TyUIdw1xvhgYtTdDNndb) | 4:05 | 2022-02-25 |  |
+| [Maggie May](https://open.spotify.com/track/4qWfC3YqUVlJSOpyOvqBU0) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Banjo Babes](https://open.spotify.com/album/25TyUIdw1xvhgYtTdDNndb) | 4:05 | 2022-02-25 | 2023-05-11 |
 | [Manchester Air](https://open.spotify.com/track/3DR0HjNmqlQ2mDmI8AuP2l) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Manchester Air](https://open.spotify.com/album/6J5XzblZhX17EZKFYnie89) | 4:07 | 2021-10-13 | 2022-07-29 |
 | [Medicine Woman](https://open.spotify.com/track/3S9rZU1GDPhs8WNDv5HQSs) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Goin' Platinum!](https://open.spotify.com/album/6M5DQTTp3zGaWOH6hXsYJV) | 2:37 | 2022-02-25 |  |
 | [Midnight Train](https://open.spotify.com/track/3OZRkavHZUYEfFuK8JNmU9) | [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [Poor David's Almanack](https://open.spotify.com/album/2yohVBNjsgx36AC03RGyxM) | 3:18 | 2021-10-13 | 2022-07-28 |

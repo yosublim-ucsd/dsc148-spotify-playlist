@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,378 songs - 3 day 2 hr 59 min
+1,379 songs - 3 day 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,7 +458,7 @@
 | [Ihana kipu](https://open.spotify.com/track/4EXBxZeqKIayJa65KtAwZw) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Ihana kipu](https://open.spotify.com/album/3XxoOZ0yPeoig9wjK31bR7) | 3:07 | 2022-10-28 |  |
 | [Ihana mies](https://open.spotify.com/track/1JuNanMDR8N94nicMCbusE) | [Titta](https://open.spotify.com/artist/3vSPGdAKywVxEwnOXjghbG) | [Ihana mies](https://open.spotify.com/album/0jmyQQzgR3SPy2QPw7PGIW) | 3:27 | 2022-02-12 | 2022-02-15 |
 | [Ihanaa Leijonat, Ihanaa](https://open.spotify.com/track/14l8B86O8bFUpy2ujERYfX) | [A\-Tyyppi](https://open.spotify.com/artist/6Fz4OHOMAFJMpa2uJmYnJQ) | [A\-Studio Live! \- Äärimmäinen katastrofialbumi](https://open.spotify.com/album/1aiJu4PEdPnwHrOsqSwWrw) | 3:40 | 2022-02-21 | 2022-06-01 |
-| [Ihminen](https://open.spotify.com/track/5eps7chRcG5wHZvGI40ffd) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [Ihminen](https://open.spotify.com/album/4FHdQPTQM2lq9V5ebYNZpy) | 3:19 | 2023-05-06 |  |
+| [Ihminen](https://open.spotify.com/track/5eps7chRcG5wHZvGI40ffd) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [Ihminen](https://open.spotify.com/album/4FHdQPTQM2lq9V5ebYNZpy) | 3:19 | 2023-05-06 | 2023-05-11 |
 | [Ihmisen ikävä toisen luo \(Vain elämää kausi 13\)](https://open.spotify.com/track/3Pe0hTz0Vg6X7j6d9hOkCL) | [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR) | [Ihmisen ikävä toisen luo \(Vain elämää kausi 13\)](https://open.spotify.com/album/1BNUfLPfVMxBcqDjltpSsn) | 3:05 | 2022-09-18 | 2022-10-01 |
 | [Ikinä koskaan](https://open.spotify.com/track/05etDP3P7MVkSFbljuAeIn) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [Ikinä koskaan](https://open.spotify.com/album/0nCD3PpFyO1yLYSaBlxBE4) | 3:05 | 2023-02-18 | 2023-03-19 |
 | [Ikuinen vappu](https://open.spotify.com/track/4ycKgmGOtvuJZVPyvBpVVU) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [RATA/RAITTI](https://open.spotify.com/album/38VbuL5aEXkWVDth0F1UJ3) | 3:07 | 2021-05-03 | 2023-05-05 |
@@ -829,6 +829,7 @@
 | [My Little Love](https://open.spotify.com/track/2DuPBbS5mIldXnh7Wum8Cy) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:29 | 2021-11-21 | 2021-11-28 |
 | [My love & homie](https://open.spotify.com/track/2Xt73nX1u3QHzJmQlpuGMP) | [Blacflaco](https://open.spotify.com/artist/7pRRxojl7QoW1M7s4Zhxo4), [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [My love & homie](https://open.spotify.com/album/7tPPPHCyPzRgAiYzxapWlj) | 2:32 | 2022-11-19 | 2023-03-05 |
 | [My Only Wish \(This Year\)](https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [My Only Wish \(This Year\)](https://open.spotify.com/album/3Hocp9QorapDRHSyZ1AOVL) | 4:15 | 2021-12-13 | 2022-12-28 |
+| [My Sister's Crown](https://open.spotify.com/track/59md7R7fW5LjSbZITzzn3n) | [Vesna](https://open.spotify.com/artist/44kmUe319y8RNgOU2deqX6) | [My Sister's Crown](https://open.spotify.com/album/6nF3kWl5zcDPLqEgxLTRJp) | 2:56 | 2023-05-10 |  |
 | [My Universe](https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:46 | 2021-10-17 | 2021-10-31 |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-09-26 | 2021-10-17 |
 | [Myrskyn jälkeen](https://open.spotify.com/track/7h8d7vRJRidMLutOfJ13F7) | [Teflon Brothers](https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M), [Poju](https://open.spotify.com/artist/5z9Z1vlOXGvDLBgKfzdswn) | [Myrskyn jälkeen](https://open.spotify.com/album/4J3xDVYm3u5hk3a5NR78SX) | 3:37 | 2023-04-15 |  |

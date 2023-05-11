@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 
 > Lush, shimmery guitars\. Cover: Ichika Nito
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,679 likes - 71 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,712 likes - 71 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 | 8 | [Flecha](https://open.spotify.com/track/20Amyw8NsuVeb1niVnSn3D) | [Rodrigo Gouveia](https://open.spotify.com/artist/5A1cqttq9CGOl7svYGHIMb), [Duca Tambasco](https://open.spotify.com/artist/7DX7ZTq8tduuchkTutzyRb), [olliv](https://open.spotify.com/artist/5cPQ3kyOy3bt5g5Hc1ARoI) | [Flecha](https://open.spotify.com/album/6xCutL3K2wd79AssBPfb6P) | 3:00 |
 | 9 | [Waterfalls & Reverb](https://open.spotify.com/track/0VcGBiA3O2OpwVnVl5yS7m) | [Sam Blakelock](https://open.spotify.com/artist/4f11jn3jO1VfqCaRPvqfsR) | [Waterfalls & Reverb](https://open.spotify.com/album/6qP6WMCqifSimBrMtA4xY8) | 1:10 |
 | 10 | [Movie](https://open.spotify.com/track/0kKrJbP4oATz98qQp2iXeC) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 5:57 |
-| 11 | [Sprout](https://open.spotify.com/track/6RFG5HsLNp0V5AVArBl8Fz) | [Arrow](https://open.spotify.com/artist/2tatJcRF6iotLuc51uqaQq), [Yvette Young](https://open.spotify.com/artist/502QOcjJiKbhtG2MyrFkc8), [Nito](https://open.spotify.com/artist/2KYi5lKh0UYAjBrqhuJQ3Z) | [Sprout](https://open.spotify.com/album/2uBnEoUAtT1RaX2sdcKYzF) | 0:59 |
+| 11 | [Sprout](https://open.spotify.com/track/2YpnY3013jldehP8lvJwSy) | [Arrow](https://open.spotify.com/artist/2tatJcRF6iotLuc51uqaQq), [Yvette Young](https://open.spotify.com/artist/502QOcjJiKbhtG2MyrFkc8), [Nito](https://open.spotify.com/artist/2KYi5lKh0UYAjBrqhuJQ3Z) | [Sprout](https://open.spotify.com/album/2YE5QUcxuvpu3cNISQvCxt) | 0:59 |
 | 12 | [Pure Imagination](https://open.spotify.com/track/3VtDoxZ7IztQVQAomuXqWC) | [Ruben Wan](https://open.spotify.com/artist/5bYwZAV9K923kEHW1Yhol5) | [Pure Imagination](https://open.spotify.com/album/2genDz0QoWigwoBg202foH) | 2:06 |
 | 13 | [Please Stay](https://open.spotify.com/track/4Tuek5kA9yuQ0gUKruaFpO) | [MIXK](https://open.spotify.com/artist/3LwhcSCbJCQTJpk0Ad9dpg), [Marco Apicella](https://open.spotify.com/artist/5Nww6Nim8NzaAH97sRJxms) | [Please Stay](https://open.spotify.com/album/0CPht7y4MofltEVzrN9ntw) | 1:52 |
 | 14 | [I Wish](https://open.spotify.com/track/79IirvCpDrry68JTKlmQdU) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [I Wish](https://open.spotify.com/album/3LaOgyaShyrdyet6ftXxDy) | 3:48 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 | 70 | [Holiday](https://open.spotify.com/track/3yEinCTSzCdXNxbJ1ax7o6) | [jalowo](https://open.spotify.com/artist/2D78J8PPLKuEZqmArTFlQS), [Metic](https://open.spotify.com/artist/6w72979Ja5ip1mFNzTa2iY), [Alber](https://open.spotify.com/artist/5nJQi88KO8UbkSHDUb57ZS) | [Holiday](https://open.spotify.com/album/1IdapISfbxpMTBCsPTLsvg) | 2:48 |
 | 71 | [This World](https://open.spotify.com/track/5UrRSpJaU8sCp1C8OeurgV) | [Justus West](https://open.spotify.com/artist/1Rr0QwTQSGjUCpYFfXqnWO), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [This World](https://open.spotify.com/album/0VuUpLsPLvDF51IvRGk4jV) | 4:27 |
 
-Snapshot ID: `MCw4MjI5MDIzNjJhMjE0ZDU4OGMxM2QzMzY3ODRiNWFjMjlkZjgxNjIy`
+Snapshot ID: `MCwyZDJmYzM5MzJhNDMyZmYxMjAzNGY2ODEwOThmMjdhMGUxNGM0MjE0`
