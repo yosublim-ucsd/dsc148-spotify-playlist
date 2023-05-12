@@ -4,7 +4,7 @@
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Alison Brown
 
-429 songs - 1 day 1 hr 48 min
+430 songs - 1 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [1901: A Canyon Odyssey](https://open.spotify.com/track/56xBiRC5zcb1Hvhnek8m1u) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Laws Of Gravity](https://open.spotify.com/album/0yXaxoA7bBeXc31NQxiv93) | 4:35 | 2021-12-17 |  |
 | [21st of May](https://open.spotify.com/track/0hyhmEE6fFefO00bGN1yxD) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [A Dotted Line](https://open.spotify.com/album/3ujidZyCiCruwocS0bDmt2) | 2:47 | 2021-12-17 |  |
 | [50 \- 50 Chance \- Simply Bluegrass](https://open.spotify.com/track/5hlkMObGlGgasDoN8yvXFn) | [Del McCoury](https://open.spotify.com/artist/1yGXkI3DrirCcXv3uwJjGv) | [50 \- 50 Chance \(Simply Bluegrass\)](https://open.spotify.com/album/6RmIk56zgdz2U3DhKVLTTQ) | 2:50 | 2021-12-17 | 2022-07-08 |
-| [95 Years](https://open.spotify.com/track/2FWHuUIYeGnboXO0PFaVc8) | [Volume Five](https://open.spotify.com/artist/1M5MzZDx6FRFfKQP0X23IX) | [Drifter](https://open.spotify.com/album/69UJfZuTLuRKsM9dLgsf40) | 2:54 | 2022-07-22 |  |
+| [95 Years](https://open.spotify.com/track/2FWHuUIYeGnboXO0PFaVc8) | [Volume Five](https://open.spotify.com/artist/1M5MzZDx6FRFfKQP0X23IX) | [Drifter](https://open.spotify.com/album/69UJfZuTLuRKsM9dLgsf40) | 2:54 | 2022-07-22 | 2023-05-12 |
 | [95 Years](https://open.spotify.com/track/2zmrtCL8OFPcMtudRSPoQg) | [Volume Five](https://open.spotify.com/artist/1M5MzZDx6FRFfKQP0X23IX) | [Drifter](https://open.spotify.com/album/6eFvFv7R0oDYHtVNuWa1v2) | 2:54 | 2022-01-07 | 2022-07-23 |
 | [A Distant Land to Roam](https://open.spotify.com/track/06qDaLk1pCIRiOuOW5R2gM) | [Mighty Poplar](https://open.spotify.com/artist/4cMlQtVLzOm9cr200ALzSD), [Andrew Marlin](https://open.spotify.com/artist/0NTdGJGpVrNdeTM5QNRoaL), [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C), [Chris Eldridge](https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW), [Alex Hargreaves](https://open.spotify.com/artist/6Qs9gY94XdjfCCTL8dRQ3P), [Greg Garrison](https://open.spotify.com/artist/1Wzl4iYvY9UIWZFQgUhrdJ) | [Grey Eagle / A Distant Land to Roam](https://open.spotify.com/album/0WVGCRxGwBwBWk6Jjrpa85) | 2:33 | 2023-03-17 |  |
 | [A Mighty Thing](https://open.spotify.com/track/66hsr6tH6ZfPybbs1Vs4Lc) | [Amy Ray](https://open.spotify.com/artist/6FTNWiXksh4ADVB5QdJqCF), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [A Mighty Thing](https://open.spotify.com/album/5TYR4PnMSNwdrDtGXECUCF) | 3:16 | 2022-08-26 | 2022-10-01 |
@@ -339,6 +339,7 @@
 | [Starting Over](https://open.spotify.com/track/0DFo7a8DQvONxF2Q5dpV3i) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Alpenglow](https://open.spotify.com/album/2iSaVUXzQK55C1IXDOCSDc) | 3:45 | 2022-10-28 |  |
 | [Steampipe Coffee](https://open.spotify.com/track/2h6ZLitWaeBw9af5hWRy4T) | [Circus No\. 9](https://open.spotify.com/artist/7EajkJlvOR5KiUni4v4xZu), [Jeff Sipe](https://open.spotify.com/artist/3uBCMHjZuIiCPMMt6c9Sbr) | [Steampipe Coffee](https://open.spotify.com/album/1O9h3PMwdwJhis2pjgt2s7) | 4:49 | 2022-05-27 | 2022-07-12 |
 | [Strange Fascination](https://open.spotify.com/track/1RQcETFoOBuy8oPHXE8dq7) | [Chatham County Line](https://open.spotify.com/artist/3M2LPcqyD4PxbOFvtF05R7), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Strange Fascination](https://open.spotify.com/album/5PnMwyxLM380aAXjAWn5gQ) | 4:18 | 2021-12-17 | 2022-07-27 |
+| [Strange Fascination](https://open.spotify.com/track/2ygPlZkaKoHXKBZ1LXZkXO) | [Chatham County Line](https://open.spotify.com/artist/3M2LPcqyD4PxbOFvtF05R7), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Strange Fascination](https://open.spotify.com/album/7kXILLnl4TJxQVfxb04wTs) | 4:18 | 2023-05-05 |  |
 | [Stress Dreams](https://open.spotify.com/track/3cdT4Juf4LyAUXyk00SHtk) | [Greensky Bluegrass](https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn) | [Stress Dreams](https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW) | 8:01 | 2022-07-22 |  |
 | [Stress Dreams](https://open.spotify.com/track/3ww5HAGF6KoQB9g2yiohMP) | [Greensky Bluegrass](https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn) | [Stress Dreams](https://open.spotify.com/album/2eKgpWDXS5n259CsN2PlRx) | 8:01 | 2022-01-07 | 2022-07-29 |
 | [Suburban Girl](https://open.spotify.com/track/1AAiH3wdCKUvx5gBzhdyJR) | [Yonder Mountain String Band](https://open.spotify.com/artist/1ReHC2jB2DGoPbMYhzuFuO) | [Suburban Girl](https://open.spotify.com/album/5LlDC5xbHIpolgHJlebUpz) | 3:23 | 2022-02-18 | 2022-07-17 |

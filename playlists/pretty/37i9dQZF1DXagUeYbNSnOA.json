@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring SNENiE. Updates every Wednesday.",
-  "num_followers": 169854,
+  "num_followers": 169870,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmY0Zjg4ZDcxNzkwZjQwMGEyN2JlMWJkNWRjNGFhY2U3OTcyZTAx",
+  "snapshot_id": "MCwwZTlkNGJlODU0MjJhMzE1MDU2YjYyMjMxMzY5YTcwNTQ3YzdjZTU1",
   "tracks": [
     {
       "added_at": "2023-05-10 04:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-05-10 04:00:00",
       "album": {
-        "name": "Chemistry",
-        "url": "https://open.spotify.com/album/6wVUHdsG7M9g8vFq7yGmUa"
-      },
-      "artists": [
-        {
-          "name": "Los Esplifs",
-          "url": "https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb"
-        }
-      ],
-      "duration_ms": 234382,
-      "name": "Me Estoy Poniendo Viejo",
-      "url": "https://open.spotify.com/track/3mkaL7kfoWFrsnSnvSRMH3"
-    },
-    {
-      "added_at": "2023-05-10 04:00:00",
-      "album": {
         "name": "Q Si Q No",
         "url": "https://open.spotify.com/album/1Q5tRQjjM9OGctqVocQ9z1"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 153600,
       "name": "Q Si Q No",
       "url": "https://open.spotify.com/track/7vjl6zhzyrSxVA1d7R7Ii5"
+    },
+    {
+      "added_at": "2023-05-10 04:00:00",
+      "album": {
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/6wVUHdsG7M9g8vFq7yGmUa"
+      },
+      "artists": [
+        {
+          "name": "Los Esplifs",
+          "url": "https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb"
+        }
+      ],
+      "duration_ms": 234382,
+      "name": "Me Estoy Poniendo Viejo",
+      "url": "https://open.spotify.com/track/3mkaL7kfoWFrsnSnvSRMH3"
     },
     {
       "added_at": "2023-05-10 04:00:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-05-10 04:00:00",
       "album": {
+        "name": "Sola [Parte I]",
+        "url": "https://open.spotify.com/album/1jlqnNX45GMIeexHFJsWOy"
+      },
+      "artists": [
+        {
+          "name": "Kathy Palma",
+          "url": "https://open.spotify.com/artist/5cEPsNEucruatKACcIdktb"
+        }
+      ],
+      "duration_ms": 199183,
+      "name": "No Hay Veneno",
+      "url": "https://open.spotify.com/track/7lhzEm9GClkeO6f853sMVa"
+    },
+    {
+      "added_at": "2023-05-10 04:00:00",
+      "album": {
         "name": "Pa\u00f1o De L\u00e1grimas",
         "url": "https://open.spotify.com/album/6VnMzKj6rU8EVFC76h9KzA"
       },
@@ -607,22 +623,6 @@
     {
       "added_at": "2023-05-10 04:00:00",
       "album": {
-        "name": "Sola [Parte I]",
-        "url": "https://open.spotify.com/album/1jlqnNX45GMIeexHFJsWOy"
-      },
-      "artists": [
-        {
-          "name": "Kathy Palma",
-          "url": "https://open.spotify.com/artist/5cEPsNEucruatKACcIdktb"
-        }
-      ],
-      "duration_ms": 199183,
-      "name": "No Hay Veneno",
-      "url": "https://open.spotify.com/track/7lhzEm9GClkeO6f853sMVa"
-    },
-    {
-      "added_at": "2023-05-10 04:00:00",
-      "album": {
         "name": "Aves Negras",
         "url": "https://open.spotify.com/album/2Po2dPDn6lMdNSjkfcM1OU"
       },
@@ -635,22 +635,6 @@
       "duration_ms": 165483,
       "name": "Aves Negras",
       "url": "https://open.spotify.com/track/5YZkhQmnSunYYRCd3dtgUH"
-    },
-    {
-      "added_at": "2023-05-10 04:00:00",
-      "album": {
-        "name": "Quiero Bailar Contigo",
-        "url": "https://open.spotify.com/album/42W88xG8y9WfcqdarnA1uO"
-      },
-      "artists": [
-        {
-          "name": "Truzman",
-          "url": "https://open.spotify.com/artist/7qFuA1DT1Ubb1iMPnWKMIr"
-        }
-      ],
-      "duration_ms": 155102,
-      "name": "Quiero Bailar Contigo",
-      "url": "https://open.spotify.com/track/3iIvuDuC4ZdP2RqWHCSP3p"
     },
     {
       "added_at": "2023-05-10 04:00:00",
@@ -671,6 +655,22 @@
     {
       "added_at": "2023-05-10 04:00:00",
       "album": {
+        "name": "Quiero Bailar Contigo",
+        "url": "https://open.spotify.com/album/42W88xG8y9WfcqdarnA1uO"
+      },
+      "artists": [
+        {
+          "name": "Truzman",
+          "url": "https://open.spotify.com/artist/7qFuA1DT1Ubb1iMPnWKMIr"
+        }
+      ],
+      "duration_ms": 155102,
+      "name": "Quiero Bailar Contigo",
+      "url": "https://open.spotify.com/track/3iIvuDuC4ZdP2RqWHCSP3p"
+    },
+    {
+      "added_at": "2023-05-10 04:00:00",
+      "album": {
         "name": "Casualidad",
         "url": "https://open.spotify.com/album/0aO9I8Mp9HVz4S4bphs0q9"
       },
@@ -683,22 +683,6 @@
       "duration_ms": 228923,
       "name": "Casualidad",
       "url": "https://open.spotify.com/track/65xafocysy0HnCoKNo4n1q"
-    },
-    {
-      "added_at": "2023-05-10 04:00:00",
-      "album": {
-        "name": "Cuando Te Veo",
-        "url": "https://open.spotify.com/album/7tG2kTpjBjfR1EO2ESCI56"
-      },
-      "artists": [
-        {
-          "name": "Biowaverave",
-          "url": "https://open.spotify.com/artist/2kyjD063inXc4sfWHk9UoK"
-        }
-      ],
-      "duration_ms": 141664,
-      "name": "Cuando Te Veo",
-      "url": "https://open.spotify.com/track/3hrIiU2vGDTczLvKeJiX3S"
     },
     {
       "added_at": "2023-05-10 04:00:00",
@@ -719,18 +703,18 @@
     {
       "added_at": "2023-05-10 04:00:00",
       "album": {
-        "name": "BIEN RARO",
-        "url": "https://open.spotify.com/album/09UV1eLtOnKeZaaaHnL5w2"
+        "name": "Cuando Te Veo",
+        "url": "https://open.spotify.com/album/7tG2kTpjBjfR1EO2ESCI56"
       },
       "artists": [
         {
-          "name": "Dimc",
-          "url": "https://open.spotify.com/artist/6dsf1MmhDry9AMFBGy6A1O"
+          "name": "Biowaverave",
+          "url": "https://open.spotify.com/artist/2kyjD063inXc4sfWHk9UoK"
         }
       ],
-      "duration_ms": 120000,
-      "name": "BIEN RARO",
-      "url": "https://open.spotify.com/track/652t4pJoG6noGbN3VaQ0WA"
+      "duration_ms": 141664,
+      "name": "Cuando Te Veo",
+      "url": "https://open.spotify.com/track/3hrIiU2vGDTczLvKeJiX3S"
     },
     {
       "added_at": "2023-05-10 04:00:00",
@@ -747,6 +731,22 @@
       "duration_ms": 264247,
       "name": "Un Veneno - Tigre Den Session",
       "url": "https://open.spotify.com/track/6EiQaPHDsK8LNFBgHabIZl"
+    },
+    {
+      "added_at": "2023-05-10 04:00:00",
+      "album": {
+        "name": "BIEN RARO",
+        "url": "https://open.spotify.com/album/09UV1eLtOnKeZaaaHnL5w2"
+      },
+      "artists": [
+        {
+          "name": "Dimc",
+          "url": "https://open.spotify.com/artist/6dsf1MmhDry9AMFBGy6A1O"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "BIEN RARO",
+      "url": "https://open.spotify.com/track/652t4pJoG6noGbN3VaQ0WA"
     },
     {
       "added_at": "2023-05-10 04:00:00",

@@ -4,7 +4,7 @@
 
 > Mellow out with this dub music.
 
-104 songs - 6 hr 51 min
+105 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [King in My Empire](https://open.spotify.com/track/5zfR5yKsmAiyiH6AbaNiOY) | [Rhythm & Sound](https://open.spotify.com/artist/5e5DeHuHjgcj0DbdrdYKMo) | [With the Artists](https://open.spotify.com/album/0rrr4SP4dOoCynCyPFxA9j) | 6:26 | 2020-06-16 |  |
 | [King in My Empire \(Burial Mix\)](https://open.spotify.com/track/1nLS7g5glFo0Pnd8gMWZOt) | [Rhythm & Sound](https://open.spotify.com/artist/5e5DeHuHjgcj0DbdrdYKMo), [Cornell Campbell](https://open.spotify.com/artist/1FOvLj8sNCGHjgueUOVvJi) | [Late Night Tales: Hot Chip](https://open.spotify.com/album/3ZqNP8EI8Q1drBos8oGnkz) | 6:26 | 2022-11-10 | 2022-11-13 |
 | [King in My Empire \(with Cornel Campbell\)](https://open.spotify.com/track/1i4KkAHiiTKHh8ysCSMvsJ) | [Rhythm & Sound](https://open.spotify.com/artist/5e5DeHuHjgcj0DbdrdYKMo), [Cornell Campbell](https://open.spotify.com/artist/1FOvLj8sNCGHjgueUOVvJi) | [With The Artists](https://open.spotify.com/album/0wmxAOYBMqz436kZJBmNQK) | 6:26 | 2020-06-16 | 2022-07-29 |
+| [King With A Crown](https://open.spotify.com/track/2swExCMWD0ujcVyejt8Pvx) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Koba Brown](https://open.spotify.com/artist/7oS1yVWJ9p35xy7kXhfO75), [Addis Pablo](https://open.spotify.com/artist/3qp2x3V8TKROAYg3OlYceu) | [King With A Crown](https://open.spotify.com/album/6ba9mFdypEhOmvrLHt2vCk) | 2:39 | 2023-05-11 |  |
 | [Kunta Kinte Dub](https://open.spotify.com/track/6eCsMxyabKZWLOjoW3cgNF) | [The Revolutionaries](https://open.spotify.com/artist/72kiVqCJIy9eOnmLp8r0h7) | [Drum Sound \- More Gems From the Channel One Dub Room 1974 \-1980](https://open.spotify.com/album/405ttrp5xbSJKSkBz98poB) | 4:25 | 2020-06-16 | 2023-03-04 |
 | [Kunta Kinte Dub](https://open.spotify.com/track/7622Jo93hnCOkViAgertAz) | [The Revolutionaries](https://open.spotify.com/artist/72kiVqCJIy9eOnmLp8r0h7) | [Drum Sound \- More Gems From the Channel One Dub Room 1974 \-1980](https://open.spotify.com/album/0VLAJO6is3voHtYLzk7fM8) | 4:25 | 2020-06-16 | 2022-10-13 |
 | [Land of Version](https://open.spotify.com/track/4iPFmddLTNRzXlrHnijIPz) | [Judah Eskender Tafari](https://open.spotify.com/artist/6eXwWBiejwKVaFD9PRnVWi), [Mighty Massa](https://open.spotify.com/artist/06NDo8XKiHzcqQo3UiIUTY) | [Black Redemption Sounds, Pt\. 1](https://open.spotify.com/album/7tXjOH5s5Yp50SEZ83xAvP) | 4:17 | 2020-06-16 |  |

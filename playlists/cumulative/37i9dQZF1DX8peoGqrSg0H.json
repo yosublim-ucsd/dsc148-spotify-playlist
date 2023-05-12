@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: 4EVE",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: TIGGER, Aheye of 4EVE",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/56zGZcFnTyn8Vjxn4nY5Vm"
+      },
+      "artists": [
+        {
+          "name": "THE7",
+          "url": "https://open.spotify.com/artist/76P1bgqm0Ign9ZDfSjBSbc"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208655,
+      "name": "Chemistry",
+      "url": "https://open.spotify.com/track/1wcdlx2wRHr9v2dROco63B"
+    },
+    {
+      "album": {
         "name": "Chop Chop! (\u0e23\u0e35\u0e1a\u0e44\u0e1b\u0e23\u0e35\u0e1a\u0e21\u0e32)",
         "url": "https://open.spotify.com/album/5cG51iqdsWcuZ5BGmEumN5"
       },
@@ -438,7 +456,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 189948,
       "name": "HI YA YA (\u0e41\u0e04\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d)",
       "url": "https://open.spotify.com/track/45Byir0bemNjJFxHLx8Lir"
@@ -3500,7 +3518,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 181889,
       "name": "\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e27\u0e31\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27 (ONE DAY)",
       "url": "https://open.spotify.com/track/2ZnsdI3nTSDbiDEaKHHZ70"
@@ -4010,6 +4028,24 @@
       "duration_ms": 210000,
       "name": "\u0e27\u0e48\u0e32\u0e44\u0e07\u0e19\u0e30 Feat. Nam iWish",
       "url": "https://open.spotify.com/track/67kJqf9wQnXugBcKoX04IB"
+    },
+    {
+      "album": {
+        "name": "\u0e2a\u0e15\u0e2d\u0e23\u0e35\u0e48\u0e17\u0e35\u0e48\u0e23\u0e31\u0e01 (Your Story)",
+        "url": "https://open.spotify.com/album/5PKR4lzk9pcDGr1xFVxFyS"
+      },
+      "artists": [
+        {
+          "name": "Slow Sundae",
+          "url": "https://open.spotify.com/artist/4jA3LPzvGQcPImWTjpDlma"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228600,
+      "name": "\u0e2a\u0e15\u0e2d\u0e23\u0e35\u0e48\u0e17\u0e35\u0e48\u0e23\u0e31\u0e01 (Your Story)",
+      "url": "https://open.spotify.com/track/3uQJvmeetxUh2TX12iW1p9"
     },
     {
       "album": {

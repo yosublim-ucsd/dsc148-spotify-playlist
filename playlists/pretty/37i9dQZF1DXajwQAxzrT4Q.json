@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: Kanii",
-  "num_followers": 51546,
+  "num_followers": 51652,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYWUwNjc1NmJhN2RiNzgxMTEwNDVlOThhNzdlMjEyNTYzN2E0MDgz",
+  "snapshot_id": "MCxkYWNhYThiNzQ5YTE0YzFlMTE4NDhmMzdiMDIyOTQxODRiNDA2NDQ4",
   "tracks": [
     {
       "added_at": "2023-04-27 21:18:57",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-04-27 21:18:57",
       "album": {
+        "name": "Cupid, Pt. 2",
+        "url": "https://open.spotify.com/album/3H43yex9wZwkwbTe8tp6nn"
+      },
+      "artists": [
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        }
+      ],
+      "duration_ms": 102948,
+      "name": "Cupid, Pt. 2",
+      "url": "https://open.spotify.com/track/7zk0z0E2uZ8azp9raTp5N2"
+    },
+    {
+      "added_at": "2023-04-27 21:18:57",
+      "album": {
         "name": "make it jump (Jersey Club Remix)",
         "url": "https://open.spotify.com/album/0fYJzpHYpEj7SBlqkBiosY"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 184058,
       "name": "make it jump - Jersey Club Remix",
       "url": "https://open.spotify.com/track/2b3oftUheFa8YngoIiuf1a"
-    },
-    {
-      "added_at": "2023-04-27 21:18:57",
-      "album": {
-        "name": "Cupid, Pt. 2",
-        "url": "https://open.spotify.com/album/3H43yex9wZwkwbTe8tp6nn"
-      },
-      "artists": [
-        {
-          "name": "DJ Smallz 732",
-          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
-        }
-      ],
-      "duration_ms": 102948,
-      "name": "Cupid, Pt. 2",
-      "url": "https://open.spotify.com/track/7zk0z0E2uZ8azp9raTp5N2"
     },
     {
       "added_at": "2023-04-27 21:18:57",
@@ -679,6 +679,26 @@
     {
       "added_at": "2023-04-27 21:18:57",
       "album": {
+        "name": "Honesty (Jersey Club Remix)",
+        "url": "https://open.spotify.com/album/1sOF5dtyOTo9s6fx4AtmBe"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        },
+        {
+          "name": "JIDDY",
+          "url": "https://open.spotify.com/artist/2pVWwaFwgfOc1pwlDoj1uA"
+        }
+      ],
+      "duration_ms": 130612,
+      "name": "Honesty - Jersey Club Remix",
+      "url": "https://open.spotify.com/track/1vBluRXN20JZBMA4G7oe7w"
+    },
+    {
+      "added_at": "2023-04-27 21:18:57",
+      "album": {
         "name": "We Are Young (Jersey Club)",
         "url": "https://open.spotify.com/album/56kpBfXOfkpKg3QYHKKAJj"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 160975,
       "name": "Shake Dhat",
       "url": "https://open.spotify.com/track/5UESpuA78cd0mYIdu7CKq4"
-    },
-    {
-      "added_at": "2023-04-27 21:18:57",
-      "album": {
-        "name": "Honesty (Jersey Club Remix)",
-        "url": "https://open.spotify.com/album/1sOF5dtyOTo9s6fx4AtmBe"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        },
-        {
-          "name": "JIDDY",
-          "url": "https://open.spotify.com/artist/2pVWwaFwgfOc1pwlDoj1uA"
-        }
-      ],
-      "duration_ms": 130612,
-      "name": "Honesty - Jersey Club Remix",
-      "url": "https://open.spotify.com/track/1vBluRXN20JZBMA4G7oe7w"
     },
     {
       "added_at": "2023-04-27 21:18:57",
@@ -843,18 +843,22 @@
     {
       "added_at": "2023-04-27 21:18:57",
       "album": {
-        "name": "Club Soda Vol. 3",
-        "url": "https://open.spotify.com/album/4BbClEFUGxAdwWViJdMDS2"
+        "name": "BaDinga (Reloaded)",
+        "url": "https://open.spotify.com/album/2kziB5PhkfwYxyElFxJj7W"
       },
       "artists": [
         {
-          "name": "Cookiee Kawaii",
-          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        },
+        {
+          "name": "TWRK",
+          "url": "https://open.spotify.com/artist/2wo3eLY26t8AMyYuYi1pZQ"
         }
       ],
-      "duration_ms": 116800,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/5XRBpyoHqvWl6sB5vIocwn"
+      "duration_ms": 168000,
+      "name": "BaDinga - Reloaded",
+      "url": "https://open.spotify.com/track/1JnlpPaMACqbAzuo5xbZR4"
     },
     {
       "added_at": "2023-04-27 21:18:57",
@@ -875,22 +879,18 @@
     {
       "added_at": "2023-04-27 21:18:57",
       "album": {
-        "name": "BaDinga (Reloaded)",
-        "url": "https://open.spotify.com/album/2kziB5PhkfwYxyElFxJj7W"
+        "name": "Club Soda Vol. 3",
+        "url": "https://open.spotify.com/album/4BbClEFUGxAdwWViJdMDS2"
       },
       "artists": [
         {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        },
-        {
-          "name": "TWRK",
-          "url": "https://open.spotify.com/artist/2wo3eLY26t8AMyYuYi1pZQ"
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
         }
       ],
-      "duration_ms": 168000,
-      "name": "BaDinga - Reloaded",
-      "url": "https://open.spotify.com/track/1JnlpPaMACqbAzuo5xbZR4"
+      "duration_ms": 116800,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/5XRBpyoHqvWl6sB5vIocwn"
     },
     {
       "added_at": "2023-04-27 21:18:57",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > maxime\. makes anti pop
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,546 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,573 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 99 | [Dizzy Vision](https://open.spotify.com/track/20LTZsoVpBQsbbwkgY9YPb) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [Dizzy Vision](https://open.spotify.com/album/2XOFL54zsynsBPicRY3dnX) | 2:47 |
 | 100 | [4evaaa](https://open.spotify.com/track/0uq8z2z0DUJNRgxv3DfqT3) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [nolademos](https://open.spotify.com/album/3aXlTlKpRpnwTsjL0lXRIt) | 3:15 |
 
-Snapshot ID: `MCxiZDc5ODYxOTc5ZGMwNTdhMDI4OWQ3NGQ1OTczOTJlMjFiNTEyZjZl`
+Snapshot ID: `MCw3MDZlMDcyYjg0ZTBmNmIwMzg2ZTdiNTRkMGE4NDc4ZDU2ZWI4YmMz`

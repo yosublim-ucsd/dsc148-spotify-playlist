@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: The Chairs (Taiwan)",
+  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: a kid named rufus",
   "name": ".ORG",
   "tracks": [
     {
@@ -1754,7 +1754,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 145040,
       "name": "Cactus, Cactus",
       "url": "https://open.spotify.com/track/1rY2ceqiDFkB9NbV4efQOj"
@@ -3134,7 +3134,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 221511,
       "name": "Do",
       "url": "https://open.spotify.com/track/6tStqbjbMdMRzRWWNvlnqI"
@@ -3582,7 +3582,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 225189,
       "name": "Entah Sampai Kapan",
       "url": "https://open.spotify.com/track/3SIoZXo5TVkyNqzua1X3SJ"
@@ -3622,6 +3622,24 @@
       "duration_ms": 234070,
       "name": "Epiphany",
       "url": "https://open.spotify.com/track/5LwX0XuDEG9YmMN5DjP6rX"
+    },
+    {
+      "album": {
+        "name": "Escape From The Killer",
+        "url": "https://open.spotify.com/album/3f8J1FJdPioQfUEG3FL2PG"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206524,
+      "name": "Escape From The Killer 2008",
+      "url": "https://open.spotify.com/track/0E3C9ry5VM5YqCZLdcE0Fj"
     },
     {
       "album": {
@@ -3672,10 +3690,28 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 213815,
       "name": "Everything",
       "url": "https://open.spotify.com/track/2bhtLYcoRs5Qiid6WouLKe"
+    },
+    {
+      "album": {
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/6wgOecsewd9a3opHmTr0er"
+      },
+      "artists": [
+        {
+          "name": "Kura Kura Parafin",
+          "url": "https://open.spotify.com/artist/3QMTSZ13mw6p679I6n9k9l"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256500,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/34OGRSpcQOAHsK4pSolDX1"
     },
     {
       "album": {
@@ -7207,6 +7243,28 @@
     },
     {
       "album": {
+        "name": "love is a crime",
+        "url": "https://open.spotify.com/album/5gmSFYWOGKR9eSmQgHKFDf"
+      },
+      "artists": [
+        {
+          "name": "AneeSa",
+          "url": "https://open.spotify.com/artist/2pNvaqWpANQG0LphogYOtM"
+        },
+        {
+          "name": "David Halim",
+          "url": "https://open.spotify.com/artist/3tHIFKlD45w5KlIajjqdfZ"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292226,
+      "name": "love is a crime",
+      "url": "https://open.spotify.com/track/5noD3FymlCRl7veIWk5k4g"
+    },
+    {
+      "album": {
         "name": "love is growing",
         "url": "https://open.spotify.com/album/422FUc3Fc4UG1Cn9CeeOAQ"
       },
@@ -8779,6 +8837,24 @@
     },
     {
       "album": {
+        "name": "Oscillating In Imaginary Butterflies",
+        "url": "https://open.spotify.com/album/5uMwDNV9ZIhzUCiofmqXMM"
+      },
+      "artists": [
+        {
+          "name": "Matahara",
+          "url": "https://open.spotify.com/artist/6SX0hms1ZlxJ8nLvKLzqws"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67131,
+      "name": "Oscillating In Imaginary Butterflies",
+      "url": "https://open.spotify.com/track/0lukljBfDuvj3I1HPe5zIE"
+    },
+    {
+      "album": {
         "name": "Our Beloved Summer (Original Television Soundtrack), Pt. 11",
         "url": "https://open.spotify.com/album/460wwJJ7kVYYue0MfHTsVD"
       },
@@ -10175,6 +10251,32 @@
     },
     {
       "album": {
+        "name": "simon says",
+        "url": "https://open.spotify.com/album/0HmHQlwuTWzL9VPMk7AC1U"
+      },
+      "artists": [
+        {
+          "name": "isaacprease",
+          "url": "https://open.spotify.com/artist/2Pa2Q2By2eVE6RT8SfgozN"
+        },
+        {
+          "name": "Jelex",
+          "url": "https://open.spotify.com/artist/6dhwyJ9zxV1cstuPoRv06s"
+        },
+        {
+          "name": "Dave Anonuevo",
+          "url": "https://open.spotify.com/artist/7buJRMVUhTO2JhsNekynv1"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154482,
+      "name": "simon says",
+      "url": "https://open.spotify.com/track/5PrAyJlzvbVszSDtHjDvXT"
+    },
+    {
+      "album": {
         "name": "Bleach",
         "url": "https://open.spotify.com/album/0OY6Uy5XqRBvbRyNVJmA6K"
       },
@@ -10569,6 +10671,24 @@
     },
     {
       "album": {
+        "name": "Same As You",
+        "url": "https://open.spotify.com/album/0c8ihXb0VoNdEPIpwVG2CL"
+      },
+      "artists": [
+        {
+          "name": "Dvy",
+          "url": "https://open.spotify.com/artist/27mZIRyex2VVr6mmELKI1i"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198625,
+      "name": "Spell",
+      "url": "https://open.spotify.com/track/4VWYQQyJs09I6A4FdjoOun"
+    },
+    {
+      "album": {
         "name": "Spin",
         "url": "https://open.spotify.com/album/11lGrv1kUoOvyuWOg4anHX"
       },
@@ -10815,6 +10935,24 @@
     },
     {
       "album": {
+        "name": "stuck in san antonio",
+        "url": "https://open.spotify.com/album/5i6JV5RaAEXYbwQx3si9Mo"
+      },
+      "artists": [
+        {
+          "name": "a kid named rufus",
+          "url": "https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153873,
+      "name": "stuck in san antonio",
+      "url": "https://open.spotify.com/track/3Pw3s89FOoJarpM4Zl50VY"
+    },
+    {
+      "album": {
         "name": "Round and Round",
         "url": "https://open.spotify.com/album/3MYLhipqQULZJKKgFqTkOq"
       },
@@ -10848,6 +10986,24 @@
       "duration_ms": 254374,
       "name": "Subway Station Revelation",
       "url": "https://open.spotify.com/track/64QIWtRAivYJpEiikswr7K"
+    },
+    {
+      "album": {
+        "name": "sulky baby",
+        "url": "https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278998,
+      "name": "sulky baby",
+      "url": "https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH"
     },
     {
       "album": {
@@ -11144,7 +11300,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 258450,
       "name": "Surel",
       "url": "https://open.spotify.com/track/28qaZVU6Wuk1cgA3MqkZKO"
@@ -11322,7 +11478,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 244650,
       "name": "Tell It To My Face",
       "url": "https://open.spotify.com/track/3BhdlvVCtfCzKFSmRQtUN4"
@@ -11402,6 +11558,24 @@
       "duration_ms": 178000,
       "name": "The Bended Man",
       "url": "https://open.spotify.com/track/6aKj56S8DrVrwiRraHd72f"
+    },
+    {
+      "album": {
+        "name": "The Forgotten Honeymoon",
+        "url": "https://open.spotify.com/album/6gM2GBC8CCzZa6TDcgo3xe"
+      },
+      "artists": [
+        {
+          "name": "Daniel Ryn",
+          "url": "https://open.spotify.com/artist/3lhyP7Pddt6ks3s0TL7blV"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214500,
+      "name": "The Forgotten Honeymoon",
+      "url": "https://open.spotify.com/track/0tFc5y2jQXoPdkQ3AyxvXM"
     },
     {
       "album": {
@@ -11992,7 +12166,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 200640,
       "name": "ur sweater",
       "url": "https://open.spotify.com/track/5Dm6An47nSw89nSu0KHdtg"
@@ -12744,7 +12918,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 220814,
       "name": "Wild Child",
       "url": "https://open.spotify.com/track/0ncdLrRwDcIULjIwyrOoB3"
@@ -14118,7 +14292,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 294826,
       "name": "\u62c9\u9eb5\u516c\u5b50 Ramen Boy",
       "url": "https://open.spotify.com/track/6gn8E9FPBNbrrb6tKS14av"

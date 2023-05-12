@@ -18787,6 +18787,28 @@
     },
     {
       "album": {
+        "name": "La noche de San Juan",
+        "url": "https://open.spotify.com/album/3GVe7IwqixEVdVTT9wA94o"
+      },
+      "artists": [
+        {
+          "name": "Bianca Mui",
+          "url": "https://open.spotify.com/artist/4uZwbKBh4fEOPFC0Pw0QCk"
+        },
+        {
+          "name": "Nare",
+          "url": "https://open.spotify.com/artist/5kFiVU6yw6OkpKHuJmG8UX"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187058,
+      "name": "La noche de San Juan",
+      "url": "https://open.spotify.com/track/4gNkZNQzdcSwTsWWGcmBPB"
+    },
+    {
+      "album": {
         "name": "La nube",
         "url": "https://open.spotify.com/album/51kQcid23X3gDz4uCwpuuz"
       },

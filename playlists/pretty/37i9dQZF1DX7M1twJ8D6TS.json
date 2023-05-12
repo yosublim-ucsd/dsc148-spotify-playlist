@@ -1,12 +1,12 @@
 {
   "description": "The biggest Texas Country Hits over the last couple of years. Formerly Texas Music Rewind.",
-  "num_followers": 2403,
+  "num_followers": 2502,
   "original_name": "Texas Country Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzM4OTk5OGM0NzNlYWM4YzM5OTkwYjg1YTU0NTNhZTdlMWRjOTBl",
+  "snapshot_id": "MCxlOWFlZTNiY2JjMDc1ZjU0YjM5MDk1NjJhZGIzNDlmNTlkZGIxOTI4",
   "tracks": [
     {
       "added_at": "2023-02-10 16:12:28",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Welcome To Countryland",
-        "url": "https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX"
-      },
-      "artists": [
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        }
-      ],
-      "duration_ms": 200672,
-      "name": "Some Things Never Change",
-      "url": "https://open.spotify.com/track/7zxsnW2mjKjpkgvfZqQNX4"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
         "name": "After the Fire",
         "url": "https://open.spotify.com/album/6fdC5dNZIRssH16hpkZF5a"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 185247,
       "name": "Ain't a Train",
       "url": "https://open.spotify.com/track/26rNkQarR1C3XItosI6P3i"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
+        "name": "Welcome To Countryland",
+        "url": "https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "duration_ms": 200672,
+      "name": "Some Things Never Change",
+      "url": "https://open.spotify.com/track/7zxsnW2mjKjpkgvfZqQNX4"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -535,26 +535,6 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Welcome To Countryland",
-        "url": "https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX"
-      },
-      "artists": [
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        },
-        {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        }
-      ],
-      "duration_ms": 226538,
-      "name": "Life Without You",
-      "url": "https://open.spotify.com/track/4GH1IMTWa7o2WCsmEOtO6t"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
         "name": "Red Eye EP",
         "url": "https://open.spotify.com/album/3tKu9bTu6dfnXHZot0kKFy"
       },
@@ -567,6 +547,22 @@
       "duration_ms": 319591,
       "name": "Kill a Man",
       "url": "https://open.spotify.com/track/1N6pD66bUuUuVX9CfXJxFA"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
+        "name": "Don't Even Say Bye",
+        "url": "https://open.spotify.com/album/0dthXJRfQdbGWs3t8HrO7r"
+      },
+      "artists": [
+        {
+          "name": "Cole Barnhill",
+          "url": "https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs"
+        }
+      ],
+      "duration_ms": 237060,
+      "name": "Don't Even Say Bye",
+      "url": "https://open.spotify.com/track/654czoZ3ElWtbkVkKsSBbl"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -591,18 +587,22 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Don't Even Say Bye",
-        "url": "https://open.spotify.com/album/0dthXJRfQdbGWs3t8HrO7r"
+        "name": "Welcome To Countryland",
+        "url": "https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX"
       },
       "artists": [
         {
-          "name": "Cole Barnhill",
-          "url": "https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs"
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        },
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
         }
       ],
-      "duration_ms": 237060,
-      "name": "Don't Even Say Bye",
-      "url": "https://open.spotify.com/track/654czoZ3ElWtbkVkKsSBbl"
+      "duration_ms": 226538,
+      "name": "Life Without You",
+      "url": "https://open.spotify.com/track/4GH1IMTWa7o2WCsmEOtO6t"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Javelina",
-        "url": "https://open.spotify.com/album/5tyO5E9XvwHp2QxF3VOKVq"
-      },
-      "artists": [
-        {
-          "name": "Red Shahan",
-          "url": "https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ"
-        }
-      ],
-      "duration_ms": 208896,
-      "name": "Javelina",
-      "url": "https://open.spotify.com/track/46YBC6L6URk7rZ3FiZH6AS"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
         "name": "No Vacancy",
         "url": "https://open.spotify.com/album/4FLvEcu5X5ZUzsWP3Lbh8O"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 244429,
       "name": "No Vacancy",
       "url": "https://open.spotify.com/track/72B4o9F7SbMeDWJoQPcqQJ"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
+        "name": "Javelina",
+        "url": "https://open.spotify.com/album/5tyO5E9XvwHp2QxF3VOKVq"
+      },
+      "artists": [
+        {
+          "name": "Red Shahan",
+          "url": "https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ"
+        }
+      ],
+      "duration_ms": 208896,
+      "name": "Javelina",
+      "url": "https://open.spotify.com/track/46YBC6L6URk7rZ3FiZH6AS"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
+        "name": "Black Sheep",
+        "url": "https://open.spotify.com/album/0tNJiCqDocKe1rG3jwdqK1"
+      },
+      "artists": [
+        {
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+        }
+      ],
+      "duration_ms": 224027,
+      "name": "Happier Alone",
+      "url": "https://open.spotify.com/track/6TTb1rInj0xBs0naVYyaHD"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
         "name": "Hey Baby",
         "url": "https://open.spotify.com/album/6ZdP5o3oXMpIsYCYBU6pRu"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 287031,
       "name": "Hey Baby",
       "url": "https://open.spotify.com/track/7gj7pwh6wq2Wr0cvcx0mqu"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
-        "name": "One Light Town",
-        "url": "https://open.spotify.com/album/6BwvOmmn7IaK2TkzzsJkHa"
-      },
-      "artists": [
-        {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        }
-      ],
-      "duration_ms": 196066,
-      "name": "Queen for a Night",
-      "url": "https://open.spotify.com/track/6Go4PLAMT0aSxqzhEFSn3W"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Black Sheep",
-        "url": "https://open.spotify.com/album/0tNJiCqDocKe1rG3jwdqK1"
+        "name": "One Light Town",
+        "url": "https://open.spotify.com/album/6BwvOmmn7IaK2TkzzsJkHa"
       },
       "artists": [
         {
-          "name": "Austin Meade",
-          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
         }
       ],
-      "duration_ms": 224027,
-      "name": "Happier Alone",
-      "url": "https://open.spotify.com/track/6TTb1rInj0xBs0naVYyaHD"
+      "duration_ms": 196066,
+      "name": "Queen for a Night",
+      "url": "https://open.spotify.com/track/6Go4PLAMT0aSxqzhEFSn3W"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "New Tattoos",
-        "url": "https://open.spotify.com/album/780rPEbni816HNo8Fk2Yom"
-      },
-      "artists": [
-        {
-          "name": "South Texas Tweek",
-          "url": "https://open.spotify.com/artist/7i1TAJ7JbLXS8OMi0tABmM"
-        }
-      ],
-      "duration_ms": 157660,
-      "name": "New Tattoos",
-      "url": "https://open.spotify.com/track/34WXK8DJ3AuVtyS4w4ShIx"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
         "name": "Where the Neon Lies (with Ronnie Dunn)",
         "url": "https://open.spotify.com/album/2oZKygcTIrbhxKSKjRCGZy"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 242360,
       "name": "Where the Neon Lies (with Ronnie Dunn)",
       "url": "https://open.spotify.com/track/7EiReSdSNMGYz2ki0RRiYP"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
+        "name": "New Tattoos",
+        "url": "https://open.spotify.com/album/780rPEbni816HNo8Fk2Yom"
+      },
+      "artists": [
+        {
+          "name": "South Texas Tweek",
+          "url": "https://open.spotify.com/artist/7i1TAJ7JbLXS8OMi0tABmM"
+        }
+      ],
+      "duration_ms": 157660,
+      "name": "New Tattoos",
+      "url": "https://open.spotify.com/track/34WXK8DJ3AuVtyS4w4ShIx"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Don't Want To Go Home",
-        "url": "https://open.spotify.com/album/41qtxucilAy9wF8Ggw2Aks"
-      },
-      "artists": [
-        {
-          "name": "Teague Brothers Band",
-          "url": "https://open.spotify.com/artist/79kA7zyNoaWwAmpf21p7vH"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "Don't Want to Go Home",
-      "url": "https://open.spotify.com/track/45Dtd0wcVVrX8aDkZA8bGM"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
         "name": "Jacket On",
         "url": "https://open.spotify.com/album/3BhLbN0ui08445wGLHG7mt"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 156199,
       "name": "Jacket On",
       "url": "https://open.spotify.com/track/6hiVYUsXeDk9i6icgbEHzm"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
+        "name": "Don't Want To Go Home",
+        "url": "https://open.spotify.com/album/41qtxucilAy9wF8Ggw2Aks"
+      },
+      "artists": [
+        {
+          "name": "Teague Brothers Band",
+          "url": "https://open.spotify.com/artist/79kA7zyNoaWwAmpf21p7vH"
+        }
+      ],
+      "duration_ms": 183666,
+      "name": "Don't Want to Go Home",
+      "url": "https://open.spotify.com/track/45Dtd0wcVVrX8aDkZA8bGM"
     },
     {
       "added_at": "2023-02-10 16:12:28",

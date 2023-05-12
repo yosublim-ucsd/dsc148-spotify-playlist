@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni che ti fanno ribaltare i tavoli (\u256f\u00b0\u25a1\u00b0\uff09\u256f\ufe35 \u253b\u2501\u253b Still Charles in cover",
+  "description": "canzoni che ti fanno ribaltare i tavoli (\u256f\u00b0\u25a1\u00b0\uff09\u256f\ufe35 \u253b\u2501\u253b Stefy Evita in cover",
   "name": "sanguegiovane",
   "tracks": [
     {
@@ -734,7 +734,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 176100,
       "name": "Anima Tormentata",
       "url": "https://open.spotify.com/track/7C1cnKPhNwieQsKORc0hE1"
@@ -1016,7 +1016,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 136387,
       "name": "BANG BANG!",
       "url": "https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA"
@@ -1301,6 +1301,24 @@
     },
     {
       "album": {
+        "name": "brutto sogno",
+        "url": "https://open.spotify.com/album/3qN9V9iefWolq0VHDTqb3i"
+      },
+      "artists": [
+        {
+          "name": "XOXONO\u00e8",
+          "url": "https://open.spotify.com/artist/76p1bFOBflSErtbuzZUuKM"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113818,
+      "name": "brutto sogno",
+      "url": "https://open.spotify.com/track/4udZvpaUKKwTiCk1aK77YN"
+    },
+    {
+      "album": {
         "name": "TRE",
         "url": "https://open.spotify.com/album/6KgWi7Dq7eGztZzC9ExYmn"
       },
@@ -1538,7 +1556,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 142545,
       "name": "CHE BELLA MUSICA",
       "url": "https://open.spotify.com/track/7plviClrIRPnd3W2EDfUgh"
@@ -1665,6 +1683,28 @@
     },
     {
       "album": {
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/1ZnbZLBhdfXxiiqeOSadNg"
+      },
+      "artists": [
+        {
+          "name": "Anfysia",
+          "url": "https://open.spotify.com/artist/24zKteupvWQ4W1YG7F5dll"
+        },
+        {
+          "name": "Erba",
+          "url": "https://open.spotify.com/artist/6wO3gGgeaezAmqNltspVcW"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148907,
+      "name": "Clara",
+      "url": "https://open.spotify.com/track/3dZxdF4oBB0zayJuvQ01oN"
+    },
+    {
+      "album": {
         "name": "CLIPPER 2",
         "url": "https://open.spotify.com/album/13tj7TCONe6oeK2xCV71dl"
       },
@@ -1676,7 +1716,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 143360,
       "name": "CLIPPER 2",
       "url": "https://open.spotify.com/track/2mDyIoEI1sGscOwxA6fW4A"
@@ -2268,6 +2308,28 @@
       "duration_ms": 182769,
       "name": "Devil Eyes (Brividi)",
       "url": "https://open.spotify.com/track/5PuYPMk3OGkq3g4OIbPdMi"
+    },
+    {
+      "album": {
+        "name": "DICIANNOVE",
+        "url": "https://open.spotify.com/album/5MrkfELi0uvHFWqkVtS3Gc"
+      },
+      "artists": [
+        {
+          "name": "Ade",
+          "url": "https://open.spotify.com/artist/1AsT42BEnBzVLVZhuEm16Q"
+        },
+        {
+          "name": "cxllmemxnu",
+          "url": "https://open.spotify.com/artist/4wxSnyruuRR5zsA1AJInKV"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166682,
+      "name": "DICIANNOVE",
+      "url": "https://open.spotify.com/track/1x5L7zWz1OmlHBIU5BuX59"
     },
     {
       "album": {
@@ -3000,7 +3062,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 194571,
       "name": "FCCM",
       "url": "https://open.spotify.com/track/4bMFlGc7K3FiUblr9UPxi4"
@@ -3501,6 +3563,32 @@
     },
     {
       "album": {
+        "name": "GIORNI",
+        "url": "https://open.spotify.com/album/4F81BH0tY3rOOnRzrjz5I5"
+      },
+      "artists": [
+        {
+          "name": "Tear&Drugz",
+          "url": "https://open.spotify.com/artist/1cuy7cysWDn6m3kaqazyjT"
+        },
+        {
+          "name": "tobehonest",
+          "url": "https://open.spotify.com/artist/2ufSXCAobEyscTZllwpEzV"
+        },
+        {
+          "name": "pippx",
+          "url": "https://open.spotify.com/artist/78N7nP5wUagUYUax3I5Ldv"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148959,
+      "name": "GIORNI",
+      "url": "https://open.spotify.com/track/1M2Me9b51HDBQEZmh5YuKP"
+    },
+    {
+      "album": {
         "name": "GIORNI A MET\u00c0",
         "url": "https://open.spotify.com/album/0nKRo6pVAUGKzB94AZkDXY"
       },
@@ -3740,7 +3828,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 150000,
       "name": "Guardami! - MANGO",
       "url": "https://open.spotify.com/track/3VrzmIFzrd1njUrdx3h7nV"
@@ -4873,6 +4961,24 @@
     },
     {
       "album": {
+        "name": "Lividi",
+        "url": "https://open.spotify.com/album/2Cstv632dgOCZ2GUAXoQK7"
+      },
+      "artists": [
+        {
+          "name": "AILO",
+          "url": "https://open.spotify.com/artist/6SkFdYX4I8S4lmKMj9yHwO"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Lividi",
+      "url": "https://open.spotify.com/track/06jnGF7Oc1Dd2XEuLyzBA2"
+    },
+    {
+      "album": {
         "name": "Lo Sai",
         "url": "https://open.spotify.com/album/23RdplWlOSwzWeuD4T3sZo"
       },
@@ -5293,6 +5399,28 @@
     },
     {
       "album": {
+        "name": "Mare Di Lacrime",
+        "url": "https://open.spotify.com/album/2hvhmg29psyxonU4ZogcnD"
+      },
+      "artists": [
+        {
+          "name": "Sethu",
+          "url": "https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5"
+        },
+        {
+          "name": "Jiz",
+          "url": "https://open.spotify.com/artist/38CThoTDmXugNnfonW466d"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185647,
+      "name": "Mare Di Lacrime",
+      "url": "https://open.spotify.com/track/35Jwhu5uWV0ekuzxDKCdpU"
+    },
+    {
+      "album": {
         "name": "Martina",
         "url": "https://open.spotify.com/album/67kW5lKtGjyNuNScx4IkSK"
       },
@@ -5473,6 +5601,24 @@
     },
     {
       "album": {
+        "name": "Milano sei tossica",
+        "url": "https://open.spotify.com/album/06dgmOUyGPUAgt1dvcdzZn"
+      },
+      "artists": [
+        {
+          "name": "Kate Klein",
+          "url": "https://open.spotify.com/artist/67DWV4ny2wOneRM4QoLfLO"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128906,
+      "name": "Milano sei tossica",
+      "url": "https://open.spotify.com/track/1jxdBO6W0M7L9AcGfM5ZeL"
+    },
+    {
+      "album": {
         "name": "Mille pare",
         "url": "https://open.spotify.com/album/2Yz4jWAU8rcdhN8ZLYySPO"
       },
@@ -5484,7 +5630,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 174063,
       "name": "Mille pare",
       "url": "https://open.spotify.com/track/2XzN0SolJ8TVddPRcfLeUN"
@@ -5946,7 +6092,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 168105,
       "name": "non mi va",
       "url": "https://open.spotify.com/track/3et88aHFd0OwIR3vfzvGaB"
@@ -6644,7 +6790,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 192009,
       "name": "PORNO",
       "url": "https://open.spotify.com/track/1V943kQXR3Tiz9kqakdnNe"
@@ -6871,6 +7017,24 @@
     },
     {
       "album": {
+        "name": "Puoi fare meglio",
+        "url": "https://open.spotify.com/album/1j2XwuZzOBU5fXZjsnxcW3"
+      },
+      "artists": [
+        {
+          "name": "chiello",
+          "url": "https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177678,
+      "name": "Puoi fare meglio",
+      "url": "https://open.spotify.com/track/6m1y1HHAlYjB2pmi9I8gRV"
+    },
+    {
+      "album": {
         "name": "Quando casco di sotto",
         "url": "https://open.spotify.com/album/1dkuRF91vqzS9chbMjiUmU"
       },
@@ -7064,7 +7228,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 157775,
       "name": "Riposa in pace",
       "url": "https://open.spotify.com/track/2XT75IT9OdGj0vhxYxOotz"
@@ -7090,7 +7254,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 171529,
       "name": "RISPOSTA",
       "url": "https://open.spotify.com/track/6pqQLdlYeEFcSDH0hxhyL5"
@@ -7246,7 +7410,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 215978,
       "name": "Rosso",
       "url": "https://open.spotify.com/track/1dCoLitotcRABlWlOOZcTs"
@@ -8343,6 +8507,44 @@
     },
     {
       "album": {
+        "name": "Stai Ancora Guardando?",
+        "url": "https://open.spotify.com/album/2YtmV81d2w8OWQg8EJjCuk"
+      },
+      "artists": [
+        {
+          "name": "Sbale",
+          "url": "https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU"
+        },
+        {
+          "name": "Bipolar",
+          "url": "https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di"
+        },
+        {
+          "name": "\u00cbgo",
+          "url": "https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd"
+        },
+        {
+          "name": "Werdn",
+          "url": "https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC"
+        },
+        {
+          "name": "Jerry Sampi",
+          "url": "https://open.spotify.com/artist/3TkjmmfqgXSeqkAeHRSLwM"
+        },
+        {
+          "name": "Cloud\u00ec",
+          "url": "https://open.spotify.com/artist/14F6TgN7IOUEReU7piFW82"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Stai Ancora Guardando?",
+      "url": "https://open.spotify.com/track/4OoEv2zLhguZK7BclOHjUP"
+    },
+    {
+      "album": {
         "name": "Stanotte",
         "url": "https://open.spotify.com/album/2FtZxurKu7EIEbATUNoZEe"
       },
@@ -8548,6 +8750,24 @@
       "duration_ms": 184880,
       "name": "Storia Stupida",
       "url": "https://open.spotify.com/track/14cHW9AA2QhKt9lBtNi2aZ"
+    },
+    {
+      "album": {
+        "name": "Strappami il Cuore",
+        "url": "https://open.spotify.com/album/4pt1RtKgITuqEjnn6TyzE2"
+      },
+      "artists": [
+        {
+          "name": "Scaglia",
+          "url": "https://open.spotify.com/artist/61C1YBssJpV0rPGdoLjoJ7"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142109,
+      "name": "Strappami il Cuore",
+      "url": "https://open.spotify.com/track/1Y5D0a5RatG4WXjGWqfFF7"
     },
     {
       "album": {
@@ -9768,7 +9988,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 182338,
       "name": "VIOLA \u2013 with Salmo",
       "url": "https://open.spotify.com/track/6UMOpKOam549hPEhpLtS9L"

@@ -4,7 +4,7 @@
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-101 songs - 9 hr 40 min
+103 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Business Acumen \(Holy Ghost! Cover Version\)](https://open.spotify.com/track/7y4QQ1NdYzJaJbHULP2Tw2) | [In Flagranti](https://open.spotify.com/artist/7JmWc7RWsx9ga8HNet7sjx), [Holy Ghost!](https://open.spotify.com/artist/2Vhc7Y0Kc6HzMC6glKM4h6) | [Kitsuné: Business Acumen \(Bonus Track Version\)](https://open.spotify.com/album/2WL6R43mBzoz1mcuan3Pok) | 6:20 | 2022-12-20 |  |
 | [Cabrio Mango](https://open.spotify.com/track/7jrJd2hRB3vDYX93SRiGad) | [Coeo](https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z) | [Tonic Edits Vol\. 5](https://open.spotify.com/album/16bCZJbli0FGp8tszt1uZl) | 5:21 | 2022-12-20 |  |
 | [Cadenza](https://open.spotify.com/track/4gNxJbUfTJcARZieWGqkQE) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Cadenza](https://open.spotify.com/album/4SDT1aWAajt4ICuwa1sfiN) | 6:23 | 2022-12-20 |  |
+| [Come Back Around \- Romain Garcia Remix](https://open.spotify.com/track/1QX9ADgtGC1qnSXRrFRQKx) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy), [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg), [Romain Garcia](https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h) | [Come Back Around \(The Remixes\)](https://open.spotify.com/album/5mn7XFUOlMsPwEmjbeSRgA) | 4:23 | 2023-05-11 |  |
 | [Crossing Paths](https://open.spotify.com/track/5lXOqXFHGPEPvzWVcK97fD) | [Kartell](https://open.spotify.com/artist/3E4UsjXgFv2GdwshMkkJze), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Daybreak](https://open.spotify.com/album/2fl52wlcdpihJq265RoeYq) | 4:04 | 2022-12-20 |  |
 | [Delirio Italiano](https://open.spotify.com/track/09OTP1T8pPFo03aTMZQuft) | [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH) | [Toy Tonics Top Tracks Vol\. 7](https://open.spotify.com/album/7jrWpxkaSYFBmMhmS3GS2D) | 3:52 | 2022-12-20 |  |
 | [Disco](https://open.spotify.com/track/2ePYAMkoIu8lkTyN1ngG0c) | [Boris Vian](https://open.spotify.com/artist/539tqg3ZD8rczM6eTXYFy8) | [Disco](https://open.spotify.com/album/7bUf9JVedA84u4nEuqhiDB) | 4:53 | 2022-12-20 |  |
@@ -81,6 +82,7 @@
 | [Philosophy! \- Crazy P Remix](https://open.spotify.com/track/2xpLZhgffNgDnq7ImKUSuB) | [Baio](https://open.spotify.com/artist/50lhyY7UVI9NyVHl79rVgk) | [Grooves of the World](https://open.spotify.com/album/3C1th5JnoBUj8qxVBhNo61) | 7:27 | 2022-12-20 |  |
 | [Point Of No Return](https://open.spotify.com/track/6PzfuuQ95fRU9JRFSFFq77) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Point Of No Return](https://open.spotify.com/album/6YfeosMg7VMAnS9wXiMQID) | 4:43 | 2023-03-17 |  |
 | [Praia \- Yuksek Remix](https://open.spotify.com/track/5OnXpUXJfArXpxWIskl1E1) | [Nathalie Duchene](https://open.spotify.com/artist/31QreE8xTvA8Rdq9UXCvnC), [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Praia \(Yuksek Remix\)](https://open.spotify.com/album/5HL75LL4ZgsNrsItVYYvLX) | 5:56 | 2022-12-20 |  |
+| [Premier Gaou \- Nitefreak Remix](https://open.spotify.com/track/57e5ib2PnvuiaTvaI4jGDp) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ) | [Premier Gaou \(Nitefreak Remix\)](https://open.spotify.com/album/1kfRbSlDcUF3hz3P9Zhg4c) | 3:42 | 2023-05-11 |  |
 | [Pressure](https://open.spotify.com/track/3mXnTPoiO2oluQM6ZtTYys) | [Jesse Rose](https://open.spotify.com/artist/45k3kmPVYYfmWOTZyby7cq), [Avon Stringer](https://open.spotify.com/artist/4N82cZ2qHHDQYXIM7Af8sU) | [Alright Mate](https://open.spotify.com/album/0eLePcFhmLkpmHza95TQXb) | 2:48 | 2022-12-20 |  |
 | [Revision A \- Black Coco](https://open.spotify.com/track/5sNmRWmAjtswqY3QQvS8sP) | [MAJUSCULE](https://open.spotify.com/artist/2Yj2toOduPsB4L8F2RN4dH) | [Revision A \(Black Coco\)](https://open.spotify.com/album/0y79Pfdc1UgdJR2IWILEJx) | 5:05 | 2022-12-20 |  |
 | [Shikiria \- Day Mix](https://open.spotify.com/track/5tNmUCoZuBY4z2oPxENNHJ) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Mariam Zawose](https://open.spotify.com/artist/7z9Tgvj2vNKDsV8sfGOa25) | [Shikiria](https://open.spotify.com/album/4bHQ6jMonRkCgfuVPrdQk5) | 3:59 | 2022-12-20 |  |

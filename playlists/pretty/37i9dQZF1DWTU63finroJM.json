@@ -1,12 +1,12 @@
 {
   "description": "From across the globe. New artists on the horizon. ",
-  "num_followers": 49614,
+  "num_followers": 49663,
   "original_name": "RADAR Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODlkYWZjYjYzNmZlZWM4ZWRhMmQ3YmY3M2QyMGVhNDg0YTYzZWQ3",
+  "snapshot_id": "MCwzMTUyNTg4YWUwNDI3MzMxODFiNTYzMTA4ODkwNjI5ZGQ5MjY3ODk0",
   "tracks": [
     {
       "added_at": "2023-05-04 10:15:19",
@@ -373,6 +373,26 @@
       "url": "https://open.spotify.com/track/5zIsO3PnxBHJiqrj0SXSRw"
     },
     {
+      "added_at": "2023-05-11 08:52:29",
+      "album": {
+        "name": "I Love You And Its Getting Worse",
+        "url": "https://open.spotify.com/album/4EveH7LTJ6mTkxXWK6y2Vu"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "duration_ms": 180432,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/4eLFb0Ygy59SEisCWsa85h"
+    },
+    {
       "added_at": "2023-02-17 09:49:00",
       "album": {
         "name": "Why Don't You Stay (WorldTour Ver.)",
@@ -387,22 +407,6 @@
       "duration_ms": 256336,
       "name": "Why Don't You Stay (WorldTour Ver.)",
       "url": "https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
-        "name": "Weak",
-        "url": "https://open.spotify.com/album/5iZOesuEQxTbZkvSuyAaK4"
-      },
-      "artists": [
-        {
-          "name": "Larissa Lambert",
-          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
-        }
-      ],
-      "duration_ms": 159375,
-      "name": "Weak",
-      "url": "https://open.spotify.com/track/3UnfOb5hmnf4KF7NIgAj9a"
     },
     {
       "added_at": "2023-02-17 09:49:00",

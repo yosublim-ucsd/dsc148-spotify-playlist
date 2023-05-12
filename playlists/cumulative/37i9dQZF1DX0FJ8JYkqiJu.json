@@ -1347,6 +1347,24 @@
     },
     {
       "album": {
+        "name": "Love In Stereo",
+        "url": "https://open.spotify.com/album/1wlbv5NuAfHpTQKGk7yAky"
+      },
+      "artists": [
+        {
+          "name": "Timothy and the Apocalypse",
+          "url": "https://open.spotify.com/artist/1Vn2elOesHPjL1hnX3x7Fx"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288374,
+      "name": "Love In Stereo",
+      "url": "https://open.spotify.com/track/1U9NJf9RX0D2YTqydDyaAb"
+    },
+    {
+      "album": {
         "name": "Tomorrows",
         "url": "https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV"
       },
@@ -1362,6 +1380,24 @@
       "duration_ms": 198961,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/2hJ0nwb8HPZgo1cTfoHSmH"
+    },
+    {
+      "album": {
+        "name": "love runs out",
+        "url": "https://open.spotify.com/album/0uH1Ha1MoemJHPfljLC4CX"
+      },
+      "artists": [
+        {
+          "name": "sad face.",
+          "url": "https://open.spotify.com/artist/3E9nbdWPIrVqkHoQeU003n"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170250,
+      "name": "love runs out",
+      "url": "https://open.spotify.com/track/03XZAMOIYh6wy6Y02l6tM1"
     },
     {
       "album": {
@@ -1398,7 +1434,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 271025,
       "name": "Making Time",
       "url": "https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5"
@@ -1420,7 +1456,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 245437,
       "name": "malo okoma - Radio Edit",
       "url": "https://open.spotify.com/track/7tdviypkABEstu9z7gSB27"

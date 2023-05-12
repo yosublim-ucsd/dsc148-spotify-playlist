@@ -336,7 +336,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 187600,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/7JLHaZFkxdOlq4Fzkc6pxh"
@@ -2142,6 +2142,28 @@
       "duration_ms": 211127,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/02uaLJya6U259ljPjJDvS3"
+    },
+    {
+      "album": {
+        "name": "Somebody to Love",
+        "url": "https://open.spotify.com/album/66EPs3ZWUIRSNxer3yqIyS"
+      },
+      "artists": [
+        {
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+        },
+        {
+          "name": "Maxtreme",
+          "url": "https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188076,
+      "name": "Somebody to Love",
+      "url": "https://open.spotify.com/track/14oLZpSIlMYf62kUthUTLL"
     },
     {
       "album": {

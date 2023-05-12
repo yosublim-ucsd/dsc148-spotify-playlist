@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-463 songs - 1 day 12 hr 56 min
+465 songs - 1 day 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [GLASS CHIME](https://open.spotify.com/track/1lxgQG0xeAsS1r0u9M1TcP) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [DANZINDAN\-POJIDON \(New Master Edition\)](https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX) | 3:26 | 2022-04-16 |  |
 | [Glistering](https://open.spotify.com/track/3tRDHIpV1DVg06HC3LPWRj) | [Hakobune](https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161) | [Lighthouse](https://open.spotify.com/album/2ElcwSiB2mzqR4ducfcsmy) | 4:23 | 2022-04-07 | 2022-07-12 |
 | [godorkura](https://open.spotify.com/track/4AFFfAFknO8itVzuYspbf7) | [kentaleaux nakajima](https://open.spotify.com/artist/06YnkMNkelZsBFOd85RjcR) | [TENbient 3](https://open.spotify.com/album/2F31M0fEMChoZhulEOkprk) | 6:10 | 2022-06-23 | 2022-07-28 |
-| [Going To The Sea](https://open.spotify.com/track/2e9PA5stDJoLkcLWN3KVCI) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [万引き家族「オリジナル・サウンドトラック」](https://open.spotify.com/album/5aWso14zYECQPkvEU5ENkQ) | 1:37 | 2022-04-07 |  |
+| [Going To The Sea](https://open.spotify.com/track/2e9PA5stDJoLkcLWN3KVCI) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [万引き家族「オリジナル・サウンドトラック」](https://open.spotify.com/album/5aWso14zYECQPkvEU5ENkQ) | 1:37 | 2022-04-07 | 2023-05-12 |
 | [GREEN](https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:14 | 2022-03-31 |  |
 | [Green Forest](https://open.spotify.com/track/7ESmedpTzQIkdiTx5Acb8M) | [Raura](https://open.spotify.com/artist/1ZMqKvnRUkZCSkk3dOMjyN), [RAURA EMMA SUZUKI](https://open.spotify.com/artist/1YyLGpkRSXVOhkg2FrkC4b), [ART AND MUSIC](https://open.spotify.com/artist/2rzGYD6phmeSbArsZSvzSq) | [Green Forest](https://open.spotify.com/album/0N6Hbp6NMr8rzg3PrhePRg) | 4:24 | 2022-06-07 | 2022-07-29 |
 | [Green Forest](https://open.spotify.com/track/7keZ9iOh6oLPOjUmIrRSgO) | [Raura](https://open.spotify.com/artist/1ZMqKvnRUkZCSkk3dOMjyN), [RAURA EMMA SUZUKI](https://open.spotify.com/artist/1YyLGpkRSXVOhkg2FrkC4b), [ART AND MUSIC](https://open.spotify.com/artist/2rzGYD6phmeSbArsZSvzSq) | [Green Forest](https://open.spotify.com/album/2hka3joHLRIvJOYQxdXD5O) | 4:24 | 2022-07-28 | 2022-11-18 |
@@ -259,6 +259,7 @@
 | [NINE](https://open.spotify.com/track/3TVtNYD5Q9sISzZqb0ohlX) | [Shinobu Nemoto](https://open.spotify.com/artist/6R94NSkCQlPD2rZClcxPAk) | [銀嵐 \(Silver Storm\)](https://open.spotify.com/album/3yoj55qNn59F9LBIIsEGO1) | 5:05 | 2022-03-31 | 2022-04-21 |
 | [No One Belongs Here More Than You](https://open.spotify.com/track/4ZYnDfJeme2x6lbmhU6leX) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0) | [Lunar Maria](https://open.spotify.com/album/56gwSOqLKyYRatpYAtazxs) | 4:40 | 2022-04-07 | 2022-07-08 |
 | [Nobody knows](https://open.spotify.com/track/79qXqVsJ0aaYXeZ6QoeGjx) | [Akiyoshi Yasuda](https://open.spotify.com/artist/3xQF7Pm26nA6eDFxgqKtRW) | [memento \-day3](https://open.spotify.com/album/2XG3vM8CWIpKvY9ychR9ZA) | 3:37 | 2023-01-26 | 2023-04-21 |
+| [Nocturne \- New Recording](https://open.spotify.com/track/03IzGkHbZHnQxweVx1V6q8) | [Oscilation Circuit](https://open.spotify.com/artist/3jvi65ZLtt5fPK1CqFYIW5) | [Nocturne \- New Recording](https://open.spotify.com/album/3ubWJpP2KOf2HG3zXmCJe8) | 4:55 | 2023-05-11 |  |
 | [Nostalgia](https://open.spotify.com/track/1SDCau14XiiaPB67yj9qZ9) | [Ramza](https://open.spotify.com/artist/1Trmp5nqg46a1InSpynV72) | [Whispering Jewels \- ひび割れの鼓動](https://open.spotify.com/album/7ahgNbVn0iLISPEwXU2hJO) | 8:56 | 2022-09-15 | 2022-12-24 |
 | [Nostalgia 2](https://open.spotify.com/track/2v6fUufnDYNvoevK8ILcNy) | [Saito Koji](https://open.spotify.com/artist/0S7H7SA7XfrTqy2gYj4jAS) | [Nostalgia](https://open.spotify.com/album/4c44do7drzjAIJJnOqvZmf) | 5:33 | 2022-04-07 | 2022-04-12 |
 | [Nothing01](https://open.spotify.com/track/5c073vLIWI3dRUSZeGgEkM) | [ass](https://open.spotify.com/artist/1BwcsRjCnhyM3SNZfT4jQy) | [Ymnat](https://open.spotify.com/album/1qs0A3slfbHKdNNtIptkol) | 3:28 | 2022-04-07 | 2022-04-10 |
@@ -269,7 +270,7 @@
 | [ohayashi](https://open.spotify.com/track/1LTzuEZtKewRM804YjrDg6) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Windswept Adan](https://open.spotify.com/album/1W0SccGphtGQNYqaqQ5nhA) | 3:44 | 2022-07-28 |  |
 | [Omoide](https://open.spotify.com/track/5LveNCy5ojSj09DJ8QIh3I) | [Teams](https://open.spotify.com/artist/3ksZVVBYMpLo14U1yVhkAl), [Noah](https://open.spotify.com/artist/2zJRv1ws89WKwU7Q8dwPsm), [Repeat Pattern](https://open.spotify.com/artist/6M3usM8OOsGkcoC0LovBZR) | [Kwaidan](https://open.spotify.com/album/7jZ8Dj4E2wXvdFtO4pwfQe) | 1:46 | 2022-03-30 | 2022-04-01 |
 | [One](https://open.spotify.com/track/2PlnuhLHxil9qZrkj7xz1G) | [Nobuto Suda](https://open.spotify.com/artist/3ml3FpzCetshYSyx5ghKGS) | [Transitoriness](https://open.spotify.com/album/166PUAhoTvxeEu0AbDYCYZ) | 4:48 | 2022-03-31 | 2023-03-31 |
-| [One Day](https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 1:43 | 2022-04-16 |  |
+| [One Day](https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 1:43 | 2022-04-16 | 2023-05-12 |
 | [Ongoromochi Souji](https://open.spotify.com/track/1peJy95lggmSY04Nh9LotF) | [SUGAI KEN](https://open.spotify.com/artist/5CCt4ZzfgaunV4WeOSWn2H) | [yOrUkOrU](https://open.spotify.com/album/4j0Q1bfGdSdCPUbftm18gv) | 2:59 | 2022-04-07 | 2022-04-17 |
 | [Opaque](https://open.spotify.com/track/28T3vVyYZejl6mImsSHRtK) | [濱瀬元彦](https://open.spotify.com/artist/1fHhTpHGhai17LCu0I4hGA) | [テクノドローム](https://open.spotify.com/album/08wNWKk2GS5Vg28ipiYPix) | 5:49 | 2022-03-31 | 2022-07-14 |
 | [Optimyst](https://open.spotify.com/track/1sXdGrbrhfWZ8QACYx6Lpx) | [Serph](https://open.spotify.com/artist/1N0uTSN7HQpzJYmQIvsusL) | [Psychic Music](https://open.spotify.com/album/05bDe8Ngwf8YLwu6uPmRsa) | 3:52 | 2022-04-16 | 2022-07-27 |
@@ -373,6 +374,7 @@
 | [Sweeping the leaves like a quiet wave.](https://open.spotify.com/track/1XTMUW8WQ3PdAR5c2rdoqG) | [ASUNA](https://open.spotify.com/artist/3LEHiXHn9lLao21ZKGlUJt), [Tomoyoshi Date](https://open.spotify.com/artist/4eacRnyNxlt0crHyunpgjR), [Federico Durand](https://open.spotify.com/artist/4egL1JbZdtppKXl547U1vW) | [In The Open](https://open.spotify.com/album/7oC9KGsnXo7BjrlJ1YBHIJ) | 5:00 | 2022-04-28 | 2022-05-04 |
 | [Take me to the fairyland](https://open.spotify.com/track/30tQCZoIyRRFeGmfDke7Tx) | [Rayons](https://open.spotify.com/artist/1AVhlGtQyoDC58vaUh2mKf) | [After the noise is gone](https://open.spotify.com/album/2ZUgmYcuQF8DXDTs88NK58) | 3:36 | 2022-04-28 | 2022-07-22 |
 | [talk](https://open.spotify.com/track/4mIC0dzRkVJkAByMoYQhov) | [yoshinori takezawa](https://open.spotify.com/artist/0DtSFAYXpepz39MyKktbMD) | [murmuration](https://open.spotify.com/album/5WDDqsm89PQhrYZuHUnjee) | 4:20 | 2022-03-31 | 2022-07-21 |
+| [Tear](https://open.spotify.com/track/77Jnb9dlnX1LZwIYLaDrpV) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Tear](https://open.spotify.com/album/3JEazjKg3or8cAtHi61KgS) | 4:36 | 2023-05-11 |  |
 | [TEEVEE](https://open.spotify.com/track/4j8X5lYsXlWFr6hZ9Djs3h) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 3:36 | 2022-04-07 | 2022-07-27 |
 | [That Мorning](https://open.spotify.com/track/5gKCeE1TQeudhmwKQzS0OY) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Afterimage](https://open.spotify.com/album/09JqZXxkKVOdcLkzDSui6S) | 4:53 | 2022-03-30 | 2022-04-03 |
 | [That's All](https://open.spotify.com/track/7L4Ty83tfVpK5PvZB2sF3l) | [Satoshi & Makoto](https://open.spotify.com/artist/4DoCz7g09pGItevU36MmPr) | [CZ\-5000 Sounds & Sequences](https://open.spotify.com/album/7I6mXMQcL6uyGNFVCspar2) | 3:30 | 2022-03-31 | 2022-05-03 |

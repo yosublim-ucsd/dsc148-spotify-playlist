@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u6301\u7e8c\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff0c2023\u5e74\u9999\u6e2fRADAR\u8d85\u65b0\u8072\u6b63\u5f0f\u4e0a\u5834\uff01Cover: LilthQueenB",
+  "description": "\u6301\u7e8c\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff0c2023\u5e74\u9999\u6e2fRADAR\u8d85\u65b0\u8072\u6b63\u5f0f\u4e0a\u5834\uff01Cover: Gordon Flanders",
   "name": "RADAR HK",
   "tracks": [
     {
@@ -93,6 +93,28 @@
     },
     {
       "album": {
+        "name": "1973\u7684\u907a\u8de1",
+        "url": "https://open.spotify.com/album/0n8EXWlPfdWwjC9RxGAwgy"
+      },
+      "artists": [
+        {
+          "name": "Byejack",
+          "url": "https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n"
+        },
+        {
+          "name": "Trickie Bonnie",
+          "url": "https://open.spotify.com/artist/1nfAcziGyKgEOo0pIw4pVy"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217937,
+      "name": "1973\u7684\u907a\u8de1",
+      "url": "https://open.spotify.com/track/6VmZOgnW2EorJ3qD0hvpIO"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1"
       },
@@ -158,7 +180,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 173631,
       "name": "bad weather",
       "url": "https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm"
@@ -440,6 +462,24 @@
       "duration_ms": 168300,
       "name": "GIGGLE",
       "url": "https://open.spotify.com/track/6i64lLGBXrXxkJ5y5yUiFC"
+    },
+    {
+      "album": {
+        "name": "GO UP",
+        "url": "https://open.spotify.com/album/55ShbiXKTKwGmHpb78dz5V"
+      },
+      "artists": [
+        {
+          "name": "KALAI \u5bb6\u9e97",
+          "url": "https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "GO UP",
+      "url": "https://open.spotify.com/track/1WLjBAS287dg6jaYdYjdpn"
     },
     {
       "album": {
@@ -867,6 +907,24 @@
     },
     {
       "album": {
+        "name": "NOISY",
+        "url": "https://open.spotify.com/album/6cl9qpMSPUljRaiAicAQgm"
+      },
+      "artists": [
+        {
+          "name": "CHANKA",
+          "url": "https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205302,
+      "name": "NOISY",
+      "url": "https://open.spotify.com/track/6Rt1Bc95ecZQZPdOGtY7fK"
+    },
+    {
+      "album": {
         "name": "November 12",
         "url": "https://open.spotify.com/album/18Pk2bESF2TOLTEdHaBIIb"
       },
@@ -878,7 +936,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 202153,
       "name": "November 12",
       "url": "https://open.spotify.com/track/5tiZ8wO38MV7XnEnnpylli"
@@ -1410,7 +1468,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 276933,
       "name": "\u00b7 \u00b7 \u4e00",
       "url": "https://open.spotify.com/track/5TPsJ7t6JPtEkrpF8Ywq2W"
@@ -1797,6 +1855,24 @@
     },
     {
       "album": {
+        "name": "\u5149",
+        "url": "https://open.spotify.com/album/2MtSFBXfAvd1UlO6OVVkpP"
+      },
+      "artists": [
+        {
+          "name": "Triple G ",
+          "url": "https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273000,
+      "name": "\u5c71",
+      "url": "https://open.spotify.com/track/2xzDKreyfbW10hylyz1elm"
+    },
+    {
+      "album": {
         "name": "\u5cb8",
         "url": "https://open.spotify.com/album/5Q7u6skbFXQSGgWdmJiAi7"
       },
@@ -1869,6 +1945,24 @@
     },
     {
       "album": {
+        "name": "\u6200\u4eba\u7d6e\u8a9e",
+        "url": "https://open.spotify.com/album/58yIKevLzgQoi1XBDAFCyz"
+      },
+      "artists": [
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220341,
+      "name": "\u6200\u4eba\u7d6e\u8a9e",
+      "url": "https://open.spotify.com/track/4ibMCdl61oRFsUxHYic55o"
+    },
+    {
+      "album": {
         "name": "\u6211\u554a!\u4e00\u53e5\u90fd\u807d\u5514\u660e\u767d!Freestyle",
         "url": "https://open.spotify.com/album/2ZwoicOeT63UEyBDpSMsUQ"
       },
@@ -1916,7 +2010,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 207000,
       "name": "\u6642\u9593\u8a08",
       "url": "https://open.spotify.com/track/5WB57ar8s4gFszp0tBCnn0"
@@ -1956,6 +2050,24 @@
       "duration_ms": 226702,
       "name": "\u6771\u4eac\u5922\u904a (\u6771\u4eac\u4e00\u8f49 Japanese Version)",
       "url": "https://open.spotify.com/track/5o4KlQR1SDK6A2ux7hJE33"
+    },
+    {
+      "album": {
+        "name": "\u6a4b\u6a4b",
+        "url": "https://open.spotify.com/album/4Fm76Jj5H8gq8g5BuLC7bD"
+      },
+      "artists": [
+        {
+          "name": "MC $oHo & KidNey",
+          "url": "https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "\u6a4b\u6a4b",
+      "url": "https://open.spotify.com/track/6S5GiwCiruw4YSY8S20zdZ"
     },
     {
       "album": {
@@ -2266,7 +2378,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 191926,
       "name": "\u8dcc\u5622\u5514\u597d\u6435",
       "url": "https://open.spotify.com/track/4i1RCwJXyCM8ay5sXJTK2s"

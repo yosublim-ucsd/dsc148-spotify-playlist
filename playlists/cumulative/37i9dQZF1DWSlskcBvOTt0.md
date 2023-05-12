@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-412 songs - 1 day 17 hr 42 min
+413 songs - 1 day 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Cuatro Vientos \(HUGEL Version\)](https://open.spotify.com/track/44SiXnPPTR872JUl1gdJ7x) | [Danit](https://open.spotify.com/artist/3Hue0QXHSHhpjbqWk3HmtY), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Cuatro Vientos \(HUGEL Version\)](https://open.spotify.com/album/7HngPNqj7MKGWGgJShs68v) | 3:05 | 2023-05-05 |  |
 | [Cumulonimbus Incus](https://open.spotify.com/track/2paMfzAp6rhZaAU5gjVfh6) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK) | [Silver Linings](https://open.spotify.com/album/3OFxNZom1XclhLF4cU62n8) | 6:48 | 2021-07-30 | 2022-07-29 |
 | [Cure My Desire \(feat\. Clementine Douglas\) \- Themba Remix](https://open.spotify.com/track/5vaNPQoye1DYsXj0yckiCk) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6), [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC) | [Cure My Desire \(feat\. Clementine Douglas\) \[Themba Remix\]](https://open.spotify.com/album/00QRGLQDaGgBc9ukkiSgwi) | 3:40 | 2023-01-30 |  |
+| [Cutting Ribbons \(feat\. Paul Brenning\)](https://open.spotify.com/track/72qQf918A43mrhddO8Hp9G) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Monnarsh](https://open.spotify.com/artist/2shdnmTdFi3RxMa5OGOPRj), [Paul Brenning](https://open.spotify.com/artist/4LJbPEKdCcfzE1x0GhUnL6) | [Cutting Ribbons \(feat\. Paul Brenning\)](https://open.spotify.com/album/0dyvhEKGtheznpjjPZ0Ub3) | 3:53 | 2023-05-05 |  |
 | [Dark Sun](https://open.spotify.com/track/4Rlbt7DrxqHqT2gSAOVbLe) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Momentum](https://open.spotify.com/album/0dqK6mrJ3jnp8fmN5gbbTB) | 7:10 | 2023-04-07 |  |
 | [Days Like This](https://open.spotify.com/track/51l7PA4wcyQMEJeuanHrbf) | [Fiin](https://open.spotify.com/artist/1epLtVgUJz01HSPZbdAT1X) | [Days Like This](https://open.spotify.com/album/0wO5kcElEfWFL0FMlehALZ) | 5:20 | 2021-04-21 | 2022-07-29 |
 | [Dede](https://open.spotify.com/track/7dR999H4VruQjlx7yFLR2U) | [Sinca](https://open.spotify.com/artist/5TjfRHDPGSphgwJaiGauqT) | [Dede](https://open.spotify.com/album/16KOMbLfPxLqnWmS7qCKmo) | 4:39 | 2022-09-09 | 2022-10-26 |
@@ -149,7 +150,7 @@
 | [GOOD TIMES \- Sofia Kourtesis Remix](https://open.spotify.com/track/28UChihFP3bGpMJ2oaRpzF) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [GOOD TIMES \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/6GMsMXs7FPVMWZ6QOOo6JN) | 4:29 | 2022-12-02 |  |
 | [Hannah](https://open.spotify.com/track/6ZXZmVgW4rqBMnSNa13wbv) | [Phonique](https://open.spotify.com/artist/3pVm0ttbAah6dTDher8dSz), [NILU \(DK\)](https://open.spotify.com/artist/4FulSv3ssszcswo27nljmW), [KAIMO](https://open.spotify.com/artist/0EBSAnexI7q6UbW3JnGsoG) | [Hannah](https://open.spotify.com/album/55j0n7BdIsWTNTyuS6Tkmw) | 6:52 | 2023-01-06 | 2023-02-03 |
 | [Harlem River](https://open.spotify.com/track/6fWwLxUoiAZpZtqOFwG1KL) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Harlem River / Falling](https://open.spotify.com/album/2McNZimRxQr0n7tpOVQYu7) | 4:37 | 2021-05-18 | 2022-07-29 |
-| [Harlem River](https://open.spotify.com/track/6gAM5yFXa4V54zUMR03QSp) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Under Darkening Skies](https://open.spotify.com/album/7fDsHkCbzW928mVa9irayU) | 4:37 | 2022-07-01 |  |
+| [Harlem River](https://open.spotify.com/track/6gAM5yFXa4V54zUMR03QSp) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Under Darkening Skies](https://open.spotify.com/album/7fDsHkCbzW928mVa9irayU) | 4:37 | 2022-07-01 | 2023-05-12 |
 | [Harmony \- Yuksek Remix](https://open.spotify.com/track/41xzd23xVfhaaakS8sXgoR) | [Maestro](https://open.spotify.com/artist/0mmos1mLPBw28HzvFqBBTW), [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Harmony \(Yuksek Remix\)](https://open.spotify.com/album/4zuq7xnN11skfeBMUDLvjR) | 6:11 | 2021-04-21 | 2022-04-21 |
 | [Haze \(Yamil Remix\)](https://open.spotify.com/track/77zuNmj82EubbK235evjeH) | [MNKYBSNSS](https://open.spotify.com/artist/7y93Bo1cpaMwqTCIxzVWFa), [Turbotito](https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5), [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Haze \(Yamil Remix\)](https://open.spotify.com/album/3RBmmfY2z3rIgh1igDj6at) | 4:08 | 2022-01-07 | 2022-07-29 |
 | [Hella feat\. Joy Tyson](https://open.spotify.com/track/3huk8B1aNp9txmknHOzsq2) | [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1), [Joy Tyson](https://open.spotify.com/artist/6okZ1Ydus7Xt6jlAv5d5Es) | [Hella EP](https://open.spotify.com/album/62UbFjkqOna0gmlRU1eGFT) | 5:18 | 2021-04-21 | 2022-04-23 |

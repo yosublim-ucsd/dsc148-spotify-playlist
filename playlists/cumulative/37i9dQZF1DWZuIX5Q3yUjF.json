@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Kaze",
+  "description": "Il meglio dell'R&B italiano. Cover: HERMES",
   "name": "anima R&B",
   "tracks": [
     {
@@ -270,6 +270,24 @@
       "duration_ms": 171785,
       "name": "ascensore",
       "url": "https://open.spotify.com/track/1PHNQ4SfHZKi7pqokee82n"
+    },
+    {
+      "album": {
+        "name": "ASTRI",
+        "url": "https://open.spotify.com/album/48YXu3TSa7dFY6Bnw0qqr9"
+      },
+      "artists": [
+        {
+          "name": "HERMES",
+          "url": "https://open.spotify.com/artist/7w59Z3nldYeBSD1E2eJRWm"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206500,
+      "name": "ASTRI",
+      "url": "https://open.spotify.com/track/2mMOheK07cYOUraIRTz4g9"
     },
     {
       "album": {
@@ -1128,6 +1146,24 @@
       "duration_ms": 179240,
       "name": "confessioni",
       "url": "https://open.spotify.com/track/6DDjZYfWPO9f9wd5B8F9RO"
+    },
+    {
+      "album": {
+        "name": "Controluce",
+        "url": "https://open.spotify.com/album/1y0VgfXO9Vm2QvLiGF5nhH"
+      },
+      "artists": [
+        {
+          "name": "Saverio",
+          "url": "https://open.spotify.com/artist/3sKTiGsHUoiPrs7C5wgeKy"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157419,
+      "name": "Controluce",
+      "url": "https://open.spotify.com/track/3LgsuR7oz5XjwnmEXWfJg2"
     },
     {
       "album": {
@@ -2555,6 +2591,24 @@
     },
     {
       "album": {
+        "name": "Janara",
+        "url": "https://open.spotify.com/album/0swEfPxCi3RN3unHRXUMJf"
+      },
+      "artists": [
+        {
+          "name": "M\u00a5RA",
+          "url": "https://open.spotify.com/artist/3bSIOqKFJHDEVnuBSuOwWa"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175667,
+      "name": "Janara",
+      "url": "https://open.spotify.com/track/6c2To2ELFZ6MEPQCPHZLiq"
+    },
+    {
+      "album": {
         "name": "Jeans Appeal",
         "url": "https://open.spotify.com/album/78dWDklJ4ITsnQ14SIEojh"
       },
@@ -3556,6 +3610,28 @@
       "duration_ms": 187624,
       "name": "Nessuno",
       "url": "https://open.spotify.com/track/7EV3ONJpL7lmlQb75rlP2D"
+    },
+    {
+      "album": {
+        "name": "Neutral",
+        "url": "https://open.spotify.com/album/0ttuVceBAwebMuKCaDwyCQ"
+      },
+      "artists": [
+        {
+          "name": "SAMI",
+          "url": "https://open.spotify.com/artist/6wVT2CEFalop28vEC7y726"
+        },
+        {
+          "name": "Ge Oh",
+          "url": "https://open.spotify.com/artist/4RMheNWdrJTHkaqubkTw3Q"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168791,
+      "name": "Neutral",
+      "url": "https://open.spotify.com/track/690oGzYVBsc4Wb28GuhWB9"
     },
     {
       "album": {
@@ -4622,7 +4698,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 223375,
       "name": "Resta qui (feat. Ensi)",
       "url": "https://open.spotify.com/track/10GPCVnfVihPpp8uOm1o49"
@@ -4984,7 +5060,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 171600,
       "name": "Senza Te",
       "url": "https://open.spotify.com/track/1WBOwvRPgq6UqPTvXBHF4i"
@@ -5320,7 +5396,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 162554,
       "name": "Stati di Incoscienza",
       "url": "https://open.spotify.com/track/0fXnJ4KKHB8myzPl5NNrZU"
@@ -5876,7 +5952,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 170571,
       "name": "Tutto da rifare",
       "url": "https://open.spotify.com/track/2ESOFOksMJ58Pn1K9iVCe8"

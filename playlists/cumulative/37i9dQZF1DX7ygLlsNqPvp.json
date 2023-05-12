@@ -205,6 +205,24 @@
     },
     {
       "album": {
+        "name": "Akohwie",
+        "url": "https://open.spotify.com/album/5YHo8SQnebWXMA43Qoos51"
+      },
+      "artists": [
+        {
+          "name": "Ypee",
+          "url": "https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174400,
+      "name": "Akohwie",
+      "url": "https://open.spotify.com/track/1d51OuwXfGfc6PwWezrwTS"
+    },
+    {
+      "album": {
         "name": "Always (feat. Black Sherif)",
         "url": "https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH"
       },
@@ -462,6 +480,32 @@
       "duration_ms": 178599,
       "name": "Blessed Sinner",
       "url": "https://open.spotify.com/track/66fLV81N2fPV5XSaZn459U"
+    },
+    {
+      "album": {
+        "name": "STILL FIGURING LIFE",
+        "url": "https://open.spotify.com/album/3lnimhNmAuy3FzBkCiVfT9"
+      },
+      "artists": [
+        {
+          "name": "Kayode",
+          "url": "https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr"
+        },
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161118,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/6brVEF4Ru3xosD8F6zYJXY"
     },
     {
       "album": {
@@ -740,6 +784,32 @@
       "duration_ms": 180625,
       "name": "Condemn (feat. City Boy, O'Kenneth, reggie & Kwaku DMC)",
       "url": "https://open.spotify.com/track/5aFLIpPbYSIQWCxyDvBjqP"
+    },
+    {
+      "album": {
+        "name": "Devil Agent (2 Fighting)",
+        "url": "https://open.spotify.com/album/5bYg6iGA8bULUtNUlovZUK"
+      },
+      "artists": [
+        {
+          "name": "MAXINO",
+          "url": "https://open.spotify.com/artist/6LTAaKONuHKKWR8ljjIbCA"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Erigga",
+          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192731,
+      "name": "Devil Agent (2 Fighting)",
+      "url": "https://open.spotify.com/track/6nFL2WU0fb8VEu9NVfGtw6"
     },
     {
       "album": {
@@ -1907,6 +1977,28 @@
     },
     {
       "album": {
+        "name": "Senza Me",
+        "url": "https://open.spotify.com/album/5Jxn6Z0ozDQjR0mZGIuJnd"
+      },
+      "artists": [
+        {
+          "name": "$illy Gusti",
+          "url": "https://open.spotify.com/artist/1VxRFWSTfv8K7fb7G52LrU"
+        },
+        {
+          "name": "Young Ben",
+          "url": "https://open.spotify.com/artist/15mEoa1GpNMwYCLFZT3hKo"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Senza Me",
+      "url": "https://open.spotify.com/track/3okTuqX0Kly3X0JUPXh3gb"
+    },
+    {
+      "album": {
         "name": "YPSZN3",
         "url": "https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp"
       },
@@ -2188,6 +2280,40 @@
       "duration_ms": 180950,
       "name": "Vigilante Bop",
       "url": "https://open.spotify.com/track/4ZY2w3IQ4dMwXDg0C0SdlB"
+    },
+    {
+      "album": {
+        "name": "We Outside",
+        "url": "https://open.spotify.com/album/0bUBa3JTaOIJvjBWLbrzCT"
+      },
+      "artists": [
+        {
+          "name": "Thywill",
+          "url": "https://open.spotify.com/artist/3HlsFrguj4THOUWbqGLbnV"
+        },
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        },
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
+        },
+        {
+          "name": "Braabenk",
+          "url": "https://open.spotify.com/artist/0TUUFSxsiNUDliSybMOI7I"
+        },
+        {
+          "name": "Cityboy",
+          "url": "https://open.spotify.com/artist/7nvcEfeWUdqDgE0SDvaULw"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225042,
+      "name": "We Outside",
+      "url": "https://open.spotify.com/track/2dpRceExYaJlY1kiWJazgm"
     },
     {
       "album": {

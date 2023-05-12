@@ -4,7 +4,7 @@
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-241 songs - 1 day 1 hr 51 min
+242 songs - 1 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Pump Up The Volume \- UK 12" Remix](https://open.spotify.com/track/6LERtd1yiclxFH8MHAqr0Q) | [M/A/R/R/S](https://open.spotify.com/artist/13jRo2FyagCX9wrKIpOt46) | [Pump Up The Volume](https://open.spotify.com/album/278KsI74WEu4vrwXdjPSyc) | 6:29 | 2022-06-10 |  |
 | [Raspberry Beret \- Extended 12" Version](https://open.spotify.com/track/1O3xlreuUsPlSJXUYZzTjs) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Raspberry Beret](https://open.spotify.com/album/2aJPa9emKOSIGUJpxgjNnx) | 6:40 | 2020-08-07 | 2022-07-29 |
 | [Red Red Wine](https://open.spotify.com/track/1tOE1dIyIjsfLJWiQ4ZRJW) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [Labour Of Love](https://open.spotify.com/album/5kxx0oDspXVyGCOjdDjSFi) | 5:20 | 2021-12-22 |  |
+| [Relax \- New York Mix](https://open.spotify.com/track/4UIUegq1Mp3XFXW0M9b4im) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [Bang! \(Here Comes A Supernova\)](https://open.spotify.com/album/5LpKLoUmnnE3TVzoEjdrmm) | 7:23 | 2022-12-23 |  |
 | [Relax \- New York Mix](https://open.spotify.com/track/2e0kuhNcdSrwsaQc2lZ8eO) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [12" 80s Classics](https://open.spotify.com/album/77zu6NfDouq2TomJaVadKb) | 7:24 | 2020-08-07 | 2022-07-29 |
 | [Relax \- New York Mix](https://open.spotify.com/track/008gS3ob2GZv3e9fkWQ1k7) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [Reload! Frankie: The Whole 12 Inches](https://open.spotify.com/album/0YIzOsXGWV9ywnRlZSqORh) | 7:24 | 2022-06-10 | 2023-04-25 |
 | [Respectable \- Extended Version](https://open.spotify.com/track/3g4mZDkUB78TqEjPbOzChm) | [Mel & Kim](https://open.spotify.com/artist/4k7b3DWqBnYpobDWbNWLdM) | [F.L.M](https://open.spotify.com/album/7LJrRw1ySWtYJoOaw6AP2s) | 6:14 | 2022-06-10 | 2022-07-28 |
@@ -235,7 +236,7 @@
 | [What Is Love? \- Extended Mix](https://open.spotify.com/track/37Q1Ql8jgueqnmN0D4sFEb) | [Howard Jones](https://open.spotify.com/artist/6loBF9iQdE11WSX29fNKqY) | [The 12" Album](https://open.spotify.com/album/4Pmb0lbx2GAo6LDl9iyaYI) | 6:36 | 2022-06-10 |  |
 | [What Is Love? \[Extended Mix\]](https://open.spotify.com/track/76ubLHclAKDHQUwcuQRrkj) | [Howard Jones](https://open.spotify.com/artist/6loBF9iQdE11WSX29fNKqY) | [The 12" Album](https://open.spotify.com/album/4Ix2UjgjjXwOWnBFopkKkb) | 6:36 | 2020-08-07 | 2022-07-28 |
 | [When the Going Gets Tough \- Extended Version](https://open.spotify.com/track/3tT3CqBYG3peXXZx7xZUx9) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Love Zone \(Expanded Edition\)](https://open.spotify.com/album/7oUQQI3USlnBTUeN6KXXoo) | 7:32 | 2021-12-22 | 2022-04-28 |
-| [White Lines \(Long Version\) \[Re\-Recorded\]](https://open.spotify.com/track/0Dj3iMM3fvHMOqWsqS64Fu) | [Grandmaster Flash & The Furious Five](https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop) | [Hip Hop Soundtrack To The Concrete Jungle \(Re\-Recorded\)](https://open.spotify.com/album/5bl0ggdoV1nNEGuVkUG9c3) | 7:45 | 2022-06-10 |  |
+| [White Lines \(Long Version\) \[Re\-Recorded\]](https://open.spotify.com/track/0Dj3iMM3fvHMOqWsqS64Fu) | [Grandmaster Flash & The Furious Five](https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop) | [Hip Hop Soundtrack To The Concrete Jungle \(Re\-Recorded\)](https://open.spotify.com/album/5bl0ggdoV1nNEGuVkUG9c3) | 7:45 | 2022-06-10 | 2023-05-12 |
 | [Why ? \- 12'' Version; 2008 Remastered Version](https://open.spotify.com/track/47BEhf9uxs5s4TB58CBx2c) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [Hundreds and Thousands](https://open.spotify.com/album/5HFgAlSpTgGprj1sJUZOiP) | 6:18 | 2021-12-22 | 2022-07-19 |
 | [Word Up](https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Word Up](https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA) | 4:20 | 2022-06-10 |  |
 | [Word Up! \- Extended Version](https://open.spotify.com/track/5F7UEYzWQ1vO5io3nRGEIQ) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [80's](https://open.spotify.com/album/36MWEr7SBcQQrSHVDgpSN2) | 4:13 | 2021-12-22 | 2022-07-19 |

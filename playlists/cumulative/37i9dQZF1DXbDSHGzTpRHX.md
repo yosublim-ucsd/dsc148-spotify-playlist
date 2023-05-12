@@ -4,7 +4,7 @@
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-179 songs - 9 hr 10 min
+180 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Bubba](https://open.spotify.com/track/5PnsHlUD6PKlZaschoV7tE) | [Jack Larsen](https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o) | [Mildew](https://open.spotify.com/album/0Rl2oukHRhIEK48o5ZbJNu) | 5:00 | 2019-12-10 |  |
 | [Bummer Summerrr](https://open.spotify.com/track/5d1nXqp2jtg70hT6JYxIYI) | [Talkie](https://open.spotify.com/artist/0Y6irzUei35Nn9Kj8qqiQn) | [Everything Matters](https://open.spotify.com/album/0JlHoU7t4nfpzHnzd8stUo) | 3:59 | 2019-12-10 |  |
 | [Buttons](https://open.spotify.com/track/1TBpRrzF1dhn99zX2pXYXn) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1) | [Buttons](https://open.spotify.com/album/4Vxnl8R9moFhMp2GHDb65a) | 3:36 | 2019-12-10 | 2022-07-29 |
-| [Buttons](https://open.spotify.com/track/1pZ9xYDzyq9KHTVrqBUEsn) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1) | [So Long, Kid](https://open.spotify.com/album/6szHJ15dr9M4oJfOW8XAbH) | 3:36 | 2019-12-10 |  |
+| [Buttons](https://open.spotify.com/track/1pZ9xYDzyq9KHTVrqBUEsn) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1) | [So Long, Kid](https://open.spotify.com/album/6szHJ15dr9M4oJfOW8XAbH) | 3:36 | 2019-12-10 | 2023-05-12 |
+| [Buttons](https://open.spotify.com/track/76ARcI2WtTwLKC3zz9Duug) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1) | [So Long, Kid](https://open.spotify.com/album/1tdlHv6L6EvEV3ZbLeZMlL) | 3:36 | 2019-12-10 |  |
 | [Click](https://open.spotify.com/track/2c72Qa7HHbMN4gaaUY3JKd) | [Badgirl$](https://open.spotify.com/artist/1tVVNIotf3Fc4iylC56Wae) | [Click](https://open.spotify.com/album/6WPjp5c8bSNs5OeYMlrVgU) | 3:33 | 2019-12-10 |  |
 | [CLOUD](https://open.spotify.com/track/7yeWt7sq2oRlEZWv880u9E) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [Tradition](https://open.spotify.com/album/4zETbpGKT1FHsEZq3QFQUR) | 3:00 | 2019-12-10 |  |
 | [Comb My Hair](https://open.spotify.com/track/6bAjvvI6Oo1MARyB2zDHPo) | [Pretty Boy Aaron](https://open.spotify.com/artist/6TIiGARk7Eo8igAnbM2eeR), [Bruhnice](https://open.spotify.com/artist/2QW8NaVjm8HVF86S2rMrXL), [Tesia](https://open.spotify.com/artist/5X1yJG15xC3PkAid9lt1sP) | [Comb My Hair](https://open.spotify.com/album/3ErfwLMu1oq718Jn1us5TQ) | 3:35 | 2019-12-10 |  |

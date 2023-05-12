@@ -2,9 +2,9 @@
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> It's not a genre, it's a culture\. Cover: <a href="https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=Xev0VvjtSSSReVp7wvUkPw">Nomfundo Moh</a>.
+> It's not a genre, it's a culture\. Cover: <a href="https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k?si=ODq8Di0EQwatcqc3k\_xtJQ">Inkabi Zezwe</a>.
 
-146 songs - 11 hr 41 min
+147 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Imikhuba](https://open.spotify.com/track/4SlVGHwa8dQDr8hAa8ZiDf) | [Phuzekhemisi](https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP) | [The Ultimate Collection: Phuzekhemisi](https://open.spotify.com/album/4abzxM3Cy35Dg5Mmjwg8ud) | 4:11 | 2018-09-25 | 2022-11-13 |
 | [Imikhuba](https://open.spotify.com/track/5DWe8RsOB3zQ8nGT870FwD) | [Phuzekhemisi](https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP) | [Bayede Zulu](https://open.spotify.com/album/1CYUKc8tPKmyRAVxOMLbWd) | 4:11 | 2018-09-25 | 2022-07-29 |
 | [Imikhuba](https://open.spotify.com/track/5z4GRjPgqAm9ZtPjcaqZPi) | [Phuzekhemisi](https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP) | [Bayede Zulu](https://open.spotify.com/album/4uFTqak3z6hgboKo0aNwcr) | 4:11 | 2018-09-25 | 2023-02-01 |
-| [Impi Yomndeni](https://open.spotify.com/track/7ag6ASRzcuWXamzvNEXQzL) | [Bobo Mfana Wepiki](https://open.spotify.com/artist/6kcl74RDRgeHTx1Dj07NQt) | [Angiseyona Itype Yakho](https://open.spotify.com/album/4N6uYvCf4TgK5kAopt1RqQ) | 6:03 | 2018-09-25 |  |
+| [Impi Yomndeni](https://open.spotify.com/track/7ag6ASRzcuWXamzvNEXQzL) | [Bobo Mfana Wepiki](https://open.spotify.com/artist/6kcl74RDRgeHTx1Dj07NQt) | [Angiseyona Itype Yakho](https://open.spotify.com/album/4N6uYvCf4TgK5kAopt1RqQ) | 6:03 | 2018-09-25 | 2023-05-12 |
 | [Ingezo Emahostela \(feat\. Sgwebo Sentambo\)](https://open.spotify.com/track/05kQlUT2mMwkvjRX8bkzba) | [Bobo Mfana Wepiki](https://open.spotify.com/artist/6kcl74RDRgeHTx1Dj07NQt), [Sgwebo Sentambo](https://open.spotify.com/artist/5p55hGi2rq290OvBwMpLps) | [Angiseyona Itype Yakho](https://open.spotify.com/album/4N6uYvCf4TgK5kAopt1RqQ) | 4:55 | 2018-09-25 | 2023-02-01 |
 | [Inhlinini Yoxolo](https://open.spotify.com/track/3ZhOsB846LguxIkDASb6Rb) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs) | [Inhlinini Yoxolo \(Pt\. 2\)](https://open.spotify.com/album/25HvxLDw1saTfEoFQ6Rfxj) | 9:00 | 2019-01-06 | 2023-03-25 |
 | [Inhliziyo Yami](https://open.spotify.com/track/3AMnrGFsUlrcY8ig6ASidM) | [Abafana Baka Mahawukela](https://open.spotify.com/artist/6WiOCqFw2OVO8d9SfMUeYp) | [Ungubani Wena](https://open.spotify.com/album/2srpkMeXj6atimRUTmMdv5) | 4:08 | 2019-05-02 | 2022-09-26 |
@@ -84,6 +84,7 @@
 | [Izulu](https://open.spotify.com/track/6IYiXBVJ6JieWediZllERf) | [Imithente](https://open.spotify.com/artist/3JqfmUV2PM8u6ifw2TWPJ9) | [Asekhon' Amalahle ?](https://open.spotify.com/album/53EGXcdCuhcYhODGXq2h2a) | 4:23 | 2018-09-25 | 2023-03-25 |
 | [Izulu](https://open.spotify.com/track/7ihRvjcQNXy3ikf1sKPw6L) | [Imithente](https://open.spotify.com/artist/3JqfmUV2PM8u6ifw2TWPJ9) | [Asekhon' Amalahle ?](https://open.spotify.com/album/5YyLWDAd4MCgKmoBjBKOwc) | 4:23 | 2018-09-25 | 2022-07-29 |
 | [Kawungondli](https://open.spotify.com/track/2s3bK3DPCb84Rl1Rfp01TH) | [Ithwasa Lekhansela](https://open.spotify.com/artist/6NBgad7h0rc4Q75Ek8nt89), [Indoni](https://open.spotify.com/artist/4WQsq6xk7Wu2WqM7aqpdTI) | [Zehla](https://open.spotify.com/album/05jPZZIhjOGQOJduelCSPV) | 4:30 | 2023-01-30 |  |
+| [Khaya Lami](https://open.spotify.com/track/0KG5PG0nz6MmKLbDWtmpdk) | [Inkabi Zezwe](https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Ukhamba](https://open.spotify.com/album/4VshKshG4GNIVueV0qoeiP) | 4:15 | 2023-05-11 |  |
 | [Khula Tshitshi Lami](https://open.spotify.com/track/5JIJunDi0sABz8zd44u4WE) | [Mfaz' Omnyama](https://open.spotify.com/artist/0JQAeDYaigl5nor0kUP44X) | [Khula Tshitshi Lami](https://open.spotify.com/album/24m3tRRNgElXYhvJLakyxu) | 4:21 | 2018-09-25 | 2023-04-09 |
 | [Khula Tshitshi Lami](https://open.spotify.com/track/6cjPxUtWSBg3zVcexVitOl) | [Mfaz' Omnyama](https://open.spotify.com/artist/0JQAeDYaigl5nor0kUP44X) | [Khula Tshitshi Lami](https://open.spotify.com/album/6hydOJZPfWGO6qTu6Ba4Pe) | 4:21 | 2018-09-25 | 2022-07-29 |
 | [Khula Tshitshi Lami](https://open.spotify.com/track/7agl8aVojrFx0QofzcLoka) | [Mfaz' Omnyama](https://open.spotify.com/artist/0JQAeDYaigl5nor0kUP44X) | [Khula Tshitshi Lami](https://open.spotify.com/album/4k5aaUkinE32mprMwvlcUA) | 4:21 | 2018-09-25 | 2022-09-26 |

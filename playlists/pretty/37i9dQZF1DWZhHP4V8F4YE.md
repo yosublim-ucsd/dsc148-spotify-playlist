@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > Viral hits in Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,727 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,777 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 49 | [Soup](https://open.spotify.com/track/7IGbYD6yGR6AA8Ba6EYfVi) | [Jaivah](https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Chino Kidd](https://open.spotify.com/artist/2EuodBUTVs5DBUkauhlsnm), [Scotyy London](https://open.spotify.com/artist/0HJGdpdpOvQK09vn4TeWke), [KS Hub](https://open.spotify.com/artist/6CQ9PKLtS4BEf8UkqD8MbP) | [Soup](https://open.spotify.com/album/6KSvP1aJrBWfuPNJU12OJ0) | 3:59 |
 | 50 | [Party No Dey Stop](https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Party No Dey Stop](https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq) | 2:48 |
 
-Snapshot ID: `MCxiOTlmODllYTY3NDg1Yjg3ZWZhYTI0ZDY1ZWI3ZDhkYmJhYTZhZTQ1`
+Snapshot ID: `MCxlMTc1ZWRiMzM2MDMyNmQ2NGZhMjgyNzNhNjRkYmM4OTIzMmEwYzRi`

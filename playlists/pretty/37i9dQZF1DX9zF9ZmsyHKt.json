@@ -1,12 +1,12 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 322313,
+  "num_followers": 322405,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzFlNjhkM2QwZDRiNGIwODI2Mjc3YmExODI3ZDEzZjFiZTkzYWQx",
+  "snapshot_id": "MCw3Y2E5NTU5MDM2ODZhNWFmMGFiNTUzMDY3MTA1MzExZjAxNGU2OGM2",
   "tracks": [
     {
       "added_at": "2022-10-07 03:01:33",
@@ -87,6 +87,26 @@
       "duration_ms": 218040,
       "name": "A noite",
       "url": "https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Rita Lee",
+        "url": "https://open.spotify.com/album/1WN3eZOVfULIjZfxdsfoMO"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        },
+        {
+          "name": "Roberto De Carvalho",
+          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
+        }
+      ],
+      "duration_ms": 295106,
+      "name": "Mania De Voc\u00ea",
+      "url": "https://open.spotify.com/track/6owwZC8gUvrBuygvOHaYXb"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -219,26 +239,6 @@
       "duration_ms": 211080,
       "name": "Dona Cila",
       "url": "https://open.spotify.com/track/4eGOBCZyjEQ6WckqOVz0ES"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Rita Lee",
-        "url": "https://open.spotify.com/album/1WN3eZOVfULIjZfxdsfoMO"
-      },
-      "artists": [
-        {
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
-        },
-        {
-          "name": "Roberto De Carvalho",
-          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
-        }
-      ],
-      "duration_ms": 295106,
-      "name": "Mania De Voc\u00ea",
-      "url": "https://open.spotify.com/track/6owwZC8gUvrBuygvOHaYXb"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Te Fa\u00e7o um Cafun\u00e9",
-        "url": "https://open.spotify.com/album/1k35AKHHe1G9pnmIRsAJf0"
-      },
-      "artists": [
-        {
-          "name": "Mariana Aydar",
-          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
-        }
-      ],
-      "duration_ms": 227604,
-      "name": "Te Fa\u00e7o um Cafun\u00e9",
-      "url": "https://open.spotify.com/track/2PxakiZUhHmFdp5G3sBiXD"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Mariana Nolasco",
         "url": "https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr"
       },
@@ -631,18 +615,18 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Beijinho no Ombro",
-        "url": "https://open.spotify.com/album/0ofNAjXeTd2H2co7rKhKTE"
+        "name": "Te Fa\u00e7o um Cafun\u00e9",
+        "url": "https://open.spotify.com/album/1k35AKHHe1G9pnmIRsAJf0"
       },
       "artists": [
         {
-          "name": "Valesca Popozuda",
-          "url": "https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu"
+          "name": "Mariana Aydar",
+          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
         }
       ],
-      "duration_ms": 164615,
-      "name": "Beijinho no Ombro",
-      "url": "https://open.spotify.com/track/4k3HBeh98WWN2ybGHC0WQI"
+      "duration_ms": 227604,
+      "name": "Te Fa\u00e7o um Cafun\u00e9",
+      "url": "https://open.spotify.com/track/2PxakiZUhHmFdp5G3sBiXD"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -659,6 +643,22 @@
       "duration_ms": 226243,
       "name": "X",
       "url": "https://open.spotify.com/track/0yxu73Lfmnu96II1VxvpfQ"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Beijinho no Ombro",
+        "url": "https://open.spotify.com/album/0ofNAjXeTd2H2co7rKhKTE"
+      },
+      "artists": [
+        {
+          "name": "Valesca Popozuda",
+          "url": "https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu"
+        }
+      ],
+      "duration_ms": 164615,
+      "name": "Beijinho no Ombro",
+      "url": "https://open.spotify.com/track/4k3HBeh98WWN2ybGHC0WQI"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Asa Morena",
-        "url": "https://open.spotify.com/album/0jP4j74A5rX2B9Ump7jH4e"
-      },
-      "artists": [
-        {
-          "name": "Zizi Possi",
-          "url": "https://open.spotify.com/artist/65yVjvbkC6m9DzQFihrSvL"
-        }
-      ],
-      "duration_ms": 244960,
-      "name": "Asa Morena",
-      "url": "https://open.spotify.com/track/7K5rZnp7C07SVotXqMaKFp"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Elis Por Ela",
         "url": "https://open.spotify.com/album/4VEVVGC2MYMrK63drpR2hE"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 270000,
       "name": "Poesia Ac\u00fastica Ep. Acabou",
       "url": "https://open.spotify.com/track/0oHUP66PMEiy7itEGM0EpY"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Asa Morena",
+        "url": "https://open.spotify.com/album/0jP4j74A5rX2B9Ump7jH4e"
+      },
+      "artists": [
+        {
+          "name": "Zizi Possi",
+          "url": "https://open.spotify.com/artist/65yVjvbkC6m9DzQFihrSvL"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "Asa Morena",
+      "url": "https://open.spotify.com/track/7K5rZnp7C07SVotXqMaKFp"
     },
     {
       "added_at": "2022-10-07 03:01:33",

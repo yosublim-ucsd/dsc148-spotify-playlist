@@ -1,12 +1,12 @@
 {
   "description": "Dedicated to all the programmers out there.",
-  "num_followers": 339995,
+  "num_followers": 340185,
   "original_name": "Coding Mode  ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzAyZDhjMWEyMmZkYmY5ZTM0OGU4MjBhZjVhOGNmYjEzNGQ4YWM3",
+  "snapshot_id": "MCxiOTY5YzdkNjJlMjYxMjBiMTdkNzQ3Njg0NDk5ZmEzMTk4NTY4ZjZj",
   "tracks": [
     {
       "added_at": "2023-05-09 07:05:38",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-05-09 07:05:38",
       "album": {
-        "name": "North Pole",
-        "url": "https://open.spotify.com/album/2tCFpKgvx1HO064rFnKSDo"
-      },
-      "artists": [
-        {
-          "name": "WYS",
-          "url": "https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/1uiU2DsVH9AIGo1JUl9tMg"
-    },
-    {
-      "added_at": "2023-05-09 07:05:38",
-      "album": {
         "name": "crestline",
         "url": "https://open.spotify.com/album/0uQHf0jM3WV0yLSoS9x2tj"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 171087,
       "name": "both sides of the coin",
       "url": "https://open.spotify.com/track/1chT7Yo3zSvjFPRQ20fWFH"
+    },
+    {
+      "added_at": "2023-05-09 07:05:38",
+      "album": {
+        "name": "North Pole",
+        "url": "https://open.spotify.com/album/2tCFpKgvx1HO064rFnKSDo"
+      },
+      "artists": [
+        {
+          "name": "WYS",
+          "url": "https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/1uiU2DsVH9AIGo1JUl9tMg"
     },
     {
       "added_at": "2023-05-09 07:05:38",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-05-09 07:05:38",
       "album": {
-        "name": "Chillhop Essentials Spring 2019",
-        "url": "https://open.spotify.com/album/1vV4Hl5uDdMtKdKChSkjLG"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Fish",
-          "url": "https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "i wish it would never stop snowing",
-      "url": "https://open.spotify.com/track/0jDYc3XRkTaEi5zycl5E1G"
-    },
-    {
-      "added_at": "2023-05-09 07:05:38",
-      "album": {
         "name": "Waiting for the Sunrise",
         "url": "https://open.spotify.com/album/4tE7BUhKkN8i5Bp4FQGGtB"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 174654,
       "name": "Waiting for the Sunrise",
       "url": "https://open.spotify.com/track/7wH5Ck2MRPWwwunLeMjg9f"
+    },
+    {
+      "added_at": "2023-05-09 07:05:38",
+      "album": {
+        "name": "Chillhop Essentials Spring 2019",
+        "url": "https://open.spotify.com/album/1vV4Hl5uDdMtKdKChSkjLG"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Fish",
+          "url": "https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "i wish it would never stop snowing",
+      "url": "https://open.spotify.com/track/0jDYc3XRkTaEi5zycl5E1G"
     },
     {
       "added_at": "2023-05-09 07:05:38",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-05-09 07:05:38",
       "album": {
-        "name": "Symmetry Systems",
-        "url": "https://open.spotify.com/album/14T0dIBbXsZtDnaVO2JbEj"
-      },
-      "artists": [
-        {
-          "name": "36",
-          "url": "https://open.spotify.com/artist/1lcSbVHDXu6h6H6vIRDBhT"
-        }
-      ],
-      "duration_ms": 202427,
-      "name": "Symmetry Systems (Emerald)",
-      "url": "https://open.spotify.com/track/1vW8krAHupYxF1xRCfQnkD"
-    },
-    {
-      "added_at": "2023-05-09 07:05:38",
-      "album": {
         "name": "By the Deep Sea",
         "url": "https://open.spotify.com/album/364G2DGbhBt4xwR5KCZC82"
       },
@@ -1183,22 +1167,18 @@
     {
       "added_at": "2023-05-09 07:05:38",
       "album": {
-        "name": "Anjunadeep 11",
-        "url": "https://open.spotify.com/album/2uHQPZyOyrGjqaNR1V9FQE"
+        "name": "Symmetry Systems",
+        "url": "https://open.spotify.com/album/14T0dIBbXsZtDnaVO2JbEj"
       },
       "artists": [
         {
-          "name": "Hosini",
-          "url": "https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF"
-        },
-        {
-          "name": "Jones Meadow",
-          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
+          "name": "36",
+          "url": "https://open.spotify.com/artist/1lcSbVHDXu6h6H6vIRDBhT"
         }
       ],
-      "duration_ms": 194000,
-      "name": "8 Hours, Still No Rain - Mixed",
-      "url": "https://open.spotify.com/track/0PHMK9TRJasKOWELsdcyRC"
+      "duration_ms": 202427,
+      "name": "Symmetry Systems (Emerald)",
+      "url": "https://open.spotify.com/track/1vW8krAHupYxF1xRCfQnkD"
     },
     {
       "added_at": "2023-05-09 07:05:38",
@@ -1235,6 +1215,26 @@
     {
       "added_at": "2023-05-09 07:05:38",
       "album": {
+        "name": "Anjunadeep 11",
+        "url": "https://open.spotify.com/album/2uHQPZyOyrGjqaNR1V9FQE"
+      },
+      "artists": [
+        {
+          "name": "Hosini",
+          "url": "https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF"
+        },
+        {
+          "name": "Jones Meadow",
+          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "8 Hours, Still No Rain - Mixed",
+      "url": "https://open.spotify.com/track/0PHMK9TRJasKOWELsdcyRC"
+    },
+    {
+      "added_at": "2023-05-09 07:05:38",
+      "album": {
         "name": "Pillars",
         "url": "https://open.spotify.com/album/5aSe7EH7yhtFGvyQPsVcgF"
       },
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-05-09 07:05:38",
       "album": {
-        "name": "Blur",
-        "url": "https://open.spotify.com/album/74AP9PqF7MTlqiRy9oXiPd"
-      },
-      "artists": [
-        {
-          "name": "SamuW",
-          "url": "https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio"
-        }
-      ],
-      "duration_ms": 116000,
-      "name": "Blur",
-      "url": "https://open.spotify.com/track/7eHDn7TyswvJIfxWGtIYKk"
-    },
-    {
-      "added_at": "2023-05-09 07:05:38",
-      "album": {
         "name": "Pentagram",
         "url": "https://open.spotify.com/album/339J9hyRpfNw5RAhmdcauO"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 172500,
       "name": "Scene 2",
       "url": "https://open.spotify.com/track/0MrHjYitcj2AM851dimyn3"
+    },
+    {
+      "added_at": "2023-05-09 07:05:38",
+      "album": {
+        "name": "Blur",
+        "url": "https://open.spotify.com/album/74AP9PqF7MTlqiRy9oXiPd"
+      },
+      "artists": [
+        {
+          "name": "SamuW",
+          "url": "https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio"
+        }
+      ],
+      "duration_ms": 116000,
+      "name": "Blur",
+      "url": "https://open.spotify.com/track/7eHDn7TyswvJIfxWGtIYKk"
     },
     {
       "added_at": "2023-05-09 07:05:38",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-05-09 07:05:38",
       "album": {
-        "name": "Finding Hope",
-        "url": "https://open.spotify.com/album/25X6lJ7r1b4jQ3S5o8RtJs"
-      },
-      "artists": [
-        {
-          "name": "Haakon Stange",
-          "url": "https://open.spotify.com/artist/0W5e9m7EXTbYg8XZSrQIfx"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Finding Hope",
-      "url": "https://open.spotify.com/track/1ZxqvIpfcqYDcV4nP6jxms"
-    },
-    {
-      "added_at": "2023-05-09 07:05:38",
-      "album": {
         "name": "Star Crossed / Dust",
         "url": "https://open.spotify.com/album/3hT3xJbL4UjJMET6CvbcKc"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 320337,
       "name": "I Know That",
       "url": "https://open.spotify.com/track/0XulKJA4eRQZBGx2dwV8jD"
+    },
+    {
+      "added_at": "2023-05-09 07:05:38",
+      "album": {
+        "name": "Finding Hope",
+        "url": "https://open.spotify.com/album/25X6lJ7r1b4jQ3S5o8RtJs"
+      },
+      "artists": [
+        {
+          "name": "Haakon Stange",
+          "url": "https://open.spotify.com/artist/0W5e9m7EXTbYg8XZSrQIfx"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Finding Hope",
+      "url": "https://open.spotify.com/track/1ZxqvIpfcqYDcV4nP6jxms"
     },
     {
       "added_at": "2023-05-09 07:05:38",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-05-09 07:05:38",
       "album": {
-        "name": "Glacier",
-        "url": "https://open.spotify.com/album/0BO4sOTUYgYnuQuNqXGbX6"
-      },
-      "artists": [
-        {
-          "name": "Teen Daze",
-          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
-        }
-      ],
-      "duration_ms": 328813,
-      "name": "Autumnal",
-      "url": "https://open.spotify.com/track/2KIx2bD6uvUYDZ2XrAKZXN"
-    },
-    {
-      "added_at": "2023-05-09 07:05:38",
-      "album": {
         "name": "Recalibrate",
         "url": "https://open.spotify.com/album/3BiA4ylo9PwprkAn2UJ437"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 157279,
       "name": "Swoon",
       "url": "https://open.spotify.com/track/2ylb7ruks50yKP8JXHPBQQ"
+    },
+    {
+      "added_at": "2023-05-09 07:05:38",
+      "album": {
+        "name": "Glacier",
+        "url": "https://open.spotify.com/album/0BO4sOTUYgYnuQuNqXGbX6"
+      },
+      "artists": [
+        {
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
+        }
+      ],
+      "duration_ms": 328813,
+      "name": "Autumnal",
+      "url": "https://open.spotify.com/track/2KIx2bD6uvUYDZ2XrAKZXN"
     },
     {
       "added_at": "2023-05-09 07:05:38",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-05-09 07:05:38",
       "album": {
-        "name": "Loom",
-        "url": "https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "We Contain Multitudes - from home",
-      "url": "https://open.spotify.com/track/2ich9n3I8MHo1AkC26bpqK"
-    },
-    {
-      "added_at": "2023-05-09 07:05:38",
-      "album": {
         "name": "Homecoming",
         "url": "https://open.spotify.com/album/091PcRTCoEx0mS7z3Jkr3A"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 321000,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/5hDxgd1QjOO2kz577FJYme"
+    },
+    {
+      "added_at": "2023-05-09 07:05:38",
+      "album": {
+        "name": "Loom",
+        "url": "https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "We Contain Multitudes - from home",
+      "url": "https://open.spotify.com/track/2ich9n3I8MHo1AkC26bpqK"
     },
     {
       "added_at": "2023-05-09 07:05:38",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-05-09 07:05:38",
       "album": {
-        "name": "India",
-        "url": "https://open.spotify.com/album/7tWlk2K6jN6TaCxUTtkYFd"
-      },
-      "artists": [
-        {
-          "name": "EarthLife",
-          "url": "https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG"
-        }
-      ],
-      "duration_ms": 535370,
-      "name": "India",
-      "url": "https://open.spotify.com/track/2SetYZYntcZBRG4PnKYej8"
-    },
-    {
-      "added_at": "2023-05-09 07:05:38",
-      "album": {
         "name": "Temporis",
         "url": "https://open.spotify.com/album/2mHj52L9rB4gIyQG5phdaH"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 222197,
       "name": "Void (feat. Cnebce)",
       "url": "https://open.spotify.com/track/7vPuyrHssHCdaVHjiwiMYs"
+    },
+    {
+      "added_at": "2023-05-09 07:05:38",
+      "album": {
+        "name": "India",
+        "url": "https://open.spotify.com/album/7tWlk2K6jN6TaCxUTtkYFd"
+      },
+      "artists": [
+        {
+          "name": "EarthLife",
+          "url": "https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG"
+        }
+      ],
+      "duration_ms": 535370,
+      "name": "India",
+      "url": "https://open.spotify.com/track/2SetYZYntcZBRG4PnKYej8"
     },
     {
       "added_at": "2023-05-09 07:05:38",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-05-09 07:05:38",
       "album": {
-        "name": "Twisty",
-        "url": "https://open.spotify.com/album/6Zq5AYy0Hqz0tStf9CXdsX"
-      },
-      "artists": [
-        {
-          "name": "Anja Schneider",
-          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
-        }
-      ],
-      "duration_ms": 416931,
-      "name": "Free Fall",
-      "url": "https://open.spotify.com/track/74D1dmMEX6tAsspSMQQldK"
-    },
-    {
-      "added_at": "2023-05-09 07:05:38",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/6MVlc0SiEZNFEREstZWyGt"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 288000,
       "name": "Alive",
       "url": "https://open.spotify.com/track/6grkrnX0IaNPz92hH8qDAt"
+    },
+    {
+      "added_at": "2023-05-09 07:05:38",
+      "album": {
+        "name": "Twisty",
+        "url": "https://open.spotify.com/album/6Zq5AYy0Hqz0tStf9CXdsX"
+      },
+      "artists": [
+        {
+          "name": "Anja Schneider",
+          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
+        }
+      ],
+      "duration_ms": 416931,
+      "name": "Free Fall",
+      "url": "https://open.spotify.com/track/74D1dmMEX6tAsspSMQQldK"
     },
     {
       "added_at": "2023-05-09 07:05:38",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2023-05-09 07:05:38",
       "album": {
-        "name": "Chillhop Daydreams 2",
-        "url": "https://open.spotify.com/album/3bh5l0g7pcX9eKNywTuIvd"
-      },
-      "artists": [
-        {
-          "name": "G Mills",
-          "url": "https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N"
-        }
-      ],
-      "duration_ms": 171750,
-      "name": "Iridescence",
-      "url": "https://open.spotify.com/track/3RvJhKWy33BYK1aHgJ6NlO"
-    },
-    {
-      "added_at": "2023-05-09 07:05:38",
-      "album": {
         "name": "Tunnels",
         "url": "https://open.spotify.com/album/5um9AFcLYg0xUejlloAyE9"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 224312,
       "name": "Voyager 22",
       "url": "https://open.spotify.com/track/2DChgRQfFPgJjRJnTbdAYw"
+    },
+    {
+      "added_at": "2023-05-09 07:05:38",
+      "album": {
+        "name": "Chillhop Daydreams 2",
+        "url": "https://open.spotify.com/album/3bh5l0g7pcX9eKNywTuIvd"
+      },
+      "artists": [
+        {
+          "name": "G Mills",
+          "url": "https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N"
+        }
+      ],
+      "duration_ms": 171750,
+      "name": "Iridescence",
+      "url": "https://open.spotify.com/track/3RvJhKWy33BYK1aHgJ6NlO"
     },
     {
       "added_at": "2023-05-09 07:05:38",

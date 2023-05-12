@@ -4,7 +4,7 @@
 
 > All new indie rock\. Featuring new music from Indigo De Souza.
 
-971 songs - 2 day 4 hr 48 min
+972 songs - 2 day 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,7 +316,8 @@
 | [F.O.O.F.](https://open.spotify.com/track/2Yo3BxnzxMeWkvTx1QKBo9) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [F.O.O.F.](https://open.spotify.com/album/5i5HuSf0QVHoyeWIcJxP3Z) | 2:08 | 2022-09-30 | 2022-10-22 |
 | [Face Again](https://open.spotify.com/track/5jTfAzJUjjQAw6UDhozqHc) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Hats Off](https://open.spotify.com/album/5xsUExmsWh1AB0eSCDkiqz) | 2:14 | 2021-06-07 | 2022-02-04 |
 | [Facts of Life](https://open.spotify.com/track/1VDSmyonWfkUKkDGyr7BDf) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Facts of Life](https://open.spotify.com/album/1iwq4GcEquagnE6V3oAIr2) | 4:08 | 2022-04-08 | 2022-10-08 |
-| [Failed at Math\(s\)](https://open.spotify.com/track/6W1wt10FubiQQVXychFAKp) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Failed at Math\(s\)](https://open.spotify.com/album/1TyXRjcjSnDLmewsTjr6id) | 2:40 | 2023-05-05 |  |
+| [Failed at Math\(s\)](https://open.spotify.com/track/0CGTEFOmGzMjgcW5WUS7WW) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Failed at Math\(s\)](https://open.spotify.com/album/0xCCtljPkA65lyDP3CXFgr) | 2:40 | 2023-05-05 |  |
+| [Failed at Math\(s\)](https://open.spotify.com/track/6W1wt10FubiQQVXychFAKp) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Failed at Math\(s\)](https://open.spotify.com/album/1TyXRjcjSnDLmewsTjr6id) | 2:40 | 2023-05-05 | 2023-05-12 |
 | [Fallout](https://open.spotify.com/track/2naiEwIGmT5whcaG6Vmn8B) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Fallout](https://open.spotify.com/album/5xEDC9B8ohUyuoovW86zzX) | 4:36 | 2022-11-04 | 2023-04-15 |
 | [False Idols](https://open.spotify.com/track/6oofSlzxDnFothYfq2jfCi) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [False Idols](https://open.spotify.com/album/5Ee1l61ddtdGsVf9B7VcfE) | 2:53 | 2021-07-23 | 2022-01-31 |
 | [Favorite Sin](https://open.spotify.com/track/7lHXPeUCPJKmoAL5lS9Nln) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Favorite Sin](https://open.spotify.com/album/0RvCi9rbTyjerfZMmv5lJK) | 3:42 | 2021-07-19 | 2022-01-29 |

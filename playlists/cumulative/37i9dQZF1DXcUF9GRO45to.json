@@ -1224,7 +1224,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 182008,
       "name": "Fall Away",
       "url": "https://open.spotify.com/track/1CEZOLVOKSAQIxbTDT4g8m"
@@ -1422,7 +1422,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 226506,
       "name": "Full Circle Back",
       "url": "https://open.spotify.com/track/5kVeebGBrpAum8u2RYt9xh"
@@ -1789,6 +1789,28 @@
     },
     {
       "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/2eJyTdACTIslhQB92NZzWt"
+      },
+      "artists": [
+        {
+          "name": "Caesaria",
+          "url": "https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3"
+        },
+        {
+          "name": "Storm Orchestra",
+          "url": "https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181600,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/4aHrl8py7CwMO4rJJ6KzXN"
+    },
+    {
+      "album": {
         "name": "HORIZON",
         "url": "https://open.spotify.com/album/40qu8vLitjOTHYBKIWGpeU"
       },
@@ -1804,6 +1826,24 @@
       "duration_ms": 228080,
       "name": "HORIZON",
       "url": "https://open.spotify.com/track/6G6gPGeURYWsCsjiByoedl"
+    },
+    {
+      "album": {
+        "name": "Houses of American Style",
+        "url": "https://open.spotify.com/album/4fVSfJltN2th0XhpMcgx0O"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244767,
+      "name": "Houses of American Style",
+      "url": "https://open.spotify.com/track/5Kky5Fr02ofJwTnQCgzBFl"
     },
     {
       "album": {
@@ -2830,7 +2870,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 211505,
       "name": "Others",
       "url": "https://open.spotify.com/track/109wpUkiX8IcWR8WTPV7cp"
@@ -4222,6 +4262,24 @@
       "duration_ms": 212386,
       "name": "Wandering Life",
       "url": "https://open.spotify.com/track/1yAzT7gBa4nAn8SeUrwj3E"
+    },
+    {
+      "album": {
+        "name": "Water and Sand",
+        "url": "https://open.spotify.com/album/2UV1tzdltdJHaIwoUBecGZ"
+      },
+      "artists": [
+        {
+          "name": "daria",
+          "url": "https://open.spotify.com/artist/44dVdbbHLKb31Q5V8LPi67"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227574,
+      "name": "Water and Sand",
+      "url": "https://open.spotify.com/track/3vZos9tKa0kAdentfhRCsg"
     },
     {
       "album": {

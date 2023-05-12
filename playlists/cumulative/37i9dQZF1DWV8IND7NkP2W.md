@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-588 songs - 1 day 2 hr 18 min
+590 songs - 1 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Aquamarine](https://open.spotify.com/track/6lzL8uBR5CMV25mC8mOgPA) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Aquamarine](https://open.spotify.com/album/52z4GzIPY0zJyf6NtEVUbD) | 3:37 | 2022-01-06 | 2022-07-28 |
 | [Arayashiki](https://open.spotify.com/track/0XWQDqYLIVz9maYrUGNYQ7) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc) | [That's Life](https://open.spotify.com/album/2RjG0cRdZWlSOTakPbKxB6) | 2:49 | 2023-02-09 |  |
 | [Arch](https://open.spotify.com/track/5yU7OG4WqTGf9iAugbIY02) | [Bugseed](https://open.spotify.com/artist/0ObliAtls0po56kVnacsOd) | [Arch](https://open.spotify.com/album/3ciBE6IkZerQqNGdHQmMuP) | 3:21 | 2022-02-15 | 2022-07-28 |
+| [Arigato Mama](https://open.spotify.com/track/2yxnnVeeS0s4hUqhFiDEdi) | [Dj Yutaka](https://open.spotify.com/artist/6PjCaQSdfVd1YIdO3vnsAn) | [Arigato Mama](https://open.spotify.com/album/70gkTjKai4oN4fEtDXL8Ce) | 3:09 | 2023-05-11 |  |
 | [ARUKAS](https://open.spotify.com/track/2Xz31K3sBzPdec0AE696Jl) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [ARUKAS](https://open.spotify.com/album/33OiJXL1eRdwzz9nmjQyRA) | 5:41 | 2022-01-06 | 2022-07-28 |
 | [ARUKAS](https://open.spotify.com/track/6JZvi1dibOiGyJ8yBsGYUq) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Garden](https://open.spotify.com/album/7x5O7JrQUeqy45LEDkxXW5) | 5:41 | 2022-12-01 | 2023-03-27 |
 | [August](https://open.spotify.com/track/0My6Dyc0r3CmybSjOS925M) | [Qindnesic](https://open.spotify.com/artist/2Nt6Q3Rj1de4HX7jn1NOba) | [August](https://open.spotify.com/album/2cibXowpQl5M6R4AC1x9MY) | 2:14 | 2022-01-06 | 2022-07-25 |
@@ -211,6 +212,7 @@
 | [Hapuna](https://open.spotify.com/track/1iJ2MDg18Ufor1crX5TDFy) | [LONELY ONES](https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7) | [Hapuna](https://open.spotify.com/album/1Y1xcpOvUfv6jWhxoQGmmw) | 2:58 | 2022-05-19 |  |
 | [hario island](https://open.spotify.com/track/4pwrnZ6t6KwUgUoQiBe70M) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [hario island](https://open.spotify.com/album/6t6geCz3BtiM0WXFNeWGyY) | 2:36 | 2023-01-19 | 2023-02-05 |
 | [harukaze](https://open.spotify.com/track/0XflCyWk28wErpgiBPnNTK) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [harukaze](https://open.spotify.com/album/3pur6jiK9PCVKajSXvlWjJ) | 2:33 | 2023-03-02 | 2023-04-29 |
+| [Heavy Rain](https://open.spotify.com/track/0D7VlZ5PRHvjGMARkvwyne) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh) | [Heavy Rain](https://open.spotify.com/album/06Q46ZGejs53a5s5AxRC3c) | 1:38 | 2023-05-11 |  |
 | [Here, There](https://open.spotify.com/track/1sLOKhpRCBg9FUEsIybTc4) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Here, There](https://open.spotify.com/album/3Nk7pV5iFdtLeplMvGe8dr) | 1:24 | 2022-02-10 | 2022-07-25 |
 | [Hey](https://open.spotify.com/track/2kZtgM0bQyHLfYGeUYno3L) | [Noji](https://open.spotify.com/artist/7M6fek7jt9ASxUjeHa9hQg) | [Hey](https://open.spotify.com/album/7E4h5wksCrCWrvdZlzdnRV) | 2:09 | 2022-01-06 | 2022-07-29 |
 | [Hey](https://open.spotify.com/track/3DP1ar30GyW0PzMs5ZNzVl) | [Noji](https://open.spotify.com/artist/7M6fek7jt9ASxUjeHa9hQg) | [Hey](https://open.spotify.com/album/4oe6eDcPo0sLyEpnyXEeRx) | 2:09 | 2022-07-28 |  |
@@ -512,7 +514,7 @@
 | [sunrise](https://open.spotify.com/track/3syEFU3GcxSZUhwAJzBfTh) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [sunrise](https://open.spotify.com/album/5Zm3mPMM6RbSeCL9S48CeC) | 2:56 | 2023-01-19 | 2023-04-12 |
 | [sweet smoke](https://open.spotify.com/track/444O4OVp9DSfS5PwzOeueM) | [m\-al](https://open.spotify.com/artist/36uYgW4LAxNLllQq3NmoVJ) | [SWEET SMOKE](https://open.spotify.com/album/6COcQwEQ9QOI3i101M6e97) | 1:54 | 2021-12-23 | 2022-01-10 |
 | [Sweet Spare](https://open.spotify.com/track/16os4JPoRQcwdzIKo9pdHo) | [I love you Orchestra Swing Style](https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls) | [Sweet Spare](https://open.spotify.com/album/6fOmtJfu7XciZl8g2SRSJi) | 3:16 | 2021-12-23 | 2022-07-16 |
-| [Swing](https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f) | [GORO KUMAI](https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR) | [The Wondering Beats vol.1](https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM) | 2:38 | 2021-12-23 |  |
+| [Swing](https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f) | [GORO KUMAI](https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR) | [The Wondering Beats vol.1](https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM) | 2:38 | 2021-12-23 | 2023-05-12 |
 | [SXL](https://open.spotify.com/track/18sl3aS5bDBG0yBOD1G9pD) | [GORO KUMAI](https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR) | [THE MOTEL](https://open.spotify.com/album/3Mm4nwyzBqUUXGJrIqzDFF) | 2:49 | 2022-01-06 | 2022-07-27 |
 | [Synchronizing](https://open.spotify.com/track/5dUD00EY39bUkoW0MeH2Co) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Synchronizing](https://open.spotify.com/album/5XguhI1DdLE0q48X8e24uU) | 2:47 | 2022-01-13 | 2022-05-04 |
 | [tasty greens](https://open.spotify.com/track/7cME0mO0KsRZsJ4IyoKRQG) | [Froowty Lupes](https://open.spotify.com/artist/2Q9neDyx9dRoMnH7yZkCe2), [Yoshi Tanaka](https://open.spotify.com/artist/1iZ1b2L5WewpMQvrB5acFr), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [tasty greens](https://open.spotify.com/album/4JzSspBnbceWs3F6qexRSR) | 1:36 | 2022-01-13 |  |
@@ -573,7 +575,7 @@
 | [What Is Peace 4 U](https://open.spotify.com/track/3GQSl6DYDVMK1trBd6xZUI) | [45](https://open.spotify.com/artist/7s2An89rlAjaY1HLgeLtHT) | [What Is Peace 4 U](https://open.spotify.com/album/1eNldbRjczJrgg80vWkyfI) | 3:16 | 2022-03-24 | 2022-07-29 |
 | [When the neon sign turns on](https://open.spotify.com/track/28YE296IpnuNi3nJ2l11jn) | [Takayuki Hashiguchi](https://open.spotify.com/artist/18eJdTU5Sepx9LX7KHZv1k) | [When the neon sign turns on](https://open.spotify.com/album/25RYHZVy8V78B29atIOaeM) | 1:53 | 2021-12-23 | 2022-07-27 |
 | [Whiskey bon bons](https://open.spotify.com/track/0KBhxTx9PuW9GY7ADpibM4) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [181's Penny Candy Store \#5](https://open.spotify.com/album/7jHBXBVglVreyqFaaobWxx) | 1:59 | 2022-01-06 | 2022-06-19 |
-| [Whispers in the Night](https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH) | [呼煙魔](https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5) | [PAREIDOLIA](https://open.spotify.com/album/39uasv0jcC61mqNRL4OKkC) | 3:01 | 2023-02-02 |  |
+| [Whispers in the Night](https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH) | [呼煙魔](https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5) | [PAREIDOLIA](https://open.spotify.com/album/39uasv0jcC61mqNRL4OKkC) | 3:01 | 2023-02-02 | 2023-05-12 |
 | [Who](https://open.spotify.com/track/35solA4AqWqV0shqbmrlXi) | [Hama](https://open.spotify.com/artist/2mkZla5mSMjsk6BRgWGOHr) | [Who](https://open.spotify.com/album/3m0BkoBYwknRfaYTYNTn4t) | 2:54 | 2021-12-23 | 2022-07-25 |
 | [Why \- Instrumental](https://open.spotify.com/track/4lrBgixwA1IgY7sjAHl3pm) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Why \(Instrumental\)](https://open.spotify.com/album/1FYz4elK9meLwqVC8paa9d) | 1:52 | 2021-12-23 | 2022-07-16 |
 | [Win the Lottery](https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [181's penny candy store \#7](https://open.spotify.com/album/2DU5c1qHqSKxAMoZig9SLd) | 3:06 | 2021-12-23 | 2022-12-24 |

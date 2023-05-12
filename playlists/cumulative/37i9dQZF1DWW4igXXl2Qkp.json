@@ -3874,10 +3874,36 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 142080,
       "name": "Don't Talk 2 Me",
       "url": "https://open.spotify.com/track/3cCYeh7pceJYUqXnzEaeip"
+    },
+    {
+      "album": {
+        "name": "Don't Talk 2 Me",
+        "url": "https://open.spotify.com/album/1ZC0pflUsQkkYxVcie04YR"
+      },
+      "artists": [
+        {
+          "name": "JODY SUMMERS",
+          "url": "https://open.spotify.com/artist/1gL1oFmpEyzt73ZaBjXXAx"
+        },
+        {
+          "name": "WIL$ON",
+          "url": "https://open.spotify.com/artist/1JIgcZTvB6nLvFwsEOgnbI"
+        },
+        {
+          "name": "Scottie Le'Jour",
+          "url": "https://open.spotify.com/artist/0tueJYXAR9dx6KPDWZz0nn"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142080,
+      "name": "Don't Talk 2 Me",
+      "url": "https://open.spotify.com/track/59Yw62BGuKjzYlceUfC7L8"
     },
     {
       "album": {

@@ -486,7 +486,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 373080,
       "name": "Days Of Soul",
       "url": "https://open.spotify.com/track/5d55M6BUwHsxXPneoiXb84"
@@ -616,6 +616,24 @@
       "duration_ms": 284986,
       "name": "Elevation",
       "url": "https://open.spotify.com/track/6mpc681Hb9vbr4tFZJ7Jfc"
+    },
+    {
+      "album": {
+        "name": "Emily",
+        "url": "https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Everett",
+          "url": "https://open.spotify.com/artist/3cfaaaztlSIVBlM6JIsbVI"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219752,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/1THYlGUnGESGfmZWLW11C6"
     },
     {
       "album": {
@@ -2174,7 +2192,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 414834,
       "name": "Squeeze Me",
       "url": "https://open.spotify.com/track/01XCanusQyKKtuhfMq5c0C"
@@ -2380,6 +2398,24 @@
       "duration_ms": 328866,
       "name": "The Gift",
       "url": "https://open.spotify.com/track/4OEEX2KxWFXOjp8tBf02t6"
+    },
+    {
+      "album": {
+        "name": "Emily",
+        "url": "https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Everett",
+          "url": "https://open.spotify.com/artist/3cfaaaztlSIVBlM6JIsbVI"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244874,
+      "name": "The Last Kiss",
+      "url": "https://open.spotify.com/track/3g9XQQDRluVCngQU9yYLyC"
     },
     {
       "album": {

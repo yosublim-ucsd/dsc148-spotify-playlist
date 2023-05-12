@@ -2331,6 +2331,28 @@
     },
     {
       "album": {
+        "name": "DU G\u00d6R MIG FUCKED UP",
+        "url": "https://open.spotify.com/album/6WgOfMVUSG5vtUOGeycK6E"
+      },
+      "artists": [
+        {
+          "name": "Studavig\u00e5",
+          "url": "https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6"
+        },
+        {
+          "name": "Maximus",
+          "url": "https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153124,
+      "name": "DU G\u00d6R MIG FUCKED UP",
+      "url": "https://open.spotify.com/track/6teKMrSx3Tw5pF2An2tRN9"
+    },
+    {
+      "album": {
         "name": "Du kan inte f\u00e5 min \u00f6l",
         "url": "https://open.spotify.com/album/5mC9mcXhQFXcGUuyyuMdcN"
       },
@@ -3813,6 +3835,28 @@
     },
     {
       "album": {
+        "name": "FR\u00d6KENS NIKOTIN",
+        "url": "https://open.spotify.com/album/68ylpzTi3RvmMHxaoWeRVK"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185617,
+      "name": "FR\u00d6KENS NIKOTIN",
+      "url": "https://open.spotify.com/track/7DuWqyAjYyQ8INxd1bv0Bq"
+    },
+    {
+      "album": {
         "name": "FUAAARK",
         "url": "https://open.spotify.com/album/3hnMydN2A28KerbUiBLc2t"
       },
@@ -4220,6 +4264,28 @@
       "duration_ms": 143200,
       "name": "F\u00f6rsta G\u00e5ngen I En EPA (EPA Remix)",
       "url": "https://open.spotify.com/track/3srm7D89OKFX7rQJrnwPdP"
+    },
+    {
+      "album": {
+        "name": "Garaget",
+        "url": "https://open.spotify.com/album/5wjNzkpZ8sgcoJiyRyEZGP"
+      },
+      "artists": [
+        {
+          "name": "PERZZONA",
+          "url": "https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC"
+        },
+        {
+          "name": "J.O.X",
+          "url": "https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147045,
+      "name": "Garaget",
+      "url": "https://open.spotify.com/track/180Z4qutDFApJynfvi8T5x"
     },
     {
       "album": {
@@ -5040,7 +5106,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 164776,
       "name": "HELA NATTEN L\u00c5NG",
       "url": "https://open.spotify.com/track/02x83k6Lt3YMmeBwwAbNUd"
@@ -6406,7 +6472,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 156000,
       "name": "KAPTEN KAPTEN - Radio Edit",
       "url": "https://open.spotify.com/track/6ZnNBc9aadApyNnQ3hgS8S"
@@ -6691,6 +6757,24 @@
     },
     {
       "album": {
+        "name": "K\u00e4ra granne",
+        "url": "https://open.spotify.com/album/2BbJIz6vG2jeYdrRTbYz5q"
+      },
+      "artists": [
+        {
+          "name": "JulleMeck",
+          "url": "https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127645,
+      "name": "K\u00e4ra granne",
+      "url": "https://open.spotify.com/track/3dZFwinDet92t6E493PGdp"
+    },
+    {
+      "album": {
         "name": "K\u00c4RRAN",
         "url": "https://open.spotify.com/album/1KUCuaqZU0P8cWvFiS4MX4"
       },
@@ -6728,7 +6812,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 155973,
       "name": "K\u00f6ttbanan",
       "url": "https://open.spotify.com/track/6sdSRxPsP2UqgZraWfoDLp"
@@ -6812,7 +6896,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 166166,
       "name": "Lambo i Norrlando",
       "url": "https://open.spotify.com/track/2xLwdG8OWHahVwf8EicJqc"
@@ -6830,7 +6914,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 126792,
       "name": "LANDET",
       "url": "https://open.spotify.com/track/0XtvruPem7FuwlCPnnE9Vk"
@@ -7599,6 +7683,28 @@
     },
     {
       "album": {
+        "name": "Mer ikv\u00e4ll",
+        "url": "https://open.spotify.com/album/4w20W8xnMaRkP2KkMawfYB"
+      },
+      "artists": [
+        {
+          "name": "NORDB\u00d8YZ",
+          "url": "https://open.spotify.com/artist/0uUeZp50KXx1WCREiEop8y"
+        },
+        {
+          "name": "Mojnz",
+          "url": "https://open.spotify.com/artist/61cp16xuPyKTvJYmaAY6st"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131060,
+      "name": "Mer ikv\u00e4ll",
+      "url": "https://open.spotify.com/track/2nyflmRbD7SPnY6BwLWYEj"
+    },
+    {
+      "album": {
         "name": "Mera br\u00e4nnvin (EPA Remix)",
         "url": "https://open.spotify.com/album/0cTkAQyENznnac2bQCAlf2"
       },
@@ -8119,6 +8225,28 @@
     },
     {
       "album": {
+        "name": "Nu i natt (N!NE EPA Remix)",
+        "url": "https://open.spotify.com/album/6lvDbPibgLRnZESqd9368d"
+      },
+      "artists": [
+        {
+          "name": "Noice",
+          "url": "https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69"
+        },
+        {
+          "name": "N!NE",
+          "url": "https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143571,
+      "name": "Nu i natt (N!NE EPA Remix)",
+      "url": "https://open.spotify.com/track/5E7XcmAAfW8mN6WUESoQM5"
+    },
+    {
+      "album": {
         "name": "NU KOMMER RYSSARNA",
         "url": "https://open.spotify.com/album/5CPqkz8G22B6U0zLcNhdLX"
       },
@@ -8190,6 +8318,24 @@
       "duration_ms": 150625,
       "name": "N\u00e4r det blir helg",
       "url": "https://open.spotify.com/track/6pvsSvBYdt9H2WkE6a8mKg"
+    },
+    {
+      "album": {
+        "name": "N\u00c4R LIVET SUGER",
+        "url": "https://open.spotify.com/album/5nFOZWHf7ZWUuMbtQHo3kH"
+      },
+      "artists": [
+        {
+          "name": "Louise Andersson Bodin",
+          "url": "https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166222,
+      "name": "N\u00c4R LIVET SUGER",
+      "url": "https://open.spotify.com/track/5YnRmCdV7CUtl9LQyIkDnt"
     },
     {
       "album": {
@@ -10402,7 +10548,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 153982,
       "name": "Smell",
       "url": "https://open.spotify.com/track/3Q2IqIcvSIfm3bBvlHnZMO"

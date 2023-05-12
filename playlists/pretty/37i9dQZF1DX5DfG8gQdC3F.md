@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Ed Sheeran, Céline Dion, grandson, and MacKenzie Porter.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,081 likes - 99 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,103 likes - 99 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,10 +102,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 92 | [Have Fun](https://open.spotify.com/track/1rPvhegIHzqY1b5BVro7IZ) | [City Fidelia](https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB), [AP](https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ) | [Have Fun](https://open.spotify.com/album/4AKm0LLj5I5Q0LfJBQeeJG) | 2:42 |
 | 93 | [Just Like You](https://open.spotify.com/track/3KX6ILZKKVZwCqLQGtrjCk) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ), [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [Just Like You](https://open.spotify.com/album/6Nyy3Mp85GkTtQV8eMv5Dy) | 2:40 |
 | 94 | [What About Hiding](https://open.spotify.com/track/4ZeyxFIpDLHBBxxPjQY4YU) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [What About Hiding](https://open.spotify.com/album/5fWyG8LpMszwr1wqMiO0wC) | 2:50 |
-| 95 | [Never Alone](https://open.spotify.com/track/19F9zI5CTg1MZAVMA9EQ5P) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t), [Elina](https://open.spotify.com/artist/1SGZQU1X9gWYaF7VXe4P9C) | [Never Alone](https://open.spotify.com/album/3JqNfyou9m91bGd9s7HMMU) | 2:23 |
+| 95 | [Never Alone](https://open.spotify.com/track/19F9zI5CTg1MZAVMA9EQ5P) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t), [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Never Alone](https://open.spotify.com/album/3JqNfyou9m91bGd9s7HMMU) | 2:23 |
 | 96 | [Sick of Your Love](https://open.spotify.com/track/47vsPEIpD8HblkYLmOJfhL) | [Mouraine](https://open.spotify.com/artist/3Y548iWX29NIS9YgRL7wRr) | [In Search of Gold](https://open.spotify.com/album/2yUuthjTtSfE7Rtf9xN2qc) | 3:16 |
 | 97 | [Catch Flights, Not feelings \(feat\. DillanPonders & Maky Lavender\)](https://open.spotify.com/track/6KVLm4BtO6N8P8jUE391MM) | [Tremayne](https://open.spotify.com/artist/0J4lkRbd2f6HwYoQUB34Pl), [Maky Lavender](https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6), [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef) | [Catch Flights, Not feelings \(feat\. DillanPonders & Maky Lavender\)](https://open.spotify.com/album/2Z829IcxCgTQvzF3lylRT6) | 3:24 |
 | 98 | [Une autre vie](https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Une autre vie](https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z) | 3:25 |
 | 99 | [Sorcery](https://open.spotify.com/track/3HdPQvs6SmerSFSweuwgJk) | [Sorry Girls](https://open.spotify.com/artist/5tMARXM4XOsODrCmJ0zI2M) | [Sorcery](https://open.spotify.com/album/28xNTR0Ay7FMqh5PShz1l8) | 3:32 |
 
-Snapshot ID: `MCwyODQwOWEwNDYzMTFjMjJmY2U2YzczNTAwNDJiZjljYjRmM2NlMzA1`
+Snapshot ID: `MCwxZmUxYTEwZTc5MTIyNTZmYjczODE1NDJkYTBjODg3MGUyY2JmOWRh`

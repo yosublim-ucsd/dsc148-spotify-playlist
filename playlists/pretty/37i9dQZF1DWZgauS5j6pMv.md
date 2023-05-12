@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Adi Oasis
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,715 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,805 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [SUPASTYLiN'](https://open.spotify.com/track/6DTHsrDEHgUvKrPQA13Grf) | [ONiGS](https://open.spotify.com/artist/3NmkWUyK2zHZgVaqqXJlrC), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [SUPASTYLiN'](https://open.spotify.com/album/0zzeBNXA3Dy4TWHE1sn50D) | 3:17 |
 | 100 | [Worthy](https://open.spotify.com/track/1krA127HmUwvlJXTqNiozw) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Nuela Charles](https://open.spotify.com/album/2dOsYwZCIRAk7DVGrsjceZ) | 3:05 |
 
-Snapshot ID: `MCw2ZDgyN2VjNTI5ZDkzY2MxZTlkOTMxN2I3NDkxNTdlMjE3NTAxYjQ4`
+Snapshot ID: `MCxmOTA5YTVjOTViNTcwM2Q2ZDRmMzJkZWIxOGJjZDM3ZjNmMjAyZjVj`

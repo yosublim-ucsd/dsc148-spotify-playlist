@@ -1,28 +1,44 @@
 {
-  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ?si=Q4cJpGKLTVO_ZhJLq_8clQ\">JAN JAN JAN</a> ",
-  "num_followers": 69837,
+  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR?si=UfX3Lz5qT5SJYzyiCj_9SQ\">Eloff</a> ",
+  "num_followers": 69906,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYmRmMDcxYzA3MTgwOWM5ODgzOTJhNzEzNjc0ZTVmZTVmYTcwYTMx",
+  "snapshot_id": "MCw5YjAyMTVmM2FlOTQzODZkODhjNTIwMmM1NjU0ZGM4N2FhY2ExYTNm",
   "tracks": [
     {
-      "added_at": "2023-05-04 21:59:00",
+      "added_at": "2023-05-11 21:59:00",
       "album": {
-        "name": "Braaf",
-        "url": "https://open.spotify.com/album/4cR81psmOmW9QnENYZveCd"
+        "name": "Koue Kole",
+        "url": "https://open.spotify.com/album/7s3HaB5VNnGEpDMCmRO2UE"
       },
       "artists": [
         {
-          "name": "JAN JAN JAN",
-          "url": "https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ"
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
         }
       ],
-      "duration_ms": 196530,
-      "name": "Hy's 'n Lekker Ou",
-      "url": "https://open.spotify.com/track/0ZCQRMdGD0GsxDWr2nmUJO"
+      "duration_ms": 230080,
+      "name": "Koue Kole",
+      "url": "https://open.spotify.com/track/0WepYdVNcGEfAXN5DKzSo3"
+    },
+    {
+      "added_at": "2022-11-24 21:59:00",
+      "album": {
+        "name": "Impulsief",
+        "url": "https://open.spotify.com/album/7bLPdsKXCDH8CSCSFgAN5L"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        }
+      ],
+      "duration_ms": 183317,
+      "name": "Impulsief",
+      "url": "https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO"
     },
     {
       "added_at": "2022-10-28 03:41:22",
@@ -41,6 +57,22 @@
       "url": "https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5"
     },
     {
+      "added_at": "2023-05-04 21:59:00",
+      "album": {
+        "name": "Braaf",
+        "url": "https://open.spotify.com/album/4cR81psmOmW9QnENYZveCd"
+      },
+      "artists": [
+        {
+          "name": "JAN JAN JAN",
+          "url": "https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ"
+        }
+      ],
+      "duration_ms": 196530,
+      "name": "Hy's 'n Lekker Ou",
+      "url": "https://open.spotify.com/track/0ZCQRMdGD0GsxDWr2nmUJO"
+    },
+    {
       "added_at": "2023-04-06 21:59:00",
       "album": {
         "name": "SySoen",
@@ -55,22 +87,6 @@
       "duration_ms": 213125,
       "name": "SySoen",
       "url": "https://open.spotify.com/track/474ACPInPwPBWt1eFwG0fs"
-    },
-    {
-      "added_at": "2022-11-24 21:59:00",
-      "album": {
-        "name": "Impulsief",
-        "url": "https://open.spotify.com/album/7bLPdsKXCDH8CSCSFgAN5L"
-      },
-      "artists": [
-        {
-          "name": "Barto",
-          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
-        }
-      ],
-      "duration_ms": 183317,
-      "name": "Impulsief",
-      "url": "https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO"
     },
     {
       "added_at": "2022-08-25 21:59:00",
@@ -125,6 +141,26 @@
       "url": "https://open.spotify.com/track/4afGZxLJkHpnTyxOpuQCzc"
     },
     {
+      "added_at": "2023-05-11 21:59:00",
+      "album": {
+        "name": "Partykiehonde",
+        "url": "https://open.spotify.com/album/3ggZuVpYhIaycDqIRaIv2U"
+      },
+      "artists": [
+        {
+          "name": "Gerhard Steyn",
+          "url": "https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t"
+        },
+        {
+          "name": "Loufi",
+          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
+        }
+      ],
+      "duration_ms": 160673,
+      "name": "Partykiehonde",
+      "url": "https://open.spotify.com/track/5GZJ8J9tBVTT6HArRAwK6V"
+    },
+    {
       "added_at": "2021-04-19 09:32:09",
       "album": {
         "name": "Spontaan",
@@ -173,6 +209,22 @@
       "url": "https://open.spotify.com/track/4jvrBXG8kgKQZEvsLwPXHl"
     },
     {
+      "added_at": "2022-08-25 21:59:00",
+      "album": {
+        "name": "H2O\u00eb",
+        "url": "https://open.spotify.com/album/3TXkgPC5iTyXXyJPKR01lP"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        }
+      ],
+      "duration_ms": 175375,
+      "name": "H2O\u00eb",
+      "url": "https://open.spotify.com/track/6NB2npCHsGXQ059pMhXJzl"
+    },
+    {
       "added_at": "2022-12-08 21:59:00",
       "album": {
         "name": "Vat Die Cruiser",
@@ -195,22 +247,6 @@
       "duration_ms": 180182,
       "name": "Vat Die Cruiser",
       "url": "https://open.spotify.com/track/1PIvpkHqj84KC0En6LosWH"
-    },
-    {
-      "added_at": "2022-08-25 21:59:00",
-      "album": {
-        "name": "H2O\u00eb",
-        "url": "https://open.spotify.com/album/3TXkgPC5iTyXXyJPKR01lP"
-      },
-      "artists": [
-        {
-          "name": "Barto",
-          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
-        }
-      ],
-      "duration_ms": 175375,
-      "name": "H2O\u00eb",
-      "url": "https://open.spotify.com/track/6NB2npCHsGXQ059pMhXJzl"
     },
     {
       "added_at": "2022-09-14 21:59:00",
@@ -279,6 +315,22 @@
       "duration_ms": 187894,
       "name": "Nora Vlok",
       "url": "https://open.spotify.com/track/6TVcrV4TEhQiuKjU5Tactz"
+    },
+    {
+      "added_at": "2023-05-11 21:59:00",
+      "album": {
+        "name": "Mal Maandagaande",
+        "url": "https://open.spotify.com/album/0XUoQmK7E5z2Dql7QMkCOp"
+      },
+      "artists": [
+        {
+          "name": "Die Piesangskille",
+          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
+        }
+      ],
+      "duration_ms": 133246,
+      "name": "Mal Maandagaande",
+      "url": "https://open.spotify.com/track/6oW7y2wkmHiO95rwinPANA"
     },
     {
       "added_at": "2022-06-30 22:21:09",
@@ -413,22 +465,6 @@
       "url": "https://open.spotify.com/track/4QbAFKHU08d9Ecko8P1Xnk"
     },
     {
-      "added_at": "2023-03-30 21:59:00",
-      "album": {
-        "name": "Coco Pops en Kaas",
-        "url": "https://open.spotify.com/album/7eX7oEbmqlgWrMeWP4CAA1"
-      },
-      "artists": [
-        {
-          "name": "Nicholis Louw",
-          "url": "https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI"
-        }
-      ],
-      "duration_ms": 242666,
-      "name": "Coco Pops en Kaas",
-      "url": "https://open.spotify.com/track/47a7yKmqL4y49StvHnrT0Y"
-    },
-    {
       "added_at": "2023-02-02 21:59:00",
       "album": {
         "name": "Ontlaai",
@@ -513,22 +549,6 @@
       "url": "https://open.spotify.com/track/3ygtwhrpxC9K6vvzTXVfNK"
     },
     {
-      "added_at": "2023-03-03 03:21:19",
-      "album": {
-        "name": "Man so na my hart",
-        "url": "https://open.spotify.com/album/5R7biF12QJgeuIpZzqVc3C"
-      },
-      "artists": [
-        {
-          "name": "Elizma Theron",
-          "url": "https://open.spotify.com/artist/63XPx0RP7mfLOJ1BJ3HoMU"
-        }
-      ],
-      "duration_ms": 197760,
-      "name": "Man so na my hart",
-      "url": "https://open.spotify.com/track/5U6cE7kIhPe69nQuEG90CL"
-    },
-    {
       "added_at": "2021-07-01 21:59:00",
       "album": {
         "name": "Tekkies Brand",
@@ -595,22 +615,6 @@
       "duration_ms": 198471,
       "name": "Ditjies & Datjies",
       "url": "https://open.spotify.com/track/1PILq0KMOWhfXaP7eqmS95"
-    },
-    {
-      "added_at": "2023-02-02 21:59:00",
-      "album": {
-        "name": "Jinne Maar Dis Lekker",
-        "url": "https://open.spotify.com/album/7oibnZJvOZJFWJ5pdNvZIJ"
-      },
-      "artists": [
-        {
-          "name": "Ch\u00e9",
-          "url": "https://open.spotify.com/artist/5wxOUZpO27j9hoPBwpnH90"
-        }
-      ],
-      "duration_ms": 186179,
-      "name": "Jinne Maar Dis Lekker",
-      "url": "https://open.spotify.com/track/19NUbG17wydOXIC8e3dFma"
     },
     {
       "added_at": "2022-01-27 21:59:00",

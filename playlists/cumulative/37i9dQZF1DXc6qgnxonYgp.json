@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Featuring today's dopest MCs.\nCover : ADK",
+  "description": "Featuring today's dopest MCs.\nCover : Brodha V",
   "name": "Tamil Indie : Hip Hop",
   "tracks": [
     {
@@ -142,6 +142,24 @@
       "duration_ms": 278297,
       "name": "Anbe (My Love) - 2021 New Edition",
       "url": "https://open.spotify.com/track/2kSBa6TeKDrE4mMAH2VHL5"
+    },
+    {
+      "album": {
+        "name": "Azhage (Fallin)",
+        "url": "https://open.spotify.com/album/5bzJnIdqMWlwYevnciFP8h"
+      },
+      "artists": [
+        {
+          "name": "Brodha V",
+          "url": "https://open.spotify.com/artist/6xl0mjD1B4paRyfPDUOynf"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222229,
+      "name": "Azhage (Fallin)",
+      "url": "https://open.spotify.com/track/6K3Jpn3gocuX0FDkSFaLUE"
     },
     {
       "album": {
@@ -302,7 +320,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 232250,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/6bQkJ7B1A98tDt5QjDv2J6"
@@ -1284,7 +1302,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 171428,
       "name": "Kalangadhae",
       "url": "https://open.spotify.com/track/6xJ09dBIgTLn1s4vjraQRw"
@@ -1416,7 +1434,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-04",
+      "date_removed": null,
       "duration_ms": 210008,
       "name": "Kottravai",
       "url": "https://open.spotify.com/track/6sm16UvbyJBbmsRLsTUajI"
@@ -2846,7 +2864,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 180779,
       "name": "She",
       "url": "https://open.spotify.com/track/58HUT7xifgToUC45ol5YsI"
@@ -3146,7 +3164,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 166400,
       "name": "Suicide thoughts",
       "url": "https://open.spotify.com/track/6sAc8s0Gsi3Y8LhWuOQUIf"

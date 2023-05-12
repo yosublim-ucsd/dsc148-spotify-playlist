@@ -1,12 +1,12 @@
 {
   "description": "Any songs you forgot existed? Let's go deep into 90s rock! Cover: Pixies.",
-  "num_followers": 140898,
+  "num_followers": 141049,
   "original_name": "Deep Dive: 90s Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWFmMGIzMjI3NzI0ZGE3OTBmODFhOWYyMmU4MzEzYmY3ZDQ1NGVm",
+  "snapshot_id": "MCwwMDU3NmQ4OTU5OTFkNTIxNDQ5ZjQyNDBlYzA0MTBhYjc3NDVjYTY2",
   "tracks": [
     {
       "added_at": "2023-01-18 21:17:22",
@@ -283,18 +283,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Nine Lives",
-        "url": "https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI"
+        "name": "Enema Of The State",
+        "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
       },
       "artists": [
         {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 235473,
-      "name": "Pink",
-      "url": "https://open.spotify.com/track/0Xl2pAlIRE6ANULPdEI7fx"
+      "duration_ms": 143893,
+      "name": "Dumpweed",
+      "url": "https://open.spotify.com/track/5SlKhaPcdIfSjpoM2QtM4C"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -315,18 +315,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Enema Of The State",
-        "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
+        "name": "Nine Lives",
+        "url": "https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI"
       },
       "artists": [
         {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 143893,
-      "name": "Dumpweed",
-      "url": "https://open.spotify.com/track/5SlKhaPcdIfSjpoM2QtM4C"
+      "duration_ms": 235473,
+      "name": "Pink",
+      "url": "https://open.spotify.com/track/0Xl2pAlIRE6ANULPdEI7fx"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "There Is Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Breakout",
-      "url": "https://open.spotify.com/track/2kh0u2d2YKQ7BCqeLPdHk6"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Godsmack",
         "url": "https://open.spotify.com/album/1w7vC8hjYXhK1fS5cM2fUM"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 206200,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/6PHn6aXuM2FkzonGWJxY28"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "There Is Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Breakout",
+      "url": "https://open.spotify.com/track/2kh0u2d2YKQ7BCqeLPdHk6"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Urban Hymns (Remastered 2016)",
-        "url": "https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD"
-      },
-      "artists": [
-        {
-          "name": "The Verve",
-          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
-        }
-      ],
-      "duration_ms": 261360,
-      "name": "Sonnet",
-      "url": "https://open.spotify.com/track/6OgWHP8rRXiq7VMaryVaVo"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Countdown To Extinction (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 327040,
       "name": "Sweating Bullets - Remastered 2004",
       "url": "https://open.spotify.com/track/6i7IXg8j7ZngiEOgBYjkhw"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Urban Hymns (Remastered 2016)",
+        "url": "https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD"
+      },
+      "artists": [
+        {
+          "name": "The Verve",
+          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+        }
+      ],
+      "duration_ms": 261360,
+      "name": "Sonnet",
+      "url": "https://open.spotify.com/track/6OgWHP8rRXiq7VMaryVaVo"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Significant Other",
-        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "Just Like This",
-      "url": "https://open.spotify.com/track/7on45JTbuUgroAC4DXwBqQ"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Buckcherry",
         "url": "https://open.spotify.com/album/3H83sHnGmb6Sn9toZchZho"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 215560,
       "name": "Lit Up",
       "url": "https://open.spotify.com/track/1OBMSzh2ocRqK2gUFaMBSM"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Significant Other",
+        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "Just Like This",
+      "url": "https://open.spotify.com/track/7on45JTbuUgroAC4DXwBqQ"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Dizzy up the Girl",
-        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 249533,
-      "name": "Black Balloon",
-      "url": "https://open.spotify.com/track/5zmaypMaWb21FUGBxbw8hT"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "OK Computer",
         "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 287880,
       "name": "Airbag",
       "url": "https://open.spotify.com/track/7c378mlmubSu7NGkLFa4sN"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "duration_ms": 249533,
+      "name": "Black Balloon",
+      "url": "https://open.spotify.com/track/5zmaypMaWb21FUGBxbw8hT"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 202893,
-      "name": "You Wreck Me",
-      "url": "https://open.spotify.com/track/0YkbYk24ODhuewb79zZZzM"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Tragic Kingdom",
         "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
       },
@@ -1307,18 +1291,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Dirt (2022 Remaster)",
-        "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
       },
       "artists": [
         {
-          "name": "Alice In Chains",
-          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
         }
       ],
-      "duration_ms": 189360,
-      "name": "Dam That River (2022 Remaster)",
-      "url": "https://open.spotify.com/track/22Ntyke0ZDZy2Uuf8BEDkU"
+      "duration_ms": 202893,
+      "name": "You Wreck Me",
+      "url": "https://open.spotify.com/track/0YkbYk24ODhuewb79zZZzM"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1335,6 +1319,22 @@
       "duration_ms": 381400,
       "name": "Livin' On The Edge",
       "url": "https://open.spotify.com/track/6OZAcgTPxmjUTuiatU0Viq"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Dirt (2022 Remaster)",
+        "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
+      },
+      "artists": [
+        {
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        }
+      ],
+      "duration_ms": 189360,
+      "name": "Dam That River (2022 Remaster)",
+      "url": "https://open.spotify.com/track/22Ntyke0ZDZy2Uuf8BEDkU"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Mane Attraction",
-        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
-      },
-      "artists": [
-        {
-          "name": "White Lion",
-          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
-        }
-      ],
-      "duration_ms": 265160,
-      "name": "You're All I Need",
-      "url": "https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Shake Your Money Maker",
         "url": "https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 249533,
       "name": "Twice As Hard",
       "url": "https://open.spotify.com/track/4nJlfdLIucLBkXEJPsSCSp"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Mane Attraction",
+        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
+      },
+      "artists": [
+        {
+          "name": "White Lion",
+          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+        }
+      ],
+      "duration_ms": 265160,
+      "name": "You're All I Need",
+      "url": "https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Brick By Brick",
-        "url": "https://open.spotify.com/album/2Il7QADGDfqLRsJkAx0JY8"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 253493,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/6sFpmdsk4UDMcDWdy4T1Kc"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Superunknown (Deluxe Edition)",
         "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 320106,
       "name": "The Day I Tried To Live",
       "url": "https://open.spotify.com/track/78YJJJH55MSyk7547100sW"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Brick By Brick",
+        "url": "https://open.spotify.com/album/2Il7QADGDfqLRsJkAx0JY8"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 253493,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/6sFpmdsk4UDMcDWdy4T1Kc"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "All The Pain Money Can Buy",
-        "url": "https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb"
-      },
-      "artists": [
-        {
-          "name": "Fastball",
-          "url": "https://open.spotify.com/artist/7FtVJzRtpQpU61nBwB7cKN"
-        }
-      ],
-      "duration_ms": 153066,
-      "name": "Out Of My Head",
-      "url": "https://open.spotify.com/track/5tOjRq5shlEdm15nmJBq7Z"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Down On The Upside",
         "url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 345666,
       "name": "Blow Up The Outside World",
       "url": "https://open.spotify.com/track/5TLA7O0ogTqwZHbS3ERabw"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "All The Pain Money Can Buy",
+        "url": "https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb"
+      },
+      "artists": [
+        {
+          "name": "Fastball",
+          "url": "https://open.spotify.com/artist/7FtVJzRtpQpU61nBwB7cKN"
+        }
+      ],
+      "duration_ms": 153066,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/5tOjRq5shlEdm15nmJBq7Z"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Bury The Hatchet",
-        "url": "https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 327573,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/15Trb1S2FDZSMLDzWfnlbg"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
         "url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 306680,
       "name": "Bullet In The Head",
       "url": "https://open.spotify.com/track/1WWgMk8nD79p8VeKFGYrOw"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Bury The Hatchet",
+        "url": "https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 327573,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/15Trb1S2FDZSMLDzWfnlbg"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1799,6 +1799,22 @@
       "duration_ms": 170866,
       "name": "You & Me Song",
       "url": "https://open.spotify.com/track/5KiKFJdmU6m0QWxpW9xjOB"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Enema Of The State",
+        "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 143573,
+      "name": "Don't Leave Me",
+      "url": "https://open.spotify.com/track/1IAeSajljaXAkLZKXBZnE8"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1851,22 +1867,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Shake Your Money Maker",
-        "url": "https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3"
-      },
-      "artists": [
-        {
-          "name": "The Black Crowes",
-          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
-        }
-      ],
-      "duration_ms": 275066,
-      "name": "Jealous Again",
-      "url": "https://open.spotify.com/track/5IJWnvJJgH4PR4p9aXnNCQ"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Purple (2019 Remaster)",
         "url": "https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h"
       },
@@ -1879,6 +1879,22 @@
       "duration_ms": 294800,
       "name": "Big Empty - 2019 Remaster",
       "url": "https://open.spotify.com/track/2E6elGQS3KaKR7QdfzQXdP"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Shake Your Money Maker",
+        "url": "https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        }
+      ],
+      "duration_ms": 275066,
+      "name": "Jealous Again",
+      "url": "https://open.spotify.com/track/5IJWnvJJgH4PR4p9aXnNCQ"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1899,22 +1915,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Enema Of The State",
-        "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 143573,
-      "name": "Don't Leave Me",
-      "url": "https://open.spotify.com/track/1IAeSajljaXAkLZKXBZnE8"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Everything You Want",
         "url": "https://open.spotify.com/album/2gJ6axVHAsQmmO6nslQRN1"
       },
@@ -1927,22 +1927,6 @@
       "duration_ms": 218760,
       "name": "You're a God",
       "url": "https://open.spotify.com/track/758wp6xs3ADdgIwdeHoXmX"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
-        "name": "The Southern Harmony And Musical Companion",
-        "url": "https://open.spotify.com/album/4hVgzAM4i3dPdhZQki9cKk"
-      },
-      "artists": [
-        {
-          "name": "The Black Crowes",
-          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
-        }
-      ],
-      "duration_ms": 322640,
-      "name": "Remedy",
-      "url": "https://open.spotify.com/track/217a9W3cZ3ur40RFQW2pTo"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1979,6 +1963,22 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
+        "name": "Enema Of The State",
+        "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 203440,
+      "name": "Mutt",
+      "url": "https://open.spotify.com/track/3Q0yxw9mdycjnuORDvY5E6"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
         "name": "Pinkerton",
         "url": "https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl"
       },
@@ -1995,18 +1995,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "The Division Bell",
-        "url": "https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl"
+        "name": "The Southern Harmony And Musical Companion",
+        "url": "https://open.spotify.com/album/4hVgzAM4i3dPdhZQki9cKk"
       },
       "artists": [
         {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
         }
       ],
-      "duration_ms": 261587,
-      "name": "What Do You Want from Me",
-      "url": "https://open.spotify.com/track/3Tsh9pjiJ5cvmuiZALdgVz"
+      "duration_ms": 322640,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/217a9W3cZ3ur40RFQW2pTo"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2027,34 +2027,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Definitely Maybe (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
+        "name": "The Division Bell",
+        "url": "https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl"
       },
       "artists": [
         {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
         }
       ],
-      "duration_ms": 382266,
-      "name": "Whatever - Remastered",
-      "url": "https://open.spotify.com/track/5OWsea313ovaQoXvsgWq79"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
-        "name": "Enema Of The State",
-        "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 203440,
-      "name": "Mutt",
-      "url": "https://open.spotify.com/track/3Q0yxw9mdycjnuORDvY5E6"
+      "duration_ms": 261587,
+      "name": "What Do You Want from Me",
+      "url": "https://open.spotify.com/track/3Tsh9pjiJ5cvmuiZALdgVz"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2075,6 +2059,22 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
+        "name": "Definitely Maybe (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 382266,
+      "name": "Whatever - Remastered",
+      "url": "https://open.spotify.com/track/5OWsea313ovaQoXvsgWq79"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
         "name": "To Bring You My Love",
         "url": "https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8"
       },
@@ -2087,22 +2087,6 @@
       "duration_ms": 194506,
       "name": "Down By The Water",
       "url": "https://open.spotify.com/track/48mJX8glOrQkrSdVBjc0Wb"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
-        "name": "Fate of Nations",
-        "url": "https://open.spotify.com/album/4c6q5WBhuzqN0Jrs2hl2OA"
-      },
-      "artists": [
-        {
-          "name": "Robert Plant",
-          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
-        }
-      ],
-      "duration_ms": 291906,
-      "name": "29 Palms - 2006 Remaster",
-      "url": "https://open.spotify.com/track/5hrsqusQlSqlWpvtjJpxPq"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2135,6 +2119,22 @@
       "duration_ms": 264160,
       "name": "The Dolphin's Cry",
       "url": "https://open.spotify.com/track/6FPnecQDKOWSAKDKBAZ7ZG"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Fate of Nations",
+        "url": "https://open.spotify.com/album/4c6q5WBhuzqN0Jrs2hl2OA"
+      },
+      "artists": [
+        {
+          "name": "Robert Plant",
+          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
+        }
+      ],
+      "duration_ms": 291906,
+      "name": "29 Palms - 2006 Remaster",
+      "url": "https://open.spotify.com/track/5hrsqusQlSqlWpvtjJpxPq"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Trial By Fire",
-        "url": "https://open.spotify.com/album/1E8owCbqr9Hhm2jJ6fmGij"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 246986,
-      "name": "When You Love a Woman",
-      "url": "https://open.spotify.com/track/4b79AEQyxEVoiGMyBUv0io"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "fear",
         "url": "https://open.spotify.com/album/3UeshcanaZ1xd90cgmQmch"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 196333,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/2GHYJ0dhVds3PODKnTdiGE"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Trial By Fire",
+        "url": "https://open.spotify.com/album/1E8owCbqr9Hhm2jJ6fmGij"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 246986,
+      "name": "When You Love a Woman",
+      "url": "https://open.spotify.com/track/4b79AEQyxEVoiGMyBUv0io"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2347,18 +2347,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "His N Hers",
-        "url": "https://open.spotify.com/album/2HyDLO6tHAOx2QiQr9RLCf"
+        "name": "Check Your Head (Deluxe Edition/Remastered)",
+        "url": "https://open.spotify.com/album/7CSP7J60QKIBCqOV64qILq"
       },
       "artists": [
         {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
         }
       ],
-      "duration_ms": 262826,
-      "name": "Do You Remember The First Time?",
-      "url": "https://open.spotify.com/track/0txLC5NA64M8siGn3mnET0"
+      "duration_ms": 216940,
+      "name": "So What'Cha Want - Remastered 2009",
+      "url": "https://open.spotify.com/track/0gmGBCJ5XhOmoNR37MmxEE"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2375,22 +2375,6 @@
       "duration_ms": 296200,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/3EXrtClWmgsM7dw75Mw2M1"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
-        "name": "Check Your Head (Deluxe Edition/Remastered)",
-        "url": "https://open.spotify.com/album/7CSP7J60QKIBCqOV64qILq"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 216940,
-      "name": "So What'Cha Want - Remastered 2009",
-      "url": "https://open.spotify.com/track/0gmGBCJ5XhOmoNR37MmxEE"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2423,6 +2407,22 @@
       "duration_ms": 235706,
       "name": "Gigantic - Remastered",
       "url": "https://open.spotify.com/track/5G2g1EbEtFSMkMbAnhl7FV"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "His N Hers",
+        "url": "https://open.spotify.com/album/2HyDLO6tHAOx2QiQr9RLCf"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        }
+      ],
+      "duration_ms": 262826,
+      "name": "Do You Remember The First Time?",
+      "url": "https://open.spotify.com/track/0txLC5NA64M8siGn3mnET0"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2523,22 +2523,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Recovering The Satellites",
-        "url": "https://open.spotify.com/album/4YArB2Q848BDmmwUUumEFP"
-      },
-      "artists": [
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        }
-      ],
-      "duration_ms": 72160,
-      "name": "Walkaways",
-      "url": "https://open.spotify.com/track/29aBFvccQbYYmCnEBP27Y8"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Come Find Yourself",
         "url": "https://open.spotify.com/album/2kLxemkoUhfXKvJ78MabBN"
       },
@@ -2551,6 +2535,22 @@
       "duration_ms": 184000,
       "name": "Scooby Snacks",
       "url": "https://open.spotify.com/track/7I8KtOFPNmC2ZsiNPCwoS8"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Recovering The Satellites",
+        "url": "https://open.spotify.com/album/4YArB2Q848BDmmwUUumEFP"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "duration_ms": 72160,
+      "name": "Walkaways",
+      "url": "https://open.spotify.com/track/29aBFvccQbYYmCnEBP27Y8"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2603,18 +2603,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "August And Everything After",
-        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
+        "name": "Without You I'm Nothing",
+        "url": "https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT"
       },
       "artists": [
         {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+          "name": "Placebo",
+          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
         }
       ],
-      "duration_ms": 255773,
-      "name": "Rain King",
-      "url": "https://open.spotify.com/track/7s4JCyY8YIZSsKvtwStBQ6"
+      "duration_ms": 254760,
+      "name": "Pure Morning",
+      "url": "https://open.spotify.com/track/32F0zqsDgqpIEYApk2b8sr"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2651,6 +2651,22 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
+        "name": "August And Everything After",
+        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "duration_ms": 255773,
+      "name": "Rain King",
+      "url": "https://open.spotify.com/track/7s4JCyY8YIZSsKvtwStBQ6"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
         "name": "Sixteen Stone (Remastered)",
         "url": "https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y"
       },
@@ -2663,22 +2679,6 @@
       "duration_ms": 278133,
       "name": "Everything Zen",
       "url": "https://open.spotify.com/track/7waRjsA2ehXv619f47lYOT"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
-        "name": "Without You I'm Nothing",
-        "url": "https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT"
-      },
-      "artists": [
-        {
-          "name": "Placebo",
-          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
-        }
-      ],
-      "duration_ms": 254760,
-      "name": "Pure Morning",
-      "url": "https://open.spotify.com/track/32F0zqsDgqpIEYApk2b8sr"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2843,18 +2843,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "In The Heart Of The Young",
-        "url": "https://open.spotify.com/album/2P5MIQaEXsyDtiXXChyijs"
+        "name": "Bossanova",
+        "url": "https://open.spotify.com/album/0BK1LxNNcaNUtAqTBQAOR8"
       },
       "artists": [
         {
-          "name": "Winger",
-          "url": "https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874"
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
         }
       ],
-      "duration_ms": 252866,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/3Bzh1AtiViTIaZV6yqySZH"
+      "duration_ms": 220333,
+      "name": "Velouria",
+      "url": "https://open.spotify.com/track/0lBO2VOhlNNx879Fjd9XY3"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2875,18 +2875,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Bossanova",
-        "url": "https://open.spotify.com/album/0BK1LxNNcaNUtAqTBQAOR8"
+        "name": "In The Heart Of The Young",
+        "url": "https://open.spotify.com/album/2P5MIQaEXsyDtiXXChyijs"
       },
       "artists": [
         {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+          "name": "Winger",
+          "url": "https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874"
         }
       ],
-      "duration_ms": 220333,
-      "name": "Velouria",
-      "url": "https://open.spotify.com/track/0lBO2VOhlNNx879Fjd9XY3"
+      "duration_ms": 252866,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/3Bzh1AtiViTIaZV6yqySZH"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2971,22 +2971,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Bang Bang",
-        "url": "https://open.spotify.com/album/0tN2TkilPoLmqN21UJBC77"
-      },
-      "artists": [
-        {
-          "name": "DISPATCH",
-          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
-        }
-      ],
-      "duration_ms": 267746,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/2yGoiZes2YcueNA4nGDmdS"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Razorblade Suitcase (In Addition)",
         "url": "https://open.spotify.com/album/5nLESM0i6o7nWCyu7FAeb9"
       },
@@ -3019,6 +3003,22 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/0tN2TkilPoLmqN21UJBC77"
+      },
+      "artists": [
+        {
+          "name": "DISPATCH",
+          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
+        }
+      ],
+      "duration_ms": 267746,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/2yGoiZes2YcueNA4nGDmdS"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
         "name": "Everybody Else Is Doing It, So Why Can't We?",
         "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
       },
@@ -3031,38 +3031,6 @@
       "duration_ms": 136200,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/3mayeyaPg5DQGBa78LJM59"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
-        "name": "Out Of Time (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 199360,
-      "name": "Near Wild Heaven",
-      "url": "https://open.spotify.com/track/378HOooPNo6LRIfVHb15nW"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
-        "name": "Unplugged (Deluxe Edition) (Live)",
-        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 235426,
-      "name": "Nobody Knows You When You're Down and Out - Acoustic Live",
-      "url": "https://open.spotify.com/track/7sVxm1I8G8tTznXeirDEXm"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -3099,6 +3067,38 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
+        "name": "Unplugged (Deluxe Edition) (Live)",
+        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 235426,
+      "name": "Nobody Knows You When You're Down and Out - Acoustic Live",
+      "url": "https://open.spotify.com/track/7sVxm1I8G8tTznXeirDEXm"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Out Of Time (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 199360,
+      "name": "Near Wild Heaven",
+      "url": "https://open.spotify.com/track/378HOooPNo6LRIfVHb15nW"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
         "name": "Use Your Illusion I",
         "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
       },
@@ -3111,22 +3111,6 @@
       "duration_ms": 298160,
       "name": "Dust N' Bones",
       "url": "https://open.spotify.com/track/4vtXsXvSYaTfKQ0dJXbJGu"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
-        "name": "Marcy Playground",
-        "url": "https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB"
-      },
-      "artists": [
-        {
-          "name": "Marcy Playground",
-          "url": "https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r"
-        }
-      ],
-      "duration_ms": 200156,
-      "name": "Saint Joe On The School Bus",
-      "url": "https://open.spotify.com/track/1LC2Hcgf2RgEbxPHNTnzaC"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -3147,18 +3131,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Bringing Down The Horse",
-        "url": "https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh"
+        "name": "Marcy Playground",
+        "url": "https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB"
       },
       "artists": [
         {
-          "name": "The Wallflowers",
-          "url": "https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB"
+          "name": "Marcy Playground",
+          "url": "https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r"
         }
       ],
-      "duration_ms": 299440,
-      "name": "Three Marlenas",
-      "url": "https://open.spotify.com/track/6iPZEvHsTanHMOtjyJWMEm"
+      "duration_ms": 200156,
+      "name": "Saint Joe On The School Bus",
+      "url": "https://open.spotify.com/track/1LC2Hcgf2RgEbxPHNTnzaC"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -3179,34 +3163,50 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Extreme II - Pornograffitti",
-        "url": "https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC"
+        "name": "Flesh & Blood",
+        "url": "https://open.spotify.com/album/7alngtync76VqYWSKxcBhB"
       },
       "artists": [
         {
-          "name": "Extreme",
-          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
+          "name": "Poison",
+          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
         }
       ],
-      "duration_ms": 219289,
-      "name": "Hole Hearted",
-      "url": "https://open.spotify.com/track/1cItNpcJskTVETprljc7HV"
+      "duration_ms": 231400,
+      "name": "Ride The Wind",
+      "url": "https://open.spotify.com/track/5gpJr7OLgZWVYAyKWj0GuH"
     },
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Diary (2009 Edition)",
-        "url": "https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv"
+        "name": "Bringing Down The Horse",
+        "url": "https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh"
       },
       "artists": [
         {
-          "name": "Sunny Day Real Estate",
-          "url": "https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or"
+          "name": "The Wallflowers",
+          "url": "https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB"
         }
       ],
-      "duration_ms": 298413,
-      "name": "In Circles - Remastered",
-      "url": "https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd"
+      "duration_ms": 299440,
+      "name": "Three Marlenas",
+      "url": "https://open.spotify.com/track/6iPZEvHsTanHMOtjyJWMEm"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Enema Of The State",
+        "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/0k4jXQdPD1NkxQutE3IB1C"
     }
   ],
   "unique_name": "Deep Dive: 90s Rock",

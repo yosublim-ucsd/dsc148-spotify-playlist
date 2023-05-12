@@ -431,6 +431,24 @@
     },
     {
       "album": {
+        "name": "Arigato Mama",
+        "url": "https://open.spotify.com/album/70gkTjKai4oN4fEtDXL8Ce"
+      },
+      "artists": [
+        {
+          "name": "Dj Yutaka",
+          "url": "https://open.spotify.com/artist/6PjCaQSdfVd1YIdO3vnsAn"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189058,
+      "name": "Arigato Mama",
+      "url": "https://open.spotify.com/track/2yxnnVeeS0s4hUqhFiDEdi"
+    },
+    {
+      "album": {
         "name": "Baby, It's Over",
         "url": "https://open.spotify.com/album/30gtureHZGCuC3g0WoCxyP"
       },
@@ -3255,6 +3273,24 @@
     },
     {
       "album": {
+        "name": "Heavy Rain",
+        "url": "https://open.spotify.com/album/06Q46ZGejs53a5s5AxRC3c"
+      },
+      "artists": [
+        {
+          "name": "Bayek",
+          "url": "https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98092,
+      "name": "Heavy Rain",
+      "url": "https://open.spotify.com/track/0D7VlZ5PRHvjGMARkvwyne"
+    },
+    {
+      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/5gxUAHV9Zt1DXK8F2JN67b"
       },
@@ -4850,7 +4886,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 166588,
       "name": "Mixed Emotions",
       "url": "https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC"
@@ -6908,7 +6944,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 201000,
       "name": "SICK",
       "url": "https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly!
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,507 likes - 50 songs - 2 hr 26 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,506 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 49 | [Spinning Around](https://open.spotify.com/track/3Td9NXZeaPCiyTHlAS7xuK) | [Jolyon Petch](https://open.spotify.com/artist/00Ja3YjvU4DYCHWt6cPs42) | [Spinning Around](https://open.spotify.com/album/2JDuYS1ljf3Hlf5aPrH8Eg) | 2:41 |
 | 50 | [All I Ever](https://open.spotify.com/track/5g5ImAyBj1AZpRFspFIJWt) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [All I Ever EP](https://open.spotify.com/album/3nRODdh5F8Wn2NDp8qKzXa) | 2:52 |
 
-Snapshot ID: `MjU3OSxmNjkwYWIyNDFhYjYyMWI4MDdmM2RkN2Q1NTVkZjFkM2EyNjUxYzFh`
+Snapshot ID: `MjU4MSxjNmU0MWE4NWFkMzNlZjQ1ZmU0MzU4ZTI3NWRiMTA4NWI4ZTFlOTk3`

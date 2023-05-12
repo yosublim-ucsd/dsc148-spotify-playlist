@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Aya Nakamura & Myke Towers",
-  "num_followers": 107719,
+  "num_followers": 107777,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTBiZmJiZmYwNDU5ZmIzYjMzZTg1NGUwNmJmMjU2MDQ5MDU4ZmMx",
+  "snapshot_id": "MCwxMzg2Mjk4YWExNGRkNzAzZTNkYzRiNmUwMTE5NDkxMDYwMzcxNWQ4",
   "tracks": [
     {
       "added_at": "2023-05-08 10:32:53",
@@ -643,26 +643,6 @@
     {
       "added_at": "2023-05-08 10:32:53",
       "album": {
-        "name": "Versions of Me",
-        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Afro B",
-          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
-        }
-      ],
-      "duration_ms": 186476,
-      "name": "Maria Elegante (feat. Afro B)",
-      "url": "https://open.spotify.com/track/2OU6RxOSA8n7nDpg3gF3aX"
-    },
-    {
-      "added_at": "2023-05-08 10:32:53",
-      "album": {
         "name": "Baila Kumi",
         "url": "https://open.spotify.com/album/7Bpb7mSPr0iJE7MyHqeVav"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 206808,
       "name": "Baila Kumi",
       "url": "https://open.spotify.com/track/6MDegdCkEiUjE7ftt5GcPU"
+    },
+    {
+      "added_at": "2023-05-08 10:32:53",
+      "album": {
+        "name": "Versions of Me",
+        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        }
+      ],
+      "duration_ms": 186476,
+      "name": "Maria Elegante (feat. Afro B)",
+      "url": "https://open.spotify.com/track/2OU6RxOSA8n7nDpg3gF3aX"
     },
     {
       "added_at": "2023-05-08 10:32:53",
@@ -1299,34 +1299,6 @@
     {
       "added_at": "2023-05-08 10:32:53",
       "album": {
-        "name": "Son of the City",
-        "url": "https://open.spotify.com/album/7sQ6TFEEb8N88lvV6NE8OS"
-      },
-      "artists": [
-        {
-          "name": "Trio Mio",
-          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
-        },
-        {
-          "name": "Mejja",
-          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
-        },
-        {
-          "name": "Exray",
-          "url": "https://open.spotify.com/artist/0jEAvweUh4N7mXYMDkRTQo"
-        },
-        {
-          "name": "Nellythegoon",
-          "url": "https://open.spotify.com/artist/33ypECIxCzdSYfzysHmrH7"
-        }
-      ],
-      "duration_ms": 334000,
-      "name": "Cheza Kama Wewe",
-      "url": "https://open.spotify.com/track/4NAhcKp6YtMDRAMH4UeUE5"
-    },
-    {
-      "added_at": "2023-05-08 10:32:53",
-      "album": {
         "name": "Next To You Part II (feat. Rvssian & Davido)",
         "url": "https://open.spotify.com/album/67hfw7M0E3Rty5HntU1eC2"
       },
@@ -1351,6 +1323,34 @@
       "duration_ms": 179257,
       "name": "Next To You Part II (feat. Rvssian & Davido)",
       "url": "https://open.spotify.com/track/00yinrzqPZKA2vbnwnn3hS"
+    },
+    {
+      "added_at": "2023-05-08 10:32:53",
+      "album": {
+        "name": "Son of the City",
+        "url": "https://open.spotify.com/album/7sQ6TFEEb8N88lvV6NE8OS"
+      },
+      "artists": [
+        {
+          "name": "Trio Mio",
+          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
+        },
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        },
+        {
+          "name": "Exray",
+          "url": "https://open.spotify.com/artist/0jEAvweUh4N7mXYMDkRTQo"
+        },
+        {
+          "name": "Nellythegoon",
+          "url": "https://open.spotify.com/artist/33ypECIxCzdSYfzysHmrH7"
+        }
+      ],
+      "duration_ms": 334000,
+      "name": "Cheza Kama Wewe",
+      "url": "https://open.spotify.com/track/4NAhcKp6YtMDRAMH4UeUE5"
     },
     {
       "added_at": "2023-05-08 10:32:53",

@@ -4,7 +4,7 @@
 
 > The wave of Latinos in Hip\-Hop from the U.S\. Cover: Speak
 
-265 songs - 12 hr 32 min
+266 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Block Boi](https://open.spotify.com/track/6KuH8oGfAvxCPj11pvtR7p) | [Dezzy Hollow](https://open.spotify.com/artist/6YY8kfgPtpc49TxClWFKS0) | [Block Boi](https://open.spotify.com/album/4YtV0eANan4qLP8dZoVVIM) | 2:37 | 2022-01-10 | 2022-02-22 |
 | [Blue City](https://open.spotify.com/track/21BaLYr8KW86xB82Hbk9y9) | [Kruk One](https://open.spotify.com/artist/5pEIEcrTR5g3ghn9TBX04H) | [Blue City](https://open.spotify.com/album/4FQWKKdsJPdPLuJeOTa83Q) | 2:52 | 2022-01-10 | 2022-02-24 |
 | [Blue Rag](https://open.spotify.com/track/50nmYPB44NTrpizigC3lJG) | [Bozo](https://open.spotify.com/artist/0MmTKGQIOhXazVmd3IdOKp), [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb) | [Blue Rag](https://open.spotify.com/album/3yy9CwnrNiZrCrzIoZ1p4C) | 1:57 | 2023-01-27 |  |
-| [Born In A System](https://open.spotify.com/track/3LHef8DQ2a7jMphnvSpmMz) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca) | [Born In A System](https://open.spotify.com/album/3L0SDWEUsPe0qeUrZWpcvG) | 3:06 | 2023-01-27 |  |
+| [Born In a System](https://open.spotify.com/track/2p40I0XVnjj8YwyvC4MBgf) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca) | [Born In a System](https://open.spotify.com/album/3LJUkRdDM5hV3yb3NbwwEJ) | 3:06 | 2023-03-10 |  |
+| [Born In A System](https://open.spotify.com/track/3LHef8DQ2a7jMphnvSpmMz) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca) | [Born In A System](https://open.spotify.com/album/3L0SDWEUsPe0qeUrZWpcvG) | 3:06 | 2023-01-27 | 2023-05-12 |
 | [Born With It](https://open.spotify.com/track/1dxSihlLO2uSolxuiMI94i) | [Gavlyn](https://open.spotify.com/artist/58ASRfojjs1J8bhyuUh1tI), [DJ Hoppa](https://open.spotify.com/artist/7zuoqJAXDtNaLzxxm4IShD) | [Born With It](https://open.spotify.com/album/4rdbGF4Mmp1uYFo7BWV4Sn) | 3:00 | 2022-01-10 | 2022-01-24 |
 | [Bounce](https://open.spotify.com/track/2tWnM7aAYTNNGMYm2FMUI4) | [Banco](https://open.spotify.com/artist/4s3w6Gc8ef726qTt7iEMCX) | [River City Summer](https://open.spotify.com/album/5ExcUsztUfeDCxD4Ya5bvp) | 2:27 | 2022-01-10 | 2022-03-16 |
 | [BOUNCE](https://open.spotify.com/track/1eaMcXQSADPpx0bofp1xFv) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca) | [BOUNCE](https://open.spotify.com/album/7ark5HOGzje8bAvMvLjG9M) | 2:20 | 2022-09-11 | 2023-01-28 |

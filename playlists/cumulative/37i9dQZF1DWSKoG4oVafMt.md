@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Guru Randhawa & Shehnaaz Gill
 
-744 songs - 1 day 16 hr 21 min
+745 songs - 1 day 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,6 +327,7 @@
 | [Keh Len De](https://open.spotify.com/track/3CHZhkihLupVrfYIyg869S) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux), [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk), [Himanshi Khurana](https://open.spotify.com/artist/6JZPJPlOcGSQaVLQKJ1qQ3) | [Keh Len De](https://open.spotify.com/album/5XAtOSRyn0dDnrZBcjVQoi) | 2:30 | 2021-12-02 | 2022-04-06 |
 | [Kehri Gali](https://open.spotify.com/track/1paDFKGNdKWOSq8sk4Bv8u) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Tini \- EP](https://open.spotify.com/album/2ieFpeF1ll67TuqGjmOJP3) | 3:33 | 2022-09-05 | 2022-09-16 |
 | [Khabbi Seat](https://open.spotify.com/track/4aK30RcFKxsiF1gjLlH5Gt) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Sweetaj Brar](https://open.spotify.com/artist/2B4azLEfuhlG2ykxCaQJWk) | [Khabbi Seat](https://open.spotify.com/album/0Q0QRo49mBz9zs7KKdZYrG) | 3:24 | 2021-12-02 | 2022-04-29 |
+| [Khayaal](https://open.spotify.com/track/4D8eFUu6Hvulrq6CGqGaLR) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG) | [Khayaal](https://open.spotify.com/album/6YRCu9pm8bpzydmmddfXYG) | 2:42 | 2023-05-11 |  |
 | [Khilona](https://open.spotify.com/track/59wY6mjaBDsLMrRXqe67Gl) | [Vibhor Parashar](https://open.spotify.com/artist/6q2TUP4nBtVhI7wyRwKXxu) | [Khilona](https://open.spotify.com/album/7FugdJh2s51qyNsFOhT5Eq) | 3:07 | 2022-05-10 | 2022-05-20 |
 | [Khoon Peendi](https://open.spotify.com/track/4GZkz4Ck4bhfWlBe2FaKe2) | [Geeta Zaildar](https://open.spotify.com/artist/78rdC4FvVaOJmEgfjlUi4a), [Jassi X](https://open.spotify.com/artist/3rJlJIcCjbAyj4X08YQqsS) | [Khoon Peendi](https://open.spotify.com/album/7A0QuOnpRPzEAyb1KjjX0c) | 2:41 | 2022-03-10 | 2022-04-06 |
 | [Khyaal](https://open.spotify.com/track/2NSePTBNvDTrLCfa12IlbC) | [Babbal Rai](https://open.spotify.com/artist/5LFXPuKD97Sp9qdkxYBfDn) | [Khyaal](https://open.spotify.com/album/6na48949ddaO9SJwS0Jg3P) | 3:42 | 2022-04-25 | 2022-05-20 |

@@ -1,12 +1,12 @@
 {
   "description": "Find the path back to an era of enlightenment.",
-  "num_followers": 64520,
+  "num_followers": 64614,
   "original_name": "Early New Age",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDRjMjllNjNhYmYzMWYwNTI3MDJjZGMzMmI2ZmZlNDNiZDM4MzEw",
+  "snapshot_id": "MCw0YzdmZGY5ODIwMDU1ZDA4MmVjZmRkZTY2ZGY1MThlZjZiNmQzNTQ1",
   "tracks": [
     {
       "added_at": "2022-10-04 12:35:58",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Cool Islands",
-        "url": "https://open.spotify.com/album/5kI360nRgdmq6ZBfZRX945"
-      },
-      "artists": [
-        {
-          "name": "Cusco",
-          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
-        }
-      ],
-      "duration_ms": 193506,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/21gXtkGSaX27wcqtbams4W"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
         "name": "Natural States",
         "url": "https://open.spotify.com/album/3HyH82W2IiahIKXnLXpg3K"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 211666,
       "name": "Behind The Waterfall",
       "url": "https://open.spotify.com/track/0RjITt1ROaVZvjJlfp9mTD"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
+        "name": "Cool Islands",
+        "url": "https://open.spotify.com/album/5kI360nRgdmq6ZBfZRX945"
+      },
+      "artists": [
+        {
+          "name": "Cusco",
+          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
+        }
+      ],
+      "duration_ms": 193506,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/21gXtkGSaX27wcqtbams4W"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -183,18 +183,22 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Cusco 2",
-        "url": "https://open.spotify.com/album/0AUu3xGjmn7yeYm3ZF8Q1c"
+        "name": "Natural States",
+        "url": "https://open.spotify.com/album/3HyH82W2IiahIKXnLXpg3K"
       },
       "artists": [
         {
-          "name": "Cusco",
-          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
+          "name": "Paul Speer",
+          "url": "https://open.spotify.com/artist/2VUPYdEFwt0kuKadgXhpRe"
+        },
+        {
+          "name": "David Lanz",
+          "url": "https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c"
         }
       ],
-      "duration_ms": 228240,
-      "name": "Lake of the Ozarks",
-      "url": "https://open.spotify.com/track/4hv02M3OzsEgN6b1EoA1O6"
+      "duration_ms": 258000,
+      "name": "Rain Forest",
+      "url": "https://open.spotify.com/track/6FZfxmeVhsdqkD8WJfP83n"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -247,6 +251,22 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
+        "name": "Cusco 2",
+        "url": "https://open.spotify.com/album/0AUu3xGjmn7yeYm3ZF8Q1c"
+      },
+      "artists": [
+        {
+          "name": "Cusco",
+          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
+        }
+      ],
+      "duration_ms": 228240,
+      "name": "Lake of the Ozarks",
+      "url": "https://open.spotify.com/track/4hv02M3OzsEgN6b1EoA1O6"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
         "name": "White Winds (Seeker's Journey)",
         "url": "https://open.spotify.com/album/3wrWgRYqBkpE5gE6Csl5FN"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 344293,
       "name": "Alpha",
       "url": "https://open.spotify.com/track/1qkp9OvCk8FjeDdEd2bKQ6"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
-        "name": "Natural States",
-        "url": "https://open.spotify.com/album/3HyH82W2IiahIKXnLXpg3K"
-      },
-      "artists": [
-        {
-          "name": "Paul Speer",
-          "url": "https://open.spotify.com/artist/2VUPYdEFwt0kuKadgXhpRe"
-        },
-        {
-          "name": "David Lanz",
-          "url": "https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Rain Forest",
-      "url": "https://open.spotify.com/track/6FZfxmeVhsdqkD8WJfP83n"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -359,30 +359,6 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Behind the Gardens, Behind the Wall, Under the Tree...",
-        "url": "https://open.spotify.com/album/1wDxqZZTnQNubYdiNKor9k"
-      },
-      "artists": [
-        {
-          "name": "Andreas Vollenweider",
-          "url": "https://open.spotify.com/artist/7MynOMOTsGz8NFcPUImWAp"
-        },
-        {
-          "name": "Walter Keiser",
-          "url": "https://open.spotify.com/artist/3LfEGh0Nwxa7mJ79Q1kTkX"
-        },
-        {
-          "name": "Pedro Haldemann",
-          "url": "https://open.spotify.com/artist/5hvDMqDnlZLm5opdeqgkE2"
-        }
-      ],
-      "duration_ms": 440440,
-      "name": "Behind the Gardens, Behind the Wall, Under the Tree...",
-      "url": "https://open.spotify.com/track/5mB5bx5TTaxawgHXbNhLtO"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/0nI82CyOhfSVAlElZlAUXW"
       },
@@ -427,22 +403,6 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Spiral",
-        "url": "https://open.spotify.com/album/6Tz3gRyPvHv8eDT5RZ2xXX"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 546106,
-      "name": "To the Unknown Man",
-      "url": "https://open.spotify.com/track/0024tEymsoc9FyKUauQngQ"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
         "name": "Planet Voyage",
         "url": "https://open.spotify.com/album/0GViiRz9x2LRw19fHCr3sl"
       },
@@ -455,6 +415,30 @@
       "duration_ms": 229306,
       "name": "Ursa Minor",
       "url": "https://open.spotify.com/track/2E78fpMP8NgoFa29Vb6Iaq"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
+        "name": "Behind the Gardens, Behind the Wall, Under the Tree...",
+        "url": "https://open.spotify.com/album/1wDxqZZTnQNubYdiNKor9k"
+      },
+      "artists": [
+        {
+          "name": "Andreas Vollenweider",
+          "url": "https://open.spotify.com/artist/7MynOMOTsGz8NFcPUImWAp"
+        },
+        {
+          "name": "Walter Keiser",
+          "url": "https://open.spotify.com/artist/3LfEGh0Nwxa7mJ79Q1kTkX"
+        },
+        {
+          "name": "Pedro Haldemann",
+          "url": "https://open.spotify.com/artist/5hvDMqDnlZLm5opdeqgkE2"
+        }
+      ],
+      "duration_ms": 440440,
+      "name": "Behind the Gardens, Behind the Wall, Under the Tree...",
+      "url": "https://open.spotify.com/track/5mB5bx5TTaxawgHXbNhLtO"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -475,6 +459,22 @@
       "duration_ms": 1127173,
       "name": "Meditation No. 1",
       "url": "https://open.spotify.com/track/3Z9PWaE8d55XcOxEHwx6U8"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/6Tz3gRyPvHv8eDT5RZ2xXX"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 546106,
+      "name": "To the Unknown Man",
+      "url": "https://open.spotify.com/track/0024tEymsoc9FyKUauQngQ"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Antarctica (Remastered)",
-        "url": "https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 445613,
-      "name": "Theme From Antarctica - Remastered",
-      "url": "https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
         "name": "Caverna Magica (...Under The Tree - In The Cave...)",
         "url": "https://open.spotify.com/album/6RL8XkIxNFhMEwXeiNepu4"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 320493,
       "name": "Belladonna",
       "url": "https://open.spotify.com/track/1YQENHyvQPW2NZ9buace7G"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
+        "name": "Antarctica (Remastered)",
+        "url": "https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 445613,
+      "name": "Theme From Antarctica - Remastered",
+      "url": "https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Fresh Aire I",
-        "url": "https://open.spotify.com/album/3hL31GvqVxkVBORWWv8ufu"
-      },
-      "artists": [
-        {
-          "name": "Mannheim Steamroller",
-          "url": "https://open.spotify.com/artist/0EeHVtSdrYibpGDVHjWEpe"
-        }
-      ],
-      "duration_ms": 153706,
-      "name": "Interlude II",
-      "url": "https://open.spotify.com/track/74fBQYF9lWbnUq5xDWHzAf"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
         "name": "Celestial Soul Portrait",
         "url": "https://open.spotify.com/album/019HAaxSfRFvJK3MO5Prjs"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 659426,
       "name": "The Angels Of Comfort",
       "url": "https://open.spotify.com/track/6JpONRdUefjY223L1AscpJ"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
+        "name": "Fresh Aire I",
+        "url": "https://open.spotify.com/album/3hL31GvqVxkVBORWWv8ufu"
+      },
+      "artists": [
+        {
+          "name": "Mannheim Steamroller",
+          "url": "https://open.spotify.com/artist/0EeHVtSdrYibpGDVHjWEpe"
+        }
+      ],
+      "duration_ms": 153706,
+      "name": "Interlude II",
+      "url": "https://open.spotify.com/track/74fBQYF9lWbnUq5xDWHzAf"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Procession",
-        "url": "https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3"
-      },
-      "artists": [
-        {
-          "name": "Bernard Xolotl",
-          "url": "https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e"
-        }
-      ],
-      "duration_ms": 447000,
-      "name": "Procession",
-      "url": "https://open.spotify.com/track/0cHRNVH8Uo7CJL9QbPaZZB"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
         "name": "A Rainbow Path",
         "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 394826,
       "name": "Soaring: Crown Chakra",
       "url": "https://open.spotify.com/track/7yCRHqTkHqgk5adoUbZyiP"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
+        "name": "Procession",
+        "url": "https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3"
+      },
+      "artists": [
+        {
+          "name": "Bernard Xolotl",
+          "url": "https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e"
+        }
+      ],
+      "duration_ms": 447000,
+      "name": "Procession",
+      "url": "https://open.spotify.com/track/0cHRNVH8Uo7CJL9QbPaZZB"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -1603,54 +1603,6 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Astral Travels",
-        "url": "https://open.spotify.com/album/0KGv5Eo6JF7gck6HiqsA1S"
-      },
-      "artists": [
-        {
-          "name": "Cobalt",
-          "url": "https://open.spotify.com/artist/7dRNII6Q9yt3eH0lZa40tp"
-        }
-      ],
-      "duration_ms": 177373,
-      "name": "Inside Celeste",
-      "url": "https://open.spotify.com/track/1F0gPy2GloSd4kh9rS26yc"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
-        "name": "Procession",
-        "url": "https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3"
-      },
-      "artists": [
-        {
-          "name": "Bernard Xolotl",
-          "url": "https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e"
-        }
-      ],
-      "duration_ms": 936000,
-      "name": "Mirador",
-      "url": "https://open.spotify.com/track/6jAgEFRzUTkZaJa3PEDxeP"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
-        "name": "Transcendental Music for Meditation",
-        "url": "https://open.spotify.com/album/7MBKtyZEbWaoHfKbXbD8bB"
-      },
-      "artists": [
-        {
-          "name": "Master Wilburn Burchette",
-          "url": "https://open.spotify.com/artist/2EefjxRUX7kaLEifrs6jG1"
-        }
-      ],
-      "duration_ms": 910386,
-      "name": "Part One",
-      "url": "https://open.spotify.com/track/7CQFDhAbz7zLvtNcsl3qAB"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
         "name": "Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961-88",
         "url": "https://open.spotify.com/album/4klqR6x6zW58RaW1y2ffSI"
       },
@@ -1679,6 +1631,54 @@
       "duration_ms": 323693,
       "name": "Processional: Root Chakra",
       "url": "https://open.spotify.com/track/6J0uoAi0NEoH6bTtNZIV76"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
+        "name": "Astral Travels",
+        "url": "https://open.spotify.com/album/0KGv5Eo6JF7gck6HiqsA1S"
+      },
+      "artists": [
+        {
+          "name": "Cobalt",
+          "url": "https://open.spotify.com/artist/7dRNII6Q9yt3eH0lZa40tp"
+        }
+      ],
+      "duration_ms": 177373,
+      "name": "Inside Celeste",
+      "url": "https://open.spotify.com/track/1F0gPy2GloSd4kh9rS26yc"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
+        "name": "Transcendental Music for Meditation",
+        "url": "https://open.spotify.com/album/7MBKtyZEbWaoHfKbXbD8bB"
+      },
+      "artists": [
+        {
+          "name": "Master Wilburn Burchette",
+          "url": "https://open.spotify.com/artist/2EefjxRUX7kaLEifrs6jG1"
+        }
+      ],
+      "duration_ms": 910386,
+      "name": "Part One",
+      "url": "https://open.spotify.com/track/7CQFDhAbz7zLvtNcsl3qAB"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
+        "name": "Procession",
+        "url": "https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3"
+      },
+      "artists": [
+        {
+          "name": "Bernard Xolotl",
+          "url": "https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e"
+        }
+      ],
+      "duration_ms": 936000,
+      "name": "Mirador",
+      "url": "https://open.spotify.com/track/6jAgEFRzUTkZaJa3PEDxeP"
     },
     {
       "added_at": "2022-10-04 12:35:58",

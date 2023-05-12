@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-466 songs - 19 hr 1 min
+468 songs - 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Another Dream](https://open.spotify.com/track/6asjZPi0s4wdk4Etx3eArV) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ), [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [Another Dream](https://open.spotify.com/album/6sTcGK7CQiZPCmpE5ENpl8) | 2:51 | 2021-12-16 | 2022-04-18 |
 | [Apology To Myself](https://open.spotify.com/track/1HAfzaTtEOwry54gB6uMwd) | [Minthaze](https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v) | [Apology To Myself](https://open.spotify.com/album/2JZgOyJ5uc8DCeayHQs80H) | 1:40 | 2019-05-26\* | 2019-06-15 |
 | [archipelago](https://open.spotify.com/track/2cJrM72wG5Kj1497cklAUi) | [mvnitou](https://open.spotify.com/artist/1u5Lht40OtsxS78hPb3wr9) | [archipelago](https://open.spotify.com/album/4uV1hspSYL4kVL8bHX85Pj) | 2:58 | 2020-11-06 | 2021-10-23 |
+| [Arigato Mama](https://open.spotify.com/track/2yxnnVeeS0s4hUqhFiDEdi) | [Dj Yutaka](https://open.spotify.com/artist/6PjCaQSdfVd1YIdO3vnsAn) | [Arigato Mama](https://open.spotify.com/album/70gkTjKai4oN4fEtDXL8Ce) | 3:09 | 2023-05-11 |  |
 | [Baby, It's Over](https://open.spotify.com/track/2VOpnswDATUVkyLA4FNO2C) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU), [Pure Colors](https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql) | [Baby, It's Over](https://open.spotify.com/album/30gtureHZGCuC3g0WoCxyP) | 2:28 | 2020-07-18 |  |
 | [Back & Forth](https://open.spotify.com/track/6LDYOZ1ZEDNwsPbbA3ShnV) | [The Other Guys](https://open.spotify.com/artist/0FRkEQ2lzu4ZSPV1Yv5g8X) | [Back & Forth](https://open.spotify.com/album/2np06G3wE3BOHhVm1WiMRa) | 2:11 | 2020-11-06 | 2022-07-01 |
 | [Back in a day](https://open.spotify.com/track/1IBRiarB9kjiU0TtUhZbBP) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Back in a day](https://open.spotify.com/album/4atci2khIlJisfCFMmjcUf) | 1:54 | 2023-01-12 | 2023-01-14 |
@@ -173,6 +174,7 @@
 | [Green Hour](https://open.spotify.com/track/2W37pW44vjCKSgd75qx8D0) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Green Hour](https://open.spotify.com/album/7lWq8L7ppbN87oY2rPbc00) | 2:31 | 2023-02-10 | 2023-02-11 |
 | [Green Hour](https://open.spotify.com/track/5sEq6CloKNgOClDlJZemZ4) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Green Hour](https://open.spotify.com/album/6sYcWXkK18aoNRdKOtiAF6) | 2:31 | 2023-02-11 | 2023-05-02 |
 | [Hakuna Matata](https://open.spotify.com/track/5l5rUCU2QAA1sXTuNPlMHZ) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Disney Lofi](https://open.spotify.com/artist/2ETOhMwFhRRTCH8M1ge17v) | [Lofi Minnie: Focus](https://open.spotify.com/album/37LBLwOpwruXguw0QclQzN) | 2:48 | 2022-03-24 |  |
+| [Heavy Rain](https://open.spotify.com/track/0D7VlZ5PRHvjGMARkvwyne) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh) | [Heavy Rain](https://open.spotify.com/album/06Q46ZGejs53a5s5AxRC3c) | 1:38 | 2023-05-11 |  |
 | [Hello](https://open.spotify.com/track/4ZiuK6Y2WGVi0UajR3aIUD) | [Peter Kind](https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM) | [Hello](https://open.spotify.com/album/5gxUAHV9Zt1DXK8F2JN67b) | 2:04 | 2020-06-29 | 2022-07-27 |
 | [Hip Shop](https://open.spotify.com/track/169xT0Be1P2Hgjd9hq5Lk1) | [Coffee Date](https://open.spotify.com/artist/74ZWzuwsxGAt05s2sWtq0j), [Curly](https://open.spotify.com/artist/4AE4o0hck4magAI2urzzlh), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp) | [Hip Shop](https://open.spotify.com/album/0KRl72v3V3cZHeGVlRqDvC) | 2:03 | 2021-10-29 |  |
 | [Homecoming](https://open.spotify.com/track/1zUOLEMjeD1AWRxjSy0HRF) | [Elior](https://open.spotify.com/artist/0tquhVod10o2zf1ht2aVoz) | [Homecoming](https://open.spotify.com/album/4kl3f8qxGW2VZhJumGpIvF) | 3:07 | 2021-06-12 | 2022-07-27 |
@@ -255,7 +257,7 @@
 | [MidStation](https://open.spotify.com/track/6KEOX0H9NMSK7qLH7a64Nc) | [the.lazyb](https://open.spotify.com/artist/4KtU6swIBacJ3KHFMJliOD) | [Immerse](https://open.spotify.com/album/282HB39K4wb7LWyUw7H0H9) | 1:56 | 2019-06-14 | 2019-08-31 |
 | [Milk Shake](https://open.spotify.com/track/3ikZg22Ra1bBshNgzkj647) | [LONELY ONES](https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7) | [Milk Shake](https://open.spotify.com/album/5NZvMImcg4lJ5Vq04ZanIU) | 2:20 | 2022-07-21 | 2022-07-28 |
 | [Mink](https://open.spotify.com/track/0UK6nfYjoNLMd7aPtpH2xR) | [Allem Iversom](https://open.spotify.com/artist/6RaUtVLO8R5TsVdJIxSrq1), [slr](https://open.spotify.com/artist/3xJTfsHCkDcyYj5fj3jEC7) | [Patterns](https://open.spotify.com/album/358MkctF37zI4WhX52SkkO) | 1:31 | 2019-05-26\* | 2019-06-15 |
-| [Mixed Emotions](https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC) | [SamTRax](https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2) | [The Valley](https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS) | 2:46 | 2021-03-15 |  |
+| [Mixed Emotions](https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC) | [SamTRax](https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2) | [The Valley](https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS) | 2:46 | 2021-03-15 | 2023-05-12 |
 | [Moments](https://open.spotify.com/track/4oNzCgudNshAbYW75dJK5S) | [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b) | [Moments](https://open.spotify.com/album/5cEt0Egy5444h9eHvofAUn) | 2:16 | 2019-05-26\* | 2022-04-20 |
 | [Momma Time](https://open.spotify.com/track/1oT9Ax3RM3yv3zSNAaNQLe) | [Kankick](https://open.spotify.com/artist/1F9XUalYzU3FBioU2EBJro) | [Kan Cassette Vol.1](https://open.spotify.com/album/3yYfMdo5u2OKxiHGmwBXZW) | 2:12 | 2019-05-26\* | 2020-01-14 |
 | [More Life](https://open.spotify.com/track/0NO4KqTkg5f9NZ1vnOwT2K) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [More Life](https://open.spotify.com/album/5dCl9F9geisB78oPu9VDKw) | 2:34 | 2019-08-31 | 2022-11-05 |
@@ -358,7 +360,7 @@
 | [Sewin' Love \- Instrumental](https://open.spotify.com/track/517bSkwNQVSQrQXmjRlsSl) | [Large Professor](https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX) | [Main Source \(Instrumentals\)](https://open.spotify.com/album/38csz5gfi2hl9CUXYAPlfG) | 2:58 | 2022-11-17 |  |
 | [Shinny Cloud](https://open.spotify.com/track/1QXcdvepUVCQQDse2XH7ZZ) | [Hayjee](https://open.spotify.com/artist/0IHEtl5vYHC7KTNBstRMwt), [Da Solist](https://open.spotify.com/artist/43biVxxyNYggA1g2iYylDW), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Shinny Cloud](https://open.spotify.com/album/6ug6OQSvs5t64gR3CsbbTY) | 2:40 | 2020-11-06 | 2021-10-28 |
 | [Shurayuki hime](https://open.spotify.com/track/7pUpWqkwtzESvoTmZpfTWr) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Kofū II](https://open.spotify.com/album/7pWhkwLglyr3he6crAv1gJ) | 3:05 | 2021-12-10 | 2022-07-24 |
-| [SICK](https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY) | [Robert de Boron](https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD) | [SICK](https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ) | 3:21 | 2022-02-24 |  |
+| [SICK](https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY) | [Robert de Boron](https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD) | [SICK](https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ) | 3:21 | 2022-02-24 | 2023-05-12 |
 | [Silience](https://open.spotify.com/track/5TuhMyeZ7bBd3A0PzKNW4D) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Silience](https://open.spotify.com/album/4Fw2PdZjZSGA3Tk2lhLAY1) | 3:16 | 2019-05-26\* | 2021-05-27 |
 | [Singing sad](https://open.spotify.com/track/78CuCBf5R2eecbA8cBXBDE) | [Bugseed](https://open.spotify.com/artist/0ObliAtls0po56kVnacsOd) | [Rough Sketch](https://open.spotify.com/album/1Otsaxr8Anm1g3JLKevkxg) | 3:07 | 2021-05-10 | 2021-09-10 |
 | [Sit At The Piano](https://open.spotify.com/track/6dquDJGHcJVIrPYnm01gOf) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Sit At The Piano](https://open.spotify.com/album/6AEiOA6DRaotdYeI9564tP) | 2:51 | 2019-05-26\* | 2019-06-15 |

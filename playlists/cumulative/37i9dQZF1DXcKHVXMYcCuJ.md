@@ -4,7 +4,7 @@
 
 > Gotta catch 'em all.
 
-350 songs - 21 hr 48 min
+351 songs - 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Hell Will Wait](https://open.spotify.com/track/6gH90ldgKSavrVGdeN6Rcm) | [COLISION](https://open.spotify.com/artist/5DTSjTb2jYT5D40f6MW3xJ) | [Lost Ghosts, Vol\. 1](https://open.spotify.com/album/2ZsBSBmRkl5OvVVOFqQWZr) | 3:50 | 2021-12-15 | 2022-07-22 |
 | [Holy](https://open.spotify.com/track/2irFDtyw34II0pdCWIOBaN) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [Pedestrian Verse](https://open.spotify.com/album/63F9BBf5YCiPQrpndWA50x) | 3:39 | 2021-12-15 |  |
 | [Honky's Ladder](https://open.spotify.com/track/0IndpEG2dVS0rZS5xsLNXe) | [The Afghan Whigs](https://open.spotify.com/artist/7IDrRpDz0cOuUVC32c8PKD) | [Black Love](https://open.spotify.com/album/2Plr11K7q3joEjDFSAOqvO) | 4:16 | 2021-12-15 | 2023-01-26 |
+| [Houses of American Style](https://open.spotify.com/track/5Kky5Fr02ofJwTnQCgzBFl) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Houses of American Style](https://open.spotify.com/album/4fVSfJltN2th0XhpMcgx0O) | 4:04 | 2023-05-11 |  |
 | [Hunstanton Pier](https://open.spotify.com/track/2y0rF0qJm5dHpdQbmufS0Q) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Fools and Worthless Liars \(Deluxe Edition\)](https://open.spotify.com/album/6hwf5oAm91GFtMGnuJ3l4I) | 4:49 | 2022-06-23 |  |
 | [Hunstanton Pier](https://open.spotify.com/track/4ZaElTq1ZqcaHdeA2eoP2E) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Fools and Worthless Liars](https://open.spotify.com/album/4ei0RkOn29dn174wallj5w) | 4:49 | 2022-04-15 | 2022-04-21 |
 | [Husk](https://open.spotify.com/track/4J7GZ0QWuLsbL94nNZyn7S) | [Black Foxxes](https://open.spotify.com/artist/0rkzatSSd1Dh41phOf4qFT) | [I'm Not Well](https://open.spotify.com/album/39GHKYD9zdoF78P1Ms0xgB) | 2:38 | 2021-12-15 | 2023-05-05 |
@@ -256,7 +257,7 @@
 | [Shot Down](https://open.spotify.com/track/5ELe3K5aE86anTNKGngYwY) | [Nine Black Alps](https://open.spotify.com/artist/5fLbJGzlYux3GBwTifMMvR) | [Everything Is](https://open.spotify.com/album/0fIPMihZtknbVQThrPrMJz) | 2:55 | 2021-12-15 | 2022-07-29 |
 | [Silverspoon](https://open.spotify.com/track/16hoFpn4UinRTtqCD0iSIt) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 3:42 | 2023-03-14 |  |
 | [Simple Sincerity](https://open.spotify.com/track/6hxtlRK14Vq1xTjjOPiTQw) | [Radish](https://open.spotify.com/artist/6cLlK80e14zGQyq84eENDv) | [Restraining Bolt](https://open.spotify.com/album/6MDLDlxinN9NpI4t4eudsX) | 2:45 | 2021-12-15 | 2022-07-22 |
-| [Smiles All Round](https://open.spotify.com/track/7vDjXdMBqRFlVlG56jtT5T) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Smiles All Round](https://open.spotify.com/album/0WNSf4eDakhxOWXO9LlV0y) | 2:47 | 2023-03-14 | 2023-05-11 |
+| [Smiles All Round](https://open.spotify.com/track/7vDjXdMBqRFlVlG56jtT5T) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Smiles All Round](https://open.spotify.com/album/0WNSf4eDakhxOWXO9LlV0y) | 2:47 | 2023-03-14 |  |
 | [Smiles All Round \- Single](https://open.spotify.com/track/4gzgTuZBM2kJPsBUwAopRE) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Smiles All Round \- Single](https://open.spotify.com/album/7bbe8uw300uJdVznrKZGPq) | 2:47 | 2022-11-02 | 2023-01-26 |
 | [Smiling at Strangers on Trains](https://open.spotify.com/track/0F54dvs9C0v0snW9m6dSE1) | [Million Dead](https://open.spotify.com/artist/7mAKZuvKKiNRokFE46Sy8l) | [A Song to Ruin](https://open.spotify.com/album/7xF7HQIu6FriHp6yPkE2Kv) | 2:55 | 2021-12-15 | 2023-01-26 |
 | [Smiling Shame](https://open.spotify.com/track/4UW6rF7Pyr7JzsGybnCzxc) | [Sick Joy](https://open.spotify.com/artist/2KmAhNcPz1C3oz0rS4iMlx) | [Smiling Shame](https://open.spotify.com/album/4IfIzaH9SZMoZ6PuUH9zv2) | 3:36 | 2021-12-15 | 2022-07-29 |
@@ -272,7 +273,7 @@
 | [Son of Steve McQueen](https://open.spotify.com/track/0s3hWZXHYmbylkRhtgurnR) | [Favez](https://open.spotify.com/artist/7skmCYzvvpAhJODHIo72N6) | [From Lausanne, Switzerland](https://open.spotify.com/album/7B5XoK38dnNYX2Aw8InHiy) | 3:35 | 2022-02-02 | 2022-07-16 |
 | [Spinning](https://open.spotify.com/track/1YkNfbVSCVfg5sl7ZG3Vzo) | [Bloody Knees](https://open.spotify.com/artist/6pJ12qda5aKt5NJax5ZJtC) | [Spinning](https://open.spotify.com/album/0VVmdT2rkb6GnoMKIxC8ke) | 4:06 | 2021-12-15 | 2022-07-24 |
 | [Spirit of an Ectomorph](https://open.spotify.com/track/0pUJ7FPvD90FqJWXzdv0jp) | [Stony Sleep](https://open.spotify.com/artist/15cmXs7yoUqce5GKrtu80J) | [Absurd](https://open.spotify.com/album/5kqZAGugHXnDmY4feoJMss) | 2:21 | 2021-12-15 | 2022-07-24 |
-| [Stained Silver](https://open.spotify.com/track/6WnG5MU8GbAiQVFnXZQorG) | [Cave In](https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi) | [Antenna](https://open.spotify.com/album/4c0qhRcK2cIa7cgxaZf585) | 4:08 | 2023-04-29 |  |
+| [Stained Silver](https://open.spotify.com/track/6WnG5MU8GbAiQVFnXZQorG) | [Cave In](https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi) | [Antenna](https://open.spotify.com/album/4c0qhRcK2cIa7cgxaZf585) | 4:08 | 2023-04-29 | 2023-05-12 |
 | [Stars](https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3) | [Hum](https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX) | [You'd Prefer An Astronaut](https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o) | 5:09 | 2021-12-15 |  |
 | [Static King](https://open.spotify.com/track/30c7yitaxCPDer72DuJMpw) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Static King](https://open.spotify.com/album/6Ff2MALnanTK465bO5rIsa) | 3:37 | 2021-12-15 | 2022-07-29 |
 | [Stuck In A Loop](https://open.spotify.com/track/4jjavTdo58RR0CEzTa2TjJ) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Stuck In A Loop](https://open.spotify.com/album/0E35wkZniQNbAxGTu8XqeI) | 2:53 | 2023-03-14 |  |
@@ -341,7 +342,7 @@
 | [Where Are You Now?](https://open.spotify.com/track/7w53ucikSIdig3nLCi29a9) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15), [Vinyl on HBO](https://open.spotify.com/artist/52yUzlU6QBN8NxqTXOWCnW) | [VINYL: THE ESSENTIALS: BEST OF SEASON 1](https://open.spotify.com/album/77era7gZSj4bR9olUpIcJu) | 2:47 | 2021-12-15 |  |
 | [Where the City Meets the Sea](https://open.spotify.com/track/0uX6Y7mRIJjswGAcLg1oz9) | [The Getaway Plan](https://open.spotify.com/artist/5JmeloS88DjYXJulG7qgwF) | [Other Voices, Other Rooms](https://open.spotify.com/album/5HXLYD2Iu9rKlpTDMFyNWI) | 3:35 | 2022-04-15 |  |
 | [Why Bother?](https://open.spotify.com/track/4W3uLgQTUl4fXAIdAvFRzK) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton \- Deluxe Edition](https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz) | 2:06 | 2021-12-15 | 2022-09-22 |
-| [Why Bother?](https://open.spotify.com/track/43Qr1YBCY3vSVCvZuR0PCb) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl) | 2:08 | 2023-03-29 |  |
+| [Why Bother?](https://open.spotify.com/track/43Qr1YBCY3vSVCvZuR0PCb) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl) | 2:08 | 2023-03-29 | 2023-05-12 |
 | [Why Won't You Admit](https://open.spotify.com/track/4tQpDC9blddFv7ZR4tEzWr) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Under Exit Lights](https://open.spotify.com/album/5c4rnFo67posi6omJUtu02) | 3:36 | 2022-04-15 |  |
 | [Will You Smile Again For Me](https://open.spotify.com/track/5AM9nodUIrP4qKMtlGJFay) | [...And You Will Know Us by the Trail of Dead](https://open.spotify.com/artist/6wBUn8gMP85n8dPu6LoUcF) | [Worlds Apart](https://open.spotify.com/album/4edJ05VuSNvslwhH5EKard) | 6:50 | 2022-11-02 |  |
 | [Wring It Out](https://open.spotify.com/track/0JCeVdVxPFsLrVj0En0R1D) | [Rival Schools](https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz) | [Pedals](https://open.spotify.com/album/65PIGYDdfNMbFwOBqUA7jO) | 3:29 | 2022-11-02 |  |

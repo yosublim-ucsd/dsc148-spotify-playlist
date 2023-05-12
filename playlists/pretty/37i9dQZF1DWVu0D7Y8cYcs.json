@@ -1,12 +1,12 @@
 {
   "description": "Come on, man. Just smile!",
-  "num_followers": 470094,
+  "num_followers": 470181,
   "original_name": "Just Smile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTY5YWM2YWZkZTU1Y2E1ZjJmZjE3YmZkOWQ1Y2FmZWEwOTA5OWVl",
+  "snapshot_id": "MCwxNmYyMGQyNDE1NWI2MWZkYTJkZDg0YzlkMWU0ZWY4NmZiNDNlYzEw",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Fix It",
-        "url": "https://open.spotify.com/album/0UIcpuZ7MGsGOSzv5RFB2p"
-      },
-      "artists": [
-        {
-          "name": "Clinton Fearon",
-          "url": "https://open.spotify.com/artist/2mSiPzmzBCGS7p6tEuRuTd"
-        }
-      ],
-      "duration_ms": 182533,
-      "name": "Fix It",
-      "url": "https://open.spotify.com/track/2FmD1oi2Wna2jcQcYEEYn5"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Strictly Roots",
         "url": "https://open.spotify.com/album/7mWbD91KCO9KGGygDMuBpX"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 236930,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/69DIpPwfHaO4mwHfn0oNTd"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Fix It",
+        "url": "https://open.spotify.com/album/0UIcpuZ7MGsGOSzv5RFB2p"
+      },
+      "artists": [
+        {
+          "name": "Clinton Fearon",
+          "url": "https://open.spotify.com/artist/2mSiPzmzBCGS7p6tEuRuTd"
+        }
+      ],
+      "duration_ms": 182533,
+      "name": "Fix It",
+      "url": "https://open.spotify.com/track/2FmD1oi2Wna2jcQcYEEYn5"
     },
     {
       "added_at": "2022-10-13 23:00:00",

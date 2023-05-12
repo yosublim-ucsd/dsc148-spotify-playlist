@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres que la rompen feat\. Catana\. <br/>Dales play, dales power.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,857 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,867 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 36 | [KTM](https://open.spotify.com/track/3rA2LeNavJ9MyyG1SFhwcD) | [VaniaJoplin](https://open.spotify.com/artist/5J7o47wyT1cQOkHPFwzq4X) | [KTM](https://open.spotify.com/album/1K4MCwzabYrHKStunPKVmR) | 2:37 |
 | 37 | [Brígida](https://open.spotify.com/track/4YlYsqejhE3xBb0XfWXXjE) | [Vesta Lugg](https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c) | [Brígida](https://open.spotify.com/album/4Mn1APLhJYZNRpqEmUphgp) | 2:42 |
 | 38 | [1000](https://open.spotify.com/track/0LNeX04cUkoS0j9LDuNuyA) | [Amikiraa](https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2), [Jsnck!](https://open.spotify.com/artist/3oFAXYbLPLYimPiQ3JJzSj) | [1000](https://open.spotify.com/album/4W1bHfVBxpmXXGywqv7vx6) | 2:50 |
-| 39 | [Mágica](https://open.spotify.com/track/1IshjcBxK0F1LoeQZejqoU) | [Bela](https://open.spotify.com/artist/6MigjLa7elvwPnuyymlHs2) | [00](https://open.spotify.com/album/7AksLApsTy2yNIFbja6kHt) | 1:17 |
-| 40 | [Brillando alto](https://open.spotify.com/track/4quLPeHhsbFiWrK6znBrv0) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [À plus](https://open.spotify.com/album/0IG3DVhsvBbHuXFCFVUfEn) | 3:10 |
+| 39 | [Brillando alto](https://open.spotify.com/track/4quLPeHhsbFiWrK6znBrv0) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [À plus](https://open.spotify.com/album/0IG3DVhsvBbHuXFCFVUfEn) | 3:10 |
+| 40 | [Mágica](https://open.spotify.com/track/1IshjcBxK0F1LoeQZejqoU) | [Bela](https://open.spotify.com/artist/6MigjLa7elvwPnuyymlHs2) | [00](https://open.spotify.com/album/7AksLApsTy2yNIFbja6kHt) | 1:17 |
 | 41 | [Hielo](https://open.spotify.com/track/331HG0gs3ZWYMRdHFFf5Hc) | [Anto Bosman](https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa) | [Hielo](https://open.spotify.com/album/4fn5ZIvTw84uHbWSBLL07u) | 3:08 |
 | 42 | [MARIPOSAS](https://open.spotify.com/track/57vFoxxvfJQKg5P2dLfGQb) | [Mariana Bfly](https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw), [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Meekasia](https://open.spotify.com/artist/1uzFAZNYuGEeCjciRFPWkE), [David Wild](https://open.spotify.com/artist/0eyks56NYFl5AKHIqz7AUY), [NixBeatz](https://open.spotify.com/artist/0VHYHgSQdE244aP0Ci3D6v) | [EFECTO MARIPOSA](https://open.spotify.com/album/4vlfXEHz4Oxq6Hw466MhRt) | 4:25 |
 | 43 | [Casa Sola](https://open.spotify.com/track/4YYSXN3iq5qnhfLypUdxYf) | [Gigi Caro](https://open.spotify.com/artist/5tNMNTIBXGY7Hq6AyGCAR8), [Dimelo Yepo](https://open.spotify.com/artist/6Ow7CkDp2FoHmZ1ZDHiZF7) | [Casa Sola](https://open.spotify.com/album/3AxQRFzSpDQAbJI0Qdaptm) | 2:49 |
 | 44 | [Luni Tun](https://open.spotify.com/track/0YDV4jdHf8W6N9KvhrIh4d) | [Iktus](https://open.spotify.com/artist/4DqguavmAWXP4KjI7badwW), [Cheskv Liz](https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv), [La Peluquera](https://open.spotify.com/artist/2Y8ZTw3lEypiF5jpINYgGr) | [Luni Tun](https://open.spotify.com/album/1cIeelqlUeS3al1jk4d1Hg) | 3:21 |
-| 45 | [Chucky](https://open.spotify.com/track/74ImQ4zywA6716AlZGVH3q) | [Bela](https://open.spotify.com/artist/6MigjLa7elvwPnuyymlHs2), [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP), [Cheskv Liz](https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv), [Liah Veliz](https://open.spotify.com/artist/63HSomNykcQxJfQeZIUr39) | [00](https://open.spotify.com/album/7AksLApsTy2yNIFbja6kHt) | 3:28 |
-| 46 | [Hood](https://open.spotify.com/track/3IdbqWoAfMvVqT2dXvvFmt) | [Cheskv Liz](https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Bzro89](https://open.spotify.com/artist/6wNDDqNJiaDvQHz7Dzi47t) | [Hood](https://open.spotify.com/album/5yIX4L7VrnteUcr8DivdnE) | 2:56 |
+| 45 | [Hood](https://open.spotify.com/track/3IdbqWoAfMvVqT2dXvvFmt) | [Cheskv Liz](https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Bzro89](https://open.spotify.com/artist/6wNDDqNJiaDvQHz7Dzi47t) | [Hood](https://open.spotify.com/album/5yIX4L7VrnteUcr8DivdnE) | 2:56 |
+| 46 | [Chucky](https://open.spotify.com/track/74ImQ4zywA6716AlZGVH3q) | [Bela](https://open.spotify.com/artist/6MigjLa7elvwPnuyymlHs2), [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP), [Cheskv Liz](https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv), [Liah Veliz](https://open.spotify.com/artist/63HSomNykcQxJfQeZIUr39) | [00](https://open.spotify.com/album/7AksLApsTy2yNIFbja6kHt) | 3:28 |
 | 47 | [Amapola](https://open.spotify.com/track/6GAPl1wEMEVwrTBEUJvrN2) | [Rvyo](https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n) | [Rayokuza](https://open.spotify.com/album/3RbneQRC7hqcFIn2DZpCKg) | 2:40 |
 | 48 | [Saber Si Me Amas \(Quiero\)](https://open.spotify.com/track/5XqB8ZPPhGHkmoXOasTAKn) | [Catiusca](https://open.spotify.com/artist/2ZVR14iRL4B4bLq6CWVAPb) | [Saber Si Me Amas \(Quiero\)](https://open.spotify.com/album/77A4SicHUWwI96Kg9R6Cw7) | 2:30 |
 | 49 | [ZODIACO](https://open.spotify.com/track/7bboKjKKX9K9SL4mGavgWS) | [Mariana Bfly](https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw), [Catiusca](https://open.spotify.com/artist/2ZVR14iRL4B4bLq6CWVAPb) | [ZODIACO](https://open.spotify.com/album/14axp3OJF0cqgx3mP0MxKx) | 3:18 |
 | 50 | [Luces](https://open.spotify.com/track/4jfsxJSwR3h9kPTPOlGV54) | [Rvyo](https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n) | [Rayokuza](https://open.spotify.com/album/3RbneQRC7hqcFIn2DZpCKg) | 3:38 |
 
-Snapshot ID: `MCwyMDExMjdkZWFmYWRjOGJhNjA3MDVmNzM0ZmVhNzlkNjBhM2QxOWM5`
+Snapshot ID: `MCxkODk0ODk5OTlkZTI4N2Y2ZjRhODk4NjcwYWZkOGQ3NDkyNzk5MTZk`

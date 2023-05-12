@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Accidentally In Love",
+        "url": "https://open.spotify.com/album/7BAXSSzHQB2XCWU3vry7dQ"
+      },
+      "artists": [
+        {
+          "name": "City Sessions",
+          "url": "https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168922,
+      "name": "Accidentally In Love",
+      "url": "https://open.spotify.com/track/30vbL0UiPR2NeiiKKk9L9E"
+    },
+    {
+      "album": {
         "name": "All of me - Acoustic",
         "url": "https://open.spotify.com/album/2TsiANPJWN2t0z0ya5wAcd"
       },
@@ -154,6 +172,24 @@
       "duration_ms": 249986,
       "name": "American Tune - Special Edition",
       "url": "https://open.spotify.com/track/2leIRF8ATcYWf0ntdVjttp"
+    },
+    {
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/6PzZNFS1QaobNN9MrnRDJh"
+      },
+      "artists": [
+        {
+          "name": "Brent Morgan",
+          "url": "https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195555,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/7lSdBy34Oxd06fK4KlaXVj"
     },
     {
       "album": {
@@ -384,7 +420,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 220070,
       "name": "Better Now (Acoustic)",
       "url": "https://open.spotify.com/track/7BSAXJ5iT5ERuzduIvX8Ol"
@@ -863,6 +899,24 @@
     },
     {
       "album": {
+        "name": "Cups (When I'm Gone)",
+        "url": "https://open.spotify.com/album/4yx5aNEdtZ7aDti8W4UzXa"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106019,
+      "name": "Cups (When I'm Gone)",
+      "url": "https://open.spotify.com/track/2pGI2FNc8yndfziZJDSl3k"
+    },
+    {
+      "album": {
         "name": "Dancing In The Dark",
         "url": "https://open.spotify.com/album/6OV5a9PVlsfnMVtgKPc1Gy"
       },
@@ -914,6 +968,42 @@
       "duration_ms": 246611,
       "name": "Dare You To Move - Acoustic",
       "url": "https://open.spotify.com/track/6y0G798fs8GW7hgAZ9Jqbx"
+    },
+    {
+      "album": {
+        "name": "Desperado",
+        "url": "https://open.spotify.com/album/6bhSX2BYFGgJ3iw4wnpkWZ"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kristine",
+          "url": "https://open.spotify.com/artist/6WfvaZWV6UXdkzG9oQCxw9"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191971,
+      "name": "Desperado",
+      "url": "https://open.spotify.com/track/0ReprZkqLJKjuBH0nowV44"
+    },
+    {
+      "album": {
+        "name": "Die For You - Stripped Version",
+        "url": "https://open.spotify.com/album/5miMO9QIRlgfZiIDlcdNxS"
+      },
+      "artists": [
+        {
+          "name": "Hanster",
+          "url": "https://open.spotify.com/artist/1dGQPw9YakyRaUuDGF0AKt"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Die For You - Stripped Version",
+      "url": "https://open.spotify.com/track/7GEmS0mDQc9b7MjRjHi7z7"
     },
     {
       "album": {
@@ -1076,6 +1166,24 @@
       "duration_ms": 148369,
       "name": "Enjoy the Silence",
       "url": "https://open.spotify.com/track/43i4sdTLCnalaVPtXsIeSp"
+    },
+    {
+      "album": {
+        "name": "Eyes Closed (Acoustic)",
+        "url": "https://open.spotify.com/album/15uJJEFzdAuwyBFAUvfbfu"
+      },
+      "artists": [
+        {
+          "name": "Jonah Baker",
+          "url": "https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204896,
+      "name": "Eyes Closed - Acoustic",
+      "url": "https://open.spotify.com/track/3C5wIoUfg22yL9BvmgUEyo"
     },
     {
       "album": {
@@ -1775,6 +1883,24 @@
     },
     {
       "album": {
+        "name": "Hey Ya! (Acoustic)",
+        "url": "https://open.spotify.com/album/7CRgaJzV0QUPKI423ONdwQ"
+      },
+      "artists": [
+        {
+          "name": "Callum J Wright",
+          "url": "https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147879,
+      "name": "Hey Ya! - Acoustic",
+      "url": "https://open.spotify.com/track/7id2nRroQIMekiV1KRWzGW"
+    },
+    {
+      "album": {
         "name": "The Bends",
         "url": "https://open.spotify.com/album/49222lHU3qAalWzClAabbp"
       },
@@ -2018,7 +2144,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 208636,
       "name": "I Like Me Better",
       "url": "https://open.spotify.com/track/17mx0XPDMnurdequx8FIcD"
@@ -2245,6 +2371,24 @@
     },
     {
       "album": {
+        "name": "I'm On Fire",
+        "url": "https://open.spotify.com/album/3Wd9qQ7CahoDfNcguvUyDL"
+      },
+      "artists": [
+        {
+          "name": "Salt Tree",
+          "url": "https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121500,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/3tY7BVvQ8MVQgF6wLHZEni"
+    },
+    {
+      "album": {
         "name": "I'm So Tired...",
         "url": "https://open.spotify.com/album/3XqIOJaJckjEYwx8zOhslK"
       },
@@ -2458,6 +2602,24 @@
       "duration_ms": 192545,
       "name": "It Aint me - Acoustic",
       "url": "https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin"
+    },
+    {
+      "album": {
+        "name": "Keep Your Head Up",
+        "url": "https://open.spotify.com/album/5XHL6LsB5McGyWZ9mEcxZ6"
+      },
+      "artists": [
+        {
+          "name": "Laura Zocca",
+          "url": "https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200566,
+      "name": "Keep Your Head Up",
+      "url": "https://open.spotify.com/track/5mE7LGFA3Qg2oxqIwb8rB9"
     },
     {
       "album": {
@@ -2843,6 +3005,28 @@
     },
     {
       "album": {
+        "name": "Little Bit More",
+        "url": "https://open.spotify.com/album/14N5RjqtTvCajNgV6gGd8m"
+      },
+      "artists": [
+        {
+          "name": "Jada Facer",
+          "url": "https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf"
+        },
+        {
+          "name": "John Buckley",
+          "url": "https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182068,
+      "name": "Little Bit More",
+      "url": "https://open.spotify.com/track/2FT0891amRHkKxCy3BYrx6"
+    },
+    {
+      "album": {
         "name": "love on the weekend",
         "url": "https://open.spotify.com/album/1fv3JS6iIvyJB9OPnug2Hb"
       },
@@ -2879,6 +3063,24 @@
     },
     {
       "album": {
+        "name": "Milkshake (Acoustic)",
+        "url": "https://open.spotify.com/album/5eCExezuvtFapdTybgDB8H"
+      },
+      "artists": [
+        {
+          "name": "John Buckley",
+          "url": "https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148255,
+      "name": "Milkshake (Acoustic)",
+      "url": "https://open.spotify.com/track/7GBJgWf0GLs4RgSlqsSSf3"
+    },
+    {
+      "album": {
         "name": "Mood (Acoustic)",
         "url": "https://open.spotify.com/album/69dfiUTykV6DzWoP8vzgdc"
       },
@@ -2894,6 +3096,24 @@
       "duration_ms": 175517,
       "name": "Mood - Acoustic",
       "url": "https://open.spotify.com/track/50bNtjatwTxRbw6gMncgcr"
+    },
+    {
+      "album": {
+        "name": "Moon River (Acoustic)",
+        "url": "https://open.spotify.com/album/2xm1SEmZeXyf0sPXkmGasa"
+      },
+      "artists": [
+        {
+          "name": "Bailey Rushlow",
+          "url": "https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172761,
+      "name": "Moon River - Acoustic",
+      "url": "https://open.spotify.com/track/2crYj5PeB79FDWFhWkHiDL"
     },
     {
       "album": {
@@ -2998,7 +3218,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 153000,
       "name": "Paradise - Acoustic",
       "url": "https://open.spotify.com/track/1uKavGXL05NzhPHSOUIg91"
@@ -3294,7 +3514,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 262525,
       "name": "Salt And The Sea",
       "url": "https://open.spotify.com/track/1JWtd8xh4Q5dyvnpBKh8L0"
@@ -4211,6 +4431,24 @@
     },
     {
       "album": {
+        "name": "When You Love Someone (Acoustic)",
+        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210106,
+      "name": "When You Love Someone - Acoustic",
+      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
+    },
+    {
+      "album": {
         "name": "Wicked Game (Bossa Nova Version)",
         "url": "https://open.spotify.com/album/6YbT952JxSplB2O1e7keyG"
       },
@@ -4338,6 +4576,24 @@
       "duration_ms": 210865,
       "name": "Wrecking Ball - Acoustic",
       "url": "https://open.spotify.com/track/6NSKAs3VYE0hpb13s6RDrp"
+    },
+    {
+      "album": {
+        "name": "Yellow (Acoustic Cover)",
+        "url": "https://open.spotify.com/album/0k9eNBzlFmHoZBHwEQxOeF"
+      },
+      "artists": [
+        {
+          "name": "Penny Sweet",
+          "url": "https://open.spotify.com/artist/0hZthAp1iTcXizd63szbku"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227047,
+      "name": "Yellow (Acoustic Cover)",
+      "url": "https://open.spotify.com/track/29eMw0pm8wTSUgnNZiA0rZ"
     },
     {
       "album": {

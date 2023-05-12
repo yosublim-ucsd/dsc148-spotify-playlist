@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,494 likes - 164 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,583 likes - 164 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 23 | [Luther's Theme](https://open.spotify.com/track/7DPuAbyLW2zgtEyC5pHufG) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Luther: The Fallen Sun \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1uSLtpDg49OkNRSYihJl04) | 2:29 |
 | 24 | [The Humpback Whale’s Miracle](https://open.spotify.com/track/6SwPlqCdm0zqG6l3vH24QY) | [Ruth Barrett](https://open.spotify.com/artist/48ZoDch2iKE7FZEYY67DPB) | [Big Beasts \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/0AK8H0YF8OWz5Fw5vmHsVX) | 2:28 |
 | 25 | [Actually Her](https://open.spotify.com/track/7DYB52sRKxgh8N1wU3NFMp) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Crown: Season Five \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4kecm8cI0FFGF70NiNYkSE) | 3:12 |
-| 26 | [Citadel \(Main Title Theme\)](https://open.spotify.com/track/3koRMFxZIBO9iDCDLRUmnF) | [Alex Belcher](https://open.spotify.com/artist/0lsKvalwJ8SAijtf12uSsm) | [Citadel \(Main Title Theme\)](https://open.spotify.com/album/7oSSjZIbIAgsDXEsmXuwrf) | 1:19 |
+| 26 | [Citadel \(Main Title Theme\)](https://open.spotify.com/track/6HB5R1sNMWYJ5eRqCWTPqo) | [Alex Belcher](https://open.spotify.com/artist/0lsKvalwJ8SAijtf12uSsm) | [Citadel \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/6UkcvITuPnTmXnkwfoo0tH) | 1:19 |
 | 27 | [The Beloveds](https://open.spotify.com/track/5WSFsgLql08p89fRCbD0OH) | [John Lunn](https://open.spotify.com/artist/5Zly5j72BTO6psXGz12qSt), [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H), [Danny Saul](https://open.spotify.com/artist/43gWjTULCnVjc3zzs0wHhG) | [The Last Kingdom: The Beloveds](https://open.spotify.com/album/3sOjQz2ALdRf4UETZBdHBk) | 6:00 |
 | 28 | [Goodbye Peter Pan](https://open.spotify.com/track/16HqLyMhdlopmXKqxLNblm) | [Daniel Hart](https://open.spotify.com/artist/3T91YntaaHTAKK2GYoTUPW) | [Peter Pan & Wendy \(Original Score\)](https://open.spotify.com/album/2yRvITr3gmDH3VQ4MO9piz) | 3:36 |
 | 29 | [My Life Is on Inisherin](https://open.spotify.com/track/11kh0ybfoTNvuRp7eckI5R) | [Carter Burwell](https://open.spotify.com/artist/0SbSDzM4X41hnlURed0fcV) | [The Banshees of Inisherin \(Original Score\)](https://open.spotify.com/album/0aIEKTzRH1fuEyCWCAri1n) | 3:46 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 163 | [Friendship Theme](https://open.spotify.com/track/317Tb1dzMW3KTUjiTcsN4b) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i), [Brandon Roberts](https://open.spotify.com/artist/7EDDArVp3EXwuDx8HUQrTo) | [Chaos Walking \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2hqIiiiQXOUCkAx2i0JKje) | 1:58 |
 | 164 | [Brianna](https://open.spotify.com/track/6wFLtag0kJnXwva2Qj1khj) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Synchronic \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3zUpvlv6hfVwFC1zwtDT6M) | 1:38 |
 
-Snapshot ID: `MCw1NmVmMDgxMGE5ODAxNTQzZDE3NDZjYzdmZjM1OGYzZGRkNmIzZDk2`
+Snapshot ID: `MCxkOTIwZmE2N2YxYTFiN2ZkMWUzZTA1N2UzMzRkOGRjMGNiZDAyNDg3`

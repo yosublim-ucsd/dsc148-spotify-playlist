@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9OZisIoJQhG.md) - [plain]
 
 > Uplifting classical melodies to help you rise and shine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,672 likes - 45 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,647 likes - 45 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9OZisIoJQhG.md) - [plain]
 | 7 | [Rêverie, CD 76 \(Arr\. Cullen for Cello and Orchestra\)](https://open.spotify.com/track/0wgqbmYhQyoL2TXGzQEg4k) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Julian Lloyd Webber](https://open.spotify.com/artist/1U4pv151m4SgVMg8fXROYp), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [James Judd](https://open.spotify.com/artist/3bRgHXc5F81fdXrdh5jpz5) | [Cello Moods](https://open.spotify.com/album/7i83TEHhrYpSdiemOVqajE) | 4:00 |
 | 8 | [Scarborough Fair \(Arr\. Parkin\)](https://open.spotify.com/track/4wlNPczIullwvmwb4x0ltz) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [Plínio Fernandes](https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8) | [Elgar](https://open.spotify.com/album/3PwJLGFcKrecmaRbJQYMSg) | 3:14 |
 | 9 | [Dolly Suite, Op\. 56: I\. Berceuse](https://open.spotify.com/track/3NbAsIxDL0fVgNuCLD152P) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL), [Marielle Labèque](https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09) | [Fauré: Dolly Suite; Nocturnes; Barcarolles; Impromptus](https://open.spotify.com/album/1VMXYuxv7jwh3XzPZtoELi) | 2:56 |
-| 10 | [Jesu, Joy of Man's Desiring \- Arr\. by Alexis Ffrench](https://open.spotify.com/track/2Kn5PauE1nEJxUQlD6N3JF) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Jesu, Joy of Man's Desiring](https://open.spotify.com/album/2pjG5wJxCWKHmZcNcK0mCR) | 2:08 |
+| 10 | [Jesu, Joy of Man's Desiring \- Arr\. by Alexis Ffrench](https://open.spotify.com/track/75pxraYiRRhRn68Kwk4sT3) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Peace](https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw) | 2:08 |
 | 11 | [Zdes' khorosho \('How Fair This Spot'\), Op\. 21, No\. 7](https://open.spotify.com/track/0wZMPhztIsuwSjCo6OalWe) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Pablo Ferrandez](https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt), [Denis Kozhukhin](https://open.spotify.com/artist/5iRBqpTEOgggnri1awdnNZ) | [Reflections](https://open.spotify.com/album/2y9DN1TNj4qMf1H5epuupR) | 1:59 |
 | 12 | [Kinderszenen, Op\. 15: No\. 1, Von fremden Ländern und Menschen](https://open.spotify.com/track/4vi9pBR7yJhBzGaNu0k1gj) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Vladimir Horowitz](https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq) | [Schumann: Kinderszenen; Arabesque; Fantasie; Träumerei](https://open.spotify.com/album/5OmHBy2Gm6zSt7sihzbEW2) | 1:33 |
 | 13 | [Prelude in G Major](https://open.spotify.com/track/70FROKEHubzMxSstCgaZZl) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Bach Reworks \(Pt\. 2\)](https://open.spotify.com/album/6u7xGWk6antcgjlmnSzqqZ) | 3:54 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9OZisIoJQhG.md) - [plain]
 | 44 | [Clarinet Quintet, K\. 581: III\. Menuetto](https://open.spotify.com/track/3PmDjYUOC4AR9lghScYlxs) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Jörg Widmann](https://open.spotify.com/artist/7drHkRrCNABV4BkAuVF6nu), [Hagen Quartett](https://open.spotify.com/artist/4301XXSbiO4YrZZcuyktbB) | [Mozart & Widmann: Clarinet Quintets](https://open.spotify.com/album/26Avnk2l7oit96ph0OmB2P) | 7:22 |
 | 45 | [Salut d'amour, Op\. 12](https://open.spotify.com/track/5Mke4uDfnpMkHAVhYmPuSE) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [Sol Gabetta](https://open.spotify.com/artist/4XvLzjMwnILZ9YnMHOVMIN), [Mario Venzago](https://open.spotify.com/artist/39lQyvfR8sc6VYCeXMkFsQ), [Danish National Symphony Orchestra](https://open.spotify.com/artist/6kClxEibflIbA231B95OYX) | [Elgar: Cello Concerto/Dvorak/Respighi](https://open.spotify.com/album/7KJN1NU8YXaMzDvYbijnYP) | 3:02 |
 
-Snapshot ID: `MCxhMzY5YTY5NzJmOWE3MmQ4MTYyZTdmZTI2YzNlYTkzYmE0YjU3ZTc2`
+Snapshot ID: `MCw4ODFhZjY4ZmZlZjM5NDA1ZTY3NjExNmVjMmM1ZmU5ODQxZGQwNTUw`

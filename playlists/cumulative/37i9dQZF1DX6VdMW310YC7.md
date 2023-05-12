@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,477 songs - 4 day 5 hr 55 min
+1,478 songs - 4 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Brand New Day](https://open.spotify.com/track/0aBKKHRHtNFfTsF02qcqGM) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Aviino](https://open.spotify.com/artist/6poGVkPdF42Kfchhw1cu0J), [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Brand New Day](https://open.spotify.com/album/20a92TYYR6TOdkTqpF4HEK) | 3:09 | 2020-05-22 | 2020-10-09 |
 | [Brazilian Soul \(feat\. Sofi Tukker\) \- Gilligan Moss Remix](https://open.spotify.com/track/2R3GqU7JBAscpMIjFL3uzC) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [Brazilian Soul \(feat\. Sofi Tukker\) \[Remixes\]](https://open.spotify.com/album/2OTIyP1zBOinX4qEj6x3Qa) | 5:00 | 2020-03-20 | 2022-12-29 |
 | [Break Open Colour](https://open.spotify.com/track/0IoVnQAJTWNSD1qddEgrJH) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh) | [Don't Look Back](https://open.spotify.com/album/6e295vU5RvRKECmI5p8ZNm) | 4:36 | 2022-03-11 | 2022-07-29 |
+| [Breaking Apart](https://open.spotify.com/track/6QSgJaGAs7EhyCXTYehkZd) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Breaking Apart](https://open.spotify.com/album/7cRUi8PAJDgwxbe0TKZlLp) | 4:35 | 2023-05-05 |  |
 | [Breath.](https://open.spotify.com/track/1OlBjlxICLInZ3qTphHVuR) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U) | [Breath.](https://open.spotify.com/album/35bXBanx1utZN7LTOQmhBJ) | 3:31 | 2020-05-22 | 2020-10-09 |
 | [Breathe](https://open.spotify.com/track/5ag0L0xkUGJrkXmalqOfho) | [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Breathe](https://open.spotify.com/album/0RDzTKuYJFGWKkjYymVvNP) | 3:16 | 2022-01-21 | 2022-12-29 |
 | [Breathe](https://open.spotify.com/track/1rx0RK6hNBRFKAjeNrkVNn) | [Mateo](https://open.spotify.com/artist/0mws40fy6ixkpM247lUkIX) | [Breathe](https://open.spotify.com/album/7M96imYXi7PoL1hxboKUxZ) | 2:48 | 2022-09-30 | 2022-12-29 |
@@ -1191,7 +1192,7 @@
 | [Something Good \- Radio Edit](https://open.spotify.com/track/68hrtOiA7J06Bp42M6KZdc) | [MOUNT](https://open.spotify.com/artist/4DMDkM0xOw9eBeCpW60ycz), [Nicolas Haelg](https://open.spotify.com/artist/0nwid3SFCGyXxnllTHzHPd) | [Something Good \(Radio Edit\)](https://open.spotify.com/album/2PSI6xjkprGEfykOQ1XCnZ) | 2:58 | 2020-05-22 | 2020-07-03 |
 | [Something To Say](https://open.spotify.com/track/1r7Qru1A5tduUNf7qxDogp) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh) | [Something To Say](https://open.spotify.com/album/2JvCQOoWxhbDiq6L6XyQHC) | 4:18 | 2022-12-02 | 2022-12-29 |
 | [Something to Say](https://open.spotify.com/track/62M5gj2bau54bPysumOjXp) | [HOLOW](https://open.spotify.com/artist/0iFmnAL0wjQU7r07tV4J09) | [Something to Say](https://open.spotify.com/album/2ew6OwY8suQguh3vblcPjj) | 3:36 | 2020-07-18 | 2020-10-10 |
-| [Something Was Real](https://open.spotify.com/track/7HXqYIF5kMN1XY52GWQKrZ) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Something Was Real](https://open.spotify.com/album/282285H5zzpms9M3Bwg0c1) | 3:42 | 2020-08-06 |  |
+| [Something Was Real](https://open.spotify.com/track/7HXqYIF5kMN1XY52GWQKrZ) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Something Was Real](https://open.spotify.com/album/282285H5zzpms9M3Bwg0c1) | 3:42 | 2020-08-06 | 2023-05-12 |
 | [Something, Everything](https://open.spotify.com/track/1QBCsA9ilCqLm7BcWRxqT5) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Something, Everything](https://open.spotify.com/album/5o3crBnx8Z0JyXQ0rI8OE3) | 5:17 | 2021-03-14 | 2022-08-27 |
 | [Sometime \(feat\. Owl Eyes\)](https://open.spotify.com/track/36fM9efnGh85CtaXe6frd4) | [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy), [Owl Eyes](https://open.spotify.com/artist/3it7AeHVfXdby9tbwEwE3f) | [Sometime \(feat\. Owl Eyes\)](https://open.spotify.com/album/2kUuUnx2Oxel35bU3xtUVU) | 3:20 | 2020-03-16 | 2022-04-19 |
 | [sometimes it’s scary but it’s still just you and me \- Edit](https://open.spotify.com/track/6S52u11MvLNy9qp8Ju1unG) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [sometimes it’s scary but it’s still just you and me / Need Little, Want Less](https://open.spotify.com/album/5zlNx3reLlXQj3m05Z5aAI) | 4:07 | 2020-03-21 | 2022-11-24 |

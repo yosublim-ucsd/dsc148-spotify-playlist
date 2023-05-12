@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/5BWiwrFskTQRxKUjPMh8kI?si=_QB5HoG-SUeIQTFfEv0SOQ\">Lady Zamar</a>",
+  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k?si=l9oleicIRlqxpkROOgWqNw\">Inkabi Zezwe</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -565,6 +565,24 @@
     },
     {
       "album": {
+        "name": "Sane",
+        "url": "https://open.spotify.com/album/1WDNkCLrjjTK3xDVKWwVCF"
+      },
+      "artists": [
+        {
+          "name": "Brenda Mtambo",
+          "url": "https://open.spotify.com/artist/1xq3iidMUB1FTy5c7WcfyC"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246315,
+      "name": "Awuwedwa",
+      "url": "https://open.spotify.com/track/3L7PwSbalLSeqjZEUv77SC"
+    },
+    {
+      "album": {
         "name": "AYE KUWA (feat. CK THE DJ)",
         "url": "https://open.spotify.com/album/6i7TW4LDvICObUfCJ9Jcas"
       },
@@ -948,6 +966,36 @@
       "duration_ms": 280000,
       "name": "Cheat",
       "url": "https://open.spotify.com/track/29AQOU8prFxhc70Omaum13"
+    },
+    {
+      "album": {
+        "name": "Chelete",
+        "url": "https://open.spotify.com/album/3RCPCRhkh1TKSLAqlqfvid"
+      },
+      "artists": [
+        {
+          "name": "Nthabi Sings",
+          "url": "https://open.spotify.com/artist/2JN2Yx7wsJaGHbtzoAE4k7"
+        },
+        {
+          "name": "Ntate Stunna",
+          "url": "https://open.spotify.com/artist/1HKxOYJiTBtSgVTbKHK5XL"
+        },
+        {
+          "name": "Lizwi Wokuqala",
+          "url": "https://open.spotify.com/artist/6IYozrt74PPhQ409pE583w"
+        },
+        {
+          "name": "Emtee",
+          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244718,
+      "name": "Chelete",
+      "url": "https://open.spotify.com/track/25jyOIo2PPpixvetYrb7b3"
     },
     {
       "album": {
@@ -1946,7 +1994,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 332000,
       "name": "Hamba Nathi",
       "url": "https://open.spotify.com/track/3vanIz6AFdZLd9Z6kX4IWm"
@@ -2627,6 +2675,40 @@
     },
     {
       "album": {
+        "name": "Isitha",
+        "url": "https://open.spotify.com/album/6n82FERUn8vSDBe9p1Zq6q"
+      },
+      "artists": [
+        {
+          "name": "SKHANDAWORLD",
+          "url": "https://open.spotify.com/artist/0iiSx3ZdR8ts3ePVzNbbwH"
+        },
+        {
+          "name": "Aymos",
+          "url": "https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL"
+        },
+        {
+          "name": "K.O",
+          "url": "https://open.spotify.com/artist/1d6JzYUN2E6MIt9HmepdPk"
+        },
+        {
+          "name": "Loki.",
+          "url": "https://open.spotify.com/artist/3f9z8pU96fneXqFTsD9FjD"
+        },
+        {
+          "name": "Roiii",
+          "url": "https://open.spotify.com/artist/0DdgjYMzRw7t9TVwFuBI0V"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220386,
+      "name": "Isitha",
+      "url": "https://open.spotify.com/track/2QzESAhMEUCh34GK2gNfqA"
+    },
+    {
+      "album": {
         "name": "Isibuko",
         "url": "https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR"
       },
@@ -2998,6 +3080,32 @@
       "duration_ms": 278000,
       "name": "Kea Leboga",
       "url": "https://open.spotify.com/track/2FUHBivT4ab2m5ljITX1hN"
+    },
+    {
+      "album": {
+        "name": "Ukhamba",
+        "url": "https://open.spotify.com/album/4VshKshG4GNIVueV0qoeiP"
+      },
+      "artists": [
+        {
+          "name": "Inkabi Zezwe",
+          "url": "https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k"
+        },
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        },
+        {
+          "name": "Big Zulu",
+          "url": "https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255272,
+      "name": "Khaya Lami",
+      "url": "https://open.spotify.com/track/0KG5PG0nz6MmKLbDWtmpdk"
     },
     {
       "album": {
@@ -3760,6 +3868,32 @@
       "duration_ms": 217855,
       "name": "Make It Rain",
       "url": "https://open.spotify.com/track/3NH3qeBksmipl5oPWWgAYt"
+    },
+    {
+      "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/31mM25yPSAjdGjvossE7sh"
+      },
+      "artists": [
+        {
+          "name": "Assessa",
+          "url": "https://open.spotify.com/artist/0urRvp7Y3YHNjiiC0uVLlT"
+        },
+        {
+          "name": "Just Bheki",
+          "url": "https://open.spotify.com/artist/4FOfnMPuibRUgSBHBwvoPz"
+        },
+        {
+          "name": "Afriikan Papi",
+          "url": "https://open.spotify.com/artist/4fDmMQuFAIHnsKbmfOY8yO"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197367,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/4g1RnCIj4aN3Lpxh4jfPf9"
     },
     {
       "album": {
@@ -5192,6 +5326,32 @@
       "duration_ms": 235986,
       "name": "Nzwakazi",
       "url": "https://open.spotify.com/track/7qoqQWKWYZTuHjJuqvwe5t"
+    },
+    {
+      "album": {
+        "name": "Oh Mama",
+        "url": "https://open.spotify.com/album/7z7jzJ4js74BNUfFXvLREA"
+      },
+      "artists": [
+        {
+          "name": "Martin Khan",
+          "url": "https://open.spotify.com/artist/3LPj8vGCW2lQFQ7PrZMB5A"
+        },
+        {
+          "name": "Nhlonipho",
+          "url": "https://open.spotify.com/artist/4fmvHSoDtKFGNsQL3imnRN"
+        },
+        {
+          "name": "Mo-T",
+          "url": "https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240666,
+      "name": "Oh Mama",
+      "url": "https://open.spotify.com/track/4hQwThtNmUcBvkXEvAhP4S"
     },
     {
       "album": {

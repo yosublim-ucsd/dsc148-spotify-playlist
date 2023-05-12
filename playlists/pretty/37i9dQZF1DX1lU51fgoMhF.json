@@ -1,12 +1,12 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 131186,
+  "num_followers": 131539,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDJlMTZlMGYzN2Q5NGNkYjM3NWJkZGY2YWQzOTA3NjJmNGQ5OThj",
+  "snapshot_id": "MCwwMzRjODg2ODY3NDRhNDUyYjdmNWFhZTI2ZmQ1OTQwOWVjODhlOGQ2",
   "tracks": [
     {
       "added_at": "2023-05-02 06:14:26",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-05-02 06:14:26",
       "album": {
-        "name": "LALALAY",
-        "url": "https://open.spotify.com/album/7qmsar8kXnwi8k6OCTNoj5"
-      },
-      "artists": [
-        {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
-        }
-      ],
-      "duration_ms": 174880,
-      "name": "LALALAY",
-      "url": "https://open.spotify.com/track/0wqdresTib8pJkrpKK1nmF"
-    },
-    {
-      "added_at": "2023-05-02 06:14:26",
-      "album": {
         "name": "Dynamite (DayTime Version)",
         "url": "https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 197101,
       "name": "Dynamite (Tropical Remix)",
       "url": "https://open.spotify.com/track/3u4igxLGmXBu1eiQjawtoe"
+    },
+    {
+      "added_at": "2023-05-02 06:14:26",
+      "album": {
+        "name": "LALALAY",
+        "url": "https://open.spotify.com/album/7qmsar8kXnwi8k6OCTNoj5"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 174880,
+      "name": "LALALAY",
+      "url": "https://open.spotify.com/track/0wqdresTib8pJkrpKK1nmF"
     },
     {
       "added_at": "2023-05-02 06:14:26",
@@ -1571,22 +1571,22 @@
     {
       "added_at": "2023-05-02 06:14:26",
       "album": {
-        "name": "Summer or Summer",
-        "url": "https://open.spotify.com/album/5Sxd8gbumDCdcmq6M24eJV"
+        "name": "OCEAN VIEW",
+        "url": "https://open.spotify.com/album/0w40fqHApJ1JrxddGs9wcF"
       },
       "artists": [
         {
-          "name": "HYOLYN",
-          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
         },
         {
-          "name": "DASOM",
-          "url": "https://open.spotify.com/artist/6xxFNpc17jiiVZzOCgdLyv"
+          "name": "CHANYEOL",
+          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
         }
       ],
-      "duration_ms": 199026,
-      "name": "Summer or Summer",
-      "url": "https://open.spotify.com/track/6tU92qp9bJWAW86IHUggUa"
+      "duration_ms": 187200,
+      "name": "OCEAN VIEW (Feat.CHANYEOL)",
+      "url": "https://open.spotify.com/track/5f8pHuUR6958PQKIdLibdB"
     },
     {
       "added_at": "2023-05-02 06:14:26",
@@ -1607,6 +1607,26 @@
     {
       "added_at": "2023-05-02 06:14:26",
       "album": {
+        "name": "Summer or Summer",
+        "url": "https://open.spotify.com/album/5Sxd8gbumDCdcmq6M24eJV"
+      },
+      "artists": [
+        {
+          "name": "HYOLYN",
+          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
+        },
+        {
+          "name": "DASOM",
+          "url": "https://open.spotify.com/artist/6xxFNpc17jiiVZzOCgdLyv"
+        }
+      ],
+      "duration_ms": 199026,
+      "name": "Summer or Summer",
+      "url": "https://open.spotify.com/track/6tU92qp9bJWAW86IHUggUa"
+    },
+    {
+      "added_at": "2023-05-02 06:14:26",
+      "album": {
         "name": "Beautiful Night",
         "url": "https://open.spotify.com/album/3d3Qrwsh70152U0DkClVem"
       },
@@ -1619,26 +1639,6 @@
       "duration_ms": 169813,
       "name": "Beautiful Night",
       "url": "https://open.spotify.com/track/5TAVtxiijuCtUAvubAy7bY"
-    },
-    {
-      "added_at": "2023-05-02 06:14:26",
-      "album": {
-        "name": "OCEAN VIEW",
-        "url": "https://open.spotify.com/album/0w40fqHApJ1JrxddGs9wcF"
-      },
-      "artists": [
-        {
-          "name": "Rothy",
-          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
-        },
-        {
-          "name": "CHANYEOL",
-          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "OCEAN VIEW (Feat.CHANYEOL)",
-      "url": "https://open.spotify.com/track/5f8pHuUR6958PQKIdLibdB"
     },
     {
       "added_at": "2023-05-02 06:14:26",

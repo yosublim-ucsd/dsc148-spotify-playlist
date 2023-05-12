@@ -1394,6 +1394,28 @@
     {
       "album": {
         "name": "Money Mondays",
+        "url": "https://open.spotify.com/album/5i9i34hX8xEwOBi6nCkCyy"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Mdee",
+          "url": "https://open.spotify.com/artist/3RCH5MEaTPKsJwPzqGQ1w7"
+        },
+        {
+          "name": "K.O",
+          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Nobody but Me",
+      "url": "https://open.spotify.com/track/2Pwndcw1d2gONsdKTnIAHx"
+    },
+    {
+      "album": {
+        "name": "Money Mondays",
         "url": "https://open.spotify.com/album/3TAUwPnG8hHgBWFE5obk17"
       },
       "artists": [
@@ -1408,7 +1430,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 238000,
       "name": "Nobody but Me (feat. K.O)",
       "url": "https://open.spotify.com/track/0VhQbntrTPGcGHqgCvYQdS"

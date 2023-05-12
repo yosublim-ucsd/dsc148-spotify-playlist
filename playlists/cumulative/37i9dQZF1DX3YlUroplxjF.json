@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 219900,
       "name": "Cold",
       "url": "https://open.spotify.com/track/4tKctEHsnF6EuQUeJDq1Ip"
@@ -4252,6 +4252,24 @@
       "duration_ms": 136666,
       "name": "myfeelingshavefeelings",
       "url": "https://open.spotify.com/track/5gBQmRUJa29eBwgLMF4wTP"
+    },
+    {
+      "album": {
+        "name": "Name Your Price",
+        "url": "https://open.spotify.com/album/48k7va8R3kUJ2C9YzGFb73"
+      },
+      "artists": [
+        {
+          "name": "The New Age",
+          "url": "https://open.spotify.com/artist/3gsxykUVQOCa9H0K6kryPp"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172560,
+      "name": "Name Your Price",
+      "url": "https://open.spotify.com/track/1H5Rep5mTwWCw3o1dtAfO3"
     },
     {
       "album": {

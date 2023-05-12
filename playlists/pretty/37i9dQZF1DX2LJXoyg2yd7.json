@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Yemen.",
-  "num_followers": 16094,
+  "num_followers": 16111,
   "original_name": "Yemen Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2M3OGIwMzBlMGM5MjA3N2Q0OTAyYjY3MWU3Nzg0N2FiMGRlMzQz",
+  "snapshot_id": "MCxmZWYwNzY5NGYwODgzZTc3NWViZTEwZjZiZjA2NDQyNGFlNjE5ZWE4",
   "tracks": [
     {
       "added_at": "2022-07-27 09:18:36",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-07-27 09:18:36",
       "album": {
-        "name": "\u0639\u0627\u0634\u0642 \u0627\u0644\u0642\u0633\u0648\u0629",
-        "url": "https://open.spotify.com/album/0rPa8e8OMdEzSYy33TRgGD"
-      },
-      "artists": [
-        {
-          "name": "Mohamed Moshajeal",
-          "url": "https://open.spotify.com/artist/5SgPuHDX7bw9Ffdqqz2Wvd"
-        }
-      ],
-      "duration_ms": 342125,
-      "name": "\u062a\u0648\u0635\u0644 \u0628\u0627\u0644\u0633\u0644\u0627\u0645\u0629",
-      "url": "https://open.spotify.com/track/05YEZjLYLzPCloIrcljfzy"
-    },
-    {
-      "added_at": "2022-07-27 09:18:36",
-      "album": {
         "name": "\u0623\u0646\u0627 \u0627\u0644\u064a\u0645\u0627\u0646\u064a",
         "url": "https://open.spotify.com/album/4N6IOBbQyfPVD9sOC2s2TN"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 248000,
       "name": "\u0623\u0646\u0627 \u0627\u0644\u064a\u0645\u0627\u0646\u064a",
       "url": "https://open.spotify.com/track/2crXyiPYfYTJrgU4i7a0FJ"
+    },
+    {
+      "added_at": "2022-07-27 09:18:36",
+      "album": {
+        "name": "\u0639\u0627\u0634\u0642 \u0627\u0644\u0642\u0633\u0648\u0629",
+        "url": "https://open.spotify.com/album/0rPa8e8OMdEzSYy33TRgGD"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Moshajeal",
+          "url": "https://open.spotify.com/artist/5SgPuHDX7bw9Ffdqqz2Wvd"
+        }
+      ],
+      "duration_ms": 342125,
+      "name": "\u062a\u0648\u0635\u0644 \u0628\u0627\u0644\u0633\u0644\u0627\u0645\u0629",
+      "url": "https://open.spotify.com/track/05YEZjLYLzPCloIrcljfzy"
     },
     {
       "added_at": "2022-07-27 09:18:36",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-07-27 09:18:36",
       "album": {
-        "name": "\u0643\u0644\u0627\u0645 \u0623\u0628\u064a\u0636",
-        "url": "https://open.spotify.com/album/5BRl9OXmQmSj2R4FZE8qIE"
-      },
-      "artists": [
-        {
-          "name": "\u0639\u0645\u0627\u0631 \u0627\u0644\u0639\u0632\u0643\u064a",
-          "url": "https://open.spotify.com/artist/76ajZfqRS0o5xHT9L0Wz65"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "\u063a\u0646\u064a \u063a\u0646\u064a",
-      "url": "https://open.spotify.com/track/5470jMcakM58nZJGutrw81"
-    },
-    {
-      "added_at": "2022-07-27 09:18:36",
-      "album": {
         "name": "\u062d\u0628\u064a\u0628 \u0648\u0644\u0627 \u063a\u0631\u064a\u0628",
         "url": "https://open.spotify.com/album/0aUs2ZwUVpT1xr8KIhwF3V"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 305964,
       "name": "\u0645\u0627\u0623\u062c\u0645\u0644\u0643",
       "url": "https://open.spotify.com/track/2DTzFjkDOAt8E8qUEpLb0b"
+    },
+    {
+      "added_at": "2022-07-27 09:18:36",
+      "album": {
+        "name": "\u0643\u0644\u0627\u0645 \u0623\u0628\u064a\u0636",
+        "url": "https://open.spotify.com/album/5BRl9OXmQmSj2R4FZE8qIE"
+      },
+      "artists": [
+        {
+          "name": "\u0639\u0645\u0627\u0631 \u0627\u0644\u0639\u0632\u0643\u064a",
+          "url": "https://open.spotify.com/artist/76ajZfqRS0o5xHT9L0Wz65"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "\u063a\u0646\u064a \u063a\u0646\u064a",
+      "url": "https://open.spotify.com/track/5470jMcakM58nZJGutrw81"
     },
     {
       "added_at": "2022-07-27 09:18:36",
@@ -603,18 +603,18 @@
     {
       "added_at": "2022-07-27 09:18:36",
       "album": {
-        "name": "\u0627\u0641\u0627 \u0639\u0644\u064a\u0643",
-        "url": "https://open.spotify.com/album/3OK7HxtdSD9GTB7e85I5bY"
+        "name": "\u064a\u0627 \u0645\u0647\u0627\u062c\u0631",
+        "url": "https://open.spotify.com/album/1AhnOD0kXo4Nc3B0oMl7eJ"
       },
       "artists": [
         {
-          "name": "Ahmed Alwi",
-          "url": "https://open.spotify.com/artist/4lvCiUpjys3gvBk1qpK6Z0"
+          "name": "\u0627\u062d\u0645\u062f \u0627\u0644\u0639\u0637\u0627\u0633",
+          "url": "https://open.spotify.com/artist/6l0FoPSmxMITuwCK5GEQo1"
         }
       ],
-      "duration_ms": 273998,
-      "name": "\u0627\u0641\u0627 \u0639\u0644\u064a\u0643",
-      "url": "https://open.spotify.com/track/5BSLLQTgC8ZWPNNtQ38iK3"
+      "duration_ms": 427206,
+      "name": "\u064a\u0627 \u0645\u0647\u0627\u062c\u0631",
+      "url": "https://open.spotify.com/track/3bBj0z4e5PSRKq9uIB8LGD"
     },
     {
       "added_at": "2022-07-27 09:18:36",

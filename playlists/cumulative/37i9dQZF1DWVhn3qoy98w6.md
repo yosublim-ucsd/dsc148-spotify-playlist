@@ -4,7 +4,7 @@
 
 > Artistas independientes emergentes, cada miércoles\. Foto: julia amor.
 
-2,206 songs - 4 day 21 hr 12 min
+2,207 songs - 4 day 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -997,6 +997,7 @@
 | [La muerte y un puñal](https://open.spotify.com/track/3dDFIPdMd1y6SmdIivlP7f) | [Piedra](https://open.spotify.com/artist/01DSpvRUPG3Er9sIS3UIsb) | [La muerte y un puñal](https://open.spotify.com/album/3g7HqR7CsXJovkw4a6Ze05) | 2:52 | 2023-05-09 |  |
 | [La Mítica \- Remix](https://open.spotify.com/track/01b0ia74LhA6w7hMkoZPJ3) | [The Rapants](https://open.spotify.com/artist/6n9E45r5Ewzy1qXMqSVMA7), [Galician Army](https://open.spotify.com/artist/1uryf2kVKqQP54Kb9EsN2x) | [La Mítica \(Remix\)](https://open.spotify.com/album/106pmCqSG5jy8YeVTx0sE3) | 4:20 | 2022-09-06 | 2022-09-21 |
 | [la noche de anoche](https://open.spotify.com/track/2tNKtVlUGpJ172xV70TXDO) | [bechamel](https://open.spotify.com/artist/0UUzdRb1ccjfETwrFs7uDj) | [la noche de anoche](https://open.spotify.com/album/3hFKgL7jW0kzliYRvXfzuA) | 2:29 | 2022-04-05 | 2022-04-20 |
+| [La noche de San Juan](https://open.spotify.com/track/4gNkZNQzdcSwTsWWGcmBPB) | [Bianca Mui](https://open.spotify.com/artist/4uZwbKBh4fEOPFC0Pw0QCk), [Nare](https://open.spotify.com/artist/5kFiVU6yw6OkpKHuJmG8UX) | [La noche de San Juan](https://open.spotify.com/album/3GVe7IwqixEVdVTT9wA94o) | 3:07 | 2023-05-09 |  |
 | [La nube](https://open.spotify.com/track/2KrSIwPTfgx5Aq3WRCiYeP) | [Mon Dvy](https://open.spotify.com/artist/7MoX5e6PR4dvaoCXKXgZQ6) | [La nube](https://open.spotify.com/album/51kQcid23X3gDz4uCwpuuz) | 2:48 | 2022-02-01 | 2022-02-16 |
 | [la ola](https://open.spotify.com/track/7lnU0F5jKzN6cjMeDYdVWx) | [After Tommy](https://open.spotify.com/artist/3HpKdarqsHASs1kRv1uENZ) | [el verano pasará](https://open.spotify.com/album/129Gtdrln4K2zkz0X64l8G) | 3:44 | 2023-04-25 | 2023-05-03 |
 | [La Osa Mayor](https://open.spotify.com/track/1MMmLbmi07azpssKFU8hOy) | [Dramón García](https://open.spotify.com/artist/4z3Hat0pK4tG8slHjgR47m), [Pablo Und Destruktion](https://open.spotify.com/artist/55o14KDbF8VAbUm7QYqIcd) | [La Osa Mayor](https://open.spotify.com/album/45r1i4jMqQEoHChYx92xls) | 3:50 | 2022-03-22 | 2022-03-30 |

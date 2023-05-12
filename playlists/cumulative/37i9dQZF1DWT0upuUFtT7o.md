@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Indie](https://open.spotify.com/playlist/37i9dQZF1DWT0upuUFtT7o)
 
-> The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Walter The Producer
+> The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Waterbaby
 
-1,490 songs - 3 day 9 hr 33 min
+1,492 songs - 3 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Adventures of Tricky N Duke](https://open.spotify.com/track/2Nh4io2oYYGTKga8J5fK5L) | [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg) | [Adventures of Tricky N Duke](https://open.spotify.com/album/0t3Eq2TRjepZeWGvGy9kZR) | 2:14 | 2021-12-01 | 2022-05-05 |
 | [Aerophobia](https://open.spotify.com/track/1AdPYluX0JwdBeXV9200CU) | [Sindy](https://open.spotify.com/artist/3YUBKpd4lRd09FvF8jrLRa) | [Dear Diary](https://open.spotify.com/album/1MX8E8y9H6yq8oCe9jDYhj) | 2:20 | 2023-03-01 | 2023-03-09 |
 | [Afraid of Driving](https://open.spotify.com/track/1qff8a4waSslWtW4QvClol) | [Drauve](https://open.spotify.com/artist/3amCA9U9lgity9TZs1MENn) | [Afraid of Driving](https://open.spotify.com/album/2Ll7amJP0P9oGHCRKa81A2) | 3:00 | 2022-03-22 | 2022-04-13 |
+| [After I Changed \- Demo](https://open.spotify.com/track/4CvfkQw8fSZHq5s5IfoiQw) | [Tessa DeNicola](https://open.spotify.com/artist/5yyUO4YtfoPkaTB794DXGh) | [After I Changed \(Demo\)](https://open.spotify.com/album/1lLvF5dDpO35wMBybwTXgt) | 3:00 | 2023-05-12 |  |
 | [Afterglow](https://open.spotify.com/track/2Pf61uNhKSEsOJ7FEtBibJ) | [Candy Moore](https://open.spotify.com/artist/3U7I69WIz0gHzaKBFMp2uO) | [Memory Of Hope](https://open.spotify.com/album/67ijdVKZNEHDHkfXGs4AZb) | 2:34 | 2022-10-05 | 2022-11-10 |
 | [Afterlife](https://open.spotify.com/track/3p57vp12pCXiFiApvRKgAs) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Afterlife](https://open.spotify.com/album/5P3Cf5nXZRBmLQ9bmTxWSj) | 3:42 | 2023-03-15 | 2023-04-13 |
 | [Afterlife](https://open.spotify.com/track/0Xi1Cs3WebgME5QFZcJQcs) | [Madisenxoxo](https://open.spotify.com/artist/2S2x3n1BXskbkRdEdj5gSB) | [Afterlife](https://open.spotify.com/album/4bTzs8uMPepY1Dv99FesVW) | 2:34 | 2022-05-19 | 2022-06-09 |
@@ -430,7 +431,7 @@
 | [FANCY COAT](https://open.spotify.com/track/705ByH52ZWfGhvtZX50Q6G) | [FruitPunchLoverBoy](https://open.spotify.com/artist/7pAPdjGwblD7qvfnVNCtZ8) | [FANCY COAT](https://open.spotify.com/album/0zXRTfXeaaXQo5OBbRZ0Rn) | 2:21 | 2023-04-12 |  |
 | [Fanfiction](https://open.spotify.com/track/02njNJivD3dlxfCYxqftnc) | [CIB](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [Fanfiction](https://open.spotify.com/album/2Q9hQcn8EqQhQTWKQghxF2) | 3:14 | 2022-09-06 | 2022-10-20 |
 | [Fanfiction](https://open.spotify.com/track/2o3M4XOC7Z9nNz4v5xWL9h) | [CIB](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [Fanfiction](https://open.spotify.com/album/2bmG0uP4DSjUszNu5NbfIT) | 3:14 | 2022-09-06 | 2022-10-13 |
-| [fanfiction on the internet](https://open.spotify.com/track/1wgjeq97WULtZz0xKbLfLm) | [Jake Timothy](https://open.spotify.com/artist/1WmCyL1N2PY1LF6b0E6Mfy) | [fanfiction on the internet](https://open.spotify.com/album/3UIMmbwPFk8ddSOaMM3lc1) | 2:51 | 2023-04-12 |  |
+| [fanfiction on the internet](https://open.spotify.com/track/1wgjeq97WULtZz0xKbLfLm) | [Jake Timothy](https://open.spotify.com/artist/1WmCyL1N2PY1LF6b0E6Mfy) | [fanfiction on the internet](https://open.spotify.com/album/3UIMmbwPFk8ddSOaMM3lc1) | 2:51 | 2023-04-12 | 2023-05-12 |
 | [Fantasy Girl](https://open.spotify.com/track/7p33SXYo2bO6ZWYmi3K2Yw) | [Alexa Dark](https://open.spotify.com/artist/2Pg197baToPALNtcDfzDjQ) | [Dark, Vol\. I](https://open.spotify.com/album/3xaBH09DqOJNbfMMv3Bljt) | 2:42 | 2023-04-05 | 2023-04-20 |
 | [Far Too Many Times](https://open.spotify.com/track/2AuIxvX1Gw08ZXZefSWYKs) | [AKA Matador](https://open.spotify.com/artist/1QoUyBQnfHKfv9S80S2UjE) | [Home Tour](https://open.spotify.com/album/7gG8TJU6eR4IvYtMBzFLqZ) | 3:06 | 2022-03-16 | 2022-04-27 |
 | [Fast Lane](https://open.spotify.com/track/5hdPK5xykxHncn7e0cjM2c) | [J4](https://open.spotify.com/artist/36Qkw8xpSta7ZunIBsdQvW) | [Fast Lane](https://open.spotify.com/album/2rwT9A9iLERLtsNDKyoiPP) | 2:06 | 2022-06-15 | 2022-07-28 |
@@ -1210,7 +1211,7 @@
 | [spiderman4](https://open.spotify.com/track/5adOv5taeS5oZC7FDsijgt) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Jeter](https://open.spotify.com/artist/6zqtOVeP8C8LOClejH6BDm), [Y ohtrixpointnever](https://open.spotify.com/artist/4zba7coFdHgCPeGTxZn1LQ) | [spiderman4](https://open.spotify.com/album/7pPWLffPA8Qbg8ocg45bbd) | 2:11 | 2022-03-22 | 2022-04-13 |
 | [Spin](https://open.spotify.com/track/5vbolJRW6w9YJXDP7yj4n3) | [Rosalyn](https://open.spotify.com/artist/0eBxT8cgP2efRvTQWyomVY) | [Spin](https://open.spotify.com/album/11lGrv1kUoOvyuWOg4anHX) | 4:05 | 2022-05-04 | 2022-06-09 |
 | [Spinning Wheel](https://open.spotify.com/track/5LtKOTf6vq5lTYyYVA0U9o) | [Rat Tally](https://open.spotify.com/artist/7kLaLiBdbGiIC6jYwcpZbb) | [Spinning Wheel](https://open.spotify.com/album/2sMt2rmTEt87ZdJFwBlfho) | 3:35 | 2022-06-29 | 2022-08-04 |
-| [Spit Up](https://open.spotify.com/track/0DYIVjRfixT8rHJyBkW3ns) | [lilo](https://open.spotify.com/artist/0UHZYAHCtBGKef12trPQrL) | [I Don't Like My Chances On The Outside](https://open.spotify.com/album/6aD5li3XAl6aT4oTq8bE2M) | 4:40 | 2023-04-26 |  |
+| [Spit Up](https://open.spotify.com/track/0DYIVjRfixT8rHJyBkW3ns) | [lilo](https://open.spotify.com/artist/0UHZYAHCtBGKef12trPQrL) | [I Don't Like My Chances On The Outside](https://open.spotify.com/album/6aD5li3XAl6aT4oTq8bE2M) | 4:40 | 2023-04-26 | 2023-05-12 |
 | [Split Screens](https://open.spotify.com/track/3Z3UZSLGpkhh6ITZMo012l) | [scott is okay](https://open.spotify.com/artist/74sQB0xBWG3zl72UcRjIKK) | [Split Screens](https://open.spotify.com/album/7vkDjmftcRCHYygDYYoy1T) | 2:00 | 2022-06-15 | 2022-06-30 |
 | [Spotlight](https://open.spotify.com/track/6pi2zS1BBsDD1sQH5h52ZK) | [Stanley](https://open.spotify.com/artist/3Gx4Zbk2yisVcOMxYISvxc) | [Spotlight](https://open.spotify.com/album/3bYOdjWACZHWc2d7RTYOKh) | 3:09 | 2022-04-12 | 2022-05-20 |
 | [Spring](https://open.spotify.com/track/2vMikyqNbH1ynZ4Rfcbso3) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Spring](https://open.spotify.com/album/4GVoIK1wXH6Tm5bOaNOkIu) | 2:45 | 2022-06-08 | 2022-06-30 |
@@ -1228,6 +1229,7 @@
 | [Still](https://open.spotify.com/track/6HCoTZtS5ZD0MMnda77O65) | [Isadora Eden](https://open.spotify.com/artist/309snhwGNeKotaADKVUZVL) | [Still](https://open.spotify.com/album/33a3NmOde3OtmHygesUbqO) | 2:24 | 2023-04-12 | 2023-05-11 |
 | [Still The Same](https://open.spotify.com/track/0BxpUmBslP2oSAzvSToMyR) | [Tomás Tomás](https://open.spotify.com/artist/5cIsZTM8obwInukUbjtuE7) | [Still The Same](https://open.spotify.com/album/2YWC4IYQE7l1QOsZke9kqO) | 2:41 | 2023-04-19 |  |
 | [Still The Same](https://open.spotify.com/track/3S1PM8HQvrg4wEgEyH6HsV) | [Tomás Tomás](https://open.spotify.com/artist/5cIsZTM8obwInukUbjtuE7) | [Still The Same](https://open.spotify.com/album/1izQQQD5H3WfeyilRviVwk) | 2:41 | 2023-04-19 | 2023-04-23 |
+| [Stinks 4 Lyfe](https://open.spotify.com/track/6omYJzwD9CJarnbwe5BItE) | [Nymphlord](https://open.spotify.com/artist/1yfevoyZUkL1AppRncgILh) | [Stinks 4 Lyfe](https://open.spotify.com/album/1U6LhGdZF7C7R70PDhtGQV) | 3:10 | 2023-05-12 |  |
 | [Stomping](https://open.spotify.com/track/2RCxfudVc5y1cPvppLwVAp) | [Earth Dad](https://open.spotify.com/artist/4chHQ1XcMUGTnvb0Q5mgIG), [Isa Reyes](https://open.spotify.com/artist/4TByvCGrRIFKUl3rMQKQa1) | [Stomping / 2 Be Loved](https://open.spotify.com/album/2A6g4eLSERVlqQHLF3nVug) | 2:12 | 2021-12-01 | 2022-01-13 |
 | [Stone After Stone](https://open.spotify.com/track/0pwiEhcbpCFQvU6fMt4AeE) | [June McDoom](https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV) | [Stone After Stone](https://open.spotify.com/album/6B1hhFIH0plGioiE0AxO8Q) | 4:06 | 2022-09-23 | 2022-10-06 |
 | [Stone Killer](https://open.spotify.com/track/0HTdp0zc8NELjhPTbEp7PR) | [26fix](https://open.spotify.com/artist/1HvnaxYOnYcLVvnOn2eb5e) | [Stone Killer](https://open.spotify.com/album/5g8JB0xHVPlp25BmuIci5L) | 3:28 | 2023-05-03 |  |

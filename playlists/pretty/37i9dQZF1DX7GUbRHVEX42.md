@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > The best current contemporary Reggae\. Cover: Kabaka Pyramid
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,589 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,650 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 49 | [Ready Fi Di Road \- Remastered](https://open.spotify.com/track/6Lt5mG1VpdPK4k5HNuOWqG) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Ready Fi Di Road \(Remastered\)](https://open.spotify.com/album/0pkqPOfiL02TucxKlfKLdc) | 4:25 |
 | 50 | [Nothing No Wrong](https://open.spotify.com/track/15Gb5a89gq0Cw6opsCgT37) | [Pressure](https://open.spotify.com/artist/009IKtLg2rg2QMbvNtWaoh), [Midnite](https://open.spotify.com/artist/2qo5BOQTBHXYKcTER10pRZ) | [The Sound](https://open.spotify.com/album/0EUaIfzNRdEkiP4YJ7OJqp) | 5:01 |
 
-Snapshot ID: `MCw3YzY5NWZhMzg2NzYyYzgyNGYxNmI4ZjFlNWI5ZjE0ZTZhOTZlNzY0`
+Snapshot ID: `MCwxNmQzNTY3ZDhiNWU5MmM2ZjZiYTU5ODdmMTE0ZGNmM2EyNjNmYTY4`

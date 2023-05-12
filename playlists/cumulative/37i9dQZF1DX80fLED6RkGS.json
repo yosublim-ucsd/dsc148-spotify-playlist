@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y?si=NwNjbixHTBurF0udskWHvA\">Boutross</a> ",
+  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP?si=efIgYrgLQJavv5xtC9glvg\">Maandy</a> ",
   "name": "Gengetone Fire",
   "tracks": [
     {
@@ -120,6 +120,24 @@
       "duration_ms": 180453,
       "name": "Ala",
       "url": "https://open.spotify.com/track/2nOBa9BLxyDOev8sM82LrH"
+    },
+    {
+      "album": {
+        "name": "Alert",
+        "url": "https://open.spotify.com/album/6R8MrjmK8u5RfIwPHR2lU4"
+      },
+      "artists": [
+        {
+          "name": "Lilmaina",
+          "url": "https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120228,
+      "name": "Alert",
+      "url": "https://open.spotify.com/track/6Lp23k6v9eSrZf3kS4t1E7"
     },
     {
       "album": {
@@ -1754,7 +1772,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 187559,
       "name": "Hivi Na Hivo",
       "url": "https://open.spotify.com/track/4qgXVPkYela0Ql8svwNbU6"
@@ -2252,7 +2270,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 205400,
       "name": "Kichwa Tu",
       "url": "https://open.spotify.com/track/74Z0rYj90V4QDhxygsKhuB"
@@ -4994,6 +5012,24 @@
       "duration_ms": 218253,
       "name": "Spin Kama Dera",
       "url": "https://open.spotify.com/track/52YgssRciWzw4xhEU1uGwl"
+    },
+    {
+      "album": {
+        "name": "Flavour",
+        "url": "https://open.spotify.com/album/5YOqPJBwr15Z9RZOca5K1H"
+      },
+      "artists": [
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "Spoil",
+      "url": "https://open.spotify.com/track/3w2WZOz87AHiYpqf5BlT6e"
     },
     {
       "album": {

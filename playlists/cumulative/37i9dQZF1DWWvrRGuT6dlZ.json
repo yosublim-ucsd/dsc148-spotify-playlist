@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Unearthing your new favourite artists. Cover: mersie. Artwork: Isu Kim.",
+  "description": "Unearthing your new favourite artists. Cover: Adam Jazzlan, Narysal. Artwork: Isu Kim.",
   "name": "Fresh Finds SG & MY",
   "tracks": [
     {
@@ -734,7 +734,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 158491,
       "name": "bittersweet",
       "url": "https://open.spotify.com/track/3rIFI3Qr5F6ZMAeX1R8bzh"
@@ -1240,7 +1240,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 210261,
       "name": "COMPANY",
       "url": "https://open.spotify.com/track/0mQRWrVbY2dp1RgPUjpFyt"
@@ -2325,6 +2325,24 @@
     },
     {
       "album": {
+        "name": "GET THIS RIGHT",
+        "url": "https://open.spotify.com/album/65OzeAHliScpDpBB2zMMTu"
+      },
+      "artists": [
+        {
+          "name": "Chriskris",
+          "url": "https://open.spotify.com/artist/1JiE6rWuUTLrtPFQEOCphl"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "GET THIS RIGHT",
+      "url": "https://open.spotify.com/track/06zW1L5h75YSZ86L3GSr3p"
+    },
+    {
+      "album": {
         "name": "Glass Stained Eyes",
         "url": "https://open.spotify.com/album/5G30IZQVh5eYJS5KrjwyHH"
       },
@@ -3333,6 +3351,28 @@
     },
     {
       "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/4VwiJPA5hXrcVvsxDOMOem"
+      },
+      "artists": [
+        {
+          "name": "Adam Jazzlan",
+          "url": "https://open.spotify.com/artist/5qKVegmk3MfMecHAg1jJgZ"
+        },
+        {
+          "name": "Narysal",
+          "url": "https://open.spotify.com/artist/26iQVSr3VdWWAzy7fiN908"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199090,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/7uE1fO1I6ADcJ4Zrnex8Kh"
+    },
+    {
+      "album": {
         "name": "insomaniac",
         "url": "https://open.spotify.com/album/2zlHmXYXkQwPdEigti7vPE"
       },
@@ -3402,7 +3442,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 188753,
       "name": "It's Over",
       "url": "https://open.spotify.com/track/4b83ji9z09OSqV7flrO4YH"
@@ -3626,7 +3666,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 150312,
       "name": "Last Bus",
       "url": "https://open.spotify.com/track/46PIzwv3Ezp5WqcTfa3zUx"
@@ -3938,7 +3978,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 212142,
       "name": "Love Quizzes",
       "url": "https://open.spotify.com/track/3AnCQUv83JUHosFh9OVmLp"
@@ -4908,7 +4948,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 166396,
       "name": "Old News (Killing Me Softly)",
       "url": "https://open.spotify.com/track/0ccpZnh7XcFvb9iCAfsFP4"
@@ -4926,7 +4966,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 204800,
       "name": "On Me",
       "url": "https://open.spotify.com/track/4Uy5ad1pgqpEn6kueATOom"
@@ -5849,6 +5889,32 @@
     },
     {
       "album": {
+        "name": "simon says",
+        "url": "https://open.spotify.com/album/0HmHQlwuTWzL9VPMk7AC1U"
+      },
+      "artists": [
+        {
+          "name": "isaacprease",
+          "url": "https://open.spotify.com/artist/2Pa2Q2By2eVE6RT8SfgozN"
+        },
+        {
+          "name": "Jelex",
+          "url": "https://open.spotify.com/artist/6dhwyJ9zxV1cstuPoRv06s"
+        },
+        {
+          "name": "Dave Anonuevo",
+          "url": "https://open.spotify.com/artist/7buJRMVUhTO2JhsNekynv1"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154482,
+      "name": "simon says",
+      "url": "https://open.spotify.com/track/5PrAyJlzvbVszSDtHjDvXT"
+    },
+    {
+      "album": {
         "name": "SLIDE",
         "url": "https://open.spotify.com/album/7ASEKgcGL4UUFArYgUXiXk"
       },
@@ -6168,7 +6234,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 348406,
       "name": "summersad",
       "url": "https://open.spotify.com/track/3b9vvKIbi2gCzm6MKW5QQl"
@@ -6212,7 +6278,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 150035,
       "name": "SUNSET CHASER (with PFTD) - Radio Edit",
       "url": "https://open.spotify.com/track/73iFppQnSxTicoooPXXbmW"
@@ -6490,7 +6556,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 242910,
       "name": "The Lights Have Gone Down",
       "url": "https://open.spotify.com/track/1R0bl70zBoKukkB0qUnJZ1"
@@ -6793,6 +6859,24 @@
     },
     {
       "album": {
+        "name": "triple text",
+        "url": "https://open.spotify.com/album/1BoY6vDnumSbKuK4wwCI1u"
+      },
+      "artists": [
+        {
+          "name": "Maya Ashllee",
+          "url": "https://open.spotify.com/artist/5Pwn6N9dS2ZIP3debpjOK0"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108826,
+      "name": "triple text",
+      "url": "https://open.spotify.com/track/6tat7ww7O0FkBtScJ4BS7t"
+    },
+    {
+      "album": {
         "name": "Trophy",
         "url": "https://open.spotify.com/album/78ft3iIoh9gqzcqtmbhILn"
       },
@@ -6949,6 +7033,24 @@
     },
     {
       "album": {
+        "name": "Up",
+        "url": "https://open.spotify.com/album/0At5I86fWOkZDokz1BDd8C"
+      },
+      "artists": [
+        {
+          "name": "Yaung",
+          "url": "https://open.spotify.com/artist/5brjWpkQWkAineD6T2Mx12"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189473,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/6MvHpnVZk3onTWdGTTlJWO"
+    },
+    {
+      "album": {
         "name": "ur the only one",
         "url": "https://open.spotify.com/album/2pinoPrSIr05ASlksdwoOy"
       },
@@ -6996,7 +7098,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 309121,
       "name": "Utopia Reimagined: These Corners",
       "url": "https://open.spotify.com/track/26dUYggoH8t7nv8qNMbFHy"
@@ -7036,7 +7138,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 200470,
       "name": "wait.",
       "url": "https://open.spotify.com/track/78Th4cT1tR277M7iiQmv7b"
@@ -7670,7 +7772,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 187874,
       "name": "You Already Know",
       "url": "https://open.spotify.com/track/6aBVnDNG502Sh5rJRqLxmD"
@@ -7706,7 +7808,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 153343,
       "name": "you didn\u2019t",
       "url": "https://open.spotify.com/track/5a9cvQ2osId4cQJN4WC1Ph"

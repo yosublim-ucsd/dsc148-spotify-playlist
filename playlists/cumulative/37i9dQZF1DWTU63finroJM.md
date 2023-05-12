@@ -4,7 +4,7 @@
 
 > From across the globe\. New artists on the horizon.
 
-964 songs - 2 day 5 hr 38 min
+965 songs - 2 day 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [Haram \(Pablo II\)](https://open.spotify.com/track/1v7FirpqhKxOjyvf8hD7U2) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Haram \(Pablo II\)](https://open.spotify.com/album/4C7BK6Ww6xQCEbRuJeB0Fu) | 4:23 | 2022-03-24 | 2022-04-07 |
 | [He's Into Her](https://open.spotify.com/track/0j4l5cQYuAgEtF5RFKXJQJ) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [He's Into Her](https://open.spotify.com/album/08Ce2nedPujQAcDNezbq9x) | 4:01 | 2022-02-03 | 2022-06-28 |
 | [Heart Can’t Lose](https://open.spotify.com/track/5e9DrLUUZraUE7mmniufjn) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Episode](https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW) | 4:00 | 2022-02-03 | 2022-12-15 |
+| [Heartbreaker](https://open.spotify.com/track/4eLFb0Ygy59SEisCWsa85h) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [I Love You And Its Getting Worse](https://open.spotify.com/album/4EveH7LTJ6mTkxXWK6y2Vu) | 3:00 | 2023-05-11 |  |
 | [Heat Up](https://open.spotify.com/track/2xxpA9Bd8TaKIv0RGKFr9I) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [ROOKERY](https://open.spotify.com/album/799I2k2TkWYZgot4HkSJXH) | 3:02 | 2022-03-24 | 2022-07-29 |
 | [Heat Up](https://open.spotify.com/track/4Zy41OO1JR7ubYW1LnJ3tA) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [ROOKERY](https://open.spotify.com/album/28WPMClVfDtMHaNrrjbPcX) | 3:02 | 2022-06-29 | 2022-08-02 |
 | [hedonist.](https://open.spotify.com/track/1ilxwybAc0Sd3Gwc4oRKgi) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [HEDONIST](https://open.spotify.com/album/2hJqttVXOCMHCGrfqkkuRl) | 2:55 | 2022-02-10 | 2022-11-19 |
@@ -810,7 +811,7 @@
 | [Walther PP](https://open.spotify.com/track/28qmiyP7GhdicyeOW0mBNW) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Benjamin Epps](https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn) | [Stamina, Memento](https://open.spotify.com/album/2D5pAt1QO1tcuM8oe3O8T9) | 3:04 | 2022-03-24 | 2022-04-21 |
 | [Watershed](https://open.spotify.com/track/2CfWHcw3H18SdyX4PcwJV2) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [ROOKERY](https://open.spotify.com/album/799I2k2TkWYZgot4HkSJXH) | 3:38 | 2022-03-24 | 2022-04-20 |
 | [we fell in love in october](https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu) | 3:04 | 2022-02-03 | 2022-09-16 |
-| [Weak](https://open.spotify.com/track/3UnfOb5hmnf4KF7NIgAj9a) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Weak](https://open.spotify.com/album/5iZOesuEQxTbZkvSuyAaK4) | 2:39 | 2022-11-11 |  |
+| [Weak](https://open.spotify.com/track/3UnfOb5hmnf4KF7NIgAj9a) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Weak](https://open.spotify.com/album/5iZOesuEQxTbZkvSuyAaK4) | 2:39 | 2022-11-11 | 2023-05-12 |
 | [Weino](https://open.spotify.com/track/1feYc8vSa3y6EodevhkzYB) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Weino](https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj) | 2:25 | 2022-03-24 | 2023-04-18 |
 | [Weirdo](https://open.spotify.com/track/3sQBT0tor8HICVtn7YoNwt) | [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Weirdo](https://open.spotify.com/album/46mIIqrJLQdTpwy460Yaox) | 3:07 | 2022-06-29 | 2023-05-09 |
 | [Welcome Back](https://open.spotify.com/track/2tJIp1gWlV6NpUyriIvOfd) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [The Mirror](https://open.spotify.com/album/51etW6Ge46Vuuvhq5cgTQ6) | 3:08 | 2022-03-24 | 2023-04-18 |

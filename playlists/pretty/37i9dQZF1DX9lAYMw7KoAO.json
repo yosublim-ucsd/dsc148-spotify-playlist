@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across the African continent. Worship in your mother tongue here! Cover:  <a href=\"https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas\"> Victor Thompson </a>",
-  "num_followers": 70833,
+  "num_followers": 70938,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDhhYjY2OGZhZjg3ODliY2Q4ZWE2NTI0ZTZlYWEyYzM1NGY2NjQw",
+  "snapshot_id": "MCwxOGVhOTY1MDJmMmJjYzczOWY3ZWQwNDI0MTYwMzllYWNmZTFmODJj",
   "tracks": [
     {
       "added_at": "2023-05-05 00:01:00",
@@ -23,6 +23,22 @@
       "duration_ms": 757223,
       "name": "Na Your Hand",
       "url": "https://open.spotify.com/track/4of2lvm7dopjHj5NoELI5O"
+    },
+    {
+      "added_at": "2023-05-12 00:01:00",
+      "album": {
+        "name": "Selense",
+        "url": "https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "duration_ms": 225153,
+      "name": "Selense",
+      "url": "https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh"
     },
     {
       "added_at": "2023-04-21 00:01:00",
@@ -49,6 +65,30 @@
       "url": "https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU"
     },
     {
+      "added_at": "2023-05-12 00:01:00",
+      "album": {
+        "name": "Dadi",
+        "url": "https://open.spotify.com/album/0JGojovVFDXUzBOh4zw9p2"
+      },
+      "artists": [
+        {
+          "name": "Lekan Salamii",
+          "url": "https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB"
+        },
+        {
+          "name": "Tobi Toun",
+          "url": "https://open.spotify.com/artist/6hZdbBNTnqujBRgVzROQ22"
+        },
+        {
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        }
+      ],
+      "duration_ms": 177714,
+      "name": "Dadi",
+      "url": "https://open.spotify.com/track/1jsNfKk9Jv6QuGaQWFh872"
+    },
+    {
       "added_at": "2023-05-05 00:01:00",
       "album": {
         "name": "THIS YEAR (Blessings) [North African Remix]",
@@ -68,7 +108,7 @@
           "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
         }
       ],
-      "duration_ms": 123683,
+      "duration_ms": 129645,
       "name": "THIS YEAR (Blessings) - North African Remix",
       "url": "https://open.spotify.com/track/6lsj28Ac7tqZUpILTwMfbs"
     },
@@ -87,6 +127,26 @@
       "duration_ms": 234667,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub"
+    },
+    {
+      "added_at": "2023-05-12 00:01:00",
+      "album": {
+        "name": "TOTORI (The Name of Jesus)",
+        "url": "https://open.spotify.com/album/6QKDQjlkZlsm2V0T4gxjZj"
+      },
+      "artists": [
+        {
+          "name": "Mike Aremu",
+          "url": "https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "TOTORI (The Name of Jesus)",
+      "url": "https://open.spotify.com/track/21rTE3IBtnxuVE1tmt90Ac"
     },
     {
       "added_at": "2023-05-05 00:01:00",
@@ -123,6 +183,46 @@
       "duration_ms": 183868,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/4sLFPCfuwUNk5sBpDCkfdo"
+    },
+    {
+      "added_at": "2023-05-12 00:01:00",
+      "album": {
+        "name": "Truth in Sounds",
+        "url": "https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq"
+      },
+      "artists": [
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "duration_ms": 546156,
+      "name": "I Get Backing",
+      "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
+    },
+    {
+      "added_at": "2023-05-12 00:01:00",
+      "album": {
+        "name": "My Daddy",
+        "url": "https://open.spotify.com/album/7uK1TjQ891Um6RjD6Wep0T"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        },
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        }
+      ],
+      "duration_ms": 157703,
+      "name": "My Daddy",
+      "url": "https://open.spotify.com/track/069BLujYCF0AJcZcfECyCD"
     },
     {
       "added_at": "2023-04-21 00:01:00",
@@ -189,6 +289,22 @@
       "url": "https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh"
     },
     {
+      "added_at": "2023-05-12 00:01:00",
+      "album": {
+        "name": "Abba Father",
+        "url": "https://open.spotify.com/album/5lP7HPJ05Hlk9FSDpPY8Vg"
+      },
+      "artists": [
+        {
+          "name": "Mr M & Revelation",
+          "url": "https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa"
+        }
+      ],
+      "duration_ms": 220608,
+      "name": "Abba Father",
+      "url": "https://open.spotify.com/track/4GaNCiCC9xW3W18zpBtt49"
+    },
+    {
       "added_at": "2023-05-05 00:01:00",
       "album": {
         "name": "Basheshe Bahleke",
@@ -225,6 +341,26 @@
       "url": "https://open.spotify.com/track/6zhvRncoF78h7c3D5ckuPj"
     },
     {
+      "added_at": "2023-05-12 00:01:00",
+      "album": {
+        "name": "Usiniache (Remix)",
+        "url": "https://open.spotify.com/album/2uzf8hKInIrYTMqqbLmez2"
+      },
+      "artists": [
+        {
+          "name": "Mr Seed",
+          "url": "https://open.spotify.com/artist/6worshay3dx3NqPNl8PRSw"
+        },
+        {
+          "name": "Wanavokali",
+          "url": "https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP"
+        }
+      ],
+      "duration_ms": 270198,
+      "name": "Usiniache - Remix",
+      "url": "https://open.spotify.com/track/44mdd5TPUmYqrir91xg9bX"
+    },
+    {
       "added_at": "2023-05-05 00:01:00",
       "album": {
         "name": "POLE POLE",
@@ -236,13 +372,73 @@
           "url": "https://open.spotify.com/artist/1Rkz7wbIgGz8wBCN8TsfKU"
         },
         {
-          "name": "Called Out Music",
-          "url": "https://open.spotify.com/artist/0o01yhGXCY0kN3RGmDFlVi"
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
         }
       ],
       "duration_ms": 208148,
       "name": "Pole Pole",
       "url": "https://open.spotify.com/track/36KpEwMZI8ZC59o1bp13Ai"
+    },
+    {
+      "added_at": "2023-05-12 00:01:00",
+      "album": {
+        "name": "This Love",
+        "url": "https://open.spotify.com/album/03A2CFWlbSOwA0Lwp0cypJ"
+      },
+      "artists": [
+        {
+          "name": "Spillz Ochai",
+          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
+        },
+        {
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
+        },
+        {
+          "name": "Jayclassic",
+          "url": "https://open.spotify.com/artist/1zHVfhNLYAFudApzvfCIUp"
+        }
+      ],
+      "duration_ms": 186100,
+      "name": "This Love",
+      "url": "https://open.spotify.com/track/6XcvPcSl1DET6306WDfnMg"
+    },
+    {
+      "added_at": "2023-05-12 00:01:00",
+      "album": {
+        "name": "For my mind",
+        "url": "https://open.spotify.com/album/6M0PfuSP3nnVo1uCpdsTLm"
+      },
+      "artists": [
+        {
+          "name": "Monaze",
+          "url": "https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG"
+        },
+        {
+          "name": "Drakare",
+          "url": "https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be"
+        }
+      ],
+      "duration_ms": 153469,
+      "name": "For my mind",
+      "url": "https://open.spotify.com/track/1ykZVCAmpFWSfpa3ROMd1f"
+    },
+    {
+      "added_at": "2023-05-12 00:01:00",
+      "album": {
+        "name": "Sane",
+        "url": "https://open.spotify.com/album/1WDNkCLrjjTK3xDVKWwVCF"
+      },
+      "artists": [
+        {
+          "name": "Brenda Mtambo",
+          "url": "https://open.spotify.com/artist/1xq3iidMUB1FTy5c7WcfyC"
+        }
+      ],
+      "duration_ms": 246315,
+      "name": "Awuwedwa",
+      "url": "https://open.spotify.com/track/3L7PwSbalLSeqjZEUv77SC"
     },
     {
       "added_at": "2023-04-28 00:30:00",
@@ -259,6 +455,26 @@
       "duration_ms": 593064,
       "name": "VICTORY DANCE",
       "url": "https://open.spotify.com/track/0bRt230xIYDhNJ6fC1voSt"
+    },
+    {
+      "added_at": "2023-05-12 00:01:00",
+      "album": {
+        "name": "What I Want",
+        "url": "https://open.spotify.com/album/2VyPYgNlJ77Q3XAVY1gU21"
+      },
+      "artists": [
+        {
+          "name": "Elikem Kofi",
+          "url": "https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl"
+        },
+        {
+          "name": "OJIH",
+          "url": "https://open.spotify.com/artist/6Y6d14w9X4lOD4mQqgsb8M"
+        }
+      ],
+      "duration_ms": 180586,
+      "name": "What I Want",
+      "url": "https://open.spotify.com/track/7mEz7ksXNBD3wdbfb87DVT"
     },
     {
       "added_at": "2023-04-28 00:30:00",
@@ -319,6 +535,26 @@
       "duration_ms": 628223,
       "name": "Hallelujah (Me Re Jirie) [feat. Godwin Adams & Justina]",
       "url": "https://open.spotify.com/track/4NkTMo4kZK5nM42y3CBaNE"
+    },
+    {
+      "added_at": "2023-05-12 00:01:00",
+      "album": {
+        "name": "Twetegeke",
+        "url": "https://open.spotify.com/album/32XNbETCWryT1X1yUQXF24"
+      },
+      "artists": [
+        {
+          "name": "Coopy Bly",
+          "url": "https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y"
+        },
+        {
+          "name": "Joseph Generation",
+          "url": "https://open.spotify.com/artist/2KFGp0kf2ddx84cZ84KSrw"
+        }
+      ],
+      "duration_ms": 204068,
+      "name": "Twetegeke",
+      "url": "https://open.spotify.com/track/5cbZsbLJXXIr76grN79ho6"
     },
     {
       "added_at": "2023-04-21 00:01:00",
@@ -559,22 +795,6 @@
       "duration_ms": 174386,
       "name": "Your Mind - Special Version",
       "url": "https://open.spotify.com/track/4sCoDyHrXGLsLV6UT6po8Z"
-    },
-    {
-      "added_at": "2023-05-05 00:01:00",
-      "album": {
-        "name": "Am not perfect",
-        "url": "https://open.spotify.com/album/1nAiJ2z1WzwLt4DHpIGrqX"
-      },
-      "artists": [
-        {
-          "name": "JOSHUA LAZER",
-          "url": "https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0"
-        }
-      ],
-      "duration_ms": 128628,
-      "name": "Am not perfect",
-      "url": "https://open.spotify.com/track/6MpgkBX2GiYgBe030qqIMz"
     },
     {
       "added_at": "2023-04-07 01:00:00",
@@ -1167,30 +1387,6 @@
       "duration_ms": 480024,
       "name": "Sovereign God",
       "url": "https://open.spotify.com/track/5xslHxcN1fZhao1bBYCEBj"
-    },
-    {
-      "added_at": "2023-03-31 09:08:02",
-      "album": {
-        "name": "For Me",
-        "url": "https://open.spotify.com/album/7vVLq5Jzpqevd43tAIx4eA"
-      },
-      "artists": [
-        {
-          "name": "Omojo",
-          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
-        },
-        {
-          "name": "Reblah",
-          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
-        },
-        {
-          "name": "Ryan Hylton",
-          "url": "https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm"
-        }
-      ],
-      "duration_ms": 201648,
-      "name": "For Me",
-      "url": "https://open.spotify.com/track/4PKCwcRW3GKzmVJT7tpu3h"
     },
     {
       "added_at": "2023-03-31 09:08:02",

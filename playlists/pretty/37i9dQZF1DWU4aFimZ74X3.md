@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4aFimZ74X3.md) - [plain]
 
 > Music from the street racing manga series, “INITIAL D”! 「頭文字D」といえばコレ、という名曲を収録した公式プレイリスト！（C）しげの秀一／講談社・エイベックス・ピクチャーズ・オービー企画
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,952 likes - 31 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,118 likes - 31 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4aFimZ74X3.md) - [plain]
 | 30 | [Adrenaline](https://open.spotify.com/track/5lxcV6KE2x3am3gtBCzYUc) | [Ace](https://open.spotify.com/artist/0eF7CXsaTUjvCiiGkgKRQT) | [Super Eurobeat Vol\. 225](https://open.spotify.com/album/3epa4cuYMhq2Y3nkjNtGKI) | 4:22 |
 | 31 | [Rage Your Dream](https://open.spotify.com/track/0dQtjOhjyMMAwyMZRAOKsU) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [頭文字D Final Best Collection](https://open.spotify.com/album/6MbFICztIWFvQAiOfdB0Qx) | 4:31 |
 
-Snapshot ID: `MCxjNjAwNDZmMzJiMTZmYTM1MWFjOWVhNzcyOTQ2MWU0ZTllNWRhNGNm`
+Snapshot ID: `MCwxNDA1YmE1MWFmMzE0MzBiNjNiNWQ5MGM0OTVlZjIzNDQwYzc3YjUz`

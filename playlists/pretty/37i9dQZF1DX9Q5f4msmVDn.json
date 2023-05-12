@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/archdvs/\">Archie Davis</a>",
-  "num_followers": 8843,
+  "num_followers": 8886,
   "original_name": "Archie Davis' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTIwYWY4YTAyMWI2MTRhNmM2MTE5MGU2ZmFjODNkOTAyNDE3OTdl",
+  "snapshot_id": "MCxmYjdlZGU3ODI4OWYwNDM2NDc1NWY0OTJlMWYyMDExODU3ZTgyNWMx",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -399,6 +399,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "All Eyez On Me",
+        "url": "https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 283373,
+      "name": "Heartz Of Men",
+      "url": "https://open.spotify.com/track/6VAdOq9sndm8QQqXx4BhkK"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "No Love Lost (Deluxe)",
         "url": "https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 159130,
       "name": "Got It All",
       "url": "https://open.spotify.com/track/5sHVIQEzTg8qcEstqlIig1"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "All Eyez On Me",
-        "url": "https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 283373,
-      "name": "Heartz Of Men",
-      "url": "https://open.spotify.com/track/6VAdOq9sndm8QQqXx4BhkK"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -543,6 +543,30 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "King's Disease",
+        "url": "https://open.spotify.com/album/5ZQjqg9obFzyGuxGj0mjSi"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 170813,
+      "name": "Replace Me (feat. Big Sean & Don Toliver)",
+      "url": "https://open.spotify.com/track/1uJ5X7MrxTr21lG5ssm5fT"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Dinner Party",
         "url": "https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r"
       },
@@ -575,30 +599,6 @@
       "duration_ms": 179226,
       "name": "Sleepless Nights (feat. Phoelix)",
       "url": "https://open.spotify.com/track/6h7jn2jE2EqJadOkDXsDJh"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "King's Disease",
-        "url": "https://open.spotify.com/album/5ZQjqg9obFzyGuxGj0mjSi"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 170813,
-      "name": "Replace Me (feat. Big Sean & Don Toliver)",
-      "url": "https://open.spotify.com/track/1uJ5X7MrxTr21lG5ssm5fT"
     },
     {
       "added_at": "2022-10-01 16:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die nuutste in Afrikaanse musiek. Cover: <a href=\"http://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS\">Die Piesangskille</a> ",
+  "description": "Net die nuutste in Afrikaanse musiek. Cover: <a href=\"spotify:artist:1z3Cykt3bMtNbrY9SPGSI2\">Werner Van Der Hoven</a>",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -934,7 +934,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 180533,
       "name": "Crazy Meisie",
       "url": "https://open.spotify.com/track/34oEkwMsB3u6JnyI8JlZm3"
@@ -1571,6 +1571,24 @@
     },
     {
       "album": {
+        "name": "Ek Moes Dit Ges\u00ea Het",
+        "url": "https://open.spotify.com/album/5lucuqI53Ku3ukgOCy3PAg"
+      },
+      "artists": [
+        {
+          "name": "Andriette",
+          "url": "https://open.spotify.com/artist/7bnm6q08SwpVAs76TGUj1P"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247743,
+      "name": "Ek Moes Dit Ges\u00ea Het",
+      "url": "https://open.spotify.com/track/4SPkoOxB7YapvdbghtccTl"
+    },
+    {
+      "album": {
         "name": "Piekniek Vir Twee",
         "url": "https://open.spotify.com/album/2N1ph4s0uznzZ2ImoTXGig"
       },
@@ -1676,7 +1694,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 224727,
       "name": "Ek Wil Jou Nie Laat Gaan Nie",
       "url": "https://open.spotify.com/track/3cUi5Z3sHGz9UEhfuYZssc"
@@ -1712,7 +1730,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 201521,
       "name": "Enigste Een",
       "url": "https://open.spotify.com/track/5IGOLz9Ofq0xDRgQpIoEVY"
@@ -1988,7 +2006,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 235221,
       "name": "Hart van Klip",
       "url": "https://open.spotify.com/track/05jx6R2VzJ1ahVbVE7yPqj"
@@ -2148,6 +2166,24 @@
       "duration_ms": 169618,
       "name": "Hierdie Is Nie Liefde Nie",
       "url": "https://open.spotify.com/track/2YNV5GBMYwOI1ZpeSq74Ls"
+    },
+    {
+      "album": {
+        "name": "Hoe val mens so hard vir liefde",
+        "url": "https://open.spotify.com/album/0sH2eVGV1dxih25alvkDac"
+      },
+      "artists": [
+        {
+          "name": "Leandri Martin",
+          "url": "https://open.spotify.com/artist/23vhLfPvdSy4JeT9YqAN1m"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225067,
+      "name": "Hoe val mens so hard vir liefde",
+      "url": "https://open.spotify.com/track/7tfYYUrcn5zdcgcGfGpvNN"
     },
     {
       "album": {
@@ -2907,6 +2943,24 @@
     },
     {
       "album": {
+        "name": "Koue Kole",
+        "url": "https://open.spotify.com/album/7s3HaB5VNnGEpDMCmRO2UE"
+      },
+      "artists": [
+        {
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230080,
+      "name": "Koue Kole",
+      "url": "https://open.spotify.com/track/0WepYdVNcGEfAXN5DKzSo3"
+    },
+    {
+      "album": {
         "name": "Koue Pizza",
         "url": "https://open.spotify.com/album/0UE7Fs2XSTfjAtcwNKe439"
       },
@@ -3221,6 +3275,24 @@
     },
     {
       "album": {
+        "name": "Liefdeskind",
+        "url": "https://open.spotify.com/album/5a5a6LVsGeQYCIorRccgSU"
+      },
+      "artists": [
+        {
+          "name": "Dani Vill\u00e9",
+          "url": "https://open.spotify.com/artist/1rjwjcduMBO9Pn36ZnqHDE"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239256,
+      "name": "Liefdeskind",
+      "url": "https://open.spotify.com/track/6m7LPmRFMhWjrU3Xgww3ob"
+    },
+    {
+      "album": {
         "name": "Lieflik",
         "url": "https://open.spotify.com/album/2Kxe1GVz73wuCwLhWFaUB8"
       },
@@ -3409,6 +3481,24 @@
     },
     {
       "album": {
+        "name": "Medals For Mothers",
+        "url": "https://open.spotify.com/album/45VghDmrR2mKGhxTJnELoE"
+      },
+      "artists": [
+        {
+          "name": "Cordelia",
+          "url": "https://open.spotify.com/artist/2iYdMAkvSwwuG9uHbSnPyN"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165320,
+      "name": "Medals For Mothers",
+      "url": "https://open.spotify.com/track/4G7vWcAoCZzjldPtXmyBmD"
+    },
+    {
+      "album": {
         "name": "Meisie van Fraserburg",
         "url": "https://open.spotify.com/album/73e09G7FUYUGzXlktr5I5g"
       },
@@ -3482,6 +3572,24 @@
       "duration_ms": 193628,
       "name": "Mermaid",
       "url": "https://open.spotify.com/track/6nxQX5P9TDm2iDtH5gCIQc"
+    },
+    {
+      "album": {
+        "name": "Mis my",
+        "url": "https://open.spotify.com/album/0rnEljh6cKz3I0Uh5MeSdC"
+      },
+      "artists": [
+        {
+          "name": "Carmen Basson",
+          "url": "https://open.spotify.com/artist/0hyNjsczkVXKc5hVV6o7qb"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193045,
+      "name": "Mis my",
+      "url": "https://open.spotify.com/track/2bGbJ30UaLSESbtAXJ5jnO"
     },
     {
       "album": {
@@ -3960,7 +4068,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 202301,
       "name": "Nostalgie",
       "url": "https://open.spotify.com/track/51gmwQ2DysLAzGMDZ9QJbr"
@@ -4676,7 +4784,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 190911,
       "name": "Sexy Time",
       "url": "https://open.spotify.com/track/1498BZFUe7DO4iKjYqzbe5"
@@ -4814,6 +4922,24 @@
       "duration_ms": 199519,
       "name": "Skrik Vir Niks (Van Die Snotkop Movie: Skrik Vir Niks)",
       "url": "https://open.spotify.com/track/0N0aty9herXHmfNEzasQT1"
+    },
+    {
+      "album": {
+        "name": "Skryf",
+        "url": "https://open.spotify.com/album/12GPa5bSmx9FXDPZ9eBBG6"
+      },
+      "artists": [
+        {
+          "name": "Thys Nortje",
+          "url": "https://open.spotify.com/artist/5YCtrXcG6TlraCCtWdksDA"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238586,
+      "name": "Skryf",
+      "url": "https://open.spotify.com/track/3oSjMeXqNsW8Mfhe4qxFHa"
     },
     {
       "album": {
@@ -5518,7 +5644,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 138994,
       "name": "Tydloos",
       "url": "https://open.spotify.com/track/5rAsPBK1KpPgI9kKFv5lpV"
@@ -5866,7 +5992,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 237093,
       "name": "Vuur",
       "url": "https://open.spotify.com/track/54w0BzJuC5qg4TdysVPS96"
@@ -6220,6 +6346,24 @@
       "duration_ms": 233840,
       "name": "Word Wakker",
       "url": "https://open.spotify.com/track/3wkrBIpOW3QqKBPdttq15r"
+    },
+    {
+      "album": {
+        "name": "Wynland",
+        "url": "https://open.spotify.com/album/1gAIJXFuwE7LSuibaGwehS"
+      },
+      "artists": [
+        {
+          "name": "Werner Van Der Hoven",
+          "url": "https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161589,
+      "name": "Wynland",
+      "url": "https://open.spotify.com/track/1Jrtl0GAYhGbk23ixM8tqX"
     },
     {
       "album": {

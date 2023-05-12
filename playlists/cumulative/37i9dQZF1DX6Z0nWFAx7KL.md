@@ -4,7 +4,7 @@
 
 > You can dance or chill.
 
-138 songs - 6 hr 57 min
+139 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Marco Polo](https://open.spotify.com/track/50FNVTyZYrhryZk4R3F5pv) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Carta](https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ), [AMELY](https://open.spotify.com/artist/1hZHcJTY2MYNhTqlrfgobM) | [Marco Polo](https://open.spotify.com/album/71iSMPw4ij9TcH8YWIpTux) | 2:36 | 2022-09-15 | 2022-12-24 |
 | [Medicine](https://open.spotify.com/track/7sfpydlJrHpTi533idUuZV) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [PLANT](https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq) | [Medicine](https://open.spotify.com/album/3CVaImUrMiIWsweWKRPeN0) | 2:38 | 2022-09-15 |  |
 | [Mirror On The Wall](https://open.spotify.com/track/14lWiJlw5WoVn9X8JFC9HW) | [Sorvats Nivek](https://open.spotify.com/artist/6oI4m51P3UAbjIAgNmtSwW), [DERWA](https://open.spotify.com/artist/4N1XdIRXks3iNWTqpdgaua) | [Mirror On The Wall](https://open.spotify.com/album/17LHSqG2e6y93o7oDv31ZV) | 2:10 | 2022-09-15 | 2022-09-30 |
-| [Motorcycle](https://open.spotify.com/track/68F3LC3u2JSW4TJ9zhdyjR) | [UOAK](https://open.spotify.com/artist/4hYS3fIqfvtmZPbbggczYk) | [Motorcycle](https://open.spotify.com/album/0BFBuQK4HZdmQMzov1uDri) | 3:13 | 2022-09-15 |  |
+| [Motorcycle](https://open.spotify.com/track/68F3LC3u2JSW4TJ9zhdyjR) | [UOAK](https://open.spotify.com/artist/4hYS3fIqfvtmZPbbggczYk) | [Motorcycle](https://open.spotify.com/album/0BFBuQK4HZdmQMzov1uDri) | 3:13 | 2022-09-15 | 2023-05-12 |
 | [Moundé](https://open.spotify.com/track/25GzYCnSJBbrSckIlBzIZD) | [RudeLies](https://open.spotify.com/artist/7hf6L4LN1RTVN66IdBVpPr) | [Moundé](https://open.spotify.com/album/00NBfbmr2f5PWiFRrqxn1q) | 3:14 | 2022-09-29 | 2022-10-21 |
 | [My Darling](https://open.spotify.com/track/4dCa3tf7dhIuFw8JokedvG) | [Junerule](https://open.spotify.com/artist/2K63bqHDSj7JSW60BSGcur), [AUGUSTKID](https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y) | [My Darling](https://open.spotify.com/album/7pLEdfUVtksONxs6AClTuq) | 2:54 | 2022-09-15 |  |
 | [Never Give Up On You](https://open.spotify.com/track/2gsB29hjEctVqLCtg7HsQS) | [Ryan Shepherd](https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx), [Georgi Kay](https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj) | [Never Give Up On You](https://open.spotify.com/album/5SxcIZ1qmurQOKL7Io5xCa) | 3:36 | 2022-09-15 |  |
@@ -140,6 +140,7 @@
 | [Tomorrow Never Comes](https://open.spotify.com/track/6zAyDlVfft6Ghu2ddj0Mbh) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Tomorrow Never Comes](https://open.spotify.com/album/0c28IqwIVfV0gRpZOltI17) | 2:57 | 2023-03-02 |  |
 | [Toxic](https://open.spotify.com/track/15DlPYUnP84cvA4zC2zMDa) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L) | [Toxic](https://open.spotify.com/album/2pcgvMdOZHUHVWT5JAC6gA) | 3:17 | 2022-09-29 | 2022-11-18 |
 | [Unrequited](https://open.spotify.com/track/5bJR6i9egmQTzBuqez7eo7) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [fwd/slash](https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw) | [Unrequited](https://open.spotify.com/album/5vcOqTHsZfnlzcDoqxND2P) | 2:51 | 2022-09-29 | 2023-03-02 |
+| [Waiting All My Life](https://open.spotify.com/track/0infcAnwAyF46VzYkXrlQi) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L) | [Waiting All My Life](https://open.spotify.com/album/2o3P5r60y47AFc2QyuRA0O) | 3:13 | 2023-05-11 |  |
 | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Grace Tither](https://open.spotify.com/artist/0W2uPY2bPqyGxEYBJUuHfa) | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf) | 3:22 | 2022-09-15 |  |
 | [What You Do to Me](https://open.spotify.com/track/1LXP8KNXO6PYx9HePA1JQW) | [fwd/slash](https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw) | [What You Do to Me](https://open.spotify.com/album/2XtqLhPvm9V8V8l7U399Z1) | 2:44 | 2022-12-21 |  |
 | [Who's Holding You](https://open.spotify.com/track/4ji0j6QV4GgH6fVeEEamrO) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Dario Rodriguez](https://open.spotify.com/artist/2hWrmZhAfziW6WnBytCCUv), [Lagique](https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2) | [Who's Holding You](https://open.spotify.com/album/1gkWHss0nMUcMSAYvOnX96) | 2:41 | 2022-09-15 | 2023-02-15 |

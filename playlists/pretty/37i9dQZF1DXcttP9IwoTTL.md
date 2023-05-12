@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 
 > <a href="spotify:artist:3AN049igIAaoX0fjTCkpnf">Jennifer Cardini</a>'s favorite tracks\. Updated regularly\. Curated by Jennifer Cardini\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,162 likes - 70 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,170 likes - 70 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 69 | [Love Love Love](https://open.spotify.com/track/5S1drMAStkabK0PZsOkfiE) | [Lauren Duffus](https://open.spotify.com/artist/0jYQCtRXU4qVKfMjqnn05l) | [Love Love Love](https://open.spotify.com/album/5GuOoK1aW5vLiMQA33OLPN) | 2:49 |
 | 70 | [偶像包袱 \(Idol Baggage\)](https://open.spotify.com/track/4XnV6Oe22R9ofb3tnXH5HP) | [Tzusing](https://open.spotify.com/artist/7Ifvnt1HhJ0b1QwOxLAu2s) | [绿帽 Green Hat](https://open.spotify.com/album/4ly0DCSbwqgvQtaYum7RAD) | 3:45 |
 
-Snapshot ID: `MCw5OTA3MjYwNTE5MjE2OTZkM2UwNWVkMWJjN2ExMDBmYzYwYzE4Zjkw`
+Snapshot ID: `MCxmMDMzNjQxMjM5ZmJjZDNlZjIxZjk2NjgzZjVjZDk1MGJjZmIyMGY4`

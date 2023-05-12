@@ -4,7 +4,7 @@
 
 > New Hip Hop from India\. Cover\- Raja Kumari
 
-101 songs - 5 hr 30 min
+102 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [ABBU](https://open.spotify.com/track/6XQZXteMzrGkV3ogDLmf2R) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 2:49 | 2023-03-29 |  |
 | [Akela](https://open.spotify.com/track/7kgNsbE5PjQq1eqinaZvEN) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Phenom](https://open.spotify.com/artist/03hG7s3MUquIZwa4OvtLD7) | [Akela](https://open.spotify.com/album/1PqapJIkqEoL6CudXe6Rzd) | 4:03 | 2023-03-29 | 2023-04-17 |
 | [ALAG BT](https://open.spotify.com/track/6UWlAw7SRidFHyYgiqlqX0) | [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl), [Hitzone](https://open.spotify.com/artist/0mtJ84Ykk72kP5NvC14s6V), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [ALAG BT](https://open.spotify.com/album/0w17qtUDmxXdh5fsHynOCm) | 3:20 | 2023-03-29 |  |
+| [Azhage \(Fallin\)](https://open.spotify.com/track/6K3Jpn3gocuX0FDkSFaLUE) | [Brodha V](https://open.spotify.com/artist/6xl0mjD1B4paRyfPDUOynf) | [Azhage \(Fallin\)](https://open.spotify.com/album/5bzJnIdqMWlwYevnciFP8h) | 3:42 | 2023-05-11 |  |
 | [Baazigar](https://open.spotify.com/track/1T44wPr7LUlBY4vX6LlygG) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 2:49 | 2023-03-29 | 2023-04-17 |
 | [Bad\-Nam](https://open.spotify.com/track/5yExkaHAJy1LnIPXFv8fNx) | [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ), [Swattrex](https://open.spotify.com/artist/1c4IXYT2idOski3WEtfJpW) | [Bad\-Nam](https://open.spotify.com/album/6rWhToggUTvJFynDRoBZU7) | 1:50 | 2023-03-29 |  |
 | [Badan](https://open.spotify.com/track/6HZVYWwSmbYJAnntaEgFQF) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ) | [Badan](https://open.spotify.com/album/1Eh8UYxP5RphyYBbIuzXcf) | 2:54 | 2023-03-29 | 2023-04-17 |

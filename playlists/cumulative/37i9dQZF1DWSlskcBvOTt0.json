@@ -1573,6 +1573,32 @@
     },
     {
       "album": {
+        "name": "Cutting Ribbons (feat. Paul Brenning)",
+        "url": "https://open.spotify.com/album/0dyvhEKGtheznpjjPZ0Ub3"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "Monnarsh",
+          "url": "https://open.spotify.com/artist/2shdnmTdFi3RxMa5OGOPRj"
+        },
+        {
+          "name": "Paul Brenning",
+          "url": "https://open.spotify.com/artist/4LJbPEKdCcfzE1x0GhUnL6"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Cutting Ribbons (feat. Paul Brenning)",
+      "url": "https://open.spotify.com/track/72qQf918A43mrhddO8Hp9G"
+    },
+    {
+      "album": {
         "name": "Momentum",
         "url": "https://open.spotify.com/album/0dqK6mrJ3jnp8fmN5gbbTB"
       },
@@ -2934,7 +2960,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 277608,
       "name": "Harlem River",
       "url": "https://open.spotify.com/track/6gAM5yFXa4V54zUMR03QSp"

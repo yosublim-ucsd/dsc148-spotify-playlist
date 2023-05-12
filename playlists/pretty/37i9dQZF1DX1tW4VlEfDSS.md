@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,646 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,697 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 59 | [You Ain't Love \(feat\. Teni Tinks\)](https://open.spotify.com/track/3phnlxvLFtIwNo5ecUtLuN) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Teni Tinks](https://open.spotify.com/artist/4CeG8RL5NUdWJw8BeG5gQs) | [You Ain't Love \(feat\. Teni Tinks\)](https://open.spotify.com/album/1krEcbbjaM3WoCJq8FecTA) | 4:31 |
 | 60 | [Forty Deuce](https://open.spotify.com/track/2N7zP7S8KVhS45lGwBTUXi) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [Forty Deuce](https://open.spotify.com/album/6KvwtWrCaYwbOLJfLmxiAD) | 2:47 |
 
-Snapshot ID: `MCxlZGFiYjk2MzQzNTEyNTE2NDlkN2VmM2QzMmM1YmFkZThhMTNkZjdj`
+Snapshot ID: `MCwzY2M1MjNlNjNlZmVkYTVkNTMzNjMyOWI1MTVkMWFlYjc4N2U3MWJj`

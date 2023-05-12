@@ -862,7 +862,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 180952,
       "name": "Bittersweet (ft. Quarterback) - Firelite Remix",
       "url": "https://open.spotify.com/track/2YvQO5jfnT29NL2dUwY0ou"
@@ -918,7 +918,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 205351,
       "name": "Blast In Your Face",
       "url": "https://open.spotify.com/track/3RMOpfwLZ3h41bqG0Mq7Gg"
@@ -2770,6 +2770,32 @@
     {
       "album": {
         "name": "Echoes",
+        "url": "https://open.spotify.com/album/2riMTUMIgVSmOZ4lcWXn5T"
+      },
+      "artists": [
+        {
+          "name": "B-Front",
+          "url": "https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du"
+        },
+        {
+          "name": "MNO",
+          "url": "https://open.spotify.com/artist/2foy6N7zaWQTrapKApYJvn"
+        },
+        {
+          "name": "DV8",
+          "url": "https://open.spotify.com/artist/3C2rdG9aJ0CBfFSKmdzcTf"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257032,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/0eabtLcfZxAa28WvUig7KV"
+    },
+    {
+      "album": {
+        "name": "Echoes",
         "url": "https://open.spotify.com/album/0Ri598i3wkltoiq4lvBZgs"
       },
       "artists": [
@@ -3200,7 +3226,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 185810,
       "name": "F.O.O.L. - Hard Mix",
       "url": "https://open.spotify.com/track/5PaX3RxYZKeqIZzuC2vtOH"
@@ -3372,6 +3398,24 @@
       "duration_ms": 182903,
       "name": "Feel Love",
       "url": "https://open.spotify.com/track/4ZTJg1dnfr2hkFG8LAi3sQ"
+    },
+    {
+      "album": {
+        "name": "Feel So Good",
+        "url": "https://open.spotify.com/album/1JuieeW86pG1yMTvmis54g"
+      },
+      "artists": [
+        {
+          "name": "DJ Isaac",
+          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215225,
+      "name": "Feel So Good",
+      "url": "https://open.spotify.com/track/0fnrHmbApoVm9Zt8jIwKsi"
     },
     {
       "album": {
@@ -4248,7 +4292,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 211593,
       "name": "Ghetto Bass",
       "url": "https://open.spotify.com/track/1pWi8h7181YBrF7s9pzR1u"
@@ -7617,6 +7661,28 @@
     },
     {
       "album": {
+        "name": "OH SHIT",
+        "url": "https://open.spotify.com/album/7gVEdgzeVxx3KGKxUC1sqm"
+      },
+      "artists": [
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+        },
+        {
+          "name": "Zombic",
+          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167062,
+      "name": "OH SHIT",
+      "url": "https://open.spotify.com/track/2SwZwthOSKcdsqBn2mfsur"
+    },
+    {
+      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/1M0OzVgrF1lKmteWYmDP7g"
       },
@@ -8536,6 +8602,24 @@
       "duration_ms": 194002,
       "name": "Rave Now",
       "url": "https://open.spotify.com/track/2sVrVKIkrKZ8Vn9k0k3IfR"
+    },
+    {
+      "album": {
+        "name": "Rave To The Grave (feat. Sabacca)",
+        "url": "https://open.spotify.com/album/228rg4PX0wSypnYnz5Q6p8"
+      },
+      "artists": [
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159483,
+      "name": "Rave To The Grave",
+      "url": "https://open.spotify.com/track/7uh0BfYbLFLc32RSyE3eEz"
     },
     {
       "album": {

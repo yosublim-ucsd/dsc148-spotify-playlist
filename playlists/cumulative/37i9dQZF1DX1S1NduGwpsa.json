@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Erik Truffaz",
+  "description": "The best jazz new releases. Cover: Gabi Hartmann",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -32,7 +32,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 388000,
       "name": "'A \u00e7imma",
       "url": "https://open.spotify.com/track/5ZfBTK4AOtIlTHlLlebnwE"
@@ -1320,7 +1320,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 384363,
       "name": "Dance Kobina",
       "url": "https://open.spotify.com/track/0x1ouEGnLQh4Iyv3EpNSmV"
@@ -1969,6 +1969,58 @@
     },
     {
       "album": {
+        "name": "From The Start",
+        "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169573,
+      "name": "From The Start",
+      "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
+    },
+    {
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/6GJ5Knbr4SgwIuwMzgqokl"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        },
+        {
+          "name": "Jonathan Michel",
+          "url": "https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8"
+        },
+        {
+          "name": "Sean Mason",
+          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155651,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/5LiuMOK0jzDQS84UXtNOCk"
+    },
+    {
+      "album": {
         "name": "Introducing - Danger Zone",
         "url": "https://open.spotify.com/album/5QmtGwt6ZQEc2SCB9yJ7OP"
       },
@@ -2428,6 +2480,32 @@
       "duration_ms": 167682,
       "name": "Il m'a vue nue",
       "url": "https://open.spotify.com/track/0aJdVn2GpPMiOa1xlOHDeP"
+    },
+    {
+      "album": {
+        "name": "YOU are the Song",
+        "url": "https://open.spotify.com/album/2qbhhdGzYxQX5jKVsYCSlx"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Pilc",
+          "url": "https://open.spotify.com/artist/4wvdJHmIvtoVKFgmeIScyM"
+        },
+        {
+          "name": "Francois Moutin",
+          "url": "https://open.spotify.com/artist/7rOP6AtMakDvwh3fQXXBOp"
+        },
+        {
+          "name": "Ari Hoenig",
+          "url": "https://open.spotify.com/artist/1P6Llrp12ldpVbyC8gCHBz"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264320,
+      "name": "Impressions",
+      "url": "https://open.spotify.com/track/23gpK7yn4WbIVmsIYpoR0H"
     },
     {
       "album": {
@@ -3428,7 +3506,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 168997,
       "name": "My One and Only",
       "url": "https://open.spotify.com/track/2jCaIOqD6BTFsz4gdTE01H"
@@ -4184,7 +4262,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 218706,
       "name": "Route de nuit",
       "url": "https://open.spotify.com/track/3aJ4NTA6ZN58RxzlT8MFHu"
@@ -5730,6 +5808,24 @@
       "duration_ms": 241000,
       "name": "When I First Saw Your Face",
       "url": "https://open.spotify.com/track/78EF8TCHy2rDm19i7SXqhq"
+    },
+    {
+      "album": {
+        "name": "Composure",
+        "url": "https://open.spotify.com/album/5XuYdAL3b6oZIkDUiyciiu"
+      },
+      "artists": [
+        {
+          "name": "Rob Barron",
+          "url": "https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285658,
+      "name": "When You Wish Upon a Star",
+      "url": "https://open.spotify.com/track/6EhFiHD4n3JIfrLzS11dn6"
     },
     {
       "album": {

@@ -3992,7 +3992,7 @@
     {
       "album": {
         "name": "Failed at Math(s)",
-        "url": "https://open.spotify.com/album/1TyXRjcjSnDLmewsTjr6id"
+        "url": "https://open.spotify.com/album/0xCCtljPkA65lyDP3CXFgr"
       },
       "artists": [
         {
@@ -4003,6 +4003,24 @@
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 160263,
+      "name": "Failed at Math(s)",
+      "url": "https://open.spotify.com/track/0CGTEFOmGzMjgcW5WUS7WW"
+    },
+    {
+      "album": {
+        "name": "Failed at Math(s)",
+        "url": "https://open.spotify.com/album/1TyXRjcjSnDLmewsTjr6id"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-12",
       "duration_ms": 160263,
       "name": "Failed at Math(s)",
       "url": "https://open.spotify.com/track/6W1wt10FubiQQVXychFAKp"

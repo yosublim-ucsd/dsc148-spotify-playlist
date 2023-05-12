@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "The newest Hardstyle tracks | 2023 Hardstyle. Cover: Warface",
+  "description": "The newest Hardstyle tracks | 2023 Hardstyle. Cover: Da Tweekaz & Refuzion",
   "name": "Hardstyle Adrenaline! 2023",
   "tracks": [
     {
@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 223578,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/0I6ZUfEYKF37J8UQhIVKBg"
@@ -513,6 +513,32 @@
     },
     {
       "album": {
+        "name": "Born To Be Free",
+        "url": "https://open.spotify.com/album/4jzL50Om6ju0oG7wEJ6w96"
+      },
+      "artists": [
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        },
+        {
+          "name": "The Prophet",
+          "url": "https://open.spotify.com/artist/2iRqqPkOyIvvb7qFZN1Onz"
+        },
+        {
+          "name": "LePrince",
+          "url": "https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264315,
+      "name": "Born To Be Free",
+      "url": "https://open.spotify.com/track/00dUCL3WfkgU0oqCSVdneu"
+    },
+    {
+      "album": {
         "name": "Born To Be King (feat. MC D)",
         "url": "https://open.spotify.com/album/785TGg7CGwdV8sksTdtpHn"
       },
@@ -732,7 +758,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 199741,
       "name": "Chaos & Crime",
       "url": "https://open.spotify.com/track/6Ouzg40su5Hj3m1R0X32k6"
@@ -1258,7 +1284,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 177686,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/7wyjuojJkbhF8rRodLBZoX"
@@ -1298,7 +1324,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 172500,
       "name": "Down To Earth",
       "url": "https://open.spotify.com/track/3kihuUqBuMDO6tXGUY65s9"
@@ -1378,7 +1404,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 257032,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/0eabtLcfZxAa28WvUig7KV"
@@ -1716,7 +1742,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 215225,
       "name": "Feel So Good",
       "url": "https://open.spotify.com/track/0fnrHmbApoVm9Zt8jIwKsi"
@@ -1774,7 +1800,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 190500,
       "name": "FIGHTING DEMONS",
       "url": "https://open.spotify.com/track/0SHI54cOrosSZySfTGvN3n"
@@ -1796,7 +1822,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 230738,
       "name": "FLYIN' HIGH",
       "url": "https://open.spotify.com/track/6UjTx1wIv9GuxMwyl1D6Q0"
@@ -2475,6 +2501,24 @@
     },
     {
       "album": {
+        "name": "House Music",
+        "url": "https://open.spotify.com/album/1ZDFM4xf5AOxSbcIL6cncD"
+      },
+      "artists": [
+        {
+          "name": "Jay Reeve",
+          "url": "https://open.spotify.com/artist/5AVdeI8lS5HS9VGV8AUyS4"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211354,
+      "name": "House Music",
+      "url": "https://open.spotify.com/track/1xutxLSIzJK9PKOV89pNxd"
+    },
+    {
+      "album": {
         "name": "How You Feel It",
         "url": "https://open.spotify.com/album/61WSPXGdZSgd5bKUlh0UAp"
       },
@@ -2774,7 +2818,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 174188,
       "name": "If You Believe",
       "url": "https://open.spotify.com/track/5l5ITeKACEWFijn8n5tpIR"
@@ -2995,6 +3039,28 @@
     },
     {
       "album": {
+        "name": "Keep On Winning",
+        "url": "https://open.spotify.com/album/2r0XqxKDQN1xvKSzn3cMru"
+      },
+      "artists": [
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        },
+        {
+          "name": "Nyanda",
+          "url": "https://open.spotify.com/artist/5EgzuWPhhAurJc93qPTD3k"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173200,
+      "name": "Keep On Winning",
+      "url": "https://open.spotify.com/track/4zifgSriN5LUBrHquq0Owo"
+    },
+    {
+      "album": {
         "name": "Keepers Of Our Legacy",
         "url": "https://open.spotify.com/album/0hF85b1g0YOWqRorVVUlkF"
       },
@@ -3010,7 +3076,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 252549,
       "name": "Keepers Of Our Legacy",
       "url": "https://open.spotify.com/track/7w06cAEK8P7PzQCopSQyuJ"
@@ -3630,7 +3696,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 192670,
       "name": "Made of Stars",
       "url": "https://open.spotify.com/track/3kbLfKqT2ul31MOy1scPfX"
@@ -3704,6 +3770,28 @@
       "duration_ms": 189868,
       "name": "Make Some Noise",
       "url": "https://open.spotify.com/track/4IS0ROMGe8EmlKRaIfxsOm"
+    },
+    {
+      "album": {
+        "name": "Make The Crowd Go",
+        "url": "https://open.spotify.com/album/2rQno7OXZMZ6D264HB6QHt"
+      },
+      "artists": [
+        {
+          "name": "JNXD",
+          "url": "https://open.spotify.com/artist/4by5ENA6ZMNCQkOX3RIh0G"
+        },
+        {
+          "name": "Drean",
+          "url": "https://open.spotify.com/artist/0fIg6a2SOYU1IY9GOh7wTq"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192206,
+      "name": "Make The Crowd Go",
+      "url": "https://open.spotify.com/track/24NDSuRev3JPKVh0wdWLk9"
     },
     {
       "album": {
@@ -4242,7 +4330,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 161032,
       "name": "Oceans (Where Feet May Fail)",
       "url": "https://open.spotify.com/track/5jFahLzsbxvHJVgjktiDbY"
@@ -4264,7 +4352,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 167062,
       "name": "OH SHIT",
       "url": "https://open.spotify.com/track/2SwZwthOSKcdsqBn2mfsur"
@@ -4693,6 +4781,32 @@
     },
     {
       "album": {
+        "name": "Rave im Loop",
+        "url": "https://open.spotify.com/album/2EUEUeH3spy2DzAT7JggTN"
+      },
+      "artists": [
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        },
+        {
+          "name": "NOISETIME",
+          "url": "https://open.spotify.com/artist/0oW7WNHDC1tqLU3urqLKbC"
+        },
+        {
+          "name": "MEELA",
+          "url": "https://open.spotify.com/artist/23mSn69IMflxLp3HPf7goI"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176516,
+      "name": "Rave im Loop",
+      "url": "https://open.spotify.com/track/5kdwxNRcFqF0fUDUunXNJR"
+    },
+    {
+      "album": {
         "name": "Rave Machine",
         "url": "https://open.spotify.com/album/3GD7i0C0sMTLyjai29DRaU"
       },
@@ -4748,7 +4862,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 159483,
       "name": "Rave To The Grave",
       "url": "https://open.spotify.com/track/7uh0BfYbLFLc32RSyE3eEz"
@@ -4832,7 +4946,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 182710,
       "name": "Reality",
       "url": "https://open.spotify.com/track/6WkMCi8yZNfz8NT8h7Z7GR"
@@ -4916,7 +5030,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 236735,
       "name": "Reignite The Flame",
       "url": "https://open.spotify.com/track/0hLzUkirRodQcQtOqeBef6"
@@ -4974,7 +5088,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 202935,
       "name": "Requiem",
       "url": "https://open.spotify.com/track/3Vjj1wlRePg7RTXegdtmP4"
@@ -5036,7 +5150,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 219870,
       "name": "Revival",
       "url": "https://open.spotify.com/track/2tt1wofNGBSv4vwv9thtZy"
@@ -5519,6 +5633,28 @@
     },
     {
       "album": {
+        "name": "Somebody to Love",
+        "url": "https://open.spotify.com/album/66EPs3ZWUIRSNxer3yqIyS"
+      },
+      "artists": [
+        {
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+        },
+        {
+          "name": "Maxtreme",
+          "url": "https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188076,
+      "name": "Somebody to Love",
+      "url": "https://open.spotify.com/track/14oLZpSIlMYf62kUthUTLL"
+    },
+    {
+      "album": {
         "name": "Speakers Blow",
         "url": "https://open.spotify.com/album/03EpJxJoZ0m0DqflEAyzC2"
       },
@@ -5621,6 +5757,28 @@
     },
     {
       "album": {
+        "name": "Stars (feat. Ava Silver)",
+        "url": "https://open.spotify.com/album/2xhLr7oUrD34AT8nrrvUBm"
+      },
+      "artists": [
+        {
+          "name": "The Pitcher",
+          "url": "https://open.spotify.com/artist/1QsT3VKbdtjMxXoy9myb2X"
+        },
+        {
+          "name": "Ava Silver",
+          "url": "https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264826,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/5klAl9XWvVd8DxmoknVNRJ"
+    },
+    {
+      "album": {
         "name": "Stop the Time",
         "url": "https://open.spotify.com/album/7MEWDIupZlzznyiH3aMH7L"
       },
@@ -5680,7 +5838,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 184750,
       "name": "Stronger Now",
       "url": "https://open.spotify.com/track/7eUJkgq11AkHNicCVqtiSv"
@@ -5943,6 +6101,24 @@
     },
     {
       "album": {
+        "name": "The Frequency That Defines Us",
+        "url": "https://open.spotify.com/album/0I2CMFgrf2NC5DfxHQLqdW"
+      },
+      "artists": [
+        {
+          "name": "Sephyx",
+          "url": "https://open.spotify.com/artist/7MXzeG7zoG8pKpqKCOqcZL"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220257,
+      "name": "The Frequency That Defines Us",
+      "url": "https://open.spotify.com/track/7IiwUWv8CAIplXbUJ2JPAD"
+    },
+    {
+      "album": {
         "name": "The Future",
         "url": "https://open.spotify.com/album/77yZmi0XdEjZfMOK7Tb779"
       },
@@ -5962,6 +6138,24 @@
       "duration_ms": 266048,
       "name": "The Future",
       "url": "https://open.spotify.com/track/0Il8vu2reeGqCDRm4sDZTx"
+    },
+    {
+      "album": {
+        "name": "THE FUTURE",
+        "url": "https://open.spotify.com/album/1deytDitBdWnsuTmwkMonw"
+      },
+      "artists": [
+        {
+          "name": "Code Black",
+          "url": "https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230886,
+      "name": "THE FUTURE",
+      "url": "https://open.spotify.com/track/1p4r6eSczgU6mqVNvocQtP"
     },
     {
       "album": {
@@ -6556,7 +6750,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 165600,
       "name": "Tricky Melody",
       "url": "https://open.spotify.com/track/1G6S3IxD5oapB1SDqUyg2h"
@@ -6676,7 +6870,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 227612,
       "name": "Two of Us",
       "url": "https://open.spotify.com/track/7MxkhCUhT1xyCcQUbUuXBG"
@@ -6760,6 +6954,32 @@
       "duration_ms": 201185,
       "name": "Unite",
       "url": "https://open.spotify.com/track/0EBURzaaZP0wHABAK0KajO"
+    },
+    {
+      "album": {
+        "name": "EP 1",
+        "url": "https://open.spotify.com/album/7BdQV8jnl2ObHAi7I7y2CQ"
+      },
+      "artists": [
+        {
+          "name": "Atmozfears",
+          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
+        },
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        },
+        {
+          "name": "Casino Break",
+          "url": "https://open.spotify.com/artist/1eoC1wfP1kuYquEFPuhWt8"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183638,
+      "name": "United As One",
+      "url": "https://open.spotify.com/track/5HiEqsOo0c9q1Ae9wODL6s"
     },
     {
       "album": {
@@ -6913,6 +7133,24 @@
     },
     {
       "album": {
+        "name": "W.T.P.",
+        "url": "https://open.spotify.com/album/4cp4EWMtnODstUJV0FBVW8"
+      },
+      "artists": [
+        {
+          "name": "Vasto",
+          "url": "https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147003,
+      "name": "W.T.P.",
+      "url": "https://open.spotify.com/track/19MRTtkMtF70WoGcUzNM3r"
+    },
+    {
+      "album": {
         "name": "Warriors Unite",
         "url": "https://open.spotify.com/album/5ENwIKOEysK3ux6pnYkVPc"
       },
@@ -7004,7 +7242,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 238129,
       "name": "Way Of The Warrior",
       "url": "https://open.spotify.com/track/74i3mwBXn9RpmiYhy6krAu"
@@ -7052,6 +7290,24 @@
       "duration_ms": 194575,
       "name": "We Love The Fire",
       "url": "https://open.spotify.com/track/2xTMYOkLCmAczuirRX1Gcx"
+    },
+    {
+      "album": {
+        "name": "We Will Not Survive",
+        "url": "https://open.spotify.com/album/2KfhWaZovhHKdJuY5AfYmO"
+      },
+      "artists": [
+        {
+          "name": "Ixper",
+          "url": "https://open.spotify.com/artist/4rP4FtB36MD5u3FgV3xlVN"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215730,
+      "name": "We Will Not Survive",
+      "url": "https://open.spotify.com/track/50HCFXshG5t7h425CJkFFa"
     },
     {
       "album": {

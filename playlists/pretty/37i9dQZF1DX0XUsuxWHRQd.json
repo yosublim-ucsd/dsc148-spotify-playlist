@@ -1,12 +1,12 @@
 {
   "description": "New music from Lil Baby, Gucci Mane and DaBaby.",
-  "num_followers": 15280677,
+  "num_followers": 15286933,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzQ5Njg0MjA2YTA2MTMzMGJkZTAxZDQxYzY2ZDRiNzgwMzA4Yzk0",
+  "snapshot_id": "MCwyMTY1ZTc3MzViZmZhMWYxM2UxZTdjZDliMTQwMDA4ZjNkMzNkM2M0",
   "tracks": [
     {
       "added_at": "2023-05-08 16:34:28",
@@ -199,6 +199,22 @@
       "duration_ms": 203813,
       "name": "Peaches & Eggplants (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/1KUZ33cOqk3X4Ezk0aZnVp"
+    },
+    {
+      "added_at": "2023-05-11 04:00:00",
+      "album": {
+        "name": "It's Dark And Hell Is Hot",
+        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "duration_ms": 214440,
+      "name": "Ruff Ryders' Anthem",
+      "url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s"
     },
     {
       "added_at": "2023-05-08 16:34:28",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-662 songs - 1 day 9 hr 17 min
+664 songs - 1 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,7 +366,7 @@
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 | 2021-06-27 | 2021-07-11 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-05-13 | 2021-06-27 |
 | [Konum Gizli \(feat\. Murda\)](https://open.spotify.com/track/5h1Zdr8ghV5RaWjtdfVo8w) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Konum Gizli \(feat\. Murda\)](https://open.spotify.com/album/0BmtUyUSG5Qg1DY9Vw8hw8) | 3:18 | 2022-05-17 | 2022-10-30 |
-| [Kor](https://open.spotify.com/track/0XNX9BCSWvEwsdBwUTRhMh) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Kor](https://open.spotify.com/album/7mqDwwIUh2yMzeR1ET5PnE) | 2:59 | 2022-01-04 |  |
+| [Kor](https://open.spotify.com/track/0XNX9BCSWvEwsdBwUTRhMh) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Kor](https://open.spotify.com/album/7mqDwwIUh2yMzeR1ET5PnE) | 2:59 | 2022-01-04 | 2023-05-12 |
 | [Kor](https://open.spotify.com/track/2zmf8pmH6AJ9Nksn0xuLTX) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Kor](https://open.spotify.com/album/4Wi0MXyj8KygoHTj9EeWei) | 2:59 | 2021-10-10 | 2022-01-05 |
 | [Kron1k](https://open.spotify.com/track/6vLPgqdXSzEaVYx92YoFjd) | [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y), [Ahiyan](https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB) | [Kron1k](https://open.spotify.com/album/4Zdbg6Ir5nZJ9eN5HfipND) | 4:53 | 2021-03-27\* | 2021-04-08 |
 | [Krvn](https://open.spotify.com/track/4a1WLOoydq7u011UG9jjC9) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kan](https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv) | 2:51 | 2021-03-27\* | 2022-04-13 |
@@ -417,6 +417,7 @@
 | [Mayrig](https://open.spotify.com/track/4vKiDUH9yQnnDdD793DeNM) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Mayrig](https://open.spotify.com/album/5mDOnIXSh37ZZFU33BgKNB) | 3:15 | 2021-09-19 | 2021-11-26 |
 | [Mayıs 6](https://open.spotify.com/track/6n4nlEt4CXqo7q3r1UUGvq) | [Rope](https://open.spotify.com/artist/2frMmYVNhfh2cp6FDAFtgO) | [Mayıs 6](https://open.spotify.com/album/2kNPTtwreyqFswlj41lgN4) | 4:03 | 2021-05-10 | 2021-05-11 |
 | [Mayıs 7](https://open.spotify.com/track/4Hsx0LzMyn69Pd6ncNbJql) | [Rope](https://open.spotify.com/artist/2frMmYVNhfh2cp6FDAFtgO) | [Mayıs 7](https://open.spotify.com/album/3u8JtcAEo0M7SMgDvnvaEd) | 3:43 | 2021-05-10 | 2021-05-13 |
+| [Mayıs 9](https://open.spotify.com/track/4zgPNp1Pp139Mv9dCVJE6m) | [Rope](https://open.spotify.com/artist/2frMmYVNhfh2cp6FDAFtgO) | [Mayıs 9](https://open.spotify.com/album/4WIBAD2q66CZDVqAuoUBTC) | 3:45 | 2023-05-11 |  |
 | [Mektup](https://open.spotify.com/track/3V2K2UzQeNNF5VnbDiIUKj) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Aksan](https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK), [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX), [Modd](https://open.spotify.com/artist/3nJwTniwCxDrgoVKeqIWoT) | [Mektup](https://open.spotify.com/album/5wz3nqmr19ScMUKpnHixu3) | 5:11 | 2021-04-24 | 2021-05-09 |
 | [Melek](https://open.spotify.com/track/6XbuJHhqugUVdJbTdshUEL) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Melek](https://open.spotify.com/album/2ARaqMe0AxH8vfYSNMCxJF) | 2:34 | 2021-03-27\* | 2021-09-03 |
 | [Memur](https://open.spotify.com/track/3fYaXsoqjyXl23azMihWBZ) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Memur](https://open.spotify.com/album/1O8TqhH7uk03m7OJ1GkjfQ) | 2:44 | 2021-04-26 | 2021-05-07 |
@@ -451,7 +452,7 @@
 | [NEY LAN](https://open.spotify.com/track/0SpLI3mIFEvaVyrmPT56s3) | [Ben Fero](https://open.spotify.com/artist/2kS0jWMkkFBL0mrl0VotD0) | [NEY LAN](https://open.spotify.com/album/4qHNw6BDaSsFzLeiBJ7xwc) | 2:10 | 2023-02-25 | 2023-02-27 |
 | [Neyse Ne](https://open.spotify.com/track/1sLJtaMAbXGdvHDiPjg0eq) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [Neyse Ne](https://open.spotify.com/album/395nlaZJns6xnreX5HdExs) | 2:56 | 2021-04-04 | 2021-04-11 |
 | [NKBİ](https://open.spotify.com/track/52KeXv6Ha1ndWru3WzdNkQ) | [Ali](https://open.spotify.com/artist/6PxZyYu4CsSp2TUaYTmmUx) | [NKBİ](https://open.spotify.com/album/41xu1RICTXRwblCxCC8wyK) | 2:58 | 2022-12-09 | 2022-12-11 |
-| [NKBİ](https://open.spotify.com/track/7lkqbdBKrsyNNq3xi0LeaY) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Atlantis](https://open.spotify.com/album/1cMvvPcywFlOGLlAzSbYDz) | 2:57 | 2022-06-06 |  |
+| [NKBİ](https://open.spotify.com/track/7lkqbdBKrsyNNq3xi0LeaY) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Atlantis](https://open.spotify.com/album/1cMvvPcywFlOGLlAzSbYDz) | 2:57 | 2022-06-06 | 2023-05-12 |
 | [NKBİ 2.0](https://open.spotify.com/track/63AIGuQJ8ZJWx02a9On4ov) | [Batuhan Şenel](https://open.spotify.com/artist/5ajPGCI6ThsiQNtgS3cn0K) | [NKBİ 2.0](https://open.spotify.com/album/62BXK8tzVl2eszPRgEjM4r) | 3:00 | 2022-12-27 | 2022-12-29 |
 | [NKBİ 2.0](https://open.spotify.com/track/6a2HEgqlTmdxMOaLiLJz7O) | [Shuzky](https://open.spotify.com/artist/0LYZv1HvXUlUGnTXZeiAgw), [Godzee](https://open.spotify.com/artist/5vQvrYiNH2jK4GWSmbxK1T) | [NKBİ 2.0](https://open.spotify.com/album/1hif1tjTQ2RNijfzS8QWO7) | 2:58 | 2022-11-26 | 2022-12-01 |
 | [NKBİ X YAPAMAM \- Remix](https://open.spotify.com/track/4ist5GP5r7UDz9gdsiJmYd) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [NKBİ X YAPAMAM \(Remix\)](https://open.spotify.com/album/0mb2uVTelCRlvgRgVrzAPZ) | 3:02 | 2022-12-31 |  |
@@ -473,6 +474,7 @@
 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-10 |
 | [Outro](https://open.spotify.com/track/4PUniKS3Cywu23xjdtoji5) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kan](https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv) | 3:12 | 2022-07-26 | 2022-11-13 |
 | [Pablo](https://open.spotify.com/track/4HWiQoV1HUI9o6FM1JbACh) | [Alper Eğri](https://open.spotify.com/artist/6Vm1tmhfZEa9INOt0sr4WX) | [Pablo](https://open.spotify.com/album/2UyNjwz3DvM2GhxsCdZcbM) | 3:42 | 2021-05-09 | 2021-05-13 |
+| [Padişahım](https://open.spotify.com/track/3X7Iy2X4NRbb8gbDYb2xVq) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Padişahım](https://open.spotify.com/album/1ZWb1817n5EoBpgjTkCi4S) | 2:33 | 2023-05-11 |  |
 | [Papa Rose](https://open.spotify.com/track/38CwybVk0CqbTovp3aWtEZ) | [Clower](https://open.spotify.com/artist/0AnmijrLwTOeEp0DqafMr6) | [Papa Rose](https://open.spotify.com/album/1lHssSEP0HCgDZ4lYED9Wg) | 2:28 | 2022-01-30 | 2022-03-05 |
 | [PAPARAZZI](https://open.spotify.com/track/6gxLEbRJlorva6uVRW4gof) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [PAPARAZZI](https://open.spotify.com/album/24SMyN5zmpqjgtlnfbErTP) | 2:44 | 2021-11-21 | 2022-12-12 |
 | [Papatya](https://open.spotify.com/track/47U5AMz7woJyKLHxS0O2ls) | [Eda Sakız](https://open.spotify.com/artist/43kof4zqki1s51xx3bX8wB), [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Papatya](https://open.spotify.com/album/1xN56GvfzfZVJOTJzuUp18) | 2:13 | 2023-01-24 | 2023-01-29 |

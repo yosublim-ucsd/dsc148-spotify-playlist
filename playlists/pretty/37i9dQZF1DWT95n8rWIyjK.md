@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT95n8rWIyjK.md) - [plain]
 
 > Música Mexicana curated by <a href="https://open.spotify.com/show/408KWeYfiDfXvhqbmPEIsg?si=fb7f4db31ff64f53">Agushto Papa</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,428 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,487 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT95n8rWIyjK.md) - [plain]
 | 39 | [Siempre Atento](https://open.spotify.com/track/2qqTaOUxy3hD3mbxZB4iVY) | [Clave Secreta](https://open.spotify.com/artist/076NZ7vK81Lc1aKv15hGLN) | [Siempre Atento](https://open.spotify.com/album/6A7bCc6QUypVSyMD8TEC9t) | 3:16 |
 | 40 | [Solamente Tu](https://open.spotify.com/track/0aQTUc1SqjQCpee1R944Ff) | [Ezra Martinez](https://open.spotify.com/artist/7c1uRwRCw8mS6WWGiCZbA7) | [Solamente Tu](https://open.spotify.com/album/3dlhOSGV3DSlkfhM15uj1V) | 2:40 |
 
-Snapshot ID: `MCxiOGQ3YWFiNDgyNjA5MWNiZmNlYTQ5OGM0NWY4YmM1MWVmNzI1Nzg1`
+Snapshot ID: `MCw0MDU2ODA3NTM2YzM4MTYyY2RlZGExZmE2NmRlY2FmYWE2ZmUzNjcz`

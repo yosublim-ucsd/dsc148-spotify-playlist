@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : L2B",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Lynda",
   "name": "R&Bae",
   "tracks": [
     {
@@ -1059,6 +1059,24 @@
     },
     {
       "album": {
+        "name": "Jeu d'acteur",
+        "url": "https://open.spotify.com/album/4yInrd80NPSeTvcrUTrXO3"
+      },
+      "artists": [
+        {
+          "name": "Celyane",
+          "url": "https://open.spotify.com/artist/4YLotLzWdKNAgAsqNmq2WP"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182883,
+      "name": "Jeu d'acteur",
+      "url": "https://open.spotify.com/track/1aMRb7C3N0tsPP5znAVZU5"
+    },
+    {
+      "album": {
         "name": "Johanna",
         "url": "https://open.spotify.com/album/18sdgENHGeQXaUUStl9TBR"
       },
@@ -1604,7 +1622,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 176808,
       "name": "NDENGE NINI",
       "url": "https://open.spotify.com/track/3gOZ4SiL6sfrdU2CDm7A74"
@@ -1947,6 +1965,24 @@
     },
     {
       "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/7Lfnq16oFlmwsCTYOXkunW"
+      },
+      "artists": [
+        {
+          "name": "Melina",
+          "url": "https://open.spotify.com/artist/5Igaoo9WzRGgvEV3pXNuZA"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216340,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/6Wt11M63GQsTr4FMR8YyMt"
+    },
+    {
+      "album": {
         "name": "Cloud",
         "url": "https://open.spotify.com/album/217M10Fi7Xd6PtIYx5cU1Q"
       },
@@ -2052,7 +2088,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 135413,
       "name": "Sexy Chuchu",
       "url": "https://open.spotify.com/track/1kEAnO1Mqg1uw8XajyMAO8"

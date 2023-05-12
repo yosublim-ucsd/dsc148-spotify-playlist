@@ -1,12 +1,12 @@
 {
   "description": "Folk tan dulce como la miel. Silvana Estrada en portada.",
-  "num_followers": 96287,
+  "num_followers": 96284,
   "original_name": "madera y miel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDYyMDhjODMyMjAyMjY5NzgyMjY3ZjhjMzE2MDQ4NzY0ODBhYjlk",
+  "snapshot_id": "MCwwN2EzZjFhNGU3YmE0ZjQ1ZDJhN2MyZTY2NTNlZmMxNTM5MWMwNzU0",
   "tracks": [
     {
       "added_at": "2023-05-05 23:03:19",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-05-05 23:03:19",
       "album": {
+        "name": "Uno Que Tropieza Y Cae Al Mar",
+        "url": "https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z"
+      },
+      "artists": [
+        {
+          "name": "Vera Pedro",
+          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
+        }
+      ],
+      "duration_ms": 209346,
+      "name": "Uno Que Tropieza Y Cae Al Mar",
+      "url": "https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz"
+    },
+    {
+      "added_at": "2023-05-05 23:03:19",
+      "album": {
         "name": "ojal\u00e1 </3",
         "url": "https://open.spotify.com/album/0dZbJuwWFwFqXSq6BC1xes"
       },
@@ -599,18 +615,22 @@
     {
       "added_at": "2023-05-05 23:03:19",
       "album": {
-        "name": "Uno Que Tropieza Y Cae Al Mar",
-        "url": "https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z"
+        "name": "Te hab\u00eda contao",
+        "url": "https://open.spotify.com/album/0fsdJqVYDcHFmz8hFp17xT"
       },
       "artists": [
         {
-          "name": "Vera Pedro",
-          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
+          "name": "SNENiE",
+          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
+        },
+        {
+          "name": "Poror\u00f3",
+          "url": "https://open.spotify.com/artist/37rFJ6EXmC8mPSiLUS3sW3"
         }
       ],
-      "duration_ms": 209346,
-      "name": "Uno Que Tropieza Y Cae Al Mar",
-      "url": "https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz"
+      "duration_ms": 218657,
+      "name": "Te hab\u00eda contao",
+      "url": "https://open.spotify.com/track/0KjmacdqLiXABYlCSZgLxu"
     },
     {
       "added_at": "2023-05-05 23:03:19",
@@ -755,38 +775,6 @@
     {
       "added_at": "2023-05-05 23:03:19",
       "album": {
-        "name": "Amor Con Filo",
-        "url": "https://open.spotify.com/album/5LZTVKoO09QDaADq6ij0Sj"
-      },
-      "artists": [
-        {
-          "name": "Anthr\u00e9s",
-          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Amor Con Filo",
-      "url": "https://open.spotify.com/track/3hzxwtypvjo7qqy8umK66X"
-    },
-    {
-      "added_at": "2023-05-05 23:03:19",
-      "album": {
-        "name": "Don Esteban",
-        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 213447,
-      "name": "Olvido",
-      "url": "https://open.spotify.com/track/3gZmkA0JuHdnI0egvWuKBq"
-    },
-    {
-      "added_at": "2023-05-05 23:03:19",
-      "album": {
         "name": "No Soy Yo",
         "url": "https://open.spotify.com/album/0PVjH55QwxgCjcOxqavV09"
       },
@@ -819,6 +807,38 @@
     {
       "added_at": "2023-05-05 23:03:19",
       "album": {
+        "name": "Amor Con Filo",
+        "url": "https://open.spotify.com/album/5LZTVKoO09QDaADq6ij0Sj"
+      },
+      "artists": [
+        {
+          "name": "Anthr\u00e9s",
+          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Amor Con Filo",
+      "url": "https://open.spotify.com/track/3hzxwtypvjo7qqy8umK66X"
+    },
+    {
+      "added_at": "2023-05-05 23:03:19",
+      "album": {
+        "name": "Don Esteban",
+        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 213447,
+      "name": "Olvido",
+      "url": "https://open.spotify.com/track/3gZmkA0JuHdnI0egvWuKBq"
+    },
+    {
+      "added_at": "2023-05-05 23:03:19",
+      "album": {
         "name": "A Simple Vista",
         "url": "https://open.spotify.com/album/4MmPT0gnE81KHZepPsQUIP"
       },
@@ -839,22 +859,34 @@
     {
       "added_at": "2023-05-05 23:03:19",
       "album": {
-        "name": "Te hab\u00eda contao",
-        "url": "https://open.spotify.com/album/0fsdJqVYDcHFmz8hFp17xT"
+        "name": "Hierbas Para la Tristeza",
+        "url": "https://open.spotify.com/album/5ImwTLryEGcXAZ5XTKu7kK"
       },
       "artists": [
         {
-          "name": "SNENiE",
-          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
-        },
-        {
-          "name": "Poror\u00f3",
-          "url": "https://open.spotify.com/artist/37rFJ6EXmC8mPSiLUS3sW3"
+          "name": "Amapola",
+          "url": "https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5"
         }
       ],
-      "duration_ms": 218657,
-      "name": "Te hab\u00eda contao",
-      "url": "https://open.spotify.com/track/0KjmacdqLiXABYlCSZgLxu"
+      "duration_ms": 166112,
+      "name": "Hierbas",
+      "url": "https://open.spotify.com/track/5sero0jyQpKivJPdul9dl9"
+    },
+    {
+      "added_at": "2023-05-05 23:03:19",
+      "album": {
+        "name": "La Vida Nos Hizo En Pares",
+        "url": "https://open.spotify.com/album/5K2ZzoGMtuuml2Bg2ueaZQ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        }
+      ],
+      "duration_ms": 177450,
+      "name": "La Vida Nos Hizo En Pares",
+      "url": "https://open.spotify.com/track/3gXaySyXvlEfzUNgiJJgE7"
     },
     {
       "added_at": "2023-05-05 23:03:19",
@@ -871,22 +903,6 @@
       "duration_ms": 255155,
       "name": "Pasado y Olvido",
       "url": "https://open.spotify.com/track/6Ri2uwJoxSyRTjRipledb7"
-    },
-    {
-      "added_at": "2023-05-05 23:03:19",
-      "album": {
-        "name": "Hierbas Para la Tristeza",
-        "url": "https://open.spotify.com/album/5ImwTLryEGcXAZ5XTKu7kK"
-      },
-      "artists": [
-        {
-          "name": "Amapola",
-          "url": "https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5"
-        }
-      ],
-      "duration_ms": 166112,
-      "name": "Hierbas",
-      "url": "https://open.spotify.com/track/5sero0jyQpKivJPdul9dl9"
     },
     {
       "added_at": "2023-05-05 23:03:19",
@@ -947,22 +963,6 @@
     {
       "added_at": "2023-05-05 23:03:19",
       "album": {
-        "name": "La Vida Nos Hizo En Pares",
-        "url": "https://open.spotify.com/album/5K2ZzoGMtuuml2Bg2ueaZQ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
-        }
-      ],
-      "duration_ms": 177450,
-      "name": "La Vida Nos Hizo En Pares",
-      "url": "https://open.spotify.com/track/3gXaySyXvlEfzUNgiJJgE7"
-    },
-    {
-      "added_at": "2023-05-05 23:03:19",
-      "album": {
         "name": "D\u00e9jame de Matar",
         "url": "https://open.spotify.com/album/7q70Mz0YbW2oxJZVqSUEXK"
       },
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-05-05 23:03:19",
       "album": {
-        "name": "Amanecer",
-        "url": "https://open.spotify.com/album/5XX0iRSDLzElMVY2EcDThW"
-      },
-      "artists": [
-        {
-          "name": "Los Americanos",
-          "url": "https://open.spotify.com/artist/4Q0wQsRzWYhbAXIKQN6LSw"
-        }
-      ],
-      "duration_ms": 245187,
-      "name": "Amanecer",
-      "url": "https://open.spotify.com/track/5TQwSAq0BAU9DWpKmHmI9F"
-    },
-    {
-      "added_at": "2023-05-05 23:03:19",
-      "album": {
         "name": "Retrato",
         "url": "https://open.spotify.com/album/7eI2NAvOwa8O8CtnBARs3A"
       },
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2023-05-05 23:03:19",
       "album": {
-        "name": "Arena Roja",
-        "url": "https://open.spotify.com/album/35nR8jjRVVjo6R3IhQO9le"
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/5XX0iRSDLzElMVY2EcDThW"
       },
       "artists": [
         {
-          "name": "Dali Mata",
-          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
+          "name": "Los Americanos",
+          "url": "https://open.spotify.com/artist/4Q0wQsRzWYhbAXIKQN6LSw"
         }
       ],
-      "duration_ms": 238043,
-      "name": "Arena Roja",
-      "url": "https://open.spotify.com/track/5LxBsUiUHcxHeg1bQyQYeF"
+      "duration_ms": 245187,
+      "name": "Amanecer",
+      "url": "https://open.spotify.com/track/5TQwSAq0BAU9DWpKmHmI9F"
     },
     {
       "added_at": "2023-05-05 23:03:19",
@@ -1075,6 +1059,22 @@
       "duration_ms": 148353,
       "name": "Te Rendiste en Mi",
       "url": "https://open.spotify.com/track/0avJUBhRYnqhqDWb9kBCy6"
+    },
+    {
+      "added_at": "2023-05-05 23:03:19",
+      "album": {
+        "name": "Arena Roja",
+        "url": "https://open.spotify.com/album/35nR8jjRVVjo6R3IhQO9le"
+      },
+      "artists": [
+        {
+          "name": "Dali Mata",
+          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
+        }
+      ],
+      "duration_ms": 238043,
+      "name": "Arena Roja",
+      "url": "https://open.spotify.com/track/5LxBsUiUHcxHeg1bQyQYeF"
     },
     {
       "added_at": "2023-05-05 23:03:19",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-05-05 23:03:19",
       "album": {
-        "name": "Bolero Surrealista",
-        "url": "https://open.spotify.com/album/6kZcXw3tT2Kbj9rqZsh83a"
-      },
-      "artists": [
-        {
-          "name": "Dali Mata",
-          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
-        }
-      ],
-      "duration_ms": 234500,
-      "name": "Bolero Surrealista",
-      "url": "https://open.spotify.com/track/0axqkZNASfnYOI3abp06dT"
-    },
-    {
-      "added_at": "2023-05-05 23:03:19",
-      "album": {
         "name": "Problema",
         "url": "https://open.spotify.com/album/6cN6qegRWQu7PVi7cY3NCV"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 223578,
       "name": "Herido :(",
       "url": "https://open.spotify.com/track/3nOVioPlgs8GxvCVQJ0jKV"
+    },
+    {
+      "added_at": "2023-05-05 23:03:19",
+      "album": {
+        "name": "Bolero Surrealista",
+        "url": "https://open.spotify.com/album/6kZcXw3tT2Kbj9rqZsh83a"
+      },
+      "artists": [
+        {
+          "name": "Dali Mata",
+          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
+        }
+      ],
+      "duration_ms": 234500,
+      "name": "Bolero Surrealista",
+      "url": "https://open.spotify.com/track/0axqkZNASfnYOI3abp06dT"
     },
     {
       "added_at": "2023-05-05 23:03:19",

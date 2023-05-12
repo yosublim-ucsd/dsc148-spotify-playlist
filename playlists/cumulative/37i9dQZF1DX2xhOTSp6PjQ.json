@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "It's not a genre, it's a culture. Cover: <a href=\"https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=Xev0VvjtSSSReVp7wvUkPw\">Nomfundo Moh</a>.",
+  "description": "It's not a genre, it's a culture. Cover: <a href=\"https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k?si=ODq8Di0EQwatcqc3k_xtJQ\">Inkabi Zezwe</a>.",
   "name": "Bhinca Nation",
   "tracks": [
     {
@@ -1046,7 +1046,7 @@
       ],
       "date_added": "2018-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 363206,
       "name": "Impi Yomndeni",
       "url": "https://open.spotify.com/track/7ag6ASRzcuWXamzvNEXQzL"
@@ -1470,6 +1470,32 @@
       "duration_ms": 270184,
       "name": "Kawungondli",
       "url": "https://open.spotify.com/track/2s3bK3DPCb84Rl1Rfp01TH"
+    },
+    {
+      "album": {
+        "name": "Ukhamba",
+        "url": "https://open.spotify.com/album/4VshKshG4GNIVueV0qoeiP"
+      },
+      "artists": [
+        {
+          "name": "Inkabi Zezwe",
+          "url": "https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k"
+        },
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        },
+        {
+          "name": "Big Zulu",
+          "url": "https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255272,
+      "name": "Khaya Lami",
+      "url": "https://open.spotify.com/track/0KG5PG0nz6MmKLbDWtmpdk"
     },
     {
       "album": {

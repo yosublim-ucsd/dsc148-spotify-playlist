@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 41922,
+  "num_followers": 41980,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTA5ZWE0YjQ3MjVkNDcwMTU4OGFiM2Y2Zjg5ZTFhNDcxNWU3MDlh",
+  "snapshot_id": "MCxhMTUxZGIyMTMzZjdlMWU2YWVlZTM2OTViOTY0YmIzZjExZjhhY2Zi",
   "tracks": [
     {
       "added_at": "2022-12-31 00:39:45",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "Keep On Jumpin'",
-        "url": "https://open.spotify.com/album/5gQh0forPeR556hKjhEdXW"
-      },
-      "artists": [
-        {
-          "name": "Musique",
-          "url": "https://open.spotify.com/artist/5JO0fCMUiEJtUQjyOXyaCl"
-        }
-      ],
-      "duration_ms": 339946,
-      "name": "Keep On Jumpin'",
-      "url": "https://open.spotify.com/track/6J9rBgsm9USju9PkLf2exF"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
         "name": "People... Hold On",
         "url": "https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 160906,
       "name": "Date With The Rain",
       "url": "https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
+        "name": "Keep On Jumpin'",
+        "url": "https://open.spotify.com/album/5gQh0forPeR556hKjhEdXW"
+      },
+      "artists": [
+        {
+          "name": "Musique",
+          "url": "https://open.spotify.com/artist/5JO0fCMUiEJtUQjyOXyaCl"
+        }
+      ],
+      "duration_ms": 339946,
+      "name": "Keep On Jumpin'",
+      "url": "https://open.spotify.com/track/6J9rBgsm9USju9PkLf2exF"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/4YAxIAMUnzqt0Oq5FRe2W5"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
-        }
-      ],
-      "duration_ms": 244733,
-      "name": "Put Your Body In It",
-      "url": "https://open.spotify.com/track/7aRMjcQaRv4pvIQGu1DYVh"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
         "name": "Club Columbia",
         "url": "https://open.spotify.com/album/6g7JRPx6SdrEDLQS2fQcsI"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 433093,
       "name": "This Time Baby - Special 12\" Version",
       "url": "https://open.spotify.com/track/1Ywkbr13F7cOzwHs8QKknI"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/4YAxIAMUnzqt0Oq5FRe2W5"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+        }
+      ],
+      "duration_ms": 244733,
+      "name": "Put Your Body In It",
+      "url": "https://open.spotify.com/track/7aRMjcQaRv4pvIQGu1DYVh"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
+        "name": "Crooklyn Volume II",
+        "url": "https://open.spotify.com/album/0D6AKEKQLa5VR5akhUjV0l"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 266560,
+      "name": "Soul Makossa",
+      "url": "https://open.spotify.com/track/0ofK8UNWOtCFbbizCe8hta"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
         "name": "Philadelphia International Records: The Tom Moulton Remixes",
         "url": "https://open.spotify.com/album/25R1Y9bt82lbSwZemUBJ1A"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 750560,
       "name": "The Love I Lost - A Tom Moulton Mix",
       "url": "https://open.spotify.com/track/6kTRD53rZvscOShCDotKVy"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
-        "name": "Crooklyn Volume II",
-        "url": "https://open.spotify.com/album/0D6AKEKQLa5VR5akhUjV0l"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 266560,
-      "name": "Soul Makossa",
-      "url": "https://open.spotify.com/track/0ofK8UNWOtCFbbizCe8hta"
     },
     {
       "added_at": "2022-12-31 00:39:45",

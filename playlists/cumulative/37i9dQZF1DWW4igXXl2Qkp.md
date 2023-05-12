@@ -4,7 +4,7 @@
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: Devmaccc
 
-752 songs - 1 day 9 hr 3 min
+753 songs - 1 day 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,8 @@
 | [Don Valley Freestyle](https://open.spotify.com/track/3kLEpBlZM7YlS4fJzwdxSS) | [MixTapper](https://open.spotify.com/artist/62htlKVPdhWyPnyNZlL0v4) | [Don Valley Freestyle](https://open.spotify.com/album/481o9sbkxYZUuCUUeLwuJg) | 3:26 | 2022-01-19 | 2022-02-24 |
 | [Don't Look At Numbers \- Remix](https://open.spotify.com/track/0dlCGUP21xlbgobhTxb3Gi) | [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Don't Look At Numbers \(Remix\)](https://open.spotify.com/album/0mHLJmZeGCgDW4yh4M4MdO) | 3:37 | 2022-09-14 | 2022-10-27 |
 | [Don't Matter](https://open.spotify.com/track/6HjgcxvCqzOp4K3ObnwBgP) | [MoneyMarr](https://open.spotify.com/artist/7Hol8IRGqnkUgWM21PHDhN) | [Don't Matter](https://open.spotify.com/album/2wwnqGRytuff6IRQcpFuEQ) | 2:06 | 2023-01-18 | 2023-03-30 |
-| [Don't Talk 2 Me](https://open.spotify.com/track/3cCYeh7pceJYUqXnzEaeip) | [JODY SUMMERS](https://open.spotify.com/artist/1gL1oFmpEyzt73ZaBjXXAx), [WIL$ON](https://open.spotify.com/artist/1JIgcZTvB6nLvFwsEOgnbI), [Scottie Le'Jour](https://open.spotify.com/artist/0tueJYXAR9dx6KPDWZz0nn) | [Don't Talk 2 Me](https://open.spotify.com/album/54FWdaPAxy6qx47i7hxLM1) | 2:22 | 2023-03-29 |  |
+| [Don't Talk 2 Me](https://open.spotify.com/track/3cCYeh7pceJYUqXnzEaeip) | [JODY SUMMERS](https://open.spotify.com/artist/1gL1oFmpEyzt73ZaBjXXAx), [WIL$ON](https://open.spotify.com/artist/1JIgcZTvB6nLvFwsEOgnbI), [Scottie Le'Jour](https://open.spotify.com/artist/0tueJYXAR9dx6KPDWZz0nn) | [Don't Talk 2 Me](https://open.spotify.com/album/54FWdaPAxy6qx47i7hxLM1) | 2:22 | 2023-03-29 | 2023-05-12 |
+| [Don't Talk 2 Me](https://open.spotify.com/track/59Yw62BGuKjzYlceUfC7L8) | [JODY SUMMERS](https://open.spotify.com/artist/1gL1oFmpEyzt73ZaBjXXAx), [WIL$ON](https://open.spotify.com/artist/1JIgcZTvB6nLvFwsEOgnbI), [Scottie Le'Jour](https://open.spotify.com/artist/0tueJYXAR9dx6KPDWZz0nn) | [Don't Talk 2 Me](https://open.spotify.com/album/1ZC0pflUsQkkYxVcie04YR) | 2:22 | 2023-04-12 |  |
 | [Downtown](https://open.spotify.com/track/0XROcEEaW9T6Ezw7zmXpo9) | [SheedTs](https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ) | [Downtown](https://open.spotify.com/album/7rSs6a03YSAVQhhxsoh1vz) | 2:49 | 2023-04-05 |  |
 | [Drake](https://open.spotify.com/track/6fTzuyzIS7reVcjVRfavE5) | [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM), [Kelow LaTesha](https://open.spotify.com/artist/6oUUlugyY0JajHnw3FYAKb) | [The Foggie Pound 2](https://open.spotify.com/album/7CGZLySyE8Ifg9Xw9b7oNf) | 3:14 | 2021-12-01 | 2022-01-14 |
 | [Dramatic](https://open.spotify.com/track/76ffjeGmkcWA3DlphVCjgn) | [Sangstaa](https://open.spotify.com/artist/6y1pFGcmfWgcrziPzbUQfc), [Cloudy Nueve](https://open.spotify.com/artist/0R5hkUcEfsADSPwecU9dIc) | [Dramatic](https://open.spotify.com/album/0JBrtzp6p1U3rbKKeYLGfK) | 2:06 | 2021-12-01 | 2022-01-14 |

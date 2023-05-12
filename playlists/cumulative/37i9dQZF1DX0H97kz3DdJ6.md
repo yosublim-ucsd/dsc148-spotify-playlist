@@ -4,7 +4,7 @@
 
 > as mais tristes do brasil
 
-113 songs - 5 hr 27 min
+115 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Coração Gelado](https://open.spotify.com/track/4TuhjX8VbmRYnsu4KatTyG) | [David iesu](https://open.spotify.com/artist/6mfkFg4ZF8th47O0eKeRLH) | [Coração Gelado](https://open.spotify.com/album/7eGJFopEpP5wmlAgSLECqu) | 2:37 | 2022-08-12 | 2022-10-15 |
 | [Crazy](https://open.spotify.com/track/6zoNaIXnHBHvVkYIitosXR) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Crazy](https://open.spotify.com/album/5UJ0C74v5OiSpAGc1efAbF) | 2:22 | 2022-05-20 |  |
 | [Crises](https://open.spotify.com/track/7uk8JQm6Ahe2wTSEDSgako) | [Nasac](https://open.spotify.com/artist/6g5b2tgMUMnb51tZ8Z3Tby), [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h) | [Crises](https://open.spotify.com/album/4RikHwOkP42dtOsbVJnT0O) | 2:41 | 2022-05-20 |  |
-| [deitado no quarto](https://open.spotify.com/track/7psjVTKXg6BKu8EFr6ZSIv) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2), [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [deitado no quarto](https://open.spotify.com/album/39qpw5ItINLhEiMYfoYjkq) | 2:56 | 2022-05-20 |  |
+| [deitado no quarto](https://open.spotify.com/track/7psjVTKXg6BKu8EFr6ZSIv) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2), [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [deitado no quarto](https://open.spotify.com/album/39qpw5ItINLhEiMYfoYjkq) | 2:56 | 2022-05-20 | 2023-05-12 |
+| [deitado no quarto](https://open.spotify.com/track/7wBfwQ1dLrf3QiQV7WRN6O) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2), [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [deitado no quarto](https://open.spotify.com/album/5AxkAvYMhR5pUR2XRpgWFs) | 2:56 | 2023-04-14 |  |
 | [Deixa Queimar](https://open.spotify.com/track/3q7qqA2yQYMI1tJkJn9g1j) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Kyu](https://open.spotify.com/artist/6n5UPx3F2aWUgQImMclIgE), [Yasmin Carrera](https://open.spotify.com/artist/6F8zMQcWBOmYWSaE5yZ10w) | [Deixa Queimar](https://open.spotify.com/album/0tzZ9q1gumW2fq35ID2ruU) | 2:29 | 2022-05-20 | 2022-07-09 |
 | [Delírio](https://open.spotify.com/track/6GqGwqeLGAI3jPZq3JuUrX) | [K8TIE](https://open.spotify.com/artist/4E60gF2h5In3yPiP7actgA) | [Delírio](https://open.spotify.com/album/7vbu8aRXv5PoarQ1MEzPlr) | 3:08 | 2022-08-12 | 2022-10-15 |
 | [Delírio](https://open.spotify.com/track/3ke603EC1sN89TUk3Y3mzC) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [Delírio](https://open.spotify.com/album/2kSC9rkTJ8jywg5yQJSPO2) | 2:25 | 2022-05-20 |  |
@@ -57,7 +58,8 @@
 | [Eu Odeio Amar Você](https://open.spotify.com/track/72ABPmfEqqoVGpPniqbuaC) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Eu Odeio Amar Você](https://open.spotify.com/album/2F9ahQk5nNNyDLSzJmVWLu) | 3:22 | 2022-05-20 |  |
 | [Eu Olho pra Você](https://open.spotify.com/track/3elxbb7HapeHnQq8HO39fb) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [Pedrosa](https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2) | [Eu Olho pra Você](https://open.spotify.com/album/4OhDXcpj77hEpxoxdhguZy) | 2:30 | 2022-05-20 |  |
 | [Eu Sou um Fracasso](https://open.spotify.com/track/58hVOSkdd1jY6oVGcGkC60) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R), [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Eu Sou um Fracasso](https://open.spotify.com/album/3TFbaz1pFem6T3IdceMRRZ) | 2:31 | 2022-05-20 |  |
-| [Eu te fiz sofrer](https://open.spotify.com/track/7LJ4i3QW0lri9IDg1FPRFZ) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Kourah](https://open.spotify.com/artist/0ZZjUA7WDQGjBN416iSBae) | [Eu te fiz sofrer](https://open.spotify.com/album/3S2JOAUJ7NdY0QbrFksthT) | 2:44 | 2022-05-20 |  |
+| [Eu te fiz sofrer](https://open.spotify.com/track/27mCcNX7OfjQCQj89YrcW0) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Kourah](https://open.spotify.com/artist/0ZZjUA7WDQGjBN416iSBae) | [Eu te fiz sofrer](https://open.spotify.com/album/06brlc4HlMuyvLX3DJVQkY) | 2:44 | 2023-04-14 |  |
+| [Eu te fiz sofrer](https://open.spotify.com/track/7LJ4i3QW0lri9IDg1FPRFZ) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Kourah](https://open.spotify.com/artist/0ZZjUA7WDQGjBN416iSBae) | [Eu te fiz sofrer](https://open.spotify.com/album/3S2JOAUJ7NdY0QbrFksthT) | 2:44 | 2022-05-20 | 2023-05-12 |
 | [Eu Tentei](https://open.spotify.com/track/7LzWELj8YFDdQcoyfsmRW1) | [Ilowzz](https://open.spotify.com/artist/1QKcmNIGhlrhhJEDxCDbgw), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY) | [Eu Tentei](https://open.spotify.com/album/1EEwQA8UnhcLDPtU2uReeu) | 3:10 | 2022-05-20 |  |
 | [Eu Tô Bem](https://open.spotify.com/track/5HR0ti4siqbTIr1BitbZ7d) | [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0) | [Eu Tô Bem](https://open.spotify.com/album/4uoVTixtQcytRqPUZ0qBKE) | 2:14 | 2022-05-20 |  |
 | [Faltam Palavras](https://open.spotify.com/track/4TnbzKpiC9Us4I6E71o0uz) | [Annick](https://open.spotify.com/artist/7MBC4MpNfqH87jfzeZn3tE) | [Faltam Palavras](https://open.spotify.com/album/1XnHyT1lXkLZc9UQYizWiC) | 2:43 | 2022-09-02 |  |

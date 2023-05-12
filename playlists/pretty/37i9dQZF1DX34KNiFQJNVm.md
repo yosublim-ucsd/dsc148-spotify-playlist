@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mc Cabelinho com Anitta, Matuê com Rich the Kid, Tierry com Zé Neto & Cristiano, Lou Garcia e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,868,207 likes - 99 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,868,559 likes - 99 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 98 | [Canta Liberdade](https://open.spotify.com/track/6sD0Wtb9zPdczrMgC0DZiW) | [MC Cassiano](https://open.spotify.com/artist/7JX0XIhzQs1qaor0QrPZxY), [Mc Robs](https://open.spotify.com/artist/5jysNZ8I6vAiNTsFbrIj1K), [DJ Russo](https://open.spotify.com/artist/1EfJMbepAdhD9z4SLFDOJx) | [Canta Liberdade](https://open.spotify.com/album/7b708LrQDdyXSiUgCk90kL) | 3:45 |
 | 99 | [Desejo Carnal](https://open.spotify.com/track/6CemSib1lTmN1xkuOZqokD) | [Mc Leh](https://open.spotify.com/artist/4JTs3kffe8YHh5sjlJh3jK) | [Desejo Carnal](https://open.spotify.com/album/1pApfn5sm6NEwS5NUNWgnt) | 3:25 |
 
-Snapshot ID: `MCwwYjRjZGNlYTg5NjBlYjYwMWYwZWY3NjJkNDQzZTk4NDRmNTlhZTA4`
+Snapshot ID: `MCxmODM0MTI4NDJkZmE2ZjA3MzdjNTdmNWM4ZjM3Y2Y5MzYzYjJmY2My`

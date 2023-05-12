@@ -1,29 +1,13 @@
 {
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy?si=1kNmBf4xQU626usgoqJWDg\">Bongeziwe Mabandla</a> ",
-  "num_followers": 5880,
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV?si=tZ_C8agGQ7iZ6D4-j0AOPw\">HONEYMOAN</a> ",
+  "num_followers": 5885,
   "original_name": "SAlt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2UxOGE5MDZmZTk2ODMyY2M0NmI2NDA4MTE0YjBkNTUxNzQ1MmQ1",
+  "snapshot_id": "MCwyNTljNDNiNTMyNWY1MTA3ZjEzOTk4NzRjNzg5OGYwMjhjZThkMzBh",
   "tracks": [
-    {
-      "added_at": "2023-05-04 21:59:00",
-      "album": {
-        "name": "amaXesha",
-        "url": "https://open.spotify.com/album/3jakaJqMeF7geMynKw6QWf"
-      },
-      "artists": [
-        {
-          "name": "Bongeziwe Mabandla",
-          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
-        }
-      ],
-      "duration_ms": 222253,
-      "name": "hlala",
-      "url": "https://open.spotify.com/track/2N52t4ou4Of2eCGxHpPXqq"
-    },
     {
       "added_at": "2023-05-04 21:59:00",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 209401,
       "name": "Sorry Like You Mean It",
       "url": "https://open.spotify.com/track/503iuUPKIXQLSmLsMQDYIN"
+    },
+    {
+      "added_at": "2023-05-04 21:59:00",
+      "album": {
+        "name": "amaXesha",
+        "url": "https://open.spotify.com/album/3jakaJqMeF7geMynKw6QWf"
+      },
+      "artists": [
+        {
+          "name": "Bongeziwe Mabandla",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+        }
+      ],
+      "duration_ms": 222253,
+      "name": "hlala",
+      "url": "https://open.spotify.com/track/2N52t4ou4Of2eCGxHpPXqq"
     },
     {
       "added_at": "2023-03-30 21:59:00",
@@ -57,36 +57,20 @@
       "url": "https://open.spotify.com/track/2L8AxY1xtptdIkjbjaxHtH"
     },
     {
-      "added_at": "2023-05-05 04:12:19",
+      "added_at": "2023-04-27 21:59:00",
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/1dkq45ItGdHYFjGlSxlcZg"
+        "name": "Open My Door",
+        "url": "https://open.spotify.com/album/0CLN8x2MGw8htb94l0tBGv"
       },
       "artists": [
         {
-          "name": "Rhys Davids",
-          "url": "https://open.spotify.com/artist/3zkCmXCBcpPtF3UqPTNMNv"
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
         }
       ],
-      "duration_ms": 198898,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/4WRi0GE9rB7ca848HIavkJ"
-    },
-    {
-      "added_at": "2023-05-05 04:12:19",
-      "album": {
-        "name": "Miami",
-        "url": "https://open.spotify.com/album/66M8jLSIBg9EWzRbPsriuZ"
-      },
-      "artists": [
-        {
-          "name": "Josie Field",
-          "url": "https://open.spotify.com/artist/7E5WcKtx2EGc0GYJ9ef4J1"
-        }
-      ],
-      "duration_ms": 192167,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/2aXlE2ON2ya8zFg6HDTCRs"
+      "duration_ms": 153110,
+      "name": "Open My Door",
+      "url": "https://open.spotify.com/track/6lVMcnULyl94wDrZ2HAuCT"
     },
     {
       "added_at": "2023-04-21 04:18:52",
@@ -105,20 +89,68 @@
       "url": "https://open.spotify.com/track/1P1D1Oqq0cLfEniVHzBIsk"
     },
     {
-      "added_at": "2023-04-27 21:59:00",
+      "added_at": "2023-05-11 21:59:00",
       "album": {
-        "name": "Open My Door",
-        "url": "https://open.spotify.com/album/0CLN8x2MGw8htb94l0tBGv"
+        "name": "UNTIL NEXT.....",
+        "url": "https://open.spotify.com/album/2z1yWUL05RcZZgR3E4osVq"
       },
       "artists": [
         {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+          "name": "Qobi",
+          "url": "https://open.spotify.com/artist/5WfAvkaliCjjzV7MQX6vDq"
         }
       ],
-      "duration_ms": 153110,
-      "name": "Open My Door",
-      "url": "https://open.spotify.com/track/6lVMcnULyl94wDrZ2HAuCT"
+      "duration_ms": 146818,
+      "name": "THE TRUTH WITHIN",
+      "url": "https://open.spotify.com/track/4EoBdt9knik0dVJGqSjUro"
+    },
+    {
+      "added_at": "2023-05-11 21:59:00",
+      "album": {
+        "name": "Care For You",
+        "url": "https://open.spotify.com/album/3hYqlV8cBdFnwy4dSR3elT"
+      },
+      "artists": [
+        {
+          "name": "BuDu",
+          "url": "https://open.spotify.com/artist/3VVnkjuNmz9Vt2UpAZTCXB"
+        }
+      ],
+      "duration_ms": 232163,
+      "name": "Care For You",
+      "url": "https://open.spotify.com/track/7tcp0h2ypx4PKJaw1Sn1je"
+    },
+    {
+      "added_at": "2023-05-11 21:59:00",
+      "album": {
+        "name": "This World Couldn\u2019t See Us",
+        "url": "https://open.spotify.com/album/0z0wehtsAygzzJsdtgzNoz"
+      },
+      "artists": [
+        {
+          "name": "Nabihah Iqbal",
+          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
+        }
+      ],
+      "duration_ms": 219106,
+      "name": "This World Couldn\u2019t See Us",
+      "url": "https://open.spotify.com/track/13cQU9GKHqSDInv3s7h9fm"
+    },
+    {
+      "added_at": "2023-04-21 04:18:52",
+      "album": {
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/3ngJh5mdlW0RcwJFLlcJlm"
+      },
+      "artists": [
+        {
+          "name": "Daniel Swan",
+          "url": "https://open.spotify.com/artist/2MTzEuYjVaguQ1Jc9bXEnv"
+        }
+      ],
+      "duration_ms": 214928,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/2W7biOBllmeGg1tF56n5Gt"
     },
     {
       "added_at": "2023-04-21 09:49:17",
@@ -153,20 +185,24 @@
       "url": "https://open.spotify.com/track/4Xfvcx1T2VpZsw56emLdAk"
     },
     {
-      "added_at": "2023-04-21 04:18:52",
+      "added_at": "2023-04-27 21:59:00",
       "album": {
-        "name": "City Lights",
-        "url": "https://open.spotify.com/album/3ngJh5mdlW0RcwJFLlcJlm"
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6UDVIOMw5Bd6z7dpmpn5ZW"
       },
       "artists": [
         {
-          "name": "Daniel Swan",
-          "url": "https://open.spotify.com/artist/2MTzEuYjVaguQ1Jc9bXEnv"
+          "name": "Senna-Marie",
+          "url": "https://open.spotify.com/artist/3PlSwDe9Gb6aJDuFhEZSKW"
+        },
+        {
+          "name": "Ryan Schultze",
+          "url": "https://open.spotify.com/artist/5H7kc18IXWo03weqplDFPX"
         }
       ],
-      "duration_ms": 214928,
-      "name": "City Lights",
-      "url": "https://open.spotify.com/track/2W7biOBllmeGg1tF56n5Gt"
+      "duration_ms": 311060,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/5MztgDmgTL0mDCXOZR5aJ0"
     },
     {
       "added_at": "2023-04-27 21:59:00",
@@ -183,6 +219,26 @@
       "duration_ms": 186250,
       "name": "Diamonds On The Sea",
       "url": "https://open.spotify.com/track/6Ubq2WEsUWAGx9CPGnI24d"
+    },
+    {
+      "added_at": "2023-05-11 21:59:00",
+      "album": {
+        "name": "Dark In The Day",
+        "url": "https://open.spotify.com/album/0u9Yy2PjPE2KD3uHD0Kb0j"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Mack",
+          "url": "https://open.spotify.com/artist/0ebredVS7C0onAXIECv6MY"
+        },
+        {
+          "name": "Francesca Parussini",
+          "url": "https://open.spotify.com/artist/4oGFyf7AjQskcIBFoWADbR"
+        }
+      ],
+      "duration_ms": 192105,
+      "name": "Dark In The Day",
+      "url": "https://open.spotify.com/track/1VeoerQWc6rRFv6P5RzE4h"
     },
     {
       "added_at": "2023-04-28 07:24:27",
@@ -219,42 +275,6 @@
       "duration_ms": 266451,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/1YpFyv72TTr3ysGlJb1tXU"
-    },
-    {
-      "added_at": "2023-05-05 04:12:19",
-      "album": {
-        "name": "First to Leave",
-        "url": "https://open.spotify.com/album/4qnGA5yi2g401vBGdlME23"
-      },
-      "artists": [
-        {
-          "name": "Rubber Duc",
-          "url": "https://open.spotify.com/artist/1LU9hKlamftkrhXmj5k0OU"
-        }
-      ],
-      "duration_ms": 249799,
-      "name": "First to Leave",
-      "url": "https://open.spotify.com/track/6JYbCsAzIOeY3v7NfFX196"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/6UDVIOMw5Bd6z7dpmpn5ZW"
-      },
-      "artists": [
-        {
-          "name": "Senna-Marie",
-          "url": "https://open.spotify.com/artist/3PlSwDe9Gb6aJDuFhEZSKW"
-        },
-        {
-          "name": "Ryan Schultze",
-          "url": "https://open.spotify.com/artist/5H7kc18IXWo03weqplDFPX"
-        }
-      ],
-      "duration_ms": 311060,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/5MztgDmgTL0mDCXOZR5aJ0"
     },
     {
       "added_at": "2023-04-21 04:18:52",
@@ -353,6 +373,22 @@
       "url": "https://open.spotify.com/track/7s59X5LAdm9G2HUV7k62DS"
     },
     {
+      "added_at": "2023-05-11 21:59:00",
+      "album": {
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/7Dj8YmJuy1W2H24ovyc3Ng"
+      },
+      "artists": [
+        {
+          "name": "Kiash Arjun",
+          "url": "https://open.spotify.com/artist/00gKlgFBYwZqFuA7n8beqw"
+        }
+      ],
+      "duration_ms": 222696,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/3Nc3IhJPmdqYMqjowHdD2y"
+    },
+    {
       "added_at": "2023-04-27 21:59:00",
       "album": {
         "name": "Midnight Scenes",
@@ -367,22 +403,6 @@
       "duration_ms": 238317,
       "name": "Midnight Scenes",
       "url": "https://open.spotify.com/track/2nSVgBiacRtyOwC3dt1MU4"
-    },
-    {
-      "added_at": "2023-05-05 04:12:19",
-      "album": {
-        "name": "Wyoming",
-        "url": "https://open.spotify.com/album/60hOYamHX7vgT2glXYFmbm"
-      },
-      "artists": [
-        {
-          "name": "NIRESAN",
-          "url": "https://open.spotify.com/artist/4icnMO2iFmNmeImB5mDFFI"
-        }
-      ],
-      "duration_ms": 165377,
-      "name": "Wyoming",
-      "url": "https://open.spotify.com/track/2DpP3gfvXqyOroXWIREwxv"
     },
     {
       "added_at": "2023-04-21 04:18:52",
@@ -511,6 +531,22 @@
       "duration_ms": 178571,
       "name": "Woman on Fire",
       "url": "https://open.spotify.com/track/1UVKKR5tN9KfKYng30e1dx"
+    },
+    {
+      "added_at": "2023-05-11 21:59:00",
+      "album": {
+        "name": "Obsession",
+        "url": "https://open.spotify.com/album/1H9MhTPpUUEN3RmNftiY1S"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Espi",
+          "url": "https://open.spotify.com/artist/2uGq7mB5MymL4sjLxhsOA0"
+        }
+      ],
+      "duration_ms": 197021,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/6Q1HlpBc55tZYp1mfdForo"
     },
     {
       "added_at": "2023-04-14 03:46:05",
@@ -1121,22 +1157,6 @@
       "url": "https://open.spotify.com/track/73Qj3FlA796dDuekSjPu1V"
     },
     {
-      "added_at": "2023-03-02 21:59:00",
-      "album": {
-        "name": "Ring of Past",
-        "url": "https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 201523,
-      "name": "Ring of Past",
-      "url": "https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1"
-    },
-    {
       "added_at": "2023-03-23 21:59:00",
       "album": {
         "name": "AM/FM",
@@ -1283,22 +1303,6 @@
     {
       "added_at": "2023-03-16 21:59:00",
       "album": {
-        "name": "Porcelain Boy",
-        "url": "https://open.spotify.com/album/4DrTMQ7ONjyt4VW1rHfDgy"
-      },
-      "artists": [
-        {
-          "name": "SunMan",
-          "url": "https://open.spotify.com/artist/764M3FNYq1z8yMJfIDi3x1"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Porcelain Boy",
-      "url": "https://open.spotify.com/track/6pXNKxrMeKRsvqs1GYS5iE"
-    },
-    {
-      "added_at": "2023-03-16 21:59:00",
-      "album": {
         "name": "Midnight Fox",
         "url": "https://open.spotify.com/album/0Q7PFHDECYVt4TnVal5Kg8"
       },
@@ -1313,40 +1317,20 @@
       "url": "https://open.spotify.com/track/6fot9PD8atqMvbeeOhwamA"
     },
     {
-      "added_at": "2023-02-26 17:50:35",
+      "added_at": "2023-05-11 21:59:00",
       "album": {
-        "name": "Platinumb Heart Open",
-        "url": "https://open.spotify.com/album/22FziGbftNET7IBUj4IFdP"
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd"
       },
       "artists": [
         {
-          "name": "Msaki",
-          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
-        },
-        {
-          "name": "Beatenberg",
-          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
         }
       ],
-      "duration_ms": 248500,
-      "name": "White Shadow",
-      "url": "https://open.spotify.com/track/3Xlu89nWr1l6cakQu2BEov"
-    },
-    {
-      "added_at": "2023-03-02 21:59:00",
-      "album": {
-        "name": "Good, but not together",
-        "url": "https://open.spotify.com/album/7IJq7iIJ0JztktxLcoa0Sn"
-      },
-      "artists": [
-        {
-          "name": "Valley",
-          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
-        }
-      ],
-      "duration_ms": 183365,
-      "name": "Good, but not together",
-      "url": "https://open.spotify.com/track/4XfgpMiAz9XG58pvq4ly9Q"
+      "duration_ms": 179191,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4"
     },
     {
       "added_at": "2023-02-09 21:59:00",
@@ -1387,34 +1371,6 @@
       "duration_ms": 202945,
       "name": "water comes out of my eyes",
       "url": "https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg"
-    },
-    {
-      "added_at": "2023-03-02 21:59:00",
-      "album": {
-        "name": "the record",
-        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 234933,
-      "name": "Not Strong Enough",
-      "url": "https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv"
     }
   ],
   "unique_name": "SAlt",

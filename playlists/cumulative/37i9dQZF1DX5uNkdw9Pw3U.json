@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Feminist March",
+        "url": "https://open.spotify.com/album/50YyQdGIF32364RZ4EFWNE"
+      },
+      "artists": [
+        {
+          "name": "R\u00dc",
+          "url": "https://open.spotify.com/artist/725jZTtXKFvIYhyWaeFaQI"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "A Feminist March",
+      "url": "https://open.spotify.com/track/3pCxrpxD6CAvnNBhPdUVoZ"
+    },
+    {
+      "album": {
         "name": "Aint Nobody",
         "url": "https://open.spotify.com/album/3XZZMtIe6rGbp1SzK1NEBH"
       },
@@ -1606,7 +1624,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 183692,
       "name": "Sympati For Djevelen",
       "url": "https://open.spotify.com/track/4k6UZA0n0cQHcsz5Q1UP1W"

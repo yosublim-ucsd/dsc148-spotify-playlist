@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Reubz4k
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,808 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,820 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [Heaven is Other People](https://open.spotify.com/track/3eAAmtauRmTJUnGui3I5vF) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn) | [Poems To Dance To](https://open.spotify.com/album/0U9mRtGVLWsNRDJs6ccB9y) | 2:07 |
 | 80 | [Big Dog Barking](https://open.spotify.com/track/4kEarTa6pcGd3TCN6CYGSm) | [Chubby Cat](https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ) | [Big Dog Barking](https://open.spotify.com/album/5z57cpq7qtolGiw2PIuGdJ) | 2:19 |
 
-Snapshot ID: `MCxlMGQyZjdhYjBiODI5NWZlNDliMTU4ODk3ODdmYzY4YmQ5ZjE4OTFj`
+Snapshot ID: `MCwyMTY3OWY0ZDgxMjVjNGQ5MThiMzc0ODQxZWIxYjlhYTQ5Y2QxM2Uw`

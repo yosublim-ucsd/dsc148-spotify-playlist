@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: iri \*👉 <a href="https://spice.eplus.jp/articles/318042?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,285 likes - 70 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,373 likes - 70 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 27 | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ) | 3:06 |
 | 28 | [Fireflies](https://open.spotify.com/track/6B7l79j4ZtLJsBqlmmq0Bu) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS), [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [Fireflies](https://open.spotify.com/album/18ySa8DHfx8sHInKuVpcx8) | 3:57 |
 | 29 | [Life is a song](https://open.spotify.com/track/4Vin9IpkvhiwOwa9uTOBj6) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [あてもなく\(Special Edition\)](https://open.spotify.com/album/1P2CvUvnNZyisqk1tXXRZX) | 3:57 |
-| 30 | [Lonely In Tokyo \(Japanese version\)](https://open.spotify.com/track/1DuQO5Rd1nM3phSLXIDcPa) | [MIREI](https://open.spotify.com/artist/7pZ9s793JnnIIJj4eZHpZW) | [Lonely In Tokyo \(Japanese version\)](https://open.spotify.com/album/7pwSjRT1WP2wMNbQqU0lQd) | 3:14 |
+| 30 | [Lonely In Tokyo \(Japanese version\)](https://open.spotify.com/track/1DuQO5Rd1nM3phSLXIDcPa) | [MIREI](https://open.spotify.com/artist/7pZ9s793JnnIIJj4eZHpZW) | [Lonely In Tokyo EP \(JPN\)](https://open.spotify.com/album/7pwSjRT1WP2wMNbQqU0lQd) | 3:14 |
 | 31 | [ゴースト](https://open.spotify.com/track/0aBb5sdeZyojEd5cVD9UKb) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [Mix Wave](https://open.spotify.com/album/02IbI9D14DVwwU7ZXJz0vd) | 3:47 |
 | 32 | [Run](https://open.spotify.com/track/47D4W2Heqb7XHKSdiuI0dZ) | [Panorama Panama Town](https://open.spotify.com/artist/7sfAmVy66Zdt9ykZwcg7hf) | [Run](https://open.spotify.com/album/3t7CqRlWGw1hsDXZ5yKUkZ) | 3:49 |
 | 33 | [MORNINGRISE](https://open.spotify.com/track/3ZmuvMWz1of98dbuKkjSR0) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [Heavenly Heavenly](https://open.spotify.com/album/219OTmvtVH4PzBiDWYLGp0) | 3:18 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 69 | [薄明光線](https://open.spotify.com/track/7GBcaDq8SWxon97pOWXQEI) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [薄明光線](https://open.spotify.com/album/71PaUDkhfU8KRaIF7UDqlN) | 3:27 |
 | 70 | [わからないよな](https://open.spotify.com/track/7Ity0z6dLFuP42PnkmkYgu) | [Hwyl](https://open.spotify.com/artist/6bYzlsbs269Xa3z6L5OfjC) | [わからないよな](https://open.spotify.com/album/36zXcsDPeCVntMrnxAyb06) | 3:03 |
 
-Snapshot ID: `MCw4YWI1ZGM3ZmNkZjQ5M2FkNDcwMGQ0MTcxMzRkNDU0NDkzNjdkNTBk`
+Snapshot ID: `MCw4ZGIwNWNjZDIyNjI5ZTFmMjJkNGYzZjljZWI5ZTBmYzIwYTFhMDUx`

@@ -661,6 +661,24 @@
     },
     {
       "album": {
+        "name": "Arigato Mama",
+        "url": "https://open.spotify.com/album/70gkTjKai4oN4fEtDXL8Ce"
+      },
+      "artists": [
+        {
+          "name": "Dj Yutaka",
+          "url": "https://open.spotify.com/artist/6PjCaQSdfVd1YIdO3vnsAn"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189058,
+      "name": "Arigato Mama",
+      "url": "https://open.spotify.com/track/2yxnnVeeS0s4hUqhFiDEdi"
+    },
+    {
+      "album": {
         "name": "ARUKAS",
         "url": "https://open.spotify.com/album/33OiJXL1eRdwzz9nmjQyRA"
       },
@@ -3900,6 +3918,24 @@
       "duration_ms": 153600,
       "name": "harukaze",
       "url": "https://open.spotify.com/track/0XflCyWk28wErpgiBPnNTK"
+    },
+    {
+      "album": {
+        "name": "Heavy Rain",
+        "url": "https://open.spotify.com/album/06Q46ZGejs53a5s5AxRC3c"
+      },
+      "artists": [
+        {
+          "name": "Bayek",
+          "url": "https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98092,
+      "name": "Heavy Rain",
+      "url": "https://open.spotify.com/track/0D7VlZ5PRHvjGMARkvwyne"
     },
     {
       "album": {
@@ -9680,7 +9716,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 158117,
       "name": "Swing",
       "url": "https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f"
@@ -10854,7 +10890,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 181490,
       "name": "Whispers in the Night",
       "url": "https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH"

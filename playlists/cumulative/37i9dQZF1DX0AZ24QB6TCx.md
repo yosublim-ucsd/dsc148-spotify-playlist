@@ -4,7 +4,7 @@
 
 > Relax with deep house and electronica.
 
-274 songs - 23 hr 59 min
+275 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Backfirewall](https://open.spotify.com/track/6OlAoJfP8wnzaxrRLBXN87) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Backfirewall \(Original Soundtrack\)](https://open.spotify.com/album/0QJcQdc8GPPjdgPwDbQ2md) | 6:14 | 2023-02-18 | 2023-03-07 |
 | [Balearic Sea](https://open.spotify.com/track/7o0ahnxkovZvbwvg7YdMzi) | [Sound Nomaden](https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0) | [Balearic Sea](https://open.spotify.com/album/6xFK1n3vVBXu9ru7pXZotB) | 5:29 | 2021-12-23 | 2022-07-28 |
 | [Base Reality \- Antaares Remix](https://open.spotify.com/track/4xo87kmiqKGCTVTrBqPD1W) | [Anthoni Logos](https://open.spotify.com/artist/06ZsompcifB8IYCLO9IOii), [Antaares](https://open.spotify.com/artist/4a6SWpboKXeExMh2XbSHC3) | [Base Reality \(Antaares Remix\)](https://open.spotify.com/album/4Fslu3ieumSyp9b6DoQt8b) | 7:23 | 2021-12-23 | 2022-07-13 |
+| [Baume](https://open.spotify.com/track/2EDg4ZWpHuR7R5u9UfGotf) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Baume](https://open.spotify.com/album/7v6fD9x1QdVMaIWKTYzoF9) | 4:20 | 2023-05-05 |  |
 | [Because You Move Me](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI) | 3:16 | 2022-06-17 | 2022-10-01 |
 | [Because You Move Me](https://open.spotify.com/track/6ngjb2Je6gEjjVOOQpWSWG) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/2PCqp6l2SH33VkuAiFPKfS) | 3:16 | 2021-12-23 | 2022-07-08 |
 | [Beings of Light](https://open.spotify.com/track/7i1bsnDcFv4dnR4aIPjSGv) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Beings of Light](https://open.spotify.com/album/3KvI086EChgYtumVqRzDWM) | 6:12 | 2022-04-04 | 2022-04-21 |
@@ -86,7 +87,7 @@
 | [Follow \(Extended Mix\)](https://open.spotify.com/track/7eMdP75WNeu2y8VpKzmfYX) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [GIVVEN](https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly) | [Follow](https://open.spotify.com/album/5lOpduLiv7Cexz1YUWtk5w) | 4:56 | 2021-12-23 | 2022-11-09 |
 | [Follow the Light \- Monkey Safari Remix](https://open.spotify.com/track/7k5PvrXwrqHywiAv4Tr75I) | [Dapayk solo](https://open.spotify.com/artist/0vz3JBcXuyp4QefXwtD0Lp), [VARS](https://open.spotify.com/artist/7dqsxiqiRG5upZhT4bTBd1), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Follow the Light](https://open.spotify.com/album/6EHwa2mEEpPHZKrp12IBWN) | 6:07 | 2021-12-23 | 2022-07-28 |
 | [Fool's Gold \- ARPS Mix](https://open.spotify.com/track/3sN4ihJMrBfOZAU3PqlLc3) | [Karol XVII & MB Valence](https://open.spotify.com/artist/00LIVantW8SMg38JskHPbj), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy), [ARPS](https://open.spotify.com/artist/1wSPM7Q7HYvFPLFk2Ei3nk) | [Fool's Gold](https://open.spotify.com/album/6o5F69DTHxW2YlzeJwrjl8) | 7:00 | 2022-01-14 | 2022-07-29 |
-| [Forever](https://open.spotify.com/track/7ggbnV69yPxLieDPQKTCdD) | [Effemar](https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB) | [Forever](https://open.spotify.com/album/57jWVRYI86FwpN92ZvRb9X) | 3:12 | 2022-11-16 |  |
+| [Forever](https://open.spotify.com/track/7ggbnV69yPxLieDPQKTCdD) | [Effemar](https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB) | [Forever](https://open.spotify.com/album/57jWVRYI86FwpN92ZvRb9X) | 3:12 | 2022-11-16 | 2023-05-12 |
 | [Forget You](https://open.spotify.com/track/5aFD0QPy4BQqUq39l0o5HD) | [Lemon & Herb](https://open.spotify.com/artist/0YbodxZ8dsnWW002EWS51w), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Aura](https://open.spotify.com/album/60qadrHOmLoafmRjgRw3BS) | 4:48 | 2021-12-23 |  |
 | [Forrest Glade](https://open.spotify.com/track/77fSqYrYJI2RelDOIUE2e7) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Forrest Glade](https://open.spotify.com/album/7hRyQtQhYkVC0QQV3D5F2r) | 7:17 | 2021-12-23 |  |
 | [Foxglove \- PALLADIAN Remix](https://open.spotify.com/track/6mgD9X3y4hhy0mhKnlYF8B) | [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG), [PALLADIAN](https://open.spotify.com/artist/6XZx83KcYOarkuCd6fZBm3) | [Oasis Sky \(Remixes\)](https://open.spotify.com/album/0SPKzHlhMuoAeQoRwJWCgb) | 6:12 | 2022-02-18 | 2022-07-29 |

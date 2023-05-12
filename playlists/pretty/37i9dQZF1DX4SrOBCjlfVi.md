@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Lil Baby, DaBaby, and more\. Cover: Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,116 likes - 51 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,244 likes - 51 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 50 | [Been Here Before](https://open.spotify.com/track/3oSh9cXjrOqKcGXDpWCndn) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w) | [Been Here Before](https://open.spotify.com/album/7eXL8w60EH5cpkW4LpqjAM) | 3:52 |
 | 51 | [For a Long Time](https://open.spotify.com/track/4ptNuOJcx7V7FNTxkXCxNz) | [Star Pitchee](https://open.spotify.com/artist/77bGnvwtUdvzBMyo2kqutl), [Quincy](https://open.spotify.com/artist/19dpHprxtijzCuWbrtmGrL) | [For a Long Time](https://open.spotify.com/album/5xmkG61QhE8AfNxCMrNidR) | 3:29 |
 
-Snapshot ID: `MCwxOGEyZjQxNzRiY2QwNmNiOGJmMGQzYTY5YzczOTNhYTk1OTdhMmVi`
+Snapshot ID: `MCwxMGM4MDE2ODFhZjQzY2IyZTJmZGZjMzU5ZDJjZTkyYzkyMWEyMWI2`

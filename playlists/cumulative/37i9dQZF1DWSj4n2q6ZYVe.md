@@ -4,7 +4,7 @@
 
 > The biggest dance floor bangers of the 2000s.
 
-106 songs - 6 hr 50 min
+107 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,10 +69,11 @@
 | [Make Luv](https://open.spotify.com/track/6xXEw4y39shgIp6pacKQFH) | [Room 5](https://open.spotify.com/artist/0AEbDFXbsssoSoC3pj91eq), [Oliver Cheatham](https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic) | [Music & You](https://open.spotify.com/album/0RgHM6Ii7TsvTNicfHQ5mH) | 3:32 | 2021-04-29 |  |
 | [Moan \- Trentemøller Remix](https://open.spotify.com/track/7a4BMX5kI8P2CqXZrwoyrC) | [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS) | [Moan](https://open.spotify.com/album/5VCaYL3hnkXlbRKuDXyvzU) | 7:25 | 2021-04-29 |  |
 | [Mr\. Vain Recall \- Radio Edit](https://open.spotify.com/track/2JjDgorBAd8Er6IS5Weyok) | [Culture Beat](https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8) | [Mr\. Vain Recall](https://open.spotify.com/album/2MbfEf37mAAu6LM5emtIIO) | 3:33 | 2021-04-29 |  |
-| [Nessaja](https://open.spotify.com/track/4kFmRFE9YzjKnUCbXQKnag) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [20 Years of Hardcore \(Remastered\)](https://open.spotify.com/album/3y02W7Qv7zFB85ApapWbVt) | 3:28 | 2021-04-29 |  |
+| [Nessaja](https://open.spotify.com/track/4kFmRFE9YzjKnUCbXQKnag) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [20 Years of Hardcore](https://open.spotify.com/album/3y02W7Qv7zFB85ApapWbVt) | 3:28 | 2021-04-29 |  |
 | [Now You're Gone \(feat\. DJ Mental Theo's Bazzheadz\) \- Video Edit](https://open.spotify.com/track/5Nr1ZcH9PGTiQdGl9HCCS1) | [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q), [DJ Mental Theos Bazzheadz](https://open.spotify.com/artist/0zVBfaGL0d4vtZZuZWv9lt) | [Now You're Gone \- The Album](https://open.spotify.com/album/1UjziXy5WUcJkEkmHJKLDZ) | 2:28 | 2021-04-29 |  |
 | [Omen](https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Invaders Must Die](https://open.spotify.com/album/13PiGMs22YuX1kq7w8WNGM) | 3:36 | 2021-04-29 |  |
-| [One \(Always Hardcore\)](https://open.spotify.com/track/076xVAqkadBKbU7kI7yXaV) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [20 Years of Hardcore \(Remastered\)](https://open.spotify.com/album/3y02W7Qv7zFB85ApapWbVt) | 3:50 | 2021-04-29 |  |
+| [One \(Always Hardcore\)](https://open.spotify.com/track/43mBap9Sm9WSCJLRHFLPMD) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [Jumping All over the World \- Whatever You Want](https://open.spotify.com/album/1ButVLMR9X4DsuSQpz2UDy) | 3:49 | 2021-04-29 |  |
+| [One \(Always Hardcore\)](https://open.spotify.com/track/076xVAqkadBKbU7kI7yXaV) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [20 Years of Hardcore \(Remastered\)](https://open.spotify.com/album/3y02W7Qv7zFB85ApapWbVt) | 3:50 | 2021-04-29 | 2023-05-12 |
 | [One More Time](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:20 | 2021-04-29 |  |
 | [Pjanoo \- Radio Edit](https://open.spotify.com/track/0F2BxpbxH8Yc3pLub48hrb) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Pjanoo](https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x) | 2:37 | 2021-04-29 |  |
 | [Played\-A\-Live \(The Bongo Song\)](https://open.spotify.com/track/7uuo02BIR76qZ6ZXQhz7Ys) | [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl) | [Episode ll](https://open.spotify.com/album/52ttYpaN6OzZLAcqpjVhyh) | 6:45 | 2021-04-29 |  |

@@ -4,7 +4,7 @@
 
 > it's a generation ⛓ ft\. delilah bon
 
-532 songs - 1 day 2 hr 35 min
+534 songs - 1 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [Ohio is for Lovers](https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Ohio is for Lovers](https://open.spotify.com/album/3xCjB3Cd9KsxnLciMdE331) | 3:52 | 2022-02-11 | 2022-04-01 |
 | [Okay That's Me](https://open.spotify.com/track/4GwpXgHffb9W4tW7Ee8uAn) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Okay That's Me](https://open.spotify.com/album/1AlRwqxW1pi4JxP3jthq58) | 3:11 | 2022-11-25 | 2023-02-17 |
 | [old tattoos](https://open.spotify.com/track/3EhIdQSKO7AwGK9of76U0Z) | [st jimmy](https://open.spotify.com/artist/5zD5ON7D7uhlChBmRNPacV) | [old tattoos](https://open.spotify.com/album/3o3DDHOfxhoxrGXxXNRCCP) | 2:29 | 2022-01-14 | 2022-02-11 |
+| [omg](https://open.spotify.com/track/4wQlMwDDOxTY91kk5B7Y77) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [omg](https://open.spotify.com/album/3EjgHtmVkvOdn2OM5vAOQm) | 2:34 | 2023-05-11 |  |
 | [ONLY FANS](https://open.spotify.com/track/3k3hPsyEiJovWqmwwQ3nR9) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [3](https://open.spotify.com/album/10LJ6xc4AmjUcXOSKwkFfn) | 1:36 | 2023-03-30 |  |
 | [ONLY FANS](https://open.spotify.com/track/799apJE8jCPHt96YotvOfI) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [3](https://open.spotify.com/album/1Etoiql9stygnFngHYH0a3) | 1:36 | 2023-03-24 | 2023-04-07 |
 | [Outlook](https://open.spotify.com/track/0CrmP1WCDoi6nWm0Bn49cy) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Outlook](https://open.spotify.com/album/1cNp3BCSszUndzImSMZw07) | 3:51 | 2023-04-20 |  |
@@ -354,6 +355,7 @@
 | [Paranoid](https://open.spotify.com/track/2pLqMA9nKEHLLfBGHroLOh) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Fever Dream](https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h) | 4:17 | 2022-10-31 | 2023-01-13 |
 | [Paranoid](https://open.spotify.com/track/6gGS0hjDNTPXlCowTPou0X) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Paranoid](https://open.spotify.com/album/4v7M2QPlvrPIZvMTnAO082) | 4:17 | 2022-03-31 | 2022-07-29 |
 | [Parasocial \(feat\. Mark Hoppus\)](https://open.spotify.com/track/02ZcHMPCRSV7u5SMkN8XO2) | [Ricky Himself](https://open.spotify.com/artist/5vz4AsHBUwAQ7qrhG5yyBS), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [Parasocial \(feat\. Mark Hoppus\)](https://open.spotify.com/album/6o9Z4lpxjIylszd1wn3B5p) | 3:05 | 2022-02-11 | 2022-04-01 |
+| [PARTY ON MY DEATHBED](https://open.spotify.com/track/3qh27miHE2KwwDQcSVFTXS) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [PARTY ON MY DEATHBED](https://open.spotify.com/album/4WbHJLxoavNl9tztIdSclB) | 3:28 | 2023-05-11 |  |
 | [Partycrasher](https://open.spotify.com/track/5QfVA7ZS9RtZCefzNedeIe) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [Partycrasher](https://open.spotify.com/album/2Vbn9c20CFkn25VxtztPzo) | 3:09 | 2022-02-11 | 2022-05-13 |
 | [Pass The Nirvana](https://open.spotify.com/track/5SDhI2jKg0S5fzEEqPCHiV) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Pass The Nirvana](https://open.spotify.com/album/50eq5hUKnqB9e51D9GSmKs) | 3:17 | 2022-10-20 | 2022-11-01 |
 | [Payday](https://open.spotify.com/track/5weGHw9KN20uSK9xDASTL5) | [stayMellow](https://open.spotify.com/artist/6RhEqjb8lmpdjfU0oqCilk) | [feel](https://open.spotify.com/album/7B48GwRLSXbZpfrOhjbR8x) | 2:36 | 2022-05-12 | 2022-06-10 |

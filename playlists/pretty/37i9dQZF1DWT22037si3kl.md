@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: Vulgo FK, Kyan
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,545 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,840 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [Silenciador](https://open.spotify.com/track/3biKlRmlBqKIFDEbTGGC1S) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Silenciador](https://open.spotify.com/album/0R7Z7BN0utY3V8e1MOWmxM) | 2:44 |
 | 50 | [Ouro Rose](https://open.spotify.com/track/7CISV57Tvy6FeeRoUV0Mov) | [rarefireboy](https://open.spotify.com/artist/6O5EY8Q7cx4MFhbgcUIAZ8), [St.Borges](https://open.spotify.com/artist/1Yc7h842kGeQTZfdSVQtrQ), [Drey](https://open.spotify.com/artist/5U8u5F9IqRQrUAut8by0wN) | [Ouro Rose](https://open.spotify.com/album/7cck41bWwvuVgc20hPXgCC) | 2:35 |
 
-Snapshot ID: `MCwwZjhhNjZlMjk1MmU5ODFiYjc3NjFiM2M5MGVmZjgwZDRmMjI3Njdk`
+Snapshot ID: `MCwyMGEyODczZDdkYTBkZjBkNmNlY2Q2MmFhZDAzMGVlODljNDZjYzBk`

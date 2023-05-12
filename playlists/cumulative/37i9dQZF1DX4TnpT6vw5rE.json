@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "L'Eixample",
+        "url": "https://open.spotify.com/album/1lfCe8KBQcAdEttuWRuao5"
+      },
+      "artists": [
+        {
+          "name": "Near The Parenthesis",
+          "url": "https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424866,
+      "name": "A Brief Walk in the Sea",
+      "url": "https://open.spotify.com/track/5F1vyDlHJfC8APmTQbrWmK"
+    },
+    {
+      "album": {
         "name": "L'eixample",
         "url": "https://open.spotify.com/album/5DLrneBHg2tNEXr6sM6pzx"
       },
@@ -286,7 +304,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 196923,
       "name": "Ancestral Twilight",
       "url": "https://open.spotify.com/track/6jNXaXr3gZejkWlsjVBERQ"

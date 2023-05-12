@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Shiva",
+  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Sfera Ebbasta, Ozuna, GIMS, Aribeatz",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -340,6 +340,28 @@
       "duration_ms": 153520,
       "name": "ARMAGEDDON",
       "url": "https://open.spotify.com/track/3hCEneoWEdtkYfiWPgbhzr"
+    },
+    {
+      "album": {
+        "name": "Aspettative (feat. Medy)",
+        "url": "https://open.spotify.com/album/3J0jkkvPh2SxG2kHauCRWi"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        },
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Aspettative (feat. Medy)",
+      "url": "https://open.spotify.com/track/4qEfhwGPxuryUCtVdA14lV"
     },
     {
       "album": {
@@ -1764,7 +1786,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 186285,
       "name": "DIMMI CHE (feat. Bresh & Neima Ezza)",
       "url": "https://open.spotify.com/track/3QVmR6UVx3gXtnUm6AWtwr"
@@ -3270,7 +3292,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 206341,
       "name": "LEWANDOWSKI X",
       "url": "https://open.spotify.com/track/6dM0fBNHPBLcpfK0UCft5h"
@@ -4084,6 +4106,28 @@
       "duration_ms": 227005,
       "name": "No Love (feat. CoCo)",
       "url": "https://open.spotify.com/track/3EtI6sLY2w2l4oCQ1JSI5m"
+    },
+    {
+      "album": {
+        "name": "LOVE IS WAR",
+        "url": "https://open.spotify.com/album/5kWaIJ06SZgSyNTUpsUR3K"
+      },
+      "artists": [
+        {
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161853,
+      "name": "NO LOVE (feat. Tony Effe)",
+      "url": "https://open.spotify.com/track/55PcknO9mJhaB4eAuXW0Ch"
     },
     {
       "album": {
@@ -5645,6 +5689,28 @@
     },
     {
       "album": {
+        "name": "SON FATTO COS\u00cc",
+        "url": "https://open.spotify.com/album/6wQFQlu9RJDpVd4OigS5nS"
+      },
+      "artists": [
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        },
+        {
+          "name": "Bobo",
+          "url": "https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173408,
+      "name": "SON FATTO COS\u00cc",
+      "url": "https://open.spotify.com/track/2Q79rIelEvPfzLfqYwGbLX"
+    },
+    {
+      "album": {
         "name": "CRISTI E DIAVOLI",
         "url": "https://open.spotify.com/album/1HORxlpvyOlVXnBGuU7DRC"
       },
@@ -5672,7 +5738,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 212781,
       "name": "Spacciasogni (feat. Side Baby)",
       "url": "https://open.spotify.com/track/1BDWaC7SEcet98CSDig0LJ"

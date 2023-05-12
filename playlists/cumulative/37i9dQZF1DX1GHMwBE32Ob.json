@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The sounds keeping the streets of Nigeria on fire. \nCover: Zlatan",
+  "description": "The sounds keeping the streets of Nigeria on fire. \nCover: Naira Marley",
   "name": "Street Energy ",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 132911,
       "name": "+234",
       "url": "https://open.spotify.com/track/371o3VFIoEDH6crkA42Kxy"
@@ -294,6 +294,24 @@
       "duration_ms": 193426,
       "name": "Banga",
       "url": "https://open.spotify.com/track/2aoXJ2B1v1OEqHGxdv1gEy"
+    },
+    {
+      "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/17voJtUJhl79b5WgXT0ttE"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126671,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/1Ut1vSnb0hM58jFbPVhZaC"
     },
     {
       "album": {
@@ -954,7 +972,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 141068,
       "name": "Ikebe Supa",
       "url": "https://open.spotify.com/track/7FBXDNS5zK0BBltUjXnttC"
@@ -1105,7 +1123,7 @@
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 178831,
+      "duration_ms": 177915,
       "name": "Kpe Paso",
       "url": "https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S"
     },
@@ -1450,6 +1468,28 @@
       "duration_ms": 155005,
       "name": "No Peace (Violence)",
       "url": "https://open.spotify.com/track/1uQqjEsdd6LEKpfZxAeIIl"
+    },
+    {
+      "album": {
+        "name": "NSV",
+        "url": "https://open.spotify.com/album/1gwsiUC5ZULw2kvzFOGYYB"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188372,
+      "name": "NSV",
+      "url": "https://open.spotify.com/track/7sIUw9iU1eVB0qq3wFrwBb"
     },
     {
       "album": {

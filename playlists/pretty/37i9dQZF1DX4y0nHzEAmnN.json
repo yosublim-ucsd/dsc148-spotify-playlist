@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmI5OTZiMDg5M2E1MzgyOTI0YTlmYWU4NDAyMjg4MzE0ZDAzZDA2",
+  "snapshot_id": "MCxhM2RlNDM0OTA3MzAyMmUzMzBiNzk4ZjY1NDdlNGI3NmVlOWE4YWM5",
   "tracks": [
     {
       "added_at": "2023-03-17 09:43:03",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
+        "name": "Fantastic Voyages",
+        "url": "https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7"
+      },
+      "artists": [
+        {
+          "name": "of Montreal",
+          "url": "https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O"
+        }
+      ],
+      "duration_ms": 92170,
+      "name": "Brush Brush Brush",
+      "url": "https://open.spotify.com/track/7HzQisHGh5gaizlXEuXtBx"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
         "name": "Sofia the First: Once Upon a Princess",
         "url": "https://open.spotify.com/album/60YMCDFuBPIl0vmyEkaVrF"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 109896,
       "name": "Nice 'N' Clean",
       "url": "https://open.spotify.com/track/2iLdeJktl6Q1cp7NJp0pIU"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
-        "name": "Fantastic Voyages",
-        "url": "https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7"
-      },
-      "artists": [
-        {
-          "name": "of Montreal",
-          "url": "https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O"
-        }
-      ],
-      "duration_ms": 92170,
-      "name": "Brush Brush Brush",
-      "url": "https://open.spotify.com/track/7HzQisHGh5gaizlXEuXtBx"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
+        "name": "Rocknoceros",
+        "url": "https://open.spotify.com/album/4eub8hBkToROharOKy0U6s"
+      },
+      "artists": [
+        {
+          "name": "Rocknoceros",
+          "url": "https://open.spotify.com/artist/6vEKt6eIx5Cnd0KzbNlwyD"
+        }
+      ],
+      "duration_ms": 201946,
+      "name": "Washing My Hands",
+      "url": "https://open.spotify.com/track/0QUoJpzAzY9Rgw0C9T1U3B"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
         "name": "English Pitinglish",
         "url": "https://open.spotify.com/album/5opZvBrL0N2jSFyGwvOvoZ"
       },
@@ -751,18 +767,18 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Rocknoceros",
-        "url": "https://open.spotify.com/album/4eub8hBkToROharOKy0U6s"
+        "name": "Las 4 Estaciones, vol. 11",
+        "url": "https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2"
       },
       "artists": [
         {
-          "name": "Rocknoceros",
-          "url": "https://open.spotify.com/artist/6vEKt6eIx5Cnd0KzbNlwyD"
+          "name": "Trepsi",
+          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
         }
       ],
-      "duration_ms": 201946,
-      "name": "Washing My Hands",
-      "url": "https://open.spotify.com/track/0QUoJpzAzY9Rgw0C9T1U3B"
+      "duration_ms": 58644,
+      "name": "Sonidos al Comer",
+      "url": "https://open.spotify.com/track/1KxnLbLVUYYdKlCF2uYezh"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -783,22 +799,6 @@
       "duration_ms": 103147,
       "name": "Exercise Time",
       "url": "https://open.spotify.com/track/0qquzf6BNSWNIDPqj83c3Q"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
-        "name": "Las 4 Estaciones, vol. 11",
-        "url": "https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2"
-      },
-      "artists": [
-        {
-          "name": "Trepsi",
-          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
-        }
-      ],
-      "duration_ms": 58644,
-      "name": "Sonidos al Comer",
-      "url": "https://open.spotify.com/track/1KxnLbLVUYYdKlCF2uYezh"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Papa Goose",
-        "url": "https://open.spotify.com/album/4zWFpydTMsliKYcyo28E5j"
+        "name": "Pink!",
+        "url": "https://open.spotify.com/album/5LdIdJQ3KuAnfeYuWnULAE"
       },
       "artists": [
         {
-          "name": "Nat Hussey",
-          "url": "https://open.spotify.com/artist/3oWcz5Uc7Nf1DsBGJ0HQQA"
+          "name": "Rocknoceros",
+          "url": "https://open.spotify.com/artist/6vEKt6eIx5Cnd0KzbNlwyD"
         }
       ],
-      "duration_ms": 89306,
-      "name": "Wash The Dishes",
-      "url": "https://open.spotify.com/track/4jnTmG0SuHvTZ70Ea1gVnZ"
+      "duration_ms": 184600,
+      "name": "Nappin' Time",
+      "url": "https://open.spotify.com/track/5pI482wCmSObEDLo14dPDl"
     }
   ],
   "unique_name": "Daily Rutina",

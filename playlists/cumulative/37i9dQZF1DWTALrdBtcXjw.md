@@ -4,7 +4,7 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-257 songs - 23 hr 11 min
+258 songs - 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 | [Prelude to a Kiss](https://open.spotify.com/track/5utG7gaVcIMMDJbJQ09q1L) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Prelude to a Kiss](https://open.spotify.com/album/7EzWxXhnVRz8iTm2y0keaQ) | 5:20 | 2022-02-18 | 2022-07-29 |
 | [Prelude to a Kiss](https://open.spotify.com/track/04GQoL73mzVbe6GX7cwSKB) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Relaxin'](https://open.spotify.com/album/7mbbHojRg6i6tGjKrMogsJ) | 5:20 | 2022-07-28 | 2022-08-31 |
 | [Pretty Women](https://open.spotify.com/track/6qTF7EjSSecc1rip7xckgN) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Crime Zone](https://open.spotify.com/album/45XJNADDsniF16VElBvwr8) | 6:21 | 2020-03-31 | 2022-12-24 |
-| [Prim and Proper](https://open.spotify.com/track/0lKSaaoD9mahyjY8CyPf5l) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [Prim and Proper](https://open.spotify.com/album/0cjVktnBaEkIW0KiIOsHYW) | 5:28 | 2023-03-02 |  |
+| [Prim and Proper](https://open.spotify.com/track/0lKSaaoD9mahyjY8CyPf5l) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [Prim and Proper](https://open.spotify.com/album/0cjVktnBaEkIW0KiIOsHYW) | 5:28 | 2023-03-02 | 2023-05-12 |
 | [Pure Imagination](https://open.spotify.com/track/2HNYhs4PO9yCuAOS9srcHP) | [Kendra Collins Band](https://open.spotify.com/artist/2VEg5RG7lT8Ej8ZDf63MrO) | [Pure Imagination](https://open.spotify.com/album/5lVkJUkfgzHhpPKYiv3jhK) | 5:15 | 2022-11-12 | 2022-12-24 |
 | [Pure Imagination](https://open.spotify.com/track/1EcSvZ9Kq0EAohVfPcHToh) | [Rob Barron](https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd) | [Pure Imagination](https://open.spotify.com/album/1a2ltY23XnBtmf47BRtKVK) | 5:58 | 2022-02-18 | 2022-04-15 |
 | [Rain Waltz](https://open.spotify.com/track/3HMysWiZrkfQhSdX5OqQcq) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1eJhAsuavF6CLIN9tgCzhx) | 7:01 | 2022-09-06 | 2022-10-08 |
@@ -247,6 +247,7 @@
 | [Theme For Ernie](https://open.spotify.com/track/0XXHKJqxoDfr5dzmqFlTVO) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Altitude](https://open.spotify.com/album/6oCVoCOJDG6LH3njz2ej4A) | 5:04 | 2020-03-31 | 2022-07-29 |
 | [Theme for Ernie](https://open.spotify.com/track/5duSC0GiQTYs2fdYnS4Qx5) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Altitude](https://open.spotify.com/album/6PXMUQ2FQ4TY34Fr7wFQ3K) | 5:04 | 2022-07-28 |  |
 | [There Should Be](https://open.spotify.com/track/4OWELAW8bSXtGVdEm0atsP) | [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR) | [There Should Be](https://open.spotify.com/album/5cj8BBEipY6So0TWG7TLJq) | 4:38 | 2022-08-30 |  |
+| [There Will Never Be Another You](https://open.spotify.com/track/3Jj4zXCs23YMLcEFODQsfY) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [There Will Never Be Another You](https://open.spotify.com/album/7B3cO9ADwtUAV1vV3vCawT) | 3:55 | 2023-05-11 |  |
 | [There's A Small Hotel](https://open.spotify.com/track/1vd6bplZvB2edAjNd9bR7l) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Uptown, Downtown](https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM) | 6:41 | 2020-03-31 |  |
 | [This Morning](https://open.spotify.com/track/27dFurQnD2C32fvTEcBS4V) | [Thomas Agergaard](https://open.spotify.com/artist/7nO0nJPGNCS2JIL91ifpJ8), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS), [Lennart Ginman](https://open.spotify.com/artist/2s2DJXB8q7ahN97T2gAeKX), [Anders Kjellberg](https://open.spotify.com/artist/0D3y6CpkVuUv11mosURP98) | [This Morning](https://open.spotify.com/album/4dUC48CIoIQfW6oSQFbhJs) | 5:04 | 2022-02-18 | 2022-10-08 |
 | [Tidal Breeze](https://open.spotify.com/track/4TRyfSh9IzlprJbTlMrWxl) | [Passport Quartet](https://open.spotify.com/artist/1sKCem3MqxDHeM5F5zAKfy), [Raphaël Imbert](https://open.spotify.com/artist/2FLekZm435IfyjMhb0JCIg) | [Invitation](https://open.spotify.com/album/6D6xpmmZhAg25csbBX8leD) | 1:13 | 2020-03-31 | 2022-04-21 |

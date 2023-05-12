@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PFzdbtx1Us.md) - [plain]
 
 > Minimalism, electronica and modern classical to concentrate to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,220,162 likes - 73 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,220,133 likes - 73 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PFzdbtx1Us.md) - [plain]
 | 72 | [City Lights](https://open.spotify.com/track/041EqVueOI4pszWGJfKerh) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [City Lights](https://open.spotify.com/album/5edrSUkO57ts9EwVVjvPAx) | 2:06 |
 | 73 | [Allisone](https://open.spotify.com/track/43CBnlr309XH9gyu8cIHSl) | [Steven Windhaug](https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA) | [Peacefulness](https://open.spotify.com/album/58J3xBeGSPRKHsuNV9mIRF) | 3:31 |
 
-Snapshot ID: `MCxiYWEwODRkMjA2YjEyYTU2ZDQ5OWZkMDM1ZmZkMWNjODk1NDE5MWJk`
+Snapshot ID: `MCw0ZTAzNzJhMWJjMDM5ZDU5MjZlOGQzZWQ2ZDJiODA4YTc5NzYzNWMz`

@@ -4,7 +4,7 @@
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-466 songs - 1 day 3 hr 58 min
+467 songs - 1 day 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,11 +77,12 @@
 | [Bitches and Ceviches](https://open.spotify.com/track/3W9JZp5dMeW8XN69AhUg4I) | [Malamala](https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl) | [Bitches and Ceviches](https://open.spotify.com/album/286q229FNIyWuqzpOanl35) | 4:04 | 2021-10-20 | 2022-07-29 |
 | [Black Catbird](https://open.spotify.com/track/1CkGUqwaz1UfFSo2BmySGI) | [the Garifuna Collective](https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm) | [Black Catbird](https://open.spotify.com/album/67ll9vOLmqydy8lrHVQFKo) | 2:45 | 2021-10-20 | 2023-04-30 |
 | [Black Catbird](https://open.spotify.com/track/4gK1g4edhTvgFoMauswyE1) | [the Garifuna Collective](https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm) | [Black Catbird](https://open.spotify.com/album/0APTIG6nZVYmbKrRsItZxs) | 2:45 | 2021-10-20 | 2022-04-21 |
+| [Black Catbird](https://open.spotify.com/track/6s9n8j05v6iezQO4vdlClA) | [the Garifuna Collective](https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm) | [Black Catbird](https://open.spotify.com/album/2UAjju53cSRuITsu4DNepc) | 2:45 | 2021-10-20 |  |
 | [BocaRosa](https://open.spotify.com/track/0vGYO4f8xV0fqEaS5MPR35) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV) | [Atlas](https://open.spotify.com/album/7f3LiSTyf6uvUqKh1ltlcG) | 3:42 | 2021-10-20 | 2022-05-19 |
 | [Boogaloo Arizona](https://open.spotify.com/track/5kQMrsgCreLtq5DBPwuHfg) | [Orkesta Mendoza](https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT) | [Curandero](https://open.spotify.com/album/6XoMGMJOg5HKxWdKI1kkuW) | 2:03 | 2021-10-20 | 2022-04-20 |
 | [Bossa & People](https://open.spotify.com/track/4yFh5okeS2u5iO5vAsBsHc) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Beatriz](https://open.spotify.com/album/1pWjhnDNd6hDpFGsGT55bR) | 5:02 | 2021-10-20 |  |
 | [Brasil](https://open.spotify.com/track/1l4ef3sRHMVUzLzvt3FkWH) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Brasil](https://open.spotify.com/album/40OPW58oS9yfhzPuyCA8oI) | 3:50 | 2021-10-20 | 2022-07-29 |
-| [Brasil](https://open.spotify.com/track/61D9YBbXp4rkZi7vI9mIwf) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:50 | 2021-10-20 |  |
+| [Brasil](https://open.spotify.com/track/61D9YBbXp4rkZi7vI9mIwf) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:50 | 2021-10-20 | 2023-05-12 |
 | [Buen Viaje](https://open.spotify.com/track/53Jf3ChStU9gJy69jUYRVw) | [Fémina](https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR) | [Traspasa](https://open.spotify.com/album/4SgkWnlMfXsXPJcYArOYTl) | 3:33 | 2021-10-20 |  |
 | [Bésame Morenita](https://open.spotify.com/track/2HiEJnTMam9v7sybIZC5SL) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Bésame Morenita](https://open.spotify.com/album/3ilG3dxJg0MGmDlVnkLeZ5) | 2:45 | 2021-10-20 |  |
 | [Cafecito](https://open.spotify.com/track/6IofZsRQ0fWlKjDHBNBnuH) | [La Ciencia de Juancho Valencia](https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9) | [La Fórmula del Mambo](https://open.spotify.com/album/5jcABCMrlcC4MbVj9gQgZK) | 4:19 | 2021-10-20 |  |

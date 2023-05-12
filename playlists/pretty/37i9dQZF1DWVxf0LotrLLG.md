@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Dalex
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,618 likes - 204 songs - 10 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,658 likes - 204 songs - 10 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -213,4 +213,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 203 | [Los Angeles](https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Sweet & Sour](https://open.spotify.com/album/006vB71xTBRqzQREjfYREf) | 2:43 |
 | 204 | [El Joseo](https://open.spotify.com/track/44nKSGMNqVFV6a60skPUad) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Sweet & Sour](https://open.spotify.com/album/006vB71xTBRqzQREjfYREf) | 3:50 |
 
-Snapshot ID: `MCw3NDU3ZDliNzc4MzRkMmE1MTQxZWI4OTE4Yjc3MmQxZDBhM2Q3NGFk`
+Snapshot ID: `MCwwZjljODA1MzQyNGM3ZjZhMDdmYjEwYTVhYmMwYWVmODA2MWIzODAx`

@@ -1677,6 +1677,24 @@
     },
     {
       "album": {
+        "name": "Balkansko za razkosh",
+        "url": "https://open.spotify.com/album/4Oj9TkiEB3NwEvllZNw9C2"
+      },
+      "artists": [
+        {
+          "name": "Preslava",
+          "url": "https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255833,
+      "name": "Balkansko za razkosh",
+      "url": "https://open.spotify.com/track/5YVQuau9WfYUfFQLme8Hgl"
+    },
+    {
+      "album": {
         "name": "Bam Bam (feat. Ed Sheeran)",
         "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
       },
@@ -3936,7 +3954,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-07",
+      "date_removed": null,
       "duration_ms": 182399,
       "name": "Diagnoza",
       "url": "https://open.spotify.com/track/0w6zm1Y7g6RW4WV68HV6NK"
@@ -16502,7 +16520,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 186772,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/7yKsEFa4qLc9unbFWZWXKt"
@@ -18062,7 +18080,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 195787,
       "name": "Vinagi",
       "url": "https://open.spotify.com/track/0yA4mGnEd1eQyTxBI2H99L"
@@ -20480,7 +20498,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 185006,
       "name": "\u041c\u0430\u0445\u043b\u0435\u043d\u0441\u043a\u0430 \u041b\u0438\u0442\u0443\u0440\u0433\u0438\u044f",
       "url": "https://open.spotify.com/track/1xKmlEOdg968TM16YIJwPX"
@@ -20926,6 +20944,24 @@
       "duration_ms": 251880,
       "name": "\u041e\u0442\u043f\u0443\u0441\u043d\u0438 \u0441\u0435",
       "url": "https://open.spotify.com/track/78ctG4oXFeZOqrr7bcJFE2"
+    },
+    {
+      "album": {
+        "name": "\u041e\u0449\u0435 \u043c\u0430\u043b\u043a\u043e",
+        "url": "https://open.spotify.com/album/1iDj9P9u1ROdSI76IRYN2P"
+      },
+      "artists": [
+        {
+          "name": "Papi Hans",
+          "url": "https://open.spotify.com/artist/27szsMQxZzAUJrm5BmhaNY"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182580,
+      "name": "\u041e\u0449\u0435 \u043c\u0430\u043b\u043a\u043e",
+      "url": "https://open.spotify.com/track/03JBXecSRZxVEaAnFmwAfw"
     },
     {
       "album": {

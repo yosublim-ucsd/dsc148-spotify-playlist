@@ -4,7 +4,7 @@
 
 > Svensk jazz när den är som bäst.
 
-146 songs - 11 hr 12 min
+148 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Alone Again](https://open.spotify.com/track/2zGuiltV7gKrKjJsKssXt3) | [Marie Fredriksson](https://open.spotify.com/artist/4YkPXMsmFf3K2XFHPddqFU), [Max Schultz](https://open.spotify.com/artist/3YOBmFkNme9I1dk58w0lLk), [Magnus Lindgren](https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN) | [Alone Again](https://open.spotify.com/album/2curZu6wCgej263InDSH0t) | 4:31 | 2021-11-08 |  |
 | [Autumn in New York](https://open.spotify.com/track/5OC0qjcuBnOHNjqMCgLE8v) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm) | [Autumn in New York](https://open.spotify.com/album/1Lghm5aLmjNNf2pOl4bYFg) | 2:59 | 2021-11-08 | 2022-07-29 |
 | [Autumn in New York](https://open.spotify.com/track/2skpUMopTEdxq57d3UlPCh) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Ballad Moment](https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl) | 2:59 | 2022-06-22 |  |
+| [Balladen Om Flen](https://open.spotify.com/track/4yRNLg4QwunDblDoeXHQrj) | [Flen](https://open.spotify.com/artist/5yPGRO9r5X2uRHABvGca6D), [Per 'Texas' Johansson](https://open.spotify.com/artist/5NTsQ9DCgO4lgp7HULW66T) | [Välkommen Till](https://open.spotify.com/album/7goDgiCMH0aW3nogyQg32J) | 2:31 | 2023-05-11 |  |
 | [Believe Beleft Below](https://open.spotify.com/track/2Ih0uFDcu54GI18ByA90QS) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Seven Days of Falling](https://open.spotify.com/album/5xQmfqjJTr3Hn6pCmHDVK2) | 4:51 | 2021-11-08 | 2022-07-29 |
 | [Believe, Beleft, Below](https://open.spotify.com/track/2PIuRdfLbshh1Kzcbe0m3w) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Retrospective \- The Very Best of E.S.T.](https://open.spotify.com/album/0puHoJ7qNSdoNQe2ByqJmg) | 4:45 | 2022-10-20 | 2022-11-13 |
 | [Believe, Beleft, Below](https://open.spotify.com/track/1HKZo7knu3IuCJo9JVGz1i) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Seven Days of Falling](https://open.spotify.com/album/36M6vwSgrPqzUYYG4cKlIB) | 4:51 | 2022-06-22 |  |
@@ -46,6 +47,7 @@
 | [Fontanella di Maria](https://open.spotify.com/track/1GiJtZmU6d0JPIv6xLtdYm) | [Nils Berg Cinemascope](https://open.spotify.com/artist/2VACX6wISeQjVQapXgWvm3) | [Basilicata Dreaming](https://open.spotify.com/album/1Tr9H9tqWTfCWEB62i1B6v) | 3:32 | 2023-01-26 |  |
 | [For my lady](https://open.spotify.com/track/7tkyGvCJZbGcF35y71WRtG) | [Filip Jers](https://open.spotify.com/artist/6W86U8ofm64IaGxSTBvMtl) | [For my lady](https://open.spotify.com/album/2NLCnD0lGH6bz8lUsS1PWy) | 3:23 | 2023-03-16 |  |
 | [Forever](https://open.spotify.com/track/0d674LjUXnKVU71XGC7W7R) | [Anders Bergcrantz](https://open.spotify.com/artist/4fOuim8RgJ4BZooUlXc6Bu), [Anders Chico Lindvall](https://open.spotify.com/artist/6DbKaZouvwznDutrp8StZx), [Tomas Franck](https://open.spotify.com/artist/1XHcRuSj7C6bFeRBVJO6Uc), [Sven Erik Lundeqvist](https://open.spotify.com/artist/6laUEu5CORUGLI2GiDHynf), [Lasse Lundstrom](https://open.spotify.com/artist/6sOVv5IiRLmoznTqQRBf6U), [Niclas Campagnol](https://open.spotify.com/artist/1VqIpsJWDzAFIxWXCGCLuL) | [Forever](https://open.spotify.com/album/1bNHrxVoJ2ZFQGr5f6Ahcq) | 5:59 | 2021-11-08 |  |
+| [Friendly Intentions](https://open.spotify.com/track/53NZX1h4XD2c62dIrZty77) | [Musicmusicmusic](https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8) | [Oversized vol\. 2](https://open.spotify.com/album/0ovZN9Tb2NLcrurM8BaS5m) | 6:57 | 2023-05-11 |  |
 | [From Gagarin's Point of View](https://open.spotify.com/track/3QxZooLdeJBAf0x405DDI7) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [From Gagarin's Point of View](https://open.spotify.com/album/1P7f9dheKiUWLPCCQ9RdS1) | 4:03 | 2021-11-08 | 2022-07-29 |
 | [From Gagarin's Point of View](https://open.spotify.com/track/4JWfPMjVEh4SusNs8V3gt5) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [From Gagarin's Point of View](https://open.spotify.com/album/4jM7MG25QkVfp0SSkQ6138) | 4:03 | 2022-06-22 |  |
 | [Följ mig bortåt vägen](https://open.spotify.com/track/6aqolbTJh5D4GpxUnkVJBT) | [Claes Janson](https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712) | [Blågel Blues](https://open.spotify.com/album/6MRzRmxou3bnQk25pbsiee) | 5:28 | 2021-11-08 |  |

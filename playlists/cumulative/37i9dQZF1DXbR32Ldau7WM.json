@@ -1116,7 +1116,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 131680,
       "name": "Drain Water",
       "url": "https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv"
@@ -9706,6 +9706,24 @@
       "duration_ms": 221167,
       "name": "\u66d6\u6627",
       "url": "https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH"
+    },
+    {
+      "album": {
+        "name": "\u6700\u4f4e\u306a\u3068\u3082\u3060\u3061",
+        "url": "https://open.spotify.com/album/1dBBgW5NchBijnKn9h2K0X"
+      },
+      "artists": [
+        {
+          "name": "the dresscodes",
+          "url": "https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273119,
+      "name": "\u6700\u4f4e\u306a\u3068\u3082\u3060\u3061",
+      "url": "https://open.spotify.com/track/0DbObC32hy6ISAqkWrmV13"
     },
     {
       "album": {

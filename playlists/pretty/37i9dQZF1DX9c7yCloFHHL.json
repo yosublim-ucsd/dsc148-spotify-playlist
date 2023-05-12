@@ -1,12 +1,12 @@
 {
   "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. Brian Eno and Fred Again.. on cover.",
-  "num_followers": 150363,
+  "num_followers": 150455,
   "original_name": "Ambiente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTY1ZmMyN2Q2MzNkMGRhOWQyMDdmOWI0ZTg3ODQwZDZhMmM0YWIz",
+  "snapshot_id": "MCxjMGRjZDBjZjc4NWNiNjhjZjVjYzUzZDdjYmY0NDY5MzBmYmZjZWUy",
   "tracks": [
     {
       "added_at": "2023-05-05 18:05:28",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-05-05 18:05:28",
       "album": {
+        "name": "Then",
+        "url": "https://open.spotify.com/album/6Yj7uh3SXxi4OCpy9qTymc"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Then",
+      "url": "https://open.spotify.com/track/5Ij5ddGh0JCn6i6yGoC6Tf"
+    },
+    {
+      "added_at": "2023-05-05 18:05:28",
+      "album": {
         "name": "sweet nothings",
         "url": "https://open.spotify.com/album/0aRSkBysa3PHcNQbKkfDBt"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 151276,
       "name": "ur my safe place",
       "url": "https://open.spotify.com/track/58RZwI0FcNW7pvyEf4Fxhu"
-    },
-    {
-      "added_at": "2023-05-05 18:05:28",
-      "album": {
-        "name": "Then",
-        "url": "https://open.spotify.com/album/6Yj7uh3SXxi4OCpy9qTymc"
-      },
-      "artists": [
-        {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Then",
-      "url": "https://open.spotify.com/track/5Ij5ddGh0JCn6i6yGoC6Tf"
     },
     {
       "added_at": "2023-05-05 18:05:28",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2023-05-05 18:05:28",
       "album": {
-        "name": "everybody's gone home (florence slowed version)",
-        "url": "https://open.spotify.com/album/2y6UfCHwkqPap0k9HuR3tq"
-      },
-      "artists": [
-        {
-          "name": "MADEBYGODES",
-          "url": "https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc"
-        },
-        {
-          "name": "Sedogy Bedam",
-          "url": "https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt"
-        }
-      ],
-      "duration_ms": 171072,
-      "name": "everybody's gone home (florence slowed version)",
-      "url": "https://open.spotify.com/track/722gImw27YEj0Mda9wbabK"
-    },
-    {
-      "added_at": "2023-05-05 18:05:28",
-      "album": {
         "name": "Escape (Hania Rani Remix)",
         "url": "https://open.spotify.com/album/4bTFMcePAn9y936gctFnfQ"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 267330,
       "name": "Escape - Hania Rani Remix",
       "url": "https://open.spotify.com/track/16AWl9fFu1QfT0pGVJWudG"
+    },
+    {
+      "added_at": "2023-05-05 18:05:28",
+      "album": {
+        "name": "everybody's gone home (florence slowed version)",
+        "url": "https://open.spotify.com/album/2y6UfCHwkqPap0k9HuR3tq"
+      },
+      "artists": [
+        {
+          "name": "MADEBYGODES",
+          "url": "https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc"
+        },
+        {
+          "name": "Sedogy Bedam",
+          "url": "https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt"
+        }
+      ],
+      "duration_ms": 171072,
+      "name": "everybody's gone home (florence slowed version)",
+      "url": "https://open.spotify.com/track/722gImw27YEj0Mda9wbabK"
     },
     {
       "added_at": "2023-05-05 18:05:28",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2023-05-05 18:05:28",
       "album": {
-        "name": "Long Cool World",
-        "url": "https://open.spotify.com/album/5y7H3tDoGqmw1w88QKGV8o"
+        "name": "dark snowy night",
+        "url": "https://open.spotify.com/album/0WnATwrpuFPvyTpqxo1R5O"
       },
       "artists": [
         {
-          "name": "North Americans",
-          "url": "https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S"
+          "name": "daniel.mp3",
+          "url": "https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC"
         }
       ],
-      "duration_ms": 316565,
-      "name": "The Nighthawks Are Out",
-      "url": "https://open.spotify.com/track/2j2Uj2jGLu0IUg07oKaUnu"
+      "duration_ms": 211091,
+      "name": "dark snowy night - Slowed & Reverb Version",
+      "url": "https://open.spotify.com/track/05GNWCE3kGfTRIh2Zld3NH"
     },
     {
       "added_at": "2023-05-05 18:05:28",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2023-05-05 18:05:28",
       "album": {
-        "name": "dark snowy night",
-        "url": "https://open.spotify.com/album/0WnATwrpuFPvyTpqxo1R5O"
+        "name": "Long Cool World",
+        "url": "https://open.spotify.com/album/5y7H3tDoGqmw1w88QKGV8o"
       },
       "artists": [
         {
-          "name": "daniel.mp3",
-          "url": "https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC"
+          "name": "North Americans",
+          "url": "https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S"
         }
       ],
-      "duration_ms": 211091,
-      "name": "dark snowy night - Slowed & Reverb Version",
-      "url": "https://open.spotify.com/track/05GNWCE3kGfTRIh2Zld3NH"
+      "duration_ms": 316565,
+      "name": "The Nighthawks Are Out",
+      "url": "https://open.spotify.com/track/2j2Uj2jGLu0IUg07oKaUnu"
     },
     {
       "added_at": "2023-05-05 18:05:28",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-05-05 18:05:28",
       "album": {
-        "name": "Dependent",
-        "url": "https://open.spotify.com/album/5JbxW4BC3aNcqI5waUS1ny"
-      },
-      "artists": [
-        {
-          "name": "Christopher Galovan",
-          "url": "https://open.spotify.com/artist/5LUMGK9eTmZdJJwmDph01c"
-        }
-      ],
-      "duration_ms": 192914,
-      "name": "Dependent",
-      "url": "https://open.spotify.com/track/6Rps2y2XjwvC2SVlpxvMna"
-    },
-    {
-      "added_at": "2023-05-05 18:05:28",
-      "album": {
         "name": "Clara",
         "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 361854,
       "name": "Vespera",
       "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
+    },
+    {
+      "added_at": "2023-05-05 18:05:28",
+      "album": {
+        "name": "Dependent",
+        "url": "https://open.spotify.com/album/5JbxW4BC3aNcqI5waUS1ny"
+      },
+      "artists": [
+        {
+          "name": "Christopher Galovan",
+          "url": "https://open.spotify.com/artist/5LUMGK9eTmZdJJwmDph01c"
+        }
+      ],
+      "duration_ms": 192914,
+      "name": "Dependent",
+      "url": "https://open.spotify.com/track/6Rps2y2XjwvC2SVlpxvMna"
     },
     {
       "added_at": "2023-05-05 18:05:28",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2023-05-05 18:05:28",
       "album": {
-        "name": "Cloudleaping",
-        "url": "https://open.spotify.com/album/1XkHc9Ie65kxukIolLDQ81"
+        "name": "!",
+        "url": "https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U"
       },
       "artists": [
         {
-          "name": "Relief",
-          "url": "https://open.spotify.com/artist/345D7I2CuaqxHTTwD4wlBx"
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
         }
       ],
-      "duration_ms": 152000,
-      "name": "Cloudleaping",
-      "url": "https://open.spotify.com/track/4KZ48xPHiGYVfcXuVBrgM8"
+      "duration_ms": 198901,
+      "name": "acceptances",
+      "url": "https://open.spotify.com/track/1jROgIfuJbniOJdEJ8gBUr"
     },
     {
       "added_at": "2023-05-05 18:05:28",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-05-05 18:05:28",
       "album": {
-        "name": "!",
-        "url": "https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U"
-      },
-      "artists": [
-        {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
-        }
-      ],
-      "duration_ms": 198901,
-      "name": "acceptances",
-      "url": "https://open.spotify.com/track/1jROgIfuJbniOJdEJ8gBUr"
-    },
-    {
-      "added_at": "2023-05-05 18:05:28",
-      "album": {
         "name": "Forget The Curse",
         "url": "https://open.spotify.com/album/1sBp31x3G9tdag3Xjmw0pa"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 379573,
       "name": "Phare",
       "url": "https://open.spotify.com/track/4N92mYGzWCFp8X925TUdSI"
+    },
+    {
+      "added_at": "2023-05-05 18:05:28",
+      "album": {
+        "name": "Cloudleaping",
+        "url": "https://open.spotify.com/album/1XkHc9Ie65kxukIolLDQ81"
+      },
+      "artists": [
+        {
+          "name": "Relief",
+          "url": "https://open.spotify.com/artist/345D7I2CuaqxHTTwD4wlBx"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Cloudleaping",
+      "url": "https://open.spotify.com/track/4KZ48xPHiGYVfcXuVBrgM8"
     },
     {
       "added_at": "2023-05-05 18:05:28",
@@ -1711,38 +1711,6 @@
     {
       "added_at": "2023-05-05 18:05:28",
       "album": {
-        "name": "Recovered",
-        "url": "https://open.spotify.com/album/5q5kFfRgXOMKiiOqk7kBFo"
-      },
-      "artists": [
-        {
-          "name": "Attom",
-          "url": "https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o"
-        }
-      ],
-      "duration_ms": 189908,
-      "name": "Recovered",
-      "url": "https://open.spotify.com/track/6D3nvlKp9mKSKt48N2liGr"
-    },
-    {
-      "added_at": "2023-05-05 18:05:28",
-      "album": {
-        "name": "Solar Winds",
-        "url": "https://open.spotify.com/album/3h6sOEyEuusliYvaxoEcWU"
-      },
-      "artists": [
-        {
-          "name": "Retland",
-          "url": "https://open.spotify.com/artist/3dIuop1jVvVHVqOdB7mDMj"
-        }
-      ],
-      "duration_ms": 254333,
-      "name": "Solar Winds",
-      "url": "https://open.spotify.com/track/5rDCZp2N2REO0ICjB5dVNt"
-    },
-    {
-      "added_at": "2023-05-05 18:05:28",
-      "album": {
         "name": "The Weavers",
         "url": "https://open.spotify.com/album/7A65Zvm39UKY1t1DCVpjPs"
       },
@@ -1755,6 +1723,22 @@
       "duration_ms": 152541,
       "name": "The Weavers",
       "url": "https://open.spotify.com/track/34dBNgalCO1L56XU5xYndy"
+    },
+    {
+      "added_at": "2023-05-05 18:05:28",
+      "album": {
+        "name": "Recovered",
+        "url": "https://open.spotify.com/album/5q5kFfRgXOMKiiOqk7kBFo"
+      },
+      "artists": [
+        {
+          "name": "Attom",
+          "url": "https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o"
+        }
+      ],
+      "duration_ms": 189908,
+      "name": "Recovered",
+      "url": "https://open.spotify.com/track/6D3nvlKp9mKSKt48N2liGr"
     },
     {
       "added_at": "2023-05-05 18:05:28",
@@ -1779,6 +1763,22 @@
       "duration_ms": 286961,
       "name": "So That The City Can Begin To Exist",
       "url": "https://open.spotify.com/track/5EaAEXfa0YHt4wf0r3O0ua"
+    },
+    {
+      "added_at": "2023-05-05 18:05:28",
+      "album": {
+        "name": "Solar Winds",
+        "url": "https://open.spotify.com/album/3h6sOEyEuusliYvaxoEcWU"
+      },
+      "artists": [
+        {
+          "name": "Retland",
+          "url": "https://open.spotify.com/artist/3dIuop1jVvVHVqOdB7mDMj"
+        }
+      ],
+      "duration_ms": 254333,
+      "name": "Solar Winds",
+      "url": "https://open.spotify.com/track/5rDCZp2N2REO0ICjB5dVNt"
     }
   ],
   "unique_name": "Ambiente",

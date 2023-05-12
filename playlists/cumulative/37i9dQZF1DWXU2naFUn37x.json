@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La casa dello street rap italiano. Cover: Niky Savage",
+  "description": "La casa dello street rap italiano. Cover: Mambolosco, Rondodasosa",
   "name": "Street Culto",
   "tracks": [
     {
@@ -562,7 +562,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 160922,
       "name": "AUDI (feat. Rhove & Capo Plaza)",
       "url": "https://open.spotify.com/track/48yJi1ujkozgmtZIYr2Tev"
@@ -2327,6 +2327,24 @@
     },
     {
       "album": {
+        "name": "Fid\u00e8le",
+        "url": "https://open.spotify.com/album/1sMos7HLI4co6zgJ0loIM3"
+      },
+      "artists": [
+        {
+          "name": "8blevrai",
+          "url": "https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157209,
+      "name": "Fid\u00e8le",
+      "url": "https://open.spotify.com/track/04nSLIugSHc12J7v4ansEL"
+    },
+    {
+      "album": {
         "name": "Fratello mio (feat. Baby Gang & Simba La Rue)",
         "url": "https://open.spotify.com/album/0mBnAfPBOCyX7Uzvzuvo0w"
       },
@@ -2419,6 +2437,24 @@
     },
     {
       "album": {
+        "name": "Fumando mary",
+        "url": "https://open.spotify.com/album/4mNC5nXSEAMriMAtFvFYk4"
+      },
+      "artists": [
+        {
+          "name": "Don Pero",
+          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166725,
+      "name": "Fumando mary",
+      "url": "https://open.spotify.com/track/3gYBKTnVf5XVtm9NTvzLku"
+    },
+    {
+      "album": {
         "name": "Fumo Con Lei",
         "url": "https://open.spotify.com/album/0YuiNiDJ0y3sUhRRwBVZEe"
       },
@@ -2430,7 +2466,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 134117,
       "name": "Fumo Con Lei",
       "url": "https://open.spotify.com/track/0Mx0iBrF9xsZeSZlCP0M5s"
@@ -2786,6 +2822,32 @@
       "duration_ms": 191486,
       "name": "Il Ferro di \u010cechov",
       "url": "https://open.spotify.com/track/0fNKABHyuS6JHqmQyZv3fM"
+    },
+    {
+      "album": {
+        "name": "LOVE IS WAR",
+        "url": "https://open.spotify.com/album/5kWaIJ06SZgSyNTUpsUR3K"
+      },
+      "artists": [
+        {
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189323,
+      "name": "ILLUSI (feat. Noyz Narcos & Gu\u00e8)",
+      "url": "https://open.spotify.com/track/1PEjMuFWfpj4Tz4RjGV2Zr"
     },
     {
       "album": {
@@ -3252,7 +3314,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 222506,
       "name": "Lacrime (feat. Zeta Cooper) [D\u00e8sol\u00e8 RMX]",
       "url": "https://open.spotify.com/track/4wjV4XQBpZuGEPVSgXdQPO"
@@ -4385,6 +4447,32 @@
     },
     {
       "album": {
+        "name": "Quarto di Bue",
+        "url": "https://open.spotify.com/album/2KCiV7WqpsT4tZ8ZIEUmFm"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144992,
+      "name": "Porto il Commerciale (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/63sThiYV3Cn2S2r1nRLzjN"
+    },
+    {
+      "album": {
         "name": "Poveri Stronzi",
         "url": "https://open.spotify.com/album/0tqUYwSVhJlIu1BvopoxQt"
       },
@@ -4624,7 +4712,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 106326,
       "name": "Quarto di Bue",
       "url": "https://open.spotify.com/track/2EE4ytQ5LpuyIjDircmLzQ"
@@ -5305,6 +5393,32 @@
     },
     {
       "album": {
+        "name": "Quarto di Bue",
+        "url": "https://open.spotify.com/album/2KCiV7WqpsT4tZ8ZIEUmFm"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166367,
+      "name": "Steppers (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/0zILnH8SN6zOrCtfuH2YGR"
+    },
+    {
+      "album": {
         "name": "Strade Unite (feat. Helmi sa7bi, emanuelino)",
         "url": "https://open.spotify.com/album/4pqW2BaSQ7qOdg8KMSxId3"
       },
@@ -5488,7 +5602,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 183941,
       "name": "TEN TEN",
       "url": "https://open.spotify.com/track/6xWwDNDnU6SeshHsKJKiML"

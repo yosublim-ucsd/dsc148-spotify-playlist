@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-500 songs - 1 day 6 hr 14 min
+501 songs - 1 day 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,7 @@
 | [Keeping Me Under](https://open.spotify.com/track/1N5zNjjaie1MpYW4oTPqVZ) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Keeping Me Under](https://open.spotify.com/album/5GgzoCTpVmmxGoETRWBa4l) | 3:38 | 2022-03-30 | 2022-04-21 |
 | [Keeping Me Under](https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Keeping Me Under](https://open.spotify.com/album/0pim63nTKBI42Cm7FVeCMu) | 3:38 | 2022-07-26 | 2023-02-14 |
 | [Kelly](https://open.spotify.com/track/3Mj5wXVgnFs0HhBI4iYHCd) | [Amason](https://open.spotify.com/artist/4cJKxS7uOPhwb5UQ70sYpN) | [Sky City](https://open.spotify.com/album/2lYmxilk8cXJlxxXmns1IU) | 3:38 | 2022-03-30 | 2022-04-21 |
-| [Kids Fallin' In Love](https://open.spotify.com/track/4LPiZEE28GPCQPES6Xxy5A) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Kids Fallin' In Love](https://open.spotify.com/album/4Q9CZw1r0QCbFH7AdtYE3g) | 3:47 | 2021-12-16 |  |
+| [Kids Fallin' In Love](https://open.spotify.com/track/4LPiZEE28GPCQPES6Xxy5A) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Kids Fallin' In Love](https://open.spotify.com/album/4Q9CZw1r0QCbFH7AdtYE3g) | 3:47 | 2021-12-16 | 2023-05-12 |
 | [King Prawn The 1st](https://open.spotify.com/track/0t81ZOuQDXrw45a9mGKC6t) | [Spang Sisters](https://open.spotify.com/artist/55LV0taR11yxOICTZORibT) | [Boys, B\-Sides & Rarities](https://open.spotify.com/album/4chIfnAsr94togS7Xnwg2U) | 2:36 | 2023-02-10 |  |
 | [King Prawn The 1st](https://open.spotify.com/track/0ybcE5T4NKLJSMIZUHSRlD) | [Spang Sisters](https://open.spotify.com/artist/55LV0taR11yxOICTZORibT) | [Boys, B\-Sides & Rarities](https://open.spotify.com/album/4g5owqOYwBR805mYofw5cg) | 2:36 | 2022-03-30 | 2022-07-29 |
 | [LA.BELLE.JOURNÉE 1971](https://open.spotify.com/track/0jcmvJs02muGldvkNrkejV) | [LUMIÈRE](https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX) | [A.M.I.E.S.A.M.O.U.R](https://open.spotify.com/album/4qwd82AW4N0n7ijigpNTmX) | 5:05 | 2022-02-18 | 2022-07-29 |
@@ -474,6 +474,7 @@
 | [Wait for the Moment](https://open.spotify.com/track/48wH8bAxvBJO2l14GmNLz7) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/3zN4g0kL9VJNTVo5Woh5BL) | [My First Car](https://open.spotify.com/album/66lLDYWrrbm8tsrBGNYC5E) | 3:50 | 2022-07-26 | 2022-10-04 |
 | [Waiting For Your Love](https://open.spotify.com/track/6dX5minlSh7q239EC1ycoZ) | [Usje Sukatma](https://open.spotify.com/artist/5ENvVuYziSYbmRtY23bCJt) | [Waiting For Your Love](https://open.spotify.com/album/6PNJ8tx8wYm9rrOmBCgHq7) | 4:28 | 2022-03-30 | 2022-04-17 |
 | [Wake Up](https://open.spotify.com/track/3FKJaFrmNNDuYeUSY8HhmF) | [Kowloon](https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE) | [Wake Up](https://open.spotify.com/album/6HpB2a7hn3T1gKcxIVWN8L) | 3:59 | 2022-03-30 | 2022-04-20 |
+| [Walk the Streets of Love](https://open.spotify.com/track/3pwe1XZL72gTCoeA3SI1eO) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Walk the Streets of Love](https://open.spotify.com/album/3CncPOGYwgAd1OW26HSUYD) | 3:29 | 2023-04-25 |  |
 | [Walk the Streets of Love](https://open.spotify.com/track/595G8mWzlzHOpCtWWKOMUm) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Walk the Streets of Love](https://open.spotify.com/album/5FGRNVfQPJXBvmBdfQeUDB) | 3:29 | 2021-12-16 | 2023-04-21 |
 | [Walking in the Sun](https://open.spotify.com/track/7GGguiA9LkgFT3BZbzHjwQ) | [PANG!](https://open.spotify.com/artist/6TlN75Ns66CyxBuZ7i3TK3) | [Walking in the Sun](https://open.spotify.com/album/2e3omo3BZINdmAM1QBZSI7) | 3:33 | 2022-03-30 | 2022-10-04 |
 | [Watch What Happens](https://open.spotify.com/track/5pLYbOJYUHdnim9lbjhN2C) | [Chris Montez](https://open.spotify.com/artist/0QRgfCLzSR9GyCjXboWQTA) | [Watch What Happens](https://open.spotify.com/album/7EQnweNkqdHRsVc95xxxIV) | 2:42 | 2022-03-30 | 2022-10-15 |

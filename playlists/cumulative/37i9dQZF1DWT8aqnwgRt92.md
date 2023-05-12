@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-669 songs - 1 day 18 hr 34 min
+671 songs - 1 day 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Ashita no Katachi](https://open.spotify.com/track/09pGnc78yB3BXMVfz6kt4J) | [Ayana Taketatsu](https://open.spotify.com/artist/34UBKoTrfN5mZ0qzJtsZSS) | [Ashita no Katachi](https://open.spotify.com/album/145dJ4C6P0UOSzRO6PUCz6) | 4:33 | 2023-01-10 | 2023-03-29 |
 | [Aster wish](https://open.spotify.com/track/2q7TbRk4G9KIbDXuwC67Ya) | [ChamJam](https://open.spotify.com/artist/75GCSXSSPgPLsQ8Orvbden) | [「推しが武道館いってくれたら死ぬ」コンプリートボーカルアルバム「きみのために生きてる」](https://open.spotify.com/album/01AFEu2qyKs1qEz4oVblED) | 5:06 | 2023-05-09 | 2023-05-11 |
 | [Aster Wish](https://open.spotify.com/track/4zKg6FKoZWIIHN3kWeFeYV) | [ChamJam](https://open.spotify.com/artist/75GCSXSSPgPLsQ8Orvbden) | [Oshi ga Budokan Ittekuretara Shinu Complete Vocal Album "Kimi no Tame ni Ikiteru"](https://open.spotify.com/album/6JkGdjng41cuI6vUYDl72j) | 5:06 | 2023-05-10 |  |
+| [AVIATION \(feat\. Ryohei & Foggy\-D\)](https://open.spotify.com/track/1LW2YLm8LwSNvAs4vjfgGy) | [Void\_Chords](https://open.spotify.com/artist/7CHOrOaEA09yNN1PLPlibc), [Foggy\-D](https://open.spotify.com/artist/1Bwew87T63T5lBDlY6pkfR), [Ryohei](https://open.spotify.com/artist/47OCXTMJtBmJcufjuBNvvV) | [AVIATION \(feat\. Ryohei & Foggy\-D\)](https://open.spotify.com/album/0wAphdRPRMnRXvkTmTp7C6) | 4:26 | 2023-05-11 |  |
 | [Awake](https://open.spotify.com/track/1GChdtgRm4YlTPp4JPFDc9) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Awake](https://open.spotify.com/album/1UFJUX3c8hieMx0HQd9JHr) | 5:25 | 2022-07-28 | 2022-09-15 |
 | [Awake](https://open.spotify.com/track/4Ct1sAdB2kL7LuxpCjJzZf) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Awake](https://open.spotify.com/album/6fdrR5Cxdp0zbhLEs4HYYB) | 5:25 | 2022-07-12 | 2022-07-29 |
 | [Awesome!](https://open.spotify.com/track/4nn6DnOS4lRqoMQlhuBJ7g) | [Maneki Kecak](https://open.spotify.com/artist/0LA2C0Cbh1jk7lDtQiTehi) | [Awesome!](https://open.spotify.com/album/42aC4sZesjIbfh8RWu8ymh) | 4:00 | 2022-05-28 | 2022-07-08 |
@@ -275,11 +276,12 @@
 | [Platina\- from CrosSing](https://open.spotify.com/track/6dNi50ClKP3kPKWKB7hbHK) | [Ayana Taketatsu](https://open.spotify.com/artist/34UBKoTrfN5mZ0qzJtsZSS) | [Platina\- from CrosSing](https://open.spotify.com/album/0lUgiDZkZl9gIbDpysJvr2) | 4:09 | 2022-08-23 | 2022-09-16 |
 | [Pokerface](https://open.spotify.com/track/5n071ppxcknnGJLXOgf02P) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Pokerface](https://open.spotify.com/album/0dviOJFT2UZNQdAqRaIn9h) | 3:55 | 2022-07-28 | 2022-09-30 |
 | [Presence](https://open.spotify.com/track/5Nv8sEUqdqrrNET339wP1X) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [Presence](https://open.spotify.com/album/0du1IQkJ1TSUoc0fqxSknn) | 4:09 | 2022-08-30 | 2022-10-19 |
-| [Preview](https://open.spotify.com/track/5WsbwswBs3C0vheCVFFy1Z) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [Preview](https://open.spotify.com/album/1KZJgrEJoKlHtA2sH3OAUk) | 4:06 | 2023-04-06 |  |
+| [Preview](https://open.spotify.com/track/5WsbwswBs3C0vheCVFFy1Z) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [Preview](https://open.spotify.com/album/1KZJgrEJoKlHtA2sH3OAUk) | 4:06 | 2023-04-06 | 2023-05-12 |
 | [PRIDE](https://open.spotify.com/track/4w1J2ejTHgtxRR6IvFoB8n) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [PRIDE](https://open.spotify.com/album/7A0ixTAOm6k9iyuYVX7lBb) | 3:37 | 2022-11-08 | 2023-01-13 |
 | [PSYCHO:LOGY](https://open.spotify.com/track/62BaD9fEhYmzRQxM3peM0O) | [Shouta Aoi](https://open.spotify.com/artist/4Kg3vBPMPfnYrnZo2A4czS) | [PSYCHO:LOGY](https://open.spotify.com/album/7396ox4eZXw2eCJNpYIs7B) | 3:54 | 2022-10-11 | 2022-11-25 |
 | [Quiet explosion](https://open.spotify.com/track/221x9VoSuIZLz05MfJ9hVT) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [Quiet explosion](https://open.spotify.com/album/3d4pqoNGR66q2B2A0DJaL9) | 3:26 | 2023-04-11 | 2023-04-27 |
 | [Quiet explosion](https://open.spotify.com/track/3ytGc8DrY5fvPYJpkGfB0W) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [Quiet explosion](https://open.spotify.com/album/3XAEoNI4FLn9PKW6S6pfGA) | 3:26 | 2023-04-25 |  |
+| [RAYS](https://open.spotify.com/track/65MfUIHHteCbj15fY7cHJp) | [NOILION](https://open.spotify.com/artist/7A8ngqXYxuxssjjLk8c0BH), [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [RAYS](https://open.spotify.com/album/1vd0TUfhuGrLbY6aRBcT4U) | 3:07 | 2023-05-11 |  |
 | [Real Dawn](https://open.spotify.com/track/59R8fdA1xxNgnSLdSm9bES) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [Real Dawn](https://open.spotify.com/album/3OPoxNYBVO2idFWeyzO8bv) | 3:46 | 2023-01-03 | 2023-03-25 |
 | [rebind](https://open.spotify.com/track/29TrJvPHW8SuL9Y7wg72Ui) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [rebind](https://open.spotify.com/album/0xaMjXAT0lpUKlZ3zV691n) | 4:42 | 2023-01-10 | 2023-04-09 |
 | [RECONNECTION](https://open.spotify.com/track/048iLBE6b6aajmg74OdgJe) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [RECONNECTION](https://open.spotify.com/album/4SEmy9zV5o9BirnDSXYP4s) | 3:42 | 2023-01-10 | 2023-03-29 |
@@ -488,7 +490,7 @@
 | [トメハネハラウ](https://open.spotify.com/track/2R3Pfcb5loHfNs0FI7RQxY) | [Earphones](https://open.spotify.com/artist/6nH1MaNtYwXEuwdOZ1R75p) | [トメハネハラウ](https://open.spotify.com/album/4LvSFjOlrfFOG3K8eFShyb) | 3:56 | 2022-12-22 | 2023-01-13 |
 | [トリック・アート](https://open.spotify.com/track/466WrVxdpRXkuRDU4vF16l) | [Ryujin Kiyoshi](https://open.spotify.com/artist/15c6wAJcxNMHjSZVjgE8VW) | [トリック・アート](https://open.spotify.com/album/7n7GiqZeFOpyX97bnA0HaB) | 2:56 | 2023-04-11 |  |
 | [ドキメキダイアリー](https://open.spotify.com/track/5WZ6lxBhcncHgc2qkTBih2) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [ドキメキダイアリー](https://open.spotify.com/album/3wrzViTziNyAqM2on7hM8q) | 3:19 | 2023-04-13 | 2023-05-10 |
-| [ドラマチック](https://open.spotify.com/track/2iDzfN3XkTcmdl0uPBRgat) | [佐藤ミキ](https://open.spotify.com/artist/7HcKaZJPzvY40N22yz6Gel) | [ドラマチック](https://open.spotify.com/album/6O5dU5UQP9Dv36xKJCSlGp) | 4:31 | 2023-04-13 |  |
+| [ドラマチック](https://open.spotify.com/track/2iDzfN3XkTcmdl0uPBRgat) | [佐藤ミキ](https://open.spotify.com/artist/7HcKaZJPzvY40N22yz6Gel) | [ドラマチック](https://open.spotify.com/album/6O5dU5UQP9Dv36xKJCSlGp) | 4:31 | 2023-04-13 | 2023-05-12 |
 | [ドラマチックじゃなくても](https://open.spotify.com/track/5zxc1g7UVdTfp3pYD1lzmW) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [ドラマチックじゃなくても](https://open.spotify.com/album/2pAuAsjzwHKiPx47Vy6DxK) | 4:22 | 2023-01-10 | 2023-01-12 |
 | [ドラム式探査機](https://open.spotify.com/track/2qW7HHuuwlahgLsZcSpKca) | [田所あずさ](https://open.spotify.com/artist/6QA62pTldn4AF8DeKsKW0h) | [ドラム式探査機](https://open.spotify.com/album/1hmjufGe7sXt8LfQifBJZs) | 3:52 | 2023-01-10 | 2023-04-02 |
 | [ノミック](https://open.spotify.com/track/0gxbwxvxTBW1Z3ihlJbq6H) | [ACCAMER](https://open.spotify.com/artist/6fl8KnCZzMYMHTklUPWlX2) | [ノミック](https://open.spotify.com/album/0Y6dEaa80Jfq6GTQ04fLnK) | 3:00 | 2022-10-06 | 2022-10-08 |
@@ -633,7 +635,7 @@
 | [私と世界](https://open.spotify.com/track/1ozBLIVhjPJSupubyOimQE) | [Yui Makino](https://open.spotify.com/artist/6EtarAFCJoZ2AvMuleZw0G) | [あなたとわたしを繋ぐもの](https://open.spotify.com/album/2xJMVcbDsJ0XJ4tODMmQet) | 4:23 | 2022-10-04 | 2022-10-06 |
 | [私は最強 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/7bmAgiUc4W4bfyZRCc6lOh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [私は最強 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/4kSYCYHzG8vyNQcROLlHUq) | 4:17 | 2022-06-21 | 2022-08-31 |
 | [秘密♡Melody](https://open.spotify.com/track/1AFesvFxEKLQdz1D7UdkM6) | [Yui Ogura](https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy) | [秘密♡Melody](https://open.spotify.com/album/0jLmxBVe6NwDuJ4o2Oxdvt) | 4:11 | 2023-04-06 | 2023-04-20 |
-| [秘密♡Melody](https://open.spotify.com/track/3FdxmFAty5QZTihGD7vy9g) | [Yui Ogura](https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy) | [秘密♡Melody](https://open.spotify.com/album/5jyTwJEmfqqrUM3CtWeXpi) | 4:11 | 2023-04-18 |  |
+| [秘密♡Melody](https://open.spotify.com/track/3FdxmFAty5QZTihGD7vy9g) | [Yui Ogura](https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy) | [秘密♡Melody](https://open.spotify.com/album/5jyTwJEmfqqrUM3CtWeXpi) | 4:11 | 2023-04-18 | 2023-05-12 |
 | [秘密の庭のふたり](https://open.spotify.com/track/0drkpiibrRIpUc5tSubX2J) | [Yui Horie](https://open.spotify.com/artist/7LKC71aoVTsDcHP9weRH9R) | [秘密の庭のふたり](https://open.spotify.com/album/3pVwRnFsKMjOwkpAWddA54) | 4:05 | 2022-08-16 | 2022-10-05 |
 | [空っぽの心](https://open.spotify.com/track/66EyebDoG7vr9AzvRbJ9H0) | [SARD UNDERGROUND](https://open.spotify.com/artist/7awtWS4uPN7SUSxSRilkMa) | [空っぽの心](https://open.spotify.com/album/6sCZgnJFMkZsm0YaEpYTi3) | 3:16 | 2022-05-28 | 2022-07-01 |
 | [空色デイズ \- from CrosSing](https://open.spotify.com/track/2r0obcBXAqmjT25pBewWlc) | [平野綾](https://open.spotify.com/artist/3HsqZmNM3saSQSfiTl8GzD) | [空色デイズ \- from CrosSing](https://open.spotify.com/album/2RqmAvQcK25aIBLUfflMGW) | 4:13 | 2023-02-28 | 2023-03-02 |

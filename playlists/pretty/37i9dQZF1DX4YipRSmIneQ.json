@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude08 turn anywhere into a sexy club \ud83d\ude08",
-  "num_followers": 54122,
+  "num_followers": 54194,
   "original_name": "Sweat.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGJmODI3OGEyZmUxNjQ0ODFjZjNhZWY1OTI4YjFhYTc3MTM5MTg2",
+  "snapshot_id": "MCwwNWE2MDcwNWZiZWRmZjFmMzU5NzJkYWIyNWNjMDEwNWJhNGI0ZDMy",
   "tracks": [
     {
       "added_at": "2023-04-04 13:57:02",
@@ -779,6 +779,26 @@
     {
       "added_at": "2023-04-04 13:57:02",
       "album": {
+        "name": "Dirty Work",
+        "url": "https://open.spotify.com/album/3y2ujmddDnMX5L6hcMkyvT"
+      },
+      "artists": [
+        {
+          "name": "DJ Planet Express",
+          "url": "https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg"
+        },
+        {
+          "name": "Samantha",
+          "url": "https://open.spotify.com/artist/285mEVJq6Woe2rlEeN43AI"
+        }
+      ],
+      "duration_ms": 124646,
+      "name": "Dirty Work",
+      "url": "https://open.spotify.com/track/1qbzrgjYqA84EOKisIqdz1"
+    },
+    {
+      "added_at": "2023-04-04 13:57:02",
+      "album": {
         "name": "Taste My Body",
         "url": "https://open.spotify.com/album/34yCNBM4QzFbr6tIF4hZDO"
       },
@@ -813,40 +833,20 @@
       "url": "https://open.spotify.com/track/3Oh4rpQGw4rPbs09o04YXZ"
     },
     {
-      "added_at": "2023-04-04 13:57:02",
+      "added_at": "2023-04-20 09:52:39",
       "album": {
-        "name": "Dirty Work",
-        "url": "https://open.spotify.com/album/3y2ujmddDnMX5L6hcMkyvT"
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/1VsjBsi7QxD87w4dRoBc8h"
       },
       "artists": [
         {
-          "name": "DJ Planet Express",
-          "url": "https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg"
-        },
-        {
-          "name": "Samantha",
-          "url": "https://open.spotify.com/artist/285mEVJq6Woe2rlEeN43AI"
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
         }
       ],
-      "duration_ms": 124646,
-      "name": "Dirty Work",
-      "url": "https://open.spotify.com/track/1qbzrgjYqA84EOKisIqdz1"
-    },
-    {
-      "added_at": "2023-04-04 13:57:02",
-      "album": {
-        "name": "Whorecore",
-        "url": "https://open.spotify.com/album/1OEDnlG9MPWboK6lk7lovy"
-      },
-      "artists": [
-        {
-          "name": "LSDXOXO",
-          "url": "https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2"
-        }
-      ],
-      "duration_ms": 203174,
-      "name": "Voodoo Pussy",
-      "url": "https://open.spotify.com/track/43lupyxeROVg5QmMiqa8Y0"
+      "duration_ms": 230500,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/2pqDpDsdxlZZFdNNrEE29C"
     },
     {
       "added_at": "2023-04-04 13:57:02",
@@ -865,20 +865,20 @@
       "url": "https://open.spotify.com/track/4yPQpupT0yMWpzXfZqrzUT"
     },
     {
-      "added_at": "2023-04-20 09:52:39",
+      "added_at": "2023-04-04 13:57:02",
       "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/1VsjBsi7QxD87w4dRoBc8h"
+        "name": "Whorecore",
+        "url": "https://open.spotify.com/album/1OEDnlG9MPWboK6lk7lovy"
       },
       "artists": [
         {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+          "name": "LSDXOXO",
+          "url": "https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2"
         }
       ],
-      "duration_ms": 230500,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/2pqDpDsdxlZZFdNNrEE29C"
+      "duration_ms": 203174,
+      "name": "Voodoo Pussy",
+      "url": "https://open.spotify.com/track/43lupyxeROVg5QmMiqa8Y0"
     },
     {
       "added_at": "2023-04-04 13:57:02",

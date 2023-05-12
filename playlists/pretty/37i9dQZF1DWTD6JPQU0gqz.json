@@ -1,12 +1,12 @@
 {
   "description": "Celebrando a los m\u00fasicos Afro-Latinos. Cover: Tego Calderon",
-  "num_followers": 47085,
+  "num_followers": 47118,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTFkMzM1MmI1NDg1NjUwZWU5ZDM2OTNkZGRiMTY5OTUwYjA4NWY4",
+  "snapshot_id": "MCw0OTAwYjAwM2I1ZGUwYTA1YTU2ODZlOWY1MmE1OWY3ZmQyY2YwNWMy",
   "tracks": [
     {
       "added_at": "2023-02-17 03:40:06",
@@ -947,6 +947,30 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
+        "name": "Soy Yo",
+        "url": "https://open.spotify.com/album/6kzYInv46fwDqyazbbS1DX"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "duration_ms": 218865,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/4qREGoj96edc3P6N3gHHyr"
+    },
+    {
+      "added_at": "2023-02-17 03:40:06",
+      "album": {
         "name": "CHEAP WINE",
         "url": "https://open.spotify.com/album/2XmXLZErwVUVTJPGJtMluI"
       },
@@ -979,26 +1003,6 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
-        "name": "Caramelo",
-        "url": "https://open.spotify.com/album/4gyoEgPnJ6yiZsazqXrucj"
-      },
-      "artists": [
-        {
-          "name": "Lil Viic",
-          "url": "https://open.spotify.com/artist/1wxP4p2fz72aCgmfymu0CZ"
-        },
-        {
-          "name": "Lennis Rodriguez",
-          "url": "https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z"
-        }
-      ],
-      "duration_ms": 208203,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/7HShBDHwZokDkH2qMEwqZ7"
-    },
-    {
-      "added_at": "2023-02-17 03:40:06",
-      "album": {
         "name": "Florecer",
         "url": "https://open.spotify.com/album/46K5ezI95o13Nb3boUDTbT"
       },
@@ -1027,6 +1031,26 @@
       "duration_ms": 146023,
       "name": "Oye Mi Ritmo",
       "url": "https://open.spotify.com/track/6HYo1T8GRaj8J9P4xZHFcq"
+    },
+    {
+      "added_at": "2023-02-17 03:40:06",
+      "album": {
+        "name": "Caramelo",
+        "url": "https://open.spotify.com/album/4gyoEgPnJ6yiZsazqXrucj"
+      },
+      "artists": [
+        {
+          "name": "Lil Viic",
+          "url": "https://open.spotify.com/artist/1wxP4p2fz72aCgmfymu0CZ"
+        },
+        {
+          "name": "Lennis Rodriguez",
+          "url": "https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z"
+        }
+      ],
+      "duration_ms": 208203,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/7HShBDHwZokDkH2qMEwqZ7"
     },
     {
       "added_at": "2023-02-17 03:40:06",
@@ -1111,18 +1135,18 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
-        "name": "Dale",
-        "url": "https://open.spotify.com/album/49xNDnyM4bFoY2MVbC9bMQ"
+        "name": "50 \u00e9xitos de salsa cubana",
+        "url": "https://open.spotify.com/album/1WT0tVPiWIRGjgpyTvHciX"
       },
       "artists": [
         {
-          "name": "Menor Menor",
-          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 170481,
-      "name": "Dale",
-      "url": "https://open.spotify.com/track/0aKq8emz57dfXbuAVd5qXs"
+      "duration_ms": 293173,
+      "name": "Quimbara",
+      "url": "https://open.spotify.com/track/73wEEHZH7sJwckufY0OEwb"
     },
     {
       "added_at": "2023-02-17 03:40:06",
@@ -1143,18 +1167,18 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
-        "name": "50 \u00e9xitos de salsa cubana",
-        "url": "https://open.spotify.com/album/1WT0tVPiWIRGjgpyTvHciX"
+        "name": "Dale",
+        "url": "https://open.spotify.com/album/49xNDnyM4bFoY2MVbC9bMQ"
       },
       "artists": [
         {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "Menor Menor",
+          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
         }
       ],
-      "duration_ms": 293173,
-      "name": "Quimbara",
-      "url": "https://open.spotify.com/track/73wEEHZH7sJwckufY0OEwb"
+      "duration_ms": 170481,
+      "name": "Dale",
+      "url": "https://open.spotify.com/track/0aKq8emz57dfXbuAVd5qXs"
     },
     {
       "added_at": "2023-02-17 03:40:06",
@@ -1255,22 +1279,6 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
-        "name": "Lucky 7",
-        "url": "https://open.spotify.com/album/3b2Zck8DtLyhMYxUgVDyho"
-      },
-      "artists": [
-        {
-          "name": "Luchy DR",
-          "url": "https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Soy",
-      "url": "https://open.spotify.com/track/6sBBmnwoII25pWOpy6TmLK"
-    },
-    {
-      "added_at": "2023-02-17 03:40:06",
-      "album": {
         "name": "Los Rakas",
         "url": "https://open.spotify.com/album/2XhwBrlb6fNfro8uAoRu9M"
       },
@@ -1291,6 +1299,22 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
+        "name": "Lucky 7",
+        "url": "https://open.spotify.com/album/3b2Zck8DtLyhMYxUgVDyho"
+      },
+      "artists": [
+        {
+          "name": "Luchy DR",
+          "url": "https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Soy",
+      "url": "https://open.spotify.com/track/6sBBmnwoII25pWOpy6TmLK"
+    },
+    {
+      "added_at": "2023-02-17 03:40:06",
+      "album": {
         "name": "Nueva Era",
         "url": "https://open.spotify.com/album/2muy75AIHPDUZcgmO8qqu0"
       },
@@ -1303,30 +1327,6 @@
       "duration_ms": 298195,
       "name": "Don't Unplug My Body",
       "url": "https://open.spotify.com/track/3knc4B7GpbHGoImIIBTNQ7"
-    },
-    {
-      "added_at": "2023-02-17 03:40:06",
-      "album": {
-        "name": "Soy Yo",
-        "url": "https://open.spotify.com/album/6kzYInv46fwDqyazbbS1DX"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 218865,
-      "name": "Soy Yo",
-      "url": "https://open.spotify.com/track/4qREGoj96edc3P6N3gHHyr"
     },
     {
       "added_at": "2023-02-17 03:40:06",

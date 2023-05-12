@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > The hottest songs from LGBTQIA+ artists\. Cover: Sycco
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,102,407 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,102,322 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [Flicker](https://open.spotify.com/track/5GynUhuFgbs1GBwIjzRr8U) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Flicker](https://open.spotify.com/album/2Dnl22XDB6TpawpGUE2eCE) | 3:17 |
 | 50 | [Colors](https://open.spotify.com/track/0teLBWYL3h5ALqRWvxKAiw) | [Manila Luzon](https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g) | [Colors](https://open.spotify.com/album/5em61OrWFIFxL1fZFzfNeg) | 3:21 |
 
-Snapshot ID: `MCw3MGQyMTllOWI4YjBmZmUyYmQwNjhkZDkwNTM2ZTFmZmZlNzZlYmVl`
+Snapshot ID: `MCxiODMxZmQ2ZjY1ZGUyMTYzMTllZDkyMzljNDlmNDY3ODkzOTQzNGJj`

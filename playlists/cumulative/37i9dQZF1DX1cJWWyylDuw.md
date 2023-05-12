@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: The Acacia Strain
 
-462 songs - 1 day 6 hr 3 min
+463 songs - 1 day 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Boy](https://open.spotify.com/track/3XhrFBIBskDUeujyzNFwXf) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Boy](https://open.spotify.com/album/2CL5UiUdXNe1EKoOObuNui) | 3:50 | 2021-12-17 | 2022-11-21 |
 | [Boy](https://open.spotify.com/track/4F1awMDl4eLNdzm5m5ylGo) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Boy](https://open.spotify.com/album/2bawGtzScFeuFxEhsrx4Sa) | 3:50 | 2022-10-27 | 2023-04-25 |
 | [Break The Cycle](https://open.spotify.com/track/0R3V1qnan4rbDvoubYi5Zu) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Break The Cycle](https://open.spotify.com/album/1Iyd7yCUDVzoMBgvVOARPz) | 3:55 | 2021-12-17 | 2022-07-29 |
-| [Bullets in My Teeth](https://open.spotify.com/track/5bZGe4dOdN52F1DgkeC9I9) | [Drag Me Out](https://open.spotify.com/artist/2dg4ezhcEZKGGNJkCqbvHB) | [Bullets in My Teeth](https://open.spotify.com/album/3NJhDpBpUGeDvuPru8Vou2) | 4:55 | 2022-04-01 |  |
+| [Bullets in My Teeth](https://open.spotify.com/track/5bZGe4dOdN52F1DgkeC9I9) | [Drag Me Out](https://open.spotify.com/artist/2dg4ezhcEZKGGNJkCqbvHB) | [Bullets in My Teeth](https://open.spotify.com/album/3NJhDpBpUGeDvuPru8Vou2) | 4:55 | 2022-04-01 | 2023-05-12 |
 | [Catatonia](https://open.spotify.com/track/1yKyN555vTcZun8SLVDd8Y) | [Babirusa](https://open.spotify.com/artist/35yVMdlqtayJwkb192ePgh) | [Catatonia](https://open.spotify.com/album/7rdTTF62eg3jRAMcAamljf) | 3:44 | 2021-12-31 | 2022-07-28 |
 | [Cathedral](https://open.spotify.com/track/4Y5xe7x4gQkhgOwLvlGNY8) | [Ten Thousand Crows](https://open.spotify.com/artist/1wqp1GMAXOgBBnj7Ub2Wqd) | [Cathedral](https://open.spotify.com/album/7lms8BTHcXigzIUEkTNUmK) | 2:55 | 2022-04-15 | 2022-07-24 |
 | [Cathedrals of Blood \(Twilight of the Idols\)](https://open.spotify.com/track/7tyqpGsyDgCTL8EOcqhJt5) | [Phobophilic](https://open.spotify.com/artist/1cdxNUejlVcTwgWocqB3eF) | [Enveloping Absurdity](https://open.spotify.com/album/0ULfAaYkPeQfu3f64qNiuy) | 4:15 | 2022-09-16 | 2023-02-12 |
@@ -152,6 +152,7 @@
 | [Emotionless Mass](https://open.spotify.com/track/2vQVeBLELpi94Zk4tpXKIU) | [And Hell Followed With](https://open.spotify.com/artist/7MnEOC6vXcGp5P8RiFrlCm), [Kyle Medina](https://open.spotify.com/artist/4gcF5DdDf5H5rdkHvnvRRO) | [Emotionless Mass](https://open.spotify.com/album/0ClQU9ILh0wWUWZ1K5ritk) | 5:02 | 2022-01-21 | 2022-05-01 |
 | [Empress](https://open.spotify.com/track/59Dai1T2TOvlWvMJR6OVdi) | [Assemble the Chariots](https://open.spotify.com/artist/6MWE8Xn602R4dRfbmJaNRJ) | [Empress](https://open.spotify.com/album/4r1h70lXgPiGJCvGqjAvlM) | 3:53 | 2021-12-17 | 2023-03-29 |
 | [End Of Existence](https://open.spotify.com/track/07L1zD6CCZTaYKnbJn7O2q) | [The Browning](https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo) | [End Of Existence](https://open.spotify.com/album/5NyRa9KtYkqAHxdy9j5l7L) | 4:00 | 2021-12-17 | 2023-05-05 |
+| [End Of Existence](https://open.spotify.com/track/4PsJwwJP7I7rpK1dOnZeAQ) | [The Browning](https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo) | [End Of Existence](https://open.spotify.com/album/69OWwAT3a244xtQhmHn16e) | 4:00 | 2023-04-28 |  |
 | [Enemy](https://open.spotify.com/track/2sjE0P1Qtnhx8cIMyTynic) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod), [Spencer Chamberlain](https://open.spotify.com/artist/2cbaTTGFK4bWdglvhLQRFi) | [Enemy](https://open.spotify.com/album/7hv2IVfILbMAbhMAr3fK9v) | 4:08 | 2021-12-17 |  |
 | [Erotic Depravity](https://open.spotify.com/track/4c0UaGIbiDKUOQ9nPeWvVs) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Erotic Depravity](https://open.spotify.com/album/5MNDKNgVzfkVrcsVzWLLPS) | 2:54 | 2021-12-17 | 2022-07-12 |
 | [Essence](https://open.spotify.com/track/5ycHtWHxS0LJ1hOXEYGu4C) | [Drown in Sulphur](https://open.spotify.com/artist/4FFseinIReANTJHY36gSwI) | [Essence](https://open.spotify.com/album/68UG9A5KTjekGEkMlSB2IN) | 4:01 | 2021-12-17 | 2022-07-29 |

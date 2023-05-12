@@ -4,7 +4,7 @@
 
 > edgy muziek met een rand uit eigen land\. cover: Wende
 
-77 songs - 4 hr 18 min
+78 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Glas In Lood](https://open.spotify.com/track/2jXsjXKDneBlnppUhdaaKC) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Ik Zou Voor Veel Kunnen Sterven Maar Niet Voor Een Vlag](https://open.spotify.com/album/27F3o3c9Li3EfhG4XSEWbS) | 3:36 | 2023-02-23 |  |
 | [Golvend Water](https://open.spotify.com/track/11WNquIczwWq8t8utMQpae) | [Navarone Cole](https://open.spotify.com/artist/1G3G1fCNjBgR3OwTmj2QHb) | [Golvend Water](https://open.spotify.com/album/3rqmnLiK024NpId3HhxkdB) | 2:30 | 2023-02-23 |  |
 | [Guitar Guy](https://open.spotify.com/track/2PN5wHMSWg8U6Ord2lfwU7) | [Mayer Malik](https://open.spotify.com/artist/0WMRcmW4gPPbnJOR6XJXmc), [Boaz van de Beatz](https://open.spotify.com/artist/7Gl7G1JK7feTWHy1YJExfw) | [Guitar Guy](https://open.spotify.com/album/1dW4MSpzSFrVPUQZ46WT6T) | 3:24 | 2023-02-23 | 2023-05-10 |
-| [Hard Work](https://open.spotify.com/track/5erRk2eskp3Ns8pfOEtbxq) | [Anuka](https://open.spotify.com/artist/4tp1pUIwgLWIIIIOo1yPYp) | [Hard Work](https://open.spotify.com/album/5iCijpR8CvLw1ftF7M71k1) | 2:35 | 2023-02-23 |  |
+| [Hard Work](https://open.spotify.com/track/5erRk2eskp3Ns8pfOEtbxq) | [Anuka](https://open.spotify.com/artist/4tp1pUIwgLWIIIIOo1yPYp) | [Hard Work](https://open.spotify.com/album/5iCijpR8CvLw1ftF7M71k1) | 2:35 | 2023-02-23 | 2023-05-12 |
 | [I Don't Know Why](https://open.spotify.com/track/0eh7RLHWRTKozBQVebazyB) | [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Jobsen](https://open.spotify.com/artist/1nXpJ4oZgB8PlKvQ3DFkaH), [Julia Kleijn](https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W) | [I Don't Know Why](https://open.spotify.com/album/2l4DnWUZwezkK6n40YI1UY) | 2:48 | 2023-02-23 |  |
 | [I Found](https://open.spotify.com/track/7BqGd98KWC3b5GGx1wEQ2V) | [Faint Louis](https://open.spotify.com/artist/6noj0RSKEQhY8LtQBeCmfz), [Subtle Static](https://open.spotify.com/artist/5YFASQmAPmWw2eMVnU84aL) | [I Found](https://open.spotify.com/album/450H51CyucEN9AHiIrTUHp) | 3:52 | 2023-02-23 |  |
 | [Imaginary Friend](https://open.spotify.com/track/7f7GnNw5gENI7Rpq45Ft5R) | [Mickie](https://open.spotify.com/artist/1fhrWRji66FUx7jES5tMJX) | [First Boy In Space](https://open.spotify.com/album/3DhyZK51vn05p2kAfjzIDF) | 3:40 | 2023-02-23 |  |
@@ -44,6 +44,7 @@
 | [just killing \(time\)](https://open.spotify.com/track/0yiXlHnykTqp7srRhFPYQ3) | [Socks;SportsSocks](https://open.spotify.com/artist/5iofxr31yEqGuxH0OIrAEq) | [just killing \(time\)](https://open.spotify.com/album/1dVLxrIx7iT4Vx1cLK9ZKA) | 4:00 | 2023-02-23 | 2023-03-18 |
 | [Karma \(Symphony In G Minor\)](https://open.spotify.com/track/6ekDpGPpRzBk7HZhWpNrvW) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO), [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Bae Doven No\. 1](https://open.spotify.com/album/6BMIKnnkgFymPqYSW9GxHH) | 3:45 | 2023-02-23 |  |
 | [Liar](https://open.spotify.com/track/2WKrthH378MYrxvYvAAsAE) | [Boy Bianchi](https://open.spotify.com/artist/2IZEwFhlEXMsBCyC4FbtC6) | [Restless](https://open.spotify.com/album/6afbrLW0YiZ3aQPygjqZBz) | 3:54 | 2023-02-23 |  |
+| [Lila](https://open.spotify.com/track/7KEYsxeFYN0ruMY6sGNdtf) | [Amy Root](https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73), [Wytiki](https://open.spotify.com/artist/0mzWYuMGJz6vrtg78cP7O4), [VAAGUE](https://open.spotify.com/artist/4P0mtkvvIWdZn9mNsKXTDs) | [Mirrors](https://open.spotify.com/album/7L161NHfeg5E3dHOvr5GZ0) | 4:17 | 2023-05-11 |  |
 | [Little Girl](https://open.spotify.com/track/78JPkgiUKtPk16rgVwzwId) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [Little Girl](https://open.spotify.com/album/1RYifRrTMcLIrGKOxTyt6N) | 2:49 | 2023-02-23 |  |
 | [Longing](https://open.spotify.com/track/2U7WtnPe5yrL8Om5Ml6P3v) | [Wynnm](https://open.spotify.com/artist/5OKbhPqXR4Xve2CSXW4T5K) | [Longing](https://open.spotify.com/album/5sqMOHMgo59ybNc2XXuoM8) | 3:14 | 2023-02-23 |  |
 | [Lost in a Dream](https://open.spotify.com/track/1BMKskvvqRdE6HfGcj8XbG) | [Gita Buhari](https://open.spotify.com/artist/24BUyCLuFoyt6qsfespK0D), [Fabrik](https://open.spotify.com/artist/0Tf7on9sUYYHevISgz3phb) | [Lost in a Dream](https://open.spotify.com/album/7JAvvJn4k4F9eD2czSDQUp) | 3:19 | 2023-02-23 |  |

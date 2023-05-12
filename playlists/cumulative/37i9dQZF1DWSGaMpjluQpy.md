@@ -4,11 +4,11 @@
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-81 songs - 4 hr 29 min
+83 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Flower is a Lonesome Thing](https://open.spotify.com/track/036pVPoObS9PcXjTe5bcql) | [Whitby Snell](https://open.spotify.com/artist/3OTOWvIOtIuWDCLStPVCKi) | [Whiskey, Jazz and the Storm](https://open.spotify.com/album/0mxC4rzCQSQXS4I4US98XQ) | 5:14 | 2023-04-27 |  |
+| [A Flower is a Lonesome Thing](https://open.spotify.com/track/036pVPoObS9PcXjTe5bcql) | [Whitby Snell](https://open.spotify.com/artist/3OTOWvIOtIuWDCLStPVCKi) | [Whiskey, Jazz and the Storm](https://open.spotify.com/album/0mxC4rzCQSQXS4I4US98XQ) | 5:14 | 2023-04-27 | 2023-05-12 |
 | [A Train to Cannes](https://open.spotify.com/track/4v0D6JR6PcHoahyrV9RtIf) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [Jazz in the Rain](https://open.spotify.com/album/5HnUNhdvVTF9T6QV5ThVGs) | 2:37 | 2023-04-27 |  |
 | [Abisko](https://open.spotify.com/track/6O82Wor9j2PUIm98Q8Ra8L) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Regnig Jazz](https://open.spotify.com/album/4A9kNX8zCaIeGL9yY54xMp) | 2:50 | 2023-04-27 |  |
 | [Absence](https://open.spotify.com/track/7BDaveBFLZDZKWH6uwlFXD) | [Neil Chapman Green](https://open.spotify.com/artist/5iyGZWUlM8wxizjjtBLGFZ) | [Jazz in the Rain](https://open.spotify.com/album/5HnUNhdvVTF9T6QV5ThVGs) | 3:12 | 2023-04-27 |  |
@@ -16,6 +16,7 @@
 | [Ain't Misbehavin' \- With Rain](https://open.spotify.com/track/3CLqFFKx3u8sYRfjcw5YKg) | [David Jenau](https://open.spotify.com/artist/5gmiFRkogpc9krRQuJsjlN) | [Ain't Misbehavin'](https://open.spotify.com/album/2PVnJTZBmjYKxzazZAwhxr) | 2:29 | 2023-04-27 |  |
 | [Almost Being in Love](https://open.spotify.com/track/2omqysIJo9PIwSMcMCz3cu) | [Damian Syslo](https://open.spotify.com/artist/16zAiqqDsHkJ3UPqS9vQiu) | [Almost Being in Love](https://open.spotify.com/album/3MVho0RdwGmZa3Nr3efad5) | 3:29 | 2023-04-27 |  |
 | [And All Is Well Now](https://open.spotify.com/track/0T2metNGLcq41M0OsIZNRu) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Jazz Lovin in the Rain](https://open.spotify.com/album/4XxldlvH0UopYK6GQpeoGJ) | 3:14 | 2023-04-27 |  |
+| [Between The Rain](https://open.spotify.com/track/5FagKEeBcZDoXo5AxEpcMg) | [Tyree](https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof) | [Between The Rain](https://open.spotify.com/album/7ijwsTk1qpmF3k5FIoT9cP) | 4:26 | 2023-05-11 |  |
 | [Blue Moon](https://open.spotify.com/track/6xEHmGdGA9ZnjwuHUD9EFm) | [Ray Wilshire](https://open.spotify.com/artist/7LuCANGo1IuYQvcOWPywMZ) | [Blue Moon](https://open.spotify.com/album/655YlNnJaQaflqOYHRUogN) | 3:37 | 2023-04-27 |  |
 | [Blue Tennessee](https://open.spotify.com/track/65xukQJeGh8BMUAPIGldf3) | [Dorothy Lee](https://open.spotify.com/artist/3o48LBxfAf2DslosQYX6Ud) | [Broken Promises](https://open.spotify.com/album/3PXGuFuHhepsRkdiMEeksR) | 3:46 | 2023-04-27 |  |
 | [Bring Some Lovin'](https://open.spotify.com/track/4kY4TFMLtGkbr3yclyHCeN) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [Jazz Lovin in the Rain](https://open.spotify.com/album/4XxldlvH0UopYK6GQpeoGJ) | 3:11 | 2023-04-27 |  |
@@ -38,7 +39,7 @@
 | [How High Is the Moon](https://open.spotify.com/track/49F5FzKXM1htgixJFaD7rM) | [Bruce Douglas](https://open.spotify.com/artist/4xwGJE9zR35fPIbbe8uSiH) | [How High Is the Moon](https://open.spotify.com/album/2UEkb0VLEZWU1c6U1waxxF) | 2:23 | 2023-04-27 |  |
 | [Hudson Square](https://open.spotify.com/track/4vdbfxd6ds6YeOHb5ZD6r2) | [Eric Merlino](https://open.spotify.com/artist/1vL7K80AJZnr8Y10olI96q) | [Hudson Square](https://open.spotify.com/album/3FqzYXSENE2fCy1bm78FVC) | 3:35 | 2023-05-04 |  |
 | [I Can't Get Started](https://open.spotify.com/track/6CJ14vzBSBk0C3FsfdkOtj) | [Bruce Douglas](https://open.spotify.com/artist/4xwGJE9zR35fPIbbe8uSiH) | [I Can't Get Started](https://open.spotify.com/album/2w15Chr6cX4ReS1qmZZO5e) | 2:25 | 2023-04-27 |  |
-| [I Get Along Without You Very Well \(Except Sometimes\)](https://open.spotify.com/track/0PcZFOrXlv0nJugncqh4za) | [Whitby Snell](https://open.spotify.com/artist/3OTOWvIOtIuWDCLStPVCKi) | [Whiskey, Jazz and the Storm](https://open.spotify.com/album/0mxC4rzCQSQXS4I4US98XQ) | 4:20 | 2023-04-27 |  |
+| [I Get Along Without You Very Well \(Except Sometimes\)](https://open.spotify.com/track/0PcZFOrXlv0nJugncqh4za) | [Whitby Snell](https://open.spotify.com/artist/3OTOWvIOtIuWDCLStPVCKi) | [Whiskey, Jazz and the Storm](https://open.spotify.com/album/0mxC4rzCQSQXS4I4US98XQ) | 4:20 | 2023-04-27 | 2023-05-12 |
 | [I've Never Been in Love Before](https://open.spotify.com/track/4k7mJbTrcpwGlcwBMYlgmW) | [Whitby Snell](https://open.spotify.com/artist/3OTOWvIOtIuWDCLStPVCKi) | [Whiskey, Jazz and the Storm](https://open.spotify.com/album/0mxC4rzCQSQXS4I4US98XQ) | 4:07 | 2023-04-27 |  |
 | [If I Were You](https://open.spotify.com/track/0wlTJUbii03xcQIbf6fHSa) | [Kingsbury Station](https://open.spotify.com/artist/0yaQHG0mUFfPP4QerRD3zD) | [Night Songs](https://open.spotify.com/album/1PUymjohkZif5MR150o773) | 3:39 | 2023-04-27 |  |
 | [In Bloom \- With Rain](https://open.spotify.com/track/05ZPyRm6eqKI0V2EZ9O2XJ) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [A Sunday Kind Of Love \- Rain version](https://open.spotify.com/album/2QzjNSEubnLtlAT4LdYmQs) | 2:56 | 2023-04-27 |  |
@@ -74,6 +75,7 @@
 | [Soft Like Rain](https://open.spotify.com/track/0VoOgcLPinspmfp1NJ0NR3) | [Anita Rosswell](https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk) | [Soft Like Rain](https://open.spotify.com/album/0ZYPNtaa3s06B4H2ano78w) | 2:51 | 2023-04-27 |  |
 | [Someone Elses Love \- Rainy Jazz](https://open.spotify.com/track/1FTkGoHuWlpH4rpxMMXrXv) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [Someone Elses Love \(Rainy Jazz\)](https://open.spotify.com/album/57L3y0yeaQBZ8sy4EvXF7U) | 3:46 | 2023-04-27 |  |
 | [Sommarnattens Skeende \- Rain Version](https://open.spotify.com/track/7m6xM40of1KJw6JRKcRmU8) | [Henning Witsell](https://open.spotify.com/artist/6O4yrTe0loBI2ZGPcMnrdF) | [Sommarnattens Skeende \(Rain Version\)](https://open.spotify.com/album/1aCRMnV31DGcpjJJPiwcMe) | 3:36 | 2023-04-27 |  |
+| [Spoonbills](https://open.spotify.com/track/0LM38lH2RI72dPmJ6KbBvw) | [Jonah Anderson](https://open.spotify.com/artist/5Pb7mQGBSkDqTrQKTKeSZa) | [Spoonbills](https://open.spotify.com/album/2XyxvwvFpE076GQF5HkKoc) | 3:29 | 2023-05-11 |  |
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/29Gr0GjylxtT8NnqYdzD0q) | [Jené Martins](https://open.spotify.com/artist/6ivuOAayX7AMI5dMc32BHo) | [Spring Can Really Hang You Up The Most](https://open.spotify.com/album/5ccUuk74VKOx1uSOZUxAUt) | 2:36 | 2023-04-27 |  |
 | [Steps Ahead \- with rain](https://open.spotify.com/track/09MFPunETQ5tfa2Nsisume) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [Steps Ahead \- with rain](https://open.spotify.com/album/17X0mXbnd5ma8fXI2dQ3Wi) | 3:24 | 2023-04-27 |  |
 | [Stillness \- Rainy Day Jazz](https://open.spotify.com/track/53AGT4gvkOHRhYiQP3RuOp) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Stillness \(Rainy Day Jazz\)](https://open.spotify.com/album/38aRLLKUYTDNW4a7E2I7hM) | 2:50 | 2023-04-27 |  |

@@ -1,12 +1,12 @@
 {
-  "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: Walter The Producer",
-  "num_followers": 177173,
+  "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: Waterbaby",
+  "num_followers": 177245,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGQwODhhNzI1ZjJkYTE0YmMwOGFhMmZlZTE2ZDkwM2M0YTA0OGNm",
+  "snapshot_id": "MCwxZWYxZTg0ZTM0MGRhODJmNjJhMDg0MDhhYjM2NTVkNTliNGFkNTk2",
   "tracks": [
     {
       "added_at": "2023-05-10 04:00:00",
@@ -121,6 +121,22 @@
       "url": "https://open.spotify.com/track/0HTdp0zc8NELjhPTbEp7PR"
     },
     {
+      "added_at": "2023-05-12 00:31:53",
+      "album": {
+        "name": "After I Changed (Demo)",
+        "url": "https://open.spotify.com/album/1lLvF5dDpO35wMBybwTXgt"
+      },
+      "artists": [
+        {
+          "name": "Tessa DeNicola",
+          "url": "https://open.spotify.com/artist/5yyUO4YtfoPkaTB794DXGh"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "After I Changed - Demo",
+      "url": "https://open.spotify.com/track/4CvfkQw8fSZHq5s5IfoiQw"
+    },
+    {
       "added_at": "2023-04-19 14:16:13",
       "album": {
         "name": "Since September",
@@ -183,6 +199,22 @@
       "duration_ms": 173469,
       "name": "(not) a love song",
       "url": "https://open.spotify.com/track/7uFFeZoWKKSBUixCDWkxmI"
+    },
+    {
+      "added_at": "2023-05-12 00:31:53",
+      "album": {
+        "name": "Stinks 4 Lyfe",
+        "url": "https://open.spotify.com/album/1U6LhGdZF7C7R70PDhtGQV"
+      },
+      "artists": [
+        {
+          "name": "Nymphlord",
+          "url": "https://open.spotify.com/artist/1yfevoyZUkL1AppRncgILh"
+        }
+      ],
+      "duration_ms": 190480,
+      "name": "Stinks 4 Lyfe",
+      "url": "https://open.spotify.com/track/6omYJzwD9CJarnbwe5BItE"
     },
     {
       "added_at": "2023-05-10 04:00:00",
@@ -695,22 +727,6 @@
       "duration_ms": 233470,
       "name": "Home, to you?",
       "url": "https://open.spotify.com/track/4UDlY0NA0V29fqp1g076k0"
-    },
-    {
-      "added_at": "2023-04-26 03:30:53",
-      "album": {
-        "name": "I Don't Like My Chances On The Outside",
-        "url": "https://open.spotify.com/album/6aD5li3XAl6aT4oTq8bE2M"
-      },
-      "artists": [
-        {
-          "name": "lilo",
-          "url": "https://open.spotify.com/artist/0UHZYAHCtBGKef12trPQrL"
-        }
-      ],
-      "duration_ms": 280549,
-      "name": "Spit Up",
-      "url": "https://open.spotify.com/track/0DYIVjRfixT8rHJyBkW3ns"
     },
     {
       "added_at": "2023-04-26 03:30:53",
@@ -1463,22 +1479,6 @@
       "duration_ms": 176647,
       "name": "How To Let Go",
       "url": "https://open.spotify.com/track/1kvHZx3AGcTg8N1NIge9Fm"
-    },
-    {
-      "added_at": "2023-04-12 04:01:16",
-      "album": {
-        "name": "fanfiction on the internet",
-        "url": "https://open.spotify.com/album/3UIMmbwPFk8ddSOaMM3lc1"
-      },
-      "artists": [
-        {
-          "name": "Jake Timothy",
-          "url": "https://open.spotify.com/artist/1WmCyL1N2PY1LF6b0E6Mfy"
-        }
-      ],
-      "duration_ms": 171431,
-      "name": "fanfiction on the internet",
-      "url": "https://open.spotify.com/track/1wgjeq97WULtZz0xKbLfLm"
     },
     {
       "added_at": "2023-04-05 16:09:05",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,078 songs - 2 day 8 hr 12 min
+1,079 songs - 2 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -704,7 +704,7 @@
 | [Motley Crew](https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Motley Crew](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) | 3:04 | 2021-07-11 | 2021-08-22 |
 | [Mr\. Lummer \(feat\. Stewart Stardust\)](https://open.spotify.com/track/43gebe9VUqbC0hEu92HpzZ) | [Ude Af Kontrol](https://open.spotify.com/artist/2ZbyyCS8KLKsuoNlxc76Ev), [Stewart Stardust](https://open.spotify.com/artist/4W37go9X8efhtDP1q9GCzK) | [Bedre Sent End Aldrig](https://open.spotify.com/album/5ltSOF7fD6ujjdKb3w9QsM) | 3:02 | 2023-02-24 | 2023-04-03 |
 | [Mucki Bar](https://open.spotify.com/track/31dynF6Vm6s6cLsHEBL8kp) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Mucki Bar](https://open.spotify.com/album/3pYdHv18QdrVPTldybOpSk) | 2:59 | 2022-02-12 | 2022-10-23 |
-| [Mucki Bar](https://open.spotify.com/track/4XhW9iOypxiiNyIMpirPFv) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Når sjælen kaster op](https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A) | 2:59 | 2022-10-22 |  |
+| [Mucki Bar](https://open.spotify.com/track/4XhW9iOypxiiNyIMpirPFv) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Når sjælen kaster op](https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A) | 2:59 | 2022-10-22 | 2023-05-12 |
 | [Mumler For Meget \(Artigeardit X Lamin\)](https://open.spotify.com/track/60OuNllvEgzkONpbhBd63M) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Ny Agenda](https://open.spotify.com/album/04DGAw94srEOUmHovIOyWW) | 2:11 | 2021-10-17 | 2021-11-02 |
 | [Mums](https://open.spotify.com/track/2UsR5UxsuKwJ2OovutZsjV) | [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [Mums](https://open.spotify.com/album/6u6jhjQf7JGaC2C2TcwHR3) | 2:29 | 2021-04-11 | 2021-06-01 |
 | [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 | 2022-05-21 | 2022-06-05 |
@@ -951,6 +951,7 @@
 | [Take My Breath](https://open.spotify.com/track/0XvDZGVqGYM7P4rgzRnWhq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 5:39 | 2022-01-08 | 2022-01-10 |
 | [Take My Breath](https://open.spotify.com/track/2vgUijXOTRMnWXDtvgMp2b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 5:39 | 2022-01-09 | 2022-01-15 |
 | [Taknemlig](https://open.spotify.com/track/53uDo6T6ChHeI19uYLjA3K) | [Ude Af Kontrol](https://open.spotify.com/artist/2ZbyyCS8KLKsuoNlxc76Ev) | [Taknemlig](https://open.spotify.com/album/7oLxuTvw9wKRvrSHn4wXd1) | 2:25 | 2022-01-28 | 2022-02-17 |
+| [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 | 2023-05-11 |  |
 | [TCM](https://open.spotify.com/track/6wDw0cRTo3AofOhJDVCWiF) | [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [TCM](https://open.spotify.com/album/13zqQy1h3E5u4Mofp8jUOz) | 2:38 | 2022-11-05 | 2022-11-14 |
 | [Tell The Vision](https://open.spotify.com/track/34TiQsddaGhd8lmzJfxSzH) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 1:44 | 2021-08-31 | 2021-09-02 |
 | [Tell The Vision \(feat\. Kanye West & Pusha T\)](https://open.spotify.com/track/2UwALqx6yOsXTFt7zRxnts) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:35 | 2021-07-18 | 2021-07-25 |

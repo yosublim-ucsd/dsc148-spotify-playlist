@@ -949,6 +949,24 @@
     },
     {
       "album": {
+        "name": "My Heart Stood Still",
+        "url": "https://open.spotify.com/album/1TNCzrqc6KnESILZX2knda"
+      },
+      "artists": [
+        {
+          "name": "Cole Laurence",
+          "url": "https://open.spotify.com/artist/1iw5lLOqWw7LhoKzm9G6dw"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140164,
+      "name": "My Heart Stood Still",
+      "url": "https://open.spotify.com/track/23xrHsJ6yEz1WJuBBqX2wt"
+    },
+    {
+      "album": {
         "name": "Day After Day",
         "url": "https://open.spotify.com/album/4CdfhCXT7I0uvRMssXrKd4"
       },

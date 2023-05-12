@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. ",
-  "num_followers": 8035,
+  "num_followers": 8061,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWViYmVkYmI4MTc0YjlmNDUzNDllY2MyZGE3NGE3NDM5OGYwNGVh",
+  "snapshot_id": "MCxlODE5MWViOTg2N2EzNWNmMDE3ZDU5NjZmZDdjYjM1YTc1NjhkZTQ3",
   "tracks": [
     {
       "added_at": "2023-04-03 18:54:44",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-04-03 18:54:44",
       "album": {
+        "name": "Rosa Melo",
+        "url": "https://open.spotify.com/album/11sm82wbfZzdTvxTA5NsoX"
+      },
+      "artists": [
+        {
+          "name": "La Gabi",
+          "url": "https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi"
+        }
+      ],
+      "duration_ms": 164853,
+      "name": "Rosa Melo",
+      "url": "https://open.spotify.com/track/7cd4zZ97AjsD9AbU0zZQxI"
+    },
+    {
+      "added_at": "2023-04-03 18:54:44",
+      "album": {
         "name": "Luces",
         "url": "https://open.spotify.com/album/7rnxldpaYk6eyIZQcriFrW"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 225470,
       "name": "Luces",
       "url": "https://open.spotify.com/track/0MYtnIKlYPYzVZfi1vSPFd"
-    },
-    {
-      "added_at": "2023-04-03 18:54:44",
-      "album": {
-        "name": "Rosa Melo",
-        "url": "https://open.spotify.com/album/11sm82wbfZzdTvxTA5NsoX"
-      },
-      "artists": [
-        {
-          "name": "La Gabi",
-          "url": "https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi"
-        }
-      ],
-      "duration_ms": 164853,
-      "name": "Rosa Melo",
-      "url": "https://open.spotify.com/track/7cd4zZ97AjsD9AbU0zZQxI"
     },
     {
       "added_at": "2023-04-03 18:54:44",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-04-03 18:54:44",
       "album": {
-        "name": "Para Mi",
-        "url": "https://open.spotify.com/album/4xALKUOR6fodvNlUKaOHti"
-      },
-      "artists": [
-        {
-          "name": "Anmily Brown",
-          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
-        }
-      ],
-      "duration_ms": 217411,
-      "name": "Para Mi",
-      "url": "https://open.spotify.com/track/4DW0XUPnGT6hWuJYZxErVX"
-    },
-    {
-      "added_at": "2023-04-03 18:54:44",
-      "album": {
         "name": "Si Tu Quieres",
         "url": "https://open.spotify.com/album/6uRf20wqSSfYmjwSC6wuYT"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 169336,
       "name": "Si Tu Quieres",
       "url": "https://open.spotify.com/track/3yC4gzNRrycuufTcRPSRx2"
+    },
+    {
+      "added_at": "2023-04-03 18:54:44",
+      "album": {
+        "name": "Para Mi",
+        "url": "https://open.spotify.com/album/4xALKUOR6fodvNlUKaOHti"
+      },
+      "artists": [
+        {
+          "name": "Anmily Brown",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+        }
+      ],
+      "duration_ms": 217411,
+      "name": "Para Mi",
+      "url": "https://open.spotify.com/track/4DW0XUPnGT6hWuJYZxErVX"
     },
     {
       "added_at": "2023-04-03 18:54:44",
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-04-03 18:54:44",
       "album": {
-        "name": "KLK TE PASA A TI",
-        "url": "https://open.spotify.com/album/6BLCH4XUfASbKUCIZ5Zko3"
+        "name": "Pa' El Alma",
+        "url": "https://open.spotify.com/album/0mQ5Zogqooq2V1S2k3gYUY"
       },
       "artists": [
         {
-          "name": "Rosaly Rubio",
-          "url": "https://open.spotify.com/artist/1RDmz5jLTAyj9onvIA4qv8"
+          "name": "Anmily Brown",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
         }
       ],
-      "duration_ms": 166533,
-      "name": "KLK TE PASA A TI",
-      "url": "https://open.spotify.com/track/4XSO2ESu4JENljsN2irGWz"
+      "duration_ms": 200930,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/4xuYmM0jxeQ7svyfZpciVl"
     },
     {
       "added_at": "2023-04-03 18:54:44",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-04-03 18:54:44",
       "album": {
-        "name": "Pa' El Alma",
-        "url": "https://open.spotify.com/album/0mQ5Zogqooq2V1S2k3gYUY"
+        "name": "KLK TE PASA A TI",
+        "url": "https://open.spotify.com/album/6BLCH4XUfASbKUCIZ5Zko3"
       },
       "artists": [
         {
-          "name": "Anmily Brown",
-          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+          "name": "Rosaly Rubio",
+          "url": "https://open.spotify.com/artist/1RDmz5jLTAyj9onvIA4qv8"
         }
       ],
-      "duration_ms": 200930,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/4xuYmM0jxeQ7svyfZpciVl"
+      "duration_ms": 166533,
+      "name": "KLK TE PASA A TI",
+      "url": "https://open.spotify.com/track/4XSO2ESu4JENljsN2irGWz"
     },
     {
       "added_at": "2023-04-03 18:54:44",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-04-03 18:54:44",
       "album": {
-        "name": "Noches X Madrid",
-        "url": "https://open.spotify.com/album/0y7pSZ8Z8CyuM2HhtEh1Zx"
-      },
-      "artists": [
-        {
-          "name": "Sara Deop",
-          "url": "https://open.spotify.com/artist/3Wb3zC9MU5MF0xdvaB8too"
-        }
-      ],
-      "duration_ms": 217480,
-      "name": "Noches X Madrid",
-      "url": "https://open.spotify.com/track/5sWZqNtHppp5FdxPEIJnIn"
-    },
-    {
-      "added_at": "2023-04-03 18:54:44",
-      "album": {
         "name": "Deja Que Te Lleve",
         "url": "https://open.spotify.com/album/36mgrUsQbHrpFcR7gA914n"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 203202,
       "name": "Deja Que Te Lleve",
       "url": "https://open.spotify.com/track/1cOCvJSFjmdvh4ByUGZf2V"
+    },
+    {
+      "added_at": "2023-04-03 18:54:44",
+      "album": {
+        "name": "Noches X Madrid",
+        "url": "https://open.spotify.com/album/0y7pSZ8Z8CyuM2HhtEh1Zx"
+      },
+      "artists": [
+        {
+          "name": "Sara Deop",
+          "url": "https://open.spotify.com/artist/3Wb3zC9MU5MF0xdvaB8too"
+        }
+      ],
+      "duration_ms": 217480,
+      "name": "Noches X Madrid",
+      "url": "https://open.spotify.com/track/5sWZqNtHppp5FdxPEIJnIn"
     },
     {
       "added_at": "2023-04-03 18:54:44",

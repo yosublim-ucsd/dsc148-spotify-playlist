@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Taylor Moss
 
-345 songs - 18 hr 52 min
+347 songs - 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [One Mississippi](https://open.spotify.com/track/4FdPnT2cFrpWCmWZd7GXc3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [One Mississippi](https://open.spotify.com/album/3VCaKLIlIDrfKvurZcTmBl) | 3:33 | 2021-12-30 | 2022-04-01 |
 | [One Of Them Nights](https://open.spotify.com/track/5nCsSiaW9gjTaobQ8Hj6zW) | [Travis Collins](https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m) | [One Of Them Nights](https://open.spotify.com/album/3BbMi5ff2Tj4OhRGrgk5Ue) | 3:05 | 2022-07-14 | 2023-02-10 |
 | [Only You](https://open.spotify.com/track/0BOAxZQ9xv738lfPKpBBsi) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [For You](https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN) | 3:05 | 2021-12-30 | 2022-03-18 |
-| [Our Church](https://open.spotify.com/track/1Y4dvnpSu7lLWnM571HWJV) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [Matt Cornell](https://open.spotify.com/artist/01eCwGI76wbxMepuNTetLg) | [Our Church](https://open.spotify.com/album/4B4LxUhDgy2eBRaT3UQFxX) | 3:39 | 2023-02-23 |  |
+| [Our Church](https://open.spotify.com/track/1Y4dvnpSu7lLWnM571HWJV) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [Matt Cornell](https://open.spotify.com/artist/01eCwGI76wbxMepuNTetLg) | [Our Church](https://open.spotify.com/album/4B4LxUhDgy2eBRaT3UQFxX) | 3:39 | 2023-02-23 | 2023-05-12 |
 | [Out Of That Truck](https://open.spotify.com/track/1xdsRkWxWWUkKhh9hRtfYp) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Out Of That Truck](https://open.spotify.com/album/7nglF1PaMAFKEzUq3reXiJ) | 2:57 | 2023-03-09 |  |
 | [Outrunnin' Your Memory](https://open.spotify.com/track/79gv58G6usuURwl6TlmBTu) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 4:14 | 2022-06-23 | 2022-09-16 |
 | [Over For You](https://open.spotify.com/track/3RF00zOzrrWKKoU7aIBaTS) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Over For You](https://open.spotify.com/album/1Q4VPZwThIxpobj0bck5g2) | 3:05 | 2022-10-20 |  |
@@ -243,12 +243,13 @@
 | [Right About Now](https://open.spotify.com/track/6wr9dPXfupWTsIUJv00LVF) | [Josh Setterfield](https://open.spotify.com/artist/7yEGY87VhZx21THIvHDO4u) | [Right About Now](https://open.spotify.com/album/2yts4vdn9werWgmEGm1rki) | 3:09 | 2021-12-30 | 2022-05-06 |
 | [Right Girl Wrong Time](https://open.spotify.com/track/7MBvjWbBm15AMifrfbhYWV) | [Route 33](https://open.spotify.com/artist/5KDFgnaOWRd3B8V1WQWZlE) | [Right Girl Wrong Time](https://open.spotify.com/album/3kq9aOY9UP76IllZeDs6jf) | 3:58 | 2022-12-08 | 2023-04-21 |
 | [Right On Time](https://open.spotify.com/track/3JF3flDpns4Djyjw7qkLlX) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Right On Time](https://open.spotify.com/album/5LjViqd1cA5hzu9qXaxSGh) | 3:06 | 2022-04-28 | 2022-08-05 |
-| [Rock and A Hard Place](https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Rock and A Hard Place](https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0) | 3:27 | 2022-07-28 |  |
+| [Rock and A Hard Place](https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Rock and A Hard Place](https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0) | 3:27 | 2022-07-28 | 2023-05-12 |
 | [Run](https://open.spotify.com/track/2bAO9bTWm6MVgbwkRAsXsX) | [Duncan Toombs](https://open.spotify.com/artist/5Jv0F98tukWFHhdP7ZNJq9) | [Run](https://open.spotify.com/album/78yV4DWQvR0FH2chARtUbS) | 4:03 | 2022-06-02 | 2022-08-05 |
 | [Run Out Of Road](https://open.spotify.com/track/6Qdy3AHJZbgY9dv4soh1yO) | [Melanie Dyer](https://open.spotify.com/artist/159pZhqLdWf1ttWtw0zBoL) | [Run Out Of Road](https://open.spotify.com/album/1CQ4RFvGLGvfFs1HyD4Is5) | 2:47 | 2021-12-30 | 2022-04-01 |
 | [Runnin'](https://open.spotify.com/track/7jWXoYMa2fd6xrIJ1AOcjb) | [Max Jackson](https://open.spotify.com/artist/6uxoiISyynknybWW6SQrTe) | [Runnin'](https://open.spotify.com/album/1gpSWtWJApKMdvqiATDGxe) | 3:06 | 2022-06-23 | 2022-09-30 |
 | [Saddle Up](https://open.spotify.com/track/5c9WfcLbtsElPTrbuXENTD) | [Sabrina Durante](https://open.spotify.com/artist/5PesT0eGdPuhh1eljhtaX3) | [Saddle Up](https://open.spotify.com/album/2e1QPulh95Dpf14ZN4iOUo) | 3:08 | 2022-06-16 | 2022-08-12 |
 | [SAME SONGS](https://open.spotify.com/track/0nEWAK1WHWThcDJJOxwwWb) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1), [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [SAME SONGS](https://open.spotify.com/album/0ZSrpmlrCc6n8MHRpTlx1r) | 2:47 | 2022-07-14 |  |
+| [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/4Ldp4ixS1y6SinsEn44a23) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Save Me \(with Lainey Wilson\)](https://open.spotify.com/album/31QoRLzmn0qTom75qfxEfE) | 3:57 | 2023-05-11 |  |
 | [settle on back](https://open.spotify.com/track/0Qfn33ruaFcBLZg5tZMung) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Songs From Tulip Drive](https://open.spotify.com/album/7Bx8uaFmLhWfsSQ7Ryz9Oy) | 3:20 | 2022-06-09 | 2022-07-29 |
 | [settle on back](https://open.spotify.com/track/7hlzL4fYmmKJV6TBpK9Zou) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Tulip Drive](https://open.spotify.com/album/4j5QWQbCjApOfP5howYsZX) | 3:20 | 2022-07-28 | 2022-09-30 |
 | [She Don’t Know](https://open.spotify.com/track/7itpOy1ioRAQ65qA6NFoLU) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [She Don't Know](https://open.spotify.com/album/0zJHPS083IYpj5HunA3eha) | 3:29 | 2022-05-19 | 2022-08-26 |
@@ -274,7 +275,7 @@
 | [Song For That](https://open.spotify.com/track/16n6CeG5RSJl2rHwT7iPeV) | [Melanie Dyer](https://open.spotify.com/artist/159pZhqLdWf1ttWtw0zBoL) | [Song For That](https://open.spotify.com/album/620OUzRNp0w5u5BKzr1yD6) | 3:35 | 2023-04-06 |  |
 | [Soul](https://open.spotify.com/track/3vCUelLOtiuNF78p9LNWZF) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hey World](https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r) | 2:47 | 2022-04-14 | 2022-09-16 |
 | [South On Ya](https://open.spotify.com/track/0cvmA0xg8FkzKvBnO8987X) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [South On Ya](https://open.spotify.com/album/2bnuOCorMF9NzCFQegmfnC) | 2:51 | 2021-12-30 | 2022-06-03 |
-| [Spin Me Around](https://open.spotify.com/track/11O5vNAyZk5Ls2NcuALmcj) | [HUTCH](https://open.spotify.com/artist/55qwxSOjW4bmtSEI8INDpQ) | [Spin Me Around](https://open.spotify.com/album/5MIy6bDypXVV3G9OIFH1VK) | 3:04 | 2022-12-08 |  |
+| [Spin Me Around](https://open.spotify.com/track/11O5vNAyZk5Ls2NcuALmcj) | [HUTCH](https://open.spotify.com/artist/55qwxSOjW4bmtSEI8INDpQ) | [Spin Me Around](https://open.spotify.com/album/5MIy6bDypXVV3G9OIFH1VK) | 3:04 | 2022-12-08 | 2023-05-12 |
 | [Standing Room Only](https://open.spotify.com/track/6BOP0cv1eeXcvi1oE8bDVZ) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Standing Room Only](https://open.spotify.com/album/3Rg5omHq5NUUpRQq6Bsuuw) | 3:46 | 2023-03-09 |  |
 | [Start Nowhere](https://open.spotify.com/track/33bMASZzuBL82YERsMyozx) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Start Nowhere](https://open.spotify.com/album/2T1qRB6zSSGdNgcTD3Dg8H) | 3:13 | 2022-11-24 |  |
 | [Startin' Something](https://open.spotify.com/track/5ncsghcdHl3odHvkIl8y3P) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma), [LOCASH](https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ) | [Startin' Something](https://open.spotify.com/album/1GIquCAg1ScgEkO2yP1fAE) | 3:00 | 2021-12-30 | 2022-03-25 |
@@ -351,6 +352,7 @@
 | [You](https://open.spotify.com/track/2xPV95cfbyusygMTxpa3SW) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 3:16 | 2022-06-16 | 2022-10-07 |
 | [you and i](https://open.spotify.com/track/3jON45G4VACuJLaTrxyo24) | [Emmagen Rain](https://open.spotify.com/artist/49eeshhMCwAN2P4HubqQQg) | [you and i](https://open.spotify.com/album/0C9jaTxfUQQBlMLBG4XD4E) | 3:26 | 2022-04-07 | 2022-06-24 |
 | [You Didn’t](https://open.spotify.com/track/5Jwcv2Le3Klwgrgyqa12ZA) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Different These Days](https://open.spotify.com/album/2JJ2v7A5nR6HaYxyO2T0PX) | 3:45 | 2022-11-03 | 2023-04-21 |
+| [You Don’t Want That Smoke](https://open.spotify.com/track/5uPQjirx9C6MS47V556x46) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:20 | 2023-05-11 |  |
 | [You Proof](https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [You Proof](https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI) | 2:37 | 2022-05-12 | 2022-12-05 |
 | [Young Lovers](https://open.spotify.com/track/1bTL636ZejLR9VEgaLHMOU) | [Andrew Swift](https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd) | [Young Lovers](https://open.spotify.com/album/4pPOeH8ptXvDiLLohk0c5C) | 3:38 | 2022-04-07 | 2022-06-24 |
 

@@ -6,8 +6,28 @@
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "MTY5OSwwN2VhN2RkMTE2NjlkMTgwMjQ2YTdmYzQ3OTQ0NTE0ZjkzZjFlMzIw",
+  "snapshot_id": "MTcwMCw5Y2ZiODY4MGZlMjg3ZWM1ZmQ2MzI2OWNhMDA5N2Q2MDk2ZTlmY2Iy",
   "tracks": [
+    {
+      "added_at": "2023-05-12 00:44:41",
+      "album": {
+        "name": "Not Without My Ghosts",
+        "url": "https://open.spotify.com/album/1DJMBstIfRxwwJlgoJjRq8"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        },
+        {
+          "name": "Andrew Neufeld",
+          "url": "https://open.spotify.com/artist/7nJcYa3cIWMFGYX34tkkuq"
+        }
+      ],
+      "duration_ms": 247518,
+      "name": "Death and The Setting Sun (feat. Andrew Neufeld)",
+      "url": "https://open.spotify.com/track/0ZDJWv1ReLqm9Ktn4k6pLQ"
+    },
     {
       "added_at": "2023-05-05 00:57:17",
       "album": {

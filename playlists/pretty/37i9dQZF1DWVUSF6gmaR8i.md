@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUSF6gmaR8i.md) - [plain]
 
 > Kick back with a collection of classic and new piano rock and pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,897 likes - 40 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,910 likes - 40 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUSF6gmaR8i.md) - [plain]
 | 39 | [Winter \- 2015 Remaster](https://open.spotify.com/track/11dfOCV0oBxzZ9fi2PZhvS) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Little Earthquakes \(Deluxe Edition\)](https://open.spotify.com/album/5bxqwBKvCyB67zOEVCrFZE) | 5:41 |
 | 40 | [Because I Love You \(The Postman Song\)](https://open.spotify.com/track/6R6tcLW1G8SBSLtfQlXVFM) | [Stevie B](https://open.spotify.com/artist/6V7pNWhlJpD0s0bMdB1PU9) | [Hits Anthology](https://open.spotify.com/album/7tMugpfjOtQcyIEcmJLoGd) | 4:14 |
 
-Snapshot ID: `MCw2NTIwZDJhNWE3ZmExMTNjYmE5OTE2Y2FjMDc0OGI3ZmViZDFhOTlj`
+Snapshot ID: `MCxmMDExNDMzMjczMjRkMTg1ZjNjNGNlYWEzY2E1Njg5ODBlODUwMTE0`

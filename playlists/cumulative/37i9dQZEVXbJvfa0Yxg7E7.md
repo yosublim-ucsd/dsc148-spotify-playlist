@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,081 songs - 2 day 8 hr 16 min
+1,082 songs - 2 day 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-02-23 | 2023-05-07 |
 | [Celestial](https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Celestial](https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29) | 3:29 | 2022-10-01 | 2022-10-06 |
 | [Celestial](https://open.spotify.com/track/7xTDT7gyIrv0xWpwwXExxU) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/4Hmz9dqVLEO7eVcXNTqkH2) | 3:29 | 2022-10-05 | 2022-10-09 |
+| [Cha Cha Cha](https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Cha Cha Cha](https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6) | 2:55 | 2023-05-11 |  |
 | [Champagne Poetry](https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:36 | 2021-09-05 | 2021-09-12 |
 | [Chanel \(feat\. Oscar Blesson\)](https://open.spotify.com/track/16yxSuFoElyE1rXVreeAwc) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE), [Oscar Blesson](https://open.spotify.com/artist/34yalNbmu76FgEtORg2yVp) | [Chanel \(feat\. Oscar Blesson\)](https://open.spotify.com/album/7sJ6GDv3MiWdtefpLrKUoy) | 2:52 | 2022-08-13 | 2022-08-15 |
 | [chaotic](https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [chaotic](https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau) | 2:58 | 2022-03-26 | 2022-04-24 |
@@ -268,7 +269,7 @@
 | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/track/5rW7qTn83sCKtqBoneJs63) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [eat ya veggies](https://open.spotify.com/album/6iMshsixZe8oMteQdln5kp) | 2:13 | 2021-10-10 | 2022-01-30 |
 | [Eg ser](https://open.spotify.com/track/4ULQ5xvwpOpGflc92it2XK) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Eg ser](https://open.spotify.com/album/637ziUK1gjsSIxo4z1NGDA) | 3:28 | 2023-01-03 | 2023-01-29 |
 | [eg ser deg](https://open.spotify.com/track/2QtRn7ZwO1w5wlmngLgwT7) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL) | [KLIPP MEG I TI OG LIM MEG SAMMEN](https://open.spotify.com/album/52Eswe56mkWTeoMOWkz941) | 3:07 | 2021-10-23 | 2021-11-14 |
-| [Egoland](https://open.spotify.com/track/3rdQWyObsoGvzVUkEqlWS7) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 2:11 | 2023-04-14 |  |
+| [Egoland](https://open.spotify.com/track/3rdQWyObsoGvzVUkEqlWS7) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 2:11 | 2023-04-14 | 2023-05-12 |
 | [Ekko inni meg](https://open.spotify.com/track/0xbSjXWyD0M1ucTtKHPd2N) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Silke](https://open.spotify.com/artist/1CfY8GMX1i8Wd0OVlXt0MG) | [Ekko inni meg](https://open.spotify.com/album/2Ly8kCvCldHcmyy1YmSaCv) | 2:53 | 2023-01-18 | 2023-03-31 |
 | [El Diablo](https://open.spotify.com/track/0DGduxy7YSuqXm272C2LM6) | [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU) | [El Diablo](https://open.spotify.com/album/0hddqJaLbuagDCHHSgULIm) | 3:01 | 2021-05-30 | 2021-08-20 |
 | [El Diablo](https://open.spotify.com/track/5qqQgao22OUr6rx3y0TPIe) | [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU) | [El Diablo](https://open.spotify.com/album/4qtyEsRH9iNX3eDcYpeQzB) | 3:01 | 2021-05-21 | 2021-05-30 |

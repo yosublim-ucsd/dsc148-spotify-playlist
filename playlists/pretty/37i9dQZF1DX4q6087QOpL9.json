@@ -1,12 +1,12 @@
 {
   "description": "That real soulful house sound. Cover: Kerri Chandler",
-  "num_followers": 70017,
+  "num_followers": 70092,
   "original_name": "Soulful House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWNkZDExYmJkNWQ2MjkyYzA4MjY0N2JjYTk0MTU4NGQwNWFlZjUy",
+  "snapshot_id": "MCwxYTBiOTM1MzEzOTQyNjY1NDU5NGMzMjhhNTQwMWYxZDE1MzJiNjhk",
   "tracks": [
     {
       "added_at": "2023-03-07 17:49:21",
@@ -251,26 +251,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Can't Hold Back",
-        "url": "https://open.spotify.com/album/0o160SeLNBA1GKDVVDrQCJ"
-      },
-      "artists": [
-        {
-          "name": "Georg Levin",
-          "url": "https://open.spotify.com/artist/5irzRcjrMrXFfQqCoDkuW5"
-        },
-        {
-          "name": "Clara Hill",
-          "url": "https://open.spotify.com/artist/4RHulYLsymySn2JlGzyXfc"
-        }
-      ],
-      "duration_ms": 377193,
-      "name": "(I Got) Somebody New",
-      "url": "https://open.spotify.com/track/2P0N8yitkDrt4izIDSCvxO"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/0gQB99eBkdZLBrMc32ybnY"
       },
@@ -287,6 +267,26 @@
       "duration_ms": 504693,
       "name": "1960 What? - Opolopo Remix",
       "url": "https://open.spotify.com/track/0nWzUKXBEDxSJEfEFHcOUm"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "Can't Hold Back",
+        "url": "https://open.spotify.com/album/0o160SeLNBA1GKDVVDrQCJ"
+      },
+      "artists": [
+        {
+          "name": "Georg Levin",
+          "url": "https://open.spotify.com/artist/5irzRcjrMrXFfQqCoDkuW5"
+        },
+        {
+          "name": "Clara Hill",
+          "url": "https://open.spotify.com/artist/4RHulYLsymySn2JlGzyXfc"
+        }
+      ],
+      "duration_ms": 377193,
+      "name": "(I Got) Somebody New",
+      "url": "https://open.spotify.com/track/2P0N8yitkDrt4izIDSCvxO"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Black Mahogani",
-        "url": "https://open.spotify.com/album/224OuhZ1LThmaYGhD8ikq6"
-      },
-      "artists": [
-        {
-          "name": "Moodymann",
-          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
-        }
-      ],
-      "duration_ms": 415933,
-      "name": "Shades of Jae",
-      "url": "https://open.spotify.com/track/2jzdxxtPk8hI5AlVJMI1dh"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "Atmosfear",
         "url": "https://open.spotify.com/album/6l6VDvfN2xbSz6sFDXWJxz"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 310040,
       "name": "Colouration",
       "url": "https://open.spotify.com/track/5R0O1izXn9jy0PQn1Ki2Lt"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "Black Mahogani",
+        "url": "https://open.spotify.com/album/224OuhZ1LThmaYGhD8ikq6"
+      },
+      "artists": [
+        {
+          "name": "Moodymann",
+          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
+        }
+      ],
+      "duration_ms": 415933,
+      "name": "Shades of Jae",
+      "url": "https://open.spotify.com/track/2jzdxxtPk8hI5AlVJMI1dh"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -991,26 +991,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Love Changes (feat. Alana) [MK & MAW Mixes]",
-        "url": "https://open.spotify.com/album/4cmId3QzYdFI4TolxhFFSd"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Alana",
-          "url": "https://open.spotify.com/artist/6o0afeOTvBXVvX5LpMBP7u"
-        }
-      ],
-      "duration_ms": 391883,
-      "name": "Love Changes (feat. Alana) - Deep Mix",
-      "url": "https://open.spotify.com/track/00s9Ptk5N4QUYOf4CHP6c3"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "Future Remixed",
         "url": "https://open.spotify.com/album/0IMvU6xwpYKdc8tP3n8LI8"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 468466,
       "name": "Nights Over Egypt - Masters At Work Main Mix",
       "url": "https://open.spotify.com/track/12zzhQCnWxYoLdWUFgchG2"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "Love Changes (feat. Alana) [MK & MAW Mixes]",
+        "url": "https://open.spotify.com/album/4cmId3QzYdFI4TolxhFFSd"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Alana",
+          "url": "https://open.spotify.com/artist/6o0afeOTvBXVvX5LpMBP7u"
+        }
+      ],
+      "duration_ms": 391883,
+      "name": "Love Changes (feat. Alana) - Deep Mix",
+      "url": "https://open.spotify.com/track/00s9Ptk5N4QUYOf4CHP6c3"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1619,22 +1619,18 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Timeless Vol. 4",
-        "url": "https://open.spotify.com/album/4fl5mvQpEBICZVHFCE01OU"
+        "name": "The Afro Club Night",
+        "url": "https://open.spotify.com/album/0BT0H5aadr5TFW8pl4yY4K"
       },
       "artists": [
         {
-          "name": "Elements Of Life",
-          "url": "https://open.spotify.com/artist/7mh2KTUbqQROMaiSohjL8t"
-        },
-        {
-          "name": "Lisa Fischer",
-          "url": "https://open.spotify.com/artist/75NLTo547GvC8W5gmRDLLn"
+          "name": "Men From The Nile",
+          "url": "https://open.spotify.com/artist/40dtUsUbqQfyoQ6Ec5XpYO"
         }
       ],
-      "duration_ms": 577426,
-      "name": "Into My Life - Roots Mix",
-      "url": "https://open.spotify.com/track/3lVQjR2V8Zjz1thimpgor8"
+      "duration_ms": 335506,
+      "name": "Watch Them Come (Men from the Nile aka Roy Davis Jr.)",
+      "url": "https://open.spotify.com/track/6SNja7FTHw7sazeyKqdk28"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1659,18 +1655,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "The Afro Club Night",
-        "url": "https://open.spotify.com/album/0BT0H5aadr5TFW8pl4yY4K"
+        "name": "Timeless Vol. 4",
+        "url": "https://open.spotify.com/album/4fl5mvQpEBICZVHFCE01OU"
       },
       "artists": [
         {
-          "name": "Men From The Nile",
-          "url": "https://open.spotify.com/artist/40dtUsUbqQfyoQ6Ec5XpYO"
+          "name": "Elements Of Life",
+          "url": "https://open.spotify.com/artist/7mh2KTUbqQROMaiSohjL8t"
+        },
+        {
+          "name": "Lisa Fischer",
+          "url": "https://open.spotify.com/artist/75NLTo547GvC8W5gmRDLLn"
         }
       ],
-      "duration_ms": 335506,
-      "name": "Watch Them Come (Men from the Nile aka Roy Davis Jr.)",
-      "url": "https://open.spotify.com/track/6SNja7FTHw7sazeyKqdk28"
+      "duration_ms": 577426,
+      "name": "Into My Life - Roots Mix",
+      "url": "https://open.spotify.com/track/3lVQjR2V8Zjz1thimpgor8"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2035,6 +2035,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Deep House Anthems",
+        "url": "https://open.spotify.com/album/1SzBvO7yYYh7DtHbxECwxh"
+      },
+      "artists": [
+        {
+          "name": "Sounds Of Blackness",
+          "url": "https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9"
+        }
+      ],
+      "duration_ms": 504933,
+      "name": "The Pressure - Frankie Knuckles Classic Mix (With Intro)",
+      "url": "https://open.spotify.com/track/4oEmebMDofPYbVSsbQYwF8"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "There Is Soul in My House",
         "url": "https://open.spotify.com/album/0mtSczfPaltwZlDzGEwD0M"
       },
@@ -2051,22 +2067,6 @@
       "duration_ms": 488266,
       "name": "I'm Free - Main Mix",
       "url": "https://open.spotify.com/track/3ZW2pHUEgX65rINbaqzZA7"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Deep House Anthems",
-        "url": "https://open.spotify.com/album/1SzBvO7yYYh7DtHbxECwxh"
-      },
-      "artists": [
-        {
-          "name": "Sounds Of Blackness",
-          "url": "https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9"
-        }
-      ],
-      "duration_ms": 504933,
-      "name": "The Pressure - Frankie Knuckles Classic Mix (With Intro)",
-      "url": "https://open.spotify.com/track/4oEmebMDofPYbVSsbQYwF8"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2191,6 +2191,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Dedication EP",
+        "url": "https://open.spotify.com/album/3Kq6Nk7TIM4qNQ86iaUJbq"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 193560,
+      "name": "Cosmic Signs",
+      "url": "https://open.spotify.com/track/0TIHCDsma88XmpH7oHUEPj"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/7if5T5GgLmQbe2uaZBcTAZ"
       },
@@ -2207,22 +2223,6 @@
       "duration_ms": 497280,
       "name": "Rain - Terry Hunter Rainy Daze Remix",
       "url": "https://open.spotify.com/track/6X91fIkR4u3cdB5nA74VSY"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Dedication EP",
-        "url": "https://open.spotify.com/album/3Kq6Nk7TIM4qNQ86iaUJbq"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 193560,
-      "name": "Cosmic Signs",
-      "url": "https://open.spotify.com/track/0TIHCDsma88XmpH7oHUEPj"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2631,6 +2631,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Turntables on the Hudson: Twenty Years of Good Vibes (20 Year Anniversary)",
+        "url": "https://open.spotify.com/album/5sgsO9BDA1z8DTNa5kXIkv"
+      },
+      "artists": [
+        {
+          "name": "Joaquin \"Joe\" Claussell",
+          "url": "https://open.spotify.com/artist/3VMySRm8fO4XQIDfEnVlro"
+        }
+      ],
+      "duration_ms": 447026,
+      "name": "Je Ka Jo - Demo Mix",
+      "url": "https://open.spotify.com/track/1IlYrlylgU4hsdnMNlyWES"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/4FQ6GPr9THpyZh2AlbHB26"
       },
@@ -2647,22 +2663,6 @@
       "duration_ms": 414720,
       "name": "Closer - Original Mix",
       "url": "https://open.spotify.com/track/2aWKUNDJI9dpEGQY2BVtjb"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Turntables on the Hudson: Twenty Years of Good Vibes (20 Year Anniversary)",
-        "url": "https://open.spotify.com/album/5sgsO9BDA1z8DTNa5kXIkv"
-      },
-      "artists": [
-        {
-          "name": "Joaquin \"Joe\" Claussell",
-          "url": "https://open.spotify.com/artist/3VMySRm8fO4XQIDfEnVlro"
-        }
-      ],
-      "duration_ms": 447026,
-      "name": "Je Ka Jo - Demo Mix",
-      "url": "https://open.spotify.com/track/1IlYrlylgU4hsdnMNlyWES"
     },
     {
       "added_at": "2023-03-07 17:49:21",

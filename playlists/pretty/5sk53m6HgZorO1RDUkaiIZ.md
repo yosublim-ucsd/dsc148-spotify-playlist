@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5sk53m6HgZorO1RDUkaiIZ.md) - [plain]
 
 > All confirmed artists at the Bråvalla Festival 2017! June 28th \- July 1st, Norrköping, Sweden\. <a href="http://www.bravallafestival.se/">www.bravallafestival.se</a>
 
-[Bråvalla Festival](https://open.spotify.com/user/br%C3%A5valla.festival) - 8,145 likes - 159 songs - 10 hr 4 min
+[Bråvalla Festival](https://open.spotify.com/user/br%C3%A5valla.festival) - 8,144 likes - 159 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,7 +146,7 @@ pretty - [cumulative](/playlists/cumulative/5sk53m6HgZorO1RDUkaiIZ.md) - [plain]
 | 136 | [Effortless](https://open.spotify.com/track/23pZgY01lBlbwGyLIqZHt1) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Homeward Bound](https://open.spotify.com/album/4dnV2SIeaxSpNqNY2TC9QZ) | 3:00 |
 | 137 | [Dive \(feat\. Enya and Alex Aris\)](https://open.spotify.com/track/6eEZH8Y3lgmILNqt6SP1Xn) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F), [Alex Aris](https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G), [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [Dive](https://open.spotify.com/album/5N6BUFEAqwbVB1aiXBaElt) | 3:21 |
 | 138 | [FLAGS!](https://open.spotify.com/track/1e64FgGi3ADV9YHlPpYhUY) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [LIOHN](https://open.spotify.com/artist/44HW6eRUCYQKCCuUYoc5CQ), [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [FLAGS!](https://open.spotify.com/album/6yKmUzuAUWC04thsWPHfOZ) | 3:05 |
-| 139 | [The Logical Song \- Radio Edit \[Remastered\]](https://open.spotify.com/track/0OpsdOxCH5frtDmBNRQDEF) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [The Stadium Techno Experience \(20 Years of Hardcore Expanded Editon\)](https://open.spotify.com/album/0A50btQ2ALpobAG4jO63Iw) | 3:54 |
+| 139 | [The Logical Song \- Radio Edit \[Remastered\]](https://open.spotify.com/track/0OpsdOxCH5frtDmBNRQDEF) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [The Stadium Techno Experience \(20 Years of Hardcore Expanded Editon\) \[Remastered\]](https://open.spotify.com/album/0A50btQ2ALpobAG4jO63Iw) | 3:54 |
 | 140 | [How Much Is the Fish?](https://open.spotify.com/track/3AznTGybdNhTBJWoZgx9tg) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [No Time To Chill](https://open.spotify.com/album/3hQGYIYWsjLjPHZ4aHQzes) | 3:46 |
 | 141 | [Varma Gator](https://open.spotify.com/track/0DnNxJsxc5rLkc1a9Rablu) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Naturkraft](https://open.spotify.com/album/1WUagXFvCh1pnAj9hJSFnp) | 3:59 |
 | 142 | [För Evigt](https://open.spotify.com/track/14xZtVbG1Ue1Bv8fbVVSl5) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [Marlene](https://open.spotify.com/artist/0pAV5GaO9ak8wk1NnF37Cl) | [För Evigt](https://open.spotify.com/album/66gGBaMEf92Tt8mPpGxTMx) | 3:23 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Rap napoletano e il meglio della scena campana. Yung Snapp, Lele Blade e Icy Subzero in cover.",
+  "description": "Rap napoletano e il meglio della scena campana. Luch\u00e8 in cover.",
   "name": "Int 'o Rione",
   "tracks": [
     {
@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 161890,
       "name": "64 Bare",
       "url": "https://open.spotify.com/track/2hgdx2fVpYncIrV4IDMZoF"
@@ -902,7 +902,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 149649,
       "name": "Dio nun c mann a nisciun",
       "url": "https://open.spotify.com/track/3JVHZwqC5nz9ikKg6nUjn6"
@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 166763,
       "name": "FUOC X SEMP",
       "url": "https://open.spotify.com/track/6PoAFFOQiLzXOFeD3EbiaL"
@@ -1812,7 +1812,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 172527,
       "name": "Mammamia",
       "url": "https://open.spotify.com/track/7dleWMhBVJBsdzKYrhCrm5"
@@ -1838,7 +1838,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 186416,
       "name": "Mancav L'Aria",
       "url": "https://open.spotify.com/track/3bBflboYir1YamBJMVtBfZ"
@@ -2456,7 +2456,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 157714,
       "name": "NUN VUO",
       "url": "https://open.spotify.com/track/44vzim5wQgd5lG2gApF5uF"
@@ -2827,6 +2827,28 @@
     },
     {
       "album": {
+        "name": "Piazza Affari",
+        "url": "https://open.spotify.com/album/1ZToE2WrAGtomIllERroNM"
+      },
+      "artists": [
+        {
+          "name": "Mooncler",
+          "url": "https://open.spotify.com/artist/0BDxLYk6ELncPbNil9xCj7"
+        },
+        {
+          "name": "Rafil\u00f9",
+          "url": "https://open.spotify.com/artist/3ylMgftNTGy7cZgkWL82fJ"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "Piazza Affari",
+      "url": "https://open.spotify.com/track/0irM9vSb4u8dUWMgAbANrJ"
+    },
+    {
+      "album": {
         "name": "PNT #1 - Punti di vista",
         "url": "https://open.spotify.com/album/12jRhgG3sfQQtIgjVYfSaB"
       },
@@ -3066,6 +3088,28 @@
       "duration_ms": 184000,
       "name": "RICCHEZZA",
       "url": "https://open.spotify.com/track/1ZtubpenKBRE4ACrynt0MA"
+    },
+    {
+      "album": {
+        "name": "Royalty (Stirpe Nova, Vol.2)",
+        "url": "https://open.spotify.com/album/0eNJ6p3SIEa9o6PxJV35Bn"
+      },
+      "artists": [
+        {
+          "name": "Nt\u00f2",
+          "url": "https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96"
+        },
+        {
+          "name": "Baloo",
+          "url": "https://open.spotify.com/artist/7fjRLtiDvaLA8CeqGCmEYA"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177288,
+      "name": "Royalty",
+      "url": "https://open.spotify.com/track/21kRy3Z2XAL80IOabWrOnx"
     },
     {
       "album": {
@@ -3420,7 +3464,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 147169,
       "name": "SOUTH",
       "url": "https://open.spotify.com/track/0wEo8YvNfaUwLNZtOuB1uL"

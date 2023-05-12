@@ -182,7 +182,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 173053,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/4o5tHS1nMLrBZD2WfUPMn8"
@@ -240,6 +240,24 @@
       "duration_ms": 203772,
       "name": "Can't Nobody",
       "url": "https://open.spotify.com/track/3QjMxiTf0OBM729FA0AqZy"
+    },
+    {
+      "album": {
+        "name": "Changing Lanes",
+        "url": "https://open.spotify.com/album/72aGx6oYmgBLunbmHbgmPE"
+      },
+      "artists": [
+        {
+          "name": "Maurice van Hoek",
+          "url": "https://open.spotify.com/artist/0XKAZ6AUBdENziqwAdzkD4"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178805,
+      "name": "Changing Lanes",
+      "url": "https://open.spotify.com/track/6Qh1GNWfKNx3gn3WOA9sLQ"
     },
     {
       "album": {
@@ -450,7 +468,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 192640,
       "name": "Going Home",
       "url": "https://open.spotify.com/track/79Y9I1GYMaNEfVwEDmWh28"
@@ -727,6 +745,24 @@
     },
     {
       "album": {
+        "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/6npPpBrnnwLpUJwbFULGjs"
+      },
+      "artists": [
+        {
+          "name": "Dami\u00ebn Van Elburg",
+          "url": "https://open.spotify.com/artist/5AfiMBS3lNh5qbmqpTgMmO"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201086,
+      "name": "My Love Is On The Run",
+      "url": "https://open.spotify.com/track/1HUPYoXCbnhQnwsKbZBwzQ"
+    },
+    {
+      "album": {
         "name": "Once Upon A Town",
         "url": "https://open.spotify.com/album/5uPvRkqZrTkRvIufbRFvt4"
       },
@@ -738,7 +774,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 179250,
       "name": "Once Upon A Town",
       "url": "https://open.spotify.com/track/32qnA2AzhYiz9QfSMVvgo3"
@@ -1198,6 +1234,24 @@
       "duration_ms": 124986,
       "name": "Whatever Turns You On",
       "url": "https://open.spotify.com/track/1IiRUmC1fhDscYS90FxWKz"
+    },
+    {
+      "album": {
+        "name": "When Lovers Become Friends",
+        "url": "https://open.spotify.com/album/4fpgBmFlpiWb5Y8hpGQl7l"
+      },
+      "artists": [
+        {
+          "name": "Mattanja Joy Bradley",
+          "url": "https://open.spotify.com/artist/6u9tyg6IXImKbuB5J12ush"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239029,
+      "name": "When Lovers Become Friends",
+      "url": "https://open.spotify.com/track/20lnlhGmHmGwquzYCcRygq"
     },
     {
       "album": {

@@ -652,7 +652,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 162928,
       "name": "Artista",
       "url": "https://open.spotify.com/track/1udnOPrXmtePMIYq2nOqqJ"
@@ -772,7 +772,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 221198,
       "name": "Baby",
       "url": "https://open.spotify.com/track/2pEHLvTEzLoSePd831mQR3"
@@ -1123,6 +1123,24 @@
     },
     {
       "album": {
+        "name": "Can\u00e7\u00e3o das Maias",
+        "url": "https://open.spotify.com/album/1H6M83OrUAEjk3iKurTmYA"
+      },
+      "artists": [
+        {
+          "name": "Ri\u00e7a",
+          "url": "https://open.spotify.com/artist/3MJelg6WWGVD9xNL1xFSIE"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306523,
+      "name": "Can\u00e7\u00e3o das Maias",
+      "url": "https://open.spotify.com/track/5hDxZwVGoNpuA3JYFntfHS"
+    },
+    {
+      "album": {
         "name": "CARAMETADE",
         "url": "https://open.spotify.com/album/0lLCDpT6xR95zwvTkvUScC"
       },
@@ -1134,7 +1152,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 151578,
       "name": "CARAMETADE",
       "url": "https://open.spotify.com/track/4MuFixQVAh5JsugfVuXl6T"
@@ -2403,6 +2421,24 @@
     },
     {
       "album": {
+        "name": "Escuta",
+        "url": "https://open.spotify.com/album/302DUwhGsz65OAPVNlGm26"
+      },
+      "artists": [
+        {
+          "name": "Murta",
+          "url": "https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142664,
+      "name": "Escuta",
+      "url": "https://open.spotify.com/track/2hnBtwMS2rEZ2tXNEgBYxt"
+    },
+    {
+      "album": {
         "name": "Essa Vida \u00e9 Louca",
         "url": "https://open.spotify.com/album/3qs08ewXLj2RbX7uE75973"
       },
@@ -2604,7 +2640,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 208163,
       "name": "Falling",
       "url": "https://open.spotify.com/track/6dS3q4aYdfNTQ3ZMRP2p2u"
@@ -3312,7 +3348,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 210309,
       "name": "Gloss",
       "url": "https://open.spotify.com/track/2HxXsZGRITgwkos69ZZtUe"
@@ -3656,6 +3692,28 @@
       "duration_ms": 246575,
       "name": "IBC",
       "url": "https://open.spotify.com/track/03jCCoBVLfE3uz0rIeQHwS"
+    },
+    {
+      "album": {
+        "name": "ICY",
+        "url": "https://open.spotify.com/album/3Rx3ki0y2pdCB79JKbeKGM"
+      },
+      "artists": [
+        {
+          "name": "Tiago Mob",
+          "url": "https://open.spotify.com/artist/2ZofXidyiv06uNdUqIFiht"
+        },
+        {
+          "name": "Yung Juse",
+          "url": "https://open.spotify.com/artist/7HelyGdEBoc25C7inwIXVJ"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142040,
+      "name": "ICY",
+      "url": "https://open.spotify.com/track/0kI80KIxfUea8CXEBCym6y"
     },
     {
       "album": {
@@ -4112,6 +4170,24 @@
       "duration_ms": 160370,
       "name": "Lifestyle",
       "url": "https://open.spotify.com/track/4v5nIFE2CuAMSO9Ziig6y6"
+    },
+    {
+      "album": {
+        "name": "Liga",
+        "url": "https://open.spotify.com/album/6F7sq55C7Y0nm1rPGvyJxn"
+      },
+      "artists": [
+        {
+          "name": "IseeJohny",
+          "url": "https://open.spotify.com/artist/38Lrld0BrsWy3icVyRdQhj"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Liga",
+      "url": "https://open.spotify.com/track/1XtscSjuMl5jBbcT4OBDA3"
     },
     {
       "album": {
@@ -6001,6 +6077,28 @@
     },
     {
       "album": {
+        "name": "P&R",
+        "url": "https://open.spotify.com/album/0SPymDtLP1yDZivihJWB9P"
+      },
+      "artists": [
+        {
+          "name": "Neck",
+          "url": "https://open.spotify.com/artist/5vSrAn17BaRXJOtHx9iF9B"
+        },
+        {
+          "name": "MICSHYNE",
+          "url": "https://open.spotify.com/artist/5CbzHDeokBLcwzUSyoa140"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240111,
+      "name": "P&R",
+      "url": "https://open.spotify.com/track/33psD3z9V1ED0arYVfEDWd"
+    },
+    {
+      "album": {
         "name": "Papa",
         "url": "https://open.spotify.com/album/3aosEAehvS4wa2kTTTYIuY"
       },
@@ -6052,6 +6150,24 @@
       "duration_ms": 177142,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/6gWxs2UBdPiTs9D9LgrLjK"
+    },
+    {
+      "album": {
+        "name": "Parece F\u00e1cil",
+        "url": "https://open.spotify.com/album/5quWk9IF75Ng1zcUcadBbV"
+      },
+      "artists": [
+        {
+          "name": "Subtil",
+          "url": "https://open.spotify.com/artist/5Pvq6yUdNbP89g5xc0KfQl"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148085,
+      "name": "Parece F\u00e1cil",
+      "url": "https://open.spotify.com/track/5XcX17u8DRl3YqBP4YxbcG"
     },
     {
       "album": {
@@ -6334,7 +6450,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 161517,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/6GDXVeWVlHdNVrvzuzrzgU"
@@ -6734,7 +6850,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 220273,
       "name": "Rafeiro Alentejano",
       "url": "https://open.spotify.com/track/6Q55bK0n4xXhFDKpU79VqR"
@@ -7002,6 +7118,28 @@
       "duration_ms": 124029,
       "name": "Roads",
       "url": "https://open.spotify.com/track/3HfAhtgBdCt5eDodsDMVUE"
+    },
+    {
+      "album": {
+        "name": "Roleta Russa",
+        "url": "https://open.spotify.com/album/1DfkiwDwAacvJIHiwmRKNa"
+      },
+      "artists": [
+        {
+          "name": "PKA",
+          "url": "https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK"
+        },
+        {
+          "name": "NOCAP",
+          "url": "https://open.spotify.com/artist/3Btn1ywwqv6SaBQnkWesMb"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194866,
+      "name": "Roleta Russa",
+      "url": "https://open.spotify.com/track/4z5RyQvfKuolwxfo9UhtbT"
     },
     {
       "album": {
@@ -9016,6 +9154,24 @@
       "duration_ms": 195007,
       "name": "WuWuWu",
       "url": "https://open.spotify.com/track/00CPGX8hAKI8MULSFSFU6f"
+    },
+    {
+      "album": {
+        "name": "Yah!",
+        "url": "https://open.spotify.com/album/1EBjP3zq575YxmWdP8NtJR"
+      },
+      "artists": [
+        {
+          "name": "JNY",
+          "url": "https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Yah!",
+      "url": "https://open.spotify.com/track/1Kvz7W6IZop2tbX81Q6Q33"
     },
     {
       "album": {

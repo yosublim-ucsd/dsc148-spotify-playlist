@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > aquela lá q viralizou na net
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,238 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,558 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 20 | [\* da Anitta](https://open.spotify.com/track/0VhG6qzFZo9JrHu56Wq7gh) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [\* da Anitta](https://open.spotify.com/album/5vrDahFF5TU32GwPMxP4SC) | 2:20 |
 | 21 | [Zidane](https://open.spotify.com/track/1Byvv0RuG4JaJwRzdNoWqn) | [Frost](https://open.spotify.com/artist/1Pwn5xh6yzHjkDdDOk5xqD), [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [YG Saull](https://open.spotify.com/artist/5JsdUwOF1q652VQpSdeC5Z), [YOVANCE!](https://open.spotify.com/artist/5xekWu0d327YLtbYFhhDGu), [sickobabyxo](https://open.spotify.com/artist/5QFWsfryRsbn8O2ryBFsqL), [SLIME DREAMS](https://open.spotify.com/artist/1vrfZnY0gHgFpP4aOAbFAY), [1\-800WRLD](https://open.spotify.com/artist/279jm5uJdkabH3QdQu4eF7) | [Zidane](https://open.spotify.com/album/6j0CTG6WzlXLfMp8MVO1M6) | 2:54 |
 | 22 | [Os Bico Tão Se Perguntando \(Let’s Go 3\)](https://open.spotify.com/track/156LKAN2oh16qflL5oz4tO) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5) | [Os Bico Tão Se Perguntando \(Let’s Go 3\)](https://open.spotify.com/album/7bdWZHUJyzQAzV0qbBrZ4J) | 2:57 |
-| 23 | [A Caminho do Bega \[Piseiro Remix\] \(feat\. Dj Mizzontti\)](https://open.spotify.com/track/6GIIq2BZtZorfS2R2Y2vAT) | [DJ Patrick Muniz](https://open.spotify.com/artist/2MUXvv3lFulPYMUCtNrEBu), [MC DOM LP](https://open.spotify.com/artist/1IDgBR9gfIJOS5lB7SwE6W), [Mc L3](https://open.spotify.com/artist/2879HZwIGp09pCeg5CGuna), [Dj Mizzontti](https://open.spotify.com/artist/5HevMdws455L9tIAE1nEwu) | [A Caminho do Bega \[Piseiro Remix\]](https://open.spotify.com/album/1iHsaiSw8TCeXR1EAni3RL) | 2:16 |
+| 23 | [A Caminho do Bega \[Piseiro Remix\] \(feat\. Dj Mizzontti & MC DOM LP\)](https://open.spotify.com/track/6GIIq2BZtZorfS2R2Y2vAT) | [DJ Patrick Muniz](https://open.spotify.com/artist/2MUXvv3lFulPYMUCtNrEBu), [Mc L3](https://open.spotify.com/artist/2879HZwIGp09pCeg5CGuna), [Dj Mizzontti](https://open.spotify.com/artist/5HevMdws455L9tIAE1nEwu), [MC DOM LP](https://open.spotify.com/artist/1IDgBR9gfIJOS5lB7SwE6W) | [A Caminho do Bega \[Piseiro Remix\]](https://open.spotify.com/album/1iHsaiSw8TCeXR1EAni3RL) | 2:16 |
 | 24 | [Parecia Tempestade](https://open.spotify.com/track/29adI8c6c75mnnaJ3BFLID) | [Sony no Beat](https://open.spotify.com/artist/4cMT9oSbMRlVPrkFyZAtzb), [Felupe](https://open.spotify.com/artist/1VfZSS1zUo2URLAriN3zZs), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk) | [Parecia Tempestade](https://open.spotify.com/album/3DPPcBAX08PIfFZFsfzVTR) | 2:29 |
 | 25 | [Fácil](https://open.spotify.com/track/2yAQhTAT36ZPaWaJUsqE7q) | [QI](https://open.spotify.com/artist/0cHl2ZQZvZaThffCM8eW8z) | [Fácil](https://open.spotify.com/album/48wz6pta2IdiHIZbsudbM9) | 2:04 |
 | 26 | [Acerola \- Acústico de Quarto](https://open.spotify.com/track/1Esf1j2uWbOAufzBeg04SA) | [Murart](https://open.spotify.com/artist/4NdgoC7JkkljrX2Q0sY5ax) | [Acerola \- Acústico de Quarto](https://open.spotify.com/album/794ujyiDhWd7ELbpBGfWLS) | 1:13 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 79 | [Gostosinha é Ela](https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Gostosinha é Ela](https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ) | 2:18 |
 | 80 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 |
 
-Snapshot ID: `MCxiNWQ3NzE3ZTY5YTRjODNkNjVlOWU1YjM5YzkxMzVjNDVlNDk5Njkx`
+Snapshot ID: `MCxmZWQ1Zjk1YjEwMjM3ZTllODZjYmQzMzRjZTdjZTE5MzM2Y2NiYTVk`

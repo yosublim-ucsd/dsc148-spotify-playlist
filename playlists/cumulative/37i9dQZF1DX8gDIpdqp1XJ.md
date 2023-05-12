@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-794 songs - 2 day 4 hr 4 min
+795 songs - 2 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,8 @@
 | [Eye 2 Eye](https://open.spotify.com/track/4qu0t0ALzfAHmzuFliman4) | [Moon Duo](https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu) | [Stars Are The Light](https://open.spotify.com/album/3J3wekJNr78DPFd865z9PP) | 4:21 | 2021-04-02 | 2022-04-21 |
 | [Eyez](https://open.spotify.com/track/4gP55KOAwtv0qGuKq4YjLA) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Electrophonic Chronic](https://open.spotify.com/album/3eU8EWUvHf0uls7ucn2aDJ) | 3:40 | 2023-03-06 | 2023-04-22 |
 | [Eyez](https://open.spotify.com/track/5VllbPPu1vVNSMEwUBm1wr) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Eyez](https://open.spotify.com/album/5VEp6gMfKH8Spv3OaXvYD4) | 3:40 | 2022-12-09 | 2023-03-07 |
-| [Failed at Math\(s\)](https://open.spotify.com/track/6W1wt10FubiQQVXychFAKp) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Failed at Math\(s\)](https://open.spotify.com/album/1TyXRjcjSnDLmewsTjr6id) | 2:40 | 2023-03-10 |  |
+| [Failed at Math\(s\)](https://open.spotify.com/track/0CGTEFOmGzMjgcW5WUS7WW) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Failed at Math\(s\)](https://open.spotify.com/album/0xCCtljPkA65lyDP3CXFgr) | 2:40 | 2023-03-10 |  |
+| [Failed at Math\(s\)](https://open.spotify.com/track/6W1wt10FubiQQVXychFAKp) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Failed at Math\(s\)](https://open.spotify.com/album/1TyXRjcjSnDLmewsTjr6id) | 2:40 | 2023-03-10 | 2023-05-12 |
 | [Fake Reality](https://open.spotify.com/track/6FLxCR8nr6VFerG9BTKmgr) | [Low Hum](https://open.spotify.com/artist/7AfmYGPRYiNkwKfV8LrqLd) | [Fake Reality](https://open.spotify.com/album/1koSZVYfkzQSQ3WEMsW0Ui) | 3:30 | 2021-04-02 | 2022-04-21 |
 | [Fallacy Actually](https://open.spotify.com/track/5FLd0SCmbuP3ZQqEt7Ew6N) | [Night Moves](https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4) | [Fallacy Actually](https://open.spotify.com/album/76hqDrg4ewLgKcYtxkshJV) | 4:11 | 2022-07-22 | 2022-07-29 |
 | [Falsa Folha De Rosto](https://open.spotify.com/track/6tkJP8lGXNf6thfRk5j2qZ) | [Boogarins](https://open.spotify.com/artist/0ohvsn0lgt51qZUbu9ct4s) | [Manual](https://open.spotify.com/album/3THs8EgoGs9oSKahSlN4yP) | 5:09 | 2022-07-15 | 2022-07-26 |

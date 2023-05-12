@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 
 > In partnership with <a href="https://goldhouse.org/">Gold House</a>, we are celebrating the second year of the Gold Gala to honor the 2023 A100!
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,238 likes - 62 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,313 likes - 62 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 | 61 | [Gotta Know Your Name](https://open.spotify.com/track/41RQQEXOoOZc4frz3xGtfO) | [Rebel Souljahz](https://open.spotify.com/artist/6DW0QgM048WZ1eDJfq9ZhS) | [SoulJahz for Life](https://open.spotify.com/album/6gPRtRGcZODgFhrfrtEhOi) | 4:09 |
 | 62 | [Ballroom Extravaganza](https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In To Order](https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ) | 3:09 |
 
-Snapshot ID: `MCw3MzA2NGJhYzJkZTFkMjI1MmE4NzkyNTZkYzVlNDZlYjljZjZhNTRk`
+Snapshot ID: `MCwxYzhhMmQ2MDdiNjVhZmY2NTk2NTg2YWNmNDM0N2FjN2YyMWMxZjY2`

@@ -2,9 +2,9 @@
 
 ### [RADAR Italia](https://open.spotify.com/playlist/37i9dQZF1DWVjDgOMO8jZl)
 
-> Scopri la nostra selezione di 6 artisti emergenti da tenere d'occhio quest'anno! Cover: Asteria
+> Scopri la nostra selezione di 6 artisti emergenti da tenere d'occhio quest'anno! Cover: piazzabologna
 
-115 songs - 5 hr 36 min
+116 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Bambina](https://open.spotify.com/track/3ConKv3XVOlkcQp0SfaHA3) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Bambina](https://open.spotify.com/album/4RVpMxTNK77CJp8ddQbJjL) | 2:19 | 2022-12-08 | 2023-04-12 |
 | [Bistrot](https://open.spotify.com/track/6BVYZ55BxhxYxOH4Tfid77) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Bistrot](https://open.spotify.com/album/67PCJjaYPG1cUjD9KXpQVm) | 3:17 | 2022-08-31 | 2023-04-12 |
 | [Boss \(io & te\)](https://open.spotify.com/track/5lXDYzI9tKb6Vx6Wg1yq4a) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Boss \(io & te\)](https://open.spotify.com/album/6dQS4H6TAnoFx45RGVrGVy) | 3:01 | 2022-08-31 | 2023-04-12 |
+| [CACIARA](https://open.spotify.com/track/1lRWL3L6s6T3EUgcdsFeAl) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp) | [CACIARA](https://open.spotify.com/album/5WCf00AROvypO1CGSnN2YK) | 2:29 | 2023-05-11 |  |
 | [Cancelo](https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Cancelo](https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8) | 2:54 | 2022-08-31 | 2023-04-12 |
 | [Capelli blu \(feat\. ARIETE\)](https://open.spotify.com/track/5sXsXtwDBgINAVwhoX6Ys2) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [Capelli blu \(feat\. ARIETE\)](https://open.spotify.com/album/1uAagTn6V0Uy7auhsgOCR5) | 2:44 | 2022-08-31 | 2023-04-12 |
 | [Carta Stagnola](https://open.spotify.com/track/4AtrGRtFW1EBlarvKAHC7v) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Carta Stagnola](https://open.spotify.com/album/5w1x81v8JwYQ3dxsDwyaFT) | 2:55 | 2022-08-31 | 2023-02-25 |

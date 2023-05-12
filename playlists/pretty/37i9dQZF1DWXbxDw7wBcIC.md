@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbxDw7wBcIC.md) - [plain]
 
 > The birth of the blues, as it happened...
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,745 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,762 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbxDw7wBcIC.md) - [plain]
 | 15 | [Further Up on the Road](https://open.spotify.com/track/7n4zQp0b3vnsmcjmEfLo2r) | [David "Honeyboy" Edwards](https://open.spotify.com/artist/1TJ9XdOFUqlSduhAVV7YfR) | [Honeyboy Edwards: Missisippi Delta Bluesman](https://open.spotify.com/album/6GUzyOdb9vLQLIO9bswhQL) | 4:20 |
 | 16 | [Sugar Babe](https://open.spotify.com/track/2AN3wNGUW0IgzfuurtVEDS) | [Mance Lipscomb](https://open.spotify.com/artist/7jmGjfkkVOjBdjf54YHhwg) | [The Best of Mance Lipscomb](https://open.spotify.com/album/0eCmA697jLiVn1EXTx52BB) | 2:04 |
 | 17 | [Parchman Farm Blues](https://open.spotify.com/track/5cQ7tg9pZauOxt7K7GuUQS) | [Bukka White](https://open.spotify.com/artist/2gSskdDhLQCx3CQd6XKDhp) | [Presenting Bukka White](https://open.spotify.com/album/6MPjSoHLOZSsu047TOjWPo) | 2:42 |
-| 18 | [No More, My Lawd](https://open.spotify.com/track/6IagJtC3ilidFaJS2PCMe1) | [Jimpson And Men With Axes](https://open.spotify.com/artist/3auTn6o3PnUdeTZnn2b7YU), [Alan Lomax](https://open.spotify.com/artist/1u8YzEYh6gvvFog95WtAao) | [Negro Prison Songs from the Mississippi State Penitentiary Recorded by Alan Lomax](https://open.spotify.com/album/7J1vB1yn7iaNR6GX3htJiy) | 2:07 |
+| 18 | [No More, My Lawd](https://open.spotify.com/track/6LYtBOkkTUNQ6RTHAyFflL) | [Alan Lomax](https://open.spotify.com/artist/1u8YzEYh6gvvFog95WtAao) | [Negro Prison Blues And Songs](https://open.spotify.com/album/7lXqoJ3JvHVAbaKBT8XSQi) | 2:09 |
 | 19 | [T\-Bone Blues](https://open.spotify.com/track/3DjwjAUPT4zvIu6ZzcgLGJ) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 3:48 |
 | 20 | [Black Snake Moan](https://open.spotify.com/track/4behsNa8x0dwysWBn6gUHS) | [Blind Lemon Jefferson](https://open.spotify.com/artist/6EsuMifB8c5rm5P2DdjiLe) | [Great Blues Guitarsists: String Dazzlers](https://open.spotify.com/album/4ub1JhVXa8rNmwvRrqRxCP) | 2:50 |
 | 21 | [Juke](https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbxDw7wBcIC.md) - [plain]
 | 49 | [A Spoonful Blues](https://open.spotify.com/track/51pOZACVv195eLRsIRVEx6) | [Charley Patton](https://open.spotify.com/artist/7aExFIr0IHWO5aFjMrGwKw) | [The Complete Recordings 1929\-34, Vol\. 1](https://open.spotify.com/album/3FNisSG0Qa7d1sbnRDNIob) | 3:10 |
 | 50 | [Double Trouble](https://open.spotify.com/track/4eglzfnT6Z8XiJnJuXtDqF) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Spotlights the Blues Volume 2](https://open.spotify.com/album/7ay3aj05yhwcdS6GIAWcnE) | 3:30 |
 
-Snapshot ID: `MCxhZDJlMTdkMWZlMmQ0ZjE4ZGNkODg2Mzk1YTFkY2FhNzU4NzU1MTYy`
+Snapshot ID: `MCxkZWRlZWYwOTFmMzdjZmE5MDJlMjAzNmIxNDcwZjQ1N2EyMTJjZGNm`

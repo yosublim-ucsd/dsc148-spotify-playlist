@@ -4,7 +4,7 @@
 
 > The best remixes of popular tracks!
 
-119 songs - 6 hr 3 min
+120 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Axel F](https://open.spotify.com/track/4Aq5dvUPgdaEEvaEGl2NLz) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV) | [Axel F](https://open.spotify.com/album/2J08oRYPpbgtskY3mRD1bJ) | 3:13 | 2023-01-26 |  |
 | [Axel F \- Hardstyle Version](https://open.spotify.com/track/1C1LUNAqsWNFPCO72KGZNp) | [TCM](https://open.spotify.com/artist/26JDxOz4FrVBX1AquFCzdp) | [Axel F \(Hardstyle Version\)](https://open.spotify.com/album/3s0sRHXF2NM37B2bs236qG) | 2:33 | 2022-12-05 | 2023-01-27 |
 | [Bad Boys \- Harddance Mix](https://open.spotify.com/track/6EZsJ6KkOPQtSqWKw0KsGF) | [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [Shinzo](https://open.spotify.com/artist/0Cl1Gi1A6irb7VDzJOxIgv) | [Bad Boys \(Harddance Mix\)](https://open.spotify.com/album/2zzWnVDrpUWehyFWdYXtqc) | 2:53 | 2023-02-02 | 2023-04-14 |
-| [Bad Habits](https://open.spotify.com/track/7JLHaZFkxdOlq4Fzkc6pxh) | [MELON](https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB), [Hardstyle Fruits Music](https://open.spotify.com/artist/5EkNG5Mzk2KopyyxAdNHJ8) | [Bad Habits](https://open.spotify.com/album/4VNyPO6EhBSKg83IMLchl3) | 3:07 | 2023-04-13 |  |
+| [Bad Habits](https://open.spotify.com/track/7JLHaZFkxdOlq4Fzkc6pxh) | [MELON](https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB), [Hardstyle Fruits Music](https://open.spotify.com/artist/5EkNG5Mzk2KopyyxAdNHJ8) | [Bad Habits](https://open.spotify.com/album/4VNyPO6EhBSKg83IMLchl3) | 3:07 | 2023-04-13 | 2023-05-12 |
 | [Because The Night](https://open.spotify.com/track/6T4pigGxYcBBOi6q4pdTDl) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [The Crystal Winter](https://open.spotify.com/album/6RKwh1MPxsUNALmCeLTVwj) | 3:21 | 2022-12-05 | 2023-01-13 |
 | [Believer](https://open.spotify.com/track/1P1s5YNLlNuCoDHzCMYRAm) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY) | [Believer](https://open.spotify.com/album/5mMboiKqmM2zFrAjX65pRv) | 3:33 | 2022-12-05 |  |
 | [Bella Ciao](https://open.spotify.com/track/0aSdsoufzNzGKFkRTkBYzM) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW) | [Bella Ciao](https://open.spotify.com/album/1l2IEJRSiiM8dyo9bzMYDY) | 3:18 | 2022-12-05 | 2023-02-17 |
@@ -104,6 +104,7 @@
 | [Shotgun \- LNY TNZ Remix](https://open.spotify.com/track/2O2KEWEBaccAdliGrUs4Qr) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Rochelle](https://open.spotify.com/artist/55RKbZHb1yAXuvEHTIyaxJ), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Shotgun \(The Remixes\)](https://open.spotify.com/album/0tKVMaya0qTMQFf7yQHMvC) | 4:45 | 2022-12-22 | 2022-12-30 |
 | [Silence \- Brennan Heart Remix](https://open.spotify.com/track/0cfxGRaCEFKwz66bURIYz5) | [Delerium](https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Silence \(feat\. Sarah McLachlan\) \[Brennan Heart Remix\]](https://open.spotify.com/album/3hlMZy5Z5qZnMCzDkIc0Lr) | 4:23 | 2022-12-05 |  |
 | [Smells Like Teen Spirit](https://open.spotify.com/track/02uaLJya6U259ljPjJDvS3) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Smells Like Teen Spirit](https://open.spotify.com/album/2KvMTlgk0LrWqgtqQAcMvS) | 3:31 | 2022-12-05 |  |
+| [Somebody to Love](https://open.spotify.com/track/14oLZpSIlMYf62kUthUTLL) | [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [Maxtreme](https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j) | [Somebody to Love](https://open.spotify.com/album/66EPs3ZWUIRSNxer3yqIyS) | 3:08 | 2023-05-11 |  |
 | [Stereo Love \- Timmy Trumpet Remix](https://open.spotify.com/track/5dBvUkplYBBBb3sJ2VORQy) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Vika Jigulina](https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Stereo Love \(Timmy Trumpet Remix\)](https://open.spotify.com/album/55h8R7IM7uL5IvHYoWDpKo) | 3:14 | 2022-12-05 |  |
 | [Summer Of '69 \- Happy Høken Remix](https://open.spotify.com/track/16lPRTSin20Ifp9oXYzKFu) | [Beatcrooks](https://open.spotify.com/artist/5iBgiWQkLbV6KTkjd4lI7b) | [Speel Niet Met M'n Voeten](https://open.spotify.com/album/23ZZXD0Pf40J7I4fZW1pQY) | 2:57 | 2022-12-05 | 2023-02-10 |
 | [Superstring \- Aftershock Remix](https://open.spotify.com/track/7qyFlRMfN3B1eUXzKoVRw2) | [Cygnus X](https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG), [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j) | [Superstring \(Aftershock Remix\)](https://open.spotify.com/album/11wftEXsKjwB4ghjI5x15Y) | 2:24 | 2022-12-05 |  |

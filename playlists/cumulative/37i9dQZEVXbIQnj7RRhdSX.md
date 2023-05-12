@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-1,233 songs - 2 day 15 hr 34 min
+1,234 songs - 2 day 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Abbi cura di te](https://open.spotify.com/track/0GNs56eb5LSYISdi3akjeR) | [Highsnob](https://open.spotify.com/artist/47RMRcPX8zWGaiMSZRuOd4), [Hu](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Abbi cura di te](https://open.spotify.com/album/6XSxwHFDbUJ45wNnn6JklQ) | 3:19 | 2022-02-04 | 2022-02-27 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-11-25 | 2022-04-21 |
 | [ABISSALE](https://open.spotify.com/track/3LUaoHfEgHY6GxyFqXRcep) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [ABISSALE](https://open.spotify.com/album/1jhgYKGw2JZZxcMZUQv3fS) | 3:22 | 2022-10-15 | 2022-11-27 |
-| [ABISSALE](https://open.spotify.com/track/3U8TFdchz8dK1nYYgZgd9f) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [RAVE, ECLISSI](https://open.spotify.com/album/0FfVgNTW9aFaHOYAzerA7I) | 3:22 | 2023-02-17 |  |
+| [ABISSALE](https://open.spotify.com/track/3U8TFdchz8dK1nYYgZgd9f) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [RAVE, ECLISSI](https://open.spotify.com/album/0FfVgNTW9aFaHOYAzerA7I) | 3:22 | 2023-02-17 | 2023-05-12 |
 | [ABISSALE](https://open.spotify.com/track/5z7JlQ74N2M57PRIEI9oE6) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [RAVE, ECLISSI](https://open.spotify.com/album/0eqtPtuyfh2prrAWApMCgK) | 3:22 | 2022-11-26 | 2023-02-18 |
 | [Abisso di xanax](https://open.spotify.com/track/3OKaCwKtsZ4Dqzm6foitxm) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [OCEANO PARADISO](https://open.spotify.com/album/2uopesg6vZ52owGKMTBl9m) | 4:22 | 2021-10-17 | 2021-10-18 |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-05-26 | 2022-06-28 |
@@ -809,6 +809,7 @@
 | [Non mi va](https://open.spotify.com/track/6C7AP6DWA9UsMK3kIqMifX) | [Colla Zio](https://open.spotify.com/artist/5b7RP4RDJ37q5EPUs4nf59) | [Non mi va](https://open.spotify.com/album/663i249uQEykDjBkHT2zX7) | 2:26 | 2023-02-09 | 2023-02-20 |
 | [Non mi va](https://open.spotify.com/track/1i5KZuk9052PeWBEOgTbkG) | [Colla Zio](https://open.spotify.com/artist/5b7RP4RDJ37q5EPUs4nf59) | [ROCKABILLY CARTER](https://open.spotify.com/album/4JhRql5w7yWaRipBuUM7ar) | 2:29 | 2023-02-19 | 2023-02-24 |
 | [Non sai niente](https://open.spotify.com/track/5fHy3DnkZ3qngoahHovezq) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Dolce vita](https://open.spotify.com/album/0OLSFLGiMOPSFTZ3oWUj34) | 2:42 | 2021-06-27 | 2021-06-28 |
+| [Non Siamo Uguali \(feat\. CoCo\)](https://open.spotify.com/track/5gNI6SVOOugp1KOrDpw3O4) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [Dove Volano Le Aquile Vol\. 2](https://open.spotify.com/album/5533SD7HXknP7vKdshypG1) | 2:57 | 2023-05-11 |  |
 | [Non è Easy](https://open.spotify.com/track/11xSNPqHx56g6C474UBaUo) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 2:44 | 2022-11-26 | 2022-12-04 |
 | [Non è Easy](https://open.spotify.com/track/2SdYuBGvuX0L7KbWiFhLzg) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Non è Easy](https://open.spotify.com/album/2C8BWxEdF4kCgUH4FpT2cP) | 2:44 | 2022-05-13 | 2022-06-04 |
 | [Non è mai troppo tardi](https://open.spotify.com/track/0tsYxB1pizmaX2jEd5XVar) | [Federico Rossi](https://open.spotify.com/artist/27cy5lbFuVKPVSCD36bmuu) | [Non è mai troppo tardi](https://open.spotify.com/album/1xLPTiwc6rokHNGfneYxoD) | 2:42 | 2021-08-15 | 2021-09-18 |
@@ -817,7 +818,7 @@
 | [NOTTE SCURA \(feat\. Gazzelle & Tedua\)](https://open.spotify.com/track/2N3lyNW0cOeJzVNWo85Ci8) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [X2](https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ) | 2:56 | 2022-01-08 | 2022-01-23 |
 | [Notti In Bianco](https://open.spotify.com/track/1PWOkqMORYdGa0OEh2GaXM) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Blu Celeste](https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec) | 2:56 | 2021-09-12 | 2022-09-27 |
 | [Notti In Bianco](https://open.spotify.com/track/38UoVEHcZ85EGBo6k79643) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Notti In Bianco](https://open.spotify.com/album/6gnq480U8mvkVRMqKinsX6) | 2:56 | 2021-03-27\* | 2021-09-12 |
-| [NOVE MAGGIO](https://open.spotify.com/track/46JLRSeb7pY1Dv4e3lszdt) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW) | [LIBERATO](https://open.spotify.com/album/6nuNEPqjdcumKXE0Nd99Wr) | 3:40 | 2023-05-10 |  |
+| [NOVE MAGGIO](https://open.spotify.com/track/46JLRSeb7pY1Dv4e3lszdt) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW) | [LIBERATO](https://open.spotify.com/album/6nuNEPqjdcumKXE0Nd99Wr) | 3:40 | 2023-05-10 | 2023-05-12 |
 | [NSFCM](https://open.spotify.com/track/2r5ab1ywvvqu2Q6qcYoC0Y) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [MM Vol\. 4](https://open.spotify.com/album/6u7PVqrCBPex6FSw8eb5ce) | 2:01 | 2021-11-14 | 2021-11-16 |
 | [NULLA DI](https://open.spotify.com/track/55ll7hw5DwWLQou5FwGKoX) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:58 | 2022-04-09 | 2022-04-18 |
 | [NULLA DI \(Concertos\)](https://open.spotify.com/track/7dGzgiJrLC3ntYiQA7HAff) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/12ezRjJUICPhvnJiZQ7A5k) | 3:07 | 2022-12-18 | 2022-12-20 |
@@ -903,7 +904,7 @@
 | [Piango Sulla Lambo \(feat\. Rose Villain\)](https://open.spotify.com/track/7u02ZUejB2uhTw1WuFXrlf) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [GVESVS](https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL) | 3:21 | 2021-12-12 | 2022-02-04 |
 | [Piazza](https://open.spotify.com/track/4DQt0mzsgTO2taDwZ2zq5c) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [Untouchable](https://open.spotify.com/album/3qfHiYzq7kiJ1JkyCXNGMC) | 2:36 | 2021-06-06 | 2021-06-09 |
 | [PIOVE \(Concertos\)](https://open.spotify.com/track/1qvdspvSwXch9dKKV4lT3A) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/12ezRjJUICPhvnJiZQ7A5k) | 2:51 | 2022-12-18 | 2022-12-25 |
-| [PIOVE \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:35 | 2022-04-09 | 2023-05-11 |
+| [PIOVE \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:35 | 2022-04-09 |  |
 | [Pistolero](https://open.spotify.com/track/6Y3E68GAhdvbJramkIOKJK) | [Elettra Lamborghini](https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW) | [Pistolero](https://open.spotify.com/album/7KOUEjrzVYhAqdfoTUXvRh) | 3:17 | 2021-06-11 | 2021-09-22 |
 | [PLAYA](https://open.spotify.com/track/7A4L0gD91GuKOf9rUOeH3U) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [MILES](https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt) | [TRENCHES BABY](https://open.spotify.com/album/4TxafR0eswtfPenLrBLyhx) | 2:17 | 2022-11-05 | 2022-11-09 |
 | [Pochette \(feat\. Noyz Narcos\)](https://open.spotify.com/track/7px3nxEoSvAHCvAZq3r38W) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 3:01 | 2022-05-14 | 2022-05-30 |

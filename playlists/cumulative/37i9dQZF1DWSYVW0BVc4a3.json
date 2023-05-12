@@ -1871,6 +1871,24 @@
     },
     {
       "album": {
+        "name": "Cyberpunk",
+        "url": "https://open.spotify.com/album/7ArVfEgFqpr1z3SFr1eTsZ"
+      },
+      "artists": [
+        {
+          "name": "AKZENTH",
+          "url": "https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227538,
+      "name": "Cyberpunk",
+      "url": "https://open.spotify.com/track/1wKOcup3YmRBk6XKBOVLk7"
+    },
+    {
+      "album": {
         "name": "Daka",
         "url": "https://open.spotify.com/album/40GiZj6Qkd45nMo4N1X10V"
       },
@@ -2608,6 +2626,24 @@
       "duration_ms": 330188,
       "name": "Environ",
       "url": "https://open.spotify.com/track/4KZbPvwW0OoWvGatXXnLM9"
+    },
+    {
+      "album": {
+        "name": "Equilibrium",
+        "url": "https://open.spotify.com/album/5A4d8ky6x4EckCvInp6ydU"
+      },
+      "artists": [
+        {
+          "name": "Onen",
+          "url": "https://open.spotify.com/artist/2pdyNq4GyAl6J3Sxb9jhQf"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386341,
+      "name": "Equilibrium",
+      "url": "https://open.spotify.com/track/69cxQHMnGZkesxSTDusUMy"
     },
     {
       "album": {
@@ -3610,6 +3646,28 @@
       "duration_ms": 175413,
       "name": "Happy",
       "url": "https://open.spotify.com/track/7arEqLvEPdAQ3yjEGgMBZt"
+    },
+    {
+      "album": {
+        "name": "Vintage Culture & Friends, Vol. 5",
+        "url": "https://open.spotify.com/album/14vFH39ZTdf5l5gciuKcxI"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Coach Harrison",
+          "url": "https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214560,
+      "name": "Hear You Calling",
+      "url": "https://open.spotify.com/track/7Lub88e9lun7Q4EsHm0HPW"
     },
     {
       "album": {
@@ -5010,7 +5068,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 226790,
       "name": "Life Ain't Living",
       "url": "https://open.spotify.com/track/1UxW1pnGGcanoyvgfQduXT"
@@ -5652,7 +5710,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 414226,
       "name": "Milkshake",
       "url": "https://open.spotify.com/track/0sa9eAhDFupUOAxtGuwQZn"
@@ -6714,7 +6772,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 470487,
       "name": "Pan",
       "url": "https://open.spotify.com/track/6mqdJiu1vUr5SkXQ1JkyGm"
@@ -8286,7 +8344,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 364453,
       "name": "Stellar",
       "url": "https://open.spotify.com/track/0jj8UUhLiLZWENctWjvtFh"
@@ -8574,6 +8632,24 @@
       "duration_ms": 241531,
       "name": "Symbol",
       "url": "https://open.spotify.com/track/1oYataUHnEfOMQOhwVA7jI"
+    },
+    {
+      "album": {
+        "name": "Taka Doom EP",
+        "url": "https://open.spotify.com/album/5S6urowFyIkdlHaTlqvjui"
+      },
+      "artists": [
+        {
+          "name": "Trace",
+          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174960,
+      "name": "Taka Doom",
+      "url": "https://open.spotify.com/track/5Ukd9BLEG6Ae9hedwZY0PX"
     },
     {
       "album": {
@@ -9683,6 +9759,36 @@
     },
     {
       "album": {
+        "name": "Uh La La (Guz Remix)",
+        "url": "https://open.spotify.com/album/1PPGdskLdIa9oZrMpcsHy4"
+      },
+      "artists": [
+        {
+          "name": "VOLAC",
+          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
+        },
+        {
+          "name": "Trace",
+          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        },
+        {
+          "name": "Guz",
+          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201259,
+      "name": "Uh La La - Guz Remix",
+      "url": "https://open.spotify.com/track/1LwqbwADW8ZvhfCJbtdKdl"
+    },
+    {
+      "album": {
         "name": "Um",
         "url": "https://open.spotify.com/album/6s8CZ12v5a4E1kmLEgMmRI"
       },
@@ -9888,7 +9994,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 432396,
       "name": "Valium",
       "url": "https://open.spotify.com/track/6oYFXgVSeSrhA62MQltdur"
@@ -10172,7 +10278,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 229523,
       "name": "What U Doing",
       "url": "https://open.spotify.com/track/6jn47IP90tvtvb7ddhOnS1"

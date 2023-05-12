@@ -4,7 +4,7 @@
 
 > Cozy acoustic covers to accompany all your DIY, painting and creative crafts projects.
 
-90 songs - 4 hr 51 min
+91 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Whatcha Say \- Acoustic](https://open.spotify.com/track/4gq1H2QM58lNLMSeKBfRgW) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [Whatcha Say \- Acoustic](https://open.spotify.com/album/3EQAXU3Bz94vwmTtB6VwSR) | 3:07 | 2023-03-31 |  |
 | [Wherever You Will Go](https://open.spotify.com/track/2JrSlOdxkzlJEAOPgIUhAj) | [Le Vitates](https://open.spotify.com/artist/5ao5cOf9lGP6pyIESuiaf1), [Natalie Major](https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL) | [Wherever You Will Go](https://open.spotify.com/album/59MYGCo3YrAhdNkOomscha) | 3:43 | 2023-01-27 |  |
 | [With or Without You](https://open.spotify.com/track/1iQ1BpOGF1Umd3lpTV4OPO) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [With or Without You](https://open.spotify.com/album/5sz0mBDcUAj1TAqlHEfZQ0) | 2:46 | 2023-01-27 |  |
-| [Wouldn't It Be Nice](https://open.spotify.com/track/1vKusrenzlsriyzUAJHb9i) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Wouldn't It Be Nice](https://open.spotify.com/album/4oJIQO49IQeU5mhzdU11B0) | 2:32 | 2023-01-27 |  |
+| [Wouldn't It Be Nice](https://open.spotify.com/track/1U6deb3frWuMczVj2as98g) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Wouldn't It Be Nice](https://open.spotify.com/album/1CFZu2ZdcAtMxwfAecgKKU) | 2:32 | 2023-03-31 |  |
+| [Wouldn't It Be Nice](https://open.spotify.com/track/1vKusrenzlsriyzUAJHb9i) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Wouldn't It Be Nice](https://open.spotify.com/album/4oJIQO49IQeU5mhzdU11B0) | 2:32 | 2023-01-27 | 2023-05-12 |
 | [Wouldn't It Be Nice](https://open.spotify.com/track/5MtSb6IQmKpqWWfW1WUrSY) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Wouldn't It Be Nice](https://open.spotify.com/album/10qT1C2c9n06qNAnl3OKrf) | 2:32 | 2023-01-27 | 2023-03-03 |
 
 \*This playlist was first scraped on 2023-02-18. Prior content cannot be recovered.

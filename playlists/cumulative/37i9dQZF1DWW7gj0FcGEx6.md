@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-253 songs - 12 hr 47 min
+254 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Can People Change?](https://open.spotify.com/track/3AYs78JSa3FgmQxTtNyrQi) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M), [Tonality](https://open.spotify.com/artist/5pcicNTH7aIJujRAA7WFXg) | [Spiderhead \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/5haACGpU0WzL5FkCUr6YGI) | 3:11 | 2022-06-17 | 2022-06-28 |
 | [Captain Jefferson](https://open.spotify.com/track/5X6b1ySSqzJm4qLw0fqs5n) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [News Of The World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6v1bOteXExLs8oA8epNRuc) | 2:06 | 2021-12-20 | 2022-07-09 |
 | [Caught By A Wave](https://open.spotify.com/track/54dPWaHFt8Vmxt4IA11Cos) | [Yakamoto Kotzuga](https://open.spotify.com/artist/22qhpajwD1PWjCwIuZcien) | [Caught By A Wave \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02kfXQ7hVbDvavFDgX26di) | 2:32 | 2021-12-20 |  |
-| [Citadel \(Main Title Theme\)](https://open.spotify.com/track/3koRMFxZIBO9iDCDLRUmnF) | [Alex Belcher](https://open.spotify.com/artist/0lsKvalwJ8SAijtf12uSsm) | [Citadel \(Main Title Theme\)](https://open.spotify.com/album/7oSSjZIbIAgsDXEsmXuwrf) | 1:19 | 2023-04-28 |  |
+| [Citadel \(Main Title Theme\)](https://open.spotify.com/track/3koRMFxZIBO9iDCDLRUmnF) | [Alex Belcher](https://open.spotify.com/artist/0lsKvalwJ8SAijtf12uSsm) | [Citadel \(Main Title Theme\)](https://open.spotify.com/album/7oSSjZIbIAgsDXEsmXuwrf) | 1:19 | 2023-04-28 | 2023-05-12 |
+| [Citadel \(Main Title Theme\)](https://open.spotify.com/track/6HB5R1sNMWYJ5eRqCWTPqo) | [Alex Belcher](https://open.spotify.com/artist/0lsKvalwJ8SAijtf12uSsm) | [Citadel \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/6UkcvITuPnTmXnkwfoo0tH) | 1:19 | 2023-05-05 |  |
 | [Clothes From Miss Mabel \- From The Motion Picture “Where The Crawdads Sing”](https://open.spotify.com/track/0rfaeL0QdlX5xMUjlPVTeD) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2) | [Where The Crawdads Sing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lQ5wsZNHhqbj3yZJ9wzD0) | 1:38 | 2022-07-15 |  |
 | [Coda](https://open.spotify.com/track/7vbuuyi5UaDkEhnHRBVaOu) | [Clint Mansell](https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU) | [Sharper \(Soundtrack from the Apple Original Film\)](https://open.spotify.com/album/6opqUrdNLqpqAJX8uVHklI) | 3:38 | 2023-02-27 |  |
 | [Come Back to Us](https://open.spotify.com/track/44sVQfPdCTGM5JLBRHUngc) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [1917 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6HiTc4Cu7pOdO5mA8PInRs) | 5:39 | 2021-12-20 | 2022-07-09 |

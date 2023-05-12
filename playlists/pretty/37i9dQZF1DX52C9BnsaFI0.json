@@ -1,12 +1,12 @@
 {
   "description": "70s rock to fuel your ride. Cover: Aerosmith",
-  "num_followers": 155782,
+  "num_followers": 156060,
   "original_name": "70s Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTRlMTE4ZGIyMTljOTM4MGVlOGUxYjAyZjYzYjU5NzFlNDY1Nzhk",
+  "snapshot_id": "MCw4ZjUzMWQ1OTRhZGMzY2E2Y2UwNzZkMzViZDczYTBhZjY5NWVlMDgx",
   "tracks": [
     {
       "added_at": "2021-03-16 22:29:33",
@@ -107,22 +107,6 @@
     {
       "added_at": "2021-03-16 22:29:33",
       "album": {
-        "name": "Leftoverture (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR"
-      },
-      "artists": [
-        {
-          "name": "Kansas",
-          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
-        }
-      ],
-      "duration_ms": 323000,
-      "name": "Carry on Wayward Son",
-      "url": "https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw"
-    },
-    {
-      "added_at": "2021-03-16 22:29:33",
-      "album": {
         "name": "Dressed To Kill",
         "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 168840,
       "name": "Rock And Roll All Nite",
       "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
+    },
+    {
+      "added_at": "2021-03-16 22:29:33",
+      "album": {
+        "name": "Leftoverture (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR"
+      },
+      "artists": [
+        {
+          "name": "Kansas",
+          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
+        }
+      ],
+      "duration_ms": 323000,
+      "name": "Carry on Wayward Son",
+      "url": "https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw"
     },
     {
       "added_at": "2021-03-16 22:29:33",
@@ -283,6 +283,22 @@
     {
       "added_at": "2021-03-16 22:29:33",
       "album": {
+        "name": "Dreamboat Annie",
+        "url": "https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "duration_ms": 293440,
+      "name": "Crazy On You",
+      "url": "https://open.spotify.com/track/5zH710lFSLtkHbMkslLDjR"
+    },
+    {
+      "added_at": "2021-03-16 22:29:33",
+      "album": {
         "name": "Fire And Water",
         "url": "https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 324422,
       "name": "Night Moves",
       "url": "https://open.spotify.com/track/6UBjSnyP1O5W5ndJoO9vUk"
-    },
-    {
-      "added_at": "2021-03-16 22:29:33",
-      "album": {
-        "name": "Dreamboat Annie",
-        "url": "https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 293440,
-      "name": "Crazy On You",
-      "url": "https://open.spotify.com/track/5zH710lFSLtkHbMkslLDjR"
     },
     {
       "added_at": "2022-06-29 16:21:03",
@@ -603,22 +603,6 @@
     {
       "added_at": "2021-03-16 22:29:33",
       "album": {
-        "name": "But Seriously, Folks...",
-        "url": "https://open.spotify.com/album/5yqBTSoJqE9EfApl2Pptva"
-      },
-      "artists": [
-        {
-          "name": "Joe Walsh",
-          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
-        }
-      ],
-      "duration_ms": 536226,
-      "name": "Life's Been Good",
-      "url": "https://open.spotify.com/track/2wvMC5EyaaYQwBfiwwY2xE"
-    },
-    {
-      "added_at": "2021-03-16 22:29:33",
-      "album": {
         "name": "The Grand Illusion",
         "url": "https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 367000,
       "name": "Come Sail Away",
       "url": "https://open.spotify.com/track/0PsbWiVtix5FoTZ1s00mEl"
+    },
+    {
+      "added_at": "2021-03-16 22:29:33",
+      "album": {
+        "name": "But Seriously, Folks...",
+        "url": "https://open.spotify.com/album/5yqBTSoJqE9EfApl2Pptva"
+      },
+      "artists": [
+        {
+          "name": "Joe Walsh",
+          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
+        }
+      ],
+      "duration_ms": 536226,
+      "name": "Life's Been Good",
+      "url": "https://open.spotify.com/track/2wvMC5EyaaYQwBfiwwY2xE"
     },
     {
       "added_at": "2021-03-16 22:29:33",
@@ -667,8 +667,8 @@
     {
       "added_at": "2021-03-16 22:29:33",
       "album": {
-        "name": "Born To Run",
-        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+        "name": "Darkness On the Edge of Town",
+        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 288720,
-      "name": "Thunder Road",
-      "url": "https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk"
+      "duration_ms": 242453,
+      "name": "Badlands",
+      "url": "https://open.spotify.com/track/0M1YQiRGel1tTMjA3orfRd"
     },
     {
       "added_at": "2021-03-16 22:29:33",
@@ -731,22 +731,6 @@
     {
       "added_at": "2021-03-16 22:29:33",
       "album": {
-        "name": "Pendulum",
-        "url": "https://open.spotify.com/album/3tbpe74iBR23O8uiQlLrXC"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 160333,
-      "name": "Have You Ever Seen The Rain",
-      "url": "https://open.spotify.com/track/5DnT9a5IM3eMjKgXTWVJvi"
-    },
-    {
-      "added_at": "2021-03-16 22:29:33",
-      "album": {
         "name": "Infinity",
         "url": "https://open.spotify.com/album/7K4Nk5fHkCuzNm5A6mdo2U"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 252240,
       "name": "Wheel in the Sky",
       "url": "https://open.spotify.com/track/215wUTQQUo2PElJFEFoB0d"
+    },
+    {
+      "added_at": "2021-03-16 22:29:33",
+      "album": {
+        "name": "Pendulum",
+        "url": "https://open.spotify.com/album/3tbpe74iBR23O8uiQlLrXC"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 160333,
+      "name": "Have You Ever Seen The Rain",
+      "url": "https://open.spotify.com/track/5DnT9a5IM3eMjKgXTWVJvi"
     },
     {
       "added_at": "2021-03-16 22:29:33",
@@ -811,8 +811,8 @@
     {
       "added_at": "2021-03-16 22:29:33",
       "album": {
-        "name": "Darkness On the Edge of Town",
-        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 242453,
-      "name": "Badlands",
-      "url": "https://open.spotify.com/track/0M1YQiRGel1tTMjA3orfRd"
+      "duration_ms": 288720,
+      "name": "Thunder Road",
+      "url": "https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk"
     },
     {
       "added_at": "2021-03-16 22:29:33",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2021-03-16 22:29:33",
       "album": {
-        "name": "The Long Versions - Part One",
-        "url": "https://open.spotify.com/album/2qZLEQ9KsfExIhQKJF3VkD"
-      },
-      "artists": [
-        {
-          "name": "Golden Earring",
-          "url": "https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS"
-        }
-      ],
-      "duration_ms": 386706,
-      "name": "Radar Love",
-      "url": "https://open.spotify.com/track/4Zau4QvgyxWiWQ5KQrwL43"
-    },
-    {
-      "added_at": "2021-03-16 22:29:33",
-      "album": {
         "name": "Eddie Money (2022 Remaster)",
         "url": "https://open.spotify.com/album/5gMrkmI53zEn98WDwU0iye"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 213633,
       "name": "Baby Hold On (2022 Remaster)",
       "url": "https://open.spotify.com/track/5ZYvcJ04ccUw2Matbnmu0U"
+    },
+    {
+      "added_at": "2021-03-16 22:29:33",
+      "album": {
+        "name": "The Long Versions - Part One",
+        "url": "https://open.spotify.com/album/2qZLEQ9KsfExIhQKJF3VkD"
+      },
+      "artists": [
+        {
+          "name": "Golden Earring",
+          "url": "https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS"
+        }
+      ],
+      "duration_ms": 386706,
+      "name": "Radar Love",
+      "url": "https://open.spotify.com/track/4Zau4QvgyxWiWQ5KQrwL43"
     },
     {
       "added_at": "2021-03-16 22:29:33",

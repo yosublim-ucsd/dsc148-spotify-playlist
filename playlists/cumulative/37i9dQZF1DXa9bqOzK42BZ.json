@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-26",
-  "description": "Praise and worship from East Africa. Your ultimate Swahili Spiritual nourishment here. Cover <a href=\"https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO\">Walter Chilambo</a>",
+  "description": "Praise and worship from East Africa. Your ultimate Swahili Spiritual nourishment here. Cover <a href=\"https://open.spotify.com/artist/6worshay3dx3NqPNl8PRSw\">Mr Seed</a>",
   "name": "Swahili Praise",
   "tracks": [
     {
@@ -78,6 +78,24 @@
       "duration_ms": 468010,
       "name": "Amenifanyia Amani",
       "url": "https://open.spotify.com/track/0RHHtjtdCby9OnPL2qvsZy"
+    },
+    {
+      "album": {
+        "name": "Amua",
+        "url": "https://open.spotify.com/album/3r8SRWMxBde6awir8fXmca"
+      },
+      "artists": [
+        {
+          "name": "Alexis Zawadi",
+          "url": "https://open.spotify.com/artist/0GJoWcqZQlO9GH08zxkDN3"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389015,
+      "name": "Amua",
+      "url": "https://open.spotify.com/track/4MJ9npZ1snF0HaquPpjqZV"
     },
     {
       "album": {
@@ -1028,7 +1046,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 303125,
       "name": "Patakatifu Pako",
       "url": "https://open.spotify.com/track/0A5iR3HinWss1nwGvGn0hB"
@@ -1282,10 +1300,32 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 490919,
       "name": "Uniongoze Yesu",
       "url": "https://open.spotify.com/track/2V5Bn7Mazl8A7jNQ4fdyTy"
+    },
+    {
+      "album": {
+        "name": "Usiniache (Remix)",
+        "url": "https://open.spotify.com/album/2uzf8hKInIrYTMqqbLmez2"
+      },
+      "artists": [
+        {
+          "name": "Mr Seed",
+          "url": "https://open.spotify.com/artist/6worshay3dx3NqPNl8PRSw"
+        },
+        {
+          "name": "Wanavokali",
+          "url": "https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270198,
+      "name": "Usiniache - Remix",
+      "url": "https://open.spotify.com/track/44mdd5TPUmYqrir91xg9bX"
     },
     {
       "album": {

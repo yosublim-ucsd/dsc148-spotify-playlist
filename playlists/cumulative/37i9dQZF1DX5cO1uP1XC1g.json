@@ -869,6 +869,28 @@
     },
     {
       "album": {
+        "name": "Come Baby Come",
+        "url": "https://open.spotify.com/album/45VdyjjPc7u8g8UeOvowjI"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Ramadan",
+          "url": "https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH"
+        },
+        {
+          "name": "Skales",
+          "url": "https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145486,
+      "name": "Come Baby Come",
+      "url": "https://open.spotify.com/track/2FtwA6cVlrYeJzN8lCiwHS"
+    },
+    {
+      "album": {
         "name": "Courage",
         "url": "https://open.spotify.com/album/3fesoj7qmSWTa6U5vQFqFV"
       },
@@ -1576,7 +1598,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 195598,
       "name": "Etnaset",
       "url": "https://open.spotify.com/track/5hiQSNo6jQbQ2m2gBZs7bU"
@@ -3678,6 +3700,24 @@
       "duration_ms": 158400,
       "name": "Rased El Satr",
       "url": "https://open.spotify.com/track/4ageOMHYR3Nw14OKnSx3X2"
+    },
+    {
+      "album": {
+        "name": "Sabok Fel Beit",
+        "url": "https://open.spotify.com/album/3EroB4W63EzsReYPUq3W5r"
+      },
+      "artists": [
+        {
+          "name": "Muslim - \u0645\u064f\u0633\u0644\u0650\u0645",
+          "url": "https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310208,
+      "name": "Sabok Fel Beit",
+      "url": "https://open.spotify.com/track/31VMiaHcvuaO3Hz2bWb0Qw"
     },
     {
       "album": {

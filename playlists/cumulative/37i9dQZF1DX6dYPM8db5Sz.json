@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy?si=1kNmBf4xQU626usgoqJWDg\">Bongeziwe Mabandla</a> ",
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV?si=tZ_C8agGQ7iZ6D4-j0AOPw\">HONEYMOAN</a> ",
   "name": "SAlt",
   "tracks": [
     {
@@ -799,6 +799,24 @@
     },
     {
       "album": {
+        "name": "Care For You",
+        "url": "https://open.spotify.com/album/3hYqlV8cBdFnwy4dSR3elT"
+      },
+      "artists": [
+        {
+          "name": "BuDu",
+          "url": "https://open.spotify.com/artist/3VVnkjuNmz9Vt2UpAZTCXB"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232163,
+      "name": "Care For You",
+      "url": "https://open.spotify.com/track/7tcp0h2ypx4PKJaw1Sn1je"
+    },
+    {
+      "album": {
         "name": "Carry You Home",
         "url": "https://open.spotify.com/album/1W7Xuqc9isSe0erfFGZFpR"
       },
@@ -1063,6 +1081,28 @@
     },
     {
       "album": {
+        "name": "Dark In The Day",
+        "url": "https://open.spotify.com/album/0u9Yy2PjPE2KD3uHD0Kb0j"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Mack",
+          "url": "https://open.spotify.com/artist/0ebredVS7C0onAXIECv6MY"
+        },
+        {
+          "name": "Francesca Parussini",
+          "url": "https://open.spotify.com/artist/4oGFyf7AjQskcIBFoWADbR"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192105,
+      "name": "Dark In The Day",
+      "url": "https://open.spotify.com/track/1VeoerQWc6rRFv6P5RzE4h"
+    },
+    {
+      "album": {
         "name": "daylight",
         "url": "https://open.spotify.com/album/4zQLgpO7nItHn5NcHgO0QB"
       },
@@ -1244,7 +1284,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 198898,
       "name": "Dream",
       "url": "https://open.spotify.com/track/4WRi0GE9rB7ca848HIavkJ"
@@ -1568,7 +1608,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 249799,
       "name": "First to Leave",
       "url": "https://open.spotify.com/track/6JYbCsAzIOeY3v7NfFX196"
@@ -1752,7 +1792,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 183365,
       "name": "Good, but not together",
       "url": "https://open.spotify.com/track/4XfgpMiAz9XG58pvq4ly9Q"
@@ -2474,7 +2514,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 179191,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4"
@@ -2908,7 +2948,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 192167,
       "name": "Miami",
       "url": "https://open.spotify.com/track/2aXlE2ON2ya8zFg6HDTCRs"
@@ -3252,7 +3292,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 234933,
       "name": "Not Strong Enough",
       "url": "https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv"
@@ -3322,6 +3362,24 @@
       "duration_ms": 187052,
       "name": "Numbers",
       "url": "https://open.spotify.com/track/5mbPhsvvQTMSXD5pTaBA4B"
+    },
+    {
+      "album": {
+        "name": "Obsession",
+        "url": "https://open.spotify.com/album/1H9MhTPpUUEN3RmNftiY1S"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Espi",
+          "url": "https://open.spotify.com/artist/2uGq7mB5MymL4sjLxhsOA0"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197021,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/6Q1HlpBc55tZYp1mfdForo"
     },
     {
       "album": {
@@ -3582,7 +3640,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 184000,
       "name": "Porcelain Boy",
       "url": "https://open.spotify.com/track/6pXNKxrMeKRsvqs1GYS5iE"
@@ -3604,6 +3662,24 @@
       "duration_ms": 187714,
       "name": "Precious Bones",
       "url": "https://open.spotify.com/track/5rpsHM3MTRdnbg0aUS1ug1"
+    },
+    {
+      "album": {
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/7Dj8YmJuy1W2H24ovyc3Ng"
+      },
+      "artists": [
+        {
+          "name": "Kiash Arjun",
+          "url": "https://open.spotify.com/artist/00gKlgFBYwZqFuA7n8beqw"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222696,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/3Nc3IhJPmdqYMqjowHdD2y"
     },
     {
       "album": {
@@ -3762,7 +3838,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 201523,
       "name": "Ring of Past",
       "url": "https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1"
@@ -4571,6 +4647,24 @@
     },
     {
       "album": {
+        "name": "UNTIL NEXT.....",
+        "url": "https://open.spotify.com/album/2z1yWUL05RcZZgR3E4osVq"
+      },
+      "artists": [
+        {
+          "name": "Qobi",
+          "url": "https://open.spotify.com/artist/5WfAvkaliCjjzV7MQX6vDq"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146818,
+      "name": "THE TRUTH WITHIN",
+      "url": "https://open.spotify.com/track/4EoBdt9knik0dVJGqSjUro"
+    },
+    {
+      "album": {
         "name": "This World Couldn\u2019t See Us",
         "url": "https://open.spotify.com/album/0z0wehtsAygzzJsdtgzNoz"
       },
@@ -4582,7 +4676,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 219106,
       "name": "This World Couldn\u2019t See Us",
       "url": "https://open.spotify.com/track/13cQU9GKHqSDInv3s7h9fm"
@@ -5084,7 +5178,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 248500,
       "name": "White Shadow",
       "url": "https://open.spotify.com/track/3Xlu89nWr1l6cakQu2BEov"
@@ -5250,7 +5344,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 165377,
       "name": "Wyoming",
       "url": "https://open.spotify.com/track/2DpP3gfvXqyOroXWIREwxv"

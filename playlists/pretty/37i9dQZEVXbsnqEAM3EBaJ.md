@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 65 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 65 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 | 23 | [Nothing Ever After](https://open.spotify.com/track/1YWT9j6SVGwvdwofuxRBe7) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Nothing Ever After](https://open.spotify.com/album/4MOY5APNUqjtJDnxzhGyT1) | 3:55 |
 | 24 | [Bajo Los Árboles](https://open.spotify.com/track/4PyUNDyAuEtw8LWv1Cd6uV) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Bajo Los Árboles](https://open.spotify.com/album/32MOe6Z6OuJePKUszFbo8M) | 4:07 |
 | 25 | [Incognito](https://open.spotify.com/track/4Os2m6H1IAg6MTFGOfjR31) | [PG Roxette](https://open.spotify.com/artist/3k87PFuum7Sv7zzjw7BMIg), [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY), [Per Gessle](https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK), [Helena Josefsson](https://open.spotify.com/artist/01o8zdH2NoWSZ4CEsYS44r), [Dea Norberg](https://open.spotify.com/artist/1s2NADRmVmkEjLZlE6vHvE) | [Incognito \- EP](https://open.spotify.com/album/5qvtlTo23K6RRKUZCOniII) | 3:39 |
-| 26 | [Fade](https://open.spotify.com/track/3mKSCxZ2Esz7r2wKjOSbYE) | [Human Tetris](https://open.spotify.com/artist/3wIDY01itbfdsQpMsyRZVG) | [Two Rooms](https://open.spotify.com/album/2A3RyDWQbBQQmuHXmh8vhB) | 4:29 |
+| 26 | [I Follow You](https://open.spotify.com/track/2MG6yDcAFpTmdl3tmc761e) | [Human Tetris](https://open.spotify.com/artist/3wIDY01itbfdsQpMsyRZVG) | [Two Rooms](https://open.spotify.com/album/2A3RyDWQbBQQmuHXmh8vhB) | 3:08 |
 | 27 | [A Child's Question, August](https://open.spotify.com/track/471H7nQUp3VaAn4ZcA6THS) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [A Child's Question, August](https://open.spotify.com/album/23vvKltYuD1To9zWGQ5NnB) | 2:46 |
 | 28 | [Canción de las Simples Cosas \- En Vivo](https://open.spotify.com/track/4fdR3MluQilbpX3qvocGE2) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Acústico en Suiza \(En Vivo\)](https://open.spotify.com/album/2uMb5a8i5k4sRuTqbg0pi5) | 3:13 |
 | 29 | [Cities in Dust](https://open.spotify.com/track/5amzP1D3FDCtOl5fyoPCGV) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Witness to Your Love](https://open.spotify.com/album/73yM7XMBxJikJbrx4W21jI) | 4:21 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 | 32 | [Back To You](https://open.spotify.com/track/2vXLuBxoWMgiOdzkxAVnMJ) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Back To You](https://open.spotify.com/album/1VUk2mDbkXcdEo2zk8ZbH2) | 3:07 |
 | 33 | [Rosalie \- Live at Montreux, 2007](https://open.spotify.com/track/1M169HdmaULWWirleVw1Ls) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Rosalie \(Live at Montreux, 2007\)](https://open.spotify.com/album/6Df3KmcbNaG4J58O7kKkGp) | 3:26 |
 | 34 | [Be My Lover \- Live in Miami, FL, May 27, 1972](https://open.spotify.com/track/6vkdmJExffiBxtXtCUretE) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Be My Lover \(Live in Miami, FL, May 27, 1972\)](https://open.spotify.com/album/6wDlAdSxf9aQk5RiBe7I2v) | 5:31 |
-| 35 | [Love Hurts \- Re\-recorded \- Slower + Reverb](https://open.spotify.com/track/0GEWitESdGCMcjn1LxynYf) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Love Hurts \(Re\-recorded \- Sped Up\)](https://open.spotify.com/album/1iL5xBfaqu9OYVENhxwIIV) | 4:30 |
+| 35 | [Love Hurts \- Re\-recorded](https://open.spotify.com/track/2o2p2zYcm0f62F0gQJrHhB) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Love Hurts \(Re\-recorded \- Sped Up\)](https://open.spotify.com/album/1iL5xBfaqu9OYVENhxwIIV) | 3:50 |
 | 36 | [Kein Mensch](https://open.spotify.com/track/1KH5fD9UJLtF8yPrLfoWM8) | [Blutengel](https://open.spotify.com/artist/2SRu9oxCg91Omb2yMFzttR) | [Kein Mensch](https://open.spotify.com/album/0Cug55IH0rH5CSyIR9EQJ1) | 4:39 |
 | 37 | [Do the Evolution \- Live at Melbourne Park, Melbourne, Australia \- March 5, 1998](https://open.spotify.com/track/6oEFHzS1tOgRNoy1aA194F) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Give Way](https://open.spotify.com/album/7vbERTWUaoNzuZzVkkga5g) | 3:37 |
 | 38 | [Demon Prince Regent](https://open.spotify.com/track/2HYhuvHTNQh5Ise5Aclcjl) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Trouble and Their Double Lives](https://open.spotify.com/album/51yy7fZaOrnD33sRlDxY4U) | 5:33 |
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 | 58 | [Rescued](https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Rescued](https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO) | 4:18 |
 | 59 | [Sherry Darling \- Live at Wembley Arena, London, UK \- June 5, 1981](https://open.spotify.com/track/4wkA7TQn8AtguuDgowgn18) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Live Series: Songs Of Character](https://open.spotify.com/album/5Do6bS6vnJqvAC9b3mJ1fi) | 4:54 |
 | 60 | [Shadows Follow](https://open.spotify.com/track/5iG1GycXpheJ5xMW0gNvKv) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 6:11 |
-| 61 | [The Lost Room](https://open.spotify.com/track/3qeuZqdc0eNjW8s59e6gRp) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Lost](https://open.spotify.com/album/19iU0Zz3hNQwWCSjJaR5LI) | 4:12 |
+| 61 | [Kaputnik](https://open.spotify.com/track/6vKIR4kdTDVuH0xBg0kRRr) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Lost](https://open.spotify.com/album/19iU0Zz3hNQwWCSjJaR5LI) | 3:58 |
 | 62 | [Capital F](https://open.spotify.com/track/1mrCZIWR3Up5R3G8rDFtjn) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Hope Of A Spark](https://open.spotify.com/album/5AAt0X7T9p81HEqIQUdzKp) | 2:34 |
 | 63 | [Goin' Home](https://open.spotify.com/track/0eir7payQFT0HAdGK88yBd) | [Overkill](https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe) | [Scorched](https://open.spotify.com/album/2JSQcvezbKguh7AVhvwLwu) | 4:31 |
 | 64 | [JUANA AZURDUY](https://open.spotify.com/track/2N29Cm2DxaupSnDcLkNzcP) | [JULIA PERESSON](https://open.spotify.com/artist/0dBupNNuTIhAYcQEwsSbhg), [CDI RECORDS S.A.](https://open.spotify.com/artist/6RYcrTuVVfidFKu0WKNc5k) | [Destellos Del Folklore](https://open.spotify.com/album/5R4Bzjf6rdaMJ0wWxyTB2p) | 4:35 |
 | 65 | [Holding out for a Hero \- Re\-Recorded \- Slowed + Reverb](https://open.spotify.com/track/3CNISSHPapR0YxwQePFAxM) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [Holding Out For A Hero \(Re\-Recorded \- Sped Up\)](https://open.spotify.com/album/0ZKcSy89HrjfjlUbKsjLlP) | 7:45 |
 
-Snapshot ID: `MjgwNTQzMjAsMDAwMDAwMDBiMzJhOWIxODAxMDgyZGM5YWY5NjAxNDU0ZGNiYTRhNQ==`
+Snapshot ID: `MjgwNTQzMjAsMDAwMDAwMDAwNDM5MjgyYjUzNDRkOTFmMTlhOWYyMjAzZmI1MTkwNA==`

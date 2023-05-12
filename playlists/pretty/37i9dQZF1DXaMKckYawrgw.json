@@ -1,12 +1,12 @@
 {
   "description": "Ska 100% hecho en M\u00e9xico con chilito del que pica. La Tremenda Korte en portada. ",
-  "num_followers": 8098,
+  "num_followers": 8102,
   "original_name": "MexSka ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjBkZWFlMTIwYTA1ODc1MWJlNmNmZmRkZjYxYzM2YTFlMzAyODVi",
+  "snapshot_id": "MCw4ZGQ5MWNjODkxY2EwMzZkYjM2OGIyNjgzMWUwNzkwYTg1ODg2OWIz",
   "tracks": [
     {
       "added_at": "2023-03-31 06:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
-        "name": "Jamaica Ska",
-        "url": "https://open.spotify.com/album/6DDi0g2UP6IYKTY8xyT2Xq"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Quirazco",
-          "url": "https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo"
-        }
-      ],
-      "duration_ms": 135810,
-      "name": "Jamaica Ska",
-      "url": "https://open.spotify.com/track/0TC4bsmObl4K0tbI5IFcTD"
-    },
-    {
-      "added_at": "2023-03-31 06:00:00",
-      "album": {
         "name": "Almas",
         "url": "https://open.spotify.com/album/4ZwuuEgoDjNmM58S91dA39"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 209620,
       "name": "Almas",
       "url": "https://open.spotify.com/track/2ghJikYE3GMJ2VAxmyBcRT"
+    },
+    {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
+        "name": "Jamaica Ska",
+        "url": "https://open.spotify.com/album/6DDi0g2UP6IYKTY8xyT2Xq"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Quirazco",
+          "url": "https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo"
+        }
+      ],
+      "duration_ms": 135810,
+      "name": "Jamaica Ska",
+      "url": "https://open.spotify.com/track/0TC4bsmObl4K0tbI5IFcTD"
     },
     {
       "added_at": "2023-03-31 06:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
-        "name": "Ska, Vol. 2",
-        "url": "https://open.spotify.com/album/7GrWjBPVOAzYFdFFwHRAvZ"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Quirazco",
-          "url": "https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo"
-        }
-      ],
-      "duration_ms": 157675,
-      "name": "Estambul Ska",
-      "url": "https://open.spotify.com/track/6DPAbdD7Wik0WxdpIwQRmH"
-    },
-    {
-      "added_at": "2023-03-31 06:00:00",
-      "album": {
         "name": "El Mundo No Esta Listo",
         "url": "https://open.spotify.com/album/3f5DkLjh7MUclnlrrT4jYv"
       },
@@ -1351,18 +1335,18 @@
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
-        "name": "La Kruda Realidad",
-        "url": "https://open.spotify.com/album/2zikmV9U4hrslEzwSprmda"
+        "name": "Ska, Vol. 2",
+        "url": "https://open.spotify.com/album/7GrWjBPVOAzYFdFFwHRAvZ"
       },
       "artists": [
         {
-          "name": "La Parranda Magna",
-          "url": "https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH"
+          "name": "To\u00f1o Quirazco",
+          "url": "https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo"
         }
       ],
-      "duration_ms": 198226,
-      "name": "Lejos Otra Vez",
-      "url": "https://open.spotify.com/track/3xmXfTd5RrqlIOWPnfDRoG"
+      "duration_ms": 157675,
+      "name": "Estambul Ska",
+      "url": "https://open.spotify.com/track/6DPAbdD7Wik0WxdpIwQRmH"
     },
     {
       "added_at": "2023-03-31 06:00:00",
@@ -1383,18 +1367,18 @@
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
-        "name": "Marcando El Ritmo",
-        "url": "https://open.spotify.com/album/537Yl2DlSZ58rPkV07E5aE"
+        "name": "La Kruda Realidad",
+        "url": "https://open.spotify.com/album/2zikmV9U4hrslEzwSprmda"
       },
       "artists": [
         {
-          "name": "Moon Stomper",
-          "url": "https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE"
+          "name": "La Parranda Magna",
+          "url": "https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH"
         }
       ],
-      "duration_ms": 155965,
-      "name": "Stay Rude",
-      "url": "https://open.spotify.com/track/1GTsw9fJdctqyT7iVQS35i"
+      "duration_ms": 198226,
+      "name": "Lejos Otra Vez",
+      "url": "https://open.spotify.com/track/3xmXfTd5RrqlIOWPnfDRoG"
     },
     {
       "added_at": "2023-03-31 06:00:00",
@@ -1415,22 +1399,6 @@
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
-        "name": "Ciao",
-        "url": "https://open.spotify.com/album/6yQCx1G68XrLOIQkHBXlce"
-      },
-      "artists": [
-        {
-          "name": "Girls Go Ska",
-          "url": "https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo"
-        }
-      ],
-      "duration_ms": 263000,
-      "name": "Ciao",
-      "url": "https://open.spotify.com/track/136wILyBKYq1Su7fXQQJNH"
-    },
-    {
-      "added_at": "2023-03-31 06:00:00",
-      "album": {
         "name": "Revoluciones",
         "url": "https://open.spotify.com/album/5WV18rJf103xCSq1bruZwJ"
       },
@@ -1447,18 +1415,18 @@
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
-        "name": "Jamaica Ska",
-        "url": "https://open.spotify.com/album/6DDi0g2UP6IYKTY8xyT2Xq"
+        "name": "Ciao",
+        "url": "https://open.spotify.com/album/6yQCx1G68XrLOIQkHBXlce"
       },
       "artists": [
         {
-          "name": "To\u00f1o Quirazco",
-          "url": "https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo"
+          "name": "Girls Go Ska",
+          "url": "https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo"
         }
       ],
-      "duration_ms": 153861,
-      "name": "M\u00e9rida Ska",
-      "url": "https://open.spotify.com/track/5watJHxDxO5RLv7ye4HHXy"
+      "duration_ms": 263000,
+      "name": "Ciao",
+      "url": "https://open.spotify.com/track/136wILyBKYq1Su7fXQQJNH"
     },
     {
       "added_at": "2023-03-31 06:00:00",
@@ -1483,6 +1451,38 @@
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
+        "name": "Marcando El Ritmo",
+        "url": "https://open.spotify.com/album/537Yl2DlSZ58rPkV07E5aE"
+      },
+      "artists": [
+        {
+          "name": "Moon Stomper",
+          "url": "https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE"
+        }
+      ],
+      "duration_ms": 155965,
+      "name": "Stay Rude",
+      "url": "https://open.spotify.com/track/1GTsw9fJdctqyT7iVQS35i"
+    },
+    {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
+        "name": "Jamaica Ska",
+        "url": "https://open.spotify.com/album/6DDi0g2UP6IYKTY8xyT2Xq"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Quirazco",
+          "url": "https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo"
+        }
+      ],
+      "duration_ms": 153861,
+      "name": "M\u00e9rida Ska",
+      "url": "https://open.spotify.com/track/5watJHxDxO5RLv7ye4HHXy"
+    },
+    {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
         "name": "Rude Boy Nights",
         "url": "https://open.spotify.com/album/5QkJ7K1MeJuq0oSD8YJfbw"
       },
@@ -1495,26 +1495,6 @@
       "duration_ms": 206458,
       "name": "La Mentira",
       "url": "https://open.spotify.com/track/2zbuaopaNyAC3C4940YNCL"
-    },
-    {
-      "added_at": "2023-03-31 06:00:00",
-      "album": {
-        "name": "Marcando El Ritmo",
-        "url": "https://open.spotify.com/album/537Yl2DlSZ58rPkV07E5aE"
-      },
-      "artists": [
-        {
-          "name": "Moon Stomper",
-          "url": "https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE"
-        },
-        {
-          "name": "Ruzzo M\u00f3ran",
-          "url": "https://open.spotify.com/artist/0RwRXTmjAzNtDsNoVmGHPr"
-        }
-      ],
-      "duration_ms": 218804,
-      "name": "Jueves",
-      "url": "https://open.spotify.com/track/1A2UpNvD4mDtfDxRwy32EY"
     },
     {
       "added_at": "2023-03-31 06:00:00",
@@ -1547,6 +1527,26 @@
       "duration_ms": 248888,
       "name": "La Ultima Noche",
       "url": "https://open.spotify.com/track/4RG7LZHHzZZQw73EPGoS9n"
+    },
+    {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
+        "name": "Marcando El Ritmo",
+        "url": "https://open.spotify.com/album/537Yl2DlSZ58rPkV07E5aE"
+      },
+      "artists": [
+        {
+          "name": "Moon Stomper",
+          "url": "https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE"
+        },
+        {
+          "name": "Ruzzo M\u00f3ran",
+          "url": "https://open.spotify.com/artist/0RwRXTmjAzNtDsNoVmGHPr"
+        }
+      ],
+      "duration_ms": 218804,
+      "name": "Jueves",
+      "url": "https://open.spotify.com/track/1A2UpNvD4mDtfDxRwy32EY"
     },
     {
       "added_at": "2023-03-31 06:00:00",

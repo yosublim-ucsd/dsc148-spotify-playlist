@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 
 > as mais tristes do brasil
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,252 likes - 82 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,282 likes - 82 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 | 47 | [tempestade](https://open.spotify.com/track/4S6nAoxoOEve9gsTd2Fe4q) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk), [liia](https://open.spotify.com/artist/3setKCH8KPW9lBrJRvpzcx) | [tempestade](https://open.spotify.com/album/7pVqjPSxPgEIZfg8rIPqXi) | 2:30 |
 | 48 | [Juro](https://open.spotify.com/track/1xaVKzZFgo1UQUVfko19Zk) | [Augus7o](https://open.spotify.com/artist/78iJtzui4jnlK1KsDnlykz) | [Juro](https://open.spotify.com/album/47YH8c1MK1RC5dg2Pmd2nQ) | 3:39 |
 | 49 | [Outros Planos](https://open.spotify.com/track/1F0pZfGO3vb652DSVwHjT4) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2), [Nanasai](https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S) | [Outros Planos](https://open.spotify.com/album/5aAL68GASfefbEwoCbka4P) | 3:16 |
-| 50 | [Eu te fiz sofrer](https://open.spotify.com/track/7LJ4i3QW0lri9IDg1FPRFZ) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Kourah](https://open.spotify.com/artist/0ZZjUA7WDQGjBN416iSBae) | [Eu te fiz sofrer](https://open.spotify.com/album/3S2JOAUJ7NdY0QbrFksthT) | 2:44 |
+| 50 | [Eu te fiz sofrer](https://open.spotify.com/track/27mCcNX7OfjQCQj89YrcW0) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Kourah](https://open.spotify.com/artist/0ZZjUA7WDQGjBN416iSBae) | [Eu te fiz sofrer](https://open.spotify.com/album/06brlc4HlMuyvLX3DJVQkY) | 2:44 |
 | 51 | [Atende o Celular](https://open.spotify.com/track/6EuHqKLUuSp6taKVdfhafF) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Nanasai](https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S) | [Atende o Celular](https://open.spotify.com/album/0jryDdYQKwEwB2HrdNuQLs) | 2:54 |
 | 52 | [A Música Mais Sincera do Ano](https://open.spotify.com/track/5iINpVOwXLU1xP2cVMzZwc) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [A Música Mais Sincera do Ano](https://open.spotify.com/album/5r9prD8tMsVkjLKF8bv3Dk) | 2:51 |
 | 53 | [Quando a Gente Briga](https://open.spotify.com/track/6xa79iVBuj8VYcXRb7CEbO) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [Erix](https://open.spotify.com/artist/1nBbgjGsyozg0Ybfr49tma), [Rakky](https://open.spotify.com/artist/7Gf8nW5S8PtsnSkeeglQej) | [Quando a Gente Briga](https://open.spotify.com/album/6kJqYkJVUU8tE9uHICPQSi) | 3:25 |
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 | 76 | [Eu Olho pra Você](https://open.spotify.com/track/3elxbb7HapeHnQq8HO39fb) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [Pedrosa](https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2) | [Eu Olho pra Você](https://open.spotify.com/album/4OhDXcpj77hEpxoxdhguZy) | 2:30 |
 | 77 | [Saída](https://open.spotify.com/track/3Lud2t0VgvILTFl1dyXDDY) | [Magyn](https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU) | [Saída](https://open.spotify.com/album/5aztfQfRFt2UpLbTgpMelw) | 2:24 |
 | 78 | [Me Deixe Sumir](https://open.spotify.com/track/2DHidHdCswIjNE4kgTK2fX) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Me Deixe Sumir](https://open.spotify.com/album/17lHG7WmEb33MDCEENNZar) | 3:37 |
-| 79 | [deitado no quarto](https://open.spotify.com/track/7psjVTKXg6BKu8EFr6ZSIv) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2), [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [deitado no quarto](https://open.spotify.com/album/39qpw5ItINLhEiMYfoYjkq) | 2:56 |
+| 79 | [deitado no quarto](https://open.spotify.com/track/7wBfwQ1dLrf3QiQV7WRN6O) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2), [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [deitado no quarto](https://open.spotify.com/album/5AxkAvYMhR5pUR2XRpgWFs) | 2:56 |
 | 80 | [Ainda Lembro](https://open.spotify.com/track/3RkTmbR7D01mq46FNp1mI0) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2) | [Ainda Lembro](https://open.spotify.com/album/2tG0W9n2wjwG8x0eA6LpZY) | 2:26 |
 | 81 | [Que não te falte amor](https://open.spotify.com/track/4e8mbXLx3DRgLbTafPpNat) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Que não te falte amor](https://open.spotify.com/album/70YMa2rpfCE4LQ1Q7clQws) | 2:43 |
 | 82 | [Por Nós Dois](https://open.spotify.com/track/0vAa3jsBGC9u2orV5rJjxG) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Por Nós Dois](https://open.spotify.com/album/7FGoFdKxKxFjk4cYwY1bpL) | 2:58 |
 
-Snapshot ID: `MCw0OTgxNjJjNDNkNTVmNDBjYTAzZjQxOTIxYzRhNWU2OGM5ZGI5MTg3`
+Snapshot ID: `MCw5MGY2ZjQ2ZmM5MDdkYTkwMjVlNDZhNWQyYWRiNzE5M2E0MWIzYTI2`

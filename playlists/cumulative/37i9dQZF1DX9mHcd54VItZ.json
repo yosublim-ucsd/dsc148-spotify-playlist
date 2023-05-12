@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn?si=Dy-6K__kSu6y-7gjp5Fyzw\">Glaskas</a> ",
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/6nEhQq8FIrP4VY4lixkdZD?si=Jh0Glls2SRCboWgloRfa3g\">Cindy-Louise</a> ",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -232,7 +232,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 166834,
       "name": "As Ek Jou Hoor Lag",
       "url": "https://open.spotify.com/track/1W5M5PXjBeLKgac4uMrbHO"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 181728,
       "name": "Bittersomerson",
       "url": "https://open.spotify.com/track/7lC9qPhTnfYYjXqeSKun7y"
@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 288624,
       "name": "Destination",
       "url": "https://open.spotify.com/track/41HTRLeK7GD9251tiuX1vX"
@@ -1318,7 +1318,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 273475,
       "name": "Erika Way",
       "url": "https://open.spotify.com/track/1smrGKf89mWioxRiWHLtV7"
@@ -1704,6 +1704,24 @@
       "duration_ms": 205100,
       "name": "Good Little Girl",
       "url": "https://open.spotify.com/track/4EZKWCPXpE1Oj8vI1U845y"
+    },
+    {
+      "album": {
+        "name": "H.F.A.Y. (How Fake Are You)",
+        "url": "https://open.spotify.com/album/5qZCP7F4qZ7jNEWzbrANTK"
+      },
+      "artists": [
+        {
+          "name": "Lincoln Hunter",
+          "url": "https://open.spotify.com/artist/1pDMcSajVybIxvEbeazPG1"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "H.F.A.Y. (How Fake Are You)",
+      "url": "https://open.spotify.com/track/6jszxDsTnpI6xOeBuJ3l8K"
     },
     {
       "album": {
@@ -2406,6 +2424,24 @@
       "duration_ms": 195451,
       "name": "Lonely Road",
       "url": "https://open.spotify.com/track/7c5dtWi2N1DBmEwIBWangX"
+    },
+    {
+      "album": {
+        "name": "Love in Space",
+        "url": "https://open.spotify.com/album/1pNogA5UJLNJo8Eo0t6xyI"
+      },
+      "artists": [
+        {
+          "name": "The Color Blew",
+          "url": "https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221006,
+      "name": "Love in Space",
+      "url": "https://open.spotify.com/track/1OXQqXkx0Nz3lheIrL5YWP"
     },
     {
       "album": {
@@ -3418,7 +3454,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 278124,
       "name": "Shallow Waters (25 Year Anniversary)",
       "url": "https://open.spotify.com/track/7vdiUC7BzKmBqsSEJsbnbr"
@@ -3929,6 +3965,24 @@
     },
     {
       "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/7G4Oa0XkNv552XNf4WcRjn"
+      },
+      "artists": [
+        {
+          "name": "Cindy-Louise",
+          "url": "https://open.spotify.com/artist/6nEhQq8FIrP4VY4lixkdZD"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211227,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/5HODR0ePjRBr9eUFrL92MF"
+    },
+    {
+      "album": {
         "name": "Tattoos",
         "url": "https://open.spotify.com/album/1l4qhYVEvbdsep8C8AYaw8"
       },
@@ -4005,6 +4059,28 @@
     },
     {
       "album": {
+        "name": "The Catch",
+        "url": "https://open.spotify.com/album/6wnE6Z6tjC6vqB4tmXuLc5"
+      },
+      "artists": [
+        {
+          "name": "I'm With The Singer",
+          "url": "https://open.spotify.com/artist/0btcQ5EaeZzyVMuNZgNu3D"
+        },
+        {
+          "name": "Sannie Fox",
+          "url": "https://open.spotify.com/artist/7D5bb69WMeC1jB8yP1uXnI"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228462,
+      "name": "The Catch",
+      "url": "https://open.spotify.com/track/0VB56GzZ6iyMcj16dwqM2h"
+    },
+    {
+      "album": {
         "name": "The Day I Gave My Sister Away",
         "url": "https://open.spotify.com/album/6Eh0WwpG6PnUsVXPoVEc2W"
       },
@@ -4060,6 +4136,24 @@
       "duration_ms": 191000,
       "name": "The Leviathan",
       "url": "https://open.spotify.com/track/5ww5VmYgYGQtGMJiz2tDTQ"
+    },
+    {
+      "album": {
+        "name": "The Monday Song",
+        "url": "https://open.spotify.com/album/7uyhAzbAamG5ydR31Zo18h"
+      },
+      "artists": [
+        {
+          "name": "Yorxe",
+          "url": "https://open.spotify.com/artist/6S4m4nLUKn7OuavvVKQWv8"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142045,
+      "name": "The Monday Song",
+      "url": "https://open.spotify.com/track/1xjVX1qvj8x8vNC86hMmuR"
     },
     {
       "album": {

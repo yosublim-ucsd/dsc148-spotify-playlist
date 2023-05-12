@@ -1377,6 +1377,24 @@
     },
     {
       "album": {
+        "name": "Mann Di Ni Tu",
+        "url": "https://open.spotify.com/album/2MouNJrp808vRMsSsMgDUJ"
+      },
+      "artists": [
+        {
+          "name": "Zehr Vibe",
+          "url": "https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148952,
+      "name": "Mann Di Ni Tu",
+      "url": "https://open.spotify.com/track/27hoh50gG4ls3RIyZeCqiA"
+    },
+    {
+      "album": {
         "name": "Mere Wala Jatt",
         "url": "https://open.spotify.com/album/71mPX0HJuZ6FSJD7WNiTCi"
       },

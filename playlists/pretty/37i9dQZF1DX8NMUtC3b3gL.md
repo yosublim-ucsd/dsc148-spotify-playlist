@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,520 likes - 262 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,680 likes - 262 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,7 +166,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 156 | [counting sheep](https://open.spotify.com/track/3x2Y0A58sRnkx2PD9dcbCc) | [Zack Zhu](https://open.spotify.com/artist/6MRw1mgKzI22Yjlcu2Fzea) | [counting sheep](https://open.spotify.com/album/77vFl5Aox31AH8XroidWES) | 1:56 |
 | 157 | [Vacation Days](https://open.spotify.com/track/76cHnrbRZkkJzm6MbIrIHB) | [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm) | [Vacation Days](https://open.spotify.com/album/1l9PBk2Z5lUW5KuATKUMIu) | 2:18 |
 | 158 | [introspection](https://open.spotify.com/track/623oh9a6Vrc4NlUkgPuvvi) | [Mrs Blonded](https://open.spotify.com/artist/6Gx6MRxYH7sQQTRe7EStEN) | [introspection](https://open.spotify.com/album/2UckQg0YEvSSE9Ckzz7Uda) | 1:52 |
-| 159 | [Peach](https://open.spotify.com/track/2gnTR4wQ7EhwZYoRRZWnrT) | [zxry.](https://open.spotify.com/artist/2EBMa1emZmsUTYcb1xJwIJ) | [Peach](https://open.spotify.com/album/4NosSndHdk6qgy0OAs9Fay) | 2:03 |
+| 159 | [Peach](https://open.spotify.com/track/2gnTR4wQ7EhwZYoRRZWnrT) | [zxry.](https://open.spotify.com/artist/2KDok9fxr255I38HflZAzC) | [Peach](https://open.spotify.com/album/4NosSndHdk6qgy0OAs9Fay) | 2:03 |
 | 160 | [So Unique](https://open.spotify.com/track/2pir3lGD2dNsBjPRCN5Xxt) | [Zho Zho](https://open.spotify.com/artist/1kmThtC0J9kzWqMy89sIyJ) | [Indigo Rum](https://open.spotify.com/album/73gM76gHJIEXqrY1idyLIG) | 2:39 |
 | 161 | [First Impressions](https://open.spotify.com/track/4m4QBep0gtfC3g8wjev0QB) | [Sugar Coast](https://open.spotify.com/artist/77PPAf37R11s5IiWFGYP3m) | [First Impressions](https://open.spotify.com/album/6UaF71BrRIVOoKWoqOaGPx) | 2:11 |
 | 162 | [Commuter](https://open.spotify.com/track/4Rf27qELU6XDQx8DtFHU4Q) | [Giorgio Robertini](https://open.spotify.com/artist/3CfYXa3IM5nDW2rzaVRQRV) | [Commuter](https://open.spotify.com/album/73ddBbDKMzEiLWqA3VDXi0) | 2:00 |
@@ -271,4 +271,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 261 | [Baciati dall'Alba](https://open.spotify.com/track/1jxRI7gGElI8Ub2r3RfGmu) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Dolce far niente](https://open.spotify.com/album/6fwztztqcC6sBS4ceFEpiX) | 1:35 |
 | 262 | [Summer Nights](https://open.spotify.com/track/4ie8E16PC1VHVESsUXUfYx) | [Louis Woods](https://open.spotify.com/artist/2vVChmDdarQ6uVWL5QpIOq) | [Summer Nights](https://open.spotify.com/album/4rTQm79IK5yrJDJkTz9uNE) | 2:02 |
 
-Snapshot ID: `MCwwZjUwYmFlN2VmZWFjY2UyMjNkYjllYWE4ZWM0YjNmZmQwNmZjMjU3`
+Snapshot ID: `MCwzOTk2NTRlZDI3MjhhNTUyMmZlODZjMTU5ZmM0OTlmOTAzNzAzZDFi`

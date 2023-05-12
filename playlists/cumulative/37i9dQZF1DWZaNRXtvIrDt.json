@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "a new world of alternative electronic music. Cover: Fred Again.. & Brian Eno",
+  "description": "a new world of alternative electronic music. Cover: Overmono",
   "name": "Portal",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 247234,
       "name": "2M3 2U",
       "url": "https://open.spotify.com/track/11wmWBDltWMVsHDIDRWVCc"
+    },
+    {
+      "album": {
+        "name": "2kisses - EP",
+        "url": "https://open.spotify.com/album/4MXJZcuH5OeriwyRgvtFJa"
+      },
+      "artists": [
+        {
+          "name": "Lex",
+          "url": "https://open.spotify.com/artist/0oI3w63aSJPWFVS5tPFP7g"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286222,
+      "name": "4 My Ladies",
+      "url": "https://open.spotify.com/track/2anqDovtfF9nE8gnRQh4Do"
     },
     {
       "album": {
@@ -414,7 +432,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 508040,
       "name": "Back",
       "url": "https://open.spotify.com/track/2WjSqhjEJeNWOjLmq1Qt1F"
@@ -939,6 +957,24 @@
     },
     {
       "album": {
+        "name": "Good Lies",
+        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217369,
+      "name": "Cold Blooded",
+      "url": "https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn"
+    },
+    {
+      "album": {
         "name": "Coming On Strong",
         "url": "https://open.spotify.com/album/6u3f15wSXhpxeekig4ceqZ"
       },
@@ -1253,6 +1289,24 @@
     },
     {
       "album": {
+        "name": "Translucid Transit",
+        "url": "https://open.spotify.com/album/7w2Tq5FbO7wcGmKz4pZfxb"
+      },
+      "artists": [
+        {
+          "name": "Loure",
+          "url": "https://open.spotify.com/artist/0oj4QK4zH3lghS2Oa418zZ"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350737,
+      "name": "Dreamscape",
+      "url": "https://open.spotify.com/track/3Vj2GECLhHkxtEl86kzjlK"
+    },
+    {
+      "album": {
         "name": "Druidz",
         "url": "https://open.spotify.com/album/5pjsZZxT2tC7b40eXTdiRm"
       },
@@ -1268,7 +1322,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 236712,
       "name": "Druidz",
       "url": "https://open.spotify.com/track/3lqIaHpfVs0WqKfClcuRFd"
@@ -1409,6 +1463,24 @@
     },
     {
       "album": {
+        "name": "Fading",
+        "url": "https://open.spotify.com/album/4bUlfYprHew2m5NsyzD84I"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267842,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/6a6ukMkLFXcWvqP0fdlDfZ"
+    },
+    {
+      "album": {
         "name": "Fai Fighter",
         "url": "https://open.spotify.com/album/7hkFfZ5m3KUoVPp7yvXxSg"
       },
@@ -1496,6 +1568,46 @@
       "duration_ms": 434452,
       "name": "Feels Bad",
       "url": "https://open.spotify.com/track/1wr53taHWvkEfp9nG0vAIM"
+    },
+    {
+      "album": {
+        "name": "Light Places",
+        "url": "https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Caroline Byrne",
+          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241804,
+      "name": "Feels Just Like it",
+      "url": "https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y"
+    },
+    {
+      "album": {
+        "name": "Shield",
+        "url": "https://open.spotify.com/album/7r2DO2kRoV44v9hdfgAQKr"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208482,
+      "name": "Feels Like My Hands Are On Fire",
+      "url": "https://open.spotify.com/track/4WUYv43gJtAAIaeSBml8ow"
     },
     {
       "album": {
@@ -2137,6 +2249,24 @@
     },
     {
       "album": {
+        "name": "I Know Your Present",
+        "url": "https://open.spotify.com/album/709nDzklqvM2wkTRF7Gqkt"
+      },
+      "artists": [
+        {
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229743,
+      "name": "I Know Your Present",
+      "url": "https://open.spotify.com/track/3ii9uGCjFToAW2KnjxV34P"
+    },
+    {
+      "album": {
         "name": "I'm Trying",
         "url": "https://open.spotify.com/album/4laizWsGgenglKUKnCSkXE"
       },
@@ -2242,7 +2372,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 380173,
       "name": "It's Very Loud",
       "url": "https://open.spotify.com/track/4pVpPtYTEGLVhfgljGM2Xl"
@@ -2304,6 +2434,24 @@
       "duration_ms": 300577,
       "name": "Juniper",
       "url": "https://open.spotify.com/track/4PRVnpNShPqjANUE5GC7Dx"
+    },
+    {
+      "album": {
+        "name": "The Ancient Truth",
+        "url": "https://open.spotify.com/album/5STK4lk9JLkQOCadRoNKQR"
+      },
+      "artists": [
+        {
+          "name": "Maara",
+          "url": "https://open.spotify.com/artist/71tnaVVl10fbxBHN5Rcd4y"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286377,
+      "name": "Just Give Me Time",
+      "url": "https://open.spotify.com/track/7a4dqxJ01GP2vsnHUAleew"
     },
     {
       "album": {
@@ -2937,6 +3085,24 @@
     },
     {
       "album": {
+        "name": "Never Going Home",
+        "url": "https://open.spotify.com/album/5zhtSm1uVoHLOpP6W24RGj"
+      },
+      "artists": [
+        {
+          "name": "CFCF",
+          "url": "https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 556800,
+      "name": "Never Going Home",
+      "url": "https://open.spotify.com/track/2L3qV9xndXXYfIxUB0OJT4"
+    },
+    {
+      "album": {
         "name": "Never Let It Go",
         "url": "https://open.spotify.com/album/6DcsNTMh3dWeN1Kup1QSLU"
       },
@@ -3378,7 +3544,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 294063,
       "name": "Ras",
       "url": "https://open.spotify.com/track/3fbXEzhwB3tf8FvolSW85V"
@@ -3811,6 +3977,24 @@
     },
     {
       "album": {
+        "name": "BODYHI02",
+        "url": "https://open.spotify.com/album/7hZbpy49j5LxG8Q7C8HL4b"
+      },
+      "artists": [
+        {
+          "name": "Body Corp",
+          "url": "https://open.spotify.com/artist/47kJiM0ksgZti3nuMq1opC"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404751,
+      "name": "Single Breath",
+      "url": "https://open.spotify.com/track/5DOMFonuoyCcfnEojseB9B"
+    },
+    {
+      "album": {
         "name": "Red Sky EP",
         "url": "https://open.spotify.com/album/0iWzQ1vGm5vM8wUn51mcqG"
       },
@@ -3880,6 +4064,42 @@
       "duration_ms": 215431,
       "name": "Slug",
       "url": "https://open.spotify.com/track/0pI7zATeng92EknYPfi2B2"
+    },
+    {
+      "album": {
+        "name": "I Can't Do This Without You!",
+        "url": "https://open.spotify.com/album/6zVIevg0sFU2NqGgzdt9aZ"
+      },
+      "artists": [
+        {
+          "name": "Strath",
+          "url": "https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171226,
+      "name": "So Long",
+      "url": "https://open.spotify.com/track/4sm6jKJ3UnbjOzmhmGif5p"
+    },
+    {
+      "album": {
+        "name": "So Real",
+        "url": "https://open.spotify.com/album/0FYjmJ49n0NOXjijotrSdk"
+      },
+      "artists": [
+        {
+          "name": "99 Nissan Patrol",
+          "url": "https://open.spotify.com/artist/6NLwlRl1gc64NVdC4ZXxgw"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270093,
+      "name": "So Real",
+      "url": "https://open.spotify.com/track/7Iy9nquGdO3knVC4PW9xKk"
     },
     {
       "album": {
@@ -3964,6 +4184,24 @@
       "duration_ms": 317793,
       "name": "Southern Clouds",
       "url": "https://open.spotify.com/track/524JHo9cEbYarhzU8457z4"
+    },
+    {
+      "album": {
+        "name": "Space Girl Finds Cash",
+        "url": "https://open.spotify.com/album/5zmdu8WjRppE3XxU5FeHQK"
+      },
+      "artists": [
+        {
+          "name": "K\u00c9DU CARL\u00d6",
+          "url": "https://open.spotify.com/artist/5FdNimxRznD7ZK6LR5VTJC"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296200,
+      "name": "Space Girl Finds Cash",
+      "url": "https://open.spotify.com/track/1D77tiJp6af1tzcc1rWlHJ"
     },
     {
       "album": {
@@ -4490,7 +4728,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 212750,
       "name": "U Need Me",
       "url": "https://open.spotify.com/track/6SzGIfq5jwOkJHIyv4hw3a"
@@ -4526,7 +4764,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 419367,
       "name": "Unknown Angel",
       "url": "https://open.spotify.com/track/0c3l1ht3cKspGlY67Fcogu"
@@ -4808,7 +5046,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 212492,
       "name": "Where The Angels Go To Die",
       "url": "https://open.spotify.com/track/0zwJUJgcZrcdAKfATMYhcq"
@@ -4826,7 +5064,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 280110,
       "name": "Whispering",
       "url": "https://open.spotify.com/track/6HdgO8F81kPNjhk9O5ic1F"

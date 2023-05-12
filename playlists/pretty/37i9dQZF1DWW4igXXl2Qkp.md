@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: Devmaccc
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,886 likes - 76 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,024 likes - 76 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 56 | [Papercuts](https://open.spotify.com/track/6AuqHJkNesmHfHK7AKxhR5) | [White $osa](https://open.spotify.com/artist/1GYdtgkKzP62BRZsCvpkog) | [Papercuts](https://open.spotify.com/album/4PzEyQ4Zh0INv12yKQ4aFC) | 2:15 |
 | 57 | [I'm Him](https://open.spotify.com/track/2cAqVc1Hrry0OpnyOLmsEv) | [Joe West](https://open.spotify.com/artist/4ep4KPv7HsOHDILejOScCK) | [HIM](https://open.spotify.com/album/2aSexfVzRxiaHa2mPeSZD0) | 2:43 |
 | 58 | [eyes can't see](https://open.spotify.com/track/0kKt6R53daDfAC3Fd8EcGu) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF), [Cj Francis IV](https://open.spotify.com/artist/32dFQz3nhj2uhF49xMJhFD) | [eyes can't see](https://open.spotify.com/album/44cxZeSL4zjzch6LLmpx45) | 3:50 |
-| 59 | [Don't Talk 2 Me](https://open.spotify.com/track/3cCYeh7pceJYUqXnzEaeip) | [JODY SUMMERS](https://open.spotify.com/artist/1gL1oFmpEyzt73ZaBjXXAx), [WIL$ON](https://open.spotify.com/artist/1JIgcZTvB6nLvFwsEOgnbI), [Scottie Le'Jour](https://open.spotify.com/artist/0tueJYXAR9dx6KPDWZz0nn) | [Don't Talk 2 Me](https://open.spotify.com/album/54FWdaPAxy6qx47i7hxLM1) | 2:22 |
+| 59 | [Don't Talk 2 Me](https://open.spotify.com/track/59Yw62BGuKjzYlceUfC7L8) | [JODY SUMMERS](https://open.spotify.com/artist/1gL1oFmpEyzt73ZaBjXXAx), [WIL$ON](https://open.spotify.com/artist/1JIgcZTvB6nLvFwsEOgnbI), [Scottie Le'Jour](https://open.spotify.com/artist/0tueJYXAR9dx6KPDWZz0nn) | [Don't Talk 2 Me](https://open.spotify.com/album/1ZC0pflUsQkkYxVcie04YR) | 2:22 |
 | 60 | [apathy](https://open.spotify.com/track/0FbvZWH5U89TSqtbSMo39N) | [bronclair](https://open.spotify.com/artist/5FTkkcSCHksqiJqQMPYoH6) | [apathy](https://open.spotify.com/album/0z5F3pShCMnNCiqlkeyfdD) | 1:53 |
 | 61 | [My Man \(Freestyle\)](https://open.spotify.com/track/0RHRh0C72thISwz7GCl8xY) | [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF) | [My Man \(Freestyle\)](https://open.spotify.com/album/4894VocVu0Qm90wKyU76XD) | 2:30 |
 | 62 | [Drop](https://open.spotify.com/track/1gtQcKsKB32UmxzwihNDe4) | [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M), [CD](https://open.spotify.com/artist/6e9pYVS5wPMajyuREbBX1f) | [SMOOVE KILLA](https://open.spotify.com/album/0xbefplN6nQ5af0mMGHpXK) | 3:32 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 75 | [Backend](https://open.spotify.com/track/2RIZZjL7hmpOxY3glK7ukT) | [Young Bopete](https://open.spotify.com/artist/2fqZt9lq08W5OUOcKSSW2R) | [Thank Me Later](https://open.spotify.com/album/28LtjBcClHQCVCzAO6uR6H) | 2:48 |
 | 76 | [MONKE ON ROOFTOP](https://open.spotify.com/track/0VqY3F40vX8CiC9qjsBgqF) | [100Fold](https://open.spotify.com/artist/27n1FNYqmuelwnbzv3SFRR), [G\. King](https://open.spotify.com/artist/7eOq2zIC5Gz3vNbh2uGDTk), [Blank Face Villain](https://open.spotify.com/artist/4NAtTLJWLOWLRIj3gXXlEq), [Blake Davis](https://open.spotify.com/artist/00SBlfpYxaAfWBnARDc8jJ), [LT](https://open.spotify.com/artist/11txojsEKVXlpyQb7cacYM), [JSTRO](https://open.spotify.com/artist/20lykpLWZhNLUdqY1OGTvq) | [GERM!](https://open.spotify.com/album/5hLHbhjbPSJO1ecuQN88yj) | 2:37 |
 
-Snapshot ID: `MCwxYTU5YTU0NDVmYzUyMDQ2MzJkZTNjYjFkYjM4YThjMWQ4NWYxZjcx`
+Snapshot ID: `MCxjZjNjMzE3ZGI0ZDdkZjc0YTZiYTlkNDk5OTNjNjNiYmIyZTk1MjAz`

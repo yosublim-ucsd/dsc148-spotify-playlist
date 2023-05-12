@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-280 songs - 1 day 2 hr 12 min
+282 songs - 1 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [So Lovely](https://open.spotify.com/track/0Ya7lMXJGmETT1G3bW0uX2) | [Ben Wolfe](https://open.spotify.com/artist/7A1xxtVfUahU8u7Z4kKFRC) | [From Here I See](https://open.spotify.com/album/2zmbP9vz9Bwx1SCHgkPzTc) | 5:40 | 2020-10-09 | 2022-12-06 |
 | [Solitude](https://open.spotify.com/track/5GSriSRLRA71Td2F3CR1Ni) | [Daniel Guggenheim Quartet](https://open.spotify.com/artist/53A1C9v3RTzKNSmrRshqJt) | [Red Orange and Blue](https://open.spotify.com/album/16ocAEwSksKkzTKkc76OjA) | 7:12 | 2022-05-26 | 2022-06-22 |
 | [Sometimes It Snows in April](https://open.spotify.com/track/1hbmJ6JjAVMEUtcT0l5wrd) | [David Halliday](https://open.spotify.com/artist/1tPE7mBsjG1eu2w2BikKry) | [Sometimes It Snows in April](https://open.spotify.com/album/12OuGKWyIlWqFVHInfPp9D) | 9:49 | 2021-04-30 | 2022-02-18 |
+| [Sometimes It Snows In April](https://open.spotify.com/track/4o7cuGElwNfemVOs49Ye4b) | [Julia Hülsmann Quartet](https://open.spotify.com/artist/4F07h7WrleCZq4b6YLlBrd) | [The Next Door](https://open.spotify.com/album/0nHbsspbfUrQvpR5XcGZsL) | 3:59 | 2023-05-11 |  |
 | [Song For Abdullah \- Bonus](https://open.spotify.com/track/20qnvRo3H9PHXH6tn5EP6G) | [ARTEMIS](https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W) | [Song For Abdullah \(Bonus\)](https://open.spotify.com/album/1kMu4gZ7JETRcICwMmJTdA) | 6:11 | 2022-01-28 | 2023-01-18 |
 | [Song for Ellis](https://open.spotify.com/track/4Uecyf82f85MdvnGLA4SWE) | [Aldo Romano](https://open.spotify.com/artist/1Z0lthC9NP1vvut7ijv3FF) | [Mélodies en noir & blanc](https://open.spotify.com/album/019jkstAav7gCfwinh0asK) | 4:25 | 2020-10-09 |  |
 | [Song for Fraser](https://open.spotify.com/track/0XHv1jT5QsTbemGea5q8Ek) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [Becoming \(Music from the Netflix Original Documentary\)](https://open.spotify.com/album/03ZDW1rnnecmoDBmRXt3A1) | 2:20 | 2020-10-09 | 2022-07-29 |
@@ -228,6 +229,7 @@
 | [Sous Le Ciel De Paris](https://open.spotify.com/track/7JMkZWB40pcmq8G7kTsbcB) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [Smile](https://open.spotify.com/album/6BF5MVQpYKaT2VL8SZayRh) | 4:04 | 2020-10-09 | 2022-07-29 |
 | [Sous Le Ciel De Paris](https://open.spotify.com/track/1LKhJXWWJb8H6kYVMyprcW) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [Jazz Saxophone Hits](https://open.spotify.com/album/76FOFH68AWrdQiIUgjKi2T) | 4:05 | 2022-11-10 | 2022-11-14 |
 | [Sous Le Ciel De Paris](https://open.spotify.com/track/45co7gWEhnZevNaWbPlW3W) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [Smile](https://open.spotify.com/album/5z1LcLw1QCXDjtMy9WYT1p) | 4:05 | 2022-06-30 |  |
+| [Spartacus](https://open.spotify.com/track/2VYOP02BB6lZOfm1aF4S6T) | [Gary Peacock Trio](https://open.spotify.com/artist/3x3wpBVXR29ssNgLtE6SCs) | [Tangents](https://open.spotify.com/album/4of33qsJ6rIANjenkbHill) | 5:10 | 2023-05-11 |  |
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/1Rx7TVIX8t9pZFJdLq0vvY) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Uptown, Downtown](https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM) | 7:54 | 2020-10-09 |  |
 | [Stillness](https://open.spotify.com/track/1K2kT1s1dyh26HkrJqb9Ii) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Ballads](https://open.spotify.com/album/5TukPT8lJcjrx8tVMpuHg6) | 5:49 | 2022-03-10 | 2022-08-10 |
 | [Summertime](https://open.spotify.com/track/5adNkxFBgFYu3N6m8J6muG) | [Denis Solee](https://open.spotify.com/artist/2D90eAxzLfSL7KkvptyUtF), [The Beegie Adair Trio](https://open.spotify.com/artist/7tAni5NIpM2GBzOQMDSgVa), [The Jeff Steinberg Orchestra](https://open.spotify.com/artist/3rw5T4cOHin6M1Jaf912oJ) | [Gershwin on Sax](https://open.spotify.com/album/2RefaWeQAFf7DIUlyDHFCh) | 4:52 | 2020-10-09 | 2022-02-25 |

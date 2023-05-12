@@ -1,28 +1,44 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 28956,
+  "num_followers": 28982,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjRjZmM5NGYyMTAxNjNkMWI4MTdmNDI5NjlhNWYwYTdiYmQyY2U1",
+  "snapshot_id": "MCxmODBlYzI4NjhmOGFjZWI1OGY2NGU3MWY1OWYxYjI0OTVlNWUyZTVj",
   "tracks": [
     {
-      "added_at": "2023-04-28 00:03:00",
+      "added_at": "2023-05-12 00:01:00",
       "album": {
-        "name": "Umona",
-        "url": "https://open.spotify.com/album/60tGABu8pLNqzV9W1rZlap"
+        "name": "Ngena Noah",
+        "url": "https://open.spotify.com/album/5SLa6KjE7yFBKUiBbNSgwH"
       },
       "artists": [
         {
-          "name": "The Joy",
-          "url": "https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"
+          "name": "Betusile",
+          "url": "https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU"
         }
       ],
-      "duration_ms": 173753,
-      "name": "Umona",
-      "url": "https://open.spotify.com/track/6ufN7QxJhFZ4rEIKndvdon"
+      "duration_ms": 271622,
+      "name": "Ngena Noah",
+      "url": "https://open.spotify.com/track/2ZpELNhluNriti4s2rcUK0"
+    },
+    {
+      "added_at": "2023-05-12 00:01:00",
+      "album": {
+        "name": "Sane",
+        "url": "https://open.spotify.com/album/1WDNkCLrjjTK3xDVKWwVCF"
+      },
+      "artists": [
+        {
+          "name": "Brenda Mtambo",
+          "url": "https://open.spotify.com/artist/1xq3iidMUB1FTy5c7WcfyC"
+        }
+      ],
+      "duration_ms": 246315,
+      "name": "Awuwedwa",
+      "url": "https://open.spotify.com/track/3L7PwSbalLSeqjZEUv77SC"
     },
     {
       "added_at": "2023-02-21 14:33:20",
@@ -41,26 +57,10 @@
       "url": "https://open.spotify.com/track/40ozK0lCJ0EQzVGWsCNUhk"
     },
     {
-      "added_at": "2023-04-14 00:30:00",
+      "added_at": "2023-05-12 00:01:00",
       "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/7yOGwFeMaA4ucX5W0JFMKq"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 209986,
-      "name": "Thankful",
-      "url": "https://open.spotify.com/track/62uRYwQ4UV7UoMpQ6hXqPj"
-    },
-    {
-      "added_at": "2023-04-28 00:03:00",
-      "album": {
-        "name": "The Gospel According To Artwork Sounds Chapter II",
-        "url": "https://open.spotify.com/album/29GVpaBSSetPQ38LohweSs"
+        "name": "Awesome God",
+        "url": "https://open.spotify.com/album/6o7rsUKRvC8UZ5PHljEhyo"
       },
       "artists": [
         {
@@ -68,13 +68,17 @@
           "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
         },
         {
-          "name": "House Victimz",
-          "url": "https://open.spotify.com/artist/2jLxHBm09mAVmAoaVh47Lr"
+          "name": "Bee bar",
+          "url": "https://open.spotify.com/artist/0kgsc7QLVxGwl8wd2eS3om"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
         }
       ],
-      "duration_ms": 412000,
-      "name": "God Has Been Good",
-      "url": "https://open.spotify.com/track/5WpB9rh1D2mRCnHZNZDZJf"
+      "duration_ms": 438000,
+      "name": "Awesome God",
+      "url": "https://open.spotify.com/track/1J7m2fe94mcQbKfooP3QOg"
     },
     {
       "added_at": "2023-04-21 00:01:00",
@@ -97,26 +101,6 @@
       "url": "https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx"
     },
     {
-      "added_at": "2023-04-28 00:03:00",
-      "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/46Xv9JDjZmRr7xXvrRuZ5b"
-      },
-      "artists": [
-        {
-          "name": "K-Anthony",
-          "url": "https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU"
-        },
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/7LOETCwG4oq6u0a8947zNP"
-    },
-    {
       "added_at": "2023-02-21 14:33:20",
       "album": {
         "name": "What A Beautiful Name",
@@ -137,20 +121,20 @@
       "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
     },
     {
-      "added_at": "2023-04-14 00:30:00",
+      "added_at": "2023-05-12 00:01:00",
       "album": {
-        "name": "Mountain",
-        "url": "https://open.spotify.com/album/18ryHbK7atMLyoC8AqTYlZ"
+        "name": "Siyabonga",
+        "url": "https://open.spotify.com/album/58RCw7SK4RdMbATnm0yzdq"
       },
       "artists": [
         {
-          "name": "The Joy",
-          "url": "https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"
+          "name": "Jumbo",
+          "url": "https://open.spotify.com/artist/23GUiGOEzwVMvXhjpO3xYH"
         }
       ],
-      "duration_ms": 199588,
-      "name": "Mountain",
-      "url": "https://open.spotify.com/track/16ZRvSAYlxXqtKBjCqpEb2"
+      "duration_ms": 273763,
+      "name": "Makabongwe uJesu",
+      "url": "https://open.spotify.com/track/1llOv5AOOgpT1Glx5lXhRg"
     },
     {
       "added_at": "2023-04-21 00:01:00",
@@ -191,6 +175,22 @@
     {
       "added_at": "2023-04-21 00:01:00",
       "album": {
+        "name": "Gonna Be Alright (Radio Version)",
+        "url": "https://open.spotify.com/album/7kQsFexK5bd8U19qD6GEmF"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "duration_ms": 227340,
+      "name": "Gonna Be Alright - Radio Version",
+      "url": "https://open.spotify.com/track/7nqvOv0a8Ai8o8DATHPVjS"
+    },
+    {
+      "added_at": "2023-04-21 00:01:00",
+      "album": {
         "name": "How To Start A Housefire (Pt. II)",
         "url": "https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk"
       },
@@ -209,20 +209,40 @@
       "url": "https://open.spotify.com/track/45MwQxfmmHhYFGQuyPOpt3"
     },
     {
-      "added_at": "2023-04-21 00:01:00",
+      "added_at": "2023-04-14 00:30:00",
       "album": {
-        "name": "Gonna Be Alright (Radio Version)",
-        "url": "https://open.spotify.com/album/7kQsFexK5bd8U19qD6GEmF"
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/7yOGwFeMaA4ucX5W0JFMKq"
       },
       "artists": [
         {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
         }
       ],
-      "duration_ms": 227340,
-      "name": "Gonna Be Alright - Radio Version",
-      "url": "https://open.spotify.com/track/7nqvOv0a8Ai8o8DATHPVjS"
+      "duration_ms": 209986,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/62uRYwQ4UV7UoMpQ6hXqPj"
+    },
+    {
+      "added_at": "2023-04-28 00:03:00",
+      "album": {
+        "name": "The Gospel According To Artwork Sounds Chapter II",
+        "url": "https://open.spotify.com/album/29GVpaBSSetPQ38LohweSs"
+      },
+      "artists": [
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+        },
+        {
+          "name": "House Victimz",
+          "url": "https://open.spotify.com/artist/2jLxHBm09mAVmAoaVh47Lr"
+        }
+      ],
+      "duration_ms": 412000,
+      "name": "God Has Been Good",
+      "url": "https://open.spotify.com/track/5WpB9rh1D2mRCnHZNZDZJf"
     },
     {
       "added_at": "2023-04-14 00:30:00",
@@ -285,6 +305,22 @@
       "url": "https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz"
     },
     {
+      "added_at": "2023-04-28 00:03:00",
+      "album": {
+        "name": "Umona",
+        "url": "https://open.spotify.com/album/60tGABu8pLNqzV9W1rZlap"
+      },
+      "artists": [
+        {
+          "name": "The Joy",
+          "url": "https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"
+        }
+      ],
+      "duration_ms": 173753,
+      "name": "Umona",
+      "url": "https://open.spotify.com/track/6ufN7QxJhFZ4rEIKndvdon"
+    },
+    {
       "added_at": "2023-02-21 14:33:20",
       "album": {
         "name": "This Is A Move (Live)",
@@ -327,34 +363,6 @@
       "duration_ms": 598994,
       "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
       "url": "https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR"
-    },
-    {
-      "added_at": "2023-02-21 14:33:20",
-      "album": {
-        "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
-        "url": "https://open.spotify.com/album/4l5yZalv0TVl70Xe13dFjl"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        }
-      ],
-      "duration_ms": 598994,
-      "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
-      "url": "https://open.spotify.com/track/7yu4816uyIqXiPvALxL44y"
     },
     {
       "added_at": "2023-04-21 00:01:00",
@@ -987,26 +995,6 @@
       "duration_ms": 309600,
       "name": "Intentional",
       "url": "https://open.spotify.com/track/7amI71zqlFSwDF3jFjHa2l"
-    },
-    {
-      "added_at": "2023-02-21 14:33:20",
-      "album": {
-        "name": "Our Nation",
-        "url": "https://open.spotify.com/album/3SC4tuvjDTwnIsKDCx9jOQ"
-      },
-      "artists": [
-        {
-          "name": "Heinz Winckler",
-          "url": "https://open.spotify.com/artist/5Q1ldmPI95BBLkF8RyPIHF"
-        },
-        {
-          "name": "Worship House",
-          "url": "https://open.spotify.com/artist/3Aa2R54aqT4UiklOkE0qwD"
-        }
-      ],
-      "duration_ms": 255825,
-      "name": "Our Nation",
-      "url": "https://open.spotify.com/track/1Z4sDTyCOdZbvbwD0SBzrn"
     },
     {
       "added_at": "2023-02-21 14:33:20",

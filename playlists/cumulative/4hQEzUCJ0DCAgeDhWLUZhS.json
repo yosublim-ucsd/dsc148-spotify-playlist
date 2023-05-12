@@ -1273,6 +1273,28 @@
     },
     {
       "album": {
+        "name": "Not Without My Ghosts",
+        "url": "https://open.spotify.com/album/1DJMBstIfRxwwJlgoJjRq8"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        },
+        {
+          "name": "Andrew Neufeld",
+          "url": "https://open.spotify.com/artist/7nJcYa3cIWMFGYX34tkkuq"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247518,
+      "name": "Death and The Setting Sun (feat. Andrew Neufeld)",
+      "url": "https://open.spotify.com/track/0ZDJWv1ReLqm9Ktn4k6pLQ"
+    },
+    {
+      "album": {
         "name": "Somewhere Beyond The Blue",
         "url": "https://open.spotify.com/album/6YVWeGZwZPznfTjWUi6HvP"
       },

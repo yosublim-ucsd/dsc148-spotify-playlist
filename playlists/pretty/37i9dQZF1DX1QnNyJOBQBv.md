@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 
 > The hottest Latin pop tracks right now\. Cover: Las Villa & Marco Mares
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,864,774 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,864,825 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 | 49 | [Luna](https://open.spotify.com/track/5XmAauYsJ9KctEO70myiRJ) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Luna](https://open.spotify.com/album/37tfBtXO5spIXdNe2Gxwuf) | 2:28 |
 | 50 | [x ti \- Remix](https://open.spotify.com/track/6jzTj9ABoY1eGcTBYJDRnx) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [x ti \(Remix\)](https://open.spotify.com/album/0dzEd2FKyKzQLaVQ95NlvW) | 3:03 |
 
-Snapshot ID: `MCxiODAyNTE1ZjVjOGVkMjkxYjBjMTA2NDk0ZWE4MWE3NjEzOWYyNzNk`
+Snapshot ID: `MCwxZTJiOWNlNzFiMmMzNTQ0MTlmODcxMWQyNjcyMzFmZDZlY2RhMWY1`

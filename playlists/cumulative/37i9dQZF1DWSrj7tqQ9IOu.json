@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: Alice et Moi",
+  "description": "The best French indie tracks right now. Cover: Silly Boy Blue",
   "name": "Made in France",
   "tracks": [
     {
@@ -2319,6 +2319,32 @@
     },
     {
       "album": {
+        "name": "Random Access Memories (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4mAhdh996uW5SnnFKXUmC0"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "name": "Julian Casablancas",
+          "url": "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
+        },
+        {
+          "name": "The Voidz",
+          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239213,
+      "name": "Infinity Repeating (2013 Demo) [feat. Julian Casablancas+The Voidz]",
+      "url": "https://open.spotify.com/track/4r4fX4NZIqVIhGyDvERp0l"
+    },
+    {
+      "album": {
         "name": "Insomnie",
         "url": "https://open.spotify.com/album/7qDXuKVsxawV8fLe9xl8N2"
       },
@@ -3052,7 +3078,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 248133,
       "name": "Laura",
       "url": "https://open.spotify.com/track/2PnOCPd9oZhbLGSzzFf8Ba"
@@ -3730,7 +3756,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 225365,
       "name": "mots cl\u00e9s",
       "url": "https://open.spotify.com/track/0ak3Rt8IxWVWQENHIrBvfn"
@@ -3968,7 +3994,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 161560,
       "name": "Not A Friend",
       "url": "https://open.spotify.com/track/7dMWVi0BN7BTlVQoRJNmwO"
@@ -4795,6 +4821,24 @@
     },
     {
       "album": {
+        "name": "SEVEN MILES",
+        "url": "https://open.spotify.com/album/3cp5m52q6Jdezke8446z4t"
+      },
+      "artists": [
+        {
+          "name": "BLOWSOM",
+          "url": "https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167752,
+      "name": "SEVEN MILES",
+      "url": "https://open.spotify.com/track/7t3dwwYhqdv25hk27lj4qq"
+    },
+    {
+      "album": {
         "name": "Nuit louve",
         "url": "https://open.spotify.com/album/4HcetztLiYrr6Eugkuwlff"
       },
@@ -5078,6 +5122,24 @@
       "duration_ms": 216306,
       "name": "Space Trip",
       "url": "https://open.spotify.com/track/5kA30CMKo6wUWiINlG4YXt"
+    },
+    {
+      "album": {
+        "name": "Eternal Lover",
+        "url": "https://open.spotify.com/album/79V882G7xyoYxmMqhEzqFX"
+      },
+      "artists": [
+        {
+          "name": "Silly Boy Blue",
+          "url": "https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222973,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/4qqxG6nXJPFN2SptIp2kxC"
     },
     {
       "album": {

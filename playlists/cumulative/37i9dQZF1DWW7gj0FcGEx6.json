@@ -530,10 +530,28 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 79710,
       "name": "Citadel (Main Title Theme)",
       "url": "https://open.spotify.com/track/3koRMFxZIBO9iDCDLRUmnF"
+    },
+    {
+      "album": {
+        "name": "Citadel (Prime Video Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/6UkcvITuPnTmXnkwfoo0tH"
+      },
+      "artists": [
+        {
+          "name": "Alex Belcher",
+          "url": "https://open.spotify.com/artist/0lsKvalwJ8SAijtf12uSsm"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79710,
+      "name": "Citadel (Main Title Theme)",
+      "url": "https://open.spotify.com/track/6HB5R1sNMWYJ5eRqCWTPqo"
     },
     {
       "album": {

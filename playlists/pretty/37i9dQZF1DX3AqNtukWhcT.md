@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AqNtukWhcT.md) - [plain]
 
 > Global ambient with percussion to soundtrack your Yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,040 likes - 127 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,132 likes - 127 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AqNtukWhcT.md) - [plain]
 | 126 | [Rising Ochre](https://open.spotify.com/track/4saKM7jBELMIlLqMfIwPDN) | [The Light Sail](https://open.spotify.com/artist/5M7skfxJFZQ2FL2q1ZDXF3) | [Sona](https://open.spotify.com/album/6L1Ky0jzreyEh7IO6kXLTr) | 3:17 |
 | 127 | [Amplector](https://open.spotify.com/track/3rL6i7GokWtuOwZQ3bWcV9) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Tibetan Singing Bowls II](https://open.spotify.com/album/20BvJWKj5DK3lnnqvOcNUU) | 4:03 |
 
-Snapshot ID: `MCxmY2M0MGYzNjBmNjc5ZWQ5YzAxMmZkNDE0MTVkMDI1N2Y0ZTI4MDVh`
+Snapshot ID: `MCwyZmU2NmM2NzYzODNlZmQ2NTgzMzVjNTYzNThiNmRhOWJkZTM0Mjli`

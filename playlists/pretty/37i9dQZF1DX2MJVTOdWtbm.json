@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Chicocurlyhead\n",
-  "num_followers": 106936,
+  "num_followers": 106966,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNWQ1YWNmZmYyYWVkZTkwOThjMWQ2ZWM1MTdlNGMxZjJmNjFhNjM4",
+  "snapshot_id": "MCxlYzQ2ZDU2ZDA3NmI5YjdkNTE0NTRmMjlkNjRkMzA5ODJlNTVlYzJj",
   "tracks": [
     {
       "added_at": "2023-05-05 08:23:09",
@@ -583,26 +583,18 @@
     {
       "added_at": "2023-05-05 08:23:09",
       "album": {
-        "name": "La Ideal",
-        "url": "https://open.spotify.com/album/1vpLbc8biisCe1T3LrE2TB"
+        "name": "B-Day",
+        "url": "https://open.spotify.com/album/1hja3Ifsxu0GMwLB5nR5e2"
       },
       "artists": [
         {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
-        },
-        {
-          "name": "Jory Boy",
-          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
-        },
-        {
-          "name": "Boy Wonder CF",
-          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
         }
       ],
-      "duration_ms": 213983,
-      "name": "La Ideal",
-      "url": "https://open.spotify.com/track/0dMjY4xWaO8TnDDJNT4YBi"
+      "duration_ms": 248000,
+      "name": "B-Day",
+      "url": "https://open.spotify.com/track/5Sdm6lHMwrh0tSd4pvQxXF"
     },
     {
       "added_at": "2023-05-05 08:23:09",
@@ -623,18 +615,26 @@
     {
       "added_at": "2023-05-05 08:23:09",
       "album": {
-        "name": "B-Day",
-        "url": "https://open.spotify.com/album/1hja3Ifsxu0GMwLB5nR5e2"
+        "name": "La Ideal",
+        "url": "https://open.spotify.com/album/1vpLbc8biisCe1T3LrE2TB"
       },
       "artists": [
         {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        },
+        {
+          "name": "Jory Boy",
+          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
+        },
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
         }
       ],
-      "duration_ms": 248000,
-      "name": "B-Day",
-      "url": "https://open.spotify.com/track/5Sdm6lHMwrh0tSd4pvQxXF"
+      "duration_ms": 213983,
+      "name": "La Ideal",
+      "url": "https://open.spotify.com/track/0dMjY4xWaO8TnDDJNT4YBi"
     },
     {
       "added_at": "2023-05-05 08:23:09",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-05-05 08:23:09",
       "album": {
-        "name": "La Musa",
-        "url": "https://open.spotify.com/album/7vIGenY8slhoLgLp5BbVYA"
-      },
-      "artists": [
-        {
-          "name": "Loui Santana",
-          "url": "https://open.spotify.com/artist/6QoAK6MFPyiqmoTdFTsjlh"
-        }
-      ],
-      "duration_ms": 101739,
-      "name": "La Musa",
-      "url": "https://open.spotify.com/track/3wjoYxOdPcUTxidHB8kMV5"
-    },
-    {
-      "added_at": "2023-05-05 08:23:09",
-      "album": {
         "name": "Para Ti No",
         "url": "https://open.spotify.com/album/2V0pmwbM5QL3sbb0tVVDMB"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 199046,
       "name": "Para Ti No",
       "url": "https://open.spotify.com/track/4S6uEOfuwiz7qLBOTd58Nt"
+    },
+    {
+      "added_at": "2023-05-05 08:23:09",
+      "album": {
+        "name": "La Musa",
+        "url": "https://open.spotify.com/album/7vIGenY8slhoLgLp5BbVYA"
+      },
+      "artists": [
+        {
+          "name": "Loui Santana",
+          "url": "https://open.spotify.com/artist/6QoAK6MFPyiqmoTdFTsjlh"
+        }
+      ],
+      "duration_ms": 101739,
+      "name": "La Musa",
+      "url": "https://open.spotify.com/track/3wjoYxOdPcUTxidHB8kMV5"
     },
     {
       "added_at": "2023-05-05 08:23:09",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-05-05 08:23:09",
       "album": {
-        "name": "I.W.Y.",
-        "url": "https://open.spotify.com/album/0W3AKS1vhthN13diu18bTH"
-      },
-      "artists": [
-        {
-          "name": "Carlos Unger",
-          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
-        }
-      ],
-      "duration_ms": 173165,
-      "name": "I.W.Y.",
-      "url": "https://open.spotify.com/track/2qePnoTLNzI1aJHLdLBvQM"
-    },
-    {
-      "added_at": "2023-05-05 08:23:09",
-      "album": {
         "name": "esc\u00e1pate",
         "url": "https://open.spotify.com/album/5y17V9rse9zMvAqh848H8f"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 257233,
       "name": "Jungla de locos",
       "url": "https://open.spotify.com/track/6z6SO9VO4pt6hKObRc23Hp"
+    },
+    {
+      "added_at": "2023-05-05 08:23:09",
+      "album": {
+        "name": "I.W.Y.",
+        "url": "https://open.spotify.com/album/0W3AKS1vhthN13diu18bTH"
+      },
+      "artists": [
+        {
+          "name": "Carlos Unger",
+          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
+        }
+      ],
+      "duration_ms": 173165,
+      "name": "I.W.Y.",
+      "url": "https://open.spotify.com/track/2qePnoTLNzI1aJHLdLBvQM"
     },
     {
       "added_at": "2023-05-05 08:23:09",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-05-05 08:23:09",
       "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/2tw4c2z6HkCKsrIfrhNy86"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Eres Mi Aire",
+      "url": "https://open.spotify.com/track/1sNoZW9xuJkNPeeBJgqLpG"
+    },
+    {
+      "added_at": "2023-05-05 08:23:09",
+      "album": {
         "name": "La Corriente",
         "url": "https://open.spotify.com/album/1FVv5DkYsVlPXrxRbT777f"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 166086,
       "name": "La Corriente",
       "url": "https://open.spotify.com/track/5hHIU3jEsTAWR08g7mOdwM"
-    },
-    {
-      "added_at": "2023-05-05 08:23:09",
-      "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/2tw4c2z6HkCKsrIfrhNy86"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Eres Mi Aire",
-      "url": "https://open.spotify.com/track/1sNoZW9xuJkNPeeBJgqLpG"
     },
     {
       "added_at": "2023-05-05 08:23:09",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-05-05 08:23:09",
       "album": {
-        "name": "Flavors 3",
-        "url": "https://open.spotify.com/album/2AE8X5DCAuquqbJCQQRhT6"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        }
-      ],
-      "duration_ms": 149458,
-      "name": "What More",
-      "url": "https://open.spotify.com/track/5nnj82z3JN9DALrgb6lowY"
-    },
-    {
-      "added_at": "2023-05-05 08:23:09",
-      "album": {
         "name": "el vuelo",
         "url": "https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 185293,
       "name": "el vuelo",
       "url": "https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG"
+    },
+    {
+      "added_at": "2023-05-05 08:23:09",
+      "album": {
+        "name": "Flavors 3",
+        "url": "https://open.spotify.com/album/2AE8X5DCAuquqbJCQQRhT6"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        }
+      ],
+      "duration_ms": 149458,
+      "name": "What More",
+      "url": "https://open.spotify.com/track/5nnj82z3JN9DALrgb6lowY"
     },
     {
       "added_at": "2023-05-05 08:23:09",

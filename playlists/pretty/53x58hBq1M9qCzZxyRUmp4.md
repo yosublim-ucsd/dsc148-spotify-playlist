@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/53x58hBq1M9qCzZxyRUmp4.md) - [plain]
 
 > 50 of each week's best new rock and metal tracks\. New updates every Friday!  🔊 🤘🏿🤘🤘🏽
 
-[Loudwire](https://open.spotify.com/user/wqopimzeqvaed8dqu6o2tixrj) - 12,850 likes - 50 songs - 3 hr 26 min
+[Loudwire](https://open.spotify.com/user/wqopimzeqvaed8dqu6o2tixrj) - 12,856 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/53x58hBq1M9qCzZxyRUmp4.md) - [plain]
 | 16 | [Behead the King](https://open.spotify.com/track/6URMpuJCL5ielZnU85xwFF) | [Death Ray Vision](https://open.spotify.com/artist/3W8CcPW3tnk7aCxruUEFx2) | [Behead the King](https://open.spotify.com/album/3FNiZNW46SZcv6RLR7UKKF) | 4:12 |
 | 17 | [Dawn of the Militant](https://open.spotify.com/track/08T53CS6m0R54NMDCwTIcF) | [Unearth](https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3) | [The Wretched; The Ruinous](https://open.spotify.com/album/09LBDZTHGu6VF0S8Pcxn34) | 2:56 |
 | 18 | [We Eat Our Young](https://open.spotify.com/track/5sXtYgdkjLMxz85xGrZ93l) | [Teeth](https://open.spotify.com/artist/7yNndyXadKRvmkmK1reF3F) | [A Biblical Worship of Violence](https://open.spotify.com/album/69ni8lNhdpV2f7TWidGzRv) | 3:08 |
-| 19 | [Win Win \(feat\. Scene Queen\)](https://open.spotify.com/track/2jRciInArYaE7ON8RkUD8Q) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k), [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Win Win \(feat\. Scene Queen\)](https://open.spotify.com/album/4cZMnC7tAJ4WOAZz93WL1g) | 2:46 |
+| 19 | [Win Win](https://open.spotify.com/track/2jRciInArYaE7ON8RkUD8Q) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k), [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Win Win](https://open.spotify.com/album/4cZMnC7tAJ4WOAZz93WL1g) | 2:46 |
 | 20 | [Getting Loud](https://open.spotify.com/track/5QSwe9Udf7gc7l1dqNxxkM) | [Moon Fever](https://open.spotify.com/artist/1CYg3IXkeWG2riXsL0Df1u) | [Getting Loud](https://open.spotify.com/album/6Otwgqc9XlUkIv9RHVRboc) | 3:06 |
 | 21 | [Face Down](https://open.spotify.com/track/1hffzLWNeFthnUP4z01EPm) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Face Down](https://open.spotify.com/album/6MqOFiLK1FG5b7jy7JLtp6) | 3:39 |
 | 22 | [Chrononautilus](https://open.spotify.com/track/00iPeuzy7UIKEN3wbrEK8r) | [Scar Symmetry](https://open.spotify.com/artist/2PQVMx0BpRQhzMWLa7X0T6) | [Chrononautilus](https://open.spotify.com/album/5m1mc5MBFWvTthWiE1A1iv) | 5:04 |

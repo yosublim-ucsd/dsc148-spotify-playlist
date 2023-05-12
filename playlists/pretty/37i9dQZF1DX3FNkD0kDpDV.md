@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > Step into the gardens by the sea with <a href="spotify:artist:5Pb27ujIyYb33zBqVysBkj">RÜFÜS DU SOL</a> who are bringing their Sundream Baja Festival to San Jose del Cabo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 725,880 likes - 53 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 725,957 likes - 53 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 | 52 | [See You Again \- Carlita Remix](https://open.spotify.com/track/1faiHBh9gna1zCV1twdVhs) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Surrender \(Remixes\)](https://open.spotify.com/album/73TcBRSRsPLKmxnjnVsSV3) | 4:14 |
 | 53 | [Up In Flames](https://open.spotify.com/track/1YzVzEDuXM3G7C6EmwJs8O) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Up In Flames](https://open.spotify.com/album/5JobfXSHIn01Fhgpif0Lw2) | 6:54 |
 
-Snapshot ID: `MCwyOGI2MjkzMGE0M2I5NjgwMDk0MzcxZTMyNDAxNGEyYzEyYWQ1NDQ1`
+Snapshot ID: `MCxjZGJhYzUyMDM4ZDVjODZiMTg2YTZkMGNkMDM0YzE4NDUyNWQ5NzM5`

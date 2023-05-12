@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Sam Smith
 
-394 songs - 22 hr 35 min
+396 songs - 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Chandelier](https://open.spotify.com/track/7e1OnEIKfoJkBD2GM6V9vr) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [High Drama](https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH) | 3:44 | 2023-02-24 |  |
 | [Chandelier](https://open.spotify.com/track/7F2tZGMRkcEyGYY8Xee7xz) | [Jennel Garcia](https://open.spotify.com/artist/1Ff1cuzx8IrADaKnclXscN) | [Chandelier](https://open.spotify.com/album/7qQyLTKV67RGg6TmY8vyit) | 3:42 | 2021-12-17 | 2022-12-30 |
 | [Chandelier](https://open.spotify.com/track/7AKebOEDMEZWMqBl4bKoYu) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Chandelier](https://open.spotify.com/album/0s4GSmsYgH9zXIAXnjDivH) | 3:32 | 2022-03-25 | 2022-04-16 |
-| [Chiquitita](https://open.spotify.com/track/1o04WVnY1OUmFE91hHg13O) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Chiquitita](https://open.spotify.com/album/40GDrRCewlZHmwWK9p04vw) | 4:59 | 2023-02-24 |  |
+| [Chiquitita](https://open.spotify.com/track/1o04WVnY1OUmFE91hHg13O) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Chiquitita](https://open.spotify.com/album/40GDrRCewlZHmwWK9p04vw) | 4:59 | 2023-02-24 | 2023-05-12 |
+| [Chiquitita](https://open.spotify.com/track/4TYChn8xTvOREL2ikHKZpA) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Chiquitita](https://open.spotify.com/album/7tLw6UWNrDW9Qzt0Iyp7Xt) | 4:59 | 2023-04-14 |  |
 | [Chiquitita](https://open.spotify.com/track/544B6PAKJKXWTzBxz2mlX2) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Chiquitita](https://open.spotify.com/album/65mKrjY9MQrqvAgM2Vvdn8) | 4:59 | 2022-11-18 | 2023-03-04 |
 | [Chiquitita](https://open.spotify.com/track/5UkFTPgZ9ggQijLh1CbSrF) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Chiquitita](https://open.spotify.com/album/0nWjKAEvqrQGbk9U2MzeHo) | 4:59 | 2021-12-17 | 2022-11-20 |
 | [Chocolate](https://open.spotify.com/track/36T0S78B1be6F4tAUlJWpJ) | [Moonroof](https://open.spotify.com/artist/6HO599GtzYWMF4BsvwB1E6) | [Chocolate](https://open.spotify.com/album/6qHfbQoSUzGri0HBQnLuRv) | 4:12 | 2021-12-17 | 2022-05-02 |
@@ -381,7 +382,8 @@
 | [Why Georgia \(RAWsession\) \[originally by John Mayer\]](https://open.spotify.com/track/2rraSZfmRIIU5na1OH7L0q) | [Jess Delgado](https://open.spotify.com/artist/7rkZ1O9S0fLbpWMQApubz5) | [Jess Delgado RAWsession \- 5.25.10](https://open.spotify.com/album/0ECa20b3UM57SWWLc9MTLV) | 4:26 | 2021-12-17 | 2022-05-02 |
 | [Wildest Dreams](https://open.spotify.com/track/5rFLTwJtU2C2kBWGV7y1Q2) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Cover Sessions, Vol\. 2](https://open.spotify.com/album/46vRUQqeMdCC5Dpz5Qza74) | 3:32 | 2021-12-17 | 2022-07-29 |
 | [Wildest Dreams](https://open.spotify.com/track/7AgpN0aQSjp1rjWafXn8Xu) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Cover Sessions, Vol\. 2](https://open.spotify.com/album/3gQrQ8BQNEtaUXbr7vx9ss) | 3:32 | 2022-07-08 | 2022-12-30 |
-| [Wouldn't It Be Nice](https://open.spotify.com/track/1vKusrenzlsriyzUAJHb9i) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Wouldn't It Be Nice](https://open.spotify.com/album/4oJIQO49IQeU5mhzdU11B0) | 2:32 | 2023-02-24 |  |
+| [Wouldn't It Be Nice](https://open.spotify.com/track/1U6deb3frWuMczVj2as98g) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Wouldn't It Be Nice](https://open.spotify.com/album/1CFZu2ZdcAtMxwfAecgKKU) | 2:32 | 2023-04-14 |  |
+| [Wouldn't It Be Nice](https://open.spotify.com/track/1vKusrenzlsriyzUAJHb9i) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Wouldn't It Be Nice](https://open.spotify.com/album/4oJIQO49IQeU5mhzdU11B0) | 2:32 | 2023-02-24 | 2023-05-12 |
 | [Wouldn't It Be Nice](https://open.spotify.com/track/5MtSb6IQmKpqWWfW1WUrSY) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Wouldn't It Be Nice](https://open.spotify.com/album/10qT1C2c9n06qNAnl3OKrf) | 2:32 | 2022-11-18 | 2023-03-03 |
 | [Wouldn't It Be Nice](https://open.spotify.com/track/7GTpcLYxaSs1dg4NXZpscp) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Wouldn't It Be Nice](https://open.spotify.com/album/0K1UyE6v9I3AnwN7trOWVW) | 2:32 | 2021-12-17 | 2022-11-21 |
 | [Wrecking Ball](https://open.spotify.com/track/3pSDivrOqyWq0ixSSgKW1g) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Thank You to the Flowers](https://open.spotify.com/album/6mGDqp7YxF3Cs6binUf8Fb) | 3:36 | 2021-12-17 | 2022-05-02 |

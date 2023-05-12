@@ -57,6 +57,50 @@
     },
     {
       "album": {
+        "name": "Awesome God",
+        "url": "https://open.spotify.com/album/6o7rsUKRvC8UZ5PHljEhyo"
+      },
+      "artists": [
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+        },
+        {
+          "name": "Bee bar",
+          "url": "https://open.spotify.com/artist/0kgsc7QLVxGwl8wd2eS3om"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438000,
+      "name": "Awesome God",
+      "url": "https://open.spotify.com/track/1J7m2fe94mcQbKfooP3QOg"
+    },
+    {
+      "album": {
+        "name": "Sane",
+        "url": "https://open.spotify.com/album/1WDNkCLrjjTK3xDVKWwVCF"
+      },
+      "artists": [
+        {
+          "name": "Brenda Mtambo",
+          "url": "https://open.spotify.com/artist/1xq3iidMUB1FTy5c7WcfyC"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246315,
+      "name": "Awuwedwa",
+      "url": "https://open.spotify.com/track/3L7PwSbalLSeqjZEUv77SC"
+    },
+    {
+      "album": {
         "name": "Glory in His Presence",
         "url": "https://open.spotify.com/album/4H0LkLQqfqbryyNUmzDvoq"
       },
@@ -650,7 +694,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 598994,
       "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
       "url": "https://open.spotify.com/track/7yu4816uyIqXiPvALxL44y"
@@ -755,6 +799,24 @@
     },
     {
       "album": {
+        "name": "Siyabonga",
+        "url": "https://open.spotify.com/album/58RCw7SK4RdMbATnm0yzdq"
+      },
+      "artists": [
+        {
+          "name": "Jumbo",
+          "url": "https://open.spotify.com/artist/23GUiGOEzwVMvXhjpO3xYH"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273763,
+      "name": "Makabongwe uJesu",
+      "url": "https://open.spotify.com/track/1llOv5AOOgpT1Glx5lXhRg"
+    },
+    {
+      "album": {
         "name": "Mhlaba Wethu (Interlude)",
         "url": "https://open.spotify.com/album/0FxYNL8uDLAmctMsoGvuv1"
       },
@@ -810,7 +872,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 199588,
       "name": "Mountain",
       "url": "https://open.spotify.com/track/16ZRvSAYlxXqtKBjCqpEb2"
@@ -908,6 +970,24 @@
       "duration_ms": 490000,
       "name": "New Wine - Live",
       "url": "https://open.spotify.com/track/1MX4dx6yNvAH2GjIVsUF4h"
+    },
+    {
+      "album": {
+        "name": "Ngena Noah",
+        "url": "https://open.spotify.com/album/5SLa6KjE7yFBKUiBbNSgwH"
+      },
+      "artists": [
+        {
+          "name": "Betusile",
+          "url": "https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271622,
+      "name": "Ngena Noah",
+      "url": "https://open.spotify.com/track/2ZpELNhluNriti4s2rcUK0"
     },
     {
       "album": {
@@ -1032,7 +1112,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 255825,
       "name": "Our Nation",
       "url": "https://open.spotify.com/track/1Z4sDTyCOdZbvbwD0SBzrn"
@@ -1228,7 +1308,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 194400,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/7LOETCwG4oq6u0a8947zNP"

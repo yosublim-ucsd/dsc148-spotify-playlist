@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : GR OMEGA",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Moha MMZ",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -325,6 +325,24 @@
     },
     {
       "album": {
+        "name": "Avant l'aube",
+        "url": "https://open.spotify.com/album/4FRAG4CnUDIFfg5pJkykIU"
+      },
+      "artists": [
+        {
+          "name": "Soleil Noir",
+          "url": "https://open.spotify.com/artist/101eNe2qinDKucqJyvih0y"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229026,
+      "name": "Anijay",
+      "url": "https://open.spotify.com/track/17rnIvqGq3VfsD1kxBWvCg"
+    },
+    {
+      "album": {
         "name": "ANNABA (Dysphoria)",
         "url": "https://open.spotify.com/album/7eiuFe1rIiIzcjvOUIKfzo"
       },
@@ -589,6 +607,24 @@
     },
     {
       "album": {
+        "name": "C'EST MORT",
+        "url": "https://open.spotify.com/album/4pArbRYS8VZSyYGVRazSKI"
+      },
+      "artists": [
+        {
+          "name": "NAOHS",
+          "url": "https://open.spotify.com/artist/6Te81qcP1wIVOh1v6mJAFb"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156350,
+      "name": "C'EST MORT",
+      "url": "https://open.spotify.com/track/4gZdVjI2z8RpfWOoboONMA"
+    },
+    {
+      "album": {
         "name": "C'est pas d'ma faute c'est l'mood",
         "url": "https://open.spotify.com/album/4Frq8x9BsYMkWmYi2sPSKO"
       },
@@ -788,7 +824,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 232720,
       "name": "COMPTER",
       "url": "https://open.spotify.com/track/0U2vjRDorfKwjoTFcr9BBP"
@@ -1479,6 +1515,24 @@
     },
     {
       "album": {
+        "name": "HABITU\u00c9",
+        "url": "https://open.spotify.com/album/0xlt4h3AX1YRqg1HHtOU01"
+      },
+      "artists": [
+        {
+          "name": "Moha MMZ",
+          "url": "https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180901,
+      "name": "HABITU\u00c9",
+      "url": "https://open.spotify.com/track/7csw8z3PQlXWpmoX29wSLX"
+    },
+    {
+      "album": {
         "name": "HEKLA",
         "url": "https://open.spotify.com/album/5yeEwZ9b8zPXWrFoA3jw6R"
       },
@@ -1968,7 +2022,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 160400,
       "name": "LIBRE - Dysphoria",
       "url": "https://open.spotify.com/track/50gMceCjKprl6DUYnFrWSE"
@@ -2088,7 +2142,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 197842,
       "name": "M'attends pas.",
       "url": "https://open.spotify.com/track/3w2b7sp3Y4Kcn23dv1ZoiU"
@@ -2302,6 +2356,24 @@
       "duration_ms": 178004,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/7gLIgciyl0LiLeX7LXAACB"
+    },
+    {
+      "album": {
+        "name": "MOB (Affam\u00e9 #20)",
+        "url": "https://open.spotify.com/album/3pBQLVgwHk4TL26TX39hHn"
+      },
+      "artists": [
+        {
+          "name": "Zamdane",
+          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187972,
+      "name": "MOB (Affam\u00e9 #20)",
+      "url": "https://open.spotify.com/track/5GnkgCm32rsuAVQ4Uf0oF8"
     },
     {
       "album": {

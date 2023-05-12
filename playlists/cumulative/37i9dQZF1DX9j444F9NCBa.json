@@ -329,6 +329,42 @@
     },
     {
       "album": {
+        "name": "About a girl",
+        "url": "https://open.spotify.com/album/6EIhyvYZ0Qgx2gtDIZXUCf"
+      },
+      "artists": [
+        {
+          "name": "June Hall",
+          "url": "https://open.spotify.com/artist/13rPht9NVTTbIU7w4YNKGN"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164933,
+      "name": "About a girl",
+      "url": "https://open.spotify.com/track/0FZ1UyCM42tEduMDozioVD"
+    },
+    {
+      "album": {
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/5uVX3JYC37YvqUiQ7RGXDF"
+      },
+      "artists": [
+        {
+          "name": "Leon Arms",
+          "url": "https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/1ko7QoBfx4XmL3bUKd9XJo"
+    },
+    {
+      "album": {
         "name": "Africa",
         "url": "https://open.spotify.com/album/0dbFSSNCY13oNajXMZARfj"
       },
@@ -394,7 +430,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 181167,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/56ICwlcXIKFoLg2CzbKwKF"
@@ -470,6 +506,24 @@
       "duration_ms": 207250,
       "name": "Always Remember Us This Way",
       "url": "https://open.spotify.com/track/6dTnMa9af6WkwGh9Ci1Ocf"
+    },
+    {
+      "album": {
+        "name": "And I Love Her",
+        "url": "https://open.spotify.com/album/6ySoczesHSMBd1sFTjFTQH"
+      },
+      "artists": [
+        {
+          "name": "Payton Howard",
+          "url": "https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131295,
+      "name": "And I Love Her",
+      "url": "https://open.spotify.com/track/4itU6I6B2noWTYAbzFSHW1"
     },
     {
       "album": {
@@ -1157,6 +1211,24 @@
     },
     {
       "album": {
+        "name": "Viva La Vida",
+        "url": "https://open.spotify.com/album/5tU4IeqW5okLOFooZqzAFF"
+      },
+      "artists": [
+        {
+          "name": "Vidar Arvidsson",
+          "url": "https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197690,
+      "name": "Californication",
+      "url": "https://open.spotify.com/track/6KF0ASfUw7mzIIWOmRFI7z"
+    },
+    {
+      "album": {
         "name": "Call Your Girlfriend",
         "url": "https://open.spotify.com/album/6NJqqVevvQwAOwOzZ7zZbg"
       },
@@ -1528,7 +1600,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 257890,
       "name": "Danny Boy",
       "url": "https://open.spotify.com/track/5iX5XoYIjAtD4oLlfQlSuw"
@@ -1607,6 +1679,24 @@
     },
     {
       "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/2iYGCPpY33blb2OeqDMJ3n"
+      },
+      "artists": [
+        {
+          "name": "Loftet",
+          "url": "https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/27KOvI2gU9fAMddgSTpQw4"
+    },
+    {
+      "album": {
         "name": "Diamonds and Pearls",
         "url": "https://open.spotify.com/album/7IBC5tXIczTPEPbSIlUGd1"
       },
@@ -1672,7 +1762,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 187317,
       "name": "Don't Kill My Vibe",
       "url": "https://open.spotify.com/track/6vB8QDhABiypQcVNpEOuQV"
@@ -1730,6 +1820,24 @@
       "duration_ms": 226625,
       "name": "Don't Look Back In Anger",
       "url": "https://open.spotify.com/track/1wSjtNZH4XRBU0KpjrYIYB"
+    },
+    {
+      "album": {
+        "name": "Don't You Worry Child",
+        "url": "https://open.spotify.com/album/3lkTUg2cqPr4Mqt4uXienx"
+      },
+      "artists": [
+        {
+          "name": "Steve Dawson",
+          "url": "https://open.spotify.com/artist/0k7ltXZL0tbVfeO3Qhp21c"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218920,
+      "name": "Don't You Worry Child",
+      "url": "https://open.spotify.com/track/3J7sFURDzIfnRmyLW8xAzF"
     },
     {
       "album": {
@@ -2742,6 +2850,24 @@
     {
       "album": {
         "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/1iVvvLJnu0tor0jYxMeSCw"
+      },
+      "artists": [
+        {
+          "name": "Walter Penn",
+          "url": "https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111250,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/4XEUSUpttuCvxb7GRjJ25m"
+    },
+    {
+      "album": {
+        "name": "Hallelujah",
         "url": "https://open.spotify.com/album/38alZxIo99eD19U9ldrQSl"
       },
       "artists": [
@@ -2770,7 +2896,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 215781,
       "name": "Hallelujah - Piano Version",
       "url": "https://open.spotify.com/track/7tW7bfj8kHzZREXxNXzCG5"
@@ -2936,6 +3062,24 @@
       "duration_ms": 243843,
       "name": "Heaven - Piano Version",
       "url": "https://open.spotify.com/track/1iKyA97IkuVGM5ncc5cvM0"
+    },
+    {
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/2rGcI5Yw0RehWAigKLPFY4"
+      },
+      "artists": [
+        {
+          "name": "Elodie Malabul",
+          "url": "https://open.spotify.com/artist/1QijYE17aztDpSt76Tak8p"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121165,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/1efHwagPxIFfADSjRqndUs"
     },
     {
       "album": {
@@ -3224,6 +3368,42 @@
       "duration_ms": 161095,
       "name": "Holy",
       "url": "https://open.spotify.com/track/39iUn2KhFa7aKiI0mJrrv5"
+    },
+    {
+      "album": {
+        "name": "Smells Like Teen Spirit",
+        "url": "https://open.spotify.com/album/47A6gfz2DtzXSV0HpHQUiY"
+      },
+      "artists": [
+        {
+          "name": "Center of Jupiter",
+          "url": "https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Hot Stuff",
+      "url": "https://open.spotify.com/track/7LPicH0obO6vabRfbMorYf"
+    },
+    {
+      "album": {
+        "name": "Hotel California",
+        "url": "https://open.spotify.com/album/3CRF7fOGTaLgRkVPNEjr1b"
+      },
+      "artists": [
+        {
+          "name": "Kit Sutton",
+          "url": "https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163597,
+      "name": "Hotel California",
+      "url": "https://open.spotify.com/track/10GI2GzvOmFQxeVSFWlchZ"
     },
     {
       "album": {
@@ -3641,6 +3821,24 @@
     },
     {
       "album": {
+        "name": "If I Could Turn Back Time",
+        "url": "https://open.spotify.com/album/6xfjQQhqAkiWdX1XECE7Ra"
+      },
+      "artists": [
+        {
+          "name": "Mbese Mahl",
+          "url": "https://open.spotify.com/artist/2SMRwhxnKgm8uKApv22Def"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135201,
+      "name": "If I Could Turn Back Time",
+      "url": "https://open.spotify.com/track/6wAN3QGz77L0TBLCUJMmhB"
+    },
+    {
+      "album": {
         "name": "If I Never Knew You",
         "url": "https://open.spotify.com/album/4l9AMQB6NZ2XLC6i5TyEe5"
       },
@@ -4037,6 +4235,24 @@
     },
     {
       "album": {
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/0wDfBdeTA9UZQSZlmYauhj"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Montagner",
+          "url": "https://open.spotify.com/artist/5TIL6KAyK9cmkOqiHwj7Yu"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102876,
+      "name": "Killing Me Softly",
+      "url": "https://open.spotify.com/track/25YVXgmAO6nArAAcvHegDl"
+    },
+    {
+      "album": {
         "name": "Killing Me Softly With His Song",
         "url": "https://open.spotify.com/album/6V7dsIWFMiYOOcKL1zeOkD"
       },
@@ -4048,7 +4264,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 187874,
       "name": "Killing Me Softly With His Song",
       "url": "https://open.spotify.com/track/1PxAz2jrkB51QG0OipxO9e"
@@ -4469,6 +4685,24 @@
     },
     {
       "album": {
+        "name": "Livin' On A Prayer",
+        "url": "https://open.spotify.com/album/5B8pdZdF6CvENv0QmurD8n"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Pirlo",
+          "url": "https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Livin' On A Prayer",
+      "url": "https://open.spotify.com/track/0UE3uOkiuc2FtehvtqMqEU"
+    },
+    {
+      "album": {
         "name": "Lose Somebody",
         "url": "https://open.spotify.com/album/0JvfrbbduOvLgVRtvYgruz"
       },
@@ -4613,6 +4847,24 @@
     },
     {
       "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/2iYGCPpY33blb2OeqDMJ3n"
+      },
+      "artists": [
+        {
+          "name": "Loftet",
+          "url": "https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "lovely",
+      "url": "https://open.spotify.com/track/0WXQ5PJb2NLT6bnchevinX"
+    },
+    {
+      "album": {
         "name": "Midnight Rain & Lover (Piano)",
         "url": "https://open.spotify.com/album/6GLupS3Aw4TPBhkSKIC8Cz"
       },
@@ -4718,6 +4970,24 @@
       "duration_ms": 200433,
       "name": "Make you feel my love",
       "url": "https://open.spotify.com/track/1YCfFKtD5HCNMxYedp18Aw"
+    },
+    {
+      "album": {
+        "name": "Maniac",
+        "url": "https://open.spotify.com/album/5gXmTWp9saddHSZ1EaLZ2V"
+      },
+      "artists": [
+        {
+          "name": "Simone Morelli",
+          "url": "https://open.spotify.com/artist/0fwledftqxvzcog7xziwbY"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/6UiDUHOQk8BVnPuYWWcvMw"
     },
     {
       "album": {
@@ -5135,6 +5405,24 @@
     },
     {
       "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/2iYGCPpY33blb2OeqDMJ3n"
+      },
+      "artists": [
+        {
+          "name": "Loftet",
+          "url": "https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Old Town Road",
+      "url": "https://open.spotify.com/track/0KUi4dptCJzeEHPr38B7j9"
+    },
+    {
+      "album": {
         "name": "Shallow",
         "url": "https://open.spotify.com/album/1ZZQhPeQN3jKVkzNCiTiXU"
       },
@@ -5186,6 +5474,24 @@
       "duration_ms": 211750,
       "name": "One Of Us",
       "url": "https://open.spotify.com/track/0I5mXZkU8DMMzNu7ezROna"
+    },
+    {
+      "album": {
+        "name": "Only Girl (In The World)",
+        "url": "https://open.spotify.com/album/7foKDpyH3BCnnWOxLv8HUU"
+      },
+      "artists": [
+        {
+          "name": "Meghan Lauren",
+          "url": "https://open.spotify.com/artist/3fiJ8b3r1FPdghfvoKHCzh"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176642,
+      "name": "Only Girl (In The World)",
+      "url": "https://open.spotify.com/track/4Ktd6FIeKfhXCvbqO5pVGD"
     },
     {
       "album": {
@@ -5621,6 +5927,24 @@
     },
     {
       "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/66Gs4R4tp24sKbBOu69bd3"
+      },
+      "artists": [
+        {
+          "name": "Ron Marks",
+          "url": "https://open.spotify.com/artist/0RCGr51rcB8GCdBZEHnpXX"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/1W0g9sj9trSjMUO49PAKWJ"
+    },
+    {
+      "album": {
         "name": "Running Up That Hill (A Deal With God)",
         "url": "https://open.spotify.com/album/0SsQ2kwzJx5Bdc5yvY7zF2"
       },
@@ -5981,6 +6305,24 @@
     },
     {
       "album": {
+        "name": "Smells Like Teen Spirit",
+        "url": "https://open.spotify.com/album/6KcNASw8nW3RtjXBAuludk"
+      },
+      "artists": [
+        {
+          "name": "The Poet",
+          "url": "https://open.spotify.com/artist/37LEXAV1tfykNBoe1FgSPy"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153683,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/5jzTlvI4E4CpuSSQI0dXlk"
+    },
+    {
+      "album": {
         "name": "Love Letters",
         "url": "https://open.spotify.com/album/2V55EhNJmfwsvu1mOKubZ7"
       },
@@ -6010,7 +6352,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 190086,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/2Stqf14WZNFK9QwC3OHWFu"
@@ -6431,6 +6773,24 @@
     },
     {
       "album": {
+        "name": "Smells Like Teen Spirit",
+        "url": "https://open.spotify.com/album/47A6gfz2DtzXSV0HpHQUiY"
+      },
+      "artists": [
+        {
+          "name": "Center of Jupiter",
+          "url": "https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123805,
+      "name": "Suspicious Minds",
+      "url": "https://open.spotify.com/track/2fLbZSccSwBllR0LS0oTBL"
+    },
+    {
+      "album": {
         "name": "Svag",
         "url": "https://open.spotify.com/album/2YqrlFNfIign5WF4F57rhj"
       },
@@ -6626,6 +6986,24 @@
       "duration_ms": 164000,
       "name": "That's The Way It Is",
       "url": "https://open.spotify.com/track/4xMDyCESzvK2wNxeslM8M5"
+    },
+    {
+      "album": {
+        "name": "That's What Friends Are For",
+        "url": "https://open.spotify.com/album/51pZa7LkBM5SopdpL4LlXi"
+      },
+      "artists": [
+        {
+          "name": "Colton Rhodes",
+          "url": "https://open.spotify.com/artist/2s0UVTXzeFVuHYKKYcJNbk"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184268,
+      "name": "That's What Friends Are For",
+      "url": "https://open.spotify.com/track/33XiutcUojrArf3R2GWCfO"
     },
     {
       "album": {
@@ -7288,7 +7666,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 220364,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/3HO6iT9UmEmwsgAAIxTc43"
@@ -7454,6 +7832,42 @@
       "duration_ms": 261273,
       "name": "Wake me up - Piano Version",
       "url": "https://open.spotify.com/track/1dA7RxuoV343ur4o4OMQ1B"
+    },
+    {
+      "album": {
+        "name": "Water Fountain",
+        "url": "https://open.spotify.com/album/0JBPp7cnzacwTDBNGh7O0P"
+      },
+      "artists": [
+        {
+          "name": "Lilas D\u00e9lice",
+          "url": "https://open.spotify.com/artist/0x2Cy9CJekH8kYi8gLWHOM"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166525,
+      "name": "Water Fountain",
+      "url": "https://open.spotify.com/track/6kyed7E6Y1O1qVtT5D5noi"
+    },
+    {
+      "album": {
+        "name": "Waterloo",
+        "url": "https://open.spotify.com/album/3Dmo284cTPhCvZnhwb6s0a"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Hart",
+          "url": "https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203741,
+      "name": "Waterloo",
+      "url": "https://open.spotify.com/track/310hk7yFoeAwmwHG7uBoXZ"
     },
     {
       "album": {
@@ -7710,6 +8124,24 @@
       "duration_ms": 226062,
       "name": "Where Is My Mind?",
       "url": "https://open.spotify.com/track/1XfJ4VvulKXjwxIEQURE8R"
+    },
+    {
+      "album": {
+        "name": "Where The Streets Have No Name",
+        "url": "https://open.spotify.com/album/1CyGN6dC2BrhF0WXNCNUTh"
+      },
+      "artists": [
+        {
+          "name": "Ross Ware",
+          "url": "https://open.spotify.com/artist/31DhMA96nPz7vdNPVTWi1q"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169787,
+      "name": "Where The Streets Have No Name",
+      "url": "https://open.spotify.com/track/0iwIdXQHWuyU7Ze6wBnNun"
     },
     {
       "album": {

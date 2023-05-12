@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: ALEXSUCKS \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,859 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,944 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [what went so wrong?](https://open.spotify.com/track/7CDvR3G9oddgzfMOdJvW8n) | [EDDY](https://open.spotify.com/artist/3HKVQVHKOFUfrUOMfRWHC6) | [what went so wrong?](https://open.spotify.com/album/7FaVrqM66MzGE9yMGj5Anh) | 3:15 |
 | 100 | [10 Minutes From Now](https://open.spotify.com/track/3XYM8w72L99Hb8uAhBofgt) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [10 Minutes From Now](https://open.spotify.com/album/2aepdjt22usv7kLzz6fp9K) | 2:53 |
 
-Snapshot ID: `MCxkNDkyMDcwMDc2ZjY0YjI0ZTIxMzQ0ZDk0N2EzMDJkZjE3NmZhYmVi`
+Snapshot ID: `MCwyMGM0ODFkZTAxN2MxNzljMDkzNjhjNGViY2I1OTE3MGM4ZmNiMjZi`

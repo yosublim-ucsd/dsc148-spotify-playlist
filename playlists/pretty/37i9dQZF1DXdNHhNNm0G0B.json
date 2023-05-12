@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sounds of acoustic blues and folk.",
-  "num_followers": 70733,
+  "num_followers": 70745,
   "original_name": "Rockin' Chair Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzRlNDhiNzk0NWJmMzQyNTAxM2E3NGVlZWMzMDQ5ZGZlNWY0NmVl",
+  "snapshot_id": "MCxjYWNlMTc0YTljMzM4MDcyN2Y5OGYzYTUzOTBmNmFjZTljODdjNTk0",
   "tracks": [
     {
       "added_at": "2023-04-07 00:01:00",
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ"
     },
     {
-      "added_at": "2023-05-11 01:02:29",
+      "added_at": "2023-05-12 01:25:41",
       "album": {
         "name": "Blues Jumped a Rabbit",
         "url": "https://open.spotify.com/album/5cOjiagbLZqw85RJNk8lQ4"
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Imaginational Anthem Vol. 5",
-        "url": "https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE"
-      },
-      "artists": [
-        {
-          "name": "Will Stratton",
-          "url": "https://open.spotify.com/artist/7vy0OevOpPswNjEUxXPhaR"
-        }
-      ],
-      "duration_ms": 229853,
-      "name": "Hemet Pine Singer",
-      "url": "https://open.spotify.com/track/0aNyZsNQZykSvoiwrjhBFB"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Acoustic Burnside",
         "url": "https://open.spotify.com/album/1LLHOFLIfGw0mebbkQrkHr"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 197237,
       "name": "Meet Me In The City",
       "url": "https://open.spotify.com/track/3Sb7h17Qy7WXTakdLyLacB"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "Imaginational Anthem Vol. 5",
+        "url": "https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE"
+      },
+      "artists": [
+        {
+          "name": "Will Stratton",
+          "url": "https://open.spotify.com/artist/7vy0OevOpPswNjEUxXPhaR"
+        }
+      ],
+      "duration_ms": 229853,
+      "name": "Hemet Pine Singer",
+      "url": "https://open.spotify.com/track/0aNyZsNQZykSvoiwrjhBFB"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
+        "name": "Fountain",
+        "url": "https://open.spotify.com/album/5rYIynWlr7cv7AXi1pPJy7"
+      },
+      "artists": [
+        {
+          "name": "Danny Paul Grody",
+          "url": "https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx"
+        }
+      ],
+      "duration_ms": 303946,
+      "name": "Natural West",
+      "url": "https://open.spotify.com/track/59eoAFWBywElrjWlUfsCCM"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
         "name": "The Guitar Masters Collection: John Fahey",
         "url": "https://open.spotify.com/album/2S8MEqzZMTVa48ZKp4Oayb"
       },
@@ -791,34 +807,18 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "County Farm Blues",
-        "url": "https://open.spotify.com/album/0xQyiVS5BLQzBmfOuUxIzx"
+        "name": "Imaginational Anthem",
+        "url": "https://open.spotify.com/album/0Aht6TMCyVgToFJGKR22VO"
       },
       "artists": [
         {
-          "name": "Johnny Stachela",
-          "url": "https://open.spotify.com/artist/0S1BmerVaINiJar88KgNzi"
+          "name": "Kaki King",
+          "url": "https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV"
         }
       ],
-      "duration_ms": 164285,
-      "name": "County Farm Blues",
-      "url": "https://open.spotify.com/track/1ycQB39KcU6DcdfY3XFyXR"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
-        "name": "Fountain",
-        "url": "https://open.spotify.com/album/5rYIynWlr7cv7AXi1pPJy7"
-      },
-      "artists": [
-        {
-          "name": "Danny Paul Grody",
-          "url": "https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx"
-        }
-      ],
-      "duration_ms": 303946,
-      "name": "Natural West",
-      "url": "https://open.spotify.com/track/59eoAFWBywElrjWlUfsCCM"
+      "duration_ms": 214786,
+      "name": "Night After Sidewalk",
+      "url": "https://open.spotify.com/track/6aEKWnhMVr2rdaqSdNha6U"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Imaginational Anthem",
-        "url": "https://open.spotify.com/album/0Aht6TMCyVgToFJGKR22VO"
+        "name": "County Farm Blues",
+        "url": "https://open.spotify.com/album/0xQyiVS5BLQzBmfOuUxIzx"
       },
       "artists": [
         {
-          "name": "Kaki King",
-          "url": "https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV"
+          "name": "Johnny Stachela",
+          "url": "https://open.spotify.com/artist/0S1BmerVaINiJar88KgNzi"
         }
       ],
-      "duration_ms": 214786,
-      "name": "Night After Sidewalk",
-      "url": "https://open.spotify.com/track/6aEKWnhMVr2rdaqSdNha6U"
+      "duration_ms": 164285,
+      "name": "County Farm Blues",
+      "url": "https://open.spotify.com/track/1ycQB39KcU6DcdfY3XFyXR"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Bottom's Up",
-        "url": "https://open.spotify.com/album/5rmJIwR8VuRFFSSjLjhg31"
-      },
-      "artists": [
-        {
-          "name": "Will Harrison",
-          "url": "https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt"
-        }
-      ],
-      "duration_ms": 172383,
-      "name": "Good Timin'",
-      "url": "https://open.spotify.com/track/0Y9O57DFFTyEI5jX9ByiP6"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Imaginational Anthem Vol. 5",
         "url": "https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 288626,
       "name": "There Is a Place in This Old Town",
       "url": "https://open.spotify.com/track/3s6SkrBG4hBEZ0t1XpyXz7"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "Bottom's Up",
+        "url": "https://open.spotify.com/album/5rmJIwR8VuRFFSSjLjhg31"
+      },
+      "artists": [
+        {
+          "name": "Will Harrison",
+          "url": "https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt"
+        }
+      ],
+      "duration_ms": 172383,
+      "name": "Good Timin'",
+      "url": "https://open.spotify.com/track/0Y9O57DFFTyEI5jX9ByiP6"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1075,34 +1075,18 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Nickel for Your Troubles",
-        "url": "https://open.spotify.com/album/7BehaPSDwpwY35CddZrreY"
+        "name": "Landscape and People",
+        "url": "https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y"
       },
       "artists": [
         {
-          "name": "Will Harrison",
-          "url": "https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt"
+          "name": "Nick Schillace",
+          "url": "https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM"
         }
       ],
-      "duration_ms": 168254,
-      "name": "Keepin On",
-      "url": "https://open.spotify.com/track/2o63bYzr3IwgehTtlU0Fk3"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
-        "name": "Presenting Robert Nighthawk",
-        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
-      },
-      "artists": [
-        {
-          "name": "Robert Nighthawk",
-          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
-        }
-      ],
-      "duration_ms": 174093,
-      "name": "Friar's Point Blues",
-      "url": "https://open.spotify.com/track/3cwOZlayYhxMNQgEJEyp8r"
+      "duration_ms": 379453,
+      "name": "A Real State of Independence",
+      "url": "https://open.spotify.com/track/2r5Pn8ZqFTlHpVgRZg2Znj"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1119,6 +1103,22 @@
       "duration_ms": 339320,
       "name": "Plains of Waterloo / James Connolly",
       "url": "https://open.spotify.com/track/6I1z2fe4YlpWsuaR0X1RSy"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "Presenting Robert Nighthawk",
+        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
+      },
+      "artists": [
+        {
+          "name": "Robert Nighthawk",
+          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
+        }
+      ],
+      "duration_ms": 174093,
+      "name": "Friar's Point Blues",
+      "url": "https://open.spotify.com/track/3cwOZlayYhxMNQgEJEyp8r"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1155,6 +1155,38 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
+        "name": "Orange County Serenade",
+        "url": "https://open.spotify.com/album/5fPjBAFjqX4Cf0XAPhGVcf"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bachman",
+          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/4Y4P44bLQ7tz5qy8XJmQtg"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "Nickel for Your Troubles",
+        "url": "https://open.spotify.com/album/7BehaPSDwpwY35CddZrreY"
+      },
+      "artists": [
+        {
+          "name": "Will Harrison",
+          "url": "https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt"
+        }
+      ],
+      "duration_ms": 168254,
+      "name": "Keepin On",
+      "url": "https://open.spotify.com/track/2o63bYzr3IwgehTtlU0Fk3"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
         "name": "The Country Blues Of John Lee Hooker",
         "url": "https://open.spotify.com/album/0CHr7nfBBFriUQqSqQw8pt"
       },
@@ -1180,9 +1212,9 @@
           "url": "https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM"
         }
       ],
-      "duration_ms": 379453,
-      "name": "A Real State of Independence",
-      "url": "https://open.spotify.com/track/2r5Pn8ZqFTlHpVgRZg2Znj"
+      "duration_ms": 245066,
+      "name": "Long River (Allegheny)",
+      "url": "https://open.spotify.com/track/1IlKCRTZl9WhFze6Mn9uTE"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1199,22 +1231,6 @@
       "duration_ms": 154103,
       "name": "Top Cat",
       "url": "https://open.spotify.com/track/14SADKuKjAiMLlPfTkKUok"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
-        "name": "Orange County Serenade",
-        "url": "https://open.spotify.com/album/5fPjBAFjqX4Cf0XAPhGVcf"
-      },
-      "artists": [
-        {
-          "name": "Daniel Bachman",
-          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/4Y4P44bLQ7tz5qy8XJmQtg"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1267,18 +1283,18 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Landscape and People",
-        "url": "https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y"
+        "name": "Southern Prison Blues",
+        "url": "https://open.spotify.com/album/3zphUD0wf8hzwgZ6GxeLQF"
       },
       "artists": [
         {
-          "name": "Nick Schillace",
-          "url": "https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM"
+          "name": "Guitar Welch",
+          "url": "https://open.spotify.com/artist/5VUwLyb3FCvjVYqbcxjhRf"
         }
       ],
-      "duration_ms": 245066,
-      "name": "Long River (Allegheny)",
-      "url": "https://open.spotify.com/track/1IlKCRTZl9WhFze6Mn9uTE"
+      "duration_ms": 207640,
+      "name": "Lonesome Blues",
+      "url": "https://open.spotify.com/track/0pYI2557do9fk2PlH8JfKg"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1295,22 +1311,6 @@
       "duration_ms": 169214,
       "name": "She Ain't Nowhere - Remastered",
       "url": "https://open.spotify.com/track/2C0sWdXD2V6Ebbw0d5fQiS"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
-        "name": "Southern Prison Blues",
-        "url": "https://open.spotify.com/album/3zphUD0wf8hzwgZ6GxeLQF"
-      },
-      "artists": [
-        {
-          "name": "Guitar Welch",
-          "url": "https://open.spotify.com/artist/5VUwLyb3FCvjVYqbcxjhRf"
-        }
-      ],
-      "duration_ms": 207640,
-      "name": "Lonesome Blues",
-      "url": "https://open.spotify.com/track/0pYI2557do9fk2PlH8JfKg"
     }
   ],
   "unique_name": "Rockin' Chair Blues",

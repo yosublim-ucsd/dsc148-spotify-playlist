@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Currents
 
-[Spotify](https://open.spotify.com/user/spotify) - 684,921 likes - 61 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 685,069 likes - 61 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 60 | [Black Rainbow](https://open.spotify.com/track/7qvj3XBm3H4TqmfEQ2PWXM) | [Tulip](https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY) | [The Perpetual Dream](https://open.spotify.com/album/6fPm9g2DHRc1uC9eVEbgtb) | 5:11 |
 | 61 | [The Sun Never Rises](https://open.spotify.com/track/360nJ1A0TqimW3HJwFpAvL) | [While Oceans Burn](https://open.spotify.com/artist/4FKHhRVQJg6ya19DuFbrf7) | [The Sun Never Rises](https://open.spotify.com/album/31UkylyEqXAbLBeH5nK8Jn) | 3:09 |
 
-Snapshot ID: `MCw3ZTA5ZDRjYmU0OGMyYzRiOTBmYTY0ZDk3NGI0M2NiZDU5ZmRiZTZl`
+Snapshot ID: `MCxiMTU3MjEzODU3ZDg3NGRlMGZmZjViNjdkYzQxZjEzYmVlMjcyMWEx`

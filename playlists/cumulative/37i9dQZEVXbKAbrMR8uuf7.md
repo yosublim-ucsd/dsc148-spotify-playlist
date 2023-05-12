@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-859 songs - 1 day 23 hr 37 min
+860 songs - 1 day 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,7 +407,7 @@
 | [La Roca](https://open.spotify.com/track/3fXIqfKH70eL7pCQ9JuiAh) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [SR\. SANTOS](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 2:55 | 2022-12-03 | 2022-12-05 |
 | [La Ruta](https://open.spotify.com/track/7D8tKs61tdzzDdG9w6kdu4) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [SR\. SANTOS](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 3:04 | 2022-12-03 | 2022-12-06 |
 | [La Santa](https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:26 | 2022-02-21 | 2022-11-15 |
-| [La Sicaria](https://open.spotify.com/track/5GjUkOcqimq1MvZ2Ibav2Z) | [Soraya Gomez](https://open.spotify.com/artist/2DDcVaJCYzHYWgt0AwRHAE) | [La Sicaria](https://open.spotify.com/album/5SHUGF44p4DFVuJHXs2OiU) | 3:30 | 2023-05-10 |  |
+| [La Sicaria](https://open.spotify.com/track/5GjUkOcqimq1MvZ2Ibav2Z) | [Soraya Gomez](https://open.spotify.com/artist/2DDcVaJCYzHYWgt0AwRHAE) | [La Sicaria](https://open.spotify.com/album/5SHUGF44p4DFVuJHXs2OiU) | 3:30 | 2023-05-10 | 2023-05-12 |
 | [La Tóxica](https://open.spotify.com/track/15OjBeqNX3bShsGYQbteRv) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La Tóxica](https://open.spotify.com/album/1R0ocprmeDu8ZkZn29xYFx) | 3:00 | 2021-03-27\* | 2021-05-05 |
 | [La Vacuna](https://open.spotify.com/track/3KI0MgmUSkF2HPltjRLqjO) | [Dip Salvador](https://open.spotify.com/artist/6PN1qeD3PiiYj6QIDMqfUz) | [La Vacuna](https://open.spotify.com/album/0NqhM75FoWkfJCrgQdckl0) | 3:19 | 2022-09-01 | 2022-09-12 |
 | [La Venganza](https://open.spotify.com/track/0Pe4DpJDmZtOybHgrZ1hyM) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 4:07 | 2021-09-12 | 2021-09-13 |
@@ -510,6 +510,7 @@
 | [Mi Mujer](https://open.spotify.com/track/5egRsJ1PCjt4gUkCj2buEO) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI), [PiketeProducer](https://open.spotify.com/artist/2jPT8lavd5CEDTo01dGqar) | [Mi Mujer](https://open.spotify.com/album/0wOCaIKtodIw8K1UuVJtYa) | 2:35 | 2023-04-09 | 2023-04-11 |
 | [Mi Niña](https://open.spotify.com/track/2bgcUk2A3jjKbCJ7KPquTi) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [Mi Niña](https://open.spotify.com/album/5F7rUv9XZPAnNfeKCYkqZS) | 3:33 | 2021-03-27\* | 2021-06-20 |
 | [Mi Voz Cuesta un Billón](https://open.spotify.com/track/4JHjB2AekXGX7sCx6NLrJU) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 3:48 | 2021-11-28 | 2021-12-03 |
+| [Mi Yamaha Melma](https://open.spotify.com/track/4dAxJKUeJwel4OUmAB0snP) | [La Melma Music](https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK), [Dilon Baby](https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN), [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [Mi Yamaha Melma](https://open.spotify.com/album/4Q9Dl6eyVxARcEkxGHnVCh) | 2:29 | 2023-05-11 |  |
 | [Midas](https://open.spotify.com/track/6ZxQu3WmtKGzm6yeSKsaz0) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 1](https://open.spotify.com/album/7rzr5GOIXMfA41aIkzGtvo) | 2:04 | 2021-07-04 | 2021-07-11 |
 | [Miedo](https://open.spotify.com/track/1jCjfnzOnvmzyeKB7ikki5) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Santo Niño](https://open.spotify.com/album/1m3Ynzb5HhBBuTlVJhFcvd) | 2:40 | 2021-06-20 | 2021-06-22 |
 | [MIENTRAS ME CURO DEL CORA](https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:44 | 2023-02-25 |  |

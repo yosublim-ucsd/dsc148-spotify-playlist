@@ -192,7 +192,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 273000,
       "name": "Amma Dekh Tera Munda",
       "url": "https://open.spotify.com/track/0G8GWYXDmrHEHQGllFP94Q"
@@ -507,6 +507,28 @@
     },
     {
       "album": {
+        "name": "Jung (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4B9zXCN6wGrJMABxXp4Ilo"
+      },
+      "artists": [
+        {
+          "name": "Abhijeet",
+          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+        },
+        {
+          "name": "Kavita Krishnamurthy",
+          "url": "https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343840,
+      "name": "Deewana Deewana Yeh Dil Tera Deewana",
+      "url": "https://open.spotify.com/track/0vdyfVjSL2JPQQDr321fhn"
+    },
+    {
+      "album": {
         "name": "Pyaar Kiya To Darna Kya",
         "url": "https://open.spotify.com/album/1qvXEHskZGV4XZVBFd7lFP"
       },
@@ -584,7 +606,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 485333,
       "name": "Didi Tera Devar Deewana (From \"Hum Aapke Hain Koun\")",
       "url": "https://open.spotify.com/track/5lnxK8H9ccEkliW73ksgW0"
@@ -744,6 +766,24 @@
       "duration_ms": 275386,
       "name": "Ek Ladki Ko Dekha (From \"1942 A Love Story\")",
       "url": "https://open.spotify.com/track/1F1tgtx8jtugBWBCTVeecX"
+    },
+    {
+      "album": {
+        "name": "Koyla (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/45ZBSYUlEzu9NrpDBeVyWX"
+      },
+      "artists": [
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372000,
+      "name": "Ghoongte Mein Chanda",
+      "url": "https://open.spotify.com/track/09b9rdkIwUHE2r9j6RX2n9"
     },
     {
       "album": {
@@ -1317,6 +1357,24 @@
     },
     {
       "album": {
+        "name": "Zor",
+        "url": "https://open.spotify.com/album/25UYqLN0hjS2YlrQRVIj6b"
+      },
+      "artists": [
+        {
+          "name": "Hema Sardesai",
+          "url": "https://open.spotify.com/artist/7J1dPh3Yjs0aIhQHbBfNQP"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357215,
+      "name": "Main Kudi Anjaani",
+      "url": "https://open.spotify.com/track/7JDLPKmAjW2vTiEouEPK80"
+    },
+    {
+      "album": {
         "name": "Bade Miyan Chote Miyan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4SZP1rmZ6SLANWNsuml9Dt"
       },
@@ -1397,6 +1455,40 @@
     },
     {
       "album": {
+        "name": "Ishq (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5kIIShUL1dcx3W9ZYoCd1H"
+      },
+      "artists": [
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Abhijeet",
+          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+        },
+        {
+          "name": "Sudesh Bhosale",
+          "url": "https://open.spotify.com/artist/7u7mPDD1KXN9mfJ7EsBmET"
+        },
+        {
+          "name": "Poornima",
+          "url": "https://open.spotify.com/artist/6lpXKoHUzxZc5PwyS6cu4C"
+        },
+        {
+          "name": "Kavita Krishnamurthy",
+          "url": "https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323000,
+      "name": "Mr. Lova Lova",
+      "url": "https://open.spotify.com/track/0RvVVLFnfD6O09hUdiDe8f"
+    },
+    {
+      "album": {
         "name": "Hum Se Hai Muqabala - Kadalan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3IpHQbDLRRqd9sZQncIMD9"
       },
@@ -1416,6 +1508,28 @@
       "duration_ms": 143977,
       "name": "Muqabala Muqabala",
       "url": "https://open.spotify.com/track/0iG83qZ0ftWr43VggRYkp3"
+    },
+    {
+      "album": {
+        "name": "Mrityudaata",
+        "url": "https://open.spotify.com/album/0d065Dd5BuDLODxicQ8OGt"
+      },
+      "artists": [
+        {
+          "name": "Daler Mehndi",
+          "url": "https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx"
+        },
+        {
+          "name": "Sudesh Bhosle",
+          "url": "https://open.spotify.com/artist/7GNoTWm5VObvMUeS0Wkueu"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346746,
+      "name": "Na Na Na Re",
+      "url": "https://open.spotify.com/track/3TsZpvGaH6IgozHQXWabGq"
     },
     {
       "album": {
@@ -1852,7 +1966,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 556960,
       "name": "Saal Ke Barah Mahine",
       "url": "https://open.spotify.com/track/6IJmNNMFl7GvxTnlG27i4l"
@@ -1914,7 +2028,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 474506,
       "name": "Sexy Sexy Mujhe Log Bole",
       "url": "https://open.spotify.com/track/1nTmSgZOe81t6nG7JVnz06"
@@ -2196,7 +2310,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 309000,
       "name": "Tu Tu Tu Tara",
       "url": "https://open.spotify.com/track/5NwQgMsyHrHefzDNdUXbzJ"

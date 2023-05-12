@@ -3575,6 +3575,32 @@
     },
     {
       "album": {
+        "name": "I'VE SEEN THIS MOVIE BEFORE Pt.2",
+        "url": "https://open.spotify.com/album/3qJp0l4TtjzUNXQ3cJnMPh"
+      },
+      "artists": [
+        {
+          "name": "hyejin",
+          "url": "https://open.spotify.com/artist/5zLd9DhI6ebR8fvwunp4bX"
+        },
+        {
+          "name": "Aleebi",
+          "url": "https://open.spotify.com/artist/5eo2IBMqyII25TtyBJ4359"
+        },
+        {
+          "name": "kasper",
+          "url": "https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "I'VE SEEN THIS MOVIE BEFORE Pt.2",
+      "url": "https://open.spotify.com/track/6bZ6d4DqovVDecNAluId9h"
+    },
+    {
+      "album": {
         "name": "Bones & The Boy",
         "url": "https://open.spotify.com/album/3iOJeQg8mGnbKmOlsZtUlT"
       },
@@ -5916,7 +5942,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 99209,
       "name": "Regressa",
       "url": "https://open.spotify.com/track/33TpZOsFaBV09pXm15vBq6"
@@ -6036,6 +6062,24 @@
       "duration_ms": 213379,
       "name": "Rocksta",
       "url": "https://open.spotify.com/track/5R06bSYKRELA1caseE2BAX"
+    },
+    {
+      "album": {
+        "name": "Role Model",
+        "url": "https://open.spotify.com/album/2mHWAQ08dnXOPh3ddrQqJ6"
+      },
+      "artists": [
+        {
+          "name": "Lucy Park",
+          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133540,
+      "name": "Role Model",
+      "url": "https://open.spotify.com/track/7EbHleMQStqGD7YKiCeBmz"
     },
     {
       "album": {
@@ -7374,7 +7418,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 203841,
       "name": "The Rabbit Hole",
       "url": "https://open.spotify.com/track/0v8nJdCqaABu5ozagx1Hyp"

@@ -42,7 +42,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 140100,
       "name": "* da Anitta",
       "url": "https://open.spotify.com/track/0VhG6qzFZo9JrHu56Wq7gh"
@@ -943,6 +943,24 @@
     },
     {
       "album": {
+        "name": "Fruto Proibido",
+        "url": "https://open.spotify.com/album/48SnM2iORxlYTyCefwJZvs"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204760,
+      "name": "Agora S\u00f3 Falta Voc\u00ea",
+      "url": "https://open.spotify.com/track/45P18b0Ntbd3kf2ira3TGR"
+    },
+    {
+      "album": {
         "name": "AgroPlay Ver\u00e3o Vol.1",
         "url": "https://open.spotify.com/album/5nLj4u8xY6bfCAHNQVM87i"
       },
@@ -1414,6 +1432,24 @@
       "duration_ms": 284872,
       "name": "Amor de \u00cdndio",
       "url": "https://open.spotify.com/track/7k2hmb2r5a5whkyf0N1nyC"
+    },
+    {
+      "album": {
+        "name": "Balacobaco",
+        "url": "https://open.spotify.com/album/6wzdzEf0Qd3GGdf7YyGoAo"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "Amor e Sexo",
+      "url": "https://open.spotify.com/track/333v4s9EybUEFOY6ComIC2"
     },
     {
       "album": {
@@ -3656,7 +3692,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 217000,
       "name": "Blue Hair",
       "url": "https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t"
@@ -6661,6 +6697,28 @@
     },
     {
       "album": {
+        "name": "Bombom",
+        "url": "https://open.spotify.com/album/2CegF9bd4SuyyDFNfq2gFm"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        },
+        {
+          "name": "Roberto De Carvalho",
+          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175400,
+      "name": "Desculpe O Au\u00ea",
+      "url": "https://open.spotify.com/track/6z9rbTyybj57JXKu6s7uuq"
+    },
+    {
+      "album": {
         "name": "Desejo Imortal (It Must Have Been Love)",
         "url": "https://open.spotify.com/album/5dJzuxTgkvdhSlgInkqMqC"
       },
@@ -7066,6 +7124,28 @@
       "duration_ms": 176973,
       "name": "Do Ya Wanna Taste It",
       "url": "https://open.spotify.com/track/5XW4BwCrfYpci5zMbJxs4N"
+    },
+    {
+      "album": {
+        "name": "Rita Lee",
+        "url": "https://open.spotify.com/album/1WN3eZOVfULIjZfxdsfoMO"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        },
+        {
+          "name": "Roberto De Carvalho",
+          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268960,
+      "name": "Doce Vampiro",
+      "url": "https://open.spotify.com/track/5toSzfFqh7gfTLGWW3Z8Zv"
     },
     {
       "album": {
@@ -11599,6 +11679,24 @@
     },
     {
       "album": {
+        "name": "Resident Alien",
+        "url": "https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A"
+      },
+      "artists": [
+        {
+          "name": "Spacehog",
+          "url": "https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299506,
+      "name": "In the Meantime",
+      "url": "https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC"
+    },
+    {
+      "album": {
         "name": "Sonho de Garoto (Deluxe)",
         "url": "https://open.spotify.com/album/48zl7depKidq6BMCzlVD6C"
       },
@@ -12344,7 +12442,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 173080,
       "name": "KNOCK",
       "url": "https://open.spotify.com/track/6KiEF5zqzHiFjzdm8gChz7"
@@ -12508,6 +12606,28 @@
       "duration_ms": 181048,
       "name": "Lance Livre - Ao vivo",
       "url": "https://open.spotify.com/track/6LBDtzlM7s9XGB7diqpB8z"
+    },
+    {
+      "album": {
+        "name": "Rita Lee",
+        "url": "https://open.spotify.com/album/77whDq0J0bYLftDVMKAlK7"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        },
+        {
+          "name": "Roberto De Carvalho",
+          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310760,
+      "name": "Lan\u00e7a Perfume",
+      "url": "https://open.spotify.com/track/3cijWAljXxxJDco4N2aLQl"
     },
     {
       "album": {
@@ -14228,7 +14348,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 195706,
       "name": "Mec Life",
       "url": "https://open.spotify.com/track/5tk0ERnzadzyexVfXA0yed"
@@ -16646,7 +16766,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 173698,
       "name": "Nosso Quadro",
       "url": "https://open.spotify.com/track/4uqJelb9THHmJ3OCohg4ZJ"
@@ -18446,7 +18566,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 122666,
       "name": "Papin",
       "url": "https://open.spotify.com/track/3khLpwuyIjEOw8vfJ1oUIT"
@@ -21270,6 +21390,24 @@
       "duration_ms": 177226,
       "name": "Saxofone Irracional",
       "url": "https://open.spotify.com/track/3nZPkQKmLyXhSkX4cwnrew"
+    },
+    {
+      "album": {
+        "name": "Sa\u00fade",
+        "url": "https://open.spotify.com/album/5zvIJc4CPmQhafWnvmd9UR"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301693,
+      "name": "Sa\u00fade",
+      "url": "https://open.spotify.com/track/1i01coCdrJQTyTkdY0GClx"
     },
     {
       "album": {
@@ -27214,7 +27352,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 174545,
       "name": "Zidane",
       "url": "https://open.spotify.com/track/1Byvv0RuG4JaJwRzdNoWqn"

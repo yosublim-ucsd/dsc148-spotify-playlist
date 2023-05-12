@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Riton, FEYI
 
-[Spotify](https://open.spotify.com/user/spotify) - 743,009 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 743,074 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 79 | [Lucid Love](https://open.spotify.com/track/4lxezjHzTpF81nMNixy1OS) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g) | [Lucid Love](https://open.spotify.com/album/4fyUu9Mo0l6bRztTTe0ouz) | 3:08 |
 | 80 | [Big Eff Off Groove](https://open.spotify.com/track/4gdwfPd0LcJ4GHzE9MPxsl) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [Big Eff Off Groove](https://open.spotify.com/album/2TWFldlGIkjFDpCq5BRH2Z) | 7:41 |
 
-Snapshot ID: `MCxiZDFkMjYwYmI2MzFmMDJmNDAxNzk0MDg4N2E1Yzc4Nzk3ODI3OGVi`
+Snapshot ID: `MCxmZDk3YTAxNzY2MGZiMDhmNjkxZjlhNDAyZGQ3YTE4MGI5MTg4NmZj`

@@ -4,7 +4,7 @@
 
 > Pop style reggae for a sunny vibe!
 
-135 songs - 8 hr 27 min
+136 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Be With You \- 2022 Version](https://open.spotify.com/track/0DpRKdn06BWfJlFd7eAyZt) | [Sons Of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [Sons of Zion](https://open.spotify.com/album/0UeLDwEOhTWT3pDbJ4otLc) | 3:40 | 2022-12-22 |  |
 | [Beautiful Things](https://open.spotify.com/track/5f1ipolg7GbqPvU82RrPKW) | [Phonosonics](https://open.spotify.com/artist/2xpEIe8STKeim2STwFAVyH) | [Beautiful Things](https://open.spotify.com/album/5AHhfT944fJxDCAwXzSlHn) | 4:04 | 2021-11-25 | 2022-07-29 |
 | [Beautiful Things](https://open.spotify.com/track/5mxW7RsgYQ0wlhiK4qcpFI) | [Phonosonics](https://open.spotify.com/artist/2xpEIe8STKeim2STwFAVyH) | [Beautiful Things](https://open.spotify.com/album/3hlrDC42IzSM8B6qnFVuwW) | 4:04 | 2022-11-10 | 2022-11-14 |
-| [Beautiful Things \(Remix\)](https://open.spotify.com/track/1OhaZufeyAo6bve6Dm8hWR) | [Phonosonics](https://open.spotify.com/artist/2xpEIe8STKeim2STwFAVyH) | [New Again](https://open.spotify.com/album/5RN7Lm1aUvOsr7viqOl4x4) | 4:05 | 2022-07-07 |  |
+| [Beautiful Things \(Remix\)](https://open.spotify.com/track/1OhaZufeyAo6bve6Dm8hWR) | [Phonosonics](https://open.spotify.com/artist/2xpEIe8STKeim2STwFAVyH) | [New Again](https://open.spotify.com/album/5RN7Lm1aUvOsr7viqOl4x4) | 4:05 | 2022-07-07 | 2023-05-12 |
 | [Caribbean Plans \(Remix\)](https://open.spotify.com/track/2NwpY1CMi4LJBNJNEGGd1A) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Caribbean Plans \(Remix\)](https://open.spotify.com/album/5S9lXPU2C7qiQt23Bf2J6V) | 3:50 | 2022-07-07 |  |
 | [Caribbean Plans \- Remix](https://open.spotify.com/track/2zIkY5vcsW2KoMHqBOmHF9) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Caribbean Plans \(Remix\)](https://open.spotify.com/album/2bFSReIMtrAkzp6gHAhHkl) | 3:50 | 2021-11-25 | 2022-07-29 |
 | [Catching Feelings \(feat\. J Boog\) \- Bimwala Remix](https://open.spotify.com/track/2mjlROYtPqKp9mWANqGtCf) | [Inigo Pascual](https://open.spotify.com/artist/0XOSmu9Qn1agQULUVe0dAK), [Moophs](https://open.spotify.com/artist/3HaL9ONkedXrAybTHYA3w1), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Bimwala](https://open.spotify.com/artist/6pXPBMM6APBn2Ffnh9M55C) | [Catching Feelings \(feat\. J Boog\) \[Bimwala Remix\]](https://open.spotify.com/album/6fkFfPMRuu19AOV1OjNBvJ) | 3:20 | 2021-11-25 |  |
@@ -73,6 +73,7 @@
 | [Light My Fire \(feat\. Gwen Stefani & Shenseea\)](https://open.spotify.com/track/0D85y6hjCaHRjeB4VEXqPy) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Scorcha](https://open.spotify.com/album/1hVo8fqEJffd9IjV8gHjQ5) | 3:22 | 2022-07-07 |  |
 | [Light My Fire \(feat\. Gwen Stefani & Shenseea\)](https://open.spotify.com/track/1egbEbrblp5ujK8mABDl10) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Light My Fire](https://open.spotify.com/album/5LOqQ3f3DtEMKo8d7aOIXt) | 3:22 | 2022-05-26 | 2022-07-29 |
 | [Light My Fire \(feat\. Gwen Stefani and Shenseea\)](https://open.spotify.com/track/78wmhxOkwTOTPHaKaU8LHu) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Scorcha](https://open.spotify.com/album/2HTnUx5HD826xh4kbaSNvL) | 3:22 | 2022-11-10 | 2022-11-14 |
+| [Lipstick Lover](https://open.spotify.com/track/6IhkXHtj7tJg5waF4utfX0) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Lipstick Lover](https://open.spotify.com/album/6eg7CJ9fJAeLJ5PGB1Vf7T) | 2:49 | 2023-05-11 |  |
 | [Little Green Apples](https://open.spotify.com/track/5s4fXhvpMYRasAqCb8zhoc) | [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Little Green Apples](https://open.spotify.com/album/0DeefYh0ZfmHocxqIXnWFd) | 3:53 | 2021-11-25 | 2022-02-26 |
 | [Living is the Lesson \(with Iration\)](https://open.spotify.com/track/70k3t3MCp0OotE7GiXXXJR) | [Mihali](https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV), [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [Living is the Lesson \(with Iration\)](https://open.spotify.com/album/5PCmqWZBNGnKGX9owRd4NV) | 4:02 | 2022-04-28 | 2022-12-07 |
 | [Lonely](https://open.spotify.com/track/5rPIC7hQVaDSZryekHY89Z) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Gifted](https://open.spotify.com/album/3OcgIT5qeI4lZnaUHqLQLi) | 4:08 | 2022-03-24 |  |

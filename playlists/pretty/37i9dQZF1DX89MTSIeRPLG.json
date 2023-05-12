@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 5198,
+  "num_followers": 5218,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2I3NjI2NjYzNmJlY2RjMDBlYTVkNWRjMTAyNTk2NWE0ODRmN2Vm",
+  "snapshot_id": "MCxkMGI4ZmVlOTY2YjQ3MjY5YTljMTRjYzk3NzVjYzRiNzQ2YjIzYmVh",
   "tracks": [
     {
       "added_at": "2022-10-01 20:31:11",
@@ -443,6 +443,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "Blessed, I Guess",
+        "url": "https://open.spotify.com/album/2g74qnJkJJcXB0XAZbBXAL"
+      },
+      "artists": [
+        {
+          "name": "Lil Poppa",
+          "url": "https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg"
+        }
+      ],
+      "duration_ms": 124767,
+      "name": "Boys To Men",
+      "url": "https://open.spotify.com/track/5EBrAbr17vTY143Fo1Cwop"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "VORY",
         "url": "https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 183182,
       "name": "Ain't It Funny ft. Meek Mill",
       "url": "https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "Blessed, I Guess",
-        "url": "https://open.spotify.com/album/2g74qnJkJJcXB0XAZbBXAL"
-      },
-      "artists": [
-        {
-          "name": "Lil Poppa",
-          "url": "https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg"
-        }
-      ],
-      "duration_ms": 124767,
-      "name": "Boys To Men",
-      "url": "https://open.spotify.com/track/5EBrAbr17vTY143Fo1Cwop"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -891,6 +891,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "X-Tra Laps",
+        "url": "https://open.spotify.com/album/0ooAquTpwq99XgS2XEmQYi"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "duration_ms": 163520,
+      "name": "Bulgari Shades",
+      "url": "https://open.spotify.com/track/5Yg6YjAygNGeBnow6xrCQ6"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "Bounty",
         "url": "https://open.spotify.com/album/6jiBo4BcX2JkH8SPGEmrrS"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 226292,
       "name": "Bounty",
       "url": "https://open.spotify.com/track/1q8rLyDciaRexy0AzNF0Eg"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "X-Tra Laps",
-        "url": "https://open.spotify.com/album/0ooAquTpwq99XgS2XEmQYi"
-      },
-      "artists": [
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        }
-      ],
-      "duration_ms": 163520,
-      "name": "Bulgari Shades",
-      "url": "https://open.spotify.com/track/5Yg6YjAygNGeBnow6xrCQ6"
     },
     {
       "added_at": "2022-10-01 20:31:11",

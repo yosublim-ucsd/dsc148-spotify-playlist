@@ -1,33 +1,13 @@
 {
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/391IHvSC8S9yNnt3VHZUYt?si=WoYt-HJwQhujyzmaywHPZQ\">Chronical Deep</a>",
-  "num_followers": 59972,
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/0UKxhX9dIF8XkLRbKrQcoN?si=pebQML9dTI2wwUQ6IcjE7g\">Thee Suka</a>",
+  "num_followers": 60014,
   "original_name": "mint South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2YzODVhYmNhMDY4NTUzMDA2NjEyMjVmZWJjNzUzNmIwOGVmMjVj",
+  "snapshot_id": "MCw3NzMyMjViM2MzODQ2YTVkMjdmNDFmNDNiNzhiZWJlNzM3NDlmZTE4",
   "tracks": [
-    {
-      "added_at": "2023-05-05 07:39:01",
-      "album": {
-        "name": "Jacaranda",
-        "url": "https://open.spotify.com/album/20haQolPNjMtxDaN8561KL"
-      },
-      "artists": [
-        {
-          "name": "Karyendasoul",
-          "url": "https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p"
-        },
-        {
-          "name": "Msaki",
-          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
-        }
-      ],
-      "duration_ms": 372005,
-      "name": "Jacaranda",
-      "url": "https://open.spotify.com/track/5gxbSGshbeAUqLzSsxUKFA"
-    },
     {
       "added_at": "2023-05-05 07:39:01",
       "album": {
@@ -51,6 +31,26 @@
       "duration_ms": 226500,
       "name": "Kamili",
       "url": "https://open.spotify.com/track/5JEaCJCehAtt1nQf0gd9Dx"
+    },
+    {
+      "added_at": "2023-05-05 07:39:01",
+      "album": {
+        "name": "Jacaranda",
+        "url": "https://open.spotify.com/album/20haQolPNjMtxDaN8561KL"
+      },
+      "artists": [
+        {
+          "name": "Karyendasoul",
+          "url": "https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p"
+        },
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        }
+      ],
+      "duration_ms": 372005,
+      "name": "Jacaranda",
+      "url": "https://open.spotify.com/track/5gxbSGshbeAUqLzSsxUKFA"
     },
     {
       "added_at": "2023-05-05 07:39:01",
@@ -79,6 +79,26 @@
     {
       "added_at": "2023-05-05 07:39:01",
       "album": {
+        "name": "Mngani",
+        "url": "https://open.spotify.com/album/64or43KyUgR5Wxymf9lSNx"
+      },
+      "artists": [
+        {
+          "name": "Darque",
+          "url": "https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105"
+        },
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        }
+      ],
+      "duration_ms": 377503,
+      "name": "Mngani",
+      "url": "https://open.spotify.com/track/4HwbvqQZpVvaYJB7uGlcAe"
+    },
+    {
+      "added_at": "2023-05-05 07:39:01",
+      "album": {
         "name": "Kwa Mama",
         "url": "https://open.spotify.com/album/6lJltP4TFQ2psn9do99SxC"
       },
@@ -95,18 +115,22 @@
     {
       "added_at": "2023-05-05 07:39:01",
       "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/4DtFjK1yiGjvKE7YqVt5wX"
+        "name": "Mhalamhala",
+        "url": "https://open.spotify.com/album/4GOgQiICB1COzZMix230BM"
       },
       "artists": [
         {
-          "name": "Chronical Deep",
-          "url": "https://open.spotify.com/artist/391IHvSC8S9yNnt3VHZUYt"
+          "name": "Brenden Praise",
+          "url": "https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU"
+        },
+        {
+          "name": "Atmos Blaq",
+          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
         }
       ],
-      "duration_ms": 447973,
-      "name": "Wake Them Up - Siyo'bavusa",
-      "url": "https://open.spotify.com/track/6qZJoaKhQA57rYLsZ7cA65"
+      "duration_ms": 323906,
+      "name": "Xurhisa",
+      "url": "https://open.spotify.com/track/3J9ShbGGoRMhl6a1xO75Kc"
     },
     {
       "added_at": "2023-05-05 07:39:01",
@@ -133,44 +157,80 @@
       "url": "https://open.spotify.com/track/5iBtd2rolPOVUHB2E43Z66"
     },
     {
-      "added_at": "2023-05-05 07:39:01",
+      "added_at": "2023-05-11 21:59:00",
       "album": {
-        "name": "Mhalamhala",
-        "url": "https://open.spotify.com/album/4GOgQiICB1COzZMix230BM"
+        "name": "Against All Odds",
+        "url": "https://open.spotify.com/album/6DicXAqLVARWKDcwa2xJJD"
       },
       "artists": [
         {
-          "name": "Brenden Praise",
-          "url": "https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU"
-        },
-        {
-          "name": "Atmos Blaq",
-          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+          "name": "Thee Suka",
+          "url": "https://open.spotify.com/artist/0UKxhX9dIF8XkLRbKrQcoN"
         }
       ],
-      "duration_ms": 323906,
-      "name": "Xurhisa",
-      "url": "https://open.spotify.com/track/3J9ShbGGoRMhl6a1xO75Kc"
+      "duration_ms": 360005,
+      "name": "Army Of Angels",
+      "url": "https://open.spotify.com/track/2dnIq7FQEMEZc5KooZVFOy"
     },
     {
       "added_at": "2023-05-05 07:39:01",
       "album": {
-        "name": "Mngani",
-        "url": "https://open.spotify.com/album/64or43KyUgR5Wxymf9lSNx"
+        "name": "The Hi",
+        "url": "https://open.spotify.com/album/1fA4ZmGkYpPmsZpl4tUeAs"
       },
       "artists": [
         {
-          "name": "Darque",
-          "url": "https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105"
+          "name": "Hyenah",
+          "url": "https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu"
         },
         {
-          "name": "Sjava",
-          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+          "name": "Lazarusman",
+          "url": "https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc"
         }
       ],
-      "duration_ms": 377503,
-      "name": "Mngani",
-      "url": "https://open.spotify.com/track/4HwbvqQZpVvaYJB7uGlcAe"
+      "duration_ms": 456097,
+      "name": "The Hi",
+      "url": "https://open.spotify.com/track/3s4WU81N2Da2yMuafxSuPt"
+    },
+    {
+      "added_at": "2023-05-05 07:39:01",
+      "album": {
+        "name": "Dance for Me",
+        "url": "https://open.spotify.com/album/31Yt1xfmym4kGoWsq8537D"
+      },
+      "artists": [
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+        },
+        {
+          "name": "Kasango",
+          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 212459,
+      "name": "Dance for Me",
+      "url": "https://open.spotify.com/track/24kUtFCxGKd6Rgti2G6YTI"
+    },
+    {
+      "added_at": "2023-05-05 07:39:01",
+      "album": {
+        "name": "That Organ Track",
+        "url": "https://open.spotify.com/album/57vtd1pWeoj9lqQZ2Ge0Bf"
+      },
+      "artists": [
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        }
+      ],
+      "duration_ms": 416787,
+      "name": "That Organ Track",
+      "url": "https://open.spotify.com/track/2b0Uxm2fJJSMKuSHnmlyBn"
     },
     {
       "added_at": "2023-05-05 07:39:01",
@@ -235,58 +295,6 @@
     {
       "added_at": "2023-05-05 07:39:01",
       "album": {
-        "name": "That Organ Track",
-        "url": "https://open.spotify.com/album/57vtd1pWeoj9lqQZ2Ge0Bf"
-      },
-      "artists": [
-        {
-          "name": "Shimza",
-          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
-        }
-      ],
-      "duration_ms": 416787,
-      "name": "That Organ Track",
-      "url": "https://open.spotify.com/track/2b0Uxm2fJJSMKuSHnmlyBn"
-    },
-    {
-      "added_at": "2023-05-05 07:39:01",
-      "album": {
-        "name": "The Hi",
-        "url": "https://open.spotify.com/album/1fA4ZmGkYpPmsZpl4tUeAs"
-      },
-      "artists": [
-        {
-          "name": "Hyenah",
-          "url": "https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu"
-        },
-        {
-          "name": "Lazarusman",
-          "url": "https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc"
-        }
-      ],
-      "duration_ms": 456097,
-      "name": "The Hi",
-      "url": "https://open.spotify.com/track/3s4WU81N2Da2yMuafxSuPt"
-    },
-    {
-      "added_at": "2023-05-05 07:39:01",
-      "album": {
-        "name": "Crazy Vibez",
-        "url": "https://open.spotify.com/album/5x20kr3HFbo8n8OT4LULjI"
-      },
-      "artists": [
-        {
-          "name": "Luxury SA",
-          "url": "https://open.spotify.com/artist/1KuiSB2g4gYQoyjmUy4cea"
-        }
-      ],
-      "duration_ms": 359014,
-      "name": "Crazy Vibez",
-      "url": "https://open.spotify.com/track/2nwXM9eHzj8eQBsuK9osbL"
-    },
-    {
-      "added_at": "2023-05-05 07:39:01",
-      "album": {
         "name": "We Live 4 Our Music",
         "url": "https://open.spotify.com/album/0GtP5C0gsYAVubcDHkCpai"
       },
@@ -303,30 +311,6 @@
       "duration_ms": 436005,
       "name": "Umoya",
       "url": "https://open.spotify.com/track/00f6dMrGyyVh0HaCmaNE7F"
-    },
-    {
-      "added_at": "2023-05-05 07:39:01",
-      "album": {
-        "name": "Dance for Me",
-        "url": "https://open.spotify.com/album/31Yt1xfmym4kGoWsq8537D"
-      },
-      "artists": [
-        {
-          "name": "Like Mike",
-          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
-        },
-        {
-          "name": "Kasango",
-          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 212459,
-      "name": "Dance for Me",
-      "url": "https://open.spotify.com/track/24kUtFCxGKd6Rgti2G6YTI"
     },
     {
       "added_at": "2023-05-05 07:39:01",
@@ -375,22 +359,18 @@
     {
       "added_at": "2023-05-05 07:39:01",
       "album": {
-        "name": "The Otherside (feat. Paige Cavell)",
-        "url": "https://open.spotify.com/album/79yXQTjSXHNmWjpsrmPjAW"
+        "name": "Indulgence",
+        "url": "https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou"
       },
       "artists": [
         {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Paige Cavell",
-          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
         }
       ],
-      "duration_ms": 202941,
-      "name": "The Otherside (feat. Paige Cavell)",
-      "url": "https://open.spotify.com/track/4BtscbDsAeMeIXRCpEXMTH"
+      "duration_ms": 269508,
+      "name": "Indulgence",
+      "url": "https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q"
     },
     {
       "added_at": "2023-05-05 07:39:01",
@@ -419,18 +399,22 @@
     {
       "added_at": "2023-05-05 07:39:01",
       "album": {
-        "name": "Indulgence",
-        "url": "https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou"
+        "name": "The Otherside (feat. Paige Cavell)",
+        "url": "https://open.spotify.com/album/79yXQTjSXHNmWjpsrmPjAW"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Paige Cavell",
+          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
         }
       ],
-      "duration_ms": 269508,
-      "name": "Indulgence",
-      "url": "https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q"
+      "duration_ms": 202941,
+      "name": "The Otherside (feat. Paige Cavell)",
+      "url": "https://open.spotify.com/track/4BtscbDsAeMeIXRCpEXMTH"
     },
     {
       "added_at": "2023-05-05 07:39:01",
@@ -563,34 +547,6 @@
     {
       "added_at": "2023-05-05 07:39:01",
       "album": {
-        "name": "Kx5",
-        "url": "https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg"
-      },
-      "artists": [
-        {
-          "name": "Kx5",
-          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
-        },
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
-        }
-      ],
-      "duration_ms": 203255,
-      "name": "Bright Lights (feat. AR/CO)",
-      "url": "https://open.spotify.com/track/7hz4FnANJOY7tR8eutPxIP"
-    },
-    {
-      "added_at": "2023-05-05 07:39:01",
-      "album": {
         "name": "Sound Of The Dragonfly",
         "url": "https://open.spotify.com/album/1r9GUiZzineJIF19j2ftU6"
       },
@@ -625,44 +581,24 @@
       "url": "https://open.spotify.com/track/35SNaNea9zk1oWk3IzrSKJ"
     },
     {
-      "added_at": "2023-05-05 07:39:01",
+      "added_at": "2023-05-11 21:59:00",
       "album": {
-        "name": "Live Without Love",
-        "url": "https://open.spotify.com/album/2Win77LZ47jEOcVu6HcMhX"
+        "name": "Body On Me",
+        "url": "https://open.spotify.com/album/4866zM4AKXkW4PzAdnhwJz"
       },
       "artists": [
         {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+          "name": "Mark Stent",
+          "url": "https://open.spotify.com/artist/2whiBQzZUS6fMkfOCqzXWS"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Nathan Dixon",
+          "url": "https://open.spotify.com/artist/3E4gUVFaMN82A17nrmjXvw"
         }
       ],
-      "duration_ms": 190476,
-      "name": "Live Without Love",
-      "url": "https://open.spotify.com/track/4V1SO4C2wG9bTq6Cp7yYyA"
-    },
-    {
-      "added_at": "2023-05-05 07:39:01",
-      "album": {
-        "name": "Abandon the Rule (Ahadadream Remix)",
-        "url": "https://open.spotify.com/album/0KZazFM4iKz4ouQ0qY5exB"
-      },
-      "artists": [
-        {
-          "name": "ELIZA",
-          "url": "https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8"
-        },
-        {
-          "name": "Ahadadream",
-          "url": "https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW"
-        }
-      ],
-      "duration_ms": 203641,
-      "name": "Abandon the Rule (Ahadadream Remix)",
-      "url": "https://open.spotify.com/track/1gFEnblSy4QfaYSviKgdY5"
+      "duration_ms": 183247,
+      "name": "Body On Me",
+      "url": "https://open.spotify.com/track/0ozaKPquX6l8I7DCy7JfGC"
     },
     {
       "added_at": "2023-05-05 07:39:01",
@@ -687,6 +623,22 @@
       "duration_ms": 360015,
       "name": "Indoda no Sisi",
       "url": "https://open.spotify.com/track/1wJnVOfKk3GUMgj8THsFNP"
+    },
+    {
+      "added_at": "2023-05-11 21:59:00",
+      "album": {
+        "name": "I Know Your Present",
+        "url": "https://open.spotify.com/album/709nDzklqvM2wkTRF7Gqkt"
+      },
+      "artists": [
+        {
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+        }
+      ],
+      "duration_ms": 229743,
+      "name": "I Know Your Present",
+      "url": "https://open.spotify.com/track/3ii9uGCjFToAW2KnjxV34P"
     },
     {
       "added_at": "2023-05-05 07:39:01",
@@ -929,6 +881,22 @@
       "url": "https://open.spotify.com/track/5fbgFotZD68RuoPM0JmJe6"
     },
     {
+      "added_at": "2023-05-11 21:59:00",
+      "album": {
+        "name": "fund$",
+        "url": "https://open.spotify.com/album/2ijUGC3jwcZO6lNLDdEcUR"
+      },
+      "artists": [
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 152093,
+      "name": "fund$",
+      "url": "https://open.spotify.com/track/2zsWUr91K3TIdnzWb0XOmI"
+    },
+    {
       "added_at": "2023-05-05 07:39:01",
       "album": {
         "name": "Imikhuleko",
@@ -947,6 +915,50 @@
       "duration_ms": 404000,
       "name": "Imikhuleko",
       "url": "https://open.spotify.com/track/1dztH332bWfzJLWLtjseLy"
+    },
+    {
+      "added_at": "2023-05-11 21:59:00",
+      "album": {
+        "name": "House of Blessings",
+        "url": "https://open.spotify.com/album/4H1TPi17rOWuI20AcQWqbg"
+      },
+      "artists": [
+        {
+          "name": "Mobi Dixon",
+          "url": "https://open.spotify.com/artist/5gVxephJtTx5uMF26ZVptW"
+        },
+        {
+          "name": "Dj Vitoto",
+          "url": "https://open.spotify.com/artist/524gUtNcH1gtVnb9W9oifD"
+        },
+        {
+          "name": "Verseless",
+          "url": "https://open.spotify.com/artist/2kXwMFHdIbk3FVjJe9XOXM"
+        }
+      ],
+      "duration_ms": 353305,
+      "name": "House of Blessings",
+      "url": "https://open.spotify.com/track/7u0aML7np1BV7x0SPtL0UI"
+    },
+    {
+      "added_at": "2023-05-11 21:59:00",
+      "album": {
+        "name": "Bendingekho",
+        "url": "https://open.spotify.com/album/1M5aIsAAPAGIBHLguH9gJh"
+      },
+      "artists": [
+        {
+          "name": "Cheyne Christia",
+          "url": "https://open.spotify.com/artist/7FCHhOf30f7ecFcgellK3C"
+        },
+        {
+          "name": "Toshi",
+          "url": "https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK"
+        }
+      ],
+      "duration_ms": 410000,
+      "name": "Bendingekho",
+      "url": "https://open.spotify.com/track/4W3eiUrtafcLWIuIlgr2NX"
     },
     {
       "added_at": "2023-05-05 07:39:01",
@@ -977,6 +989,46 @@
       "url": "https://open.spotify.com/track/7lgy8iWckkQZx1p2xFF6yc"
     },
     {
+      "added_at": "2023-05-11 21:59:00",
+      "album": {
+        "name": "Benjamin's Bridge",
+        "url": "https://open.spotify.com/album/1EvFHean8eiMvwB5WT7avv"
+      },
+      "artists": [
+        {
+          "name": "Frigid Armadillo",
+          "url": "https://open.spotify.com/artist/6IWmSzycuN6VEXbSE2r83i"
+        }
+      ],
+      "duration_ms": 441875,
+      "name": "Benjamin's Bridge",
+      "url": "https://open.spotify.com/track/7eKMhLssS2sj9TgQ5zooHA"
+    },
+    {
+      "added_at": "2023-05-05 07:39:01",
+      "album": {
+        "name": "Amazwe",
+        "url": "https://open.spotify.com/album/7IfMgn8QQ7GSVJTAuXJRmO"
+      },
+      "artists": [
+        {
+          "name": "Emanuele Esposito",
+          "url": "https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU"
+        },
+        {
+          "name": "Claudia Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0n6py2ZuBUL7f2qYjaAUTh"
+        },
+        {
+          "name": "Lizwi",
+          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
+        }
+      ],
+      "duration_ms": 440655,
+      "name": "Amazwe",
+      "url": "https://open.spotify.com/track/5oXLWzm5AFy5EJp9UqYk7y"
+    },
+    {
       "added_at": "2023-05-05 07:39:01",
       "album": {
         "name": "Lobela",
@@ -999,22 +1051,22 @@
     {
       "added_at": "2023-05-05 07:39:01",
       "album": {
-        "name": "Where You Are",
-        "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
+        "name": "When I'm Alone",
+        "url": "https://open.spotify.com/album/4UMsTVhkLkDmUj02ttuAva"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "GoldFish",
+          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
         },
         {
-          "name": "Hayla",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Where You Are",
-      "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
+      "duration_ms": 200200,
+      "name": "When I'm Alone",
+      "url": "https://open.spotify.com/track/5WwnSIlom58yAxG4j2EVRK"
     },
     {
       "added_at": "2023-05-05 07:39:01",
@@ -1063,70 +1115,6 @@
       "duration_ms": 322400,
       "name": "Asanda",
       "url": "https://open.spotify.com/track/4iq6mQd3Hkj1BUYC09t3rP"
-    },
-    {
-      "added_at": "2023-05-05 07:39:01",
-      "album": {
-        "name": "Amazwe",
-        "url": "https://open.spotify.com/album/7IfMgn8QQ7GSVJTAuXJRmO"
-      },
-      "artists": [
-        {
-          "name": "Emanuele Esposito",
-          "url": "https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU"
-        },
-        {
-          "name": "Claudia Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0n6py2ZuBUL7f2qYjaAUTh"
-        },
-        {
-          "name": "Lizwi",
-          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
-        }
-      ],
-      "duration_ms": 440655,
-      "name": "Amazwe",
-      "url": "https://open.spotify.com/track/5oXLWzm5AFy5EJp9UqYk7y"
-    },
-    {
-      "added_at": "2023-05-05 07:39:01",
-      "album": {
-        "name": "My Bills (feat. FEYI)",
-        "url": "https://open.spotify.com/album/464yUiXI1Z48DbS4pENIFE"
-      },
-      "artists": [
-        {
-          "name": "Riton",
-          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
-        },
-        {
-          "name": "FEYI",
-          "url": "https://open.spotify.com/artist/2E41RSTUOR7CBYbfzXYI2t"
-        }
-      ],
-      "duration_ms": 200565,
-      "name": "My Bills (feat. FEYI)",
-      "url": "https://open.spotify.com/track/7MAtWjiry7hxPJEGlhoYtb"
-    },
-    {
-      "added_at": "2023-05-05 07:39:01",
-      "album": {
-        "name": "When I'm Alone",
-        "url": "https://open.spotify.com/album/4UMsTVhkLkDmUj02ttuAva"
-      },
-      "artists": [
-        {
-          "name": "GoldFish",
-          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
-        },
-        {
-          "name": "\u0141aszewo",
-          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
-        }
-      ],
-      "duration_ms": 200200,
-      "name": "When I'm Alone",
-      "url": "https://open.spotify.com/track/5WwnSIlom58yAxG4j2EVRK"
     }
   ],
   "unique_name": "mint South Africa",

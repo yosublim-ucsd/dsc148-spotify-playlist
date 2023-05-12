@@ -1,13 +1,33 @@
 {
-  "description": "Praise and worship from East Africa. Your ultimate Swahili Spiritual nourishment here. Cover <a href=\"https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO\">Walter Chilambo</a>",
-  "num_followers": 2899,
+  "description": "Praise and worship from East Africa. Your ultimate Swahili Spiritual nourishment here. Cover <a href=\"https://open.spotify.com/artist/6worshay3dx3NqPNl8PRSw\">Mr Seed</a>",
+  "num_followers": 2902,
   "original_name": "Swahili Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWFjYjM0NGUzMTJjMzZhZmQyNWQ0OGJmMDViODY2MWEyZGYwN2Vk",
+  "snapshot_id": "MCw0NzEzZDM3OWQyNTA2NGRmZThjMzQ4ZTdmM2Q0M2QxOTk5NDEzOGFk",
   "tracks": [
+    {
+      "added_at": "2023-05-12 00:01:00",
+      "album": {
+        "name": "Usiniache (Remix)",
+        "url": "https://open.spotify.com/album/2uzf8hKInIrYTMqqbLmez2"
+      },
+      "artists": [
+        {
+          "name": "Mr Seed",
+          "url": "https://open.spotify.com/artist/6worshay3dx3NqPNl8PRSw"
+        },
+        {
+          "name": "Wanavokali",
+          "url": "https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP"
+        }
+      ],
+      "duration_ms": 270198,
+      "name": "Usiniache - Remix",
+      "url": "https://open.spotify.com/track/44mdd5TPUmYqrir91xg9bX"
+    },
     {
       "added_at": "2023-05-05 00:01:00",
       "album": {
@@ -63,6 +83,22 @@
       "duration_ms": 298004,
       "name": "Conduis mes pas",
       "url": "https://open.spotify.com/track/1zGlgkEa3sONbUQISvtGtO"
+    },
+    {
+      "added_at": "2023-05-12 00:01:00",
+      "album": {
+        "name": "Amua",
+        "url": "https://open.spotify.com/album/3r8SRWMxBde6awir8fXmca"
+      },
+      "artists": [
+        {
+          "name": "Alexis Zawadi",
+          "url": "https://open.spotify.com/artist/0GJoWcqZQlO9GH08zxkDN3"
+        }
+      ],
+      "duration_ms": 389015,
+      "name": "Amua",
+      "url": "https://open.spotify.com/track/4MJ9npZ1snF0HaquPpjqZV"
     },
     {
       "added_at": "2023-05-05 00:01:00",
@@ -987,38 +1023,6 @@
       "duration_ms": 347479,
       "name": "Neno Lako",
       "url": "https://open.spotify.com/track/5A06x01Ev8EL2FdJK5Fp8d"
-    },
-    {
-      "added_at": "2022-06-24 17:41:13",
-      "album": {
-        "name": "Uniongoze Yesu, Vol.4",
-        "url": "https://open.spotify.com/album/01mAHADPk1dOnHMBb1ILbx"
-      },
-      "artists": [
-        {
-          "name": "UPENDO NKONE",
-          "url": "https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n"
-        }
-      ],
-      "duration_ms": 490919,
-      "name": "Uniongoze Yesu",
-      "url": "https://open.spotify.com/track/2V5Bn7Mazl8A7jNQ4fdyTy"
-    },
-    {
-      "added_at": "2022-06-24 17:41:13",
-      "album": {
-        "name": "Wewe Ni Zaidi",
-        "url": "https://open.spotify.com/album/6twPp6yBQOTyAevVPbUZj1"
-      },
-      "artists": [
-        {
-          "name": "Erick Smith",
-          "url": "https://open.spotify.com/artist/2DyY70tIr0laRzbYBA7bLg"
-        }
-      ],
-      "duration_ms": 303125,
-      "name": "Patakatifu Pako",
-      "url": "https://open.spotify.com/track/0A5iR3HinWss1nwGvGn0hB"
     }
   ],
   "unique_name": "Swahili Praise",

@@ -4,7 +4,7 @@
 
 > Our editors' picks for the best Rock & Alternative songs this year\. Cover: WILLOW \#SpotifyWrapped
 
-242 songs - 13 hr 27 min
+243 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [I Want to Kill You](https://open.spotify.com/track/0OXhSUVqN5Syxv2Y1NHa1q) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Blue Sunday](https://open.spotify.com/album/5pjA3KtJvBUcbRxR1nQboG) | 3:12 | 2021-12-01 | 2022-07-29 |
 | [I Want to Kill You](https://open.spotify.com/track/3XqMdaXe3OhlFIwNHLCqty) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Glass Mix 1](https://open.spotify.com/album/5v2gm20CIuGkgALRnZoDqY) | 3:12 | 2021-12-01 | 2022-11-13 |
 | [I Want to Kill You](https://open.spotify.com/track/57XHBbh5lCsIdgStesXI4k) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Life In Your Glass World](https://open.spotify.com/album/07Pv7j17v7JX1NEbZidg84) | 3:12 | 2021-12-01 | 2022-12-01 |
-| [I.N.V.U.](https://open.spotify.com/track/4M2L2LaKETrZWHCIOolct7) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Here's What You Could Have Won \(Deluxe\)](https://open.spotify.com/album/5keOCrzujqEiUbtsf0mDq7) | 2:43 | 2022-11-30 |  |
+| [I.N.V.U.](https://open.spotify.com/track/4M2L2LaKETrZWHCIOolct7) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Here's What You Could Have Won \(Deluxe\)](https://open.spotify.com/album/5keOCrzujqEiUbtsf0mDq7) | 2:43 | 2022-11-30 | 2023-05-12 |
+| [I.N.V.U.](https://open.spotify.com/track/5f2d8tMWMoTlFaK9q9lJHO) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Here's What You Could Have Won](https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN) | 2:43 | 2022-11-30 |  |
 | [I.N.V.U.](https://open.spotify.com/track/6Lbn55HrUZHP5W0F2fqIh5) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Here’s What You Could Have Won](https://open.spotify.com/album/7xq7v7rW8L7QAgvw5i6Ig8) | 2:43 | 2022-11-30 | 2023-05-04 |
 | [In My Head](https://open.spotify.com/track/7jJKNG1a6J1EmovRTjGMb7) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [In My Head](https://open.spotify.com/album/63lqbNX9o5kx1msCb8LS0L) | 3:53 | 2021-12-01 | 2022-12-01 |
 | [In My Sleep](https://open.spotify.com/track/6jYgoiJu5ZMw4d8ma2fkJ9) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [It Won't Always Be Like This](https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu) | 4:11 | 2021-12-01 | 2022-12-01 |

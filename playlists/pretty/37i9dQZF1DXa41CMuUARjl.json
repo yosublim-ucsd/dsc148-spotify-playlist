@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from DJ Minx.",
-  "num_followers": 433714,
+  "num_followers": 433837,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTVmOGY3MmU0YTE1YTgzOTEwZWUyZDI3ODU2MTc0YjA2MWY0ZGI5",
+  "snapshot_id": "MCwwMjRmNGVlNzE1NzJiMzJjMjFiYTY4YmNhNzM0YjFiZjY0ZjgzNGQ2",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -643,26 +643,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Cuatro Vientos (HUGEL Version)",
-        "url": "https://open.spotify.com/album/7HngPNqj7MKGWGgJShs68v"
-      },
-      "artists": [
-        {
-          "name": "Danit",
-          "url": "https://open.spotify.com/artist/3Hue0QXHSHhpjbqWk3HmtY"
-        },
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        }
-      ],
-      "duration_ms": 185624,
-      "name": "Cuatro Vientos (HUGEL Version)",
-      "url": "https://open.spotify.com/track/44SiXnPPTR872JUl1gdJ7x"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Golden Years (TOKiMONSTA Remix)",
         "url": "https://open.spotify.com/album/370rX8pnkJuSCFBNnUHQWp"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 181636,
       "name": "Golden Years - TOKiMONSTA Remix",
       "url": "https://open.spotify.com/track/6m4C4gtiienQVNSWJ1JuU8"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Cuatro Vientos (HUGEL Version)",
+        "url": "https://open.spotify.com/album/7HngPNqj7MKGWGgJShs68v"
+      },
+      "artists": [
+        {
+          "name": "Danit",
+          "url": "https://open.spotify.com/artist/3Hue0QXHSHhpjbqWk3HmtY"
+        },
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "duration_ms": 185624,
+      "name": "Cuatro Vientos (HUGEL Version)",
+      "url": "https://open.spotify.com/track/44SiXnPPTR872JUl1gdJ7x"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Give Me All Your Love",
+        "url": "https://open.spotify.com/album/0EjJJumyfg5wGLZ4ZMvVf0"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+        }
+      ],
+      "duration_ms": 188922,
+      "name": "Give Me All Your Love",
+      "url": "https://open.spotify.com/track/6USdIZ3lJQ6R0sYVLZYKBA"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Stop Calling",
         "url": "https://open.spotify.com/album/3N4UJuLsAA8qh2rKRUlNX6"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 255609,
       "name": "Stop Calling",
       "url": "https://open.spotify.com/track/09JhSbew1W0vlnqiTPCfUb"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Give Me All Your Love",
-        "url": "https://open.spotify.com/album/0EjJJumyfg5wGLZ4ZMvVf0"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
-        }
-      ],
-      "duration_ms": 188922,
-      "name": "Give Me All Your Love",
-      "url": "https://open.spotify.com/track/6USdIZ3lJQ6R0sYVLZYKBA"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Born Digital",
-        "url": "https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2"
-      },
-      "artists": [
-        {
-          "name": "Pretty Pink",
-          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/6y9uy5BOQcQ74oD3UpiK0S"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "4AM",
         "url": "https://open.spotify.com/album/2fCPvN2dD4g2AMhoyyNPaW"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 267842,
       "name": "Fading",
       "url": "https://open.spotify.com/track/6a6ukMkLFXcWvqP0fdlDfZ"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Born Digital",
+        "url": "https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2"
+      },
+      "artists": [
+        {
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/6y9uy5BOQcQ74oD3UpiK0S"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "COUNTRY RIDDIM VIP",
-        "url": "https://open.spotify.com/album/6P8KsYy2DkCv6hhNaTYZqV"
-      },
-      "artists": [
-        {
-          "name": "HOL!",
-          "url": "https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB"
-        }
-      ],
-      "duration_ms": 177931,
-      "name": "COUNTRY RIDDIM VIP",
-      "url": "https://open.spotify.com/track/12P4d5GXxU1dnXNoAQjBAf"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Bring The Heat",
         "url": "https://open.spotify.com/album/48oAYz2T9Iesq20OIMXNBK"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 157440,
       "name": "Bring The Heat",
       "url": "https://open.spotify.com/track/6jWloOddI8GE5qZXu7sir9"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "COUNTRY RIDDIM VIP",
+        "url": "https://open.spotify.com/album/6P8KsYy2DkCv6hhNaTYZqV"
+      },
+      "artists": [
+        {
+          "name": "HOL!",
+          "url": "https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB"
+        }
+      ],
+      "duration_ms": 177931,
+      "name": "COUNTRY RIDDIM VIP",
+      "url": "https://open.spotify.com/track/12P4d5GXxU1dnXNoAQjBAf"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Say You Love Me",
-        "url": "https://open.spotify.com/album/0JmVjpgQ3LdRGLh7i6IS43"
-      },
-      "artists": [
-        {
-          "name": "Keys N Krates",
-          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
-        }
-      ],
-      "duration_ms": 236129,
-      "name": "Say You Love Me",
-      "url": "https://open.spotify.com/track/1dg1cs83LaQwpfM39tA1Hd"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Today Tomorrow Forever (feat. fknsyd)",
         "url": "https://open.spotify.com/album/1VgJyKFCcLgcvySnERuPU3"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 155175,
       "name": "Today Tomorrow Forever (feat. fknsyd)",
       "url": "https://open.spotify.com/track/0907JRHmG6lj8yGdPom1HV"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Say You Love Me",
+        "url": "https://open.spotify.com/album/0JmVjpgQ3LdRGLh7i6IS43"
+      },
+      "artists": [
+        {
+          "name": "Keys N Krates",
+          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
+        }
+      ],
+      "duration_ms": 236129,
+      "name": "Say You Love Me",
+      "url": "https://open.spotify.com/track/1dg1cs83LaQwpfM39tA1Hd"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1207,30 +1207,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Cutting Ribbons (feat. Paul Brenning)",
-        "url": "https://open.spotify.com/album/0dyvhEKGtheznpjjPZ0Ub3"
-      },
-      "artists": [
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        },
-        {
-          "name": "Monnarsh",
-          "url": "https://open.spotify.com/artist/2shdnmTdFi3RxMa5OGOPRj"
-        },
-        {
-          "name": "Paul Brenning",
-          "url": "https://open.spotify.com/artist/4LJbPEKdCcfzE1x0GhUnL6"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Cutting Ribbons (feat. Paul Brenning)",
-      "url": "https://open.spotify.com/track/72qQf918A43mrhddO8Hp9G"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Horizon Red (Black Coffee Remix)",
         "url": "https://open.spotify.com/album/31LCf0hztvBsdB0HB5T2TC"
       },
@@ -1251,6 +1227,30 @@
       "duration_ms": 565063,
       "name": "Horizon Red - Black Coffee Remix",
       "url": "https://open.spotify.com/track/5iBtd2rolPOVUHB2E43Z66"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Cutting Ribbons (feat. Paul Brenning)",
+        "url": "https://open.spotify.com/album/0dyvhEKGtheznpjjPZ0Ub3"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "Monnarsh",
+          "url": "https://open.spotify.com/artist/2shdnmTdFi3RxMa5OGOPRj"
+        },
+        {
+          "name": "Paul Brenning",
+          "url": "https://open.spotify.com/artist/4LJbPEKdCcfzE1x0GhUnL6"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Cutting Ribbons (feat. Paul Brenning)",
+      "url": "https://open.spotify.com/track/72qQf918A43mrhddO8Hp9G"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Bored",
-        "url": "https://open.spotify.com/album/64RY3WoNtQIbPjfH69eiW5"
-      },
-      "artists": [
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 194285,
-      "name": "Bored",
-      "url": "https://open.spotify.com/track/3yVHTc8ngdOPbNLJRJNrCB"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Ibiza Sky",
         "url": "https://open.spotify.com/album/037IvHwQQZciy1bn85NvXd"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 166451,
       "name": "Ibiza Sky",
       "url": "https://open.spotify.com/track/6TLKDxEM5wllCAxwln9MiT"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Bored",
+        "url": "https://open.spotify.com/album/64RY3WoNtQIbPjfH69eiW5"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/3yVHTc8ngdOPbNLJRJNrCB"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "The Good, the Bad & the Acid EP",
+        "url": "https://open.spotify.com/album/3AXgzzTRYTwGzyIsySrzjq"
+      },
+      "artists": [
+        {
+          "name": "Anja Schneider",
+          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
+        }
+      ],
+      "duration_ms": 427058,
+      "name": "Hoover Disco",
+      "url": "https://open.spotify.com/track/5ZDN5YnJzs3811v0wC5Keq"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Bulldozer",
         "url": "https://open.spotify.com/album/3mmGpsFRLodEWkK3kmBsHt"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 301950,
       "name": "Bulldozer",
       "url": "https://open.spotify.com/track/63aJ6gi41fLZdmd29AMi01"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "The Good, the Bad & the Acid EP",
-        "url": "https://open.spotify.com/album/3AXgzzTRYTwGzyIsySrzjq"
-      },
-      "artists": [
-        {
-          "name": "Anja Schneider",
-          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
-        }
-      ],
-      "duration_ms": 427058,
-      "name": "Hoover Disco",
-      "url": "https://open.spotify.com/track/5ZDN5YnJzs3811v0wC5Keq"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Short Term Agreement",
-        "url": "https://open.spotify.com/album/0vY4bhdPZInooe1bqsFGA8"
-      },
-      "artists": [
-        {
-          "name": "NxxxxxS",
-          "url": "https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "external meMories",
-      "url": "https://open.spotify.com/track/1H9WjQBIXGw05iJ5Ju3wPY"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/5s21XVqI0I31porPGWJ97T"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 207619,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4o9qh1t4OlY0CiuTNwhMiG"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Short Term Agreement",
+        "url": "https://open.spotify.com/album/0vY4bhdPZInooe1bqsFGA8"
+      },
+      "artists": [
+        {
+          "name": "NxxxxxS",
+          "url": "https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "external meMories",
+      "url": "https://open.spotify.com/track/1H9WjQBIXGw05iJ5Ju3wPY"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Maze of Thoughts",
-        "url": "https://open.spotify.com/album/62y8ZjFqFsYJqAj1CUdlB7"
-      },
-      "artists": [
-        {
-          "name": "SKALA",
-          "url": "https://open.spotify.com/artist/43hoEqOilY8CNQ3hzms5Pq"
-        }
-      ],
-      "duration_ms": 387330,
-      "name": "Maze of Thoughts",
-      "url": "https://open.spotify.com/track/0A3FdqBzKXWc8xkkcfDaVi"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "L.O.C.",
         "url": "https://open.spotify.com/album/06tcSzwgaQTwOwmxIUcU9J"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 212598,
       "name": "Papi",
       "url": "https://open.spotify.com/track/0SmL6t4DXfjEsTiGtTEUSV"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Maze of Thoughts",
+        "url": "https://open.spotify.com/album/62y8ZjFqFsYJqAj1CUdlB7"
+      },
+      "artists": [
+        {
+          "name": "SKALA",
+          "url": "https://open.spotify.com/artist/43hoEqOilY8CNQ3hzms5Pq"
+        }
+      ],
+      "duration_ms": 387330,
+      "name": "Maze of Thoughts",
+      "url": "https://open.spotify.com/track/0A3FdqBzKXWc8xkkcfDaVi"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/6Wc34FgDvGx421Y63H84xy"
-      },
-      "artists": [
-        {
-          "name": "Ashibah",
-          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
-        }
-      ],
-      "duration_ms": 262440,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/7xopeSjmiRe2jUf6Zqn1I2"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Vagabundo",
         "url": "https://open.spotify.com/album/2uTIdWSOHGVMRZCqiwiFnf"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 179016,
       "name": "Vagabundo",
       "url": "https://open.spotify.com/track/3uLynUSa4QbqlVm4m0iN7t"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/6Wc34FgDvGx421Y63H84xy"
+      },
+      "artists": [
+        {
+          "name": "Ashibah",
+          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
+        }
+      ],
+      "duration_ms": 262440,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/7xopeSjmiRe2jUf6Zqn1I2"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Space Girl Finds Cash",
-        "url": "https://open.spotify.com/album/5zmdu8WjRppE3XxU5FeHQK"
-      },
-      "artists": [
-        {
-          "name": "K\u00c9DU CARL\u00d6",
-          "url": "https://open.spotify.com/artist/5FdNimxRznD7ZK6LR5VTJC"
-        }
-      ],
-      "duration_ms": 296200,
-      "name": "Space Girl Finds Cash",
-      "url": "https://open.spotify.com/track/1D77tiJp6af1tzcc1rWlHJ"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Suddenly",
         "url": "https://open.spotify.com/album/5InSDDHUlj5QDYrGPnoah0"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 216050,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/6y4HoJweIEYqgeBit89kJ9"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Space Girl Finds Cash",
+        "url": "https://open.spotify.com/album/5zmdu8WjRppE3XxU5FeHQK"
+      },
+      "artists": [
+        {
+          "name": "K\u00c9DU CARL\u00d6",
+          "url": "https://open.spotify.com/artist/5FdNimxRznD7ZK6LR5VTJC"
+        }
+      ],
+      "duration_ms": 296200,
+      "name": "Space Girl Finds Cash",
+      "url": "https://open.spotify.com/track/1D77tiJp6af1tzcc1rWlHJ"
     },
     {
       "added_at": "2023-05-05 04:00:00",

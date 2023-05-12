@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: The Hives
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,257 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,362 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 7 | [Meet You There 2.0](https://open.spotify.com/track/2VXnCZzPB9lOm19D1TDX0S) | [Busted](https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj), [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Meet You There 2.0](https://open.spotify.com/album/0jKCIVawS2LS6yUl24YNdb) | 3:22 |
 | 8 | [don’t call me pretty](https://open.spotify.com/track/6XV4GwRq92E9N3MmXxuxLy) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [don’t call me pretty](https://open.spotify.com/album/02EVktWJJ2yuJs2Q1eqiSB) | 3:01 |
 | 9 | [Tiny Bodyguard](https://open.spotify.com/track/13tEx6NbqfeK7EQpgX7crA) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Tiny Bodyguard](https://open.spotify.com/album/3Fmh7OTgaDrAsHrWsMQFwF) | 3:05 |
-| 10 | [Win Win \(feat\. Scene Queen\)](https://open.spotify.com/track/2jRciInArYaE7ON8RkUD8Q) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k), [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Win Win \(feat\. Scene Queen\)](https://open.spotify.com/album/4cZMnC7tAJ4WOAZz93WL1g) | 2:46 |
+| 10 | [Win Win](https://open.spotify.com/track/2jRciInArYaE7ON8RkUD8Q) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k), [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Win Win](https://open.spotify.com/album/4cZMnC7tAJ4WOAZz93WL1g) | 2:46 |
 | 11 | [Man Eater](https://open.spotify.com/track/0ZikvJRmzTEYfd0aEodK56) | [Rivals](https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR) | [Man Eater](https://open.spotify.com/album/00dHB22TFstNirQVZITmp4) | 2:59 |
 | 12 | [Face Down](https://open.spotify.com/track/1hffzLWNeFthnUP4z01EPm) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Face Down](https://open.spotify.com/album/6MqOFiLK1FG5b7jy7JLtp6) | 3:39 |
 | 13 | [More Like A Crash](https://open.spotify.com/track/0kivfSdz7h9yFcEHQtXfl0) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [More Like A Crash](https://open.spotify.com/album/2DyMGVtYtOKtPtXovMEyf0) | 2:47 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 59 | [I Need You](https://open.spotify.com/track/1wnGJKdiuoi3UL5FxyXypN) | [Olivia Jean](https://open.spotify.com/artist/4elV7QXSkvQNskYUEc5SFe) | [Raving Ghost](https://open.spotify.com/album/381q4MbSXI4QBKA7YcfADA) | 3:39 |
 | 60 | [Shallow](https://open.spotify.com/track/2oxTPwAwritjHE4kEozC6s) | [Ivory Daze](https://open.spotify.com/artist/0gtcrCkCaPgofVRe0oF1wV) | [Doing Just Great](https://open.spotify.com/album/2rS8iIB8gyTHmUwElQWu42) | 5:02 |
 
-Snapshot ID: `MCwwZGU2MGFlZWU3NzA1NGRiNzVjMGNmM2IyYzVmYTg2ZmQwYzU1NWZk`
+Snapshot ID: `MCw5NjNjNzYwMmRkOGU5NTU2NDE5NjYxMmRlMjBhZjY0ZDAwM2JhMzNm`

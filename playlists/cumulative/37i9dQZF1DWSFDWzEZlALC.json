@@ -269,6 +269,42 @@
     },
     {
       "album": {
+        "name": "Wiener Schickeria",
+        "url": "https://open.spotify.com/album/4czKDXmW22XoBTHqHQ6xha"
+      },
+      "artists": [
+        {
+          "name": "BIBIZA",
+          "url": "https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166405,
+      "name": "Akademie der bildenden K\u00fcnste",
+      "url": "https://open.spotify.com/track/2Fdlm11Yt6g7Hk9CRKZGqq"
+    },
+    {
+      "album": {
+        "name": "Wie Fr\u00fchling Nach Dem Winter",
+        "url": "https://open.spotify.com/album/0Z1Q9Og7qDEJ07SWadjj7G"
+      },
+      "artists": [
+        {
+          "name": "STEEZY",
+          "url": "https://open.spotify.com/artist/7qrYjRiwMxIIxbuvVyVIeL"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Alleine",
+      "url": "https://open.spotify.com/track/2G7JyHa497orziosrX1662"
+    },
+    {
+      "album": {
         "name": "Alles Nur Gelogen",
         "url": "https://open.spotify.com/album/5e3VemHQtqmNtpE6ENk4WF"
       },
@@ -468,7 +504,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 212480,
       "name": "Bialetti",
       "url": "https://open.spotify.com/track/7DQPKQGA9IEsaF9H3RtnT2"
@@ -684,7 +720,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 189000,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/4KYSMT1E0CxFCbwEyWnCk6"
@@ -973,6 +1009,28 @@
     },
     {
       "album": {
+        "name": "Du liegst falsch",
+        "url": "https://open.spotify.com/album/7r7ZFKFwpZx9yGqwZf4PaV"
+      },
+      "artists": [
+        {
+          "name": "PICOBELLO",
+          "url": "https://open.spotify.com/artist/5SM8lcCTSeeH63SdxpSoCu"
+        },
+        {
+          "name": "Resi Reiner",
+          "url": "https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174037,
+      "name": "Du liegst falsch",
+      "url": "https://open.spotify.com/track/3OKQKDJIIBRHvJbfyajUov"
+    },
+    {
+      "album": {
         "name": "Es ist Abend und wir sitzen bei mir",
         "url": "https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI"
       },
@@ -1132,7 +1190,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 164063,
       "name": "Einsame Insel",
       "url": "https://open.spotify.com/track/2I1VWBdyYPjkzldPoLUP76"
@@ -1168,7 +1226,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 178918,
       "name": "Eklig Hohe Mieten",
       "url": "https://open.spotify.com/track/764zM7lBdDnejx0VgufPM6"
@@ -1334,7 +1392,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 185148,
       "name": "Formel 1",
       "url": "https://open.spotify.com/track/54ikHw7TLMQN8YnOnKDVKA"
@@ -1388,7 +1446,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 180923,
       "name": "F\u00fcchse",
       "url": "https://open.spotify.com/track/6pYc06ZDKBe10F1q9jVvaM"
@@ -1931,6 +1989,24 @@
     },
     {
       "album": {
+        "name": "Ich Riech Gern An B\u00fcchern",
+        "url": "https://open.spotify.com/album/59BkwOdFeePDFjb5wKRhVx"
+      },
+      "artists": [
+        {
+          "name": "fiio",
+          "url": "https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212500,
+      "name": "Ich Riech Gern An B\u00fcchern",
+      "url": "https://open.spotify.com/track/2rUr2JheHPRs9bfDsyF6xk"
+    },
+    {
+      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/0SZdIldsAOSd4VxNMQ90S6"
       },
@@ -2074,6 +2150,24 @@
       "duration_ms": 152343,
       "name": "INTERNETFREUNDIN",
       "url": "https://open.spotify.com/track/50K4RtzfB7FNtFqImSpwEd"
+    },
+    {
+      "album": {
+        "name": "Ipanema",
+        "url": "https://open.spotify.com/album/7CFLwNNtjoMqGoig3DYiRF"
+      },
+      "artists": [
+        {
+          "name": "Ritter Lean",
+          "url": "https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110347,
+      "name": "Ipanema",
+      "url": "https://open.spotify.com/track/1JCQBstFdEqihwKhh8QVUV"
     },
     {
       "album": {
@@ -2414,7 +2508,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 175973,
       "name": "Lass Sie Reden",
       "url": "https://open.spotify.com/track/13aLB1KmkCh52On7ASZMQo"
@@ -2610,6 +2704,24 @@
       "duration_ms": 148979,
       "name": "love yourself, fucked up",
       "url": "https://open.spotify.com/track/3t9ntfDycPiCLmMD6Za938"
+    },
+    {
+      "album": {
+        "name": "luft",
+        "url": "https://open.spotify.com/album/0443CWxTqpmpgwgQaCAuJP"
+      },
+      "artists": [
+        {
+          "name": "Apollo Sissi",
+          "url": "https://open.spotify.com/artist/3rx1CQwe0iyA3d2q1renfJ"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133930,
+      "name": "luft",
+      "url": "https://open.spotify.com/track/3iJwbqJcWHhMOfvPku8DY1"
     },
     {
       "album": {
@@ -2845,6 +2957,24 @@
     },
     {
       "album": {
+        "name": "LEVIN LIAM LEAKS 2023",
+        "url": "https://open.spotify.com/album/4BssOFPrpM2urmZK7JOQ43"
+      },
+      "artists": [
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92630,
+      "name": "Niemals Hatten",
+      "url": "https://open.spotify.com/track/7waaOnxlxV89bfwToXa5z3"
+    },
+    {
+      "album": {
         "name": "Nirvana",
         "url": "https://open.spotify.com/album/6l917ziBG07nTM0CDjAxwb"
       },
@@ -2910,7 +3040,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 138056,
       "name": "One Call away <3",
       "url": "https://open.spotify.com/track/0c1NsAvtTncDw7TlPB7Nkh"
@@ -3134,7 +3264,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 242520,
       "name": "Regen",
       "url": "https://open.spotify.com/track/0N04TB81H5OxuhPq2qURSp"
@@ -3174,6 +3304,24 @@
       "duration_ms": 174546,
       "name": "Rimini",
       "url": "https://open.spotify.com/track/2JNIWfyUG8AXC2staqyay5"
+    },
+    {
+      "album": {
+        "name": "Rote Pille, blaue Pille",
+        "url": "https://open.spotify.com/album/4PNGcmEcEo3FTtUp6ss9GL"
+      },
+      "artists": [
+        {
+          "name": "Flinte",
+          "url": "https://open.spotify.com/artist/3ZqXNocGLSBgDcpM2QyQMS"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163773,
+      "name": "Rote Pille, blaue Pille",
+      "url": "https://open.spotify.com/track/2hnfsmf3vy0eYDOJF6OAt5"
     },
     {
       "album": {
@@ -3307,6 +3455,24 @@
     },
     {
       "album": {
+        "name": "So bin ich halt / blablabla",
+        "url": "https://open.spotify.com/album/5g0qVROyAjzBdxShAaWFdT"
+      },
+      "artists": [
+        {
+          "name": "Katha Pauer",
+          "url": "https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130720,
+      "name": "So bin ich halt / blablabla",
+      "url": "https://open.spotify.com/track/6utOJJy9KE3GxeIeAMAS9H"
+    },
+    {
+      "album": {
         "name": "So weit weg wie es geht",
         "url": "https://open.spotify.com/album/1feJ34aoU1PdXqysjmWZxN"
       },
@@ -3390,7 +3556,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 122960,
       "name": "Spiegelbild",
       "url": "https://open.spotify.com/track/3cubpQ3kOp2Pm32YoSjpva"
@@ -3590,6 +3756,24 @@
       "duration_ms": 212142,
       "name": "Toskana",
       "url": "https://open.spotify.com/track/5NOoDGg7oeM9MS7nTyM4Yf"
+    },
+    {
+      "album": {
+        "name": "Trostpflaster",
+        "url": "https://open.spotify.com/album/4aGnarb1U7fQ5qyJeuha0K"
+      },
+      "artists": [
+        {
+          "name": "futurebae",
+          "url": "https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173928,
+      "name": "Trostpflaster",
+      "url": "https://open.spotify.com/track/3Xh27rfmgbJIIY7y9MStWW"
     },
     {
       "album": {
@@ -4088,7 +4272,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 170434,
       "name": "Wie Du",
       "url": "https://open.spotify.com/track/1HQVrKIUKAF6pq1JYqNMzS"

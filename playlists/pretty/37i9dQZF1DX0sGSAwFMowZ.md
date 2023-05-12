@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sGSAwFMowZ.md) - [plain]
 
 > This Is Girls' Generation\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,099 likes - 149 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,146 likes - 149 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sGSAwFMowZ.md) - [plain]
 | 148 | [Into the New World](https://open.spotify.com/track/24Gy6lVtCd8nOL2vzZiFyV) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Into the New World](https://open.spotify.com/album/6EmLwnyjJRVgNOmOUpVhzz) | 4:27 |
 | 149 | [Beginning](https://open.spotify.com/track/4eHSzjSlnTUUDQqDW9i3Mf) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Into the New World](https://open.spotify.com/album/6EmLwnyjJRVgNOmOUpVhzz) | 3:04 |
 
-Snapshot ID: `MCxiMjU3NjcxZjY1YjZlMTdjMTRhNWRlODA5Y2I0NTFlMTk2NDA3MzEz`
+Snapshot ID: `MCxjYmExODgwZjU2NWQ5M2ExZjg5YTQ0MzAxMjQwNjg4NjdkNzE1YmY1`

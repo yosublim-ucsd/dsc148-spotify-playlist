@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: 4EVE
+> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: TIGGER, Aheye of 4EVE
 
-328 songs - 19 hr 46 min
+330 songs - 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Boutchya \- Thai Version](https://open.spotify.com/track/2HH3EYgwHjM8ama77pYtNu) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Boutchya \(Thai Version\)](https://open.spotify.com/album/7Elaz3IhrcFd3MGflDiSgt) | 3:20 | 2022-07-24 | 2022-08-12 |
 | [Boys Like You](https://open.spotify.com/track/1VyRhsi6GfBusI1Vb061s4) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [Boys Like You](https://open.spotify.com/album/1oslIjeU0faXGgimWvmL4l) | 3:43 | 2022-08-31 | 2022-09-24 |
 | [CATCH THE NIGHT](https://open.spotify.com/track/0KWD90TVkrA0kyKW9MewrZ) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [CATCH THE NIGHT](https://open.spotify.com/album/0tdfeZTire8YkmYCBOTOJn) | 3:08 | 2023-03-09 | 2023-03-25 |
+| [Chemistry](https://open.spotify.com/track/1wcdlx2wRHr9v2dROco63B) | [THE7](https://open.spotify.com/artist/76P1bgqm0Ign9ZDfSjBSbc) | [Chemistry](https://open.spotify.com/album/56zGZcFnTyn8Vjxn4nY5Vm) | 3:28 | 2023-05-11 |  |
 | [Chop Chop! \(รีบไปรีบมา\)](https://open.spotify.com/track/6M8nx5vDof89UySjbL8KPM) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [Chop Chop! \(รีบไปรีบมา\)](https://open.spotify.com/album/5cG51iqdsWcuZ5BGmEumN5) | 2:58 | 2022-09-02 | 2022-09-16 |
 | [Closer \(Clothes Off\)](https://open.spotify.com/track/23siAc5fhlQ0CnWeXDTdI2) | [Matcha](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Closer \(Clothes Off\)](https://open.spotify.com/album/6GBRwdee7lE4S0OLAwary7) | 3:15 | 2023-05-02 | 2023-05-11 |
 | [Complicated](https://open.spotify.com/track/127yslRWWqtCGIYlkb9es2) | [Matcha](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Complicated](https://open.spotify.com/album/1X4ePQhsh9fOOz3944bxuR) | 3:01 | 2022-09-08 | 2022-09-16 |
@@ -31,7 +32,7 @@
 | [Gone Gurl](https://open.spotify.com/track/2iD5UfAQlZQulHzgaV1BKW) | [Fyeqoodgurl](https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc) | [Gone Gurl](https://open.spotify.com/album/4KLCiY1OGHlSKrTsIwpJUY) | 3:15 | 2022-06-09 | 2022-08-06 |
 | [good boy](https://open.spotify.com/track/3hVbL6BkM5rbRzozafghgh) | [KJ](https://open.spotify.com/artist/5VsLrcMVUw2PUCqAQNPXtn) | [good boy](https://open.spotify.com/album/50oaCQAz9HH45u4SPUWcmx) | 3:21 | 2022-07-14 | 2022-11-18 |
 | [Heartbeat](https://open.spotify.com/track/3GmTi7ToFhnHLDKNo92lIr) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [Heartbeat](https://open.spotify.com/album/0ZWAzqTKLDjSRyubKzYOTs) | 3:05 | 2022-10-07 | 2022-10-27 |
-| [HI YA YA \(แค่มีเธอ\)](https://open.spotify.com/track/45Byir0bemNjJFxHLx8Lir) | [4MIX](https://open.spotify.com/artist/7KLf6fRWodKmnPducVKvbX) | [HI YA YA \(แค่มีเธอ\)](https://open.spotify.com/album/5839gv3g8G9jrqgtG6E3hE) | 3:09 | 2023-04-27 |  |
+| [HI YA YA \(แค่มีเธอ\)](https://open.spotify.com/track/45Byir0bemNjJFxHLx8Lir) | [4MIX](https://open.spotify.com/artist/7KLf6fRWodKmnPducVKvbX) | [HI YA YA \(แค่มีเธอ\)](https://open.spotify.com/album/5839gv3g8G9jrqgtG6E3hE) | 3:09 | 2023-04-27 | 2023-05-12 |
 | [HOT & COLD \(ร้อนๆ หนาวๆ\)](https://open.spotify.com/track/32VqVoLwv5FASA9Ih00IY9) | [4MIX](https://open.spotify.com/artist/7KLf6fRWodKmnPducVKvbX) | [HOT & COLD \(ร้อนๆ หนาวๆ\)](https://open.spotify.com/album/5w0HUap5EkEsRvE00XwUvB) | 3:31 | 2022-11-11 | 2022-11-18 |
 | [I DON'T KNOW](https://open.spotify.com/track/2phiE1WK9XCqgumBH4AKuo) | [GRACE](https://open.spotify.com/artist/07QhtaY2Bl5FNhrWTVycwr) | [I DON'T KNOW](https://open.spotify.com/album/4iL1Ec3VImGfbjOWih4IRd) | 3:00 | 2022-09-29 | 2022-10-08 |
 | [I DON'T MISS YOU](https://open.spotify.com/track/0Xv1iMu2DaRL7R7g7dhQIa) | [TRINITY](https://open.spotify.com/artist/70iyLnJ4uH2zMmLLdGM9oM) | [I DON'T MISS YOU](https://open.spotify.com/album/58Yq6ydlcwCNCmoHmyHxuC) | 3:27 | 2022-05-26 | 2022-06-17 |
@@ -192,7 +193,7 @@
 | [รอเก่ง \- Introvert](https://open.spotify.com/track/60lOiEJVxbn4Crv8344i1W) | [Aimzillow](https://open.spotify.com/artist/3nk2i4kSjG2qVzo0MHPSYj) | [รอเก่ง \(Introvert\)](https://open.spotify.com/album/4RQh8Pjm8rOFJKLR6awxEp) | 3:35 | 2022-07-01 | 2022-07-08 |
 | [ระวังเสียใจ \(Warning\)](https://open.spotify.com/track/2H5h25NuMFY39z7EOl28eP) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [Your Girl](https://open.spotify.com/album/0CmKGlxb5Te6ENFWPjwUtN) | 2:54 | 2022-11-03 | 2023-02-16 |
 | [ระหว่างทาง \(Good Time\) \- เพลงประกอบซีรีส์ Good Old Days ร้านซื้อขายความทรงจำ](https://open.spotify.com/track/4FreerZPFJkNpQqhL2cSCA) | [Bright Vachirawit](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt), [ต้าเหนิง กัญญาวีร์](https://open.spotify.com/artist/3CR3llAxCgUXA1hHBYXFQh) | [เพลงประกอบซีรีส์ Good Old Days ร้านซื้อขายความทรงจำ](https://open.spotify.com/album/19zRl5NJ2IH7wvNdRegoHY) | 4:04 | 2022-09-23 | 2022-10-05 |
-| [รักกันวันเดียว \(ONE DAY\)](https://open.spotify.com/track/2ZnsdI3nTSDbiDEaKHHZ70) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [รักกันวันเดียว \(ONE DAY\)](https://open.spotify.com/album/2ov9KIuf12vKhV80iuw3JN) | 3:01 | 2023-04-21 |  |
+| [รักกันวันเดียว \(ONE DAY\)](https://open.spotify.com/track/2ZnsdI3nTSDbiDEaKHHZ70) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [รักกันวันเดียว \(ONE DAY\)](https://open.spotify.com/album/2ov9KIuf12vKhV80iuw3JN) | 3:01 | 2023-04-21 | 2023-05-12 |
 | [รักก็รักดิ \- From "Cutie Pie 2 You"](https://open.spotify.com/track/021DOGAOsU2WrJ5Gii9hFZ) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5), [ZEE PRUK](https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg) | [รักก็รักดิ \(From "Cutie Pie 2 You"\)](https://open.spotify.com/album/0AyEXAG2tEss8ErlR2V62p) | 3:17 | 2023-01-09 | 2023-02-03 |
 | [รักข้างเดียว \(Falling in Love\)](https://open.spotify.com/track/2VP2WPjDzo3bPutWdIbwpe) | [Darran](https://open.spotify.com/artist/6njda9gVhFrDchBy33CAsh) | [รักข้างเดียว \(Falling in Love\)](https://open.spotify.com/album/5tCQ7kmjqVm4yWM6EahkZj) | 4:04 | 2022-06-02 | 2022-06-10 |
 | [รักเธอ \(ONLY YOU\) \- From ค่อยๆรัก Step By Step](https://open.spotify.com/track/430P9zwgo2Nv56Znbzg3LB) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [รักเธอ \(ONLY YOU\) \[From ค่อยๆรัก Step By Step\]](https://open.spotify.com/album/2wUwCV2FwZQAzmjMBNneM2) | 3:36 | 2023-03-31 | 2023-04-13 |
@@ -220,6 +221,7 @@
 | [วาดไว้ \- recall](https://open.spotify.com/track/3FUAv32u0F64kcaaLRimPr) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [วาดไว้ \(recall\)](https://open.spotify.com/album/4abO31N2HMvzWtFgVhvs7Y) | 4:15 | 2022-07-24 | 2022-12-02 |
 | [วายโอยู \(Y.O.U\)](https://open.spotify.com/track/3MZ6pw9dt75zdCZCv79FKf) | [CM Cafe](https://open.spotify.com/artist/3HIIbzo8qdutuxFS1yPCUz), [Yakoolza](https://open.spotify.com/artist/7rTs3ZRedzB7EumYiJgkYQ) | [วายโอยู \(Y.O.U\)](https://open.spotify.com/album/60YKWacud7mhWVrTqARj0p) | 3:54 | 2022-06-16 | 2022-06-24 |
 | [ว่าไงนะ Feat\. Nam iWish](https://open.spotify.com/track/67kJqf9wQnXugBcKoX04IB) | [Gee Pussadee](https://open.spotify.com/artist/5dZsLOLTJgo4oecyWvMkUd) | [ว่าไงนะ Feat\. Nam iWish](https://open.spotify.com/album/2LQcoI7YoGBwajXHSGc4Jw) | 3:30 | 2022-08-25 | 2022-09-01 |
+| [สตอรี่ที่รัก \(Your Story\)](https://open.spotify.com/track/3uQJvmeetxUh2TX12iW1p9) | [Slow Sundae](https://open.spotify.com/artist/4jA3LPzvGQcPImWTjpDlma) | [สตอรี่ที่รัก \(Your Story\)](https://open.spotify.com/album/5PKR4lzk9pcDGr1xFVxFyS) | 3:48 | 2023-05-11 |  |
 | [สถานะเบลอ \(BLURRR\)](https://open.spotify.com/track/2MzPAfKHgy5BoE8bjm97d0) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [สถานะเบลอ \(BLURRR\)](https://open.spotify.com/album/6nILOs9tIhM6mp1tn72JdM) | 3:04 | 2023-04-12 |  |
 | [สบายดีไหม? \(how r u?\)](https://open.spotify.com/track/6w6CKv0wpFBTjBcV6YuQJs) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [สบายดีไหม? \(how r u?\)](https://open.spotify.com/album/7FZ3wtsNBVQqvoYBuFaPv2) | 4:06 | 2022-07-01 | 2022-07-23 |
 | [สมัยนี้เค้าไม่แอบรัก\(Just Say You Love Me\) \- เพลงประกอบซีรีส์ คืนนับดาว Astrophile](https://open.spotify.com/track/2mBtzhDDwoGBKAsrGMYrev) | [Mook Worranit](https://open.spotify.com/artist/0WvnXNFhAbvUHTSYVXIudV) | [เพลงประกอบซีรีส์ คืนนับดาว Astrophile](https://open.spotify.com/album/0BX886v6YDSPtIbxRBTESe) | 3:11 | 2022-07-23 | 2022-07-29 |

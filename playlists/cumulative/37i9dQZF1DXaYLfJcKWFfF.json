@@ -462,7 +462,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 347585,
       "name": "Eyes Don't See",
       "url": "https://open.spotify.com/track/4avUDzXj79BrSOSRg3V0KA"
@@ -778,6 +778,24 @@
       "duration_ms": 204000,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/1Jbiy0iXnwl7JurpSZnAVy"
+    },
+    {
+      "album": {
+        "name": "Just Cool",
+        "url": "https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220243,
+      "name": "Just Cool",
+      "url": "https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP"
     },
     {
       "album": {
@@ -1615,6 +1633,28 @@
     },
     {
       "album": {
+        "name": "London Ko",
+        "url": "https://open.spotify.com/album/3FnZTIThL7sm42d5t7pZ1C"
+      },
+      "artists": [
+        {
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+        },
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202409,
+      "name": "Somaw",
+      "url": "https://open.spotify.com/track/7j360rnoPfIwKlEW8qSx2g"
+    },
+    {
+      "album": {
         "name": "Proof Of Life",
         "url": "https://open.spotify.com/album/0F9RwW1ScEh2gNEADX67BO"
       },
@@ -1843,6 +1883,24 @@
     },
     {
       "album": {
+        "name": "For You Knew Me",
+        "url": "https://open.spotify.com/album/5YW4m8EgJWTX2c4cHXAPq8"
+      },
+      "artists": [
+        {
+          "name": "DOTTi The Deity",
+          "url": "https://open.spotify.com/artist/1APmyJUpl7Z2JeJ2M7iMsR"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224855,
+      "name": "Time Heals",
+      "url": "https://open.spotify.com/track/3X3xMPof9266qz7NvMnEXp"
+    },
+    {
+      "album": {
         "name": "Tinko Tinko (Don't Play Me For a Fool)",
         "url": "https://open.spotify.com/album/2Dav0MhZTRuj13ZPSBYmtX"
       },
@@ -2014,7 +2072,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 153402,
       "name": "Very Simple",
       "url": "https://open.spotify.com/track/2qIHmkIr2PfPM1RXs7OtZR"
@@ -2036,7 +2094,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 246666,
       "name": "WARNING",
       "url": "https://open.spotify.com/track/6HOOJ2LbasnZqxuqlaNSfk"

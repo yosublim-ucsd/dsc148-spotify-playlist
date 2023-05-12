@@ -1,13 +1,29 @@
 {
-  "description": "Scopri la nostra selezione di 6 artisti emergenti da tenere d'occhio quest'anno! Cover: Asteria",
+  "description": "Scopri la nostra selezione di 6 artisti emergenti da tenere d'occhio quest'anno! Cover: piazzabologna",
   "num_followers": 20784,
   "original_name": "RADAR Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzhhYzhmNTFkNGNkNTIyZTAzZTQzNjZmOTQyOGI1NzU1ZDEyNzYx",
+  "snapshot_id": "MCw4MDVmNzJjNDViOGY1MmQ1MGJiZGZiZmQ3OWQyZGQ3M2NiNmExNjc4",
   "tracks": [
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "CACIARA",
+        "url": "https://open.spotify.com/album/5WCf00AROvypO1CGSnN2YK"
+      },
+      "artists": [
+        {
+          "name": "piazzabologna",
+          "url": "https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp"
+        }
+      ],
+      "duration_ms": 149742,
+      "name": "CACIARA",
+      "url": "https://open.spotify.com/track/1lRWL3L6s6T3EUgcdsFeAl"
+    },
     {
       "added_at": "2023-05-04 22:01:00",
       "album": {

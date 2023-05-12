@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-284 songs - 16 hr 55 min
+285 songs - 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [低頭戰](https://open.spotify.com/track/3PZHvFk65YHEhbXtI5T82Q) | [Amber An](https://open.spotify.com/artist/3a5LC9P4JzYWSWo6npWQsw), [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK) | [低頭戰](https://open.spotify.com/album/1wCDig0yqUA0eP8tepQUv4) | 3:22 | 2022-06-06 | 2022-06-13 |
 | [住進你心窩](https://open.spotify.com/track/2dlgLXOZ4dLxOzQPEnjCV5) | [艾成](https://open.spotify.com/artist/2I8PVhkliy7HQXjblxm15w), [Meeia Foo](https://open.spotify.com/artist/4jC2S13tMZQ19PBlAJTmeY), [謝俊奇](https://open.spotify.com/artist/2YH8D70CBnOGuDegklDuLK) | [艾成的異想世界](https://open.spotify.com/album/2sl0Yv2sW69M9IavFZfczJ) | 3:49 | 2022-07-04 | 2022-07-29 |
 | [余生都是妳](https://open.spotify.com/track/2QlQ3Pjd5wtYefrnAiHxzl) | [Z.TAO](https://open.spotify.com/artist/7brWAbUcLVhV9o1w1dLcsx) | [余生都是妳](https://open.spotify.com/album/1BK4cdw3TyPvsh3QOYw9Os) | 3:00 | 2022-06-13 | 2022-08-22 |
+| [你是我心內的一首歌 \(feat\. Selina\)](https://open.spotify.com/track/7i2ReN7TSLlQKjvwiMEDIN) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt), [Selina](https://open.spotify.com/artist/322fcjb9quEAxAXtmWyNeJ) | [改變自己](https://open.spotify.com/album/1lxlQW182pklrfpD93faq1) | 2:46 | 2023-05-08 |  |
 | [你是我心内的一首歌](https://open.spotify.com/track/17N5sJg46rDPKCGj0pKhGl) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [改變自己](https://open.spotify.com/album/7yjS4CBFK0f9oQsVrcdNNW) | 2:46 | 2022-08-08 | 2023-05-01 |
 | [你是我的情人节](https://open.spotify.com/track/27g6VKUqcEtEnKHehO4TYT) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [你是我的情人节](https://open.spotify.com/album/3dWZG7EcJTU3T7qka9Zpgu) | 2:43 | 2023-02-13 | 2023-03-05 |
 | [你的名字像一首詩 \(feat\. 彭佳慧\)](https://open.spotify.com/track/5xRNYVNIMzHjXmpD6tHhmf) | [羅文裕](https://open.spotify.com/artist/7oMkAwPOEfk2ETm9HX9Ruo), [Julia Peng](https://open.spotify.com/artist/7B4GBM2vQJvwyghdsvEV77) | [當太陽升起時](https://open.spotify.com/album/6HzMccbSHgnKP3MEeULCg5) | 3:40 | 2022-06-06 | 2022-07-19 |
@@ -209,7 +210,7 @@
 | [欢迎光临](https://open.spotify.com/track/65TuztwYKl9Ka0Y17OczHx) | [Koala Liu](https://open.spotify.com/artist/0rG7yyjd15xAQ3Z9SK4FU3), [盧俊傑](https://open.spotify.com/artist/2yET7cDQpHNdprCQW5zcx9) | [欢迎光临](https://open.spotify.com/album/2jvHOTPUzcfTgfRBQ4fRCP) | 3:53 | 2022-06-06 | 2022-07-28 |
 | [每一天都想见面](https://open.spotify.com/track/6xfJ2GBycSzHJUgr2Kw9Xc) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [每一天都想见面](https://open.spotify.com/album/5TH32PfNAAR304rtJaYN84) | 3:02 | 2022-07-04 | 2022-07-29 |
 | [每分每秒](https://open.spotify.com/track/1T4oS7tf4FpCht0NkwFikF) | [Ours](https://open.spotify.com/artist/5VxMD3kw0WnX3huE0Oli68) | [每分每秒](https://open.spotify.com/album/2i0xJJFEXHJDmSVxdl3z6Q) | 3:20 | 2022-06-06 | 2022-10-01 |
-| [每天一樣想你](https://open.spotify.com/track/2fo0HSd0TWTQQdK1z8ySm5) | [Sun Day Night.](https://open.spotify.com/artist/6ipNbvd45mRR8LTdA6K9fD), [柯淳恩](https://open.spotify.com/artist/7etKd05AwHXCtlW2Wq2r82) | [每天一樣想你](https://open.spotify.com/album/7bh1e8WsZLCRy16aeKijaa) | 3:47 | 2023-03-20 |  |
+| [每天一樣想你](https://open.spotify.com/track/2fo0HSd0TWTQQdK1z8ySm5) | [Sun Day Night.](https://open.spotify.com/artist/6ipNbvd45mRR8LTdA6K9fD), [柯淳恩](https://open.spotify.com/artist/7etKd05AwHXCtlW2Wq2r82) | [每天一樣想你](https://open.spotify.com/album/7bh1e8WsZLCRy16aeKijaa) | 3:47 | 2023-03-20 | 2023-05-12 |
 | [比心小幸福](https://open.spotify.com/track/47MWJAq8xkAuVpwl8SKm34) | [祈錦鈅](https://open.spotify.com/artist/4O5iyxf4OJg9hrF5fV6GJ3) | [比心小幸福](https://open.spotify.com/album/0TQwBOXzjC2wrJtDPAc2Ym) | 4:01 | 2022-06-13 | 2022-06-21 |
 | [氧化氢](https://open.spotify.com/track/2Dmq5eBpjomx7tHzQto6j5) | [李尖尖](https://open.spotify.com/artist/6Vn7mFBllddgTwUeGDXKVs) | [氧化氢](https://open.spotify.com/album/21drfeiOPkViyCFZYNT5NN) | 2:15 | 2022-07-25 | 2023-05-08 |
 | [浪漫主义](https://open.spotify.com/track/6v2j7JBjWmERbzCujd9Rci) | [Angelloweee](https://open.spotify.com/artist/3VKXShqcZPqG6OPlvIAQ7t), [Layla Sania](https://open.spotify.com/artist/7cgAsD4dJVqN4ckWT9jbEK) | [浪漫主义](https://open.spotify.com/album/3aHrTxbzVWe1puIJfGF64m) | 3:41 | 2023-02-27 | 2023-03-16 |

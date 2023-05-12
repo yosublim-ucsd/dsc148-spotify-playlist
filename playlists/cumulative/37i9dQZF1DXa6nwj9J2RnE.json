@@ -538,7 +538,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 155905,
       "name": "Hard Work",
       "url": "https://open.spotify.com/track/5erRk2eskp3Ns8pfOEtbxq"
@@ -706,6 +706,32 @@
       "duration_ms": 234109,
       "name": "Liar",
       "url": "https://open.spotify.com/track/2WKrthH378MYrxvYvAAsAE"
+    },
+    {
+      "album": {
+        "name": "Mirrors",
+        "url": "https://open.spotify.com/album/7L161NHfeg5E3dHOvr5GZ0"
+      },
+      "artists": [
+        {
+          "name": "Amy Root",
+          "url": "https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73"
+        },
+        {
+          "name": "Wytiki",
+          "url": "https://open.spotify.com/artist/0mzWYuMGJz6vrtg78cP7O4"
+        },
+        {
+          "name": "VAAGUE",
+          "url": "https://open.spotify.com/artist/4P0mtkvvIWdZn9mNsKXTDs"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257618,
+      "name": "Lila",
+      "url": "https://open.spotify.com/track/7KEYsxeFYN0ruMY6sGNdtf"
     },
     {
       "album": {

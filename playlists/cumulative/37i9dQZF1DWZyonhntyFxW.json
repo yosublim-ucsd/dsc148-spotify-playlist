@@ -147,6 +147,24 @@
     },
     {
       "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/7LNlUUOzPMmdVLFq3wi353"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197468,
+      "name": "AFREQYA W AMREKA",
+      "url": "https://open.spotify.com/track/3h7TsXMuf0UrSWBmzmFC6Y"
+    },
+    {
+      "album": {
         "name": "Santa El Gded",
         "url": "https://open.spotify.com/album/00hLqAlvE3EiF1bsPoE43a"
       },
@@ -708,10 +726,28 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 249183,
       "name": "DOUBLEZUKSH",
       "url": "https://open.spotify.com/track/6xLpCMywgYrppaNnIq6sir"
+    },
+    {
+      "album": {
+        "name": "El 3asefa",
+        "url": "https://open.spotify.com/album/0pET0nC1WwLXIjlOXKW54v"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149177,
+      "name": "El 3asefa",
+      "url": "https://open.spotify.com/track/6AunR7FkXRm1EEEdWYFLWg"
     },
     {
       "album": {
@@ -1078,7 +1114,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 218600,
       "name": "Ghi T9al (Et2al)",
       "url": "https://open.spotify.com/track/4MXfLQoPe89uPqVd7NApfn"
@@ -1210,6 +1246,28 @@
       "duration_ms": 158848,
       "name": "HARAZEEK",
       "url": "https://open.spotify.com/track/4KkZaDtLIuCiCUH6Zwy0rx"
+    },
+    {
+      "album": {
+        "name": "SWITCH",
+        "url": "https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3"
+      },
+      "artists": [
+        {
+          "name": "Husayn",
+          "url": "https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI"
+        },
+        {
+          "name": "FL EX",
+          "url": "https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120017,
+      "name": "HOSS",
+      "url": "https://open.spotify.com/track/5JXzcZBkizj6fFjPHpeV1N"
     },
     {
       "album": {
@@ -2116,7 +2174,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 210050,
       "name": "Oghnya OldSchool Gdeda",
       "url": "https://open.spotify.com/track/5XM88BvsRPBqg5dgCueIT7"
@@ -2156,7 +2214,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 132225,
       "name": "OPPS",
       "url": "https://open.spotify.com/track/1UTRr55P3GJIk6A9V4p4Ad"
@@ -2196,6 +2254,28 @@
       "duration_ms": 176407,
       "name": "RACORE",
       "url": "https://open.spotify.com/track/3JFB9ZJ8vZrKL8AJiRspLZ"
+    },
+    {
+      "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/7LNlUUOzPMmdVLFq3wi353"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        },
+        {
+          "name": "ARSENIK",
+          "url": "https://open.spotify.com/artist/6jvTPvQCIBetlX17qnM0Bc"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202025,
+      "name": "ROCKSTAR",
+      "url": "https://open.spotify.com/track/6cjGkkdBNvkcFeKk1TQ1jd"
     },
     {
       "album": {
@@ -2254,6 +2334,24 @@
       "duration_ms": 187826,
       "name": "SAFINA",
       "url": "https://open.spotify.com/track/2imCmZa01FzAv5j0BiD9ab"
+    },
+    {
+      "album": {
+        "name": "Salt El Zein - \u0635\u0644\u0627\u0629 \u0627\u0644\u0632\u064a\u0646",
+        "url": "https://open.spotify.com/album/2FLoi19Rf5ejnlHfPYF4zp"
+      },
+      "artists": [
+        {
+          "name": "Double Zuksh",
+          "url": "https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156770,
+      "name": "Salt El Zein - \u0635\u0644\u0627\u0629 \u0627\u0644\u0632\u064a\u0646",
+      "url": "https://open.spotify.com/track/5o7YSTsbNeo98lSacuNIi5"
     },
     {
       "album": {
@@ -2460,7 +2558,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 161541,
       "name": "Stop - Magnolia",
       "url": "https://open.spotify.com/track/641KAqGlHS7CH0wCrhh0Ir"

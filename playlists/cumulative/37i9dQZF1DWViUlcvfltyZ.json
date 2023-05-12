@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti. Federico Dragogna in cover!",
+  "description": "La playlist che \u00e8 come andare ai concerti. New Candys e Bugo in cover!",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -168,7 +168,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 381946,
       "name": "Acid Disorder",
       "url": "https://open.spotify.com/track/4t1n0MCx8ZFpo7foNfnbws"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 260053,
       "name": "ALL'INFERNO C'\u00c8 IL SOLE",
       "url": "https://open.spotify.com/track/2CtHbDq3Xx45lU8lnRhiE6"
@@ -316,6 +316,24 @@
       "duration_ms": 187480,
       "name": "AMERICA",
       "url": "https://open.spotify.com/track/1KkPmyuTNbxjhylVrhoMKp"
+    },
+    {
+      "album": {
+        "name": "INIZIO TURNO FINE",
+        "url": "https://open.spotify.com/album/2OXOIh9VSnieWigqw9QUdD"
+      },
+      "artists": [
+        {
+          "name": "Ricche le Mura",
+          "url": "https://open.spotify.com/artist/0Jejmdac0sG1anWKT8F1RB"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200058,
+      "name": "Amico (mani porte)",
+      "url": "https://open.spotify.com/track/3VyEF5SQaIwoOKH7dZ0lmZ"
     },
     {
       "album": {
@@ -679,6 +697,24 @@
     },
     {
       "album": {
+        "name": "Benda",
+        "url": "https://open.spotify.com/album/77KKHnyz5STrGs7viHSP1U"
+      },
+      "artists": [
+        {
+          "name": "\u2044handlogic",
+          "url": "https://open.spotify.com/artist/0Fke9julMOJ0HZ1UhCoe9Z"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263273,
+      "name": "Benda",
+      "url": "https://open.spotify.com/track/01ngmXxVlCiS8PoBKoJzSL"
+    },
+    {
+      "album": {
         "name": "Berserk",
         "url": "https://open.spotify.com/album/6UrRKtK69QZKkwui1SZ7ib"
       },
@@ -954,6 +990,24 @@
       "duration_ms": 135612,
       "name": "Cadetto Lin non ferma su Marte",
       "url": "https://open.spotify.com/track/0OVQp2V9hxMzVVqWiQZLET"
+    },
+    {
+      "album": {
+        "name": "Placenta",
+        "url": "https://open.spotify.com/album/7d8r3uxJjm6D4NaBFsf0ip"
+      },
+      "artists": [
+        {
+          "name": "COMRAD",
+          "url": "https://open.spotify.com/artist/3LkgC4i6yy4ictT8kWDfRT"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121764,
+      "name": "Cado morbido",
+      "url": "https://open.spotify.com/track/1CPgsTlayk4E5ibxp9xlRd"
     },
     {
       "album": {
@@ -1408,7 +1462,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 135573,
       "name": "Claudio",
       "url": "https://open.spotify.com/track/1FCZL1dhHzXjNQ41PudYm0"
@@ -2032,7 +2086,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 282211,
       "name": "D\u00e9j\u00e0 vu",
       "url": "https://open.spotify.com/track/5aSydqX9Sp3ubiLLOzA9QF"
@@ -2267,6 +2321,28 @@
     },
     {
       "album": {
+        "name": "Everything's Fucking Boring (feat. Bugo)",
+        "url": "https://open.spotify.com/album/4iJMZMqkVBdgM2RghBfArP"
+      },
+      "artists": [
+        {
+          "name": "New Candys",
+          "url": "https://open.spotify.com/artist/0pPa2J0HCTVmaL8PurSeoC"
+        },
+        {
+          "name": "Bugo",
+          "url": "https://open.spotify.com/artist/01U4yWwtUKMckbI55OiT7g"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241224,
+      "name": "Everything's Fucking Boring (feat. Bugo)",
+      "url": "https://open.spotify.com/track/5qxpegfGJAN3FY4MQvTi6p"
+    },
+    {
+      "album": {
         "name": "Extraordinaire",
         "url": "https://open.spotify.com/album/6ZdaJ4yXbJtwDqz7CF1MmZ"
       },
@@ -2278,7 +2354,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 344401,
       "name": "Extraordinaire",
       "url": "https://open.spotify.com/track/5ZQwiGwOTs8pgcIwmLcBek"
@@ -2621,6 +2697,24 @@
     },
     {
       "album": {
+        "name": "Frutta Fresca",
+        "url": "https://open.spotify.com/album/6TZOp9BjKB4bPthgRxMyZc"
+      },
+      "artists": [
+        {
+          "name": "Macadamia",
+          "url": "https://open.spotify.com/artist/4ctoRm4PSfS4v7YdoHgIen"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206896,
+      "name": "Frutta Fresca",
+      "url": "https://open.spotify.com/track/0rNP0DmIwhD3Uj0d05V0rV"
+    },
+    {
+      "album": {
         "name": "Funeral Rave Party (Radio Edit)",
         "url": "https://open.spotify.com/album/7ai4EzJ3U5dnFWGrG3ZRkx"
       },
@@ -2828,6 +2922,24 @@
       "duration_ms": 178000,
       "name": "Grunge Morale",
       "url": "https://open.spotify.com/track/4ifzWdf99hgtG6YOPI7jy7"
+    },
+    {
+      "album": {
+        "name": "Gun Powder",
+        "url": "https://open.spotify.com/album/3L8LHYrbcWJ7WZe68kmeT0"
+      },
+      "artists": [
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234280,
+      "name": "Gun Powder",
+      "url": "https://open.spotify.com/track/3ueHgeiKaOMAIAGLWoArCq"
     },
     {
       "album": {
@@ -3558,7 +3670,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 154953,
       "name": "Kingston",
       "url": "https://open.spotify.com/track/7qSR7XjG33IecK7QQZ7EZN"
@@ -3598,6 +3710,28 @@
       "duration_ms": 134973,
       "name": "L'abisso",
       "url": "https://open.spotify.com/track/0ttpILKiL7nkg9fCZlYsDs"
+    },
+    {
+      "album": {
+        "name": "L'ultimo Saluto (feat. DIVI)",
+        "url": "https://open.spotify.com/album/7dUA3A2rzNnRBZ5wswcU75"
+      },
+      "artists": [
+        {
+          "name": "dellarabbia",
+          "url": "https://open.spotify.com/artist/6Ny93gwcAU5e2da6CzrmRp"
+        },
+        {
+          "name": "DIVI",
+          "url": "https://open.spotify.com/artist/74bcvpVRGuSFkKK67skgBL"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210754,
+      "name": "L'ultimo Saluto (feat. DIVI)",
+      "url": "https://open.spotify.com/track/2oyVIu3N49UpXTBHqZ2ddt"
     },
     {
       "album": {
@@ -3922,7 +4056,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 199193,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/4WPWjTm1Tacywwc1rPmMtB"
@@ -4064,7 +4198,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 205600,
       "name": "Manichini",
       "url": "https://open.spotify.com/track/3jFISbW5Ok8RoS3XeDZLfe"
@@ -4198,6 +4332,24 @@
       "duration_ms": 154766,
       "name": "MI FAI VENIRE",
       "url": "https://open.spotify.com/track/268VnTQdISBVKmKhplrCUS"
+    },
+    {
+      "album": {
+        "name": "Milano sei tossica",
+        "url": "https://open.spotify.com/album/06dgmOUyGPUAgt1dvcdzZn"
+      },
+      "artists": [
+        {
+          "name": "Kate Klein",
+          "url": "https://open.spotify.com/artist/67DWV4ny2wOneRM4QoLfLO"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128906,
+      "name": "Milano sei tossica",
+      "url": "https://open.spotify.com/track/1jxdBO6W0M7L9AcGfM5ZeL"
     },
     {
       "album": {
@@ -4342,7 +4494,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 134543,
       "name": "Mondo Cane",
       "url": "https://open.spotify.com/track/7a8r6vINl5QByT6ktCadYK"
@@ -4396,7 +4548,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 161815,
       "name": "Musica per aeroporti",
       "url": "https://open.spotify.com/track/2k4D2XNzM0VfRnUl9ts1RY"
@@ -4638,7 +4790,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 178118,
       "name": "Non Sei Sola",
       "url": "https://open.spotify.com/track/2viAvSGY7YMcDa0fNlSXwk"
@@ -4920,6 +5072,24 @@
       "duration_ms": 235065,
       "name": "ORBO",
       "url": "https://open.spotify.com/track/4VBCWRlrzDNxyjBEfuubST"
+    },
+    {
+      "album": {
+        "name": "Our Fault",
+        "url": "https://open.spotify.com/album/6ZmALkxIf4hVWPQR7LYSa9"
+      },
+      "artists": [
+        {
+          "name": "Trust The Mask",
+          "url": "https://open.spotify.com/artist/4QzZ1csaFZmC5N2tOvtQR6"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236640,
+      "name": "Our Fault",
+      "url": "https://open.spotify.com/track/3vhIkibnn6c7RIoYwYCTvh"
     },
     {
       "album": {
@@ -5230,7 +5400,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 192009,
       "name": "PORNO",
       "url": "https://open.spotify.com/track/1V943kQXR3Tiz9kqakdnNe"
@@ -5704,7 +5874,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 173500,
       "name": "Samurai",
       "url": "https://open.spotify.com/track/4Vmz8qG1vEpyAWEYB98MUf"
@@ -6100,7 +6270,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 238733,
       "name": "Soa",
       "url": "https://open.spotify.com/track/55sdacSFOkx0mewyYctT1d"
@@ -6122,6 +6292,24 @@
       "duration_ms": 159706,
       "name": "sober",
       "url": "https://open.spotify.com/track/1LmM5Y3OnbNAeTVKg73Jgc"
+    },
+    {
+      "album": {
+        "name": "Conigli",
+        "url": "https://open.spotify.com/album/0U1OUp04dC2pOBdTxPFHeb"
+      },
+      "artists": [
+        {
+          "name": "Turbetto",
+          "url": "https://open.spotify.com/artist/5RMf5E5n45iyMgwo8uQQyA"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Soleluna",
+      "url": "https://open.spotify.com/track/3QKJc63ThuCSjVGNiqSLB0"
     },
     {
       "album": {
@@ -6906,7 +7094,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 213500,
       "name": "Torino non \u00e8 la mia citt\u00e0",
       "url": "https://open.spotify.com/track/3YL6KwcKsIoQ7yLgBR4fUG"
@@ -6960,7 +7148,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 159520,
       "name": "TRAGEDIA MODERNA",
       "url": "https://open.spotify.com/track/3GpDoprJLVqvoEo7mnBGYu"
@@ -7389,6 +7577,24 @@
     },
     {
       "album": {
+        "name": "Nessuno vuole essere mio amico",
+        "url": "https://open.spotify.com/album/1slYL7JoFfTB9OcBFK65hE"
+      },
+      "artists": [
+        {
+          "name": "CASX",
+          "url": "https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "Verdena",
+      "url": "https://open.spotify.com/track/3LTOhf5vn7ORLNvnPm72nU"
+    },
+    {
+      "album": {
         "name": "La Tosca dei Cani",
         "url": "https://open.spotify.com/album/40Fngltav0uIo6x6cw20bM"
       },
@@ -7494,7 +7700,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 215404,
       "name": "Volpi",
       "url": "https://open.spotify.com/track/3OHRaBl0M2X5UWfgevbyVK"
@@ -7682,6 +7888,24 @@
       "duration_ms": 206387,
       "name": "ZERO",
       "url": "https://open.spotify.com/track/6hrRoEVft0SM5lsBUq3MMe"
+    },
+    {
+      "album": {
+        "name": "A Noiseless Patient Spider",
+        "url": "https://open.spotify.com/album/5UXv6jZvZuCUv7aTfnFn5j"
+      },
+      "artists": [
+        {
+          "name": "Fiasko Leitmotiv",
+          "url": "https://open.spotify.com/artist/7mCEKbvh7Tt4JJUkZYbkR4"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161115,
+      "name": "Zufall",
+      "url": "https://open.spotify.com/track/4H8iyzUpeOr6QC3FqMU3Tv"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ"

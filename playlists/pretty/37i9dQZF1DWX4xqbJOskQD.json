@@ -1,12 +1,12 @@
 {
   "description": "The Mills Brothers, The Andrews Sisters and other classic vocal groups.",
-  "num_followers": 1586,
+  "num_followers": 1587,
   "original_name": "Close Harmony Vocals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDNmZDYzNmM0YmZlNWFiNjA3NDg0M2Q1ZDBkZTkxNzRhNTIyY2Y0",
+  "snapshot_id": "MCw1OGMwM2RlZGY3ZTliNGI4MzU2YzI1ZTA3YWFlNWM4MDg4OWUwOTVj",
   "tracks": [
     {
       "added_at": "2020-08-17 22:49:59",
@@ -159,42 +159,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
-      },
-      "artists": [
-        {
-          "name": "The McGuire Sisters",
-          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
-        }
-      ],
-      "duration_ms": 178800,
-      "name": "Sincerely",
-      "url": "https://open.spotify.com/track/50AhgOXYVm9ASB6PlKdKk0"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "50th Anniversary Collection (Vol. 2)",
-        "url": "https://open.spotify.com/album/4ro3pENrSK5JrlsTr1RS7L"
-      },
-      "artists": [
-        {
-          "name": "The Andrews Sisters",
-          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
-        },
-        {
-          "name": "Vic Schoen & His Orchestra",
-          "url": "https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Straighten Up And Fly Right - Single Version",
-      "url": "https://open.spotify.com/track/2FZZZ3L1wj9xTgQzMlQEed"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "America's Bandleader",
         "url": "https://open.spotify.com/album/31DxnMa6Do5GPZzz1JoMKT"
       },
@@ -219,6 +183,42 @@
       "duration_ms": 183213,
       "name": "Let's Have Another Cup Of Coffee (From \"Face The Music\") - 2002 Remastered",
       "url": "https://open.spotify.com/track/5DMTreJFLW0tzLdqIC7OtZ"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "50th Anniversary Collection (Vol. 2)",
+        "url": "https://open.spotify.com/album/4ro3pENrSK5JrlsTr1RS7L"
+      },
+      "artists": [
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+        },
+        {
+          "name": "Vic Schoen & His Orchestra",
+          "url": "https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Straighten Up And Fly Right - Single Version",
+      "url": "https://open.spotify.com/track/2FZZZ3L1wj9xTgQzMlQEed"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
+      },
+      "artists": [
+        {
+          "name": "The McGuire Sisters",
+          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
+        }
+      ],
+      "duration_ms": 178800,
+      "name": "Sincerely",
+      "url": "https://open.spotify.com/track/50AhgOXYVm9ASB6PlKdKk0"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -327,22 +327,6 @@
     {
       "added_at": "2022-03-28 19:29:09",
       "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
-      },
-      "artists": [
-        {
-          "name": "The McGuire Sisters",
-          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
-        }
-      ],
-      "duration_ms": 185200,
-      "name": "Teach Me Tonight",
-      "url": "https://open.spotify.com/track/2ARoWEBWZGyGSoHY1Clo1g"
-    },
-    {
-      "added_at": "2022-03-28 19:29:09",
-      "album": {
         "name": "Tea For Two (with Gene Nelson, Axel Stordahl & His Orchestra & The Page Cavanaugh Trio)",
         "url": "https://open.spotify.com/album/4CUEOvIXCBO4r4OZFTPhCv"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 188293,
       "name": "For Sentimental Reasons",
       "url": "https://open.spotify.com/track/5t5S4nyn6OWZRpSo260sjo"
+    },
+    {
+      "added_at": "2022-03-28 19:29:09",
+      "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
+      },
+      "artists": [
+        {
+          "name": "The McGuire Sisters",
+          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
+        }
+      ],
+      "duration_ms": 185200,
+      "name": "Teach Me Tonight",
+      "url": "https://open.spotify.com/track/2ARoWEBWZGyGSoHY1Clo1g"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -447,18 +447,18 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
+        "name": "The Bachelors - The Decca Years",
+        "url": "https://open.spotify.com/album/6fPWamZmTK0d03dzR0S2ab"
       },
       "artists": [
         {
-          "name": "The McGuire Sisters",
-          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
+          "name": "The Bachelors",
+          "url": "https://open.spotify.com/artist/0qDtyCZRYrja9CoeHXV6FD"
         }
       ],
-      "duration_ms": 178066,
-      "name": "May You Always",
-      "url": "https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM"
+      "duration_ms": 139840,
+      "name": "Marie",
+      "url": "https://open.spotify.com/track/6MGqxb12oR5TC6lIwQsANT"
     },
     {
       "added_at": "2022-03-28 19:29:09",
@@ -475,22 +475,6 @@
       "duration_ms": 171733,
       "name": "Standing On the Corner",
       "url": "https://open.spotify.com/track/4DDuqcRrjG1XBma3hvaFFq"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "The Bachelors - The Decca Years",
-        "url": "https://open.spotify.com/album/6fPWamZmTK0d03dzR0S2ab"
-      },
-      "artists": [
-        {
-          "name": "The Bachelors",
-          "url": "https://open.spotify.com/artist/0qDtyCZRYrja9CoeHXV6FD"
-        }
-      ],
-      "duration_ms": 139840,
-      "name": "Marie",
-      "url": "https://open.spotify.com/track/6MGqxb12oR5TC6lIwQsANT"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -535,6 +519,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
+      },
+      "artists": [
+        {
+          "name": "The McGuire Sisters",
+          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
+        }
+      ],
+      "duration_ms": 178066,
+      "name": "May You Always",
+      "url": "https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
         "name": "Blue Velvet / The Ultimate Collection",
         "url": "https://open.spotify.com/album/3qOZok4QE0NLDJEWNuasPS"
       },
@@ -567,6 +567,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/6t0ktrofZCI38hxO9c37Tz"
+      },
+      "artists": [
+        {
+          "name": "The Dinning Sisters",
+          "url": "https://open.spotify.com/artist/7lGYu24LHAMZYqarrWHz8h"
+        }
+      ],
+      "duration_ms": 160173,
+      "name": "Fun And Fancy Free",
+      "url": "https://open.spotify.com/track/7AcHnYTB2t17ZWjkgBeQsJ"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
         "name": "Remember Pearl Harbor: Classic Songs Of World War II",
         "url": "https://open.spotify.com/album/4esQCA7GCIC2NBUq8ndw87"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 159173,
       "name": "A G.I. Wish",
       "url": "https://open.spotify.com/track/2TVIvoDLrq3adZBeDyFbl9"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/6t0ktrofZCI38hxO9c37Tz"
-      },
-      "artists": [
-        {
-          "name": "The Dinning Sisters",
-          "url": "https://open.spotify.com/artist/7lGYu24LHAMZYqarrWHz8h"
-        }
-      ],
-      "duration_ms": 160173,
-      "name": "Fun And Fancy Free",
-      "url": "https://open.spotify.com/track/7AcHnYTB2t17ZWjkgBeQsJ"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -695,22 +695,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "Imagination",
-        "url": "https://open.spotify.com/album/0N0IsbV6VEvnx6e6gmD9Qb"
-      },
-      "artists": [
-        {
-          "name": "The King Sisters",
-          "url": "https://open.spotify.com/artist/6Gsao94MioGNcDLFGFAlw7"
-        }
-      ],
-      "duration_ms": 171960,
-      "name": "Early Autumn",
-      "url": "https://open.spotify.com/track/5st46QqB3wCTdFPUso9lll"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/6t0ktrofZCI38hxO9c37Tz"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 173133,
       "name": "Love On A Greyhound Bus",
       "url": "https://open.spotify.com/track/4wam2im1dxbWFVU5TjxF8C"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/0N0IsbV6VEvnx6e6gmD9Qb"
+      },
+      "artists": [
+        {
+          "name": "The King Sisters",
+          "url": "https://open.spotify.com/artist/6Gsao94MioGNcDLFGFAlw7"
+        }
+      ],
+      "duration_ms": 171960,
+      "name": "Early Autumn",
+      "url": "https://open.spotify.com/track/5st46QqB3wCTdFPUso9lll"
     },
     {
       "added_at": "2020-08-17 22:49:59",

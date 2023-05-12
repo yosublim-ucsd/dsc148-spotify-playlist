@@ -4,7 +4,7 @@
 
 > the soundtrack for your vitamin d fix.
 
-240 songs - 13 hr 43 min
+241 songs - 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Bad Habit](https://open.spotify.com/track/1MbOMquGRXUEUALDcTLuoA) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Bad Habit](https://open.spotify.com/album/5ZIp3Oc2mWHY8KJgbHnWSW) | 3:41 | 2021-03-24 | 2022-04-28 |
 | [Bad Habit](https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Listen](https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy) | 3:41 | 2022-06-24 |  |
 | [Bad News](https://open.spotify.com/track/4jsaqIdJ3P6lJ68jRdDVyZ) | [Katastro](https://open.spotify.com/artist/2CimT0aCxKVuJsKPVLG0j5) | [Bad News](https://open.spotify.com/album/5wxhUV7piF05Hga0kqbTda) | 3:25 | 2021-03-24 | 2022-11-13 |
+| [Bags](https://open.spotify.com/track/6X3FZtz4cKU2MKSQlGG9ZG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bags](https://open.spotify.com/album/5YwYhMFzSWG8i7NEuwnIzs) | 4:20 | 2023-05-05 |  |
 | [Better Together](https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Better Together](https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g) | 2:58 | 2022-04-22 | 2023-04-15 |
 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 | 2022-02-04 |  |
 | [Blackout](https://open.spotify.com/track/2ZocFU8AgL3NYeG8vFMWbm) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Blackout](https://open.spotify.com/album/45d3TzOxeMA1bWgCD4RkYs) | 3:42 | 2021-03-24 | 2022-07-29 |
@@ -213,7 +214,7 @@
 | [Sweet Disaster](https://open.spotify.com/track/1cCF6PzZddhyJgYjN8w5qu) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Sweet Disaster](https://open.spotify.com/album/0zwgTEEMeWgAYOZRRNToC7) | 3:25 | 2021-03-24 | 2022-04-27 |
 | [Synchronize](https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize](https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL) | 2:44 | 2022-04-26 | 2023-03-15 |
 | [Take a Sip](https://open.spotify.com/track/3zgzbGes5o5X0ExPhj0zpl) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Take a Sip](https://open.spotify.com/album/6gwaYJ4J8cZsN91wJmiY3d) | 3:21 | 2021-03-24 | 2022-07-29 |
-| [Take Me Away](https://open.spotify.com/track/5Cahcx215DE2oK6hemixF4) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Take Me Away](https://open.spotify.com/album/0hOipA3CbMzKRfG1DOyiy5) | 2:31 | 2021-06-11 |  |
+| [Take Me Away](https://open.spotify.com/track/5Cahcx215DE2oK6hemixF4) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Take Me Away](https://open.spotify.com/album/0hOipA3CbMzKRfG1DOyiy5) | 2:31 | 2021-06-11 | 2023-05-12 |
 | [Talk](https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Talk](https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV) | 2:38 | 2022-04-26 |  |
 | [Talk Too Much](https://open.spotify.com/track/7FX3ZWE70VRjsprg5oeECc) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Talk Too Much](https://open.spotify.com/album/1S6679M19iLZfuoAgtCD1g) | 3:07 | 2021-03-24 | 2022-04-27 |
 | [Tek It](https://open.spotify.com/track/63HHF9ZpCIisujKFk2rixR) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Running](https://open.spotify.com/album/4n42G2OKF6kxGugj2MMn5c) | 3:11 | 2022-04-26 | 2022-06-16 |

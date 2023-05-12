@@ -2,9 +2,9 @@
 
 ### [This Is TWICE](https://open.spotify.com/playlist/37i9dQZF1DWYlCv3D85m6m)
 
-> One in a million! TWICE! SET ME FREE is here!
+> One in a million! TWICE!
 
-191 songs - 10 hr 31 min
+192 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [HANDLE IT](https://open.spotify.com/track/2laLdXRHMaHCuqr3DXgzhZ) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 2:51 | 2022-07-19 |  |
 | [HANDLE IT](https://open.spotify.com/track/7xhyrH0Es6AZ8SWqtWyUr1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes wide open](https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua) | 2:51 | 2022-03-24 | 2022-07-29 |
 | [HAPPY HAPPY](https://open.spotify.com/track/1yPkYnRgZveWLCUSWX16ra) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [HAPPY HAPPY](https://open.spotify.com/album/7L4aQ3NuXn10GinA6Fs2pc) | 3:26 | 2022-03-24 |  |
+| [Hare Hare](https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Hare Hare](https://open.spotify.com/album/0ymqvaOiilJa797C3Y2mZh) | 3:23 | 2023-05-11 |  |
 | [Heart Shaker](https://open.spotify.com/track/52FCAZn0YEkZfF0BtiAUMW) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Merry & Happy](https://open.spotify.com/album/0R7pj4tnmcoUulrZGPo6nw) | 3:06 | 2022-07-19 |  |
 | [Heart Shaker](https://open.spotify.com/track/4kFgsVu3GrGyiVuaum1K2J) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Merry & Happy](https://open.spotify.com/album/5RT90DQ1cw1jDPmm70UZBq) | 3:06 | 2022-03-24 | 2022-07-29 |
 | [HELL IN HEAVEN](https://open.spotify.com/track/19by44jwF68iVN8D815kOB) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes wide open](https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua) | 2:59 | 2022-03-24 | 2022-07-29 |

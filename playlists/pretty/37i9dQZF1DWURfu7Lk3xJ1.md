@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 
 > Focus the mind with these calming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,256 likes - 267 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,374 likes - 267 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 73 | [Meteor Shower](https://open.spotify.com/track/7ramzkXZYtHU4bUzR2qTJ6) | [Theo Aabel](https://open.spotify.com/artist/6yxMxVw1MRLoB9EJWO5XVe), [møndberg](https://open.spotify.com/artist/7i9PhtRTxJnGvgoOXgTox2) | [Meteor Shower](https://open.spotify.com/album/009XcHxeU83CdvOQ5cctHH) | 2:36 |
 | 74 | [forest trails](https://open.spotify.com/track/2PXFoXdEZCJf8mCRYEHlZ5) | [Might 8](https://open.spotify.com/artist/1fr3CM53jAWfYSsMrrGrl0) | [forest trails](https://open.spotify.com/album/1XzTJ6rS4TBVrPgLt6EdsB) | 2:23 |
 | 75 | [To Shine](https://open.spotify.com/track/4UV7EFHkc4VXLzPBBO5Lma) | [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a) | [To Shine](https://open.spotify.com/album/3C3z0Eqo12DRR7jmIWtVDG) | 2:10 |
-| 76 | [Nostalgic](https://open.spotify.com/track/0gShSKd5JDBfFMl0EqvuxK) | [Kewlie](https://open.spotify.com/artist/3Nu9d1nTBjPHOfI9HccCrZ) | [Nostalgic](https://open.spotify.com/album/7MGe4JJ95PZeUNQXZLvGT3) | 2:14 |
+| 76 | [Nostalgic](https://open.spotify.com/track/3lfL8nbhEPQuOA1xGiHkOw) | [Kewlie](https://open.spotify.com/artist/3Nu9d1nTBjPHOfI9HccCrZ) | [Nostalgic](https://open.spotify.com/album/1ofEpZJ5oqMYueBSDINhkG) | 2:14 |
 | 77 | [Tranquility](https://open.spotify.com/track/0jqjqBUWQPhRhXSvOKuCt0) | [Revoir](https://open.spotify.com/artist/7FBH8ul4xUiYw1eYeBJs1f) | [Tranquility](https://open.spotify.com/album/1WcLIYOZ3B4tUloloJFuFt) | 1:45 |
 | 78 | [Remember](https://open.spotify.com/track/2UZx4tKK8bvB0gsWcvELuq) | [José Sparks](https://open.spotify.com/artist/79pTqUqQc7qkGjs32dy30Y) | [Remember](https://open.spotify.com/album/7635Tzdwz0XoDRSihL1cDZ) | 2:21 |
 | 79 | [purple growth](https://open.spotify.com/track/2pWoOr9umRytPP9jfQUD4K) | [chilliance](https://open.spotify.com/artist/6C1x6L8cNFWEw8fbnocXZC) | [purple growth](https://open.spotify.com/album/62gXgpJMgOYFirMW4N6KvK) | 2:48 |
@@ -276,4 +276,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 266 | [Port Evenings](https://open.spotify.com/track/0tPjix5HfFWwKlJJ69QnE3) | [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL) | [Port Evenings](https://open.spotify.com/album/1UuJTx8Tv4udt0IVrVidgz) | 2:29 |
 | 267 | [A Rainy Tuesday In July](https://open.spotify.com/track/6Pc9GxMePOMF5ROGrGOpgb) | [Sihu](https://open.spotify.com/artist/0IDfPC86tctwQaHkc9tVfX) | [The Way It Was](https://open.spotify.com/album/1MuvFMh0EKewDWrYHbNT8s) | 1:42 |
 
-Snapshot ID: `MCwwNmJlMTQ0YzY1NTc0ZDlhNzcxMzIyMGVlNDQ0Y2IzMGViMzhlZGQ4`
+Snapshot ID: `MCwzYTdmNmFiZDkwNGFjMzA1ZjVkYzhjYzFlZGE1ODQwYmViMDZkMGYw`

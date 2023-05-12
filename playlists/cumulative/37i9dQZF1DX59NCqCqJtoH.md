@@ -4,7 +4,7 @@
 
 > We hear you.
 
-584 songs - 1 day 4 hr 52 min
+585 songs - 1 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Addicted 2 U](https://open.spotify.com/track/29KOLiu6sn8AIw46BYSJOw) | [Ben Chandler](https://open.spotify.com/artist/5spCYJNfwMEdTpMrir8dJF) | [Addicted 2 U](https://open.spotify.com/album/1MzHMufnsAiofLR8UezqnF) | 3:31 | 2021-04-02 | 2022-04-15 |
 | [Aesthetic](https://open.spotify.com/track/4jY3GWEqlrTALvVE1j7VHI) | [Xilo](https://open.spotify.com/artist/63kE1M6nlHBGwRttAc4Q6Z) | [Aesthetic](https://open.spotify.com/album/4A5jNEDsbTdHhcPOwqtiU4) | 2:38 | 2021-04-02 | 2022-04-19 |
 | [After](https://open.spotify.com/track/2d94jEmBfS2NO4nBg5PIRB) | [saaaz](https://open.spotify.com/artist/6MdmDH4ws2thbEQsYGUL7g) | [After](https://open.spotify.com/album/37noqZzJHyfis9oh0hzxwv) | 2:28 | 2021-04-02 | 2022-07-29 |
-| [afterthoughts](https://open.spotify.com/track/1ERCrZMVMSpqDW4zmr4sRc) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [CLOUDS \(Music From The Disney+ Original Movie\)](https://open.spotify.com/album/6wxPYC9LuoJCtKtFw4UDgf) | 2:55 | 2023-04-26 |  |
+| [afterthoughts](https://open.spotify.com/track/1ERCrZMVMSpqDW4zmr4sRc) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [CLOUDS \(Music From The Disney+ Original Movie\)](https://open.spotify.com/album/6wxPYC9LuoJCtKtFw4UDgf) | 2:55 | 2023-04-26 | 2023-05-12 |
 | [afterthoughts](https://open.spotify.com/track/2UmyGp3esNouKw42vwG6b8) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [afterthoughts](https://open.spotify.com/album/1qj06N4aOhTq5HmcHxbb27) | 2:55 | 2021-04-02 | 2022-07-24 |
 | [all i want is you](https://open.spotify.com/track/6IBJR6RxxAc9wfJjDaYJoJ) | [Aidan](https://open.spotify.com/artist/2p9YQq5YvvPaD4fj8aOCyk), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [all i want is you](https://open.spotify.com/album/74GgZoswGgIaZVp1aPCpK6) | 2:12 | 2021-04-02 | 2022-05-26 |
 | [All Is Well](https://open.spotify.com/track/1wDSBJSCKxB8qZR6jnfqgt) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [All Is Well](https://open.spotify.com/album/7IAZgH8L6M6sOVx3I0FPWo) | 2:30 | 2022-09-27 |  |
@@ -58,7 +58,7 @@
 | [Black Dress](https://open.spotify.com/track/5zB8z2lhlHDEADHqgIkNYo) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Black Dress](https://open.spotify.com/album/2v8YgVuGZY0k00k0Q8mfZE) | 2:32 | 2021-06-25 | 2022-05-24 |
 | [Body Bag \(w/ Ethan Tasch\)](https://open.spotify.com/track/1x6xmj2HRJDYJB94sgzkpp) | [Peter Fenn](https://open.spotify.com/artist/6gMyLqdBGrHjR8TdCutVIP), [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Body Bag \(w/ Ethan Tasch\)](https://open.spotify.com/album/3t7PD8kmLJdX3rLGwxmwT1) | 2:21 | 2021-11-19 | 2022-07-29 |
 | [Bones](https://open.spotify.com/track/4nRec7qeTl60jthtmzQfIo) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Bones](https://open.spotify.com/album/4sSPmKSCOT2tGiLe2pKbgk) | 3:01 | 2023-04-28 |  |
-| [Borderline](https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Borderline](https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz) | 3:34 | 2023-01-06 |  |
+| [Borderline](https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Borderline](https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz) | 3:34 | 2023-01-06 | 2023-05-12 |
 | [Bored](https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Bored](https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ) | 3:00 | 2021-09-20 | 2022-05-21 |
 | [Breadcrumbs](https://open.spotify.com/track/3XIsyH2KHrcPCkE8wkcKX6) | [Andy Leon](https://open.spotify.com/artist/7lzWd2qQhkOvuCBsLM6GAo) | [Breadcrumbs](https://open.spotify.com/album/2MoenbLVlkYVDvc2gOXipG) | 4:08 | 2021-04-02 | 2022-04-21 |
 | [Brittle](https://open.spotify.com/track/3hnj2130ThmuKOthw825PD) | [Char Chris](https://open.spotify.com/artist/3dhWzpDCZToKwpdCMgasCW) | [Brittle](https://open.spotify.com/album/2dmoj3b4sXYIjODIXpgJB9) | 3:41 | 2021-04-02 | 2022-04-15 |
@@ -179,6 +179,7 @@
 | [Growing Up](https://open.spotify.com/track/5OCgxL9wr0gLTiBE6525Ma) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [Growing Up](https://open.spotify.com/album/0eqJuk0wrFYvVjL9BMfLNl) | 2:25 | 2021-04-02 | 2022-04-21 |
 | [haircuT](https://open.spotify.com/track/4UYeZa4OZYSpH6D0COt9my) | [COLETON RUBIN](https://open.spotify.com/artist/7Krl9mcONPsEv1stFtsWL7) | [haircuT](https://open.spotify.com/album/5M8rPkER2lPVu6MFPIbEd4) | 2:10 | 2021-04-02 | 2022-04-21 |
 | [half a heart](https://open.spotify.com/track/4zsTtMAIEQMUDMo0kz9v7X) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [half a heart](https://open.spotify.com/album/1xr2pYZ1RY0vTMLFRIT92h) | 2:13 | 2021-04-02 | 2022-04-09 |
+| [handgun](https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM) | [jake minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [handgun](https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL) | 2:53 | 2023-05-05 |  |
 | [Hangar](https://open.spotify.com/track/1fkVOIKnMeR1NkBPnIfUQ8) | [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [Hangar](https://open.spotify.com/album/0vGLRqaVUnflzJS7yvXs0g) | 2:55 | 2022-01-27 | 2022-06-25 |
 | [Happen To Me](https://open.spotify.com/track/1bPo0RfCT7T4GHblhc7c7R) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Happen To Me](https://open.spotify.com/album/7BHTjC0GfwdDkEDDvniZj7) | 3:51 | 2021-04-02 | 2022-04-21 |
 | [Happen To Me](https://open.spotify.com/track/4Kjo34blxmLG5HNUKEvHRM) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:51 | 2023-03-21 |  |
@@ -290,7 +291,7 @@
 | [Just a Little Bit Lonely](https://open.spotify.com/track/5HkDr6w8kst095gAP09k8C) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Just a Little Bit Lonely](https://open.spotify.com/album/3H0itk6lTMK8zFHT7MvZul) | 2:03 | 2021-04-02 | 2022-04-18 |
 | [just don't hurt me](https://open.spotify.com/track/0mXltaK1ktzHAK4rd6jAbY) | [badly](https://open.spotify.com/artist/2REKndUsYi3335RA5rxbTT) | [just don't hurt me](https://open.spotify.com/album/6huHcFOz0Rbbg9zsGUTF39) | 2:38 | 2022-01-27 | 2022-07-05 |
 | [just friends now](https://open.spotify.com/track/7s0rwBRkSicawdu4SV0X3v) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [just friends now](https://open.spotify.com/album/2EE1T2DIcbq4fUWYFapSiv) | 1:38 | 2021-04-02 | 2022-07-29 |
-| [just wanna forget you](https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU) | 4:49 | 2023-04-26 | 2023-05-11 |
+| [just wanna forget you](https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU) | 4:49 | 2023-04-26 |  |
 | [keep our love alive](https://open.spotify.com/track/3CW5bobIBa94caEAhkLQSu) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [keep our love alive](https://open.spotify.com/album/3p8XPhLmoX4DA69jj6kNMN) | 2:56 | 2023-03-10 | 2023-05-07 |
 | [Kenny](https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Kenny](https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w) | 3:14 | 2021-06-25 |  |
 | [killmeinmysleep](https://open.spotify.com/track/77zViu7V0wRnzTafJE6HUH) | [Eli Moon](https://open.spotify.com/artist/7w9kwVf3KJfvBBfE4o6K56) | [killmeinmysleep](https://open.spotify.com/album/1i7rFneH6LmqeeAuy96u4U) | 3:20 | 2021-04-02 | 2022-04-15 |

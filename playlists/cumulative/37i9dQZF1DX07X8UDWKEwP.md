@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Mike Bahía
 
-257 songs - 15 hr 26 min
+258 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Buscando Un Amor](https://open.spotify.com/track/333dP0lCe9CNZ4sBlReABw) | [J Salez](https://open.spotify.com/artist/1k9LH8hJGdjr23xa8Gu7zU), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu) | [Buscando Un Amor](https://open.spotify.com/album/6p1rFIAqTxUFtO62nmhQTH) | 3:48 | 2023-02-03 | 2023-03-16 |
 | [Cada Día](https://open.spotify.com/track/1PAv4n1lNEcNmS4qN8Zoka) | [Willy Garcia](https://open.spotify.com/artist/1VNniaVBiVVqSwjUEcNJfd) | [Siendo Yo](https://open.spotify.com/album/1QuKhWzqY6kJYx27m3f5iG) | 4:05 | 2022-07-19 | 2023-02-14 |
 | [Cada Ves Te Extraño Más](https://open.spotify.com/track/2jNPwc6cNzigjSXnhT2JKC) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm), [Sandronyc](https://open.spotify.com/artist/5kmkNsW1vHzkOiG5nB3jsp) | [Cada Vez Te Extraño Más](https://open.spotify.com/album/29O8xR6EgbPGmjCrwV7aB8) | 3:29 | 2022-07-19 | 2023-01-14 |
+| [Caprichito](https://open.spotify.com/track/1NzUt0zLVo47HzFXymc53v) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Caprichito](https://open.spotify.com/album/0sI8xJ3Um4Bx7YECYOXNpH) | 3:46 | 2023-05-05 |  |
 | [Clavaito](https://open.spotify.com/track/26V1bLUk0SBYkLEwl4caPR) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Clavaito](https://open.spotify.com/album/04EvopsobNB5TNIzzAp0w0) | 2:42 | 2023-04-28 |  |
 | [Cobarde](https://open.spotify.com/track/1alpDKsk2N9ulxPhp3YbyG) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [Cobarde](https://open.spotify.com/album/0lT8AZVarqGUEgnLvafwtJ) | 3:51 | 2022-02-23 | 2023-01-17 |
 | [Compañera](https://open.spotify.com/track/1ncBiXsWxn69eLehmw0L59) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [The Romanze, Pt\. II](https://open.spotify.com/album/35ofKzduahGPv43eAtprrJ) | 3:40 | 2022-06-29 | 2023-01-14 |
@@ -250,7 +251,7 @@
 | [Veneno](https://open.spotify.com/track/0XuU7zwsQmeOOpLpFKJQJY) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Veneno](https://open.spotify.com/album/3KaFtzUOQvjPAZDlPNL86r) | 3:06 | 2023-01-13 |  |
 | [Veneno](https://open.spotify.com/track/7t4yFQHzredlqcQJIXaaj8) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Veneno](https://open.spotify.com/album/5l8YDFaDZqxq0ix1Fg7Lrv) | 3:06 | 2022-06-29 | 2023-01-14 |
 | [Vienes](https://open.spotify.com/track/16UmAk18CfaF0nTzPwCRAA) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Luis Figueroa](https://open.spotify.com/album/3k3PwkOP7kThSg2iDxEHhE) | 3:09 | 2022-06-29 | 2023-03-18 |
-| [Volver a Casa](https://open.spotify.com/track/7DgLzDFLp5GcsYuZWJSmNL) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Volver a Casa](https://open.spotify.com/album/60bE7gawbgeAnOsbeCAMaX) | 3:44 | 2023-03-03 |  |
+| [Volver a Casa](https://open.spotify.com/track/7DgLzDFLp5GcsYuZWJSmNL) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Volver a Casa](https://open.spotify.com/album/60bE7gawbgeAnOsbeCAMaX) | 3:44 | 2023-03-03 | 2023-05-12 |
 | [Vuelve](https://open.spotify.com/track/1KJMygl0P4TmlwTYO0zVHD) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [Vuelve](https://open.spotify.com/album/07fsh2oj0AY397J3WPs6sG) | 2:46 | 2022-06-29 | 2023-01-24 |
 | [Worst Way](https://open.spotify.com/track/0yKJSkZNSHuMuTSOl9bOJM) | [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk), [YX](https://open.spotify.com/artist/2Fv2ioUtRdjP2i5ilLcDPs), [Kenyi](https://open.spotify.com/artist/6AdFGjfHin3ow9yC5qE2TW) | [Worst Way](https://open.spotify.com/album/4qT54sqjsyssX4fNZgBkUv) | 4:05 | 2022-01-01 | 2022-06-30 |
 | [Y Como Te Olvido](https://open.spotify.com/track/5Pi7YhGmhGUunb82WJKOyT) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Aqui Estoy](https://open.spotify.com/album/2qdkE76wD3jBn1wiwnxFh4) | 3:40 | 2022-04-29 | 2023-01-14 |

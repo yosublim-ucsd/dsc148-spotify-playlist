@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Alleen maar motion en good vibes. Cover: Jonna Fraser",
+  "description": "Motion en good vibes! Cover: DYSTINCT",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -352,7 +352,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 140826,
       "name": "Afterparty",
       "url": "https://open.spotify.com/track/5zln2qidSoyAVtiCTVCipu"
@@ -378,7 +378,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 148800,
       "name": "Ahora Me Dice",
       "url": "https://open.spotify.com/track/4bDn037NB3Cn3KljyNISyP"
@@ -820,7 +820,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 125882,
       "name": "Baby Momma",
       "url": "https://open.spotify.com/track/1emiSCbzoWIpfqerJijIRS"
@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 158927,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/4mgYtnnm01NgTKLlMpF10h"
@@ -3128,7 +3128,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 104357,
       "name": "Drunk in Love (Henny)",
       "url": "https://open.spotify.com/track/14xuT74kDW0LIPMsr5g5zf"
@@ -3204,6 +3204,28 @@
       "duration_ms": 156080,
       "name": "Ego",
       "url": "https://open.spotify.com/track/6XdAvTC80727JAI9HBAVLc"
+    },
+    {
+      "album": {
+        "name": "Ego\u00efst (ft. Jamily Jordan)",
+        "url": "https://open.spotify.com/album/7aoSaey5i5fhtF429ICEvj"
+      },
+      "artists": [
+        {
+          "name": "Hansie",
+          "url": "https://open.spotify.com/artist/3Xvu1Rur46ZO8HiE9hBuxl"
+        },
+        {
+          "name": "Jamily Jordan",
+          "url": "https://open.spotify.com/artist/6gHqhHMbrZ5VHK1z3CoqDa"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187199,
+      "name": "Ego\u00efst (ft. Jamily Jordan)",
+      "url": "https://open.spotify.com/track/3I7LYbwm9tWamVht2n37a0"
     },
     {
       "album": {
@@ -3318,6 +3340,28 @@
       "duration_ms": 125561,
       "name": "Eyes On You",
       "url": "https://open.spotify.com/track/5859tGjNNx7e8eJMRkOHcZ"
+    },
+    {
+      "album": {
+        "name": "Fallin",
+        "url": "https://open.spotify.com/album/6scuUVPKlS9ScVO2xOPymq"
+      },
+      "artists": [
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        },
+        {
+          "name": "Monq",
+          "url": "https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149771,
+      "name": "Fallin",
+      "url": "https://open.spotify.com/track/1V2RVZdPSzFTb1ITr25iSw"
     },
     {
       "album": {
@@ -4378,7 +4422,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 192000,
       "name": "How Many Times",
       "url": "https://open.spotify.com/track/45Vvoe20MW6GD7FwoacZc8"
@@ -4418,7 +4462,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 172775,
       "name": "Hypnose",
       "url": "https://open.spotify.com/track/3qU98CXuNSZgJFsqLhNvoF"
@@ -5750,7 +5794,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 177112,
       "name": "Lil Mama",
       "url": "https://open.spotify.com/track/5YY0YoyqNTSaagwA9rmGRd"
@@ -5830,7 +5874,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 149452,
       "name": "Listen",
       "url": "https://open.spotify.com/track/1YgiXulBEnUINkEGDd4ngT"
@@ -6046,7 +6090,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 194558,
       "name": "Low",
       "url": "https://open.spotify.com/track/67PSXs0ixoOUD03BL6UfVQ"
@@ -6249,6 +6293,32 @@
     },
     {
       "album": {
+        "name": "Mejor Que Yo",
+        "url": "https://open.spotify.com/album/6hh8lSmAAVS9ELXPkqeutc"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242696,
+      "name": "Mejor Que Yo",
+      "url": "https://open.spotify.com/track/1VsHc0qIeyjYOyvN5HIEQG"
+    },
+    {
+      "album": {
         "name": "Mek She",
         "url": "https://open.spotify.com/album/4iEqnccSWaeo5qiTdSI04B"
       },
@@ -6359,6 +6429,32 @@
     },
     {
       "album": {
+        "name": "Mi Gyal",
+        "url": "https://open.spotify.com/album/1QKJLwJNWBZu20gqGi3Ana"
+      },
+      "artists": [
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        },
+        {
+          "name": "Crawba Genius",
+          "url": "https://open.spotify.com/artist/3mHwREJlcPKL8zgLzVUGHf"
+        },
+        {
+          "name": "Mr. Fishbone",
+          "url": "https://open.spotify.com/artist/6agIb95cuFIKWDZKIy0CED"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185663,
+      "name": "Mi Gyal",
+      "url": "https://open.spotify.com/track/5j9VIL2P3eIlsNjMf0gx0b"
+    },
+    {
+      "album": {
         "name": "MIA",
         "url": "https://open.spotify.com/album/5EEUlKuZcyXlGlWDiXq16c"
       },
@@ -6422,6 +6518,24 @@
       "duration_ms": 126666,
       "name": "Mijn Baby",
       "url": "https://open.spotify.com/track/2a2Dkwi2hOpjEo2JALKPXN"
+    },
+    {
+      "album": {
+        "name": "Milan",
+        "url": "https://open.spotify.com/album/1rNjAENY9u4HeKBzPIHNJd"
+      },
+      "artists": [
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134820,
+      "name": "Milan",
+      "url": "https://open.spotify.com/track/3ptkyPijuK4W4h0IdOro9y"
     },
     {
       "album": {
@@ -7453,6 +7567,28 @@
     },
     {
       "album": {
+        "name": "FOUR JUNO",
+        "url": "https://open.spotify.com/album/0nbHgLf8m1peS94gicQQVJ"
+      },
+      "artists": [
+        {
+          "name": "Bizzey",
+          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
+        },
+        {
+          "name": "Dylisa",
+          "url": "https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "On & On (feat. Dylisa)",
+      "url": "https://open.spotify.com/track/13o9yFqAWDVL5ZU3tQKmbS"
+    },
+    {
+      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/4tFcJsaPk3MFYLEkFPcpHg"
       },
@@ -7498,6 +7634,28 @@
       "duration_ms": 149562,
       "name": "Ons Twee",
       "url": "https://open.spotify.com/track/3QwJNl3IoF8p752C6yg1u8"
+    },
+    {
+      "album": {
+        "name": "Ontsporen",
+        "url": "https://open.spotify.com/album/2KgCeW9gIORPR6vFq46Xrc"
+      },
+      "artists": [
+        {
+          "name": "Murcy",
+          "url": "https://open.spotify.com/artist/4E7gLv6nkFJ4qXyEFM3JdA"
+        },
+        {
+          "name": "Shqq",
+          "url": "https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93047,
+      "name": "Ontsporen",
+      "url": "https://open.spotify.com/track/77P49agaSeUONP1Wqexu1v"
     },
     {
       "album": {
@@ -8789,6 +8947,24 @@
     },
     {
       "album": {
+        "name": "Shu-Peru",
+        "url": "https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139377,
+      "name": "Shu-Peru",
+      "url": "https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L"
+    },
+    {
+      "album": {
         "name": "SI MI CLEAN (feat. Busy Signal)",
         "url": "https://open.spotify.com/album/2ZHTu0yaFOAH5G4MiYQ6Ia"
       },
@@ -9473,6 +9649,28 @@
     },
     {
       "album": {
+        "name": "Tek Tek (feat. MHD)",
+        "url": "https://open.spotify.com/album/7uWbDuFBLAEI68L9U2pJ85"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "MHD",
+          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161506,
+      "name": "Tek Tek (feat. MHD)",
+      "url": "https://open.spotify.com/track/4TBxB7MulrQ1Nb2uxHwJX1"
+    },
+    {
+      "album": {
         "name": "Tempty",
         "url": "https://open.spotify.com/album/4IvU6iu0w5I8gDNX9K9k3E"
       },
@@ -9728,6 +9926,28 @@
       "duration_ms": 154333,
       "name": "Toute La Night",
       "url": "https://open.spotify.com/track/6BCYTbYrUoOMcPVHwtM8gY"
+    },
+    {
+      "album": {
+        "name": "Love Stories",
+        "url": "https://open.spotify.com/album/00wQC7GhtjQjSMuPQWEJsw"
+      },
+      "artists": [
+        {
+          "name": "Jayh",
+          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155540,
+      "name": "Toxic Love (feat. DYSTINCT)",
+      "url": "https://open.spotify.com/track/30oXsnwOMmvpzzEErBvr1B"
     },
     {
       "album": {
@@ -10059,6 +10279,24 @@
     },
     {
       "album": {
+        "name": "Vatos Locos",
+        "url": "https://open.spotify.com/album/2GlT1zfc04pKMawuOvt1GL"
+      },
+      "artists": [
+        {
+          "name": "Driess",
+          "url": "https://open.spotify.com/artist/1oCIudG8pNordgzuLjTMNP"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163447,
+      "name": "Vatos Locos",
+      "url": "https://open.spotify.com/track/6gF0SzgjzeYSriubXBGThr"
+    },
+    {
+      "album": {
         "name": "Vazge\u00e7emem",
         "url": "https://open.spotify.com/album/74nhbuFu56fLwdo0tRhfeo"
       },
@@ -10258,10 +10496,28 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 154039,
       "name": "Vlinders (feat. Kleine John & Chavant\u00e9)",
       "url": "https://open.spotify.com/track/0dsRtIlchp7nmVAS5hemAr"
+    },
+    {
+      "album": {
+        "name": "Volg Jou",
+        "url": "https://open.spotify.com/album/6xjlFTuuOurOT3SjOikP3J"
+      },
+      "artists": [
+        {
+          "name": "Ajay",
+          "url": "https://open.spotify.com/artist/0cZUnZAl3WmjGJwEVcBqEH"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167250,
+      "name": "Volg Jou",
+      "url": "https://open.spotify.com/track/4SZnUuQuA7TGwrSPPdG5do"
     },
     {
       "album": {
@@ -10576,7 +10832,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 156734,
       "name": "Whine",
       "url": "https://open.spotify.com/track/6kq4HI3ILiPHXJ5por9jnO"

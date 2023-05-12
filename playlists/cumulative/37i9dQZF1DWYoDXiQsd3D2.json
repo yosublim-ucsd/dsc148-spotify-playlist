@@ -1701,6 +1701,32 @@
     },
     {
       "album": {
+        "name": "Healing As A Family",
+        "url": "https://open.spotify.com/album/5n2epA4EVhH7U8woR1z3Jt"
+      },
+      "artists": [
+        {
+          "name": "Aisling Brouwer",
+          "url": "https://open.spotify.com/artist/0laJTSeaECNmGVvVVXH6wn"
+        },
+        {
+          "name": "Anna Phoebe",
+          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
+        },
+        {
+          "name": "AVAWAVES",
+          "url": "https://open.spotify.com/artist/0n6xMAwakXiGBh8glsuYG1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82190,
+      "name": "Healing As A Family",
+      "url": "https://open.spotify.com/track/3WiVNSxYwImI728OxgLA2h"
+    },
+    {
+      "album": {
         "name": "Surf High",
         "url": "https://open.spotify.com/album/1NJSMLmjTCDQ4jr2uaUa65"
       },
@@ -1730,7 +1756,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 82190,
       "name": "Healing as a Family",
       "url": "https://open.spotify.com/track/0fs8CepANvhFGee0M6P5AW"

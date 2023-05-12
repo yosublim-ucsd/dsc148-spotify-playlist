@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto:   <a href="https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI?si=d8f9df5f1b244fad">Pescao Vivo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,746 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,798 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [No Hay Otro Dios](https://open.spotify.com/track/61JeAQp4ND7t2o6GIrzuOr) | [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw) | [No Hay Otro Dios](https://open.spotify.com/album/5SMNLeHVF5PgQrT6nKsToy) | 6:18 |
 | 100 | [Seré](https://open.spotify.com/track/4i5aNIHaiANNFN6x6I9BaM) | [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [De Corazón a Corazón](https://open.spotify.com/album/5LLQhiskyiTEAvwB9CBnVp) | 3:45 |
 
-Snapshot ID: `MCxlMzhiNTZkZjI0YTBhOWMyNDRjNDFiNDRlY2Q2YWRiNmU5NjY2Mjgz`
+Snapshot ID: `MCw1MDYwMzY5YTZkMGY4YWNlOTgzYmIwNWJjYjQyMzZiZDhhY2ZkODhj`

@@ -3921,6 +3921,24 @@
     },
     {
       "album": {
+        "name": "Heart of Steel (Eurovision Version)",
+        "url": "https://open.spotify.com/album/0jGnnA1n6iYtDq1fOxMfgx"
+      },
+      "artists": [
+        {
+          "name": "TVORCHI",
+          "url": "https://open.spotify.com/artist/0jWniZlqlLCZY3xSPwPXz5"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158461,
+      "name": "Heart of Steel - Eurovision Version",
+      "url": "https://open.spotify.com/track/155yInH5aDNEI1MkcX6NNk"
+    },
+    {
+      "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
       },
@@ -9808,7 +9826,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 107044,
       "name": "vendetta!",
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
@@ -11538,6 +11556,24 @@
       "duration_ms": 331319,
       "name": "\u0412 \u0434\u0438\u0430\u043f\u0430\u0437\u043e\u043d\u0435",
       "url": "https://open.spotify.com/track/1cmIuauHOxvxzTCFXFnNRL"
+    },
+    {
+      "album": {
+        "name": "\u0412 \u0437\u0430\u0433\u043e\u0440\u043e\u0434\u043d\u043e\u043c \u0434\u043e\u043c\u0435",
+        "url": "https://open.spotify.com/album/3yhiM148inZXOlpoYQrZka"
+      },
+      "artists": [
+        {
+          "name": "KRBK",
+          "url": "https://open.spotify.com/artist/0E56Ncr2I37JQhW71UJALE"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100465,
+      "name": "\u0412 \u0437\u0430\u0433\u043e\u0440\u043e\u0434\u043d\u043e\u043c \u0434\u043e\u043c\u0435",
+      "url": "https://open.spotify.com/track/5Be4Iw2PPQ1fxYIVZakRhM"
     },
     {
       "album": {
@@ -15142,7 +15178,7 @@
       ],
       "date_added": "2021-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 210474,
       "name": "\u041b\u044e\u0431\u0438\u043b\u0430",
       "url": "https://open.spotify.com/track/5qKLAXmy19fE0Z9vRbLFhz"
@@ -17308,7 +17344,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 172094,
       "name": "\u043f\u043e\u0440\u0442\u0440\u0435\u0442\u044b - Acoustic",
       "url": "https://open.spotify.com/track/7ojBwkKhmZzXDjrqwfLH26"
@@ -19484,7 +19520,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 156428,
       "name": "\u0424\u0430\u0439\u043d\u0430 (feat. Skofka)",
       "url": "https://open.spotify.com/track/3EkGH0yreaWUFAXBil8rmH"

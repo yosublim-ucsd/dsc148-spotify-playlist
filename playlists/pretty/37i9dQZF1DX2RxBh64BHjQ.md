@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:57n1OF36WvtOeATY6WQ6iw">Digga D</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,764,002 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,767,181 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [Trappin N Rappin \(feat\. Gucci Mane\)](https://open.spotify.com/track/4jCu9I3jXfKLr48r98RyVg) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [The Secret Weapon](https://open.spotify.com/album/1UJTAfBAyEYreutJBFKhXA) | 2:57 |
 | 100 | [100 or Nun \(feat\. Tony Shhnow\)](https://open.spotify.com/track/0U6ZKypkSptN2Zlhtkbvj6) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8) | [3](https://open.spotify.com/album/1t2lMi1AXxPMo8bbCjaa3g) | 3:19 |
 
-Snapshot ID: `MCwyYWEzMmViMDhjNTY1ZDgxOTkxZmMzYTQzOWI5ZGNjOTU2ZTM1NTUw`
+Snapshot ID: `MCxiNDBiMmM3MzkyN2Q2MjA4MjAyODBlMWI3NzQxMGRhODU4ZjM5YTQ4`

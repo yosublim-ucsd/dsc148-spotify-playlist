@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 873,398 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 873,648 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 91 | [Layla](https://open.spotify.com/track/6nMN0skRJ95zgzRlJnRCJs) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Layla](https://open.spotify.com/album/27DCicKUYuGiMN7keqhb7p) | 4:10 |
 | 92 | [Infinite Source](https://open.spotify.com/track/4Okw5Im49vRlERn4KLMQkc) | [Grapetooth](https://open.spotify.com/artist/2JcgT3bbIW7SctN6eQI2eh), [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Infinite Source](https://open.spotify.com/album/5N8nKM5KhfW2SalKPtNYNA) | 3:03 |
 | 93 | [So Happy](https://open.spotify.com/track/6Sa70vxAcc5pVRZ6gGf2x6) | [Das Kope](https://open.spotify.com/artist/7pE9Rkb1GpfiociOILnA1j) | [So Happy](https://open.spotify.com/album/5cutk9ZUkijZKQcsnpDmej) | 2:51 |
-| 94 | [Failed at Math\(s\)](https://open.spotify.com/track/6W1wt10FubiQQVXychFAKp) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Failed at Math\(s\)](https://open.spotify.com/album/1TyXRjcjSnDLmewsTjr6id) | 2:40 |
+| 94 | [Failed at Math\(s\)](https://open.spotify.com/track/0CGTEFOmGzMjgcW5WUS7WW) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Failed at Math\(s\)](https://open.spotify.com/album/0xCCtljPkA65lyDP3CXFgr) | 2:40 |
 | 95 | [Take](https://open.spotify.com/track/1a47TGHdpraBmuMkoVSiTF) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Take](https://open.spotify.com/album/13hfnOETzKRNERgshH3m0G) | 3:39 |
 | 96 | [threethou \- latenight](https://open.spotify.com/track/06fIKQURUEsv8g6K31kCny) | [Justend](https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp), [Count Draco](https://open.spotify.com/artist/2pTgkxpwt3m1IiNmWTQNiu), [loe4t](https://open.spotify.com/artist/7EgzC7ivtBbXIPst8RAKNe), [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy), [Huck](https://open.spotify.com/artist/6kyIFL5I0g0kWOBygAJCbu) | [threethou \(latenight\)](https://open.spotify.com/album/1ib7ePKBmxKH097Mc7aFqy) | 1:20 |
 | 97 | [High](https://open.spotify.com/track/6r836ND98CjgLGESPNV9c9) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [High](https://open.spotify.com/album/3OI4BbvKr2O5KoehBvmqby) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 99 | [After All](https://open.spotify.com/track/6wuJXtirfIartyLOSSDno9) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [After All](https://open.spotify.com/album/3yNmwe7tHm0YXMPAHfrxjr) | 2:21 |
 | 100 | [Chasing Ghosts](https://open.spotify.com/track/6fB74plQyGv3vsevsbxKPo) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Semblance](https://open.spotify.com/album/1CIUceDTCKIYWgSQuj383i) | 2:59 |
 
-Snapshot ID: `MCwxNDNjYzE2NGZhMDkzY2M3MzNlMzdhNDRiN2QxNTBkNzVmNjY4OGU4`
+Snapshot ID: `MCwyYzI2NzFjNmE4MDRjODg0ZTE0ZjA5YjQ0NzBjNmFiYWJkYThlY2E1`

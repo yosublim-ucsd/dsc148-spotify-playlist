@@ -4,7 +4,7 @@
 
 > make it pop! cover: The Aces
 
-635 songs - 1 day 7 hr 54 min
+636 songs - 1 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -603,6 +603,7 @@
 | [Wait Until Tomorrow](https://open.spotify.com/track/753YTuoNXuJjBcUo6yW9R6) | [Wilmah](https://open.spotify.com/artist/3alzUqwOo4TgcCuzQKME9J) | [Wait Until Tomorrow](https://open.spotify.com/album/3AmSSmr8GhByvmWa3VYUEF) | 3:06 | 2021-11-19 | 2022-01-29 |
 | [Want Want](https://open.spotify.com/track/5fmaigGNZqMUv3bW6FCs2L) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Want Want](https://open.spotify.com/album/4hHUyNuLV7kIyHh4pBQNCE) | 3:08 | 2022-06-03 | 2022-08-27 |
 | [Was It Something I Said?](https://open.spotify.com/track/2m01TzKvGrjYtLfkOgSl8A) | [asking for a friend](https://open.spotify.com/artist/3rHc6krX8mtdragl9o6eLy), [DYSN](https://open.spotify.com/artist/2zPdY1UXnOn4PC4GpoOkPm), [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2) | [Was It Something I Said?](https://open.spotify.com/album/4jvtfXT3ZXM42ReGgvaX3Z) | 3:06 | 2022-01-14 | 2022-02-26 |
+| [Waste it](https://open.spotify.com/track/3rvpJ8qsQdY47wmosdTl6J) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Like Honey](https://open.spotify.com/album/03DLVOMzKutL4B0tU6s1je) | 2:07 | 2023-05-05 |  |
 | [Waste Your Time](https://open.spotify.com/track/1OYWoqq19KO8IhXpQ4HTys) | [Sub\-Radio](https://open.spotify.com/artist/2lCUVconWp5YjxdYssfZ8J) | [Past Selves](https://open.spotify.com/album/3FOX9TnBKrJDTmvrRusZWk) | 3:01 | 2023-02-10 | 2023-03-25 |
 | [Waste Your Time](https://open.spotify.com/track/4xtAYBNS8oC6R7KbGZQWg1) | [Sub\-Radio](https://open.spotify.com/artist/2lCUVconWp5YjxdYssfZ8J) | [Past Selves](https://open.spotify.com/album/6oK7OqWNFQJMjUChpNzJZ7) | 3:01 | 2023-02-10 | 2023-02-19 |
 | [Watching TV](https://open.spotify.com/track/7fAn052aR5ah3RvrANPEQd) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Watching TV](https://open.spotify.com/album/2AMv7OLRdtbifINJFTpRuD) | 2:40 | 2022-08-19 | 2022-09-17 |

@@ -558,7 +558,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 234205,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/5vSt6mrEG70ErDOzMn0PSb"
@@ -1246,7 +1246,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 183167,
       "name": "Disappear",
       "url": "https://open.spotify.com/track/0gPaNDbghFIURQyB2B8Law"
@@ -1759,6 +1759,28 @@
     },
     {
       "album": {
+        "name": "Light Places",
+        "url": "https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Caroline Byrne",
+          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241804,
+      "name": "Feels Just Like it",
+      "url": "https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y"
+    },
+    {
+      "album": {
         "name": "Shield",
         "url": "https://open.spotify.com/album/7r2DO2kRoV44v9hdfgAQKr"
       },
@@ -2061,6 +2083,28 @@
     },
     {
       "album": {
+        "name": "Fusion Royale",
+        "url": "https://open.spotify.com/album/18kauRpeqh835qAR7D28Be"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        },
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Fusion Royale",
+      "url": "https://open.spotify.com/track/0rJqFVbel8SRHrKhgylnvh"
+    },
+    {
+      "album": {
         "name": "Gang",
         "url": "https://open.spotify.com/album/4bT00mv87OoRIJEUbyyr9R"
       },
@@ -2309,6 +2353,24 @@
     },
     {
       "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/6m70npuQphUT3nzx0AOhff"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308186,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/0MBibh6TQByFYv5Po4nbNk"
+    },
+    {
+      "album": {
         "name": "Hello Echo",
         "url": "https://open.spotify.com/album/0WHck9IyWpYptoKg5TAOIR"
       },
@@ -2491,6 +2553,24 @@
     },
     {
       "album": {
+        "name": "Hungrige Liebe",
+        "url": "https://open.spotify.com/album/1fLczD6C61LPa8DdfFL9qN"
+      },
+      "artists": [
+        {
+          "name": "NNHMN",
+          "url": "https://open.spotify.com/artist/3PFLYlaguMd2AXu1i3UAKt"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279500,
+      "name": "Hungrige Liebe",
+      "url": "https://open.spotify.com/track/4OECWmZqq2NLjRbyYGL90B"
+    },
+    {
+      "album": {
         "name": "Hypnotized (Roosevelt Remix)",
         "url": "https://open.spotify.com/album/30tQcE1vyo7E0i38zBn37O"
       },
@@ -2568,7 +2648,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 217708,
       "name": "If Love Is A Skill",
       "url": "https://open.spotify.com/track/4w5uos4sTvjQeg8ofXtBm8"
@@ -2612,6 +2692,24 @@
       "duration_ms": 137655,
       "name": "In der Nacht",
       "url": "https://open.spotify.com/track/5zM7a2cRrVcyxBi0LuMKAE"
+    },
+    {
+      "album": {
+        "name": "The Love Invention",
+        "url": "https://open.spotify.com/album/042rZgYJ5J3oTscBwQ8PPD"
+      },
+      "artists": [
+        {
+          "name": "Alison Goldfrapp",
+          "url": "https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199626,
+      "name": "In Electric Blue",
+      "url": "https://open.spotify.com/track/59nfNz6nsEt1ZizfZCouyG"
     },
     {
       "album": {
@@ -3780,7 +3878,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 202946,
       "name": "Never Die",
       "url": "https://open.spotify.com/track/5Sjl43G665Bah8bFETiyoh"
@@ -3968,7 +4066,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 224760,
       "name": "Nothing Left To Lose",
       "url": "https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf"
@@ -5824,7 +5922,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 296750,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/4fPbI1iRkmQcJaghebMG2u"

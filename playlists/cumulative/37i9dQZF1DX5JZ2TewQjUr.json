@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: THAIMAY",
+  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: KALAI \u5bb6\u9e97",
   "name": "+852 Rising",
   "tracks": [
     {
@@ -581,6 +581,24 @@
     },
     {
       "album": {
+        "name": "could you call me tonight?",
+        "url": "https://open.spotify.com/album/0E4ALjSiina3AimCCQr9tg"
+      },
+      "artists": [
+        {
+          "name": "melatonin boy",
+          "url": "https://open.spotify.com/artist/66vheDPkCTxEfvcqxPZR19"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204146,
+      "name": "breathe",
+      "url": "https://open.spotify.com/track/27zQHWADjPPzRwJLBaSmyQ"
+    },
+    {
+      "album": {
         "name": "Broken Promise",
         "url": "https://open.spotify.com/album/7oas2rVf2wUa6tur5mezAf"
       },
@@ -1040,6 +1058,24 @@
       "duration_ms": 213500,
       "name": "Crack It",
       "url": "https://open.spotify.com/track/4K0OTeAlHEFW8bZo063vLq"
+    },
+    {
+      "album": {
+        "name": "Credit",
+        "url": "https://open.spotify.com/album/7IqwSxxntduz6KUd8pAAwv"
+      },
+      "artists": [
+        {
+          "name": "Joya",
+          "url": "https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161289,
+      "name": "Credit",
+      "url": "https://open.spotify.com/track/5abqjJv3WCoD1y9z59yh7t"
     },
     {
       "album": {
@@ -2016,6 +2052,42 @@
       "duration_ms": 216844,
       "name": "Give It Up - Live",
       "url": "https://open.spotify.com/track/4omJ7cFiuK8I8tTbdnalEh"
+    },
+    {
+      "album": {
+        "name": "GO UP",
+        "url": "https://open.spotify.com/album/55ShbiXKTKwGmHpb78dz5V"
+      },
+      "artists": [
+        {
+          "name": "KALAI \u5bb6\u9e97",
+          "url": "https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "GO UP",
+      "url": "https://open.spotify.com/track/1WLjBAS287dg6jaYdYjdpn"
+    },
+    {
+      "album": {
+        "name": "GOLDEN BOYS!",
+        "url": "https://open.spotify.com/album/4jEySCSHXFnaBLnfi41LWf"
+      },
+      "artists": [
+        {
+          "name": "Jayj",
+          "url": "https://open.spotify.com/artist/3kH3cdvEQ8E33l3eOQC2N9"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167865,
+      "name": "GOLDEN BOYS!",
+      "url": "https://open.spotify.com/track/0LBjHIfdzv76vvZF4z2sAT"
     },
     {
       "album": {
@@ -4541,6 +4613,24 @@
     },
     {
       "album": {
+        "name": "Shadow Sheep",
+        "url": "https://open.spotify.com/album/3qIwpdhgVfcIRNu25QqyZH"
+      },
+      "artists": [
+        {
+          "name": "Oh! Sheep",
+          "url": "https://open.spotify.com/artist/6J1qygxBY60B6lwIBTYTTU"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Shadow Sheep",
+      "url": "https://open.spotify.com/track/5GjT4jQtNeVTPUEC1fnE3C"
+    },
+    {
+      "album": {
         "name": "Sick And Tired",
         "url": "https://open.spotify.com/album/6mO84EaybYVN9XlkSHPQOb"
       },
@@ -4744,6 +4834,24 @@
       "duration_ms": 171893,
       "name": "sorry it's december",
       "url": "https://open.spotify.com/track/7oReofzcCaync7NIOx4gnA"
+    },
+    {
+      "album": {
+        "name": "Sorry not for me",
+        "url": "https://open.spotify.com/album/2mw3wuQXY3sDqwcICWBOqT"
+      },
+      "artists": [
+        {
+          "name": "kiiro",
+          "url": "https://open.spotify.com/artist/10t9nldzYKH5Awx2CHBstA"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "Sorry not for me",
+      "url": "https://open.spotify.com/track/76ceJYZ6HEMiCxeEeeT8nx"
     },
     {
       "album": {
@@ -6248,6 +6356,24 @@
       "duration_ms": 160000,
       "name": "\u4e09\u4eba\u5e8a",
       "url": "https://open.spotify.com/track/6JQlVBfOTkF0yOTAnEB9Tn"
+    },
+    {
+      "album": {
+        "name": "\u4e0a\u8f09\u4e2d",
+        "url": "https://open.spotify.com/album/6ancWREeaAWceAyHlGIsDs"
+      },
+      "artists": [
+        {
+          "name": "\u5340\u5b50\u7433",
+          "url": "https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201376,
+      "name": "\u4e0a\u8f09\u4e2d",
+      "url": "https://open.spotify.com/track/0B8WoUBod351rAw8zzgANQ"
     },
     {
       "album": {
@@ -8611,6 +8737,24 @@
     },
     {
       "album": {
+        "name": "\u7121\u8ca8",
+        "url": "https://open.spotify.com/album/0qeGxttcYJuph4fwqmPaLG"
+      },
+      "artists": [
+        {
+          "name": "Takeem",
+          "url": "https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121153,
+      "name": "\u7121\u8ca8",
+      "url": "https://open.spotify.com/track/6eQkfMMehEm1Ic6kSBByTO"
+    },
+    {
+      "album": {
         "name": "\u7159\u82b1",
         "url": "https://open.spotify.com/album/5urjNaWB6TjYAed6DqUTdS"
       },
@@ -8998,6 +9142,24 @@
       "duration_ms": 154000,
       "name": "\u81ed\u897f\u897f\u5973\u4eba",
       "url": "https://open.spotify.com/track/6YaK7a44wwHBmoiRbgpW3e"
+    },
+    {
+      "album": {
+        "name": "\u81f3\u95dc\u91cd\u8981\u4e8b\u60c5",
+        "url": "https://open.spotify.com/album/0ZjBvvLaQZnIspBPjVxp3Z"
+      },
+      "artists": [
+        {
+          "name": "WHIZZ",
+          "url": "https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222878,
+      "name": "\u81f3\u95dc\u91cd\u8981\u4e8b\u60c5",
+      "url": "https://open.spotify.com/track/1euRrLj1IkzAqBJBUk7bQE"
     },
     {
       "album": {

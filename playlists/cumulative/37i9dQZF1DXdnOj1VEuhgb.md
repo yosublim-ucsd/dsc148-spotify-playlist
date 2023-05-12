@@ -2,7 +2,7 @@
 
 ### [NKVT](https://open.spotify.com/playlist/37i9dQZF1DXdnOj1VEuhgb)
 
-> Türkiye'nin en sıkı çalma listesi\. Kapak: Motive x Ohash
+> Türkiye'nin en sıkı çalma listesi\. Kapak: Organize x Astral
 
 121 songs - 5 hr 19 min
 

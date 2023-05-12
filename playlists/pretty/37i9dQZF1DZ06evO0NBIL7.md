@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NBIL7.md) - [plain]
 | 22 | [High](https://open.spotify.com/track/12RaagYNB2IjIDzE7fRFKe) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [True Love](https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q) | 3:23 |
 | 23 | [Animal Skin](https://open.spotify.com/track/3meRt7aFNpF6oEGlVHe9K3) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Fangclub](https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8) | 3:28 |
 
-Snapshot ID: `MjgwNjIwMzUsMDAwMDAwMDAyY2VhODJlYzc4YjcxMmE2M2ZiNTBmYjA0MmQxNmZmMw==`
+Snapshot ID: `MjgwNjM0NjIsMDAwMDAwMDA3OWY2N2I1OWFlOWJmMjUwNzFkMjQ1Y2EzZWE3ZDlkYg==`

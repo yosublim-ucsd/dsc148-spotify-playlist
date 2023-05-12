@@ -4,7 +4,7 @@
 
 > This is Germaine Franco\. The essential tracks, all in one playlist.
 
-39 songs - 1 hr 3 min
+40 songs - 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Felipe's Theme](https://open.spotify.com/track/7DCnWWU7KEswRD2qoqFRbU) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Royal Monkey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf) | 1:06 | 2023-05-05 |  |
 | [George And Doris](https://open.spotify.com/track/6KeD0so6pe8IdCgl5giXck) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Royal Monkey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf) | 1:11 | 2023-05-10 |  |
 | [George's Pancake Practice](https://open.spotify.com/track/2yDU7GOKPm3DPuEdF1HN5G) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Royal Monkey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf) | 1:01 | 2023-05-07 |  |
+| [Ginny Sees the Light](https://open.spotify.com/track/1CfFQW5d5waaNcEJzuhXLJ) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:09 | 2023-05-11 |  |
 | [Ginny's Home](https://open.spotify.com/track/3LZEdjxVerAfGds8a2ddJW) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 2:09 | 2023-05-05 | 2023-05-08 |
 | [Golf Cart Down](https://open.spotify.com/track/7kHxcxJiWkeBSsmDKvOjSl) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Tag \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C7wBD6rACNfc21SL9Y1US) | 1:31 | 2023-05-05 | 2023-05-08 |
 | [I Need You](https://open.spotify.com/track/6FpvvigQOnNyTmLAfethGC) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 2:27 | 2023-05-05 |  |

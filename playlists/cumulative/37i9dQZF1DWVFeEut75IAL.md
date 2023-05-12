@@ -4,7 +4,7 @@
 
 > The most calming classical music.
 
-107 songs - 6 hr 39 min
+108 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Herz und Mund und Tat und Leben, Cantata BWV 147: Jesu, Joy of Man’s Desiring \(Transcr\. Hess for Piano\)](https://open.spotify.com/track/2zl2AqEdHVLhjzStuRulGY) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [J.S\. Bach: Herz und Mund und Tat und Leben, Cantata BWV 147: Jesu, Joy of Man’s Desiring \(Transcr\. Hess for Piano\)](https://open.spotify.com/album/2nEKEXX0SONygbGBA7bsuF) | 4:18 | 2021-11-15 | 2023-04-15 |
 | [II\. floating leaf](https://open.spotify.com/track/1HE6aHCUtC6Mx0kiOsRUIS) | [Konstantia Gourzi](https://open.spotify.com/artist/6KYa46jd4bu7OeKBpW4rFJ), [William Youn](https://open.spotify.com/artist/7uWSy5aRJy75BSKdpYbp2R) | [wind whispers, Op\. 85/II\. floating leaf](https://open.spotify.com/album/4oXRET0XU9DTUwM9yxjcoq) | 2:17 | 2022-02-04 |  |
 | [Infinity](https://open.spotify.com/track/2FR3mH7DwsaX3TcObkUEX3) | [Rosey Chan](https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR) | [Sonic Apothecary](https://open.spotify.com/album/0xngclE7lI1lFO3Fu9Kzcb) | 7:28 | 2022-06-21 |  |
-| [Jesu, Joy of Man's Desiring \- Arr\. by Alexis Ffrench](https://open.spotify.com/track/2Kn5PauE1nEJxUQlD6N3JF) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Jesu, Joy of Man's Desiring](https://open.spotify.com/album/2pjG5wJxCWKHmZcNcK0mCR) | 2:08 | 2023-04-14 |  |
+| [Jesu, Joy of Man's Desiring \- Arr\. by Alexis Ffrench](https://open.spotify.com/track/2Kn5PauE1nEJxUQlD6N3JF) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Jesu, Joy of Man's Desiring](https://open.spotify.com/album/2pjG5wJxCWKHmZcNcK0mCR) | 2:08 | 2023-04-14 | 2023-05-12 |
+| [Jesu, Joy of Man's Desiring \- Arr\. by Alexis Ffrench](https://open.spotify.com/track/75pxraYiRRhRn68Kwk4sT3) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Peace](https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw) | 2:08 | 2023-04-14 |  |
 | [Kinderszenen, Op\. 15: Träumerei \(Arr\. Lewin for Guitar\)](https://open.spotify.com/track/2Imxyb3LiuXsDFo7Gq5YDs) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Schumann: Kinderszenen, Op\. 15: Träumerei \(Arr\. Lewin for Guitar\)](https://open.spotify.com/album/3dtyRuctasvglDB28bijNg) | 3:35 | 2021-11-15 |  |
 | [La Vierge / Scene 4: The Assumption: Le dernier sommeil de la Vièrge \(The Last Sleep of the Virgin\)](https://open.spotify.com/track/0BGJjuvUKA1UqlfADE6Lyx) | [Jules Massenet](https://open.spotify.com/artist/1AoIc5YFH0aSFc4mKqBEeB), [The New Symphony Orchestra Of London](https://open.spotify.com/artist/2tXt8tQb1z7e9xrx5RWKie), [Raymond Agoult](https://open.spotify.com/artist/6vzgzz9hqA9fCrIIlGJtZb) | [Clair de Lune \- Orchestral Favourites; Waldteufel \- Waltzes](https://open.spotify.com/album/6cHVhRbxBkXYfN0Gfz9uau) | 5:02 | 2022-07-08 |  |
 | [Lo, the full, final sacrifice, Op\. 26: Amen \- Instrumental](https://open.spotify.com/track/5776PanLfe9zLJMhDbMBgW) | [Gerald Finzi](https://open.spotify.com/artist/4CDMSd6tmH66svpunz3aWP), [Amy Dickson](https://open.spotify.com/artist/3jCy6dMGBsf8Bt8fKD11Ty), [Aurora Orchestra](https://open.spotify.com/artist/0nrZ1B05azLrMkhTOFaoGJ), [Nicholas Collon](https://open.spotify.com/artist/23qJKSvfqtc9c3VFwdEV4a) | [Introit: The Music of Gerald Finzi](https://open.spotify.com/album/7D1xCSxqiXQxbmP39RknDJ) | 2:40 | 2021-11-15 | 2022-08-02 |

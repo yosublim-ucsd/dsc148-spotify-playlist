@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 314000,
       "name": "A Flower is a Lonesome Thing",
       "url": "https://open.spotify.com/track/036pVPoObS9PcXjTe5bcql"
@@ -146,6 +146,24 @@
       "duration_ms": 194000,
       "name": "And All Is Well Now",
       "url": "https://open.spotify.com/track/0T2metNGLcq41M0OsIZNRu"
+    },
+    {
+      "album": {
+        "name": "Between The Rain",
+        "url": "https://open.spotify.com/album/7ijwsTk1qpmF3k5FIoT9cP"
+      },
+      "artists": [
+        {
+          "name": "Tyree",
+          "url": "https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266654,
+      "name": "Between The Rain",
+      "url": "https://open.spotify.com/track/5FagKEeBcZDoXo5AxEpcMg"
     },
     {
       "album": {
@@ -556,7 +574,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 260000,
       "name": "I Get Along Without You Very Well (Except Sometimes)",
       "url": "https://open.spotify.com/track/0PcZFOrXlv0nJugncqh4za"
@@ -1190,6 +1208,24 @@
       "duration_ms": 216000,
       "name": "Sommarnattens Skeende - Rain Version",
       "url": "https://open.spotify.com/track/7m6xM40of1KJw6JRKcRmU8"
+    },
+    {
+      "album": {
+        "name": "Spoonbills",
+        "url": "https://open.spotify.com/album/2XyxvwvFpE076GQF5HkKoc"
+      },
+      "artists": [
+        {
+          "name": "Jonah Anderson",
+          "url": "https://open.spotify.com/artist/5Pb7mQGBSkDqTrQKTKeSZa"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209894,
+      "name": "Spoonbills",
+      "url": "https://open.spotify.com/track/0LM38lH2RI72dPmJ6KbBvw"
     },
     {
       "album": {

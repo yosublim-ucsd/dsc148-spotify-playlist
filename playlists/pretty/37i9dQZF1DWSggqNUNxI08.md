@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSggqNUNxI08.md) - [plain]
 
 > <a href="spotify:artist:69zPIMRgsZieOHFtHtvnj0">Yu Su</a>'s favorite tracks\. Updated regularly\. Curated by Yu Su\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,193 likes - 36 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,194 likes - 36 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSggqNUNxI08.md) - [plain]
 | 21 | [Futurist](https://open.spotify.com/track/3z5PgrfbHhRngxeyMOm7yZ) | [Eric OS](https://open.spotify.com/artist/4wE4oR2shxwQ8l179JJhLM) | [Futurist](https://open.spotify.com/album/2BTjS1mrShNSwoKpdhTPxg) | 5:01 |
 | 22 | [One Itself](https://open.spotify.com/track/0aLW6jPR9bT7jR7YTLCLPZ) | [Maurice Fulton](https://open.spotify.com/artist/4T6l995AHz8HCY7TCfQorD) | [Earth EP](https://open.spotify.com/album/3Y8VxDoSeQ0MjyPZvMsbsO) | 5:20 |
 | 23 | [Let Yrself Be](https://open.spotify.com/track/2NpE2rWVbVpGPZ3Rw2DWxe) | [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M) | [Let Yrself Be](https://open.spotify.com/album/5hBM0w9q4rPguO8CSsoJma) | 6:09 |
-| 24 | [Electronic Battle Weapon 8](https://open.spotify.com/track/3cyBVoTrCbaXLmFlTiGiBm) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Brotherhood](https://open.spotify.com/album/0koZYtM93uGBsPaD2uqa8A) | 6:30 |
+| 24 | [Electronic Battle Weapon 8](https://open.spotify.com/track/3cyBVoTrCbaXLmFlTiGiBm) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Brotherhood \(Deluxe\)](https://open.spotify.com/album/0koZYtM93uGBsPaD2uqa8A) | 6:30 |
 | 25 | [It's Time \(To Move Your Body\)](https://open.spotify.com/track/7dZeqjvrN3uWT5DKWwaVFM) | [Len Faki](https://open.spotify.com/artist/3fI3Z6NnYoeSQjcqPQDbM4) | [It's Time \(To Move Your Body\)](https://open.spotify.com/album/5rtqPft0DCNZKEsDlJQVBH) | 7:40 |
 | 26 | [Sex Music](https://open.spotify.com/track/72wtkcFJZcYBrYT3gCZu13) | [Geoffrey Landers](https://open.spotify.com/artist/61boQYG7JKM1E48RWon8Lc) | [1 By 1](https://open.spotify.com/album/4oBcoXqWbfApA9QzmcP4X0) | 5:54 |
 | 27 | [Watermelon Woman](https://open.spotify.com/track/0EE4etMJ3MNCuAEY4tFgrF) | [Yu Su](https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0) | [Watermelon Woman](https://open.spotify.com/album/7bm5Lf93EE2bB5h6t0OjKV) | 7:12 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSggqNUNxI08.md) - [plain]
 | 35 | [For the Love of Money \- New Hard Left Mix \- DJ Harvey](https://open.spotify.com/track/1HBWFObOkIZwgT6HKKNOV0) | [Disco Dub Band](https://open.spotify.com/artist/63mThjfPcQlggvZKkB5zQs) | [For the Love of Money](https://open.spotify.com/album/4uQ3fXCLoZtEHr3FEU9OLA) | 8:28 |
 | 36 | [Folkdance](https://open.spotify.com/track/1V2GJrA1oKpYyt9iZ3tq79) | [Schatrax](https://open.spotify.com/artist/6UmSaezn2PkFJqzOggxPDT) | [Schatrax 25 01](https://open.spotify.com/album/4teqLkvkaFOYXONMDlg9hg) | 5:47 |
 
-Snapshot ID: `MCw1NTEyMjcxNTBiZDI0M2U5OGQxNWUzYjkzZGE0OTliZjRkMjgxMGE4`
+Snapshot ID: `MCw3OGNhNDMxZGZkMWNiNjgxMDNkMTQ5NzRhMWE0ZTg5YTM5MGI3YmYy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,003,289 likes - 102 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,003,330 likes - 102 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 101 | [B&E Pt\. 1](https://open.spotify.com/track/3w172RIHWXdyTo8KjFyeTo) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [B&E Pt\. 1](https://open.spotify.com/album/6es9sQ9dDPmWNUx1kuoOQT) | 2:33 |
 | 102 | [Guns & Butter](https://open.spotify.com/track/37ysjKJ8jO6AItn0CJaTuJ) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [Surviving Queen Key](https://open.spotify.com/album/05YX7pNDoPh5VpwO3ew2aE) | 1:39 |
 
-Snapshot ID: `MCw5ZjlhYmFlMzcyZjdlNmUyNTZkNWY5OTYzNTRkZGYyZTRlMmY3NThm`
+Snapshot ID: `MCwxZTQ3Y2UwNjNhMzFkZWQ5ZDg5NjA1MWIzYTNjN2I2NmExNTJjNzQ5`

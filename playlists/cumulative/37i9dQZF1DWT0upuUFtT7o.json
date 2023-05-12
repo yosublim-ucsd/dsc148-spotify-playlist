@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: Walter The Producer",
+  "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: Waterbaby",
   "name": "Fresh Finds Indie",
   "tracks": [
     {
@@ -796,6 +796,24 @@
       "duration_ms": 180291,
       "name": "Afraid of Driving",
       "url": "https://open.spotify.com/track/1qff8a4waSslWtW4QvClol"
+    },
+    {
+      "album": {
+        "name": "After I Changed (Demo)",
+        "url": "https://open.spotify.com/album/1lLvF5dDpO35wMBybwTXgt"
+      },
+      "artists": [
+        {
+          "name": "Tessa DeNicola",
+          "url": "https://open.spotify.com/artist/5yyUO4YtfoPkaTB794DXGh"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180560,
+      "name": "After I Changed - Demo",
+      "url": "https://open.spotify.com/track/4CvfkQw8fSZHq5s5IfoiQw"
     },
     {
       "album": {
@@ -7716,7 +7734,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 171431,
       "name": "fanfiction on the internet",
       "url": "https://open.spotify.com/track/1wgjeq97WULtZz0xKbLfLm"
@@ -21964,7 +21982,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 280549,
       "name": "Spit Up",
       "url": "https://open.spotify.com/track/0DYIVjRfixT8rHJyBkW3ns"
@@ -22274,6 +22292,24 @@
       "duration_ms": 161796,
       "name": "Still The Same",
       "url": "https://open.spotify.com/track/3S1PM8HQvrg4wEgEyH6HsV"
+    },
+    {
+      "album": {
+        "name": "Stinks 4 Lyfe",
+        "url": "https://open.spotify.com/album/1U6LhGdZF7C7R70PDhtGQV"
+      },
+      "artists": [
+        {
+          "name": "Nymphlord",
+          "url": "https://open.spotify.com/artist/1yfevoyZUkL1AppRncgILh"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190480,
+      "name": "Stinks 4 Lyfe",
+      "url": "https://open.spotify.com/track/6omYJzwD9CJarnbwe5BItE"
     },
     {
       "album": {

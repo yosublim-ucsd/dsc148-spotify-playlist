@@ -2,7 +2,7 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Didik Budi
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Woro Widowati
 
 157 songs - 12 hr 52 min
 

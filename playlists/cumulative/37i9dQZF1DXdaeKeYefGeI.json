@@ -266,7 +266,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 270915,
       "name": "Bedankt Voor Alles",
       "url": "https://open.spotify.com/track/2uPLhDI0T71NTeG0Q2gQ08"
@@ -324,7 +324,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-12",
       "duration_ms": 180560,
       "name": "Blijf Bij Mij - Live",
       "url": "https://open.spotify.com/track/3iDaIXcvqurUTjJbaAu3Xb"
@@ -398,6 +398,24 @@
       "duration_ms": 179855,
       "name": "Daarom Doe Ik Het Niet",
       "url": "https://open.spotify.com/track/3TJ3neKQCwrOfkstbExr9f"
+    },
+    {
+      "album": {
+        "name": "Dans met me",
+        "url": "https://open.spotify.com/album/4flGk7sNFNkEgXI5Mq0v21"
+      },
+      "artists": [
+        {
+          "name": "Ricky Koole",
+          "url": "https://open.spotify.com/artist/5fBVM70bd9z2d70XwIgKyS"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278726,
+      "name": "Dans met me",
+      "url": "https://open.spotify.com/track/6HPIn3jIlvdOyKw8aH9SO0"
     },
     {
       "album": {
@@ -1782,6 +1800,28 @@
       "duration_ms": 306893,
       "name": "Vanmorgen Vloog Ze Nog",
       "url": "https://open.spotify.com/track/2WZBD5MI3pVaKIweuZj5pc"
+    },
+    {
+      "album": {
+        "name": "Veertig",
+        "url": "https://open.spotify.com/album/6B911gvHF7vDnwS0a8RQCD"
+      },
+      "artists": [
+        {
+          "name": "Engel",
+          "url": "https://open.spotify.com/artist/5t6ULwzhz2zTzSMIe10DCs"
+        },
+        {
+          "name": "Paul de Munnik",
+          "url": "https://open.spotify.com/artist/1HFg9B0Jvwqzqiuqg9cASk"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118011,
+      "name": "Verbinding Verbroken",
+      "url": "https://open.spotify.com/track/62DcDrTg5pddwjRQq3vEUZ"
     },
     {
       "album": {

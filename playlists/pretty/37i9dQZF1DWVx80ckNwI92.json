@@ -1,13 +1,85 @@
 {
   "description": "The future of African Indie and Alternative",
-  "num_followers": 4716,
+  "num_followers": 4721,
   "original_name": "ALTER-native",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTE1ZDYzNTZmNDJkMmFlY2RkZDM5YTAxMjM3NTg4OTg3NDJjODBi",
+  "snapshot_id": "MCw1MGRmNDc3NmEyZGExYWM5YWE5YzAwOTM3NGVlMzg4OTJlMjVhZTM3",
   "tracks": [
+    {
+      "added_at": "2023-05-11 21:59:00",
+      "album": {
+        "name": "Care For You",
+        "url": "https://open.spotify.com/album/3hYqlV8cBdFnwy4dSR3elT"
+      },
+      "artists": [
+        {
+          "name": "BuDu",
+          "url": "https://open.spotify.com/artist/3VVnkjuNmz9Vt2UpAZTCXB"
+        }
+      ],
+      "duration_ms": 232163,
+      "name": "Care For You",
+      "url": "https://open.spotify.com/track/7tcp0h2ypx4PKJaw1Sn1je"
+    },
+    {
+      "added_at": "2023-05-11 21:59:00",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/2c0CnSrHNgM7nk4mI7i1Iv"
+      },
+      "artists": [
+        {
+          "name": "lordkez",
+          "url": "https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88"
+        },
+        {
+          "name": "Mars Baby",
+          "url": "https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri"
+        }
+      ],
+      "duration_ms": 177606,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/2KFbxmVIFmT586l1i0DgdT"
+    },
+    {
+      "added_at": "2023-05-11 21:59:00",
+      "album": {
+        "name": "Just Cool",
+        "url": "https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 220243,
+      "name": "Just Cool",
+      "url": "https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP"
+    },
+    {
+      "added_at": "2023-05-11 21:59:00",
+      "album": {
+        "name": "As Above, So Below (Deluxe)",
+        "url": "https://open.spotify.com/album/44akZHx00MvxdyapuYlqAm"
+      },
+      "artists": [
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        },
+        {
+          "name": "Natasha Chansa",
+          "url": "https://open.spotify.com/artist/59okXWlsbRJ5hY5qK6JOjw"
+        }
+      ],
+      "duration_ms": 187858,
+      "name": "Mask On [Feat. Natasha Chansa] - Live From Lusaka",
+      "url": "https://open.spotify.com/track/4zU8TWHXwVNqhsHqlp5Tjz"
+    },
     {
       "added_at": "2023-04-20 21:59:00",
       "album": {
@@ -23,6 +95,26 @@
       "duration_ms": 187375,
       "name": "Thank You/Rebel and a Cause - from ech0",
       "url": "https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0"
+    },
+    {
+      "added_at": "2023-05-11 21:59:00",
+      "album": {
+        "name": "BETTER ALONE",
+        "url": "https://open.spotify.com/album/4VYfGqjme7LhRtizdBtOEC"
+      },
+      "artists": [
+        {
+          "name": "Yung Beathoven",
+          "url": "https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs"
+        },
+        {
+          "name": "Alainite",
+          "url": "https://open.spotify.com/artist/0jz2Kq6n1hX6kAahNkutXH"
+        }
+      ],
+      "duration_ms": 157503,
+      "name": "BETTER ALONE",
+      "url": "https://open.spotify.com/track/63GMEfty0JTpj3K3h4hRpU"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -237,22 +329,6 @@
       "url": "https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Message in a Hammer",
-        "url": "https://open.spotify.com/album/3YZuvShbzzDdKf4qyR6Vcv"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 216637,
-      "name": "Message in a Hammer",
-      "url": "https://open.spotify.com/track/4wTRV5h17Bo5cGJoTjq57y"
-    },
-    {
       "added_at": "2023-04-20 21:59:00",
       "album": {
         "name": "ECOSYSTEM_01",
@@ -395,26 +471,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Sanguine (Pastel Remix)",
-        "url": "https://open.spotify.com/album/0DggHQp8mTvxxLBKy7pANP"
-      },
-      "artists": [
-        {
-          "name": "Lil Seyi",
-          "url": "https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O"
-        },
-        {
-          "name": "Pastel",
-          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
-        }
-      ],
-      "duration_ms": 189500,
-      "name": "Sanguine - Pastel Remix",
-      "url": "https://open.spotify.com/track/45DcpHNu6MLivmNaalRIZo"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Tony, Tony!",
         "url": "https://open.spotify.com/album/6vclSwfuI40dJXhoxbR52m"
       },
@@ -495,30 +551,6 @@
       "duration_ms": 97572,
       "name": "The Girl and the Time Machine",
       "url": "https://open.spotify.com/track/1d59d3DFywurMx6uBtlGu9"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Solplay Tape, Vol. 1 (Mixtape)",
-        "url": "https://open.spotify.com/album/6JFEHmgU0rNKOnEjoy0Lhg"
-      },
-      "artists": [
-        {
-          "name": "VOLDY",
-          "url": "https://open.spotify.com/artist/6xCeaVHW0IM4W0pK7InyAA"
-        },
-        {
-          "name": "SwimGood",
-          "url": "https://open.spotify.com/artist/3dAiSwn0xbIP4Ok1L2fgKZ"
-        },
-        {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
-        }
-      ],
-      "duration_ms": 130142,
-      "name": "Tonite",
-      "url": "https://open.spotify.com/track/2l0iRvUpFZjuFybv0qSb6A"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -611,22 +643,6 @@
       "duration_ms": 224986,
       "name": "Try",
       "url": "https://open.spotify.com/track/4Zm8CIL9MxVyBQWSpLp5Ia"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "MotherFather",
-        "url": "https://open.spotify.com/album/6G76PblQXf5i8JB7mC0mv3"
-      },
-      "artists": [
-        {
-          "name": "Petite Noir",
-          "url": "https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y"
-        }
-      ],
-      "duration_ms": 187052,
-      "name": "Numbers",
-      "url": "https://open.spotify.com/track/3GCwEJZBpdu7AUtBxlz70r"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -807,26 +823,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d"
-      },
-      "artists": [
-        {
-          "name": "A\u1e63a",
-          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 177203,
-      "name": "All I Ever Wanted",
-      "url": "https://open.spotify.com/track/72CSCjFfMXe0PRJBioy7d0"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Sightseeing",
         "url": "https://open.spotify.com/album/1Ba3fPgZiNn2r1kkxs0Rje"
       },
@@ -855,22 +851,6 @@
       "duration_ms": 186734,
       "name": "my intentions",
       "url": "https://open.spotify.com/track/6xLC342gJAbWQYG3Td23cn"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Love Drunk",
-        "url": "https://open.spotify.com/album/5d0oU10qoxpnSpa4PCaKXo"
-      },
-      "artists": [
-        {
-          "name": "Ycee",
-          "url": "https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj"
-        }
-      ],
-      "duration_ms": 189795,
-      "name": "Nu Riddim",
-      "url": "https://open.spotify.com/track/3KW6KJKinwAszaajAHOSQF"
     },
     {
       "added_at": "2023-03-30 23:00:00",
