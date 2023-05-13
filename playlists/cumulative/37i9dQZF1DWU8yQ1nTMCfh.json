@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: WOS",
+  "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Wiplash",
   "name": "Rock Total",
   "tracks": [
     {
@@ -508,7 +508,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 121968,
       "name": "CABI",
       "url": "https://open.spotify.com/track/5LZWpaShpyGMIohH8kU0aK"
@@ -1353,6 +1353,24 @@
     },
     {
       "album": {
+        "name": "Esa Estrella",
+        "url": "https://open.spotify.com/album/5YgizxkrAK1uV89OaGUrAo"
+      },
+      "artists": [
+        {
+          "name": "Silo\u00e9",
+          "url": "https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238232,
+      "name": "Esa Estrella",
+      "url": "https://open.spotify.com/track/6p0tTJxVVRd31eC3KPRHM6"
+    },
+    {
+      "album": {
         "name": "El Refugio",
         "url": "https://open.spotify.com/album/2ArUrVghLI8caKOMlW7mtF"
       },
@@ -1992,7 +2010,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 164095,
       "name": "L\u00c1 L\u00c1",
       "url": "https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio"
@@ -2838,6 +2856,24 @@
       "duration_ms": 192126,
       "name": "PORTARSE MAL",
       "url": "https://open.spotify.com/track/20EnydkCy1x6OZsITbWQre"
+    },
+    {
+      "album": {
+        "name": "Narvarte",
+        "url": "https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193906,
+      "name": "Prometimos",
+      "url": "https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL"
     },
     {
       "album": {

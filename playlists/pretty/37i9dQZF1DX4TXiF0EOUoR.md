@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 
 > ¡Los reyes del jaripeo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,851 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,977 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 56 | [El Son de los Ocampo](https://open.spotify.com/track/1SbZqxZoxZKuJTQzEDwV2M) | [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [De la Ciudad pal' Rancho \(Puro Añuuu Weiii\)](https://open.spotify.com/album/2JN6smXOqkzHF0dXAtCFcJ) | 2:45 |
 | 57 | [Chilito Piquín](https://open.spotify.com/track/7zyDCmEJ4j8yq3QKkkfj62) | [Marco Flores Y La Jerez](https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80) | [Zapateado Perron](https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6) | 2:31 |
 | 58 | [Rumbo A La Canada](https://open.spotify.com/track/6VZzJ19D47BGoZua2Ht7yD) | [Tamborazo Caliente](https://open.spotify.com/artist/1YzJJDforMoBGJeBLPAhRi) | [Pal Rancho 100% Chicoteadas](https://open.spotify.com/album/5i7b3QzBMm0veTlnB1gwik) | 3:31 |
-| 59 | [Los Mayeles \- Sones para Jaripeo](https://open.spotify.com/track/6wpAMs81FDzTKIbrFtQWEN) | [Banda Monarca de Morelia](https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn) | [De Puro Gusto! \(18 Años de Trayectoria\)](https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx) | 3:12 |
-| 60 | [Sangoloteadito](https://open.spotify.com/track/1TGxZRm9X1ErxpGSvTrCoJ) | [Banda la Sinaloense de Alex Ojeda](https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf) | [Homenaje a un Grande](https://open.spotify.com/album/7Bai5sq5asXPXxSYRcAYQ1) | 2:47 |
+| 59 | [Sangoloteadito](https://open.spotify.com/track/1TGxZRm9X1ErxpGSvTrCoJ) | [Banda la Sinaloense de Alex Ojeda](https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf) | [Homenaje a un Grande](https://open.spotify.com/album/7Bai5sq5asXPXxSYRcAYQ1) | 2:47 |
+| 60 | [Los Mayeles \- Sones para Jaripeo](https://open.spotify.com/track/6wpAMs81FDzTKIbrFtQWEN) | [Banda Monarca de Morelia](https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn) | [De Puro Gusto! \(18 Años de Trayectoria\)](https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx) | 3:12 |
 | 61 | [El Olotito](https://open.spotify.com/track/2Ae478fhoMQ8zQlZry5e7G) | [Banda Yurirense](https://open.spotify.com/artist/02o7VD6pSPi2BnnIjlISG4) | [En Vivo...Desde Guanajuato Vol\. 2](https://open.spotify.com/album/4xDMitRkvUwKESArPODB5U) | 2:03 |
 | 62 | [Volveré](https://open.spotify.com/track/6EcODHnvkLbnm8sXPqq8qT) | [Marco Flores Y La Jerez](https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80) | [Volveré](https://open.spotify.com/album/0wfZvpbKHbH6ChRnZKQs0x) | 2:27 |
 | 63 | [El Huitzuqueño](https://open.spotify.com/track/5DGE6ZCHbQU3id35BsHBLI) | [La Super Banda de Chilacachapa, Gro](https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf) | [El Toro Meko](https://open.spotify.com/album/3H6XfV5BJvzjOXrnNMhN42) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 99 | [La Vaquilla, El Pájaro Chogüi](https://open.spotify.com/track/5hiixMpxeytn72OjwV0eFt) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9) | [Las Alegres de los Infinitos](https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d) | 5:00 |
 | 100 | [El Colirio](https://open.spotify.com/track/5mP19u1ndgdqtegwiTXpoU) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Sones Raíces](https://open.spotify.com/album/3NBDJkiyvtvl77Zvs2JIph) | 2:07 |
 
-Snapshot ID: `MCw4Y2JkOTRjZTM5MjQ5YzlhZTQzN2UxMWRkNDgxMTBlM2FhYjA3ZmUw`
+Snapshot ID: `MCxmOTcxNjViMmQyY2RiNGFkMWIyNzMwNDE5ZDE0NzhmNjQ5YmIzNjNh`

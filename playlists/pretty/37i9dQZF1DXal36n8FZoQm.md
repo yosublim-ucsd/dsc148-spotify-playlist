@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 
 > The official playlist for Cobra Kai\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,016 likes - 143 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,089 likes - 143 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 | 36 | [Like a Fighter](https://open.spotify.com/track/1NLOotIFSAROiIyEz2jWWa) | [Alexander Rudd](https://open.spotify.com/artist/02byKbTE2ZyrjUjT6uiTc0), [Zach Lemmon](https://open.spotify.com/artist/1DqlgYeGygYV43IWmrISKA) | [70s Sounds](https://open.spotify.com/album/4UbnvDEcUaEhyDTgDYOeVl) | 3:10 |
 | 37 | [Cinderelly](https://open.spotify.com/track/5rZXfiBWXMHiXnNJLMezsx) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Cinderelly](https://open.spotify.com/album/0l8Ensxv2GazTB0qT41773) | 2:08 |
 | 38 | [Sailing](https://open.spotify.com/track/4ogaI0XfmAunA0LyjveMSF) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh) | 4:18 |
-| 39 | [Feel Good](https://open.spotify.com/track/5zx4puSZ2s1SxzsxFUOTDB) | [Mark Alberts](https://open.spotify.com/artist/0kxHUxbIeHPD2UwAsUWW63) | [Rock Up](https://open.spotify.com/album/1dlvVo4PLSxqreUS9iCS4j) | 2:28 |
+| 39 | [Feel Good](https://open.spotify.com/track/5zx4puSZ2s1SxzsxFUOTDB) | [Mark Alberts](https://open.spotify.com/artist/6Qw9WWzh9KAngPFZpzxnkB) | [Rock Up](https://open.spotify.com/album/1dlvVo4PLSxqreUS9iCS4j) | 2:28 |
 | 40 | [Samoan Balls](https://open.spotify.com/track/1eFHUPqadgI1metnPICFNN) | [Paul Hertzog](https://open.spotify.com/artist/409cI7liPsNtYwPyKLln7d) | [Bloodsport \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21vQJECQGK9DBbSJulKZIf) | 2:18 |
 | 41 | [Five Over Four](https://open.spotify.com/track/0c946BQlEOYlcVq8n6pAKt) | [Jeff Meegan](https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8), [David Tobin](https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb) | [Cocktail Hour](https://open.spotify.com/album/69Ikde32ScwcMTnlNVKCr4) | 4:47 |
 | 42 | [Burning Heart \- From "Rocky IV" Soundtrack](https://open.spotify.com/track/2VN7uPrbryJ7nE2MXX3f9a) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Survivor Greatest Hits](https://open.spotify.com/album/2wBiw6c2bGb4c9pnRdHw6X) | 3:50 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 | 142 | [All of Us](https://open.spotify.com/track/26RRShwHcBtzAmSWKhQfJO) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 5, Vol 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4i0ZzMWF8i4GgyhQlVgml1) | 2:11 |
 | 143 | [The Eagle and the Lion](https://open.spotify.com/track/72FDfor2MIk4PfXCsupKp3) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 5, Vol 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4i0ZzMWF8i4GgyhQlVgml1) | 1:30 |
 
-Snapshot ID: `MCw4MmQ0OTVmODAxNzAwZjk0NjljMzI1ZDM4ZDg5ZjhhNDBmNzk3ODdl`
+Snapshot ID: `MCxhZjVhYTJmM2VkNjA2OWMzNDcwMTVmN2IzOWMwODQxMmVmMTAxMmRj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR?si=UfX3Lz5qT5SJYzyiCj\_9SQ">Eloff</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,906 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,058 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 74 | [Braaf Soos 'n Boerboel](https://open.spotify.com/track/2ySJvbJGrQ7uhllRVxW3Gb) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ) | [Braaf Soos 'n Boerboel](https://open.spotify.com/album/02mJIfPUPEHgkOJCshmvvC) | 3:12 |
 | 75 | [Keeza](https://open.spotify.com/track/4U6CKDrBPhG0PpPgqXLp3e) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Afrikaans is Groot Vol\. 14](https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h) | 2:58 |
 
-Snapshot ID: `MCw5YjAyMTVmM2FlOTQzODZkODhjNTIwMmM1NjU0ZGM4N2FhY2ExYTNm`
+Snapshot ID: `MCxmMGI3ZWFiYTY0NzFiNDc3YzI3Mzk0MzAwNzdlZTM5YTAwYjY1Y2Fi`

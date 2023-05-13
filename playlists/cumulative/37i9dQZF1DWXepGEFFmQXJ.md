@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Taylor Moss
 
-347 songs - 18 hr 59 min
+348 songs - 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Dying Man](https://open.spotify.com/track/4kvjThnfQIsPOKjxx0aZDu) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:03 | 2023-03-02 |  |
 | [End Up With Me](https://open.spotify.com/track/4UOIb7ID8WEfWRwETcsrXK) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [End Up With Me](https://open.spotify.com/album/4csq2ZqjjGKrJGj9798iXf) | 2:43 | 2023-04-27 |  |
 | [Every Night Every Morning](https://open.spotify.com/track/4qbibbQ1yK0rPl0JUJS0bz) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Every Night Every Morning](https://open.spotify.com/album/5T5eTFklQfQHczrSfV7qej) | 3:16 | 2022-09-08 | 2023-02-17 |
+| [Eye to eye](https://open.spotify.com/track/304fXSDwjqmBp9i7XDfYsO) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [Eye to eye](https://open.spotify.com/album/389ddGV4tjSkyukGCV8oqk) | 3:11 | 2023-05-11 |  |
 | [Face In The Crowd](https://open.spotify.com/track/4rdl2BHBQ58Q9X4iopHTnx) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Face In The Crowd](https://open.spotify.com/album/6IRQx9Mm5W4BJdKBG6m7Nh) | 2:41 | 2022-11-10 | 2023-04-28 |
 | [Fall In Love](https://open.spotify.com/track/5gVCfYmQRPy1QJifP8f5gg) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Fall In Love](https://open.spotify.com/album/532HZrT6uAekC4urDonoXa) | 3:52 | 2022-06-02 | 2022-12-05 |
 | [Fallin' Off The Heartline](https://open.spotify.com/track/0gILEUGgjSoBwykGgE6mR9) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [Fallin' Off The Heartline](https://open.spotify.com/album/2LFp80sTreSfHpKdjJaWKT) | 3:44 | 2022-03-17 | 2022-06-17 |

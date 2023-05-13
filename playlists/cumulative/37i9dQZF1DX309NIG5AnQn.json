@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "02:51",
+        "url": "https://open.spotify.com/album/38Uuksmr3lpYuUQGbH2YIl"
+      },
+      "artists": [
+        {
+          "name": "Catalina Ammaturo",
+          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251500,
+      "name": "02:51",
+      "url": "https://open.spotify.com/track/6ZxMFRBxRW0jLWiVs9RKFB"
+    },
+    {
+      "album": {
         "name": "TRES PUNTOS SUSPENSIVOS",
         "url": "https://open.spotify.com/album/3uogbVO1vXh4OZ7FQpnmuJ"
       },
@@ -785,6 +803,24 @@
     },
     {
       "album": {
+        "name": "Divina Seducci\u00f3n",
+        "url": "https://open.spotify.com/album/6y9yqbRjgQa7NwiPcCqF8O"
+      },
+      "artists": [
+        {
+          "name": "Saturno y la Melancol\u00eda",
+          "url": "https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210616,
+      "name": "Divina Seducci\u00f3n",
+      "url": "https://open.spotify.com/track/3CjyLMFWTcdUrHHIbn3m4v"
+    },
+    {
+      "album": {
         "name": "Dopamina",
         "url": "https://open.spotify.com/album/1EV4jUvno8aaw2yUEqdVg0"
       },
@@ -880,6 +916,24 @@
       "duration_ms": 197454,
       "name": "El Festejo",
       "url": "https://open.spotify.com/track/6jIwfnFqOCPlv7u8YizGpy"
+    },
+    {
+      "album": {
+        "name": "Principio del Fin",
+        "url": "https://open.spotify.com/album/0I1uNlrv0RNdmWoUOIXe0m"
+      },
+      "artists": [
+        {
+          "name": "Riel",
+          "url": "https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249361,
+      "name": "El Fin",
+      "url": "https://open.spotify.com/track/1KQ9arIyVcyvbixRfog2NB"
     },
     {
       "album": {
@@ -1286,10 +1340,28 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 248280,
       "name": "La Flecha Envenenada",
       "url": "https://open.spotify.com/track/2ANlv74UURH4GHpOhTHdPI"
+    },
+    {
+      "album": {
+        "name": "La Luz",
+        "url": "https://open.spotify.com/album/0iy5ocoHHTcPmUA9xML1Zq"
+      },
+      "artists": [
+        {
+          "name": "Blanco Teta",
+          "url": "https://open.spotify.com/artist/2jHbb2xaFQ1CjUnE8RJeWT"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155520,
+      "name": "La Luz",
+      "url": "https://open.spotify.com/track/3G1dfxviHmp2qnoVZKaEvb"
     },
     {
       "album": {
@@ -2092,6 +2164,24 @@
       "duration_ms": 153882,
       "name": "Qu\u00e9 me importa",
       "url": "https://open.spotify.com/track/24h868TwxJicgv2geeijAv"
+    },
+    {
+      "album": {
+        "name": "San Juan",
+        "url": "https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl"
+      },
+      "artists": [
+        {
+          "name": "Tigre Ulli",
+          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225587,
+      "name": "San Juan",
+      "url": "https://open.spotify.com/track/6DEYeMOEYnd0G5cKMrubRd"
     },
     {
       "album": {

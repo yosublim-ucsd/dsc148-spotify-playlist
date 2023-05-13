@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 598,
+  "num_followers": 603,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDI4MzYwNmUyNTIxMGI2OGY3NDE4YTBhNzM3MzhkZjBjNjcyMDFi",
+  "snapshot_id": "MCw4ZDBlNmI5NjNiMGY1ZDYxMDU0NmQ0NTM0ZjVkMThlMzRiMzgxYTdm",
   "tracks": [
     {
       "added_at": "2023-04-14 00:30:00",
@@ -433,24 +433,20 @@
       "url": "https://open.spotify.com/track/0lNCtObfOXRHOYqPn0vr3C"
     },
     {
-      "added_at": "2023-04-21 00:01:00",
+      "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Praise Him",
-        "url": "https://open.spotify.com/album/0gQuGIBnEH02dMRsj76gKZ"
+        "name": "Kirathimo",
+        "url": "https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa"
       },
       "artists": [
         {
-          "name": "Celestine Donkor",
-          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
-        },
-        {
-          "name": "Joel Lwaga",
-          "url": "https://open.spotify.com/artist/1CGmb8fVUO9TGKBiFu6WTW"
+          "name": "Grace Mwai",
+          "url": "https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ"
         }
       ],
-      "duration_ms": 324808,
-      "name": "Praise Him",
-      "url": "https://open.spotify.com/track/0Q4g7Rwa40qx134hPutVFx"
+      "duration_ms": 223160,
+      "name": "Kirathimo",
+      "url": "https://open.spotify.com/track/5lSJluCdq3PPXnawgjLVr6"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -469,20 +465,24 @@
       "url": "https://open.spotify.com/track/6vacqGQJFXankKL8FKmip3"
     },
     {
-      "added_at": "2023-04-06 20:59:00",
+      "added_at": "2023-04-21 00:01:00",
       "album": {
-        "name": "Kirathimo",
-        "url": "https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa"
+        "name": "Praise Him",
+        "url": "https://open.spotify.com/album/0gQuGIBnEH02dMRsj76gKZ"
       },
       "artists": [
         {
-          "name": "Grace Mwai",
-          "url": "https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ"
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+        },
+        {
+          "name": "Joel Lwaga",
+          "url": "https://open.spotify.com/artist/1CGmb8fVUO9TGKBiFu6WTW"
         }
       ],
-      "duration_ms": 223160,
-      "name": "Kirathimo",
-      "url": "https://open.spotify.com/track/5lSJluCdq3PPXnawgjLVr6"
+      "duration_ms": 324808,
+      "name": "Praise Him",
+      "url": "https://open.spotify.com/track/0Q4g7Rwa40qx134hPutVFx"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -615,26 +615,6 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "KELELE ZA USHINDI",
-        "url": "https://open.spotify.com/album/3dLNLUO9a16EoyEwVGewzp"
-      },
-      "artists": [
-        {
-          "name": "PAUL CLEMENT",
-          "url": "https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR"
-        },
-        {
-          "name": "ZORAVO",
-          "url": "https://open.spotify.com/artist/5sIE91Ntm4PJPeC7e50dlQ"
-        }
-      ],
-      "duration_ms": 221936,
-      "name": "KELELE ZA USHINDI",
-      "url": "https://open.spotify.com/track/7w80EEF4HgcsRHNT9fdMNQ"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
         "name": "Tulia",
         "url": "https://open.spotify.com/album/0EOHUyjyF25kXcMo0CxcmE"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 216607,
       "name": "Mwanake (feat. Kaberere)",
       "url": "https://open.spotify.com/track/1nO0fZt8fzqEcwl7GTIFp2"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "KELELE ZA USHINDI",
+        "url": "https://open.spotify.com/album/3dLNLUO9a16EoyEwVGewzp"
+      },
+      "artists": [
+        {
+          "name": "PAUL CLEMENT",
+          "url": "https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR"
+        },
+        {
+          "name": "ZORAVO",
+          "url": "https://open.spotify.com/artist/5sIE91Ntm4PJPeC7e50dlQ"
+        }
+      ],
+      "duration_ms": 221936,
+      "name": "KELELE ZA USHINDI",
+      "url": "https://open.spotify.com/track/7w80EEF4HgcsRHNT9fdMNQ"
     },
     {
       "added_at": "2023-04-21 00:01:00",
@@ -685,22 +685,6 @@
       "url": "https://open.spotify.com/track/67LFW34evrWCOHi9ZTqIXz"
     },
     {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "Mwema",
-        "url": "https://open.spotify.com/album/6nXlu9652BlZrJySXjdnsX"
-      },
-      "artists": [
-        {
-          "name": "Mercy Masika",
-          "url": "https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T"
-        }
-      ],
-      "duration_ms": 234788,
-      "name": "Nikupendeze",
-      "url": "https://open.spotify.com/track/6PsXyv0ljD3fuOTZRiOw4Z"
-    },
-    {
       "added_at": "2023-04-21 00:01:00",
       "album": {
         "name": "Gharama",
@@ -719,6 +703,22 @@
       "duration_ms": 194851,
       "name": "Gharama",
       "url": "https://open.spotify.com/track/7smwyHlMEmutM4zl9UGInu"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Mwema",
+        "url": "https://open.spotify.com/album/6nXlu9652BlZrJySXjdnsX"
+      },
+      "artists": [
+        {
+          "name": "Mercy Masika",
+          "url": "https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T"
+        }
+      ],
+      "duration_ms": 234788,
+      "name": "Nikupendeze",
+      "url": "https://open.spotify.com/track/6PsXyv0ljD3fuOTZRiOw4Z"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -753,6 +753,22 @@
       "url": "https://open.spotify.com/track/6PAZJPDC9Qrcz30gpiCMMx"
     },
     {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Vanity",
+        "url": "https://open.spotify.com/album/6llcDSIf386x2uFut64Z0O"
+      },
+      "artists": [
+        {
+          "name": "Daddy Owen",
+          "url": "https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy"
+        }
+      ],
+      "duration_ms": 277081,
+      "name": "Vanity",
+      "url": "https://open.spotify.com/track/2hU8ghQ7P480nxYoD3hzmc"
+    },
+    {
       "added_at": "2023-04-14 00:30:00",
       "album": {
         "name": "Sure (Counting on You)",
@@ -775,22 +791,6 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Vanity",
-        "url": "https://open.spotify.com/album/6llcDSIf386x2uFut64Z0O"
-      },
-      "artists": [
-        {
-          "name": "Daddy Owen",
-          "url": "https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy"
-        }
-      ],
-      "duration_ms": 277081,
-      "name": "Vanity",
-      "url": "https://open.spotify.com/track/2hU8ghQ7P480nxYoD3hzmc"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
         "name": "Racing Up",
         "url": "https://open.spotify.com/album/06gzQhRnM1t1bqi4u8jJfa"
       },
@@ -803,22 +803,6 @@
       "duration_ms": 299920,
       "name": "Racing Up",
       "url": "https://open.spotify.com/track/6uJ8mhRbvODOmvGgyHPGve"
-    },
-    {
-      "added_at": "2023-04-21 00:01:00",
-      "album": {
-        "name": "Confessions",
-        "url": "https://open.spotify.com/album/50MXoiG4gRL47tdW5ui6VP"
-      },
-      "artists": [
-        {
-          "name": "Daniel Mundos",
-          "url": "https://open.spotify.com/artist/3aLEhh4HY2Sdl0v0lWhZwc"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "Confessions",
-      "url": "https://open.spotify.com/track/2g9awZdAvsvtNQjWBcVO4n"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -835,6 +819,22 @@
       "duration_ms": 303804,
       "name": "Mungu Mkuu",
       "url": "https://open.spotify.com/track/50Fkvb6cISuTobM1YA7Gys"
+    },
+    {
+      "added_at": "2023-04-21 00:01:00",
+      "album": {
+        "name": "Confessions",
+        "url": "https://open.spotify.com/album/50MXoiG4gRL47tdW5ui6VP"
+      },
+      "artists": [
+        {
+          "name": "Daniel Mundos",
+          "url": "https://open.spotify.com/artist/3aLEhh4HY2Sdl0v0lWhZwc"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Confessions",
+      "url": "https://open.spotify.com/track/2g9awZdAvsvtNQjWBcVO4n"
     },
     {
       "added_at": "2023-04-06 20:59:00",

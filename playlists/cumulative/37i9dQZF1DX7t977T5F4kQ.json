@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:  <a href=\"https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs?si=zxfZPV6EQNan_NsMi928PQ\"> D Jay</a>  ",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:  <a href=\"https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6?si=ZXDsekt9R9Kr7njkemAF_w\"> Efya</a>  ",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 166250,
       "name": "Abofra",
       "url": "https://open.spotify.com/track/77gnkds6DeIlK8wZ96tyUY"
@@ -148,6 +148,24 @@
       "duration_ms": 164000,
       "name": "Affairs",
       "url": "https://open.spotify.com/track/7jbLmF56d83iYzKZMnwP8a"
+    },
+    {
+      "album": {
+        "name": "Akohwie",
+        "url": "https://open.spotify.com/album/5YHo8SQnebWXMA43Qoos51"
+      },
+      "artists": [
+        {
+          "name": "Ypee",
+          "url": "https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174400,
+      "name": "Akohwie",
+      "url": "https://open.spotify.com/track/1d51OuwXfGfc6PwWezrwTS"
     },
     {
       "album": {
@@ -1134,7 +1152,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 210000,
       "name": "For You",
       "url": "https://open.spotify.com/track/1tlXtYaeSI5S9HV6KQ8F4h"
@@ -1635,6 +1653,24 @@
     },
     {
       "album": {
+        "name": "Like Electricity",
+        "url": "https://open.spotify.com/album/58vZNlvKOQDhsAgkwSYVvq"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182002,
+      "name": "Like Electricity",
+      "url": "https://open.spotify.com/track/1rcAOj1TyavWMnfMGwRbMX"
+    },
+    {
+      "album": {
         "name": "LIL BOOTYS MATTER (feat. DarkoVibes)",
         "url": "https://open.spotify.com/album/11pZv6AjCzYtGNjQzr5bZ0"
       },
@@ -1922,7 +1958,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 178107,
       "name": "No Fugazy",
       "url": "https://open.spotify.com/track/5CtmMSLSf9Y6JCc9RJLxSa"
@@ -2121,6 +2157,28 @@
     },
     {
       "album": {
+        "name": "Odo Nkoaa",
+        "url": "https://open.spotify.com/album/6do5C86UDDZnyq41YqDIsO"
+      },
+      "artists": [
+        {
+          "name": "Strongman",
+          "url": "https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9"
+        },
+        {
+          "name": "Akwaboah",
+          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211880,
+      "name": "Odo Nkoaa",
+      "url": "https://open.spotify.com/track/1bBpce38RogIi9HneIooXP"
+    },
+    {
+      "album": {
         "name": "Oh Ma Linda",
         "url": "https://open.spotify.com/album/7lsm82NrdAoXBWoOEucvMg"
       },
@@ -2173,6 +2231,24 @@
     },
     {
       "album": {
+        "name": "Olukeke - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/0vt0Pkpe6X9c2s7YamCack"
+      },
+      "artists": [
+        {
+          "name": "Bryte",
+          "url": "https://open.spotify.com/artist/4LFakjYAIBquTKsvvLNiGi"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219840,
+      "name": "Olukeke - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1wLFBauKxbF4lAbJAc1AYo"
+    },
+    {
+      "album": {
         "name": "Oofeets",
         "url": "https://open.spotify.com/album/4YhDsLqC5mqUIYuNIdfM1y"
       },
@@ -2206,7 +2282,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 236460,
       "name": "Over",
       "url": "https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B"
@@ -2465,6 +2541,24 @@
     },
     {
       "album": {
+        "name": "Road Clear",
+        "url": "https://open.spotify.com/album/1FQD4Ak6bzqg0chwBIWQEM"
+      },
+      "artists": [
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188894,
+      "name": "Road Clear",
+      "url": "https://open.spotify.com/track/0XIhHYGnjN8wOlxsNbB0T2"
+    },
+    {
+      "album": {
         "name": "5th Dimension",
         "url": "https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4"
       },
@@ -2684,7 +2778,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 170686,
       "name": "Slow",
       "url": "https://open.spotify.com/track/5e5Be8E42zERy5Y3k65wyo"
@@ -2921,6 +3015,24 @@
     },
     {
       "album": {
+        "name": "Super Super",
+        "url": "https://open.spotify.com/album/3dZj1zWLCn0LlGIUNayrUT"
+      },
+      "artists": [
+        {
+          "name": "Efya",
+          "url": "https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140956,
+      "name": "Super Super",
+      "url": "https://open.spotify.com/track/5uTchNrLEREPxobWrFQHx8"
+    },
+    {
+      "album": {
         "name": "Survivor",
         "url": "https://open.spotify.com/album/4dhy5PaAbgs0hloWYFWkmO"
       },
@@ -3034,6 +3146,24 @@
       "duration_ms": 198086,
       "name": "Thy Grace",
       "url": "https://open.spotify.com/track/6MBpgxXASTwAB4XSgIsBCH"
+    },
+    {
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/6rXRhlh1NEEI5eLb6UdRVk"
+      },
+      "artists": [
+        {
+          "name": "Mr Drew",
+          "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148672,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/4F1qhy14MdQoYcgrJUGt3a"
     },
     {
       "album": {
@@ -3192,7 +3322,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 203918,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/4GfP6pgJtCpov1AH3DzCuf"
@@ -3328,7 +3458,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 258081,
       "name": "Yeni Abre",
       "url": "https://open.spotify.com/track/5PR0Mk6xqpMoKh8D9GXbeQ"

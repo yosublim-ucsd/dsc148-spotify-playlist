@@ -380,7 +380,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 248372,
       "name": "All Night",
       "url": "https://open.spotify.com/track/5r1SN9oydMavI39zqAwBoK"
@@ -3234,7 +3234,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 232560,
       "name": "Good Times Bad Times",
       "url": "https://open.spotify.com/track/44nRLXNwTmTIV7Zk7lRol5"
@@ -3636,7 +3636,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 226206,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1zo0vyy8vdtZqNfnIwZJf9"
@@ -3816,6 +3816,28 @@
       "duration_ms": 285190,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/2wJ6JMHrSeUbjG2Tt5RyJj"
+    },
+    {
+      "album": {
+        "name": "I Found You",
+        "url": "https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176548,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
     },
     {
       "album": {
@@ -4974,6 +4996,28 @@
       "duration_ms": 318171,
       "name": "MONSTERS - K Motionz Remix",
       "url": "https://open.spotify.com/track/5c1trjKGPsdfInFtO4jdkQ"
+    },
+    {
+      "album": {
+        "name": "Mosh Pit / Dance",
+        "url": "https://open.spotify.com/album/4dZO0gDZhi5aKzIoaVkqk7"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Haribo",
+          "url": "https://open.spotify.com/artist/4iYIZQP0f6Ec6gupaJ4SQm"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250500,
+      "name": "Mosh Pit (feat. Haribo)",
+      "url": "https://open.spotify.com/track/2g3NNzNps6fCjsbcA91yH6"
     },
     {
       "album": {
@@ -7132,6 +7176,24 @@
       "duration_ms": 315172,
       "name": "Sunchaser",
       "url": "https://open.spotify.com/track/7gFkNM7uKNC9150e5yQpUC"
+    },
+    {
+      "album": {
+        "name": "Sunrise Bang Ur Head Against Tha Wall",
+        "url": "https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150360,
+      "name": "Sunrise Bang Ur Head Against Tha Wall",
+      "url": "https://open.spotify.com/track/3tZKrJ0EznJE4e5cn41Dfz"
     },
     {
       "album": {

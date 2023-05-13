@@ -4,7 +4,7 @@
 
 > ค้นพบที่สุดศิลปินรุ่นใหม่ของประเทศไทยได้ที่นี่เลย.
 
-96 songs - 6 hr 3 min
+98 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [R U OK?](https://open.spotify.com/track/6pskBGYOeLLQBOA7B7C9ij) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF) | [R U OK?](https://open.spotify.com/album/4Zkf8cfL2yoewuMfwoXk95) | 3:27 | 2023-04-13 |  |
 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 | 2022-09-15 |  |
 | [Stranger](https://open.spotify.com/track/1yoiLtaODum3lNm7NjG1zs) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Stranger](https://open.spotify.com/album/6bG0Hug4UHRMvKapaqsslZ) | 5:46 | 2022-11-23 | 2023-04-14 |
+| [Therapist](https://open.spotify.com/track/42NFq86YCRMnV10M7lihzk) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Therapist](https://open.spotify.com/album/1lagCns5TwcDe8TcJJsHkR) | 3:13 | 2023-05-12 |  |
 | [Tutor](https://open.spotify.com/track/7GHMIJwlFDaThr47NYwnQ9) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [Tutor](https://open.spotify.com/album/0wGByPiO4hAEj7n6FtAB1e) | 2:58 | 2022-11-23 | 2023-01-11 |
 | [Walk Away](https://open.spotify.com/track/0gjsVf6ueVVEBQ2X0Z8f5R) | [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr) | [Walk Away](https://open.spotify.com/album/1lf9GkaZgCSnDWZhLzcPc9) | 3:26 | 2023-04-13 |  |
 | [While We’re Young](https://open.spotify.com/track/4XU7XpYsuIkfRDDrvAP0a4) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [While We’re Young](https://open.spotify.com/album/0LwBRRXyiACQX7ykl1mTbc) | 3:24 | 2023-01-10 |  |
@@ -41,7 +42,7 @@
 | [คนข้าง ๆ](https://open.spotify.com/track/74bHsRVcV8VWPb8iYP8XNe) | [GUYGEEGEE](https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj), [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [คนข้าง ๆ](https://open.spotify.com/album/4fYWhMamVJtKj6zg5NLS9A) | 2:55 | 2023-03-20 | 2023-04-14 |
 | [คนหรือไมโครเวฟ \(microwave\)](https://open.spotify.com/track/21KoXyILr1IdLA0tak64Uw) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [คนหรือไมโครเวฟ \(microwave\)](https://open.spotify.com/album/1xQzfgbjfqnnZ2xWss9NvZ) | 3:27 | 2022-09-15 |  |
 | [คนไกล](https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [คนไกล](https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO) | 3:32 | 2022-09-15 |  |
-| [ความน่าจะเป็นเท่ากับสูญ \(0%\)](https://open.spotify.com/track/52hkekPSYxc3O3GYbviwsN) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [ความน่าจะเป็นเท่ากับสูญ \(0%\)](https://open.spotify.com/album/2vB5FWxZARoIV2eNOiIggD) | 4:06 | 2023-04-13 |  |
+| [ความน่าจะเป็นเท่ากับสูญ \(0%\)](https://open.spotify.com/track/52hkekPSYxc3O3GYbviwsN) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [ความน่าจะเป็นเท่ากับสูญ \(0%\)](https://open.spotify.com/album/2vB5FWxZARoIV2eNOiIggD) | 4:06 | 2023-04-13 | 2023-05-13 |
 | [คิดถึง](https://open.spotify.com/track/3RbIohUryKaJXeLrfrBhE3) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [คิดถึง](https://open.spotify.com/album/2RSg1hfBnFxLUzj08vsvlg) | 4:00 | 2022-09-15 | 2023-04-14 |
 | [งอนละ \- Boo](https://open.spotify.com/track/5zFjMw9tOpbhlZWVCDalJA) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [BLOOM](https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ) | 2:41 | 2023-04-13 |  |
 | [จงกลม \(Jongglom\)](https://open.spotify.com/track/08NR0qlrc2rjGmP60oS4vL) | [TOFFE](https://open.spotify.com/artist/2seAV47mn1Z0NnjI78vLPn) | [จงกลม \(Jongglom\)](https://open.spotify.com/album/5hsy4WQbZTWW0V47kFuXex) | 3:24 | 2023-04-13 |  |
@@ -55,7 +56,7 @@
 | [ตัดใจรอบที่ล้าน](https://open.spotify.com/track/7tLzCItsc7GUBnfxhHFljI) | [wish.](https://open.spotify.com/artist/6GZyaaDSiWwDYjBySZh3rR) | [ตัดใจรอบที่ล้าน](https://open.spotify.com/album/2eId6fIdesXWoFQvyV69u8) | 3:41 | 2023-05-08 |  |
 | [ตัดไปให้พอ](https://open.spotify.com/track/498pVEIIkgYvIkqm68PEqO) | [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr) | [ตัดไปให้พอ](https://open.spotify.com/album/4Q629xdrAylg8VOpX1KC1f) | 4:38 | 2023-04-13 |  |
 | [ถ้าเขาไม่รักมาอยู่กับฉันดีมั้ย? \(Lean on me\)](https://open.spotify.com/track/0LJ5ZgcDdyt24akqtABCAg) | [SLAPKISS](https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g) | [ถ้าเขาไม่รักมาอยู่กับฉันดีมั้ย? \(Lean on me\)](https://open.spotify.com/album/0dZTTJBdz0GQN9BWfB73XZ) | 3:36 | 2022-11-23 | 2023-04-14 |
-| [ทิ้งไป](https://open.spotify.com/track/0kQLcP9TrYqx79QIDZnnO0) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [ทิ้งไป](https://open.spotify.com/album/6HJHVbKJB854i2UIgqGzfl) | 5:47 | 2022-09-15 |  |
+| [ทิ้งไป](https://open.spotify.com/track/0kQLcP9TrYqx79QIDZnnO0) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [ทิ้งไป](https://open.spotify.com/album/6HJHVbKJB854i2UIgqGzfl) | 5:47 | 2022-09-15 | 2023-05-13 |
 | [ทุกความทรงจำ](https://open.spotify.com/track/3iJNeAiZwFxiPHWk456Bcw) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [Only Monday](https://open.spotify.com/album/1X0gxc8emKCs9T9kCeozIu) | 4:35 | 2022-11-23 |  |
 | [นอนหน่อยไหม ?](https://open.spotify.com/track/1n7SJLokzGV1IoLUEmeOuZ) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [นอนหน่อยไหม ?](https://open.spotify.com/album/3Xiahop7bLCvr2CEHvaXX2) | 3:53 | 2023-01-18 | 2023-04-14 |
 | [นักรอ](https://open.spotify.com/track/40gIsFZ7XR0y13f2AFzDAE) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [นักรอ](https://open.spotify.com/album/2yl29z5fk9BCv6HO06LNaF) | 3:13 | 2023-03-23 |  |
@@ -63,6 +64,7 @@
 | [บรรยากาศ](https://open.spotify.com/track/56n3cbPJeypX5NyqgsmpnZ) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [บรรยากาศ](https://open.spotify.com/album/5OtV6koP7TAOKa1x1uxUVT) | 4:35 | 2023-04-18 |  |
 | [บังอร](https://open.spotify.com/track/1JUxXaTW7ihP7lnlaJbhb1) | [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [บังอร](https://open.spotify.com/album/6nTx2pg2TIjXZOGfKC2dtm) | 3:07 | 2023-01-10 | 2023-03-25 |
 | [ปลอดภัย](https://open.spotify.com/track/4Fer8UPWzhbdyVnccMzPcr) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [ปลอดภัย](https://open.spotify.com/album/6GKmt2zllDvt3wlBZeZ3HL) | 3:53 | 2022-09-15 | 2023-01-11 |
+| [ผิดหน้าที่ \(Responsibility\)](https://open.spotify.com/track/3bSjF0JyKyZGHQMPBumwh2) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF), [Aheye of 4EVE](https://open.spotify.com/artist/2Vku6chPlceHuJIr8sHP4u) | [ผิดหน้าที่ \(Responsibility\) \[feat\. Aheye of 4EVE\]](https://open.spotify.com/album/6Sult4isw1GLJ5ezxOVd2p) | 3:13 | 2023-05-12 |  |
 | [ผู้ถูกเลือกให้ผิดหวัง \(ดอกไม้ฤดูหนาว\) \- Sad flower](https://open.spotify.com/track/7BUHKcrvmr9WIAgEBkwukl) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ผู้ถูกเลือกให้ผิดหวัง \(ดอกไม้ฤดูหนาว\) \[Sad flower\]](https://open.spotify.com/album/3h5McsoCWje5uRcj8psVEH) | 4:30 | 2023-04-13 |  |
 | [ผ่านไปอีกปีแล้วนะ \(Sadiversary\)](https://open.spotify.com/track/1T9p3fycDRc3KXl9nbhwkR) | [LOSTBOYS](https://open.spotify.com/artist/35Ion6GBXviFXe5AzHduxb) | [ผ่านไปอีกปีแล้วนะ \(Sadiversary\)](https://open.spotify.com/album/4p3UvZyHFLCwQLuA3fosr2) | 3:39 | 2022-09-15 | 2023-04-13 |
 | [พะจัน](https://open.spotify.com/track/63b22ti1AAmGyAR1OpqUmi) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [พะจัน](https://open.spotify.com/album/634ttKDuMq3fzM2WzeEuc4) | 3:03 | 2022-09-15 | 2022-09-24 |

@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 78590,
+  "num_followers": 78591,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzY4Niw2N2ZkODk1ZDk1NmJmYzIxOWE0OGY5NWFiODQ3MGQ1MjcxMjkyODI4",
+  "snapshot_id": "MzY4Nyw4MzY3MzcwOGQzNzE0ZmRjZjQ1N2M0OWEwZDg1NWM0MDdkZTcwNjA3",
   "tracks": [
+    {
+      "added_at": "2023-05-12 11:37:19",
+      "album": {
+        "name": "Spirit They're Gone, Spirit They've Vanished (Remastered 2023)",
+        "url": "https://open.spotify.com/album/4HzQP0tw4AOAO5Ntkz8JOL"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "duration_ms": 354089,
+      "name": "April And The Phantom - Remastered 2023",
+      "url": "https://open.spotify.com/track/5XpKUCdMQmTFc1lFbghSHx"
+    },
     {
       "added_at": "2023-05-10 11:17:03",
       "album": {

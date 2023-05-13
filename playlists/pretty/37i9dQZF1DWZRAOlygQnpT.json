@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ahi viene la plaga... por eso, avi\u00e9ntense todos a bailar!",
-  "num_followers": 66565,
+  "num_followers": 66634,
   "original_name": "Rock & Roll en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDAzNTJmMzFiMjcxYmMwNDkyN2ZkMWQ1M2ZmODA1M2UzNzlkOWEw",
+  "snapshot_id": "MCw1M2ZkODBlY2VlMzg5Y2MyOWFjZTcwZjI0YmZjN2Q4MjhhZWM4Y2Uy",
   "tracks": [
     {
       "added_at": "2020-04-17 21:51:59",
@@ -551,22 +551,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Buen Rock Esta Noche",
-        "url": "https://open.spotify.com/album/6RKoJJF8DBhDvJAw5tULfz"
-      },
-      "artists": [
-        {
-          "name": "Los Loud Jets",
-          "url": "https://open.spotify.com/artist/4PF3TlakT6o7oVUe4JjSma"
-        }
-      ],
-      "duration_ms": 162133,
-      "name": "Hermosa Laura",
-      "url": "https://open.spotify.com/track/6Epp9ml7BLZBcg0icTFTQu"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "100 A\u00f1os de Musica",
         "url": "https://open.spotify.com/album/3YvIyt0fZgOTdwtrj79FRa"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 142785,
       "name": "Bule Bule",
       "url": "https://open.spotify.com/track/19Ol3nKQvIJJiKBTIOBzwi"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Buen Rock Esta Noche",
+        "url": "https://open.spotify.com/album/6RKoJJF8DBhDvJAw5tULfz"
+      },
+      "artists": [
+        {
+          "name": "Los Loud Jets",
+          "url": "https://open.spotify.com/artist/4PF3TlakT6o7oVUe4JjSma"
+        }
+      ],
+      "duration_ms": 162133,
+      "name": "Hermosa Laura",
+      "url": "https://open.spotify.com/track/6Epp9ml7BLZBcg0icTFTQu"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Grandes \u00c9xitos Vol.2",
-        "url": "https://open.spotify.com/album/73HgDlnXFSEWv7qmKDogeN"
-      },
-      "artists": [
-        {
-          "name": "Cesar Costa",
-          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
-        }
-      ],
-      "duration_ms": 145658,
-      "name": "Adan y Eva",
-      "url": "https://open.spotify.com/track/0YKzNVdniFbIygZieYMeBW"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Loco - Vintage Rock en Espa\u00f1ol",
         "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 134306,
       "name": "Chica Ye Ye",
       "url": "https://open.spotify.com/track/6v8pDrOktzNFTpyM2nMIG9"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Grandes \u00c9xitos Vol.2",
+        "url": "https://open.spotify.com/album/73HgDlnXFSEWv7qmKDogeN"
+      },
+      "artists": [
+        {
+          "name": "Cesar Costa",
+          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
+        }
+      ],
+      "duration_ms": 145658,
+      "name": "Adan y Eva",
+      "url": "https://open.spotify.com/track/0YKzNVdniFbIygZieYMeBW"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1471,8 +1471,8 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "20 Exitos Colleccion de Oro",
-        "url": "https://open.spotify.com/album/2SVUr7T90O2sAC9fWNu92A"
+        "name": "Los Grandes \u00c9xitos del Rock & Roll (En Espa\u00f1ol), Vol. 1",
+        "url": "https://open.spotify.com/album/0sxafO6H50bdV0DTidP9MV"
       },
       "artists": [
         {
@@ -1480,9 +1480,9 @@
           "url": "https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz"
         }
       ],
-      "duration_ms": 169266,
-      "name": "Lagrimas de Cristal",
-      "url": "https://open.spotify.com/track/0i02Kc3QwlaLx6bTNaxrl6"
+      "duration_ms": 175686,
+      "name": "Las Cerezas",
+      "url": "https://open.spotify.com/track/708Xuv8hEgmKTqEmkv199u"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1587,8 +1587,8 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Los Grandes \u00c9xitos del Rock & Roll (En Espa\u00f1ol), Vol. 1",
-        "url": "https://open.spotify.com/album/0sxafO6H50bdV0DTidP9MV"
+        "name": "20 Exitos Colleccion de Oro",
+        "url": "https://open.spotify.com/album/2SVUr7T90O2sAC9fWNu92A"
       },
       "artists": [
         {
@@ -1596,25 +1596,9 @@
           "url": "https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz"
         }
       ],
-      "duration_ms": 175686,
-      "name": "Las Cerezas",
-      "url": "https://open.spotify.com/track/708Xuv8hEgmKTqEmkv199u"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "Rock, Puro Rock",
-        "url": "https://open.spotify.com/album/2uZRx3gfHsgndRHm8Ks7RE"
-      },
-      "artists": [
-        {
-          "name": "Los Jockers",
-          "url": "https://open.spotify.com/artist/1tHxyQ3P1Oo7T7YFKfRaKK"
-        }
-      ],
-      "duration_ms": 165573,
-      "name": "El Esqueleto",
-      "url": "https://open.spotify.com/track/1vSBPw23dARiJyon6Ttoj7"
+      "duration_ms": 169266,
+      "name": "Lagrimas de Cristal",
+      "url": "https://open.spotify.com/track/0i02Kc3QwlaLx6bTNaxrl6"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1631,6 +1615,22 @@
       "duration_ms": 139702,
       "name": "Twist del Perro",
       "url": "https://open.spotify.com/track/2ywie6JDekOY3roCbQWxG0"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Rock, Puro Rock",
+        "url": "https://open.spotify.com/album/2uZRx3gfHsgndRHm8Ks7RE"
+      },
+      "artists": [
+        {
+          "name": "Los Jockers",
+          "url": "https://open.spotify.com/artist/1tHxyQ3P1Oo7T7YFKfRaKK"
+        }
+      ],
+      "duration_ms": 165573,
+      "name": "El Esqueleto",
+      "url": "https://open.spotify.com/track/1vSBPw23dARiJyon6Ttoj7"
     }
   ],
   "unique_name": "Rock & Roll en Espa\u00f1ol",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1F8iyK0PtpY1EAYBTssIaz">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-155 songs - 11 hr 23 min
+156 songs - 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Boll Weevil Ballet](https://open.spotify.com/track/7JImy6RMJR48M66vZwSMCw) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 5:11 | 2022-09-08 |  |
 | [Boo\-Dah](https://open.spotify.com/track/3lboFV3xYtNiRtHQI9Ga4D) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [And His Mother Called Him Bill](https://open.spotify.com/album/1VFa3WWYDJJCmEIwU4Ee2g) | 3:32 | 2022-12-18 |  |
 | [Boo\-Dah \- Remastered](https://open.spotify.com/track/1BYrhHjvDPbUaGCqv8gvkt) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [And His Mother Called Him Bill](https://open.spotify.com/album/2K0iRt0H36VGYi9Dt21Q0g) | 3:25 | 2022-09-08 | 2022-12-19 |
+| [Breakadawn](https://open.spotify.com/track/2WyLyygONxNBVtXCRLMjFY) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Buhloone Mindstate](https://open.spotify.com/album/4ajtfXfaqumfNlJDTVjhOd) | 4:15 | 2023-05-12 |  |
 | [Bugle Breaks](https://open.spotify.com/track/1UuP4NP57KfD2CoMlLLWaa) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Grands Succès : Les Plus Grands Orchestre De La Libération](https://open.spotify.com/album/3M84IpjW6jlrAkEW8dgXao) | 2:53 | 2022-09-08 | 2022-10-06 |
 | [Bugle Breaks](https://open.spotify.com/track/722g3b31Fn8GzSQ68WJlbR) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Les Plus Grands Orchestres de la Liberation](https://open.spotify.com/album/4TvT04s52uey1cRszFZHOq) | 2:53 | 2022-10-05 |  |
 | [Carribee Joe](https://open.spotify.com/track/4INUy71Qk3A6dOC54tZ8lv) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [A Drum Is a Woman](https://open.spotify.com/album/1L06BMH0kRrUQX93Vv3xck) | 2:58 | 2022-09-08 |  |

@@ -157,6 +157,28 @@
     },
     {
       "album": {
+        "name": "FINE LINE",
+        "url": "https://open.spotify.com/album/37XJRNnSBngM8e8Ejp3oQ7"
+      },
+      "artists": [
+        {
+          "name": "\u30d1\u30bd\u30b3\u30f3\u97f3\u697d\u30af\u30e9\u30d6",
+          "url": "https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye"
+        },
+        {
+          "name": "\u9ad9\u6a4b\u82bd\u4ee5",
+          "url": "https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283204,
+      "name": "Day After Day feat. Mei Takahashi",
+      "url": "https://open.spotify.com/track/1fHXLiqPG6su57eAlbnjVO"
+    },
+    {
+      "album": {
         "name": "Day After Day feat. Mei Takahashi",
         "url": "https://open.spotify.com/album/7ridH3ntXiiWfC2jA6uqb3"
       },
@@ -172,7 +194,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 283204,
       "name": "Day After Day feat. Mei Takahashi",
       "url": "https://open.spotify.com/track/5b03vF7Qyc70kDJHiQZ8L7"
@@ -547,7 +569,7 @@
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 125612,
+      "duration_ms": 125500,
       "name": "Love You!!!!!!",
       "url": "https://open.spotify.com/track/2a64t56KzgVqp8iYRCj8fs"
     },
@@ -1075,6 +1097,28 @@
     },
     {
       "album": {
+        "name": "The Lover",
+        "url": "https://open.spotify.com/album/0QCyj1UlVJQ91sFNqHx9nc"
+      },
+      "artists": [
+        {
+          "name": "haruno",
+          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
+        },
+        {
+          "name": "CHIAKI SATO",
+          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225369,
+      "name": "Venus Flytrap feat. Chiaki Sato",
+      "url": "https://open.spotify.com/track/51tgAkF9HE14FIR4iYN8K3"
+    },
+    {
+      "album": {
         "name": "Venus Flytrap feat. Chiaki Sato",
         "url": "https://open.spotify.com/album/0RjeR3PLe9fCu7G3bQh96v"
       },
@@ -1090,7 +1134,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 225967,
       "name": "Venus Flytrap feat. Chiaki Sato",
       "url": "https://open.spotify.com/track/1YXrGKtu8iNnBl1tL6EvdH"

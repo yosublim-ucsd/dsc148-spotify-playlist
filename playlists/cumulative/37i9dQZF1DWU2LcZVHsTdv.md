@@ -4,7 +4,7 @@
 
 > The country way of testifying\. Cover: Kane Brown
 
-186 songs - 11 hr 21 min
+188 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [In All Things](https://open.spotify.com/track/4CVSGsxGy52bNpUAwFqrm7) | [Leslie Jordan](https://open.spotify.com/artist/7rYLqyGeyCnraP6vBfhfFn), [Danny Myrick](https://open.spotify.com/artist/2VnIRUWeM04JHxZvYkxJWv) | [Company's Comin'](https://open.spotify.com/album/2n9E08VXyUL1GGOwnVM6tm) | 3:30 | 2021-12-10 |  |
 | [In Christ Alone](https://open.spotify.com/track/4nZLgB1NYxEjfStRRPZBWE) | [Drew Baldridge](https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5) | [In Christ Alone](https://open.spotify.com/album/5v36cGV6Gk6cA4l79cMImt) | 4:11 | 2022-04-15 |  |
 | [In Jesus Name \(God of Possible\) \(feat.Cheyenne Mitchell\)](https://open.spotify.com/track/4pTaWYq66mOLpjGkqTpjsF) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX), [Cheyenne Mitchell](https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs) | [In Jesus Name \(God of Possible\) \(feat\. Cheyenne Mitchell\)](https://open.spotify.com/album/5ttyBlOTlDg70uUEVeW7tE) | 3:37 | 2022-08-05 |  |
-| [In Our Blood](https://open.spotify.com/track/5Ut5HJUIE93J1bH1u5kGn3) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [In Our Blood](https://open.spotify.com/album/3b5D7JEovpIaebGbOdJTBX) | 2:53 | 2022-05-13 |  |
+| [In Our Blood](https://open.spotify.com/track/05EmiiuuN5I7DBHVZNJs8S) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Livin' My Best Life](https://open.spotify.com/album/5UkfLfGyiREHCmzM1kEUV0) | 2:53 | 2023-05-12 |  |
+| [In Our Blood](https://open.spotify.com/track/5Ut5HJUIE93J1bH1u5kGn3) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [In Our Blood](https://open.spotify.com/album/3b5D7JEovpIaebGbOdJTBX) | 2:53 | 2022-05-13 | 2023-05-13 |
 | [Jesus' Fault](https://open.spotify.com/track/0ds10Mj5flvO73afTrACqj) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ), [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [A Hundred Highways](https://open.spotify.com/album/2lM8WoZ3N1ou1fP0CcXoXi) | 3:34 | 2022-09-30 |  |
 | [Jesus, Won't You Come By Here](https://open.spotify.com/track/3TkQkNP31WG8xnXAVkjB93) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Jesus, Won't You Come By Here](https://open.spotify.com/album/4DOFLP7P2QcvMvQX38jcdm) | 2:50 | 2022-05-27 |  |
 | [Just a Closer Walk with Thee](https://open.spotify.com/track/7h9AJvnX2HY794n0YhDNwt) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Just a Closer Walk with Thee](https://open.spotify.com/album/5CyR9w2KXUln4DjH00qo4g) | 3:40 | 2022-01-28 |  |
@@ -146,6 +147,7 @@
 | [Sunday Drive](https://open.spotify.com/track/2tAfE0lE4RbGYjdQmnGmbl) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Slow Country](https://open.spotify.com/album/5Wu9dklTjWBMXAKDeos9gH) | 4:53 | 2022-11-04 | 2022-11-13 |
 | [Sunday Sermons](https://open.spotify.com/track/34AMpAXtxVGN6uSpwYN6Hs) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Sunday Sermons](https://open.spotify.com/album/6COpz7BOFtDc13O5JcGzNQ) | 3:20 | 2022-02-25 |  |
 | [Talking To God](https://open.spotify.com/track/1lNiLFaSGw8AFdp4zfMvuf) | [Chrissy Metz](https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a) | [Talking To God](https://open.spotify.com/album/7JgroVcKnQavSOJ0xzu2CA) | 3:07 | 2021-12-10 |  |
+| [Talking To Jesus \(Live from The Ryman\)](https://open.spotify.com/track/5tSChUjjjk0dQQHSWqAObG) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Talking To Jesus \(Live from The Ryman\)](https://open.spotify.com/album/7E9vyxAfIWcCmWkEHbZoN4) | 7:30 | 2023-05-12 |  |
 | [Tell Somebody 'Bout You](https://open.spotify.com/track/4L4wkF5VyUrFXVSp5TPt1T) | [Adam Sanders](https://open.spotify.com/artist/17ewtqMhsRUPRdhpYLzMxg) | [Tell Somebody 'Bout You](https://open.spotify.com/album/3nYkJBH8aukTHcj3AacU22) | 3:56 | 2022-11-18 |  |
 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 | 2022-09-09 |  |
 | [That Old King James](https://open.spotify.com/track/5NacrWDvEXJzqO2FyT3Wpe) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Clear As Day](https://open.spotify.com/album/0molQ0VuhniiiYNZ1iAJrc) | 3:28 | 2021-12-10 |  |

@@ -4,7 +4,7 @@
 
 > Take a Louisville slugger to both headlights.
 
-49 songs - 2 hr 47 min
+50 songs - 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Not Ready to Make Nice](https://open.spotify.com/track/6LCEyZZHFF4ebF1Mike1s5) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Taking The Long Way](https://open.spotify.com/album/2NeJdEWras0uSuzLPlJZk5) | 3:57 | 2022-08-12 |  |
 | [Picture To Burn](https://open.spotify.com/track/32mVHdy0bi1XKgr0ajsBlG) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 2:53 | 2022-08-12 |  |
 | [Rich](https://open.spotify.com/track/4H0vNUFcHPz5lytcLjwqkr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:28 | 2022-08-12 |  |
+| [Sad To Work](https://open.spotify.com/track/46olgrSXSWCt8jkYh9tok0) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Sad To Work](https://open.spotify.com/album/2by7rpJLfnRLHsWUMvf55i) | 2:46 | 2023-05-12 |  |
 | [Should've Said No](https://open.spotify.com/track/16MVSD0mGI4RMQT83Qzm69) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 4:02 | 2022-08-12 |  |
 | [Sleep on My Side](https://open.spotify.com/track/0qOdElKqdDKN58aKCo3yHS) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:08 | 2023-05-05 |  |
 | [Spring Cleaning](https://open.spotify.com/track/5k4wuPtknk9Eea6Lc8zq85) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Spring Cleaning](https://open.spotify.com/album/6PlNsNribLuTRMqzsD2l7h) | 2:32 | 2022-08-19 |  |

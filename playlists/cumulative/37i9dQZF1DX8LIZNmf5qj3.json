@@ -367,6 +367,24 @@
     },
     {
       "album": {
+        "name": "Charismatic",
+        "url": "https://open.spotify.com/album/6mbkUcTvJ5eS6OBzeuAwyw"
+      },
+      "artists": [
+        {
+          "name": "Hailey Knox",
+          "url": "https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184736,
+      "name": "Charismatic",
+      "url": "https://open.spotify.com/track/4zJD8PyDnzzA3WCi8Eg0jc"
+    },
+    {
+      "album": {
         "name": "Raven",
         "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
       },

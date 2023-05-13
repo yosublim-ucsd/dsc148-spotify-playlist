@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Angelina Jordan
 
-313 songs - 18 hr 17 min
+314 songs - 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [If You Only Knew](https://open.spotify.com/track/2Tv98WrbvTsQfa2xH5OSwO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \- Part I](https://open.spotify.com/album/6XT2zsJKZ80o1FJndkQwdx) | 4:12 | 2022-09-30 | 2023-02-16 |
 | [In Water](https://open.spotify.com/track/2z6MgeDtMM8bpy3iJwr7QO) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [In Water](https://open.spotify.com/album/6oADPnUSjOQjUEl4FffwHU) | 3:47 | 2022-04-22 |  |
 | [It Don't Matter](https://open.spotify.com/track/45IX2seKuUtWnQEzAh3JRc) | [Elise Azkoul](https://open.spotify.com/artist/6KCrTdWDzF11PcWt6uygaE) | [It Don't Matter](https://open.spotify.com/album/5CSe4p4wJpggsELemioCqj) | 3:33 | 2022-05-06 |  |
-| [It Will Come In Time](https://open.spotify.com/track/2eqocLN1rW8h10svumB8wd) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [It Will Come In Time](https://open.spotify.com/album/3kUX1L10eOj1lSuwrfk9PM) | 2:53 | 2022-04-29 |  |
+| [It Will Come In Time](https://open.spotify.com/track/2eqocLN1rW8h10svumB8wd) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [It Will Come In Time](https://open.spotify.com/album/3kUX1L10eOj1lSuwrfk9PM) | 2:53 | 2022-04-29 | 2023-05-13 |
 | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF) | 2:53 | 2022-09-09 |  |
 | [Joy](https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Joy](https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM) | 3:13 | 2022-01-28 | 2023-02-16 |
 | [Juicy](https://open.spotify.com/track/4UsP9smALtJoaaZp5dPlbL) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Juicy](https://open.spotify.com/album/746aWMCud3Vqi40M8WEqwG) | 3:14 | 2022-06-10 |  |
@@ -201,6 +201,7 @@
 | [Motorbike](https://open.spotify.com/track/6UcSMNUhDsCo7LJ86eOj5P) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound \(Deluxe\)](https://open.spotify.com/album/6SV7Sl0rmVeMuqYlMMAqQB) | 3:08 | 2021-12-03 | 2022-07-29 |
 | [My Game](https://open.spotify.com/track/7yAXpAYFiPqKzyi86xXbLQ) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [My Game](https://open.spotify.com/album/6GLUWw271MCvjhDcp7sd31) | 3:30 | 2021-12-03 | 2022-04-18 |
 | [New](https://open.spotify.com/track/2wWdhjrpJubT4WsxqNgsOf) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [New](https://open.spotify.com/album/658wAowCbIm9PT2VxUbYrs) | 2:56 | 2023-04-28 |  |
+| [NEWS](https://open.spotify.com/track/4LdFhvSwioFDEdOuRQp2MV) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [NEWS](https://open.spotify.com/album/1Rp96rbYxQJgiksH8datBA) | 2:27 | 2023-05-12 |  |
 | [No Guns](https://open.spotify.com/track/7BN5emnco3opS6u3baUuR1) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 4:27 | 2021-12-03 | 2022-07-28 |
 | [No More Tears](https://open.spotify.com/track/09fosw8GBPZcJGmGwip06w) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Freewheelin' Woman](https://open.spotify.com/album/2evFHBABBhgV5OtDqHPomo) | 3:34 | 2022-04-15 |  |
 | [No News No Blues](https://open.spotify.com/track/3dI1uxPuy9SwEMveMwpDJn) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn), [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Back On the Music!](https://open.spotify.com/album/3ltD9P5ZMjlEl03fLGa7AB) | 3:53 | 2022-01-14 | 2023-05-01 |

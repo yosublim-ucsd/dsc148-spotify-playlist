@@ -2,9 +2,9 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide! Cover: Megan Moroney
+> Today's top country hits of the week, worldwide! Cover: Bailey Zimmerman
 
-633 songs - 1 day 10 hr 8 min
+635 songs - 1 day 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,7 +345,7 @@
 | [Love That About You](https://open.spotify.com/track/6eKhWSDPM9cDicwsBCvUwB) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Love That About You](https://open.spotify.com/album/35nqtUdzuwfzYRLPE6odU4) | 2:37 | 2019-05-26\* | 2019-06-15 |
 | [Love You a Little Bit](https://open.spotify.com/track/0JlPeDabMkPpmC9W7TI3BM) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Love You a Little Bit](https://open.spotify.com/album/3SPnI205DIMN5yosDIT0v1) | 3:30 | 2023-01-06 | 2023-02-17 |
 | [Love You a Little Bit](https://open.spotify.com/track/0isqpzdmr2hsKb50uBSCdo) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Love You a Little Bit](https://open.spotify.com/album/5bWiVnH44bQQ4zeN0ozz5W) | 3:30 | 2023-02-10 |  |
-| [Love You Anyway](https://open.spotify.com/track/3qXsX3mYSsD1DmAvc3PE3N) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Love You Anyway](https://open.spotify.com/album/4ettM87GR2TdBLDTTBdfeF) | 3:49 | 2023-02-10 |  |
+| [Love You Anyway](https://open.spotify.com/track/3qXsX3mYSsD1DmAvc3PE3N) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Love You Anyway](https://open.spotify.com/album/4ettM87GR2TdBLDTTBdfeF) | 3:49 | 2023-02-10 | 2023-05-13 |
 | [Love You Like I Used To](https://open.spotify.com/track/1D7cfiC5mxqHfTCcOiRBej) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Love You Like I Used To](https://open.spotify.com/album/7odU4foqIpRNmUSblazLBq) | 3:06 | 2020-02-12 | 2021-01-23 |
 | [Love You Too Late](https://open.spotify.com/track/1cxSTaUfweIG0dw3a9BGi3) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Love You Too Late \(Live at Joe's\)](https://open.spotify.com/album/5O2o5h4GdpGrQlxyaVmk6p) | 3:23 | 2019-08-11 | 2019-11-09 |
 | [Love You Too Late](https://open.spotify.com/track/52MNypbTWiwybwzhXvsPk5) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [All of It](https://open.spotify.com/album/2SxBuClrOCg8WZPXEDobmm) | 3:24 | 2019-08-10 | 2019-08-11 |
@@ -372,7 +372,7 @@
 | [More Hearts Than Mine](https://open.spotify.com/track/0LcspVKJxhEQQSvVMiTPWz) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [More Hearts Than Mine](https://open.spotify.com/album/4VMYwWFqX9vUv9otWLRRF5) | 3:34 | 2019-12-08 | 2020-03-28 |
 | [More Hearts Than Mine](https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:34 | 2020-03-28 | 2020-05-02 |
 | [More Than My Hometown](https://open.spotify.com/track/6FniJZn4agmDtPx1pKZQsa) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [More Than My Hometown](https://open.spotify.com/album/3YxTy8m1OZ3oNSdxYprbIg) | 3:36 | 2020-05-09 | 2021-02-03 |
-| [Mountain With A View](https://open.spotify.com/track/2fBvSCdG3lDjImqJvnYtvq) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:57 | 2023-02-17 |  |
+| [Mountain With A View](https://open.spotify.com/track/2fBvSCdG3lDjImqJvnYtvq) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:57 | 2023-02-17 | 2023-05-13 |
 | [Mr\. Lonely](https://open.spotify.com/track/3sEa95MTLJ8JcoP5A97bWl) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Mr\. Lonely](https://open.spotify.com/album/3UIccz6UJbRSikhYrzMqy5) | 2:59 | 2019-08-25 | 2019-09-15 |
 | [My Bar](https://open.spotify.com/track/3rvEUrjnl3eXXmKiKLkzRN) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [My Bar](https://open.spotify.com/album/5SaPpj7mUr3Yin6oaBSnEP) | 3:13 | 2022-06-10 | 2022-11-19 |
 | [My Boy](https://open.spotify.com/track/0PjXFoTUNltAvf4IN0N3Xx) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [My Boy](https://open.spotify.com/album/1KMNV3TwzyaD0ongzMHjVQ) | 3:23 | 2021-08-21 | 2021-11-13 |
@@ -433,6 +433,7 @@
 | [Other Girl](https://open.spotify.com/track/0Kt2cOpCmKN2D9mG8Fw2ce) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Other Girl](https://open.spotify.com/album/7um6zTS2EhW6iSIiDJ9gt1) | 3:15 | 2019-09-15 | 2020-03-14 |
 | [Out In The Middle](https://open.spotify.com/track/1pbUfl4W9KtQ5hNkT6RiXp) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Out in the Middle](https://open.spotify.com/album/3MVvgTvhFQrHXE6coxwl6I) | 2:46 | 2022-07-15 | 2023-03-04 |
 | [Out Of That Truck](https://open.spotify.com/track/1xdsRkWxWWUkKhh9hRtfYp) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Out Of That Truck](https://open.spotify.com/album/7nglF1PaMAFKEzUq3reXiJ) | 2:57 | 2023-04-07 |  |
+| [Outskirts](https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Outskirts](https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh) | 3:02 | 2023-05-12 |  |
 | [Over All Over Again](https://open.spotify.com/track/6eK53DELUKMF7Dkao6n2Av) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Over All Over Again](https://open.spotify.com/album/0Pou6Q0oInncOXGbKf8QIh) | 3:21 | 2021-07-24 | 2021-10-02 |
 | [Over For You](https://open.spotify.com/track/3RF00zOzrrWKKoU7aIBaTS) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Over For You](https://open.spotify.com/album/1Q4VPZwThIxpobj0bck5g2) | 3:05 | 2023-03-24 |  |
 | [Over Now](https://open.spotify.com/track/2JxBHISFV4ISAE8VMngqWS) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [We Were Cowboys](https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG) | 3:41 | 2023-03-03 |  |
@@ -589,6 +590,7 @@
 | [We Didn't Have Much](https://open.spotify.com/track/5v9jrgFC0zbE9Dagn1gg0G) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [We Didn't Have Much](https://open.spotify.com/album/1tuZaAJxEWDLVfqLTabteL) | 2:54 | 2021-04-24 | 2021-08-28 |
 | [We Go Together Like](https://open.spotify.com/track/3mwQ4tEWBWynjw7HJgMiRA) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [We Go Together Like](https://open.spotify.com/album/1Rd2aYLTapfmSk66US3nlq) | 2:43 | 2020-10-18 | 2021-01-23 |
 | [We Got History](https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [This Is the Heavy](https://open.spotify.com/album/7hWoBHqzfN4QMcVPFSqbBS) | 3:23 | 2022-09-16 | 2023-04-22 |
+| [We Ride](https://open.spotify.com/track/4ua94LvtGZlGsZVlvMJCUS) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [We Ride](https://open.spotify.com/album/4E1qrH1o4eKRu8S6JVAnn3) | 3:08 | 2023-05-12 |  |
 | [We Were](https://open.spotify.com/track/6JOeNbZ3X6dtXusG3hkHn8) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [We Were](https://open.spotify.com/album/2yXYlRyEDDjZwKJ9nZbSib) | 3:09 | 2019-05-26\* | 2020-02-15 |
 | [We Were Like](https://open.spotify.com/track/5wdwd46vdGxRsy6tBRCSAY) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [We Were Like](https://open.spotify.com/album/0yJAsGozlILYqinG4rzjKc) | 3:00 | 2019-06-30 | 2019-08-24 |
 | [We Wouldn't Know](https://open.spotify.com/track/2ouWHr7YVOi3EUbanDD22S) | [Ian McConnell](https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1) | [We Wouldn't Know](https://open.spotify.com/album/4XfJaKPTfrStLWnrV61rdR) | 2:40 | 2020-09-26 | 2020-11-07 |

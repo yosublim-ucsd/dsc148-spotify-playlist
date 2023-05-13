@@ -1,12 +1,12 @@
 {
   "description": "The best in blues right now. Cover: Robert Finley",
-  "num_followers": 46855,
+  "num_followers": 46884,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2MyMzdjMWJkNzI0NDg4ZTQ3ZWMzZjcwZjQyOGIyZmZlN2FmMGE0",
+  "snapshot_id": "MCxhMTFjYzQ2MDdhOTdlZmYzYjdhZGMyZTNiNmFmYTg3MzM4YzliYWM0",
   "tracks": [
     {
       "added_at": "2023-04-28 04:01:00",
@@ -41,6 +41,26 @@
       "url": "https://open.spotify.com/track/2NGMAdhKhuQzk2Q5VqJLO0"
     },
     {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Anemouhagh",
+        "url": "https://open.spotify.com/album/663ElbBp2yIaQQZXoU3Ajy"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        },
+        {
+          "name": "Fats Kaplin",
+          "url": "https://open.spotify.com/artist/5AzDLOaBZOw8YvHyMuGt69"
+        }
+      ],
+      "duration_ms": 224586,
+      "name": "Anemouhagh",
+      "url": "https://open.spotify.com/track/6Yk0t2210xFtLnUl0hkYDp"
+    },
+    {
       "added_at": "2023-03-17 04:01:00",
       "album": {
         "name": "Hey Sweet Mama",
@@ -61,10 +81,10 @@
       "url": "https://open.spotify.com/track/1MOMr9SOh60lG2LH2Q6KcR"
     },
     {
-      "added_at": "2023-03-31 04:01:00",
+      "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Bob Corritore & Friends: Women In Blues Showcase",
-        "url": "https://open.spotify.com/album/5Fo1fjBqdMpJcZfROBZI5x"
+        "name": "Last Time",
+        "url": "https://open.spotify.com/album/7d1zgjgQZO89I2ffcHpVze"
       },
       "artists": [
         {
@@ -72,13 +92,13 @@
           "url": "https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH"
         },
         {
-          "name": "Barbara Lynn",
-          "url": "https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB"
+          "name": "Jimmy Rogers",
+          "url": "https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0"
         }
       ],
-      "duration_ms": 166975,
-      "name": "You're Gonna Be Sorry",
-      "url": "https://open.spotify.com/track/66lsfUDfroN998Sau6OkIp"
+      "duration_ms": 151919,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/5y0qdBH20kqP3xCWP2UmQt"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -131,26 +151,6 @@
       "duration_ms": 221145,
       "name": "One Monkey Can Stop a Show",
       "url": "https://open.spotify.com/track/1bqc5cCLaJj2QYqkJcmZRJ"
-    },
-    {
-      "added_at": "2023-03-17 04:01:00",
-      "album": {
-        "name": "Tenere Den",
-        "url": "https://open.spotify.com/album/6Kn1FZXSVW4ydCAelpLpei"
-      },
-      "artists": [
-        {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
-        },
-        {
-          "name": "Fats Kaplin",
-          "url": "https://open.spotify.com/artist/5AzDLOaBZOw8YvHyMuGt69"
-        }
-      ],
-      "duration_ms": 212386,
-      "name": "Tenere Den",
-      "url": "https://open.spotify.com/track/7ytOQ3MLqno1gpctggPRTU"
     },
     {
       "added_at": "2023-02-17 05:01:00",

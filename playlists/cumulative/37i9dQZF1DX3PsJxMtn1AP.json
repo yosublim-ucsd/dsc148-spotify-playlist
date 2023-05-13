@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Dime Qui\u00e9n Te Crees",
+        "url": "https://open.spotify.com/album/40ekzsY4RSZwUBflHazKMO"
+      },
+      "artists": [
+        {
+          "name": "Celest",
+          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234933,
+      "name": "Dime Qui\u00e9n Te Crees",
+      "url": "https://open.spotify.com/track/2X3ExwVJneq6ZBgQ5RYttn"
+    },
+    {
+      "album": {
         "name": "10,000 gecs",
         "url": "https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ"
       },
@@ -1042,7 +1060,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 374422,
       "name": "Jard\u00edn de Planetas",
       "url": "https://open.spotify.com/track/1BfNftMwrFFTcyAZbPLn9x"
@@ -1188,7 +1206,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 236054,
       "name": "Make My Way Back Home",
       "url": "https://open.spotify.com/track/5zwDRRsVri8kOTDwQt9dRU"
@@ -2084,6 +2102,28 @@
       "duration_ms": 201492,
       "name": "tens morada em mim",
       "url": "https://open.spotify.com/track/746XVpySvzCD8me5t9XdG4"
+    },
+    {
+      "album": {
+        "name": "The Lava Is Calm",
+        "url": "https://open.spotify.com/album/5aHkYVIe5sD87SjN4lmFvg"
+      },
+      "artists": [
+        {
+          "name": "Kassa Overall",
+          "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186678,
+      "name": "The Lava Is Calm",
+      "url": "https://open.spotify.com/track/3g1uQN86mg2yLHnJCuN2fR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: XG
 
-896 songs - 2 day 4 hr 5 min
+897 songs - 2 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,8 @@
 | [Dark Horse](https://open.spotify.com/track/5tdi3BqFzpYVAaXi2qwC2Y) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [JESSE](https://open.spotify.com/artist/1piiwMSnN21hrtRzpJ11ef), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Dark Horse](https://open.spotify.com/album/2w047BXSeBWZEoVblObPPs) | 3:45 | 2023-03-26 | 2023-04-24 |
 | [Dawn](https://open.spotify.com/track/7Fn6rbt6ex6WdbiUrTD5a8) | [Murakami Keisuke](https://open.spotify.com/artist/0Vw8tOe5RjKNfs8fksBGXu) | [Dawn](https://open.spotify.com/album/4DRvwCaKOaEBdHKCN7IaC3) | 3:51 | 2023-02-26 | 2023-03-06 |
 | [DAWN \(feat\. Aile The Shota\)](https://open.spotify.com/track/3LjyZPsPe9CA0DL9CS726A) | [MATZ](https://open.spotify.com/artist/55vjGKmlvpOxuYjwGjBKrD), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [DAWN \(feat\. Aile The Shota\)](https://open.spotify.com/album/28zuCoJ3HrQdD7plQcErXx) | 3:04 | 2023-04-02 | 2023-05-01 |
-| [Day After Day feat\. Mei Takahashi](https://open.spotify.com/track/5b03vF7Qyc70kDJHiQZ8L7) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [髙橋芽以](https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf) | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/album/7ridH3ntXiiWfC2jA6uqb3) | 4:43 | 2023-05-07 |  |
+| [Day After Day feat\. Mei Takahashi](https://open.spotify.com/track/1fHXLiqPG6su57eAlbnjVO) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [髙橋芽以](https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf) | [FINE LINE](https://open.spotify.com/album/37XJRNnSBngM8e8Ejp3oQ7) | 4:43 | 2023-05-08 |  |
+| [Day After Day feat\. Mei Takahashi](https://open.spotify.com/track/5b03vF7Qyc70kDJHiQZ8L7) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [髙橋芽以](https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf) | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/album/7ridH3ntXiiWfC2jA6uqb3) | 4:43 | 2023-05-07 | 2023-05-13 |
 | [Day One](https://open.spotify.com/track/3OLSNsjLlDxMIBCrGQSnJv) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Day One](https://open.spotify.com/album/6Yj1mLYVWdQWTIgix1YYfi) | 2:28 | 2023-05-07 |  |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-04-30 | 2023-05-08 |
 | [Days](https://open.spotify.com/track/0s4yqLuXcjig9VJH6XNMG7) | [Asilo](https://open.spotify.com/artist/72lfhTlPxWHRqGnIdr9Jxh) | [Days](https://open.spotify.com/album/4N5nEU0I2SW89TXSuvBvbb) | 3:19 | 2023-01-29 | 2023-02-06 |

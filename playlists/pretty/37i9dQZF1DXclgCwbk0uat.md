@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Pailita.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,826,967 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,827,501 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 2 | [XQ TAN SOLA?](https://open.spotify.com/track/5DoGJMtInwrPZrzyKnuqMi) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [XQ TAN SOLA?](https://open.spotify.com/album/3Yd8cEiwelgcJrxPi6YEWE) | 3:20 |
 | 3 | [BELLAKITA](https://open.spotify.com/track/2l58pc9aJRjkoj5RcesCJF) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [BELLAKITA](https://open.spotify.com/album/6Fj0GkKMMINezcKru5p1ju) | 2:12 |
 | 4 | [Ibiza](https://open.spotify.com/track/54JDCisyVD6GxD21XR1xg7) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Balbi El Chamako](https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa) | [Ibiza](https://open.spotify.com/album/4yw3ROEc6NG7u7dAcEOopL) | 3:41 |
-| 5 | [Pa La Europa](https://open.spotify.com/track/79Ias0x3ygL9ZQcQ7rAvbG) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [Pa La Europa](https://open.spotify.com/album/3UeGVaUGFEwU2lvYRdP1Nn) | 3:39 |
+| 5 | [Pa La Europa](https://open.spotify.com/track/0MoTNY46hAvSVq2CdN1xHk) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [Pa La Europa](https://open.spotify.com/album/1wuxxtmnD0DAsMEHmqMcgu) | 3:39 |
 | 6 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 |
 | 7 | [MADRID](https://open.spotify.com/track/2fXKhkTskJr2zi7iZJmDOq) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [MADRID](https://open.spotify.com/album/4uv3gpD1EVnI2NtDsCIL0D) | 3:15 |
 | 8 | [2 Hielos](https://open.spotify.com/track/4za7UzHuKvr84o8h9CxqV1) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [2 Hielos](https://open.spotify.com/album/36cXeSQ4gqFwUIdoWFwmR9) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 49 | [Hey Mor](https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:16 |
 | 50 | [MIENTRAS ME CURO DEL CORA](https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:44 |
 
-Snapshot ID: `MCw5OTYwOWJlZjM5M2YzNDkxNzRkYTJlMjg5NzZhMDkxYzFjZmM0YTdm`
+Snapshot ID: `MCwzYjRiYjIxOWY4ZjM4NjgwYTEyMGEwMjU2OTE1ZjBkOTc2OTUxYTQ2`

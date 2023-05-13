@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyEXGEtvzUv.md) - [plain]
 
 > O melhor do rap em 2022\. Foto: Dillaz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,977 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,990 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,13 +30,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyEXGEtvzUv.md) - [plain]
 | 20 | [Malandro](https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Malandro](https://open.spotify.com/album/5HpKHknhyCUqa0dcToXWFe) | 3:30 |
 | 21 | [Coração](https://open.spotify.com/track/1dmgHNSeYDyqb6TwLatTfc) | [GROGNation](https://open.spotify.com/artist/1rtrFjartQj3xws8TZ1dXu) | [Anatomia de GROG](https://open.spotify.com/album/333cuKMpbc1kaTufa6Uu2y) | 4:42 |
 | 22 | [VOLTA](https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [VOLTA](https://open.spotify.com/album/4jFOf5EaLGkF9xGR3ALE6J) | 4:01 |
-| 23 | [Praça Onze](https://open.spotify.com/track/30WnHkBkq3vE8jJcNZ3RKr) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Praça Onze](https://open.spotify.com/album/3jPS6pgoJ4adGHImcNxETl) | 4:23 |
+| 23 | [Praça Onze](https://open.spotify.com/track/0hMUCxx0QJfxOmWq7D5oi0) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Praça Onze](https://open.spotify.com/album/6BBDRshfbJrNM9yJJSZhPD) | 4:23 |
 | 24 | [Morte do Artista](https://open.spotify.com/track/1Cq83G1oAeRqHyBW3go5vM) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [Cool Kid](https://open.spotify.com/album/0OhiYPXXXNNoxSkiDOYjNF) | 3:27 |
 | 25 | [Don't Lie](https://open.spotify.com/track/3wvEiKmoYB2JUkgSN1xlJI) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Sabi na Sabura](https://open.spotify.com/album/3Pce78X39Cqw3TCdaUEEfj) | 3:05 |
 | 26 | [Tou Na Boa](https://open.spotify.com/track/0Wi7wwhGBAc9TosjWyVRBY) | [Cíntia](https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU) | [Tou Na Boa](https://open.spotify.com/album/3Risu1i22cEiSVtrD2dNOb) | 2:41 |
 | 27 | [É ASSIM](https://open.spotify.com/track/6f1IpDqahcdqMI5ctgrHMY) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [CASTANHO](https://open.spotify.com/album/2NYhVEDTSEwvNrW7qs7IOU) | 4:09 |
 | 28 | [JOGADOR CARO](https://open.spotify.com/track/3AmAlwNKaJyExmvN6EOSb2) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Greg Ferreira](https://open.spotify.com/artist/2e8RAcYXYt5IStoaaQWcG8), [Sippinpurpp](https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z) | [JOGADOR CARO](https://open.spotify.com/album/5CZiBICShN5FDPhQtUsCbC) | 3:06 |
-| 29 | [300](https://open.spotify.com/track/6lElXo5x9oyqvIUcG7gP7d) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:17 |
+| 29 | [300](https://open.spotify.com/track/7s0bCwjqJRMjH7yNf6Gyf7) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj) | 4:17 |
 | 30 | [Desconfinamento](https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Desconfinamento](https://open.spotify.com/album/2gelzQflEo0NtA8xE7pHlI) | 3:06 |
 | 31 | [Aulas e Cursos](https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY) | [DNASTY](https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn) | [Aulas e Cursos](https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr) | 3:33 |
 | 32 | [Popo](https://open.spotify.com/track/24QcmVdz7CwEYhohJxJ4EX) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Harley KSD](https://open.spotify.com/artist/0AyoY8RFId4AqueSJvE99D) | [Popo](https://open.spotify.com/album/6V1YM7CbiOwqwIEa73riB3) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyEXGEtvzUv.md) - [plain]
 | 49 | [RockNRoll](https://open.spotify.com/track/1Hsxz3THpMGPlUfs6ut8kv) | [XROOTZ](https://open.spotify.com/artist/0ZDuMqcz7YEc0sJDijQmEb), [LZ](https://open.spotify.com/artist/7ylnIZOT3I0EdTMcWVTLud), [CL](https://open.spotify.com/artist/4i1KqPb9iJ51vS7BhXn0U0), [XIXO503](https://open.spotify.com/artist/0jJKdlK7cMSI6YFFCI7khz) | [RockNRoll](https://open.spotify.com/album/41fW2ux0CwJF85Qk183l2c) | 4:03 |
 | 50 | [Apaga o Meu Número](https://open.spotify.com/track/5YSq0fJUZXWeFG5RwCd5F9) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [DOSYE KRI](https://open.spotify.com/album/3m8UQ1Fenv6Tjoobg6QSfP) | 2:56 |
 
-Snapshot ID: `MCwzYWVkOGIwYmRjOTdiZDEyZTI1Y2UyZWQyMzliNDdjNWMyMjY0ZjY0`
+Snapshot ID: `MCxiYjI1N2VjODk2MWY2NmFlYjQzNjdkNDdkZDM0NGU0MDYyOWYxMGFk`

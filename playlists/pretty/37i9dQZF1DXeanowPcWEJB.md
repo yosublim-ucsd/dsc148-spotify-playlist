@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 
 > Viaja al México tradicional con la expresión de sus guitarras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,933 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,014 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,15 +46,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 36 | [Esta Triste Guitarra](https://open.spotify.com/track/4WVOyMd86ZTGhh6WNuwUSs) | [Chamin Correa](https://open.spotify.com/artist/5nbu0z9YPCdLMUr4OsiQ9w) | [Éxitos Vol\. 2](https://open.spotify.com/album/6DG898DOEIdqpKyK2nB72v) | 4:28 |
 | 37 | [Pensamiento](https://open.spotify.com/track/7GxIlqOjYpmh080KhtOrtE) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Pensamiento](https://open.spotify.com/album/1uuYnEN87b3BkbQlQmbf0F) | 2:16 |
 | 38 | [Noche Negra](https://open.spotify.com/track/0jm4wpiCZy3wXupv0IAXrN) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Noche Negra](https://open.spotify.com/album/5FuPvDHLQTr3eaxl2r9PCE) | 1:59 |
-| 39 | [Piel Canela](https://open.spotify.com/track/5jgDyBwJ9MT6r1L8LsJXhJ) | [Guitarras Mágicas](https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0) | [25 Exitos](https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS) | 3:17 |
-| 40 | [Parece Que Fue Ayer](https://open.spotify.com/track/1QbbGANlhCOBQy2swIAgy3) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Parece Que Fue Ayer](https://open.spotify.com/album/0S3BS29cQXHPIeKZVHxF64) | 2:48 |
+| 39 | [Parece Que Fue Ayer](https://open.spotify.com/track/1QbbGANlhCOBQy2swIAgy3) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Parece Que Fue Ayer](https://open.spotify.com/album/0S3BS29cQXHPIeKZVHxF64) | 2:48 |
+| 40 | [Piel Canela](https://open.spotify.com/track/5jgDyBwJ9MT6r1L8LsJXhJ) | [Guitarras Mágicas](https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0) | [25 Exitos](https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS) | 3:17 |
 | 41 | [Siempre Te Amare](https://open.spotify.com/track/3chlEDJ4tTR1WnitKFVxrB) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Siempre Te Amare](https://open.spotify.com/album/3xuBRLDnpaa0C4kn46LzK4) | 2:29 |
 | 42 | [Costumbres](https://open.spotify.com/track/7pK8jqZaln51RmaCKcvNr6) | [Chamin Madero](https://open.spotify.com/artist/2i6crsrnfZnUu1hdEEa1Z4) | [Juan Gabriel Instrumental](https://open.spotify.com/album/0gwnj5oFg6mpXSCHdu87Fg) | 4:06 |
 | 43 | [La Morena](https://open.spotify.com/track/548xag3N1RRqouKbnrkCex) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 2:55 |
-| 44 | [No Se Tú](https://open.spotify.com/track/6BFAhQJHsOqJCa9lIJZUE8) | [Guitarras de Luna](https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh) | [Grandes Exitos del Sol](https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D) | 3:14 |
+| 44 | [Luna Lunera](https://open.spotify.com/track/119YhbTAwA2txEJNe6Sdjg) | [Cortando Troncos](https://open.spotify.com/artist/5K2ipzlsy5eOnGSr8Q9jCn) | [Luna Lunera](https://open.spotify.com/album/1LHSs9qU9O6bu2OIvav6pr) | 2:04 |
 | 45 | [Con los Años Que Me Quedan](https://open.spotify.com/track/5eo6BDBP80cGwNjwJwRv62) | [Chamin Correa](https://open.spotify.com/artist/5nbu0z9YPCdLMUr4OsiQ9w) | [Éxitos Vol\. 2](https://open.spotify.com/album/6DG898DOEIdqpKyK2nB72v) | 4:59 |
 | 46 | [Amor Que Malo Eres](https://open.spotify.com/track/4Xwg1xbEg5Dx4N3PMEisKQ) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Amor Que Malo Eres](https://open.spotify.com/album/1OKUKlhIVJwedZcUkrBcBB) | 2:36 |
-| 47 | [Luna Lunera](https://open.spotify.com/track/119YhbTAwA2txEJNe6Sdjg) | [Cortando Troncos](https://open.spotify.com/artist/5K2ipzlsy5eOnGSr8Q9jCn) | [Luna Lunera](https://open.spotify.com/album/1LHSs9qU9O6bu2OIvav6pr) | 2:04 |
+| 47 | [No Se Tú](https://open.spotify.com/track/6BFAhQJHsOqJCa9lIJZUE8) | [Guitarras de Luna](https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh) | [Grandes Exitos del Sol](https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D) | 3:14 |
 | 48 | [Corazon Partio](https://open.spotify.com/track/6Bi0Viwx77fAJjTK62by6e) | [Guitarras Mágicas](https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0) | [25 Exitos](https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS) | 4:09 |
 | 49 | [Amor Eterno](https://open.spotify.com/track/5k7l6Sl8lmLfxqbFg2kLgk) | [Chamin Madero](https://open.spotify.com/artist/2i6crsrnfZnUu1hdEEa1Z4) | [Juan Gabriel Instrumental](https://open.spotify.com/album/0gwnj5oFg6mpXSCHdu87Fg) | 3:41 |
 | 50 | [La Barca / Tu Condena / El Reloj](https://open.spotify.com/track/4zU0JhDu2f1Zojz2LlCwuI) | [Chamin Correa](https://open.spotify.com/artist/5nbu0z9YPCdLMUr4OsiQ9w) | [Coleccion De Oro](https://open.spotify.com/album/17aGPzpgZyUu3VtSiErXNr) | 4:57 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 71 | [María Elena](https://open.spotify.com/track/6dF9JTzb2B1rArAlU5pdcx) | [Juan Veronico](https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp) | [Tuyo Es Mi Corazón](https://open.spotify.com/album/1bwStQ80iX18XkjuG0fsL6) | 2:53 |
 | 72 | [La Borrachita](https://open.spotify.com/track/5reZsy6MsXxZ3qD5VNOQye) | [Roberto Rojas](https://open.spotify.com/artist/6h8HM5jSn1QjXgOiZzfm0p) | [Guitarra Mexicana](https://open.spotify.com/album/4E9JVN15xAQeBCtFuxnafP) | 1:57 |
 | 73 | [Si Me Faltas Tu](https://open.spotify.com/track/0ei3cuKOiBVDlbznVMrCbi) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Si Me Faltas Tu](https://open.spotify.com/album/2TUNJosqZo997I9rAyS4aT) | 3:37 |
-| 74 | [Nosotros](https://open.spotify.com/track/0hwXKRDbZDKQOASMUkyBrU) | [Chamin Madero](https://open.spotify.com/artist/2i6crsrnfZnUu1hdEEa1Z4) | [15 Guitarras Mexicanas](https://open.spotify.com/album/4jQOONzAbwWnwEk0JJwTua) | 5:16 |
-| 75 | [Mi Ciudad](https://open.spotify.com/track/09vo3ERI7rROqzjy2c8bN3) | [Gilberto Puente](https://open.spotify.com/artist/1OBVE9oxvqZ5mGtUUR3wVR) | [En la Intimidad](https://open.spotify.com/album/3Xof1I1qAhA7f1OrpfGOj5) | 3:47 |
+| 74 | [Mi Ciudad](https://open.spotify.com/track/09vo3ERI7rROqzjy2c8bN3) | [Gilberto Puente](https://open.spotify.com/artist/1OBVE9oxvqZ5mGtUUR3wVR) | [En la Intimidad](https://open.spotify.com/album/3Xof1I1qAhA7f1OrpfGOj5) | 3:47 |
+| 75 | [Nosotros](https://open.spotify.com/track/0hwXKRDbZDKQOASMUkyBrU) | [Chamin Madero](https://open.spotify.com/artist/2i6crsrnfZnUu1hdEEa1Z4) | [15 Guitarras Mexicanas](https://open.spotify.com/album/4jQOONzAbwWnwEk0JJwTua) | 5:16 |
 | 76 | [Popurri de Jose Alfredo Jimenez: Ella / La Enorme Distancia / Que Te Vaya Bonito / Vámonos](https://open.spotify.com/track/6ACOpwrtWV5oIsAZjVUrGw) | [Los Poetas De La Guitarra](https://open.spotify.com/artist/4tJogcL5p5AL0etHNAsxbU) | [Los Poetas de la Guitarra Popurris Inolvidables](https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT) | 5:09 |
 | 77 | [El Andariego](https://open.spotify.com/track/6oArIL3tzZnmipt3NyrsQ2) | [Romanticos De La Guitarra](https://open.spotify.com/artist/6HexP8xPE4JxhMkwxx55Pz) | [Nostalgia](https://open.spotify.com/album/6lumfvD8xwtfHiabaaBXS6) | 3:25 |
 | 78 | [La Llorona \(Duet\)](https://open.spotify.com/track/1YBrN8ZzDNbPDH4ay75FsR) | [Stefan](https://open.spotify.com/artist/7lAyVgqdNJDgOcno8i62ZU) | [Guitarra Mexicana, Vol\. 1](https://open.spotify.com/album/3tQyY3bDlVSJBnXlQzqK7l) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 99 | [La Luz](https://open.spotify.com/track/4uXV0bR99BzZBlaz8rhX4J) | [Stefan](https://open.spotify.com/artist/7lAyVgqdNJDgOcno8i62ZU) | [Guitarra Mexicana, Vol\. 1](https://open.spotify.com/album/3tQyY3bDlVSJBnXlQzqK7l) | 2:46 |
 | 100 | [Alla en el Rancho Grande](https://open.spotify.com/track/64j3RUFP6ZHH4h8ctOxc1o) | [Romanticos De La Guitarra](https://open.spotify.com/artist/6HexP8xPE4JxhMkwxx55Pz) | [Nostalgia](https://open.spotify.com/album/6lumfvD8xwtfHiabaaBXS6) | 2:09 |
 
-Snapshot ID: `MCxlNjAxZjM0NmQ1ZTBkZThmOGRlNGI0ZGFmOTRmMmJmZTk5ZGNhNTkx`
+Snapshot ID: `MCwwZmJiOWQzM2QwNzE4YzRjYmY0ZGNmMjM0YjRkMmY2NTdkMGNkZWRm`

@@ -535,6 +535,24 @@
     },
     {
       "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170293,
+      "name": "Este Amor Es Real",
+      "url": "https://open.spotify.com/track/73A8j9qMUAnfTllMbAo6ec"
+    },
+    {
+      "album": {
         "name": "Gracias Mam\u00e1",
         "url": "https://open.spotify.com/album/5vgPnl9LeTdTTRtjY0bB7W"
       },
@@ -546,7 +564,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-06",
+      "date_removed": null,
       "duration_ms": 189248,
       "name": "Gracias Mam\u00e1",
       "url": "https://open.spotify.com/track/2H7D673ECblsbYwzgzIusU"
@@ -608,7 +626,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 166748,
       "name": "Merecerte Hoy",
       "url": "https://open.spotify.com/track/4SaHMGZ6kbEtGkJISqy2VI"
@@ -630,6 +648,24 @@
       "duration_ms": 150605,
       "name": "Mi Bello \u00c1ngel",
       "url": "https://open.spotify.com/track/31FzCxz4Iys6DXWgWPIw18"
+    },
+    {
+      "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236009,
+      "name": "Mi Mejor Plan Eres Tu",
+      "url": "https://open.spotify.com/track/62gjUC2k4VKjiXJCdYu7nx"
     },
     {
       "album": {
@@ -962,7 +998,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 216503,
       "name": "Si Alg\u00fan D\u00eda Te Encuentro",
       "url": "https://open.spotify.com/track/3cXE7s1awKcJiNHp2UokBu"
@@ -1158,7 +1194,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 155939,
       "name": "Toditos Somos Iguales",
       "url": "https://open.spotify.com/track/0LOpgb0ONsd2NRtzTiOlFy"

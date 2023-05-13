@@ -2346,7 +2346,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 141538,
       "name": "Disaster's End",
       "url": "https://open.spotify.com/track/6QdHwnhlwUuJggJLMDoTMm"
@@ -3537,6 +3537,24 @@
     },
     {
       "album": {
+        "name": "GODDESS",
+        "url": "https://open.spotify.com/album/4ruYdN7WJSwYGPeSz3z9CR"
+      },
+      "artists": [
+        {
+          "name": "zecki",
+          "url": "https://open.spotify.com/artist/3hmaJ9tTvaDVTrJyHPO9T0"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189826,
+      "name": "GODDESS",
+      "url": "https://open.spotify.com/track/7kdGufOyJaQHLBWXlKubPf"
+    },
+    {
+      "album": {
         "name": "GODMODE",
         "url": "https://open.spotify.com/album/6VBasO84yZFJAq7LcZ2SfL"
       },
@@ -3744,7 +3762,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 171028,
       "name": "HELLDRIFT 2",
       "url": "https://open.spotify.com/track/2fA6syjvdiDZmXk8qyH8uM"
@@ -3774,6 +3792,32 @@
       "duration_ms": 171028,
       "name": "HELLDRIFT 2",
       "url": "https://open.spotify.com/track/6Afxf4h7z4MWJXR8E94DW7"
+    },
+    {
+      "album": {
+        "name": "HELLDRIFT 2",
+        "url": "https://open.spotify.com/album/3UCqTHEEL0ci11SF3ktMcG"
+      },
+      "artists": [
+        {
+          "name": "HXI",
+          "url": "https://open.spotify.com/artist/3yRqd6IO6SamMAmnXwZKeU"
+        },
+        {
+          "name": "HXELLPLAYA",
+          "url": "https://open.spotify.com/artist/139o7LrZwdg6500us8tVNH"
+        },
+        {
+          "name": "$werve",
+          "url": "https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174289,
+      "name": "Helldrift 2",
+      "url": "https://open.spotify.com/track/71sS4RDpC0Vx5HecRUX4rR"
     },
     {
       "album": {
@@ -6443,6 +6487,28 @@
     },
     {
       "album": {
+        "name": "PHONKGASKAR",
+        "url": "https://open.spotify.com/album/2B6eFuLza7i5gwzzWgASFI"
+      },
+      "artists": [
+        {
+          "name": "Rushex",
+          "url": "https://open.spotify.com/artist/55TpSGABb9xsmXHkqbv3ti"
+        },
+        {
+          "name": "Jolixwery",
+          "url": "https://open.spotify.com/artist/1OZskXcIcGU2L0RamW7Xa0"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82514,
+      "name": "PHONKGASKAR",
+      "url": "https://open.spotify.com/track/7FoanMQjdrrecBH8YiIti2"
+    },
+    {
+      "album": {
         "name": "Phonky Halloween",
         "url": "https://open.spotify.com/album/7340hFLceufUfJ96Lr6w3d"
       },
@@ -8095,6 +8161,24 @@
     },
     {
       "album": {
+        "name": "SUCCUMB",
+        "url": "https://open.spotify.com/album/1FJXnIifvG1fUaPeRpZzn5"
+      },
+      "artists": [
+        {
+          "name": "Dxrk \u30c0\u30fc\u30af",
+          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174880,
+      "name": "SUCCUMB",
+      "url": "https://open.spotify.com/track/4sKzGxtYdkGAu92sQPOGqF"
+    },
+    {
+      "album": {
         "name": "SUICIDE YEAR",
         "url": "https://open.spotify.com/album/0tMQ0WClc4aez32B3BiqxJ"
       },
@@ -8426,7 +8510,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 186041,
       "name": "The Perfect Phonk",
       "url": "https://open.spotify.com/track/4auagVkC2xBJvBctdjl5Nw"

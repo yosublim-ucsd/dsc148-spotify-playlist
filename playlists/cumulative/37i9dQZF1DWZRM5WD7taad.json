@@ -2531,6 +2531,24 @@
     },
     {
       "album": {
+        "name": "Nota De Voz",
+        "url": "https://open.spotify.com/album/51R0wIm1SJy3Oo1AdBpjKj"
+      },
+      "artists": [
+        {
+          "name": "Kenzy",
+          "url": "https://open.spotify.com/artist/778s7JrnFl5ICM49oimpj4"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150879,
+      "name": "Nota De Voz",
+      "url": "https://open.spotify.com/track/7fjdmeVSIGoZ6am4tAuKsA"
+    },
+    {
+      "album": {
         "name": "Nunca Supiste",
         "url": "https://open.spotify.com/album/3bIRrdw5Hjvlb59eiT6Ldo"
       },

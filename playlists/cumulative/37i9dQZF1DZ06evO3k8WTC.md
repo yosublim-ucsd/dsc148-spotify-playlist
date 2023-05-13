@@ -4,7 +4,7 @@
 
 > This is At the Drive\-In\. The essential tracks, all in one playlist.
 
-40 songs - 2 hr 17 min
+41 songs - 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Schaffino](https://open.spotify.com/track/1dYBzV2cObLLx8SLqx4hWT) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/7xnsCIwWMRVaVGFORsRfxP) | 2:48 | 2022-11-17 | 2023-05-08 |
 | [Schaffino](https://open.spotify.com/track/7uBeV3Eep9rwpz4VJlsGS8) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip) | 2:48 | 2023-05-07 |  |
 | [Sleepwalk Capsules](https://open.spotify.com/track/3S59EdH9sqkEewzw9ucbna) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship Of Command](https://open.spotify.com/album/0x6Y2eA8Boakdrq9x2agdF) | 3:27 | 2022-11-17 |  |
-| [Starslight](https://open.spotify.com/track/6XHu2Gur3kT47rkSWMC93p) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/7xnsCIwWMRVaVGFORsRfxP) | 1:18 | 2022-11-17 |  |
+| [Starslight](https://open.spotify.com/track/46XBLbYXATk5wgodMQNRR4) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip) | 1:18 | 2023-05-12 |  |
+| [Starslight](https://open.spotify.com/track/6XHu2Gur3kT47rkSWMC93p) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/7xnsCIwWMRVaVGFORsRfxP) | 1:18 | 2022-11-17 | 2023-05-13 |
 | [Ticklish](https://open.spotify.com/track/2mNBIB5IaWgCl9HPYrr5YM) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/7xnsCIwWMRVaVGFORsRfxP) | 4:35 | 2022-11-17 | 2023-05-10 |
 | [Ticklish](https://open.spotify.com/track/52u5f5h1sARj7zEmHi2o6G) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip) | 4:35 | 2023-05-09 |  |
 | [Tilting At The Univendor](https://open.spotify.com/track/2XTkqT27bvrLZpuNI70DmH) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [in•ter a•li•a](https://open.spotify.com/album/3Ka6oBfQ6rdAvQ1kK9KYvX) | 3:26 | 2022-11-17 |  |

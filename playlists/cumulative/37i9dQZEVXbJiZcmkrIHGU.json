@@ -2608,7 +2608,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 165476,
       "name": "Auf & Ab",
       "url": "https://open.spotify.com/track/2sFsvaMRe8PKo5AFdBE9qC"
@@ -3626,7 +3626,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 143257,
       "name": "BAYERN FREESTYLE",
       "url": "https://open.spotify.com/track/5IzQvFuudkPEGIVgZMhpB9"
@@ -10246,7 +10246,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-07",
+      "date_removed": null,
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
@@ -34722,6 +34722,24 @@
       "duration_ms": 182533,
       "name": "Wenn Du mich l\u00e4sst",
       "url": "https://open.spotify.com/track/3rIl1xa1Bzsp5zMkd0CT2Z"
+    },
+    {
+      "album": {
+        "name": "Wenn du mich l\u00e4sst (aus \"Sing meinen Song, Vol. 10\")",
+        "url": "https://open.spotify.com/album/2rXZRqF0k12lUElr0mK58m"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183586,
+      "name": "Wenn du mich l\u00e4sst (aus \"Sing meinen Song, Vol. 10\")",
+      "url": "https://open.spotify.com/track/6bdsbL8CwwGnIMRXZyChme"
     },
     {
       "album": {

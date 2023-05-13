@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Bou",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Sub Focus, Hayla",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -2578,7 +2578,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 232720,
       "name": "Fine Day",
       "url": "https://open.spotify.com/track/7GAU8ZBz8oplZB8mXl7eHm"
@@ -3517,6 +3517,28 @@
     },
     {
       "album": {
+        "name": "I Found You",
+        "url": "https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176548,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
+    },
+    {
+      "album": {
         "name": "I Got You",
         "url": "https://open.spotify.com/album/6qZ82DeV8C756F5GcaKaCw"
       },
@@ -4300,6 +4322,36 @@
       "duration_ms": 235000,
       "name": "Louder Than Words",
       "url": "https://open.spotify.com/track/3AXmSZIHOho1ylePzcTBto"
+    },
+    {
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/3pxAfJsGxjNQ1DjkkGlUqK"
+      },
+      "artists": [
+        {
+          "name": "Doktor",
+          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
+        },
+        {
+          "name": "Sudley",
+          "url": "https://open.spotify.com/artist/56BZYfbCbGZfo1EZt3XYqn"
+        },
+        {
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
+        },
+        {
+          "name": "Qyor",
+          "url": "https://open.spotify.com/artist/7k4jeXBwNIYjkeRIsymwlQ"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158620,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/0w9zOHQ2Y3hrmL1YT9yuCD"
     },
     {
       "album": {
@@ -6846,7 +6898,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 164898,
       "name": "Special Powers",
       "url": "https://open.spotify.com/track/3dIKsuKDHXRfiZ56lm8g7T"

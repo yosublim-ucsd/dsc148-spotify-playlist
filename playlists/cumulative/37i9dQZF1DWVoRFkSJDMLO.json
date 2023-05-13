@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-01",
-  "description": "Inspired by African drums. Cover: Skiifall \ud83c\uddfb\ud83c\udde8",
+  "description": "Inspired by African drums. Cover: Emotional Oranges, Nonso Amadi \ud83c\uddfa\ud83c\uddf8 \ud83c\uddf3\ud83c\uddec",
   "name": "Crxss Current",
   "tracks": [
     {
@@ -46,7 +46,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 207603,
       "name": "16CHOPPA (feat. Nardo Wick)",
       "url": "https://open.spotify.com/track/0QyisrAtBYGswf8KTJkkFV"
@@ -250,7 +250,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 160714,
       "name": "ALL EYES ON ME",
       "url": "https://open.spotify.com/track/6Fz3JvR8SQxMyRGBSx7mUW"
@@ -1100,7 +1100,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 175521,
       "name": "Bend It Over",
       "url": "https://open.spotify.com/track/4kx5UasR27nS6Bw6huHhj1"
@@ -1790,6 +1790,28 @@
       "duration_ms": 214368,
       "name": "Bulletproof Skin",
       "url": "https://open.spotify.com/track/7CyszM5ZobMrQx1Obcv4K3"
+    },
+    {
+      "album": {
+        "name": "Unchained",
+        "url": "https://open.spotify.com/album/04DGHo6RKxLuTz3bBgj4rH"
+      },
+      "artists": [
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        },
+        {
+          "name": "Karlie Redd",
+          "url": "https://open.spotify.com/artist/0oPdBO6Dh9AgHDRLjpDJpz"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126720,
+      "name": "Bumper Heavy",
+      "url": "https://open.spotify.com/track/2PBhZtDV5NNpTdqaU4lSzq"
     },
     {
       "album": {
@@ -2621,6 +2643,28 @@
     },
     {
       "album": {
+        "name": "Doggie (Remix)",
+        "url": "https://open.spotify.com/album/2A8htyN8afwyYuW74zUaFF"
+      },
+      "artists": [
+        {
+          "name": "DJ CHEEM",
+          "url": "https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ"
+        },
+        {
+          "name": "Yung Bredda",
+          "url": "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147840,
+      "name": "Doggie - Remix",
+      "url": "https://open.spotify.com/track/556R8sj2EQvhqkUdGI2Czg"
+    },
+    {
+      "album": {
         "name": "Don't Run (feat. Skinny Fabulous)",
         "url": "https://open.spotify.com/album/7kDrvkStFWFTVu1UxoO1Zu"
       },
@@ -2814,7 +2858,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 164848,
       "name": "emiliana",
       "url": "https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I"
@@ -2876,7 +2920,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 135000,
       "name": "Energy (feat. DJ Obi)",
       "url": "https://open.spotify.com/track/3EklQCmvvd8kjZ5YtGoXnF"
@@ -3218,7 +3262,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 162991,
       "name": "Gbese",
       "url": "https://open.spotify.com/track/41DLxR8Dt5Fh6LpqBjAnnJ"
@@ -3368,6 +3412,28 @@
       "duration_ms": 149518,
       "name": "Girl Next Door",
       "url": "https://open.spotify.com/track/5tmwk5sBCr1HPHZSzcVxup"
+    },
+    {
+      "album": {
+        "name": "Girl Next Door",
+        "url": "https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180682,
+      "name": "Girl Next Door",
+      "url": "https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO"
     },
     {
       "album": {
@@ -3576,7 +3642,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 188985,
       "name": "GWAGWALADA",
       "url": "https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY"
@@ -3620,7 +3686,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 147400,
       "name": "Gyal Dem Time (feat. Teejay)",
       "url": "https://open.spotify.com/track/1A5xlAN2k44zqMj12ubeCv"
@@ -3738,10 +3804,50 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 167735,
       "name": "Handle Me (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/4dLfcjzMHZAVgnmuglRvhY"
+    },
+    {
+      "album": {
+        "name": "Hands Up",
+        "url": "https://open.spotify.com/album/2ddLiPnq33pYj3V7Kfmo9u"
+      },
+      "artists": [
+        {
+          "name": "Moyann",
+          "url": "https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137872,
+      "name": "Hands Up",
+      "url": "https://open.spotify.com/track/2DqiAl1qCPnOkx6EHDt12R"
+    },
+    {
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/0Nq2ODfFHRrbYXr35Hh6zE"
+      },
+      "artists": [
+        {
+          "name": "Yung Willis",
+          "url": "https://open.spotify.com/artist/0499FesCSNLjH8MmbeXQmr"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190103,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/4K4ePgfFyaENPjNzsXIWCv"
     },
     {
       "album": {
@@ -5586,7 +5692,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 201200,
       "name": "Mera Na",
       "url": "https://open.spotify.com/track/0TlGvDUBcIUGZOroftyVF4"
@@ -5955,6 +6061,24 @@
     },
     {
       "album": {
+        "name": "Niata",
+        "url": "https://open.spotify.com/album/1JsCxj69403hiZzgNnKOYJ"
+      },
+      "artists": [
+        {
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182459,
+      "name": "Niata",
+      "url": "https://open.spotify.com/track/1mtlYmtelBzQWEbHm07q1o"
+    },
+    {
+      "album": {
         "name": "Nkao Tempela",
         "url": "https://open.spotify.com/album/3D1mDVYQeABd8ZXUiyKVQE"
       },
@@ -6106,6 +6230,50 @@
       "duration_ms": 266960,
       "name": "No Way - Poirier Remix",
       "url": "https://open.spotify.com/track/0URxsbixZ698SUHcyRZQpv"
+    },
+    {
+      "album": {
+        "name": "Not Worthy",
+        "url": "https://open.spotify.com/album/245Tjxy00ipfRrrAFXvQ8g"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        },
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192208,
+      "name": "Not Worthy",
+      "url": "https://open.spotify.com/track/7EpHcQ8M4zvcs7pERkduuS"
+    },
+    {
+      "album": {
+        "name": "NSV",
+        "url": "https://open.spotify.com/album/1gwsiUC5ZULw2kvzFOGYYB"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188372,
+      "name": "NSV",
+      "url": "https://open.spotify.com/track/7sIUw9iU1eVB0qq3wFrwBb"
     },
     {
       "album": {
@@ -6665,6 +6833,28 @@
     },
     {
       "album": {
+        "name": "Party Girls (feat. Buju Banton)",
+        "url": "https://open.spotify.com/album/0ixL0K67B2xkOjom88AdXQ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243094,
+      "name": "Party Girls (feat. Buju Banton)",
+      "url": "https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5"
+    },
+    {
+      "album": {
         "name": "Patek",
         "url": "https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0"
       },
@@ -7058,6 +7248,24 @@
       "duration_ms": 205530,
       "name": "Power (Remember Who You Are) - From The Flipper\u2019s Skate Heist Short Film",
       "url": "https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr"
+    },
+    {
+      "album": {
+        "name": "PRAY",
+        "url": "https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5"
+      },
+      "artists": [
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177931,
+      "name": "PRAY",
+      "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"
     },
     {
       "album": {
@@ -7846,7 +8054,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 252986,
       "name": "SETE REMIX (feat. Young Stunna, Diamond Platnumz & Oxlade)",
       "url": "https://open.spotify.com/track/5YF4Kg3ksqyNqzbXDvR8mp"
@@ -7952,7 +8160,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 178000,
       "name": "Shakor",
       "url": "https://open.spotify.com/track/14EoKlhYnxqRrqjV7PIdS0"
@@ -8032,6 +8240,24 @@
       "duration_ms": 208351,
       "name": "Shootaz",
       "url": "https://open.spotify.com/track/1bNpPT16lRsUyK8FFHqYab"
+    },
+    {
+      "album": {
+        "name": "Shu-Peru",
+        "url": "https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139377,
+      "name": "Shu-Peru",
+      "url": "https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L"
     },
     {
       "album": {
@@ -8497,6 +8723,28 @@
     },
     {
       "album": {
+        "name": "Stay Clean",
+        "url": "https://open.spotify.com/album/7o6IYuy24165gpEsv12hUQ"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        },
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159022,
+      "name": "Stay Clean",
+      "url": "https://open.spotify.com/track/0uHxgbtjFtgFnvZddrENzf"
+    },
+    {
+      "album": {
         "name": "Step Out",
         "url": "https://open.spotify.com/album/3ahhXOd5l5UskQcgs03lj1"
       },
@@ -8548,7 +8796,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 193200,
       "name": "Strings Attached",
       "url": "https://open.spotify.com/track/4S4yOnEhs3CchPNlqTrI8s"
@@ -9517,6 +9765,24 @@
     },
     {
       "album": {
+        "name": "Vibes Weekend",
+        "url": "https://open.spotify.com/album/5xLNwO9hSAWMEQN1fNcIsK"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173266,
+      "name": "Vibes Weekend",
+      "url": "https://open.spotify.com/track/0Vx37NnFDCBLjTn1TmOq1Y"
+    },
+    {
+      "album": {
         "name": "VIP",
         "url": "https://open.spotify.com/album/4CwFdN37OjqRPYh4nri0w2"
       },
@@ -9570,6 +9836,28 @@
       "duration_ms": 237983,
       "name": "Vroom - The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo| PS5, PS4 - from GRAN TURISMO 7",
       "url": "https://open.spotify.com/track/4hZNSCK6fy05GaXeoWMIT0"
+    },
+    {
+      "album": {
+        "name": "Waiting In Vain (Feat. Tiwa Savage)",
+        "url": "https://open.spotify.com/album/2RZvYVj0L48e6eBXFrL1LN"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243450,
+      "name": "Waiting In Vain (Feat. Tiwa Savage)",
+      "url": "https://open.spotify.com/track/47LoDRonq5IUeh7YFOq3zg"
     },
     {
       "album": {
@@ -9860,7 +10148,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 248697,
       "name": "Werser",
       "url": "https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16"
@@ -9912,6 +10200,28 @@
       "duration_ms": 161495,
       "name": "Whap Whap (feat. Fivio Foreign & French Montana)",
       "url": "https://open.spotify.com/track/0Mg5cbRrpU5VF3tV90hmvk"
+    },
+    {
+      "album": {
+        "name": "In The Mood",
+        "url": "https://open.spotify.com/album/0m5VM8rmzwLSZEnLH5qbB0"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
+        {
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149496,
+      "name": "Whine & Jumping (feat. Patrice Roberts)",
+      "url": "https://open.spotify.com/track/2KLixHA4oymoMdz41ZkSSd"
     },
     {
       "album": {
@@ -10342,7 +10652,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 136855,
       "name": "Zaza",
       "url": "https://open.spotify.com/track/40wQLcBCqPVIHj6Hk8D3QP"

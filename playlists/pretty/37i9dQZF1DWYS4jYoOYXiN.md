@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 
 > We like it like that! Cover: Pete Rodriguez \(Courtesy of Fania\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,628 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,698 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 27 | [Marilu](https://open.spotify.com/track/0fkWQUZ8Rhh99dNDAIT5Q1) | [George Guzman](https://open.spotify.com/artist/7wXX02Lo0mPh4IWhNCUmTL) | [Introducing George Guzman](https://open.spotify.com/album/6jP4TUoDIjzM85nWsPdFgb) | 4:07 |
 | 28 | [Arrecotín Arrecotán](https://open.spotify.com/track/4YvQolXPImTRwrhG40hqsf) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ), [Cortijo Y Su Combo](https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma) | [Con Todos los Hierros: Everything But The Kitchen Sink](https://open.spotify.com/album/4VXR5GVsHxY0dXM0XwK9rX) | 3:36 |
 | 29 | [A la la E](https://open.spotify.com/track/1DXgFwNXHIVJGSWvSo9uW6) | [Pete Terrace](https://open.spotify.com/artist/1WzIuVArOislB6oLlBkxMP) | [Pachanguerisimo, Vol\. 1](https://open.spotify.com/album/5w4x5TGsS6ZdHYVgGOZgBq) | 2:24 |
-| 30 | [Richie's Jala\-Jala](https://open.spotify.com/track/0QvRbWa5WBhbJtg52GdbJq) | [Richie Ray & Bobby Cruz](https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq) | [A Lifetime of Hits..\. \(Live At Centro de Bellas Artes, San Juan, Puerto Rico.\)](https://open.spotify.com/album/0u75f0pYJy2cGHNiikXGlz) | 4:57 |
-| 31 | [\(I'll Be A\) Happy Man](https://open.spotify.com/track/5LuzVIV75d9eaSeJfOfTJK) | [The Latin Blues Band](https://open.spotify.com/artist/6tSbjpTvszMPhHGOFvrW2W), [Luis Aviles](https://open.spotify.com/artist/0Gn61gQpTFRbP9l6lyEy49) | [Take A Trip Pussy Cat](https://open.spotify.com/album/1bWv91UnA3Yue0fUCRouVg) | 3:34 |
+| 30 | [\(I'll Be A\) Happy Man](https://open.spotify.com/track/5LuzVIV75d9eaSeJfOfTJK) | [The Latin Blues Band](https://open.spotify.com/artist/6tSbjpTvszMPhHGOFvrW2W), [Luis Aviles](https://open.spotify.com/artist/0Gn61gQpTFRbP9l6lyEy49) | [Take A Trip Pussy Cat](https://open.spotify.com/album/1bWv91UnA3Yue0fUCRouVg) | 3:34 |
+| 31 | [Richie's Jala\-Jala](https://open.spotify.com/track/0QvRbWa5WBhbJtg52GdbJq) | [Richie Ray & Bobby Cruz](https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq) | [A Lifetime of Hits..\. \(Live At Centro de Bellas Artes, San Juan, Puerto Rico.\)](https://open.spotify.com/album/0u75f0pYJy2cGHNiikXGlz) | 4:57 |
 | 32 | [It's Not What You Say](https://open.spotify.com/track/6xa8EuqmwQPVjzhyir7yTU) | [Louie Ramirez](https://open.spotify.com/artist/3ZRoChGFOnnQgeTiMo0o8L) | [Ali Baba](https://open.spotify.com/album/390tpQELbsoYfFRnwIDxuO) | 2:56 |
 | 33 | [Brooklyn Boogaloo](https://open.spotify.com/track/2SFQr3uJF8wD7iLqGVaLNi) | [Spanglish Fly](https://open.spotify.com/artist/1iy7s9Xp6bA7lClmWDsNKu) | [New York Boogaloo](https://open.spotify.com/album/1eItMzO9e3pOi82He9lIiI) | 6:29 |
 | 34 | [Son Cuero Y Boogaloo \- Live At Red Garter / Greenwich Village, NY / 1968](https://open.spotify.com/track/0nkCr4yTg9Wnr7VsaaZ09j) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc), [Jimmy Sabater](https://open.spotify.com/artist/2MQ4Kb9A8KkwQmK2LjaSw2) | [Live At The Red Garter, Vol\. 2 \(Live At Red Garter / Greenwich Village, NY / 1968\)](https://open.spotify.com/album/4hk83t4es3QZMhxOPZHh8T) | 8:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 49 | [La Bamba](https://open.spotify.com/track/39DgsVDftJOLDqOdFmX7tf) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mr\. Watermelon Man](https://open.spotify.com/album/75Yd4kU10gcUGWBinUePWn) | 3:58 |
 | 50 | [Pata Pata](https://open.spotify.com/track/2C06v7c02nnrZLPCR2TgHO) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The King](https://open.spotify.com/album/7xgkOmB7syD8a5Srn3Z5va) | 3:15 |
 
-Snapshot ID: `MCxhZmJjMTMyZWM3YjhiMDM3YzM4YWQ2NzU0YTBjZmVkNWI5MmU5YjBh`
+Snapshot ID: `MCxmODI4YzQ5ZDBkYmY0ZjY5NTk2ZWM2MjI3OTQxZjY4N2Q0ZjZiMDY2`

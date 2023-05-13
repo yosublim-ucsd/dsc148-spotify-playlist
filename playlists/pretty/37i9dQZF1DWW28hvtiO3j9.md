@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,050 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,176 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 29 | [SAY GOODBYE](https://open.spotify.com/track/439YMLXTadwJM1AunVQf1V) | [Hiroshi Sato](https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj) | [Awakening](https://open.spotify.com/album/0bBj6hYg0NLPJtiQlKXNRd) | 3:26 |
 | 30 | [Good Bye Boogie Dance](https://open.spotify.com/track/5LZja1KAke25BqjsidAcsq) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Bi・Ki・Ni](https://open.spotify.com/album/2ygK2uxtgO5sTZFs3ye1GT) | 4:32 |
 | 31 | [DOWN TOWN](https://open.spotify.com/track/1ieDsFmQ8UOXyB0ewolkXH) | [EPO](https://open.spotify.com/artist/0KigzYQAy5EpdIc9g7szPv) | [DOWN TOWN](https://open.spotify.com/album/1N1eSro0gsmLBiQgVS7QBc) | 4:14 |
-| 32 | [Older Girl](https://open.spotify.com/track/6oGLKGeI4tM4jaVWe9sBoF) | [1986 OMEGA TRIBE](https://open.spotify.com/artist/0ECegKslGWO6zz3XzTyIwQ) | [Navigator](https://open.spotify.com/album/4dDdb8mXZgAcw6QAO6oKc9) | 4:15 |
-| 33 | [Mystical Composer](https://open.spotify.com/track/0eikLFcQlkRvxvNIQmf5ec) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [ADVENTURE](https://open.spotify.com/album/1VBTH11KSAOmymdocgM4qR) | 5:08 |
+| 32 | [Mystical Composer](https://open.spotify.com/track/0eikLFcQlkRvxvNIQmf5ec) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [ADVENTURE](https://open.spotify.com/album/1VBTH11KSAOmymdocgM4qR) | 5:08 |
+| 33 | [Older Girl](https://open.spotify.com/track/6oGLKGeI4tM4jaVWe9sBoF) | [1986 OMEGA TRIBE](https://open.spotify.com/artist/0ECegKslGWO6zz3XzTyIwQ) | [Navigator](https://open.spotify.com/album/4dDdb8mXZgAcw6QAO6oKc9) | 4:15 |
 | 34 | [River's Island](https://open.spotify.com/track/22p7tgi6cFVBaH7vAbgcUY) | [Kiyotaka Sugiyama](https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC), [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [River's Island](https://open.spotify.com/album/6HM0SPu1eIv721SbsO8l3o) | 4:38 |
 | 35 | [カナリア諸島にて](https://open.spotify.com/track/38XNkVwthnLAUH2RmoKCz3) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [A LONG VACATION](https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H) | 4:01 |
 | 36 | [Dream In The Street](https://open.spotify.com/track/1SmMLu0AFRNt2V83d12C2s) | [池田典代](https://open.spotify.com/artist/5FlsplkyPTzOB2aWgz2X1M) | [ドリームインザストリート](https://open.spotify.com/album/1PiaTy82mFLT9PTj2GsLuH) | 4:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 49 | [感じるままに](https://open.spotify.com/track/5XPeE6Nf7Lt5onFGhqeRci) | [Kei Ishiguro](https://open.spotify.com/artist/3wiCwqhbzyXzW8GI7WfZSM) | [Purple Road](https://open.spotify.com/album/1dq8sevP6SbYfaSlhh18Zu) | 3:09 |
 | 50 | [真珠のピアス](https://open.spotify.com/track/6D51xQYMQkh6LFOFlp3Gad) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [PEARL PIERCE](https://open.spotify.com/album/2KftKQGKx6r6zREGJq1cLa) | 5:44 |
 
-Snapshot ID: `MCw3OTA0OWZkZjVmMjBiMDk5ZGFjMDdjZmM5Y2NkZjA0Yjc0Yzc5ODQz`
+Snapshot ID: `MCxjMTY2Zjc0MGI1ZTE5MmI1NzI0ZTMxMGY0MDYyZGY0NmM4MTEyOWNi`

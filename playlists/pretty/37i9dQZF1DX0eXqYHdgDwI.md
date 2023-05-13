@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eXqYHdgDwI.md) - [plain]
 
 > canzoni su cui piangere 🥀
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,904 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,960 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eXqYHdgDwI.md) - [plain]
 | 59 | [Creep](https://open.spotify.com/track/0SCox9Tmm4AxcnhDXZglYB) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Creep](https://open.spotify.com/album/0Tp4s71VQ0MZbtJo1cNHYF) | 4:37 |
 | 60 | [Like Everybody Else \- Acoustic](https://open.spotify.com/track/4cRVPfsnX1r3S3GzXRy2wt) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Like Everybody Else \(Acoustic\)](https://open.spotify.com/album/0usdDFkfTwgtgdFKUjeuS8) | 3:14 |
 
-Snapshot ID: `MCxjZDM5YmEzZDIwNWY3ZjgyZDNlZDE5OTNlODgwYmIwZWE2ZjVmOTM1`
+Snapshot ID: `MCw0NDJhNTIxZjdkNGFiMTM5NmViZDE3ZTMyNzIxYmVkYjMyYmZiZjQ2`

@@ -4,7 +4,7 @@
 
 > Introducing the Fresh Finds Class of 2020\. Editors' picks of the top Fresh Finds this year.
 
-189 songs - 9 hr 34 min
+190 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [NARCOTICS](https://open.spotify.com/track/6GDTtSOLeowRa41LQiUVmE) | [CHLOBOCOP](https://open.spotify.com/artist/56SXq1dAUN2vu4iWfXVnsL) | [NARCOTICS](https://open.spotify.com/album/7CIQqXABKL7eOn8InbZXXw) | 2:21 | 2020-12-07 | 2022-07-29 |
 | [Nena](https://open.spotify.com/track/4fWY8QZsAhEF0WeI20QhMj) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Nena](https://open.spotify.com/album/6GeMiynuj56geayA7AqRra) | 2:33 | 2020-12-07 | 2022-09-16 |
 | [Nena](https://open.spotify.com/track/5kJrMogX8dnZvwJVRQct8l) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Nena](https://open.spotify.com/album/5eYJgVtDk7Az1vRWKNfuzY) | 2:33 | 2020-12-07 |  |
-| [Next To You](https://open.spotify.com/track/081hXBEkvg9ZMUmzBIFPor) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Singles 2020 \- 2021](https://open.spotify.com/album/0dyTtlGRslN0ZOGtA4rTlx) | 3:52 | 2020-12-07 |  |
+| [Next To You](https://open.spotify.com/track/081hXBEkvg9ZMUmzBIFPor) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Singles 2020 \- 2021](https://open.spotify.com/album/0dyTtlGRslN0ZOGtA4rTlx) | 3:52 | 2020-12-07 | 2023-05-13 |
+| [Next To You](https://open.spotify.com/track/2Ahtup0oSl1OZVl4325JGU) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Next To You](https://open.spotify.com/album/7IJEZ5dBc1Kqo3mDUinEFs) | 3:52 | 2020-12-07 |  |
 | [Next to You](https://open.spotify.com/track/6KCwPQApuQNQEV0hw93duq) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Next to You](https://open.spotify.com/album/1TdEFwpJ5LAmfdFNSjdok3) | 3:52 | 2020-12-07 | 2022-07-29 |
 | [Nirvana](https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep) | [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [Nirvana](https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh) | 4:26 | 2020-12-07 |  |
 | [NO !](https://open.spotify.com/track/0yZcbEhhBUixa85MQL9t5B) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [NO !](https://open.spotify.com/album/2mXkVLhWZPMgIcJVercOX9) | 3:44 | 2020-12-07 | 2022-10-13 |

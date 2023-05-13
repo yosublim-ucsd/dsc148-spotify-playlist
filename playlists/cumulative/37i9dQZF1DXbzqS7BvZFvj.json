@@ -231,6 +231,28 @@
     },
     {
       "album": {
+        "name": "All My Life (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223878,
+      "name": "All My Life (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
+    },
+    {
+      "album": {
         "name": "American Nightmare",
         "url": "https://open.spotify.com/album/7qZIkDmB4T3YFHgMN9Hcg3"
       },
@@ -434,7 +456,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 277338,
-      "name": "Bloody 98 (feat. Ghostmane)",
+      "name": "Bloody 98 (feat. Ghostemane)",
       "url": "https://open.spotify.com/track/48P5W4nVpguobOWSY7HNxg"
     },
     {
@@ -1662,6 +1684,28 @@
       "duration_ms": 143147,
       "name": "Motion God",
       "url": "https://open.spotify.com/track/75ZoVrZ4mXEsDxv1bQbEAS"
+    },
+    {
+      "album": {
+        "name": "MVP (feat. G-Eazy)",
+        "url": "https://open.spotify.com/album/4pyhYSKl4jBqkemyG94DSG"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173948,
+      "name": "MVP (feat. G-Eazy)",
+      "url": "https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d"
     },
     {
       "album": {

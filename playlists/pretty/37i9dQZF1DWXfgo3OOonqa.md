@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > fatimaaaaaa!!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,499 likes - 75 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,556 likes - 75 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [har jag blivit knäpp!? \(har jag blivit sjuk!?\)](https://open.spotify.com/track/01up4QXtiyto3a6YztnWAg) | [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ) | [dom har bara gett mig ett namn](https://open.spotify.com/album/2UGjZtao246qmGucUYMAsL) | 3:28 |
-| 2 | [Ledare](https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Dizzy](https://open.spotify.com/artist/1Yf0RNIHrSpEfIFuvTIKfc) | [Ledare](https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA) | 2:41 |
+| 2 | [Ledare](https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Ledare](https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA) | 2:41 |
 | 3 | [17](https://open.spotify.com/track/0Apl0ndMj1fWIY6rnD7gnY) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [17](https://open.spotify.com/album/6oGhSS3fgBmqjpd0yuO9fi) | 2:31 |
 | 4 | [WAKA WAKA](https://open.spotify.com/track/2g6O4J9ktUjorMkgyhglYP) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Come Alive](https://open.spotify.com/album/2ZJYTrtrH7mlGfeZ9ysR3R) | 2:46 |
 | 5 | [En till dans](https://open.spotify.com/track/2dSAFb1xzoJffGzfxU4BaE) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [En till dans](https://open.spotify.com/album/3ikbwi5mxo5peZyvGaAugP) | 3:20 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 31 | [SPÖKALAND](https://open.spotify.com/track/4e680sIdxeCZaQKX5NB2ls) | [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY), [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj) | [SPÖKALAND](https://open.spotify.com/album/4V0XFxjMRWIMWVSAGCoWHu) | 2:36 |
 | 32 | [Stockholm](https://open.spotify.com/track/3wpjZajcRJQlvjCRCgQ40q) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [Turbulence](https://open.spotify.com/album/46sUyBzswdVzGjveaAnU18) | 2:22 |
 | 33 | [Feeling Myself \- Shooter Gang Remix](https://open.spotify.com/track/2o4MYiPOmV2A7GAhs3ckrY) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO) | [Feeling Myself \(Shooter Gang Remix\)](https://open.spotify.com/album/0nuDeMCXPzfCwJNtArjVUS) | 3:32 |
-| 34 | [Balans \(Vad händer Fatima!!?\)](https://open.spotify.com/track/6TLjoYLWtjziKPsLxSOkZv) | [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ) | [Balans \(Vad händer Fatima!!?\)](https://open.spotify.com/album/6ErQass5rD25XSozTbKqq9) | 2:16 |
+| 34 | [balans \(va händer fatima!!?\)](https://open.spotify.com/track/2SBn5ZoH7bceLNcbRIOM8q) | [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ) | [balans \(va händer fatima!!?\)](https://open.spotify.com/album/3pGyZvmSakMW9bjOHoaTNo) | 2:15 |
 | 35 | [CROWN](https://open.spotify.com/track/5ttU3nppUfNXjnpogns7RL) | [TMA](https://open.spotify.com/artist/7HooMDZWSlS5FmEzJKrHix), [Nabzy](https://open.spotify.com/artist/69UGhJ5ofrMbgORlfOLiKg) | [CROWN](https://open.spotify.com/album/2jvDcLeRdhd1aH0h3Au5ze) | 2:48 |
 | 36 | [Gata](https://open.spotify.com/track/7N0a0QhkOE5g4zbpJeHWpp) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Gata](https://open.spotify.com/album/2rlOVzymMvw3H6hUmRiiJs) | 2:35 |
 | 37 | [We Them Boys](https://open.spotify.com/track/4ThoiczTKlsb2AzBPkmBkc) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [TJUGI23](https://open.spotify.com/album/5J8dRxQwNyJdrvNlNY6NMg) | 2:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 74 | [Hur många gånger?](https://open.spotify.com/track/3qJINVmpX4se9wN8bmgKiz) | [Blen](https://open.spotify.com/artist/6xRxLNPuTgJ56RyCRk1dB7) | [Hur många gånger?](https://open.spotify.com/album/098qyzOjXRvIQAY3sz3a4g) | 2:37 |
 | 75 | [4LIFE](https://open.spotify.com/track/5bOTOVKDjDlsrRtrGZRVed) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [4LIFE](https://open.spotify.com/album/3jCGwrJnJd0tP34WN8ZFhD) | 2:45 |
 
-Snapshot ID: `MCw1ZjNkZDZlMjVhYWRhYTgyMWI1OTMwMDMwYjRkMjRjN2RmNzE0YzUy`
+Snapshot ID: `MCxmOWFkZjYyMmY1YzU3MjNlY2MyMGVmYjYzYzUxMWY0YzMyMThlYTFi`

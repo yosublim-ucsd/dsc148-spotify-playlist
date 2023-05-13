@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkGXMGv9j4M.md) - [plain]
 
 > Weird year overall, but great for indie\. Editors' picks of the best tracks of the year\. Cover: Phoebe Bridgers
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,532 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,626 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkGXMGv9j4M.md) - [plain]
 | 51 | [Your Hero Is Not Dead](https://open.spotify.com/track/3fxs1Jh98EQTJwvOJMAp09) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Your Hero Is Not Dead](https://open.spotify.com/album/6zSzwpkKgNJfQWwCEQTQDv) | 3:35 |
 | 52 | [Video Game](https://open.spotify.com/track/3Q8B1nnUBlJz0VTajyk1IS) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [The Ascension](https://open.spotify.com/album/2Bd6trS7kIZOXujYdVP8Xd) | 4:15 |
 | 53 | [Worth It](https://open.spotify.com/track/3r1qdSsvJEwiMKHeCWapMM) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 3:14 |
-| 54 | [bad idea](https://open.spotify.com/track/4U0VPz4nbsMXqoLLvXNbsv) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [bad idea](https://open.spotify.com/album/1vjhR70VW6jLdMec6GGw5J) | 1:09 |
+| 54 | [bad idea](https://open.spotify.com/track/7z60P3mJn29uK3YBROCbtJ) | [days](https://open.spotify.com/artist/4eAxthhvUDNVNYsBOnn4kF) | [insane](https://open.spotify.com/album/7DeikaW5PP9PExXe55DMAi) | 1:09 |
 | 55 | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/6JwkAGwClwUzcOi0ZBbSLe) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/album/5e8S6KvNbnZBbNzaL2YcLJ) | 3:18 |
 | 56 | [Ferris Wheel](https://open.spotify.com/track/0yiJNNm39cp1T7RnXOMVLX) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Free Love](https://open.spotify.com/album/2KAPJ40On8JY1Yt64JJgTk) | 2:57 |
 | 57 | [I'm Amazing](https://open.spotify.com/track/5w4LtwuC1WuaObpLafjGZU) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 2:23 |
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkGXMGv9j4M.md) - [plain]
 | 82 | [Freeze Tag \(feat\. Phoelix\)](https://open.spotify.com/track/47v4uUtj5AukJmCbMq4Kry) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0) | [Dinner Party](https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r) | 3:11 |
 | 83 | [QADIR \- Single Version](https://open.spotify.com/track/4SGV6Us8HHNY4d1ysiq2cZ) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [QADIR](https://open.spotify.com/album/5ZcRc43rvb2C63lCG54Ph5) | 4:01 |
 | 84 | [A Couple Things](https://open.spotify.com/track/0XJShR9YnNtXtZkAnLRNFD) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [A word becomes a sound](https://open.spotify.com/album/7zmEZWG9JfmB7lgg2SGgGu) | 2:40 |
-| 85 | [Next To You](https://open.spotify.com/track/081hXBEkvg9ZMUmzBIFPor) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Singles 2020 \- 2021](https://open.spotify.com/album/0dyTtlGRslN0ZOGtA4rTlx) | 3:52 |
+| 85 | [Next To You](https://open.spotify.com/track/2Ahtup0oSl1OZVl4325JGU) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Next To You](https://open.spotify.com/album/7IJEZ5dBc1Kqo3mDUinEFs) | 3:52 |
 | 86 | [Moments / Tides](https://open.spotify.com/track/7D56acHvA76RlIuebqxWKD) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Moments / Tides](https://open.spotify.com/album/2Amx6zNWVblidE5xhCPMXY) | 3:24 |
 | 87 | [Teenage Headache Dreams \(with Ellie Rowsell\)](https://open.spotify.com/track/5X8FVIy9iaXoDEiIlCjcmp) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Ellie Rowsell](https://open.spotify.com/artist/60t20hnY4HFbjM0sbJ07vc), [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Teenage Headache Dreams \(with Ellie Rowsell\)](https://open.spotify.com/album/5R8GPzld0YydbKawqmbigD) | 4:43 |
 | 88 | [Wasted](https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS) | 2:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkGXMGv9j4M.md) - [plain]
 | 99 | [Loner](https://open.spotify.com/track/6ELEjTrMflbYVxguHiukjk) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N) | 3:12 |
 | 100 | [For Props](https://open.spotify.com/track/3vF0yZnO7cHJKNKzE3gN99) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Sundry Rock Song Stock](https://open.spotify.com/album/7N3gPiUIMhiDEaB3SQtEIy) | 3:43 |
 
-Snapshot ID: `MCwyNDNlNDBjMmE3MGJkMGRkYmFmMzEwOTgzNWYyNzBhMzg3YmYyODkx`
+Snapshot ID: `MCwzMzRjZDI2MDg2ZTJmYTI3ZDhlMGNhZDZkYTdlYmIwMTJlYzAwMzMw`

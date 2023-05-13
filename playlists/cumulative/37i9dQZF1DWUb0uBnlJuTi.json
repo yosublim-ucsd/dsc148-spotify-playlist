@@ -1241,6 +1241,28 @@
     },
     {
       "album": {
+        "name": "Dancing in the Dusk (Clap! Clap! Remix)",
+        "url": "https://open.spotify.com/album/3Of6o8tJrzGCHNhmfLLDvc"
+      },
+      "artists": [
+        {
+          "name": "Sunb\u00f6rn",
+          "url": "https://open.spotify.com/artist/7293VovtiQo4DOspfUDgXt"
+        },
+        {
+          "name": "Clap! Clap!",
+          "url": "https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431664,
+      "name": "Dancing in the Dusk - Clap! Clap! Remix",
+      "url": "https://open.spotify.com/track/086EQKkc1JSugaMbrpQYyq"
+    },
+    {
+      "album": {
         "name": "Dark Side Riddim / Samuel L.Riddim",
         "url": "https://open.spotify.com/album/3xx8mVv8jR6rzFMGcq0VWY"
       },
@@ -3608,7 +3630,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 636733,
       "name": "Palm Grease",
       "url": "https://open.spotify.com/track/7inW3Cs2l4laNgLKp5R17K"
@@ -3754,6 +3776,24 @@
       "duration_ms": 215754,
       "name": "Play it Back",
       "url": "https://open.spotify.com/track/56080Y6qVNpxpUAU5ho4Y7"
+    },
+    {
+      "album": {
+        "name": "Pluto",
+        "url": "https://open.spotify.com/album/2KhSWuSSxItYsUYIXbhyyq"
+      },
+      "artists": [
+        {
+          "name": "Apollo Suns",
+          "url": "https://open.spotify.com/artist/2QkgSnhat4djSXQA6EvQJW"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257152,
+      "name": "Pluto",
+      "url": "https://open.spotify.com/track/66BTQQnzdtn921AG13dO6D"
     },
     {
       "album": {
@@ -4393,6 +4433,36 @@
     },
     {
       "album": {
+        "name": "Sign of the Times",
+        "url": "https://open.spotify.com/album/5QbqH2ZI7OxlYzumfPMHzK"
+      },
+      "artists": [
+        {
+          "name": "Billy Valentine",
+          "url": "https://open.spotify.com/artist/4AYoCwXHaaxeaM8DtzP3zg"
+        },
+        {
+          "name": "The Universal Truth",
+          "url": "https://open.spotify.com/artist/1ZD9NNLJlXTgjjolh9M6cK"
+        },
+        {
+          "name": "Pino Palladino",
+          "url": "https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8"
+        },
+        {
+          "name": "Jeff Parker",
+          "url": "https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254599,
+      "name": "Sign Of The Times (Single Version)",
+      "url": "https://open.spotify.com/track/2k2eu1Qa8v34MOhHi849YA"
+    },
+    {
+      "album": {
         "name": "Sir Somebody",
         "url": "https://open.spotify.com/album/4SQDM8myIkEa4MDA5hz5fH"
       },
@@ -4838,7 +4908,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 255356,
       "name": "Sticking to My Guns",
       "url": "https://open.spotify.com/track/6uuoajOLX3soGGLdnWTenn"
@@ -6062,7 +6132,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 161600,
       "name": "Twinkles",
       "url": "https://open.spotify.com/track/4cLHFuugccA4MqTZ6SiVY7"
@@ -6626,10 +6696,52 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 197019,
       "name": "Youngstown 3",
       "url": "https://open.spotify.com/track/2idubl1I8IfDTatwfwapCB"
+    },
+    {
+      "album": {
+        "name": "Youngstown 4",
+        "url": "https://open.spotify.com/album/07xTRshgnOw1YBJgzHTsIi"
+      },
+      "artists": [
+        {
+          "name": "Unc D",
+          "url": "https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO"
+        },
+        {
+          "name": "Thin Thicket",
+          "url": "https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng"
+        },
+        {
+          "name": "Damon the Soulful Samurai",
+          "url": "https://open.spotify.com/artist/6B7G3EEuNog0pIB4IYqXtp"
+        },
+        {
+          "name": "Nicholas Frank",
+          "url": "https://open.spotify.com/artist/1lvvQNtbJDnA6VYOps1VAH"
+        },
+        {
+          "name": "Antonio Labra",
+          "url": "https://open.spotify.com/artist/27zwBTNwuN786OvS6BpzD4"
+        },
+        {
+          "name": "Thomas Russell",
+          "url": "https://open.spotify.com/artist/68xOAUse5cObr1No8jPoel"
+        },
+        {
+          "name": "Drehova",
+          "url": "https://open.spotify.com/artist/2WYpO40KD8lWY8YAC7L4DO"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "Youngstown 4",
+      "url": "https://open.spotify.com/track/0KYwUNSSE7Sm0rOzWRYrR1"
     },
     {
       "album": {

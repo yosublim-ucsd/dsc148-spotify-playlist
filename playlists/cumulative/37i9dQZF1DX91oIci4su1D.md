@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a>.
 
-616 songs - 1 day 13 hr 45 min
+617 songs - 1 day 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [Falling](https://open.spotify.com/track/4zOSUnrmTMOQejyyluCZh3) | [Lost Witness](https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY), [Osa Blu](https://open.spotify.com/artist/7wlPdryKXRY9IRxB00iPKo) | [Falling](https://open.spotify.com/album/4vr03HehxNm5c3h4q5QoPq) | 4:13 | 2021-12-17 | 2022-02-26 |
 | [Falling](https://open.spotify.com/track/5LI0pkjDAZa4nHGh32LImr) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR) | [Falling](https://open.spotify.com/album/4fcuj6nj9Fq6CVquHVTRSJ) | 3:51 | 2022-08-12 |  |
 | [Fata Morgana](https://open.spotify.com/track/6ZPnUBqOW5cPG4gYBSbfhl) | [Ralphie B](https://open.spotify.com/artist/5KZ8bXnO1Q3nGWP2UqmQ3f), [Frank Waanders](https://open.spotify.com/artist/00eZQLSi5N5mpBuvojLa7P) | [Fata Morgana](https://open.spotify.com/album/6JJcpji6WEQKGEPdf473uv) | 4:06 | 2022-12-10 |  |
-| [Fears In The Fire](https://open.spotify.com/track/19PH9jGNbIx64MbF7Uy7kT) | [Robin Aristo](https://open.spotify.com/artist/0bwRoL3Q12u1FuEsT3X0cs) | [Fears In The Fire](https://open.spotify.com/album/3llafdDDlOUL0fu3a50xjs) | 2:37 | 2022-09-23 |  |
+| [Fears In The Fire](https://open.spotify.com/track/19PH9jGNbIx64MbF7Uy7kT) | [Robin Aristo](https://open.spotify.com/artist/0bwRoL3Q12u1FuEsT3X0cs) | [Fears In The Fire](https://open.spotify.com/album/3llafdDDlOUL0fu3a50xjs) | 2:37 | 2022-09-23 | 2023-05-13 |
 | [Feel Alive](https://open.spotify.com/track/1PuV3bBaTdRTETZl0w55Ua) | [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n), [Dave Neven](https://open.spotify.com/artist/3nmkZFOvLJkwj6r54ievPs) | [Feel Alive](https://open.spotify.com/album/61PlRXPL4DaxCwMJI8HbEQ) | 4:01 | 2022-08-12 |  |
 | [Feel The Rain](https://open.spotify.com/track/6cXuTXqe24QmUB4afxgiUe) | [Jordan Tobias](https://open.spotify.com/artist/0hMFrL7Fn79LC30jv0h9l3) | [Feel The Rain](https://open.spotify.com/album/2hHez1jeKZ7Aa0EhbJoGhW) | 3:24 | 2022-05-13 | 2022-05-16 |
 | [Feels Like Home](https://open.spotify.com/track/2OfDYA3xkEQ2fILrBlknHD) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [AIDYL](https://open.spotify.com/artist/63YNSGgVHzU8j43ngzTw1f) | [Feels Like Home](https://open.spotify.com/album/2qNzaIxSP07ELzsFOPrspG) | 4:26 | 2022-09-02 |  |
@@ -439,6 +439,7 @@
 | [Recover](https://open.spotify.com/track/1xfO2RuAESfLizI7EaN0O8) | [Purple Haze](https://open.spotify.com/artist/35ClM9mD81Evb2EIuYq5en) | [Recover](https://open.spotify.com/album/5N7D1sAZ6XipCHLhKD6YWC) | 3:55 | 2021-12-17 | 2022-03-12 |
 | [Rectify](https://open.spotify.com/track/0EjQ11NHcGwEhYHStzB4li) | [Redfield](https://open.spotify.com/artist/2cW1LUTqGx2JMe0oAGx9OV) | [Rectify](https://open.spotify.com/album/2u0P3ZhgmtHmTAEJpdMt6Z) | 3:27 | 2021-12-17 | 2022-02-26 |
 | [Red Lights \- Gabriel & Dresden Remix](https://open.spotify.com/track/2hxPK1ADdvG45RFXmnvs6g) | [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL), [Christian Burns](https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY), [Gabriel & Dresden](https://open.spotify.com/artist/64KfnYe81Wld2AkG4bkGIV) | [Red Lights](https://open.spotify.com/album/5POqxIIEc8PqOhgRMuQnAc) | 3:57 | 2021-12-17 | 2022-02-26 |
+| [Reflect](https://open.spotify.com/track/4pcjuvD75lFUMBG5sRyOcS) | [Dan Stone](https://open.spotify.com/artist/5AqacAhvN8JCsr00Qk9tb7) | [Reflect](https://open.spotify.com/album/6l87QQFgA8QSfRm2zHPAjS) | 3:45 | 2023-04-29 |  |
 | [Reflection](https://open.spotify.com/track/0UF2B2YgRTzzJMOU4G5zye) | [Twin View](https://open.spotify.com/artist/522ttEolqLXI712uSO3B23) | [Reflection](https://open.spotify.com/album/1JUCd4rurF7aHrhcrsNBMb) | 4:31 | 2021-12-17 | 2022-02-26 |
 | [REFLEXION \(ASOT 2023 Anthem\)](https://open.spotify.com/track/2nnRJHxIaoDe3FPTitG0iB) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [REFLEXION \(ASOT 2023 Anthem\)](https://open.spotify.com/album/1kEvjuKyBiP0hqGpRAoQuO) | 2:39 | 2022-12-16 | 2023-03-04 |
 | [Remember Me](https://open.spotify.com/track/6SgvrfbLr63HjUH2fa23gS) | [Cubicore](https://open.spotify.com/artist/44APJiQpJhK4CWuLC9gGrx), [July Mell](https://open.spotify.com/artist/7IK1lv7AzDt7FIiPkdhzUn) | [Remember Me](https://open.spotify.com/album/3V1nDTX1ZQcDpARdOAZnZ0) | 3:42 | 2023-02-24 |  |

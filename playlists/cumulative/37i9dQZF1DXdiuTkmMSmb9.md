@@ -4,7 +4,7 @@
 
 > Tropical jams to catch a vibe and whine to\. Cover: Dau Dau
 
-272 songs - 14 hr 11 min
+273 songs - 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Beauty In The Madness](https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Beauty In The Madness](https://open.spotify.com/album/3kMARMOndO5NMBDU37J4G8) | 3:43 | 2022-07-18 | 2022-07-22 |
 | [Blessed](https://open.spotify.com/track/5ITYY1RMtleE9n1HrcfjZN) | [Space Afro](https://open.spotify.com/artist/5H26aMZlvFZNqq1ecrDhbT) | [Blessed](https://open.spotify.com/album/1ovbOsf4ND1czGSyiy6J5A) | 1:56 | 2023-05-11 |  |
 | [blessing me \(with Pa Salieu & Skillibeng\)](https://open.spotify.com/track/3wyfDf57MYVDeGW8qYIWsn) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [blessing me \(with Pa Salieu & Skillibeng\)](https://open.spotify.com/album/4Z3TLFfO6xwXLgInns2gXI) | 2:45 | 2022-07-18 | 2023-04-14 |
+| [Blessings \(feat\. Wizkid & Gimba\)](https://open.spotify.com/track/1ALcYeD6JELUFLL3obyUDt) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Gimba](https://open.spotify.com/artist/1aov1VXIBA7iACR51xloHt) | [Blessings \(feat\. Wizkid & Gimba\)](https://open.spotify.com/album/7Jczi3QQN1oiJPa2k2mrpx) | 3:16 | 2023-05-11 |  |
 | [Blood, Sweat & Tears \(with Bas & Black Sherif feat\. Kel\-P\)](https://open.spotify.com/track/6G45nT1iMlP1HdJ0MCTuDU) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [Blood, Sweat & Tears \(with Bas & Black Sherif feat\. Kel\-P\)](https://open.spotify.com/album/5MoByp7KkxmWqP0qTICrTV) | 3:42 | 2023-02-23 |  |
 | [Bloody Samaritan](https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:07 | 2022-07-18 | 2023-02-03 |
 | [bo card \(things i need\)](https://open.spotify.com/track/0saSQscIxmbaT9i29o6ygY) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [bo card \(things i need\)](https://open.spotify.com/album/3yBIbaYNlFfrbEZVZEDdrY) | 2:59 | 2023-03-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XAs7CuJn4t.md) - [plain]
 
 > <a href="spotify:artist:1bNjWBFWsAAzZSR59lRdpR">Kabza De Small</a>'s favorite tracks\. Updated regularly\. Curated by Kabza De Small\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,174 likes - 30 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,256 likes - 30 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XAs7CuJn4t.md) - [plain]
 | 29 | [Phakade Lami](https://open.spotify.com/track/6wQvbzsxSLKqYrPc26jd9S) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Sha Sha](https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Phakade Lami](https://open.spotify.com/album/44PV16rEIAsEdo4MxT62b9) | 4:21 |
 | 30 | [Trust Fund \(feat\. Focalistic, Mpura, Madumane & Mellow & Sleazy\) \- Live](https://open.spotify.com/track/4F7H87xusgYP3SEFj7gOVP) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Mpura](https://open.spotify.com/artist/14MDqT8L01RPVlJc0BqLLA), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz) | [Scorpion Kings Live Sun Arena](https://open.spotify.com/album/6N067E0wNZsTlyvgnTpJ9l) | 7:08 |
 
-Snapshot ID: `MCw5ZWUzMTM1YWNkNjUzMmU2MTRhZjVhMTE3YjMwOTRhZWNjZTk3NjUw`
+Snapshot ID: `MCxkZjkwMmM1NWY2MTI2OTgwYmI5Njc2ZmQ4ZTgyNjZhMjBiNjcyYTlj`

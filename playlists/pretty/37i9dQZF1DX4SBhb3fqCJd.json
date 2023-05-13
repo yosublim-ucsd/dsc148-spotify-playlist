@@ -1,28 +1,48 @@
 {
-  "description": "The pulse of R&B music today. Cover: Q",
-  "num_followers": 6197333,
+  "description": "The pulse of R&B music today. Cover: Janelle Mon\u00e1e",
+  "num_followers": 6198188,
   "original_name": "Are & Be",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzlmMzFhZTU0ZGIwYWQ3YTQ3MTE2Y2QyOTE2OTAwNGMyMWVhNWVk",
+  "snapshot_id": "MCw0MDcyMmNmMzYxOTdmZTBlODA3NGNiODMxYzI0ZDk2YTNjMTIxODc0",
   "tracks": [
     {
-      "added_at": "2023-05-05 04:00:00",
+      "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "TODAY",
-        "url": "https://open.spotify.com/album/079j8ZmfUTiwYddwHmQxkt"
+        "name": "Lipstick Lover",
+        "url": "https://open.spotify.com/album/6eg7CJ9fJAeLJ5PGB1Vf7T"
       },
       "artists": [
         {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
         }
       ],
-      "duration_ms": 241666,
-      "name": "TODAY",
-      "url": "https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1"
+      "duration_ms": 169386,
+      "name": "Lipstick Lover",
+      "url": "https://open.spotify.com/track/6IhkXHtj7tJg5waF4utfX0"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Party Girls (feat. Buju Banton)",
+        "url": "https://open.spotify.com/album/0ixL0K67B2xkOjom88AdXQ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "duration_ms": 243094,
+      "name": "Party Girls (feat. Buju Banton)",
+      "url": "https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5"
     },
     {
       "added_at": "2023-05-05 14:45:34",
@@ -93,24 +113,20 @@
       "url": "https://open.spotify.com/track/58cMDjQSUdWJUgFmHxRhjt"
     },
     {
-      "added_at": "2023-02-14 06:08:51",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "We Might Even Be Falling In Love (Duet) - Spotify Singles",
-        "url": "https://open.spotify.com/album/05gJU1eQhBHXYUXrGSFBWG"
+        "name": "TODAY",
+        "url": "https://open.spotify.com/album/079j8ZmfUTiwYddwHmQxkt"
       },
       "artists": [
         {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
         }
       ],
-      "duration_ms": 90110,
-      "name": "We Might Even Be Falling In Love (Duet) - Spotify Singles",
-      "url": "https://open.spotify.com/track/0wOtc2nY3NOohp4xSwOyTN"
+      "duration_ms": 241666,
+      "name": "TODAY",
+      "url": "https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -165,22 +181,6 @@
       "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 169013,
-      "name": "JACKIE BROWN",
-      "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
-    },
-    {
       "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "Red Moon In Venus",
@@ -197,22 +197,6 @@
       "url": "https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 183893,
-      "name": "Love Language",
-      "url": "https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE"
-    },
-    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "Crash & Burn",
@@ -227,6 +211,38 @@
       "duration_ms": 147096,
       "name": "Crash & Burn",
       "url": "https://open.spotify.com/track/7JOtjhuqqUIvPNAhaeE5Qu"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 169013,
+      "name": "JACKIE BROWN",
+      "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 183893,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -413,26 +429,6 @@
       "url": "https://open.spotify.com/track/526fD9LiAEi3KKvhhYfWmm"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "The Hurtbook (Homegirl Pack)",
-        "url": "https://open.spotify.com/album/5kljTEylYVvyu90Qnw6JIB"
-      },
-      "artists": [
-        {
-          "name": "Alex Vaughn",
-          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 193781,
-      "name": "So Be It (with Summer Walker) - Remix",
-      "url": "https://open.spotify.com/track/2IkJZzXP6fg0A7WOpp1xAE"
-    },
-    {
       "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "More Love, Less Ego",
@@ -489,6 +485,26 @@
       "url": "https://open.spotify.com/track/5m0eMnsWwzgGsUxe1mhFYR"
     },
     {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "The Hurtbook (Homegirl Pack)",
+        "url": "https://open.spotify.com/album/5kljTEylYVvyu90Qnw6JIB"
+      },
+      "artists": [
+        {
+          "name": "Alex Vaughn",
+          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 193781,
+      "name": "So Be It (with Summer Walker) - Remix",
+      "url": "https://open.spotify.com/track/2IkJZzXP6fg0A7WOpp1xAE"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Since I Have A Lover",
@@ -527,6 +543,26 @@
       "duration_ms": 175836,
       "name": "Kill Bill (feat. Doja Cat)",
       "url": "https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ"
+    },
+    {
+      "added_at": "2023-02-14 06:08:51",
+      "album": {
+        "name": "We Might Even Be Falling In Love (Duet) - Spotify Singles",
+        "url": "https://open.spotify.com/album/05gJU1eQhBHXYUXrGSFBWG"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 90110,
+      "name": "We Might Even Be Falling In Love (Duet) - Spotify Singles",
+      "url": "https://open.spotify.com/track/0wOtc2nY3NOohp4xSwOyTN"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -573,10 +609,10 @@
       "url": "https://open.spotify.com/track/1xTYy3K3hiTcoZfoD7culn"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Slow Dancing",
-        "url": "https://open.spotify.com/album/2mnONj1DFsjtCAFc3dJBlV"
+        "name": "Slow Dancing (Remix)",
+        "url": "https://open.spotify.com/album/19BXqBoy3CeCMLB4d8GXU1"
       },
       "artists": [
         {
@@ -584,13 +620,17 @@
           "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
         },
         {
+          "name": "Kevin Ross",
+          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
+        },
+        {
           "name": "Kincy",
           "url": "https://open.spotify.com/artist/1GXcNIFheqCVINLrF8Is53"
         }
       ],
-      "duration_ms": 226379,
-      "name": "Slow Dancing",
-      "url": "https://open.spotify.com/track/6F7OCdwLWwJWkNB4qCGDOr"
+      "duration_ms": 213259,
+      "name": "Slow Dancing - Remix",
+      "url": "https://open.spotify.com/track/1n7PH7mid9qAtgrWQY8Ff9"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -847,42 +887,6 @@
       "duration_ms": 265888,
       "name": "Deserve Me (with Summer Walker)",
       "url": "https://open.spotify.com/track/0vQffWKfl0JyRqtdoZINEM"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "The Hurtbook (Homegirl Pack)",
-        "url": "https://open.spotify.com/album/5kljTEylYVvyu90Qnw6JIB"
-      },
-      "artists": [
-        {
-          "name": "Alex Vaughn",
-          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 220249,
-      "name": "Demon Time (with Ari Lennox) - Remix",
-      "url": "https://open.spotify.com/track/4It2tsHgHW7gdEDCh0Jfo8"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "NEVER ENOUGH (Bonus Version)",
-        "url": "https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 227520,
-      "name": "Do You Like Me?",
-      "url": "https://open.spotify.com/track/6phkEy1YzAK1JWZWgwC36v"
     },
     {
       "added_at": "2023-03-10 05:00:00",

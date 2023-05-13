@@ -381,6 +381,24 @@
     },
     {
       "album": {
+        "name": "Il Grande Male (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5dHOnPMjwR3s3cjApZr5UL"
+      },
+      "artists": [
+        {
+          "name": "Mattia Vlad Morleo",
+          "url": "https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192527,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/3UIdfTWEMXcBZYgLN3mMvu"
+    },
+    {
+      "album": {
         "name": "Synchronic (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3zUpvlv6hfVwFC1zwtDT6M"
       },
@@ -4736,6 +4754,24 @@
       "duration_ms": 331594,
       "name": "Wicked Games",
       "url": "https://open.spotify.com/track/0FXSdzre3I9GaBB444umzh"
+    },
+    {
+      "album": {
+        "name": "Worlds Collide / Run (from \"The Flash\")",
+        "url": "https://open.spotify.com/album/7IoCIyv2Ji5oGxrGF9S0mt"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Wallfisch",
+          "url": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149060,
+      "name": "Worlds Collide",
+      "url": "https://open.spotify.com/track/5s3kCq0CzYs1lb2TPjU3MC"
     },
     {
       "album": {

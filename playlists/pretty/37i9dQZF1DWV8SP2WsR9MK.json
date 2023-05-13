@@ -1,12 +1,12 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 64369,
+  "num_followers": 64442,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTEwYzBkY2U2ZGIwZTcyZjAzOWE3NTE2NDI2ZTMzZGQ2Mjg5MjY3",
+  "snapshot_id": "MCwyNDEwODQ5ZGIzOWM0ZWJmNmZlODAwYmViODgwMTA2OWNmZjRlMGJl",
   "tracks": [
     {
       "added_at": "2023-05-10 06:14:43",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-05-10 06:14:43",
       "album": {
-        "name": "The Shape Of Things To Come",
-        "url": "https://open.spotify.com/album/5104eCHmSmfLDol9ZDQn0B"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 347413,
-      "name": "Shape Of Things That Are And Were",
-      "url": "https://open.spotify.com/track/62AZ6ukR1dxo5F2sbfFQ1L"
-    },
-    {
-      "added_at": "2023-05-10 06:14:43",
-      "album": {
         "name": "The Artistry Of Tal Farlow",
         "url": "https://open.spotify.com/album/3DhbpcnuskeHWkCzWAM9cO"
       },
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2023-05-10 06:14:43",
       "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/0mF2ClZgcgBlyibysq4B5K"
+        "name": "The Shape Of Things To Come",
+        "url": "https://open.spotify.com/album/5104eCHmSmfLDol9ZDQn0B"
       },
       "artists": [
         {
-          "name": "Jimmy Bruno",
-          "url": "https://open.spotify.com/artist/1oTIG44ppYw0nUBqFvZ5Q5"
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
         }
       ],
-      "duration_ms": 492400,
-      "name": "Moonlight In Vermont",
-      "url": "https://open.spotify.com/track/73CYjb6oGhV4CqohyR2OVV"
+      "duration_ms": 347413,
+      "name": "Shape Of Things That Are And Were",
+      "url": "https://open.spotify.com/track/62AZ6ukR1dxo5F2sbfFQ1L"
     },
     {
       "added_at": "2023-05-10 06:14:43",
@@ -1355,6 +1339,22 @@
       "duration_ms": 422680,
       "name": "I Never Knew",
       "url": "https://open.spotify.com/track/6Xugk0xzYvSkmH77VL1GwL"
+    },
+    {
+      "added_at": "2023-05-10 06:14:43",
+      "album": {
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/0mF2ClZgcgBlyibysq4B5K"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Bruno",
+          "url": "https://open.spotify.com/artist/1oTIG44ppYw0nUBqFvZ5Q5"
+        }
+      ],
+      "duration_ms": 492400,
+      "name": "Moonlight In Vermont",
+      "url": "https://open.spotify.com/track/73CYjb6oGhV4CqohyR2OVV"
     },
     {
       "added_at": "2023-05-10 06:14:43",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-05-10 06:14:43",
       "album": {
-        "name": "Heartcore",
-        "url": "https://open.spotify.com/album/0zVWcCYxijtR8JcX5bBJfZ"
-      },
-      "artists": [
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        }
-      ],
-      "duration_ms": 371200,
-      "name": "Blue Line",
-      "url": "https://open.spotify.com/track/3IsWXJIIp1Z9T22rVDLLgk"
-    },
-    {
-      "added_at": "2023-05-10 06:14:43",
-      "album": {
         "name": "Early Stan",
         "url": "https://open.spotify.com/album/1V0xTNXZSiQEpkcM1vdc56"
       },
@@ -1511,18 +1495,18 @@
     {
       "added_at": "2023-05-10 06:14:43",
       "album": {
-        "name": "Standards (And Other Songs)",
-        "url": "https://open.spotify.com/album/6Az63x71f79GUhcyccTomF"
+        "name": "Heartcore",
+        "url": "https://open.spotify.com/album/0zVWcCYxijtR8JcX5bBJfZ"
       },
       "artists": [
         {
-          "name": "Mike Stern",
-          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
         }
       ],
-      "duration_ms": 324026,
-      "name": "Straight No Chaser",
-      "url": "https://open.spotify.com/track/2C6x0Qx9aslzGS5GKLl2nB"
+      "duration_ms": 371200,
+      "name": "Blue Line",
+      "url": "https://open.spotify.com/track/3IsWXJIIp1Z9T22rVDLLgk"
     },
     {
       "added_at": "2023-05-10 06:14:43",
@@ -1543,6 +1527,22 @@
       "duration_ms": 384413,
       "name": "Monk's Dream",
       "url": "https://open.spotify.com/track/6CeJnR7HphMYbazmHYZEtA"
+    },
+    {
+      "added_at": "2023-05-10 06:14:43",
+      "album": {
+        "name": "Standards (And Other Songs)",
+        "url": "https://open.spotify.com/album/6Az63x71f79GUhcyccTomF"
+      },
+      "artists": [
+        {
+          "name": "Mike Stern",
+          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
+        }
+      ],
+      "duration_ms": 324026,
+      "name": "Straight No Chaser",
+      "url": "https://open.spotify.com/track/2C6x0Qx9aslzGS5GKLl2nB"
     },
     {
       "added_at": "2023-05-10 06:14:43",
@@ -1655,38 +1655,6 @@
     {
       "added_at": "2023-05-10 06:14:43",
       "album": {
-        "name": "Deep Song",
-        "url": "https://open.spotify.com/album/61ABrp2sjUlG2QhJr0LaZ8"
-      },
-      "artists": [
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        }
-      ],
-      "duration_ms": 502440,
-      "name": "Brooklyn Sometimes",
-      "url": "https://open.spotify.com/track/60AInuGWohJqz9VONqP8u2"
-    },
-    {
-      "added_at": "2023-05-10 06:14:43",
-      "album": {
-        "name": "These Times",
-        "url": "https://open.spotify.com/album/0b0yP9HN3TrKfZ7llb0LwR"
-      },
-      "artists": [
-        {
-          "name": "Mike Stern",
-          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
-        }
-      ],
-      "duration_ms": 397106,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/5Pp8j3brmuE1m2ssreqFcN"
-    },
-    {
-      "added_at": "2023-05-10 06:14:43",
-      "album": {
         "name": "Close Your Eyes",
         "url": "https://open.spotify.com/album/4juJmyC6vE1k4KYZVSJYMQ"
       },
@@ -1727,6 +1695,22 @@
     {
       "added_at": "2023-05-10 06:14:43",
       "album": {
+        "name": "Deep Song",
+        "url": "https://open.spotify.com/album/61ABrp2sjUlG2QhJr0LaZ8"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "duration_ms": 502440,
+      "name": "Brooklyn Sometimes",
+      "url": "https://open.spotify.com/track/60AInuGWohJqz9VONqP8u2"
+    },
+    {
+      "added_at": "2023-05-10 06:14:43",
+      "album": {
         "name": "Sight",
         "url": "https://open.spotify.com/album/4Hud8C5AEW8aKw1AdIVPgt"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 446493,
       "name": "Yesterdays",
       "url": "https://open.spotify.com/track/1SeSq9ok1FHh2mRna8UJGR"
+    },
+    {
+      "added_at": "2023-05-10 06:14:43",
+      "album": {
+        "name": "These Times",
+        "url": "https://open.spotify.com/album/0b0yP9HN3TrKfZ7llb0LwR"
+      },
+      "artists": [
+        {
+          "name": "Mike Stern",
+          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
+        }
+      ],
+      "duration_ms": 397106,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/5Pp8j3brmuE1m2ssreqFcN"
     },
     {
       "added_at": "2023-05-10 06:14:43",

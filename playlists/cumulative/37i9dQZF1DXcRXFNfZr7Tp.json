@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Current favorites and exciting new music. Cover: Niall Horan",
+  "description": "Current favorites and exciting new music. Cover: Loreen",
   "name": "just hits",
   "tracks": [
     {
@@ -286,6 +286,24 @@
       "duration_ms": 191364,
       "name": "@ my worst",
       "url": "https://open.spotify.com/track/0mHGftgYtmpH4y17T3VZ2E"
+    },
+    {
+      "album": {
+        "name": "A Year Ago",
+        "url": "https://open.spotify.com/album/4mXHsCQ4aRccewmcKUxIBJ"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170830,
+      "name": "A Year Ago",
+      "url": "https://open.spotify.com/track/3DBJE1Zndql25OGUQSv7aD"
     },
     {
       "album": {
@@ -5426,7 +5444,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 176989,
       "name": "Freezing",
       "url": "https://open.spotify.com/track/7reh67rES37v1n9grDX6HO"
@@ -7266,7 +7284,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 230855,
       "name": "I Am Free",
       "url": "https://open.spotify.com/track/7DEyedwkIyFO5lypt3fG8T"
@@ -11016,10 +11034,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 147481,
       "name": "Mother",
       "url": "https://open.spotify.com/track/69ZzhvHnSSnzMO8SMYEJWb"
+    },
+    {
+      "album": {
+        "name": "Mother (Radio Edit)",
+        "url": "https://open.spotify.com/album/4g6g8PQIZ1Plcbm1DFxoo2"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145136,
+      "name": "Mother - Radio Edit",
+      "url": "https://open.spotify.com/track/7oCAd9dn97ckvEsGmOPA7H"
     },
     {
       "album": {
@@ -11792,6 +11828,28 @@
       "duration_ms": 226497,
       "name": "Obsessed (with Charlie Puth & Shenseea)",
       "url": "https://open.spotify.com/track/0b5CzUhyShYuDdtW5J4wm2"
+    },
+    {
+      "album": {
+        "name": "Oceans (with Kid Joi)",
+        "url": "https://open.spotify.com/album/78OE5zYcaVZBRY283ayFYj"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Kid Joi",
+          "url": "https://open.spotify.com/artist/29smgejDUdhMHMFTiruhPG"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Oceans (with Kid Joi)",
+      "url": "https://open.spotify.com/track/79xrGzqhv4y92SwvnjHB0N"
     },
     {
       "album": {
@@ -14189,6 +14247,28 @@
     },
     {
       "album": {
+        "name": "Side Effects",
+        "url": "https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Lewis Thompson",
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153742,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp"
+    },
+    {
+      "album": {
         "name": "Sideways",
         "url": "https://open.spotify.com/album/06eiw663CL0vHSY7jvtZ3p"
       },
@@ -15052,6 +15132,24 @@
       "duration_ms": 181477,
       "name": "Substitution",
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
+    },
+    {
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161811,
+      "name": "Summer Baby",
+      "url": "https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U"
     },
     {
       "album": {
@@ -16782,7 +16880,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 127003,
       "name": "Weekends",
       "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"

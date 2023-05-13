@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8shr5OgBdbQ.md) - [plain]
 
 > centuries\-old sailor songs gone viral \- it's sea shanty season, baby.
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,934 likes - 68 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,097 likes - 68 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8shr5OgBdbQ.md) - [plain]
 | 67 | [Bring 'Em Down](https://open.spotify.com/track/21tewDzoqmfJ1jRK4MkJA5) | [William Pint & Felicia Dale](https://open.spotify.com/artist/25mMk8NaLmEHMdXaXP86Lq) | [White Horses](https://open.spotify.com/album/4xSV4Rj2wMQq31PUTXfvG0) | 1:55 |
 | 68 | [Leave Her Johnny](https://open.spotify.com/track/4APSKmljfj6XlCn4Myap0f) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [NathanEvanss](https://open.spotify.com/album/4ZUytyO3BGNF2CJRLkSrLS) | 2:02 |
 
-Snapshot ID: `MCw1MDgyZmEzM2M2Yjc5ZTY5NzVmMzQ1ZWU1MTE3Y2I1MjdhYWVlODVm`
+Snapshot ID: `MCw3MDc5NmYwYTNjZWFjN2IwZjBhZDRkZTdjY2UyZWZhOTA3OWZjMmRl`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Heavy Metal forever \\m/ classics to brand new tracks, play it loud. Cover: Enforcer",
+  "description": "Heavy Metal forever \\m/ classics to brand new tracks, play it loud. Cover: DevilDriver",
   "name": "Heavy Metal",
   "tracks": [
     {
@@ -6820,7 +6820,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 173838,
       "name": "Metal Supremacia",
       "url": "https://open.spotify.com/track/0xPYFEuqIQM9WQ2IIIq6Qf"
@@ -8006,7 +8006,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 241153,
       "name": "Paradox",
       "url": "https://open.spotify.com/track/6A7sTvj68RJAVgTduJEQnA"
@@ -9738,7 +9738,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-11",
+      "date_removed": null,
       "duration_ms": 214057,
       "name": "Smoke Signals",
       "url": "https://open.spotify.com/track/49sl0qA6id6Tz84Yrr3BsW"
@@ -11612,6 +11612,24 @@
       "duration_ms": 322680,
       "name": "The Years of Death and Dying",
       "url": "https://open.spotify.com/track/4dVudcK5JtTjsz2pjWfHni"
+    },
+    {
+      "album": {
+        "name": "Dealing with Demons Vol. II",
+        "url": "https://open.spotify.com/album/5O4KC0CFhKXjoUniNXKHMw"
+      },
+      "artists": [
+        {
+          "name": "DevilDriver",
+          "url": "https://open.spotify.com/artist/79el7mcHYhXYW3Zek21i0L"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285427,
+      "name": "Through the Depths",
+      "url": "https://open.spotify.com/track/1F3Gag1HgKHUBSctaSWn4Y"
     },
     {
       "album": {

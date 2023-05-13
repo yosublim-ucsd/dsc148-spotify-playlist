@@ -968,7 +968,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 364812,
       "name": "Estrat\u00e9gia",
       "url": "https://open.spotify.com/track/25JkALxjdPgDSpb9onSbao"
@@ -1289,6 +1289,28 @@
     },
     {
       "album": {
+        "name": "Jesus Vive (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4peKjX1TTlUZXO9hR4SnRg"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M",
+          "url": "https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP"
+        },
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437424,
+      "name": "Jesus Vive - Ao Vivo",
+      "url": "https://open.spotify.com/track/0KlZvag6ts0IiBKB3eADYC"
+    },
+    {
+      "album": {
         "name": "Jesus, Meu Primeiro Amor (Ao Vivo)",
         "url": "https://open.spotify.com/album/4EY3T4raR9smfcDaZWY05b"
       },
@@ -1430,6 +1452,24 @@
       "duration_ms": 303498,
       "name": "Meu Barco",
       "url": "https://open.spotify.com/track/0i2M2QV6qDK1FtXrcAi8is"
+    },
+    {
+      "album": {
+        "name": "Meu Perfume (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1qtwvGqyEdfabD3y1DSL9o"
+      },
+      "artists": [
+        {
+          "name": "Nath\u00e1lia Braga",
+          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432666,
+      "name": "Meu Perfume - Ao Vivo",
+      "url": "https://open.spotify.com/track/4CvqtrYo12Nmyd0j88LJbq"
     },
     {
       "album": {
@@ -2844,7 +2884,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 439937,
       "name": "Voltando \u00e0 Ess\u00eancia (Ao Vivo)",
       "url": "https://open.spotify.com/track/1MXdyw32HqhBilEZ2nw3jg"

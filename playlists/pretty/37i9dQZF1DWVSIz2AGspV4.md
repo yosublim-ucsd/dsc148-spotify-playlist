@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 
 > أحدث الاغاني العراقية\. غلاف : علي السالم
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,286 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,349 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ghannili Ya Hussain](https://open.spotify.com/track/2Izws8auHSM9MZwyyXit4a) | [Hussain Ghazal](https://open.spotify.com/artist/1dbZLkKMOFCuCouMiGfXXF) | [Ghannili Ya Hussain](https://open.spotify.com/album/636COZGHEOYKsqB3vxh5YX) | 4:23 |
-| 2 | [Echtaket Elak](https://open.spotify.com/track/7byRqI4ooaE0DYS63LLxrd) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Echtaket Elak](https://open.spotify.com/album/6OGqf6Dl8cKLUiqyldp1In) | 4:14 |
-| 3 | [Orsena Alyoum](https://open.spotify.com/track/0hQHz5CddvtQ3QQ9AxADjb) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa) | [Orsena Alyoum](https://open.spotify.com/album/5qMnnGDZzHpyyY2ti8YfWq) | 3:18 |
-| 4 | [Yamak Mazaji](https://open.spotify.com/track/2bXithodmiWrEaTjOqcteg) | [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [Yamak Mazaji](https://open.spotify.com/album/5OV4xIUKf1Ms8gAW52YCU4) | 3:13 |
-| 5 | [Aalnnha Rasmi](https://open.spotify.com/track/2uzCSwQxPhUA7lGoiH7WlG) | [Haitham Yousif](https://open.spotify.com/artist/0jPXHSYuneyrz1WOWZfpXT) | [Aalnnha Rasmi](https://open.spotify.com/album/0itHuCoAQ1XBt97SAfHiT5) | 3:34 |
-| 6 | [Aljawu Ahrkah](https://open.spotify.com/track/1QLpo1Uz5zqngmxQ3SrRYW) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ), [Abdullah Alhameem](https://open.spotify.com/artist/7tBqukCGsALuDvcw4yRfCZ) | [Aljawu Ahrkah](https://open.spotify.com/album/5li76rsSP17tyl7C2xAEGr) | 2:49 |
-| 7 | [khayef Akhsarah](https://open.spotify.com/track/2d89YOM8eeLB7D0lR8XQ5y) | [Yousif Al Sumaidaie](https://open.spotify.com/artist/26oGZUtxxUt9xpCWFfGSXN) | [khayef Akhsarah](https://open.spotify.com/album/6UiAuY0uUdbQkRlgfqDrYs) | 4:07 |
-| 8 | [Rakaz Beya](https://open.spotify.com/track/7xFOwWuDpjBv5tsCiptmvS) | [Ali Alsalem](https://open.spotify.com/artist/1YH6doLlnZd6Vjd4ylnBjP) | [Rakaz Beya](https://open.spotify.com/album/6tcY9IBpcBHPLsITAtCERr) | 3:01 |
-| 9 | [Sabea Zaal](https://open.spotify.com/track/1eUSNfLLJfy6YGGmS2S2Bn) | [Faisal Abdulkareem](https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK), [Zayed Al Saleh](https://open.spotify.com/artist/1l5hkQZj28djsCJWtN62wm) | [Faisal Abdulkareem Mini Album 2023](https://open.spotify.com/album/7CFVvOVCrfnfzj57WXWtFi) | 3:19 |
+| 1 | [Echtaket Elak](https://open.spotify.com/track/7byRqI4ooaE0DYS63LLxrd) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Echtaket Elak](https://open.spotify.com/album/6OGqf6Dl8cKLUiqyldp1In) | 4:14 |
+| 2 | [Orsena Alyoum](https://open.spotify.com/track/0hQHz5CddvtQ3QQ9AxADjb) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa) | [Orsena Alyoum](https://open.spotify.com/album/5qMnnGDZzHpyyY2ti8YfWq) | 3:18 |
+| 3 | [Yamak Mazaji](https://open.spotify.com/track/2bXithodmiWrEaTjOqcteg) | [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [Yamak Mazaji](https://open.spotify.com/album/5OV4xIUKf1Ms8gAW52YCU4) | 3:13 |
+| 4 | [Aalnnha Rasmi](https://open.spotify.com/track/2uzCSwQxPhUA7lGoiH7WlG) | [Haitham Yousif](https://open.spotify.com/artist/0jPXHSYuneyrz1WOWZfpXT) | [Aalnnha Rasmi](https://open.spotify.com/album/0itHuCoAQ1XBt97SAfHiT5) | 3:34 |
+| 5 | [Aljawu Ahrkah](https://open.spotify.com/track/1QLpo1Uz5zqngmxQ3SrRYW) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ), [Abdullah Alhameem](https://open.spotify.com/artist/7tBqukCGsALuDvcw4yRfCZ) | [Aljawu Ahrkah](https://open.spotify.com/album/5li76rsSP17tyl7C2xAEGr) | 2:49 |
+| 6 | [khayef Akhsarah](https://open.spotify.com/track/2d89YOM8eeLB7D0lR8XQ5y) | [Yousif Al Sumaidaie](https://open.spotify.com/artist/26oGZUtxxUt9xpCWFfGSXN) | [khayef Akhsarah](https://open.spotify.com/album/6UiAuY0uUdbQkRlgfqDrYs) | 4:07 |
+| 7 | [Rakaz Beya](https://open.spotify.com/track/7xFOwWuDpjBv5tsCiptmvS) | [Ali Alsalem](https://open.spotify.com/artist/1YH6doLlnZd6Vjd4ylnBjP) | [Rakaz Beya](https://open.spotify.com/album/6tcY9IBpcBHPLsITAtCERr) | 3:01 |
+| 8 | [Sabea Zaal](https://open.spotify.com/track/1eUSNfLLJfy6YGGmS2S2Bn) | [Faisal Abdulkareem](https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK), [Zayed Al Saleh](https://open.spotify.com/artist/1l5hkQZj28djsCJWtN62wm) | [Faisal Abdulkareem Mini Album 2023](https://open.spotify.com/album/7CFVvOVCrfnfzj57WXWtFi) | 3:19 |
+| 9 | [Ghannili Ya Hussain](https://open.spotify.com/track/2Izws8auHSM9MZwyyXit4a) | [Hussain Ghazal](https://open.spotify.com/artist/1dbZLkKMOFCuCouMiGfXXF) | [Ghannili Ya Hussain](https://open.spotify.com/album/636COZGHEOYKsqB3vxh5YX) | 4:23 |
 | 10 | [Eza Endak Waqt](https://open.spotify.com/track/3HTxsFcxKgH0mENxyBezBN) | [Husam Al Rassam](https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth) | [Eza Endak Waqt](https://open.spotify.com/album/5CD5ZcTnebSduZWZ077ilg) | 4:41 |
 | 11 | [Asheq Majnoon](https://open.spotify.com/track/5orvt7dTDRMeAnP0xw5GEV) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Asheq Majnoon](https://open.spotify.com/album/0NZnWtguxnWFzjx3GTJadc) | 3:41 |
 | 12 | [Hobbak Dar](https://open.spotify.com/track/2AIUJ9QAtwzP6wfLP9L1Ye) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Hobbak Dar](https://open.spotify.com/album/22d8IxsrkUVBSmBCtbapCQ) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 | 49 | [Tjy](https://open.spotify.com/track/0MUtxXORQKtmG4uV2v7hJ0) | [Waleed Al Aasal](https://open.spotify.com/artist/6kTNe99aqGfMsQDJjvpd7g), [Oras Sattar](https://open.spotify.com/artist/7CZtgfwlF64ys2ilQfhrkT) | [Tjy](https://open.spotify.com/album/0Dn0iMxW58HAEnmxXPG64q) | 2:52 |
 | 50 | [Hobk Tarak Ather](https://open.spotify.com/track/3087i1xlpg2i1g77CSosnE) | [Husam Al Rassam](https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth) | [Hobk Tarak Ather](https://open.spotify.com/album/7ttYNCLKQnEcTQOuSr4hhF) | 4:37 |
 
-Snapshot ID: `MCw1ZWI4YzY3YzYxYzk1OTNhZWQ3NmYyNjFjNjlkMTY4MjdiNjRjOWFm`
+Snapshot ID: `MCwyMDE2NzUzZjY4YWFhY2YxM2M2ZDQyMTA0M2VhZDc3OGVjYjMxZDZm`

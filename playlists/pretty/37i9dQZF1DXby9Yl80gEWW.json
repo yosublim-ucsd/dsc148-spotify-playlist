@@ -1,12 +1,12 @@
 {
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
-  "num_followers": 38363,
+  "num_followers": 38398,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDJmMDlmOWU2OTBhNTNkZjc0ODBkNTUzMWNjYzc0MmE5ZTMyMjBm",
+  "snapshot_id": "MCxmNWU2OTkxZWU3MzA0ZWEzNTRhZWU5ZjM1NmFjNWE3ZmY1MDIxMzA1",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Song of the Traveling Daughter (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4EdanYXG2bE9jAIdF8ZuXL"
+      },
+      "artists": [
+        {
+          "name": "Abigail Washburn",
+          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
+        }
+      ],
+      "duration_ms": 181533,
+      "name": "Backstep Cindy / Purple Bamboo",
+      "url": "https://open.spotify.com/track/5NH9to3cBp0qdLihn3ro0i"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Uncommon Ritual",
         "url": "https://open.spotify.com/album/1RbHExhYXBvSng2iSUTibx"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 281146,
       "name": "Sliding Down",
       "url": "https://open.spotify.com/track/6i3ZOSknAlWQcjkW8gVD1W"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Song of the Traveling Daughter (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4EdanYXG2bE9jAIdF8ZuXL"
-      },
-      "artists": [
-        {
-          "name": "Abigail Washburn",
-          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
-        }
-      ],
-      "duration_ms": 181533,
-      "name": "Backstep Cindy / Purple Bamboo",
-      "url": "https://open.spotify.com/track/5NH9to3cBp0qdLihn3ro0i"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Dillsboro Blues",
-        "url": "https://open.spotify.com/album/16OAkIBQZ3vmGFMk1bBlJD"
+        "name": "Genuine Negro Jig",
+        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
       },
       "artists": [
         {
-          "name": "Darren Nicholson",
-          "url": "https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f"
+          "name": "Carolina Chocolate Drops",
+          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
         }
       ],
-      "duration_ms": 245000,
-      "name": "Dillsboro Blues",
-      "url": "https://open.spotify.com/track/0CPcEVBK0mN7o7cvxLrCrZ"
+      "duration_ms": 154946,
+      "name": "Peace Behind the Bridge",
+      "url": "https://open.spotify.com/track/2zPgQOAfxCdfINZFtnPrHc"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Genuine Negro Jig",
-        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
+        "name": "Dillsboro Blues",
+        "url": "https://open.spotify.com/album/16OAkIBQZ3vmGFMk1bBlJD"
       },
       "artists": [
         {
-          "name": "Carolina Chocolate Drops",
-          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
+          "name": "Darren Nicholson",
+          "url": "https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f"
         }
       ],
-      "duration_ms": 154946,
-      "name": "Peace Behind the Bridge",
-      "url": "https://open.spotify.com/track/2zPgQOAfxCdfINZFtnPrHc"
+      "duration_ms": 245000,
+      "name": "Dillsboro Blues",
+      "url": "https://open.spotify.com/track/0CPcEVBK0mN7o7cvxLrCrZ"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Chasin' Skies",
-        "url": "https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N"
-      },
-      "artists": [
-        {
-          "name": "Tessa Lark",
-          "url": "https://open.spotify.com/artist/5gXi9wbyhDHyoQlIdN6S72"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 158693,
-      "name": "Chasin' Skies",
-      "url": "https://open.spotify.com/track/69GpWKHqVyweUMVmaVCkfR"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Toward the Fray",
         "url": "https://open.spotify.com/album/0L5uOzFpdnqCTWgGfUQmQ0"
       },
@@ -1299,18 +1279,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Things Are Simple",
-        "url": "https://open.spotify.com/album/2ob3K0w9zdg2YPET5xn49c"
+        "name": "A Man Must Carry On",
+        "url": "https://open.spotify.com/album/01Fru9pmsJY6eahTSxAf6c"
       },
       "artists": [
         {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/0kM18IEgG0cwxgfJRj7xFF"
+          "name": "Aubrey Haynie",
+          "url": "https://open.spotify.com/artist/0z4IT2s3fD9BWMUE52fU9S"
         }
       ],
-      "duration_ms": 288026,
-      "name": "Along Came Sonny",
-      "url": "https://open.spotify.com/track/2eIOinqL0Rup57qmoRiwKs"
+      "duration_ms": 329933,
+      "name": "Eternal Blues",
+      "url": "https://open.spotify.com/track/4HitPhJOcrzOSmk7FyqkE6"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1339,18 +1319,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "A Man Must Carry On",
-        "url": "https://open.spotify.com/album/01Fru9pmsJY6eahTSxAf6c"
+        "name": "Things Are Simple",
+        "url": "https://open.spotify.com/album/2ob3K0w9zdg2YPET5xn49c"
       },
       "artists": [
         {
-          "name": "Aubrey Haynie",
-          "url": "https://open.spotify.com/artist/0z4IT2s3fD9BWMUE52fU9S"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/0kM18IEgG0cwxgfJRj7xFF"
         }
       ],
-      "duration_ms": 329933,
-      "name": "Eternal Blues",
-      "url": "https://open.spotify.com/track/4HitPhJOcrzOSmk7FyqkE6"
+      "duration_ms": 288026,
+      "name": "Along Came Sonny",
+      "url": "https://open.spotify.com/track/2eIOinqL0Rup57qmoRiwKs"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1367,6 +1347,26 @@
       "duration_ms": 372746,
       "name": "Golden",
       "url": "https://open.spotify.com/track/4UvzGgR2uGRwqq6QDGQzl8"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Chasin' Skies",
+        "url": "https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N"
+      },
+      "artists": [
+        {
+          "name": "Tessa Lark",
+          "url": "https://open.spotify.com/artist/5gXi9wbyhDHyoQlIdN6S72"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 158693,
+      "name": "Chasin' Skies",
+      "url": "https://open.spotify.com/track/69GpWKHqVyweUMVmaVCkfR"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1419,30 +1419,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Charm School (feat. Billy Strings & Chris Thile)",
-        "url": "https://open.spotify.com/album/4HMIri0VEv19S8fMjJlsFs"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        },
-        {
-          "name": "Chris Thile",
-          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
-        }
-      ],
-      "duration_ms": 483442,
-      "name": "Charm School (feat. Billy Strings & Chris Thile)",
-      "url": "https://open.spotify.com/track/7hpdC8tS3uHgsChnhduQy4"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Songs For The Sparrows",
         "url": "https://open.spotify.com/album/4dRUKAQWlfGK9AlmsJlS78"
       },
@@ -1463,6 +1439,30 @@
       "duration_ms": 269733,
       "name": "Big Mountain",
       "url": "https://open.spotify.com/track/7AcJDi9pjGHLE1OMiWmLED"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Charm School (feat. Billy Strings & Chris Thile)",
+        "url": "https://open.spotify.com/album/4HMIri0VEv19S8fMjJlsFs"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        },
+        {
+          "name": "Chris Thile",
+          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+        }
+      ],
+      "duration_ms": 483442,
+      "name": "Charm School (feat. Billy Strings & Chris Thile)",
+      "url": "https://open.spotify.com/track/7hpdC8tS3uHgsChnhduQy4"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Into My Own",
-        "url": "https://open.spotify.com/album/6oWQ9Jd7snovTm6B0IdEOK"
-      },
-      "artists": [
-        {
-          "name": "Bryan Sutton",
-          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
-        }
-      ],
-      "duration_ms": 306059,
-      "name": "Overton Waltz",
-      "url": "https://open.spotify.com/track/05lA78CxLBlUOFMsoSucyO"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "30 Turkeys",
         "url": "https://open.spotify.com/album/5A3GlnJs11WNlVZKh3uY5a"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 140970,
       "name": "30 Turkeys",
       "url": "https://open.spotify.com/track/4vEFH6wGu3wRW1lLqfsGex"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Into My Own",
+        "url": "https://open.spotify.com/album/6oWQ9Jd7snovTm6B0IdEOK"
+      },
+      "artists": [
+        {
+          "name": "Bryan Sutton",
+          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
+        }
+      ],
+      "duration_ms": 306059,
+      "name": "Overton Waltz",
+      "url": "https://open.spotify.com/track/05lA78CxLBlUOFMsoSucyO"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Cellopickin'",
+        "url": "https://open.spotify.com/album/5GORB7gJRciuBSmr5zXLva"
+      },
+      "artists": [
+        {
+          "name": "William Jack",
+          "url": "https://open.spotify.com/artist/3Ds96gXKTTw3CRUZaLTZqK"
+        }
+      ],
+      "duration_ms": 196875,
+      "name": "Cellopickin'",
+      "url": "https://open.spotify.com/track/656nmSiyqb2Y5Hv1M795ux"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Moonbeam",
         "url": "https://open.spotify.com/album/1VTipkjGNb0kofaMblqkT2"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 257939,
       "name": "Battersea Skillet Liquor",
       "url": "https://open.spotify.com/track/5qHFrx1gHuDt7Mrdzq5f8F"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Cellopickin'",
-        "url": "https://open.spotify.com/album/5GORB7gJRciuBSmr5zXLva"
-      },
-      "artists": [
-        {
-          "name": "William Jack",
-          "url": "https://open.spotify.com/artist/3Ds96gXKTTw3CRUZaLTZqK"
-        }
-      ],
-      "duration_ms": 196875,
-      "name": "Cellopickin'",
-      "url": "https://open.spotify.com/track/656nmSiyqb2Y5Hv1M795ux"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Americana Master Series: Best Of The Sugar Hill Years",
+        "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 392200,
+      "name": "We Hide And Seek",
+      "url": "https://open.spotify.com/track/1rj1VUjOnh0FTaniw3LXzp"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Mashbluegrass D-28",
         "url": "https://open.spotify.com/album/58YWl56eUa43jptyZg79nO"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 495278,
       "name": "Mashbluegrass D-28",
       "url": "https://open.spotify.com/track/1ZrZLbNlJRdb8s1CBBKAA2"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Americana Master Series: Best Of The Sugar Hill Years",
-        "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
-      },
-      "artists": [
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        }
-      ],
-      "duration_ms": 392200,
-      "name": "We Hide And Seek",
-      "url": "https://open.spotify.com/track/1rj1VUjOnh0FTaniw3LXzp"
     }
   ],
   "unique_name": "Instrumental Bluegrass",

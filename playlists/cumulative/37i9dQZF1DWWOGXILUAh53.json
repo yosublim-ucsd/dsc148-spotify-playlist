@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest new pop with all the drops. Cover: Fatboy Slim & Rita Ora",
+  "description": "The hottest new pop with all the drops. Cover: Becky Hill",
   "name": "Fresh Dance Pop",
   "tracks": [
     {
@@ -316,7 +316,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 172000,
       "name": "Air",
       "url": "https://open.spotify.com/track/7DBQIEXuFIXMWNAWyGsTTm"
@@ -1288,7 +1288,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 139422,
       "name": "Body Talk",
       "url": "https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN"
@@ -1310,6 +1310,24 @@
       "duration_ms": 193381,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/164QjgWOxnSZYHQghRKeC0"
+    },
+    {
+      "album": {
+        "name": "BORED",
+        "url": "https://open.spotify.com/album/5COrkoVFqqcOksKw9UTJkw"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140160,
+      "name": "BORED",
+      "url": "https://open.spotify.com/track/7nx5ZrnZymCwKlWXYJr5SF"
     },
     {
       "album": {
@@ -2044,6 +2062,28 @@
       "duration_ms": 195268,
       "name": "Damn (You\u2019ve Got Me Saying)",
       "url": "https://open.spotify.com/track/5RVjB86R02f47lCZSPFOzj"
+    },
+    {
+      "album": {
+        "name": "Dance Around It",
+        "url": "https://open.spotify.com/album/6vxZwJ7nz8OQ8UbEI4maOt"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Caity Baser",
+          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144983,
+      "name": "Dance Around It",
+      "url": "https://open.spotify.com/track/4ThxV3T887uIHatv3QPMhO"
     },
     {
       "album": {
@@ -2811,6 +2851,24 @@
     },
     {
       "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/3BGHrulAzot1NlU8l8hWPV"
+      },
+      "artists": [
+        {
+          "name": "Francis On My Mind",
+          "url": "https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160695,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/4MTdcaWxn8tNq1G27R5QEk"
+    },
+    {
+      "album": {
         "name": "Enough To Drink",
         "url": "https://open.spotify.com/album/1Tx5s92P4nNJEAXqDvA3lf"
       },
@@ -3514,10 +3572,32 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 181763,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/7LbhIjYNfCguxjAw43Mkff"
+    },
+    {
+      "album": {
+        "name": "Ghost (Merk & Kremont Remix)",
+        "url": "https://open.spotify.com/album/3vuXaBdklxdSgIW8dHBoWo"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "Merk & Kremont",
+          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173571,
+      "name": "Ghost - Merk & Kremont Remix",
+      "url": "https://open.spotify.com/track/1SDE6NorcBVtssHzaWeRC4"
     },
     {
       "album": {
@@ -4315,6 +4395,32 @@
     },
     {
       "album": {
+        "name": "How You Samba",
+        "url": "https://open.spotify.com/album/12WYrw3Af5ha9SVxHEv7KH"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151680,
+      "name": "How You Samba",
+      "url": "https://open.spotify.com/track/4uoSxzvEVMcDsIK0aHZFAv"
+    },
+    {
+      "album": {
         "name": "Hungry Heart ft. Hayley Kiyoko",
         "url": "https://open.spotify.com/album/6aRMTwvizxU03QnudEZ8Hu"
       },
@@ -4414,7 +4520,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 151983,
       "name": "I Don't Like You",
       "url": "https://open.spotify.com/track/5zIsO3PnxBHJiqrj0SXSRw"
@@ -6145,6 +6251,28 @@
     },
     {
       "album": {
+        "name": "mine (Ty Sunderland Remix)",
+        "url": "https://open.spotify.com/album/6xCPQfspxJvK0WZfMw6eqf"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        },
+        {
+          "name": "Ty Sunderland",
+          "url": "https://open.spotify.com/artist/31JqNN8V3p95rXgJ7WjeOI"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241346,
+      "name": "mine (Ty Sunderland Remix)",
+      "url": "https://open.spotify.com/track/2OsZ8lG6OkPLw6ePT5yJwc"
+    },
+    {
+      "album": {
         "name": "Miracle (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
       },
@@ -6266,6 +6394,28 @@
       "duration_ms": 147568,
       "name": "more than friends",
       "url": "https://open.spotify.com/track/3QwlKiTMoOzXvOpzvCMUH6"
+    },
+    {
+      "album": {
+        "name": "More Than Yesterday (feat. Russell Dickerson)",
+        "url": "https://open.spotify.com/album/4Guul13nGTNGzV05VTMwqC"
+      },
+      "artists": [
+        {
+          "name": "Two Friends",
+          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
+        },
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187661,
+      "name": "More Than Yesterday (feat. Russell Dickerson)",
+      "url": "https://open.spotify.com/track/0VNb0HzD2oxJ9zyRbv7xFH"
     },
     {
       "album": {
@@ -6664,7 +6814,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 161344,
       "name": "Next To You (feat. Kane Brown)",
       "url": "https://open.spotify.com/track/6iZ2inFhxOuHKxOlTwwhZq"
@@ -6744,7 +6894,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 195775,
       "name": "No Saving Us (feat. SAYGRACE)",
       "url": "https://open.spotify.com/track/4GHxtNdSBBaWaivjS1Y05R"
@@ -6994,7 +7144,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 123934,
       "name": "One And Only",
       "url": "https://open.spotify.com/track/5Fj3oUTbus2TH6wp2BQYGt"
@@ -8677,6 +8827,28 @@
     },
     {
       "album": {
+        "name": "Side Effects",
+        "url": "https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Lewis Thompson",
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153742,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp"
+    },
+    {
+      "album": {
         "name": "Skin & Bones",
         "url": "https://open.spotify.com/album/1UC3Aa7Abau4Qf4jiyY5rK"
       },
@@ -9182,7 +9354,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 203420,
       "name": "Submarine",
       "url": "https://open.spotify.com/track/6cBRrVuaqVQ8WW6VDUHH9l"
@@ -9226,7 +9398,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 144024,
       "name": "Sugar (feat. Soaky Siren)",
       "url": "https://open.spotify.com/track/6OHQzBYaXeF6FVu8gxLMkE"
@@ -11394,6 +11566,24 @@
       "duration_ms": 187000,
       "name": "Wouldn\u2019t Change A Thing",
       "url": "https://open.spotify.com/track/1nxolqTzRn39brCPRk5f8v"
+    },
+    {
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/7nFrtfZGra2UMK0XmSqFHO"
+      },
+      "artists": [
+        {
+          "name": "NOME.",
+          "url": "https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132283,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/5bi2mfBGQOMCujSf4Yd7sw"
     },
     {
       "album": {

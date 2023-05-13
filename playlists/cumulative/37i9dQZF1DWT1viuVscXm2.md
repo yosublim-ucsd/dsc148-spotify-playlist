@@ -4,7 +4,7 @@
 
 > A bailar con la mejor cumbia sudamericana.
 
-226 songs - 13 hr 19 min
+227 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Cumbia Vieja](https://open.spotify.com/track/2rzFgjG5cRCTsQ83cKdmJK) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Cumbia Vieja](https://open.spotify.com/album/0M0ITbLB8ipsQOjw7Qkz3o) | 2:45 | 2022-08-26 | 2022-10-29 |
 | [CUMBIA, CUMBIA, CUMBIA](https://open.spotify.com/track/3suelWfLweuFrb1Fbgsg94) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7) | [CUMBIA, CUMBIA, CUMBIA](https://open.spotify.com/album/6xfbKv5OeSyeGxh12mGkHb) | 2:51 | 2023-01-13 | 2023-03-11 |
 | [Curame el Corazón](https://open.spotify.com/track/3QDnzNNZKMdfVbuwqXAC42) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ), [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Letras al Corazón](https://open.spotify.com/album/5GIM2zhvWzyjkx1SO6UMMs) | 4:07 | 2021-12-24 | 2022-01-08 |
+| [Cuéntaselo](https://open.spotify.com/track/3DAZJ0L6bR5QRMsxLExvEh) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Cuéntaselo](https://open.spotify.com/album/4uTQXTiKvrzX17kuzlM0aM) | 3:11 | 2023-05-12 |  |
 | [Cómo le Gusta](https://open.spotify.com/track/5yrK1Uw6fQUcbqBvvawSmr) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Cómo le Gusta](https://open.spotify.com/album/67V8P2PQIobKRhkNjSboUd) | 3:10 | 2022-07-15 | 2022-12-03 |
 | [Cómo No Amarte](https://open.spotify.com/track/3I7RZ8jbuzNTLTFal2kEbb) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [En La Cima](https://open.spotify.com/album/7grjj6Q3ZmcOEjeu0veFi9) | 4:24 | 2022-12-23 | 2023-03-25 |
 | [Cómo Olvidarte](https://open.spotify.com/track/5DcQjboiW4TJ4jhwHS6FrO) | [Pablo Pesadilla](https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox), [Dunguita](https://open.spotify.com/artist/6tgy6fQk4b1XwrSoHvEqBo), [Pollo González](https://open.spotify.com/artist/3lrVu7mL3lav5ySeUyD5CV) | [Cómo Olvidarte](https://open.spotify.com/album/0y2Bzf65Y7PVczvoMhR66G) | 2:51 | 2021-12-24 | 2022-05-10 |
@@ -225,7 +226,7 @@
 | [Ya No Llora](https://open.spotify.com/track/6aMgqUHmyLs5vnyaV98HID) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Ya No Llora](https://open.spotify.com/album/0zTrVUiVr9kDjeeZrFX7sS) | 2:00 | 2021-12-24 |  |
 | [Ya No Me Mires Así](https://open.spotify.com/track/5wQRQNd4VplKBv02ypGVpp) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Ya No Me Mires Así](https://open.spotify.com/album/3TwLhgmVH4Ek3lJdl4Mku4) | 2:47 | 2021-12-24 | 2022-08-13 |
 | [Ya Re Fue](https://open.spotify.com/track/1XbWDGxWXD69Lsi9R5tq6Q) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Ya Re Fue](https://open.spotify.com/album/2gkQ5vr0YlePsiKD7Szdud) | 3:44 | 2021-12-24 | 2022-03-05 |
-| [Ya Verás](https://open.spotify.com/track/2bkiO1qk7LFk0ATcefAUau) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Ya Verás](https://open.spotify.com/album/3GjSTabiHCNQ3FUGJ0Pf8E) | 3:27 | 2023-03-31 |  |
+| [Ya Verás](https://open.spotify.com/track/2bkiO1qk7LFk0ATcefAUau) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Ya Verás](https://open.spotify.com/album/3GjSTabiHCNQ3FUGJ0Pf8E) | 3:27 | 2023-03-31 | 2023-05-13 |
 | [Yo Soy Así](https://open.spotify.com/track/0Y1OBvIElKgwmb5QD5PXkm) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7), [Gastón Angrisani](https://open.spotify.com/artist/1i1bAIlCjhm1btkHurl3rK) | [Yo Soy Así](https://open.spotify.com/album/5DThfdfljh5JWA5E3vhosG) | 2:34 | 2022-07-15 | 2022-08-27 |
 | [Yo Te Esperare](https://open.spotify.com/track/6WUr8ftmKH0HPAzwsehGXQ) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Sigo Mi Camino](https://open.spotify.com/album/7DC0OZgj13TFToSFMa01Sw) | 2:44 | 2021-12-24 |  |
 | [Yo Tomo](https://open.spotify.com/track/2J3phqO09lgu24e82siYtt) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Cumbia Nena](https://open.spotify.com/album/2rgOhgDY4o4Fy6ctcHZ69Z) | 3:24 | 2021-12-24 | 2022-07-29 |

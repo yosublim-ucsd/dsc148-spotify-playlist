@@ -56,7 +56,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 276521,
       "name": "Alasca",
       "url": "https://open.spotify.com/track/5nb97cpmD6U9FpO8VJ3jnm"
@@ -1778,6 +1778,24 @@
       "duration_ms": 132983,
       "name": "Triste com T",
       "url": "https://open.spotify.com/track/7iTpnFZWdEEgpU6QHvrsvS"
+    },
+    {
+      "album": {
+        "name": "ARRISCA",
+        "url": "https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc"
+      },
+      "artists": [
+        {
+          "name": "Majur",
+          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248571,
+      "name": "Tudo Ou Nada",
+      "url": "https://open.spotify.com/track/4kFYhqh5xOBNNhKoy6uDCp"
     },
     {
       "album": {

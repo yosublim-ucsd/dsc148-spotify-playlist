@@ -1,12 +1,12 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania ",
-  "num_followers": 1404,
+  "num_followers": 1407,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODFhMmRkYjM3ZTRjMDA2Mjg5YWIyNGMzMzVlNjJhOTliNTJkMmYw",
+  "snapshot_id": "MCwzMGVkMTU5YTI4MTVkNjM1MjllNzY2YzEyMWVjN2M0Yjc4NzkzZDUy",
   "tracks": [
     {
       "added_at": "2023-04-07 11:29:11",
@@ -219,8 +219,8 @@
     {
       "added_at": "2023-04-07 11:29:11",
       "album": {
-        "name": "Demu Wangu (Remix)",
-        "url": "https://open.spotify.com/album/7zSRhcHQG4jIHEHBSq5euQ"
+        "name": "Madanga Ya Mke Wangu",
+        "url": "https://open.spotify.com/album/49mM3VMjzLhG2sa4JLwLVD"
       },
       "artists": [
         {
@@ -228,17 +228,13 @@
           "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
         },
         {
-          "name": "Marioo",
-          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
-        },
-        {
-          "name": "MABANTU",
-          "url": "https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8"
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
         }
       ],
-      "duration_ms": 247167,
-      "name": "Demu Wangu",
-      "url": "https://open.spotify.com/track/2zl5QAmjBZVDmpBNX7mnx2"
+      "duration_ms": 337346,
+      "name": "Madanga Ya Mke Wangu",
+      "url": "https://open.spotify.com/track/1abvlwDvZmuhopVyIBsNSt"
     },
     {
       "added_at": "2023-04-07 11:29:11",
@@ -403,8 +399,8 @@
     {
       "added_at": "2023-04-07 11:29:11",
       "album": {
-        "name": "Madanga Ya Mke Wangu",
-        "url": "https://open.spotify.com/album/49mM3VMjzLhG2sa4JLwLVD"
+        "name": "Demu Wangu (Remix)",
+        "url": "https://open.spotify.com/album/7zSRhcHQG4jIHEHBSq5euQ"
       },
       "artists": [
         {
@@ -412,13 +408,17 @@
           "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
         },
         {
-          "name": "D Voice",
-          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        },
+        {
+          "name": "MABANTU",
+          "url": "https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8"
         }
       ],
-      "duration_ms": 337346,
-      "name": "Madanga Ya Mke Wangu",
-      "url": "https://open.spotify.com/track/1abvlwDvZmuhopVyIBsNSt"
+      "duration_ms": 247167,
+      "name": "Demu Wangu",
+      "url": "https://open.spotify.com/track/2zl5QAmjBZVDmpBNX7mnx2"
     },
     {
       "added_at": "2023-04-07 11:29:11",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-04-07 11:29:11",
       "album": {
-        "name": "Chura Wangu",
-        "url": "https://open.spotify.com/album/44Pc5MxG00w4z3s8q7xrQR"
-      },
-      "artists": [
-        {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
-        }
-      ],
-      "duration_ms": 187895,
-      "name": "Chura Wangu",
-      "url": "https://open.spotify.com/track/6aAfZHeY3N8H3dYZZF4j0g"
-    },
-    {
-      "added_at": "2023-04-07 11:29:11",
-      "album": {
         "name": "Kwetu",
         "url": "https://open.spotify.com/album/79jhhSsM1LUgOAvVXRlKZJ"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 209653,
       "name": "Kwetu",
       "url": "https://open.spotify.com/track/3Sw6ttR4fRQ0iC4vz8oajO"
+    },
+    {
+      "added_at": "2023-04-07 11:29:11",
+      "album": {
+        "name": "Chura Wangu",
+        "url": "https://open.spotify.com/album/44Pc5MxG00w4z3s8q7xrQR"
+      },
+      "artists": [
+        {
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
+        }
+      ],
+      "duration_ms": 187895,
+      "name": "Chura Wangu",
+      "url": "https://open.spotify.com/track/6aAfZHeY3N8H3dYZZF4j0g"
     },
     {
       "added_at": "2023-04-07 11:29:11",
@@ -907,38 +907,38 @@
     {
       "added_at": "2023-04-07 11:29:11",
       "album": {
-        "name": "Kwanini",
-        "url": "https://open.spotify.com/album/57w4MZxXpYPG5RbjKCaTZA"
+        "name": "Mchepuko",
+        "url": "https://open.spotify.com/album/3ZJ0RRiA56WsQb3G2M4N6F"
       },
       "artists": [
         {
           "name": "Seneta Kilaka",
           "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
-        },
-        {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
         }
       ],
-      "duration_ms": 275680,
-      "name": "Kwanini",
-      "url": "https://open.spotify.com/track/1mP3PPtft6EQumpjaj1nmc"
+      "duration_ms": 273866,
+      "name": "Mchepuko",
+      "url": "https://open.spotify.com/track/12zGv1X0dXwtz7gU2yL0j3"
     },
     {
       "added_at": "2023-04-07 11:29:11",
       "album": {
-        "name": "Singeli Poli",
-        "url": "https://open.spotify.com/album/2mjjwhLh4ttpZRz2yKntwW"
+        "name": "Jiangalie",
+        "url": "https://open.spotify.com/album/2ZVwvn2K544UFhLsWyd9CF"
       },
       "artists": [
         {
-          "name": "Kadilida",
-          "url": "https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN"
+          "name": "Nay Wa Mitego",
+          "url": "https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq"
+        },
+        {
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
         }
       ],
-      "duration_ms": 118079,
-      "name": "Singeli Poli",
-      "url": "https://open.spotify.com/track/22MhRI74ng3SmfaEFYT9fG"
+      "duration_ms": 246245,
+      "name": "Jiangalie",
+      "url": "https://open.spotify.com/track/6kMV14ic2Rpz4h1k807zyR"
     }
   ],
   "unique_name": "Singeli Sounds",

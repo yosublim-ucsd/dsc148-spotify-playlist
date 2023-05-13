@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36">HBO's Rap Sh!t</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,174 likes - 48 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,256 likes - 48 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 | 20 | [Banana Klip](https://open.spotify.com/track/1MIlfxvF1shdd8g24DKwAu) | [Bali Baby](https://open.spotify.com/artist/5hPcCMWgf6Qu9vUQVySwcY) | [Banana Klip](https://open.spotify.com/album/1Md4iZ92jI13giuaNYezyL) | 1:57 |
 | 21 | [Preach](https://open.spotify.com/track/6FzjhVjXDoBGfq1sSdNq7S) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Cross Country Trappin](https://open.spotify.com/album/4R64QNV35UNIjVeWjDSIJS) | 3:26 |
 | 22 | [Nann Nigga](https://open.spotify.com/track/7d9I42jF759n5HuUeoulzR) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25) | [www.thug.com](https://open.spotify.com/album/4HMN5pRuHF88SzZoXtJsHM) | 2:47 |
-| 23 | [Carry Anne](https://open.spotify.com/track/3gPxfcewMlw2h9n24uW4pm) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Shape Up](https://open.spotify.com/album/0sdLAra6HEkMJuxB7ZkXSi) | 3:33 |
-| 24 | [BIRDZ FEAT\. RICK ROSS](https://open.spotify.com/track/0pA0rcw7ci5X5XHrnBpkdn) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [ZUU](https://open.spotify.com/album/6PkSBdx19zarn4ae1D08gA) | 3:24 |
+| 23 | [BIRDZ FEAT\. RICK ROSS](https://open.spotify.com/track/0pA0rcw7ci5X5XHrnBpkdn) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [ZUU](https://open.spotify.com/album/6PkSBdx19zarn4ae1D08gA) | 3:24 |
+| 24 | [Carry Anne](https://open.spotify.com/track/3gPxfcewMlw2h9n24uW4pm) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Shape Up](https://open.spotify.com/album/0sdLAra6HEkMJuxB7ZkXSi) | 3:33 |
 | 25 | [Like a Million \(feat\. Kodak Black\)](https://open.spotify.com/track/1kA3DTGCwnnp8SUYkk6kuC) | [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Jackboy](https://open.spotify.com/album/7w0pvDj9Q5zVSlZsXKLQ0M) | 2:58 |
 | 26 | [LIT BITCH](https://open.spotify.com/track/6rXEeSswc5z1lpRcHcV6zc) | [Chinese Kitty](https://open.spotify.com/artist/6x3iaJYt5zLqKIfkrPQme9), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [SMD](https://open.spotify.com/album/2v9QOVsyQI2815eaOk4em6) | 3:02 |
 | 27 | [Nunnadet Shit](https://open.spotify.com/track/0TResTtx98vH1rbuMMzqSh) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J) | [Nunnadet Shit](https://open.spotify.com/album/5gEwrxdbRbjDUOE4EORN6W) | 3:34 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 | 47 | [Hoodrat \(feat\. AzSwaye & Pjay\)](https://open.spotify.com/track/0YrYVhq0EukTxojdqLh2Sj) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [AzChike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [AzSwaye](https://open.spotify.com/artist/5tg5JDw7tQiZdJCShs9rk9), [Pjay](https://open.spotify.com/artist/6rB1jv0emRIkbLluXskjt9) | [Hoodrat \(feat\. AzSwaye & Pjay\)](https://open.spotify.com/album/4aBeGq3hlU2z7c6EvKjHpc) | 2:36 |
 | 48 | [Hood Baby](https://open.spotify.com/track/5Elw813HnizJdMcnGAvVUK) | [Hood Brat](https://open.spotify.com/artist/6lXxD7jB6A4GBp8FIj4Drd) | [Hood Baby](https://open.spotify.com/album/3epVF8JDjLOAbMbWXL2SdO) | 2:40 |
 
-Snapshot ID: `MCw0YTcxZGJhODNlOTNiY2M1N2RhNmM2YTA2YTE1Mjc5NWE3MjZmYTMy`
+Snapshot ID: `MCxhNTNiYzIwMjY2NzczYzJhYmYzYjQzMDdhMWFiYTQ0YWU4M2RiZDJm`

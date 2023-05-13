@@ -4,7 +4,7 @@
 
 > ¡Mujeres de los Andes, a todo volumen! Con Vale en portada.
 
-190 songs - 10 hr 38 min
+192 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Fuego](https://open.spotify.com/track/2OBDbcbEoulxcvV7VIJVLu) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [A Fuego](https://open.spotify.com/album/3rMdauQMPRGqfX7GeNIlRO) | 3:08 | 2023-05-03 |  |
 | [A Tu Lado](https://open.spotify.com/track/2sxGambjEMewIexGbpP089) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [A Tu Lado](https://open.spotify.com/album/4unZDGlQA29DS3atjhfUQJ) | 4:04 | 2022-07-06 |  |
 | [A Tu Lado](https://open.spotify.com/track/5EWino1os6FUYJ1q7KRDnN) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [A Tu Lado](https://open.spotify.com/album/1XtVGi0vSh9FSIZ6lfrDeE) | 4:04 | 2022-01-05 | 2022-07-29 |
+| [Acróstico](https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Acróstico](https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd) | 2:50 | 2023-05-12 |  |
 | [Adicta al Perreo](https://open.spotify.com/track/7xj6vIyvd8qh9JjPzQhvHa) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Adicta al Perreo](https://open.spotify.com/album/6E4zCCVrnmZigYPqJJshdV) | 2:50 | 2022-03-10 | 2023-05-04 |
 | [Aguántame un ratito](https://open.spotify.com/track/6mxRQaBAAFwnUnefO2ilh6) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Morir en Escena](https://open.spotify.com/album/4tw3Ze1UOCLZKCohr7e00v) | 3:39 | 2023-01-04 |  |
 | [Airampito](https://open.spotify.com/track/6qiVSgeijeice6TrfhnCKj) | [Flor Pucarina](https://open.spotify.com/artist/0Cx0jBqPZuvdKTcpOkRsk8) | [¡Sola...Siempre Sola!](https://open.spotify.com/album/712D7w8qU2KB9J9HJQOpEk) | 2:51 | 2023-03-01 | 2023-04-06 |
@@ -69,6 +70,7 @@
 | [En Todas Partes](https://open.spotify.com/track/3e0oTmzpggchmvDpUgEgbL) | [Micaela Salaverry](https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo), [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [En Todas Partes](https://open.spotify.com/album/5jV6AmV4Gpg8GSe3WhSjof) | 3:37 | 2023-04-05 |  |
 | [En un Mar](https://open.spotify.com/track/78NnWL4MdpDJhlUcIBhAIY) | [siempre perdida](https://open.spotify.com/artist/0qUAEJHNl1REkrePFbnEnT) | [En un Mar](https://open.spotify.com/album/5gxvjvg1VtOn2EmhNADKRb) | 3:57 | 2022-01-05 | 2023-01-05 |
 | [ENMÚSAME](https://open.spotify.com/track/3cY6e5pfLpYk5uiT5RdYcv) | [Gallardía](https://open.spotify.com/artist/0yP5P5C0GfMQ8Nlpq3lFBY) | [ENMÚSAME](https://open.spotify.com/album/1BwMM9VT7IO94E8ImUD9ys) | 2:29 | 2022-05-31 | 2023-02-02 |
+| [ESMERALDAS \(Vainarara\_Bm\_80BPM\)](https://open.spotify.com/track/0YxqvalYueKU5d8kiIwxos) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [ESMERALDAS \(Vainarara\_Bm\_80BPM\)](https://open.spotify.com/album/5pYvjIHn4s9wKqVEbeBXFY) | 2:34 | 2023-05-12 |  |
 | [Fantasmas](https://open.spotify.com/track/5oc0avV70I9FIJIRyIeRU4) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX), [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [Fantasmas](https://open.spotify.com/album/2QubXvxqMEnCtzhHFYChay) | 2:52 | 2023-05-03 |  |
 | [Fashion Criminal](https://open.spotify.com/track/0azenPr5m8N2fGVkp5BEuw) | [Oliva](https://open.spotify.com/artist/1gBHZ6j8W5Xs3t9gmvedJw) | [Fashion Criminal](https://open.spotify.com/album/2S6TKxlcxqreIKTckKQAcW) | 2:50 | 2022-01-05 | 2023-03-04 |
 | [FIXXIÓN](https://open.spotify.com/track/7Hkfm6Yg7IH2VBmTGIjizg) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Hyperreal](https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId) | 3:07 | 2023-03-03 |  |
@@ -95,7 +97,7 @@
 | [La Parcera](https://open.spotify.com/track/5JWpcxLcC41EaKGOimEUlV) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [La Parcera](https://open.spotify.com/album/05kaSB2HeYy1t4aCmOeNWb) | 2:58 | 2022-01-05 | 2023-01-05 |
 | [La Sentada](https://open.spotify.com/track/6iql0jmyrOmtI58SGMI3IJ) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Más Canciones Crudas](https://open.spotify.com/album/72xjCUlKRiJbEtQo9Zt9BV) | 2:28 | 2022-01-05 | 2022-03-11 |
 | [La Sombra \(feat\. Leonel García\)](https://open.spotify.com/track/1AMzClglf6ggXTomlMOMkk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 3:40 | 2022-01-05 | 2022-09-09 |
-| [Las de la Intuición](https://open.spotify.com/track/3uU6dqBjVKRTPis0RrTaT4) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Fijación Oral, Vol\. 1](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) | 3:40 | 2022-11-30 |  |
+| [Las de la Intuición](https://open.spotify.com/track/3uU6dqBjVKRTPis0RrTaT4) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Fijación Oral, Vol\. 1](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) | 3:40 | 2022-11-30 | 2023-05-13 |
 | [León](https://open.spotify.com/track/6Yz79UMkQgpkeelujnkbIh) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Mis Amores](https://open.spotify.com/album/1spQ6P6TdE9gqf14SoKJQa) | 2:56 | 2022-01-05 | 2022-03-05 |
 | [Lluviare](https://open.spotify.com/track/7tQICvPQ491u8JnHnR2ann) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Sodot a Rama](https://open.spotify.com/album/34od7O3gBdrusV1DzlxjM8) | 4:40 | 2022-01-05 | 2023-01-05 |
 | [Lo Cura](https://open.spotify.com/track/3ilKo71h84ybq78up74ho0) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Lo Cura](https://open.spotify.com/album/3p11AWGzvHZL4o3Cm9jtba) | 3:30 | 2022-03-04 | 2022-09-09 |
@@ -189,7 +191,7 @@
 | [Ver](https://open.spotify.com/track/6kGlYDjxxfJLKr7dfjAYQ5) | [REDNBLUE](https://open.spotify.com/artist/2fFmT5WlZr5EsPKyU1qGzG), [Luisa Quiroga](https://open.spotify.com/artist/41BvCh2pTbtXbK80QyZmcq) | [Ver](https://open.spotify.com/album/1SHTzLSuTJsOlZ2DYE5t6B) | 3:38 | 2022-05-04 | 2023-01-05 |
 | [Vete](https://open.spotify.com/track/48drpTVrcQ3z9jgWW1zIAa) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [Vete](https://open.spotify.com/album/6DNZha5d4L1k6IYOtRaC7g) | 2:28 | 2022-01-05 | 2022-03-11 |
 | [Vete](https://open.spotify.com/track/52x5xGEe3DMahkpDR6aEhX) | [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu) | [Vete](https://open.spotify.com/album/18hHrCTRv4mSGaCHvskuWy) | 3:13 | 2022-05-27 |  |
-| [Viene y va](https://open.spotify.com/track/7BmOMWZGP24NqOhKHR5nP9) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [Viene y va](https://open.spotify.com/album/6GWe6fVPhwpgPU6sfmwM0W) | 2:54 | 2023-04-05 |  |
+| [Viene y va](https://open.spotify.com/track/7BmOMWZGP24NqOhKHR5nP9) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [Viene y va](https://open.spotify.com/album/6GWe6fVPhwpgPU6sfmwM0W) | 2:54 | 2023-04-05 | 2023-05-13 |
 | [Volverte a Ver](https://open.spotify.com/track/4gRcLZTs6GDMmU9182DU5p) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Volverte a Ver](https://open.spotify.com/album/7dnmMht0lILU9q9QjCXHta) | 3:34 | 2022-01-05 | 2023-02-02 |
 | [VOLVIÓ A LATIR](https://open.spotify.com/track/3zvrOvREVagZmg9bb1wYFp) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd), [Chila Jatun](https://open.spotify.com/artist/1pbcskpK1qePXm3sYvYu4o) | [VOLVIÓ A LATIR](https://open.spotify.com/album/0AtMFNvWJk3z2FKnunBUz9) | 3:49 | 2023-01-04 | 2023-04-06 |
 | [WARMISITAY](https://open.spotify.com/track/6PI8OSjXRVqzQA3S8lPnMl) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [WARMISITAY](https://open.spotify.com/album/27BrKlycAoVnEUDz1v5amr) | 3:24 | 2023-03-01 |  |

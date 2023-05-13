@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,460 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,500 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 20 | [Stone](https://open.spotify.com/track/5C8ZVCqSWQluWHXsTdLCOW) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Stone](https://open.spotify.com/album/573W01Ur1qCXuqPguHZX3H) | 3:02 |
 | 21 | [Take Control](https://open.spotify.com/track/0Dva4BUUvU1eSe3EV5F3Wa) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Take Control](https://open.spotify.com/album/5K6e9x4TdZsvmlODZ7GdQQ) | 3:00 |
 | 22 | [Therapy](https://open.spotify.com/track/2ZT87sTizofihiECifOJnm) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Therapy](https://open.spotify.com/album/1BbRfh4nD8NgGqGw1aGdd0) | 3:54 |
-| 23 | [Delectable](https://open.spotify.com/track/3DxUguzXqD17Ulbk18GRtS) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [M4A4](https://open.spotify.com/artist/6r6Bo3WK3Dm28xUMipFF8E) | [Delectable](https://open.spotify.com/album/1FMBiXbZ46iY4csfFjEEnF) | 5:46 |
-| 24 | [Bebey](https://open.spotify.com/track/6K8SmtE4jbK0E0MHOzWIIs) | [Keeya Keys](https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6) | [Bebey](https://open.spotify.com/album/4AV5ofpjUgJdZSqprqDrq6) | 2:10 |
+| 23 | [Bebey](https://open.spotify.com/track/6K8SmtE4jbK0E0MHOzWIIs) | [Keeya Keys](https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6) | [Bebey](https://open.spotify.com/album/4AV5ofpjUgJdZSqprqDrq6) | 2:10 |
+| 24 | [Delectable](https://open.spotify.com/track/3DxUguzXqD17Ulbk18GRtS) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [M4A4](https://open.spotify.com/artist/6r6Bo3WK3Dm28xUMipFF8E) | [Delectable](https://open.spotify.com/album/1FMBiXbZ46iY4csfFjEEnF) | 5:46 |
 | 25 | [More To Give](https://open.spotify.com/track/0c7OcnAQz6H3IIzQA3MP6C) | [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [More To Give](https://open.spotify.com/album/7DrcBhY34PI4wgF16iY2E5) | 2:32 |
 | 26 | [I Could \- Open Up Mix](https://open.spotify.com/track/4BDfygrHURRAI5EK3RxDqu) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [One Night, One Time](https://open.spotify.com/album/50dOkOrN2iLEaWBdGR0Osc) | 4:34 |
 | 27 | [Million Rings](https://open.spotify.com/track/3xPIndCsBuz27cLygsUhSB) | [Hardy Caprio](https://open.spotify.com/artist/7FqkRutc4zWMrnEAUv3Xwd), [Lost Girl](https://open.spotify.com/artist/145mFGIlZXfYlGQTTWA9OS) | [Million Rings](https://open.spotify.com/album/4r9jyeljiOBrOX1O9vYoSm) | 2:42 |
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 51 | [Heavy](https://open.spotify.com/track/3WPrjsHFgOMAkjHB0G6fe6) | [Leila McKenzie](https://open.spotify.com/artist/0bCEQkLomEgAbRwJu2p9aF), [Happy Cat Jay](https://open.spotify.com/artist/01O6JMBezb5PN1Y1P5RTM6) | [Heavy](https://open.spotify.com/album/0PvyqBQvzdeWUar4hQUMlD) | 2:43 |
 | 52 | [Next 2 You](https://open.spotify.com/track/3bX6x6oCl1GU0CzfRUylOs) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 3:00 |
 | 53 | [hold on](https://open.spotify.com/track/40o7MmYto4JMsbRzVl514p) | [The Sanctuary](https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2) | [hold on](https://open.spotify.com/album/2LxT6O6x3iPHYEcZ2qxfCQ) | 3:28 |
-| 54 | [Hood Mentality](https://open.spotify.com/track/0yjYd6ZSpua1KC54BhEupz) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Foul Play EP](https://open.spotify.com/album/2WJYBIppdkigTnRgWlQxtE) | 4:24 |
-| 55 | [B With Me \- Bump & Flex Radio Edit](https://open.spotify.com/track/3r7xbYVEMRXiP9PZ8bh1xj) | [Mis\-Teeq](https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn), [Bump & Flex](https://open.spotify.com/artist/6NuELb3JJmU6DkmorHd587) | [B With Me \(Bump & Flex Mix Radio Edit\)](https://open.spotify.com/album/66W3MW1IhxWpa1g5tZccgC) | 3:38 |
+| 54 | [B With Me \- Bump & Flex Radio Edit](https://open.spotify.com/track/3r7xbYVEMRXiP9PZ8bh1xj) | [Mis\-Teeq](https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn), [Bump & Flex](https://open.spotify.com/artist/6NuELb3JJmU6DkmorHd587) | [B With Me \(Bump & Flex Mix Radio Edit\)](https://open.spotify.com/album/66W3MW1IhxWpa1g5tZccgC) | 3:38 |
+| 55 | [Hood Mentality](https://open.spotify.com/track/0yjYd6ZSpua1KC54BhEupz) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Foul Play EP](https://open.spotify.com/album/2WJYBIppdkigTnRgWlQxtE) | 4:24 |
 | 56 | [How It Goes](https://open.spotify.com/track/0G8WDiAyLXfmL4cfDGZ3SF) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Redders](https://open.spotify.com/artist/6vUJChpc4tvTMNhoqSZ8Mk), [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [How It Goes](https://open.spotify.com/album/5CCDmc3BqXYVmO0LVD4Wmd) | 2:55 |
 | 57 | [Heavy Lovers](https://open.spotify.com/track/1N6iBHbVhJfb941mhLhALL) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [Heavy Lovers](https://open.spotify.com/album/5UGlhyNDMoEmLFI4Piul5m) | 6:58 |
 | 58 | [Belly](https://open.spotify.com/track/2HpCoa9ca8wJJ16MfTCO2g) | [Sakawah Boys](https://open.spotify.com/artist/6acCQ9HxRoWqOHUMMROhkP) | [Belly](https://open.spotify.com/album/3P0RwvqGI07Nxj7KnjVyku) | 3:56 |
 | 59 | [Ain't It Different \(feat\. AJ Tracey & Stormzy\) \- Conducta Remix](https://open.spotify.com/track/15rKTPi84iL42VG8ANdnr4) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn) | [Ain't It Different \- Conducta Remix \(feat\. AJ Tracey & Stormzy\)](https://open.spotify.com/album/0xbCYDk4vmhlHoa7TZ9t2l) | 3:46 |
-| 60 | [Termínelo](https://open.spotify.com/track/3KeHo3x5woeso0oWOIIRGV) | [Ivohé](https://open.spotify.com/artist/1IsGvmgaAR24a2BUJyChhL) | [Termínelo](https://open.spotify.com/album/3Wk9HVRqXZwyCRQ5w45Nha) | 2:18 |
+| 60 | [Different Ways To Love You](https://open.spotify.com/track/4tiKcqZbLytwislCp3LWlb) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Different Ways To Love You](https://open.spotify.com/album/0rdRzPVVCb63dG1qxcvY6O) | 3:51 |
 
-Snapshot ID: `MCxkNDczNjY5MGQ4MjM0ODhjMTdjYWExYWQxMzBhNDc2OTM2NDFhMmM1`
+Snapshot ID: `MCwxNjExNjQ2NzM3MTEzNzI1NDAzNzYzMTZkYmU2ZWY3ZWJjMGFmMWZi`

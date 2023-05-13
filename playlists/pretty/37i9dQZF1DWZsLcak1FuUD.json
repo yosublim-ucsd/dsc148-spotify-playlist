@@ -1,12 +1,12 @@
 {
   "description": "Fue durante los '70 que el Rock se manifest\u00f3 como un gigante a nivel mundial. Argentina no fue la excepci\u00f3n.  Foto: <a href=\"spotify:artist:10vtHOCA3qPLmrGylgO2F1\">Manal</a>",
-  "num_followers": 32426,
+  "num_followers": 32488,
   "original_name": "Esp\u00edritu Setentista",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Y2RkOTA2ZGJhMTlhMzAyMmNjZWEyOTk5YWExNzg4OTU2NzdhZjZh",
+  "snapshot_id": "MCwzYTk5OTA2M2I4YTM0NWM2MjBhYmQ5OWRmZWFlYmFlMWZiN2ZiZTVk",
   "tracks": [
     {
       "added_at": "2020-02-26 16:25:22",
@@ -523,22 +523,6 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "Aquelarre",
-        "url": "https://open.spotify.com/album/21k9Lf53dN3pCJ8JZsk81p"
-      },
-      "artists": [
-        {
-          "name": "Aquelarre",
-          "url": "https://open.spotify.com/artist/3cG8AMyTTUk3Y6LIqyjOxc"
-        }
-      ],
-      "duration_ms": 240840,
-      "name": "Canto, desde el fondo de las ruinas",
-      "url": "https://open.spotify.com/track/0bVpPI7PzrScltqKCm5DKp"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
         "name": "Le\u00f3n Gieco",
         "url": "https://open.spotify.com/album/6fSW2xHU18TEgEnoV1VsjJ"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 193535,
       "name": "En el pa\u00eds de la libertad",
       "url": "https://open.spotify.com/track/4cfkWf9EmRZCKMZBAPebNm"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
+        "name": "Aquelarre",
+        "url": "https://open.spotify.com/album/21k9Lf53dN3pCJ8JZsk81p"
+      },
+      "artists": [
+        {
+          "name": "Aquelarre",
+          "url": "https://open.spotify.com/artist/3cG8AMyTTUk3Y6LIqyjOxc"
+        }
+      ],
+      "duration_ms": 240840,
+      "name": "Canto, desde el fondo de las ruinas",
+      "url": "https://open.spotify.com/track/0bVpPI7PzrScltqKCm5DKp"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -651,22 +651,6 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "Otras Pistas",
-        "url": "https://open.spotify.com/album/4vNaQkW0hQORx5gVi0WFJV"
-      },
-      "artists": [
-        {
-          "name": "Aquelarre",
-          "url": "https://open.spotify.com/artist/3cG8AMyTTUk3Y6LIqyjOxc"
-        }
-      ],
-      "duration_ms": 322026,
-      "name": "Violencia En El Parque",
-      "url": "https://open.spotify.com/track/79Endo4IymZMWDQ0wk116S"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
         "name": "La Biblia",
         "url": "https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 287602,
       "name": "Apocalipsis",
       "url": "https://open.spotify.com/track/1BOrWWE3wANOCYFn6p2Z9Y"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
+        "name": "Crucis",
+        "url": "https://open.spotify.com/album/7q4FDjboZh9zLPRqIxdWng"
+      },
+      "artists": [
+        {
+          "name": "Crucis",
+          "url": "https://open.spotify.com/artist/3PN8odvj48fnALdAsCKG3g"
+        }
+      ],
+      "duration_ms": 246960,
+      "name": "Todo Tiempo Posible",
+      "url": "https://open.spotify.com/track/0aF2ape2b7Tzgo1GLs9re3"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -699,18 +699,18 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "Crucis",
-        "url": "https://open.spotify.com/album/7q4FDjboZh9zLPRqIxdWng"
+        "name": "Otras Pistas",
+        "url": "https://open.spotify.com/album/4vNaQkW0hQORx5gVi0WFJV"
       },
       "artists": [
         {
-          "name": "Crucis",
-          "url": "https://open.spotify.com/artist/3PN8odvj48fnALdAsCKG3g"
+          "name": "Aquelarre",
+          "url": "https://open.spotify.com/artist/3cG8AMyTTUk3Y6LIqyjOxc"
         }
       ],
-      "duration_ms": 246960,
-      "name": "Todo Tiempo Posible",
-      "url": "https://open.spotify.com/track/0aF2ape2b7Tzgo1GLs9re3"
+      "duration_ms": 322026,
+      "name": "Violencia En El Parque",
+      "url": "https://open.spotify.com/track/79Endo4IymZMWDQ0wk116S"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -747,18 +747,18 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "David Lebon",
-        "url": "https://open.spotify.com/album/2sVpQXYG4nKgpJ5F3Q84RC"
+        "name": "Los Delirios del Mariscal",
+        "url": "https://open.spotify.com/album/1IQKV1zaM2GihjCXjZTdeJ"
       },
       "artists": [
         {
-          "name": "David Leb\u00f3n",
-          "url": "https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E"
+          "name": "Crucis",
+          "url": "https://open.spotify.com/artist/3PN8odvj48fnALdAsCKG3g"
         }
       ],
-      "duration_ms": 431160,
-      "name": "Envases de Todo",
-      "url": "https://open.spotify.com/track/7gIUh5iGYpTagqtq74hvs0"
+      "duration_ms": 603400,
+      "name": "Los Delirios del Mariscal",
+      "url": "https://open.spotify.com/track/56vhyP9UvLtGYUbeBBxqke"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -795,6 +795,22 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
+        "name": "David Lebon",
+        "url": "https://open.spotify.com/album/2sVpQXYG4nKgpJ5F3Q84RC"
+      },
+      "artists": [
+        {
+          "name": "David Leb\u00f3n",
+          "url": "https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E"
+        }
+      ],
+      "duration_ms": 431160,
+      "name": "Envases de Todo",
+      "url": "https://open.spotify.com/track/7gIUh5iGYpTagqtq74hvs0"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
         "name": "El Reloj",
         "url": "https://open.spotify.com/album/3xIkQ0YsEyRvjEY1a8KdXc"
       },
@@ -811,18 +827,18 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "Los Delirios del Mariscal",
-        "url": "https://open.spotify.com/album/1IQKV1zaM2GihjCXjZTdeJ"
+        "name": "PorSuiGieco",
+        "url": "https://open.spotify.com/album/4cNKM9xwyyavxurd0T0vub"
       },
       "artists": [
         {
-          "name": "Crucis",
-          "url": "https://open.spotify.com/artist/3PN8odvj48fnALdAsCKG3g"
+          "name": "Porsuigieco",
+          "url": "https://open.spotify.com/artist/4LoFcBNitqIC130rvzS6BG"
         }
       ],
-      "duration_ms": 603400,
-      "name": "Los Delirios del Mariscal",
-      "url": "https://open.spotify.com/track/56vhyP9UvLtGYUbeBBxqke"
+      "duration_ms": 219039,
+      "name": "La Mam\u00e1 de Jimmy",
+      "url": "https://open.spotify.com/track/01IQmxKdUJ7xaOVdMtWPPE"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -839,22 +855,6 @@
       "duration_ms": 266373,
       "name": "Se Ama O No Se Ama",
       "url": "https://open.spotify.com/track/7sYM4xTvfR0N3UkRT9n7Vp"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
-        "name": "PorSuiGieco",
-        "url": "https://open.spotify.com/album/4cNKM9xwyyavxurd0T0vub"
-      },
-      "artists": [
-        {
-          "name": "Porsuigieco",
-          "url": "https://open.spotify.com/artist/4LoFcBNitqIC130rvzS6BG"
-        }
-      ],
-      "duration_ms": 219039,
-      "name": "La Mam\u00e1 de Jimmy",
-      "url": "https://open.spotify.com/track/01IQmxKdUJ7xaOVdMtWPPE"
     },
     {
       "added_at": "2020-02-26 16:25:22",

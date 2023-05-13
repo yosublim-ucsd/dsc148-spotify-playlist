@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 
 > This is Tom Petty and the Heartbreakers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 361 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 362 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 | 47 | [Handle With Care \- Live](https://open.spotify.com/track/47yw82GNS8dhab1nXfZSIx) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e), [Jeff Lynne](https://open.spotify.com/artist/3bTAaMx9nf237AkBnGw3vL), [Dhani Harrison](https://open.spotify.com/artist/0BNG5EOWoNlIE1Q1c4L0Kh) | [Concert For George \(Live\)](https://open.spotify.com/album/6EvU9hFh2ZPeumNOFy1dAu) | 3:27 |
 | 48 | [Rockin' Around \(With You\)](https://open.spotify.com/track/0inmDzoPyVU5PYVgHJ8y7b) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 2:29 |
 | 49 | [Good Evening \- spoken interlude](https://open.spotify.com/track/04iikZsVBLqYcmi9CUWGli) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Live at the Fillmore, 1997 \(Deluxe\)](https://open.spotify.com/album/1XtnMkxeV9wdELLvBZxktL) | 0:43 |
-| 50 | [Good Enough](https://open.spotify.com/track/3BFOW7dc6oxzuEPWKsESTI) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Mojo](https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ) | 5:50 |
+| 50 | [Spike](https://open.spotify.com/track/0OynySxoDTVepVdwm0iigw) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Southern Accents](https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4) | 3:32 |
 
-Snapshot ID: `MjgwNjM0NjIsMDAwMDAwMDA0YTExNTk0MWYzZmVlYTUxZjZmOWM5NGRkZjg1ZWY4ZQ==`
+Snapshot ID: `MjgwNjQ5MDksMDAwMDAwMDA1ZTI4OTAwZmZlMWUyMDRmOWRlMGFjYjRkOWZmOWFiMw==`

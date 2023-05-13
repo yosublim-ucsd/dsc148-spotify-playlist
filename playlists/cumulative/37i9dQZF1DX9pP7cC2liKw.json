@@ -652,7 +652,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 180949,
       "name": "Bayam\u00f3n",
       "url": "https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ"
@@ -5002,6 +5002,24 @@
       "duration_ms": 228571,
       "name": "Suena Tu Canto",
       "url": "https://open.spotify.com/track/6af3gkqJwZRgifUmWWNRTh"
+    },
+    {
+      "album": {
+        "name": "Sue\u00f1o EP",
+        "url": "https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR"
+      },
+      "artists": [
+        {
+          "name": "Malphino",
+          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225013,
+      "name": "Sue\u00f1o de Amapola",
+      "url": "https://open.spotify.com/track/1CI1O4oGcZG2lSLgQHSwQG"
     },
     {
       "album": {

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX717gvXLoUJP.md) - [plain]
 
 > <a href="spotify:artist:1oZmFNkGAT93yD1xX4vTRE">Nina Kraviz</a>' favorite tracks\. Updated regularly\. Curated by Nina Kraviz\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,554 likes - 53 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,583 likes - 53 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [white horse](https://open.spotify.com/track/1gjCPf15cmdVxSIqKGsnXz) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR), [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [white horse](https://open.spotify.com/album/7fdAdlq3AmkfRKcRPd9KrB) | 5:43 |
-| 2 | [Fock Music](https://open.spotify.com/track/0LKqm7QTZ9IViOZzDX8fSG) | [Pantomiman](https://open.spotify.com/artist/4YY17UFbIA2EXhF78H6UDP), [Fungus Funk](https://open.spotify.com/artist/0xqTHxXphPeLQgShl2REz7) | [No Jokes](https://open.spotify.com/album/1QmTzcOVQqbxc9QZkflZLI) | 7:42 |
-| 3 | [Black Smokers](https://open.spotify.com/track/1uL1hBBXXyZN0pIgsFqCr9) | [PTU](https://open.spotify.com/artist/70UHL8BEGqoUNmXfXi0nGr) | [Locus Error](https://open.spotify.com/album/2tFkUn6aftaPWDUZhn8xDl) | 4:26 |
+| 1 | [04c](https://open.spotify.com/track/7goaAhD1hCMfBLsm4ePEW7) | [Soren Jahan](https://open.spotify.com/artist/3QuCMIn8tUrEybwF48qWtn) | [137](https://open.spotify.com/album/2i6cQdA7t4o6u7PZ3BnX2K) | 3:44 |
+| 2 | [white horse](https://open.spotify.com/track/1gjCPf15cmdVxSIqKGsnXz) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR), [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [white horse](https://open.spotify.com/album/7fdAdlq3AmkfRKcRPd9KrB) | 5:43 |
+| 3 | [Fock Music](https://open.spotify.com/track/0LKqm7QTZ9IViOZzDX8fSG) | [Pantomiman](https://open.spotify.com/artist/4YY17UFbIA2EXhF78H6UDP), [Fungus Funk](https://open.spotify.com/artist/0xqTHxXphPeLQgShl2REz7) | [No Jokes](https://open.spotify.com/album/1QmTzcOVQqbxc9QZkflZLI) | 7:42 |
 | 4 | [Bass Drop](https://open.spotify.com/track/53fCTlSygBP4mlHKqww3h3) | [DJ Godfather](https://open.spotify.com/artist/0cKrM2XKF7wxyfEQDauvyQ), [Lil Mz\. 313](https://open.spotify.com/artist/0xwgxtAxlR2y2C3ijPKwzG) | [This Detroit Thing of Ours](https://open.spotify.com/album/6lZGZf3CQPvT1UBPIZFPAZ) | 1:42 |
 | 5 | [Mouth to Mouth](https://open.spotify.com/track/4qyrnoNWsxeq3POMPtsxtE) | [Audion](https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8) | [Audion X](https://open.spotify.com/album/7jGVgwUEdvpmJ5unw2tmb9) | 12:54 |
 | 6 | [Logitech](https://open.spotify.com/track/35CcZt5cYMvkXLaQoUCCxm) | [Leather Forecast](https://open.spotify.com/artist/3BfE19Tmu1EWW9TKSw8xgZ) | [Blizzard People](https://open.spotify.com/album/1NJht446o33kGyPLc27U0l) | 3:57 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX717gvXLoUJP.md) - [plain]
 | 42 | [Spice](https://open.spotify.com/track/5TkXbPJuV9LJVi9LpYGfvY) | [Neil Landstrumm](https://open.spotify.com/artist/2Dv40C26DYmaTgCFGjqlTU), [Legacy](https://open.spotify.com/artist/01tH3jrKOXWyoFfBlrvzuW), [Tina P](https://open.spotify.com/artist/4FoMKevlJ96WC3kzgKEVRV) | [Yell Yell](https://open.spotify.com/album/6Pw4lUSiZ3y5tChcxW2Ccc) | 3:29 |
 | 43 | [I Can’t Take You Leaving Me](https://open.spotify.com/track/7rOTtFB0RhL3yduL3tv63g) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [Acacia Classics: Vol\. 1](https://open.spotify.com/album/3qypFU3zgm5aJAPhajCBnO) | 6:32 |
 | 44 | [Acid Love Making](https://open.spotify.com/track/2TAtmFFQSexZ2bgyCLsXpu) | [Acid Junkies](https://open.spotify.com/artist/60gEfPcEAvnvXBQ9oZePDI) | [Paranoid Experience](https://open.spotify.com/album/3sGeN4mOMfhTApjkKNjram) | 5:28 |
-| 45 | [i can’t believe \(you’re real\)](https://open.spotify.com/track/1LcVfuMJbKCtT0qdZaHAQC) | [u.r.trax](https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5) | [Third Ear](https://open.spotify.com/album/1qzmCUFszkpWLvlrROhW21) | 4:51 |
+| 45 | [biosseum](https://open.spotify.com/track/1iO1JyUx4GSeNaLRFuyypJ) | [u.r.trax](https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5) | [Third Ear](https://open.spotify.com/album/1qzmCUFszkpWLvlrROhW21) | 4:55 |
 | 46 | [Obtuse](https://open.spotify.com/track/6BsnxTt0OTeClLzJ9UNP2p) | [B12](https://open.spotify.com/artist/66I0uUVKgpOPlEjTiy87nm) | [Electro\-Soma](https://open.spotify.com/album/0nFZszbiABmJPifD2zKwna) | 7:22 |
 | 47 | [Birds on E](https://open.spotify.com/track/4OQEO2Y6PuC9IlFYuz2p8j) | [Mike Dearborn](https://open.spotify.com/artist/0YVwdkC0wC44EbigdKTv9w) | [Moments](https://open.spotify.com/album/2ceMZ1jf2D5aV4rHEVRjlQ) | 6:17 |
 | 48 | [Starz](https://open.spotify.com/track/0tbtAd8TDRmHKbuPTolInF) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [On A Journey](https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412) | 8:04 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX717gvXLoUJP.md) - [plain]
 | 52 | [Children of the Last Generation](https://open.spotify.com/track/5GM4dhQXkxtHFCV5aM1zC7) | [X\-Dream](https://open.spotify.com/artist/2Wmyxn5qWyLPWKeEMmJKHc) | [The Best 1991\-2001](https://open.spotify.com/album/2y5avewOLhUVGT1xm3o6Og) | 7:45 |
 | 53 | [Telekinesis](https://open.spotify.com/track/4Wa515K1fkOSwdK64rIKZn) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [The Art of Music](https://open.spotify.com/album/3Nlt0lmS0UzBfTRPrkMGQm) | 5:20 |
 
-Snapshot ID: `MCxmY2M1ZTdjY2M1NDZiMmQ5YzZlZWUwNzJhODg0OGJlMjA4Y2Q5NTIw`
+Snapshot ID: `MCwxMTBiZGRjYTAzNGMyMTM5YjVjOWRlZDkxOTRjNjQ4OGIzYzEzZTYz`

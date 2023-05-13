@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Breathe in deep with arms wide open in worship\. This is going to be epic!
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,053 likes - 100 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,146 likes - 100 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 52 | [King Of Glory \- Live](https://open.spotify.com/track/38Gl5B0Ixqmeon96E2xsMl) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [King Of Glory \(Live\)](https://open.spotify.com/album/4zl5e8SW0ckoKiiD32HaLh) | 4:09 |
 | 53 | [Nothing Else \- Live](https://open.spotify.com/track/7sAJH3KsjrZG7tuQvd2OeE) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 8:30 |
 | 54 | [Breathe \- Live](https://open.spotify.com/track/5OfIpf1OOrbWYBBAMZpO5N) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Touching Heaven \(Live\)](https://open.spotify.com/album/51TJKJhXFke5OZaU56B9qe) | 6:00 |
-| 55 | [On My Side](https://open.spotify.com/track/4NG3Xw4yu8O2j4UIDLUwCP) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [The Free World, Vol\. 1](https://open.spotify.com/album/6JARfJLhC6szyYXRwtiWQg) | 4:19 |
+| 55 | [Insatiable](https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Insatiable](https://open.spotify.com/album/6FZGWRfo7AVtW8134aKpan) | 4:26 |
 | 56 | [My Hallelujah](https://open.spotify.com/track/6ibX7aG1bsQzTJb5gUjCpn) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Praise Before My Breakthrough](https://open.spotify.com/album/2Puh89WKI6MHT2VQLa76Q9) | 4:06 |
-| 57 | [Insatiable](https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Insatiable](https://open.spotify.com/album/6FZGWRfo7AVtW8134aKpan) | 4:26 |
+| 57 | [On My Side](https://open.spotify.com/track/4NG3Xw4yu8O2j4UIDLUwCP) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [The Free World, Vol\. 1](https://open.spotify.com/album/6JARfJLhC6szyYXRwtiWQg) | 4:19 |
 | 58 | [More Than Enough \- Live](https://open.spotify.com/track/6EIDCcB7NlRox5jIrErS8b) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Church Volume One \(Live\)](https://open.spotify.com/album/06wlpmt4p99xMXHibcgoVj) | 8:36 |
 | 59 | [Captain](https://open.spotify.com/track/3YWY2vDpD4ygZRMW9u0bby) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Empires](https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD) | 5:31 |
 | 60 | [Fire in My Bones](https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [Fire in My Bones](https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy) | 4:32 |
@@ -90,9 +90,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 80 | [Abundantly More \(feat\. Seth Condrey\)](https://open.spotify.com/track/4mM0t1EtoONZvwvsiLxd18) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Abundantly More](https://open.spotify.com/album/6N1WHRaubJg2kCsNJ2hAke) | 4:01 |
 | 81 | [Come Holy Spirit \- Live](https://open.spotify.com/track/5Yr4NGuFC4w93Sf5BqfX7s) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Frontiers](https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY) | 5:50 |
 | 82 | [There’s Nothing That Our God Can’t Do \- Live From Passion 2020](https://open.spotify.com/track/25v5O2q4TMYitlz9br8XGt) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Roar \(Live From Passion 2020\)](https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em) | 5:45 |
-| 83 | [This Is Our Story](https://open.spotify.com/track/3qAgzc1GCfBHSAr9UxpNXT) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [This Is Our Story](https://open.spotify.com/album/2Tj6FuYJTT5PmlgIyKCBPo) | 5:41 |
+| 83 | [Calm the Storm \(Live\)](https://open.spotify.com/track/0YoGf0jNg8nTUuWNKb8Ta9) | [Union Creative](https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX) | [Calm the Storm \(Live\)](https://open.spotify.com/album/3jVReSnHC0ZO6JZZRIic1p) | 5:11 |
 | 84 | [Valley \- Live](https://open.spotify.com/track/04IRbKCLC8ktH1nhYdmEXe) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Valley \(Live\)](https://open.spotify.com/album/2RfOUTIdbZpA8YH2qlPi6n) | 4:51 |
-| 85 | [Calm the Storm \(Live\)](https://open.spotify.com/track/0YoGf0jNg8nTUuWNKb8Ta9) | [Union Creative](https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX) | [Calm the Storm \(Live\)](https://open.spotify.com/album/3jVReSnHC0ZO6JZZRIic1p) | 5:11 |
+| 85 | [This Is Our Story](https://open.spotify.com/track/3qAgzc1GCfBHSAr9UxpNXT) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [This Is Our Story](https://open.spotify.com/album/2Tj6FuYJTT5PmlgIyKCBPo) | 5:41 |
 | 86 | [Speak](https://open.spotify.com/track/4KUzH3n3EJYz5ltMHuDKUV) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP) | [Speak](https://open.spotify.com/album/5joR8lkcklTpO3o8dPVsoI) | 4:20 |
 | 87 | [Glory to Glory](https://open.spotify.com/track/0SfGXg7vZmt5OGxET9lhRw) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK) | [Glory to Glory](https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB) | 6:05 |
 | 88 | [Jesus, You're Beautiful \(Live\)](https://open.spotify.com/track/6aQq9IC5749DQOj6I7rhNM) | [Onething Live](https://open.spotify.com/artist/3T6MQugN3SnovyHgr7PLUa), [Jon Thurlow](https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B) | [Love Makes Us Strong \(Live\)](https://open.spotify.com/album/0U9aF7g5O6rVEf2QsxNEfX) | 7:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 99 | [Jesus Only You](https://open.spotify.com/track/5Q8jVqmSihneKmuvQ5qnOF) | [London Gatch](https://open.spotify.com/artist/50l42yX9ACfwA0plxFO0Ah) | [New Stories](https://open.spotify.com/album/0tLz79s8kT9LGp5KFrBNhO) | 4:43 |
 | 100 | [Abraham](https://open.spotify.com/track/3zfgd4lsN0OJh4t4oYpdFo) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [The War Is Over](https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY) | 6:32 |
 
-Snapshot ID: `MCwyMmFkODFhZDk4MGNmZWUzNDFjZWFhZDliZDdlMDYyNjE0MTdhMmY0`
+Snapshot ID: `MCxlYmM1ZjhiMTRiYmYwZGM4OGViMWQ0YTVhZmRiZWFkYzgxYzMxMzY0`

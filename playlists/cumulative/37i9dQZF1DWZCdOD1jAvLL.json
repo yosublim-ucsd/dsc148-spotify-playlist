@@ -271,6 +271,32 @@
     },
     {
       "album": {
+        "name": "Aftertaste",
+        "url": "https://open.spotify.com/album/74aVmqdhWC06dQtbjstQaT"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        },
+        {
+          "name": "AIDN",
+          "url": "https://open.spotify.com/artist/2A4zFavCrJ5iur5VuOIQdc"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257142,
+      "name": "Aftertaste",
+      "url": "https://open.spotify.com/track/5Cf2pyHgpISB5OyNBEPrmc"
+    },
+    {
+      "album": {
         "name": "Age of Love (ARTBAT Rave Mix)",
         "url": "https://open.spotify.com/album/52vmOsY6n8BvRJqkD9Y5LK"
       },
@@ -748,7 +774,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 198094,
       "name": "Back It Up (feat. Young Lyxx)",
       "url": "https://open.spotify.com/track/6ePX5p0ufqiYywnNa9nXkO"
@@ -1792,7 +1818,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 217738,
       "name": "Come Back to Me",
       "url": "https://open.spotify.com/track/0wGFG26QzuMRH03ACmlyW7"
@@ -2072,7 +2098,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 192000,
       "name": "Down With Me",
       "url": "https://open.spotify.com/track/1poa3266sVq4mnVbgocKda"
@@ -2518,6 +2544,24 @@
       "duration_ms": 217258,
       "name": "Eternity (feat. Lena Leon)",
       "url": "https://open.spotify.com/track/7DDIVNWlbGJpQjVDDg8rXR"
+    },
+    {
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/4dtA4QUlcF3fsOcWYkXiLB"
+      },
+      "artists": [
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158399,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/5QjfEMyFm4YTyYTbHvriGT"
     },
     {
       "album": {
@@ -8852,6 +8896,32 @@
       "duration_ms": 192380,
       "name": "Time 2 Stop (A-Trak Remix)",
       "url": "https://open.spotify.com/track/0kM7Dh31FmxZ2tOy5DuMV2"
+    },
+    {
+      "album": {
+        "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
+        "url": "https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        },
+        {
+          "name": "Kevin Lyttle",
+          "url": "https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159161,
+      "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
+      "url": "https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD"
     },
     {
       "album": {

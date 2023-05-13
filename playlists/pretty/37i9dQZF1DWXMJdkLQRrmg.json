@@ -1,12 +1,12 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 309169,
+  "num_followers": 309306,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWYwODRkMDZiNGFhZjVhM2JjM2Q5YzBmYjZjNTg2NDI3Y2QwOGI5",
+  "snapshot_id": "MCxiNmMxYjFjYmU0ODE0ZjAwNDE2Y2ZkZmVhZWU1N2RjODk2MDgzY2Jl",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -479,18 +479,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Against The Wall (Acoustic Version)",
-        "url": "https://open.spotify.com/album/52Luu2iy2mBDEyHWfLpzWf"
+        "name": "Same Kind Of Different",
+        "url": "https://open.spotify.com/album/0xm7ZjtMsPLjqjIP39H8bt"
       },
       "artists": [
         {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
         }
       ],
-      "duration_ms": 206824,
-      "name": "Against The Wall - Acoustic Version",
-      "url": "https://open.spotify.com/track/7iHpX7m9owsqawBy008yvF"
+      "duration_ms": 241292,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/0hNOP5epEjX8Zj5aSGr6JU"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -511,18 +511,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Same Kind Of Different",
-        "url": "https://open.spotify.com/album/0xm7ZjtMsPLjqjIP39H8bt"
+        "name": "mainstream sellout (life in pink deluxe)",
+        "url": "https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7"
       },
       "artists": [
         {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 241292,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/0hNOP5epEjX8Zj5aSGr6JU"
+      "duration_ms": 174991,
+      "name": "maybe (feat. Bring Me The Horizon) - acoustic version",
+      "url": "https://open.spotify.com/track/42zvj6KEuxB5ZSa5ea0Lyh"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -543,22 +547,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "mainstream sellout (life in pink deluxe)",
-        "url": "https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7"
+        "name": "Against The Wall (Acoustic Version)",
+        "url": "https://open.spotify.com/album/52Luu2iy2mBDEyHWfLpzWf"
       },
       "artists": [
         {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
         }
       ],
-      "duration_ms": 174991,
-      "name": "maybe (feat. Bring Me The Horizon) - acoustic version",
-      "url": "https://open.spotify.com/track/42zvj6KEuxB5ZSa5ea0Lyh"
+      "duration_ms": 206824,
+      "name": "Against The Wall - Acoustic Version",
+      "url": "https://open.spotify.com/track/7iHpX7m9owsqawBy008yvF"
     },
     {
       "added_at": "2023-01-13 05:00:00",

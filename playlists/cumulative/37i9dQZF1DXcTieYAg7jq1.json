@@ -2782,7 +2782,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 173862,
       "name": "It Will Come In Time",
       "url": "https://open.spotify.com/track/2eqocLN1rW8h10svumB8wd"
@@ -3644,6 +3644,24 @@
       "duration_ms": 176413,
       "name": "New",
       "url": "https://open.spotify.com/track/2wWdhjrpJubT4WsxqNgsOf"
+    },
+    {
+      "album": {
+        "name": "NEWS",
+        "url": "https://open.spotify.com/album/1Rp96rbYxQJgiksH8datBA"
+      },
+      "artists": [
+        {
+          "name": "Loi",
+          "url": "https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147475,
+      "name": "NEWS",
+      "url": "https://open.spotify.com/track/4LdFhvSwioFDEdOuRQp2MV"
     },
     {
       "album": {

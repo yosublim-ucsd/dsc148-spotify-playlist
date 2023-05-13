@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Nothing But Thieves
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,859 likes - 52 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,857 likes - 52 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 51 | [Brat](https://open.spotify.com/track/6RBoDti7RDKjA3HQadiLDy) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [Brat](https://open.spotify.com/album/06LFLzsI6HOJU1E0Lbcgv3) | 3:06 |
 | 52 | [Used To You](https://open.spotify.com/track/0ivsDrBQ9HloEcdaYxq9Un) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Used To You](https://open.spotify.com/album/4p6tJ0wUX7GXUvWwCFkFjs) | 3:07 |
 
-Snapshot ID: `MCxkZDBmNWU4NTQzYzVlMDA0N2JhNzliMDBiY2YyNThmNTFkOWE5NmIz`
+Snapshot ID: `MCw2OGMwMzFhMjYzNDQ3NTNlMWI3MGZkOTRkNDU1N2MxZjZjZDQzMTgw`

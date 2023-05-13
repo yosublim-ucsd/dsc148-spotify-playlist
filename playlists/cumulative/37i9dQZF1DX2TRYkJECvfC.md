@@ -2,9 +2,9 @@
 
 ### [Deep House Relax](https://open.spotify.com/playlist/37i9dQZF1DX2TRYkJECvfC)
 
-> Forget it and disappear with chill <a href="spotify:genre:edm\_dance">house</a>.
+> Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-376 songs - 1 day 9 hr 33 min
+377 songs - 1 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Keep Going](https://open.spotify.com/track/0JDSAbpZjlSMP2fpFjtiuN) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Keep Going](https://open.spotify.com/album/6QehqXj90f0dAm6IqMPtRo) | 3:44 | 2023-02-03 |  |
 | [Keep On](https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Keep On](https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO) | 3:38 | 2022-05-03 |  |
 | [Keep On Reachin \- Main Mix](https://open.spotify.com/track/56Dv87Nbnwx9TLMxUkYbLG) | [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni) | [Keep on Reachin](https://open.spotify.com/album/2ZaDoH0PAeavRtIvmPKwq3) | 5:24 | 2021-12-08 |  |
-| [Keramas](https://open.spotify.com/track/6QYthxincEvqQzGkfAOAiK) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy) | [Keramas / Harpanet](https://open.spotify.com/album/3d6TLlQimQZIXeQyhMFQq4) | 3:44 | 2021-12-08 | 2023-05-11 |
+| [Keramas](https://open.spotify.com/track/6QYthxincEvqQzGkfAOAiK) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy) | [Keramas / Harpanet](https://open.spotify.com/album/3d6TLlQimQZIXeQyhMFQq4) | 3:44 | 2021-12-08 |  |
 | [Kunzite](https://open.spotify.com/track/4zEbnQ59YXDeCC8Cc81pjc) | [Hosini](https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF) | [8 Hours, Still No Rain EP](https://open.spotify.com/album/0BOaheOSk6cpvXPm3spOx0) | 4:27 | 2021-12-08 |  |
 | [L'owè L'owè](https://open.spotify.com/track/2kvJDwV4Mfm2ItUUMmkzSx) | [DJ Qness](https://open.spotify.com/artist/6VT3tPkf65cNEp8vOdpWZ0), [Dele Sosimi](https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc) | [L'owe L'owe](https://open.spotify.com/album/6sIfcPlPmIZDFytI1m0qGG) | 7:29 | 2021-12-08 |  |
 | [La Maison \- Original](https://open.spotify.com/track/3d80ghHkDghJI78Ca6i0fN) | [Gab Rhome](https://open.spotify.com/artist/3VXMcHmS4xk3cacv4oXWKI) | [La Maison](https://open.spotify.com/album/5JDwNbFFhU2py7OUJhyKQu) | 6:30 | 2022-05-03 | 2022-08-22 |
@@ -321,11 +321,11 @@
 | [Surrender](https://open.spotify.com/track/1o5ZPbk5NxzAODTs698XTz) | [Angelos](https://open.spotify.com/artist/2zagWFWxFhQg3OvUmnnliq), [Jaidene Veda](https://open.spotify.com/artist/5RnHlRFELc91Qk6dV6mhNG) | [Surrender EP](https://open.spotify.com/album/4YMwLHF5geIbncO1hSCm6Y) | 6:34 | 2021-12-08 |  |
 | [Surrender \- Pablo Fierro Remix](https://open.spotify.com/track/3DioyryIiTFOavvhrQ00G6) | [Angelos](https://open.spotify.com/artist/2zagWFWxFhQg3OvUmnnliq), [Jaidene Veda](https://open.spotify.com/artist/5RnHlRFELc91Qk6dV6mhNG), [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Surrender EP](https://open.spotify.com/album/4YMwLHF5geIbncO1hSCm6Y) | 7:40 | 2021-12-08 | 2023-03-04 |
 | [Swim](https://open.spotify.com/track/7I1e5uMItJ9kiTWFyUayVs) | [Hugo Mari](https://open.spotify.com/artist/6BmSO09b1cngqE8X2SEygU) | [Swim](https://open.spotify.com/album/1DEJoLpHJgQrKW4g6OtNSp) | 4:12 | 2021-12-08 |  |
-| [Swing Theory \- Radio Edit](https://open.spotify.com/track/1hdg5jyymn9UVOoqi9FY9o) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH) | [Swing Theory EP](https://open.spotify.com/album/1ZRQKNxFP6nBWnNOA9ZJOd) | 3:54 | 2021-12-08 |  |
+| [Swing Theory \- Radio Edit](https://open.spotify.com/track/1hdg5jyymn9UVOoqi9FY9o) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH) | [Swing Theory EP](https://open.spotify.com/album/1ZRQKNxFP6nBWnNOA9ZJOd) | 3:54 | 2021-12-08 | 2023-05-13 |
 | [Takume](https://open.spotify.com/track/3zQwLgmWd0CDRIKZXq9WsW) | [INNX](https://open.spotify.com/artist/5nJed4T0G1U9dZlF5W9Otb) | [Takume](https://open.spotify.com/album/6WDPLQDBa4mjjJQi0rOY0X) | 6:35 | 2021-12-08 |  |
 | [Tali](https://open.spotify.com/track/7AiO8sAwdRa3Q4LdfVJ1TB) | [Pablo Bolivar](https://open.spotify.com/artist/13NhdveBzN2Yh2elbf1rLs), [Garcia Smith](https://open.spotify.com/artist/2bM1d2zqQTVageE42BJDia) | [Tali / Cunna](https://open.spotify.com/album/6kRUDhHxKjXtf1wRdcd7Ys) | 6:30 | 2021-12-08 |  |
 | [Tapisl](https://open.spotify.com/track/1iYxFVF6by0z3X3C9yyTYm) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [Tapisl](https://open.spotify.com/album/6ao0OoU3EorF3MTikO6NvU) | 6:41 | 2021-12-08 | 2022-07-29 |
-| [Tapisl](https://open.spotify.com/track/6joasewIA9IiFRfPJPKu0A) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [kkompilation vol.1](https://open.spotify.com/album/1YXXvBFYOm0MZSI86xpCYB) | 6:41 | 2022-05-03 |  |
+| [Tapisl](https://open.spotify.com/track/6joasewIA9IiFRfPJPKu0A) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [kkompilation vol.1](https://open.spotify.com/album/1YXXvBFYOm0MZSI86xpCYB) | 6:41 | 2022-05-03 | 2023-05-13 |
 | [Tears](https://open.spotify.com/track/1XtlpDLDLbuk9mFnUs614k) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Eastbound Silhouette](https://open.spotify.com/album/7CgB2RVayWXcMSd3cv0gOa) | 8:47 | 2022-10-28 |  |
 | [The Melody \- Henrik Schwarz Remix](https://open.spotify.com/track/5k1S9YYZUlxD8R57KFjh8p) | [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU), [Francesco Tristano](https://open.spotify.com/artist/19CMctG8DNWO0rHPE98ujj), [Les Siècles](https://open.spotify.com/artist/1ncGbUNumu1kLQDLfI5Hds), [François\-Xavier Roth](https://open.spotify.com/artist/01MlLLNqc0Dp9jS04Rm6gp), [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R) | [The Melody \(Henrik Schwarz Remix\)](https://open.spotify.com/album/3PwiGONOF33KuHMmCmyUxM) | 7:41 | 2021-12-08 |  |
 | [the mirror](https://open.spotify.com/track/00i5lwTpbdEq3Cp9m3oB88) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [the mirror](https://open.spotify.com/album/1TEjpHuMWHgpxmE1MPzCFX) | 8:54 | 2021-12-08 | 2022-11-21 |
@@ -370,6 +370,7 @@
 | [When the Lights Are Out \- Late Night Mix](https://open.spotify.com/track/6skTPlJtkpqN7mM95QfsUD) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | [When the Lights Are Out](https://open.spotify.com/album/28eezLT3nxoLghPoLKaduu) | 7:18 | 2021-12-08 |  |
 | [When The World Stops Turning \- Quiet Mix](https://open.spotify.com/track/1ek1kNO1a5EJCNIUvNs5XI) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [When The World Stops Turning \(Quiet Mix\)](https://open.spotify.com/album/4Oz04uOU1JkaZtYe7LBXmt) | 3:47 | 2021-12-08 |  |
 | [When You Focus On The Good The Good Gets Better](https://open.spotify.com/track/2yYTqo2wnc2PssYogT57MG) | [Devante Embers](https://open.spotify.com/artist/34Lopo5VNpkJUIiVXTB0ZT) | [When You Focus On The Good The Good Gets Better](https://open.spotify.com/album/4vRJV9s2ykMP6MoI29ndDm) | 7:08 | 2021-12-08 | 2023-05-06 |
+| [Where I Find My Mind](https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Where I Find My Mind](https://open.spotify.com/album/0sJ4br8FWqrOwoGcxTwJOM) | 3:32 | 2023-05-12 |  |
 | [White Sky](https://open.spotify.com/track/0MuOQWH4N9C9jK44bzRTBQ) | [LYANE](https://open.spotify.com/artist/0cQEcLmC43QHccKlphpAYK) | [White Sky](https://open.spotify.com/album/2JpFWVg9PCkJbDKZ41WJDQ) | 2:15 | 2021-12-08 | 2022-07-29 |
 | [Whole Lotta Groove](https://open.spotify.com/track/569WHNKLrlhueTZsAiegDm) | [Bauhouse](https://open.spotify.com/artist/3W0ymz5go3eaOIclFYWyzz) | [Whole Lotta Groove](https://open.spotify.com/album/7MkCIDc5iDwz5IPEvjdavy) | 6:32 | 2021-12-08 |  |
 | [Why So Blue? \- Radio Edit](https://open.spotify.com/track/3pMT96h7pwJMsRGsXwpyVU) | [Haider](https://open.spotify.com/artist/7L7XkH1dMZGeedtOdYOVLF) | [Why So Blue? \(Radio Edit\)](https://open.spotify.com/album/34Bdpya8LJbNANnDDmlfXq) | 2:58 | 2023-01-06 | 2023-04-05 |

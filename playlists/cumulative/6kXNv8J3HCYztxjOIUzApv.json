@@ -923,6 +923,24 @@
     },
     {
       "album": {
+        "name": "Dark Void",
+        "url": "https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232258,
+      "name": "Dark Void",
+      "url": "https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S"
+    },
+    {
+      "album": {
         "name": "The Retaliators (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
       },

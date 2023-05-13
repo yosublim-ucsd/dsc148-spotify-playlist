@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-218 songs - 13 hr 34 min
+219 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Untitled](https://open.spotify.com/track/2Ndz0uCpTqsDvJtARKTDpS) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1CI5OW60s9W41YLI80Jjdr) | 0:46 | 2022-12-18 |  |
 | [Wakin On A Pretty Day](https://open.spotify.com/track/4cCoZML1dPIQxNjOwDmJGf) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Wakin On A Pretty Daze](https://open.spotify.com/album/3BSEZLnzVW6QEX12wcKdFi) | 9:30 | 2023-01-11 |  |
 | [We Got It For Cheap \(Intro\)](https://open.spotify.com/track/3YKR7Wglf9JvWg5O7xdA5g) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Hell Hath No Fury](https://open.spotify.com/album/1HftQWyKWoGsrmG5lRkJDE) | 3:41 | 2022-04-29 |  |
+| [Welcome to \(Drifter\)](https://open.spotify.com/track/5ZjaSKUMpSaXVwwFJrGL4O) | [Mouseatouille](https://open.spotify.com/artist/1RCFAywt6h42PGjgTOBNfa) | [Out of the Hospital and Into the Morgue](https://open.spotify.com/album/5HiftUDco0SH7jJmTFCvGm) | 2:04 | 2023-05-13 |  |
 | [Welcome To My Island](https://open.spotify.com/track/4bp2wYweUPvsBrQfntdYcr) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 3:52 | 2023-02-15 |  |
 | [What They Call Us](https://open.spotify.com/track/71ydsZmj3wLbdMkA6FPZIy) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 4:27 | 2023-03-11 |  |
 | [where u at?](https://open.spotify.com/track/0UULVQXjgFPOttIW5qF7Ak) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [The Sun's Tirade](https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1) | 0:44 | 2022-02-17 |  |

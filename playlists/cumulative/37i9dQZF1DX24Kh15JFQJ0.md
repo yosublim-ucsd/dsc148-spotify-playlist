@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Tanya Tucker
 
-192 songs - 11 hr 13 min
+195 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Busted](https://open.spotify.com/track/2kuOsKK8W1fd6jWJh0u7O7) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [I Don't Know A Thing About Love: The Songs of Harlan Howard](https://open.spotify.com/album/4lO42iHAoge8T139BkRc8S) | 3:28 | 2023-03-03 |  |
 | [Can't Even Get The Blues \- Revived](https://open.spotify.com/track/2NikNS7ZoIKCe3nnpKarZB) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Can't Even Get The Blues \(Revived\)](https://open.spotify.com/album/53omWBMCdsczrNdP1FkQ4N) | 3:10 | 2021-10-15 |  |
 | [Carryin' Fire \- From The Vault](https://open.spotify.com/track/2oLa6cIjW7JPMtYx4KKLtz) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Storms of Life \(35th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7GN562ELq8Sfvy7RruWk7U) | 3:37 | 2021-10-15 |  |
+| [Catchin' Grasshoppers](https://open.spotify.com/track/37aQhY0D5FkBrG6sbNbiUX) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Catchin’ Grasshoppers / Love Is A Drug / I Wish It Would Rain](https://open.spotify.com/album/3DFmujeh2ifuIU5DJCujur) | 4:09 | 2023-05-12 |  |
 | [Catching Up With An Ol' Memory](https://open.spotify.com/track/6j9Lnhx9V0oRi18kEUWLdw) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Texas to Tennessee](https://open.spotify.com/album/1mP7Dz3kH8vUPkraFnW6a6) | 3:24 | 2021-10-15 |  |
 | [Country Pie](https://open.spotify.com/track/7saHu3eotJFSeo6TAFkvoD) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Dirt Does Dylan](https://open.spotify.com/album/4F0CjdewrCbNZ5k13SOs3T) | 2:49 | 2022-05-20 |  |
 | [Country Star](https://open.spotify.com/track/0ZesYm9KhuCthYX8No6eMs) | [Marty Stuart And His Fabulous Superlatives](https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO) | [Country Star](https://open.spotify.com/album/3y792nYJ1zF9mjLEGDfUDc) | 3:05 | 2022-11-18 |  |
@@ -138,6 +139,7 @@
 | [Racing The Dark](https://open.spotify.com/track/6LF3H7uTWWSuvfPEMPwlht) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Racing The Dark](https://open.spotify.com/album/7KD78g9ijzy7lwT8wCb1MT) | 3:56 | 2021-11-19 |  |
 | [Railroad](https://open.spotify.com/track/3iQeaIWw809ryg4NOL3ySM) | [Skip Ewing](https://open.spotify.com/artist/2g1pnfZUsZAxpz9QGaBSq3) | [Railroad](https://open.spotify.com/album/4Cs0lNlp7rzH5l763weHC1) | 4:02 | 2021-10-15 |  |
 | [Ready As I'll Never Be](https://open.spotify.com/track/3ClP57EQSyJyWLpYgGD131) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Ready As I'll Never Be](https://open.spotify.com/album/5H0SF6b6zNFQ5GF6ixsZV1) | 4:01 | 2022-10-21 |  |
+| [Real Life \(I Never Was The Same Again\)](https://open.spotify.com/track/5mZ01tQEFBstAGa423rJdz) | [Jeff Carson](https://open.spotify.com/artist/1THO5gJEaoKK9ey0aZbCQE), [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [448](https://open.spotify.com/album/72w05PERbBG9DsIxVe17Mi) | 4:22 | 2023-05-12 |  |
 | [Redhead](https://open.spotify.com/track/3zAnuUCPKbRBsOsllYCmFC) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Redhead](https://open.spotify.com/album/7hCl3yuH8JK5vRR0iSQpwF) | 2:43 | 2021-10-15 |  |
 | [Road to Abilene](https://open.spotify.com/track/45ydzAYHp2rMDSJ74MLavY) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [100 Proof Neon](https://open.spotify.com/album/02B2WEMDla9LbPR9Jg1BZG) | 4:00 | 2022-07-29 |  |
 | [Sad Songs and Waltzes \(with Willie Nelson\)](https://open.spotify.com/track/7F4WQ6WwJLVEDpjR9MG3bw) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Sad Songs and Waltzes \(with Willie Nelson\)](https://open.spotify.com/album/4sKrlN6o8XBEpRybKt7A28) | 3:31 | 2021-10-15 |  |
@@ -198,6 +200,7 @@
 | [Woman Up \(And Take It Like A Man\)](https://open.spotify.com/track/4ed8tSfo4yU778D2mzIptV) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Run, Rose, Run](https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG) | 2:27 | 2022-03-04 |  |
 | [Wonderful Future](https://open.spotify.com/track/0FVX4SksBjtW12WwXmaTvA) | [Gene Watson](https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Outside the Box](https://open.spotify.com/album/7n8oIGDVjdkgiRql7hPwbT) | 2:54 | 2022-09-16 |  |
 | [Workin' My Way Down](https://open.spotify.com/track/6RauCs5nVH1UR2stIQNjXu) | [Earl Thomas Conley](https://open.spotify.com/artist/69baNgo5tsg1RjBgotRbEj) | [Promised Land: The Lost Album](https://open.spotify.com/album/6Jiv6V6D16E3SkkIcqCY77) | 3:24 | 2021-10-15 |  |
+| [World On Fire](https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [World On Fire](https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7) | 4:21 | 2023-05-12 |  |
 | [You Look Good](https://open.spotify.com/track/1iAPybXZz3fOL9okLCbtJO) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Texas to Tennessee](https://open.spotify.com/album/1mP7Dz3kH8vUPkraFnW6a6) | 2:55 | 2022-07-22 | 2022-09-21 |
 | [You Look Good](https://open.spotify.com/track/5LjNZZORcIjCuvHgZUMlMs) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [You Look Good](https://open.spotify.com/album/2YprzSRabRlUGbRM0j80pm) | 2:55 | 2021-10-15 | 2022-07-29 |
 

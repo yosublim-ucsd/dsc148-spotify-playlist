@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: Tangerim ",
+  "description": "Novidades e destaques do indie nacional. Foto: Marcelo Tofani ",
   "name": "Indie Brasil",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 165013,
       "name": "2 A.M.",
       "url": "https://open.spotify.com/track/34lKWobdEGO69CULhtiREz"
@@ -1836,7 +1836,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 193950,
       "name": "Desejos de um Le\u00e3o",
       "url": "https://open.spotify.com/track/2iMyTW8yaGvIEl5ntwv76U"
@@ -3076,6 +3076,24 @@
       "duration_ms": 250786,
       "name": "Infame",
       "url": "https://open.spotify.com/track/1yJoSwOtQPXcGf3Vzm5DSe"
+    },
+    {
+      "album": {
+        "name": "Infinita",
+        "url": "https://open.spotify.com/album/2Sni0Wz8fACtUr8Q96FgI2"
+      },
+      "artists": [
+        {
+          "name": "Cidrais",
+          "url": "https://open.spotify.com/artist/5QYAoZeTdLdRkiECvhZ5VE"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238085,
+      "name": "Infinita",
+      "url": "https://open.spotify.com/track/4yv4dVvcP0ldZxjck7sQAF"
     },
     {
       "album": {
@@ -4390,6 +4408,24 @@
       "duration_ms": 205256,
       "name": "N\u00e3o Fosse T\u00e3o Tarde",
       "url": "https://open.spotify.com/track/1KHWBJTX7apuuYsEmqZLa8"
+    },
+    {
+      "album": {
+        "name": "fantasia de um amor perfeito",
+        "url": "https://open.spotify.com/album/2szRuIFgI3PccmXm2jmDCt"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Tofani",
+          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170788,
+      "name": "n\u00e3o mudo por ningu\u00e9m",
+      "url": "https://open.spotify.com/track/1fXTWjQEdNx0z8Yx383fDw"
     },
     {
       "album": {

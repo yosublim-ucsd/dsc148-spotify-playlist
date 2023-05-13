@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Emanuelino in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,806 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,827 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [CHIAMA](https://open.spotify.com/track/0aY1osZnr4zro1o5gzetdA) | [Xhovana](https://open.spotify.com/artist/1qvJn4A1Y6gej2kJU0DWxX), [VXXO](https://open.spotify.com/artist/3YtQrwxvFkTMpH0F6e4r9H) | [CHIAMA](https://open.spotify.com/album/3u0DNXDUCxRzyuuKFGpFuP) | 2:53 |
 | 50 | [BAM BAM](https://open.spotify.com/track/4DOzvKPMrXAvTa3v9hj3A6) | [Reed](https://open.spotify.com/artist/4eFBfxE5UExIHvWamPhByA) | [BAM BAM](https://open.spotify.com/album/51DNiFLw2t85tRkvkcVr4G) | 2:40 |
 
-Snapshot ID: `MCwxMjE2ZGFmMzM0OGFkNjEwZDY0MjY1M2E0NDE0NTA5ZWUyOWJiMTc2`
+Snapshot ID: `MCw5NDdmZWYwNGVjNGIwM2VjNTU3MTZlODkyNGRlNTNkZWU3MGU2MWI3`

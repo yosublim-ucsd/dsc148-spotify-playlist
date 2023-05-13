@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 80638,
+  "num_followers": 80769,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjVkMGMzMTk0Zjc2NmZjNTY2MWRkNjQ0MTJmM2UxYjcxYjQ0OTVl",
+  "snapshot_id": "MCxlNTYxNjJkOTFiYTMyZjM1YWU1M2E3ODRhMjExYTY0MGMxY2JmY2Jj",
   "tracks": [
     {
       "added_at": "2023-04-14 00:01:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Me and Mr. Johnson",
-        "url": "https://open.spotify.com/album/3DgSNj2EanKS98ViJovfrh"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 246493,
-      "name": "Kind Hearted Woman Blues",
-      "url": "https://open.spotify.com/track/3bDhok0xhx7ihIGWdt9Ft0"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
         "name": "Woman Across The River",
         "url": "https://open.spotify.com/album/3iaVJullB48EV1OM2oMXJs"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 270600,
       "name": "Help Me Through The Day",
       "url": "https://open.spotify.com/track/70b5CmxmkftPHqnnzy7H9G"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
+        "name": "Me and Mr. Johnson",
+        "url": "https://open.spotify.com/album/3DgSNj2EanKS98ViJovfrh"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 246493,
+      "name": "Kind Hearted Woman Blues",
+      "url": "https://open.spotify.com/track/3bDhok0xhx7ihIGWdt9Ft0"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "For Blind Willie",
-        "url": "https://open.spotify.com/album/2dKPexwvzRiovmrTAlqSGB"
-      },
-      "artists": [
-        {
-          "name": "Bror Gunnar Jansson",
-          "url": "https://open.spotify.com/artist/5orM2dN0u2EPAgSttOKI3Q"
-        }
-      ],
-      "duration_ms": 361970,
-      "name": "Lord I Just Can't Keep from Crying",
-      "url": "https://open.spotify.com/track/77b4dmfwHQJ8qSgQ8MzYMx"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
         "name": "Big Fun",
         "url": "https://open.spotify.com/album/2Tkar3J9w5aUbxfE4ItKmV"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 214600,
       "name": "She Puts Me In The Mood",
       "url": "https://open.spotify.com/track/0t0CvqbxqwtETTajrzqKoW"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
+        "name": "For Blind Willie",
+        "url": "https://open.spotify.com/album/2dKPexwvzRiovmrTAlqSGB"
+      },
+      "artists": [
+        {
+          "name": "Bror Gunnar Jansson",
+          "url": "https://open.spotify.com/artist/5orM2dN0u2EPAgSttOKI3Q"
+        }
+      ],
+      "duration_ms": 361970,
+      "name": "Lord I Just Can't Keep from Crying",
+      "url": "https://open.spotify.com/track/77b4dmfwHQJ8qSgQ8MzYMx"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
+        "name": "Night Shift",
+        "url": "https://open.spotify.com/album/0Z6lLiESF2XyG5EBJbI3OE"
+      },
+      "artists": [
+        {
+          "name": "Kai Strauss",
+          "url": "https://open.spotify.com/artist/4rxJh3ATE3suDdQXBziz2E"
+        }
+      ],
+      "duration_ms": 451560,
+      "name": "Night Shift Blues",
+      "url": "https://open.spotify.com/track/037n7AwN2sVP4EFtpY6eMo"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
         "name": "Sings Bessie Smith",
         "url": "https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 330733,
       "name": "Sweet Little Angel",
       "url": "https://open.spotify.com/track/14DtWZA10VU7PZLxM5vO6g"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
-        "name": "Night Shift",
-        "url": "https://open.spotify.com/album/0Z6lLiESF2XyG5EBJbI3OE"
-      },
-      "artists": [
-        {
-          "name": "Kai Strauss",
-          "url": "https://open.spotify.com/artist/4rxJh3ATE3suDdQXBziz2E"
-        }
-      ],
-      "duration_ms": 451560,
-      "name": "Night Shift Blues",
-      "url": "https://open.spotify.com/track/037n7AwN2sVP4EFtpY6eMo"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Ike & Tina Turner - The Complete Collection",
-        "url": "https://open.spotify.com/album/0Y8QtwYhF7RhMNRyHx3CL2"
-      },
-      "artists": [
-        {
-          "name": "Ike & Tina Turner",
-          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
-        }
-      ],
-      "duration_ms": 142720,
-      "name": "Suffering The Blues",
-      "url": "https://open.spotify.com/track/0PEIlMSRprXJM0jKhGHOtZ"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
         "name": "Bad Mouthin'",
         "url": "https://open.spotify.com/album/3ZChLxUW5NBs5h4c49OMUF"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 223800,
       "name": "Heartbreak Hotel",
       "url": "https://open.spotify.com/track/04pD7a7jfQjpQDsP3VgYDy"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
+        "name": "Ike & Tina Turner - The Complete Collection",
+        "url": "https://open.spotify.com/album/0Y8QtwYhF7RhMNRyHx3CL2"
+      },
+      "artists": [
+        {
+          "name": "Ike & Tina Turner",
+          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
+        }
+      ],
+      "duration_ms": 142720,
+      "name": "Suffering The Blues",
+      "url": "https://open.spotify.com/track/0PEIlMSRprXJM0jKhGHOtZ"
     },
     {
       "added_at": "2023-04-14 00:01:00",

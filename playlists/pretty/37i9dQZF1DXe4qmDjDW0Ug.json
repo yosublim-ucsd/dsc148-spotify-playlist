@@ -1,12 +1,12 @@
 {
   "description": "\uad6d\ub0b4\ub97c \uac15\ud0c0 \ud588\ub358 R&B\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 9446,
+  "num_followers": 9461,
   "original_name": "\uad6d\ub0b4 R&B \uba54\uac00 \ud788\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZWQwOGFhNDQ3MTc4NDdlYWRiZWU0NjljYTY2ZjIxM2IxOWRhYTk4",
+  "snapshot_id": "MCxhN2UwNDEzN2MwNzAyNDhkYWQ5NGMxZGRmNjRlNWM0NjMzMjEyZDIz",
   "tracks": [
     {
       "added_at": "2021-03-11 16:36:50",
@@ -835,18 +835,22 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "2nd",
-        "url": "https://open.spotify.com/album/4PF4HZrptQ6d6b2ov5RqbW"
+        "name": "For the moment",
+        "url": "https://open.spotify.com/album/5zSnSuP8gPOeZdrEchEv7q"
       },
       "artists": [
         {
-          "name": "J.ae",
-          "url": "https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY"
+          "name": "Realslow",
+          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
+        },
+        {
+          "name": "MASTA WU",
+          "url": "https://open.spotify.com/artist/7ndYLcobuKuq9ZcoIAVvU6"
         }
       ],
-      "duration_ms": 249106,
-      "name": "Like Yesterday",
-      "url": "https://open.spotify.com/track/45k9BzXTsL9ieK6sdcfwJp"
+      "duration_ms": 222400,
+      "name": "\ubd88\uce58\ubcd1 (Feat.Masta Wu)",
+      "url": "https://open.spotify.com/track/6HTz1xXLag7pyVlzsXrItU"
     }
   ],
   "unique_name": "\uad6d\ub0b4 R&B \uba54\uac00 \ud788\ud2b8",

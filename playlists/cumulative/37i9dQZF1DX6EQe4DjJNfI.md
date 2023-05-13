@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Yas Werneck
 
-117 songs - 6 hr 2 min
+118 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Azul \- Ao Vivo](https://open.spotify.com/track/2JmhvM1syXJaFfvgZJk2Nw) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Melly No Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/5oOI1V71lvqBKzfQAyvkKK) | 3:03 | 2022-12-23 | 2023-02-25 |
 | [Bahamas](https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z) | [Jota SF](https://open.spotify.com/artist/4ztJeuWS0uCCvhSHcO76ib) | [Éramos](https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i) | 3:38 | 2022-11-18 |  |
 | [Bem Calma](https://open.spotify.com/track/6c3b87lxij2i7A4uFpcd1t) | [Shamilla](https://open.spotify.com/artist/5jZSvXknZbgk0gdObdTnh2), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [Bem Calma](https://open.spotify.com/album/3yWAlfv8Jyw8ddRiLqWECS) | 3:00 | 2022-11-18 | 2023-01-14 |
-| [Bem Longe](https://open.spotify.com/track/2vshespmRvtcximTIzQvB2) | [Thiene](https://open.spotify.com/artist/2Jh7MhQqgXwm1wagSuBoZS) | [Bem Longe](https://open.spotify.com/album/3B9sABomz6c9CwXBFXhW6a) | 3:09 | 2023-01-20 |  |
+| [Bem Longe](https://open.spotify.com/track/2vshespmRvtcximTIzQvB2) | [Thiene](https://open.spotify.com/artist/2Jh7MhQqgXwm1wagSuBoZS) | [Bem Longe](https://open.spotify.com/album/3B9sABomz6c9CwXBFXhW6a) | 3:09 | 2023-01-20 | 2023-05-13 |
 | [Brigas Demais](https://open.spotify.com/track/210u8GSVwq7anEWu0e6wzL) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 4:08 | 2023-03-24 |  |
 | [Caos](https://open.spotify.com/track/4VhNzb4En46y2hHNYDl92c) | [Annick](https://open.spotify.com/artist/7MBC4MpNfqH87jfzeZn3tE), [Lezin](https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Caos](https://open.spotify.com/album/5rTyg8j1ZT8hJFcWbO63sD) | 3:00 | 2023-04-07 |  |
 | [Casual](https://open.spotify.com/track/6FFsKesuw6oJKJ0WACbpPn) | [N9NE](https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv) | [Casual](https://open.spotify.com/album/6ACqA0GV9YblnMQPIS93Zu) | 3:30 | 2022-11-18 |  |
@@ -99,6 +99,7 @@
 | [Respostas](https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW) | [Rudney Martins](https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL) | [Respostas](https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5) | 3:14 | 2022-11-18 |  |
 | [Roupa de Ontem](https://open.spotify.com/track/5DNmIznDtyTJrkmAXdeFnl) | [Krupinsk](https://open.spotify.com/artist/5gLgoNI5QB6Osvi7aQwe5S) | [Roupa de Ontem](https://open.spotify.com/album/7eIK3jKOyfdsnj1PaalMVa) | 4:38 | 2022-11-18 |  |
 | [Sei Lá](https://open.spotify.com/track/2vNRlI7vSMa3D4rJ11aAVx) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Sei Lá](https://open.spotify.com/album/2FBQJcKKxkdnNQsP4qI1CZ) | 2:24 | 2023-04-21 |  |
+| [SEM BARULHO](https://open.spotify.com/track/3YYKdDw8ah4kVF5zRxDO0M) | [Guhhl](https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Stuani](https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw) | [SEM BARULHO](https://open.spotify.com/album/3Db57HHFgo2338LhJoP7dh) | 2:42 | 2023-05-12 |  |
 | [Sem Você \(Acústico no Studio F\)](https://open.spotify.com/track/3ShZp3yVmjUFEcNml4MSEt) | [Mariah Nala](https://open.spotify.com/artist/3R6G1zji15XrM717bIMqEC) | [Mariah Nala no Studio F \(Acústico\)](https://open.spotify.com/album/4nWfjD2QTrxHt8HOesIj67) | 2:28 | 2022-12-23 |  |
 | [Sensual](https://open.spotify.com/track/67n8fu0kS4alk55PRvqq70) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [Rare G](https://open.spotify.com/artist/2D0VerErpBua0yB6lozwRH), [Lotta](https://open.spotify.com/artist/4fpd51wyl42OhrUPK7R5aJ) | [Sensual](https://open.spotify.com/album/3P0v9NCQ7sp9mGjc44q42O) | 2:51 | 2023-04-07 |  |
 | [Seu Bem](https://open.spotify.com/track/4WIHw5omFiZSVUl52GsVUG) | [LEXY](https://open.spotify.com/artist/1jsbcRHlNmr4AATn3bVhOd), [Batista](https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp), [RZ](https://open.spotify.com/artist/5OWjhQcHTvSP9fCGeiDSaf) | [Seu Bem](https://open.spotify.com/album/50ZHYvn0wbeJoKHt65kU5l) | 3:27 | 2022-11-18 |  |

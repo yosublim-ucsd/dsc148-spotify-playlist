@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Zeina & Saint Levant
 
-267 songs - 15 hr 4 min
+268 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Dw About Me](https://open.spotify.com/track/0YegRkJ8GuJHMsyY0KOpKw) | [YAS](https://open.spotify.com/artist/62yJAMA6CSwcNTcdsnK9P6) | [Dw About Me](https://open.spotify.com/album/5dg7kVLoiLciidyIkrT2yD) | 2:57 | 2021-12-16 | 2022-11-20 |
 | [Effects Of Thoughts](https://open.spotify.com/track/78ACXVGjnl6C0R8IbMhePg) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [Effects Of Thoughts](https://open.spotify.com/album/0ZuwDdFNfDG6bCRmGyLpPa) | 2:51 | 2021-12-16 | 2022-03-30 |
 | [Egyptian Lover](https://open.spotify.com/track/6cXwmgaPgKyLDL0xWiVNyX) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Egyptian Lover](https://open.spotify.com/album/40CEKSB4zJErS8ZFdpuss2) | 1:58 | 2023-04-21 |  |
+| [Egyptian Wifey](https://open.spotify.com/track/2XBEQM6MEQW0JCEhrsFQp1) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [Egyptian Wifey](https://open.spotify.com/album/3OCMyZIbBTWyCYqk7lcI1o) | 2:51 | 2023-05-12 |  |
 | [EL DAYNASOUR](https://open.spotify.com/track/2mmIcXD5vTJwngdlnp4g0q) | [Islam Chipsy](https://open.spotify.com/artist/1EKPc0xUrJKAQrYtEwuzvT), [EEK](https://open.spotify.com/artist/6VHaYN8XFVjXRhQYkHmFgF) | [EL DAYNASOUR](https://open.spotify.com/album/5vscrHtVOzo7UV9yc9UypS) | 4:00 | 2022-06-06 | 2022-06-24 |
 | [El Radio \(feat\. Amal Maghrabi\)](https://open.spotify.com/track/21A4JaxvfhCINfSV7opcUv) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO), [Amal Maghrabi](https://open.spotify.com/artist/5QzA0opnA9ZIGWF5ZFFnNI) | [El Radio \(feat\. Amal Maghrabi\)](https://open.spotify.com/album/23h8qFcArj3keLTY0jmyJl) | 3:28 | 2021-12-16 | 2022-07-29 |
 | [El Radio \(feat\. Amal Maghrabi\)](https://open.spotify.com/track/2OvkCZfT67niZHpnZ28215) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO), [Amal Maghrabi](https://open.spotify.com/artist/5QzA0opnA9ZIGWF5ZFFnNI) | [El Radio \(feat\. Amal Maghrabi\)](https://open.spotify.com/album/7rUWs9A2Owofq7T1IfVnkQ) | 3:28 | 2022-07-28 | 2023-01-26 |

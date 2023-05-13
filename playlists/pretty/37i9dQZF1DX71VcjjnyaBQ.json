@@ -1,12 +1,12 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 376639,
+  "num_followers": 376704,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjQyMzkwOTRkN2VkNmJmNDk0ODBkMDFlOGI4Nzk2NDQxNTk0NDAz",
+  "snapshot_id": "MCwzNzk2OGQ1Y2Y0ODRkOGY1Yjk5N2ZjMjFmOWJiOGMyMzY2YzgwMTg2",
   "tracks": [
     {
       "added_at": "2023-05-09 11:23:17",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-05-09 11:23:17",
       "album": {
-        "name": "Future Stride",
-        "url": "https://open.spotify.com/album/6nGurFCYFgfbZvyA7MB3sk"
+        "name": "En attendant",
+        "url": "https://open.spotify.com/album/5StrH1ERbMpncR1LR5xWfv"
       },
       "artists": [
         {
-          "name": "Emmet Cohen",
-          "url": "https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT"
+          "name": "Marcin Wasilewski Trio",
+          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
         }
       ],
-      "duration_ms": 324696,
-      "name": "Dardanella",
-      "url": "https://open.spotify.com/track/0QTq57fazdnHads8lz3G9G"
+      "duration_ms": 333213,
+      "name": "Riders On The Storm",
+      "url": "https://open.spotify.com/track/6YDi1zFfIPb5DxYPLKPF3s"
     },
     {
       "added_at": "2023-05-09 11:23:17",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-05-09 11:23:17",
       "album": {
-        "name": "En attendant",
-        "url": "https://open.spotify.com/album/5StrH1ERbMpncR1LR5xWfv"
+        "name": "Future Stride",
+        "url": "https://open.spotify.com/album/6nGurFCYFgfbZvyA7MB3sk"
       },
       "artists": [
         {
-          "name": "Marcin Wasilewski Trio",
-          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
+          "name": "Emmet Cohen",
+          "url": "https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT"
         }
       ],
-      "duration_ms": 333213,
-      "name": "Riders On The Storm",
-      "url": "https://open.spotify.com/track/6YDi1zFfIPb5DxYPLKPF3s"
+      "duration_ms": 324696,
+      "name": "Dardanella",
+      "url": "https://open.spotify.com/track/0QTq57fazdnHads8lz3G9G"
     },
     {
       "added_at": "2023-05-09 11:23:17",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-05-09 11:23:17",
       "album": {
+        "name": "Alfie",
+        "url": "https://open.spotify.com/album/2SdXGtsLhoUQA9QEq8DQ0o"
+      },
+      "artists": [
+        {
+          "name": "Richard Baratta",
+          "url": "https://open.spotify.com/artist/1LxHsIFW4ovnm2kDljMQ6X"
+        }
+      ],
+      "duration_ms": 397173,
+      "name": "Alfie",
+      "url": "https://open.spotify.com/track/1HaqueKZTTNz41osWY2Cey"
+    },
+    {
+      "added_at": "2023-05-09 11:23:17",
+      "album": {
         "name": "Compromises",
         "url": "https://open.spotify.com/album/7MkYND1u4Y9ytafBECXxPM"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 185613,
       "name": "Compromises",
       "url": "https://open.spotify.com/track/6teUPQnEbgYScxhKjVNcOc"
-    },
-    {
-      "added_at": "2023-05-09 11:23:17",
-      "album": {
-        "name": "Alfie",
-        "url": "https://open.spotify.com/album/2SdXGtsLhoUQA9QEq8DQ0o"
-      },
-      "artists": [
-        {
-          "name": "Richard Baratta",
-          "url": "https://open.spotify.com/artist/1LxHsIFW4ovnm2kDljMQ6X"
-        }
-      ],
-      "duration_ms": 397173,
-      "name": "Alfie",
-      "url": "https://open.spotify.com/track/1HaqueKZTTNz41osWY2Cey"
     },
     {
       "added_at": "2023-05-09 11:23:17",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-05-09 11:23:17",
       "album": {
-        "name": "For my lady",
-        "url": "https://open.spotify.com/album/2NLCnD0lGH6bz8lUsS1PWy"
-      },
-      "artists": [
-        {
-          "name": "Filip Jers",
-          "url": "https://open.spotify.com/artist/6W86U8ofm64IaGxSTBvMtl"
-        }
-      ],
-      "duration_ms": 203986,
-      "name": "For my lady",
-      "url": "https://open.spotify.com/track/7tkyGvCJZbGcF35y71WRtG"
-    },
-    {
-      "added_at": "2023-05-09 11:23:17",
-      "album": {
         "name": "Flotten",
         "url": "https://open.spotify.com/album/3OxWm6cNSa63awGmVV9WwU"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 317146,
       "name": "I Can't Believe That You're In Love With Me",
       "url": "https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb"
+    },
+    {
+      "added_at": "2023-05-09 11:23:17",
+      "album": {
+        "name": "For my lady",
+        "url": "https://open.spotify.com/album/2NLCnD0lGH6bz8lUsS1PWy"
+      },
+      "artists": [
+        {
+          "name": "Filip Jers",
+          "url": "https://open.spotify.com/artist/6W86U8ofm64IaGxSTBvMtl"
+        }
+      ],
+      "duration_ms": 203986,
+      "name": "For my lady",
+      "url": "https://open.spotify.com/track/7tkyGvCJZbGcF35y71WRtG"
     },
     {
       "added_at": "2023-05-09 11:23:17",
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-05-09 11:23:17",
       "album": {
-        "name": "P\u00e5 nye eventyr",
-        "url": "https://open.spotify.com/album/532pfB7ZluWCvQzrO4o4t6"
+        "name": "Sun Khosi",
+        "url": "https://open.spotify.com/album/1MZqnwoL3zZjYWSSgGJ3Cb"
       },
       "artists": [
         {
-          "name": "Maridalen",
-          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
+          "name": "Ruby Rushton",
+          "url": "https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF"
         }
       ],
-      "duration_ms": 322253,
-      "name": "P\u00e5 nye eventyr",
-      "url": "https://open.spotify.com/track/3PVMg33zbePrQvoUgXpnBq"
+      "duration_ms": 236886,
+      "name": "Sun Khosi",
+      "url": "https://open.spotify.com/track/0TFR4fugISTa7kMxqY6JJj"
     },
     {
       "added_at": "2023-05-09 11:23:17",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-05-09 11:23:17",
       "album": {
-        "name": "Sun Khosi",
-        "url": "https://open.spotify.com/album/1MZqnwoL3zZjYWSSgGJ3Cb"
+        "name": "P\u00e5 nye eventyr",
+        "url": "https://open.spotify.com/album/532pfB7ZluWCvQzrO4o4t6"
       },
       "artists": [
         {
-          "name": "Ruby Rushton",
-          "url": "https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF"
+          "name": "Maridalen",
+          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
         }
       ],
-      "duration_ms": 236886,
-      "name": "Sun Khosi",
-      "url": "https://open.spotify.com/track/0TFR4fugISTa7kMxqY6JJj"
+      "duration_ms": 322253,
+      "name": "P\u00e5 nye eventyr",
+      "url": "https://open.spotify.com/track/3PVMg33zbePrQvoUgXpnBq"
     },
     {
       "added_at": "2023-05-09 11:23:17",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-05-09 11:23:17",
       "album": {
-        "name": "The Rumor",
-        "url": "https://open.spotify.com/album/5ggTgwB1dzyPFuzgUOz09G"
-      },
-      "artists": [
-        {
-          "name": "Ron Miles",
-          "url": "https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP"
-        }
-      ],
-      "duration_ms": 270613,
-      "name": "The Rumor",
-      "url": "https://open.spotify.com/track/4UypFLbSI1Mqq52RvOSq5u"
-    },
-    {
-      "added_at": "2023-05-09 11:23:17",
-      "album": {
         "name": "Don't Ever Leave Me",
         "url": "https://open.spotify.com/album/71ic2jDgavFaDCR9dbDcEb"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 437853,
       "name": "Arise",
       "url": "https://open.spotify.com/track/0jCZ4paISCHdIwQxUaLa3L"
+    },
+    {
+      "added_at": "2023-05-09 11:23:17",
+      "album": {
+        "name": "The Rumor",
+        "url": "https://open.spotify.com/album/5ggTgwB1dzyPFuzgUOz09G"
+      },
+      "artists": [
+        {
+          "name": "Ron Miles",
+          "url": "https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP"
+        }
+      ],
+      "duration_ms": 270613,
+      "name": "The Rumor",
+      "url": "https://open.spotify.com/track/4UypFLbSI1Mqq52RvOSq5u"
     },
     {
       "added_at": "2023-05-09 11:23:17",
@@ -1295,6 +1295,26 @@
     {
       "added_at": "2023-05-09 11:23:17",
       "album": {
+        "name": "Migrating Songs",
+        "url": "https://open.spotify.com/album/2lyItKoOOi0zMy7PNviiqF"
+      },
+      "artists": [
+        {
+          "name": "Niclas Knudsen Trio",
+          "url": "https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn"
+        },
+        {
+          "name": "Niclas Knudsen",
+          "url": "https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5"
+        }
+      ],
+      "duration_ms": 322434,
+      "name": "Little Bird of Passage",
+      "url": "https://open.spotify.com/track/5rIX9VD7y3GQW84rAzKyNI"
+    },
+    {
+      "added_at": "2023-05-09 11:23:17",
+      "album": {
         "name": "Mosa\u00efque",
         "url": "https://open.spotify.com/album/0O9jMs6Dvt9L17P6KMChd5"
       },
@@ -1315,22 +1335,34 @@
     {
       "added_at": "2023-05-09 11:23:17",
       "album": {
-        "name": "Migrating Songs",
-        "url": "https://open.spotify.com/album/2lyItKoOOi0zMy7PNviiqF"
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b"
       },
       "artists": [
         {
-          "name": "Niclas Knudsen Trio",
-          "url": "https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn"
-        },
-        {
-          "name": "Niclas Knudsen",
-          "url": "https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5"
+          "name": "Cyrus Chestnut",
+          "url": "https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO"
         }
       ],
-      "duration_ms": 322434,
-      "name": "Little Bird of Passage",
-      "url": "https://open.spotify.com/track/5rIX9VD7y3GQW84rAzKyNI"
+      "duration_ms": 244191,
+      "name": "Son binocle",
+      "url": "https://open.spotify.com/track/5B3DbHWAony8uv56c8EdQZ"
+    },
+    {
+      "added_at": "2023-05-09 11:23:17",
+      "album": {
+        "name": "In the Wee Small Hours of the Morning",
+        "url": "https://open.spotify.com/album/5Bige15opD3V4HHy1jsymc"
+      },
+      "artists": [
+        {
+          "name": "David Finck",
+          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
+        }
+      ],
+      "duration_ms": 270027,
+      "name": "In the Wee Small Hours of the Morning",
+      "url": "https://open.spotify.com/track/0lMIb2WobAlzmr8t1yZeUd"
     },
     {
       "added_at": "2023-05-09 11:23:17",
@@ -1359,38 +1391,6 @@
       "duration_ms": 454548,
       "name": "In The End",
       "url": "https://open.spotify.com/track/4wZbWbTqS657emJy9xuJ2Q"
-    },
-    {
-      "added_at": "2023-05-09 11:23:17",
-      "album": {
-        "name": "In the Wee Small Hours of the Morning",
-        "url": "https://open.spotify.com/album/5Bige15opD3V4HHy1jsymc"
-      },
-      "artists": [
-        {
-          "name": "David Finck",
-          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
-        }
-      ],
-      "duration_ms": 270027,
-      "name": "In the Wee Small Hours of the Morning",
-      "url": "https://open.spotify.com/track/0lMIb2WobAlzmr8t1yZeUd"
-    },
-    {
-      "added_at": "2023-05-09 11:23:17",
-      "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b"
-      },
-      "artists": [
-        {
-          "name": "Cyrus Chestnut",
-          "url": "https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO"
-        }
-      ],
-      "duration_ms": 244191,
-      "name": "Son binocle",
-      "url": "https://open.spotify.com/track/5B3DbHWAony8uv56c8EdQZ"
     },
     {
       "added_at": "2023-05-09 11:23:17",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2023-05-09 11:23:17",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/7boA4KYSLA5ZQ7QX3l2GxF"
+        "name": "The Shakedown",
+        "url": "https://open.spotify.com/album/0nwD7e4CgjZZEQwq7ktI7q"
       },
       "artists": [
         {
-          "name": "Lucas Figueiredo Santana",
-          "url": "https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N"
+          "name": "Tenderlonious",
+          "url": "https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo"
         }
       ],
-      "duration_ms": 414760,
-      "name": "As if We Were Just Friends",
-      "url": "https://open.spotify.com/track/64WTR1Hs1TgzrkewozCTc1"
+      "duration_ms": 414649,
+      "name": "Expansions",
+      "url": "https://open.spotify.com/track/4bBAfTRTE1bkQUSL3gtmjb"
     },
     {
       "added_at": "2023-05-09 11:23:17",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2023-05-09 11:23:17",
       "album": {
-        "name": "The Shakedown",
-        "url": "https://open.spotify.com/album/0nwD7e4CgjZZEQwq7ktI7q"
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/7boA4KYSLA5ZQ7QX3l2GxF"
       },
       "artists": [
         {
-          "name": "Tenderlonious",
-          "url": "https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo"
+          "name": "Lucas Figueiredo Santana",
+          "url": "https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N"
         }
       ],
-      "duration_ms": 414649,
-      "name": "Expansions",
-      "url": "https://open.spotify.com/track/4bBAfTRTE1bkQUSL3gtmjb"
+      "duration_ms": 414760,
+      "name": "As if We Were Just Friends",
+      "url": "https://open.spotify.com/track/64WTR1Hs1TgzrkewozCTc1"
     },
     {
       "added_at": "2023-05-09 11:23:17",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2023-05-09 11:23:17",
       "album": {
-        "name": "Queen Of The South",
-        "url": "https://open.spotify.com/album/14eu3scYNCK8QwPNqwYelY"
-      },
-      "artists": [
-        {
-          "name": "Ron Miles",
-          "url": "https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP"
-        }
-      ],
-      "duration_ms": 260266,
-      "name": "Queen Of The South",
-      "url": "https://open.spotify.com/track/5zzuc4E1t63gH4NRITIUWa"
-    },
-    {
-      "added_at": "2023-05-09 11:23:17",
-      "album": {
         "name": "Emotions",
         "url": "https://open.spotify.com/album/2dKEg2AOgzHVpL3GMbShxb"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 301783,
       "name": "June 2nd",
       "url": "https://open.spotify.com/track/6ljElurA01VdrVynPgZn4k"
+    },
+    {
+      "added_at": "2023-05-09 11:23:17",
+      "album": {
+        "name": "Queen Of The South",
+        "url": "https://open.spotify.com/album/14eu3scYNCK8QwPNqwYelY"
+      },
+      "artists": [
+        {
+          "name": "Ron Miles",
+          "url": "https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP"
+        }
+      ],
+      "duration_ms": 260266,
+      "name": "Queen Of The South",
+      "url": "https://open.spotify.com/track/5zzuc4E1t63gH4NRITIUWa"
     },
     {
       "added_at": "2023-05-09 11:23:17",

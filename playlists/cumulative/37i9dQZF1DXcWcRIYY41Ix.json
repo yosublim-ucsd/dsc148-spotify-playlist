@@ -252,7 +252,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 206032,
       "name": "Ahots Hari",
       "url": "https://open.spotify.com/track/3mAJCzd7AfdIedlgA2MDvB"
@@ -336,6 +336,28 @@
       "duration_ms": 336330,
       "name": "Al o\u00edrla cantar",
       "url": "https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t"
+    },
+    {
+      "album": {
+        "name": "TODA UNA ALEGR\u00cdA",
+        "url": "https://open.spotify.com/album/7hs7pHyrd3a0Sr1CoOFP04"
+      },
+      "artists": [
+        {
+          "name": "Adriano Galante",
+          "url": "https://open.spotify.com/artist/41Z5pGw3fHpaZicVCWNOxx"
+        },
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347000,
+      "name": "Al tanto de tanto",
+      "url": "https://open.spotify.com/track/7JafkMOPn8P7eDN2QxlC7E"
     },
     {
       "album": {
@@ -2459,6 +2481,32 @@
     },
     {
       "album": {
+        "name": "Espirales",
+        "url": "https://open.spotify.com/album/3q1OYKZZSjhRVn0P0OLmAT"
+      },
+      "artists": [
+        {
+          "name": "Berenice",
+          "url": "https://open.spotify.com/artist/4dwFB84QoBGv2MBRiUwXEc"
+        },
+        {
+          "name": "Los Locos Descalzos",
+          "url": "https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS"
+        },
+        {
+          "name": "\u00c1lvaro Navarro",
+          "url": "https://open.spotify.com/artist/5xht4drikzfqrRhhLzjwa5"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183712,
+      "name": "Espirales",
+      "url": "https://open.spotify.com/track/5B0h0OeIJHKYWQn63U9mgS"
+    },
+    {
+      "album": {
         "name": "Albor",
         "url": "https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7"
       },
@@ -2894,7 +2942,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 311618,
       "name": "Hubo Algo",
       "url": "https://open.spotify.com/track/2mjfefMcjK9w6cN6oE5xV4"
@@ -2982,7 +3030,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 170640,
       "name": "Infinitivamente",
       "url": "https://open.spotify.com/track/4owOlsSrsHFywNTJwuEAZJ"
@@ -4771,6 +4819,24 @@
     },
     {
       "album": {
+        "name": "Nunca Cre\u00ed",
+        "url": "https://open.spotify.com/album/0JAxDPie4z5zHekUo6SWOm"
+      },
+      "artists": [
+        {
+          "name": "Arantxa P\u00e9rez",
+          "url": "https://open.spotify.com/artist/5jFebgg1TJdG3qbKm3TsVd"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282765,
+      "name": "Nunca Cre\u00ed",
+      "url": "https://open.spotify.com/track/5exQqC8uvyLdHDb4phDzKP"
+    },
+    {
+      "album": {
         "name": "Nunha Estrela",
         "url": "https://open.spotify.com/album/4SjlQBmPjaKl2PS5TXxpWG"
       },
@@ -5344,6 +5410,24 @@
       "duration_ms": 237613,
       "name": "Pura Flor",
       "url": "https://open.spotify.com/track/4BWHCYLHCD62RQPxzX0HO1"
+    },
+    {
+      "album": {
+        "name": "Puto Pillada",
+        "url": "https://open.spotify.com/album/3uOKDxkIsC2leRK6qP4P85"
+      },
+      "artists": [
+        {
+          "name": "Sabe",
+          "url": "https://open.spotify.com/artist/1B5MSSz9S1b7hWzpiWZ7yY"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Puto Pillada",
+      "url": "https://open.spotify.com/track/7dVhIL98jntUf9qR5WiUa8"
     },
     {
       "album": {
@@ -6152,7 +6236,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 158428,
       "name": "S\u00ed",
       "url": "https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI"

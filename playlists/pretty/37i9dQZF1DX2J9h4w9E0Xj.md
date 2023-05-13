@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2J9h4w9E0Xj.md) - [plain]
 
 > The best new rock on the rise\. Cover: The Linda Lindas
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,689 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,693 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2J9h4w9E0Xj.md) - [plain]
 | 49 | [Bullet Farm](https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Bullet Farm](https://open.spotify.com/album/32MwWq9YA4sIKBH95h3hee) | 3:10 |
 | 50 | [Endgame](https://open.spotify.com/track/7y6bW9cd1UfttzwqU2lsti) | [The Clockworks](https://open.spotify.com/artist/6Jg3DFzPWX2VIy01oqLGkz) | [Endgame](https://open.spotify.com/album/4qqgxO477yvIgcKNL3PwfJ) | 2:36 |
 
-Snapshot ID: `MCwwNzJkN2I3OGIzMWQyYTM0NTUwYjA4YmVhNWEwNGY3MTE0MmFjNTZm`
+Snapshot ID: `MCxlNTY0N2Q5YTY4Y2E4MjE4MzNlY2Q1NzliY2IxNTk2ZTk4ZDY3ZDQz`

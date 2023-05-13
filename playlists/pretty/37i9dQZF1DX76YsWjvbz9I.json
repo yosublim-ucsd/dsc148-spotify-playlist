@@ -1,12 +1,12 @@
 {
   "description": "The unforgettable romantic Jazz songs. Cover: Nat King Cole",
-  "num_followers": 192148,
+  "num_followers": 192498,
   "original_name": "Jazz for Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTJkODQzYTAxODUxYWVmZTlhOGZlNjQzYWFmMTg2N2QyZTA1MGJk",
+  "snapshot_id": "MCxiZDY4MDgyMTczNDE0M2E0NGQ4NjJiNmI1NmI2ZmZhM2MwYTMzZjVh",
   "tracks": [
     {
       "added_at": "2023-05-09 11:47:58",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-05-09 11:47:58",
       "album": {
-        "name": "Billie Holiday With Ray Ellis And His Orchestra",
-        "url": "https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 152346,
-      "name": "All Of You",
-      "url": "https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq"
-    },
-    {
-      "added_at": "2023-05-09 11:47:58",
-      "album": {
         "name": "If I Ruled The World: Songs For The Jet Set",
         "url": "https://open.spotify.com/album/4bx05hDVTDSbFA9iFoG4FX"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 249666,
       "name": "Fly Me To The Moon",
       "url": "https://open.spotify.com/track/6AjznBCgVaYESh8UHsHpDz"
+    },
+    {
+      "added_at": "2023-05-09 11:47:58",
+      "album": {
+        "name": "Billie Holiday With Ray Ellis And His Orchestra",
+        "url": "https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 152346,
+      "name": "All Of You",
+      "url": "https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq"
     },
     {
       "added_at": "2023-05-09 11:47:58",
@@ -795,18 +795,22 @@
     {
       "added_at": "2023-05-09 11:47:58",
       "album": {
-        "name": "All of You",
-        "url": "https://open.spotify.com/album/2cN5fPkdSSmUlWhFxpsVrk"
+        "name": "The Silver Lining - The Songs of Jerome Kern",
+        "url": "https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m"
       },
       "artists": [
         {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Bill Charlap",
+          "url": "https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg"
         }
       ],
-      "duration_ms": 178960,
-      "name": "The Nearness of You",
-      "url": "https://open.spotify.com/track/1lk5RIC2NMUMLgyOVMSCKs"
+      "duration_ms": 174280,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/3mADbrwcu80uRhrgrAaPTz"
     },
     {
       "added_at": "2023-05-09 11:47:58",
@@ -827,22 +831,18 @@
     {
       "added_at": "2023-05-09 11:47:58",
       "album": {
-        "name": "The Silver Lining - The Songs of Jerome Kern",
-        "url": "https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m"
+        "name": "The Essential Rosemary Clooney",
+        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
       },
       "artists": [
         {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Bill Charlap",
-          "url": "https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg"
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
         }
       ],
-      "duration_ms": 174280,
-      "name": "The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/3mADbrwcu80uRhrgrAaPTz"
+      "duration_ms": 172933,
+      "name": "You Make Me Feel so Young",
+      "url": "https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk"
     },
     {
       "added_at": "2023-05-09 11:47:58",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-05-09 11:47:58",
       "album": {
-        "name": "The Essential Rosemary Clooney",
-        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
+        "name": "All of You",
+        "url": "https://open.spotify.com/album/2cN5fPkdSSmUlWhFxpsVrk"
       },
       "artists": [
         {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
         }
       ],
-      "duration_ms": 172933,
-      "name": "You Make Me Feel so Young",
-      "url": "https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk"
+      "duration_ms": 178960,
+      "name": "The Nearness of You",
+      "url": "https://open.spotify.com/track/1lk5RIC2NMUMLgyOVMSCKs"
     },
     {
       "added_at": "2023-05-09 11:47:58",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-05-09 11:47:58",
       "album": {
-        "name": "Meet Me Around Midnight",
-        "url": "https://open.spotify.com/album/62haqQCNJuhlujx5lqsYaO"
-      },
-      "artists": [
-        {
-          "name": "Ida Sand",
-          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
-        }
-      ],
-      "duration_ms": 229613,
-      "name": "One for My Baby",
-      "url": "https://open.spotify.com/track/7K0B3d8hgj9cAhku48eGwN"
-    },
-    {
-      "added_at": "2023-05-09 11:47:58",
-      "album": {
         "name": "Some Nice Things I've Missed",
         "url": "https://open.spotify.com/album/4ZSUkTw8BgdedIYtmteKsV"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 241733,
       "name": "What Are You Doing The Rest Of Your Life?",
       "url": "https://open.spotify.com/track/0q4svepUwk6ZDLZEQlhKQn"
+    },
+    {
+      "added_at": "2023-05-09 11:47:58",
+      "album": {
+        "name": "Meet Me Around Midnight",
+        "url": "https://open.spotify.com/album/62haqQCNJuhlujx5lqsYaO"
+      },
+      "artists": [
+        {
+          "name": "Ida Sand",
+          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
+        }
+      ],
+      "duration_ms": 229613,
+      "name": "One for My Baby",
+      "url": "https://open.spotify.com/track/7K0B3d8hgj9cAhku48eGwN"
     },
     {
       "added_at": "2023-05-09 11:47:58",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-05-09 11:47:58",
       "album": {
-        "name": "Pointless Nostalgic",
-        "url": "https://open.spotify.com/album/4AD8H57Um3MlSuuqN4fZNv"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 306840,
-      "name": "A Time For Love",
-      "url": "https://open.spotify.com/track/1R0wvgE1PnzLoE9YyXkkzb"
-    },
-    {
-      "added_at": "2023-05-09 11:47:58",
-      "album": {
         "name": "Sings The Music Of Cole Porter",
         "url": "https://open.spotify.com/album/7FyTUyjduHNUKGU1uTbvak"
       },
@@ -1327,22 +1311,6 @@
       "duration_ms": 232226,
       "name": "I've Got You Under My Skin",
       "url": "https://open.spotify.com/track/0iYxYs1kiiStzdaK29yHP2"
-    },
-    {
-      "added_at": "2023-05-09 11:47:58",
-      "album": {
-        "name": "Anita O'Day Swings Cole Porter With Billy May",
-        "url": "https://open.spotify.com/album/7fW57iJNSmeL29fUnBTTIO"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 119000,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/25uHdsKbJ51ovqUODbz00P"
     },
     {
       "added_at": "2023-05-09 11:47:58",
@@ -1363,6 +1331,22 @@
     {
       "added_at": "2023-05-09 11:47:58",
       "album": {
+        "name": "Anita O'Day Swings Cole Porter With Billy May",
+        "url": "https://open.spotify.com/album/7fW57iJNSmeL29fUnBTTIO"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 119000,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/25uHdsKbJ51ovqUODbz00P"
+    },
+    {
+      "added_at": "2023-05-09 11:47:58",
+      "album": {
         "name": "Love Swings",
         "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
       },
@@ -1375,22 +1359,6 @@
       "duration_ms": 109813,
       "name": "Long Ago and Far Away",
       "url": "https://open.spotify.com/track/48QgQqeezCQCHKr009uAe6"
-    },
-    {
-      "added_at": "2023-05-09 11:47:58",
-      "album": {
-        "name": "Songs from the Heart (Remastered 2013)",
-        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 150720,
-      "name": "I'm Glad There Is You",
-      "url": "https://open.spotify.com/track/7g4vp6gM7cpMCZabF6vWm6"
     },
     {
       "added_at": "2023-05-09 11:47:58",
@@ -1411,6 +1379,22 @@
     {
       "added_at": "2023-05-09 11:47:58",
       "album": {
+        "name": "Songs from the Heart (Remastered 2013)",
+        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 150720,
+      "name": "I'm Glad There Is You",
+      "url": "https://open.spotify.com/track/7g4vp6gM7cpMCZabF6vWm6"
+    },
+    {
+      "added_at": "2023-05-09 11:47:58",
+      "album": {
         "name": "Blue Moon",
         "url": "https://open.spotify.com/album/5K2vLgwzjuVSe07sDQjTbX"
       },
@@ -1423,22 +1407,6 @@
       "duration_ms": 189866,
       "name": "My Foolish Heart",
       "url": "https://open.spotify.com/track/6gEIFDwEixJQy6DbxToS77"
-    },
-    {
-      "added_at": "2023-05-09 11:47:58",
-      "album": {
-        "name": "A Day At The Movies",
-        "url": "https://open.spotify.com/album/2d9J1hq0I8fkd1vKUYCgwi"
-      },
-      "artists": [
-        {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        }
-      ],
-      "duration_ms": 187040,
-      "name": "With A Song In My Heart - 78 rpm Version",
-      "url": "https://open.spotify.com/track/6pX2pj2rgiMky1DoIJTCoj"
     },
     {
       "added_at": "2023-05-09 11:47:58",
@@ -1471,6 +1439,22 @@
       "duration_ms": 253160,
       "name": "Please Be Kind",
       "url": "https://open.spotify.com/track/31Av0tiBUfxZhagZ5hZDIS"
+    },
+    {
+      "added_at": "2023-05-09 11:47:58",
+      "album": {
+        "name": "A Day At The Movies",
+        "url": "https://open.spotify.com/album/2d9J1hq0I8fkd1vKUYCgwi"
+      },
+      "artists": [
+        {
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        }
+      ],
+      "duration_ms": 187040,
+      "name": "With A Song In My Heart - 78 rpm Version",
+      "url": "https://open.spotify.com/track/6pX2pj2rgiMky1DoIJTCoj"
     },
     {
       "added_at": "2023-05-09 11:47:58",
@@ -1591,22 +1575,6 @@
     {
       "added_at": "2023-05-09 11:47:58",
       "album": {
-        "name": "So Warm",
-        "url": "https://open.spotify.com/album/6gnhgowSVTcOXuP9v3Jcr0"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 162240,
-      "name": "If You Were Mine",
-      "url": "https://open.spotify.com/track/1sMb1VoCi31FQiC435Rocn"
-    },
-    {
-      "added_at": "2023-05-09 11:47:58",
-      "album": {
         "name": "On the Sunny Side of the Street",
         "url": "https://open.spotify.com/album/3W8oUfusucA1Ri5N5tV6Eq"
       },
@@ -1619,6 +1587,22 @@
       "duration_ms": 142866,
       "name": "Come Rain or Come Shine",
       "url": "https://open.spotify.com/track/15MObStooR3cTaXIf1fQCX"
+    },
+    {
+      "added_at": "2023-05-09 11:47:58",
+      "album": {
+        "name": "So Warm",
+        "url": "https://open.spotify.com/album/6gnhgowSVTcOXuP9v3Jcr0"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 162240,
+      "name": "If You Were Mine",
+      "url": "https://open.spotify.com/track/1sMb1VoCi31FQiC435Rocn"
     },
     {
       "added_at": "2023-05-09 11:47:58",
@@ -1675,6 +1659,22 @@
       "duration_ms": 166413,
       "name": "Wait 'Til You See Her",
       "url": "https://open.spotify.com/track/4LXa7I51n7gzUf2TKu9vpM"
+    },
+    {
+      "added_at": "2023-05-09 11:47:58",
+      "album": {
+        "name": "I Feel a Song Coming On: Lost Radio Recordings",
+        "url": "https://open.spotify.com/album/3v7vfFLfUtGVeCj81t6Ko1"
+      },
+      "artists": [
+        {
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+        }
+      ],
+      "duration_ms": 167723,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/3oHIxYy7aIp9MWbJEMb3Nm"
     }
   ],
   "unique_name": "Jazz for Lovers",

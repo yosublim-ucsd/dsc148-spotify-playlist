@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3HvY4N6ad1ASmFufm8XCPV">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 407 likes - 103 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 409 likes - 103 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 102 | [Down Daddy](https://open.spotify.com/track/1Tg5ZNgyRJFVFXcQBaSyMS) | [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Friends Who Failed At Love](https://open.spotify.com/album/0cGYe4MX209Hbi0aoebED6) | 3:40 |
 | 103 | [Back By The Weekend](https://open.spotify.com/track/5mt5VkHrCC1Za06vGFKrLK) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [Back By The Weekend](https://open.spotify.com/album/6NWaFNsDGbS8YRxm6lkaDM) | 2:55 |
 
-Snapshot ID: `MjgwNjQyMjksMDAwMDAwMDAzZDkzZjYwNWIwMzhmYzVjNGVjMGU0MzYxMmUzYjQ2ZQ==`
+Snapshot ID: `MjgwNjU2NjksMDAwMDAwMDA4NDI0ZWU0NDRhYTU4YmJlOTFiNTk0MTdiOGQ1NmRhYw==`

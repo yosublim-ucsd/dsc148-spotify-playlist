@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 202493,
       "name": "\"45\"",
       "url": "https://open.spotify.com/track/25Sd73fleKUVPNqITPZkn1"
@@ -668,6 +668,24 @@
       "duration_ms": 146133,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/4ZJRoFTNJzcA1KKJgxncvu"
+    },
+    {
+      "album": {
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215986,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj"
     },
     {
       "album": {
@@ -1607,6 +1625,24 @@
     },
     {
       "album": {
+        "name": "LosT",
+        "url": "https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205368,
+      "name": "LosT",
+      "url": "https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC"
+    },
+    {
+      "album": {
         "name": "SHINY AND OH SO BRIGHT, VOL. 1 / LP: NO PAST. NO FUTURE. NO SUN.",
         "url": "https://open.spotify.com/album/6chLMlDdUlCHQ1t48qHmwA"
       },
@@ -1932,6 +1968,24 @@
       "duration_ms": 314573,
       "name": "Outside",
       "url": "https://open.spotify.com/track/5BfbdJLRp9gUyyxeGJUECL"
+    },
+    {
+      "album": {
+        "name": "Passenger",
+        "url": "https://open.spotify.com/album/4uupmE8nv4sRZQf62HRSM4"
+      },
+      "artists": [
+        {
+          "name": "Boston Manor",
+          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206922,
+      "name": "Passenger",
+      "url": "https://open.spotify.com/track/5EUp0KuPvWprwkD5HVhzmv"
     },
     {
       "album": {
@@ -2288,7 +2342,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 227200,
       "name": "State of Love and Trust",
       "url": "https://open.spotify.com/track/0KEhlgtlk0HuqBIqfGCGdF"
@@ -2648,7 +2702,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 265706,
       "name": "This Modern Love",
       "url": "https://open.spotify.com/track/2PAhcPwab2sJz340QHtunD"

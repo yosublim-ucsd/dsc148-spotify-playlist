@@ -4,7 +4,7 @@
 
 > indie tunes with country experimentation Cover: Bedroom
 
-86 songs - 5 hr 47 min
+88 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Chamomile](https://open.spotify.com/track/6GAPaGVVGgczGdMslknSMc) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Chamomile](https://open.spotify.com/album/5QLep18EqyzRJ50cz1BzWb) | 3:37 | 2023-04-21 |  |
 | [Chosen to Deserve](https://open.spotify.com/track/4Qw9BVghOFfjUyVWV26m2Q) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Chosen to Deserve](https://open.spotify.com/album/7geMCLNLhOhoutnVYES6t9) | 5:32 | 2023-02-23 |  |
 | [Cinnamon](https://open.spotify.com/track/6KqgHLhsyScGQtoclGOnHv) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunflower](https://open.spotify.com/album/09VQgw9zdYyTRCvQMY3lK3) | 2:53 | 2023-02-23 |  |
+| [Cold Nights](https://open.spotify.com/track/193hTIvHqhYRYYxh6HweYR) | [Guantanamo Bay Surf Club](https://open.spotify.com/artist/5JO05d5V4vSBMq5JAzmEoF) | [Cold Nights](https://open.spotify.com/album/0c5KkHDXYu3MTbRqbk4ZNM) | 4:11 | 2023-05-12 |  |
 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2023-04-28 |  |
 | [Cool God](https://open.spotify.com/track/0nJkRTWpbpTYxHVNk4bMlb) | [Jack Symes](https://open.spotify.com/artist/3w86RIwTE80NR3m54obsgz) | [Songs for Moms](https://open.spotify.com/album/4tIlizlhNok4XGEXjrSVp6) | 4:11 | 2023-02-23 |  |
 | [Cowboy](https://open.spotify.com/track/1Pxk92XAQEuTGWvu9w4OGN) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Gold Record](https://open.spotify.com/album/309GzmwSB1Aj3gh8Tpp3Fo) | 4:35 | 2023-02-23 |  |
@@ -61,6 +62,7 @@
 | [New Song](https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe), [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Notes from the Archive: Recordings 2011\-2016](https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb) | 6:22 | 2023-02-23 |  |
 | [No Woman](https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 3:57 | 2023-02-23 |  |
 | [Not My Body](https://open.spotify.com/track/2JterjxLlyT5hgIXkhcfiH) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [All of This Will End](https://open.spotify.com/album/15eosxhQvPKQ1g0tfrnAt2) | 4:11 | 2023-04-28 |  |
+| [On My Mind](https://open.spotify.com/track/2yFSQb9lAOk9CeYWdnFn4o) | [Bonny Doon](https://open.spotify.com/artist/0AL8XXRh7fUrHAMLoDv9rn) | [On My Mind](https://open.spotify.com/album/5M4MZsKa3sb2p9ZoEihObb) | 3:22 | 2023-05-12 |  |
 | [Passing Sun](https://open.spotify.com/track/1vi7SVPptcxAXxoYUzGyWT) | [Laney Tripp](https://open.spotify.com/artist/2oHONIRqxXSaM6rAtMNps8), [Jacob Cummings](https://open.spotify.com/artist/7skiCmlFbtPe0anDfCCPXm) | [Passing Sun](https://open.spotify.com/album/103zyTkSJ2fNbHOjwNslR9) | 3:37 | 2023-02-23 |  |
 | [Pieces of Gold](https://open.spotify.com/track/5TtOVNkBiVYxs4MRgwOTqy) | [Ziggy Katz](https://open.spotify.com/artist/1kCey8cRpDpF2WsW0jPLVI) | [Pieces of Gold](https://open.spotify.com/album/5N1Ar0YY5Fjdyo2Yu675E3) | 4:01 | 2023-02-23 |  |
 | [Psychos](https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Psychos](https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1) | 3:05 | 2023-04-05 |  |

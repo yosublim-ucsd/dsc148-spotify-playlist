@@ -4,7 +4,7 @@
 
 > Extatische gevoelens met prachtige muziek
 
-108 songs - 6 hr 12 min
+110 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Colour Me Blue](https://open.spotify.com/track/7kdUWeOvx77ryAireHCWgx) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Mellow Moon](https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr) | 3:16 | 2023-02-23 | 2023-04-05 |
 | [cool](https://open.spotify.com/track/14jT3UbIxuy5QKXy2MSh4u) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [BREAK THE CURSE](https://open.spotify.com/album/0nbH8z2iSYXnFE62X1iwYO) | 3:53 | 2023-02-23 |  |
 | [Dancing On the Other Side \- Kraak & Smaak Remix](https://open.spotify.com/track/3RLjQ2GvQrXftXOPlcu8mV) | [The George Kaplan Conspiracy](https://open.spotify.com/artist/1oghnjbVNJIYKnNhV3Y5cR), [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O) | [Dancing On the Other Side \(Kraak & Smaak Remix\)](https://open.spotify.com/album/7J2Bm1IBOnzGVtbXTTx9kr) | 4:07 | 2023-02-23 | 2023-05-12 |
-| [Danger](https://open.spotify.com/track/4ndEVf5VBLF6R50eitmnNz) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [yellow](https://open.spotify.com/album/50Y39nbwJtXuUjxVleLJfK) | 3:24 | 2023-04-04 |  |
+| [Danger](https://open.spotify.com/track/4ndEVf5VBLF6R50eitmnNz) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [yellow](https://open.spotify.com/album/50Y39nbwJtXuUjxVleLJfK) | 3:24 | 2023-04-04 | 2023-05-13 |
 | [Dauw](https://open.spotify.com/track/1OkEUObkgoryzHRR29Zq2t) | [Jacht](https://open.spotify.com/artist/6idnmcf67erjR8vE9qLIoO) | [Dauw](https://open.spotify.com/album/3XWGHJ9EcBq1MliY4ZBPZO) | 3:30 | 2023-04-27 |  |
 | [Day By Day](https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6) | 3:07 | 2023-02-23 |  |
 | [Deadline](https://open.spotify.com/track/76pUPMbmu0ENmuAiaTPvIq) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [This Is This](https://open.spotify.com/album/4VhsCxjH2URMz5tmiFB4oz) | 3:38 | 2023-02-23 | 2023-03-03 |
@@ -88,6 +88,7 @@
 | [Nuts](https://open.spotify.com/track/0CCjJJ7H7R8NMDggyZxIZU) | [MICH](https://open.spotify.com/artist/4HDfVcO8QmARunFcBJofWQ) | [Nuts](https://open.spotify.com/album/2W6d846yiktbTixQ8IdKuX) | 2:03 | 2023-03-02 |  |
 | [Off Goes The Light](https://open.spotify.com/track/2jXZYoIEspEBQzRQuJp0hf) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [BIB10](https://open.spotify.com/album/0oQnzhETkhY0LgeWGeEI4S) | 4:33 | 2023-02-23 |  |
 | [On Repeat \- Single Edit](https://open.spotify.com/track/6DYYvuS33ooMZgNXrYk1cJ) | [Compact Disk Dummies](https://open.spotify.com/artist/67hOz31eSjfEo9FR2N0ST5) | [On Repeat](https://open.spotify.com/album/39KoavteTlQETyKudqlegD) | 3:28 | 2023-02-23 | 2023-04-05 |
+| [Paper Straws](https://open.spotify.com/track/2gGseH8fhd7BIkQQdIBnHo) | [Iguana Death Cult](https://open.spotify.com/artist/3krOZK9c8q5QOdt9QSdEV8) | [Echo Palace](https://open.spotify.com/album/2GVqe5obMxcMojXO9Rsrkj) | 3:07 | 2023-05-12 |  |
 | [Peace, Love & Profit](https://open.spotify.com/track/7jByqm6en8id0GM0NbVth9) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [yellow](https://open.spotify.com/album/5COeDegmKD30s0oDWAY1Cb) | 2:57 | 2023-02-23 | 2023-04-05 |
 | [Pineapple Sunrise](https://open.spotify.com/track/5L5n7lyXiTR2soMhCQel6n) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Pineapple Sunrise](https://open.spotify.com/album/7gA8QSNSZvHUYC9feFpeLj) | 2:56 | 2023-03-02 |  |
 | [Politics](https://open.spotify.com/track/0hEFcVJYNYsskbUdbWUhV7) | [Personal Trainer](https://open.spotify.com/artist/2zm5WsGFYihLD85ZTRcpoc) | [Gazebo](https://open.spotify.com/album/2Ig4fGbRUabAb1EBZ5o6rW) | 4:00 | 2023-04-04 | 2023-05-12 |
@@ -102,8 +103,9 @@
 | [Six Hills](https://open.spotify.com/track/0DS6SAfdJWRmbAb1Ltl1Px) | [Lewsberg](https://open.spotify.com/artist/49q3PS0SzgbyvWDwZj7qg5) | [Six Hills](https://open.spotify.com/album/5e6m3OIy6GxGTJBqag8Nki) | 5:45 | 2023-02-23 | 2023-04-28 |
 | [Snap Out Of It](https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:13 | 2023-04-04 |  |
 | [Something Like This](https://open.spotify.com/track/2Xn7cHKdRP0hBXaUr38J7R) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Something Like This](https://open.spotify.com/album/614lKhTpvtyBqnU7C5w5e4) | 3:18 | 2023-05-08 |  |
+| [SOW](https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 3:06 | 2023-05-12 |  |
 | [Stubborn](https://open.spotify.com/track/4Iq71aDAJ4Uiqa3J0uXfoW) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Stubborn](https://open.spotify.com/album/61qaZAT9e9rhKLZ7r54AK2) | 3:08 | 2023-02-23 | 2023-04-05 |
-| [Taking Over The Sun](https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Taking Over The Sun](https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l) | 3:49 | 2023-02-23 |  |
+| [Taking Over The Sun](https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Taking Over The Sun](https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l) | 3:49 | 2023-02-23 | 2023-05-13 |
 | [The Adults Are Talking](https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 5:09 | 2023-04-04 |  |
 | [The Hardest Cut](https://open.spotify.com/track/5QUhSXDrrX7euR87oeQevM) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [The Hardest Cut](https://open.spotify.com/album/4unaBMlRBFuOgX4OSXhkG6) | 3:13 | 2023-02-23 | 2023-04-28 |
 | [The Lazer](https://open.spotify.com/track/769PAogOgq1KurfwLjWj2J) | [Personal Trainer](https://open.spotify.com/artist/2zm5WsGFYihLD85ZTRcpoc) | [Big Love Blanket](https://open.spotify.com/album/10QMlGEBzkHyyaJJbaThOV) | 3:51 | 2023-02-23 |  |

@@ -4,7 +4,7 @@
 
 > Dreamy springtime melodies to watch the flowers bloom 🌷
 
-498 songs - 1 day 7 hr 12 min
+499 songs - 1 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Down in the Valley](https://open.spotify.com/track/7IcKs2XXHnQBtBJtzEyqqS) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 5:03 | 2023-03-15 |  |
 | [Dream in Blue](https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [The Stray Birds](https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t) | 3:32 | 2022-06-07 | 2022-09-07 |
 | [Drinking Song](https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:15 | 2022-09-06 | 2022-12-21 |
+| [Drown](https://open.spotify.com/track/1V5y0xMb0syKomJH0jSLdf) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Drown](https://open.spotify.com/album/7kPbGx2SpdAATE9m3WX3Bo) | 2:44 | 2023-05-12 |  |
 | [Each Coming Night](https://open.spotify.com/track/1vKU9oD7zcAVS5ZPF32kzc) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Fall Indie](https://open.spotify.com/album/7aRCVy4mQ9RHle8Kw6EBfH) | 3:25 | 2022-09-06 | 2022-11-13 |
 | [Each Coming Night](https://open.spotify.com/track/2xa9PoO42d7VjT0KqG5d3I) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 3:27 | 2022-09-06 | 2022-12-21 |
 | [Ears That Could](https://open.spotify.com/track/4VTzk9sNIeIfQA1pISyTd4) | [Harrison Whitford](https://open.spotify.com/artist/2KAaIurA00NK4IAnbC6nB8) | [Afraid of Nothing](https://open.spotify.com/album/6dx3PkUd6rUBC5CaVShL0N) | 6:13 | 2022-12-21 | 2023-03-16 |

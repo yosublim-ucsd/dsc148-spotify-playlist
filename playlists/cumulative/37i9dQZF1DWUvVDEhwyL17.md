@@ -4,7 +4,7 @@
 
 > Cozy acoustic covers to accompany all your DIY, painting and creative crafts projects.
 
-91 songs - 4 hr 54 min
+96 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 | 2023-01-27 |  |
 | [At Last](https://open.spotify.com/track/7FsGINp00WmGd6FbLeez4x) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [At Last](https://open.spotify.com/album/5jwYnGNw52rEumvuDUx90V) | 2:25 | 2023-03-31 |  |
 | [Better Together](https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [Better Together](https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc) | 3:20 | 2023-01-27 |  |
+| [Big Girls Don't Cry](https://open.spotify.com/track/55eqiKZdQSdbya2Oty6vDE) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [Big Girls Don't Cry](https://open.spotify.com/album/6t7KpPbua4qyuK4VYPs4T6) | 2:43 | 2023-05-12 |  |
 | [BLACKBIRD](https://open.spotify.com/track/332d9YxpG0xw4TKu6PwDCr) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [BLACKBIRD](https://open.spotify.com/album/2Zm5k1FWYAyl1AdjWy0vsW) | 2:08 | 2023-03-10 |  |
 | [Blank Space \- Acoustic](https://open.spotify.com/track/33XljpJIYSrlAy6nD9SVpm) | [Scottie](https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K) | [Blank Space \- Acoustic](https://open.spotify.com/album/77iOxkdJOIWcJIHe5peMKq) | 4:05 | 2023-01-27 |  |
 | [Body like backroad](https://open.spotify.com/track/4ftzIVYZ1lhBiQO3vuUfq0) | [Samuel Pine](https://open.spotify.com/artist/59FqDnWsY5WbBqDR5YE2nv) | [Body like backroad](https://open.spotify.com/album/2Bg7RrVYb7rjo314fI5vkO) | 2:48 | 2023-01-27 |  |
@@ -28,6 +29,7 @@
 | [Circles](https://open.spotify.com/track/3bgtpRltZVISs1jo7ouspO) | [Simon Sage](https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz) | [Circles](https://open.spotify.com/album/0gEywDBtvFbB5dqpwTOK6r) | 2:12 | 2023-01-27 |  |
 | [Cool](https://open.spotify.com/track/0B6Gf49UuiyYiKM3cCdfzW) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Cool](https://open.spotify.com/album/3Y5mbHm9zcwmAmhKlORakx) | 4:03 | 2023-01-27 |  |
 | [Crazy Love](https://open.spotify.com/track/5zIJSNhDKaBsSlgbkcBS8Q) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Crazy Love](https://open.spotify.com/album/3ssxRD3YsdiESDBhp42uiy) | 3:12 | 2023-03-10 |  |
+| [Desperado](https://open.spotify.com/track/0ReprZkqLJKjuBH0nowV44) | [Sarah Kristine](https://open.spotify.com/artist/6WfvaZWV6UXdkzG9oQCxw9) | [Desperado](https://open.spotify.com/album/6bhSX2BYFGgJ3iw4wnpkWZ) | 3:11 | 2023-05-12 |  |
 | [Don't Be Cruel](https://open.spotify.com/track/7vtFqEe5DJRyV2S06Kwz9z) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Don't Be Cruel](https://open.spotify.com/album/5I0vtlkT4LxPddbRCtOpvq) | 2:41 | 2023-01-27 |  |
 | [Dynamite](https://open.spotify.com/track/3NJfUFlW79oBXVK7RTzGtV) | [Treadlights](https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK) | [Dynamite](https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU) | 2:31 | 2023-01-27 |  |
 | [Elliot's Song](https://open.spotify.com/track/0ZpMlIPfnFzVn3qVNeMMev) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Elliot's Song](https://open.spotify.com/album/3rCeLP9YZJ8UXvbrS3EMyy) | 2:33 | 2023-01-27 |  |
@@ -53,8 +55,10 @@
 | [I Want You Back](https://open.spotify.com/track/0oiNNnrv5iYEl96RimHw8G) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz) | 2:46 | 2023-01-27 |  |
 | [I'll Be Here In The Morning](https://open.spotify.com/track/1ixqz9BFlp0UFVU7qHpgLq) | [Zoe De La Sera](https://open.spotify.com/artist/4bpDG5rmsYxLQHvRbIhSdx) | [I'll Be Here In The Morning](https://open.spotify.com/album/2nW7jJPpAPCgmscjywyL11) | 3:07 | 2023-01-27 |  |
 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/4jAzQGA8cl7MtPzgNQ5Ehx) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/album/3GINcZdettso6ktU4bTlmy) | 3:47 | 2023-01-27 |  |
+| [I'm So Tired...](https://open.spotify.com/track/3KUBVgFUF0JfXI0MkcHgQO) | [Scottie](https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K) | [I'm So Tired...](https://open.spotify.com/album/3XqIOJaJckjEYwx8zOhslK) | 2:55 | 2023-05-12 |  |
 | [Iris](https://open.spotify.com/track/3Ebx5xEUEoB6iod7vSak8R) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Iris](https://open.spotify.com/album/4qKG2mFsVCwHvIzLOVwVox) | 2:45 | 2023-01-27 |  |
 | [Kiss An Angel Good Mornin'](https://open.spotify.com/track/3RAqqEjitdBdItCphiZAdQ) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Kiss An Angel Good Mornin'](https://open.spotify.com/album/4UubPvWcnV1C4zxFQgC895) | 2:44 | 2023-03-31 |  |
+| [Kiss Me \(Acoustic Cover\)](https://open.spotify.com/track/2j5pdzMKWf8eWNkNEjD6Ls) | [Penny Sweet](https://open.spotify.com/artist/0hZthAp1iTcXizd63szbku) | [Kiss Me \(Acoustic Cover\)](https://open.spotify.com/album/7i2px5Ba5T02NAwKdSNAW9) | 3:07 | 2023-05-12 |  |
 | [Kiss the Girl](https://open.spotify.com/track/4wJcS2F4VoJM2DR8en4EaW) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Kiss the Girl](https://open.spotify.com/album/1UzG66W3YFBdLnDG8Bh7hl) | 2:10 | 2023-01-27 |  |
 | [Landslide](https://open.spotify.com/track/4BoLz4MolURQlaSjCRuZ4c) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [& Covers](https://open.spotify.com/album/6y5HsiDyAI8t9r2sWiSFtK) | 3:38 | 2023-01-27 |  |
 | [Lavender Haze](https://open.spotify.com/track/0MqOE4bDEgNBsQi9y8kcZ1) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Lavender Haze](https://open.spotify.com/album/2UnNi9S9CxDFLxrbyiGoHI) | 3:43 | 2023-03-31 |  |
@@ -65,7 +69,7 @@
 | [Love Me Like You Do \(Acoustic\)](https://open.spotify.com/track/4mzSkWDdDDrd1i3wg1FfpC) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Love Me Like You Do \(Acoustic\)](https://open.spotify.com/album/4aX5Utj2TSwg3jc8felZng) | 2:36 | 2023-01-27 |  |
 | [love on the weekend](https://open.spotify.com/track/6PvqD3FhLOvNz0lyDjiHrl) | [love & back](https://open.spotify.com/artist/7mq5fcHr1XI4YdNaqtmE2M) | [love on the weekend](https://open.spotify.com/album/1fv3JS6iIvyJB9OPnug2Hb) | 3:17 | 2023-01-27 |  |
 | [Love Yourself](https://open.spotify.com/track/2HItfrnmtuzBy4jR7MVPiz) | [The Lidls](https://open.spotify.com/artist/6f14pLfPtDV6pJ6F9CAFwE) | [Covers EP](https://open.spotify.com/album/13jmHsHQ6MNsgIaFdFIa9q) | 2:33 | 2023-01-27 |  |
-| [Lovefool](https://open.spotify.com/track/1ldIioBSlwVI0XOaGhooXW) | [Carla Menezes](https://open.spotify.com/artist/0PubppYseB9KQJFHREadG2) | [Lovefool](https://open.spotify.com/album/33VrjgrxbbZoYuhcXDyUA6) | 3:24 | 2023-01-27 |  |
+| [Lovefool](https://open.spotify.com/track/1ldIioBSlwVI0XOaGhooXW) | [Carla Menezes](https://open.spotify.com/artist/0PubppYseB9KQJFHREadG2) | [Lovefool](https://open.spotify.com/album/33VrjgrxbbZoYuhcXDyUA6) | 3:24 | 2023-01-27 | 2023-05-13 |
 | [Made You Look \- Acoustic](https://open.spotify.com/track/05doilK3DPYswLwvK75IzZ) | [Scottie](https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K) | [Made You Look \- Acoustic](https://open.spotify.com/album/657dsMCMKvSVOnXz3fle0l) | 2:28 | 2023-01-27 |  |
 | [More Than You Know](https://open.spotify.com/track/2Ok9PIQhVkKAaPTMbM4EvS) | [Plain Simple](https://open.spotify.com/artist/0XUcGC1QHkYmsVInVDjFad) | [More Than You Know](https://open.spotify.com/album/7yVdPJkcuE95ldZ5QRL6G9) | 3:15 | 2023-01-27 |  |
 | [Never Gonna Give You Up \- Acoustic](https://open.spotify.com/track/2e53BiRUze4PQ8PfLGqWrD) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [Never Gonna Give You Up \- Acoustic](https://open.spotify.com/album/6O1nvjo9R2hSmby3AJyVrd) | 3:37 | 2023-01-27 |  |
@@ -94,6 +98,7 @@
 | [What About Us \- Acoustic](https://open.spotify.com/track/7e4Pftu2tzDeY0W0690OKQ) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [What About Us \(Acoustic\)](https://open.spotify.com/album/0oqgSmNw05kvsTG9ap2Vv5) | 4:15 | 2023-01-27 |  |
 | [What Makes You Beautiful](https://open.spotify.com/track/1H42VdCQ97or9QjnH5tlXf) | [John Buckley](https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o) | [What Makes You Beautiful](https://open.spotify.com/album/4iW9eYGpYhIQ1p4QC05ihN) | 2:48 | 2023-01-27 |  |
 | [Whatcha Say \- Acoustic](https://open.spotify.com/track/4gq1H2QM58lNLMSeKBfRgW) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [Whatcha Say \- Acoustic](https://open.spotify.com/album/3EQAXU3Bz94vwmTtB6VwSR) | 3:07 | 2023-03-31 |  |
+| [When I Get There](https://open.spotify.com/track/6AmEwM3ioCs9zQZx3TcYNK) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [When I Get There](https://open.spotify.com/album/5GSUtNK1MbDbmSWAlh8K6m) | 3:53 | 2023-05-12 |  |
 | [Wherever You Will Go](https://open.spotify.com/track/2JrSlOdxkzlJEAOPgIUhAj) | [Le Vitates](https://open.spotify.com/artist/5ao5cOf9lGP6pyIESuiaf1), [Natalie Major](https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL) | [Wherever You Will Go](https://open.spotify.com/album/59MYGCo3YrAhdNkOomscha) | 3:43 | 2023-01-27 |  |
 | [With or Without You](https://open.spotify.com/track/1iQ1BpOGF1Umd3lpTV4OPO) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [With or Without You](https://open.spotify.com/album/5sz0mBDcUAj1TAqlHEfZQ0) | 2:46 | 2023-01-27 |  |
 | [Wouldn't It Be Nice](https://open.spotify.com/track/1U6deb3frWuMczVj2as98g) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Wouldn't It Be Nice](https://open.spotify.com/album/1CFZu2ZdcAtMxwfAecgKKU) | 2:32 | 2023-03-31 |  |

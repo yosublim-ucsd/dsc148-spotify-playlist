@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 
 > This is Mercy Chinwo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,411 likes - 42 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,433 likes - 42 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 41 | [Tobechukwu](https://open.spotify.com/track/3hn4MBWOme2k1oweg2tXak) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Tobechukwu](https://open.spotify.com/album/4tRS4ccbwVlDDZLBhegfGQ) | 8:06 |
 | 42 | [Jesus](https://open.spotify.com/track/4oaP5L5MMPyIjRKA7hr0ya) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Jesus](https://open.spotify.com/album/473sA5uXcDEmZaiyehhnOR) | 6:15 |
 
-Snapshot ID: `MjgwNjM0NjIsMDAwMDAwMDA1ZDYzMGMzYzdlOWE3NDA1YjRkNzhiYWIyNjZlZGMzNg==`
+Snapshot ID: `MjgwNjQ5MDksMDAwMDAwMDBmY2EyZjk5NDEwYjZjMzU4ZDI5NzRlMTk4NThjNTQyZQ==`

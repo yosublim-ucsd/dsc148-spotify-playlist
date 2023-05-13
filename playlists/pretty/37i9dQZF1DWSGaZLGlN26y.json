@@ -1,12 +1,12 @@
 {
   "description": "Songs for lovers like you've never heard before. Cover: Muni Long",
-  "num_followers": 13646,
+  "num_followers": 13651,
   "original_name": "Spotify Singles: Love Edition",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGUyY2QwYWQ2ZTgxNzA3NTliZDU0ODVmMWU3N2RjNjg2NDQyY2Rj",
+  "snapshot_id": "MCxjYTgwNTg4MTRkYjJmNmU5YTFjYTkzY2QwYWQ5ZTlkMzMwMDE0ZmUw",
   "tracks": [
     {
       "added_at": "2023-01-30 18:50:49",
@@ -372,22 +372,6 @@
       "added_at": "2023-01-30 18:50:49",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 228506,
-      "name": "Love Me Now - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2pPRgFEENF3LtuxYUPuT24"
-    },
-    {
-      "added_at": "2023-01-30 18:50:49",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1ZleRuxSdLEhoseEcstEN8"
       },
       "artists": [
@@ -399,6 +383,22 @@
       "duration_ms": 198000,
       "name": "U Remind Me - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/22wMOOsQVIKkoVAILL5ruw"
+    },
+    {
+      "added_at": "2023-01-30 18:50:49",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 228506,
+      "name": "Love Me Now - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2pPRgFEENF3LtuxYUPuT24"
     },
     {
       "added_at": "2023-01-30 18:50:49",
@@ -588,22 +588,6 @@
       "added_at": "2023-01-30 18:50:49",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6b9yL2FJ7aKRchfINnM0I4"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 182545,
-      "name": "Cyanide",
-      "url": "https://open.spotify.com/track/4l2zHzgXnNXWAAGPd6pIAI"
-    },
-    {
-      "added_at": "2023-01-30 18:50:49",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV"
       },
       "artists": [
@@ -615,6 +599,22 @@
       "duration_ms": 181000,
       "name": "Bad At Love - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/1kTugNMVMbaQep1srMua2q"
+    },
+    {
+      "added_at": "2023-01-30 18:50:49",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6b9yL2FJ7aKRchfINnM0I4"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 182545,
+      "name": "Cyanide",
+      "url": "https://open.spotify.com/track/4l2zHzgXnNXWAAGPd6pIAI"
     },
     {
       "added_at": "2023-01-30 18:50:49",
@@ -736,22 +736,6 @@
       "added_at": "2023-01-30 18:50:49",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3fUHDbd0oujqAerhHZjdsj"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 226720,
-      "name": "Get You - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6YZQx90VEuzf0lRY9TYh7j"
-    },
-    {
-      "added_at": "2023-01-30 18:50:49",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c"
       },
       "artists": [
@@ -763,6 +747,22 @@
       "duration_ms": 146726,
       "name": "I'll Call You Mine - Spotify Singles",
       "url": "https://open.spotify.com/track/0hnpXKmUIqvgY0gj2Q1J7m"
+    },
+    {
+      "added_at": "2023-01-30 18:50:49",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3fUHDbd0oujqAerhHZjdsj"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 226720,
+      "name": "Get You - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6YZQx90VEuzf0lRY9TYh7j"
     },
     {
       "added_at": "2023-01-30 18:50:49",
@@ -1712,22 +1712,6 @@
       "added_at": "2023-01-30 18:50:49",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 191562,
-      "name": "No Judgement - Recorded at Air Studios, London",
-      "url": "https://open.spotify.com/track/2kdG7Kwr2wNk1o7beJZits"
-    },
-    {
-      "added_at": "2023-01-30 18:50:49",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3PtrWbEYEoqYWpgMeIAFb9"
       },
       "artists": [
@@ -1739,6 +1723,22 @@
       "duration_ms": 214410,
       "name": "Lay It on Me - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3WkcZXy8frwOqLdlzrOdph"
+    },
+    {
+      "added_at": "2023-01-30 18:50:49",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 191562,
+      "name": "No Judgement - Recorded at Air Studios, London",
+      "url": "https://open.spotify.com/track/2kdG7Kwr2wNk1o7beJZits"
     },
     {
       "added_at": "2023-01-30 18:50:49",
@@ -1848,22 +1848,6 @@
       "added_at": "2023-01-30 18:50:49",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3D2gqS23LPeDSxof0n1ibZ"
-      },
-      "artists": [
-        {
-          "name": "Tune-Yards",
-          "url": "https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi"
-        }
-      ],
-      "duration_ms": 257588,
-      "name": "Sweet Dreams (Are Made of This) - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4GcyCCxIIV7Ed5pGK4S36G"
-    },
-    {
-      "added_at": "2023-01-30 18:50:49",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5rFq8b1sAIjmCCdS4rjFYt"
       },
       "artists": [
@@ -1875,6 +1859,22 @@
       "duration_ms": 220110,
       "name": "Cute (Recorded at Spotify Studios NYC)",
       "url": "https://open.spotify.com/track/0FwYn79fyv1lKn8bfPQWuw"
+    },
+    {
+      "added_at": "2023-01-30 18:50:49",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3D2gqS23LPeDSxof0n1ibZ"
+      },
+      "artists": [
+        {
+          "name": "Tune-Yards",
+          "url": "https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi"
+        }
+      ],
+      "duration_ms": 257588,
+      "name": "Sweet Dreams (Are Made of This) - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4GcyCCxIIV7Ed5pGK4S36G"
     },
     {
       "added_at": "2023-01-30 18:50:49",
@@ -1992,22 +1992,6 @@
       "added_at": "2023-01-30 18:50:49",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1"
-      },
-      "artists": [
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        }
-      ],
-      "duration_ms": 211202,
-      "name": "First Began - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG"
-    },
-    {
-      "added_at": "2023-01-30 18:50:49",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l"
       },
       "artists": [
@@ -2019,6 +2003,22 @@
       "duration_ms": 255553,
       "name": "Better Place - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/61YvXZaJ3r5P0ZLSmSjQjU"
+    },
+    {
+      "added_at": "2023-01-30 18:50:49",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "duration_ms": 211202,
+      "name": "First Began - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG"
     },
     {
       "added_at": "2023-01-30 18:50:49",

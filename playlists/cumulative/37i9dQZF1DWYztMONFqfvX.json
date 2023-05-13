@@ -620,10 +620,36 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 348965,
       "name": "Bulleya (From \"Ae Dil Hai Mushkil\") - Reprise",
       "url": "https://open.spotify.com/track/6BF9qGTbwHweKyit2gEtsa"
+    },
+    {
+      "album": {
+        "name": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348965,
+      "name": "Bulleya - Reprise",
+      "url": "https://open.spotify.com/track/0FeJltV3BtqpyQZ0hv49oi"
     },
     {
       "album": {
@@ -664,7 +690,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 290548,
       "name": "Daayre",
       "url": "https://open.spotify.com/track/0OQzbOu5JGo2LgtwJI04zO"
@@ -720,7 +746,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 245160,
       "name": "Dhokha",
       "url": "https://open.spotify.com/track/2aV8nAkyt5nsWdQTruzgmJ"
@@ -750,7 +776,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 303000,
       "name": "Dil Udd Ja Re",
       "url": "https://open.spotify.com/track/4Qf3kmy6VqG3jzDuzubfFz"
@@ -858,7 +884,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 220334,
       "name": "Gham Khushiyan",
       "url": "https://open.spotify.com/track/4gc3l647HDAdQAsDmKA32U"
@@ -914,7 +940,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 218644,
       "name": "Haan Main Galat",
       "url": "https://open.spotify.com/track/0MLZAgKQKHbPsJ12qHS860"
@@ -1438,7 +1464,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 226789,
       "name": "Pachtaoge (From \"Jaani Ve\")",
       "url": "https://open.spotify.com/track/5QVHNa0ppJUOoqSd36ovQS"
@@ -1520,7 +1546,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 183111,
       "name": "PS Anthem (From \"PS-2\") [Hindi]",
       "url": "https://open.spotify.com/track/6oB7bLzZYyyAFxQNNiId4x"
@@ -1605,6 +1631,28 @@
     },
     {
       "album": {
+        "name": "Jab Harry Met Sejal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4I39l0YJ7tmSBXZGZamN5E"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365669,
+      "name": "Safar",
+      "url": "https://open.spotify.com/track/3BpaZLc6j9cBUsvnh5kinR"
+    },
+    {
+      "album": {
         "name": "Safar (From \"Jab Harry Met Sejal\")",
         "url": "https://open.spotify.com/album/3dBqhNT7SK4Er8MXsBu1JI"
       },
@@ -1620,7 +1668,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 365669,
       "name": "Safar (From \"Jab Harry Met Sejal\")",
       "url": "https://open.spotify.com/track/4BH3FzJwNvjDpL8J78NMYM"
@@ -1764,7 +1812,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 283260,
       "name": "Soch Liya (From \"Radhe Shyam\")",
       "url": "https://open.spotify.com/track/3gc2Rho0Tn8i4LBgf6f2O5"
@@ -2066,7 +2114,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 252631,
       "name": "The Breakup Song (From \"Ae Dil Hai Mushkil\")",
       "url": "https://open.spotify.com/track/7BjQd0sfYsMGVrTpRdBNTT"
@@ -2180,7 +2228,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 313600,
       "name": "Yaariyan (reprise)",
       "url": "https://open.spotify.com/track/2pvaCuTrMVS6byOHCIQyHj"

@@ -4,7 +4,7 @@
 
 > Celebrando a los músicos Afro\-Latinos\. Cover: Tego Calderon
 
-219 songs - 12 hr 42 min
+221 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Ella No Es Tuya \- Remix](https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Ella No Es Tuya \(Remix\)](https://open.spotify.com/album/5Jk2ROWL8a4RxmFNiT8pvA) | 3:38 | 2022-02-18 | 2022-06-04 |
 | [Enjoy Yourself \(feat\. Karol G\)](https://open.spotify.com/track/3NWrHCwvyII4fTx05PN3IO) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:17 | 2021-12-21 | 2022-06-04 |
 | [EnVy](https://open.spotify.com/track/1iQiM6BGH52YVPMXVbM6mx) | [Rauli V](https://open.spotify.com/artist/1TyllKWCaozGr3Ytrw95FG) | [EnVy](https://open.spotify.com/album/7MEiQRRyWflSsXeenUGIsl) | 2:49 | 2022-06-03 |  |
-| [Esa Flaca](https://open.spotify.com/track/2e0EnlrAtFtzo4q91sR38G) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Esa Flaca](https://open.spotify.com/album/2k3ZEVpOgGtzuqxXK2PhvV) | 3:01 | 2022-06-03 |  |
+| [Esa Flaca](https://open.spotify.com/track/2e0EnlrAtFtzo4q91sR38G) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Esa Flaca](https://open.spotify.com/album/2k3ZEVpOgGtzuqxXK2PhvV) | 3:01 | 2022-06-03 | 2023-05-13 |
 | [Este Loko](https://open.spotify.com/track/75kntiN9imnekH6siBHc0x) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Este Loko](https://open.spotify.com/album/4V3FlnhiKbllFkqt9mxNnW) | 3:20 | 2022-02-18 | 2022-06-04 |
 | [Estrella](https://open.spotify.com/track/17hUeO3yozyGyXFzpEIX6D) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [El Sistema](https://open.spotify.com/album/0kDg1ceIubRuJHXyIRGrBM) | 3:34 | 2022-02-18 | 2022-06-04 |
 | [Experimento](https://open.spotify.com/track/6c32C8T3KlXrbvWSoD5aON) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Experimento](https://open.spotify.com/album/1KKwufGzWD4zIKqlBCtwWv) | 3:42 | 2021-12-21 | 2022-06-04 |
@@ -111,6 +111,7 @@
 | [La player \(Bandolera\)](https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [La Player \(Bandolera\)](https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi) | 4:09 | 2021-12-21 | 2022-06-04 |
 | [La Presa](https://open.spotify.com/track/0NLZDfMKJXHY6dtop4Bct0) | [El Perfect](https://open.spotify.com/artist/5AhKtthAZClvPD1x9flcyY), [Gailen La Moyeta](https://open.spotify.com/artist/0a7DjyuupA55K2NqWItRir) | [La Presa](https://open.spotify.com/album/4XgrDRMdsPDzaI9u4wxgiL) | 2:47 | 2022-02-18 | 2022-06-04 |
 | [La rebelion](https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Sabor a Salsa](https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z) | 6:16 | 2021-12-21 |  |
+| [La Receta](https://open.spotify.com/track/5F9UDD7ZNbmyRFYyb4qF2z) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [La Receta](https://open.spotify.com/album/2KcbwgVZYmXv6Zh0hpY12y) | 2:55 | 2023-05-12 |  |
 | [La Vida Vale la Pena](https://open.spotify.com/track/6JOzfwVljrGuLdN7umkXQF) | [Petrona Martinez](https://open.spotify.com/artist/2RdqdnFd1SZmabqOfCBFCa) | [Bonito que Canta](https://open.spotify.com/album/0cFDDmABXYhxZygOjOFwSr) | 4:19 | 2022-06-06 |  |
 | [Latinos](https://open.spotify.com/track/1TbeGWYTrGMaDCrAE9QiCE) | [Aldo Ranks](https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3) | [The Real Father](https://open.spotify.com/album/1WhHA1YHllkFJmww2UqejO) | 3:31 | 2021-12-21 | 2022-06-04 |
 | [Latinos](https://open.spotify.com/track/5Ym38eMwTsm4P4aEEMlxlJ) | [Aldo Ranks](https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3) | [Latinos](https://open.spotify.com/album/4aRHR4cVo99A4Zp1XTgL30) | 3:31 | 2022-06-03 |  |
@@ -119,7 +120,7 @@
 | [Llame Pa Verte](https://open.spotify.com/track/3FSanXllfpD7nfdbSC6Vpr) | [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3) | [Llame Pa Verte](https://open.spotify.com/album/0SR23EVGsxxM2mNh1bezSD) | 2:49 | 2021-12-21 | 2022-06-04 |
 | [Llevo La Vainita](https://open.spotify.com/track/1r7AXKQ0MQt3n65UYQ4XVF) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [Llevo La Vainita](https://open.spotify.com/album/2v4PGOWo3I1mohKUjIqrjy) | 2:40 | 2021-12-21 | 2022-06-04 |
 | [Lloraras](https://open.spotify.com/track/23Fw0qh3Onqn2276LiL2pT) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [15 Exitos De\- Oscar D Leon](https://open.spotify.com/album/412ARc7ByOTB5iwnc6fZ6i) | 3:41 | 2021-12-21 | 2022-06-04 |
-| [Loiza](https://open.spotify.com/track/6iJa6ly8IIwuOzoOZtnXfw) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 3:10 | 2021-12-21 |  |
+| [Loiza](https://open.spotify.com/track/6iJa6ly8IIwuOzoOZtnXfw) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 3:10 | 2021-12-21 | 2023-05-13 |
 | [Los Angeles](https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Sweet & Sour](https://open.spotify.com/album/006vB71xTBRqzQREjfYREf) | 2:43 | 2023-02-10 |  |
 | [Los del Vacile](https://open.spotify.com/track/6zRfU66M8zO2pzXAo30cS9) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [Los del Vacile](https://open.spotify.com/album/56E7fOtgpDD6FoMm5qtN3Z) | 3:33 | 2023-02-10 |  |
 | [Luces](https://open.spotify.com/track/0MYtnIKlYPYzVZfi1vSPFd) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Luces](https://open.spotify.com/album/7rnxldpaYk6eyIZQcriFrW) | 3:45 | 2023-02-10 |  |
@@ -145,6 +146,7 @@
 | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr) | 2:53 | 2022-06-06 |  |
 | [Negrita](https://open.spotify.com/track/41p7vS76inehRNOSwYMrNx) | [Nitty Scott](https://open.spotify.com/artist/1Ah5AeHBzgy2b4u6sJtkLg) | [Creature!](https://open.spotify.com/album/4DcsUwb7h7ZxuGffs9q3Gd) | 2:35 | 2022-06-06 |  |
 | [Nena](https://open.spotify.com/track/4fWY8QZsAhEF0WeI20QhMj) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Nena](https://open.spotify.com/album/6GeMiynuj56geayA7AqRra) | 2:33 | 2022-02-18 | 2022-06-04 |
+| [NO AZARA](https://open.spotify.com/track/6ZN6U9DZFVaquehTHGGag5) | [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY), [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [NO AZARA](https://open.spotify.com/album/6HbbphcRcKCbvbO6XHppND) | 2:29 | 2023-05-12 |  |
 | [No Me Digas Na](https://open.spotify.com/track/5LzKV4AtUy1aKli3YzBVxI) | [Los Rakas](https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0) | [No Me Digas Na](https://open.spotify.com/album/3emNvqkL2u9f9jmYstShGi) | 2:42 | 2021-12-21 | 2022-06-04 |
 | [No Me Llama](https://open.spotify.com/track/6DOHZ1IrtW0KTeJEGPVtIY) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [El Sistema](https://open.spotify.com/album/0kDg1ceIubRuJHXyIRGrBM) | 3:11 | 2022-02-18 | 2022-06-04 |
 | [NO TE VAYAS](https://open.spotify.com/track/6265pP7vOElddtF32MJmts) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [DIADREAMER](https://open.spotify.com/album/3dMeA8bEA9Ianbh9mnyhU9) | 3:10 | 2022-06-03 | 2023-02-11 |

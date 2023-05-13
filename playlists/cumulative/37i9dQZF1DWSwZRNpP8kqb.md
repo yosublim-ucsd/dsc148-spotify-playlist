@@ -4,7 +4,7 @@
 
 > Cantoras y compositoras de nuestra tierra, con Sele Vera en portada.
 
-129 songs - 7 hr 35 min
+131 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Jujuy Mujer](https://open.spotify.com/track/4tEpS58KfHWzvRCchFktCT) | [Milena Salamanca](https://open.spotify.com/artist/0gEntoAjPckYFid9Mxw6Y2) | [K'arallanta](https://open.spotify.com/album/5Hh7brIrWNPeoZyXUIXH61) | 4:54 | 2022-09-06 |  |
 | [La Arruguita](https://open.spotify.com/track/27ZRd4JyUtaRAx6RgKNZET) | [Mavi Diaz &  Las Folkies](https://open.spotify.com/artist/7hxEyNaUhWIl2tBNYBXR9Z) | [Gaucha](https://open.spotify.com/album/03OShV7EW4Q1AGy3MbLkE0) | 1:47 | 2022-01-14 | 2023-04-29 |
 | [La Calle Soledad](https://open.spotify.com/track/0NRUAijlDhuHmTumwcjc2q) | [Belén Herrera](https://open.spotify.com/artist/63VCBwAH0mfhJsOezGMbe4) | [Tucumana](https://open.spotify.com/album/3ZRoq7AUTKnwhkrEia1MBG) | 2:35 | 2022-01-14 | 2022-09-07 |
-| [La Canastita](https://open.spotify.com/track/43AzIdY7QJbDuxMx11Fozi) | [Melania Perez](https://open.spotify.com/artist/4kBzSQOAfn2TbUvsc8auN6) | [Luz Del Aire](https://open.spotify.com/album/05gqff5GwrLBXnk2WErcdj) | 3:18 | 2022-01-14 |  |
+| [La Canastita](https://open.spotify.com/track/43AzIdY7QJbDuxMx11Fozi) | [Melania Perez](https://open.spotify.com/artist/4kBzSQOAfn2TbUvsc8auN6) | [Luz Del Aire](https://open.spotify.com/album/05gqff5GwrLBXnk2WErcdj) | 3:18 | 2022-01-14 | 2023-05-13 |
 | [La Copla Triste](https://open.spotify.com/track/6nseIjjosmhP2oLfCzm3Zc) | [María y Cosecha](https://open.spotify.com/artist/5kOLdtx8iK9p4Ka01J1wEH) | [Agosto](https://open.spotify.com/album/3Zknqrbbw1TiFoeDLeJnl7) | 3:26 | 2022-01-14 |  |
 | [La de los Humildes](https://open.spotify.com/track/1bJWTTxX4kvVTRTfoELBj5) | [Nadia Larcher](https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5) | [Armando Tejada Gómez \(Vol\. 1\)](https://open.spotify.com/album/3k8qtfOFpjsZumRMkI0zrs) | 4:29 | 2022-01-14 | 2022-07-29 |
 | [La de los Humildes](https://open.spotify.com/track/2xoJstLwBDTtczvKUI6F7A) | [Nadia Larcher](https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5) | [Armando Tejada Gómez](https://open.spotify.com/album/6hYlxzIksLuMOyDGK4yx9c) | 4:29 | 2022-07-08 | 2022-09-24 |
@@ -85,6 +85,7 @@
 | [La Maimareña](https://open.spotify.com/track/4hsuc4Xq5UfZMoYpA3H72J) | [Julia Elena Dávalos](https://open.spotify.com/artist/6znApi0MuZQEpmkAroh1IU) | [Cantora](https://open.spotify.com/album/7vwAQYRjCKPReZYIQYwp29) | 2:53 | 2022-01-14 |  |
 | [La Marejada](https://open.spotify.com/track/4OGGt6aw0DeNR1UQW1APN9) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [La Charo](https://open.spotify.com/album/2f2aoYUcR17shrpyTe6fj8) | 3:27 | 2022-09-06 |  |
 | [La Noche Sin Ti](https://open.spotify.com/track/2u6BZDzWCs4OLcneXXaJjh) | [Mariel Trimaglio](https://open.spotify.com/artist/2S6kkn26CPRWCsBoY6L1Bu) | [La Noche Sin Ti](https://open.spotify.com/album/5WUPK5lwWj0QSSorIl3cOU) | 4:44 | 2022-01-14 |  |
+| [La Paloma](https://open.spotify.com/track/1xbueGvTrxbpYNtOSFKdTJ) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Paloma](https://open.spotify.com/album/6DgVAve7m06lb2ubFqp3J3) | 3:44 | 2023-05-12 |  |
 | [Las Tres Marias](https://open.spotify.com/track/2kdfzSsLYAmnMgdMXlRKKN) | [Ramona Galarza](https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm), [Los Reyes Del Chamame](https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom) | [Coleccion Aniversario](https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW) | 2:00 | 2022-01-14 |  |
 | [Lavandera Chaguanca](https://open.spotify.com/track/4uiEqRKRJxswSeqsXbnS4s) | [Luna Monti](https://open.spotify.com/artist/1ujuID79Vnw9o2AQFfLPPd) | [Dentro, El Silencio](https://open.spotify.com/album/4Cba7B2IzOrJ76Eqi8mXkw) | 5:20 | 2022-01-14 | 2022-09-07 |
 | [Lavanderas de Rio Chico](https://open.spotify.com/track/6PqlcAD1TCO4peWsXif4UF) | [Lorena Astudillo](https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y) | [Lorena Canta al Cuchi](https://open.spotify.com/album/0h61QvK5npqN6hf9XG1rX0) | 4:20 | 2022-09-06 |  |
@@ -115,8 +116,9 @@
 | [Saravá](https://open.spotify.com/track/5Cd4EkEdeDppjU3DpGduWV) | [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda) | [Saravá](https://open.spotify.com/album/67RXMS6LdgDRTQpjCSjjGi) | 4:03 | 2022-12-09 | 2023-05-01 |
 | [Secretos](https://open.spotify.com/track/0KMwXfkFUQvhL2JpVnf3gY) | [Nosas](https://open.spotify.com/artist/12uumDdB9e1f4J4qyC4p03) | [Melodías que sobran](https://open.spotify.com/album/1ct9yz0dqbKdqEhh6hcsWI) | 3:28 | 2022-01-14 | 2023-04-06 |
 | [Serenata para la Tierra de Uno](https://open.spotify.com/track/3SAz3P2BWThVMybST6mG1T) | [Fabiana Pérez](https://open.spotify.com/artist/1pYtrPL902RbBnGv3LmTuZ) | [Volver a Mí](https://open.spotify.com/album/6jVYP8Owj1Q69DD5xSGoJx) | 3:57 | 2022-01-14 | 2022-07-28 |
+| [Si Pudiera](https://open.spotify.com/track/2S9oyHCvXTaaIFm2dkpwge) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Si Pudiera](https://open.spotify.com/album/1wMLkuAbaKSaqZr11xG32C) | 2:53 | 2023-05-12 |  |
 | [Sol de los Andes](https://open.spotify.com/track/2k9snEi03Da0tGwkUYhPH5) | [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda), [Bruno Arias](https://open.spotify.com/artist/59OheJsvimLlXWvuL9j7Df) | [Madre Tierra](https://open.spotify.com/album/46cdt75AjwW40xO5MPfweX) | 4:36 | 2022-09-06 |  |
-| [Tanto Amor](https://open.spotify.com/track/0UYDmAoE8TMg4on6RTlk4S) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Tanto Amor](https://open.spotify.com/album/1tazdXlkpmlZAEOZTnMvH5) | 3:46 | 2022-05-13 |  |
+| [Tanto Amor](https://open.spotify.com/track/0UYDmAoE8TMg4on6RTlk4S) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Tanto Amor](https://open.spotify.com/album/1tazdXlkpmlZAEOZTnMvH5) | 3:46 | 2022-05-13 | 2023-05-13 |
 | [Tanto Amor](https://open.spotify.com/track/2RH3mx7Oakol0sKd7dF07S) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Tanto Amor](https://open.spotify.com/album/65bHLqYJeXeuIkSOEKxXuL) | 2:42 | 2022-09-06 |  |
 | [Tarareando](https://open.spotify.com/track/5fLx7hgsaS7EVNywp5OX4v) | [Verónica Parodi](https://open.spotify.com/artist/2gKJo1n1Do1VPhGp7SBFTn), [Lula Parodi](https://open.spotify.com/artist/5QzVgcaaezCWAOZ1snUhgo), [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Tarareando](https://open.spotify.com/album/14557MiUml9MPmuxV4E2BZ) | 4:25 | 2022-01-14 | 2022-09-07 |
 | [Tarareando](https://open.spotify.com/track/57xg7b2ktHnzQv3l5Vo2Oc) | [Verónica Parodi](https://open.spotify.com/artist/2gKJo1n1Do1VPhGp7SBFTn), [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Lula Parodi](https://open.spotify.com/artist/5QzVgcaaezCWAOZ1snUhgo) | [Tarareando, Con los Pies Descalzos](https://open.spotify.com/album/0svY4zLKY4AAmAY6ZgwvUk) | 4:27 | 2022-12-09 |  |

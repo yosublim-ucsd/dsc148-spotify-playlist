@@ -2002,7 +2002,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 229653,
       "name": "friends",
       "url": "https://open.spotify.com/track/0K958nrYqQ94HznXAQ8cWi"
@@ -2572,7 +2572,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 190141,
       "name": "I'm In Love",
       "url": "https://open.spotify.com/track/6WDzwUTAOcCRVTiOi87yO3"
@@ -2988,7 +2988,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-05",
+      "date_removed": null,
       "duration_ms": 250400,
       "name": "Left Alone feat. \u571f\u5c90\u9ebb\u5b50",
       "url": "https://open.spotify.com/track/1lIbuuAIcqM0Ft7nHixt25"
@@ -4858,7 +4858,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 203588,
       "name": "Sentimental - Neon Mix",
       "url": "https://open.spotify.com/track/7M2hoIlOzvuEzEETqRRQbn"
@@ -5362,7 +5362,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 187557,
       "name": "STARLIGHT",
       "url": "https://open.spotify.com/track/7gg611kXgkFXDwEdAAYSOD"
@@ -6250,7 +6250,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-10",
+      "date_removed": null,
       "duration_ms": 241866,
       "name": "Treasure",
       "url": "https://open.spotify.com/track/5run1AkGCGYegjLSlsmvZn"
@@ -6290,7 +6290,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 230319,
       "name": "U.F.O",
       "url": "https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j"
@@ -6337,6 +6337,28 @@
     },
     {
       "album": {
+        "name": "The Lover",
+        "url": "https://open.spotify.com/album/0QCyj1UlVJQ91sFNqHx9nc"
+      },
+      "artists": [
+        {
+          "name": "haruno",
+          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
+        },
+        {
+          "name": "CHIAKI SATO",
+          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225369,
+      "name": "Venus Flytrap feat. Chiaki Sato",
+      "url": "https://open.spotify.com/track/51tgAkF9HE14FIR4iYN8K3"
+    },
+    {
+      "album": {
         "name": "Venus Flytrap feat. Chiaki Sato",
         "url": "https://open.spotify.com/album/0RjeR3PLe9fCu7G3bQh96v"
       },
@@ -6352,7 +6374,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 225967,
       "name": "Venus Flytrap feat. Chiaki Sato",
       "url": "https://open.spotify.com/track/1YXrGKtu8iNnBl1tL6EvdH"
@@ -6680,7 +6702,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 181040,
       "name": "Your Song On The Radio",
       "url": "https://open.spotify.com/track/1IQshfYUQE7H2z00aRMTqE"

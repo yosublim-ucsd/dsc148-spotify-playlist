@@ -1,12 +1,12 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Lazza",
-  "num_followers": 177099,
+  "num_followers": 177253,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmNjMDRlZjFhYmM0NmM5NjBjNWQ4N2YyNWJhNjNlYTU1YmJjNzM1",
+  "snapshot_id": "MCwyOTM4YzEwNTQ5ZjI0YjNlZDNkMzA0MjMzYzQwNjM5Mjk2NTQzNzYx",
   "tracks": [
     {
       "added_at": "2023-03-06 09:14:27",
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/3h043RAJ7tKaG1HDFeet6w"
     },
     {
-      "added_at": "2023-05-12 00:45:09",
+      "added_at": "2023-05-13 00:39:37",
       "album": {
         "name": "CENERE",
         "url": "https://open.spotify.com/album/3jbwWq0IsEUjrQ6wBUqYzh"
@@ -267,22 +267,18 @@
     {
       "added_at": "2023-03-06 09:14:27",
       "album": {
-        "name": "Mamma Mia",
-        "url": "https://open.spotify.com/album/4hPNVvtU3MXV6Oefi11Zx3"
+        "name": "Sfera Ebbasta",
+        "url": "https://open.spotify.com/album/0jCjYC7ABAxCsSf0wqFbsc"
       },
       "artists": [
         {
           "name": "Sfera Ebbasta",
           "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
         }
       ],
-      "duration_ms": 166796,
-      "name": "Mamma Mia",
-      "url": "https://open.spotify.com/track/7d7xucQmFY7PoESyJm2V9J"
+      "duration_ms": 187573,
+      "name": "Visiera A Becco",
+      "url": "https://open.spotify.com/track/4ySxBjhmdnkeFUqhKxW3cY"
     },
     {
       "added_at": "2023-03-06 09:14:27",
@@ -391,18 +387,22 @@
     {
       "added_at": "2023-03-06 09:14:27",
       "album": {
-        "name": "Sfera Ebbasta",
-        "url": "https://open.spotify.com/album/0jCjYC7ABAxCsSf0wqFbsc"
+        "name": "Mamma Mia",
+        "url": "https://open.spotify.com/album/4hPNVvtU3MXV6Oefi11Zx3"
       },
       "artists": [
         {
           "name": "Sfera Ebbasta",
           "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
         }
       ],
-      "duration_ms": 187573,
-      "name": "Visiera A Becco",
-      "url": "https://open.spotify.com/track/4ySxBjhmdnkeFUqhKxW3cY"
+      "duration_ms": 166796,
+      "name": "Mamma Mia",
+      "url": "https://open.spotify.com/track/7d7xucQmFY7PoESyJm2V9J"
     },
     {
       "added_at": "2023-03-06 09:14:27",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-03-06 09:14:27",
       "album": {
+        "name": "Cancelo",
+        "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Cancelo",
+      "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
+    },
+    {
+      "added_at": "2023-03-06 09:14:27",
+      "album": {
         "name": "Dark Love EP",
         "url": "https://open.spotify.com/album/5Z5JxIgeTDnZdg6pLootUs"
       },
@@ -599,18 +615,22 @@
     {
       "added_at": "2023-03-06 09:14:27",
       "album": {
-        "name": "Cancelo",
-        "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
+        "name": "Orange County California",
+        "url": "https://open.spotify.com/album/7GWVPJPcu8o1LCw94e5Rew"
       },
       "artists": [
         {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         }
       ],
-      "duration_ms": 174545,
-      "name": "Cancelo",
-      "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
+      "duration_ms": 198026,
+      "name": "Lingerie",
+      "url": "https://open.spotify.com/track/1HEGcG1QUJfyyPfq5EMF9b"
     },
     {
       "added_at": "2023-03-06 09:14:27",
@@ -635,26 +655,6 @@
       "duration_ms": 237701,
       "name": "s!r! (feat. Lazza & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/3gUzi41YOt3VExeyHSLsMj"
-    },
-    {
-      "added_at": "2023-03-06 09:14:27",
-      "album": {
-        "name": "Orange County California",
-        "url": "https://open.spotify.com/album/7GWVPJPcu8o1LCw94e5Rew"
-      },
-      "artists": [
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "Lingerie",
-      "url": "https://open.spotify.com/track/1HEGcG1QUJfyyPfq5EMF9b"
     },
     {
       "added_at": "2023-03-06 09:14:27",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-03-06 09:14:27",
       "album": {
-        "name": "23 6451",
-        "url": "https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO"
-      },
-      "artists": [
-        {
-          "name": "thasup",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
-        }
-      ],
-      "duration_ms": 183762,
-      "name": "ch1 5ei te",
-      "url": "https://open.spotify.com/track/0tRj4m46GRFrBS7IsbS0Gk"
-    },
-    {
-      "added_at": "2023-03-06 09:14:27",
-      "album": {
         "name": "Davide",
         "url": "https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 180346,
       "name": "Lo Sai Che Ci Penso",
       "url": "https://open.spotify.com/track/6qE4ocLpaSUkWYrcpbPN7Z"
+    },
+    {
+      "added_at": "2023-03-06 09:14:27",
+      "album": {
+        "name": "23 6451",
+        "url": "https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO"
+      },
+      "artists": [
+        {
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        }
+      ],
+      "duration_ms": 183762,
+      "name": "ch1 5ei te",
+      "url": "https://open.spotify.com/track/0tRj4m46GRFrBS7IsbS0Gk"
     },
     {
       "added_at": "2023-03-06 09:14:27",
@@ -1039,18 +1039,22 @@
     {
       "added_at": "2023-03-06 09:14:27",
       "album": {
-        "name": "23 6451",
-        "url": "https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO"
+        "name": "Davide",
+        "url": "https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8"
       },
       "artists": [
         {
-          "name": "thasup",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
         }
       ],
-      "duration_ms": 161266,
-      "name": "fuck 3x",
-      "url": "https://open.spotify.com/track/5YxP1CkunbhUQVvctFOHa7"
+      "duration_ms": 206211,
+      "name": "Davide (feat. Coez)",
+      "url": "https://open.spotify.com/track/1Lq5ApqhIWUXzlryFX2K6J"
     },
     {
       "added_at": "2023-03-06 09:14:27",
@@ -1095,38 +1099,18 @@
     {
       "added_at": "2023-03-06 09:14:27",
       "album": {
-        "name": "Davide",
-        "url": "https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8"
+        "name": "23 6451",
+        "url": "https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO"
       },
       "artists": [
         {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        },
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
         }
       ],
-      "duration_ms": 206211,
-      "name": "Davide (feat. Coez)",
-      "url": "https://open.spotify.com/track/1Lq5ApqhIWUXzlryFX2K6J"
-    },
-    {
-      "added_at": "2023-03-06 09:14:27",
-      "album": {
-        "name": "Bellaria",
-        "url": "https://open.spotify.com/album/68nhU5oObeTv5qNosFuVAD"
-      },
-      "artists": [
-        {
-          "name": "Vegas Jones",
-          "url": "https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp"
-        }
-      ],
-      "duration_ms": 211518,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/08AN0HMXNr3DGGDCOWsTAw"
+      "duration_ms": 161266,
+      "name": "fuck 3x",
+      "url": "https://open.spotify.com/track/5YxP1CkunbhUQVvctFOHa7"
     },
     {
       "added_at": "2023-03-06 09:14:27",
@@ -1147,22 +1131,18 @@
     {
       "added_at": "2023-03-06 09:14:27",
       "album": {
-        "name": "Mon Fre (feat. Emis Killa)",
-        "url": "https://open.spotify.com/album/77lRpzVsAaD51GUhOpQd3K"
+        "name": "Bellaria",
+        "url": "https://open.spotify.com/album/68nhU5oObeTv5qNosFuVAD"
       },
       "artists": [
         {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+          "name": "Vegas Jones",
+          "url": "https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp"
         }
       ],
-      "duration_ms": 224150,
-      "name": "Mon Fre - feat. Emis Killa",
-      "url": "https://open.spotify.com/track/4dDMgEj5GpBTI1lvVlYPu7"
+      "duration_ms": 211518,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/08AN0HMXNr3DGGDCOWsTAw"
     },
     {
       "added_at": "2023-03-06 09:14:27",
@@ -1179,6 +1159,26 @@
       "duration_ms": 180009,
       "name": "Torna Da Me",
       "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
+    },
+    {
+      "added_at": "2023-03-06 09:14:27",
+      "album": {
+        "name": "Mon Fre (feat. Emis Killa)",
+        "url": "https://open.spotify.com/album/77lRpzVsAaD51GUhOpQd3K"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "duration_ms": 224150,
+      "name": "Mon Fre - feat. Emis Killa",
+      "url": "https://open.spotify.com/track/4dDMgEj5GpBTI1lvVlYPu7"
     },
     {
       "added_at": "2023-03-06 09:14:27",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2023-03-06 09:14:27",
       "album": {
+        "name": "Kepler",
+        "url": "https://open.spotify.com/album/4ylUcWOFP2UR8of9Pw0kog"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
+        }
+      ],
+      "duration_ms": 187615,
+      "name": "Blue Sky",
+      "url": "https://open.spotify.com/track/1WOeWKKfUxx8hlH8RSRjfV"
+    },
+    {
+      "added_at": "2023-03-06 09:14:27",
+      "album": {
         "name": "Re Mida",
         "url": "https://open.spotify.com/album/4OEhFBWot75bQO4s9K2gGk"
       },
@@ -1247,6 +1267,22 @@
       "duration_ms": 200146,
       "name": "Catrame (feat. Tedua)",
       "url": "https://open.spotify.com/track/5qbVso0dAtoI2gFhj7V8oG"
+    },
+    {
+      "added_at": "2023-03-06 09:14:27",
+      "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 205266,
+      "name": "LUNEDI'",
+      "url": "https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B"
     },
     {
       "added_at": "2023-03-06 09:14:27",
@@ -1271,62 +1307,6 @@
     {
       "added_at": "2023-03-06 09:14:27",
       "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
-      },
-      "artists": [
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 205266,
-      "name": "LUNEDI'",
-      "url": "https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B"
-    },
-    {
-      "added_at": "2023-03-06 09:14:27",
-      "album": {
-        "name": "Kepler",
-        "url": "https://open.spotify.com/album/4ylUcWOFP2UR8of9Pw0kog"
-      },
-      "artists": [
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        },
-        {
-          "name": "MadMan",
-          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
-        }
-      ],
-      "duration_ms": 187615,
-      "name": "Blue Sky",
-      "url": "https://open.spotify.com/track/1WOeWKKfUxx8hlH8RSRjfV"
-    },
-    {
-      "added_at": "2023-03-06 09:14:27",
-      "album": {
-        "name": "Angelina Jolie",
-        "url": "https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR"
-      },
-      "artists": [
-        {
-          "name": "Bresh",
-          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
-        },
-        {
-          "name": "SHUNE",
-          "url": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
-        }
-      ],
-      "duration_ms": 169671,
-      "name": "Angelina Jolie",
-      "url": "https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK"
-    },
-    {
-      "added_at": "2023-03-06 09:14:27",
-      "album": {
         "name": "Mr. Fini",
         "url": "https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf"
       },
@@ -1347,6 +1327,26 @@
       "duration_ms": 201931,
       "name": "Chico (feat. Rose Villain & Luch\u00e8)",
       "url": "https://open.spotify.com/track/3sUzeeqRtfBfJAkk8qb8Pd"
+    },
+    {
+      "added_at": "2023-03-06 09:14:27",
+      "album": {
+        "name": "Angelina Jolie",
+        "url": "https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR"
+      },
+      "artists": [
+        {
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        },
+        {
+          "name": "SHUNE",
+          "url": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
+        }
+      ],
+      "duration_ms": 169671,
+      "name": "Angelina Jolie",
+      "url": "https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK"
     },
     {
       "added_at": "2023-03-06 09:14:27",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2023-03-06 09:14:27",
       "album": {
-        "name": "Back Home",
-        "url": "https://open.spotify.com/album/5b64UDoCcx1v1MSeAAz5We"
-      },
-      "artists": [
-        {
-          "name": "MadMan",
-          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
-        },
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        }
-      ],
-      "duration_ms": 184304,
-      "name": "Centro (feat. Coez)",
-      "url": "https://open.spotify.com/track/6DGl9TtxYTpMFrmZa1mwEz"
-    },
-    {
-      "added_at": "2023-03-06 09:14:27",
-      "album": {
         "name": "Scialla Semper (Emodrill Repack)",
         "url": "https://open.spotify.com/album/6nIBGD2Z0TbFrNcFOfhHVJ"
       },
@@ -1771,6 +1751,26 @@
       "duration_ms": 249303,
       "name": "Polo nord - C+N Progressive Mix",
       "url": "https://open.spotify.com/track/1Wbc0N0X1zkFqnKGcj8Quh"
+    },
+    {
+      "added_at": "2023-03-06 09:14:27",
+      "album": {
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/5b64UDoCcx1v1MSeAAz5We"
+      },
+      "artists": [
+        {
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
+        },
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "duration_ms": 184304,
+      "name": "Centro (feat. Coez)",
+      "url": "https://open.spotify.com/track/6DGl9TtxYTpMFrmZa1mwEz"
     },
     {
       "added_at": "2023-03-06 09:14:27",

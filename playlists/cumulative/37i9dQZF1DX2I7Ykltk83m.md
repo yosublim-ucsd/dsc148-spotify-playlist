@@ -4,7 +4,7 @@
 
 > killer songs from badass artists\. Cover: Indigo De Souza
 
-346 songs - 20 hr 59 min
+347 songs - 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Free to Live in Colour](https://open.spotify.com/track/4LqnVwGQlJQ7HvW8tEA9vp) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Free to Live in Colour](https://open.spotify.com/album/4luQOplfg3mJ2MnNy2rT5X) | 3:14 | 2021-11-14 | 2022-10-13 |
 | [Gasoline \(feat\. Taylor Swift\)](https://open.spotify.com/track/645Exr2lJIO45Guht3qyIa) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:13 | 2023-01-27 |  |
 | [Go Outside](https://open.spotify.com/track/2K2CrQx5sK9i6A5EeDpUDn) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [Happy Birthday, Ratboy](https://open.spotify.com/album/0LqZlJQ8AA0L7WAszLSKwn) | 2:49 | 2021-11-14 | 2023-04-30 |
+| [Go Outside](https://open.spotify.com/track/2OnKQdktx8Ri0Fhto8lYTk) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [Happy Birthday, Ratboy](https://open.spotify.com/album/2MJKg2QIVQtkOSUAme4hjO) | 2:49 | 2023-04-28 |  |
 | [God Knows Why](https://open.spotify.com/track/1mHy45rJNN6eT0P7Kuecg8) | [Jenny O.](https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0) | [New Truth](https://open.spotify.com/album/2LS3eg9v6U1KFpdvmqmuPE) | 3:01 | 2021-11-14 | 2022-07-29 |
 | [Good Thing](https://open.spotify.com/track/3oVPWIRcX4lTde9nMUxTmX) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Good Thing](https://open.spotify.com/album/5zq4azS8yD6fil5tnqr1g5) | 4:12 | 2021-11-14 | 2023-01-28 |
 | [Gr8 Timing!](https://open.spotify.com/track/511kEIRuxRcL2wsVlDE3kb) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [You Have Got to Be Kidding Me](https://open.spotify.com/album/5XV6aFSI9E0VICP6YnWBzN) | 2:37 | 2022-05-20 | 2022-07-25 |
@@ -297,7 +298,7 @@
 | [SYT](https://open.spotify.com/track/4YeLHxEmSn2hMYiaWKRExi) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [SYT](https://open.spotify.com/album/3RyVPhaH7sR5PA7bZxoehS) | 3:23 | 2022-10-07 |  |
 | [Talk](https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Talk](https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV) | 2:38 | 2022-04-01 |  |
 | [Tears Are Falling](https://open.spotify.com/track/3JAu0EQd84Mhu8RMLuwhsf) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Tears Are Falling](https://open.spotify.com/album/1Jy6QtG48t50gXKbxu3tcn) | 2:44 | 2022-04-15 | 2022-06-29 |
-| [Tell Me What You Want](https://open.spotify.com/track/3x7efaACPC2GmXnsH1nD7B) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Tell Me What You Want](https://open.spotify.com/album/3VdUpn61KkhDfUlerooRwD) | 4:02 | 2023-03-10 |  |
+| [Tell Me What You Want](https://open.spotify.com/track/3x7efaACPC2GmXnsH1nD7B) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Tell Me What You Want](https://open.spotify.com/album/3VdUpn61KkhDfUlerooRwD) | 4:02 | 2023-03-10 | 2023-05-13 |
 | [That's Life Honey](https://open.spotify.com/track/41EWCCqujOEoyQreiu9pt2) | [Boy Scouts](https://open.spotify.com/artist/02fo9VYWbuaOVly5sEjd5V) | [That's Life Honey](https://open.spotify.com/album/0Dto3sJrxxHp4GEy12KAI1) | 3:02 | 2021-11-14 | 2022-07-29 |
 | [That's Life Honey](https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ) | [Boy Scouts](https://open.spotify.com/artist/02fo9VYWbuaOVly5sEjd5V) | [Wayfinder](https://open.spotify.com/album/5wRHPgsA4wtC2zDTOyp7DN) | 3:02 | 2022-05-20 | 2023-03-08 |
 | [The Bus Song](https://open.spotify.com/track/2dH6JDf5L4kQnDAtxBNeio) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Everybody Works](https://open.spotify.com/album/1ZMtgC7o6TGbzwkv5SpThU) | 3:36 | 2022-04-01 | 2022-05-19 |

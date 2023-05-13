@@ -4,7 +4,7 @@
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu?si=lXygR8XNTOmWchcoEDKwcQ"> Suté Iwar</a>
 
-390 songs - 19 hr 20 min
+391 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Love Me](https://open.spotify.com/track/5OG3fwH8vjE3pU6FwFVI5x) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Love Me](https://open.spotify.com/album/4NSFkhmvAQIaXL9f1Qw57e) | 3:18 | 2022-09-29 | 2023-01-28 |
 | [Love Sick](https://open.spotify.com/track/5jahNLedLxT9dTBcgb6hMn) | [Kwabsmah](https://open.spotify.com/artist/7zHkgmNbakU3qbOTVxYnYT) | [Love Sick](https://open.spotify.com/album/3TnN0O1Q5BPdNzxbHgVncD) | 2:43 | 2022-11-15 | 2022-12-14 |
 | [Love, Today](https://open.spotify.com/track/1LoCwW6zCCmuLxDU8p06Q8) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Don't Look Down!](https://open.spotify.com/album/6DEAfTTihu0p1nNkti8Bn0) | 3:26 | 2022-09-01 | 2023-02-04 |
+| [Loving You](https://open.spotify.com/track/3hMFV4kyz0XkLYXLneEvqw) | [Welmz](https://open.spotify.com/artist/1tQiHnuwQxWAAaFHyTqRFu), [Aderinsola Adeyemi](https://open.spotify.com/artist/7FFvaEjo5whoDkKGayjqf7) | [Loving You](https://open.spotify.com/album/0s6OouXXqvm1fGHarO3t41) | 2:47 | 2023-05-12 |  |
 | [Low eyes](https://open.spotify.com/track/1Yo8mvFfFQswraMF7uuhIn) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY), [Iordan](https://open.spotify.com/artist/3pUxEfvD8SmdUQONUmfqZo) | [Low eyes](https://open.spotify.com/album/5BKCapyPTSHptN7k2oAxXX) | 2:11 | 2023-04-14 | 2023-04-21 |
 | [Maame Water](https://open.spotify.com/track/63jrtMT19fAZsOfEz0sdAU) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs) | [Maame Water](https://open.spotify.com/album/1g5iCtBlXt5J7DtdDb6iCS) | 2:59 | 2023-03-30 |  |
 | [Many Man](https://open.spotify.com/track/4R2luhzq04pJjSQWNOiY0S) | [Stainless](https://open.spotify.com/artist/5Y6MOzpao9KN6cjk0tUlmT) | [Many Man](https://open.spotify.com/album/46cAEUCfM1djPs5ydCww2C) | 2:36 | 2023-04-14 | 2023-05-05 |
@@ -300,7 +301,7 @@
 | [Relationship](https://open.spotify.com/track/6CypiZh1I7VSPE9tyzvEK4) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Relationship](https://open.spotify.com/album/6O0aLo7VWNZPkkBC4TfQ8F) | 2:52 | 2023-05-11 |  |
 | [Reset](https://open.spotify.com/track/0Q6jkBbLRzXz4KbsV5UNR3) | [Jay Moore](https://open.spotify.com/artist/0xCBpVSxe0bO6Y7u3B3w5P) | [Reset](https://open.spotify.com/album/73hyqkKdESZxZTmlJ8Per4) | 3:08 | 2023-05-04 | 2023-05-07 |
 | [Reset](https://open.spotify.com/track/1jTwBWxpS7qBJCRLjBbzQb) | [Jay Moore](https://open.spotify.com/artist/0xCBpVSxe0bO6Y7u3B3w5P) | [Reset](https://open.spotify.com/album/1TTBkJTbLUBKE8JgKf1Weh) | 3:08 | 2023-05-04 | 2023-05-12 |
-| [Rest My Case](https://open.spotify.com/track/54I5MSvbijyqMfB0Ci0Lvc) | [Kvngs](https://open.spotify.com/artist/1SxJBIJJbaj2fpni5DNoXU) | [Rest My Case](https://open.spotify.com/album/0ipjnPpQ0CCJneCcZmyyZK) | 3:12 | 2023-03-17 |  |
+| [Rest My Case](https://open.spotify.com/track/54I5MSvbijyqMfB0Ci0Lvc) | [Kvngs](https://open.spotify.com/artist/1SxJBIJJbaj2fpni5DNoXU) | [Rest My Case](https://open.spotify.com/album/0ipjnPpQ0CCJneCcZmyyZK) | 3:12 | 2023-03-17 | 2023-05-13 |
 | [Role Play](https://open.spotify.com/track/3oUdNYvhRC7DMvohtBvVn9) | [Freddy Hayz](https://open.spotify.com/artist/51RsadtO7G3XBK4yNT78bP) | [Role Play](https://open.spotify.com/album/2JfD9jkyjHiuokDgKTwkgk) | 2:55 | 2023-01-27 | 2023-03-11 |
 | [Royalty](https://open.spotify.com/track/6y5vkAMps3BAnwbzPhFPVT) | [Keziah Mallam](https://open.spotify.com/artist/4mzTknGC25KKZ5zq8vSxAs), [RnB Princess](https://open.spotify.com/artist/0QKFXBU0ZhrSCJIAsOIjgg), [Beezyx](https://open.spotify.com/artist/0r6sAkbsRJkBbmxYlh4cso) | [Royalty](https://open.spotify.com/album/7EHtA9gPUvQqgTS886DeJg) | 3:33 | 2023-03-30 |  |
 | [Run](https://open.spotify.com/track/06kJ2OCmock2wz7R1vyoSC) | [Moore DH](https://open.spotify.com/artist/0A6nupehADd4QZAD0ngoXb) | [Run](https://open.spotify.com/album/6sUuJLWrG5IrN7UUcZEdIk) | 2:49 | 2023-02-03 | 2023-02-24 |

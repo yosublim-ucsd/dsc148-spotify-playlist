@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Dark, hard hitting pop. Cover: laye",
+  "description": "Dark, hard hitting pop. Cover: Cloudy June",
   "name": "SALT",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 179226,
       "name": "20 Questions",
       "url": "https://open.spotify.com/track/5CvDcpK3CK6BhIXOgIuLBD"
+    },
+    {
+      "album": {
+        "name": "21st Century Princess",
+        "url": "https://open.spotify.com/album/2CfLW8uWYtXch0ZCdlxHia"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181191,
+      "name": "21st Century Princess",
+      "url": "https://open.spotify.com/track/7t5szdTagFPMLCfTFKPG9c"
     },
     {
       "album": {
@@ -1602,7 +1620,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 192491,
       "name": "Devil Is A Woman",
       "url": "https://open.spotify.com/track/75hCdrSo0x1La6xUNGnvGv"
@@ -1858,7 +1876,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 141797,
       "name": "Dream Girl",
       "url": "https://open.spotify.com/track/1c020GsIldzCg0PQNq7T9b"
@@ -6596,6 +6614,24 @@
       "duration_ms": 178787,
       "name": "ur just horny",
       "url": "https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y"
+    },
+    {
+      "album": {
+        "name": "UR SO FULL OF IT",
+        "url": "https://open.spotify.com/album/0scVQRLEFHqCysQzYu5NNS"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134270,
+      "name": "UR SO FULL OF IT",
+      "url": "https://open.spotify.com/track/30ZieTpW4I1capqDGSY2mt"
     },
     {
       "album": {

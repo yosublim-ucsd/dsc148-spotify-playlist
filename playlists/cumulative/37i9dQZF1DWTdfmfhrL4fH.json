@@ -2733,6 +2733,24 @@
     },
     {
       "album": {
+        "name": "The Strange Case of... (Deluxe)",
+        "url": "https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218266,
+      "name": "Freak Like Me",
+      "url": "https://open.spotify.com/track/3Akw1yw6W6bQ7GXB0FCoe5"
+    },
+    {
+      "album": {
         "name": "Smoke + Mirrors (Deluxe)",
         "url": "https://open.spotify.com/album/6rRFeV6xigfNyPoZ6YqcoW"
       },
@@ -8240,7 +8258,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 339853,
       "name": "The Catalyst",
       "url": "https://open.spotify.com/track/4tXBsD5sEzxlJjWCOz6qzs"

@@ -1,12 +1,12 @@
 {
   "description": "Concentrate comfortably with sweet k-pop accompaniments without lyrics. (\uac00\uc0ac \uc5c6\ub294 \uac10\ubbf8\ub85c\uc6b4 \uac00\uc694 \ubc18\uc8fc\uace1\ub4e4\uacfc \ud3b8\uc548\ud558\uac8c \uc9d1\uc911\ud558\uc138\uc694.)",
-  "num_followers": 6511,
+  "num_followers": 6516,
   "original_name": "K-Pop Instruments (\uac00\uc694 \ubc18\uc8fc\uace1)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGQ0NzY4ZDNiZjYzOTllOTVkZmQyMTY1ZjFhYTUzYTUzNTljZWM0",
+  "snapshot_id": "MCw3N2FkZTEyOTE2MDdjMjgxNTA5MTVkMWE3ZGM5NjRhNDNkMDMyYjhm",
   "tracks": [
     {
       "added_at": "2022-11-02 13:40:53",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 2",
-        "url": "https://open.spotify.com/album/3cYozFVrbaSezuvCd5DXq2"
-      },
-      "artists": [
-        {
-          "name": "Hwa Sa",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 186066,
-      "name": "Orbit - Instrumental",
-      "url": "https://open.spotify.com/track/17cK339xKTGOIlBTM02WbS"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Record of Youth (Original Television Soundtrack) Pt. 4",
         "url": "https://open.spotify.com/album/0RXkfsaEQIeOyAfC5Im2hY"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 270693,
       "name": "Shine On You - Instrumental",
       "url": "https://open.spotify.com/track/5YulRNwiJWA0XbTr08D5fx"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/3cYozFVrbaSezuvCd5DXq2"
+      },
+      "artists": [
+        {
+          "name": "Hwa Sa",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 186066,
+      "name": "Orbit - Instrumental",
+      "url": "https://open.spotify.com/track/17cK339xKTGOIlBTM02WbS"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -435,18 +435,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 1",
-        "url": "https://open.spotify.com/album/7vVkg2DjA247mg2XdEC49T"
+        "name": "\uc774 \uaca8\uc6b8 \ud53c\uc544\ub178\ub85c \ub9cc\ub098\ub294 \ub530\ub048\ud55c K-Pop K-Pop Hotlist Piano for the Winter",
+        "url": "https://open.spotify.com/album/7yd99ZqQC40i1hTjnncf4H"
       },
       "artists": [
         {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+          "name": "\uc9f1\uad70 Zzanggoon",
+          "url": "https://open.spotify.com/artist/3a3LDEkR20md8TlZk0zTrL"
         }
       ],
-      "duration_ms": 207999,
-      "name": "I Just Want To Stay With You - Instrumental",
-      "url": "https://open.spotify.com/track/75af0KkwnezifuJqpQKV8x"
+      "duration_ms": 256526,
+      "name": "Love Poem",
+      "url": "https://open.spotify.com/track/37OnDQ4E9gSzfyn7KlDvTF"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -467,18 +467,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "\uc774 \uaca8\uc6b8 \ud53c\uc544\ub178\ub85c \ub9cc\ub098\ub294 \ub530\ub048\ud55c K-Pop K-Pop Hotlist Piano for the Winter",
-        "url": "https://open.spotify.com/album/7yd99ZqQC40i1hTjnncf4H"
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/7vVkg2DjA247mg2XdEC49T"
       },
       "artists": [
         {
-          "name": "\uc9f1\uad70 Zzanggoon",
-          "url": "https://open.spotify.com/artist/3a3LDEkR20md8TlZk0zTrL"
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
         }
       ],
-      "duration_ms": 256526,
-      "name": "Love Poem",
-      "url": "https://open.spotify.com/track/37OnDQ4E9gSzfyn7KlDvTF"
+      "duration_ms": 207999,
+      "name": "I Just Want To Stay With You - Instrumental",
+      "url": "https://open.spotify.com/track/75af0KkwnezifuJqpQKV8x"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.7",
-        "url": "https://open.spotify.com/album/6KIxtLeORsEDYeYjVlLuD1"
-      },
-      "artists": [
-        {
-          "name": "YONGZOO",
-          "url": "https://open.spotify.com/artist/4bpY9pKx3mCQXZFO4RqsDb"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Puzzle - Instrumental",
-      "url": "https://open.spotify.com/track/2B182oxJh9qvJVp5BQE220"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "TALE OF THE NINE TAILED (Original Television Soundtrack), Pt. 5",
         "url": "https://open.spotify.com/album/6d9WJan9PUdbfD457BMjBu"
       },
@@ -811,18 +795,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "A Poem a Day (tvN DRAMA) OST Part.12",
-        "url": "https://open.spotify.com/album/4U97Mqn59HGk2fDIfPHaX9"
+        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.7",
+        "url": "https://open.spotify.com/album/6KIxtLeORsEDYeYjVlLuD1"
       },
       "artists": [
         {
-          "name": "Ha Yea Song",
-          "url": "https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3"
+          "name": "YONGZOO",
+          "url": "https://open.spotify.com/artist/4bpY9pKx3mCQXZFO4RqsDb"
         }
       ],
-      "duration_ms": 251483,
-      "name": "A Poem For Poetry - Instrumental",
-      "url": "https://open.spotify.com/track/3tiwlfxr6X0srg3ya5VXqo"
+      "duration_ms": 235560,
+      "name": "Puzzle - Instrumental",
+      "url": "https://open.spotify.com/track/2B182oxJh9qvJVp5BQE220"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -839,6 +823,22 @@
       "duration_ms": 226040,
       "name": "My Tale - inst.",
       "url": "https://open.spotify.com/track/0ztk0XIgjQxvdyN0AIW18g"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "A Poem a Day (tvN DRAMA) OST Part.12",
+        "url": "https://open.spotify.com/album/4U97Mqn59HGk2fDIfPHaX9"
+      },
+      "artists": [
+        {
+          "name": "Ha Yea Song",
+          "url": "https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3"
+        }
+      ],
+      "duration_ms": 251483,
+      "name": "A Poem For Poetry - Instrumental",
+      "url": "https://open.spotify.com/track/3tiwlfxr6X0srg3ya5VXqo"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Men Are Men (Original Television Soundtrack), Pt.4",
-        "url": "https://open.spotify.com/album/6AIcz3ze4NsFdV98ZxgEix"
-      },
-      "artists": [
-        {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
-        }
-      ],
-      "duration_ms": 256306,
-      "name": "Not Clumsy Anymore - Inst.",
-      "url": "https://open.spotify.com/track/57BktxAPR5BpYECaBSS0P2"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Oh My Baby (Original Television Soundtrack) Pt. 3",
         "url": "https://open.spotify.com/album/2ODbnq7BEn2pSPiKEr7kmq"
       },
@@ -939,18 +923,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Trying to say good-bye",
-        "url": "https://open.spotify.com/album/3WgFwwCXgMNxz2bAqwl817"
+        "name": "Men Are Men (Original Television Soundtrack), Pt.4",
+        "url": "https://open.spotify.com/album/6AIcz3ze4NsFdV98ZxgEix"
       },
       "artists": [
         {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
         }
       ],
-      "duration_ms": 238573,
-      "name": "Trying to say good-bye (Inst.)",
-      "url": "https://open.spotify.com/track/0prQ2KfBBPwSZ45IIrRoWk"
+      "duration_ms": 256306,
+      "name": "Not Clumsy Anymore - Inst.",
+      "url": "https://open.spotify.com/track/57BktxAPR5BpYECaBSS0P2"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -967,6 +951,22 @@
       "duration_ms": 250000,
       "name": "Love Message - Instrumental",
       "url": "https://open.spotify.com/track/4VeLIyv4WczeFbvNpn9ZXT"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "Trying to say good-bye",
+        "url": "https://open.spotify.com/album/3WgFwwCXgMNxz2bAqwl817"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        }
+      ],
+      "duration_ms": 238573,
+      "name": "Trying to say good-bye (Inst.)",
+      "url": "https://open.spotify.com/track/0prQ2KfBBPwSZ45IIrRoWk"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1635,8 +1635,8 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Blood Sweat & Tears",
-        "url": "https://open.spotify.com/album/56EROHjI2C2z9MGg680i7o"
+        "name": "MAP OF THE SOUL: 7 Piano Collection",
+        "url": "https://open.spotify.com/album/3n5KzHi67JKyPkVBK9Ks2a"
       },
       "artists": [
         {
@@ -1644,9 +1644,9 @@
           "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
         }
       ],
-      "duration_ms": 241992,
-      "name": "Blood Sweat & Tears",
-      "url": "https://open.spotify.com/track/5DggVRzTXeN8Jm729lIKNA"
+      "duration_ms": 234480,
+      "name": "Make It Right",
+      "url": "https://open.spotify.com/track/1CalLW36KN3v7Qx57BgVTV"
     }
   ],
   "unique_name": "K-Pop Instruments (\uac00\uc694 \ubc18\uc8fc\uace1)",

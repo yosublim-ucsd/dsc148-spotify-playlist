@@ -1,12 +1,12 @@
 {
   "description": "The home of rave worthy melodic techno and house. Cover: ARTBAT",
-  "num_followers": 78047,
+  "num_followers": 78164,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjYzMjZhZWFlZGNmN2M5OTBmOTViNzM0ZDJkYjQyNDExMzhmYjFh",
+  "snapshot_id": "MCxmNzVlNTE3NzhkNzYzODBmN2Q2NzdhNmQ5NTQ0YmNlYmZmNDQ1MWFk",
   "tracks": [
     {
       "added_at": "2023-05-11 22:00:00",
@@ -839,6 +839,26 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "I Need You (Adriatique Remix)",
+        "url": "https://open.spotify.com/album/5xoWT0xsoV2jQ5wFvLUEfN"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        }
+      ],
+      "duration_ms": 291304,
+      "name": "I Need You - Adriatique Remix",
+      "url": "https://open.spotify.com/track/4RfOBweHWhbKwFDqIsuxdY"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Your Mind",
         "url": "https://open.spotify.com/album/25fUzY5qFM0Fm6ESlFOJFu"
       },
@@ -855,6 +875,22 @@
       "duration_ms": 354647,
       "name": "Your Mind",
       "url": "https://open.spotify.com/track/4zDG66t4CS5gD2WLq4K9JK"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Explore Your Future",
+        "url": "https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "The Answer",
+      "url": "https://open.spotify.com/track/2itJP0FWfjtboZdfE9A8EL"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -879,22 +915,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Explore Your Future",
-        "url": "https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "The Answer",
-      "url": "https://open.spotify.com/track/2itJP0FWfjtboZdfE9A8EL"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Sidewindah (feat. Flirta D)",
         "url": "https://open.spotify.com/album/43sQLpO0FFy5wfXcWyyXCm"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 213562,
       "name": "Sidewindah (feat. Flirta D)",
       "url": "https://open.spotify.com/track/3NGC2t1KnSOFcDQv8EI2Pl"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "I Need You (Adriatique Remix)",
-        "url": "https://open.spotify.com/album/5xoWT0xsoV2jQ5wFvLUEfN"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        }
-      ],
-      "duration_ms": 291304,
-      "name": "I Need You - Adriatique Remix",
-      "url": "https://open.spotify.com/track/4RfOBweHWhbKwFDqIsuxdY"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Dreamcast",
-        "url": "https://open.spotify.com/album/4y3Og1wV6ODVRpado3WilW"
-      },
-      "artists": [
-        {
-          "name": "Mind Against",
-          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
-        }
-      ],
-      "duration_ms": 325744,
-      "name": "Dreamcast",
-      "url": "https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "This Feeling (Yotto Remix)",
         "url": "https://open.spotify.com/album/6Rub1KknGrXsGBPJK2mJqN"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 236078,
       "name": "This Feeling - Yotto Remix",
       "url": "https://open.spotify.com/track/5fZVPAWdFrPmqFZ4eZPjob"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Dreamcast",
+        "url": "https://open.spotify.com/album/4y3Og1wV6ODVRpado3WilW"
+      },
+      "artists": [
+        {
+          "name": "Mind Against",
+          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
+        }
+      ],
+      "duration_ms": 325744,
+      "name": "Dreamcast",
+      "url": "https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Back To This (feat. SoShy)",
+        "url": "https://open.spotify.com/album/3BquZyD0gEAzZWJSYmLdm0"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "Soshy",
+          "url": "https://open.spotify.com/artist/1LXdHdzVmQV1GJE0EUxjFp"
+        }
+      ],
+      "duration_ms": 157142,
+      "name": "Back To This (feat. SoShy)",
+      "url": "https://open.spotify.com/track/3NVCUMDnGDOPDM5jSHuVgt"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Let's Get It Right (Innellea Remix)",
         "url": "https://open.spotify.com/album/7fm1NdtHHLPJK6wAFZLekR"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 344156,
       "name": "Let's Get It Right - Innellea Remix",
       "url": "https://open.spotify.com/track/4tKdEEDu9ZGs0IimsZSDKi"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Back To This (feat. SoShy)",
-        "url": "https://open.spotify.com/album/3BquZyD0gEAzZWJSYmLdm0"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "Soshy",
-          "url": "https://open.spotify.com/artist/1LXdHdzVmQV1GJE0EUxjFp"
-        }
-      ],
-      "duration_ms": 157142,
-      "name": "Back To This (feat. SoShy)",
-      "url": "https://open.spotify.com/track/3NVCUMDnGDOPDM5jSHuVgt"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "()v\u022f)) \u0337\u0328\u0285(\u06dd\u0285(\u019f\u0285():::()\u0335\u0333\u0317\u030a(\u019f\u0285()v\u022f)) \u0337\u0328\u0285",
+        "url": "https://open.spotify.com/album/1ML2pQY7ZpF1q16zaGDv81"
+      },
+      "artists": [
+        {
+          "name": "\u28ce\u2847\ua27a\u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0616 \ua27a\u10da",
+          "url": "https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf"
+        }
+      ],
+      "duration_ms": 271642,
+      "name": "()v\u022f)) \u0337\u0328\u0285(\u06dd\u0285(\u019f\u0285():::()\u0335\u0333\u0317\u030a(\u019f\u0285()v\u022f)) \u0337\u0328\u0285",
+      "url": "https://open.spotify.com/track/55meeb1WffJW16DfMnWVi0"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Remember Me",
         "url": "https://open.spotify.com/album/1C13hkYjqhNLmDbgwkmiVp"
       },
@@ -1359,18 +1375,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "()v\u022f)) \u0337\u0328\u0285(\u06dd\u0285(\u019f\u0285():::()\u0335\u0333\u0317\u030a(\u019f\u0285()v\u022f)) \u0337\u0328\u0285",
-        "url": "https://open.spotify.com/album/1ML2pQY7ZpF1q16zaGDv81"
+        "name": "Between Two Worlds",
+        "url": "https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy"
       },
       "artists": [
         {
-          "name": "\u28ce\u2847\ua27a\u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0616 \ua27a\u10da",
-          "url": "https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf"
+          "name": "Lexer",
+          "url": "https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY"
         }
       ],
-      "duration_ms": 271642,
-      "name": "()v\u022f)) \u0337\u0328\u0285(\u06dd\u0285(\u019f\u0285():::()\u0335\u0333\u0317\u030a(\u019f\u0285()v\u022f)) \u0337\u0328\u0285",
-      "url": "https://open.spotify.com/track/55meeb1WffJW16DfMnWVi0"
+      "duration_ms": 464026,
+      "name": "Between Two Worlds",
+      "url": "https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1387,22 +1403,6 @@
       "duration_ms": 315418,
       "name": "Morning Comes",
       "url": "https://open.spotify.com/track/5zLGsCUdRieydq198vi0q0"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Between Two Worlds",
-        "url": "https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy"
-      },
-      "artists": [
-        {
-          "name": "Lexer",
-          "url": "https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY"
-        }
-      ],
-      "duration_ms": 464026,
-      "name": "Between Two Worlds",
-      "url": "https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "About My Dreams",
-        "url": "https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod"
-      },
-      "artists": [
-        {
-          "name": "Stephan Jolk",
-          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "About My Dreams",
-      "url": "https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Club Vibes Part 04",
         "url": "https://open.spotify.com/album/1a1VIF72alzsXubcQWH0QS"
       },
@@ -1547,6 +1531,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "About My Dreams",
+        "url": "https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod"
+      },
+      "artists": [
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "About My Dreams",
+      "url": "https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Alive (Remixes)",
         "url": "https://open.spotify.com/album/33HXJK5tOxTNKdKi7R2b7V"
       },
@@ -1563,6 +1563,26 @@
       "duration_ms": 534954,
       "name": "Alive - Solomun Remix",
       "url": "https://open.spotify.com/track/41QaOln9qjWg6dTENPmujr"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/5dJxuHqAVPrkq96UrZp8kt"
+      },
+      "artists": [
+        {
+          "name": "Space Motion",
+          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
+        },
+        {
+          "name": "Angel Sanchez",
+          "url": "https://open.spotify.com/artist/0CjuBuzouj2pTHrHba4AyC"
+        }
+      ],
+      "duration_ms": 288780,
+      "name": "Moonlight - Radio Edit",
+      "url": "https://open.spotify.com/track/2XCHKQnCTDbfWueZzmHeX0"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1615,26 +1635,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/5dJxuHqAVPrkq96UrZp8kt"
-      },
-      "artists": [
-        {
-          "name": "Space Motion",
-          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
-        },
-        {
-          "name": "Angel Sanchez",
-          "url": "https://open.spotify.com/artist/0CjuBuzouj2pTHrHba4AyC"
-        }
-      ],
-      "duration_ms": 288780,
-      "name": "Moonlight - Radio Edit",
-      "url": "https://open.spotify.com/track/2XCHKQnCTDbfWueZzmHeX0"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Aguacero",
         "url": "https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF"
       },
@@ -1647,22 +1647,6 @@
       "duration_ms": 402545,
       "name": "Aguacero",
       "url": "https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/4AFiWn4LRmpoPM6VSe0ydM"
-      },
-      "artists": [
-        {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
-        }
-      ],
-      "duration_ms": 172173,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/0Mbxt2EcmRUnajQsMWLK3c"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1691,6 +1675,22 @@
       "duration_ms": 225503,
       "name": "Disappear - Franky Wah Remix",
       "url": "https://open.spotify.com/track/031xh9IGdNZuQoDrWxdT1Q"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/4AFiWn4LRmpoPM6VSe0ydM"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "duration_ms": 172173,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/0Mbxt2EcmRUnajQsMWLK3c"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Via Infinita",
+        "url": "https://open.spotify.com/album/7wTrTjh9DD2YkHSABS6f8k"
+      },
+      "artists": [
+        {
+          "name": "Estiva",
+          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
+        }
+      ],
+      "duration_ms": 237096,
+      "name": "Via Infinita",
+      "url": "https://open.spotify.com/track/2xlhuZ55DlVojkepPhBcHZ"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Free (Ferreck Dawn Remix)",
         "url": "https://open.spotify.com/album/5trwxpbZkRZRB3t1q3ehZT"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 173392,
       "name": "Free - Ferreck Dawn Remix",
       "url": "https://open.spotify.com/track/0qaFVIeo7NYNi0WqycON6A"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Via Infinita",
-        "url": "https://open.spotify.com/album/7wTrTjh9DD2YkHSABS6f8k"
-      },
-      "artists": [
-        {
-          "name": "Estiva",
-          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
-        }
-      ],
-      "duration_ms": 237096,
-      "name": "Via Infinita",
-      "url": "https://open.spotify.com/track/2xlhuZ55DlVojkepPhBcHZ"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Funkenflug",
-        "url": "https://open.spotify.com/album/65xp7xUkGiERTwc7Zc8ZhQ"
-      },
-      "artists": [
-        {
-          "name": "Einmusik",
-          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
-        }
-      ],
-      "duration_ms": 463816,
-      "name": "Funkenflug",
-      "url": "https://open.spotify.com/track/319lRoBVgCsDtR3M3iEfS1"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Club Vibes Part 05",
         "url": "https://open.spotify.com/album/5ad6LcmH6riZRxu4VzI7Vf"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 627840,
       "name": "Sit Back And Take It Down",
       "url": "https://open.spotify.com/track/5Tb0TQ1eaLuzour8Ymp6wo"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Funkenflug",
+        "url": "https://open.spotify.com/album/65xp7xUkGiERTwc7Zc8ZhQ"
+      },
+      "artists": [
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        }
+      ],
+      "duration_ms": 463816,
+      "name": "Funkenflug",
+      "url": "https://open.spotify.com/track/319lRoBVgCsDtR3M3iEfS1"
     },
     {
       "added_at": "2023-05-11 22:00:00",

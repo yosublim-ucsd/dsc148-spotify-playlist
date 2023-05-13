@@ -1,12 +1,12 @@
 {
   "description": "Get your creative juices flowing with these instrumental masterpieces.",
-  "num_followers": 167370,
+  "num_followers": 167458,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODM5YWMyNDA0ZGEyYmRhYzRhNGJlMTU1Mjc5N2MyODY1MTY1YjYw",
+  "snapshot_id": "MCw1NTM5NmQwODEwYTE3NDNhYTU4ZmZmNmIxNzYyYzU3NDczZjA4MDBm",
   "tracks": [
     {
       "added_at": "2022-07-29 13:33:43",
@@ -483,30 +483,26 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Purcell / Handel: Theatre Music",
-        "url": "https://open.spotify.com/album/5hDM58o2ym0GwqFVOg3FN5"
+        "name": "Tchaikovsky: Serenade for Strings - Grieg: Holberg Suite - Mozart: Eine kleine Nachtmusik",
+        "url": "https://open.spotify.com/album/6bB2g7YWY6IjetZBzRsWfE"
       },
       "artists": [
         {
-          "name": "Henry Purcell",
-          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
         },
         {
-          "name": "Nancy Argenta",
-          "url": "https://open.spotify.com/artist/6AWyB0AhI3gzsAbe9cksLF"
+          "name": "Moscow Soloists",
+          "url": "https://open.spotify.com/artist/2skFcEhu0dYXkx7GGfCecx"
         },
         {
-          "name": "CBC Vancouver Orchestra",
-          "url": "https://open.spotify.com/artist/6dAIdF6nONpHdHJ1QPT6Sk"
-        },
-        {
-          "name": "Monica Huggett",
-          "url": "https://open.spotify.com/artist/4E2Rqf4KfXgR2aVt8FvIkh"
+          "name": "Yuri Bashmet",
+          "url": "https://open.spotify.com/artist/6x1iIq6sH6TPtCA5IJjA4x"
         }
       ],
-      "duration_ms": 85933,
-      "name": "King Arthur, Z. 628, \"The British Worthy\": Air",
-      "url": "https://open.spotify.com/track/3snc9m6T0b0TuxtSEsmP4U"
+      "duration_ms": 209373,
+      "name": "Serenade for Strings in C major, Op. 48: II. Walzer: Moderato, tempo di valse",
+      "url": "https://open.spotify.com/track/7uf3aFC1msj0t5cYImgOWy"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -539,26 +535,30 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Tchaikovsky: Serenade for Strings - Grieg: Holberg Suite - Mozart: Eine kleine Nachtmusik",
-        "url": "https://open.spotify.com/album/6bB2g7YWY6IjetZBzRsWfE"
+        "name": "Purcell / Handel: Theatre Music",
+        "url": "https://open.spotify.com/album/5hDM58o2ym0GwqFVOg3FN5"
       },
       "artists": [
         {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+          "name": "Henry Purcell",
+          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
         },
         {
-          "name": "Moscow Soloists",
-          "url": "https://open.spotify.com/artist/2skFcEhu0dYXkx7GGfCecx"
+          "name": "Nancy Argenta",
+          "url": "https://open.spotify.com/artist/6AWyB0AhI3gzsAbe9cksLF"
         },
         {
-          "name": "Yuri Bashmet",
-          "url": "https://open.spotify.com/artist/6x1iIq6sH6TPtCA5IJjA4x"
+          "name": "CBC Vancouver Orchestra",
+          "url": "https://open.spotify.com/artist/6dAIdF6nONpHdHJ1QPT6Sk"
+        },
+        {
+          "name": "Monica Huggett",
+          "url": "https://open.spotify.com/artist/4E2Rqf4KfXgR2aVt8FvIkh"
         }
       ],
-      "duration_ms": 209373,
-      "name": "Serenade for Strings in C major, Op. 48: II. Walzer: Moderato, tempo di valse",
-      "url": "https://open.spotify.com/track/7uf3aFC1msj0t5cYImgOWy"
+      "duration_ms": 85933,
+      "name": "King Arthur, Z. 628, \"The British Worthy\": Air",
+      "url": "https://open.spotify.com/track/3snc9m6T0b0TuxtSEsmP4U"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Blind Film",
-        "url": "https://open.spotify.com/album/7DTb6225JKPofMAZgIAmUC"
-      },
-      "artists": [
-        {
-          "name": "Yiruma",
-          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
-        }
-      ],
-      "duration_ms": 228293,
-      "name": "Waltz in C Minor (Only for Piano)",
-      "url": "https://open.spotify.com/track/6L6TuOAEZHf93tJULIjQrj"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
         "name": "Lake Reflections - Music for Flute & Harp",
         "url": "https://open.spotify.com/album/0bvSoJHPw1wfCLd2u4L5VV"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 150413,
       "name": "Schwanenlied",
       "url": "https://open.spotify.com/track/58I1vBvQyCzucuxkMl9Pwc"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
+        "name": "Blind Film",
+        "url": "https://open.spotify.com/album/7DTb6225JKPofMAZgIAmUC"
+      },
+      "artists": [
+        {
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+        }
+      ],
+      "duration_ms": 228293,
+      "name": "Waltz in C Minor (Only for Piano)",
+      "url": "https://open.spotify.com/track/6L6TuOAEZHf93tJULIjQrj"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -1039,6 +1039,26 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
+        "name": "Beethoven: The Complete Piano Sonatas",
+        "url": "https://open.spotify.com/album/014wV6KWcsn01SiYIYVJeg"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "duration_ms": 602746,
+      "name": "Piano Sonata No. 21 in C Major, Op. 53, \"Waldstein\": I. Allegro con brio",
+      "url": "https://open.spotify.com/track/3WFTQHUd4DBoEucAWxaPDm"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
         "name": "La stanza del figlio un film di Nanni Moretti",
         "url": "https://open.spotify.com/album/6AkKScoXJYtwz1tY9jNZtj"
       },
@@ -1095,22 +1115,22 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Beethoven: The Complete Piano Sonatas",
-        "url": "https://open.spotify.com/album/014wV6KWcsn01SiYIYVJeg"
+        "name": "Kissin Plays Liszt",
+        "url": "https://open.spotify.com/album/3iN0jN2bjNrr6nLDS7ZAEE"
       },
       "artists": [
         {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
         },
         {
-          "name": "Igor Levit",
-          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+          "name": "Evgeny Kissin",
+          "url": "https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ"
         }
       ],
-      "duration_ms": 602746,
-      "name": "Piano Sonata No. 21 in C Major, Op. 53, \"Waldstein\": I. Allegro con brio",
-      "url": "https://open.spotify.com/track/3WFTQHUd4DBoEucAWxaPDm"
+      "duration_ms": 375920,
+      "name": "St\u00e4ndchen (From Schwanengesang, D957)",
+      "url": "https://open.spotify.com/track/1Fye8VOMOlXxtBo02TpNWD"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -1139,26 +1159,6 @@
       "duration_ms": 493800,
       "name": "Cello Concerto No. 1 in C Major, Hob. VIIb:1: II. Adagio",
       "url": "https://open.spotify.com/track/3cc1BpGtocKOEnROApTv8M"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
-        "name": "Kissin Plays Liszt",
-        "url": "https://open.spotify.com/album/3iN0jN2bjNrr6nLDS7ZAEE"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Evgeny Kissin",
-          "url": "https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ"
-        }
-      ],
-      "duration_ms": 375920,
-      "name": "St\u00e4ndchen (From Schwanengesang, D957)",
-      "url": "https://open.spotify.com/track/1Fye8VOMOlXxtBo02TpNWD"
     },
     {
       "added_at": "2022-07-29 13:33:43",

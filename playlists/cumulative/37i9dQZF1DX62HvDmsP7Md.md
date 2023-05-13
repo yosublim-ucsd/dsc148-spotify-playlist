@@ -4,7 +4,7 @@
 
 > Party like it's the early 2000s\. ✨
 
-119 songs - 8 hr 8 min
+120 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Let's Get Blown](https://open.spotify.com/track/0NdxbFFknA7kQ4E2zvJfey) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [R&G \(Rhythm & Gangsta\): The Masterpiece](https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp) | 4:40 | 2022-12-15 |  |
 | [Let's Get Married \(feat\. Run\) \- ReMarqable Remix](https://open.spotify.com/track/18CODOzJ5DWzWh6kAeKiSC) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp), [RUN](https://open.spotify.com/artist/2qFXvV0t7QXlF7Tdc9YTie), [Lamarquis Jefferson](https://open.spotify.com/artist/6eZD2i7kAelKt5z1ytH0Me) | [The Hits](https://open.spotify.com/album/72phYQZz7SLAT9xwK6LMO6) | 4:09 | 2022-12-15 |  |
 | [Lights, Camera, Action!](https://open.spotify.com/track/3ht12Pai0tVMB2VCLgkcMS) | [Mr\. Cheeks](https://open.spotify.com/artist/0UeVxCKyBypjQvDCT889zt) | [20 \#1's: Modern Hip\-Hop](https://open.spotify.com/album/0RXtGv08trF7yklCuyPPcf) | 4:21 | 2022-12-15 |  |
-| [Livin' It Up](https://open.spotify.com/track/52gqeRlrBE7hqMlRxEsi6y) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Pain Is Love](https://open.spotify.com/album/2wMavIKnu6feFNOeQ1hVwf) | 4:17 | 2022-12-15 |  |
+| [Livin' It Up](https://open.spotify.com/track/52gqeRlrBE7hqMlRxEsi6y) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Pain Is Love](https://open.spotify.com/album/2wMavIKnu6feFNOeQ1hVwf) | 4:17 | 2022-12-15 | 2023-05-13 |
+| [Livin' It Up](https://open.spotify.com/track/4ToZV7r72wSbVrljaLSp13) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Pain Is Love](https://open.spotify.com/album/2iIIgsaTEtVjDhrV7HKDJC) | 4:17 | 2023-05-11 |  |
 | [Love Like This](https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 4:35 | 2022-12-15 |  |
 | [Mo Money Mo Problems \(feat\. Puff Daddy & Mase\) \- 2014 Remaster](https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 4:17 | 2022-12-15 |  |
 | [Money Ain't a Thang \(feat\. Jay\-Z\)](https://open.spotify.com/track/12LjNmRrdzhTn1vMcxN81m) | [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Life In 1472 \(The Original Soundtrack\)](https://open.spotify.com/album/4gBlh3imgWjnD275XauGwt) | 4:14 | 2022-12-15 |  |

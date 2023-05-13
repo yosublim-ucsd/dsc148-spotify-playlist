@@ -1,12 +1,12 @@
 {
   "description": "The biggest Texas Country Hits over the last couple of years. Formerly Texas Music Rewind.",
-  "num_followers": 2502,
+  "num_followers": 2618,
   "original_name": "Texas Country Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWFlZTNiY2JjMDc1ZjU0YjM5MDk1NjJhZGIzNDlmNTlkZGIxOTI4",
+  "snapshot_id": "MCw2YzM4OTk5OGM0NzNlYWM4YzM5OTkwYjg1YTU0NTNhZTdlMWRjOTBl",
   "tracks": [
     {
       "added_at": "2023-02-10 16:12:28",
@@ -407,18 +407,18 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Welcome To Countryland",
-        "url": "https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX"
+        "name": "Bury My Bones",
+        "url": "https://open.spotify.com/album/5mzUwmFpVXseynxj03W3Qu"
       },
       "artists": [
         {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
         }
       ],
-      "duration_ms": 200672,
-      "name": "Some Things Never Change",
-      "url": "https://open.spotify.com/track/7zxsnW2mjKjpkgvfZqQNX4"
+      "duration_ms": 259851,
+      "name": "Bury My Bones",
+      "url": "https://open.spotify.com/track/0lB69AOLAMGpWBMBtIdORj"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -439,18 +439,18 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Bury My Bones",
-        "url": "https://open.spotify.com/album/5mzUwmFpVXseynxj03W3Qu"
+        "name": "Welcome To Countryland",
+        "url": "https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX"
       },
       "artists": [
         {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
         }
       ],
-      "duration_ms": 259851,
-      "name": "Bury My Bones",
-      "url": "https://open.spotify.com/track/0lB69AOLAMGpWBMBtIdORj"
+      "duration_ms": 200672,
+      "name": "Some Things Never Change",
+      "url": "https://open.spotify.com/track/7zxsnW2mjKjpkgvfZqQNX4"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
+        "name": "Black Sheep",
+        "url": "https://open.spotify.com/album/0tNJiCqDocKe1rG3jwdqK1"
+      },
+      "artists": [
+        {
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+        }
+      ],
+      "duration_ms": 224027,
+      "name": "Happier Alone",
+      "url": "https://open.spotify.com/track/6TTb1rInj0xBs0naVYyaHD"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
         "name": "No Vacancy",
         "url": "https://open.spotify.com/album/4FLvEcu5X5ZUzsWP3Lbh8O"
       },
@@ -919,22 +935,6 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Leanna",
-        "url": "https://open.spotify.com/album/4uqbe0uw5d6aLvjPSxwoCd"
-      },
-      "artists": [
-        {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
-        }
-      ],
-      "duration_ms": 225500,
-      "name": "Around Forever",
-      "url": "https://open.spotify.com/track/5PAuyhBNkrHp7NTHWjvF7V"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
         "name": "Excuses",
         "url": "https://open.spotify.com/album/4LAo9lNxakhW24GiAW0P6t"
       },
@@ -947,6 +947,22 @@
       "duration_ms": 206646,
       "name": "Excuses",
       "url": "https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
+        "name": "Leanna",
+        "url": "https://open.spotify.com/album/4uqbe0uw5d6aLvjPSxwoCd"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "duration_ms": 225500,
+      "name": "Around Forever",
+      "url": "https://open.spotify.com/track/5PAuyhBNkrHp7NTHWjvF7V"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -979,22 +995,6 @@
       "duration_ms": 256875,
       "name": "Unwanted Man",
       "url": "https://open.spotify.com/track/6ohgxacIDKLyvvfUYcmKcR"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
-        "name": "Black Sheep",
-        "url": "https://open.spotify.com/album/0tNJiCqDocKe1rG3jwdqK1"
-      },
-      "artists": [
-        {
-          "name": "Austin Meade",
-          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
-        }
-      ],
-      "duration_ms": 224027,
-      "name": "Happier Alone",
-      "url": "https://open.spotify.com/track/6TTb1rInj0xBs0naVYyaHD"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "American Soul",
-        "url": "https://open.spotify.com/album/22WbbbmGJNQWCtnxSk9jXe"
+        "name": "Bad Reputation",
+        "url": "https://open.spotify.com/album/6z3Qev2DZEDOCDnZX0eNyw"
       },
       "artists": [
         {
-          "name": "Aaron Watson",
-          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+          "name": "Mike Ryan",
+          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
         }
       ],
-      "duration_ms": 189045,
-      "name": "Boots",
-      "url": "https://open.spotify.com/track/3Yn1z4gHFWuhbNP7dopYCD"
+      "duration_ms": 219613,
+      "name": "Bad Reputation",
+      "url": "https://open.spotify.com/track/0icfvcZgDWltdFtgBZNUB2"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Bad Reputation",
-        "url": "https://open.spotify.com/album/6z3Qev2DZEDOCDnZX0eNyw"
-      },
-      "artists": [
-        {
-          "name": "Mike Ryan",
-          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
-        }
-      ],
-      "duration_ms": 219613,
-      "name": "Bad Reputation",
-      "url": "https://open.spotify.com/track/0icfvcZgDWltdFtgBZNUB2"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
         "name": "Heaven's Jukebox",
         "url": "https://open.spotify.com/album/1S99G84SweuUP30hI31utF"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 211075,
       "name": "Heaven's Jukebox",
       "url": "https://open.spotify.com/track/33QqkzUWbk3G8pijsnK70L"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
+        "name": "American Soul",
+        "url": "https://open.spotify.com/album/22WbbbmGJNQWCtnxSk9jXe"
+      },
+      "artists": [
+        {
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+        }
+      ],
+      "duration_ms": 189045,
+      "name": "Boots",
+      "url": "https://open.spotify.com/track/3Yn1z4gHFWuhbNP7dopYCD"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
+        "name": "Abstract Art of an Unstable Mind",
+        "url": "https://open.spotify.com/album/6O5EG4fe0vKeINvGk0z2qW"
+      },
+      "artists": [
+        {
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Loser Mentality",
+      "url": "https://open.spotify.com/track/0kh5IPMmmY2LUPDij2H3T6"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
         "name": "Keep on Moving",
         "url": "https://open.spotify.com/album/6C7LiEyzxiKQF7fq287qyc"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 196093,
       "name": "Keep on Moving",
       "url": "https://open.spotify.com/track/6IKJrB5EHuoRqSFYIzmIjw"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
-        "name": "Waiting for the Fall",
-        "url": "https://open.spotify.com/album/0TVD2skKoSDmQOhG8LgXid"
-      },
-      "artists": [
-        {
-          "name": "Sam Riggs",
-          "url": "https://open.spotify.com/artist/3vmCb694uLT5FBO1lVB52U"
-        }
-      ],
-      "duration_ms": 217494,
-      "name": "Waiting for the Fall",
-      "url": "https://open.spotify.com/track/0kTxPEHRite7TMCZTC42bk"
     }
   ],
   "unique_name": "Texas Country Rewind",

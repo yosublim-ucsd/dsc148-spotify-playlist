@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: kiki vivi lily
 
-1,351 songs - 3 day 15 hr 58 min
+1,353 songs - 3 day 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,8 @@
 | [Dancing Womer](https://open.spotify.com/track/1gnwP3EsVfF9ZNB9ILG5Bq) | [MPC GIRL USAGI](https://open.spotify.com/artist/5f2e0f0Q7tv69BzuLHvien), [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp) | [Dancing Womer](https://open.spotify.com/album/5ZPkVkgnqXl4XOYyKe1q3w) | 4:03 | 2022-09-27 | 2022-10-19 |
 | [Darling](https://open.spotify.com/track/1gSmvXIqIezK3KpIc6tn37) | [lulu](https://open.spotify.com/artist/1D663bTJFEgoHXHPSn7B00), [Mikeneko Homeless](https://open.spotify.com/artist/2I9uX6V9umuZP9CH5ufBEB) | [Time to Love](https://open.spotify.com/album/4KBSCpxhgK3MvUBVvkYqmg) | 2:55 | 2022-11-03 | 2022-11-09 |
 | [Darling](https://open.spotify.com/track/1LvpK2WDM3UDBMSROQ5h6E) | [Mikeneko Homeless](https://open.spotify.com/artist/2I9uX6V9umuZP9CH5ufBEB), [lulu](https://open.spotify.com/artist/1D663bTJFEgoHXHPSn7B00) | [Darling](https://open.spotify.com/album/3q3B8EKPL7UhPI3YXW8Gg3) | 2:55 | 2022-11-01 | 2022-11-05 |
-| [Day After Day feat\. Mei Takahashi](https://open.spotify.com/track/5b03vF7Qyc70kDJHiQZ8L7) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [髙橋芽以](https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf) | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/album/7ridH3ntXiiWfC2jA6uqb3) | 4:43 | 2023-05-02 |  |
+| [Day After Day feat\. Mei Takahashi](https://open.spotify.com/track/1fHXLiqPG6su57eAlbnjVO) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [髙橋芽以](https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf) | [FINE LINE](https://open.spotify.com/album/37XJRNnSBngM8e8Ejp3oQ7) | 4:43 | 2023-05-11 |  |
+| [Day After Day feat\. Mei Takahashi](https://open.spotify.com/track/5b03vF7Qyc70kDJHiQZ8L7) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [髙橋芽以](https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf) | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/album/7ridH3ntXiiWfC2jA6uqb3) | 4:43 | 2023-05-02 | 2023-05-13 |
 | [Day N Night](https://open.spotify.com/track/2bS0bzrGfnbnGiZhyRqpAt) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7), [EMI MARIA](https://open.spotify.com/artist/4RXIhUAlNFVdzLCWEWdRD8), [Modesty Beats](https://open.spotify.com/artist/13FbrmsM0RLfPPbiqh7iCQ) | [Day N Night](https://open.spotify.com/album/2E3Drk037gBwve6OJOIlau) | 2:24 | 2022-10-25 | 2022-11-16 |
 | [Dear My Boo \(She said\)](https://open.spotify.com/track/1a9buU76UQDqEkRuulkeA9) | [He & She](https://open.spotify.com/artist/2gtMOy05gUFnzqlJZea47U), [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx) | [Dear My Boo \(She said\)](https://open.spotify.com/album/7IZOXruHpIbPqBFQDJ52Nt) | 3:54 | 2022-06-21 | 2022-07-17 |
 | [debbie](https://open.spotify.com/track/4Nz3rcsMoe7SVKZ98Frt5E) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [1999](https://open.spotify.com/album/322uTZewuhwVaanjOO92Av) | 3:43 | 2022-07-28 | 2022-08-03 |
@@ -565,7 +566,8 @@
 | [Satsuki](https://open.spotify.com/track/2tiex0oWYiAR9UWZ9SlFW3) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [My First Love is Crying](https://open.spotify.com/album/5ojxoUisAMA5Mon0amRHCE) | 4:30 | 2022-07-14 | 2022-07-20 |
 | [Seaside Hotel](https://open.spotify.com/track/70lScDkHEcMOQuNqNMQEey) | [Yoko Kuzuya](https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt) | [TOKYO TOWER](https://open.spotify.com/album/54r1yKfQSmUOHiConU2Heb) | 4:49 | 2023-01-24 | 2023-02-22 |
 | [Season](https://open.spotify.com/track/28H2R5DE6eVKIBBYvGbKRg) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Season](https://open.spotify.com/album/4Bf2U02MHfbI5QwpdID98M) | 3:28 | 2023-04-18 | 2023-04-20 |
-| [Season](https://open.spotify.com/track/5mIJzqBwYM3SSVuCCCC3gg) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Season](https://open.spotify.com/album/0oNra3mg2Pon6DWljxx8WR) | 3:28 | 2023-04-18 |  |
+| [Season](https://open.spotify.com/track/59ZJXXQ0VeLtBK5EfW0KLJ) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O) | 3:28 | 2023-05-11 |  |
+| [Season](https://open.spotify.com/track/5mIJzqBwYM3SSVuCCCC3gg) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Season](https://open.spotify.com/album/0oNra3mg2Pon6DWljxx8WR) | 3:28 | 2023-04-18 | 2023-05-13 |
 | [SECM \(Sausage Egg & Cheese Muffin\)](https://open.spotify.com/track/3Aup2ONzQh3oG2jvrpaOtX) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP) | [Snowdome](https://open.spotify.com/album/37SUGkacnP6YHLqUivxrGY) | 2:12 | 2022-12-22 | 2023-01-04 |
 | [Secret Love \- Band ver.](https://open.spotify.com/track/4zlerKi4ecdtvwNRTYn5DP) | [眉村ちあき](https://open.spotify.com/artist/4DjusI9WuKLk3cmsJGtl8T) | [Secret Love \(Band ver.\)](https://open.spotify.com/album/3lKCbvXc2T0yb4qyPHocZU) | 3:16 | 2022-12-15 | 2022-12-21 |
 | [Secret lover \- Vocal Version](https://open.spotify.com/track/0PV7OWnQMfhPzUqGWWVdb2) | [T\-GROOVE & GEORGE KANO EXPERIENCE with YUKO IMAI](https://open.spotify.com/artist/5ABNPaFlw9tEBLt7Cf4QRf), [T\-Groove](https://open.spotify.com/artist/2Ky7DbgmIlA47OpDx5KzNt), [George Kano](https://open.spotify.com/artist/61JGbYJB0nxcUcdy0nex6U), [George Kano Experience](https://open.spotify.com/artist/2LOaFRYsMKI9JAOs5izXJz), [Yuko Imai](https://open.spotify.com/artist/4YMuXk2Q6sKh3ZBorVDwA6) | [Secret lover \(Vocal Version\)](https://open.spotify.com/album/20Mfk4Ctd7olJeSexfGxqO) | 4:56 | 2022-08-02 | 2022-08-10 |

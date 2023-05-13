@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Brasil](https://open.spotify.com/playlist/37i9dQZF1DX5R53BjnKBjk)
 
-> Uma seleção de novos artistas da cena brasileira que você precisa conhecer!  Foto: RAY / Arte: Isu Kim
+> Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: Dani\-Vie / Arte: Isu Kim
 
-269 songs - 13 hr 55 min
+270 songs - 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Pessoa que Fala](https://open.spotify.com/track/47r0MpvXwNIHjYR8JYFKYR) | [Taco de Golfe](https://open.spotify.com/artist/6holqe1VBHmQuaubxSSSNB) | [Pessoa que Fala](https://open.spotify.com/album/4wWPEZIoIena0F5xkAUQTc) | 2:43 | 2022-01-07 | 2022-08-20 |
 | [Peço Pra Você](https://open.spotify.com/track/2gHdwywG9tXQrb06feK7NP) | [Camilla Leonel](https://open.spotify.com/artist/7gOLPtcQXX082ZRRur3sZx), [SCALON](https://open.spotify.com/artist/1C71ve72DbTuQNcyH8cV0N) | [Peço Pra Você](https://open.spotify.com/album/2r1KTbIu4SQDhlYX2jKSwS) | 3:00 | 2022-11-25 |  |
 | [Plano Perfeito](https://open.spotify.com/track/6M85C6Rbmuftj2S3wyndQS) | [Ian Medeiros](https://open.spotify.com/artist/6NTsJGOS7l7yWJh5IOSn94) | [Varanda](https://open.spotify.com/album/16vCNvwG9Rj4dC8N8rRokI) | 2:36 | 2022-01-07 | 2022-09-24 |
-| [PLAYGROUND](https://open.spotify.com/track/5gitknsNQkrsCwfIbWK8Kd) | [Vivi](https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU) | [PLAYGROUND](https://open.spotify.com/album/3hPfwefUmHJZDXrJpdftxi) | 2:19 | 2022-12-09 |  |
+| [PLAYGROUND](https://open.spotify.com/track/5gitknsNQkrsCwfIbWK8Kd) | [Vivi](https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU) | [PLAYGROUND](https://open.spotify.com/album/3hPfwefUmHJZDXrJpdftxi) | 2:19 | 2022-12-09 | 2023-05-13 |
 | [Por um Fio](https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4) | [Sulamericana](https://open.spotify.com/artist/2FTphbeJlzLPNdfsOU7rRJ) | [Por um Fio](https://open.spotify.com/album/7Ii1ewzjCQfZkULEOCMdDd) | 3:09 | 2022-09-02 |  |
 | [Pra Clarear](https://open.spotify.com/track/25ebro8NKryaVqrOlc1g6y) | [Mariar](https://open.spotify.com/artist/1GxFLzohopngGrIaA5LcTQ), [Ryan](https://open.spotify.com/artist/64JsoKeKEoDHfs6hUxCo5x) | [Pra Clarear](https://open.spotify.com/album/4bwxYx09p4pJEUmaDXal2d) | 3:17 | 2022-04-15 | 2022-10-01 |
 | [Pra Te Deixar Partir](https://open.spotify.com/track/0OJVdLJWEPCPLVCcccPaFw) | [Enzo Yuki](https://open.spotify.com/artist/3Bw1XXhKZBD63mHPKiJZBR) | [Pra Te Deixar Partir](https://open.spotify.com/album/1QSyJqF6M517JYNikdFgo6) | 3:57 | 2022-01-07 | 2022-01-15 |
@@ -238,6 +238,7 @@
 | [Só](https://open.spotify.com/track/5MKIqbqP3yJCxWuuNDDMFk) | [Nimbo](https://open.spotify.com/artist/2nVPE2VTrjr1GjS060i7tI) | [Só](https://open.spotify.com/album/5bI4PD3mQ7LBecBfxP7Qnk) | 3:57 | 2022-01-07 | 2022-09-11 |
 | [TAILS \(Dengo\)](https://open.spotify.com/track/7Kzw30tUuUZw0uDv9KSwt6) | [Malharo](https://open.spotify.com/artist/01P95MsV6kbRUvHnnLsldG) | [MORPHEUS](https://open.spotify.com/album/74KxJCOEbdrNqOqW5O4E3C) | 3:01 | 2022-01-07 | 2022-01-29 |
 | [Tainá Cigana](https://open.spotify.com/track/1DRZSRWT8dosHTI14vVp4b) | [Thales Cavalcanti](https://open.spotify.com/artist/5xmOIkCACTIFL0bWHcQYVx) | [Tainá Cigana](https://open.spotify.com/album/2XAESJPXbjbN1R6rvz33m2) | 3:29 | 2022-08-12 | 2022-11-26 |
+| [Talante](https://open.spotify.com/track/5P1WNHW4nUcBDFQPXHbSfR) | [Dani\-Vie](https://open.spotify.com/artist/2RrEvDsnA3z244bN2Z32iM), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Minha Cara](https://open.spotify.com/album/7asVGLUfBi2Fxwb818FCzs) | 3:19 | 2023-05-12 |  |
 | [Talvez Eu Dance Hoje](https://open.spotify.com/track/4tvYrQV9kBQiUCBkRXUIF3) | [Ondular](https://open.spotify.com/artist/7poNjn7hnhZ6XywHN5mePp) | [Talvez Eu Dance Hoje](https://open.spotify.com/album/1HwkXpLnBvZ5Cj9pnkMimr) | 2:55 | 2022-01-07 | 2022-09-24 |
 | [TARA](https://open.spotify.com/track/2mci9VwSkwtxPaMGKJqOvt) | [Malu Rizzo](https://open.spotify.com/artist/6OReJ6J8946lGFWrYugvdH) | [TARA](https://open.spotify.com/album/15UnP9gEyIaskBAb6u7gJX) | 2:16 | 2022-08-19 | 2022-12-17 |
 | [Te Amar](https://open.spotify.com/track/4yL8VzD2WK9Sicx039ezs7) | [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5), [Baficca](https://open.spotify.com/artist/7BdWbqGoRpwwmp2GQCMz4C) | [Te Amar](https://open.spotify.com/album/6bQnUgwX47nRxeP8Vzkj26) | 2:46 | 2022-01-07 | 2022-04-16 |

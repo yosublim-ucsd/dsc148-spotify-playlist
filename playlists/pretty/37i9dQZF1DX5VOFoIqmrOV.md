@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 5 years\. <br/>Cover : RRR
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,345 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,985 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Naatu Naatu](https://open.spotify.com/track/4BHYJiAqyqGtN267ypm1ke) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14) | [RRR](https://open.spotify.com/album/3kBrgReuEedduqXf27qgn9) | 3:34 |
 | 2 | [Buttabomma](https://open.spotify.com/track/1gT9sc5997gi82JBxoUTYp) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Ala Vaikunthapurramuloo](https://open.spotify.com/album/3lnOgTbiGMIvcZhvqBkHDa) | 3:18 |
 | 3 | [Gundellonaa \(From "Ori Devuda"\)](https://open.spotify.com/track/67I2ref0Bz0lLOzzzANTHG) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Gundellonaa \(From "Ori Devuda"\) \- Single](https://open.spotify.com/album/49P4LkEWmcziCCBEfIvAKO) | 3:20 |
-| 4 | [Pulsar Bike](https://open.spotify.com/track/60KvZb0FonIUUC9uYjYFQF) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC) | [Dhamaka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Qz9VVoDjqs1KwD6mgOFti) | 2:10 |
+| 4 | [Pulsar Bike](https://open.spotify.com/track/48CzymfD7NHtc78cwVkbtD) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC) | [Dhamaka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/08qZ0FNkJSDN1Qd5w0pDxG) | 2:10 |
 | 5 | [Mastaaru Mastaaru](https://open.spotify.com/track/59eeV0SIeyd431uyjAWCRe) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Sir](https://open.spotify.com/album/7qJBv6QEwl0DQDlNg3mBvc) | 3:45 |
 | 6 | [Life Of Ram](https://open.spotify.com/track/0i5KYCaQs1xY7z9MWCFoXW) | [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6) | [Jaanu](https://open.spotify.com/album/76Gn7WA0mvH8Ke4yjGlveG) | 6:04 |
 | 7 | [Srivalli](https://open.spotify.com/track/2YmXGUx32C3CUEgcAyHcGf) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Pushpa \- The Rise](https://open.spotify.com/album/1iyTadvfpktJDCLF9GmHbL) | 3:41 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 18 | [Kalaavathi \(From "Sarkaru Vaari Paata"\)](https://open.spotify.com/track/0RjQR5QfKREKE9wQki8spV) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Kalaavathi \(From "Sarkaru Vaari Paata"\) \- Single](https://open.spotify.com/album/0PuturA4rrgnBAf4mP9dfE) | 4:02 |
 | 19 | [Oo Antava Oo Oo Antava](https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8) | [Indravathi Chauhan](https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM) | [Pushpa \- The Rise](https://open.spotify.com/album/4tXcR4YBqi96HgZlMCBY7v) | 3:43 |
 | 20 | [Idhe Kadha Nee Katha](https://open.spotify.com/track/344RDDZ8T7QFFqIT377ZOX) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Maharshi](https://open.spotify.com/album/3wAsZ0sTfkJvspCMlW5azC) | 2:48 |
-| 21 | [Jinthaak Chithaka \(From "Dhamaka"\)](https://open.spotify.com/track/22u6BMS2NGGCoZzOsxAIlS) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC), [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Jinthaak Chithaka \(From "Dhamaka"\)](https://open.spotify.com/album/4x0uXmq0RuGBdpXx9bjs8N) | 3:45 |
+| 21 | [Jinthaak Chithaka](https://open.spotify.com/track/5lros38FrhzSXgABKnBsb4) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC), [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Jinthaak Chithaka \(From "Dhamaka"\)](https://open.spotify.com/album/3SvbrLQNDgpWGWg1ldb3pJ) | 3:45 |
 | 22 | [Dosti](https://open.spotify.com/track/04gj1dTfKOsir4SB70LLgS) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [RRR](https://open.spotify.com/album/3kBrgReuEedduqXf27qgn9) | 5:40 |
 | 23 | [Chitti](https://open.spotify.com/track/6PQpG2HlVxuR6GwwWQX7XM) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Jathi Ratnalu](https://open.spotify.com/album/2EVWg8KlmiHE5tcjHxRzwA) | 3:04 |
 | 24 | [Inthandham \(From "Sita Ramam \(Telugu\)"\)](https://open.spotify.com/track/3BVjPpVvki8Jpm1Ew21UjH) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja) | [Inthandham \[From "Sita Ramam \(Telugu\)"\]](https://open.spotify.com/album/6J9Jhm6rr5RboOPtvzkNrX) | 3:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 74 | [Baitikochi Chuste](https://open.spotify.com/track/7MtXu7mXRMdICKyTOb8CuR) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Agnyaathavaasi](https://open.spotify.com/album/6RsL60SSZTVwigjfyY8mD2) | 3:26 |
 | 75 | [Undiporaadhey](https://open.spotify.com/track/6jUscicoyUljrPOdQCfhnd) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Hushaaru](https://open.spotify.com/album/35CCKYAkZ8GHzIb1rbDND5) | 2:53 |
 
-Snapshot ID: `MCw2MGJhODg2OWQ2OTY1ZWNmMmQxNmQ4ODEwNjBjZjY5M2FiODViYmQx`
+Snapshot ID: `MCxhYjRiM2RiMWE2MjY4NDY4Y2NhYjE5NGEzOTMyMTY5NzdjZGIxOGNk`

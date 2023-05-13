@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:   nabrl
 
-1,854 songs - 4 day 17 hr 31 min
+1,855 songs - 4 day 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1534,6 +1534,7 @@
 | [STAY](https://open.spotify.com/track/3Jtj8Ofs2NGSFUZUeziuBc) | [hyejin](https://open.spotify.com/artist/5zLd9DhI6ebR8fvwunp4bX) | [STAY](https://open.spotify.com/album/5giGywPuhqm1dcJIe3R7Dl) | 2:30 | 2023-01-12 | 2023-01-27 |
 | [Stay](https://open.spotify.com/track/7k6KcHMsgUaGuTroXX83SL) | [Phonetic](https://open.spotify.com/artist/5wnc79wwz2nX17qfqbD3Ko) | [Stay](https://open.spotify.com/album/1KqfrNnrpqIjiTFOHP5lid) | 3:00 | 2022-05-05 | 2022-05-20 |
 | [Stay](https://open.spotify.com/track/65K8SeTHlvN0khRiZcqpC8) | [The Vacancies](https://open.spotify.com/artist/7mhWsGYpxYhVMvBnk9JiNt) | [Stay](https://open.spotify.com/album/7bYw394Q6YG626DEb6pUfK) | 3:41 | 2023-03-02 | 2023-03-18 |
+| [Stay Alive](https://open.spotify.com/track/1Ee2vybGrQJwPmCSFXDcql) | [Alfie](https://open.spotify.com/artist/4ETB5cha0iq0Q5FWiGnsdX) | [Stay Alive](https://open.spotify.com/album/42s6aKRKc9CzoxNDxAVRt7) | 4:07 | 2023-05-11 |  |
 | [Stay On Me](https://open.spotify.com/track/0zj0kU0avkzcJz4QS6kTeI) | [Adi Widodo](https://open.spotify.com/artist/05tW8IyHXQK0sqDOQQilVS) | [Stay On Me](https://open.spotify.com/album/3k8zP2seZa5f04aC0UfWrU) | 5:04 | 2022-01-13 | 2022-01-28 |
 | [stay so far](https://open.spotify.com/track/4qm4KwOi3rMb3fqvarR32k) | [El Driex](https://open.spotify.com/artist/2QkT9TJQp8VQfG4XFS4moK), [Suisei](https://open.spotify.com/artist/2Iw3yPRqjz5Xh4veKj7oqi) | [stay so far](https://open.spotify.com/album/4R793WWDBiZNTRkK9kolvW) | 2:56 | 2023-01-12 | 2023-01-27 |
 | [Stay With Me](https://open.spotify.com/track/4DqlbhULOaiuUWW2s7GACu) | [Disini Project](https://open.spotify.com/artist/1qZfBlaHGOWvKMPcmkFbfv) | [Stay With Me](https://open.spotify.com/album/0n4DK9MYGnyn6cGv8AYrBZ) | 4:06 | 2023-03-23 | 2023-04-07 |
@@ -1574,7 +1575,7 @@
 | [Sunglasses](https://open.spotify.com/track/1UK58bBEapGXWvVbI78zIO) | [Wevvss](https://open.spotify.com/artist/6zcbd2HfTX8pbqYqmXQkLI) | [Hometown](https://open.spotify.com/album/0yqgSNLerip6HtyHcE1Pwa) | 2:32 | 2022-05-05 | 2022-05-20 |
 | [Sunset View](https://open.spotify.com/track/2MFE5ZBCjNe1Mhi73V6ntM) | [Ridh](https://open.spotify.com/artist/0tqCMm24TzsA9pbhqbjbv1) | [Sunset View](https://open.spotify.com/album/3kFvFKL2imh65emrkwWuXQ) | 3:09 | 2022-09-22 | 2022-10-14 |
 | [Sunshine](https://open.spotify.com/track/0avpvwnHLbvsZZ35vqtsGg) | [Vicky Bagus](https://open.spotify.com/artist/3JsOSN9jPdnHpmPn1cGL6F) | [Sunshine](https://open.spotify.com/album/5d86gLdWtvHfNaKumgv7iT) | 4:11 | 2022-09-09 | 2022-09-23 |
-| [Surat Cinta](https://open.spotify.com/track/5q1nLD5DvTLe9BFGe9MAA9) | [SUN](https://open.spotify.com/artist/5EjzvshGaeIYnjdttJF6ZQ) | [Surat Cinta](https://open.spotify.com/album/1PxLiJr7mqUtuz4we6N53G) | 3:58 | 2023-05-11 |  |
+| [Surat Cinta](https://open.spotify.com/track/5q1nLD5DvTLe9BFGe9MAA9) | [SUN](https://open.spotify.com/artist/2xqgOMshAgaakXlWVYio8L) | [Surat Cinta](https://open.spotify.com/album/1PxLiJr7mqUtuz4we6N53G) | 3:58 | 2023-05-11 |  |
 | [Surel](https://open.spotify.com/track/28qaZVU6Wuk1cgA3MqkZKO) | [Normal Eve](https://open.spotify.com/artist/6c7nlW5vkowcTcgspuXUIS) | [Surel](https://open.spotify.com/album/0Cg5DfqjXLaJqWThh9lDmr) | 4:18 | 2023-04-27 |  |
 | [Surfing a Tsunami Wave](https://open.spotify.com/track/3KdTzknfMIuUAUnKoXDAKv) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG), [Zen Aji](https://open.spotify.com/artist/7FoS5czKb5PCnmOGaSzWi0) | [Surfing a Tsunami Wave](https://open.spotify.com/album/6EEC1X1hm9YWP9UVrM101Z) | 2:49 | 2023-02-09 | 2023-02-24 |
 | [Surreal](https://open.spotify.com/track/2Tb3Ao42yWMtPh9hXE17Dp) | [YAKKA](https://open.spotify.com/artist/0iwPbUudIwH1c8BZ5bupN4) | [Surreal](https://open.spotify.com/album/47dVqLu82QQahjJD9sNuuJ) | 3:37 | 2022-02-03 | 2022-02-18 |

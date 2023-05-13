@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Il Grande Male (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5dHOnPMjwR3s3cjApZr5UL"
+      },
+      "artists": [
+        {
+          "name": "Mattia Vlad Morleo",
+          "url": "https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192527,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/3UIdfTWEMXcBZYgLN3mMvu"
+    },
+    {
+      "album": {
         "name": "Outlander: Season 4 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5txUaOE0Skafk1JBkyzc7V"
       },

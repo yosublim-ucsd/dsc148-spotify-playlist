@@ -2,9 +2,9 @@
 
 ### [BUTTER](https://open.spotify.com/playlist/37i9dQZF1DWVzZlRWgqAGH)
 
-> Smooth joints\. Cover: KIRBY
+> Smooth joints\. Cover: RAYE
 
-858 songs - 2 day 2 hr 26 min
+860 songs - 2 day 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,7 +361,7 @@
 | [Home Time](https://open.spotify.com/track/0xWTLjxRdB1Gzi1Fz3206A) | [The Colours That Rise](https://open.spotify.com/artist/3DQd0TSC3qhevX7nb00xCV) | [Home Time](https://open.spotify.com/album/4PASFTRAu3E1tRGMRW8X2m) | 4:00 | 2019-12-06 | 2020-01-11 |
 | [Homespun](https://open.spotify.com/track/0NmtuRJJAVhAN2w637Brpt) | [Glenn Astro](https://open.spotify.com/artist/6NjPS5yGVTioKlN7NsA6Is), [Ajnascent](https://open.spotify.com/artist/2f1VWkEx9QnpNefXzl9f8H) | [Homespun](https://open.spotify.com/album/0v9hrKG8Ez0v1Nv6ETcwYF) | 3:49 | 2020-09-29 | 2022-07-29 |
 | [HONEYSUCKLE NECKBONE](https://open.spotify.com/track/42XjSu5mDdsCS5QKf4GKev) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [HONEYSUCKLE NECKBONE](https://open.spotify.com/album/7IyhQLXLMdsYr62RuSpt12) | 3:20 | 2023-03-17 |  |
-| [Hope](https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Hope](https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp) | 4:30 | 2021-01-31 |  |
+| [Hope](https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Hope](https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp) | 4:30 | 2021-01-31 | 2023-05-13 |
 | [Hope So](https://open.spotify.com/track/3JSqJB5dSm7cUHwXyYTTVC) | [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Hope So](https://open.spotify.com/album/342PLIViQ9Sx89hz94e6pw) | 3:43 | 2020-06-16 | 2020-09-02 |
 | [Hope You're Doin' Better](https://open.spotify.com/track/3P4VcP4EN2WmadJeoFalgJ) | [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26) | [Hope You're Doin' Better](https://open.spotify.com/album/00RV2CrbNB2GIy59lmLLKn) | 4:35 | 2021-03-06 | 2022-07-29 |
 | [Hotline](https://open.spotify.com/track/2T0uZowHdsxAYJyFS13KQI) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [Hotline](https://open.spotify.com/album/01abUW9eJNapjJv0E4rNMF) | 2:28 | 2022-05-13 | 2022-11-12 |
@@ -571,6 +571,7 @@
 | [Paradise](https://open.spotify.com/track/70BcwbdG9MceSRXBdwlLpk) | [Benny Atlas](https://open.spotify.com/artist/6IXnkjY4xozfLmaA0DxuoS) | [Paradise](https://open.spotify.com/album/67Pvw2Nx1Lp7m4lfWPw6KL) | 4:13 | 2020-12-08 | 2022-07-24 |
 | [Paramount \- Crayon Remix](https://open.spotify.com/track/06CkTce0FZJQtHiQHHBbQl) | [Tora](https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK), [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh) | [Paramount \(Crayon Remix\)](https://open.spotify.com/album/5IsQCmf9Fr67DtLQZbv7xZ) | 3:19 | 2019-11-22 | 2020-02-22 |
 | [Paris, Texas](https://open.spotify.com/track/4HNeLKW804ajGc5h41GtHE) | [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Now, You Know](https://open.spotify.com/album/4gxmQOdxJgN7kc1o8ipiUR) | 3:03 | 2021-09-24 |  |
+| [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/album/0ixL0K67B2xkOjom88AdXQ) | 4:03 | 2023-05-12 |  |
 | [Pelota](https://open.spotify.com/track/39p88iz6Hzx5KN00QbLIdv) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Pelota](https://open.spotify.com/album/2zX0TMRVNyesrH6kciPrQZ) | 2:47 | 2020-06-19 | 2020-08-07 |
 | [Peng Black Girls](https://open.spotify.com/track/4pRaCcnpz979CNaMiOS1tS) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Amia Brave](https://open.spotify.com/artist/3Sjv0t3F7FMsQrkWVZcOuW) | [Peng Black Girls](https://open.spotify.com/album/2bflMoQjvDfL59NRUMHylP) | 3:30 | 2020-10-16 | 2020-12-08 |
 | [Peng Black Girls Remix](https://open.spotify.com/track/2VXcVF8k3GXCFfKu7azVvw) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Peng Black Girls Remix](https://open.spotify.com/album/2QxcjTyF3LyINtiAyhhWt4) | 3:26 | 2020-12-04 | 2021-01-07 |
@@ -631,6 +632,7 @@
 | [Round n Round](https://open.spotify.com/track/2V94IWVS9kf79A8GnUM6wP) | [Qadir Bijoux](https://open.spotify.com/artist/26dpXNQaUiknQXGV3zQqzQ), [Ninja Kidsoul](https://open.spotify.com/artist/5fGQSkk1vCCsXliK22M5SJ) | [W](https://open.spotify.com/album/6Nl6bYPvpvghco866wcdPZ) | 2:46 | 2020-07-18 | 2022-05-14 |
 | [Run](https://open.spotify.com/track/4xpuvoBYwMnUlISll0Jpmb) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Run](https://open.spotify.com/album/4bgFTUatROxw3UC0zKg1k9) | 2:36 | 2021-04-19 | 2022-07-26 |
 | [Run Away](https://open.spotify.com/track/4Ef1QKChVVBQLt0wmTycUS) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Run Away](https://open.spotify.com/album/0TUxwnkbBEjBhriA5aTOL8) | 3:39 | 2020-10-02 | 2022-04-19 |
+| [Run Through Fire](https://open.spotify.com/track/4U3Xw68LAgaiJahg8Jtoy9) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Run Through Fire](https://open.spotify.com/album/5ZXRhusicgRkkUuCZILOkE) | 3:04 | 2023-05-12 |  |
 | [Running \(feat\. Ghetts\)](https://open.spotify.com/track/38vxstSXciei0IuEO2MoGI) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [Running \(feat\. Ghetts\)](https://open.spotify.com/album/5ixpxqTNl3NslcF9WzmXr5) | 4:02 | 2021-05-13 | 2023-03-29 |
 | [Running Loose](https://open.spotify.com/track/7gIsweU9wPiX525caZVglz) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Running Loose](https://open.spotify.com/album/4GOqt9sG3DojO5Zgv3x3uH) | 4:20 | 2023-02-03 | 2023-03-04 |
 | [Sage Secrets](https://open.spotify.com/track/3cqKNfyrHyhrBdciF0wj92) | [PYJÆN](https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Sage Secrets](https://open.spotify.com/album/5u8PXxCMPYOWB52Uwz227q) | 3:42 | 2020-04-10 | 2020-05-01 |
@@ -733,7 +735,7 @@
 | [Take Care](https://open.spotify.com/track/2cDpmXyh3PE57jrnmmvzno) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Take Care](https://open.spotify.com/album/2h1iaTg7mmALw6Xm7KUOb7) | 3:49 | 2022-10-14 | 2022-11-19 |
 | [Take Care of You \(feat\. Syd\)](https://open.spotify.com/track/2ENxOXbxhfJ3lfItO0MFDv) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Take Care of You / Summertime](https://open.spotify.com/album/1TOxhqUtnHSJHnOqRlVxQa) | 3:34 | 2020-08-25 | 2020-12-18 |
 | [Take Me Away \(feat\. EARTHGANG\)](https://open.spotify.com/track/0jdit0IB5OJbDmPRqadZbs) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Take Me Away \(feat\. EARTHGANG\)](https://open.spotify.com/album/7uArP6gpDdQXQrkfdFOpvA) | 2:52 | 2020-10-16 | 2022-12-31 |
-| [Talk Is Cheap](https://open.spotify.com/track/1p1iq2npedwN1k112m7UPf) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Velvet](https://open.spotify.com/album/2wN3fuTXmj387DO7wxNjz8) | 4:18 | 2022-08-19 |  |
+| [Talk Is Cheap](https://open.spotify.com/track/1p1iq2npedwN1k112m7UPf) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Velvet](https://open.spotify.com/album/2wN3fuTXmj387DO7wxNjz8) | 4:18 | 2022-08-19 | 2023-05-13 |
 | [Tastes Like Freedom \- Radio Edit](https://open.spotify.com/track/4EAEt7y5pOzv1uY7w2QyKX) | [30/70](https://open.spotify.com/artist/2hmDAP9qrP22L93Pbq7FWM) | [Tastes Like Freedom](https://open.spotify.com/album/0XMEO0DmREPTcpquyo0aAd) | 3:11 | 2021-09-12 | 2022-07-29 |
 | [TEARS OF JOY](https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [LET IT RAIN EP](https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D) | 3:23 | 2022-10-28 |  |
 | [Tell Me Why](https://open.spotify.com/track/75QLOfbDw2IyEuY5OZWV5r) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Tell Me Why](https://open.spotify.com/album/0g8h1QxnKUsfnEgVwKTuJN) | 3:08 | 2022-05-13 | 2023-02-05 |

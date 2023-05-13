@@ -2,9 +2,9 @@
 
 ### [Roots Rising](https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0)
 
-> Explore the ever\-evolving folk & roots scene\. Cover: Nathaniel Rateliff & The Night Sweats
+> Explore the ever\-evolving folk & roots scene\. Cover: David Kushner
 
-387 songs - 1 day 0 hr 4 min
+389 songs - 1 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Hiding Out In The Open](https://open.spotify.com/track/6rN8cR7iEcC1hAlHF4UpSN) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/4GErH8Za9b4VutH8jTSU1o) | 3:21 | 2023-02-24 | 2023-03-26 |
 | [Hitchin' a Ride](https://open.spotify.com/track/7oCx2L4JBKi6wQYhXzT8FN) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Hitchin' a Ride](https://open.spotify.com/album/52GMS1garIMItzvmogm1MF) | 4:30 | 2022-07-08 | 2023-01-06 |
 | [Hold My Hand](https://open.spotify.com/track/0v3lkM0UK7RfbtdkeycqdI) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Hold My Hand](https://open.spotify.com/album/0CyBAwMsqEOxlyUMIMB2I4) | 5:01 | 2022-09-02 | 2023-01-06 |
+| [Holdup](https://open.spotify.com/track/698FjMKtAofPXufwpCbsxo) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Holdup](https://open.spotify.com/album/0xwKLtHe9vEa7a4w88guxk) | 2:35 | 2023-05-12 |  |
 | [Holy Mountain](https://open.spotify.com/track/5styQSSHZtSg4BPfEqiqw7) | [Matt Costa](https://open.spotify.com/artist/0EghvcisxKybq4CVO7rB5t) | [Donde Los Terremotos: Songs from and Inspired by the Film](https://open.spotify.com/album/0gcM0ST0KNf9v3ua0rnpkf) | 5:32 | 2022-06-17 | 2022-08-27 |
 | [Homesick](https://open.spotify.com/track/0jkzxxDG8z3Y5OmfNl1VM0) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:14 | 2023-01-13 |  |
 | [Homesick for the Place I Don't Even Know \(feat\. Sam Valdez\)](https://open.spotify.com/track/1cs14d3VfzeI4z94h30Pit) | [Edwin Raphael](https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB), [Sam Valdez](https://open.spotify.com/artist/4mZgWEC08B8iiFbrugixkq) | [Homesick for the Place I Don't Even Know \(feat\. Sam Valdez\)](https://open.spotify.com/album/3hM4HF7GpNYbrHzgXbrOdu) | 4:41 | 2023-02-17 |  |
@@ -192,7 +193,7 @@
 | [In The Pines](https://open.spotify.com/track/4gOHmHKTn63012ROseKHvR) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [In The Pines](https://open.spotify.com/album/4J4zam9BmBnrGSzrI7SrMp) | 3:37 | 2022-06-10 | 2022-09-10 |
 | [It's A New Life](https://open.spotify.com/track/3ku06NWgtn63zs0yGSjQoe) | [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [New Girl](https://open.spotify.com/album/2CgSadfSWTw2Sbv2ZA4QlK) | 4:25 | 2022-06-10 | 2022-09-03 |
 | [It's Called: Freefall](https://open.spotify.com/track/21fUwJ2HBBe7RELt5USZl5) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [It's Called: Freefall](https://open.spotify.com/album/0Zd9SUhi8nN1qu9Vn6TRLR) | 2:38 | 2022-08-05 | 2022-10-22 |
-| [It's Called: Freefall](https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [It's Called: Freefall](https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs) | 2:38 | 2022-09-30 |  |
+| [It's Called: Freefall](https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [It's Called: Freefall](https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs) | 2:38 | 2022-09-30 | 2023-05-13 |
 | [It's So Hard to Hold On](https://open.spotify.com/track/74X7aghQOSTL34O9xa3fwb) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [It's so Hard to Hold On](https://open.spotify.com/album/64z3mnnIQf44D7dumfUWJY) | 3:37 | 2022-06-24 | 2023-01-28 |
 | [Jazz on the Autobahn](https://open.spotify.com/track/0X7PaSl2RFGQYTRzTmC8Xf) | [The Felice Brothers](https://open.spotify.com/artist/4Ajgo7nAsTzjSFymIfBjZ1) | [From Dreams to Dust](https://open.spotify.com/album/2yHBOaatHcvlgNQ7WPpNIS) | 4:32 | 2021-12-10 | 2022-01-22 |
 | [Jersey Giant](https://open.spotify.com/track/1md6N1TV9uNH2VdiCcYEkM) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Jersey Giant](https://open.spotify.com/album/7HwlzPe0rapJWoSeLp9KDn) | 3:18 | 2023-01-27 |  |
@@ -290,7 +291,7 @@
 | [Shine](https://open.spotify.com/track/00r8JL55INeWH0qQfiEhsl) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Shine](https://open.spotify.com/album/7lqGzEhPHDWg3B24gDavWd) | 3:31 | 2022-01-07 | 2022-07-29 |
 | [Shine](https://open.spotify.com/track/5ouMWwTXJfgTOiCvz6fbFX) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Clouds](https://open.spotify.com/album/3pg8vVz9dDzYdfQxgT9MCP) | 3:31 | 2022-07-22 | 2022-12-10 |
 | [Shine](https://open.spotify.com/track/7x09NsSBkAuGJ3QMnSV4xh) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Harry Styles](https://open.spotify.com/album/1NbETIrvXZF63xpXeYDoKb) | 3:31 | 2022-11-04 | 2022-11-13 |
-| [Show Me the Way](https://open.spotify.com/track/71uPeJAESy4ZYB7bN207SU) | [Calder Allen](https://open.spotify.com/artist/1XlVbGlQaBoESaJ43y2sCD) | [The Game](https://open.spotify.com/album/4tyKptv4UIL5W2KFORmUhv) | 4:05 | 2022-06-17 |  |
+| [Show Me the Way](https://open.spotify.com/track/71uPeJAESy4ZYB7bN207SU) | [Calder Allen](https://open.spotify.com/artist/1XlVbGlQaBoESaJ43y2sCD) | [The Game](https://open.spotify.com/album/4tyKptv4UIL5W2KFORmUhv) | 4:05 | 2022-06-17 | 2023-05-13 |
 | [Sick of This Feeling](https://open.spotify.com/track/4uofAamZ0yx9op14TjmQVp) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [A River Running to Your Heart](https://open.spotify.com/album/2n4dZnB3Iz7wWPdDQO3auX) | 3:33 | 2023-04-21 |  |
 | [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:12 | 2023-01-13 |  |
 | [Sing Me a Song](https://open.spotify.com/track/0LmMZe0g80Z60zoTqR3cai) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6), [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Sing Me a Song](https://open.spotify.com/album/5qccHZQbxaKW0rlUz8N37y) | 2:39 | 2022-07-22 | 2022-12-03 |
@@ -328,6 +329,7 @@
 | [The End](https://open.spotify.com/track/7qkX2mHStdrHVC2NFWqwpo) | [Elliot Greer](https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD) | [The End](https://open.spotify.com/album/12FtJ1DgVIT12XlvPRxtMb) | 3:10 | 2023-01-20 | 2023-03-11 |
 | [The Exception](https://open.spotify.com/track/2JSEqnS5EhLBV0uJXls29I) | [Dustbowl Revival](https://open.spotify.com/artist/3cB0nIIeIGSuMlw6rnu1dm), [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [The Exception](https://open.spotify.com/album/5K0ymB1V7VUBydptTtplUX) | 4:07 | 2021-12-10 | 2022-04-23 |
 | [The Good Old Days](https://open.spotify.com/track/2OKOfynu79Cq1PVk5NPx0E) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O), [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [The Good Old Days](https://open.spotify.com/album/6tTzQ8mUIFbzftZkdXYZHF) | 3:38 | 2022-01-21 | 2022-05-28 |
+| [The Hills of Aberfeldy](https://open.spotify.com/track/1eYafSv4c2aFNf98hSFHX0) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:15 | 2023-05-12 |  |
 | [The Less I Knew](https://open.spotify.com/track/7yc1Jj1GGNAiG9FT58KalR) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [The Less I Knew](https://open.spotify.com/album/1KRR7OrY7bBmwEKpcJMT7o) | 4:34 | 2022-04-29 | 2022-05-20 |
 | [The Man Was Burning](https://open.spotify.com/track/5X8hjt33EdQ8KUaUzcTNQv) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [The Man Was Burning](https://open.spotify.com/album/0OhzvTKOvapdOk4KY5Zjly) | 2:35 | 2022-02-25 | 2022-07-30 |
 | [The Medicine Man \[Feat\. Old Crow Medicine Show\]](https://open.spotify.com/track/1SlXBA2DcPeBN9beZ9u4QX) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F), [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [The Medicine Man](https://open.spotify.com/album/4lSXxyaYcDLGpCcF3d21Ii) | 3:38 | 2021-12-10 | 2022-05-07 |

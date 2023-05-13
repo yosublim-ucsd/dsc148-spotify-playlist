@@ -429,6 +429,32 @@
     },
     {
       "album": {
+        "name": "Random Access Memories (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4mAhdh996uW5SnnFKXUmC0"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369626,
+      "name": "Get Lucky (feat. Pharrell Williams and Nile Rodgers)",
+      "url": "https://open.spotify.com/track/2olIQt0rL0hOHau1SJ4xf2"
+    },
+    {
+      "album": {
         "name": "Random Access Memories",
         "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
       },
@@ -448,7 +474,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 369626,
       "name": "Get Lucky (feat. Pharrell Williams and Nile Rodgers)",
       "url": "https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq"
@@ -466,10 +492,28 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 544626,
       "name": "Giorgio by Moroder",
       "url": "https://open.spotify.com/track/0oks4FnzhNp5QPTZtoet7c"
+    },
+    {
+      "album": {
+        "name": "Random Access Memories (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4mAhdh996uW5SnnFKXUmC0"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 544626,
+      "name": "Giorgio by Moroder",
+      "url": "https://open.spotify.com/track/2eXJRM1lQJ591AStNA26Yx"
     },
     {
       "album": {
@@ -691,6 +735,28 @@
     },
     {
       "album": {
+        "name": "Random Access Memories (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4mAhdh996uW5SnnFKXUmC0"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "name": "Julian Casablancas",
+          "url": "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337560,
+      "name": "Instant Crush (feat. Julian Casablancas)",
+      "url": "https://open.spotify.com/track/0f8GgsD1lDtRBAS5GEDKgg"
+    },
+    {
+      "album": {
         "name": "Random Access Memories",
         "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
       },
@@ -706,7 +772,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 337560,
       "name": "Instant Crush (feat. Julian Casablancas)",
       "url": "https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6"

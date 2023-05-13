@@ -4,7 +4,7 @@
 
 > De lunes a domingo, descubre un tema elegido por tus editores de Spotify.
 
-74 songs - 4 hr 19 min
+75 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Fin del Mundo](https://open.spotify.com/track/30INzB3hMnHVTazJaMNAEo) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Fin del Mundo](https://open.spotify.com/album/51QkTeZMtaqtEHh0ERHY1O) | 5:19 | 2023-04-18 |  |
 | [Flama](https://open.spotify.com/track/3qPl0LBkxkpC8dLBs8oxug) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Mayki Graff](https://open.spotify.com/artist/7EiFezQrfthN6y5Aiiw0Q5) | [Flama](https://open.spotify.com/album/1NVzPKVN5FSqANSjAewanV) | 2:22 | 2023-03-19 |  |
 | [Fotonovela](https://open.spotify.com/track/1SoR39CY4CbGknDHwqxAvV) | [Mœnia](https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Fotonovela](https://open.spotify.com/album/04vG2wy1arlZRS1QmhIxUQ) | 4:42 | 2023-03-19 | 2023-04-22 |
-| [Fumando Menos](https://open.spotify.com/track/2KTuqLyX4K0on4TovE9u8o) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Fumando Menos](https://open.spotify.com/album/0Wk5E3svT8yYLBt8ApetaP) | 3:07 | 2023-03-19 |  |
+| [Fumando Menos](https://open.spotify.com/track/2KTuqLyX4K0on4TovE9u8o) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Fumando Menos](https://open.spotify.com/album/0Wk5E3svT8yYLBt8ApetaP) | 3:07 | 2023-03-19 | 2023-05-13 |
 | [Horas](https://open.spotify.com/track/2UumxLigdCw91IxqpMEvPz) | [Alexis Play](https://open.spotify.com/artist/2XRVqqdNOt779uXNFA1Fhv), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Horas](https://open.spotify.com/album/1geeDTUcLFv7vgDH0v0C3a) | 3:51 | 2023-04-25 |  |
 | [Juego](https://open.spotify.com/track/7za0cW9mZQRu0n4HYjd0dl) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Juego](https://open.spotify.com/album/0Ne1rhsv5UKWtR9zF0f1LU) | 3:09 | 2023-03-19 | 2023-04-15 |
 | [Las Flores Sangran](https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Las Flores Sangran](https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV) | 3:18 | 2023-03-19 | 2023-04-23 |
@@ -79,6 +79,7 @@
 | [Shorty 2](https://open.spotify.com/track/4PxNkl09m4T65wW7qqPh6J) | [Lolabúm](https://open.spotify.com/artist/1Smk5600sBY0IosFDG2zki), [Menino Gutto](https://open.spotify.com/artist/4eX5jYwqeLxnUZcBszdrws) | [Shorty 2](https://open.spotify.com/album/1YVcXIfifU15sAd7fIr7Dt) | 3:23 | 2023-03-19 | 2023-04-13 |
 | [Sol](https://open.spotify.com/track/3ZCnCDJchAUdH922mJty6O) | [Mar Marzo](https://open.spotify.com/artist/4WnBdEl64Zs4DiEBAaAFlc) | [Sol](https://open.spotify.com/album/7rWwNHGxgwWsPdhxoBIty5) | 2:51 | 2023-03-19 | 2023-04-20 |
 | [Soy un volcán](https://open.spotify.com/track/0dGwAktrgm2gwLCcU3NLfG) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD), [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [Luz de perla](https://open.spotify.com/album/6ENurOBs5BwrZNvGvJ2VIY) | 2:49 | 2023-04-19 |  |
+| [Tampoco Poco](https://open.spotify.com/track/56Qv2bKbDBp7I2iKgmUV47) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Tampoco Poco](https://open.spotify.com/album/75vq0NL98i4o6WZzqVjt2r) | 3:00 | 2023-05-12 |  |
 | [Toda la Noche](https://open.spotify.com/track/4JqzimmrHYg2yOXY37SfwV) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Abril](https://open.spotify.com/album/2uT7GrTnYKL293sssNax85) | 3:49 | 2023-04-22 |  |
 | [Tu Apodo](https://open.spotify.com/track/6LDdT2ajmQwa2X8KgjAOSq) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Tu Apodo](https://open.spotify.com/album/1VOfSXkm9fGGhIbZ0GzP5q) | 2:35 | 2023-03-19 | 2023-04-15 |
 | [Órbita](https://open.spotify.com/track/69nb2ILVOmzn6rJUlbfkTo) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs), [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Órbita](https://open.spotify.com/album/6NNNGHpNY68oVq0QhtJBUT) | 3:17 | 2023-03-19 |  |

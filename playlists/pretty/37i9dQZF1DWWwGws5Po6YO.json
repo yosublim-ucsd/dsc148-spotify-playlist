@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Mira Calix",
-  "num_followers": 28858,
+  "num_followers": 28865,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzVlMDc2NDk2NmViNzJkMzdiOWQ2MmU5MzA4NTU5YjI1NTk0Njgz",
+  "snapshot_id": "MCxiMDZhMTUxY2QzMzNiNDJlZmFmMDgzYzVmZmU2NTVhZjI5YjZhYzQ4",
   "tracks": [
     {
       "added_at": "2022-12-20 17:52:39",
@@ -611,6 +611,22 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
+        "name": "Our Hands Against the Dusk",
+        "url": "https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9"
+      },
+      "artists": [
+        {
+          "name": "Rachika Nayar",
+          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
+        }
+      ],
+      "duration_ms": 208912,
+      "name": "The Trembling of Glass",
+      "url": "https://open.spotify.com/track/3xcZhz8x7ZV2PrREmSav89"
+    },
+    {
+      "added_at": "2022-12-20 17:52:39",
+      "album": {
         "name": "outside of your lifetime",
         "url": "https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ"
       },
@@ -623,26 +639,6 @@
       "duration_ms": 121000,
       "name": "Withdrawal",
       "url": "https://open.spotify.com/track/7LY0xEmkAWnwTh2QCeIqn6"
-    },
-    {
-      "added_at": "2022-12-20 17:52:39",
-      "album": {
-        "name": "One Life : four remixes",
-        "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
-        },
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        }
-      ],
-      "duration_ms": 360193,
-      "name": "Nana (Like A Star Made For Me) - Julianna Barwick remix",
-      "url": "https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU"
     },
     {
       "added_at": "2022-12-20 17:52:39",
@@ -663,18 +659,22 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
-        "name": "Our Hands Against the Dusk",
-        "url": "https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9"
+        "name": "One Life : four remixes",
+        "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
       },
       "artists": [
         {
-          "name": "Rachika Nayar",
-          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+        },
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
         }
       ],
-      "duration_ms": 208912,
-      "name": "The Trembling of Glass",
-      "url": "https://open.spotify.com/track/3xcZhz8x7ZV2PrREmSav89"
+      "duration_ms": 360193,
+      "name": "Nana (Like A Star Made For Me) - Julianna Barwick remix",
+      "url": "https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU"
     },
     {
       "added_at": "2022-12-20 17:52:39",

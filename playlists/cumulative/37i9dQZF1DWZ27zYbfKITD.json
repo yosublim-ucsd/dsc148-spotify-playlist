@@ -595,6 +595,24 @@
     },
     {
       "album": {
+        "name": "Final Ascent (arr. piano)",
+        "url": "https://open.spotify.com/album/0GtaKqzR76ApRfqdaLuswp"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174421,
+      "name": "Final Ascent (arr. piano)",
+      "url": "https://open.spotify.com/track/3SdxLdtdrggLwsPJlbmx7n"
+    },
+    {
+      "album": {
         "name": "The Last Guardian Soundtrack (Japan Deluxe Edition)",
         "url": "https://open.spotify.com/album/4cTewzrku9xOpNPXOZ4jVo"
       },
@@ -1270,7 +1288,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 244255,
       "name": "The Box",
       "url": "https://open.spotify.com/track/4hPVjDcGbuc3neTgsAdzXn"

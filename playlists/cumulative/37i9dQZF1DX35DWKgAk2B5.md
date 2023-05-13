@@ -4,7 +4,7 @@
 
 > Welcome to Indie Rock Club\. Cover: Arctic Monkeys
 
-245 songs - 14 hr 32 min
+246 songs - 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,9 +76,10 @@
 | [Everyday I Love You Less and Less](https://open.spotify.com/track/7IdfMBufDn3yf2JhS3a5w0) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Employment](https://open.spotify.com/album/1jnbLwKGgg3XoKYlDmaxmF) | 3:37 | 2022-07-21 | 2022-09-21 |
 | [Evil](https://open.spotify.com/track/4absiGHMelB8eH976ytjBj) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Antics](https://open.spotify.com/album/2OFkUKYNNFQ74kJOSc9gzz) | 3:35 | 2022-07-21 |  |
 | [Evil](https://open.spotify.com/track/6B182GP3TvEfmgUoIMVUSJ) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Antics](https://open.spotify.com/album/58fDEyJ5XSau8FRA3y8Bps) | 3:35 | 2022-07-21 | 2022-07-29 |
-| [Farewell To The Fairground](https://open.spotify.com/track/09v3dFgd3YwrD0U5gkNaTg) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [To Lose My Life ...](https://open.spotify.com/album/1ySdrRPZa9ZRvlcUoGv8UE) | 4:16 | 2022-01-18 |  |
+| [Farewell To The Fairground](https://open.spotify.com/track/09v3dFgd3YwrD0U5gkNaTg) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [To Lose My Life ...](https://open.spotify.com/album/1ySdrRPZa9ZRvlcUoGv8UE) | 4:16 | 2022-01-18 | 2023-05-13 |
 | [Farewell To The Fairground](https://open.spotify.com/track/32dk3UXnGv7lpN7FE3K2ws) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [To Lose My Life ...](https://open.spotify.com/album/1yr9gfvnr5uRvFAxRe7k9y) | 4:16 | 2021-12-03 | 2022-07-29 |
 | [Farewell To The Fairground](https://open.spotify.com/track/3Ex3Tpq19maYOTzSXrqaN9) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [Pop Rock Music](https://open.spotify.com/album/60RwxzIELPK8ctg3xcx3f2) | 4:16 | 2022-09-20 | 2022-11-13 |
+| [Farewell To The Fairground](https://open.spotify.com/track/4wCsnvMyDboBxSDgipm2z0) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [To Lose My Life..\. \(Bonus remix version\)](https://open.spotify.com/album/4A8HMvPUKHOxvTlsrPeNKh) | 4:16 | 2023-01-10 |  |
 | [Fell In Love With a Girl](https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 1:50 | 2022-07-21 |  |
 | [Fell in Love with a Girl](https://open.spotify.com/track/6fLDBnJDWsXwtFSxTC0I9N) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/5pfNX9w6BgCXhLyZGs6YMS) | 1:50 | 2022-07-21 | 2022-07-29 |
 | [Fell In Love With a Girl](https://open.spotify.com/track/2fymCrgE8PRWqr6VOtmSvx) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Fell in Love with a Girl](https://open.spotify.com/album/3OxTiR9m0tSOGvlBJ308Vn) | 1:51 | 2022-09-20 | 2022-11-13 |

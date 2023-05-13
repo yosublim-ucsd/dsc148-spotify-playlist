@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 21426,
+  "num_followers": 21463,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjY1YWVmZDRlYzlkM2U3Zjc0NmI3MTA5YjI2NjcwOTE3NmQ1YmIy",
+  "snapshot_id": "MCw5ZjVmNjAwMTMyNThjYmQwOGJlM2QwNTUzMDJlY2Y3NGIxNDFlODcz",
   "tracks": [
     {
       "added_at": "2023-05-05 08:17:55",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-05-05 08:17:55",
       "album": {
+        "name": "Evergray",
+        "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
+      },
+      "artists": [
+        {
+          "name": "Jiwoo",
+          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "In the Blur of the Rain",
+      "url": "https://open.spotify.com/track/5NbGKVTywRBQpqkkaQJi5j"
+    },
+    {
+      "added_at": "2023-05-05 08:17:55",
+      "album": {
         "name": "That's Why I Can't Talk About Love",
         "url": "https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 202840,
       "name": "That's Why I Can't Talk About Love (Feat. Woo)",
       "url": "https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ"
-    },
-    {
-      "added_at": "2023-05-05 08:17:55",
-      "album": {
-        "name": "Evergray",
-        "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
-      },
-      "artists": [
-        {
-          "name": "Jiwoo",
-          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "In the Blur of the Rain",
-      "url": "https://open.spotify.com/track/5NbGKVTywRBQpqkkaQJi5j"
     },
     {
       "added_at": "2023-05-05 08:17:55",

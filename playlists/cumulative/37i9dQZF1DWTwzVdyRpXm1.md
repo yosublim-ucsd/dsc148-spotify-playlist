@@ -4,7 +4,7 @@
 
 > Best of South Asian Music\. Cover: Diljit
 
-162 songs - 9 hr 14 min
+163 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Lagdi Lahore Di \(From "Street Dancer 3D"\)](https://open.spotify.com/track/5I2wbDvSI98HLVB42YO9sU) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Vee](https://open.spotify.com/artist/5aLCSARkIADqbSrMOrunOH) | [Lagdi Lahore Di \(From "Street Dancer 3D"\)](https://open.spotify.com/album/1PQ8K9syD1KiKORuiRWF1w) | 3:35 | 2021-12-06 | 2022-12-01 |
 | [Lamberghini](https://open.spotify.com/track/45P9g6kUb7itdonjjGjDdS) | [The Doorbeen](https://open.spotify.com/artist/5Yz2RjLWPx1PcIRoiot9Sc), [Ragini](https://open.spotify.com/artist/4aKee88VYIQpk7cOJGVwmO) | [Lamberghini \- Single](https://open.spotify.com/album/0DrkuJJyjj8wsr4wuzRfQF) | 3:36 | 2021-12-06 | 2022-01-14 |
 | [Laung Laachi Title Track \(From "Laung Laachi"\)](https://open.spotify.com/track/31EqumBCMNGK3kt1sSL4gV) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp), [Gurmeet Singh](https://open.spotify.com/artist/5aL0URFqLCRbrB3cewGLgF) | [Laung Laachi Title Track \(From "Laung Laachi"\)](https://open.spotify.com/album/396twavEqFLIB2wPhSOVsl) | 2:40 | 2021-12-06 |  |
+| [Left Right](https://open.spotify.com/track/1WMImncoIZZ7Bz0Y6cZGVp) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Left Right](https://open.spotify.com/album/3IHcOFALXIYAJ7FQBgkPVp) | 3:16 | 2023-05-12 |  |
 | [Lemonade](https://open.spotify.com/track/3ZGJhN4unVspOqpwGvUL2W) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Drive Thru](https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78) | 2:46 | 2023-05-04 |  |
 | [Liggi](https://open.spotify.com/track/4vwPirpSJCOiIsgxMV4Xcv) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Liggi](https://open.spotify.com/album/1zITUizbdnwegHf2BM7faa) | 3:01 | 2022-07-18 | 2022-09-04 |
 | [Liggi](https://open.spotify.com/track/66Nmp3ztIMqX1j8yYtWl1X) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Liggi](https://open.spotify.com/album/5r9bLIpSpE5ddweubUjw0t) | 3:01 | 2021-12-06 | 2022-07-29 |

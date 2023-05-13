@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: Decadent Fun Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,813 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,813 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,18 +19,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 9 | [Zespół Cotarda](https://open.spotify.com/track/6XswpcCoSrlrW1VpkjR68t) | [27.Fuckdemons](https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw), [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99) | [Nic się nie stało](https://open.spotify.com/album/1ILYe1Hxk3Te4LLx5Ukd7D) | 2:53 |
 | 10 | [GEJSZA](https://open.spotify.com/track/1f5HTAc76fgz4rMcs6dmKv) | [RUSKIEFAJKI](https://open.spotify.com/artist/5YRNJ1S5R6pJIeb7PHkyna) | [GEJSZA](https://open.spotify.com/album/6KsYGi1glRMS3AsAvSAJNl) | 3:28 |
 | 11 | [Stalker](https://open.spotify.com/track/4WfWLe6Cue04oXW7okQhgw) | [Shyness!](https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym) | [Shyness!](https://open.spotify.com/album/5zghhaw7NmCXcRcynyjkto) | 3:30 |
-| 12 | [Chłopaki z BMW](https://open.spotify.com/track/6Jg1PUaCjb51scgO15pFBw) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [Chłopaki z BMW](https://open.spotify.com/album/3ARUpHzL4WHh3WnxUUKUIi) | 2:50 |
+| 12 | [Wiśnie](https://open.spotify.com/track/0frZIsYPQzYsbPZ2owz3yp) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ) | [Wiśnie](https://open.spotify.com/album/36r8s1qS0kWuyJ75mTCPhG) | 2:42 |
 | 13 | [Cloud 9](https://open.spotify.com/track/5ekbROvx6LuyF3nxchudHO) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [Cloud 9](https://open.spotify.com/album/6sGcAgeoGQnbSaiHo77leq) | 3:02 |
-| 14 | [Wiśnie](https://open.spotify.com/track/0frZIsYPQzYsbPZ2owz3yp) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ) | [Wiśnie](https://open.spotify.com/album/36r8s1qS0kWuyJ75mTCPhG) | 2:42 |
+| 14 | [Chłopaki z BMW](https://open.spotify.com/track/6Jg1PUaCjb51scgO15pFBw) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [Chłopaki z BMW](https://open.spotify.com/album/3ARUpHzL4WHh3WnxUUKUIi) | 2:50 |
 | 15 | [Better Place](https://open.spotify.com/track/2MlHGVbFRP1BUf0mP7Gm4p) | [Ola Poskrop](https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy) | [Better Place](https://open.spotify.com/album/5Ky0KyEN3TAoM4Ub9u0brG) | 3:01 |
 | 16 | [Ulubione miejsce](https://open.spotify.com/track/0iFNWwWyfAlv0T4hyJLql7) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Ulubione miejsce](https://open.spotify.com/album/1K30GrnVuxAInOoiXek8sf) | 2:55 |
 | 17 | [The Moon](https://open.spotify.com/track/0OE1ohr4hpGd7icsVJ8W8g) | [Youth Novels](https://open.spotify.com/artist/3Mnsk5N6fdCc5svXTunb3D), [Iwona Skv](https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8) | [The Moon](https://open.spotify.com/album/1zagFHQjBkeYbAQBTfcbsU) | 4:44 |
 | 18 | [Pod Kapturem](https://open.spotify.com/track/0tGyB6w2ctetOyQylOsH8C) | [27.Fuckdemons](https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [Pod Kapturem](https://open.spotify.com/album/1w5CwDnHIM3aXOxJseMLWV) | 1:36 |
 | 19 | [Stukamy się browarami](https://open.spotify.com/track/4BxOstnrSY1OmAguUtpljj) | [susk](https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc) | [Stukamy się browarami](https://open.spotify.com/album/2VLLvagKSj1zD2Bok6F32w) | 3:25 |
-| 20 | [Lustro](https://open.spotify.com/track/2HhqdIn5pplLm7wwDGnGLq) | [Agata Radziszewska](https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA) | [Młodzi](https://open.spotify.com/album/3qB3nhievjivYCPPizraEG) | 3:25 |
+| 20 | [Pokolenie Dobrobytu](https://open.spotify.com/track/6OxCw5grqlMYj1010p0z2a) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ), [Ajman](https://open.spotify.com/artist/0gYNB1eXvnjJc6OtvMLhYl) | [Pokolenie Dobrobytu](https://open.spotify.com/album/5ZT1TacfXPKtyKtixgQABS) | 3:14 |
 | 21 | [Reach](https://open.spotify.com/track/5Qh5dgVlsM9wAC8CczAq3G) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [Reach](https://open.spotify.com/album/4qfKKvcWUcxJLsw1CcRfiy) | 3:38 |
-| 22 | [powiedz, że to blef](https://open.spotify.com/track/4NvQFLxywKXxaiyFGanwVs) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [powiedz, że to blef](https://open.spotify.com/album/1LQy5Es9uY4hwX4jo2uea7) | 2:33 |
-| 23 | [Pokolenie Dobrobytu](https://open.spotify.com/track/6OxCw5grqlMYj1010p0z2a) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ), [Ajman](https://open.spotify.com/artist/0gYNB1eXvnjJc6OtvMLhYl) | [Pokolenie Dobrobytu](https://open.spotify.com/album/5ZT1TacfXPKtyKtixgQABS) | 3:14 |
+| 22 | [Lustro](https://open.spotify.com/track/2HhqdIn5pplLm7wwDGnGLq) | [Agata Radziszewska](https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA) | [Młodzi](https://open.spotify.com/album/3qB3nhievjivYCPPizraEG) | 3:25 |
+| 23 | [powiedz, że to blef](https://open.spotify.com/track/4NvQFLxywKXxaiyFGanwVs) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [powiedz, że to blef](https://open.spotify.com/album/1LQy5Es9uY4hwX4jo2uea7) | 2:33 |
 | 24 | [Suka jak Ja](https://open.spotify.com/track/7j8UcJ1pQBWHiGadelcYH5) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Dziewczynka Tatusia](https://open.spotify.com/album/0rHwKAVgJQJxBIzH3dSL7B) | 3:10 |
 | 25 | [Bez powietrza](https://open.spotify.com/track/6BAkqxn8mtEU2AFqqt4Ti6) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Bez powietrza](https://open.spotify.com/album/1FOtCixEJUWnKMEAMttUag) | 2:59 |
 | 26 | [Kapitał](https://open.spotify.com/track/076XHfTDuN1nqeseWLNMcj) | [susk](https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc) | [Kapitał](https://open.spotify.com/album/3B1tI4mwm8eIVvOeMcssNF) | 2:20 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 57 | [Polska](https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L) | [Raf Skowroński](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [Polska](https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR) | 4:03 |
 | 58 | [Nie ma](https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT) | [Iwona Skv](https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8) | [Nie ma](https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M) | 3:22 |
 | 59 | [Jeszcze mam serce](https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [Jeszcze mam serce](https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow) | 4:11 |
-| 60 | [Tango](https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki) | [Stamina](https://open.spotify.com/album/698CpODMEheVL58NRNUKUE) | 3:45 |
+| 60 | [Girls, Gays, People](https://open.spotify.com/track/0hcEoARENUw9yAc4H7fr10) | [Yanch](https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ) | [Girls, Gays, People](https://open.spotify.com/album/4Chm1IYsC21b9Zevy8Vbr9) | 6:35 |
 
-Snapshot ID: `MCwyNDQ4OTg5YWYxZDliODc1ODRkNWUyZmFlZDMzYTA5NjZlZmRlNDdh`
+Snapshot ID: `MCw0YTM1YjI0ODI3M2ZhOTFhMTczODk1MWIzNmQ4ZGVlYmZjOGI4YjEy`

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 364880,
+  "num_followers": 364950,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjI0N2ViZjY1OWNlODI1Zjk2ZGY4NzBkNzEzYjU3ZjA5MWQ4ODIy",
+  "snapshot_id": "MCw1YTE4NmE4MzYxZGVjNGI1MGQ4Njg3Y2Y4MDZkZGU1NGZhYTEyOWY2",
   "tracks": [
     {
       "added_at": "2023-04-20 22:00:00",
@@ -437,6 +437,26 @@
       "url": "https://open.spotify.com/track/2N1IkXdMqhO12VUUU4TKlw"
     },
     {
+      "added_at": "2023-05-12 14:48:09",
+      "album": {
+        "name": "Cieguita \"Los Remixes\"",
+        "url": "https://open.spotify.com/album/6Dyzm69MdAu3lP4aEdfwXx"
+      },
+      "artists": [
+        {
+          "name": "DALILA",
+          "url": "https://open.spotify.com/artist/7CNhaJPKRhrcKfVgQY1EWO"
+        },
+        {
+          "name": "tontimer weber",
+          "url": "https://open.spotify.com/artist/4V31E6EFu5yCqf49e5WwAH"
+        }
+      ],
+      "duration_ms": 296041,
+      "name": "Cieguita",
+      "url": "https://open.spotify.com/track/2cqrxmFu6kQwlV9E3QnbBh"
+    },
+    {
       "added_at": "2023-04-20 22:00:00",
       "album": {
         "name": "Grace",
@@ -571,6 +591,22 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
+        "name": "Everyday Life",
+        "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 258533,
+      "name": "Everyday Life",
+      "url": "https://open.spotify.com/track/0h9fnCSnbUgOEgibnQByFv"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
       },
@@ -615,22 +651,6 @@
       "duration_ms": 231754,
       "name": "Call It Dreaming",
       "url": "https://open.spotify.com/track/1MxHIIzcTeFnaNsDGY3pfj"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "Everyday Life",
-        "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 258533,
-      "name": "Everyday Life",
-      "url": "https://open.spotify.com/track/0h9fnCSnbUgOEgibnQByFv"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -735,22 +755,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "Nothing Arrived - Live from Spotify London",
-      "url": "https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
       },
@@ -763,6 +767,22 @@
       "duration_ms": 250866,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Nothing Arrived - Live from Spotify London",
+      "url": "https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -895,26 +915,6 @@
       "duration_ms": 204400,
       "name": "La vie en rose - Single Version",
       "url": "https://open.spotify.com/track/1UH4viviUjZnS9aWgPGrk0"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/0wbKY324xkDkzZvSrHQCVW"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 178026,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/3fn3cu0a9Rxwfdf98P9Lo2"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "The Walking in Between",
-        "url": "https://open.spotify.com/album/0kuIIUFaebmwLCmhp6nwVu"
-      },
-      "artists": [
-        {
-          "name": "Ben Rector",
-          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
-        }
-      ],
-      "duration_ms": 138506,
-      "name": "I Like You",
-      "url": "https://open.spotify.com/track/7Afr3PKTtlFGHGiXYgnv6P"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "In Between Minds",
         "url": "https://open.spotify.com/album/5tsh7OJm1nTJeWpkbTA0sC"
       },
@@ -1207,22 +1191,6 @@
       "duration_ms": 210733,
       "name": "With Or Without You - BBC Jo Whiley Session / 2004",
       "url": "https://open.spotify.com/track/1hKatvvaKADQVmEPIob9e8"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "How Do You Sleep? (Acoustic)",
-        "url": "https://open.spotify.com/album/0RR2uPlGQKAYXJIXgYNJKE"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 205590,
-      "name": "How Do You Sleep? - Acoustic",
-      "url": "https://open.spotify.com/track/2ZgUlizmH0VmOJzUwDchAf"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1323,6 +1291,22 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
+        "name": "A Book Like This",
+        "url": "https://open.spotify.com/album/4khfoV9Y97TfbOUzjzaiWU"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 223746,
+      "name": "Paper Aeroplane",
+      "url": "https://open.spotify.com/track/3XcvrvOCfSvK0mm6nOTw6d"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
         "name": "So\u00f1\u00e9 Contigo",
         "url": "https://open.spotify.com/album/2lQYMqZIVFR1DfnF3XKJmZ"
       },
@@ -1343,22 +1327,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "A Book Like This",
-        "url": "https://open.spotify.com/album/4khfoV9Y97TfbOUzjzaiWU"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 223746,
-      "name": "Paper Aeroplane",
-      "url": "https://open.spotify.com/track/3XcvrvOCfSvK0mm6nOTw6d"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Stay Awake with Me (acoustic)",
         "url": "https://open.spotify.com/album/5WriBFJjPRzc9YyHgRKJeZ"
       },
@@ -1371,6 +1339,22 @@
       "duration_ms": 207866,
       "name": "Made to Love You",
       "url": "https://open.spotify.com/track/7xNQMVeEgXQf0xUsTlcpMP"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 224813,
+      "name": "Need The Sun To Break",
+      "url": "https://open.spotify.com/track/1OwHOfTeJkdRhdqq93y2XV"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1415,22 +1399,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 224813,
-      "name": "Need The Sun To Break",
-      "url": "https://open.spotify.com/track/1OwHOfTeJkdRhdqq93y2XV"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Marvin The Album - 21st Anniversary Edition",
         "url": "https://open.spotify.com/album/6xiH0ZemrUXOxgR7xfLlIQ"
       },
@@ -1463,22 +1431,6 @@
       "duration_ms": 155048,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/4ksOH8hJAZJpqWzOJJ5fCV"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "Go\u00fbter +",
-        "url": "https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n"
-      },
-      "artists": [
-        {
-          "name": "Lou Val",
-          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
-        }
-      ],
-      "duration_ms": 208192,
-      "name": "in ur motion",
-      "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1563,22 +1515,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Laurel & Sunset",
-        "url": "https://open.spotify.com/album/6HjqPv1wOvpoPzyINKwTf4"
-      },
-      "artists": [
-        {
-          "name": "The Sweet Remains",
-          "url": "https://open.spotify.com/artist/35HoDSeQMKnwC1f4sng0eK"
-        }
-      ],
-      "duration_ms": 237746,
-      "name": "Moving in Slow Motion",
-      "url": "https://open.spotify.com/track/1JzJFYOlNFISoz28z5t20x"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Either/Or",
         "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
       },
@@ -1591,6 +1527,22 @@
       "duration_ms": 176826,
       "name": "Angeles",
       "url": "https://open.spotify.com/track/1aMafyDbpEw3a8FrVhwRlg"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Laurel & Sunset",
+        "url": "https://open.spotify.com/album/6HjqPv1wOvpoPzyINKwTf4"
+      },
+      "artists": [
+        {
+          "name": "The Sweet Remains",
+          "url": "https://open.spotify.com/artist/35HoDSeQMKnwC1f4sng0eK"
+        }
+      ],
+      "duration_ms": 237746,
+      "name": "Moving in Slow Motion",
+      "url": "https://open.spotify.com/track/1JzJFYOlNFISoz28z5t20x"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1611,26 +1563,6 @@
       "duration_ms": 171340,
       "name": "No Me Merec\u00eda La Pena",
       "url": "https://open.spotify.com/track/0lezFXoMcfhkGgWDwYvpJn"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "Hoy es siempre (feat. Nicole Zignago)",
-        "url": "https://open.spotify.com/album/3PJhuL6uxw9HQUTYRu2Ecx"
-      },
-      "artists": [
-        {
-          "name": "Juancho Marqu\u00e9s",
-          "url": "https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g"
-        },
-        {
-          "name": "Nicole Zignago",
-          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
-        }
-      ],
-      "duration_ms": 196666,
-      "name": "Hoy es siempre (feat. Nicole Zignago)",
-      "url": "https://open.spotify.com/track/0oCQAJMx0PbuDYxBIaDN2z"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1663,6 +1595,78 @@
       "duration_ms": 307172,
       "name": "All the Pretty Girls - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Things I Chose To Remember",
+        "url": "https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 229960,
+      "name": "No Right To Love You - Acoustic",
+      "url": "https://open.spotify.com/track/58VJmNB8oeoE2PRqCrduEo"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "I Think I Like You",
+        "url": "https://open.spotify.com/album/1uyTVHINj1D2BfyCid3L27"
+      },
+      "artists": [
+        {
+          "name": "Gavin Moss",
+          "url": "https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT"
+        },
+        {
+          "name": "Tom Polo",
+          "url": "https://open.spotify.com/artist/3QSfc9ujwQnb254isTp4VK"
+        },
+        {
+          "name": "Urban Love",
+          "url": "https://open.spotify.com/artist/6sZREHX9XWWC5van5XX6Q7"
+        }
+      ],
+      "duration_ms": 146471,
+      "name": "I Think I Like You",
+      "url": "https://open.spotify.com/track/2Rf33E2vpnJsIV5DpHCC6Y"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Borneo",
+        "url": "https://open.spotify.com/album/5LRDEs05vm8LTRV5U7g1xc"
+      },
+      "artists": [
+        {
+          "name": "Borneo",
+          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
+        }
+      ],
+      "duration_ms": 172965,
+      "name": "Rayito",
+      "url": "https://open.spotify.com/track/3Dvams9yiJchXGj1OlOCil"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Another Bundle of Tantrums",
+        "url": "https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/0Ddm2WaOg8B1OCa6zamy4K"
     }
   ],
   "unique_name": "Relax en casa",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The highest quality blend ft. Joseph",
+  "description": "The highest quality blend ft. Bethany Cosentino",
   "name": "Grade A",
   "tracks": [
     {
@@ -68,6 +68,24 @@
       "duration_ms": 228308,
       "name": "2030 Revolution",
       "url": "https://open.spotify.com/track/0Ik7qkvgSz25oZgZ6T0pIs"
+    },
+    {
+      "album": {
+        "name": "A Child's Question, August",
+        "url": "https://open.spotify.com/album/23vvKltYuD1To9zWGQ5NnB"
+      },
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166013,
+      "name": "A Child's Question, August",
+      "url": "https://open.spotify.com/track/471H7nQUp3VaAn4ZcA6THS"
     },
     {
       "album": {
@@ -190,7 +208,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 185276,
       "name": "After The Earthquake",
       "url": "https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL"
@@ -986,7 +1004,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 201500,
       "name": "Ballerina",
       "url": "https://open.spotify.com/track/6CqgkvVUfWfa2xwZRT31AY"
@@ -1314,6 +1332,24 @@
       "duration_ms": 175657,
       "name": "Blacklight Shine",
       "url": "https://open.spotify.com/track/4Z9qsdjabSd7kd92FvQij0"
+    },
+    {
+      "album": {
+        "name": "Blades",
+        "url": "https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221092,
+      "name": "Blades",
+      "url": "https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6"
     },
     {
       "album": {
@@ -1740,7 +1776,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 199266,
       "name": "Carpenter",
       "url": "https://open.spotify.com/track/51NHBYYoBLDqgp5COax2JC"
@@ -2068,6 +2104,24 @@
       "duration_ms": 225000,
       "name": "Consequences",
       "url": "https://open.spotify.com/track/4ivH644trNJe9wyi0OmHuw"
+    },
+    {
+      "album": {
+        "name": "Playing the Part of You Is Me",
+        "url": "https://open.spotify.com/album/6Y7ACEx2zgk0c66f9iqrUG"
+      },
+      "artists": [
+        {
+          "name": "Savannah Conley",
+          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249513,
+      "name": "Contortionist",
+      "url": "https://open.spotify.com/track/09SogrpCmM4FfRgOz61Hn7"
     },
     {
       "album": {
@@ -2780,7 +2834,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 174706,
       "name": "Easier Said Than Done",
       "url": "https://open.spotify.com/track/4zIeRcsaho6lZuaXEYR1y3"
@@ -2960,7 +3014,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 171240,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/2bUyKAHjQ58o6gQNh5uyf1"
@@ -2996,7 +3050,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 216680,
       "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
@@ -3180,7 +3234,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 215420,
       "name": "Exhausting Lover",
       "url": "https://open.spotify.com/track/7ctgAjg9UUycwDIav6xBmv"
@@ -3198,7 +3252,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 220533,
       "name": "Eyez",
       "url": "https://open.spotify.com/track/5VllbPPu1vVNSMEwUBm1wr"
@@ -3238,6 +3292,24 @@
       "duration_ms": 279186,
       "name": "Face Down In The Moment",
       "url": "https://open.spotify.com/track/5yTpyXVKcB20zOGXU1ffgf"
+    },
+    {
+      "album": {
+        "name": "Fairlies",
+        "url": "https://open.spotify.com/album/2RqKDuT19SRie1ff3bpT8D"
+      },
+      "artists": [
+        {
+          "name": "Grian Chatten",
+          "url": "https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250173,
+      "name": "Fairlies",
+      "url": "https://open.spotify.com/track/4MP3R0itL0A32onspZXcur"
     },
     {
       "album": {
@@ -3570,6 +3642,28 @@
       "duration_ms": 262450,
       "name": "Forever In Sunset",
       "url": "https://open.spotify.com/track/7ofb8SMiE4pDit5ewXNArn"
+    },
+    {
+      "album": {
+        "name": "why does everything make me cry?",
+        "url": "https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm"
+      },
+      "artists": [
+        {
+          "name": "Sam Nelson",
+          "url": "https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288826,
+      "name": "forever, now",
+      "url": "https://open.spotify.com/track/3Nm9x3Y218pXYz0a0hKGn2"
     },
     {
       "album": {
@@ -3996,6 +4090,24 @@
       "duration_ms": 202360,
       "name": "Gold",
       "url": "https://open.spotify.com/track/2U8SVTHjyYK4nPofvO2Ncw"
+    },
+    {
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/2a2nQUIvrpWw5KdYvGIFNG"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207294,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/4BbM3Hp1yzGkFsMPF7DfZs"
     },
     {
       "album": {
@@ -5395,6 +5507,28 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6WdZ6j0Mm6fOzpyHXKx8PP"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217873,
+      "name": "If We Were Vampires (feat. Wesley Schultz) - Spotify Singles",
+      "url": "https://open.spotify.com/track/6LKvzEJQTIm2RrWAMPwQH6"
+    },
+    {
+      "album": {
         "name": "If You Were Me",
         "url": "https://open.spotify.com/album/7MmxPEfTJp1ZiHkbjVcLCR"
       },
@@ -5641,6 +5775,24 @@
     },
     {
       "album": {
+        "name": "It's Fine",
+        "url": "https://open.spotify.com/album/5cWGHnWOhetbCvCAhyYSSA"
+      },
+      "artists": [
+        {
+          "name": "Bethany Cosentino",
+          "url": "https://open.spotify.com/artist/22T82q6dMFYUMb287TzRoI"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226893,
+      "name": "It\u2019s Fine",
+      "url": "https://open.spotify.com/track/3xDa6ui2haGzVZJpyFRCHj"
+    },
+    {
+      "album": {
         "name": "I\u2019m Not Perfect (But I\u2019m Trying)",
         "url": "https://open.spotify.com/album/2O8gAp74lbXQ9z74ZK7E3N"
       },
@@ -5742,7 +5894,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 214497,
       "name": "Just Before The Morning",
       "url": "https://open.spotify.com/track/3fIblK7WOWpnT39WIjP8tD"
@@ -5912,6 +6064,24 @@
       "duration_ms": 114653,
       "name": "Kissing Lessons",
       "url": "https://open.spotify.com/track/3KRdLDjxlAY7ku93tOG0b1"
+    },
+    {
+      "album": {
+        "name": "Know Better",
+        "url": "https://open.spotify.com/album/091rITH4fXltYccZlmbrzw"
+      },
+      "artists": [
+        {
+          "name": "Sir Chloe",
+          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191789,
+      "name": "Know Better",
+      "url": "https://open.spotify.com/track/3qQGm2LA50Pr3ejJuIo56A"
     },
     {
       "album": {
@@ -7139,6 +7309,24 @@
     },
     {
       "album": {
+        "name": "Mother Road",
+        "url": "https://open.spotify.com/album/5pjySEa5oydXp95sJrg9ew"
+      },
+      "artists": [
+        {
+          "name": "Grace Potter",
+          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312653,
+      "name": "Mother Road",
+      "url": "https://open.spotify.com/track/1zac3cinV2EJFUBpIRiLVm"
+    },
+    {
+      "album": {
         "name": "Hot Sass",
         "url": "https://open.spotify.com/album/6QFoGuTRk6Mh7kCmbjcIet"
       },
@@ -7456,7 +7644,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 218600,
       "name": "Never Let You Go",
       "url": "https://open.spotify.com/track/25wOprRzafxZor9zdbuc9c"
@@ -7586,6 +7774,28 @@
       "duration_ms": 238266,
       "name": "No More Excuses",
       "url": "https://open.spotify.com/track/1HybEopwfFZcAWz0C0sjsp"
+    },
+    {
+      "album": {
+        "name": "No More Lies",
+        "url": "https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327217,
+      "name": "No More Lies",
+      "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
     },
     {
       "album": {
@@ -7811,6 +8021,24 @@
     },
     {
       "album": {
+        "name": "Tired Hearts",
+        "url": "https://open.spotify.com/album/1UH8pVlQVXsJMnePBEQzJ1"
+      },
+      "artists": [
+        {
+          "name": "BAILEN",
+          "url": "https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193522,
+      "name": "Nothing Left To Give",
+      "url": "https://open.spotify.com/track/0mbl5oT898aXdK3g5wfQv1"
+    },
+    {
+      "album": {
         "name": "Nothing Left To Give",
         "url": "https://open.spotify.com/album/0IVhJ8PzPajZB401x4lfkO"
       },
@@ -7822,7 +8050,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 193522,
       "name": "Nothing Left To Give",
       "url": "https://open.spotify.com/track/5ti3pAj9M9HlnXrjUiO232"
@@ -8246,7 +8474,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 174138,
       "name": "Orbiter",
       "url": "https://open.spotify.com/track/3ZFTP9U14r6QkumhYtrd60"
@@ -9892,7 +10120,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 196784,
       "name": "Sex, Drugs, Etc.",
       "url": "https://open.spotify.com/track/7MlDNspYwfqnHxORufupwq"
@@ -11582,7 +11810,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 217463,
       "name": "Thinking About You",
       "url": "https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR"
@@ -12519,6 +12747,28 @@
     },
     {
       "album": {
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/65pwAPMorzkvM3JkMe1hUV"
+      },
+      "artists": [
+        {
+          "name": "Rob Moose",
+          "url": "https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294208,
+      "name": "Wasted (feat. Phoebe Bridgers)",
+      "url": "https://open.spotify.com/track/3jgMjYCfIIYWpRVOlLGcgv"
+    },
+    {
+      "album": {
         "name": "Wasted Days",
         "url": "https://open.spotify.com/album/2UwZm9HOqn50LEfMb9V1pf"
       },
@@ -12931,6 +13181,24 @@
     },
     {
       "album": {
+        "name": "Winona",
+        "url": "https://open.spotify.com/album/2cwVHZrQ0eaaiUhCxW7glA"
+      },
+      "artists": [
+        {
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275560,
+      "name": "Winona",
+      "url": "https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ"
+    },
+    {
+      "album": {
         "name": "Private Space",
         "url": "https://open.spotify.com/album/4ogV05oprfriua7n9icbvN"
       },
@@ -13080,6 +13348,24 @@
       "duration_ms": 230098,
       "name": "You and Me On The Rock (feat. Lucius)",
       "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
+    },
+    {
+      "album": {
+        "name": "You Do You",
+        "url": "https://open.spotify.com/album/5opJnLOL7v2Z9avDTo8omM"
+      },
+      "artists": [
+        {
+          "name": "Andy Frasco & the U.N.",
+          "url": "https://open.spotify.com/artist/4scyTeRfyqCWVATfPP7SGu"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203754,
+      "name": "You Do You",
+      "url": "https://open.spotify.com/track/2KUsc0FRkONkt6JATGHcJ1"
     },
     {
       "album": {

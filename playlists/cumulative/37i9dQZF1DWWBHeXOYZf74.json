@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Genre-less. Quality first always. Cover: Tyler, The Creator",
+  "description": "Genre-less. Quality first always. Cover: Overmono",
   "name": "POLLEN",
   "tracks": [
     {
@@ -2656,7 +2656,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 168828,
       "name": "Archetype",
       "url": "https://open.spotify.com/track/5Cyy8UMG6ch51oXYenPGzN"
@@ -3720,6 +3720,24 @@
       "duration_ms": 405733,
       "name": "BASQUIAT",
       "url": "https://open.spotify.com/track/3B11HLD8nKerFzXwMuszi1"
+    },
+    {
+      "album": {
+        "name": "Sent From My Telephone",
+        "url": "https://open.spotify.com/album/4h9EUsDMvwsUdmXEvK449j"
+      },
+      "artists": [
+        {
+          "name": "Voice Actor",
+          "url": "https://open.spotify.com/artist/6PsuUa5ijopH2T8rVzHSZc"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225354,
+      "name": "Battling Dust",
+      "url": "https://open.spotify.com/track/3oYleXsSv0X9GqN1oKyPYu"
     },
     {
       "album": {
@@ -7429,6 +7447,24 @@
     },
     {
       "album": {
+        "name": "Good Lies",
+        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217369,
+      "name": "Cold Blooded",
+      "url": "https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn"
+    },
+    {
+      "album": {
         "name": "Colorado",
         "url": "https://open.spotify.com/album/7DWz0zPWRlCDt5H4OoG5mN"
       },
@@ -10342,6 +10378,32 @@
       "duration_ms": 184231,
       "name": "Dream About You (feat. Halima)",
       "url": "https://open.spotify.com/track/0cl805dKSvEQNUBD7iq9ZD"
+    },
+    {
+      "album": {
+        "name": "MOONSHOTS",
+        "url": "https://open.spotify.com/album/2mIOejIeyVH58sDAKVfi53"
+      },
+      "artists": [
+        {
+          "name": "The South Hill Experiment",
+          "url": "https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX"
+        },
+        {
+          "name": "Baird",
+          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
+        },
+        {
+          "name": "Goldwash",
+          "url": "https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191253,
+      "name": "DREAMS!",
+      "url": "https://open.spotify.com/track/6DdYJsftrnVgdxH5agavaP"
     },
     {
       "album": {
@@ -14398,7 +14460,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 244950,
       "name": "GOOD DAY",
       "url": "https://open.spotify.com/track/4DvepWnbBJzTb0jZZTqgPG"
@@ -14514,7 +14576,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 190348,
       "name": "Good News",
       "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
@@ -15860,7 +15922,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 172977,
       "name": "HI 5",
       "url": "https://open.spotify.com/track/0k9ynvL7RDuqNWiS7d7s8i"
@@ -16832,7 +16894,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 247375,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/6GqesoY3jZD9BqT1v4UEmk"
@@ -19253,6 +19315,24 @@
     },
     {
       "album": {
+        "name": "Just Cool",
+        "url": "https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220243,
+      "name": "Just Cool",
+      "url": "https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP"
+    },
+    {
+      "album": {
         "name": "Just for me",
         "url": "https://open.spotify.com/album/00fcDjvEq4elj756TESO0c"
       },
@@ -20280,7 +20360,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 107567,
       "name": "Lean Beef Patty",
       "url": "https://open.spotify.com/track/1qbADMsKCFmu08MhWPTZpb"
@@ -20776,7 +20856,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 200603,
       "name": "Like You in Linen",
       "url": "https://open.spotify.com/track/43C6k35MErofjbUCQAFD37"
@@ -20910,6 +20990,24 @@
       "duration_ms": 178493,
       "name": "Little by Little",
       "url": "https://open.spotify.com/track/4kVGV71oxRjr1pgAgbZwRd"
+    },
+    {
+      "album": {
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204600,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
     },
     {
       "album": {
@@ -23472,7 +23570,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 172255,
       "name": "Mr. Police",
       "url": "https://open.spotify.com/track/61LOPrbWz3Ymh6bNdCsJAz"
@@ -23566,7 +23664,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 102886,
       "name": "My My",
       "url": "https://open.spotify.com/track/6o96AEsHYibjCQSjzhguAm"
@@ -23966,7 +24064,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 272115,
       "name": "Never Again",
       "url": "https://open.spotify.com/track/14skreCVTjGqWOFSe0P09O"
@@ -24452,7 +24550,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 131125,
       "name": "No More Naija Men",
       "url": "https://open.spotify.com/track/1u3S0SK3ecQRW0tLndolro"
@@ -25166,7 +25264,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 98340,
       "name": "old place",
       "url": "https://open.spotify.com/track/4Jh96C8DDxAJFCrECbFvxP"
@@ -26486,6 +26584,28 @@
       "duration_ms": 191481,
       "name": "Peaks N Pitfalls",
       "url": "https://open.spotify.com/track/0tk5j9BcmGEzdRziv2U8aR"
+    },
+    {
+      "album": {
+        "name": "Pegasus (ft. Phoebe Bridgers)",
+        "url": "https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186836,
+      "name": "Pegasus (ft. Phoebe Bridgers)",
+      "url": "https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh"
     },
     {
       "album": {
@@ -27816,7 +27936,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 168240,
       "name": "Pyjamas (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/16cssMSjVqPJeBxRLy9FrF"
@@ -32855,6 +32975,24 @@
     },
     {
       "album": {
+        "name": "Strawberry Perfume",
+        "url": "https://open.spotify.com/album/1JloybRxPNoSQRTxPqsGxU"
+      },
+      "artists": [
+        {
+          "name": "Chenayder",
+          "url": "https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116736,
+      "name": "Strawberry Perfume",
+      "url": "https://open.spotify.com/track/4IbE8jxsczCxfGYJCE2T1x"
+    },
+    {
+      "album": {
         "name": "Stressed",
         "url": "https://open.spotify.com/album/5c83fHwumoUMJpwvPmVCX8"
       },
@@ -34222,6 +34360,24 @@
       "duration_ms": 160191,
       "name": "telepat\u00eda",
       "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
+    },
+    {
+      "album": {
+        "name": "Flowers At Your Feet",
+        "url": "https://open.spotify.com/album/2SAtIfz2jFRAn36xCUT8xd"
+      },
+      "artists": [
+        {
+          "name": "Rahill",
+          "url": "https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161360,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/4Z1olDl8aym5xZYZAat672"
     },
     {
       "album": {
@@ -35610,7 +35766,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 198518,
       "name": "TONY ON THE RADIO",
       "url": "https://open.spotify.com/track/0nmJuIGEzy8Exr9uF10jvx"
@@ -35712,7 +35868,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 193463,
       "name": "Tormenta (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
@@ -39542,6 +39698,32 @@
       "duration_ms": 236337,
       "name": "Youtube2MP3",
       "url": "https://open.spotify.com/track/6zVkLCrNjslRlGLhmVBrXJ"
+    },
+    {
+      "album": {
+        "name": "WOIIYOIE VOL. 2 - INTENSE CITY",
+        "url": "https://open.spotify.com/album/4B4j3UpvXRF26Vj579bDfJ"
+      },
+      "artists": [
+        {
+          "name": "Skiifall",
+          "url": "https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP"
+        },
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        },
+        {
+          "name": "Zibz",
+          "url": "https://open.spotify.com/artist/69tAQoVuRZlr1b7vQ4g81a"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224946,
+      "name": "Yuteman Denis (feat. Charlotte Cardin & Zibz)",
+      "url": "https://open.spotify.com/track/1fOoazUjNQ6IWy4xz7sqBz"
     },
     {
       "album": {

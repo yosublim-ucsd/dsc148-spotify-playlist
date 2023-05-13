@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Rock swagger served neat. Cover: Nickelback",
+  "description": "Rock swagger served neat. Cover: Pecos & the Rooftops",
   "name": "Southern Comfort",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 152031,
       "name": "11/17",
       "url": "https://open.spotify.com/track/3efydF0TF67eydgM86XEwq"
+    },
+    {
+      "album": {
+        "name": "5AM",
+        "url": "https://open.spotify.com/album/2FB6kHSCZ9cfzEnqThq7gu"
+      },
+      "artists": [
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187899,
+      "name": "5AM",
+      "url": "https://open.spotify.com/track/0VujSPpF82QdEJFFG9U8Ac"
     },
     {
       "album": {
@@ -676,7 +694,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 221786,
       "name": "Buffet Days",
       "url": "https://open.spotify.com/track/1Y7XrntbqWMMR2Rm6HLnG4"
@@ -712,7 +730,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 191453,
       "name": "Can't Answer Why",
       "url": "https://open.spotify.com/track/12cjONfOVzspuMo82OhJQD"
@@ -813,6 +831,24 @@
     },
     {
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/5dqV3q51EyjSbwhfUbmIBf"
+      },
+      "artists": [
+        {
+          "name": "Sam Pounds",
+          "url": "https://open.spotify.com/artist/1XoE8WpGuDGZ0SY1piWND1"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177831,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/6DRsBCUxbmirsiGMEkdVNx"
+    },
+    {
+      "album": {
         "name": "Payphone Blues",
         "url": "https://open.spotify.com/album/78Wl4JpIDtW4q3vkn7pWXE"
       },
@@ -846,6 +882,24 @@
       "duration_ms": 143400,
       "name": "Cocaine",
       "url": "https://open.spotify.com/track/6DSG9ihWXCPJPW7yt48jlP"
+    },
+    {
+      "album": {
+        "name": "Cowboys Talkin'",
+        "url": "https://open.spotify.com/album/3C4reNN9sXoVmK5CArdmzk"
+      },
+      "artists": [
+        {
+          "name": "George Birge",
+          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169413,
+      "name": "Cowboys Talkin'",
+      "url": "https://open.spotify.com/track/2jz9PifMeY1ZYmE720XkID"
     },
     {
       "album": {
@@ -1166,7 +1220,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 195958,
       "name": "Ghostrider",
       "url": "https://open.spotify.com/track/70cwVFHonl7K3PEtaohgAz"
@@ -1224,6 +1278,24 @@
       "duration_ms": 214325,
       "name": "Give Me One Reason (The Plug)",
       "url": "https://open.spotify.com/track/5N27JJr0UkCu0kWkiPIygQ"
+    },
+    {
+      "album": {
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168658,
+      "name": "God\u2019s Gonna Cut You Down",
+      "url": "https://open.spotify.com/track/5Qt4tTjY5bjhKa3OGNVP2J"
     },
     {
       "album": {
@@ -1422,6 +1494,24 @@
       "duration_ms": 334600,
       "name": "Hear My Dear",
       "url": "https://open.spotify.com/track/7znaTjqonnsPcuQpOcQ7nT"
+    },
+    {
+      "album": {
+        "name": "Heartless Year",
+        "url": "https://open.spotify.com/album/0Mj3CjdxJa3gGFctHbsJzE"
+      },
+      "artists": [
+        {
+          "name": "The Band Of Heathens",
+          "url": "https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235519,
+      "name": "Heartless Year",
+      "url": "https://open.spotify.com/track/1JPCveyZfQHq9wa2lnMo6C"
     },
     {
       "album": {
@@ -2313,6 +2403,42 @@
     },
     {
       "album": {
+        "name": "Need A Favor",
+        "url": "https://open.spotify.com/album/72HQoHvsJTqQaCh3tKyVrd"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197400,
+      "name": "Need A Favor",
+      "url": "https://open.spotify.com/track/5jUOG0aeAofL5u3UWyrtDO"
+    },
+    {
+      "album": {
+        "name": "Nervous",
+        "url": "https://open.spotify.com/album/2nzUJkFqobo7AeMczO9v7q"
+      },
+      "artists": [
+        {
+          "name": "Black Stone Cherry",
+          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195583,
+      "name": "Nervous",
+      "url": "https://open.spotify.com/track/5fQF78hwHmuRS6s6VRTAMG"
+    },
+    {
+      "album": {
         "name": "Look Alive",
         "url": "https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy"
       },
@@ -2466,6 +2592,24 @@
       "duration_ms": 197234,
       "name": "Outlaws & Outsiders",
       "url": "https://open.spotify.com/track/4OBrZqJzkwdDaXoYVfmIw7"
+    },
+    {
+      "album": {
+        "name": "Tejano Punk Boyz",
+        "url": "https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85"
+      },
+      "artists": [
+        {
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218936,
+      "name": "Overrated",
+      "url": "https://open.spotify.com/track/55BmlUAYuZTqpvM7bfSUuo"
     },
     {
       "album": {
@@ -2689,6 +2833,24 @@
     },
     {
       "album": {
+        "name": "Sho Been Worse",
+        "url": "https://open.spotify.com/album/3sxE8PeJB8tUFIM5soGgco"
+      },
+      "artists": [
+        {
+          "name": "Tyler Bryant & the Shakedown",
+          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174124,
+      "name": "Sho Been Worse",
+      "url": "https://open.spotify.com/track/2Qg9TUOmezQXfKV1NrT8bx"
+    },
+    {
+      "album": {
         "name": "Side Street Shakedown",
         "url": "https://open.spotify.com/album/3YtUZAChERlSGaIkRe4jdF"
       },
@@ -2790,7 +2952,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 232093,
       "name": "Son Of A Sinner",
       "url": "https://open.spotify.com/track/25VQoiuyc0HkC5FQTj1a8G"
@@ -2808,7 +2970,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 235626,
       "name": "Soul Sweet Song",
       "url": "https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj"
@@ -3270,6 +3432,24 @@
       "duration_ms": 231000,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/7vfjYZWxOAjw5N7DLNAxvo"
+    },
+    {
+      "album": {
+        "name": "World On Fire",
+        "url": "https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261269,
+      "name": "World On Fire",
+      "url": "https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4"
     },
     {
       "album": {

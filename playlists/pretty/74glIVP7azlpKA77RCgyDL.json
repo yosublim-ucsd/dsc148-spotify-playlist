@@ -1,13 +1,109 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: 3Teeth",
-  "num_followers": 7756,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Queens of the Stone Age",
+  "num_followers": 7757,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "MjY1OSw3MDVjM2Q2MzY3NGE5NDkxZTMwMDk4MjBmNTFiOGZhMGZiZDA0MzVi",
+  "snapshot_id": "MjY2OCxlNzYyZjUwM2Q4ZGFmN2YyYWYwNDg3Y2E2ZTU4ZGQ4Y2E3MjMzYmQ3",
   "tracks": [
+    {
+      "added_at": "2023-05-12 19:08:16",
+      "album": {
+        "name": "Emotion Sickness",
+        "url": "https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 271076,
+      "name": "Emotion Sickness",
+      "url": "https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa"
+    },
+    {
+      "added_at": "2023-05-12 19:08:28",
+      "album": {
+        "name": "We Love You",
+        "url": "https://open.spotify.com/album/1OtxzVaaGtJw05LtlusYxC"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 375026,
+      "name": "We Love You",
+      "url": "https://open.spotify.com/track/3DZoL58N1dCaNah9WEvlP0"
+    },
+    {
+      "added_at": "2023-05-12 19:08:37",
+      "album": {
+        "name": "Idealized",
+        "url": "https://open.spotify.com/album/1I00QM6BWuhWaFKVGuFWjq"
+      },
+      "artists": [
+        {
+          "name": "Gouge Away",
+          "url": "https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU"
+        }
+      ],
+      "duration_ms": 221516,
+      "name": "Idealized",
+      "url": "https://open.spotify.com/track/2MkkjpplmZcb2XqCdwsTUG"
+    },
+    {
+      "added_at": "2023-05-12 19:08:47",
+      "album": {
+        "name": "The Common Breed",
+        "url": "https://open.spotify.com/album/2GfU8qLbwtmiGQ75f42IEE"
+      },
+      "artists": [
+        {
+          "name": "Creeping Death",
+          "url": "https://open.spotify.com/artist/0m8C12hSt640ovLaxlsd5u"
+        }
+      ],
+      "duration_ms": 272788,
+      "name": "The Common Breed",
+      "url": "https://open.spotify.com/track/3GT73Y2VeQaxa4XczlckO8"
+    },
+    {
+      "added_at": "2023-05-12 19:08:55",
+      "album": {
+        "name": "Outcry",
+        "url": "https://open.spotify.com/album/1IKjEX9ixB5ZmNqBlS31fW"
+      },
+      "artists": [
+        {
+          "name": "Never Ending Game",
+          "url": "https://open.spotify.com/artist/1S8NfdnAl7u08mTjEtDWLp"
+        }
+      ],
+      "duration_ms": 175613,
+      "name": "Outcry",
+      "url": "https://open.spotify.com/track/2jacIKE190RZN23fzJtfcb"
+    },
+    {
+      "added_at": "2023-05-12 19:09:08",
+      "album": {
+        "name": "Ghost Of Me",
+        "url": "https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov"
+      },
+      "artists": [
+        {
+          "name": "Make Them Suffer",
+          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
+        }
+      ],
+      "duration_ms": 231428,
+      "name": "Ghost Of Me",
+      "url": "https://open.spotify.com/track/25Yfk4XBeglz1QoXhDqJ2w"
+    },
     {
       "added_at": "2023-05-05 20:04:35",
       "album": {

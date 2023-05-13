@@ -10919,6 +10919,24 @@
     },
     {
       "album": {
+        "name": "Real Back In Style",
+        "url": "https://open.spotify.com/album/4ZXd1RIxHGNExQjajXcdV3"
+      },
+      "artists": [
+        {
+          "name": "Potter Payper",
+          "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225423,
+      "name": "White Ash",
+      "url": "https://open.spotify.com/track/2sngouSS4sot4DR4qkX4Ef"
+    },
+    {
+      "album": {
         "name": "White Ash",
         "url": "https://open.spotify.com/album/0fq5Tu08ZzjlTgk6vgtdma"
       },
@@ -10930,7 +10948,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 225423,
       "name": "White Ash",
       "url": "https://open.spotify.com/track/3u47ySotzOLUU4oWbqQ7ev"

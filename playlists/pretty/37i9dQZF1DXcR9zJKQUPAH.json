@@ -1,12 +1,12 @@
 {
   "description": "2017 highlights from the home of indie music.",
-  "num_followers": 129882,
+  "num_followers": 130027,
   "original_name": "Best of Indie 2017",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWE2ODhlNGEyNzhiNjAyNzFjNDUzZDFkNzY0ZDcyYzhkNDYwMDJk",
+  "snapshot_id": "MCwzMjIxYTRhYTE5NmZhYWMzMTNkNDFjYjQ1NDU0ZTRiNTcwMzg3MzYx",
   "tracks": [
     {
       "added_at": "2022-10-27 05:38:58",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Best Friend",
-        "url": "https://open.spotify.com/album/7nLg6Pwut1eqXoK51ZjVFW"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 262231,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/3rPtS4nfpy7PsARctAWpzd"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "Stranger in the Alps",
         "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 229760,
       "name": "Motion Sickness",
       "url": "https://open.spotify.com/track/5xo8RrjJ9CVNrtRg2S3B1R"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/7nLg6Pwut1eqXoK51ZjVFW"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 262231,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/3rPtS4nfpy7PsARctAWpzd"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Apricot Princess",
-        "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 262600,
-      "name": "Television / So Far So Good",
-      "url": "https://open.spotify.com/track/27rZYxE4l21wTaovX4WTnI"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "This Old Dog",
         "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 181586,
       "name": "Still Beating",
       "url": "https://open.spotify.com/track/4LpUpiYoZ2M3Z1kmhn4EQo"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Apricot Princess",
+        "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 262600,
+      "name": "Television / So Far So Good",
+      "url": "https://open.spotify.com/track/27rZYxE4l21wTaovX4WTnI"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -319,18 +319,18 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/3qJTNgjVc6EM3yJnjFAALE"
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
       },
       "artists": [
         {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 252230,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/7h2nmmoWDi2UpfYKLKWLYB"
+      "duration_ms": 305000,
+      "name": "Scott Street",
+      "url": "https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -355,18 +355,18 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/3qJTNgjVc6EM3yJnjFAALE"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 305000,
-      "name": "Scott Street",
-      "url": "https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp"
+      "duration_ms": 252230,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/7h2nmmoWDi2UpfYKLKWLYB"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -451,6 +451,26 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
+        "name": "Loving is Easy",
+        "url": "https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        },
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 155720,
+      "name": "Loving Is Easy",
+      "url": "https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
         "name": "Melodrama",
         "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },
@@ -479,26 +499,6 @@
       "duration_ms": 204878,
       "name": "broken",
       "url": "https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
-        "name": "Loving is Easy",
-        "url": "https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        },
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 155720,
-      "name": "Loving Is Easy",
-      "url": "https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -551,18 +551,18 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+        "name": "Apricot Princess",
+        "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
       },
       "artists": [
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 221874,
-      "name": "Perfect Places",
-      "url": "https://open.spotify.com/track/7ARveOiD31w2Nq0n5FsSf8"
+      "duration_ms": 279693,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/7aSyG7cskkG3zhfO2JLxq3"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -579,22 +579,6 @@
       "duration_ms": 232373,
       "name": "Funeral",
       "url": "https://open.spotify.com/track/3rJDsZjIaCfJQSqRUvl0BM"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
-        "name": "Apricot Princess",
-        "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 279693,
-      "name": "Happiness",
-      "url": "https://open.spotify.com/track/7aSyG7cskkG3zhfO2JLxq3"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -643,6 +627,22 @@
       "duration_ms": 174105,
       "name": "Cooks",
       "url": "https://open.spotify.com/track/75TDPu9k7Yv3IovdYaNCwk"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 221874,
+      "name": "Perfect Places",
+      "url": "https://open.spotify.com/track/7ARveOiD31w2Nq0n5FsSf8"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Little Dark Age",
-        "url": "https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 263880,
-      "name": "When You Die",
-      "url": "https://open.spotify.com/track/3td69vL9Py7Ai9wfXYnvji"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "Somersault",
         "url": "https://open.spotify.com/album/2d7uieZPQtrUi5AQXwdsYV"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 158474,
       "name": "Down the Line",
       "url": "https://open.spotify.com/track/05ZUxHiGT7VR6ShJjhwJxn"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Little Dark Age",
+        "url": "https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 263880,
+      "name": "When You Die",
+      "url": "https://open.spotify.com/track/3td69vL9Py7Ai9wfXYnvji"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Blood Type",
-        "url": "https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 202597,
-      "name": "Cold War",
-      "url": "https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "Beautiful People Will Ruin Your Life",
         "url": "https://open.spotify.com/album/6APrFw7uAsqi0vXaQTtSYi"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 207679,
       "name": "Turn",
       "url": "https://open.spotify.com/track/2PL9IBLQvJjE7hqCQyJl2g"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Blood Type",
+        "url": "https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 202597,
+      "name": "Cold War",
+      "url": "https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Superorganism",
-        "url": "https://open.spotify.com/album/15TFB6uLZlb3gnCysRrLix"
-      },
-      "artists": [
-        {
-          "name": "Superorganism",
-          "url": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
-        }
-      ],
-      "duration_ms": 165391,
-      "name": "Something For Your M.I.N.D.",
-      "url": "https://open.spotify.com/track/4rCKRVJZKVysScn2piDuOT"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
         "url": "https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 248964,
       "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
       "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Superorganism",
+        "url": "https://open.spotify.com/album/15TFB6uLZlb3gnCysRrLix"
+      },
+      "artists": [
+        {
+          "name": "Superorganism",
+          "url": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
+        }
+      ],
+      "duration_ms": 165391,
+      "name": "Something For Your M.I.N.D.",
+      "url": "https://open.spotify.com/track/4rCKRVJZKVysScn2piDuOT"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Don't You Worry, Honey",
-        "url": "https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4"
-      },
-      "artists": [
-        {
-          "name": "Sir Sly",
-          "url": "https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue"
-        }
-      ],
-      "duration_ms": 231896,
-      "name": "High",
-      "url": "https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 349693,
       "name": "oh baby",
       "url": "https://open.spotify.com/track/53PkA8aXiwH4ppa0V0iO7o"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Don't You Worry, Honey",
+        "url": "https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4"
+      },
+      "artists": [
+        {
+          "name": "Sir Sly",
+          "url": "https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue"
+        }
+      ],
+      "duration_ms": 231896,
+      "name": "High",
+      "url": "https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Process (Bonus Edition)",
-        "url": "https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 218160,
-      "name": "(No One Knows Me) Like the Piano",
-      "url": "https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "Yam Yam",
         "url": "https://open.spotify.com/album/127WZmGnH2ui60lIJVSEZi"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 216038,
       "name": "Yam Yam",
       "url": "https://open.spotify.com/track/26iu1k7U1NT2i8Sz7mDPGa"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Process (Bonus Edition)",
+        "url": "https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 218160,
+      "name": "(No One Knows Me) Like the Piano",
+      "url": "https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8"
     },
     {
       "added_at": "2022-10-27 05:38:58",

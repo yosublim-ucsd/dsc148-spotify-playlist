@@ -128,7 +128,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 211410,
       "name": "Amarte Sin Piedad",
       "url": "https://open.spotify.com/track/0Pfov0G5ZoskadtvAgwPl8"
@@ -1155,6 +1155,24 @@
     },
     {
       "album": {
+        "name": "La Paloma",
+        "url": "https://open.spotify.com/album/6DgVAve7m06lb2ubFqp3J3"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224759,
+      "name": "La Paloma",
+      "url": "https://open.spotify.com/track/1xbueGvTrxbpYNtOSFKdTJ"
+    },
+    {
+      "album": {
         "name": "Poncho",
         "url": "https://open.spotify.com/album/2LqkMvdnxBpqdOwGXPMdP3"
       },
@@ -1372,7 +1390,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 214466,
       "name": "No Me Canso de Amar",
       "url": "https://open.spotify.com/track/5LKPve9fCi7TKtgoJx49NF"
@@ -1892,6 +1910,24 @@
       "duration_ms": 226750,
       "name": "Si La Vieras",
       "url": "https://open.spotify.com/track/5ULPFMQ1rDkp8XsyqunJ5d"
+    },
+    {
+      "album": {
+        "name": "Si Pudiera",
+        "url": "https://open.spotify.com/album/1wMLkuAbaKSaqZr11xG32C"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera y Pampas de Bariloche",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173322,
+      "name": "Si Pudiera",
+      "url": "https://open.spotify.com/track/2S9oyHCvXTaaIFm2dkpwge"
     },
     {
       "album": {

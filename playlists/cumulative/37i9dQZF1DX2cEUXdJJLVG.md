@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-246 songs - 14 hr 49 min
+247 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Soul Caliber \(Remix\)](https://open.spotify.com/track/455v0kWFW362VlD22VJFvz) | [Aron](https://open.spotify.com/artist/3ik0tThzh3jWDLIYezRXMr), [h0wdy](https://open.spotify.com/artist/2Cub16XBwQ5vWVzVveNLH1), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [Quintin Gulledge](https://open.spotify.com/artist/0VY2ENfE55Nl1zja969Zwf) | [Soul Caliber \(Remix\)](https://open.spotify.com/album/6hEiPo9qf1SegYq6l6f3tF) | 3:44 | 2022-12-05 |  |
 | [Soul Liberator \- Kerem Akdağ Remix](https://open.spotify.com/track/3T0wb0HTqKGhEMdTCn3gUt) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Sanguita Akkrum](https://open.spotify.com/artist/2InEuUF9oBtn5E8IstCrIs), [Kerem Akdağ](https://open.spotify.com/artist/5DxrSUpHixL1t8os9E7xOz) | [Pleasure Centre Remixed](https://open.spotify.com/album/5ica5FqEeFkG3vOmhj8Ey7) | 3:08 | 2022-09-09 | 2022-09-16 |
 | [Soul Tropical](https://open.spotify.com/track/45zW45OwpItrFbKzAW9jA0) | [David Walters](https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7) | [Soul Tropical](https://open.spotify.com/album/0G8qxLCQc0ZVAR1RKOYhDm) | 3:44 | 2023-03-07 |  |
+| [SOW](https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 3:06 | 2023-05-12 |  |
 | [Spare Me](https://open.spotify.com/track/2cH0clQUvBwo77M8W2YQ3D) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Spare Me](https://open.spotify.com/album/0MQaaH4YZEapRhhaJOVDG9) | 3:20 | 2022-09-09 | 2022-10-15 |
 | [STAY UP](https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [STAY UP / SWEET](https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc) | 3:49 | 2022-09-09 |  |
 | [Stella](https://open.spotify.com/track/4aUuuGkBAsQPheOvi4bnsN) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [Solstice](https://open.spotify.com/album/6jPO2gtwitpbmkEDD0kYLn) | 2:41 | 2022-09-09 | 2022-10-15 |

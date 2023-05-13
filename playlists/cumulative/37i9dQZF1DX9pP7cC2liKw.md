@@ -4,7 +4,7 @@
 
 > Immerse yourself in the mysticism of Tulum!
 
-282 songs - 19 hr 51 min
+283 songs - 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Bailando Lento](https://open.spotify.com/track/36smaXbDxNC3RVQZsZW3By) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Bailando Lento](https://open.spotify.com/album/2aD0hm7zQwY6Qw2lhlvlhq) | 3:17 | 2022-01-04 | 2022-07-24 |
 | [Baile Fodongo](https://open.spotify.com/track/6lJ3bXlW58cRjVm28Lej6A) | [Altoparlante](https://open.spotify.com/artist/1KNxS8isGUfOMFXmPNRlIU) | [Baile Fodongo](https://open.spotify.com/album/0CoY38MAJSKeLOlqbEnXxC) | 5:06 | 2022-01-04 | 2022-07-03 |
 | [Basta Parlare](https://open.spotify.com/track/45holCupIVCdXHmcpmDLrN) | [Siddha\-Funk](https://open.spotify.com/artist/1vO2cXeyDrUaOWofybwd9a) | [Basta Parlare](https://open.spotify.com/album/0jaWU8aTVbgCkA5DFDQyGN) | 3:14 | 2022-11-25 | 2022-12-08 |
-| [Bayamón](https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bayamón](https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG) | 3:00 | 2023-03-16 |  |
+| [Bayamón](https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bayamón](https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG) | 3:00 | 2023-03-16 | 2023-05-13 |
 | [Better When We're Close](https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Better When We're Close](https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah) | 3:33 | 2022-04-07 |  |
 | [Big Night](https://open.spotify.com/track/6u2NxRdgR9pqJUTeigcopA) | [Siddha\-Funk](https://open.spotify.com/artist/1vO2cXeyDrUaOWofybwd9a) | [Big Night](https://open.spotify.com/album/0q3Esl723cq5Zu0kYEOl2w) | 3:15 | 2023-03-01 | 2023-03-18 |
 | [Cabina Forestal](https://open.spotify.com/track/5kyI7igBLCm2ghs3ItwVyW) | [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT), [Polocorp](https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ), [Jasmine Alkari](https://open.spotify.com/artist/6aBZKa0guKloY7cRlvONVj) | [Tulum \- SACBE 2018](https://open.spotify.com/album/4bMWegc81v2ThZKpUpB6en) | 6:38 | 2022-04-17 | 2022-07-28 |
@@ -254,6 +254,7 @@
 | [Starry Nights](https://open.spotify.com/track/4D9ryGgf2IrajDXXGNqm1H) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [Jaguar Sound](https://open.spotify.com/album/0G4ZUqUhs6LMEiZ6ADc6bX) | 3:25 | 2022-11-17 | 2023-01-03 |
 | [Stella](https://open.spotify.com/track/7sIbdmrVmFv66vqtPefBUt) | [ulises](https://open.spotify.com/artist/0YQKl0V9vgk6HeFttX1aTv) | [Tulum \- SACBE 2018](https://open.spotify.com/album/4bMWegc81v2ThZKpUpB6en) | 8:12 | 2022-04-17 | 2022-07-29 |
 | [Suena Tu Canto](https://open.spotify.com/track/6af3gkqJwZRgifUmWWNRTh) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Suena Tu Canto](https://open.spotify.com/album/3Go1r8uelLjlMgwAHcyokh) | 3:48 | 2022-05-18 | 2022-07-26 |
+| [Sueño de Amapola](https://open.spotify.com/track/1CI1O4oGcZG2lSLgQHSwQG) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Sueño EP](https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR) | 3:45 | 2023-05-12 |  |
 | [Sueño Nómade](https://open.spotify.com/track/48IuvQA45zrS1FJBKhOLH8) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Sueño Nómade](https://open.spotify.com/album/2jl3Ee3yRurbYUoq2ffbLN) | 3:00 | 2022-04-17 | 2022-07-24 |
 | [Suonno](https://open.spotify.com/track/2MwvBhrK7pL4qP3KMnp5uL) | [Capinera](https://open.spotify.com/artist/0aS3d5fd7GrmApv4p7nho8) | [Il volo / Suonno](https://open.spotify.com/album/0xUqQAygc6UIpXcSXvKyRT) | 4:21 | 2022-10-01 | 2022-10-18 |
 | [Superstylin'](https://open.spotify.com/track/4G7sC4cJ8wl0W17zU3dAsb) | [Gentleman's Dub Club](https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr) | [Out of This World](https://open.spotify.com/album/5WQS7c24jKpUWnby2cYzgQ) | 4:49 | 2022-06-15 |  |

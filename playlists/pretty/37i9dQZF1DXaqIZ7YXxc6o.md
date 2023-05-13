@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Becky Hill
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,629 likes - 102 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,653 likes - 102 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Infinity Repeating \(2013 Demo\) \[feat\. Julian Casablancas+The Voidz\]](https://open.spotify.com/track/4r4fX4NZIqVIhGyDvERp0l) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB), [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Random Access Memories \(10th Anniversary Edition\)](https://open.spotify.com/album/4mAhdh996uW5SnnFKXUmC0) | 3:59 |
 | 2 | [Friends](https://open.spotify.com/track/4kwbbhuemSkRWvtN5dkWmb) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Friends](https://open.spotify.com/album/7ebm9IP2zYl77waFn1r5Xl) | 2:37 |
-| 3 | [Side Effects](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/2QsMZVsBumu6t90SB3yGrH) | [Side Effects](https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j) | 2:33 |
+| 3 | [Side Effects](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Side Effects](https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j) | 2:33 |
 | 4 | [Come Back](https://open.spotify.com/track/1wQZemciaEPFXshcgEUA2s) | [ALYSSA](https://open.spotify.com/artist/75ZLyp0dI6PGiynBQS4rJp) | [Come Back](https://open.spotify.com/album/2QOvhxWmXDC3SopJHqKaVF) | 2:27 |
 | 5 | [Hero](https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Hero](https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt) | 2:55 |
 | 6 | [Lose Control](https://open.spotify.com/track/3DLWVhaowApIGw1JnJj6GS) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Lose Control](https://open.spotify.com/album/1OYS1FK3tnJ8JhbWuUZaqE) | 2:53 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 101 | [Growth](https://open.spotify.com/track/3D4HEAeEjCVbqD9nimbFqt) | [Nala](https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf) | [Growth](https://open.spotify.com/album/7LcgJ5FAbSuaNDEIuVxPGQ) | 4:57 |
 | 102 | [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/2UDycsru4dEa1UFmyIvKYU) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/2FmCevNKGGSYOa9uCuXydm) | 2:54 |
 
-Snapshot ID: `MCxkZTQ1MzEwZWMzMmMxYjNhYTdiZTRiNmQ1YmExZTFhMzM3ODhmYTE3`
+Snapshot ID: `MCxkYTM5ZDcxZTliYWE2MDMzNjgwM2Y2MzMxYzJmOTNmZDhkNDQ2ZTFk`

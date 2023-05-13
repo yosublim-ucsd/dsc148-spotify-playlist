@@ -2,7 +2,7 @@
 
 ### [BBE](https://open.spotify.com/playlist/37i9dQZF1DX66m4icL86Ru)
 
-> Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Ice Spice
+> Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Kali
 
 371 songs - 18 hr 15 min
 

@@ -2,9 +2,9 @@
 
 ### [Rap en Español](https://open.spotify.com/playlist/37i9dQZF1DX40O80BIPklU)
 
-> Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Vico C en portada.
+> Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Zxmyr y Sandro Malandro en portada.
 
-182 songs - 10 hr 15 min
+185 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A 120](https://open.spotify.com/track/5UaxYPAJvLc5uuV9sbTZjP) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [OPYI](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [A 120](https://open.spotify.com/album/1d7B2L3w06kkI7Y8WXNYkx) | 3:53 | 2021-12-30 |  |
 | [A Mi Lado](https://open.spotify.com/track/6cvMmviJTZTBOFh2ohwZg6) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [A Mi Lado](https://open.spotify.com/album/2EKFnG7NaqYgZOkCAi7MBP) | 2:58 | 2021-12-30 | 2022-02-01 |
 | [Agua Con Hielo](https://open.spotify.com/track/3qR5fiOr9sLtiIZpfwaTkY) | [Duendy](https://open.spotify.com/artist/6EcbitbSqckbOT8K5Bjhrk), [Omar Falcon](https://open.spotify.com/artist/7ADdWGpZInbXyv3knSiU4S), [Dorian Cracken](https://open.spotify.com/artist/1qrJLoZNlTEVIg47qBWCnc) | [Agua Con Hielo](https://open.spotify.com/album/0DlTKnkCSkIdCbsW4Ti13V) | 2:57 | 2023-03-24 |  |
+| [Agua Salada](https://open.spotify.com/track/5waMzAyPrIUdzGImMeUQEF) | [cKovi](https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO) | [Agua Salada](https://open.spotify.com/album/4XuniTXMjxP6MKAV5sbbQB) | 3:12 | 2023-05-12 |  |
 | [Ahora Corren](https://open.spotify.com/track/0frbDonZlnjEaxKnPKclb3) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm), [Chulu](https://open.spotify.com/artist/1VAc90Avnm4J5j2cYu5RVB) | [Inmortales](https://open.spotify.com/album/4EYOgNTo3rdmsmZaQSFbmV) | 4:07 | 2022-03-10 |  |
 | [Ahora Y Siempre](https://open.spotify.com/track/1AhNxunSSizAllibrQ7jhu) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Linton](https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S) | [Ahora Y Siempre](https://open.spotify.com/album/3jTzodvOzhVKQgNbLjM93z) | 2:29 | 2022-02-14 | 2022-07-29 |
 | [Ahora y Siempre](https://open.spotify.com/track/4iaNmAvcZ6sPGvgZ6vQQdx) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Linton](https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S) | [Ahora y Siempre](https://open.spotify.com/album/5ccfQbQo3Z5G4p1Pi49jpD) | 2:29 | 2022-06-24 |  |
@@ -60,6 +61,7 @@
 | [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/track/7MkylDYvKTSuWgrsBhHlsG) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/album/1QUr29IDxeCaCpZOqwyvHW) | 3:41 | 2022-11-17 |  |
 | [El Mundo Es Tuyo](https://open.spotify.com/track/2XMLQxLX3FQZ7veKYIKumh) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [El Mundo Es Tuyo](https://open.spotify.com/album/7CWLoC8Yw64f8vMJFV1AVh) | 3:02 | 2021-12-30 | 2022-07-29 |
 | [El Mundo Es Tuyo](https://open.spotify.com/track/3eDZA496pE44xkDSamlCHD) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [El Mundo Es Tuyo](https://open.spotify.com/album/3fi4Kp3hlODkiyERiCPeBw) | 3:02 | 2022-06-24 |  |
+| [El Precio del Valor](https://open.spotify.com/track/69Xy0ICKMuL96Kq95wHcmd) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c) | [El Precio del Valor](https://open.spotify.com/album/5XlUfc0NrmKhZZ55VWlkEv) | 3:14 | 2023-05-12 |  |
 | [Ella No Es Tuya \- Remix](https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Ella No Es Tuya \(Remix\)](https://open.spotify.com/album/5Jk2ROWL8a4RxmFNiT8pvA) | 3:38 | 2021-12-30 |  |
 | [En La Nube](https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [En La Nube](https://open.spotify.com/album/1J6jzIMsRgkA6LkTfWxu7V) | 3:32 | 2021-12-30 | 2022-01-08 |
 | [Envidia](https://open.spotify.com/track/4NTOD6p2LLDYdeHzaxUYxk) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Envidia](https://open.spotify.com/album/0Vr2EIU3Dw3DAQKZTJ0Wqk) | 3:00 | 2022-11-25 |  |
@@ -180,6 +182,7 @@
 | [Toma 4](https://open.spotify.com/track/5UUkHi8YrakZKY9gDbtVNz) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Toma 4](https://open.spotify.com/album/7Il1eXMjz7OJExifvW8Vgt) | 3:20 | 2022-05-13 |  |
 | [Tú](https://open.spotify.com/track/70GICKO4fojYsRGUx4nb4z) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Elias Wallace](https://open.spotify.com/artist/5SaZEYSyIV17OizlU9DjzI) | [Manjit 1](https://open.spotify.com/album/3jwk8uhUhfJj56MuBZYBlm) | 3:33 | 2021-12-30 | 2022-03-26 |
 | [Una Calada](https://open.spotify.com/track/3dO4nlMMWLo08eiprSMJqN) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Una Calada](https://open.spotify.com/album/0zkF6rU4NaLQ9msTqcBGwn) | 3:14 | 2023-02-24 |  |
+| [Underrated](https://open.spotify.com/track/42EDLkzqnTmw2xZZ9bkfYT) | [Lego Skillz](https://open.spotify.com/artist/7jk87weJfexobhc1bJJt9M), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk), [Haze](https://open.spotify.com/artist/4OYcQT9EHQHCYJVfbyGNzr) | [Underrated](https://open.spotify.com/album/4bTHEqX5vfP9UiFairPree) | 3:00 | 2023-05-12 |  |
 | [Uzumaki](https://open.spotify.com/track/5eO9DgpkoSm2k9eOkI14Xg) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Gudspella](https://open.spotify.com/artist/2xjF5imhTEr6WDS0EAqMtw) | [Uzumaki](https://open.spotify.com/album/7nJWw7EXntcF4EjsWsFMJJ) | 4:55 | 2022-10-06 |  |
 | [Veneno](https://open.spotify.com/track/5AQTFpm3oDPTenmw5Lmfoi) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [KIDDO](https://open.spotify.com/artist/3lLDZNIMUmxMzIE6Vz9Agz), [J.Moods](https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8) | [La Tour Liffee](https://open.spotify.com/album/0UYDVbpaX2fpXiGDsxPzsY) | 4:18 | 2021-12-30 | 2022-05-14 |
 | [Vibrando en Alto](https://open.spotify.com/track/0HoLCZ3G0dbGqtmlmnIMhw) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Vibrando en Alto](https://open.spotify.com/album/2Sa6rmZ4tPSRse0aOlRKjI) | 3:00 | 2022-03-10 | 2022-10-29 |

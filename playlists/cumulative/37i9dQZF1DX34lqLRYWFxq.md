@@ -2,15 +2,15 @@
 
 ### [Ready to Rock](https://open.spotify.com/playlist/37i9dQZF1DX34lqLRYWFxq)
 
-> New adventures in rock start here\. Cover: Ruby Waters
+> New adventures in rock start here\. Cover: LØLØ
 
-272 songs - 15 hr 1 min
+274 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [18](https://open.spotify.com/track/1S2Las2wOFICFuvIdskoY5) | [Fionn](https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt) | [18](https://open.spotify.com/album/6dt6PxFPlzfytvTJqYGXUv) | 2:46 | 2023-04-28 |  |
 | [2 Cups](https://open.spotify.com/track/6wm8PSkehuHYylR64rw1Gy) | [Miko](https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn) | [2 Cups](https://open.spotify.com/album/3ttazupNIeGDk28uLymPTC) | 3:03 | 2023-03-17 |  |
-| [5,6,7,8 \(feat\. girlfriends\)](https://open.spotify.com/track/6YAngZqMTJyorUHoeOpaqy) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [5,6,7,8 \(feat\. girlfriends\)](https://open.spotify.com/album/0SPIpADk9hv62agR2J5iy5) | 2:16 | 2023-03-24 |  |
+| [5,6,7,8 \(feat\. girlfriends\)](https://open.spotify.com/track/6YAngZqMTJyorUHoeOpaqy) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [5,6,7,8 \(feat\. girlfriends\)](https://open.spotify.com/album/0SPIpADk9hv62agR2J5iy5) | 2:16 | 2023-03-24 | 2023-05-13 |
 | [A Beautiful Darkness](https://open.spotify.com/track/06Z65ytAIPcSdlU8lgZyEO) | [Sultans Of String](https://open.spotify.com/artist/6GUPR8j10gupeAmKJYgP3I), [Nadjiwan](https://open.spotify.com/artist/6Awd9zbhqyJqAwjDSOlAko) | [A Beautiful Darkness](https://open.spotify.com/album/5uSc9KcRIB0rnx2a81hZcY) | 3:36 | 2023-03-03 | 2023-04-22 |
 | [A Language Dissapears \- Single Edit](https://open.spotify.com/track/7LrAeGqcAy9o7m5OjQVwU4) | [Zoon](https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC) | [A Language Disappears](https://open.spotify.com/album/6RuHa5z7lsZnAFuHrCdweD) | 3:07 | 2023-02-10 | 2023-02-25 |
 | [A Song For Ya](https://open.spotify.com/track/68zrgVzaX5jgzy3D3ahHD5) | [Royal Oak](https://open.spotify.com/artist/1BUiRfYYpTt8Y7dv9gGN7B) | [A Song For Ya](https://open.spotify.com/album/5k6atP9bToH8DdzO5bmI5U) | 3:13 | 2023-02-10 | 2023-04-01 |
@@ -177,6 +177,7 @@
 | [Nosebleed](https://open.spotify.com/track/1ElDn0WlZ4ELXHksk0Z8mu) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Nosebleed](https://open.spotify.com/album/47SX20nouYkuWaMtczHvE7) | 2:13 | 2023-03-31 |  |
 | [O\-zone](https://open.spotify.com/track/1ynjBf2AZaHlTvmzTMnJ93) | [Single Mothers](https://open.spotify.com/artist/2FW1jqwbJgwWT8hTWHgBrq) | [Everything You Need](https://open.spotify.com/album/4c00zGr7m0f7TgWUPiCfzS) | 2:54 | 2023-02-10 | 2023-02-25 |
 | [OK](https://open.spotify.com/track/7iE0J8k2Hqt1opubRHco0g) | [Vulgaires Machins](https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG) | [Disruption](https://open.spotify.com/album/4LizSEpXM9elUheVmOzRg8) | 3:13 | 2023-02-10 | 2023-02-18 |
+| [omg](https://open.spotify.com/track/4wQlMwDDOxTY91kk5B7Y77) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [omg](https://open.spotify.com/album/3EjgHtmVkvOdn2OM5vAOQm) | 2:34 | 2023-05-12 |  |
 | [One](https://open.spotify.com/track/6KLkrzcPUyYMHtnwBduJLs) | [The Noise](https://open.spotify.com/artist/7kMlhdJrOP9Q1yQngmELcP) | [One](https://open.spotify.com/album/4Nivk78n58HOcZkWjaxjEi) | 2:24 | 2023-02-17 | 2023-04-22 |
 | [Only Sins No Tragedies](https://open.spotify.com/track/6wRXbkkJmsqkFONOuwBe1F) | [Ragers](https://open.spotify.com/artist/2wiOxdl6V7nqiCBdiFUIuH) | [Only Sins No Tragedies](https://open.spotify.com/album/40zwLexje3MkFObsKehczh) | 2:20 | 2023-02-24 | 2023-04-29 |
 | [only way out](https://open.spotify.com/track/0DCbCYsPpg6sYVFzEOMG8e) | [Little Destroyer](https://open.spotify.com/artist/5knA7MWjServ1IJdZc8Scw) | [1134](https://open.spotify.com/album/6HSfqnWEDXDLItXz7PonBf) | 2:24 | 2023-02-10 | 2023-02-18 |
@@ -213,6 +214,7 @@
 | [Scenery](https://open.spotify.com/track/20ubvnxFGvq9YX8YCFE4VM) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn) | [Scenery](https://open.spotify.com/album/7enb4iw7WjPOH3eUeSLedb) | 2:39 | 2023-03-03 | 2023-05-06 |
 | [Selfish](https://open.spotify.com/track/6kuqMEbbaEeID36L1LmX5M) | [Cameron Philip](https://open.spotify.com/artist/4gRQ0ZBG8Hl1gQ9MPIjohH) | [Selfish](https://open.spotify.com/album/50erm7QPqCdPOXQg0tRYxt) | 2:57 | 2023-02-10 | 2023-02-25 |
 | [Serial Killer](https://open.spotify.com/track/5WymYiS89VAeXdzMmHwcLa) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Dysania](https://open.spotify.com/album/4pOYgdkvLhLSydbYbJOeD2) | 2:52 | 2023-03-24 |  |
+| [Sharp Knife](https://open.spotify.com/track/43j0MnU6OUDBGHEoVNbsNO) | [Whale and the Wolf](https://open.spotify.com/artist/4AMuXW9TMEbxAQOoz0C6sj) | [Sharp Knife](https://open.spotify.com/album/33N56BTm68486aTXoZrwQZ) | 3:44 | 2023-05-12 |  |
 | [She Bangs Like a Fairy on Acid](https://open.spotify.com/track/4e2Jje6I9Y5hJVCg7QPnIv) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [She Bangs Like a Fairy on Acid](https://open.spotify.com/album/1ZihE7uvcauy0odKAIJCY4) | 2:55 | 2023-02-10 | 2023-03-04 |
 | [Shelter \(feat\. Avril Lavigne\)](https://open.spotify.com/track/62pC4mgtn2CwTxEHVbCCvn) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [God Save The Teen](https://open.spotify.com/album/2nGoq5bReMW1NvKsbjoCBw) | 3:10 | 2023-02-10 | 2023-04-09 |
 | [Should've Known](https://open.spotify.com/track/4nresNbETCAa88JrG8uK9e) | [Victoria Anthony](https://open.spotify.com/artist/0x0iGXZc5qI9edbL1qNCdx) | [Should've Known](https://open.spotify.com/album/3miEwxBcJvBLqda3nwhSXD) | 2:44 | 2023-02-10 | 2023-03-04 |

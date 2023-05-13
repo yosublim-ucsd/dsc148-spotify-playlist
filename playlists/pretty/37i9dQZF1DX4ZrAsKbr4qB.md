@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZrAsKbr4qB.md) - [plain]
 
 > Featuring LiL CaKe, Calle 13, Young Miko & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 535 likes - 25 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 544 likes - 25 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZrAsKbr4qB.md) - [plain]
 | 6 | [PERO TÚ](https://open.spotify.com/track/1dw7qShk971xMD6r6mA4VN) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:03 |
 | 7 | [Tormenta \(feat\. Bad Bunny\)](https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:13 |
 | 8 | [Shorty Party](https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [La Kelly](https://open.spotify.com/artist/4yEIQ0lJDgUEfsuYx3Gsmr) | [Shorty Party](https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9) | 4:25 |
-| 9 | [Tamagotchi](https://open.spotify.com/track/5bfep56ypsHGIR4i5KPKJN) | [GUNTTER](https://open.spotify.com/artist/3psizJPIbIEEctInvdWSZk), [HAMLIT SHORTY](https://open.spotify.com/artist/06n23qw408xNUMGETWsmaL) | [Tamagotchi](https://open.spotify.com/album/057rlsHQhvwj62HNgX52uA) | 2:31 |
+| 9 | [Tamagotchi](https://open.spotify.com/track/5bfep56ypsHGIR4i5KPKJN) | [GUNTTER](https://open.spotify.com/artist/3psizJPIbIEEctInvdWSZk), [HAMLIT SHORTY](https://open.spotify.com/artist/06n23qw408xNUMGETWsmaL), [Sticks House](https://open.spotify.com/artist/3gvuPnQphwrMjq23LTUAFN) | [Tamagotchi](https://open.spotify.com/album/057rlsHQhvwj62HNgX52uA) | 2:31 |
 | 10 | [Una Noche en Medellín](https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Una Noche en Medellín](https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46) | 2:33 |
 | 11 | [La Vecinita](https://open.spotify.com/track/4wmPBI7iEJ2urKoXjQQqFu) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Los Bandoleros Reloaded](https://open.spotify.com/album/5KtOg6t1abStlfb6OvoD8R) | 4:25 |
 | 12 | [BELLAQUE?](https://open.spotify.com/track/7gYblpRDCSmrnY39PJBPYE) | [Chris Palace](https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw) | [BELLAQUE?](https://open.spotify.com/album/4nbY0nHvLnl73klr2ZOaNo) | 2:17 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZrAsKbr4qB.md) - [plain]
 | 24 | [+HP](https://open.spotify.com/track/0nFu1WN1whrcVqY3ZrxZtm) | [Alexio](https://open.spotify.com/artist/4Tw0VaV1ENei24iQnktjXj), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [+HP](https://open.spotify.com/album/4XGV3CmZwOSCd6IdoFlegu) | 3:33 |
 | 25 | [AFTER PARTY](https://open.spotify.com/track/2dJBk3D3vAqj3hnULBYny6) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [AFTER PARTY](https://open.spotify.com/album/2kNNMnHh6XovIPMNA2mIzU) | 3:30 |
 
-Snapshot ID: `MCxiNWM1YTZhYmY0NWY4ZWYyZjZkZWM4MWYwYmY0YzJhNGFmNDI2MDQ0`
+Snapshot ID: `MCxkMjQ5YzliOWU0ZGJlMzY0NDY5NGM4YTg4NWQzNTczNGJiNjY3YzZj`

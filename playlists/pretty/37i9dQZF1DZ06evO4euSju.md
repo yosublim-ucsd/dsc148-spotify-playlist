@@ -24,12 +24,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4euSju.md) - [plain]
 | 14 | [High Again](https://open.spotify.com/track/6xIRGEHZJxNobiq6Frf8BB) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 3:26 |
 | 15 | [Mirror Talk](https://open.spotify.com/track/6VBoEu64cDeRDE6f60XPts) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed](https://open.spotify.com/album/5OMhpOEVJ9kXp2ayrCFMLK) | 4:07 |
 | 16 | [Sparkle / Fade](https://open.spotify.com/track/54pcxTH4RzzfvTq7f2vWem) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Counting Flies](https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD) | 5:39 |
-| 17 | [Chrome Neon Jesus](https://open.spotify.com/track/5sGU6CsPHoY0xngEjsBPkQ) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:43 |
+| 17 | [Kibo](https://open.spotify.com/track/5iQPGnGBClKTf4pHdhNuAg) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 2:37 |
 | 18 | [Yellowbelly](https://open.spotify.com/track/1k9Iq0HDhuadenPEBv7VUQ) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 3:14 |
 | 19 | [Outside of Love](https://open.spotify.com/track/4pvuxa2b2V6ArNi8qBHRKH) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed](https://open.spotify.com/album/5OMhpOEVJ9kXp2ayrCFMLK) | 4:06 |
-| 20 | [Kibo](https://open.spotify.com/track/5iQPGnGBClKTf4pHdhNuAg) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 2:37 |
+| 20 | [Chrome Neon Jesus](https://open.spotify.com/track/5sGU6CsPHoY0xngEjsBPkQ) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:43 |
 | 21 | [Stella](https://open.spotify.com/track/0V1Ww4KZzeNvImlv3BnLBl) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 4:40 |
 | 22 | [Summer](https://open.spotify.com/track/2eVl7KmAVQNbDUpd7Dkka3) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed](https://open.spotify.com/album/5OMhpOEVJ9kXp2ayrCFMLK) | 5:01 |
 | 23 | [Black Flamingo](https://open.spotify.com/track/44OapuhaxBVQqdXQYeTKPs) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:58 |
 
-Snapshot ID: `MjgwNjM0NjIsMDAwMDAwMDA1ZGE1MmVlZjBkZTViNmQxMTFlNDY1ZWY4M2M2NDk1YQ==`
+Snapshot ID: `MjgwNjQ5MDksMDAwMDAwMDA3OWUzOTBjNTkyZGYzMDAxZDI5MzMyODhkMmNlMDJjZA==`

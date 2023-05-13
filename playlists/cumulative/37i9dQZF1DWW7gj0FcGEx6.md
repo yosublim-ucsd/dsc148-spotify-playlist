@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-254 songs - 12 hr 48 min
+256 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Aurora](https://open.spotify.com/track/60W0NU4SBa2I2yC7b44Kja) | [Fernando Velázquez](https://open.spotify.com/artist/2pElTJJ5D3ziEPyvZsW5eF) | [Alma \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0WTosvMJLB7LhIWZ6sea1l) | 2:57 | 2022-08-19 | 2022-11-17 |
 | [Bathroom Dance](https://open.spotify.com/track/4WiqPbWvLbv317E8fB4SJC) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ) | 2:08 | 2021-12-20 | 2022-07-09 |
 | [Benevolence \- Tetris Original Motion Picture Soundtrack](https://open.spotify.com/track/2Q1QzJ3BGNi484jCdUSf9Z) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj) | [Tetris \(Motion Picture Soundtrack\)](https://open.spotify.com/album/1ADmUnR6Z8kRxwFna9ffK6) | 2:30 | 2023-04-12 |  |
+| [Beyond](https://open.spotify.com/track/3UIdfTWEMXcBZYgLN3mMvu) | [Mattia Vlad Morleo](https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE) | [Il Grande Male \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5dHOnPMjwR3s3cjApZr5UL) | 3:12 | 2023-05-12 |  |
 | [Brianna](https://open.spotify.com/track/6wFLtag0kJnXwva2Qj1khj) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Synchronic \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3zUpvlv6hfVwFC1zwtDT6M) | 1:38 | 2021-12-20 |  |
 | [Burn Butcher Burn \- from "The Witcher: Season 2" Soundtrack](https://open.spotify.com/track/6Hp57iv0VLGgmWyOFx8iUm) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [Joey Batey](https://open.spotify.com/artist/3yhgVqRLh6DyzacZyQPNWc) | [The Witcher: Season 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA) | 2:39 | 2021-12-20 |  |
 | [Bus Stop](https://open.spotify.com/track/0IKB0sdYNfXIvoxKWlh05D) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Broker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo) | 0:43 | 2023-03-10 |  |
@@ -257,6 +258,7 @@
 | [What Lies Ahead](https://open.spotify.com/track/7LyHmHqI6t5rpi2BDSlO0M) | [Segun Akinola](https://open.spotify.com/artist/6AoVAVoJmW1VsrcTQ63Til) | [Doctor Who Series 13 \- Flux \(Original Television Soundtrack\)](https://open.spotify.com/album/6QkKL4MKiahk0WnAKqMkze) | 3:32 | 2022-09-30 |  |
 | [Who You Are](https://open.spotify.com/track/5vgnRvuUVkic3Dhy1oGORc) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Queen Charlotte: A Bridgerton Story \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo) | 3:38 | 2023-05-05 |  |
 | [Wicked Games](https://open.spotify.com/track/0FXSdzre3I9GaBB444umzh) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Wicked Games \(From Westworld: Season 3\)](https://open.spotify.com/album/1raeE4103hULnR9XjAUhzF) | 5:31 | 2021-12-20 | 2022-07-09 |
+| [Worlds Collide](https://open.spotify.com/track/5s3kCq0CzYs1lb2TPjU3MC) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Worlds Collide / Run \(from "The Flash"\)](https://open.spotify.com/album/7IoCIyv2Ji5oGxrGF9S0mt) | 2:29 | 2023-05-12 |  |
 | [Wrap Up](https://open.spotify.com/track/4jHpdfiSeaiE4n3ef9fVay) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8) | [Star Trek: Discovery \(Season 4\) \[Original Series Soundtrack\]](https://open.spotify.com/album/5XleeeAeYOAQV1bLKDnNQl) | 4:29 | 2022-08-26 |  |
 | [Xu Shang\-Chi](https://open.spotify.com/track/0U1X5zc0wvbT6C3YQEpK0q) | [Joel P West](https://open.spotify.com/artist/6rQvvJf6EoWZnoO6g7mixQ) | [Shang\-Chi and the Legend of the Ten Rings \(Original Score\)](https://open.spotify.com/album/72LIvmrUE6L6bBO5gzvbya) | 2:55 | 2021-12-20 |  |
 | [You Are One of Us](https://open.spotify.com/track/0pMuFnl4nOtuFSoC9PI0GI) | [Joseph Shirley](https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Season 3 \- Vol\. 1 \(Chapters 17\-20\) \[Original Score\]](https://open.spotify.com/album/2JtB7K4gMmfC7Ow9Y4pz4b) | 3:55 | 2023-03-31 |  |

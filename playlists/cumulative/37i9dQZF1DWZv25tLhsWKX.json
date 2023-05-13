@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "Hometeam",
+        "url": "https://open.spotify.com/album/3BhFdlcwkD19gdA2943Tdm"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175880,
+      "name": "Hometeam",
+      "url": "https://open.spotify.com/track/5Q8vgpRXpaBXEGH18CMhDa"
+    },
+    {
+      "album": {
         "name": "Sleepless Nights",
         "url": "https://open.spotify.com/album/3hDXV8pPMWKzRziBsuPJWA"
       },

@@ -1,13 +1,77 @@
 {
   "description": "Underground indie rock gems. Cover: king isis",
-  "num_followers": 283339,
+  "num_followers": 283368,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjIwODk3YWQxYjE4OTYyZDhlOTZkNjljYmZlNDA0NGFhNzllZjcy",
+  "snapshot_id": "MCw2NTcxOTFlODFlNWJhZmI0MzBhODFiZGNiZGJmYjg5ZjBhODQ4YmQx",
   "tracks": [
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "time waits",
+        "url": "https://open.spotify.com/album/0bQ8W6aJPOW3CI6vlGZGTZ"
+      },
+      "artists": [
+        {
+          "name": "Glitter Party",
+          "url": "https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB"
+        }
+      ],
+      "duration_ms": 199760,
+      "name": "time waits",
+      "url": "https://open.spotify.com/track/6KVFcap7bKzswabvTXqzh4"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Elizabethtown.",
+        "url": "https://open.spotify.com/album/7epCR4GKjfqGTuKZMyhtid"
+      },
+      "artists": [
+        {
+          "name": "Cottonwood Firing Squad",
+          "url": "https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE"
+        }
+      ],
+      "duration_ms": 136649,
+      "name": "mean creek.",
+      "url": "https://open.spotify.com/track/00AM3zuuier3pzRI0dFhSO"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Postman",
+        "url": "https://open.spotify.com/album/10v03aHQ2qs0gM63rCoEuJ"
+      },
+      "artists": [
+        {
+          "name": "Palmer",
+          "url": "https://open.spotify.com/artist/52VT62cropnSSiAZXtU8ho"
+        }
+      ],
+      "duration_ms": 190742,
+      "name": "Postman",
+      "url": "https://open.spotify.com/track/7tzJ4TXAPfeJznM8XJYqgT"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "A Place You Grew Up In",
+        "url": "https://open.spotify.com/album/747rEJWxtjhJBDetMDt9yU"
+      },
+      "artists": [
+        {
+          "name": "Laveda",
+          "url": "https://open.spotify.com/artist/4k9HOB4zrVAEasP7nm31F7"
+        }
+      ],
+      "duration_ms": 235325,
+      "name": "A Place You Grew Up In",
+      "url": "https://open.spotify.com/track/6x7Urov7z6SvWEnOZYtlgF"
+    },
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
@@ -41,6 +105,22 @@
       "url": "https://open.spotify.com/track/4wIz4Lx7BFfGi8E7PzVipV"
     },
     {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Say",
+        "url": "https://open.spotify.com/album/4N9Y8YlXr38guFheXENI49"
+      },
+      "artists": [
+        {
+          "name": "Slow Joy",
+          "url": "https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL"
+        }
+      ],
+      "duration_ms": 152800,
+      "name": "Say",
+      "url": "https://open.spotify.com/track/2GIxKXaeFkLtuIRw6qmfGq"
+    },
+    {
       "added_at": "2023-04-11 14:51:33",
       "album": {
         "name": "Rat Saw God",
@@ -57,52 +137,20 @@
       "url": "https://open.spotify.com/track/16weYq1yI3d7pyjkRLYlrY"
     },
     {
-      "added_at": "2023-04-14 04:01:00",
+      "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "A Place You Grew Up In",
-        "url": "https://open.spotify.com/album/747rEJWxtjhJBDetMDt9yU"
+        "name": "Woman on Fire",
+        "url": "https://open.spotify.com/album/3tyDFxumq69ziGnO9DzNRV"
       },
       "artists": [
         {
-          "name": "Laveda",
-          "url": "https://open.spotify.com/artist/4k9HOB4zrVAEasP7nm31F7"
+          "name": "BEL",
+          "url": "https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6"
         }
       ],
-      "duration_ms": 235325,
-      "name": "A Place You Grew Up In",
-      "url": "https://open.spotify.com/track/6x7Urov7z6SvWEnOZYtlgF"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/7DKTCusn3ob9PhbY3veVgL"
-      },
-      "artists": [
-        {
-          "name": "Meyru",
-          "url": "https://open.spotify.com/artist/4keWylzqUIJiaFfq6Ox0nB"
-        }
-      ],
-      "duration_ms": 244493,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/7N0QvvRIhXZ0bT4uSkH9up"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Postman",
-        "url": "https://open.spotify.com/album/10v03aHQ2qs0gM63rCoEuJ"
-      },
-      "artists": [
-        {
-          "name": "Palmer",
-          "url": "https://open.spotify.com/artist/52VT62cropnSSiAZXtU8ho"
-        }
-      ],
-      "duration_ms": 190742,
-      "name": "Postman",
-      "url": "https://open.spotify.com/track/7tzJ4TXAPfeJznM8XJYqgT"
+      "duration_ms": 178571,
+      "name": "Woman on Fire",
+      "url": "https://open.spotify.com/track/1UVKKR5tN9KfKYng30e1dx"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -121,6 +169,22 @@
       "url": "https://open.spotify.com/track/1ieo5r9DNnIaE4i9622gNq"
     },
     {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Pocket",
+        "url": "https://open.spotify.com/album/7apMWaYl5LtImOrAHGPkEd"
+      },
+      "artists": [
+        {
+          "name": "feeble little horse",
+          "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
+        }
+      ],
+      "duration_ms": 159896,
+      "name": "Pocket",
+      "url": "https://open.spotify.com/track/4reov1NyIRb9nMNLG8pkH5"
+    },
+    {
       "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Teeth",
@@ -135,6 +199,38 @@
       "duration_ms": 226468,
       "name": "Teeth",
       "url": "https://open.spotify.com/track/32ZKfUxISWjSTgeaPldd7l"
+    },
+    {
+      "added_at": "2023-03-23 16:45:13",
+      "album": {
+        "name": "Coming of Age",
+        "url": "https://open.spotify.com/album/16FLaxWATZYpPLEA9siZe6"
+      },
+      "artists": [
+        {
+          "name": "Krooked Kings",
+          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
+        }
+      ],
+      "duration_ms": 216650,
+      "name": "Coming of Age",
+      "url": "https://open.spotify.com/track/3n5teaWGB99IrQwVo1oyCU"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Cigarette",
+        "url": "https://open.spotify.com/album/0Xv7O6PBVUdkdma1Qe5nbK"
+      },
+      "artists": [
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Cigarette",
+      "url": "https://open.spotify.com/track/0mgi4eJrjd0uv0PGIx4MJo"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -169,6 +265,22 @@
       "url": "https://open.spotify.com/track/2vENYDPVrXnCR6wkd3SIzB"
     },
     {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Here",
+        "url": "https://open.spotify.com/album/7DKTCusn3ob9PhbY3veVgL"
+      },
+      "artists": [
+        {
+          "name": "Meyru",
+          "url": "https://open.spotify.com/artist/4keWylzqUIJiaFfq6Ox0nB"
+        }
+      ],
+      "duration_ms": 244493,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/7N0QvvRIhXZ0bT4uSkH9up"
+    },
+    {
       "added_at": "2023-03-24 18:58:38",
       "album": {
         "name": "Dark Corners and Alchemy",
@@ -183,38 +295,6 @@
       "duration_ms": 153915,
       "name": "princes of melancholia",
       "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "Woman on Fire",
-        "url": "https://open.spotify.com/album/3tyDFxumq69ziGnO9DzNRV"
-      },
-      "artists": [
-        {
-          "name": "BEL",
-          "url": "https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6"
-        }
-      ],
-      "duration_ms": 178571,
-      "name": "Woman on Fire",
-      "url": "https://open.spotify.com/track/1UVKKR5tN9KfKYng30e1dx"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Say",
-        "url": "https://open.spotify.com/album/4N9Y8YlXr38guFheXENI49"
-      },
-      "artists": [
-        {
-          "name": "Slow Joy",
-          "url": "https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL"
-        }
-      ],
-      "duration_ms": 152800,
-      "name": "Say",
-      "url": "https://open.spotify.com/track/2GIxKXaeFkLtuIRw6qmfGq"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -263,22 +343,6 @@
       "duration_ms": 185274,
       "name": "When It's Gone",
       "url": "https://open.spotify.com/track/2pm0wq1XPn0stjOG8QJWhY"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "In My Drink",
-        "url": "https://open.spotify.com/album/4FYwHeyAnopGZyBWBUFMJg"
-      },
-      "artists": [
-        {
-          "name": "waveform*",
-          "url": "https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd"
-        }
-      ],
-      "duration_ms": 328706,
-      "name": "In My Drink",
-      "url": "https://open.spotify.com/track/4hfC9vhK3zPAn3qZ7ojv7f"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -361,22 +425,6 @@
       "url": "https://open.spotify.com/track/1ADmIBKMDRcs6Cfj2Xe0XJ"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Cigarette",
-        "url": "https://open.spotify.com/album/0Xv7O6PBVUdkdma1Qe5nbK"
-      },
-      "artists": [
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Cigarette",
-      "url": "https://open.spotify.com/track/0mgi4eJrjd0uv0PGIx4MJo"
-    },
-    {
       "added_at": "2023-04-28 04:01:00",
       "album": {
         "name": "Amoeba",
@@ -439,22 +487,6 @@
       "duration_ms": 122812,
       "name": "Where I Met U",
       "url": "https://open.spotify.com/track/3CAdXjzEKPgNXKvmp8dgRi"
-    },
-    {
-      "added_at": "2023-03-23 16:45:13",
-      "album": {
-        "name": "Coming of Age",
-        "url": "https://open.spotify.com/album/16FLaxWATZYpPLEA9siZe6"
-      },
-      "artists": [
-        {
-          "name": "Krooked Kings",
-          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
-        }
-      ],
-      "duration_ms": 216650,
-      "name": "Coming of Age",
-      "url": "https://open.spotify.com/track/3n5teaWGB99IrQwVo1oyCU"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1339,22 +1371,6 @@
     {
       "added_at": "2023-03-03 16:39:02",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/3i8tDk6FlRAutGZtoKGlUB"
-      },
-      "artists": [
-        {
-          "name": "waveform*",
-          "url": "https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd"
-        }
-      ],
-      "duration_ms": 161973,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/6VVKpaJkY7dc4uGP0pE1KX"
-    },
-    {
-      "added_at": "2023-03-03 16:39:02",
-      "album": {
         "name": "Bath County",
         "url": "https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 267208,
       "name": "Radial",
       "url": "https://open.spotify.com/track/1pO7WwR4PQUS4aCQRxCG4y"
-    },
-    {
-      "added_at": "2023-03-03 16:39:02",
-      "album": {
-        "name": "AWAKE/ASLEEP",
-        "url": "https://open.spotify.com/album/2SM92RVNoh8JWPf4cSc6iy"
-      },
-      "artists": [
-        {
-          "name": "Sl\u00f8tface",
-          "url": "https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Cowboys in the Dark",
-      "url": "https://open.spotify.com/track/4chdbznSgQEiTsmKY1mKLh"
     },
     {
       "added_at": "2022-12-02 05:00:00",

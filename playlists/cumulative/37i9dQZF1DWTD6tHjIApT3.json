@@ -3191,6 +3191,28 @@
     },
     {
       "album": {
+        "name": "FINE LINE",
+        "url": "https://open.spotify.com/album/37XJRNnSBngM8e8Ejp3oQ7"
+      },
+      "artists": [
+        {
+          "name": "\u30d1\u30bd\u30b3\u30f3\u97f3\u697d\u30af\u30e9\u30d6",
+          "url": "https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye"
+        },
+        {
+          "name": "\u9ad9\u6a4b\u82bd\u4ee5",
+          "url": "https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283204,
+      "name": "Day After Day feat. Mei Takahashi",
+      "url": "https://open.spotify.com/track/1fHXLiqPG6su57eAlbnjVO"
+    },
+    {
+      "album": {
         "name": "Day After Day feat. Mei Takahashi",
         "url": "https://open.spotify.com/album/7ridH3ntXiiWfC2jA6uqb3"
       },
@@ -3206,7 +3228,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 283204,
       "name": "Day After Day feat. Mei Takahashi",
       "url": "https://open.spotify.com/track/5b03vF7Qyc70kDJHiQZ8L7"
@@ -10679,6 +10701,24 @@
     },
     {
       "album": {
+        "name": "PRIVATE",
+        "url": "https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208133,
+      "name": "Season",
+      "url": "https://open.spotify.com/track/59ZJXXQ0VeLtBK5EfW0KLJ"
+    },
+    {
+      "album": {
         "name": "Season",
         "url": "https://open.spotify.com/album/0oNra3mg2Pon6DWljxx8WR"
       },
@@ -10690,7 +10730,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 208133,
       "name": "Season",
       "url": "https://open.spotify.com/track/5mIJzqBwYM3SSVuCCCC3gg"

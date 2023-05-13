@@ -4,7 +4,7 @@
 
 > Just some of the many highlights from the <a href="spotify:artist:3PhoLpVuITZKcymswpck5b">Rocket Man</a>'s career.
 
-104 songs - 8 hr 20 min
+105 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Philadelphia Freedom](https://open.spotify.com/track/6kLGxJA0QCVDTIbZDbXgL3) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Captain Fantastic And The Brown Dirt Cowboy \(Deluxe Edition\)](https://open.spotify.com/album/01sJklSgqDgyR7nlhnRcFA) | 5:21 | 2022-08-30 | 2022-11-14 |
 | [Philadelphia Freedom](https://open.spotify.com/track/2hl9ONQ7YGgZGYx0OSHvIq) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Captain Fantastic And The Brown Dirt Cowboy](https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF) | 5:24 | 2021-12-03 |  |
 | [Pinball Wizard](https://open.spotify.com/track/55BxsTlelow3XAE4qA0W6E) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered\)](https://open.spotify.com/album/4wBEBXmZSMUnscian0hgCI) | 5:09 | 2021-12-03 | 2022-07-29 |
-| [Pinball Wizard](https://open.spotify.com/track/7bLVAgQDVEdeGrsPVABVRi) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration / Super Deluxe\)](https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN) | 5:15 | 2021-12-03 |  |
+| [Pinball Wizard](https://open.spotify.com/track/6CJCCb9ookMMDQNz1Rrtii) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 5:09 | 2022-08-30 |  |
+| [Pinball Wizard](https://open.spotify.com/track/7bLVAgQDVEdeGrsPVABVRi) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration / Super Deluxe\)](https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN) | 5:15 | 2021-12-03 | 2023-05-13 |
 | [Rocket Man \(I Think It's Going To Be A Long Long Time\)](https://open.spotify.com/track/2zvot9pY2FNl1E94kc4K8M) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau \(Remastered\)](https://open.spotify.com/album/46g6b33tbttcPtzbwzBoG6) | 4:41 | 2021-12-03 | 2022-07-29 |
 | [Rocket Man \(I Think It's Going To Be A Long Long Time\) \- Remastered](https://open.spotify.com/track/05qss0DVKZr7QneuqX4PLc) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Diamonds \(Deluxe\)](https://open.spotify.com/album/45F4Pmp3EJi3T6qYonm4Ml) | 4:42 | 2022-08-30 | 2022-11-13 |
 | [Rocket Man \(I Think It's Going To Be A Long, Long Time\)](https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 4:41 | 2021-12-03 |  |

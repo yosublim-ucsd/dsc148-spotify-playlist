@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー:  ちゃんみな \(CHANMINA\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,798 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,805 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 13 | [A.K.Y](https://open.spotify.com/track/03GB22WsBDXi7SBTZSrJkD) | [RUMI](https://open.spotify.com/artist/7DCJDPInYy4TPJyQkkxHQO) | [Hell Me NATION](https://open.spotify.com/album/2GMBlIxhihEuAOL0hI2iqB) | 3:58 |
 | 14 | [TOKYO 4AM](https://open.spotify.com/track/6MwtCelqyWWJsNXHSHnPOi) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd) | 3:22 |
 | 15 | [Diary](https://open.spotify.com/track/7M7y82GSc9eqXfXypSVwRi) | [MIRI](https://open.spotify.com/artist/1xfPSDV9Xxi4Yyuru7e6Ln) | [Diary](https://open.spotify.com/album/0FgyjTZP7bYMUgCW6HTfEs) | 3:36 |
-| 16 | [Season](https://open.spotify.com/track/5mIJzqBwYM3SSVuCCCC3gg) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Season](https://open.spotify.com/album/0oNra3mg2Pon6DWljxx8WR) | 3:28 |
+| 16 | [Season](https://open.spotify.com/track/59ZJXXQ0VeLtBK5EfW0KLJ) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O) | 3:28 |
 | 17 | [Keep on \(it's my way\)](https://open.spotify.com/track/3IGU5gXb2uPWGdjF5MslxB) | [COMA\-CHI](https://open.spotify.com/artist/1EGbVC1fE68gQaPrYEyr99), [Uyama Hiroto](https://open.spotify.com/artist/6AE5XsUcbWE2XrQccVVJyd), [Substantial](https://open.spotify.com/artist/5FmThJ74ycmeBdQnu4Cfcw) | [Keep on \(it's my way\)](https://open.spotify.com/album/3YvGSgehItYkYro1k6DhIN) | 3:09 |
 | 18 | [Balenciaga](https://open.spotify.com/track/6aAmkBiFQ3REkhbr0hoJu3) | [AYA A.K.A PANDA](https://open.spotify.com/artist/6H3niqx3EU1Cg14nMe0PhN) | [Blue Ocean](https://open.spotify.com/album/10DhEGQYa2D0RQzzFEVExv) | 3:31 |
 | 19 | [Set Me Free](https://open.spotify.com/track/4i2fHujkCum1QmN85sXC68) | [MARIA](https://open.spotify.com/artist/7tKxdhFrTaqJPI7rBFmIU6) | [Set Me Free](https://open.spotify.com/album/1eN68Rywsekf82Xm36We6n) | 3:21 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 28 | [Make it](https://open.spotify.com/track/4ag0r59uK60LZcxQmYsL2K) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [YUMETARO](https://open.spotify.com/album/0Wtul5hwzfvJFUr4R6vWrw) | 3:40 |
 | 29 | [I'm aラッパー](https://open.spotify.com/track/7g22EjG4pveRIBtFy2mMx8) | [Tsubaki](https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx) | [美咲紫](https://open.spotify.com/album/4LD8HT7igWoMkE0XbvpBXE) | 3:24 |
 | 30 | [Save us?](https://open.spotify.com/track/5NZrLtqoYZNZiRNaUCKAQQ) | [uyuni](https://open.spotify.com/artist/2RKWObN13uSEWLSr866rSn), [Neon Nonthana](https://open.spotify.com/artist/5wMTr5Xt9bqktsgr5UDQKn) | [Sugarless Days](https://open.spotify.com/album/6sRyAcfCpBNa0jSaW8YBQG) | 2:16 |
-| 31 | [friends](https://open.spotify.com/track/0K958nrYqQ94HznXAQ8cWi) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [friends](https://open.spotify.com/album/6fxDSk0nnIRStLtvRRGJl8) | 3:49 |
+| 31 | [friends](https://open.spotify.com/track/4Yo0r2wyWLIOVzAnyJwbIc) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O) | 3:50 |
 | 32 | [Summer Nights \- uma noite de verão \-](https://open.spotify.com/track/0X6iUOn0lSmIv9JoSJejIv) | [Laura Ribeiro](https://open.spotify.com/artist/0VwEJB7l36x6SorcdfcT5a), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Summer Nights \- uma noite de verão \-](https://open.spotify.com/album/20KU4XcWwUO3QlcY79naOJ) | 2:41 |
 | 33 | [Dirty](https://open.spotify.com/track/3WOp4WNo8VclmCPW6frFx1) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj), [Bossman JP](https://open.spotify.com/artist/6CTp0KD5YKBa7rx4nrCxDM) | [Youngin Season 2](https://open.spotify.com/album/6iHakq1HeVPDTvvPInxYOg) | 2:35 |
 | 34 | [DREAM DRIVE](https://open.spotify.com/track/1cRblCUtL5Ng9DelHJXOR8) | [AYA A.K.A PANDA](https://open.spotify.com/artist/6H3niqx3EU1Cg14nMe0PhN) | [Blue Ocean](https://open.spotify.com/album/10DhEGQYa2D0RQzzFEVExv) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [Sour Heart](https://open.spotify.com/track/5mt3zQZrKbAwkeez64zS7j) | [Laura Ribeiro](https://open.spotify.com/artist/0VwEJB7l36x6SorcdfcT5a), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Sour Heart](https://open.spotify.com/album/1omvXKTbAVKPArsEkljrs4) | 3:37 |
 | 50 | [Illegal](https://open.spotify.com/track/698DmNlHSMoRsRu7TljpLX) | [Marukido](https://open.spotify.com/artist/2TGGk4cLMH1vGMAktQBhZT), [Ayu](https://open.spotify.com/artist/7HF7JMvXXQFblGwMUYb8lP), [namichie](https://open.spotify.com/artist/3RtSsC1hY28YyW1UrYbA7V) | [Illegal](https://open.spotify.com/album/5GyV8gh1ptkAUOQHiIEXnd) | 4:08 |
 
-Snapshot ID: `MCw3NjA3NGJhOWY0ZjVmODEzNWMzNTM2YjU1N2UyOTBhYzVhNWQxMGFl`
+Snapshot ID: `MCxhM2MxZjk1YmFlYzZjYzJhM2YzNTAyNWJkMDRjNGI5NGIxNjdhNWYy`

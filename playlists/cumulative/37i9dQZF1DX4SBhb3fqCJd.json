@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The pulse of R&B music today. Cover: Q",
+  "description": "The pulse of R&B music today. Cover: Janelle Mon\u00e1e",
   "name": "Are & Be",
   "tracks": [
     {
@@ -1108,7 +1108,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 220249,
       "name": "Demon Time (with Ari Lennox) - Remix",
       "url": "https://open.spotify.com/track/4It2tsHgHW7gdEDCh0Jfo8"
@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 227520,
       "name": "Do You Like Me?",
       "url": "https://open.spotify.com/track/6phkEy1YzAK1JWZWgwC36v"
@@ -3281,6 +3281,24 @@
     },
     {
       "album": {
+        "name": "Lipstick Lover",
+        "url": "https://open.spotify.com/album/6eg7CJ9fJAeLJ5PGB1Vf7T"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169386,
+      "name": "Lipstick Lover",
+      "url": "https://open.spotify.com/track/6IhkXHtj7tJg5waF4utfX0"
+    },
+    {
+      "album": {
         "name": "Girls Night Out",
         "url": "https://open.spotify.com/album/2GvkwzYNhDZaSyVoj8fxBw"
       },
@@ -4016,6 +4034,28 @@
       "duration_ms": 153226,
       "name": "Pain",
       "url": "https://open.spotify.com/track/51Q4Pn44Ys7D8GCNzVLDmg"
+    },
+    {
+      "album": {
+        "name": "Party Girls (feat. Buju Banton)",
+        "url": "https://open.spotify.com/album/0ixL0K67B2xkOjom88AdXQ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243094,
+      "name": "Party Girls (feat. Buju Banton)",
+      "url": "https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5"
     },
     {
       "album": {
@@ -4766,10 +4806,36 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 226379,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/6F7OCdwLWwJWkNB4qCGDOr"
+    },
+    {
+      "album": {
+        "name": "Slow Dancing (Remix)",
+        "url": "https://open.spotify.com/album/19BXqBoy3CeCMLB4d8GXU1"
+      },
+      "artists": [
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        },
+        {
+          "name": "Kevin Ross",
+          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
+        },
+        {
+          "name": "Kincy",
+          "url": "https://open.spotify.com/artist/1GXcNIFheqCVINLrF8Is53"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213259,
+      "name": "Slow Dancing - Remix",
+      "url": "https://open.spotify.com/track/1n7PH7mid9qAtgrWQY8Ff9"
     },
     {
       "album": {

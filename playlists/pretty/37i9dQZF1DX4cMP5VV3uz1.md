@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,107 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,202 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 21 | [450](https://open.spotify.com/track/1F0ww25lOcWtwTsco1vYWM) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [S Dog](https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38) | [Full Wack No Brakes](https://open.spotify.com/album/52tuSUlxOAQWoRs6AOvCFm) | 3:17 |
 | 22 | [Stan Smith](https://open.spotify.com/track/0nCgsAki7e7I243CUblGxU) | [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0), [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai) | [Stan Smith](https://open.spotify.com/album/2s7f4Qihh5MV7D6lKLPBjB) | 3:55 |
 | 23 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 |
-| 24 | [Forbidden Feelingz](https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW) | 2:46 |
-| 25 | [Higher](https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07) | [Aktive](https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g) | [Higher](https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb) | 3:18 |
+| 24 | [Higher](https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07) | [Aktive](https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g) | [Higher](https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb) | 3:18 |
+| 25 | [Forbidden Feelingz](https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW) | 2:46 |
 | 26 | [Hooked](https://open.spotify.com/track/4v7kKFlEDmpVToHOICsXaM) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Hooked](https://open.spotify.com/album/69QTaXErGkvPW9pQ0GYY4H) | 3:26 |
 | 27 | [Streetside](https://open.spotify.com/track/4HcmKnUwCKsloslonqMzCN) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Streetside](https://open.spotify.com/album/0EOl5Udxu7CxJ5u3XbkRnN) | 3:39 |
 | 28 | [Off The Ground](https://open.spotify.com/track/5UvLQncwvEGiRLn0xEZw45) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Off The Ground](https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h) | 4:02 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 57 | [Pictures In My Head \- High Contrast Remix](https://open.spotify.com/track/4nTWlJcs3S1cxnXTTnWu2n) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Pictures In My Head](https://open.spotify.com/album/2Tz3N0ksvhYiVu6qcgW4wm) | 4:18 |
 | 58 | [Take You Higher](https://open.spotify.com/track/2rnDPE04mBt78lfmp9JNDP) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r) | [Lazers Not Included](https://open.spotify.com/album/5BetJhjCEWc6GFfqSPupUB) | 4:47 |
 | 59 | [Renegade](https://open.spotify.com/track/2QWXmgMXYp1UM3LyHVaAFe) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [Renegade](https://open.spotify.com/album/0HlsaMsBjldN8ilQkkF4G8) | 2:34 |
-| 60 | [Drops \- Kanine Remix](https://open.spotify.com/track/1KyPT1Fno54CmoGYmwi0Ix) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry), [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Drops Remixes](https://open.spotify.com/album/7nomZmjtgRYZzRl5hjHW1Q) | 4:22 |
-| 61 | [Playground](https://open.spotify.com/track/1Rv0Xew7tgajMBfd2XpsHJ) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Playground](https://open.spotify.com/album/7tkXq8OvQW8gBK0zaZkvdP) | 3:52 |
+| 60 | [Playground](https://open.spotify.com/track/1Rv0Xew7tgajMBfd2XpsHJ) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Playground](https://open.spotify.com/album/7tkXq8OvQW8gBK0zaZkvdP) | 3:52 |
+| 61 | [Drops \- Kanine Remix](https://open.spotify.com/track/1KyPT1Fno54CmoGYmwi0Ix) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry), [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Drops Remixes](https://open.spotify.com/album/7nomZmjtgRYZzRl5hjHW1Q) | 4:22 |
 | 62 | [Getting Started \- Chase & Status Remix](https://open.spotify.com/track/7BBDanLPLALnu5asuk14r9) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Getting Started \(Chase & Status Remix\)](https://open.spotify.com/album/5EoFVpPoxG7JSMtd7JATZ1) | 3:10 |
 | 63 | [SPECTACULAR](https://open.spotify.com/track/2KbYcnZQmfwe8RrCMSMwym) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z) | [Problematik](https://open.spotify.com/album/3omXYWmxB50sNFrnOECCuy) | 2:55 |
 | 64 | [Renaissance \(Edit\)](https://open.spotify.com/track/1g4C1BrGd4O1Dt5y0xue96) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Sequence](https://open.spotify.com/album/16JF3pUHH5ltDPOztx5FMX) | 3:29 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 70 | [Freak](https://open.spotify.com/track/1BKOmg5DzDud3mjDvsdGfQ) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Freak](https://open.spotify.com/album/3BFvqaxKz98EXPcznmqpND) | 3:09 |
 | 71 | [Ghost \(feat\. DJ Rae\)](https://open.spotify.com/track/7gh9OOo02MSvBSp3MPeg6E) | [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N), [DJ Rae](https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa) | [Ghost \(feat\. DJ Rae\)](https://open.spotify.com/album/0R7Q4f6wA3u1Zl50wdT3gH) | 2:46 |
 | 72 | [Selecta](https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF) | [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN) | [Selecta](https://open.spotify.com/album/22m0jj6FqVyVpBIW2R4UxF) | 2:49 |
-| 73 | [SWAZZ](https://open.spotify.com/track/243WbqMMhN5ZHrKRwTS84O) | [The Manor](https://open.spotify.com/artist/2ZeAzgQtLfcPmMap31S0dZ) | [SWAZZ](https://open.spotify.com/album/5bWev71fkloo3FzHYlrDRQ) | 3:32 |
-| 74 | [Polarity \- VIP](https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Polarity \(VIP\)](https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN) | 3:22 |
+| 73 | [Polarity \- VIP](https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Polarity \(VIP\)](https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN) | 3:22 |
+| 74 | [SWAZZ](https://open.spotify.com/track/243WbqMMhN5ZHrKRwTS84O) | [The Manor](https://open.spotify.com/artist/2ZeAzgQtLfcPmMap31S0dZ) | [SWAZZ](https://open.spotify.com/album/5bWev71fkloo3FzHYlrDRQ) | 3:32 |
 | 75 | [Remedies](https://open.spotify.com/track/20AgOIjyk2Qd7DLt8lkxvn) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Remedies](https://open.spotify.com/album/2WUzn7UJ7mdiu7hAYQWMYh) | 4:42 |
 
-Snapshot ID: `MCxhMTZhZDc4NzQwNDZlNjBjNGIxZjhmMzJhNTFmMWExZTJlMGNlOWU5`
+Snapshot ID: `MCw1NDY5MmYwMzUxY2I1OGE1MmFhMWM0YjQyMjA0YzRiZTA2MmNjMTJh`

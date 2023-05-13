@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: Drake \ud83e\udd89",
-  "num_followers": 3886,
+  "num_followers": 3936,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTQ4NTViNzE4NDgzNzE4YzQ5NTQ2ZDllZjlmMjY0M2I2Yzg5M2Ez",
+  "snapshot_id": "MCw1ZmI1ZDMxYTI4MTZjN2U4ZTk5ZDJlZTFjNTFlZDQ2ODBmODE3MDM2",
   "tracks": [
     {
       "added_at": "2023-05-08 17:01:50",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-05-08 17:01:50",
       "album": {
-        "name": "HOOD AVANT-GARDE (Deluxe)",
-        "url": "https://open.spotify.com/album/7MP5EdHUb1PxYW5SYv440k"
-      },
-      "artists": [
-        {
-          "name": "Charmaine",
-          "url": "https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT"
-        }
-      ],
-      "duration_ms": 168426,
-      "name": "WOO!",
-      "url": "https://open.spotify.com/track/5vYn0idAvSminM8fdyTB1U"
-    },
-    {
-      "added_at": "2023-05-08 17:01:50",
-      "album": {
         "name": "Mansion",
         "url": "https://open.spotify.com/album/1nwyxrszUQuWwdwgIKw02E"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 166000,
       "name": "Mansion",
       "url": "https://open.spotify.com/track/7yWPBTrbUO3VmIsD6hLhGf"
+    },
+    {
+      "added_at": "2023-05-08 17:01:50",
+      "album": {
+        "name": "HOOD AVANT-GARDE (Deluxe)",
+        "url": "https://open.spotify.com/album/7MP5EdHUb1PxYW5SYv440k"
+      },
+      "artists": [
+        {
+          "name": "Charmaine",
+          "url": "https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT"
+        }
+      ],
+      "duration_ms": 168426,
+      "name": "WOO!",
+      "url": "https://open.spotify.com/track/5vYn0idAvSminM8fdyTB1U"
     },
     {
       "added_at": "2023-05-08 17:01:50",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-05-08 17:01:50",
       "album": {
-        "name": "While You on Road",
-        "url": "https://open.spotify.com/album/3DfkG12XAd1TGx9F5wNMCC"
-      },
-      "artists": [
-        {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
-        }
-      ],
-      "duration_ms": 182535,
-      "name": "While You on Road",
-      "url": "https://open.spotify.com/track/7lUdvbrsHvoUfqBt7JOwkZ"
-    },
-    {
-      "added_at": "2023-05-08 17:01:50",
-      "album": {
         "name": "Dwayne Carter Flow",
         "url": "https://open.spotify.com/album/0DN87LYvjreENZHFUCbk6d"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 130560,
       "name": "Dwayne Carter Flow",
       "url": "https://open.spotify.com/track/570V1YeIjY18g0OgQViBCg"
+    },
+    {
+      "added_at": "2023-05-08 17:01:50",
+      "album": {
+        "name": "While You on Road",
+        "url": "https://open.spotify.com/album/3DfkG12XAd1TGx9F5wNMCC"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        }
+      ],
+      "duration_ms": 182535,
+      "name": "While You on Road",
+      "url": "https://open.spotify.com/track/7lUdvbrsHvoUfqBt7JOwkZ"
     },
     {
       "added_at": "2023-05-08 17:01:50",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2023-05-08 17:01:50",
       "album": {
+        "name": "Added Sugar",
+        "url": "https://open.spotify.com/album/1EqGwkiaYljCmwbpzPO5d6"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Brk Frm Nrml",
+      "url": "https://open.spotify.com/track/4Da8BX0odlupbRhjc4QmED"
+    },
+    {
+      "added_at": "2023-05-08 17:01:50",
+      "album": {
         "name": "NightmareZ",
         "url": "https://open.spotify.com/album/2Penu08dmmkH4PNmevsh4c"
       },
@@ -1271,26 +1291,6 @@
       "duration_ms": 208991,
       "name": "Repeat",
       "url": "https://open.spotify.com/track/3KFef9uMAxT4gyS2fEi9vd"
-    },
-    {
-      "added_at": "2023-05-08 17:01:50",
-      "album": {
-        "name": "Added Sugar",
-        "url": "https://open.spotify.com/album/1EqGwkiaYljCmwbpzPO5d6"
-      },
-      "artists": [
-        {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Brk Frm Nrml",
-      "url": "https://open.spotify.com/track/4Da8BX0odlupbRhjc4QmED"
     },
     {
       "added_at": "2023-05-08 17:01:50",
@@ -1371,30 +1371,18 @@
     {
       "added_at": "2023-05-08 17:01:50",
       "album": {
-        "name": "Northside Jane",
-        "url": "https://open.spotify.com/album/1uph0O7y4ETNY5U7ZgRlEH"
+        "name": "When The Moving Stops",
+        "url": "https://open.spotify.com/album/3NYk6nuDZeY65D7L5jesl8"
       },
       "artists": [
         {
-          "name": "Robin Banks",
-          "url": "https://open.spotify.com/artist/46qgq6hZewSGvjR5kmT3jE"
-        },
-        {
-          "name": "TallupTwinz",
-          "url": "https://open.spotify.com/artist/3hbs1fYfTGWbz623y1U9YL"
-        },
-        {
-          "name": "Burna Bandz",
-          "url": "https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ"
-        },
-        {
-          "name": "Houdini",
-          "url": "https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm"
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
         }
       ],
-      "duration_ms": 267415,
-      "name": "One of Mines",
-      "url": "https://open.spotify.com/track/3qjhYfvWfNC6SgvDfAm9oO"
+      "duration_ms": 208670,
+      "name": "When The Moving Stops",
+      "url": "https://open.spotify.com/track/3iEwa9W9ls7vLbZbe7vgSr"
     },
     {
       "added_at": "2023-05-08 17:01:50",

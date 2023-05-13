@@ -4,7 +4,7 @@
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly!
 
-644 songs - 1 day 10 hr 5 min
+645 songs - 1 day 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Alien \- Topic Remix](https://open.spotify.com/track/20Nj5d5LxOcja9a8JlU6Yi) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Alien \(Topic Remix\)](https://open.spotify.com/album/3M3kO7Um886veK5HKcZj4C) | 2:39 | 2020-11-03\* | 2021-02-19 |
 | [All By Myself](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [All By Myself](https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn) | 2:51 | 2022-10-07 | 2023-01-21 |
 | [All for You](https://open.spotify.com/track/64aNdC3hF7DMptxVnf3LD7) | [Welshy](https://open.spotify.com/artist/2eDmtsJH4pQksx4CNhlSQ6) | [All for You](https://open.spotify.com/album/2AJFUqo6aQDlWOocvMoS6i) | 3:13 | 2021-05-29 | 2021-08-06 |
-| [All I Ever](https://open.spotify.com/track/5g5ImAyBj1AZpRFspFIJWt) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [All I Ever EP](https://open.spotify.com/album/3nRODdh5F8Wn2NDp8qKzXa) | 2:52 | 2023-02-10 |  |
+| [All I Ever](https://open.spotify.com/track/5g5ImAyBj1AZpRFspFIJWt) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [All I Ever EP](https://open.spotify.com/album/3nRODdh5F8Wn2NDp8qKzXa) | 2:52 | 2023-02-10 | 2023-05-13 |
 | [All I Know So Far \- Cedric Gervais Remix](https://open.spotify.com/track/1KgxQycSrUBuRe3OSeVmNC) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [All I Know So Far \(Remixes\)](https://open.spotify.com/album/0X5F9PFQ2VeW0tzvA4Uqb7) | 3:10 | 2021-07-24 | 2021-08-14 |
 | [All I Need \- Franky Wah Remix](https://open.spotify.com/track/7CpaupxOklVFhMWzIVehHT) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg), [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [All I Need \(Franky Wah Remix\)](https://open.spotify.com/album/0IHvUSCIdZeMXNeoFoSIPB) | 3:28 | 2021-01-15 | 2021-02-06 |
 | [All My Friends](https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Real Cultural Shit](https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0) | 4:03 | 2023-02-24 |  |
@@ -381,6 +381,7 @@
 | [Monsters \(feat\. 24kGoldn\)](https://open.spotify.com/track/1sc1LUE0z2kiAFG7ZZlcDZ) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Monsters \(feat\. 24kGoldn\)](https://open.spotify.com/album/1RfuZSVnk7Qs8lajKxkjtK) | 2:54 | 2021-05-29 | 2022-04-23 |
 | [Moon Groove](https://open.spotify.com/track/3adJKRdGrvuuuibXlDc6Sq) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Moon Groove](https://open.spotify.com/album/5jCwhehDfr3wOKkfVynIFd) | 2:49 | 2022-06-17 | 2022-07-30 |
 | [Morning \- Billen Ted Remix](https://open.spotify.com/track/64qOMCzbwD6yrgBYBPJMA3) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Morning \(Billen Ted Remix\)](https://open.spotify.com/album/5N9bzslQhj3XW8Apf7SSLW) | 2:26 | 2021-06-19 | 2021-08-06 |
+| [Mother \- Ellis Remix](https://open.spotify.com/track/6WY22j29zVyVOEsOoqjH26) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [ellis](https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X) | [Mother](https://open.spotify.com/album/0ftKEZoUS64U87KKiQZkMV) | 2:39 | 2023-05-12 |  |
 | [Move \- Edit](https://open.spotify.com/track/30lfF9ncaPUsZ5eWvE7m0i) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Move \(Edit\)](https://open.spotify.com/album/6Yr1YJzQRjBkxLqBmzgvvw) | 3:46 | 2021-08-06 | 2021-09-11 |
 | [Moving All Around \(Jumpin'\) \(feat\. Kim English\)](https://open.spotify.com/track/3rN9iG9QDHFQfBdbym2uel) | [Schak](https://open.spotify.com/artist/7gA8yMxRoBujfmpDLuLPvx), [Kim English](https://open.spotify.com/artist/1Tvhj4mF2pvvAT1InLbRKs) | [Moving All Around \(Jumpin'\) \(feat\. Kim English\)](https://open.spotify.com/album/70r5AZjJ8e1dw4TxqcHae5) | 3:09 | 2022-10-28 | 2023-02-11 |
 | [My People](https://open.spotify.com/track/4DmsB3oMGtEkMLOEniSsoz) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [My People](https://open.spotify.com/album/5jYjKcj3aXqPUTSHgCSP4l) | 4:15 | 2022-10-07 | 2022-12-10 |

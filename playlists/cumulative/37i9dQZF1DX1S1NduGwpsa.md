@@ -4,7 +4,7 @@
 
 > The best jazz new releases\. Cover: Gabi Hartmann
 
-281 songs - 20 hr 30 min
+282 songs - 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,7 +264,8 @@
 | [Victory Dance](https://open.spotify.com/track/65vqkVT78sHmYc3fTB3uQw) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Victory Dance](https://open.spotify.com/album/7CCp7nQx5T7GBtU8TiKtRq) | 4:55 | 2022-07-21 | 2022-10-11 |
 | [Victory Dance](https://open.spotify.com/track/6cQzmvrbnCM1d51XOodmPR) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Victory Dance](https://open.spotify.com/album/7x5W5TIWobdV7SeF6kFtn9) | 4:55 | 2022-06-09 | 2022-07-29 |
 | [Videogame](https://open.spotify.com/track/3wimSiydjydfXFkpzPpzIX) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Elchin Shirinov](https://open.spotify.com/artist/7EhiJAWt6Pal31fc4iyJM2), [Roni Kaspi](https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9) | [Videogame](https://open.spotify.com/album/2SvVWK76JFpxikCtvZVN4L) | 4:14 | 2022-04-14 | 2022-08-19 |
-| [Vuma \(feat\. Thandiswa, Joel Ross\)](https://open.spotify.com/track/7t1XwTEKSzxXawdNah4tzw) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [Vuma \(feat\. Thandiswa, Joel Ross\)](https://open.spotify.com/album/0h4Nddo7ZvobQTY5aXWCGO) | 3:00 | 2023-04-13 |  |
+| [Vuma \(feat\. Thandiswa, Joel Ross\)](https://open.spotify.com/track/6tmaqOSEJHwviZVBeGhHZe) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [The 5th Dimension \(feat\. The HawtPlates\)](https://open.spotify.com/album/2SQPJFfEPeX2wIIHpzFGci) | 3:00 | 2023-05-11 |  |
+| [Vuma \(feat\. Thandiswa, Joel Ross\)](https://open.spotify.com/track/7t1XwTEKSzxXawdNah4tzw) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [Vuma \(feat\. Thandiswa, Joel Ross\)](https://open.spotify.com/album/0h4Nddo7ZvobQTY5aXWCGO) | 3:00 | 2023-04-13 | 2023-05-13 |
 | [Walton St](https://open.spotify.com/track/37vqYc0prYUPrH4sPRWxlV) | [Simon Dufour](https://open.spotify.com/artist/3MJwju3XDhIjxT5t9Tq4aw), [Aaron Day](https://open.spotify.com/artist/7iIKqzMPFhySieiHdJv0zp) | [Walton St](https://open.spotify.com/album/5hxXApzEe9LJOMvoWXtNdW) | 4:54 | 2022-04-14 | 2022-06-03 |
 | [Warm In December](https://open.spotify.com/track/4iZUPqpbdr4cI8OOzlKKqR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Warm In December](https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM) | 2:41 | 2022-11-17 | 2023-03-10 |
 | [Wave of Interest](https://open.spotify.com/track/2gYsdI8oB5mHdtXuB0Sh3u) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph), [André Ceccarelli](https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K) | [Wave of Interest](https://open.spotify.com/album/67R0QsEML7HjIug0FRaNPm) | 3:44 | 2022-04-14 | 2022-07-22 |

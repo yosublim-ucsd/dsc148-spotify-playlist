@@ -4,7 +4,7 @@
 
 > maxime\. makes anti pop
 
-1,371 songs - 2 day 18 hr 7 min
+1,375 songs - 2 day 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Bruiseboy](https://open.spotify.com/track/5DmNUZcVPIWeIlTJaRQSg5) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Bruiseboy](https://open.spotify.com/album/0Tbvzuaxk2sdujIHqOgRdw) | 3:23 | 2020-10-13\* | 2020-11-03 |
 | [Buff Baby](https://open.spotify.com/track/1F1QmI8TMHir9SUFrooq5F) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [tobi lou and the Loop \- EP](https://open.spotify.com/album/1JjGKMycjULPogQw8YnDpS) | 3:35 | 2022-11-30 | 2023-02-15 |
 | [Build Me a Way \- Single Version](https://open.spotify.com/track/123UKU5C3VGi3vrJTwtjQ1) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Build Me a Way](https://open.spotify.com/album/5MR8fKYnll1WuHP148kma4) | 2:21 | 2021-12-03 | 2022-03-01 |
+| [BULLET MAN](https://open.spotify.com/track/1xscJ2dRvxgJhB8V10EqZn) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [BULLET MAN](https://open.spotify.com/album/1B9eLnJh3huaPRziWXWliK) | 2:58 | 2023-05-12 |  |
 | [BULLSEYE](https://open.spotify.com/track/7oNd2pO6PAS8LzLJx4RreF) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [Red Hand Akimbo](https://open.spotify.com/album/4Ax148181LnlFT5LAtNHBk) | 2:42 | 2021-10-07 | 2022-03-01 |
 | [BUMMER!](https://open.spotify.com/track/2kI3DIQk5TZNRhwQxDlAC3) | [POLICE CAR COLLECTIVE](https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2) | [BUMMER!](https://open.spotify.com/album/6GqD7THNXRsasEGuDZ6wpL) | 2:39 | 2023-05-05 |  |
 | [burbank house](https://open.spotify.com/track/3DErMJzUrtfGUjet3xpUml) | [tsubi club](https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3) | [burbank house](https://open.spotify.com/album/4PvJVQQSFCUdEKF1cJrntR) | 1:41 | 2021-11-12 | 2022-11-17 |
@@ -332,6 +333,7 @@
 | [Don't Ask, Don't Tell \(feat\. redveil, Sam Truth & Glen the Saiyan\)](https://open.spotify.com/track/1TpqQGpvD1yZVdzuy4WqW8) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c), [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa), [Glen the Saiyan](https://open.spotify.com/artist/7vHpwq0fPbCFXXEfZ0O135), [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [Impostor Syndrome](https://open.spotify.com/album/074Nlnf3EYwLgop0k5Lay6) | 4:57 | 2022-10-04 | 2023-01-28 |
 | [don't leave](https://open.spotify.com/track/7rVJxAAj8zEHOOGg3t4T0Q) | [sunsetto](https://open.spotify.com/artist/1qirsMPK9gjYaXmGF4eUmL) | [don't leave](https://open.spotify.com/album/3JUkRAqaZemIi1SE3dF1xy) | 2:24 | 2021-08-12 | 2021-10-12 |
 | [Don't Like U](https://open.spotify.com/track/15GwtGQXPJYqGzpiSGygsz) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [Don't Like U](https://open.spotify.com/album/50n8xyx0eXZskyFyv9syTa) | 2:32 | 2022-03-11 | 2022-06-25 |
+| [Don't Make Me Go Wrong](https://open.spotify.com/track/2zIDLsduXFSguKxHgzuq0A) | [Moritz](https://open.spotify.com/artist/67aMKJMVxYIbbVjzfJ5dPZ) | [Don't Make Me Go Wrong](https://open.spotify.com/album/3kSyH8xI2iecmqWLrUQN3T) | 3:19 | 2023-05-12 |  |
 | [DON'T NEED](https://open.spotify.com/track/1ycPZuv3ksWCzHHZYwSxk3) | [FRANK LEONE](https://open.spotify.com/artist/6hyHkgqHkUlJU6QMmzCNMK) | [DON'T \(DELUXE\)](https://open.spotify.com/album/7xIgjmcmcjiJH3YXpfQeqb) | 3:09 | 2021-10-13 | 2021-10-16 |
 | [Don't Walk Away For Time Is Just A Lie](https://open.spotify.com/track/5GC5sMPVnPS39JRILqoM6J) | [KNOWN.](https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot) | [Don't Walk Away For Time Is Just A Lie](https://open.spotify.com/album/5aLD1wlONxxSEC0xQVREGu) | 3:08 | 2021-12-10 | 2022-05-10 |
 | [DONTLEAVEMYSIDE](https://open.spotify.com/track/5dx52a9oh4Vm7XbkqCn7Dq) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [DONTLEAVEMYSIDE](https://open.spotify.com/album/45yxAZGb7qbBFG9mxBrYc5) | 2:06 | 2023-04-14 |  |
@@ -342,6 +344,7 @@
 | [Down the Bottle](https://open.spotify.com/track/0azW93j6ED7Da83IDAtDDn) | [Christian Blue](https://open.spotify.com/artist/1X1R5azJYxs6wdFzEOBoI3) | [Down the Bottle](https://open.spotify.com/album/3P2pczdAyjLZ4vuM1ljaNV) | 2:45 | 2022-06-17 | 2022-08-06 |
 | [Downtime](https://open.spotify.com/track/3S3ZRqYDVvGLQ3jc8EG4iC) | [JAWNZA](https://open.spotify.com/artist/0Vee3k2XwGQQkizW7qLeYD) | [Downtime](https://open.spotify.com/album/1S0kpyuMCbDMHb7BGL2HL6) | 2:37 | 2020-12-10 | 2021-06-16 |
 | [dreamin'](https://open.spotify.com/track/4PlzJVdaRYC9Fg2AqlOxer) | [53 Thieves](https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K) | [dreamin'](https://open.spotify.com/album/4OVHuaHyH9KpFwgbJTdSS1) | 3:27 | 2020-10-13\* | 2021-05-29 |
+| [Dressed For A Funeral](https://open.spotify.com/track/0iHZE9wKvvOXeKRkfbpjMQ) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0), [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj) | [Dressed For A Funeral](https://open.spotify.com/album/6x47JaUUbqIjrxqd2eCd3r) | 2:24 | 2023-05-12 |  |
 | [DRIFTING AWAY](https://open.spotify.com/track/4AmA749nV2056TnXrMe2c1) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [DRIFTING AWAY](https://open.spotify.com/album/2W86LdYpjVIlpjmPZ1LeSb) | 2:29 | 2021-10-02 | 2021-10-14 |
 | [dropout](https://open.spotify.com/track/6BI0Na9AtisZ3PpkPqEeXk) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/5vXLLAWKw01J4GnT3qOcdv) | 3:20 | 2020-10-13\* | 2021-01-23 |
 | [droptopbitch](https://open.spotify.com/track/33PdmlGJwPvo6PEtetTCDg) | [lilspirit](https://open.spotify.com/artist/3VWII9MTZSfIdOXr1DafzL) | [american spirit](https://open.spotify.com/album/7GKhShhea2QLRQKTHzWTsn) | 2:14 | 2020-10-13\* | 2020-11-03 |
@@ -1141,6 +1144,7 @@
 | [SUNDOWN](https://open.spotify.com/track/0ipgd8PPFza3NNmN3Rn2uF) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Loose](https://open.spotify.com/album/50UV94JhFbWhF37n74Jhk3) | 2:05 | 2020-10-13\* | 2020-11-03 |
 | [Sundress](https://open.spotify.com/track/5lMa1A2fWhT9YLI2Qee8RV) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Sundress](https://open.spotify.com/album/1hJZPCJvV6wj34IlmFQa0u) | 3:19 | 2021-10-09 | 2021-10-16 |
 | [Sunlight](https://open.spotify.com/track/5dUw33Ixf3sX87VqrPi2dK) | [McCall](https://open.spotify.com/artist/229NvsczXKwdH0DkPg4uwT) | [Sunlight](https://open.spotify.com/album/3xLqAl2ZClpvrszEepB4dI) | 2:24 | 2023-04-21 |  |
+| [sunset blvd](https://open.spotify.com/track/4RN4a0h7o3Cxv2mJSHxKJ2) | [CLIP](https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl) | [sunset blvd](https://open.spotify.com/album/5Jdnp7iYU4QlKkdMoKn0DR) | 2:12 | 2023-05-12 |  |
 | [Sunset Drive \- A COLORS SHOW](https://open.spotify.com/track/6LAG03Nr7qRvPSdmrPC5JF) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Sunset Drive \- A COLORS SHOW](https://open.spotify.com/album/24tiks2kEOLQV4JcE45h74) | 3:13 | 2022-05-27 | 2022-11-10 |
 | [Sunshine](https://open.spotify.com/track/4hGsRsAMrHHC7dVsskYWFB) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Sunshine](https://open.spotify.com/album/2vHFVIimyFN01OoQmMXqYp) | 3:00 | 2021-08-07 | 2021-10-14 |
 | [Super Bounce](https://open.spotify.com/track/0bdNktKwMzf6d4V5BNK1KN) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [SuperGood](https://open.spotify.com/album/07ElwjWGMXVNlQG4TsVn9H) | 3:38 | 2020-10-13\* | 2021-05-29 |

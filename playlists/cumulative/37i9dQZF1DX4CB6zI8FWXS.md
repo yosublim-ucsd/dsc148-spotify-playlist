@@ -4,7 +4,7 @@
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Janelle Monae
 
-138 songs - 7 hr 26 min
+139 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [poison \- demo](https://open.spotify.com/track/76y9rYVLGK4Ob2qaruXmhC) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [poison \(demo\)](https://open.spotify.com/album/4qIShsDt5DHqK9WxMwWx8Q) | 2:43 | 2023-04-20 | 2023-05-05 |
 | [Pray It Away](https://open.spotify.com/track/06dQ2rcBkq7z3AEZ4jhvc2) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Pray It Away](https://open.spotify.com/album/2PcSkzIHOrVDhnsmVbfKOC) | 2:36 | 2023-03-16 |  |
 | [Riptide](https://open.spotify.com/track/2gZfjMGvp0mwR8bdiv9SBG) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Riptide](https://open.spotify.com/album/2X6hFgJeoj4kOeSRaz731u) | 3:14 | 2023-03-30 |  |
-| [Season](https://open.spotify.com/track/5mIJzqBwYM3SSVuCCCC3gg) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Season](https://open.spotify.com/album/0oNra3mg2Pon6DWljxx8WR) | 3:28 | 2023-04-20 |  |
+| [Season](https://open.spotify.com/track/59ZJXXQ0VeLtBK5EfW0KLJ) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O) | 3:28 | 2023-05-11 |  |
+| [Season](https://open.spotify.com/track/5mIJzqBwYM3SSVuCCCC3gg) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Season](https://open.spotify.com/album/0oNra3mg2Pon6DWljxx8WR) | 3:28 | 2023-04-20 | 2023-05-13 |
 | [See You Again \(Prod\. KM\)](https://open.spotify.com/track/3UBqo3b3Brb61ibj7cflbQ) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [BLUE BLUR](https://open.spotify.com/album/7D0lh15t5tAZZtTgWCJmUg) | 3:07 | 2023-05-04 |  |
 | [SHOOTING STAR](https://open.spotify.com/track/3IelG5zYpWWCZIH4cqWlPV) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SHOOTING STAR](https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS) | 3:23 | 2023-03-16 | 2023-04-21 |
 | [SHOOTING STAR \- BARS REMIXX FEAT\. RICO NASTY](https://open.spotify.com/track/5v3qDpknNxse3vx19aJ6RX) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [JAKOPS](https://open.spotify.com/artist/5Rgh1bKqT34PM9G5kYmlgE) | [SHOOTING STAR REMIXX \(PROD BY JAKOPS\)](https://open.spotify.com/album/7FlCBCFnKH1J5ud88NfjzC) | 3:23 | 2023-04-06 |  |

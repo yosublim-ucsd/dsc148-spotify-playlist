@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlXpl3xXzDI.md) - [plain]
 
 > Lekker rustig aan doen op maandag met deze zachte pop liedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,091 likes - 99 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,092 likes - 99 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlXpl3xXzDI.md) - [plain]
 | 21 | [Old Records \- Acoustic](https://open.spotify.com/track/1bD85vOr7SEKdZiRduesfb) | [Jacqueline Govaert](https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li) | [Old Records](https://open.spotify.com/album/7CmleVCoYlCAF2RHDBorhO) | 3:17 |
 | 22 | [City Of Stars](https://open.spotify.com/track/4izE25w6PfpI4eRmzUmeEH) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [City Of Stars](https://open.spotify.com/album/5THm8pdE44tfMRJ1yiP1qD) | 2:34 |
 | 23 | [Up We Go](https://open.spotify.com/track/3hT4aulcGsGrgeoGU0M5Pj) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Midnight Machines](https://open.spotify.com/album/03Il5mMdE6JpkpHNpmlVeT) | 5:39 |
-| 24 | [Dat heb jij gedaan](https://open.spotify.com/track/4wn7cO2iHlWueXGDd4gH9g) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/1MwiN9zv6V9GWHdVPsR4Q1) | 3:31 |
+| 24 | [Dat Heb Jij Gedaan](https://open.spotify.com/track/3BkP5vYURwcoAkKhzrLVd8) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [22](https://open.spotify.com/album/3E8AMIqWVMZv4kONTo2dxC) | 3:31 |
 | 25 | [Close To You](https://open.spotify.com/track/0ptKXVvF6qrNAjm9HGG0Rw) | [Michael Prins](https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m) | [De Beste Singer Songwriter van Nederland 2](https://open.spotify.com/album/5rWkw0mK0WGSWtZnfKE8DV) | 4:50 |
 | 26 | [Magnetic Fields](https://open.spotify.com/track/0X9LxiGZ1yu8YqR3RGQdQQ) | [The Analogues Sideshow](https://open.spotify.com/artist/2cwQ2aJ650PUpQmq3aT4kO), [The Analogues](https://open.spotify.com/artist/5kGU4SsIURP34e0AraFpQ2) | [Magnetic Fields](https://open.spotify.com/album/5sEAAWAprzf2j6PW8SgXed) | 2:33 |
 | 27 | [So They Say](https://open.spotify.com/track/10RB3ZCBIKde2FAn0ba5wJ) | [Rukhsana Merrise](https://open.spotify.com/artist/51WveHy70ZoLyFjZVgM9bn) | [September Songs](https://open.spotify.com/album/5BAypjSQ8ggV9snAKmHInQ) | 2:56 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlXpl3xXzDI.md) - [plain]
 | 98 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 |
 | 99 | [Faith \- From "Sing" Original Motion Picture Soundtrack](https://open.spotify.com/track/3KuZx7FPNcqXG8YFN5Y0OG) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Faith \(From "Sing" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2vcfCbzB0B72zI8fF5zBEv) | 2:40 |
 
-Snapshot ID: `MCxjNTk5N2VjZjlhMDkxMWQ5OWEyZmVhNzRmMTQ4NDBiNWFkN2NjODY0`
+Snapshot ID: `MCxhYTYwMWY4ZDMxZmM3ZjZmNzkzZjllZjc3YTFhNTA4MzY0MjM1Mjg3`

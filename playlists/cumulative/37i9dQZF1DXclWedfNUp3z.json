@@ -225,6 +225,28 @@
     },
     {
       "album": {
+        "name": "Chicxulub",
+        "url": "https://open.spotify.com/album/0ECX5VMP06pTlNkFAprmsv"
+      },
+      "artists": [
+        {
+          "name": "Uriel VIllalobos Alva",
+          "url": "https://open.spotify.com/artist/7bWtjxmBs2HQH4A4iO8LmA"
+        },
+        {
+          "name": "Uriel Villalobos",
+          "url": "https://open.spotify.com/artist/0xszix5WIkPOTjBrXlJQfu"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214016,
+      "name": "Ac\u014dlmiztli",
+      "url": "https://open.spotify.com/track/6TfMblmD4IEYbUkECvnbho"
+    },
+    {
+      "album": {
         "name": "Kinoe",
         "url": "https://open.spotify.com/album/7289VPvd4QJR0L0W0LenmM"
       },
@@ -450,7 +472,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 243921,
       "name": "Atlantic Diva",
       "url": "https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV"

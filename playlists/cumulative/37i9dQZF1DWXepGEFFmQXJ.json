@@ -1665,6 +1665,24 @@
     },
     {
       "album": {
+        "name": "Eye to eye",
+        "url": "https://open.spotify.com/album/389ddGV4tjSkyukGCV8oqk"
+      },
+      "artists": [
+        {
+          "name": "Mason & Julez",
+          "url": "https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191641,
+      "name": "Eye to eye",
+      "url": "https://open.spotify.com/track/304fXSDwjqmBp9i7XDfYsO"
+    },
+    {
+      "album": {
         "name": "Face In The Crowd",
         "url": "https://open.spotify.com/album/6IRQx9Mm5W4BJdKBG6m7Nh"
       },

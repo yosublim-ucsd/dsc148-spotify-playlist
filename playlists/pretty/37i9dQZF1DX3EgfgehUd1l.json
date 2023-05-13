@@ -1,12 +1,12 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 149016,
+  "num_followers": 149068,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjE0MzdkY2ZlNWVmZjM1ODUwZTRlMjZjZTJiN2E2MGRjYTM0ZTlh",
+  "snapshot_id": "MCxmMWYyMGNjN2RlODM4MjcyNmE4MjgwNDNhNjRjM2JhYjlhMWY3ODkz",
   "tracks": [
     {
       "added_at": "2020-07-08 17:36:08",
@@ -631,22 +631,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Fats Domino Swings",
-        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 119986,
-      "name": "I'm In Love Again",
-      "url": "https://open.spotify.com/track/5Gw6d1Mt428wFoJbSVy94i"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "Pat Boone's Greatest Hits (Reissue)",
         "url": "https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 115200,
       "name": "Sugar Moon - Single Version",
       "url": "https://open.spotify.com/track/6UM5WX0bgEkcv1CzKWyacv"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Fats Domino Swings",
+        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 119986,
+      "name": "I'm In Love Again",
+      "url": "https://open.spotify.com/track/5Gw6d1Mt428wFoJbSVy94i"
     },
     {
       "added_at": "2020-07-08 17:36:08",

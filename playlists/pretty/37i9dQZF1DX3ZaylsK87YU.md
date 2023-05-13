@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,078 likes - 100 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,268 likes - 100 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 32 | [Fall Afresh](https://open.spotify.com/track/42TAP4olyZONFmNT48O10D) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [The Loft Sessions](https://open.spotify.com/album/4gpwBS3FpUuSPfrV8D9Bqr) | 4:24 |
 | 33 | [Grace Alone](https://open.spotify.com/track/5ufigJk0mtxqgWUsQ0PzwS) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [Becoming Who We Are](https://open.spotify.com/album/6BPm1T672Bd3SR0PnyLRif) | 3:38 |
 | 34 | [Just Be](https://open.spotify.com/track/65O1Ry1edYOixyVOCXXY7R) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Just Be](https://open.spotify.com/album/3HHaO3Bpaf6UEt225M55Us) | 4:33 |
-| 35 | [Come Thou Fount Of Every Blessing](https://open.spotify.com/track/0f9U92JG3vu8BH3PTvxySR) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [Peace Like A River: The Hymns Project](https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE) | 3:44 |
-| 36 | [Nothing I Hold on to \(Live\)](https://open.spotify.com/track/2orHAZyBJH5rbojtwPsztm) | [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP), [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Live at the Banks House](https://open.spotify.com/album/06BotF7CerCXpcm5Km2uX7) | 6:16 |
+| 35 | [Nothing I Hold on to \(Live\)](https://open.spotify.com/track/2orHAZyBJH5rbojtwPsztm) | [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP), [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Live at the Banks House](https://open.spotify.com/album/06BotF7CerCXpcm5Km2uX7) | 6:16 |
+| 36 | [Come Thou Fount Of Every Blessing](https://open.spotify.com/track/0f9U92JG3vu8BH3PTvxySR) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [Peace Like A River: The Hymns Project](https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE) | 3:44 |
 | 37 | [Oceans \(Where Feet May FaiI\)](https://open.spotify.com/track/18q8W11QNDEfhYIxwypTQK) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Campfire II: Simplicity](https://open.spotify.com/album/6M534LEjzYqHmV0afXaHZm) | 4:43 |
 | 38 | [Heart of Worship](https://open.spotify.com/track/1ZeRu0bj5lCsD0Vh8hpM6I) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 9](https://open.spotify.com/album/3aeBnj6TtXewcHW50wUwP1) | 5:06 |
 | 39 | [He Will Hold Me Fast](https://open.spotify.com/track/1Mp90z16Mneiqthtf7fOf9) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 1](https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF) | 4:42 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 62 | [Shepherd of My Soul](https://open.spotify.com/track/5JNhtYiyGpQQ6pDFtfpLLz) | [Rivers & Robots](https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4) | [All Things New](https://open.spotify.com/album/3jXUhc7v2rGvSJss6cxt6a) | 5:46 |
 | 63 | [It Is Well With My Soul](https://open.spotify.com/track/3VBqIpJOTtauueKPLl20wn) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [Peace Like A River: The Hymns Project](https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE) | 4:39 |
 | 64 | [The House Of God, Forever](https://open.spotify.com/track/11DoHAnnLO1kK2FTyzs5Uv) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq) | [Limbs & Branches](https://open.spotify.com/album/6i971rX8SB9Ad5IcpDRysI) | 4:43 |
-| 65 | [Hidden \(Live\) \[feat\. Will Reagan\]](https://open.spotify.com/track/3ChZ1DsvihNTayyK6BbfEC) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo), [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP) | [Simple Gospel \(Live\)](https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp) | 6:34 |
-| 66 | [Far Kingdom](https://open.spotify.com/track/0FqK5zRZm46125vbLR7K6v) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Fire and Stone](https://open.spotify.com/album/5bbM7zS6XnUD0bGWve3QpT) | 4:24 |
+| 65 | [Far Kingdom](https://open.spotify.com/track/0FqK5zRZm46125vbLR7K6v) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Fire and Stone](https://open.spotify.com/album/5bbM7zS6XnUD0bGWve3QpT) | 4:24 |
+| 66 | [Hidden \(Live\) \[feat\. Will Reagan\]](https://open.spotify.com/track/3ChZ1DsvihNTayyK6BbfEC) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo), [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP) | [Simple Gospel \(Live\)](https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp) | 6:34 |
 | 67 | [Do it Again \(Acoustic\)](https://open.spotify.com/track/562a45H0hU2BkFcT0KDbse) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 4:33 |
 | 68 | [Take Courage \- Live](https://open.spotify.com/track/6fiARGC2wsBpuOech1FAun) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Starlight \(Live\)](https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh) | 6:18 |
 | 69 | [Nothing but the Blood of Jesus](https://open.spotify.com/track/7tNCnbltD6bemXgTuh8JPk) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [Yours Alone](https://open.spotify.com/album/421AXhO4np8qzhiQ7hTDBI) | 3:27 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 71 | [Give Me Jesus](https://open.spotify.com/track/0RsaQMxAuonHIVM7pjQm6S) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 1](https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF) | 4:42 |
 | 72 | [Satisfied in You \(Psalm 42\)](https://open.spotify.com/track/0ML25KciIhm4UgAVKrDjAo) | [The Sing Team](https://open.spotify.com/artist/1laNwx3Sgr12cbdw3UTROn) | [Oh! Great Is Our God! \- EP](https://open.spotify.com/album/6Qwaa0eRLxUUOgZbopMY41) | 5:50 |
 | 73 | [Counting Every Blessing](https://open.spotify.com/track/7ewrtrIaGOiKh3G0zD5egG) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Counting Every Blessing](https://open.spotify.com/album/77bSJkD7soqec8JBlCV4Xq) | 5:02 |
-| 74 | [Doxology](https://open.spotify.com/track/475fggJIgGaM2dgjZrsPnL) | [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Where His Light Was](https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW) | 0:42 |
-| 75 | [Be Thou My Vision](https://open.spotify.com/track/4TALuYddLLmJDM14GkhSmG) | [Norton Hall Band](https://open.spotify.com/artist/7lYCHQLcDqNrJjIgKAEkje) | [Be Thou My Vision](https://open.spotify.com/album/27ZlsmMgJgbtLM7XzQQXKv) | 3:51 |
+| 74 | [Be Thou My Vision](https://open.spotify.com/track/4TALuYddLLmJDM14GkhSmG) | [Norton Hall Band](https://open.spotify.com/artist/7lYCHQLcDqNrJjIgKAEkje) | [Be Thou My Vision](https://open.spotify.com/album/27ZlsmMgJgbtLM7XzQQXKv) | 3:51 |
+| 75 | [Doxology](https://open.spotify.com/track/475fggJIgGaM2dgjZrsPnL) | [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Where His Light Was](https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW) | 0:42 |
 | 76 | [Blessed Assurance](https://open.spotify.com/track/41iTybeZlSGdEKUaEYz8Ye) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Only King Forever](https://open.spotify.com/album/6ojPMWx8YMfdd2idb8rM9h) | 7:18 |
 | 77 | [Head to the Heart \(Live\)](https://open.spotify.com/track/53LcankShhZrR40AedT26x) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Simple Gospel \(Live\)](https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp) | 5:20 |
 | 78 | [Time](https://open.spotify.com/track/7A0KE0lgddnjGIOry9AjOT) | [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [Promised Land](https://open.spotify.com/album/2N7sEVVS3jKMJJuJi4v0UF) | 5:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 99 | [Come Thou Fount](https://open.spotify.com/track/3VzWiZtaS7Z6rLj290J3Fh) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Good to Me](https://open.spotify.com/album/5xREj9Thco8YJ83fCEomhV) | 4:00 |
 | 100 | [Were You There](https://open.spotify.com/track/59NpCm0lOMObumSe0soohI) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Two Coasts for Comfort](https://open.spotify.com/album/2DwXkxKGEMsebxJbrtzYUi) | 3:25 |
 
-Snapshot ID: `MCxjNTQzNWEyN2E0OTc3NzEyYjdmYjU2ZDVjOGI1YmEzN2FlM2E5ZmJi`
+Snapshot ID: `MCw5ODhiMzYyNjJkYjhmZTFiZGM5ODU2MmUxODQ5Njk1MTIxZjlkYTgy`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "AJR along with the top alternative songs of today!",
+  "description": "Lovejoy along with the top alternative songs of today!",
   "name": "ALT NOW",
   "tracks": [
     {
@@ -178,7 +178,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 203502,
       "name": "adios",
       "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
@@ -316,7 +316,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 174258,
       "name": "Always Get This Way",
       "url": "https://open.spotify.com/track/1RKP6D6QvUStrPP5TvPnXA"
@@ -370,7 +370,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 232320,
       "name": "Angelica",
       "url": "https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC"
@@ -824,10 +824,28 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 226960,
       "name": "Call Me What You Like",
       "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
+    },
+    {
+      "album": {
+        "name": "Wake Up & It's Over",
+        "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226960,
+      "name": "Call Me What You Like",
+      "url": "https://open.spotify.com/track/2QF8FbGBTXTzm0CRUWqndE"
     },
     {
       "album": {
@@ -1875,6 +1893,24 @@
     },
     {
       "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/50SocXtryJeL2lfhNhDq2B"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170523,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/0woKDRMZzsFWeHppNQnGlS"
+    },
+    {
+      "album": {
         "name": "Good News",
         "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
       },
@@ -2120,7 +2156,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
@@ -2835,6 +2871,24 @@
     },
     {
       "album": {
+        "name": "Love Letter",
+        "url": "https://open.spotify.com/album/3w1dvrYzb7K4yRGjpULCPo"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158028,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/3wIMmFNL5hdqUBpAO0Ogpu"
+    },
+    {
+      "album": {
         "name": "Love Will Get You There",
         "url": "https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq"
       },
@@ -2864,7 +2918,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 250653,
       "name": "Love Will Get You There",
       "url": "https://open.spotify.com/track/4ycaDB5s90BpUyaS5nZwcI"
@@ -3453,6 +3507,24 @@
     },
     {
       "album": {
+        "name": "Nosebleeds",
+        "url": "https://open.spotify.com/album/1OgH6tYqGQ2K7dTFzA0TcN"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183360,
+      "name": "Nosebleeds",
+      "url": "https://open.spotify.com/track/1jjthaUpATAKHlCY4T5Kj2"
+    },
+    {
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -3582,6 +3654,24 @@
       "duration_ms": 261001,
       "name": "On My Knees",
       "url": "https://open.spotify.com/track/2ouFrmMwYik8nQX2n9SeZu"
+    },
+    {
+      "album": {
+        "name": "One That Got Away",
+        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232266,
+      "name": "One That Got Away",
+      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
     },
     {
       "album": {
@@ -3798,7 +3888,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 248928,
       "name": "Peppers (feat. Tommy Genesis)",
       "url": "https://open.spotify.com/track/2Rlso2ZNV0PaWwUYeeBYxx"
@@ -4857,7 +4947,7 @@
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 226250,
+      "duration_ms": 225946,
       "name": "The Dumb Song",
       "url": "https://open.spotify.com/track/5udkv8BEG1sAN5ZtR6CAzv"
     },
@@ -4964,7 +5054,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 247067,
       "name": "THE LONELIEST",
       "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"

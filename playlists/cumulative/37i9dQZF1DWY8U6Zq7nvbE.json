@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Accidentally In Love",
+        "url": "https://open.spotify.com/album/7BAXSSzHQB2XCWU3vry7dQ"
+      },
+      "artists": [
+        {
+          "name": "City Sessions",
+          "url": "https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168922,
+      "name": "Accidentally In Love",
+      "url": "https://open.spotify.com/track/30vbL0UiPR2NeiiKKk9L9E"
+    },
+    {
+      "album": {
         "name": "After the Tears Dry (Acoustic)",
         "url": "https://open.spotify.com/album/4GPmnoEBdgig59gYF1P0Jw"
       },
@@ -1393,6 +1411,28 @@
     },
     {
       "album": {
+        "name": "Chemical (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4d0UWzv4xGl0N99LcUwuyu"
+      },
+      "artists": [
+        {
+          "name": "Landon Austin",
+          "url": "https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52"
+        },
+        {
+          "name": "Aubrey Toone",
+          "url": "https://open.spotify.com/artist/61R2K577GF9XaGmrzJIebF"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178781,
+      "name": "Chemical (Acoustic Version)",
+      "url": "https://open.spotify.com/track/2rqA8tWCkE0GCnMx9OHCXJ"
+    },
+    {
+      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/0gEywDBtvFbB5dqpwTOK6r"
       },
@@ -1596,6 +1636,24 @@
       "duration_ms": 170904,
       "name": "Crying My Eyes Out - Acoustic",
       "url": "https://open.spotify.com/track/73ez4MUeIzT35JfhYoPYxZ"
+    },
+    {
+      "album": {
+        "name": "Cupid",
+        "url": "https://open.spotify.com/album/1xi4Bu9O23yCLn0DR1mi0E"
+      },
+      "artists": [
+        {
+          "name": "seaiiana",
+          "url": "https://open.spotify.com/artist/52J51akbnGAyHpqRDL0Zps"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181111,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/0HW5NpqReqUh6EsPaRTUav"
     },
     {
       "album": {
@@ -1932,6 +1990,24 @@
       "duration_ms": 210456,
       "name": "Empty love",
       "url": "https://open.spotify.com/track/2cBR3mLD9GnhyMSydDz6Go"
+    },
+    {
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/3ZSjHPyJ3NnbtH271F2kWe"
+      },
+      "artists": [
+        {
+          "name": "Theresa Chase",
+          "url": "https://open.spotify.com/artist/1FxU7Hz4HvvknicyJDeG9P"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203603,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/1MFZQ3L9XixU9Hi3XLXeRl"
     },
     {
       "album": {
@@ -3221,6 +3297,24 @@
     },
     {
       "album": {
+        "name": "If We Ever Broke Up",
+        "url": "https://open.spotify.com/album/17eugw7y0jcABlG8x6EDEa"
+      },
+      "artists": [
+        {
+          "name": "New Years Project",
+          "url": "https://open.spotify.com/artist/2GY2ioDVVpd3NwPwevr5Bu"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141924,
+      "name": "If We Ever Broke Up",
+      "url": "https://open.spotify.com/track/5krUQJ8Luu2P44Qpqaa33S"
+    },
+    {
+      "album": {
         "name": "If You Knew Better",
         "url": "https://open.spotify.com/album/3nW8vls0RsII5CHzvfzhWI"
       },
@@ -3616,6 +3710,24 @@
       "duration_ms": 137195,
       "name": "La La Land - Acoustic",
       "url": "https://open.spotify.com/track/1sMi8ywnrNKysixM34zH9W"
+    },
+    {
+      "album": {
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/4rVEM2O5IsozLPU2u86TR3"
+      },
+      "artists": [
+        {
+          "name": "IOLITE",
+          "url": "https://open.spotify.com/artist/0q7Qi8uhdkTZL369raJ4NF"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187409,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/1dHa5Z7tEurFuZUaySS749"
     },
     {
       "album": {
@@ -4494,7 +4606,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 238431,
       "name": "No Tears Left To Cry",
       "url": "https://open.spotify.com/track/4J4JYXUaYLxtKstFyABT5J"
@@ -5529,6 +5641,24 @@
     },
     {
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/1E8YY35FSQpnw8fgpDOCq6"
+      },
+      "artists": [
+        {
+          "name": "Jack Vallier",
+          "url": "https://open.spotify.com/artist/2wnHlwpI5kZaXQRGq21UNN"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/2IfYpa1MOT2tuvgH4i0gBr"
+    },
+    {
+      "album": {
         "name": "South of the Border (feat. Camila Cabello) [Acoustic]",
         "url": "https://open.spotify.com/album/1NXzlVvFqPATxSheVsEVZT"
       },
@@ -5732,6 +5862,46 @@
       "duration_ms": 201990,
       "name": "Stupid Love - Acoustic Cover",
       "url": "https://open.spotify.com/track/67UOPTeZfrUENW7MA5F3e6"
+    },
+    {
+      "album": {
+        "name": "Sunroof (Acoustic)",
+        "url": "https://open.spotify.com/album/6M78VAGEkFKdVk2qm4ZQLB"
+      },
+      "artists": [
+        {
+          "name": "Ben Woodward",
+          "url": "https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137926,
+      "name": "Sunroof (Acoustic)",
+      "url": "https://open.spotify.com/track/58LmLQjGilHJqLLas40c3x"
+    },
+    {
+      "album": {
+        "name": "Sure Thing",
+        "url": "https://open.spotify.com/album/4gEJtympDfHPCd0I1Aft8c"
+      },
+      "artists": [
+        {
+          "name": "since always",
+          "url": "https://open.spotify.com/artist/0Yht4tZIX0zd3RSrvDaZuV"
+        },
+        {
+          "name": "Cheyenne Mitchell",
+          "url": "https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239178,
+      "name": "Sure Thing",
+      "url": "https://open.spotify.com/track/0b8ZH4B3FM4HHDabjfZFTL"
     },
     {
       "album": {
@@ -5956,6 +6126,24 @@
       "duration_ms": 166562,
       "name": "Thinking About You - Acoustic",
       "url": "https://open.spotify.com/track/2enZ8B1qf9OFIIMqP1ZBg1"
+    },
+    {
+      "album": {
+        "name": "Those Eyes",
+        "url": "https://open.spotify.com/album/4puw9Hf1Unj7Kasb1ZAxso"
+      },
+      "artists": [
+        {
+          "name": "Mia Rainn",
+          "url": "https://open.spotify.com/artist/63EpmRhZSeqagTpfNFzmxP"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164228,
+      "name": "Those Eyes",
+      "url": "https://open.spotify.com/track/4HyBPhQQodPLaf5solOIDN"
     },
     {
       "album": {

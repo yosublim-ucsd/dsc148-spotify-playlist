@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLuQOEJ7Qn4.md) - [plain]
 
 > when bass music was life
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,431 likes - 57 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,450 likes - 57 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLuQOEJ7Qn4.md) - [plain]
 | 4 | [Tap Ho](https://open.spotify.com/track/28GuES6B6nq33i7GcU3IhU) | [TC](https://open.spotify.com/artist/6b1Reb7bhjdXtkR7wUYW61) | [Tap Ho / Don't Play](https://open.spotify.com/album/60VDmIBeYmGlLP2VocOdiD) | 4:35 |
 | 5 | [Promises \- Skrillex & Nero Remix](https://open.spotify.com/track/7569Hbv0FUS7vjkdGvdgeZ) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:28 |
 | 6 | [Katy on a Mission](https://open.spotify.com/track/47uhrF6IvyE2eUyyfLAEzf) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [On A Mission](https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV) | 3:39 |
-| 7 | [Bass Cannon](https://open.spotify.com/track/4u3a1nylBxY8siO7Os4t22) | [Flux Pavillion](https://open.spotify.com/artist/0z9vD9DKvwTGRPEQ4JZID7) | [Bass Cannon](https://open.spotify.com/album/2cmBRFSeVDZVTSPyQG9AoF) | 5:09 |
+| 7 | [Bass Cannon](https://open.spotify.com/track/4u3a1nylBxY8siO7Os4t22) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Bass Cannon](https://open.spotify.com/album/2cmBRFSeVDZVTSPyQG9AoF) | 5:09 |
 | 8 | [Sweet Shop](https://open.spotify.com/track/295nnPutAyvfXpVsfwJbga) | [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ) | [Sweet Shop / Gargoyle](https://open.spotify.com/album/0h4Tv7D0UWZzVtDPytqPvq) | 4:35 |
 | 9 | [Innocence](https://open.spotify.com/track/31BPnapcrlqpPxMx2GRabp) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 5:08 |
 | 10 | [Cockney Thug](https://open.spotify.com/track/5hHSZZuCCuBlY5eZoNubHq) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [Babylon, Vol\. 1](https://open.spotify.com/album/2CNQ67P0mbL0ZECsESspO3) | 4:06 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLuQOEJ7Qn4.md) - [plain]
 | 56 | [Source 16](https://open.spotify.com/track/73qzJNohM4C0h02kWMe21B) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Source 16](https://open.spotify.com/album/5rvNcDCoS3esebzx8crgZ6) | 3:20 |
 | 57 | [Bopha \(feat\. DJ Maphorisa, Madumane & Young Stunna\)](https://open.spotify.com/track/3ODhKM44KPGGaHSXLCgMuk) | [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Felo Le Tee](https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd), [Young Stunna](https://open.spotify.com/artist/7C9Em0Ta3Fw470hEF0LVrI) | [Bopha \(feat\. DJ Maphorisa, Madumane & Young Stunna\)](https://open.spotify.com/album/6lm0XXJ7My7n0j8tMiWogR) | 8:00 |
 
-Snapshot ID: `MCw1MDQ3NjQ4ZWQ1NzQzNThjZWIyNjU2ZTk4ZWUyOGJiZmYyNzhmMTdh`
+Snapshot ID: `MCwxMTE0Yjg2YjY5ZmQyNjg0OWYzYTEyYjMyOGJlNDI0ZWJkMzJiNzhi`

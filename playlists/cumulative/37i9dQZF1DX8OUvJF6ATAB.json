@@ -1284,6 +1284,24 @@
     {
       "album": {
         "name": "The Disintegration Loops (Remastered)",
+        "url": "https://open.spotify.com/album/5fmPy3XmYD0BJKEr86a3Cu"
+      },
+      "artists": [
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 650213,
+      "name": "dlp 2.1",
+      "url": "https://open.spotify.com/track/0cXp19NraVBtCGmEkrK7rZ"
+    },
+    {
+      "album": {
+        "name": "The Disintegration Loops (Remastered)",
         "url": "https://open.spotify.com/album/05k7MPh6UZ71omu4O8Kq6A"
       },
       "artists": [
@@ -4674,7 +4692,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 231494,
       "name": "The Cage",
       "url": "https://open.spotify.com/track/5PhKqxHWmlpygmNOIQuAL7"

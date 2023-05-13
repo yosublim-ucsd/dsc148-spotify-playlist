@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 57916,
+  "num_followers": 57946,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDZhYTU5NjRjMTlmNGJhZmQxMDRkYmZkNDI2Y2U0YzFkZWE3ZTU3",
+  "snapshot_id": "MCxiY2RmZjJlMjE2OGUwZjlkZTFiOThmMDY1MmM0YjY5NmRlZGZhYTdm",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -91,22 +91,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Lille Vals",
-        "url": "https://open.spotify.com/album/04zfihfCFBkSpPUUzsDr5x"
-      },
-      "artists": [
-        {
-          "name": "Storken",
-          "url": "https://open.spotify.com/artist/2o1hHXIXOjhZpIY7V49HNi"
-        }
-      ],
-      "duration_ms": 235176,
-      "name": "Lille Vals",
-      "url": "https://open.spotify.com/track/6aBqWnfEdFIolhzPwp1XuQ"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Modern Romance",
         "url": "https://open.spotify.com/album/5JPxDmfJuWSErtOyRTeYuz"
       },
@@ -127,6 +111,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Lille Vals",
+        "url": "https://open.spotify.com/album/04zfihfCFBkSpPUUzsDr5x"
+      },
+      "artists": [
+        {
+          "name": "Storken",
+          "url": "https://open.spotify.com/artist/2o1hHXIXOjhZpIY7V49HNi"
+        }
+      ],
+      "duration_ms": 235176,
+      "name": "Lille Vals",
+      "url": "https://open.spotify.com/track/6aBqWnfEdFIolhzPwp1XuQ"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Place And Time",
         "url": "https://open.spotify.com/album/6FbKm2ygSB2fq7Hl51RsaW"
       },
@@ -143,22 +143,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "The Thrill",
-        "url": "https://open.spotify.com/album/1zMy9u9Ipqzixz5U5exg7V"
-      },
-      "artists": [
-        {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
-        }
-      ],
-      "duration_ms": 170880,
-      "name": "The Thrill",
-      "url": "https://open.spotify.com/track/6pKeuJDicz6NTYxXLOyxQG"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "ANIITIME003",
         "url": "https://open.spotify.com/album/0IyewGxlMjmqospjHdtgqQ"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 444150,
       "name": "Silver Machine",
       "url": "https://open.spotify.com/track/1IkEPx8HUsUKwrjlYVZVrp"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "The Thrill",
+        "url": "https://open.spotify.com/album/1zMy9u9Ipqzixz5U5exg7V"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        }
+      ],
+      "duration_ms": 170880,
+      "name": "The Thrill",
+      "url": "https://open.spotify.com/track/6pKeuJDicz6NTYxXLOyxQG"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -699,6 +699,26 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Faccia a faccia (Remixes)",
+        "url": "https://open.spotify.com/album/6Xc0OSTyNIXRYKtE2uk9g7"
+      },
+      "artists": [
+        {
+          "name": "Alex Rossi",
+          "url": "https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU"
+        },
+        {
+          "name": "Italoconnection",
+          "url": "https://open.spotify.com/artist/2H89jjAoarp9VqMxT8W0et"
+        }
+      ],
+      "duration_ms": 227019,
+      "name": "Faccia a faccia - Italoconnection Remix Radio",
+      "url": "https://open.spotify.com/track/3UyM4nviJQhxibP1O1f5FD"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Sununguka (feat. Zeke Manyika)",
         "url": "https://open.spotify.com/album/76Lws0FxWfj2TRHvpvGf98"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 444514,
       "name": "Sununguka (feat. Zeke Manyika) - Alan Dixon Italo Mix",
       "url": "https://open.spotify.com/track/7Iwv3WVOhjCpv9zGcnTFzz"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Faccia a faccia (Remixes)",
-        "url": "https://open.spotify.com/album/6Xc0OSTyNIXRYKtE2uk9g7"
-      },
-      "artists": [
-        {
-          "name": "Alex Rossi",
-          "url": "https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU"
-        },
-        {
-          "name": "Italoconnection",
-          "url": "https://open.spotify.com/artist/2H89jjAoarp9VqMxT8W0et"
-        }
-      ],
-      "duration_ms": 227019,
-      "name": "Faccia a faccia - Italoconnection Remix Radio",
-      "url": "https://open.spotify.com/track/3UyM4nviJQhxibP1O1f5FD"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -799,22 +799,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Fantasia",
-        "url": "https://open.spotify.com/album/73Sxdnv58oHDo0CZrz2qFM"
-      },
-      "artists": [
-        {
-          "name": "Fort Romeau",
-          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
-        }
-      ],
-      "duration_ms": 393973,
-      "name": "Fantasia",
-      "url": "https://open.spotify.com/track/6M8Gz02PaKjl4ZNuQMcxKW"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Never Let You Go (Skream Remix)",
         "url": "https://open.spotify.com/album/2EcZfAmLrfH8UrVJeh2fxi"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 220451,
       "name": "Never Let You Go - Skream Remix (Edit)",
       "url": "https://open.spotify.com/track/4XP3da5XVRN1eoTK91L4T8"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/73Sxdnv58oHDo0CZrz2qFM"
+      },
+      "artists": [
+        {
+          "name": "Fort Romeau",
+          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
+        }
+      ],
+      "duration_ms": 393973,
+      "name": "Fantasia",
+      "url": "https://open.spotify.com/track/6M8Gz02PaKjl4ZNuQMcxKW"
     }
   ],
   "unique_name": "Laser Disco",

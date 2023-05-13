@@ -4,7 +4,7 @@
 
 > eclectic ethereal feeling\. cover: Ethel Cain
 
-508 songs - 1 day 7 hr 39 min
+509 songs - 1 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Blue Atlanta](https://open.spotify.com/track/6BHPw2MZMosf3eEaFiwl4z) | [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [Blue Atlanta](https://open.spotify.com/album/3sNsCFbYYDe2te2R8xRrAE) | 3:20 | 2022-06-03 | 2022-07-27 |
 | [Blue Scar](https://open.spotify.com/track/3CoPLABVgb0FrcAFrJaDB1) | [ELSZ](https://open.spotify.com/artist/2Hnjczmfb1eNOmoaa5xx5g) | [Blue Scar](https://open.spotify.com/album/3P8b7USUTcmuMv5TECUwqE) | 3:52 | 2022-06-03 | 2022-07-23 |
 | [Blue Velvet](https://open.spotify.com/track/4Y29PazSrgl6f7etf0b4rg) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/3shKIYIXSdDc2yXETvrGPK) | 4:36 | 2022-06-03 | 2022-07-26 |
+| [Blvd\. Nights](https://open.spotify.com/track/7xDAU9IAMyWjl7ia3hRxs7) | [Team Sleep](https://open.spotify.com/artist/6CwDvApcRshxhEVMP30Sq7) | [Team Sleep \(U.S\. Release\)](https://open.spotify.com/album/7BORauiIbjPkOVRzSq38DP) | 3:08 | 2023-05-12 |  |
 | [Body](https://open.spotify.com/track/45jFhmLaKBWOT0lvFsezaC) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Body](https://open.spotify.com/album/0MKbgbnqz8YcDCl4uvSSWk) | 3:30 | 2022-05-20 | 2022-07-29 |
 | [Born Yesterday](https://open.spotify.com/track/0M6kxde1FdGI95X0XPuru6) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Born Yesterday](https://open.spotify.com/album/7mjYTOjmcH4UHnCdct2xZi) | 3:18 | 2021-10-08 | 2022-04-21 |
 | [Bound](https://open.spotify.com/track/0CsLshwxsSHYq3m6gLw3Uo) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Letter Blue](https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF) | 3:40 | 2022-10-28 |  |
@@ -82,7 +83,7 @@
 | [Butterfly](https://open.spotify.com/track/01dQHUYz6EerSF6JQDolCC) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Art Angels](https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3) | 4:12 | 2021-10-08 | 2022-05-14 |
 | [Butterfly Net](https://open.spotify.com/track/3JYayrgDyMYVrpMdcn5HxF) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 4:36 | 2023-02-17 | 2023-05-02 |
 | [Bystanders \(in space\)](https://open.spotify.com/track/0OUCDV4CjuCULrXar3KbAf) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Bystanders \(in space\)](https://open.spotify.com/album/1fB3W1t6xcfojQHzUF42uu) | 4:30 | 2021-11-12 | 2022-04-22 |
-| [Call For Help](https://open.spotify.com/track/3l5qctI4FqhfjIZzs06cbk) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Call For Help](https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX) | 3:18 | 2022-11-11 |  |
+| [Call For Help](https://open.spotify.com/track/3l5qctI4FqhfjIZzs06cbk) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Call For Help](https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX) | 3:18 | 2022-11-11 | 2023-05-13 |
 | [CALL ME \(Freestyle\)](https://open.spotify.com/track/1awc3w3LUJOK8TwD17bQLZ) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [CALL ME \(Freestyle\)](https://open.spotify.com/album/1uveV0oi9gareah57tZdoL) | 3:05 | 2021-06-03 | 2022-06-04 |
 | [Call U Tomorrow](https://open.spotify.com/track/0i5w6z3hhpfVMkRUdv9jQ4) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Call U Tomorrow](https://open.spotify.com/album/4rvVYGqXj3IPKI98aQV6Rf) | 3:06 | 2021-11-15 | 2022-06-23 |
 | [Call U Tomorrow](https://open.spotify.com/track/1kPee0zC6xh3DT1mlG5a82) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Call U Tomorrow](https://open.spotify.com/album/7pdP0BWJ8Faz6ZbWb3UCGc) | 3:06 | 2021-11-15 |  |

@@ -1,13 +1,33 @@
 {
-  "description": "You've come to the crossroads of soul, folk, and the blues. Cover: The War and Treaty",
-  "num_followers": 432988,
+  "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Vintage Trouble",
+  "num_followers": 433076,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTljNmM1MDM1ZjE4NzExMGZhNmM0MmM0NTMzNmFjZTIyZGE1YmE4",
+  "snapshot_id": "MCwyMzRkOTBiMGIxMzVjZWQ0NTk1N2RhMGM1MDBmYzhhMjA2NzE3MGM5",
   "tracks": [
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "The Love That Once Lingered",
+        "url": "https://open.spotify.com/album/0oMr2919OXeWIhGqvbKsfv"
+      },
+      "artists": [
+        {
+          "name": "Vintage Trouble",
+          "url": "https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0"
+        },
+        {
+          "name": "Lady Blackbird",
+          "url": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
+        }
+      ],
+      "duration_ms": 234837,
+      "name": "The Love That Once Lingered - feat. Lady Blackbird",
+      "url": "https://open.spotify.com/track/4vlATschiZVKFlngUwN4k9"
+    },
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
@@ -39,6 +59,42 @@
       "duration_ms": 230680,
       "name": "Ain't No Harmin' Me",
       "url": "https://open.spotify.com/track/1LnTC50m1LHC36jtKo0UJk"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Freedom Is A Constant Struggle",
+        "url": "https://open.spotify.com/album/2mGTeZBnyXP7CTapaW1p9S"
+      },
+      "artists": [
+        {
+          "name": "Leyla McCalla",
+          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
+        },
+        {
+          "name": "Joy Clark",
+          "url": "https://open.spotify.com/artist/7BTIW6ksfRBJ50xe6EtXjJ"
+        },
+        {
+          "name": "Lilli Lewis",
+          "url": "https://open.spotify.com/artist/2dh2iaRf6yHgqVmEJok53L"
+        },
+        {
+          "name": "Sabine McCalla",
+          "url": "https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR"
+        },
+        {
+          "name": "Sula Spirit",
+          "url": "https://open.spotify.com/artist/7qXJE0O3NsmQssEePihY2L"
+        },
+        {
+          "name": "Cassie Watson Francillon",
+          "url": "https://open.spotify.com/artist/6LuBYCozHo0lrFf7CnkgMX"
+        }
+      ],
+      "duration_ms": 204998,
+      "name": "Freedom Is A Constant Struggle",
+      "url": "https://open.spotify.com/track/7pazEod5kIZKCpppre6kvx"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -667,22 +723,6 @@
       "duration_ms": 223961,
       "name": "So Far Gone",
       "url": "https://open.spotify.com/track/2ZJDEk5eGgQDG41n7BnqCU"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "in defense of my own happiness (the beginnings)",
-        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 188493,
-      "name": "bad blood",
-      "url": "https://open.spotify.com/track/4lizDGXpBCg6o9B90eA5pH"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1415,22 +1455,6 @@
       "duration_ms": 386000,
       "name": "Still Go Marching In (Live)",
       "url": "https://open.spotify.com/track/3np14vGyPYEnbQU3bHjItw"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "S\u00edminn+Spotify Session",
-        "url": "https://open.spotify.com/album/2n2zexzNMZYmptJ1vAoTM4"
-      },
-      "artists": [
-        {
-          "name": "J\u00fan\u00edus Meyvant",
-          "url": "https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26"
-        }
-      ],
-      "duration_ms": 352720,
-      "name": "Neon Experience - Live from Vatnagar\u00f0ar",
-      "url": "https://open.spotify.com/track/3MLlB7G51LJaILSRUMfU2k"
     },
     {
       "added_at": "2022-01-28 05:01:00",

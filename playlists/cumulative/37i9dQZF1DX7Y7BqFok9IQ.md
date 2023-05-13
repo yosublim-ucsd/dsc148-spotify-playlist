@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Tyler Bryant & the Shakedown
 
-219 songs - 13 hr 48 min
+220 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,13 +160,14 @@
 | [Sailing Down](https://open.spotify.com/track/1ApqnL4anYkSjhh8RoLkPw) | [The Wanton Bishops](https://open.spotify.com/artist/7gN2pFFXjxG72z9rb0PCqe) | [Nowhere Everywhere](https://open.spotify.com/album/0sjqLg2v3wdaHC3kt18Mko) | 2:48 | 2020-10-16 |  |
 | [Say You Will](https://open.spotify.com/track/15vRL4NwrNpgTwFY5rPnNf) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [El Dorado](https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0) | 3:54 | 2020-10-16 | 2023-03-04 |
 | [Scarborough Street Fight](https://open.spotify.com/track/7EPpQ2FZRoIIB7CRhRUwbH) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Scarborough Street Fight](https://open.spotify.com/album/2yWkANFYshG5s3byrY9DKk) | 4:30 | 2022-05-13 |  |
+| [Scorned](https://open.spotify.com/track/05rjMEQQcTDM0Vzr7bs8gW) | [Kira Mac](https://open.spotify.com/artist/3lirMsQjPC6sce67MHTXwg) | [Scorned](https://open.spotify.com/album/60cemT3NwtIGHYLL7oXtyt) | 3:08 | 2023-05-12 |  |
 | [She Gets Me High](https://open.spotify.com/track/0H8Pm02RYzcMA5FeAVF1ZI) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Keep On](https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ) | 3:58 | 2020-10-16 |  |
 | [Shine](https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq) | [ALIAS](https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w) | [Shine](https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra) | 2:11 | 2022-06-10 |  |
 | [Sho Been Worse](https://open.spotify.com/track/2Qg9TUOmezQXfKV1NrT8bx) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Sho Been Worse](https://open.spotify.com/album/3sxE8PeJB8tUFIM5soGgco) | 2:54 | 2023-03-03 | 2023-03-25 |
 | [Shooting Stars](https://open.spotify.com/track/00kbL0ei9bVKAp9I23vF1l) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 4:20 | 2020-10-16 |  |
 | [Silver Paper](https://open.spotify.com/track/06eRzfVeA1wW3P7ZuJGSuh) | [Leslie West](https://open.spotify.com/artist/0ks4E3VJXDIRABtxz2IiBE), [Charlie Starr](https://open.spotify.com/artist/2Oeaf5Pn9WzmxUIIsjs939) | [Silver Paper](https://open.spotify.com/album/6Y6nPjdXZd0p7qAMiM3A9z) | 3:26 | 2022-03-04 |  |
 | [Skin 'n Bone](https://open.spotify.com/track/6natqkD9pmwdr8Xr1VFliA) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Skin 'n Bone](https://open.spotify.com/album/2ZWSn4DgPq9jFuIj1wywPF) | 3:23 | 2021-06-11 | 2022-07-02 |
-| [So Long](https://open.spotify.com/track/0wjNy6Y2S0tZkykclifcRE) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Head Above Water](https://open.spotify.com/album/43wOARGtAmtXQV41znk4Lj) | 3:01 | 2022-12-09 |  |
+| [So Long](https://open.spotify.com/track/0wjNy6Y2S0tZkykclifcRE) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Head Above Water](https://open.spotify.com/album/43wOARGtAmtXQV41znk4Lj) | 3:01 | 2022-12-09 | 2023-05-13 |
 | [So Long](https://open.spotify.com/track/34np7qi7qKvOsvqptdBUnq) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [So Long](https://open.spotify.com/album/74ERRFXX47XBkVarTGWixm) | 3:01 | 2022-12-09 | 2023-01-24 |
 | [Solar Fire](https://open.spotify.com/track/65gFWCRdKZD19F32AHhtmK) | [Smith/Kotzen](https://open.spotify.com/artist/5DE14yhJCkOYGtBVFnrtK5), [Adrian Smith](https://open.spotify.com/artist/6PdIfS6g7piReOMxEsdiiK), [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [Smith/Kotzen](https://open.spotify.com/album/4fuwMAMhY0LC4Qu1KXdgK5) | 4:29 | 2021-03-26 |  |
 | [Steep Climb](https://open.spotify.com/track/211wEoUVThC6SoFSYLKUHa) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Zakk Wylde](https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny) | [Good for Sumthin'](https://open.spotify.com/album/63jgqHjUAGRvbK1KWkMUMk) | 5:26 | 2020-10-16 |  |

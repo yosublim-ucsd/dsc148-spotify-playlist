@@ -1,41 +1,13 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 151118,
+  "num_followers": 151220,
   "original_name": "Gaming Malandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDcxZGIyNzIyNTM4OTllNzk5YjE0YTcwZjZhYjdjNjJhMDNkNDI5",
+  "snapshot_id": "MCw4ZTJjMmZjOGM0MTdjNWZiYzg2YTc4YzVjMmVjZGRmNTA2OWVkZGNj",
   "tracks": [
-    {
-      "added_at": "2023-05-05 21:21:51",
-      "album": {
-        "name": "Sentosa",
-        "url": "https://open.spotify.com/album/71uful9xpvujTHKTS16Ykc"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        },
-        {
-          "name": "Polo Gonzalez",
-          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
-        },
-        {
-          "name": "Garena Free Fire",
-          "url": "https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt"
-        }
-      ],
-      "duration_ms": 151594,
-      "name": "Sentosa",
-      "url": "https://open.spotify.com/track/3PKN5j2dKkzsLbrpcdyzLX"
-    },
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
@@ -59,18 +31,58 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "aPoLLo13",
-        "url": "https://open.spotify.com/album/5L3TaonVe9Z6ZF2HtoKcvE"
+        "name": "Pacas De Billetes",
+        "url": "https://open.spotify.com/album/70y25lLU64tj9PWd6CqVFG"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 188074,
+      "name": "Pacas De Billetes",
+      "url": "https://open.spotify.com/track/3IMuuBcKSeFqQSlF2XluA1"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "77",
+        "url": "https://open.spotify.com/album/7J0iDOtfo7qkB5sMNc8vbq"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 215745,
+      "name": "77",
+      "url": "https://open.spotify.com/track/7y2KhPccpkgRSMa3GDXjQq"
+    },
+    {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
+        "name": "hARAkiRi",
+        "url": "https://open.spotify.com/album/6jJL6sH7cT8f2kDYPI4N5D"
       },
       "artists": [
         {
           "name": "Duki",
           "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
         }
       ],
-      "duration_ms": 160547,
-      "name": "aPoLLo13",
-      "url": "https://open.spotify.com/track/0DxzhQolKK8fd3y0BAAbf4"
+      "duration_ms": 169258,
+      "name": "hARAkiRi",
+      "url": "https://open.spotify.com/track/4m0ypZ1c1l0WulMk3fkVA0"
     },
     {
       "added_at": "2023-02-23 21:00:34",
@@ -89,24 +101,96 @@
       "url": "https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV"
     },
     {
-      "added_at": "2023-04-21 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "No Te La Sabes",
-        "url": "https://open.spotify.com/album/4rXdXTHY6DTAiS6bP7xAcl"
+        "name": "Toretto (FAST X / Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4YHGjIgKtP3QKRA11AhfJ1"
       },
       "artists": [
         {
-          "name": "Aczino",
-          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 150517,
+      "name": "Toretto",
+      "url": "https://open.spotify.com/track/2LhnVbBHUWyrDQ4m1LCPvo"
+    },
+    {
+      "added_at": "2023-04-07 06:00:00",
+      "album": {
+        "name": "En Blindadas",
+        "url": "https://open.spotify.com/album/3jyPLQ5JSlA2SlDEgquSvY"
+      },
+      "artists": [
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 190154,
+      "name": "En Blindadas",
+      "url": "https://open.spotify.com/track/5SnT0c4vYrR93Zb7wqEAqo"
+    },
+    {
+      "added_at": "2023-02-23 21:00:34",
+      "album": {
+        "name": "Burbujas de Cristal",
+        "url": "https://open.spotify.com/album/0UYbHFy4zdCF34CRebZmRQ"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
         },
         {
           "name": "Millonario",
           "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
         }
       ],
-      "duration_ms": 215200,
-      "name": "No Te La Sabes",
-      "url": "https://open.spotify.com/track/2btkX75Lvqn68GoECFSAI9"
+      "duration_ms": 224624,
+      "name": "Burbujas de Cristal",
+      "url": "https://open.spotify.com/track/15yuvKhcoEtV5KwKxqHSwa"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Followers",
+        "url": "https://open.spotify.com/album/2BfmP87r9XJ4pQLMdmpdo9"
+      },
+      "artists": [
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        }
+      ],
+      "duration_ms": 188181,
+      "name": "Followers",
+      "url": "https://open.spotify.com/track/4s1yIuy4ncKl09LZrzLMBV"
+    },
+    {
+      "added_at": "2023-02-23 21:00:34",
+      "album": {
+        "name": "As\u00ed Soy Yo",
+        "url": "https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi"
+      },
+      "artists": [
+        {
+          "name": "Millonario & W. Corona",
+          "url": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
+        },
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 289013,
+      "name": "\u00c9xtasis",
+      "url": "https://open.spotify.com/track/3NqbKUOgaU2LgIFRbu4B12"
     },
     {
       "added_at": "2023-02-23 21:00:34",
@@ -131,150 +215,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "FCK Love",
-        "url": "https://open.spotify.com/album/2H1rKPlSCrQREG1o52hvAj"
-      },
-      "artists": [
-        {
-          "name": "Fenix The Producer",
-          "url": "https://open.spotify.com/artist/7EutZWNXh33tAPObZ45ba6"
-        },
-        {
-          "name": "Totoy El Frio",
-          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-        }
-      ],
-      "duration_ms": 261186,
-      "name": "FCK Love",
-      "url": "https://open.spotify.com/track/19sA5Lb1Pq6tDOiITDNFAB"
-    },
-    {
-      "added_at": "2023-04-07 06:00:00",
-      "album": {
-        "name": "En Blindadas",
-        "url": "https://open.spotify.com/album/3jyPLQ5JSlA2SlDEgquSvY"
-      },
-      "artists": [
-        {
-          "name": "Beto Sierra",
-          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 190154,
-      "name": "En Blindadas",
-      "url": "https://open.spotify.com/track/5SnT0c4vYrR93Zb7wqEAqo"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "Al Mill\u00f3n",
-        "url": "https://open.spotify.com/album/4P9XxgcqLfqBrNLHn1RTL0"
-      },
-      "artists": [
-        {
-          "name": "El Burger",
-          "url": "https://open.spotify.com/artist/55sUDNma3qznDILZgydRHT"
-        },
-        {
-          "name": "Razeth",
-          "url": "https://open.spotify.com/artist/77rxkeN6QawsVfX7J4dm0n"
-        },
-        {
-          "name": "Alann Mora",
-          "url": "https://open.spotify.com/artist/2tYG2qpxONKldJ39D27Zbb"
-        }
-      ],
-      "duration_ms": 138028,
-      "name": "Al Mill\u00f3n",
-      "url": "https://open.spotify.com/track/1ITxkijE0eZUgesUI4Lr3Z"
-    },
-    {
-      "added_at": "2023-02-23 21:00:34",
-      "album": {
-        "name": "Burbujas de Cristal",
-        "url": "https://open.spotify.com/album/0UYbHFy4zdCF34CRebZmRQ"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        },
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-        }
-      ],
-      "duration_ms": 224624,
-      "name": "Burbujas de Cristal",
-      "url": "https://open.spotify.com/track/15yuvKhcoEtV5KwKxqHSwa"
-    },
-    {
-      "added_at": "2023-03-31 06:00:00",
-      "album": {
-        "name": "hARAkiRi",
-        "url": "https://open.spotify.com/album/6jJL6sH7cT8f2kDYPI4N5D"
+        "name": "aPoLLo13",
+        "url": "https://open.spotify.com/album/5L3TaonVe9Z6ZF2HtoKcvE"
       },
       "artists": [
         {
           "name": "Duki",
           "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
         }
       ],
-      "duration_ms": 169258,
-      "name": "hARAkiRi",
-      "url": "https://open.spotify.com/track/4m0ypZ1c1l0WulMk3fkVA0"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "Pacas De Billetes",
-        "url": "https://open.spotify.com/album/70y25lLU64tj9PWd6CqVFG"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 188074,
-      "name": "Pacas De Billetes",
-      "url": "https://open.spotify.com/track/3IMuuBcKSeFqQSlF2XluA1"
-    },
-    {
-      "added_at": "2023-02-23 21:00:34",
-      "album": {
-        "name": "As\u00ed Soy Yo",
-        "url": "https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi"
-      },
-      "artists": [
-        {
-          "name": "Millonario & W. Corona",
-          "url": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
-        },
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 289013,
-      "name": "\u00c9xtasis",
-      "url": "https://open.spotify.com/track/3NqbKUOgaU2LgIFRbu4B12"
+      "duration_ms": 160547,
+      "name": "aPoLLo13",
+      "url": "https://open.spotify.com/track/0DxzhQolKK8fd3y0BAAbf4"
     },
     {
       "added_at": "2023-02-23 21:00:34",
@@ -327,6 +279,22 @@
     {
       "added_at": "2023-02-23 21:00:34",
       "album": {
+        "name": "Golpe Avisa",
+        "url": "https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 213480,
+      "name": "Los Mensajes del Whatsapp",
+      "url": "https://open.spotify.com/track/2MJVc9F85EPNiSfD1KKhC9"
+    },
+    {
+      "added_at": "2023-02-23 21:00:34",
+      "album": {
         "name": "Aleman: Bzrp Music Sessions, Vol. 15",
         "url": "https://open.spotify.com/album/3clF95vv6O71LUshRmF2q8"
       },
@@ -343,6 +311,34 @@
       "duration_ms": 174178,
       "name": "Aleman: Bzrp Music Sessions, Vol. 15",
       "url": "https://open.spotify.com/track/7xRWmHZ2wt3zDgM5mAL0JU"
+    },
+    {
+      "added_at": "2023-05-05 21:21:51",
+      "album": {
+        "name": "Sentosa",
+        "url": "https://open.spotify.com/album/71uful9xpvujTHKTS16Ykc"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        },
+        {
+          "name": "Garena Free Fire",
+          "url": "https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt"
+        }
+      ],
+      "duration_ms": 151594,
+      "name": "Sentosa",
+      "url": "https://open.spotify.com/track/3PKN5j2dKkzsLbrpcdyzLX"
     },
     {
       "added_at": "2023-02-23 21:00:34",
@@ -407,22 +403,6 @@
       "duration_ms": 215266,
       "name": "Comprendes, Mendes?",
       "url": "https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd"
-    },
-    {
-      "added_at": "2023-02-23 21:00:34",
-      "album": {
-        "name": "Golpe Avisa",
-        "url": "https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 213480,
-      "name": "Los Mensajes del Whatsapp",
-      "url": "https://open.spotify.com/track/2MJVc9F85EPNiSfD1KKhC9"
     },
     {
       "added_at": "2023-02-23 21:00:34",
@@ -543,6 +523,22 @@
     {
       "added_at": "2023-02-23 21:00:34",
       "album": {
+        "name": "Artilleria Pesada, Presenta:",
+        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
+      },
+      "artists": [
+        {
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+        }
+      ],
+      "duration_ms": 253880,
+      "name": "Si Se\u00f1or",
+      "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
+    },
+    {
+      "added_at": "2023-02-23 21:00:34",
+      "album": {
         "name": "Cypher",
         "url": "https://open.spotify.com/album/74MnBAt8ADj9XZjmUiro9f"
       },
@@ -587,22 +583,6 @@
       "duration_ms": 482926,
       "name": "Cypher",
       "url": "https://open.spotify.com/track/0M8HCM6ztBgsF150J7oCBt"
-    },
-    {
-      "added_at": "2023-02-23 21:00:34",
-      "album": {
-        "name": "Artilleria Pesada, Presenta:",
-        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
-      },
-      "artists": [
-        {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 253880,
-      "name": "Si Se\u00f1or",
-      "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
     },
     {
       "added_at": "2023-02-23 21:00:34",
@@ -1401,6 +1381,26 @@
       "url": "https://open.spotify.com/track/3J1aXbNrnGsSmgIJ5Q5zzN"
     },
     {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
+        "name": "No Te La Sabes",
+        "url": "https://open.spotify.com/album/4rXdXTHY6DTAiS6bP7xAcl"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "No Te La Sabes",
+      "url": "https://open.spotify.com/track/2btkX75Lvqn68GoECFSAI9"
+    },
+    {
       "added_at": "2023-02-23 21:00:34",
       "album": {
         "name": "Artilleria Pesada, Presenta:",
@@ -1415,6 +1415,22 @@
       "duration_ms": 381186,
       "name": "Ileso",
       "url": "https://open.spotify.com/track/15cuGrCRcbTwSA3yVTGLnq"
+    },
+    {
+      "added_at": "2023-02-23 21:00:34",
+      "album": {
+        "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
+        "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "duration_ms": 166760,
+      "name": "Yo Quiero Fumar (I Wanna Get High) - Spanish Version",
+      "url": "https://open.spotify.com/track/3RIDe85YSYGGoJ0daSzfhD"
     },
     {
       "added_at": "2023-02-23 21:00:34",
@@ -1435,22 +1451,6 @@
       "duration_ms": 243999,
       "name": "Pandillero Pero Millonario (feat. Santa Fe Klan)",
       "url": "https://open.spotify.com/track/3AiQx9X4ZJIsd4h7vE7zDx"
-    },
-    {
-      "added_at": "2023-02-23 21:00:34",
-      "album": {
-        "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
-        "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        }
-      ],
-      "duration_ms": 166760,
-      "name": "Yo Quiero Fumar (I Wanna Get High) - Spanish Version",
-      "url": "https://open.spotify.com/track/3RIDe85YSYGGoJ0daSzfhD"
     },
     {
       "added_at": "2023-02-23 21:00:34",
@@ -1615,26 +1615,6 @@
       "duration_ms": 167191,
       "name": "Derrochando Estilo",
       "url": "https://open.spotify.com/track/4I98VytVQXNTScYphARAGH"
-    },
-    {
-      "added_at": "2023-02-23 21:00:34",
-      "album": {
-        "name": "Robot Montana",
-        "url": "https://open.spotify.com/album/0rEzNORhsOrbHxxZxUe67P"
-      },
-      "artists": [
-        {
-          "name": "Bipo Montana",
-          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
-        },
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "duration_ms": 175730,
-      "name": "Mariguana & Tequila",
-      "url": "https://open.spotify.com/track/1Kxr5sQyw95And6SOt5hkY"
     }
   ],
   "unique_name": "Gaming Malandro",

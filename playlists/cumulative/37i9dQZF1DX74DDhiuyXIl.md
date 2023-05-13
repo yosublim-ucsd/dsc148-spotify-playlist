@@ -4,7 +4,7 @@
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-286 songs - 20 hr 54 min
+287 songs - 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Feel Wronged ?](https://open.spotify.com/track/0zcLffyaoRviYLL0L0F7Ej) | [Princess Ai](https://open.spotify.com/artist/71l6Wfk7PaTVPAOH7ln56V) | [Feel Wronged ?](https://open.spotify.com/album/5Pab7v1HR3rqyr2lQRaQaO) | 4:32 | 2022-06-06 | 2022-07-17 |
 | [hard to let you go](https://open.spotify.com/track/3QzvC0v07VV76tZ8SoIUce) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [hard to let you go](https://open.spotify.com/album/7jvNKoYPvnHVF1dVM7l7m2) | 4:40 | 2023-05-01 |  |
 | [Hello\(電影《刻在你心底的名字》宣傳曲\)](https://open.spotify.com/track/6xZ9df7zpAeK1iQxcVBxJF) | [龔言脩](https://open.spotify.com/artist/18luxd1vZzmJ6P13eISD58) | [Hello\(電影《刻在你心底的名字》宣傳曲\)](https://open.spotify.com/album/0glak7pWMpM5TGnxRUUA2Z) | 3:37 | 2022-06-06 | 2022-07-28 |
-| [Hold Me Tight](https://open.spotify.com/track/18U6DzjWgoMMYg14kJxCMu) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ), [Dena](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [Hold Me Tight](https://open.spotify.com/album/72vVTzqoBOdbJDkZZmVmgd) | 4:06 | 2022-06-06 |  |
+| [Hold Me Tight](https://open.spotify.com/track/18U6DzjWgoMMYg14kJxCMu) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ), [Dena](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [Hold Me Tight](https://open.spotify.com/album/72vVTzqoBOdbJDkZZmVmgd) | 4:06 | 2022-06-06 | 2023-05-13 |
 | [I'll Be Missing You](https://open.spotify.com/track/0s46SmBykd4tqLxJ9AT7eB) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [I'll Be Missing You](https://open.spotify.com/album/6DdWMOdkrnUORonnh8Xkhk) | 3:08 | 2022-06-06 | 2022-07-21 |
 | [Let Me Fall \(電影 "聖人大盜" 片尾曲\)](https://open.spotify.com/track/6NSIhIAlPt7ibeTERkiqTc) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [Let Me Fall \(電影 "聖人大盜" 片尾曲\)](https://open.spotify.com/album/6NGi0ac8CqDapbpM1Zqbcq) | 3:12 | 2022-06-20 | 2022-07-28 |
 | [Long Gone](https://open.spotify.com/track/6IAKbyQ5Qc5SOcSVhHv4Bx) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [Workers Original Soundtrack EP 2](https://open.spotify.com/album/36rgzYqakTgIpIgO142kOr) | 4:25 | 2022-06-13 | 2022-07-23 |
@@ -80,6 +80,7 @@
 | [再也想不起那時候的我](https://open.spotify.com/track/1GP8ec3DYdUhNZPYOWnREE) | [采子](https://open.spotify.com/artist/448XOK57P1RpvGyLuMUwep) | [再也想不起那時候的我](https://open.spotify.com/album/2yciBsEa4KGuY8Av8yEQTn) | 4:00 | 2023-04-17 | 2023-04-25 |
 | [再見,少年 \(Farewell, My Lad\) \- 電影《再見,少年》同名主題曲](https://open.spotify.com/track/5KSOS6tZc3kl2BNdDdyRDR) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [再見,少年 \(Farewell, My Lad\)](https://open.spotify.com/album/17FoOLd2lSTX3XtSYFaG3p) | 4:35 | 2022-06-13 | 2022-07-29 |
 | [再見錯的人](https://open.spotify.com/track/3qTzmHbS0UejxQkpvRt5x5) | [Vivian Hsu](https://open.spotify.com/artist/6cP65fCRmCJQejKYSnVb47) | [再見錯的人](https://open.spotify.com/album/6Xc7Hbxyks1IfI0HP0xqVb) | 4:24 | 2022-06-06 | 2022-06-14 |
+| [冬眠](https://open.spotify.com/track/0ygttXRPvD5u9ikS8LwJvl) | [司南](https://open.spotify.com/artist/0xftsXB7VnOwibMhupkamE) | [冬眠](https://open.spotify.com/album/0oS3ZVlS3ygBqI7zLDZa21) | 4:29 | 2023-05-08 |  |
 | [冬眠](https://open.spotify.com/track/4m8Jm6TAeBsVWkP5CotIJP) | [司南](https://open.spotify.com/artist/0xftsXB7VnOwibMhupkamE) | [冬眠](https://open.spotify.com/album/3o2VzWhOGsgneeiwxCHAOE) | 4:29 | 2022-06-06 | 2022-07-26 |
 | [冬眠](https://open.spotify.com/track/5bplR1ESzNn6Q7RlFQIvhd) | [司南](https://open.spotify.com/artist/0xftsXB7VnOwibMhupkamE) | [冬眠](https://open.spotify.com/album/17vIhNNAkiUQaaiKTiM3SK) | 4:29 | 2022-07-25 | 2023-05-08 |
 | [冷戰](https://open.spotify.com/track/3iTLyYwb24eOrPXOH6KoB9) | [簡弘亦](https://open.spotify.com/artist/0u0FqeMALEaiT19otJOm8C) | [冷戰](https://open.spotify.com/album/4udh0uzLM5HYtmheDYKcnN) | 4:38 | 2022-06-13 | 2022-07-07 |

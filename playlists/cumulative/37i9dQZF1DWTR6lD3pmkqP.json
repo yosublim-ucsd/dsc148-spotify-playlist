@@ -3438,7 +3438,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 231300,
       "name": "Gotu Lust",
       "url": "https://open.spotify.com/track/5plUsigCBARJIUOU0rXO0S"
@@ -6572,7 +6572,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 219466,
       "name": "Peaks & Ferns",
       "url": "https://open.spotify.com/track/0vINbddFhMxPasIYiiTcLu"
@@ -9852,7 +9852,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 180551,
       "name": "Two Chords & the Truth",
       "url": "https://open.spotify.com/track/0ZIfu4ZduQ9kIa5KgKOuIO"
@@ -9934,6 +9934,36 @@
       "duration_ms": 363920,
       "name": "Umdali",
       "url": "https://open.spotify.com/track/1mzYyWgyiajIbG66oaGxp8"
+    },
+    {
+      "album": {
+        "name": "Umdali",
+        "url": "https://open.spotify.com/album/0phihjhQrqF3NcFY2vTCa9"
+      },
+      "artists": [
+        {
+          "name": "Sibusile Xaba",
+          "url": "https://open.spotify.com/artist/3UZ496XnQSGebDZ8jQqtIJ"
+        },
+        {
+          "name": "Naftali",
+          "url": "https://open.spotify.com/artist/1zBGOUlSlbWeNVscpscXGU"
+        },
+        {
+          "name": "Fakazile Nkosi",
+          "url": "https://open.spotify.com/artist/59UvDgBt0piUoiVlxvidcN"
+        },
+        {
+          "name": "AshK",
+          "url": "https://open.spotify.com/artist/4aDj9qLLNspfmaZgktbPDn"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363920,
+      "name": "Umdali",
+      "url": "https://open.spotify.com/track/2fwZcIkPEfyPEqfJlj0Wb1"
     },
     {
       "album": {

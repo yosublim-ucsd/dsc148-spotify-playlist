@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-275 songs - 16 hr 35 min
+276 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [SOBER](https://open.spotify.com/track/6bZXWVV7hRjNKEqnWZVyBM) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [SOBER](https://open.spotify.com/album/1XHBL61zSvKgkNe86ixIaT) | 2:50 | 2022-05-13 | 2023-02-19 |
 | [Somebody](https://open.spotify.com/track/71zdPpuyAVQm7OcXZ4o6Nv) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Somebody](https://open.spotify.com/album/3tR79dbLbfQZ1Z0nmX9MMc) | 3:10 | 2021-12-03 | 2022-02-12 |
 | [Somehow We Lost It All](https://open.spotify.com/track/0g66FWakF5IcElzf6ATayB) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Pham](https://open.spotify.com/artist/2GH5uRMxmuAWn90B8DEZU3), [josh pan](https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD) | [Somehow We Lost It All](https://open.spotify.com/album/3fIiWSfrNefw3VTA0buoq4) | 2:59 | 2022-05-06 |  |
+| [Someone To Forget](https://open.spotify.com/track/6ieSmmi7H6BdBowVhMOZ6F) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Someone To Forget](https://open.spotify.com/album/193cXUcTyX1JDg1VF3mgXO) | 4:01 | 2023-05-12 |  |
 | [Sometimes](https://open.spotify.com/track/5PbOUQpnc8NTn24KdpWaIA) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [The Him](https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7) | [Sometimes](https://open.spotify.com/album/4kBZ0roH4f66urmysH0DnK) | 3:17 | 2022-02-11 |  |
 | [SRY](https://open.spotify.com/track/0liqgDxxKqACG9kponhjfn) | [MIME](https://open.spotify.com/artist/6DjZKTY9U7SpufUeVkoJMX), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166) | [SRY](https://open.spotify.com/album/1n0DHsZ1cJbiAwlqHnmz5Q) | 3:43 | 2021-12-03 |  |
 | [Starbright](https://open.spotify.com/track/5LuQvkBG365ue36BMujtSz) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Between Broken](https://open.spotify.com/album/4zUW6lwQf3wHRdYawFEEWQ) | 4:03 | 2021-12-03 |  |

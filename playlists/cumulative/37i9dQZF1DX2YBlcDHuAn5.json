@@ -276,7 +276,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 202773,
       "name": "Closing Time",
       "url": "https://open.spotify.com/track/0CIfnjBJxhYbL69mU4K4yl"
@@ -688,6 +688,24 @@
       "duration_ms": 158653,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/1Mk22y2ZqHMijN57LfOi5U"
+    },
+    {
+      "album": {
+        "name": "Love in the Dark",
+        "url": "https://open.spotify.com/album/1BQwxISegVx89NtVEb2Umm"
+      },
+      "artists": [
+        {
+          "name": "Abe Partridge",
+          "url": "https://open.spotify.com/artist/1RQeZdPAK7c7QakzTfcA2q"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247243,
+      "name": "Love in the Dark",
+      "url": "https://open.spotify.com/track/5rdvOjYb63B0DSEMmA6GLE"
     },
     {
       "album": {

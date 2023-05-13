@@ -679,6 +679,24 @@
     },
     {
       "album": {
+        "name": "Helma",
+        "url": "https://open.spotify.com/album/4ffyUt1pfPhGhPytnYaEcx"
+      },
+      "artists": [
+        {
+          "name": "Tagne",
+          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163527,
+      "name": "Helma",
+      "url": "https://open.spotify.com/track/0xCOet5hB68wGPL66JrUGZ"
+    },
+    {
+      "album": {
         "name": "Hiphop is dead",
         "url": "https://open.spotify.com/album/2nPyvcEJof1Xg70FmEOYp2"
       },
@@ -1128,7 +1146,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 139714,
       "name": "MON LOVE OHO",
       "url": "https://open.spotify.com/track/06l63fDOp1qRltZbA6r4nP"
@@ -1623,6 +1641,24 @@
     },
     {
       "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/3Q7yif9PiXJUL7ox5EgDxG"
+      },
+      "artists": [
+        {
+          "name": "Smallx",
+          "url": "https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181463,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/6oh7KUImF3IhimOnDfdZmF"
+    },
+    {
+      "album": {
         "name": "MIXDEEP",
         "url": "https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym"
       },
@@ -1819,6 +1855,24 @@
     },
     {
       "album": {
+        "name": "UNICEF",
+        "url": "https://open.spotify.com/album/17rnDndSLdVrQR0CbHvCq1"
+      },
+      "artists": [
+        {
+          "name": "Furelise",
+          "url": "https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150379,
+      "name": "UNICEF",
+      "url": "https://open.spotify.com/track/5IGhxeMAkpsQlyEIOsNmDE"
+    },
+    {
+      "album": {
         "name": "Omerta",
         "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
       },
@@ -2010,7 +2064,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 200599,
       "name": "Zahri",
       "url": "https://open.spotify.com/track/7epBNl7bl4Gi5UwA5tdmyN"

@@ -1,12 +1,12 @@
 {
   "description": "Pushing the envelope; musicians at the forefront of modular synthesis.  ",
-  "num_followers": 42503,
+  "num_followers": 42539,
   "original_name": "Modular Synths",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWExM2FkYjdkNjBjNmQwZTVjZDAwZjRjNmY4ODM4NzVmMWM3ZjEy",
+  "snapshot_id": "MCxiYzU0MDBiYzc2ZjA5MDU0YzM1NTAxZGE4MjBjNzU2MTgwOWFkMWNi",
   "tracks": [
     {
       "added_at": "2023-03-10 00:01:00",
@@ -295,6 +295,22 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
+        "name": "Entropy",
+        "url": "https://open.spotify.com/album/3gOlyuR0njdHXbcFlow7nJ"
+      },
+      "artists": [
+        {
+          "name": "Bostro Pesopeo",
+          "url": "https://open.spotify.com/artist/6pBvpRI7qsmSp0C4DbH1MD"
+        }
+      ],
+      "duration_ms": 289642,
+      "name": "Entropy",
+      "url": "https://open.spotify.com/track/7e6bj3wHC3OljTIiSM7K56"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
         "name": "Yes I",
         "url": "https://open.spotify.com/album/4zrkxvozf8sXclGZVuGQMR"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 341000,
       "name": "Yes I",
       "url": "https://open.spotify.com/track/6S2QPyA5Lx2Y4wNxUT4HMd"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "Entropy",
-        "url": "https://open.spotify.com/album/3gOlyuR0njdHXbcFlow7nJ"
-      },
-      "artists": [
-        {
-          "name": "Bostro Pesopeo",
-          "url": "https://open.spotify.com/artist/6pBvpRI7qsmSp0C4DbH1MD"
-        }
-      ],
-      "duration_ms": 289642,
-      "name": "Entropy",
-      "url": "https://open.spotify.com/track/7e6bj3wHC3OljTIiSM7K56"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Together in Static",
-        "url": "https://open.spotify.com/album/68LCMt9avKDMD4frbEmkKf"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 155375,
-      "name": "Together in Static",
-      "url": "https://open.spotify.com/track/7tawWbs1dYKWlDyikjxEvL"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Being There (Ambient)",
         "url": "https://open.spotify.com/album/4TgYATdyNPcnECEGe9CekR"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 303157,
       "name": "Drive West On Sunset - Ambient",
       "url": "https://open.spotify.com/track/5EQEPfClSpuXVh6o6N78FF"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Together in Static",
+        "url": "https://open.spotify.com/album/68LCMt9avKDMD4frbEmkKf"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 155375,
+      "name": "Together in Static",
+      "url": "https://open.spotify.com/track/7tawWbs1dYKWlDyikjxEvL"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "St / Fr / Sp",
-        "url": "https://open.spotify.com/album/7xQw1IQBc2PSKpWrXumt3w"
-      },
-      "artists": [
-        {
-          "name": "Seefeel",
-          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
-        }
-      ],
-      "duration_ms": 304093,
-      "name": "Starethrough - Transition Mix",
-      "url": "https://open.spotify.com/track/4qw5WvVi7DlNHPHzPJw7Gg"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Vu Hijera",
         "url": "https://open.spotify.com/album/2Kwr8i8ureCJGKaEZyRCZC"
       },
@@ -775,6 +759,22 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
+        "name": "St / Fr / Sp",
+        "url": "https://open.spotify.com/album/7xQw1IQBc2PSKpWrXumt3w"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "duration_ms": 304093,
+      "name": "Starethrough - Transition Mix",
+      "url": "https://open.spotify.com/track/4qw5WvVi7DlNHPHzPJw7Gg"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
         "name": "cells_",
         "url": "https://open.spotify.com/album/1lrfDmZk1wdPqobBKH01iv"
       },
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Tide Pools",
-        "url": "https://open.spotify.com/album/3xT2c2VcLlawCPbdBMJOxH"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 268043,
-      "name": "Tide Pools",
-      "url": "https://open.spotify.com/track/1xc9Cc2F9A2kfLnjmrBsIw"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Breathing Instruments",
         "url": "https://open.spotify.com/album/6eLJW3hB8GMFBmGGw3dvBe"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 120280,
       "name": "Sleepy Dragon",
       "url": "https://open.spotify.com/track/1e1lahTMxcmcSVSpYaU88Y"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Tide Pools",
+        "url": "https://open.spotify.com/album/3xT2c2VcLlawCPbdBMJOxH"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 268043,
+      "name": "Tide Pools",
+      "url": "https://open.spotify.com/track/1xc9Cc2F9A2kfLnjmrBsIw"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
+        "name": "The landscape has become a bed",
+        "url": "https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6"
+      },
+      "artists": [
+        {
+          "name": "Low Flung",
+          "url": "https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw"
+        }
+      ],
+      "duration_ms": 299870,
+      "name": "Open plain",
+      "url": "https://open.spotify.com/track/730hlLtDWpD2i0492i9rME"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
         "name": "Mirages",
         "url": "https://open.spotify.com/album/1YHTOqf2Ph97yqfLVr9QYT"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 460480,
       "name": "Monolake",
       "url": "https://open.spotify.com/track/4JXj8hTP3mVvCPcvloyJSE"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "The landscape has become a bed",
-        "url": "https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6"
-      },
-      "artists": [
-        {
-          "name": "Low Flung",
-          "url": "https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw"
-        }
-      ],
-      "duration_ms": 299870,
-      "name": "Open plain",
-      "url": "https://open.spotify.com/track/730hlLtDWpD2i0492i9rME"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Sleep to Dream",
-        "url": "https://open.spotify.com/album/7ee4QkZp0bIar2FPyhONej"
-      },
-      "artists": [
-        {
-          "name": "Goya",
-          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
-        }
-      ],
-      "duration_ms": 263142,
-      "name": "Sleep to Dream",
-      "url": "https://open.spotify.com/track/5x6OgxAyxqyfJ6INOV37nA"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Sounds From Phantom Islands",
         "url": "https://open.spotify.com/album/4Oa4FMxiEfKLDK1dzhmraI"
       },
@@ -1107,6 +1091,42 @@
       "duration_ms": 189000,
       "name": "Approximate Bermeja",
       "url": "https://open.spotify.com/track/6NLAH3uaOwEwNEBZIcaEnk"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Secret Garden",
+        "url": "https://open.spotify.com/album/7Lhvt5nCdHqiKy07HgDWFd"
+      },
+      "artists": [
+        {
+          "name": "\u00b5-Ziq",
+          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
+        },
+        {
+          "name": "Mrs Jynx",
+          "url": "https://open.spotify.com/artist/1fk2SqCITKPp4UvJfJhB2Q"
+        }
+      ],
+      "duration_ms": 281229,
+      "name": "The Secret Garden",
+      "url": "https://open.spotify.com/track/0I500KXvf7ecFdSbd2lQtR"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Sleep to Dream",
+        "url": "https://open.spotify.com/album/7ee4QkZp0bIar2FPyhONej"
+      },
+      "artists": [
+        {
+          "name": "Goya",
+          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
+        }
+      ],
+      "duration_ms": 263142,
+      "name": "Sleep to Dream",
+      "url": "https://open.spotify.com/track/5x6OgxAyxqyfJ6INOV37nA"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -1127,22 +1147,6 @@
       "duration_ms": 280087,
       "name": "La colline",
       "url": "https://open.spotify.com/track/6pALQ3Z6wSlt2GXePgGeV5"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "Geoglyph",
-        "url": "https://open.spotify.com/album/5YeOMPfVnSMYSCbCZY8Zrl"
-      },
-      "artists": [
-        {
-          "name": "Lord Of The Isles",
-          "url": "https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru"
-        }
-      ],
-      "duration_ms": 364460,
-      "name": "A1. J-Math",
-      "url": "https://open.spotify.com/track/1uygE50aZZ0EfVMpGKFG0U"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -1171,22 +1175,18 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Secret Garden",
-        "url": "https://open.spotify.com/album/7Lhvt5nCdHqiKy07HgDWFd"
+        "name": "Geoglyph",
+        "url": "https://open.spotify.com/album/5YeOMPfVnSMYSCbCZY8Zrl"
       },
       "artists": [
         {
-          "name": "\u00b5-Ziq",
-          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
-        },
-        {
-          "name": "Mrs Jynx",
-          "url": "https://open.spotify.com/artist/1fk2SqCITKPp4UvJfJhB2Q"
+          "name": "Lord Of The Isles",
+          "url": "https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru"
         }
       ],
-      "duration_ms": 281229,
-      "name": "The Secret Garden",
-      "url": "https://open.spotify.com/track/0I500KXvf7ecFdSbd2lQtR"
+      "duration_ms": 364460,
+      "name": "A1. J-Math",
+      "url": "https://open.spotify.com/track/1uygE50aZZ0EfVMpGKFG0U"
     },
     {
       "added_at": "2023-03-10 00:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 48962,
+  "num_followers": 49023,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDc0ODk0ZDRhNmMyM2VjMDVmZjJiZDBjYWNkZTgyZWYwMjRkODE3",
+  "snapshot_id": "MCw4YjMxNzUwYmZjMTg1MmI3MWQxMWRmMmNkOTBiNTVmM2FjNWRkZTQ5",
   "tracks": [
     {
       "added_at": "2020-08-19 19:15:51",
@@ -267,22 +267,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Glow",
-        "url": "https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif"
-      },
-      "artists": [
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
-        }
-      ],
-      "duration_ms": 270773,
-      "name": "Who's That Lady",
-      "url": "https://open.spotify.com/track/5tuPqvXQw7SJwuX78R9pB2"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "For Your Pleasure",
         "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 218293,
       "name": "Do You Wanna Dance",
       "url": "https://open.spotify.com/track/6lOaVShahOYSeDR2RS0b9l"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif"
+      },
+      "artists": [
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+        }
+      ],
+      "duration_ms": 270773,
+      "name": "Who's That Lady",
+      "url": "https://open.spotify.com/track/5tuPqvXQw7SJwuX78R9pB2"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -551,22 +551,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi"
-      },
-      "artists": [
-        {
-          "name": "Dan Siegel",
-          "url": "https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd"
-        }
-      ],
-      "duration_ms": 302506,
-      "name": "This Time Around",
-      "url": "https://open.spotify.com/track/1HBNkjEwlYzcscjBEoCQVA"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Revolving Door",
         "url": "https://open.spotify.com/album/27oaatzsezS61BzFb69ZFc"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 345040,
       "name": "Mildred's Attraction",
       "url": "https://open.spotify.com/track/6LOA1tEyiS6oHdwZiJ9rkA"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi"
+      },
+      "artists": [
+        {
+          "name": "Dan Siegel",
+          "url": "https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd"
+        }
+      ],
+      "duration_ms": 302506,
+      "name": "This Time Around",
+      "url": "https://open.spotify.com/track/1HBNkjEwlYzcscjBEoCQVA"
     },
     {
       "added_at": "2020-08-19 19:15:51",

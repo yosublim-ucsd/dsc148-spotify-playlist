@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/27MxvuyBenjamin Jephta</a> ",
+  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy?si=Nrn9IgdmQ4yUGQDgcQTPyQ\">Bokani Dyer</a>.",
   "name": "Jazz NXT",
   "tracks": [
     {
@@ -240,7 +240,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 330124,
       "name": "Bayakhala",
       "url": "https://open.spotify.com/track/044VNnUGUaAOphHS0uHITs"
@@ -1183,6 +1183,24 @@
     },
     {
       "album": {
+        "name": "Radio Sechaba",
+        "url": "https://open.spotify.com/album/0gJH7Mg6iDdjxFssLUHTGj"
+      },
+      "artists": [
+        {
+          "name": "Bokani Dyer",
+          "url": "https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332622,
+      "name": "Mogaetsho",
+      "url": "https://open.spotify.com/track/4cs9zPibRaJWnpinq2OCjA"
+    },
+    {
+      "album": {
         "name": "Somandla",
         "url": "https://open.spotify.com/album/54L8Xvb3x6mVpFOg2io6rE"
       },
@@ -1310,7 +1328,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 421623,
       "name": "Ngexesha",
       "url": "https://open.spotify.com/track/541fIP8ikdk37qUJ8jT64e"
@@ -1760,6 +1778,24 @@
       "duration_ms": 184360,
       "name": "The Balance",
       "url": "https://open.spotify.com/track/5RGk7OKbDQEjSwtTYZxtxJ"
+    },
+    {
+      "album": {
+        "name": "The Ben-Dhlamini Stomp",
+        "url": "https://open.spotify.com/album/2X9oJX8nIdhwKoCHPZ6n1W"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Jephta",
+          "url": "https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318333,
+      "name": "The Ben-Dhlamini Stomp",
+      "url": "https://open.spotify.com/track/1l4HECJVkUC6SPyGXp9mJP"
     },
     {
       "album": {

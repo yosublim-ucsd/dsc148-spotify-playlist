@@ -4,7 +4,7 @@
 
 > Concentração no máximo, sem distrações.
 
-873 songs - 1 day 14 hr 3 min
+874 songs - 1 day 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Duende](https://open.spotify.com/track/5EOANVSfg3dX4zE4Askrau) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Duende](https://open.spotify.com/album/35rtUQ6uZ8w6pOp0DBHtwQ) | 2:31 | 2020-08-14\* |  |
 | [Dulcimer](https://open.spotify.com/track/0c5hNxzYagIuyNTjW4Fzux) | [Shira Joseph](https://open.spotify.com/artist/5X31MelGPpqOWS7WZu8n7F) | [Dulcimer](https://open.spotify.com/album/58ejRk8RGyGafjyWQQVE6o) | 3:00 | 2020-12-03 | 2020-12-16 |
 | [Dunmore](https://open.spotify.com/track/7vYzWlDUalocUHnAlcSbUc) | [Calan McIntyre](https://open.spotify.com/artist/10ikUifTOz1UW6yo1C4aKz) | [Dunmore](https://open.spotify.com/album/66wulAfBtzKGoqbUPvYzuu) | 2:02 | 2020-08-14\* | 2022-07-20 |
-| [Duomo di Milano](https://open.spotify.com/track/3mffU0czrRPDpfUeul2EcJ) | [Akiko Mina](https://open.spotify.com/artist/2wqjgcSh9MHmBAYXcR1tWn) | [Duomo di Milano](https://open.spotify.com/album/2aKUCrS9jMnOwTVINklBpY) | 3:07 | 2021-03-27 |  |
+| [Duomo di Milano](https://open.spotify.com/track/3mffU0czrRPDpfUeul2EcJ) | [Akiko Mina](https://open.spotify.com/artist/2wqjgcSh9MHmBAYXcR1tWn) | [Duomo di Milano](https://open.spotify.com/album/2aKUCrS9jMnOwTVINklBpY) | 3:07 | 2021-03-27 | 2023-05-13 |
 | [durabilité](https://open.spotify.com/track/7Bqz55Uc7PouyqsmTS0q7R) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Aveline Bisset](https://open.spotify.com/album/6Gls7jY8E6316yqBIwTcS4) | 2:39 | 2020-08-14\* | 2020-09-16 |
 | [durch Nacht und Nebel](https://open.spotify.com/track/6ceKCk7fknQhCvYWtwAmlP) | [Arndt Goudier](https://open.spotify.com/artist/0adSRv2wPNTotg3FojDkzJ) | [Valle Halle](https://open.spotify.com/album/7sTnfKi8ZaEaG9LQRz1tFT) | 3:03 | 2021-05-21 |  |
 | [Départ](https://open.spotify.com/track/35ZsQf6ONY4YYxyyr0Kj2o) | [Samuel Félix](https://open.spotify.com/artist/4QCrQhj1liuos6rjK3hUBr) | [Départ](https://open.spotify.com/album/69aFKb0LkHjwRhyVDpAK3A) | 3:10 | 2020-08-14\* | 2020-09-30 |
@@ -772,6 +772,7 @@
 | [Together](https://open.spotify.com/track/06J4o3WRoqbraUkXBiqldo) | [Alexander Panagopoulos](https://open.spotify.com/artist/2ezAtjuRtLi4loC6Rmyv5p) | [Together](https://open.spotify.com/album/6Aw71MnrHJntgP5Ae2QwRU) | 2:03 | 2020-08-14\* | 2021-04-09 |
 | [Together We Succeed](https://open.spotify.com/track/3U7aMdZAjOkcmZ4nUKQqZJ) | [Sylvia Beckett](https://open.spotify.com/artist/2z8eGKTdeXaLuflpOwAI1Y) | [The Teacher](https://open.spotify.com/album/6A9Tdi6gUteJtLrufkNF19) | 3:05 | 2020-08-14\* | 2020-08-20 |
 | [Toska](https://open.spotify.com/track/19y9qRgaPMPy1m9k6zcj3D) | [Alina Yanovna](https://open.spotify.com/artist/1bcouKXyjgMXRI4zCQXo3Y) | [Toska](https://open.spotify.com/album/1Fe3FHdxEHtdz9vXCqgNti) | 2:06 | 2020-08-14\* | 2021-04-09 |
+| [Tout a un sens](https://open.spotify.com/track/5VOhUrpLELS03TrEJsnL7X) | [Claire Pinette](https://open.spotify.com/artist/4cmV4jq8K9fFMqXdYQrtRP) | [Tout a un sens](https://open.spotify.com/album/76RPqIq2w4iW7G0NiWeouE) | 2:15 | 2023-05-03 |  |
 | [Tout ira bien](https://open.spotify.com/track/27PKnZV5onvCSCHEViDuJN) | [Dagmar Collier](https://open.spotify.com/artist/7GMPam14aifoeTdBmapBTj) | [Tout ira bien](https://open.spotify.com/album/6CRUMiI3y064famEBvmoc5) | 2:37 | 2020-08-14\* | 2022-06-08 |
 | [Traces](https://open.spotify.com/track/5F9n6BJytzN6kqEQR2wv05) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Traces](https://open.spotify.com/album/06LJIRUxKqN78v72GCeEuW) | 2:01 | 2020-08-14\* | 2020-09-16 |
 | [Traces](https://open.spotify.com/track/0JdJYYA2fjAGplb5VLYL07) | [Leyland Moore](https://open.spotify.com/artist/6B68z24fHjW2BFiwzthkzO) | [Traces](https://open.spotify.com/album/4lzXcaZXKBzk0aaX6fFzlE) | 3:13 | 2020-11-12 |  |

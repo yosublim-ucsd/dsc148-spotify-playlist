@@ -4,7 +4,7 @@
 
 > Discover the multifaceted creativity of the black queer community\. Cover: Honey Dijon
 
-125 songs - 6 hr 49 min
+126 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Don't Leave Me \(feat\. Elheist & Kelsey Lu\)](https://open.spotify.com/track/6XZ47QVJ2yvE9kq42bOuFh) | [Pauli The PSM](https://open.spotify.com/artist/0REk2fMEqOBQKenqZv4sgp), [Elheist](https://open.spotify.com/artist/73tncYO4BybWmBBjDdDIA0), [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Secret Life of a Badman \(Vol\. 2\)](https://open.spotify.com/album/6AAGvapziphUu7HAtTxJyY) | 4:34 | 2021-06-01 | 2022-07-29 |
 | [Don't Worry](https://open.spotify.com/track/6A0MqrWtcTboj4o71mbjCZ) | [Maxi Glamour](https://open.spotify.com/artist/5U2zl4c06LBc18sbEoQL6F) | [Don't Worry](https://open.spotify.com/album/3XZYxsIby5lLMwqB5HzUxA) | 3:20 | 2021-06-01 | 2022-07-29 |
 | [Down For It](https://open.spotify.com/track/2x93RFNdEs1JtWoHsDQqTj) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Down For It](https://open.spotify.com/album/0C83wme433FLhE95M4JbvG) | 3:15 | 2022-05-31 | 2022-07-29 |
-| [Down For It](https://open.spotify.com/track/5FhOCIqij24XZePzuJIOOp) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Down For It](https://open.spotify.com/album/7yL4gfHBtc66pNOA3Khs5y) | 3:15 | 2022-05-31 |  |
+| [Down For It](https://open.spotify.com/track/5FhOCIqij24XZePzuJIOOp) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Down For It](https://open.spotify.com/album/7yL4gfHBtc66pNOA3Khs5y) | 3:15 | 2022-05-31 | 2023-05-13 |
 | [everything](https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:27 | 2022-10-03 |  |
 | [F.U.C.K.](https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [F.U.C.K.](https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC) | 3:25 | 2021-02-26 |  |
 | [Fast Car](https://open.spotify.com/track/18kMrxuEwLL0i4lHnlF5rK) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Fast Car](https://open.spotify.com/album/1sh8dsfPPlCVXVux5NgX5d) | 3:30 | 2021-08-03 | 2023-03-18 |
@@ -101,6 +101,7 @@
 | [On My Mind](https://open.spotify.com/track/7700T9tYeO5NdTBnLNlGEI) | [James Baley](https://open.spotify.com/artist/2C5lN4qvUtD2BgRzl5iEHG) | [On My Mind](https://open.spotify.com/album/06l4Kfsm6hDRVGbHseECRv) | 3:17 | 2021-06-11 | 2022-07-22 |
 | [On My Mind \- Pride Edit](https://open.spotify.com/track/505pKYmmekm1gBQ0vschO6) | [James Baley](https://open.spotify.com/artist/2C5lN4qvUtD2BgRzl5iEHG) | [On My Mind \(Pride Edit\)](https://open.spotify.com/album/2SiHQSDH4L2hVFXeRzVlga) | 3:23 | 2021-06-25 | 2022-07-28 |
 | [One Time](https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38) | [MK xyz](https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0) | [Sweet Spot](https://open.spotify.com/album/23nTkOwxgL10bRmFMjEYRY) | 2:36 | 2021-07-09 | 2023-04-07 |
+| [One Touch](https://open.spotify.com/track/3g4wkFSYsU7Qc7bPjaJEGV) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/21lJDSVSuhyKBqkzxn9gAE) | 3:00 | 2023-04-06 |  |
 | [One Touch](https://open.spotify.com/track/6DURQC9m8Rt8SjL4ZKp0Eq) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/4VCCLsmrSghXSM8dxyhVWo) | 3:00 | 2023-04-06 | 2023-04-30 |
 | [Platinum](https://open.spotify.com/track/6IiMrJX8AvYCCt8Tcm9276) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Platinum](https://open.spotify.com/album/6MuJ7AjwnsuXXn43s8dctR) | 3:39 | 2021-02-26 | 2022-07-21 |
 | [Pride](https://open.spotify.com/track/3tkyPGRH7SARvUl8rQ59kH) | [Trans Trenderz](https://open.spotify.com/artist/0LtriUtP4hxIQuscQbhfs4), [Blxck Cxsper](https://open.spotify.com/artist/1G3Md9NFjNTht06zDM1or3), [Lady Londyn](https://open.spotify.com/artist/0grNu3cmjl3FL0YDSP2TvM) | [Pride](https://open.spotify.com/album/4vUL1NQGqSYr2fctxuhzj5) | 3:31 | 2021-06-25 | 2022-07-29 |

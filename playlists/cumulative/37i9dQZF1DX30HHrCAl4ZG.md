@@ -2,9 +2,9 @@
 
 ### [Today's Indie Rock](https://open.spotify.com/playlist/37i9dQZF1DX30HHrCAl4ZG)
 
-> All new indie rock\. Featuring new music from Indigo De Souza.
+> All new indie rock\. Featuring new music from Krooked Kings
 
-972 songs - 2 day 4 hr 50 min
+978 songs - 2 day 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [don't leave me behind](https://open.spotify.com/track/6tqxGn7fhzxNN2VWtwkYrB) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [don't leave me behind](https://open.spotify.com/album/4rwhEsCVR9FbY9yxXfjEA8) | 3:08 | 2023-04-07 |  |
 | [Don't Take It Personally](https://open.spotify.com/track/2KBCLxrGtUHGsbQTTabnft) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Don’t Take It Personally](https://open.spotify.com/album/0nPvJX8egjWzT7geR5y8Wc) | 3:40 | 2022-09-02 | 2022-11-19 |
 | [DONNIE DARKO](https://open.spotify.com/track/5a6Sd7VuMRuH6t2sYv3Gue) | [steve breaux](https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g) | [DONNIE DARKO](https://open.spotify.com/album/34NmkOQ5HylEjb8wSPoNXv) | 2:37 | 2022-08-26 | 2022-11-19 |
+| [Doomsday](https://open.spotify.com/track/3cfgcCQd4wcOzVHpODQbEv) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Doomsday](https://open.spotify.com/album/02zEFZOxorMIOSEs1HIs19) | 2:30 | 2023-05-12 |  |
 | [down bad](https://open.spotify.com/track/0vjpfpch27QUf1cUs4seDl) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [off the grid](https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56) | 3:11 | 2022-06-10 | 2022-11-19 |
 | [Down That Road](https://open.spotify.com/track/6fGeA9cNR5CYDTSHtsCfgC) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [Down That Road](https://open.spotify.com/album/3eRuQG0eslCImuwfKxL4UG) | 4:17 | 2021-06-07 | 2022-02-12 |
 | [Dreaming Of U](https://open.spotify.com/track/6Pgsct6yXxEMctSyDIOsFj) | [Oberhofer](https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX) | [Dreaming Of U](https://open.spotify.com/album/47KzyIteACvEnM3tcmERlG) | 3:16 | 2021-11-19 | 2022-04-28 |
@@ -346,6 +347,7 @@
 | [Focus](https://open.spotify.com/track/6bE3rnhnlVNevaIuwvkiXF) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Focus](https://open.spotify.com/album/69QkIjxgLwRUFibhVxRKpA) | 2:41 | 2022-09-30 | 2022-10-22 |
 | [Fool](https://open.spotify.com/track/18wWSj6ydP6E8oSkgw5vrM) | [Emmett Mulrooney](https://open.spotify.com/artist/5pJ2pz0jrulWmS23wiPknh) | [Fool](https://open.spotify.com/album/6ZFJA2oxw1AdQUop3BzTV8) | 3:11 | 2021-08-20 | 2022-06-11 |
 | [For You](https://open.spotify.com/track/5lJOWTcuCJm34M2y9G04zK) | [Superfan](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [For You](https://open.spotify.com/album/1RDbdhWq1OiU2x1Tco0Vpw) | 3:48 | 2023-04-14 |  |
+| [Francine](https://open.spotify.com/track/5EkuuSlYhPOGw5u8fBZchr) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Francine](https://open.spotify.com/album/3qbOr1Vxke04WmPswO4hRv) | 4:26 | 2023-05-12 |  |
 | [Frankenstein](https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Frankenstein](https://open.spotify.com/album/740ehwZADpfoezUB54h6zE) | 3:22 | 2021-06-07 | 2022-06-11 |
 | [Freakin' Out On the Interstate](https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Freakin' Out On The Interstate \(Acoustic Version \[Live\]\)](https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl) | 4:11 | 2021-06-07 | 2022-06-11 |
 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2021-06-07 | 2022-06-11 |
@@ -473,6 +475,7 @@
 | [ILY2](https://open.spotify.com/track/7tgteKiRkLq30c9qG4mWQr) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [ILY2](https://open.spotify.com/album/5Z465xB0bAwR9qyhWEtE7k) | 3:45 | 2022-10-07 | 2022-11-19 |
 | [im so happy](https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [misery](https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd) | 2:19 | 2022-09-30 | 2022-11-19 |
 | [Imaginary Girl](https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [SongBook](https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0) | 4:21 | 2022-06-10 | 2022-08-13 |
+| [In My Head](https://open.spotify.com/track/1yc5LZHmb4HMkRNTWRmjSt) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [In My Head](https://open.spotify.com/album/1akIArJX3OYAgf9xCcPVA1) | 3:39 | 2023-05-12 |  |
 | [In the Stone](https://open.spotify.com/track/3adddSwFCDcRzQdL2O15Et) | [The Goon Sax](https://open.spotify.com/artist/7qtF58vGfOhD4z3yzrD9PD) | [In the Stone](https://open.spotify.com/album/5d8djfxRGwCV72yp8nTg0O) | 4:07 | 2021-07-02 | 2022-04-01 |
 | [in the wake of your leave](https://open.spotify.com/track/4vjB69VckVUeu0GzAxoZRm) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [in the wake of your leave](https://open.spotify.com/album/5cnVBEtmUA3g55e2qbzdw7) | 4:03 | 2022-01-14 | 2022-04-16 |
 | [In Too Deep](https://open.spotify.com/track/76rOZ9F8s8mX9N3NhZBgxt) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [In Too Deep](https://open.spotify.com/album/5cBeOUywALVmPxmCS8CPPw) | 3:41 | 2021-09-17 | 2022-06-08 |
@@ -677,6 +680,7 @@
 | [Pontius Pilate's Home Movies](https://open.spotify.com/track/152Ddv62y84DfPLEKTUKd5) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [Pontius Pilate's Home Movies](https://open.spotify.com/album/1i2UudOjUlX4RKyARPGbh1) | 3:54 | 2023-03-10 |  |
 | [Pool House](https://open.spotify.com/track/74f0dpqHhTeTJzs4pmZ1yq) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:29 | 2022-03-04 | 2022-06-11 |
 | [poppin](https://open.spotify.com/track/7hHZuFMAyVj48DwxhZE9IK) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [poppin](https://open.spotify.com/album/2Z5ksNiLa2fNEi7zWWt7Z5) | 3:49 | 2021-10-02 | 2022-02-09 |
+| [Portrait of a Blank Slate](https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Wake Up & It's Over](https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr) | 3:47 | 2023-05-12 |  |
 | [Portraits](https://open.spotify.com/track/1n2POqjfHTnCt3bxaa1vCX) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Portraits](https://open.spotify.com/album/28cCm9j1feLv2jdqCdLmby) | 3:42 | 2023-04-14 | 2023-05-06 |
 | [Post Humorous](https://open.spotify.com/track/0yb9DKhu0xA0h0qvKOHVwu) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/1D8cnABQfjvfQC2Cdk889m) | 4:39 | 2021-06-07 | 2022-06-10 |
 | [Powder Train](https://open.spotify.com/track/7KSt2QahdvrzR12MTcGvBF) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Powder Train](https://open.spotify.com/album/12mbQczCrxtJoszrvwOarM) | 3:15 | 2021-08-20 | 2022-04-20 |
@@ -954,8 +958,10 @@
 | [Wild Heart](https://open.spotify.com/track/0pS21h64SdLRwXdG6s2NQC) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Wild Heart](https://open.spotify.com/album/0YHvPJPXebNHPw0vSRA0OI) | 2:57 | 2023-04-07 |  |
 | [Wings Of Time \- From the Motion Picture Dungeons & Dragons: Honor Among Thieves](https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Wings Of Time \(From the Motion Picture Dungeons & Dragons: Honor Among Thieves\)](https://open.spotify.com/album/65pBo4TdEz2AaxENDqw3qZ) | 2:48 | 2023-03-10 |  |
 | [Winona](https://open.spotify.com/track/50CrMqvVH178XRNNhhXfTy) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Winona](https://open.spotify.com/album/29HNHTBfCETetrohUBXJxY) | 2:25 | 2021-06-07 | 2022-06-11 |
+| [Winona](https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Winona](https://open.spotify.com/album/2cwVHZrQ0eaaiUhCxW7glA) | 4:35 | 2023-05-12 |  |
 | [wish i was dead](https://open.spotify.com/track/16dzo8i1mlh2AkmQ4DhwXH) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [wish i was dead](https://open.spotify.com/album/3B4UmoO1zRScG8X8MSDHy4) | 1:38 | 2022-07-29 | 2022-09-17 |
 | [WISH ME LUCK](https://open.spotify.com/track/3jOguPISqOdYbXW3AEfaIi) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [WISH ME LUCK](https://open.spotify.com/album/2WQyNqZQwbO16FHAr6vVZS) | 3:23 | 2022-12-16 | 2023-04-01 |
+| [Wish We Could Be Friends](https://open.spotify.com/track/70f0GBfQ0y6DZvC3jytr5R) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE) | [All Out of Good Days](https://open.spotify.com/album/1SS5zZzp492w5EhFuYzVVl) | 2:31 | 2023-05-12 |  |
 | [Without Me](https://open.spotify.com/track/59CvrXg1dTTVlPDpdur9wK) | [Smoothboi Ezra](https://open.spotify.com/artist/2efF0JsHHsKKyjceFHUMFj) | [Stuck](https://open.spotify.com/album/2FhHAKCrIdmILg8GDAmSUM) | 4:48 | 2021-06-11 | 2022-06-11 |
 | [Woah Man](https://open.spotify.com/track/1cURTWQdBWRjUaJI6Fdbsg) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Woah Man](https://open.spotify.com/album/7KrFIcXSNVl52AbtxRtRlp) | 3:28 | 2021-06-07 | 2022-06-11 |
 | [Woman on Fire](https://open.spotify.com/track/1UVKKR5tN9KfKYng30e1dx) | [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [Woman on Fire](https://open.spotify.com/album/3tyDFxumq69ziGnO9DzNRV) | 2:58 | 2023-03-31 |  |

@@ -1,12 +1,12 @@
 {
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
-  "num_followers": 212075,
+  "num_followers": 212105,
   "original_name": "Sax and the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTQ4MTZkZmM4NjkxYzhmZDU4MmQyZTlhZjBhYzA4MGZhZWI0ZWVi",
+  "snapshot_id": "MCxjNDdhNTAzYjMwMmY3NTdmYjI4MmU2ODM1MDkwMzA5Y2EwYzJhNGIy",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -507,6 +507,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "Life And Times",
+        "url": "https://open.spotify.com/album/7oZHj62kMhRxOuyWgUOCM1"
+      },
+      "artists": [
+        {
+          "name": "Jazz Funk Soul",
+          "url": "https://open.spotify.com/artist/3avdUekEuUcWJDjYZimuED"
+        }
+      ],
+      "duration_ms": 270466,
+      "name": "Windfall",
+      "url": "https://open.spotify.com/track/35lSHKu6MIaXuB2aUacX7C"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "The Morning After",
         "url": "https://open.spotify.com/album/4ILJ7RNqetmplRsoyFvouK"
       },
@@ -519,30 +535,6 @@
       "duration_ms": 301853,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/6lyoLhAkRUDGXVgcpXXcCx"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Soul City",
-        "url": "https://open.spotify.com/album/1DxgdQ1ElsqF3qHh536Q9D"
-      },
-      "artists": [
-        {
-          "name": "Marion Meadows",
-          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
-        },
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        },
-        {
-          "name": "Joey Sommerville",
-          "url": "https://open.spotify.com/artist/3r2DTAWaEg2ZWJldij2VUA"
-        }
-      ],
-      "duration_ms": 230696,
-      "name": "Soul City",
-      "url": "https://open.spotify.com/track/5H6VCCvafjEQWIrnui0wOd"
     },
     {
       "added_at": "2021-07-12 18:23:33",
@@ -579,18 +571,26 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Life And Times",
-        "url": "https://open.spotify.com/album/7oZHj62kMhRxOuyWgUOCM1"
+        "name": "Soul City",
+        "url": "https://open.spotify.com/album/1DxgdQ1ElsqF3qHh536Q9D"
       },
       "artists": [
         {
-          "name": "Jazz Funk Soul",
-          "url": "https://open.spotify.com/artist/3avdUekEuUcWJDjYZimuED"
+          "name": "Marion Meadows",
+          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
+        },
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        },
+        {
+          "name": "Joey Sommerville",
+          "url": "https://open.spotify.com/artist/3r2DTAWaEg2ZWJldij2VUA"
         }
       ],
-      "duration_ms": 270466,
-      "name": "Windfall",
-      "url": "https://open.spotify.com/track/35lSHKu6MIaXuB2aUacX7C"
+      "duration_ms": 230696,
+      "name": "Soul City",
+      "url": "https://open.spotify.com/track/5H6VCCvafjEQWIrnui0wOd"
     },
     {
       "added_at": "2021-10-01 04:02:00",
@@ -685,22 +685,6 @@
       "url": "https://open.spotify.com/track/63XAVsskaasvNFwuX9bDrB"
     },
     {
-      "added_at": "2021-07-12 18:23:33",
-      "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/7bljLOiLPMG0ZbVVduZfzb"
-      },
-      "artists": [
-        {
-          "name": "Jeff Ryan",
-          "url": "https://open.spotify.com/artist/0cjzOb6JYN5AOg4WVA9miY"
-        }
-      ],
-      "duration_ms": 258706,
-      "name": "Up and Up",
-      "url": "https://open.spotify.com/track/76VWJmXcf9xVHQmXSdR2On"
-    },
-    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Align",
@@ -719,6 +703,22 @@
       "duration_ms": 244613,
       "name": "Solux",
       "url": "https://open.spotify.com/track/2eEQtEfr7JdPSSwYjNsznv"
+    },
+    {
+      "added_at": "2021-07-12 18:23:33",
+      "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/7bljLOiLPMG0ZbVVduZfzb"
+      },
+      "artists": [
+        {
+          "name": "Jeff Ryan",
+          "url": "https://open.spotify.com/artist/0cjzOb6JYN5AOg4WVA9miY"
+        }
+      ],
+      "duration_ms": 258706,
+      "name": "Up and Up",
+      "url": "https://open.spotify.com/track/76VWJmXcf9xVHQmXSdR2On"
     },
     {
       "added_at": "2021-07-12 18:23:33",
@@ -823,22 +823,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "M.P.3",
-        "url": "https://open.spotify.com/album/5dHIYzhFckBVCZO7FTA5VN"
-      },
-      "artists": [
-        {
-          "name": "Mike Phillips",
-          "url": "https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb"
-        }
-      ],
-      "duration_ms": 199573,
-      "name": "Gonna' Miss You",
-      "url": "https://open.spotify.com/track/4TCscGfdcw4qamFgbtwBpA"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "True Stories",
         "url": "https://open.spotify.com/album/1oDCFpi7Kynh6YM30R39Ev"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 270133,
       "name": "Wild Tales (feat. Russ Freeman)",
       "url": "https://open.spotify.com/track/0JpSVTcs8PBLD5ZmOj26cF"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "M.P.3",
+        "url": "https://open.spotify.com/album/5dHIYzhFckBVCZO7FTA5VN"
+      },
+      "artists": [
+        {
+          "name": "Mike Phillips",
+          "url": "https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb"
+        }
+      ],
+      "duration_ms": 199573,
+      "name": "Gonna' Miss You",
+      "url": "https://open.spotify.com/track/4TCscGfdcw4qamFgbtwBpA"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1093,22 +1093,6 @@
       "url": "https://open.spotify.com/track/6WVShGy8xN8TfrQcRDpv4t"
     },
     {
-      "added_at": "2021-08-13 04:01:00",
-      "album": {
-        "name": "West Coast Soul",
-        "url": "https://open.spotify.com/album/1twn2s1XpW5lwVQ2Lhol0V"
-      },
-      "artists": [
-        {
-          "name": "Chris Godber",
-          "url": "https://open.spotify.com/artist/2UpaCo1jPuhehJBrIAaj53"
-        }
-      ],
-      "duration_ms": 259838,
-      "name": "West Coast Soul",
-      "url": "https://open.spotify.com/track/6FIXVKzMAqi9GTv0rysrVH"
-    },
-    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Limitless",
@@ -1123,6 +1107,22 @@
       "duration_ms": 233920,
       "name": "Limitless - Radio Edit",
       "url": "https://open.spotify.com/track/6EKw5whgxDjZzjBGV7i74H"
+    },
+    {
+      "added_at": "2021-08-13 04:01:00",
+      "album": {
+        "name": "West Coast Soul",
+        "url": "https://open.spotify.com/album/1twn2s1XpW5lwVQ2Lhol0V"
+      },
+      "artists": [
+        {
+          "name": "Chris Godber",
+          "url": "https://open.spotify.com/artist/2UpaCo1jPuhehJBrIAaj53"
+        }
+      ],
+      "duration_ms": 259838,
+      "name": "West Coast Soul",
+      "url": "https://open.spotify.com/track/6FIXVKzMAqi9GTv0rysrVH"
     },
     {
       "added_at": "2022-06-03 04:02:00",
@@ -1225,22 +1225,6 @@
       "url": "https://open.spotify.com/track/6O0FDghGmoL5w0WOVaoNIP"
     },
     {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/6LWgHsHvcDcVg0Oj5inJP4"
-      },
-      "artists": [
-        {
-          "name": "Jeff Kashiwa",
-          "url": "https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW"
-        }
-      ],
-      "duration_ms": 292320,
-      "name": "The Lucky One",
-      "url": "https://open.spotify.com/track/0ipCht4s0zuTzjLvLDstXf"
-    },
-    {
       "added_at": "2021-08-13 04:01:00",
       "album": {
         "name": "On The Move",
@@ -1259,34 +1243,38 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Breakin' Thru",
-        "url": "https://open.spotify.com/album/37OBARgecVcRJ385LQO7Je"
+        "name": "Play",
+        "url": "https://open.spotify.com/album/6LWgHsHvcDcVg0Oj5inJP4"
+      },
+      "artists": [
+        {
+          "name": "Jeff Kashiwa",
+          "url": "https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW"
+        }
+      ],
+      "duration_ms": 292320,
+      "name": "The Lucky One",
+      "url": "https://open.spotify.com/track/0ipCht4s0zuTzjLvLDstXf"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Summer Feelin'",
+        "url": "https://open.spotify.com/album/70m2RHdocFLeIPpzXEUa45"
       },
       "artists": [
         {
           "name": "Eric Darius",
           "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
-        }
-      ],
-      "duration_ms": 270968,
-      "name": "Breakin' Thru",
-      "url": "https://open.spotify.com/track/0In4huETTZX9XmkZHPGATo"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "As the Days Go by...",
-        "url": "https://open.spotify.com/album/3EefR2XmjoXKQSX80HncCa"
-      },
-      "artists": [
+        },
         {
-          "name": "Alfonzo Blackwell",
-          "url": "https://open.spotify.com/artist/5EBTM4IYuzYJX0MbvYPwXz"
+          "name": "Paul Jackson, Jr.",
+          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
         }
       ],
-      "duration_ms": 309827,
-      "name": "As the Days Go by...",
-      "url": "https://open.spotify.com/track/2ysmazV8DCgEZ6T49FKlKE"
+      "duration_ms": 238887,
+      "name": "Summer Feelin'",
+      "url": "https://open.spotify.com/track/7bUb9LZSTFn447srnC1vPA"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1303,6 +1291,22 @@
       "duration_ms": 263106,
       "name": "A-Game",
       "url": "https://open.spotify.com/track/16SqVat33WWYI4ebWf2iJq"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "As the Days Go by...",
+        "url": "https://open.spotify.com/album/3EefR2XmjoXKQSX80HncCa"
+      },
+      "artists": [
+        {
+          "name": "Alfonzo Blackwell",
+          "url": "https://open.spotify.com/artist/5EBTM4IYuzYJX0MbvYPwXz"
+        }
+      ],
+      "duration_ms": 309827,
+      "name": "As the Days Go by...",
+      "url": "https://open.spotify.com/track/2ysmazV8DCgEZ6T49FKlKE"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1379,26 +1383,6 @@
       "duration_ms": 236273,
       "name": "Play",
       "url": "https://open.spotify.com/track/2iYXWh7NuRye7OS5BsV3Aq"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Summer Feelin'",
-        "url": "https://open.spotify.com/album/70m2RHdocFLeIPpzXEUa45"
-      },
-      "artists": [
-        {
-          "name": "Eric Darius",
-          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
-        },
-        {
-          "name": "Paul Jackson, Jr.",
-          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
-        }
-      ],
-      "duration_ms": 238887,
-      "name": "Summer Feelin'",
-      "url": "https://open.spotify.com/track/7bUb9LZSTFn447srnC1vPA"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1537,6 +1521,22 @@
       "url": "https://open.spotify.com/track/2KBRV7S5JLe2elIN7y1DaC"
     },
     {
+      "added_at": "2021-10-08 04:02:00",
+      "album": {
+        "name": "No Shade",
+        "url": "https://open.spotify.com/album/6Q8xVgUdOXmVC8tajioGQw"
+      },
+      "artists": [
+        {
+          "name": "Isaac Norris",
+          "url": "https://open.spotify.com/artist/7Jk3V5UnyugLjWSQ0Knt0G"
+        }
+      ],
+      "duration_ms": 248472,
+      "name": "No Shade",
+      "url": "https://open.spotify.com/track/6E94ZUOgN9UazkFmGxEu5q"
+    },
+    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "City Life",
@@ -1557,20 +1557,96 @@
       "url": "https://open.spotify.com/track/0OXsI6rI38UK0QXVgaQ6yy"
     },
     {
-      "added_at": "2021-10-08 04:02:00",
+      "added_at": "2021-07-12 18:23:33",
       "album": {
-        "name": "No Shade",
-        "url": "https://open.spotify.com/album/6Q8xVgUdOXmVC8tajioGQw"
+        "name": "In the Moment",
+        "url": "https://open.spotify.com/album/34TYKRmrFk5xS76FOzBQBS"
       },
       "artists": [
         {
-          "name": "Isaac Norris",
-          "url": "https://open.spotify.com/artist/7Jk3V5UnyugLjWSQ0Knt0G"
+          "name": "Deon Yates",
+          "url": "https://open.spotify.com/artist/7rRyjSFGUWRFh7UgN70MZO"
+        },
+        {
+          "name": "Nathan Mitchell",
+          "url": "https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX"
         }
       ],
-      "duration_ms": 248472,
-      "name": "No Shade",
-      "url": "https://open.spotify.com/track/6E94ZUOgN9UazkFmGxEu5q"
+      "duration_ms": 238529,
+      "name": "In the Moment",
+      "url": "https://open.spotify.com/track/4cEmNYuJF3sRAHTHcV16c4"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Slam Dunk",
+        "url": "https://open.spotify.com/album/4abjBabp4Ce9MIShgUqsBy"
+      },
+      "artists": [
+        {
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+        }
+      ],
+      "duration_ms": 280106,
+      "name": "Slam Dunk",
+      "url": "https://open.spotify.com/track/7mSAW4ke915ZwPQQUL0mtF"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Heat",
+        "url": "https://open.spotify.com/album/50h9oPdFPFkcbCDrS6b4XS"
+      },
+      "artists": [
+        {
+          "name": "Jazmin Ghent",
+          "url": "https://open.spotify.com/artist/1ObapCOA0O7mr2wXFKEDNY"
+        },
+        {
+          "name": "Kim Scott",
+          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
+        },
+        {
+          "name": "Philippe Saisse",
+          "url": "https://open.spotify.com/artist/76eaAxXOF5UhLXASB8UiQJ"
+        }
+      ],
+      "duration_ms": 264151,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/21XGnNLlkeuNd7pOCUy8SI"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Pulling Off The Covers",
+        "url": "https://open.spotify.com/album/1cl7i0OKKnt75YYUmpiwN4"
+      },
+      "artists": [
+        {
+          "name": "Mike Phillips",
+          "url": "https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb"
+        }
+      ],
+      "duration_ms": 248880,
+      "name": "Setembro",
+      "url": "https://open.spotify.com/track/1bZuzZgY4M6wLNs1aFWlS9"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Steppin' Up",
+        "url": "https://open.spotify.com/album/0DITfrhUVScJdnsT4OmgMT"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Ward",
+          "url": "https://open.spotify.com/artist/3yroTvZKrVMjmu5yufiWJG"
+        }
+      ],
+      "duration_ms": 284093,
+      "name": "City Vibe",
+      "url": "https://open.spotify.com/track/79x2Lkq33VN2rQdrs9i6h6"
     },
     {
       "added_at": "2022-04-15 04:02:00",
@@ -1605,98 +1681,6 @@
       "url": "https://open.spotify.com/track/6bGPsVqyQyTs1QPus8AFAP"
     },
     {
-      "added_at": "2021-07-12 18:23:33",
-      "album": {
-        "name": "In the Moment",
-        "url": "https://open.spotify.com/album/34TYKRmrFk5xS76FOzBQBS"
-      },
-      "artists": [
-        {
-          "name": "Deon Yates",
-          "url": "https://open.spotify.com/artist/7rRyjSFGUWRFh7UgN70MZO"
-        },
-        {
-          "name": "Nathan Mitchell",
-          "url": "https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX"
-        }
-      ],
-      "duration_ms": 238529,
-      "name": "In the Moment",
-      "url": "https://open.spotify.com/track/4cEmNYuJF3sRAHTHcV16c4"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Heat",
-        "url": "https://open.spotify.com/album/50h9oPdFPFkcbCDrS6b4XS"
-      },
-      "artists": [
-        {
-          "name": "Jazmin Ghent",
-          "url": "https://open.spotify.com/artist/1ObapCOA0O7mr2wXFKEDNY"
-        },
-        {
-          "name": "Kim Scott",
-          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
-        },
-        {
-          "name": "Philippe Saisse",
-          "url": "https://open.spotify.com/artist/76eaAxXOF5UhLXASB8UiQJ"
-        }
-      ],
-      "duration_ms": 264151,
-      "name": "Heat",
-      "url": "https://open.spotify.com/track/21XGnNLlkeuNd7pOCUy8SI"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Slam Dunk",
-        "url": "https://open.spotify.com/album/4abjBabp4Ce9MIShgUqsBy"
-      },
-      "artists": [
-        {
-          "name": "Gerald Albright",
-          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
-        }
-      ],
-      "duration_ms": 280106,
-      "name": "Slam Dunk",
-      "url": "https://open.spotify.com/track/7mSAW4ke915ZwPQQUL0mtF"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Steppin' Up",
-        "url": "https://open.spotify.com/album/0DITfrhUVScJdnsT4OmgMT"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Ward",
-          "url": "https://open.spotify.com/artist/3yroTvZKrVMjmu5yufiWJG"
-        }
-      ],
-      "duration_ms": 284093,
-      "name": "City Vibe",
-      "url": "https://open.spotify.com/track/79x2Lkq33VN2rQdrs9i6h6"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Pulling Off The Covers",
-        "url": "https://open.spotify.com/album/1cl7i0OKKnt75YYUmpiwN4"
-      },
-      "artists": [
-        {
-          "name": "Mike Phillips",
-          "url": "https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb"
-        }
-      ],
-      "duration_ms": 248880,
-      "name": "Setembro",
-      "url": "https://open.spotify.com/track/1bZuzZgY4M6wLNs1aFWlS9"
-    },
-    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Silver Lining",
@@ -1711,6 +1695,22 @@
       "duration_ms": 249320,
       "name": "Break the Ice",
       "url": "https://open.spotify.com/track/6BvXHhmXcleXjrjGSxxdOs"
+    },
+    {
+      "added_at": "2022-04-15 04:02:00",
+      "album": {
+        "name": "I Feel It Coming",
+        "url": "https://open.spotify.com/album/1EmXsKgb7A6a3rIhI3aW4T"
+      },
+      "artists": [
+        {
+          "name": "Nathan Allen",
+          "url": "https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce"
+        }
+      ],
+      "duration_ms": 241240,
+      "name": "I Feel It Coming",
+      "url": "https://open.spotify.com/track/5JjpJpnQRjYjlRh1FJCkVm"
     },
     {
       "added_at": "2021-07-12 18:09:21",

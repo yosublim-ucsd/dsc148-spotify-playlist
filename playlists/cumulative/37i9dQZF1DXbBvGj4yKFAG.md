@@ -2,9 +2,9 @@
 
 ### [side effects](https://open.spotify.com/playlist/37i9dQZF1DXbBvGj4yKFAG)
 
-> may include
+> may include sad indie rock songs.
 
-131 songs - 7 hr 8 min
+136 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Blues Run the Game](https://open.spotify.com/track/6Ay9SMrkUMZ1Uq01X5b7wJ) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Covers Vol\. 1](https://open.spotify.com/album/3WdpM0kX0UbJs4yGpEtrJQ) | 3:06 | 2023-04-14 |  |
 | [Burns Effect](https://open.spotify.com/track/1UOmRFTqjNBLfKklHEw7CC) | [Tanlines](https://open.spotify.com/artist/7pW390CJdmhakvtcGZIqGP) | [Burns Effect](https://open.spotify.com/album/25jtHTJhG1J5TGoqLjwqax) | 3:26 | 2023-04-11 |  |
 | [Bury Me](https://open.spotify.com/track/1RQ95XIUXRUNAZgMqSa3La) | [Laney Tripp](https://open.spotify.com/artist/2oHONIRqxXSaM6rAtMNps8) | [Small](https://open.spotify.com/album/0d9OmH7pZgv2FhGpJqZyvp) | 2:27 | 2023-04-11 |  |
+| [carole king](https://open.spotify.com/track/4VdYhyqZCi3BbeFiGdzTo1) | [PISSKISS](https://open.spotify.com/artist/0SeXCXXWOD0Fld3oHvdyyL) | [carole king](https://open.spotify.com/album/4QcMtvtV3lNSXEpirqXjHa) | 3:51 | 2023-05-12 |  |
 | [Chamber of Reflection \(Live Cover\)](https://open.spotify.com/track/2wCbsLmmjendUDzsMGubP0) | [Your Anxiety Buddy](https://open.spotify.com/artist/6krQn0Lyb7Wj0Yz03Z2Ts0) | [Chamber of Reflection \(Remixes\)](https://open.spotify.com/album/4SmPOUhbSUydP4jg0KZNfT) | 2:30 | 2023-02-09 |  |
 | [Chamomile](https://open.spotify.com/track/6GAPaGVVGgczGdMslknSMc) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Chamomile](https://open.spotify.com/album/5QLep18EqyzRJ50cz1BzWb) | 3:37 | 2023-04-21 |  |
 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 | 2023-03-07 |  |
@@ -80,6 +81,7 @@
 | [Love Letters](https://open.spotify.com/track/2p1kB54xX8sS5UWuyqTMT4) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [Love Letters](https://open.spotify.com/album/69pCjNxYsuiwgnLIBxVTep) | 3:16 | 2023-04-14 |  |
 | [Lovers From The Past](https://open.spotify.com/track/29P3bJSzsI5fUvwxSItkvr) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Lovers From The Past](https://open.spotify.com/album/5ACGaSKEybDGrdthNiGCfY) | 3:19 | 2023-03-16 |  |
 | [lust](https://open.spotify.com/track/4Glfjo6o4dPmRLRi5HKYdf) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [liminal spaces](https://open.spotify.com/album/7KFoizTd1KGrJQBqFS58Z8) | 2:05 | 2023-04-11 |  |
+| [mean creek.](https://open.spotify.com/track/00AM3zuuier3pzRI0dFhSO) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [Elizabethtown.](https://open.spotify.com/album/7epCR4GKjfqGTuKZMyhtid) | 2:16 | 2023-05-12 |  |
 | [Mercy](https://open.spotify.com/track/5vWAgdYgGN5WXzKvfNwx2E) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Mercy](https://open.spotify.com/album/6bLQpivQqQcSn5ACBdliRP) | 2:59 | 2023-02-09 |  |
 | [Million Dollar Song](https://open.spotify.com/track/1iqpKs6dgT2zIiP0GbVo6b) | [VELVETEARS](https://open.spotify.com/artist/76uBpZUqkDljACPBsu2klS) | [Million Dollar Song](https://open.spotify.com/album/6wNVEZIRbIR8PwWsaafK0w) | 3:46 | 2023-04-11 |  |
 | [miss](https://open.spotify.com/track/21xIob7jppF4otgvEUhTrF) | [postcard nowhere](https://open.spotify.com/artist/78lD1azjm0P1ct7Trr82dI) | [Juvenilia](https://open.spotify.com/album/4M3APzhv4jdhwSlHeK48Fk) | 2:05 | 2023-04-11 |  |
@@ -105,19 +107,22 @@
 | [Secret](https://open.spotify.com/track/3qPZlJAvV95TnC4kFgTvnA) | [waveform\*](https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd) | [Sckrpnch](https://open.spotify.com/album/46PCqFYcWdnQgra1P6Y7oz) | 1:41 | 2023-02-09 |  |
 | [See Through](https://open.spotify.com/track/6qxeTdWUB0dAvv2Gp2Qdy9) | [Bedlocked](https://open.spotify.com/artist/7wgq6QJrXri0Mn31MCZmnt) | [Bedlocked](https://open.spotify.com/album/7A0OdpSoqCpNMX8SbzbKKO) | 3:09 | 2023-04-11 |  |
 | [Self Fulfilling Prophecy](https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Makes Me Sick Makes Me Smile](https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx) | 3:49 | 2023-02-09 |  |
+| [Sleep Walking](https://open.spotify.com/track/5n9ahkGyDNRv7HD2ng7sAJ) | [Chase Elliott](https://open.spotify.com/artist/7CmLWWnzB2PQoGLpJ4zDHR) | [Sleep Walking](https://open.spotify.com/album/2djkjUvLdBkJMvt33GuW6L) | 3:19 | 2023-05-12 |  |
 | [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-14 |  |
 | [small](https://open.spotify.com/track/7cEUiQ4Wc2JpU9tkzrYqfv) | [sundots](https://open.spotify.com/artist/0K7RoGabPQO08yJDhsvvL5) | [room](https://open.spotify.com/album/77gWWHaMLsKr00U3SfTCns) | 1:38 | 2023-04-11 |  |
+| [So Sweet](https://open.spotify.com/track/5dFkDkyoBw6RXV51zfdvE6) | [Trash Panda](https://open.spotify.com/artist/5D9DTI3Knr64lYa3zDCpB7) | [PANDAMONIUM!](https://open.spotify.com/album/4NyZbFQFYDehtNGYEVwnsU) | 3:24 | 2023-05-12 |  |
 | [Sometimes \(Backwood\)](https://open.spotify.com/track/1ElGmhauttS9p7LwmHG9uM) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sometimes \(Backwood\)](https://open.spotify.com/album/3hdw3AH6dkRpONWlJnotZn) | 2:33 | 2023-02-09 |  |
 | [song i made up to stop myself from having a panic attack just now \(ft\. rich\)](https://open.spotify.com/track/0LTOpiPy2PahUkpMYLW3JL) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ), [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ) | [song i made up to stop myself from having a panic attack just now](https://open.spotify.com/album/7ubczqQBG332NdZGDYdtu0) | 0:41 | 2023-02-09 |  |
 | [Sorry / happysad](https://open.spotify.com/track/27DoSJFpTdzs6lN0iurC5C) | [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [King of the Basement](https://open.spotify.com/album/6lxrzoYSxl7Nk7pAQkUe7i) | 6:01 | 2023-04-11 |  |
 | [Spinning](https://open.spotify.com/track/4ZtYV4eG1W40rWtyDy9SvA) | [trauma ray](https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1) | [trauma ray](https://open.spotify.com/album/6DxOT2chpx586JqiRbqviT) | 0:56 | 2023-02-09 |  |
 | [Suicide Cleanup](https://open.spotify.com/track/5ibob4IdqDLEBi176GswYc) | [Birth Day](https://open.spotify.com/artist/75UKUI7fd2RjNRgy8oaNdt) | [Boyhood](https://open.spotify.com/album/1ghe8W4YxdcimjnpguMQTr) | 2:21 | 2023-02-09 |  |
-| [Superstar](https://open.spotify.com/track/4xDLG37u0vHk2iaE5C6Xa4) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Superstar](https://open.spotify.com/album/5UbY0vlLOPIE4mEQfTFoe5) | 2:13 | 2023-04-11 |  |
-| [sway](https://open.spotify.com/track/3Eg76zYKF241M5heKUxytB) | [james king](https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli) | [sway](https://open.spotify.com/album/2kt0qpTawRj4YrNoELfrwQ) | 1:55 | 2023-04-11 |  |
+| [Superstar](https://open.spotify.com/track/4xDLG37u0vHk2iaE5C6Xa4) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Superstar](https://open.spotify.com/album/5UbY0vlLOPIE4mEQfTFoe5) | 2:13 | 2023-04-11 | 2023-05-13 |
+| [sway](https://open.spotify.com/track/3Eg76zYKF241M5heKUxytB) | [james king](https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli) | [sway](https://open.spotify.com/album/2kt0qpTawRj4YrNoELfrwQ) | 1:55 | 2023-04-11 | 2023-05-13 |
 | [tell me a joke](https://open.spotify.com/track/2fOYcnUo9iPTOqIlSg26MY) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [I Didn't Mean To Haunt You](https://open.spotify.com/album/3c0NHNo2Gn0X7uARad3hGv) | 5:04 | 2023-02-09 | 2023-02-22 |
 | [The Gaping Mouth](https://open.spotify.com/track/4zIJESN3Y2Yu3aY9cJtbyG) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [The Gaping Mouth](https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU) | 4:38 | 2023-04-11 |  |
 | [The Gold \- Phoebe Bridgers Version](https://open.spotify.com/track/7qcXUzPwoxSBFxjTbNrV0B) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [The Gold \(Phoebe Bridgers Version\)](https://open.spotify.com/album/5pCfjopxazLdvmLae6My9w) | 3:53 | 2023-02-09 |  |
 | [The Moon Song \- Studio Version Duet](https://open.spotify.com/track/6E0YEPzjMvUymYOvmDIgp4) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [The Moon Song \(Music From And Inspired By The Motion Picture Her\)](https://open.spotify.com/album/6LFZaTo38vtBqq75Goxcky) | 3:05 | 2023-04-11 |  |
+| [The Sling](https://open.spotify.com/track/5zBy9ktMUUi2tPmDCsibhZ) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Sling](https://open.spotify.com/album/3a9mlAey1BcxzcQadfuFs6) | 3:33 | 2023-05-12 |  |
 | [The Structure](https://open.spotify.com/track/6nOKw3Ru2vnDetFnFTqWPH) | [Plas Teg](https://open.spotify.com/artist/7DfLOst9EGAaBbtoyrUxTu) | [Latch Relay](https://open.spotify.com/album/7BVF7TAhJX4bJDG4MjKONr) | 3:26 | 2023-02-09 |  |
 | [TheBestVersionOfMyself](https://open.spotify.com/track/5ew51yiULYPreqN5It5h3S) | [surrenderdorothy](https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp) | [BreathingExercise](https://open.spotify.com/album/35jxEKfiHeAU9yXJlmPOcD) | 1:12 | 2023-04-11 |  |
 | [then i met her](https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:18 | 2023-02-09 |  |
@@ -132,7 +137,7 @@
 | [Warsh\_Tippy and Zelda](https://open.spotify.com/track/3R0jMlEvot7UYLeulRfl8E) | [Whatever, Dad](https://open.spotify.com/artist/1wMNhhG8VUhDGZ249MZBtn) | [Grade Pending](https://open.spotify.com/album/7yFYYhAYCZpZQV4bA3t7nP) | 4:14 | 2023-02-09 |  |
 | [WASTE](https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [DISORDER](https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI) | 2:00 | 2023-02-09 |  |
 | [Where Is My Mind? \- Remastered](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:54 | 2023-04-14 |  |
-| [Windshield](https://open.spotify.com/track/0cKtQJ21b6adfzO82U0Tvq) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Storm in Summer](https://open.spotify.com/album/6p67XlnmixLtfkSn0vwiiE) | 3:01 | 2023-04-11 |  |
+| [Windshield](https://open.spotify.com/track/0cKtQJ21b6adfzO82U0Tvq) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Storm in Summer](https://open.spotify.com/album/6p67XlnmixLtfkSn0vwiiE) | 3:01 | 2023-04-11 | 2023-05-13 |
 | [Wishuwerehere](https://open.spotify.com/track/6yKHbryXqvrAs6IRlm7KU7) | [Dead Sullivan](https://open.spotify.com/artist/6l1iT5q2DEGQTPIED2fU8I) | [Reason](https://open.spotify.com/album/50hxpwsOJzyixVu9e02Dm3) | 3:29 | 2023-04-11 |  |
 | [Worlds Away](https://open.spotify.com/track/0prQCTD21VDitSeQA0gcHe) | [Leon Santana](https://open.spotify.com/artist/2h9w7Ko9db7p0mDGfiL6vS) | [Worlds Away](https://open.spotify.com/album/10xHNga4erJpRZTAU4JdSO) | 2:43 | 2023-04-11 |  |
 | [Yellow](https://open.spotify.com/track/36Owb6DDJbBFXi86x3X61z) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [Healing Process](https://open.spotify.com/album/7k3PdFJ8APzpSCwptwI9cT) | 2:14 | 2023-02-09 |  |

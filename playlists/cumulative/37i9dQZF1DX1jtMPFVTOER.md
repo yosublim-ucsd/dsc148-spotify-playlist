@@ -4,7 +4,7 @@
 
 > Explore a genre bending universe centered around jazz\. Cover: Cisco Swank
 
-437 songs - 1 day 2 hr 12 min
+438 songs - 1 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Camden Free Public Library](https://open.spotify.com/track/6Oxc4nkfR3SPJjBUNtf87r) | [Bulgarian Cartrader](https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx) | [Camden Free Public Library](https://open.spotify.com/album/3WzSD6AH1XQW6DYcNcXfki) | 5:04 | 2022-07-08 | 2022-12-10 |
 | [Can't Let You Go \(feat\. Nick Grant\)](https://open.spotify.com/track/7FdPNzOaG7FnIXiFm53cq4) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [Can't Let You Go \(feat\. Nick Grant\)](https://open.spotify.com/album/5VSqSiMz865dFXnhhj2fgj) | 3:13 | 2021-11-12 | 2022-04-09 |
 | [Can't Remember](https://open.spotify.com/track/3arfOfBDZmhNSzM0VN4BRQ) | [XL the Band](https://open.spotify.com/artist/5Dr4feymCwbAmK7bvXpSbl), [Swollen Members](https://open.spotify.com/artist/30QbUq31PEXAT4QFYZyBAM), [Alpha Omega](https://open.spotify.com/artist/0vHwhWeuE1DBBZO7wA9ZMf) | [Can't Remember](https://open.spotify.com/album/2E3yUPo4vTdzdNogW5uKCw) | 4:45 | 2021-11-12 | 2022-02-19 |
-| [Capacity to Love](https://open.spotify.com/track/1AQUqzqHMJIeGeupMb9Y1O) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Capacity to Love](https://open.spotify.com/album/5UuzlicJ7sCYpVezzHdIHK) | 4:25 | 2022-11-04 |  |
+| [Capacity to Love](https://open.spotify.com/track/1AQUqzqHMJIeGeupMb9Y1O) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Capacity to Love](https://open.spotify.com/album/5UuzlicJ7sCYpVezzHdIHK) | 4:25 | 2022-11-04 | 2023-05-13 |
 | [Carte Blanche](https://open.spotify.com/track/0FvwJ7rSDxAoC8tiT8Bp1H) | [Bon\-Psy](https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn) | [Carte Blanche](https://open.spotify.com/album/6b4JDJwn3L8Rl5Twn2HvDt) | 3:14 | 2022-11-18 | 2022-11-26 |
 | [Carte Blanche](https://open.spotify.com/track/76NPiAAkI1o5pj0HsZ4zvt) | [Bon\-Psy](https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn) | [Carte Blanche](https://open.spotify.com/album/09vQxbdKCIeapIcG72bR62) | 3:14 | 2022-07-22 | 2022-11-20 |
 | [CASINO](https://open.spotify.com/track/1e9HdyuZdlbtb6CYqzbGmH) | [William Bolton](https://open.spotify.com/artist/1NPkkY0RutjrXakIihpIiS) | [48 HOURS IN VEGAS](https://open.spotify.com/album/1WNAGa5LgMRM2UXhiORosc) | 2:50 | 2022-03-04 | 2022-04-29 |
@@ -393,6 +393,7 @@
 | [Tightrope](https://open.spotify.com/track/1v2gz3Z8jdh8LzhM8j1sdc) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Blue Solstice: Volume 1](https://open.spotify.com/album/5gIGA2nOaMi0JRio4ATLr8) | 3:40 | 2021-11-12 | 2022-02-19 |
 | [Till I'm Ghost](https://open.spotify.com/track/3xhhaNc4ll9z7KdaHMDaek) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Till I'm Ghost](https://open.spotify.com/album/7AStAo6VRvwxCMsckF4aB2) | 3:23 | 2022-09-16 |  |
 | [Time Just Stops](https://open.spotify.com/track/3uYzwUpJ4ubqRx6mbbJmAt) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI), [Jimetta Rose](https://open.spotify.com/artist/7FjGU7aqZcwNk3ICLLmcSX), [Ian Roller](https://open.spotify.com/artist/2U1QLrd5GARYpZtPbHbAAn), [Josh Howard](https://open.spotify.com/artist/4oXjAccvs9FQnAbP0OZvKC) | [NU NU](https://open.spotify.com/album/1TCQSxwN2JldGR9jD0x2m2) | 4:28 | 2021-11-12 | 2022-02-19 |
+| [Time To Lose](https://open.spotify.com/track/4ywdVPBmQr1PAkAQitNqyS) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Outlines](https://open.spotify.com/album/567bIsxKHOqBqNCUCSI5KU) | 2:50 | 2023-05-12 |  |
 | [TO BE WE \(feat\. Jill Scott\)](https://open.spotify.com/track/5wjYQzsjEKjRCJqi1ATR6A) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [TO BE WE \(feat\. Jill Scott\)](https://open.spotify.com/album/6ANpsYzuTs3C5WahprXr0k) | 4:46 | 2022-04-29 | 2022-07-29 |
 | [TO BE WE \(feat\. Jill Scott\)](https://open.spotify.com/track/7E9Wkj81UFn20qDWhRn0ee) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [LOVE QUANTUM](https://open.spotify.com/album/0PdocBlAIGi3jougS8fNiB) | 4:46 | 2022-04-29 | 2022-10-01 |
 | [TONY'S LAMENT](https://open.spotify.com/track/2UA9ts5MpXaZ55VE9TLq1B) | [TromBobby](https://open.spotify.com/artist/6DupBkxoyANnvNNGLaafc2), [Jermaine Holmes](https://open.spotify.com/artist/0lUnNiG3pNrR90jbnBuLhT) | [PAUSE VOL.1](https://open.spotify.com/album/6Ql9VzzKMG0uc57prFdEOV) | 2:00 | 2022-04-22 | 2022-04-29 |

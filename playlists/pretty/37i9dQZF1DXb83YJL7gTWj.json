@@ -1,12 +1,12 @@
 {
   "description": "Press play and enjoy a relaxing meal. Easy!",
-  "num_followers": 250625,
+  "num_followers": 250677,
   "original_name": "Chill Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGYwYzQyMDE5OGU4YWM1MzQzNzIyMGFlZThkMzVhYjg5ZjkzOGIy",
+  "snapshot_id": "MCwzZmUzOTY2ZDcyYjBkNTE2N2I2NzEyNDg5MjkxNDU4OGIwMDBjMWZm",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -235,8 +235,8 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
+        "name": "19",
+        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 223078,
-      "name": "Send My Love (To Your New Lover)",
-      "url": "https://open.spotify.com/track/0t7fVeEJxO2Xi4H2K5Svc9"
+      "duration_ms": 212040,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -287,18 +287,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+        "name": "July (feat. Leon Bridges)",
+        "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
       },
       "artists": [
         {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 197293,
-      "name": "The Bones",
-      "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"
+      "duration_ms": 152280,
+      "name": "July (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -319,22 +323,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "July (feat. Leon Bridges)",
-        "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
       },
       "artists": [
         {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 152280,
-      "name": "July (feat. Leon Bridges)",
-      "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
+      "duration_ms": 197293,
+      "name": "The Bones",
+      "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -403,8 +403,8 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
+        "name": "25",
+        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 212040,
-      "name": "Make You Feel My Love",
-      "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
+      "duration_ms": 223078,
+      "name": "Send My Love (To Your New Lover)",
+      "url": "https://open.spotify.com/track/0t7fVeEJxO2Xi4H2K5Svc9"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 206386,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/71c88ePh8VRMXLmLdDEGzf"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 189671,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/6El3mjjzGWOas5meWIETKI"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 206386,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Solar Power",
-        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 225862,
-      "name": "Mood Ring",
-      "url": "https://open.spotify.com/track/7rb4dcBfW0m1LQQcDCh4Hv"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Have A Little Faith In Me",
         "url": "https://open.spotify.com/album/5tUKs4B9KY6Yd5qSiyvENz"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 197079,
       "name": "Have A Little Faith In Me",
       "url": "https://open.spotify.com/track/6CC7m07iUQA2oKr2Ky4gRl"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Solar Power",
+        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 225862,
+      "name": "Mood Ring",
+      "url": "https://open.spotify.com/track/7rb4dcBfW0m1LQQcDCh4Hv"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Highs & Lows",
+        "url": "https://open.spotify.com/album/5xcCwJuG2hWwWIwWSWXxw8"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "duration_ms": 209621,
+      "name": "Highs & Lows",
+      "url": "https://open.spotify.com/track/7IA1Rvt3w8p0PihpYH9JTB"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "New",
         "url": "https://open.spotify.com/album/658wAowCbIm9PT2VxUbYrs"
       },
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Highs & Lows",
-        "url": "https://open.spotify.com/album/5xcCwJuG2hWwWIwWSWXxw8"
-      },
-      "artists": [
-        {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
-        }
-      ],
-      "duration_ms": 209621,
-      "name": "Highs & Lows",
-      "url": "https://open.spotify.com/track/7IA1Rvt3w8p0PihpYH9JTB"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "New Ways",
         "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
       },
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 189722,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Cosmos",
         "url": "https://open.spotify.com/album/7c1BLJpEBis33PSOamN2Jb"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 183167,
       "name": "Cosmos",
       "url": "https://open.spotify.com/track/361ZsvPDt9tqgNUPCG3nYl"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 189722,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "In Your Eyes",
-        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
-      },
-      "artists": [
-        {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
-        }
-      ],
-      "duration_ms": 329086,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Somewhere Only We Know",
         "url": "https://open.spotify.com/album/6xOnP1PFgnX5x2GxL9VoOf"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 200667,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/2g5HVcE4OCp9SZybPEWzny"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
+      },
+      "artists": [
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        }
+      ],
+      "duration_ms": 329086,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "chapter of me",
-        "url": "https://open.spotify.com/album/0PITbh2NtsYR1BTx0NU4Ol"
-      },
-      "artists": [
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 211266,
-      "name": "feel it now (alive)",
-      "url": "https://open.spotify.com/track/6gYnclsFwByD1BxL7z44WD"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Dressed Too Nice For A Jacket",
         "url": "https://open.spotify.com/album/1ziE8y7wGzDY0PDgoDXKwF"
       },
@@ -1595,6 +1579,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "chapter of me",
+        "url": "https://open.spotify.com/album/0PITbh2NtsYR1BTx0NU4Ol"
+      },
+      "artists": [
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 211266,
+      "name": "feel it now (alive)",
+      "url": "https://open.spotify.com/track/6gYnclsFwByD1BxL7z44WD"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Paper Airplanes",
         "url": "https://open.spotify.com/album/6SSvoVCaTreXvwNETYXMen"
       },
@@ -1607,6 +1607,26 @@
       "duration_ms": 257493,
       "name": "Paper Airplanes",
       "url": "https://open.spotify.com/track/7qFTlPTav0bSkuPiSff6RL"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Hurt Somebody",
+        "url": "https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 168640,
+      "name": "Hurt Somebody",
+      "url": "https://open.spotify.com/track/7apizLyhMRutg3ccXvr2qv"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1639,26 +1659,6 @@
       "duration_ms": 312613,
       "name": "Out Of The Blue",
       "url": "https://open.spotify.com/track/3aV4xJGmhJHnyRhnzx5iHE"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Hurt Somebody",
-        "url": "https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 168640,
-      "name": "Hurt Somebody",
-      "url": "https://open.spotify.com/track/7apizLyhMRutg3ccXvr2qv"
     }
   ],
   "unique_name": "Chill Dinner",

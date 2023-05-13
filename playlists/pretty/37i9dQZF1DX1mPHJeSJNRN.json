@@ -1,12 +1,12 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 13482,
+  "num_followers": 13495,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDRhNzg5N2VmN2ZjMDQ5MTcxMWJkOGM1NmE3Zjc2N2ZkODYzMjJh",
+  "snapshot_id": "MCxlYmY2MjYxYWFhOTU0NWM3MWJjOGI0MmMxZGMyNTI2YzRkNTk1ZDU1",
   "tracks": [
     {
       "added_at": "2023-05-10 08:20:02",
@@ -79,6 +79,26 @@
     {
       "added_at": "2023-05-10 08:20:02",
       "album": {
+        "name": "Yesteryear",
+        "url": "https://open.spotify.com/album/5XqLTTwrDqietv4GjKIXuD"
+      },
+      "artists": [
+        {
+          "name": "Snorre Kirk",
+          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
+        },
+        {
+          "name": "Michael Blicher",
+          "url": "https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ"
+        }
+      ],
+      "duration_ms": 259073,
+      "name": "Yesteryear",
+      "url": "https://open.spotify.com/track/2qbPX1fQUyknyc7cZw2L8W"
+    },
+    {
+      "added_at": "2023-05-10 08:20:02",
+      "album": {
         "name": "Remembering You",
         "url": "https://open.spotify.com/album/2bp4zghbrnrUPri3ENIItw"
       },
@@ -111,22 +131,18 @@
     {
       "added_at": "2023-05-10 08:20:02",
       "album": {
-        "name": "Yesteryear",
-        "url": "https://open.spotify.com/album/5XqLTTwrDqietv4GjKIXuD"
+        "name": "On My Way to You",
+        "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
       },
       "artists": [
         {
-          "name": "Snorre Kirk",
-          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
-        },
-        {
-          "name": "Michael Blicher",
-          "url": "https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ"
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
         }
       ],
-      "duration_ms": 259073,
-      "name": "Yesteryear",
-      "url": "https://open.spotify.com/track/2qbPX1fQUyknyc7cZw2L8W"
+      "duration_ms": 172746,
+      "name": "After The Rain",
+      "url": "https://open.spotify.com/track/3cYAxfeE7rwiF1vjCTYi3i"
     },
     {
       "added_at": "2023-05-10 08:20:02",
@@ -159,22 +175,6 @@
       "duration_ms": 210240,
       "name": "Taking a Chance on Love",
       "url": "https://open.spotify.com/track/3I1DVI1Bllke45hTQke9ux"
-    },
-    {
-      "added_at": "2023-05-10 08:20:02",
-      "album": {
-        "name": "On My Way to You",
-        "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
-      },
-      "artists": [
-        {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
-        }
-      ],
-      "duration_ms": 172746,
-      "name": "After The Rain",
-      "url": "https://open.spotify.com/track/3cYAxfeE7rwiF1vjCTYi3i"
     },
     {
       "added_at": "2023-05-10 08:20:02",
@@ -227,26 +227,6 @@
     {
       "added_at": "2023-05-10 08:20:02",
       "album": {
-        "name": "It Might as Well Be Spring",
-        "url": "https://open.spotify.com/album/6btoHKMKGlSpK8xvHviMbG"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        },
-        {
-          "name": "Kyle Pogline",
-          "url": "https://open.spotify.com/artist/0REkhjWkTuMhx8uvOKVZmH"
-        }
-      ],
-      "duration_ms": 292706,
-      "name": "It Might as Well Be Spring",
-      "url": "https://open.spotify.com/track/56IPhyZ2ByxWPksbqKpNxF"
-    },
-    {
-      "added_at": "2023-05-10 08:20:02",
-      "album": {
         "name": "The President Plays With The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 203933,
       "name": "On The Sunny Side Of The Street",
       "url": "https://open.spotify.com/track/42glcnGSZYpv5kg9izfAuP"
+    },
+    {
+      "added_at": "2023-05-10 08:20:02",
+      "album": {
+        "name": "It Might as Well Be Spring",
+        "url": "https://open.spotify.com/album/6btoHKMKGlSpK8xvHviMbG"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Kyle Pogline",
+          "url": "https://open.spotify.com/artist/0REkhjWkTuMhx8uvOKVZmH"
+        }
+      ],
+      "duration_ms": 292706,
+      "name": "It Might as Well Be Spring",
+      "url": "https://open.spotify.com/track/56IPhyZ2ByxWPksbqKpNxF"
     },
     {
       "added_at": "2023-05-10 08:20:02",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-05-10 08:20:02",
       "album": {
-        "name": "Samara Joy",
-        "url": "https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 153693,
-      "name": "If You Never Fall in Love with Me",
-      "url": "https://open.spotify.com/track/3nyxrjpO5pPDx8NJ7sH15Z"
-    },
-    {
-      "added_at": "2023-05-10 08:20:02",
-      "album": {
         "name": "My New Old Friend",
         "url": "https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 333346,
       "name": "Smile",
       "url": "https://open.spotify.com/track/7xLZGhRR2jTUtaPewAmacY"
+    },
+    {
+      "added_at": "2023-05-10 08:20:02",
+      "album": {
+        "name": "Samara Joy",
+        "url": "https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 153693,
+      "name": "If You Never Fall in Love with Me",
+      "url": "https://open.spotify.com/track/3nyxrjpO5pPDx8NJ7sH15Z"
     },
     {
       "added_at": "2023-05-10 08:20:02",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-05-10 08:20:02",
       "album": {
-        "name": "Meet Me Around Midnight",
-        "url": "https://open.spotify.com/album/62haqQCNJuhlujx5lqsYaO"
-      },
-      "artists": [
-        {
-          "name": "Ida Sand",
-          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
-        }
-      ],
-      "duration_ms": 229613,
-      "name": "One for My Baby",
-      "url": "https://open.spotify.com/track/7K0B3d8hgj9cAhku48eGwN"
-    },
-    {
-      "added_at": "2023-05-10 08:20:02",
-      "album": {
         "name": "A Ballad for Alice",
         "url": "https://open.spotify.com/album/1iWcq6geiresvdyp7hUajv"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 178728,
       "name": "A Ballad for Alice",
       "url": "https://open.spotify.com/track/01gXG16eWORzNaZdTqdVWD"
+    },
+    {
+      "added_at": "2023-05-10 08:20:02",
+      "album": {
+        "name": "Meet Me Around Midnight",
+        "url": "https://open.spotify.com/album/62haqQCNJuhlujx5lqsYaO"
+      },
+      "artists": [
+        {
+          "name": "Ida Sand",
+          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
+        }
+      ],
+      "duration_ms": 229613,
+      "name": "One for My Baby",
+      "url": "https://open.spotify.com/track/7K0B3d8hgj9cAhku48eGwN"
     },
     {
       "added_at": "2023-05-10 08:20:02",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-05-10 08:20:02",
       "album": {
-        "name": "Familiar Places",
-        "url": "https://open.spotify.com/album/4PYeBFxWLxLaqfOmkcbjyS"
-      },
-      "artists": [
-        {
-          "name": "Little North",
-          "url": "https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J"
-        }
-      ],
-      "duration_ms": 287323,
-      "name": "It's Beginning To Rain Again",
-      "url": "https://open.spotify.com/track/1hHnQUrgFC0ezzo27SkZeS"
-    },
-    {
-      "added_at": "2023-05-10 08:20:02",
-      "album": {
         "name": "Cande y Paulo",
         "url": "https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 226658,
       "name": "I Fall In Love Too Easily",
       "url": "https://open.spotify.com/track/5KX9xXNC0MlBQLgHw0HOC1"
+    },
+    {
+      "added_at": "2023-05-10 08:20:02",
+      "album": {
+        "name": "Familiar Places",
+        "url": "https://open.spotify.com/album/4PYeBFxWLxLaqfOmkcbjyS"
+      },
+      "artists": [
+        {
+          "name": "Little North",
+          "url": "https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J"
+        }
+      ],
+      "duration_ms": 287323,
+      "name": "It's Beginning To Rain Again",
+      "url": "https://open.spotify.com/track/1hHnQUrgFC0ezzo27SkZeS"
     },
     {
       "added_at": "2023-05-10 08:20:02",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-05-10 08:20:02",
       "album": {
+        "name": "Body and Soul",
+        "url": "https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 248813,
+      "name": "They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/1ytWVUYZiVJq8FriPFtafJ"
+    },
+    {
+      "added_at": "2023-05-10 08:20:02",
+      "album": {
         "name": "A Beautiful Friendship",
         "url": "https://open.spotify.com/album/7MgfP4PI0iNLk1epeHFDOZ"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 258239,
       "name": "A Beautiful Friendship",
       "url": "https://open.spotify.com/track/5Qjl7NUBECtejR5VCfGMgK"
-    },
-    {
-      "added_at": "2023-05-10 08:20:02",
-      "album": {
-        "name": "Body and Soul",
-        "url": "https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 248813,
-      "name": "They Can't Take That Away From Me",
-      "url": "https://open.spotify.com/track/1ytWVUYZiVJq8FriPFtafJ"
     },
     {
       "added_at": "2023-05-10 08:20:02",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-05-10 08:20:02",
       "album": {
-        "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
-        "url": "https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 219826,
-      "name": "Spring Is Here",
-      "url": "https://open.spotify.com/track/5UAcWV35tYopQFrPj7mH7j"
-    },
-    {
-      "added_at": "2023-05-10 08:20:02",
-      "album": {
         "name": "Duke Ellington Meets Coleman Hawkins",
         "url": "https://open.spotify.com/album/0Kggi4r3OcApji9xJI3olG"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2023-05-10 08:20:02",
       "album": {
-        "name": "April In Paris: The Genius Of Charlie Parker #2",
-        "url": "https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ"
+        "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
+        "url": "https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9"
       },
       "artists": [
         {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 214301,
-      "name": "I'm In The Mood For Love - Take 3 / Alternate Take",
-      "url": "https://open.spotify.com/track/7l5mzDFDI3DDtx0GUIdb68"
+      "duration_ms": 219826,
+      "name": "Spring Is Here",
+      "url": "https://open.spotify.com/track/5UAcWV35tYopQFrPj7mH7j"
     },
     {
       "added_at": "2023-05-10 08:20:02",
@@ -711,6 +695,22 @@
       "duration_ms": 257226,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/522fhFdFIhJ2XFQVcBroXg"
+    },
+    {
+      "added_at": "2023-05-10 08:20:02",
+      "album": {
+        "name": "April In Paris: The Genius Of Charlie Parker #2",
+        "url": "https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 214301,
+      "name": "I'm In The Mood For Love - Take 3 / Alternate Take",
+      "url": "https://open.spotify.com/track/7l5mzDFDI3DDtx0GUIdb68"
     },
     {
       "added_at": "2023-05-10 08:20:02",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-05-10 08:20:02",
       "album": {
-        "name": "The Lost Tapes",
-        "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
-      },
-      "artists": [
-        {
-          "name": "Monica Zetterlund",
-          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
-        }
-      ],
-      "duration_ms": 220440,
-      "name": "There'll Be Another Spring",
-      "url": "https://open.spotify.com/track/22vHml55QoZoqhE5yl57DS"
-    },
-    {
-      "added_at": "2023-05-10 08:20:02",
-      "album": {
         "name": "The Sound the Rhythm",
         "url": "https://open.spotify.com/album/1vyIqrS1y7Cv0tIJcIPBMC"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 444573,
       "name": "Tangorrus Field",
       "url": "https://open.spotify.com/track/0tJ5RazKORwxkHbJRDQ8nj"
+    },
+    {
+      "added_at": "2023-05-10 08:20:02",
+      "album": {
+        "name": "The Lost Tapes",
+        "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "duration_ms": 220440,
+      "name": "There'll Be Another Spring",
+      "url": "https://open.spotify.com/track/22vHml55QoZoqhE5yl57DS"
     },
     {
       "added_at": "2023-05-10 08:20:02",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-05-10 08:20:02",
       "album": {
+        "name": "Jeru",
+        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 300506,
+      "name": "Here I'll Stay",
+      "url": "https://open.spotify.com/track/7lrJtpPP3OFQXfYWbvSAa3"
+    },
+    {
+      "added_at": "2023-05-10 08:20:02",
+      "album": {
         "name": "Nothing Standard",
         "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
       },
@@ -903,18 +919,18 @@
     {
       "added_at": "2023-05-10 08:20:02",
       "album": {
-        "name": "Jeru",
-        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
+        "name": "Your Songs",
+        "url": "https://open.spotify.com/album/74MmrgGXDvEZepbjCDCi8r"
       },
       "artists": [
         {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
         }
       ],
-      "duration_ms": 300506,
-      "name": "Here I'll Stay",
-      "url": "https://open.spotify.com/track/7lrJtpPP3OFQXfYWbvSAa3"
+      "duration_ms": 212693,
+      "name": "All The Way",
+      "url": "https://open.spotify.com/track/0L6nD80PbBf0gUHzG2sFYC"
     },
     {
       "added_at": "2023-05-10 08:20:02",
@@ -955,22 +971,6 @@
       "duration_ms": 249997,
       "name": "They Say It's Spring",
       "url": "https://open.spotify.com/track/0iWrqHfZkUIayJzvx4fNZv"
-    },
-    {
-      "added_at": "2023-05-10 08:20:02",
-      "album": {
-        "name": "Your Songs",
-        "url": "https://open.spotify.com/album/74MmrgGXDvEZepbjCDCi8r"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 212693,
-      "name": "All The Way",
-      "url": "https://open.spotify.com/track/0L6nD80PbBf0gUHzG2sFYC"
     },
     {
       "added_at": "2023-05-10 08:20:02",
@@ -1087,18 +1087,26 @@
     {
       "added_at": "2023-05-10 08:20:02",
       "album": {
-        "name": "Confessions",
-        "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
+        "name": "Den milde dag er lys og lang",
+        "url": "https://open.spotify.com/album/0Frkq00BPaD1CBG5FESjRC"
       },
       "artists": [
         {
-          "name": "Veronica Swift",
-          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+          "name": "Alex Riel",
+          "url": "https://open.spotify.com/artist/0kPEyoVCAET0GwNPmjmpyH"
+        },
+        {
+          "name": "Bo Stief",
+          "url": "https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg"
+        },
+        {
+          "name": "Carsten Dahl",
+          "url": "https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda"
         }
       ],
-      "duration_ms": 208391,
-      "name": "No Regrets",
-      "url": "https://open.spotify.com/track/3hfn5Sf3AJAvurLAuObfRK"
+      "duration_ms": 146146,
+      "name": "Den milde dag er lys og lang",
+      "url": "https://open.spotify.com/track/7ARDH8bHKbYEeoUxz6JtES"
     },
     {
       "added_at": "2023-05-10 08:20:02",
@@ -1127,26 +1135,18 @@
     {
       "added_at": "2023-05-10 08:20:02",
       "album": {
-        "name": "Den milde dag er lys og lang",
-        "url": "https://open.spotify.com/album/0Frkq00BPaD1CBG5FESjRC"
+        "name": "Confessions",
+        "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
       },
       "artists": [
         {
-          "name": "Alex Riel",
-          "url": "https://open.spotify.com/artist/0kPEyoVCAET0GwNPmjmpyH"
-        },
-        {
-          "name": "Bo Stief",
-          "url": "https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg"
-        },
-        {
-          "name": "Carsten Dahl",
-          "url": "https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda"
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
         }
       ],
-      "duration_ms": 146146,
-      "name": "Den milde dag er lys og lang",
-      "url": "https://open.spotify.com/track/7ARDH8bHKbYEeoUxz6JtES"
+      "duration_ms": 208391,
+      "name": "No Regrets",
+      "url": "https://open.spotify.com/track/3hfn5Sf3AJAvurLAuObfRK"
     },
     {
       "added_at": "2023-05-10 08:20:02",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-05-10 08:20:02",
       "album": {
-        "name": "Broadway By Day",
-        "url": "https://open.spotify.com/album/77MPiMeWIQnfeISRi238o3"
-      },
-      "artists": [
-        {
-          "name": "Spencer Day",
-          "url": "https://open.spotify.com/artist/0vzxJvDfnwbniaBt97Ylw6"
-        }
-      ],
-      "duration_ms": 196413,
-      "name": "Getting To Know You",
-      "url": "https://open.spotify.com/track/6EtTFFycF09St9D0lxOilY"
-    },
-    {
-      "added_at": "2023-05-10 08:20:02",
-      "album": {
         "name": "At The Deer Head Inn",
         "url": "https://open.spotify.com/album/5dv5GivEsrsnfdwLNHVzQx"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 561826,
       "name": "Chandra",
       "url": "https://open.spotify.com/track/40KYa8MjDOKIByCm3iv8P9"
+    },
+    {
+      "added_at": "2023-05-10 08:20:02",
+      "album": {
+        "name": "Broadway By Day",
+        "url": "https://open.spotify.com/album/77MPiMeWIQnfeISRi238o3"
+      },
+      "artists": [
+        {
+          "name": "Spencer Day",
+          "url": "https://open.spotify.com/artist/0vzxJvDfnwbniaBt97Ylw6"
+        }
+      ],
+      "duration_ms": 196413,
+      "name": "Getting To Know You",
+      "url": "https://open.spotify.com/track/6EtTFFycF09St9D0lxOilY"
     },
     {
       "added_at": "2023-05-10 08:20:02",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-05-10 08:20:02",
       "album": {
-        "name": "Calendar Girl",
-        "url": "https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 141266,
-      "name": "Melancholy March",
-      "url": "https://open.spotify.com/track/2beWW2ss3csNXl9x2wECPh"
-    },
-    {
-      "added_at": "2023-05-10 08:20:02",
-      "album": {
         "name": "The Cole Porter Mix",
         "url": "https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I"
       },
@@ -1475,6 +1459,22 @@
     {
       "added_at": "2023-05-10 08:20:02",
       "album": {
+        "name": "Calendar Girl",
+        "url": "https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 141266,
+      "name": "Melancholy March",
+      "url": "https://open.spotify.com/track/2beWW2ss3csNXl9x2wECPh"
+    },
+    {
+      "added_at": "2023-05-10 08:20:02",
+      "album": {
         "name": "That Bad Eartha",
         "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
       },
@@ -1487,6 +1487,22 @@
       "duration_ms": 174573,
       "name": "Avril au Portugal",
       "url": "https://open.spotify.com/track/11ephJHUUPlf7KrQiM05ic"
+    },
+    {
+      "added_at": "2023-05-10 08:20:02",
+      "album": {
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
+      },
+      "artists": [
+        {
+          "name": "Nicole Henry",
+          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+        }
+      ],
+      "duration_ms": 179906,
+      "name": "I Can't Be Bothered Now",
+      "url": "https://open.spotify.com/track/03IDpwMNgvxcrCo6SwZxlX"
     },
     {
       "added_at": "2023-05-10 08:20:02",
@@ -1515,18 +1531,18 @@
     {
       "added_at": "2023-05-10 08:20:02",
       "album": {
-        "name": "The Very Thought of You",
-        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
+        "name": "'Round Midnight",
+        "url": "https://open.spotify.com/album/32lTnM9ph7JPKaFhzAXqty"
       },
       "artists": [
         {
-          "name": "Nicole Henry",
-          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+          "name": "Karrin Allyson",
+          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
         }
       ],
-      "duration_ms": 179906,
-      "name": "I Can't Be Bothered Now",
-      "url": "https://open.spotify.com/track/03IDpwMNgvxcrCo6SwZxlX"
+      "duration_ms": 194173,
+      "name": "April Come She Will",
+      "url": "https://open.spotify.com/track/3onycGcXENXzRke49yNQvI"
     },
     {
       "added_at": "2023-05-10 08:20:02",
@@ -1543,22 +1559,6 @@
       "duration_ms": 277866,
       "name": "Something 'bout the Rain",
       "url": "https://open.spotify.com/track/2WfHw7Hr7VWvQmdeZnIrLK"
-    },
-    {
-      "added_at": "2023-05-10 08:20:02",
-      "album": {
-        "name": "'Round Midnight",
-        "url": "https://open.spotify.com/album/32lTnM9ph7JPKaFhzAXqty"
-      },
-      "artists": [
-        {
-          "name": "Karrin Allyson",
-          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
-        }
-      ],
-      "duration_ms": 194173,
-      "name": "April Come She Will",
-      "url": "https://open.spotify.com/track/3onycGcXENXzRke49yNQvI"
     },
     {
       "added_at": "2023-05-10 08:20:02",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2023-05-10 08:20:02",
       "album": {
+        "name": "Where Do You Start",
+        "url": "https://open.spotify.com/album/2s8XWSfq0eLzFd6oaNiIx2"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "duration_ms": 526613,
+      "name": "Holland",
+      "url": "https://open.spotify.com/track/6or1VbOYOIjDPxJxyjZvuE"
+    },
+    {
+      "added_at": "2023-05-10 08:20:02",
+      "album": {
         "name": "Because I Love You",
         "url": "https://open.spotify.com/album/35qbEfm5IdIPTzJxS51fT5"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 192726,
       "name": "Keep It in Your Dreams",
       "url": "https://open.spotify.com/track/568TTAaxWs5vG3IdmcI0RD"
-    },
-    {
-      "added_at": "2023-05-10 08:20:02",
-      "album": {
-        "name": "Where Do You Start",
-        "url": "https://open.spotify.com/album/2s8XWSfq0eLzFd6oaNiIx2"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 526613,
-      "name": "Holland",
-      "url": "https://open.spotify.com/track/6or1VbOYOIjDPxJxyjZvuE"
     },
     {
       "added_at": "2023-05-10 08:20:02",

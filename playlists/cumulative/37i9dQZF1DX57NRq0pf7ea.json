@@ -2938,7 +2938,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 261186,
       "name": "FCK Love",
       "url": "https://open.spotify.com/track/19sA5Lb1Pq6tDOiITDNFAB"
@@ -3164,7 +3164,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 157968,
       "name": "F\u00f3rmula 1",
       "url": "https://open.spotify.com/track/0LxCc5e6eYqCytwaiXDTXB"
@@ -4534,7 +4534,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 231603,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH"
@@ -4556,7 +4556,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 199148,
       "name": "Loco Por Perrearte - Remix",
       "url": "https://open.spotify.com/track/0vHfVsEe6Ps0d8cZ9PGzSw"
@@ -5236,7 +5236,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 242696,
       "name": "Mejor Que Yo",
       "url": "https://open.spotify.com/track/1VsHc0qIeyjYOyvN5HIEQG"
@@ -5650,6 +5650,24 @@
       "duration_ms": 156318,
       "name": "Mu\u00f1ecas",
       "url": "https://open.spotify.com/track/1PAvhqefivTNdxZ4u8RT1d"
+    },
+    {
+      "album": {
+        "name": "Mxfix G5",
+        "url": "https://open.spotify.com/album/6i7nZXIeKaSBLXl5b3UirN"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154520,
+      "name": "Mxfix G5",
+      "url": "https://open.spotify.com/track/6RvdPXkp63MIt9oNFJBRIz"
     },
     {
       "album": {
@@ -6340,7 +6358,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-17",
+      "date_removed": null,
       "duration_ms": 174932,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/6VOb0Kkrd45Bp5RHYSla2J"
@@ -6570,7 +6588,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 166253,
       "name": "Prohibidox",
       "url": "https://open.spotify.com/track/3PpWCS95gDUDRPko3u1MZ9"
@@ -8109,6 +8127,24 @@
     },
     {
       "album": {
+        "name": "Toretto (FAST X / Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4YHGjIgKtP3QKRA11AhfJ1"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150517,
+      "name": "Toretto",
+      "url": "https://open.spotify.com/track/2LhnVbBHUWyrDQ4m1LCPvo"
+    },
+    {
+      "album": {
         "name": "Cracker Island",
         "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
       },
@@ -8690,6 +8726,32 @@
       "duration_ms": 167800,
       "name": "Vac\u00edo",
       "url": "https://open.spotify.com/track/4KnLltd5UNz4c085UAr5dR"
+    },
+    {
+      "album": {
+        "name": "VAGABUNDO",
+        "url": "https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215600,
+      "name": "VAGABUNDO",
+      "url": "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG"
     },
     {
       "album": {

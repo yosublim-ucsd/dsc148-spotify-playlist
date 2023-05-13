@@ -2,9 +2,9 @@
 
 ### [Folk & Friends](https://open.spotify.com/playlist/37i9dQZF1DWWv6MSZULLBi)
 
-> A laid\-back trip in the folk scene\. Cover: Elisapie
+> A laid\-back trip in the folk scene\. Cover: Rhiannon Giddens
 
-440 songs - 1 day 2 hr 44 min
+448 songs - 1 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Armour](https://open.spotify.com/track/4Oo5MkhMfWTSjh58tZB898) | [Royal Wood](https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc) | [Armour](https://open.spotify.com/album/6FSGKvGRDmBSGmhfSmVEh8) | 3:13 | 2022-06-29 | 2023-03-04 |
 | [Baby, You Know](https://open.spotify.com/track/4t5wDXWX3BwwgkqzdYieH3) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Baby, You Know](https://open.spotify.com/album/330iEZ1HuQ1ghRg53B0xog) | 3:02 | 2022-07-01 | 2022-08-13 |
 | [Bandages](https://open.spotify.com/track/32z65nCDfiHwd7Ly1AyN2t) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Bandages](https://open.spotify.com/album/7qUzSfHicu7sV7EIflvMtR) | 2:54 | 2022-07-01 | 2023-02-18 |
+| [Basic Channels](https://open.spotify.com/track/4gnJLzWvpsVPHybDPoWW9H) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Basic Channels](https://open.spotify.com/album/6zrGwKqL2sJ6bkni0tY9Sc) | 1:54 | 2023-05-12 |  |
 | [Bathroom Light](https://open.spotify.com/track/71glNHT4FultOqlau4zrFf) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Bathroom Light](https://open.spotify.com/album/2lwaQXJpfIPNduWAN7w0vu) | 3:08 | 2022-06-03 | 2023-03-04 |
 | [Beautiful Life](https://open.spotify.com/track/1duM1mVSV3lJzK5ZMnRgA3) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Beautiful Life](https://open.spotify.com/album/2GsJBfIe3vYZBSf0cYGEgc) | 3:21 | 2022-12-02 | 2023-01-06 |
 | [Beautiful View](https://open.spotify.com/track/0gdMIAslro1oqM25deOsBP) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [Beautiful View](https://open.spotify.com/album/3dVN0luiXkpytUScfzB1q8) | 3:27 | 2023-04-28 |  |
@@ -163,6 +164,7 @@
 | [Going Down The Road](https://open.spotify.com/track/4zdBBaRLTPrR2wFtODDSGW) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [Going Down The Road](https://open.spotify.com/album/7q3Wuoqtkw7WuHOzRQxcAX) | 3:31 | 2022-11-11 | 2022-11-26 |
 | [Gone \(Away\)](https://open.spotify.com/track/6UCdCOFnahKI4yjILCPn3H) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [Gone \(Away\)](https://open.spotify.com/album/4vnVye9NBADjq2dYAinjMR) | 2:46 | 2022-08-26 | 2023-01-21 |
 | [Greyhound](https://open.spotify.com/track/2c7BU7qdz3xGSndyj5OQKN) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Greyhound](https://open.spotify.com/album/65CRcFpY94KnI8NGo6Ezq5) | 4:15 | 2022-08-26 | 2023-01-21 |
+| [Hallelujah Anyway](https://open.spotify.com/track/2i6U0iTND18B5gD6QmCo2M) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Hallelujah Anyway](https://open.spotify.com/album/6iG1EIMbUXhXTpb99kcHhi) | 3:33 | 2023-05-12 |  |
 | [Halloween Store](https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Norm](https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC) | 2:59 | 2023-02-10 |  |
 | [Hang On To Me](https://open.spotify.com/track/3MR6unFt0DNQ3Vo7QegzzK) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Hang On To Me](https://open.spotify.com/album/7z74YoHegtXzQZL50aeyhL) | 3:22 | 2022-08-12 | 2022-11-12 |
 | [Hangover](https://open.spotify.com/track/57lBDEtlUhzU18Co0DToLg) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Hangover](https://open.spotify.com/album/304pJgIaQAkuG19OLfjfyi) | 3:35 | 2022-09-16 | 2022-10-15 |
@@ -185,6 +187,7 @@
 | [Honest Light](https://open.spotify.com/track/4Zldc9Kg9ybat4F2jIxiie) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Caroline Marie Brooks](https://open.spotify.com/artist/3zLloo75fc1QrUzWcsN1Pe) | [Honest Light](https://open.spotify.com/album/529ski7usNNFkKb4lQVnZO) | 3:38 | 2022-05-13 | 2023-01-28 |
 | [House Song](https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2) | 4:54 | 2023-02-03 |  |
 | [How I See It](https://open.spotify.com/track/4WDsdKXDfKRVvPEq4sGJvj) | [Andrew Allen](https://open.spotify.com/artist/1mAp4DKDRBkEn272c014zU) | [12:34](https://open.spotify.com/album/142mjhHKGwh7LuV6e9ggI2) | 4:36 | 2022-05-13 | 2022-08-27 |
+| [I Believe in Something More](https://open.spotify.com/track/7eOYNPtD0tq3Q0JJ7JxwjQ) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [I Believe in Something More](https://open.spotify.com/album/2rKIHcjKHe52kvPeAUZ5rO) | 3:01 | 2023-05-12 |  |
 | [I Can't Get My Head Around You](https://open.spotify.com/track/6lLYb9KBshbR8Wp5hoWmUW) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [I Can't Get My Head Around You](https://open.spotify.com/album/7yyWIkHQjDMsH8ij1Nuj6e) | 3:26 | 2023-03-10 | 2023-04-09 |
 | [I Don't Live Here Anymore](https://open.spotify.com/track/7ECJeHWuydb003xEiqUnn1) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [I Don't Live Here Anymore](https://open.spotify.com/album/5YZg6tXn4z1kPX30tJ8scD) | 3:06 | 2023-03-31 |  |
 | [I Feel It](https://open.spotify.com/track/5PTDUraHge5XgzG4lzm5Hb) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [I Feel It](https://open.spotify.com/album/4ubQDotUd6fO1TDA7CBQn7) | 4:56 | 2023-01-06 | 2023-01-28 |
@@ -194,6 +197,7 @@
 | [I Saw Your Ghost](https://open.spotify.com/track/4NHKHGXYykTFSVEBbs1NB4) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [I Saw Your Ghost](https://open.spotify.com/album/11iLZkUrmXh7Gi6z2DqG70) | 3:22 | 2022-07-08 | 2022-08-20 |
 | [I Won't Let You Go](https://open.spotify.com/track/6Tzq8VMhkc2Oq1SBlHtKNS) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Dreamland \(Deluxe Edition\)](https://open.spotify.com/album/2yKAk0fUsuKDpAHUEvQzbB) | 3:18 | 2022-09-16 | 2023-04-01 |
 | [I'd Have to Think About It](https://open.spotify.com/track/50lUr1G0TYol01m2RlqPzZ) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I'd Have to Think About It](https://open.spotify.com/album/0wfdQFjAZI2tJ506KTGnbY) | 2:30 | 2022-05-13 | 2022-06-30 |
+| [If We Were Vampires \(feat\. Wesley Schultz\) \- Spotify Singles](https://open.spotify.com/track/6LKvzEJQTIm2RrWAMPwQH6) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Spotify Singles](https://open.spotify.com/album/6WdZ6j0Mm6fOzpyHXKx8PP) | 3:37 | 2023-05-12 |  |
 | [iknowiknow](https://open.spotify.com/track/06QdpP2rRADWxOdNaUn1rl) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [iknowiknow](https://open.spotify.com/album/0lKuwrBnAHiDBXh0mFx9Z3) | 2:10 | 2022-10-28 | 2022-11-13 |
 | [iknowiknow](https://open.spotify.com/track/2eawTHlYcv1LilpGnV3VOe) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [iknowiknow](https://open.spotify.com/album/1YvMLexPYivqu5NqAffK4n) | 2:10 | 2022-07-01 | 2022-07-29 |
 | [iknowiknow](https://open.spotify.com/track/7ig0m6wR3xUP0ECJR1iJkL) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [WOAH](https://open.spotify.com/album/0ucs6jX7iFtv1e1SS8HTO5) | 2:10 | 2022-07-22 | 2023-02-18 |
@@ -260,6 +264,7 @@
 | [Miserable Man](https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Miserable Man](https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4) | 3:52 | 2022-05-13 | 2022-07-09 |
 | [Miss Fort Erie](https://open.spotify.com/track/2xdg2xTUqJbgDsLB5IIdiU) | [Hayden](https://open.spotify.com/artist/2EJpeCmBlwSNpb1GcTj1xp) | [Miss Fort Erie](https://open.spotify.com/album/7nugRtvqm9dpf8NTwboOML) | 4:28 | 2023-02-10 | 2023-03-04 |
 | [Monica](https://open.spotify.com/track/5CtJFkJ5IPpqKgqaV9KuxL) | [Dom Louis](https://open.spotify.com/artist/13vGPMHjEc5xzTS1utb4Ph) | [Monica](https://open.spotify.com/album/6g94kYUfexRH2MUcgYQHmr) | 3:43 | 2022-05-13 | 2022-05-28 |
+| [More Change](https://open.spotify.com/track/6T8jm94wSS3fbgM4VAEITF) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [More Change](https://open.spotify.com/album/5z8sVCeIggrJ2FYIfHefJ0) | 2:29 | 2023-05-12 |  |
 | [Mother Love](https://open.spotify.com/track/6h5oSSJXgIyXHxJm256HWP) | [iskwē](https://open.spotify.com/artist/31flUlPgtGjDz3WL9hn420), [Tom Wilson](https://open.spotify.com/artist/5yC7xvjGxlXLUTzmrmprLu) | [Mother Love](https://open.spotify.com/album/7dKPc0Mj8iVLpaVvby2NSf) | 4:28 | 2022-07-22 | 2023-03-04 |
 | [Mountain](https://open.spotify.com/track/1oE33RydbNjm4mjdniFNth) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Mountain](https://open.spotify.com/album/3GCGJNpU4nRVw1uRPvJV0o) | 2:23 | 2023-03-31 | 2023-04-22 |
 | [Moving Light](https://open.spotify.com/track/4MrpDYKdZ8CYsfTw3hnNma) | [Ezra Glatt](https://open.spotify.com/artist/1q5vdeaANN9uxk1na1WXek) | [Moving Light](https://open.spotify.com/album/4t4E8cI5Nxb1jRPwqmNDbA) | 1:32 | 2022-07-22 | 2023-01-21 |
@@ -288,6 +293,7 @@
 | [On the Vine](https://open.spotify.com/track/0twfYhAuRGyIfyZzsIGHb9) | [Kyle Church](https://open.spotify.com/artist/6LamrVF16MEe2AO5WAGodJ) | [On the Vine](https://open.spotify.com/album/6V9q9qY3TBny1doKIxKdLy) | 3:22 | 2023-05-05 |  |
 | [On Your Way \- Acoustic](https://open.spotify.com/track/6WsDkYODeOVH7iOBDuXWVZ) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect \(Deluxe\)](https://open.spotify.com/album/15utleqV2llYGHYuD72rs8) | 3:08 | 2022-09-09 | 2023-03-11 |
 | [One Bird Calling](https://open.spotify.com/track/4GzJ0pIpiIl3lkVVEL4ZLq) | [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [The Vivian Line](https://open.spotify.com/album/3qExxjkLMrU0YGKUCXKqAe) | 2:15 | 2023-02-17 | 2023-03-11 |
+| [One of Those Nights](https://open.spotify.com/track/0YdXvFAUApwJXIoIeizVBJ) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [One of Those Nights](https://open.spotify.com/album/2m5d3D16D5Ee3thsqBcDWy) | 2:38 | 2023-05-12 |  |
 | [One Step Ahead](https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [One Step Ahead](https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt) | 3:11 | 2022-05-13 | 2022-07-23 |
 | [Open Season](https://open.spotify.com/track/3jAm7LtyaosLDsA1FUf895) | [Laura Reznek](https://open.spotify.com/artist/04nT28h1eTiq4zIw7iOFSz) | [Open Season](https://open.spotify.com/album/1B2iqEV6MswBJEoZFBpqhI) | 4:17 | 2023-04-07 |  |
 | [Opening the Sky](https://open.spotify.com/track/3C5jENIYVwG38O0QkjlAA4) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Opening the Sky](https://open.spotify.com/album/0970umokFEUwY11RwYX7sE) | 4:17 | 2022-09-23 | 2022-10-15 |
@@ -416,6 +422,7 @@
 | [very bad](https://open.spotify.com/track/0IqVMCcDg2hYDmH9s3sEFq) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/557byf4k5KkoU7UnjAVpKc) | 3:57 | 2022-11-21 | 2022-11-24 |
 | [very bad](https://open.spotify.com/track/6RDprVH0kpTInb9gCjsjTj) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/6wdpXFepbCvXuDmw45f9FR) | 3:57 | 2022-11-21 | 2023-02-11 |
 | [Violet](https://open.spotify.com/track/5CG8CTkZMnwGhJs1zHITOq) | [Anna Justen](https://open.spotify.com/artist/5I7Lr9ifQWQv9UdzU9BZr7) | [Violet](https://open.spotify.com/album/2ogDDAPSPKeOpH2OcLEdoN) | 3:04 | 2022-05-13 | 2022-09-24 |
+| [Warning Signs](https://open.spotify.com/track/6G5BZd8IB5qYCAg6zNSASp) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Warning Signs](https://open.spotify.com/album/7gQjG65hSkp91PXzJ3G69T) | 3:32 | 2023-05-12 |  |
 | [Wasted On You](https://open.spotify.com/track/4noOryuWV7YvgdDGvSRNqU) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Wasted On You](https://open.spotify.com/album/5RAH5Q2N6QrzXaLbyU8OtJ) | 3:36 | 2022-11-18 | 2023-02-11 |
 | [Waterfall](https://open.spotify.com/track/7nxSKNyLHaGcBgvVJw3Nhk) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [La cascade](https://open.spotify.com/album/51yDdsc2zYGUr0r4cVGGjo) | 3:07 | 2022-06-03 | 2023-01-14 |
 | [Waterfallin'](https://open.spotify.com/track/1YGmIUqyM926YEPBauYuVM) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Waterfallin'](https://open.spotify.com/album/4rjZOcK1b0W6JVgCYqjxrq) | 3:44 | 2023-04-14 |  |
@@ -447,6 +454,7 @@
 | [You Got a Hold on Me](https://open.spotify.com/track/69VKlOVP8NBMnKcnqB3jdX) | [Noah Derksen](https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936) | [Sanctity of Silence](https://open.spotify.com/album/2x9gBZX2IKiF9TnkgQVUdk) | 4:03 | 2023-03-10 |  |
 | [You'll Never Get To Heaven With That Attitude](https://open.spotify.com/track/69ayK3fANIcCgiiF05xRsr) | [Scott Orr](https://open.spotify.com/artist/12vInSu21rqLXfH6QKTLl1) | [You'll Never Get to Heaven With That Attitude](https://open.spotify.com/album/57WeEXLDRuasGenvl7ljv8) | 3:41 | 2022-06-03 | 2022-11-26 |
 | [You're My Winter](https://open.spotify.com/track/5u6vKboXSgqGxh7dCWy6tQ) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Songs I Wish I Wrote](https://open.spotify.com/album/7nkoBpcjx1dmXS8yRCqMUS) | 3:36 | 2022-12-23 |  |
+| [You're the One](https://open.spotify.com/track/2YEN8LRUuTViNyCGeUQukS) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/6RBTZpN4KkTLDbPdSUYRPJ) | 3:25 | 2023-05-12 |  |
 | [You’d Like to Believe](https://open.spotify.com/track/6yEMIk1gWqatcZm2bSGEeM) | [Ten Kills the Pack](https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l) | [You'd Like to Believe](https://open.spotify.com/album/6jAsIfTjQWYzrDHab7f1Eb) | 3:15 | 2022-12-16 |  |
 
 \*This playlist was first scraped on 2022-05-14. Prior content cannot be recovered.

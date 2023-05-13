@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op maandag met deze zachte pop liedjes.
 
-210 songs - 12 hr 35 min
+211 songs - 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Close To You](https://open.spotify.com/track/0ptKXVvF6qrNAjm9HGG0Rw) | [Michael Prins](https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m) | [De Beste Singer Songwriter van Nederland 2](https://open.spotify.com/album/5rWkw0mK0WGSWtZnfKE8DV) | 4:50 | 2017-12-03 |  |
 | [Coffee Shop Boy](https://open.spotify.com/track/1iMItSsYpJoU0xzxwyNlXp) | [Zoe Hess](https://open.spotify.com/artist/3LGk1fSWkZLW6sCMGt8OJT) | [Coffee Shop Boy](https://open.spotify.com/album/3tOEPACvWdVTjBW170N7AZ) | 3:27 | 2021-11-18 |  |
 | [Corners](https://open.spotify.com/track/5InaPMeIHecsyEVzTnmXfb) | [Octave Lissner](https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7) | [Corners](https://open.spotify.com/album/2IZtWvH7yrESKey65JeHkM) | 3:39 | 2017-12-03 |  |
-| [Dat heb jij gedaan](https://open.spotify.com/track/4wn7cO2iHlWueXGDd4gH9g) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/1MwiN9zv6V9GWHdVPsR4Q1) | 3:31 | 2022-03-08 |  |
+| [Dat Heb Jij Gedaan](https://open.spotify.com/track/3BkP5vYURwcoAkKhzrLVd8) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [22](https://open.spotify.com/album/3E8AMIqWVMZv4kONTo2dxC) | 3:31 | 2022-03-08 |  |
+| [Dat heb jij gedaan](https://open.spotify.com/track/4wn7cO2iHlWueXGDd4gH9g) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/1MwiN9zv6V9GWHdVPsR4Q1) | 3:31 | 2022-03-08 | 2023-05-13 |
 | [Dat heb jij gedaan](https://open.spotify.com/track/6lgIi3ixBsr4cMt3r19yX9) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/4R1T4H4n4YuL92AJ4EgLyJ) | 3:31 | 2022-03-08 | 2022-07-29 |
 | [Day to Day \(6 Days a Week\)](https://open.spotify.com/track/3gw8p4ubz5u3qbpwCpftCt) | [L.A\. Salami](https://open.spotify.com/artist/23HG5wQ67P2pMksEMTbkur) | [The Prelude](https://open.spotify.com/album/0AYvEOBGRxa5oVdKVaYel2) | 5:06 | 2017-12-03 | 2022-11-14 |
 | [Day to Day for 6 Days a Week](https://open.spotify.com/track/4TRRAsZlSanRqzmsCaJ5XM) | [L.A\. Salami](https://open.spotify.com/artist/23HG5wQ67P2pMksEMTbkur) | [The Prelude](https://open.spotify.com/album/3UzRNNQbZ8X9mziFPaknwg) | 5:06 | 2017-12-03 | 2022-10-17 |

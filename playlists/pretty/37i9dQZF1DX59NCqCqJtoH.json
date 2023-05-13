@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1139951,
+  "num_followers": 1140051,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWNmZmM2ODc4Y2FhYTRmZTJmZThiMzQ0MDZkOWIwODE4MTc3MThi",
+  "snapshot_id": "MCwzZjU0ODUzZDI5MDhmZGVmYWZkMGUyZTJiZDMwY2ZiN2NhNGQ2MmQw",
   "tracks": [
     {
       "added_at": "2023-04-26 17:21:25",
@@ -335,18 +335,18 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "Songs from the Swamp",
-        "url": "https://open.spotify.com/album/0HCDt0E4uxtXP99bJyOQDV"
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv"
       },
       "artists": [
         {
-          "name": "Ollie MN",
-          "url": "https://open.spotify.com/artist/5sH4dr4r46Vm0Qu84PAYvk"
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
         }
       ],
-      "duration_ms": 154000,
-      "name": "Please Never Fall in Love Again",
-      "url": "https://open.spotify.com/track/42H6GeQfrBkT3vTUTdpB1M"
+      "duration_ms": 133866,
+      "name": "Any Love",
+      "url": "https://open.spotify.com/track/7bxvEJTeHETJchJLrjxHPQ"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -371,18 +371,18 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "Sonder",
-        "url": "https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv"
+        "name": "Songs from the Swamp",
+        "url": "https://open.spotify.com/album/0HCDt0E4uxtXP99bJyOQDV"
       },
       "artists": [
         {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+          "name": "Ollie MN",
+          "url": "https://open.spotify.com/artist/5sH4dr4r46Vm0Qu84PAYvk"
         }
       ],
-      "duration_ms": 133866,
-      "name": "Any Love",
-      "url": "https://open.spotify.com/track/7bxvEJTeHETJchJLrjxHPQ"
+      "duration_ms": 154000,
+      "name": "Please Never Fall in Love Again",
+      "url": "https://open.spotify.com/track/42H6GeQfrBkT3vTUTdpB1M"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "Blood Harmony",
-        "url": "https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 261471,
-      "name": "Die Alone",
-      "url": "https://open.spotify.com/track/6q2MA87tphYrGm5Jr7xHMl"
-    },
-    {
-      "added_at": "2023-04-26 17:21:25",
-      "album": {
         "name": "Cotton Candy",
         "url": "https://open.spotify.com/album/3XUxXmuRsKJAmzCUrBwKR4"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 93871,
       "name": "Cotton Candy",
       "url": "https://open.spotify.com/track/4FF0tP9mkoiFKLiXFeXm0q"
+    },
+    {
+      "added_at": "2023-04-26 17:21:25",
+      "album": {
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 261471,
+      "name": "Die Alone",
+      "url": "https://open.spotify.com/track/6q2MA87tphYrGm5Jr7xHMl"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "Tired",
-        "url": "https://open.spotify.com/album/4H95f4yelOV9xhe2FI9F9c"
-      },
-      "artists": [
-        {
-          "name": "Sik World",
-          "url": "https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS"
-        }
-      ],
-      "duration_ms": 178303,
-      "name": "Tired",
-      "url": "https://open.spotify.com/track/4ys3qPP1YnF2IgEB2x8EOW"
-    },
-    {
-      "added_at": "2023-04-26 17:21:25",
-      "album": {
         "name": "grim",
         "url": "https://open.spotify.com/album/0PCca8yteh8duIBDV9PX55"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 134885,
       "name": "fragment",
       "url": "https://open.spotify.com/track/77OWuDUCJMhizuSjOXDJbl"
+    },
+    {
+      "added_at": "2023-04-26 17:21:25",
+      "album": {
+        "name": "Tired",
+        "url": "https://open.spotify.com/album/4H95f4yelOV9xhe2FI9F9c"
+      },
+      "artists": [
+        {
+          "name": "Sik World",
+          "url": "https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS"
+        }
+      ],
+      "duration_ms": 178303,
+      "name": "Tired",
+      "url": "https://open.spotify.com/track/4ys3qPP1YnF2IgEB2x8EOW"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -1243,6 +1243,22 @@
       "duration_ms": 160900,
       "name": "Stoner",
       "url": "https://open.spotify.com/track/50IJlcU371grV5aTy1BAQh"
+    },
+    {
+      "added_at": "2023-04-26 17:21:25",
+      "album": {
+        "name": "Forever & Always",
+        "url": "https://open.spotify.com/album/5aHk92PHl9hDm2TEZMdfdB"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 249705,
+      "name": "Forever & Always",
+      "url": "https://open.spotify.com/track/3aI4n3KHtrQ2MDeGmXhgWt"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -1359,18 +1375,18 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "Forever & Always",
-        "url": "https://open.spotify.com/album/5aHk92PHl9hDm2TEZMdfdB"
+        "name": "are you sleeping alone again?",
+        "url": "https://open.spotify.com/album/3ZCbPySe4fDzZCfqUqYLUU"
       },
       "artists": [
         {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+          "name": "bixby",
+          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
         }
       ],
-      "duration_ms": 249705,
-      "name": "Forever & Always",
-      "url": "https://open.spotify.com/track/3aI4n3KHtrQ2MDeGmXhgWt"
+      "duration_ms": 126857,
+      "name": "are you sleeping alone again?",
+      "url": "https://open.spotify.com/track/6abYlQGJf3JvvvZHfBryo4"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -1391,22 +1407,6 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "are you sleeping alone again?",
-        "url": "https://open.spotify.com/album/3ZCbPySe4fDzZCfqUqYLUU"
-      },
-      "artists": [
-        {
-          "name": "bixby",
-          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "are you sleeping alone again?",
-      "url": "https://open.spotify.com/track/6abYlQGJf3JvvvZHfBryo4"
-    },
-    {
-      "added_at": "2023-04-26 17:21:25",
-      "album": {
         "name": "the dog",
         "url": "https://open.spotify.com/album/0UEP9M5UNKJNGlqYlybXA0"
       },
@@ -1419,22 +1419,6 @@
       "duration_ms": 166839,
       "name": "the dog",
       "url": "https://open.spotify.com/track/0KtSVKfc0uDd7b0dpjIqer"
-    },
-    {
-      "added_at": "2023-04-26 17:21:25",
-      "album": {
-        "name": "Stumbling",
-        "url": "https://open.spotify.com/album/4oCH7CmR7SFVQU9V2ArYhN"
-      },
-      "artists": [
-        {
-          "name": "Sarcastic Sounds",
-          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
-        }
-      ],
-      "duration_ms": 172124,
-      "name": "Stumbling",
-      "url": "https://open.spotify.com/track/3PFwnVVcInGph5fjyDmseJ"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -1459,6 +1443,22 @@
       "duration_ms": 136153,
       "name": "Leaving (feat. the bootleg boy & Heroe)",
       "url": "https://open.spotify.com/track/21txIUpB3w1dBeixm5X4DL"
+    },
+    {
+      "added_at": "2023-04-26 17:21:25",
+      "album": {
+        "name": "Stumbling",
+        "url": "https://open.spotify.com/album/4oCH7CmR7SFVQU9V2ArYhN"
+      },
+      "artists": [
+        {
+          "name": "Sarcastic Sounds",
+          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
+        }
+      ],
+      "duration_ms": 172124,
+      "name": "Stumbling",
+      "url": "https://open.spotify.com/track/3PFwnVVcInGph5fjyDmseJ"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -1541,6 +1541,22 @@
       "url": "https://open.spotify.com/track/6hbSCFjiWeL9vmOvoA7xvp"
     },
     {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "handgun",
+        "url": "https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL"
+      },
+      "artists": [
+        {
+          "name": "jake minch",
+          "url": "https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC"
+        }
+      ],
+      "duration_ms": 173446,
+      "name": "handgun",
+      "url": "https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM"
+    },
+    {
       "added_at": "2023-04-26 17:21:25",
       "album": {
         "name": "freckles,",
@@ -1559,18 +1575,38 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "Never Gets Old",
-        "url": "https://open.spotify.com/album/4SFmWILl18Ol37dQ9WLFpO"
+        "name": "hit the road",
+        "url": "https://open.spotify.com/album/0sNfewS7CR8syZCkPbDa53"
       },
       "artists": [
         {
-          "name": "Verzache",
-          "url": "https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T"
+          "name": "Rxseboy",
+          "url": "https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c"
+        },
+        {
+          "name": "Jomie",
+          "url": "https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g"
         }
       ],
-      "duration_ms": 200506,
-      "name": "Never Gets Old",
-      "url": "https://open.spotify.com/track/4RIPTau9DhWdg0rozoyttq"
+      "duration_ms": 184663,
+      "name": "hit the road",
+      "url": "https://open.spotify.com/track/0aTYHNdEClzKSBPpLvKsvr"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Every Fucking Time",
+        "url": "https://open.spotify.com/album/5ZivRaxbqlajWwrhA92jAS"
+      },
+      "artists": [
+        {
+          "name": "Claud",
+          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
+        }
+      ],
+      "duration_ms": 167011,
+      "name": "Every Fucking Time",
+      "url": "https://open.spotify.com/track/3pcl1nwM7BkNaNcsojvPCz"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -1599,22 +1635,18 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "hit the road",
-        "url": "https://open.spotify.com/album/0sNfewS7CR8syZCkPbDa53"
+        "name": "Never Gets Old",
+        "url": "https://open.spotify.com/album/4SFmWILl18Ol37dQ9WLFpO"
       },
       "artists": [
         {
-          "name": "Rxseboy",
-          "url": "https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c"
-        },
-        {
-          "name": "Jomie",
-          "url": "https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g"
+          "name": "Verzache",
+          "url": "https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T"
         }
       ],
-      "duration_ms": 184663,
-      "name": "hit the road",
-      "url": "https://open.spotify.com/track/0aTYHNdEClzKSBPpLvKsvr"
+      "duration_ms": 200506,
+      "name": "Never Gets Old",
+      "url": "https://open.spotify.com/track/4RIPTau9DhWdg0rozoyttq"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -1635,38 +1667,6 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "squares / y 13",
-        "url": "https://open.spotify.com/album/1TszPNUGDtDdfgg1SPDPH6"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 267031,
-      "name": "squares",
-      "url": "https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "handgun",
-        "url": "https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL"
-      },
-      "artists": [
-        {
-          "name": "jake minch",
-          "url": "https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC"
-        }
-      ],
-      "duration_ms": 173446,
-      "name": "handgun",
-      "url": "https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM"
-    },
-    {
-      "added_at": "2023-04-26 17:21:25",
-      "album": {
         "name": "shame",
         "url": "https://open.spotify.com/album/2EOpw6eAEYA0atOPS2Csei"
       },
@@ -1683,34 +1683,18 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "Wavvy",
-        "url": "https://open.spotify.com/album/33RjX6qVEdXlcemcA942b0"
+        "name": "squares / y 13",
+        "url": "https://open.spotify.com/album/1TszPNUGDtDdfgg1SPDPH6"
       },
       "artists": [
         {
-          "name": "Lav",
-          "url": "https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl"
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
         }
       ],
-      "duration_ms": 187546,
-      "name": "Wavvy",
-      "url": "https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk"
-    },
-    {
-      "added_at": "2023-04-26 17:21:25",
-      "album": {
-        "name": "hurt me enough",
-        "url": "https://open.spotify.com/album/1lc8Zvp2mYEMTJyxG8rfb0"
-      },
-      "artists": [
-        {
-          "name": "Nathan Archie",
-          "url": "https://open.spotify.com/artist/4QTm9TRLBaMhCqQE96ETN6"
-        }
-      ],
-      "duration_ms": 186032,
-      "name": "hurt me enough",
-      "url": "https://open.spotify.com/track/46VWMQxwA5cACMY28UlIPs"
+      "duration_ms": 267031,
+      "name": "squares",
+      "url": "https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -1727,6 +1711,22 @@
       "duration_ms": 289058,
       "name": "just wanna forget you",
       "url": "https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo"
+    },
+    {
+      "added_at": "2023-04-26 17:21:25",
+      "album": {
+        "name": "Wavvy",
+        "url": "https://open.spotify.com/album/33RjX6qVEdXlcemcA942b0"
+      },
+      "artists": [
+        {
+          "name": "Lav",
+          "url": "https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl"
+        }
+      ],
+      "duration_ms": 187546,
+      "name": "Wavvy",
+      "url": "https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk"
     }
   ],
   "unique_name": "idk.",

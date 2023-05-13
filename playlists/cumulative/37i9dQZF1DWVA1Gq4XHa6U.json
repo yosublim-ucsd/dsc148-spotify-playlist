@@ -1142,7 +1142,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 336866,
       "name": "Follow The Leader",
       "url": "https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj"
@@ -1380,6 +1380,24 @@
       "duration_ms": 265333,
       "name": "Ghetto Supastar (That Is What You Are) - Soundtrack Version",
       "url": "https://open.spotify.com/track/0tIG1vFpmO37RDRvcjQRg0"
+    },
+    {
+      "album": {
+        "name": "Extinction Level Event: The Final World Front",
+        "url": "https://open.spotify.com/album/4zb4gmGzDYtlWMjmc1NZWW"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158466,
+      "name": "Gimme Some More",
+      "url": "https://open.spotify.com/track/47wZfF4OdME3xkIPhhpSSF"
     },
     {
       "album": {
@@ -3068,7 +3086,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 233360,
       "name": "Overnight Celebrity",
       "url": "https://open.spotify.com/track/2tOZtdbkAMQASWokLvSlzj"
@@ -3455,6 +3473,24 @@
     },
     {
       "album": {
+        "name": "It's Dark And Hell Is Hot",
+        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214440,
+      "name": "Ruff Ryders' Anthem",
+      "url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s"
+    },
+    {
+      "album": {
         "name": "The Blueprint 3",
         "url": "https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX"
       },
@@ -3756,7 +3792,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 280013,
       "name": "Soul Survivor",
       "url": "https://open.spotify.com/track/0Ss50OU9tCozI7JIywkv14"
@@ -3942,6 +3978,24 @@
       "duration_ms": 311866,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"
+    },
+    {
+      "album": {
+        "name": "N.O.R.E",
+        "url": "https://open.spotify.com/album/1aFS9Pa88Gl3QH1gNNVyzR"
+      },
+      "artists": [
+        {
+          "name": "Noreaga",
+          "url": "https://open.spotify.com/artist/2GqgiChw79vIYobk2zJFsO"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300360,
+      "name": "Superthug",
+      "url": "https://open.spotify.com/track/2FaZoB6xQohJKWmq8KlYke"
     },
     {
       "album": {

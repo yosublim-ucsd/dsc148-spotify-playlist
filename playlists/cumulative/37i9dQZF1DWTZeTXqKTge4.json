@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 226389,
       "name": "Black Card",
       "url": "https://open.spotify.com/track/5ejzQ4vFa8FQkHT6qcCBmd"
@@ -2798,7 +2798,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 277195,
       "name": "Ensemble",
       "url": "https://open.spotify.com/track/4HS91pybkuw7ulhC7xMvVv"
@@ -3474,6 +3474,28 @@
       "duration_ms": 149315,
       "name": "Ghini",
       "url": "https://open.spotify.com/track/00FJ5yEF2dIPNfU1HsYrc7"
+    },
+    {
+      "album": {
+        "name": "GMM",
+        "url": "https://open.spotify.com/album/533UTz0dq2rUvEXVjNMOhs"
+      },
+      "artists": [
+        {
+          "name": "Mike Shabb",
+          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
+        },
+        {
+          "name": "SeinsSucrer",
+          "url": "https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146206,
+      "name": "GMM",
+      "url": "https://open.spotify.com/track/11k61hv8iYNiOORNBR1AlH"
     },
     {
       "album": {
@@ -4394,7 +4416,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 166470,
       "name": "Lass\u00e9e",
       "url": "https://open.spotify.com/track/28RXCDlIqUahRnwOzZFO6t"
@@ -4488,7 +4510,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 233314,
       "name": "Leansy",
       "url": "https://open.spotify.com/track/0lV7WglmHuWvFMid5KlRPI"
@@ -4710,6 +4732,24 @@
       "duration_ms": 151991,
       "name": "Maison S\u00e9rieuse",
       "url": "https://open.spotify.com/track/3NxGzIj7N31sQPrAqec8Vq"
+    },
+    {
+      "album": {
+        "name": "Make It Alright",
+        "url": "https://open.spotify.com/album/42kvW1YuCH0u7SeTPZhCC6"
+      },
+      "artists": [
+        {
+          "name": "Aswell",
+          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133822,
+      "name": "Make It Alright",
+      "url": "https://open.spotify.com/track/51djI7wMlcQZm9jvo24Nsq"
     },
     {
       "album": {
@@ -4960,6 +5000,24 @@
       "duration_ms": 228579,
       "name": "Misunderstood",
       "url": "https://open.spotify.com/track/6uqdKP6QZIlAaVqyZP6krW"
+    },
+    {
+      "album": {
+        "name": "Mode Avion",
+        "url": "https://open.spotify.com/album/7oSVJPi9zgjRavK3z0xB4H"
+      },
+      "artists": [
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197067,
+      "name": "Mode Avion",
+      "url": "https://open.spotify.com/track/2OwCPUafRzulE8CyB0WQMY"
     },
     {
       "album": {
@@ -5272,7 +5330,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 224704,
       "name": "NHN",
       "url": "https://open.spotify.com/track/0DfrSA7A8vdk8rDCUlBNac"
@@ -5788,6 +5846,24 @@
       "duration_ms": 284801,
       "name": "PARANO",
       "url": "https://open.spotify.com/track/0ruI6MkAOhq597eZzFd3Ia"
+    },
+    {
+      "album": {
+        "name": "Le pouvoir de l'esprit est infini",
+        "url": "https://open.spotify.com/album/4Tn6ivEofLTooQvhHqmTRm"
+      },
+      "artists": [
+        {
+          "name": "Eman",
+          "url": "https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178725,
+      "name": "Partout",
+      "url": "https://open.spotify.com/track/6dmmoMqEp0CDLiOZ2zZqbu"
     },
     {
       "album": {
@@ -7135,6 +7211,24 @@
     },
     {
       "album": {
+        "name": "Sur la lune",
+        "url": "https://open.spotify.com/album/6nW9vAQcbtXmaSHh5lbH3X"
+      },
+      "artists": [
+        {
+          "name": "Marie-Gold",
+          "url": "https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133026,
+      "name": "Sur la lune",
+      "url": "https://open.spotify.com/track/0z33yZbU2DpKRGSoPl4lQO"
+    },
+    {
+      "album": {
         "name": "Sur ma t\u00eate",
         "url": "https://open.spotify.com/album/24oeB4y5KtvehmuKPFLGQh"
       },
@@ -7350,6 +7444,24 @@
       "duration_ms": 197446,
       "name": "Tout c'que j'connais",
       "url": "https://open.spotify.com/track/6ysi2zSXcx4WjU2gX6Cmcr"
+    },
+    {
+      "album": {
+        "name": "Tout est bon",
+        "url": "https://open.spotify.com/album/2s0srAo1r2xhPVtxbsarKA"
+      },
+      "artists": [
+        {
+          "name": "Mouss",
+          "url": "https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196373,
+      "name": "Tout est bon",
+      "url": "https://open.spotify.com/track/3ewz0r9BwB0cbZ4Clleho6"
     },
     {
       "album": {
@@ -8110,7 +8222,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 196226,
       "name": "\u00c9vapor\u00e9",
       "url": "https://open.spotify.com/track/32XFaa4LwJrdI7R4Z8dDZD"

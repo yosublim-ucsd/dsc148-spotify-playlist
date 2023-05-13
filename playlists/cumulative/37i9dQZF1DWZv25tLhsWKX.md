@@ -4,7 +4,7 @@
 
 > Where Nashville, Memphis & the Shoals meet\. Cover: The War and Treaty
 
-84 songs - 5 hr 7 min
+85 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Hold On](https://open.spotify.com/track/2AmvFn1VALA0VM1toWubEN) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14), [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Hold On](https://open.spotify.com/album/5OF5fVkkIWWOvn2Xdat10i) | 3:29 | 2021-02-17 |  |
 | [Holy Wine](https://open.spotify.com/track/14eNJjAABFczshS0nfquYD) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Goin' Platinum!](https://open.spotify.com/album/6M5DQTTp3zGaWOH6hXsYJV) | 3:27 | 2021-02-17 |  |
 | [Homesick](https://open.spotify.com/track/2sF0R0NyjRfgbPdpUtX9p6) | [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9) | [Carolina Confessions](https://open.spotify.com/album/6RVN0MPUbYBiYm2Otf6Li2) | 6:24 | 2021-02-17 |  |
+| [Hometeam](https://open.spotify.com/track/5Q8vgpRXpaBXEGH18CMhDa) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Hometeam](https://open.spotify.com/album/3BhFdlcwkD19gdA2943Tdm) | 2:55 | 2023-05-12 |  |
 | [Honky Tonk Women](https://open.spotify.com/track/38Cn5x1VP6gBDbibmokN8d) | [The Flying Burrito Brothers](https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM) | [Sleepless Nights](https://open.spotify.com/album/3hDXV8pPMWKzRziBsuPJWA) | 4:17 | 2021-02-17 | 2022-07-29 |
 | [Honky Tonk Women](https://open.spotify.com/track/6gcAlkX0YVDlHtKIYY9a25) | [The Flying Burrito Brothers](https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM) | [Sleepless Nights \(Reissue\)](https://open.spotify.com/album/7Mnz3gmfUJ913vQxCsRyEm) | 4:17 | 2021-02-17 |  |
 | [I Can't Stop Loving You](https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Modern Sounds in Country and Western Music, Vols 1 & 2](https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF) | 4:16 | 2021-02-17 |  |

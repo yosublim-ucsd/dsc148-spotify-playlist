@@ -2150,7 +2150,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 220055,
       "name": "Eyes on Me",
       "url": "https://open.spotify.com/track/2KsIlbHyTl7wJaG0fOLs34"
@@ -5834,6 +5834,24 @@
       "duration_ms": 195121,
       "name": "Plastic",
       "url": "https://open.spotify.com/track/0zbmRwI3Cn0aPCkVIvxQtO"
+    },
+    {
+      "album": {
+        "name": "Plastic",
+        "url": "https://open.spotify.com/album/5ANcIfETYBjqYxTMX514o3"
+      },
+      "artists": [
+        {
+          "name": "Tendencies",
+          "url": "https://open.spotify.com/artist/3HDU9AvCEdAsDIOX6BtgqK"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195121,
+      "name": "Plastic",
+      "url": "https://open.spotify.com/track/2X6jdDyYRFrs8yh8pjIKaP"
     },
     {
       "album": {

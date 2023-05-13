@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Robert Finley
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,855 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,884 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Caldonia](https://open.spotify.com/track/3JhhFy0eBmSqNOegoaIUff) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Savoy](https://open.spotify.com/album/6CSit6rVjX6qqPrwHCaWdF) | 3:32 |
 | 2 | [Tell Everybody](https://open.spotify.com/track/2NGMAdhKhuQzk2Q5VqJLO0) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Tell Everybody](https://open.spotify.com/album/2RweVc8OqVklZTWuSORVeG) | 4:58 |
-| 3 | [Hey Sweet Mama](https://open.spotify.com/track/1MOMr9SOh60lG2LH2Q6KcR) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD) | [Hey Sweet Mama](https://open.spotify.com/album/0jWYluOK8PM8cF33IwooLo) | 3:36 |
-| 4 | [You're Gonna Be Sorry](https://open.spotify.com/track/66lsfUDfroN998Sau6OkIp) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [Bob Corritore & Friends: Women In Blues Showcase](https://open.spotify.com/album/5Fo1fjBqdMpJcZfROBZI5x) | 2:46 |
-| 5 | [Best Of Me](https://open.spotify.com/track/0VbJ3cy7fxcHgNiAA29jXl) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB), [Grooveline Horns](https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743) | [Best Of Me](https://open.spotify.com/album/5yUt1cDO7CNBnEtyJS1aP9) | 3:54 |
-| 6 | [Down On The South Side](https://open.spotify.com/track/3bEvr0dRJeQ02PynkdmXuV) | [The Cash Box Kings](https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c) | [Oscar's Motel](https://open.spotify.com/album/3OaTkkcE8j9gFJQCmlSZJ4) | 3:41 |
-| 7 | [One Monkey Can Stop a Show](https://open.spotify.com/track/1bqc5cCLaJj2QYqkJcmZRJ) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [One Monkey Can Stop a Show](https://open.spotify.com/album/1785Aty0XBeXkqP8jpWICN) | 3:41 |
-| 8 | [Tenere Den](https://open.spotify.com/track/7ytOQ3MLqno1gpctggPRTU) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb), [Fats Kaplin](https://open.spotify.com/artist/5AzDLOaBZOw8YvHyMuGt69) | [Tenere Den](https://open.spotify.com/album/6Kn1FZXSVW4ydCAelpLpei) | 3:32 |
+| 3 | [Anemouhagh](https://open.spotify.com/track/6Yk0t2210xFtLnUl0hkYDp) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb), [Fats Kaplin](https://open.spotify.com/artist/5AzDLOaBZOw8YvHyMuGt69) | [Anemouhagh](https://open.spotify.com/album/663ElbBp2yIaQQZXoU3Ajy) | 3:44 |
+| 4 | [Hey Sweet Mama](https://open.spotify.com/track/1MOMr9SOh60lG2LH2Q6KcR) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD) | [Hey Sweet Mama](https://open.spotify.com/album/0jWYluOK8PM8cF33IwooLo) | 3:36 |
+| 5 | [Last Time](https://open.spotify.com/track/5y0qdBH20kqP3xCWP2UmQt) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Last Time](https://open.spotify.com/album/7d1zgjgQZO89I2ffcHpVze) | 2:31 |
+| 6 | [Best Of Me](https://open.spotify.com/track/0VbJ3cy7fxcHgNiAA29jXl) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB), [Grooveline Horns](https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743) | [Best Of Me](https://open.spotify.com/album/5yUt1cDO7CNBnEtyJS1aP9) | 3:54 |
+| 7 | [Down On The South Side](https://open.spotify.com/track/3bEvr0dRJeQ02PynkdmXuV) | [The Cash Box Kings](https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c) | [Oscar's Motel](https://open.spotify.com/album/3OaTkkcE8j9gFJQCmlSZJ4) | 3:41 |
+| 8 | [One Monkey Can Stop a Show](https://open.spotify.com/track/1bqc5cCLaJj2QYqkJcmZRJ) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [One Monkey Can Stop a Show](https://open.spotify.com/album/1785Aty0XBeXkqP8jpWICN) | 3:41 |
 | 9 | [Count Your Chickens](https://open.spotify.com/track/7JwSmQPWQCm6MlPZndoQNz) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD) | [Weight of the World](https://open.spotify.com/album/2upuqUhXRGi2J1P8KIgGdv) | 3:50 |
 | 10 | [The Ballad of John Howard Griffin](https://open.spotify.com/track/483TCXJPMDIKqygdS0gBda) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Russell Malone](https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb) | [Ridin'](https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq) | 5:16 |
 | 11 | [Love Letter To The Blues \- Bonus Track](https://open.spotify.com/track/3i7fHXcG7apdpiemYYPP1J) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [Connor Selby \(Deluxe Edition\)](https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU) | 4:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [I'm No Angel Myself](https://open.spotify.com/track/1HENXx512ScE18AYoJm45r) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [One Way Out](https://open.spotify.com/album/19Qpt0zW5Rj8Z85T47YpUG) | 4:38 |
 | 100 | [Raisin' Kane](https://open.spotify.com/track/1OojhoKnIxYreWCblSWZ4R) | [Seth James](https://open.spotify.com/artist/6PB0R8akORJQtWUbL36aPg), [Lee Roy Parnell](https://open.spotify.com/artist/3bW6mQczkt1r8tnWIDeBVJ) | [Raisin' Kane](https://open.spotify.com/album/0KpC9zQSsxuNqiHXWhoWXA) | 2:58 |
 
-Snapshot ID: `MCw1Y2MyMzdjMWJkNzI0NDg4ZTQ3ZWMzZjcwZjQyOGIyZmZlN2FmMGE0`
+Snapshot ID: `MCxhMTFjYzQ2MDdhOTdlZmYzYjdhZGMyZTNiNmFmYTg3MzM4YzliYWM0`

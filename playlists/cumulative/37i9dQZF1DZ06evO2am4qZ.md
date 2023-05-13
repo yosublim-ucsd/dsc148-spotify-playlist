@@ -4,7 +4,7 @@
 
 > This is Baby Tate\. The essential tracks, all in one playlist.
 
-74 songs - 3 hr 37 min
+75 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Ain’t No Love \(feat\. 2 Chainz\)](https://open.spotify.com/track/69TzD9PfuWekKoak6pAdcV) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Ain’t No Love \(feat\. 2 Chainz\)](https://open.spotify.com/album/4zVXUfWSP8ndHCQUW1a6HI) | 3:04 | 2022-10-28 |  |
 | [ATM \(ft\. Baby Tate\)](https://open.spotify.com/track/0MdSTZKOylxdSzSKVwOgUL) | [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [ATM \(ft\. Baby Tate\)](https://open.spotify.com/album/3V6buZJlxOu0smUddpIak2) | 2:40 | 2023-04-22 |  |
 | [B.O.M.B.S.](https://open.spotify.com/track/4D8KWoUe3oTaQSQq928X7B) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [B.O.M.B.S.](https://open.spotify.com/album/26Mu53kDQHQ5wIjUhpiMhY) | 3:13 | 2022-10-28 | 2023-02-09 |
-| [Bad Lil Bish \(feat\. Baby Tate & Black Boe\)](https://open.spotify.com/track/6pZFQmfGK8NnU0xrvK42ng) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Black Boe](https://open.spotify.com/artist/0H6CjdCp9GMNoFgMVALJOk) | [Better Than Drugs](https://open.spotify.com/album/1Z7KnOiOsVLzW2qkgYatxY) | 3:09 | 2022-10-28 |  |
+| [Bad Lil Bish \(feat\. Baby Tate & Black Boe\)](https://open.spotify.com/track/6pZFQmfGK8NnU0xrvK42ng) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Black Boe](https://open.spotify.com/artist/0H6CjdCp9GMNoFgMVALJOk) | [Better Than Drugs](https://open.spotify.com/album/1Z7KnOiOsVLzW2qkgYatxY) | 3:09 | 2022-10-28 | 2023-05-13 |
 | [Baecation](https://open.spotify.com/track/34ukbJprybxATIMVL5ku4x) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [After The Rain: Deluxe](https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe) | 3:02 | 2022-10-28 |  |
 | [Been in My Bag](https://open.spotify.com/track/52S4G8jg4gtQQqImKb7iMC) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Been in My Bag](https://open.spotify.com/album/5qthQyrJwdXFXsTkjWwXCO) | 2:14 | 2022-10-28 |  |
 | [BIBI Vengeance \(feat\. Baby Tate & with Princesa Alba\) \- Remix](https://open.spotify.com/track/3912lxLhe5pgqJafrqrxK8) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [BIBI Vengeance \(feat\. Baby Tate & with Princesa Alba\) \[Remix\]](https://open.spotify.com/album/3exzx1IVqyCAnrTsxq5X0r) | 3:09 | 2023-03-04 |  |
@@ -38,6 +38,7 @@
 | [Feel It](https://open.spotify.com/track/71PUYOHINr5A64QxBywwsp) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Seeking Thrills \(The Ultimate Thrills Edition\)](https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ) | 2:46 | 2022-10-28 |  |
 | [Flick! \(Stacey\) \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/1I0etEWpAifqN3Ceq1ZMYt) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Watch This!](https://open.spotify.com/album/4Vu0PtnR4eyViFmKZNpJqL) | 2:04 | 2022-10-28 |  |
 | [Focused](https://open.spotify.com/track/0R86U2o1voaXPzvL5QrNWE) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [After The Rain: Deluxe](https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe) | 2:46 | 2022-10-28 |  |
+| [Girl](https://open.spotify.com/track/6XeuoGtVkxBtPvQLjYEytW) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [GIRLS Deluxe](https://open.spotify.com/album/1Qj0GLSG3jwLnwDP36nDkZ) | 1:04 | 2023-05-12 |  |
 | [GIVE U LIFE \(From LIFEWTR’s LIFE UNSEEN Collection\)](https://open.spotify.com/track/7JCwTLIjLGpOT8QuQI1NkR) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [GIVE U LIFE \(From LIFEWTR’s LIFE UNSEEN Collection\)](https://open.spotify.com/album/4XG9ENFZoKawzarcGx6CWK) | 1:06 | 2022-10-28 |  |
 | [He Wanna \(feat\. B.K\. Habermehl\)](https://open.spotify.com/track/3BXvUg7mxywHWb7PjElvOV) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [B.K\. Habermehl](https://open.spotify.com/artist/64QWRxLk9KP6yTX9NK7COY) | [He Wanna \(feat\. B.K\. Habermehl\)](https://open.spotify.com/album/43MrfvRegBtm396DTzpmtl) | 2:31 | 2022-11-30 | 2022-12-11 |
 | [Heaux Things \(feat\. Baby Tate\)](https://open.spotify.com/track/7JJlZwKiYSPG4udG1GvX9t) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Luv Scarred / No Luv \(Deluxe\)](https://open.spotify.com/album/6BW57jVtLJ1NuVefL901qC) | 2:43 | 2023-02-13 |  |

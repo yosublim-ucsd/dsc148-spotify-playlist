@@ -4,13 +4,13 @@
 
 > Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Majur
 
-98 songs - 4 hr 21 min
+99 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A QUEDA](https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [A QUEDA](https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR) | 2:52 | 2022-04-29 |  |
 | [Agora Vai!](https://open.spotify.com/track/1xQZMFLNckpSQzwleLBKyL) | [Giovani Cidreira](https://open.spotify.com/artist/2SBQT5mUZ07UXABDj12pH1), [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Agora Vai!](https://open.spotify.com/album/6l4qzArQvDKnzRLmFkrHE2) | 4:26 | 2022-11-25 | 2023-02-11 |
-| [Alasca](https://open.spotify.com/track/5nb97cpmD6U9FpO8VJ3jnm) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Alasca](https://open.spotify.com/album/69Sxc4uQUdJ6bgi2f2gZlD) | 4:36 | 2022-12-09 |  |
+| [Alasca](https://open.spotify.com/track/5nb97cpmD6U9FpO8VJ3jnm) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Alasca](https://open.spotify.com/album/69Sxc4uQUdJ6bgi2f2gZlD) | 4:36 | 2022-12-09 | 2023-05-13 |
 | [AMEIANOITE](https://open.spotify.com/track/3JeFqRhhI27DitFmQmdSzL) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [AMEIANOITE](https://open.spotify.com/album/5D5BwY5BCQSV296xzalpXk) | 2:45 | 2023-01-24 | 2023-02-16 |
 | [AMEIANOITE](https://open.spotify.com/track/6RaolvdZThLHWf0ROWRvW8) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [AMEIANOITE](https://open.spotify.com/album/2DMrlO0tm4eE4ZEE1JZulX) | 2:45 | 2022-12-02 | 2023-02-10 |
 | [AMEIANOITE](https://open.spotify.com/track/0zQhdzUijGmorUhopvtoue) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Noitada](https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY) | 2:46 | 2023-02-10 |  |
@@ -94,6 +94,7 @@
 | [Triste com T](https://open.spotify.com/track/0L8nJt3b5LjXvFfDt7x2pP) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 2:12 | 2022-04-29 | 2022-07-29 |
 | [Triste com T](https://open.spotify.com/track/34mhUL0A8oPJbg1DWe1HMK) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/5kH6l7hx5ZJJHLiwt7LILj) | 2:12 | 2022-07-22 |  |
 | [Triste com T](https://open.spotify.com/track/7iTpnFZWdEEgpU6QHvrsvS) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Triste com T](https://open.spotify.com/album/6Zb7J5sbItur7GcEBcNzEs) | 2:12 | 2022-10-14 | 2022-11-13 |
+| [Tudo Ou Nada](https://open.spotify.com/track/4kFYhqh5xOBNNhKoy6uDCp) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [ARRISCA](https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc) | 4:08 | 2023-05-12 |  |
 | [Tóxico](https://open.spotify.com/track/3Pmh33KdrzB0imutuOUjoZ) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:08 | 2023-02-10 | 2023-04-01 |
 | [Tô Preocupada \(Calma Amiga\) \(feat\. Anitta\)](https://open.spotify.com/track/70jrNdP6R9AKHazjaurG3Z) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [DJ Will22](https://open.spotify.com/artist/4WrL8YBVkibeodZIhBLjsn), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Tô Preocupada \(Calma Amiga\) \(feat\. Anitta\)](https://open.spotify.com/album/4uBj6yxHhzeEau2ZQt52uZ) | 2:00 | 2022-04-29 |  |
 | [Vai Passar](https://open.spotify.com/track/5HT43fgoZ6rQZOMJzUqXEk) | [Davi Bandeira](https://open.spotify.com/artist/3qinG2yx6n5OipjLIKPJ68) | [Vai Passar](https://open.spotify.com/album/7JQ6MyS1hTp7CRKgEJh4P4) | 3:16 | 2022-04-29 | 2022-10-08 |

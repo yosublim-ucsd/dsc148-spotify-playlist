@@ -1521,6 +1521,28 @@
     },
     {
       "album": {
+        "name": "All My Life (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223878,
+      "name": "All My Life (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
+    },
+    {
+      "album": {
         "name": "ALL MY SHIT IS STUPID",
         "url": "https://open.spotify.com/album/1ve4FkIf7ZCK9rq6PtRK0l"
       },
@@ -10983,7 +11005,7 @@
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 234370,
+      "duration_ms": 234299,
       "name": "House of Blues (feat. Wiz Khalifa, Big K.R.I.T., Curren$y & Girl Talk)",
       "url": "https://open.spotify.com/track/1AMhPPGhfiTFiJucauyCkA"
     },
@@ -15042,6 +15064,28 @@
       "duration_ms": 222798,
       "name": "MURDAMAN! (feat. Chief Keef)",
       "url": "https://open.spotify.com/track/32DFtWSM5SpEAHcyzW3m0A"
+    },
+    {
+      "album": {
+        "name": "MVP (feat. G-Eazy)",
+        "url": "https://open.spotify.com/album/4pyhYSKl4jBqkemyG94DSG"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173948,
+      "name": "MVP (feat. G-Eazy)",
+      "url": "https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d"
     },
     {
       "album": {
@@ -25318,7 +25362,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 122666,
-      "name": "Wake up call",
+      "name": "Wake Up Call",
       "url": "https://open.spotify.com/track/1cuV4c3phVhyBDqh0N811c"
     },
     {

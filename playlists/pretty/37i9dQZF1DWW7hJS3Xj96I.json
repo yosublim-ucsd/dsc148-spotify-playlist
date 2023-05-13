@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Baila con los mejores \u00e9xitos de los 90! Ricky Martin en portada.",
-  "num_followers": 1024200,
+  "num_followers": 1024664,
   "original_name": "Fiesta 90era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGY1ZDU0YzliODFhYzhjMGE3MjUwNWVmNGY2M2MzMTc1YjdhMWM5",
+  "snapshot_id": "MCxjYjY4NzM0N2ZiYjBmYTc3ZTY1ZGQyY2YxYmU2YTY1YThkNGVmNmZj",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 245120,
-      "name": "La Bilirrubina",
-      "url": "https://open.spotify.com/track/6M8horg7h52MPTxY0I3dQJ"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Aries",
         "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 289600,
       "name": "Suave",
       "url": "https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 245120,
+      "name": "La Bilirrubina",
+      "url": "https://open.spotify.com/track/6M8horg7h52MPTxY0I3dQJ"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Sin Miedo",
-        "url": "https://open.spotify.com/album/1oOh2MdkPDUn8uaDeq82hf"
-      },
-      "artists": [
-        {
-          "name": "Calo",
-          "url": "https://open.spotify.com/artist/2Qm12OdHFDHSpWhBMpO16L"
-        }
-      ],
-      "duration_ms": 242053,
-      "name": "Formas De Amor",
-      "url": "https://open.spotify.com/track/0grtL2b9mfjf9mfOxVZJhP"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Suavemente",
         "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 267000,
       "name": "Suavemente",
       "url": "https://open.spotify.com/track/7cpFmkNmh3MM0WqXPSbs9f"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Sin Miedo",
+        "url": "https://open.spotify.com/album/1oOh2MdkPDUn8uaDeq82hf"
+      },
+      "artists": [
+        {
+          "name": "Calo",
+          "url": "https://open.spotify.com/artist/2Qm12OdHFDHSpWhBMpO16L"
+        }
+      ],
+      "duration_ms": 242053,
+      "name": "Formas De Amor",
+      "url": "https://open.spotify.com/track/0grtL2b9mfjf9mfOxVZJhP"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Entrega Total",
-        "url": "https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht"
-      },
-      "artists": [
-        {
-          "name": "Onda Vaselina",
-          "url": "https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw"
-        }
-      ],
-      "duration_ms": 262546,
-      "name": "M\u00edrame a los Ojos",
-      "url": "https://open.spotify.com/track/0q3P0vjpqqswJSukITnfZA"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "The Rhythm of the Night",
         "url": "https://open.spotify.com/album/5ooTXuDOxCNohug76VGayS"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 264306,
       "name": "The Rhythm of the Night",
       "url": "https://open.spotify.com/track/5IPJsGFKtxKDPCkT8lhEjN"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Entrega Total",
+        "url": "https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht"
+      },
+      "artists": [
+        {
+          "name": "Onda Vaselina",
+          "url": "https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw"
+        }
+      ],
+      "duration_ms": 262546,
+      "name": "M\u00edrame a los Ojos",
+      "url": "https://open.spotify.com/track/0q3P0vjpqqswJSukITnfZA"
     },
     {
       "added_at": "2023-04-28 04:00:00",

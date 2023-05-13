@@ -1,12 +1,12 @@
 {
   "description": "Relax with these timeless tunes. Cover: John Denver",
-  "num_followers": 638457,
+  "num_followers": 638761,
   "original_name": "Mellow Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmMwODI0ZmE5OTEwYzY1ZmEzYmJiYWZhZmQ0OTY3OWFlNzk4Mzcw",
+  "snapshot_id": "MCw2YzhjZjk3YWFlNGFjNjJhZTcwOTk5NzI2Njk4Njg1NWZjNjRjNTA4",
   "tracks": [
     {
       "added_at": "2021-09-30 18:53:37",
@@ -601,7 +601,7 @@
       "url": "https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe"
     },
     {
-      "added_at": "2023-05-12 00:05:38",
+      "added_at": "2023-05-13 00:46:12",
       "album": {
         "name": "Silk Purse",
         "url": "https://open.spotify.com/album/33w9uBzKNuGxvJwcMMNs2G"
@@ -619,22 +619,6 @@
     {
       "added_at": "2021-09-30 18:53:37",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2L4U4JjEADYaVltkvDrkCC"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 238573,
-      "name": "Carolina in My Mind",
-      "url": "https://open.spotify.com/track/2T5Ch09nefwckOu5NQvjIk"
-    },
-    {
-      "added_at": "2021-09-30 18:53:37",
-      "album": {
         "name": "My Cherie Amour",
         "url": "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 173306,
       "name": "My Cherie Amour",
       "url": "https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2"
+    },
+    {
+      "added_at": "2021-09-30 18:53:37",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2L4U4JjEADYaVltkvDrkCC"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 238573,
+      "name": "Carolina in My Mind",
+      "url": "https://open.spotify.com/track/2T5Ch09nefwckOu5NQvjIk"
     },
     {
       "added_at": "2021-09-30 18:53:37",

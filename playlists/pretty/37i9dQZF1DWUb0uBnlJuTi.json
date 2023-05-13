@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Takuya Kuroda",
-  "num_followers": 274086,
+  "num_followers": 274362,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTFmNTE1ZDY1YWE3ZWQ3YWNkYTc4Yjg5YWY1ODExNjhiMTQwYzU5",
+  "snapshot_id": "MCwwOWFhZDE2ODE4NzA0NGFkMWVjNTliYzMxYzNhMGI2ZWVhY2IzMGEz",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -39,6 +39,34 @@
       "duration_ms": 541826,
       "name": "Mister Magic",
       "url": "https://open.spotify.com/track/2fmXnPfzguSp3zKDibCBgv"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Sign of the Times",
+        "url": "https://open.spotify.com/album/5QbqH2ZI7OxlYzumfPMHzK"
+      },
+      "artists": [
+        {
+          "name": "Billy Valentine",
+          "url": "https://open.spotify.com/artist/4AYoCwXHaaxeaM8DtzP3zg"
+        },
+        {
+          "name": "The Universal Truth",
+          "url": "https://open.spotify.com/artist/1ZD9NNLJlXTgjjolh9M6cK"
+        },
+        {
+          "name": "Pino Palladino",
+          "url": "https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8"
+        },
+        {
+          "name": "Jeff Parker",
+          "url": "https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt"
+        }
+      ],
+      "duration_ms": 254599,
+      "name": "Sign Of The Times (Single Version)",
+      "url": "https://open.spotify.com/track/2k2eu1Qa8v34MOhHi849YA"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -75,6 +103,46 @@
       "duration_ms": 253747,
       "name": "I Got It Bad (And That Ain't Good)",
       "url": "https://open.spotify.com/track/3926LUvvXeRq024iTeNAnP"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Youngstown 4",
+        "url": "https://open.spotify.com/album/07xTRshgnOw1YBJgzHTsIi"
+      },
+      "artists": [
+        {
+          "name": "Unc D",
+          "url": "https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO"
+        },
+        {
+          "name": "Thin Thicket",
+          "url": "https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng"
+        },
+        {
+          "name": "Damon the Soulful Samurai",
+          "url": "https://open.spotify.com/artist/6B7G3EEuNog0pIB4IYqXtp"
+        },
+        {
+          "name": "Nicholas Frank",
+          "url": "https://open.spotify.com/artist/1lvvQNtbJDnA6VYOps1VAH"
+        },
+        {
+          "name": "Antonio Labra",
+          "url": "https://open.spotify.com/artist/27zwBTNwuN786OvS6BpzD4"
+        },
+        {
+          "name": "Thomas Russell",
+          "url": "https://open.spotify.com/artist/68xOAUse5cObr1No8jPoel"
+        },
+        {
+          "name": "Drehova",
+          "url": "https://open.spotify.com/artist/2WYpO40KD8lWY8YAC7L4DO"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "Youngstown 4",
+      "url": "https://open.spotify.com/track/0KYwUNSSE7Sm0rOzWRYrR1"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -149,6 +217,26 @@
       "url": "https://open.spotify.com/track/6nIueLCyNxBUM941WQ2v7l"
     },
     {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Dancing in the Dusk (Clap! Clap! Remix)",
+        "url": "https://open.spotify.com/album/3Of6o8tJrzGCHNhmfLLDvc"
+      },
+      "artists": [
+        {
+          "name": "Sunb\u00f6rn",
+          "url": "https://open.spotify.com/artist/7293VovtiQo4DOspfUDgXt"
+        },
+        {
+          "name": "Clap! Clap!",
+          "url": "https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF"
+        }
+      ],
+      "duration_ms": 431664,
+      "name": "Dancing in the Dusk - Clap! Clap! Remix",
+      "url": "https://open.spotify.com/track/086EQKkc1JSugaMbrpQYyq"
+    },
+    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Riot Jazz Makes People Happy",
@@ -215,6 +303,22 @@
       "duration_ms": 388960,
       "name": "Watermelon Man",
       "url": "https://open.spotify.com/track/2zQl59dZMzwhrmeSBEgiXY"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Pluto",
+        "url": "https://open.spotify.com/album/2KhSWuSSxItYsUYIXbhyyq"
+      },
+      "artists": [
+        {
+          "name": "Apollo Suns",
+          "url": "https://open.spotify.com/artist/2QkgSnhat4djSXQA6EvQJW"
+        }
+      ],
+      "duration_ms": 257152,
+      "name": "Pluto",
+      "url": "https://open.spotify.com/track/66BTQQnzdtn921AG13dO6D"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -641,30 +745,6 @@
       "url": "https://open.spotify.com/track/1DoWUjcc5sqpRioFPioogU"
     },
     {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "SuperBlue: Guilty Pleasures (feat. Nate Smith)",
-        "url": "https://open.spotify.com/album/4KGZEfzmcVMM6XujS0RWyp"
-      },
-      "artists": [
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        },
-        {
-          "name": "Charlie Hunter",
-          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
-        },
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
-        }
-      ],
-      "duration_ms": 255356,
-      "name": "Sticking to My Guns",
-      "url": "https://open.spotify.com/track/6uuoajOLX3soGGLdnWTenn"
-    },
-    {
       "added_at": "2023-03-17 04:01:00",
       "album": {
         "name": "Feel The Spirit",
@@ -711,22 +791,6 @@
       "duration_ms": 264974,
       "name": "Spanish Joint",
       "url": "https://open.spotify.com/track/3yIMbncJrxUWoS5J1AlGLs"
-    },
-    {
-      "added_at": "2021-04-09 04:01:00",
-      "album": {
-        "name": "Thrust",
-        "url": "https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 636733,
-      "name": "Palm Grease",
-      "url": "https://open.spotify.com/track/7inW3Cs2l4laNgLKp5R17K"
     },
     {
       "added_at": "2021-11-05 04:01:00",
@@ -811,50 +875,6 @@
       "duration_ms": 238378,
       "name": "Rat Trap",
       "url": "https://open.spotify.com/track/4KOGgDXLOooL50Wrd3fd1p"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Youngstown 3",
-        "url": "https://open.spotify.com/album/4htievQOqL7x7JWTwRSGon"
-      },
-      "artists": [
-        {
-          "name": "Unc D",
-          "url": "https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO"
-        },
-        {
-          "name": "Thin Thicket",
-          "url": "https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng"
-        },
-        {
-          "name": "Winston Bell",
-          "url": "https://open.spotify.com/artist/0Izs56yAnVoK3Cgy4Y68h2"
-        },
-        {
-          "name": "Damon the Soulful Samurai",
-          "url": "https://open.spotify.com/artist/6B7G3EEuNog0pIB4IYqXtp"
-        },
-        {
-          "name": "Antonio Labra",
-          "url": "https://open.spotify.com/artist/27zwBTNwuN786OvS6BpzD4"
-        },
-        {
-          "name": "Drehova",
-          "url": "https://open.spotify.com/artist/2WYpO40KD8lWY8YAC7L4DO"
-        },
-        {
-          "name": "Thomas Russell",
-          "url": "https://open.spotify.com/artist/68xOAUse5cObr1No8jPoel"
-        },
-        {
-          "name": "Nate Yingling",
-          "url": "https://open.spotify.com/artist/580mPpv8hFKzL8f849ABLi"
-        }
-      ],
-      "duration_ms": 197019,
-      "name": "Youngstown 3",
-      "url": "https://open.spotify.com/track/2idubl1I8IfDTatwfwapCB"
     },
     {
       "added_at": "2021-09-29 20:03:28",
@@ -3475,22 +3495,6 @@
       "duration_ms": 443126,
       "name": "Point Of Junction",
       "url": "https://open.spotify.com/track/1YCTwUfFcNVMQhzippLhjJ"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
-        "name": "Twinkles",
-        "url": "https://open.spotify.com/album/56v5lYuiMgsqZxjL3vC0Vn"
-      },
-      "artists": [
-        {
-          "name": "Greg Spero",
-          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
-        }
-      ],
-      "duration_ms": 161600,
-      "name": "Twinkles",
-      "url": "https://open.spotify.com/track/4cLHFuugccA4MqTZ6SiVY7"
     },
     {
       "added_at": "2022-04-25 15:16:31",

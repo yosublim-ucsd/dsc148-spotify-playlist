@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-474 songs - 1 day 8 hr 14 min
+475 songs - 1 day 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Anna Calls From The Arctic](https://open.spotify.com/track/6WNfKDsa7egDmGn1xAGD4M) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Anna Calls From The Arctic](https://open.spotify.com/album/5jwTWkWKnLiNQL9NXklUva) | 4:57 | 2022-07-27 | 2022-09-01 |
 | [Another Universe](https://open.spotify.com/track/0Fnu1zx9glEOuEwegQlJ7x) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Another Universe](https://open.spotify.com/album/0EH0fPHBU6THoowDgDcCjz) | 2:42 | 2023-04-26 |  |
 | [Apology Letter](https://open.spotify.com/track/4oXnbBWDIPQni02ZJ5vKSx) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [This Stupid World](https://open.spotify.com/album/3LaJpJFSY3cmLFEHJl2z6E) | 4:16 | 2023-02-15 | 2023-03-30 |
+| [April And The Phantom \- Remastered 2023](https://open.spotify.com/track/5XpKUCdMQmTFc1lFbghSHx) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Spirit They're Gone, Spirit They've Vanished \(Remastered 2023\)](https://open.spotify.com/album/4HzQP0tw4AOAO5Ntkz8JOL) | 5:54 | 2023-05-12 |  |
 | [Arqxvst \(Hope\)](https://open.spotify.com/track/4AxI2quttaA3cOAucg9sPp) | [Pretty V](https://open.spotify.com/artist/7bYrSokOzrKQjswYHevxMy) | [Aqrxvst Is The Band's Name](https://open.spotify.com/album/3OctoMpjK0QHnRqEYwITDB) | 5:05 | 2023-01-11 | 2023-02-16 |
 | [As Innocent Looking As Candy](https://open.spotify.com/track/1UZxXSDDaOABCoYhpi4BCJ) | [Night Moves](https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4) | [The Redaction](https://open.spotify.com/album/7s8s81xhb27Y13HQLx20be) | 1:59 | 2022-07-18 | 2022-09-01 |
 | [Ascending, Dawn Sky \- Meditation Version](https://open.spotify.com/track/0HXGETtNWRQylBDjrNywTW) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Tayos Caves, Ecuador \(Meditation Version\)](https://open.spotify.com/album/12p67r4JTZC2Esdh1e3yb3) | 7:10 | 2023-04-26 |  |

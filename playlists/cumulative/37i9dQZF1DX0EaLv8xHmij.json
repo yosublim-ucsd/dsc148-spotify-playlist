@@ -880,7 +880,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 178285,
       "name": "Caro",
       "url": "https://open.spotify.com/track/3D0SvoPAta7wZkRkFbOFT3"
@@ -2704,6 +2704,32 @@
       "duration_ms": 199448,
       "name": "Nike & Lacoste",
       "url": "https://open.spotify.com/track/5oLsBeFYrOnHHeBjmYVwwY"
+    },
+    {
+      "album": {
+        "name": "Noite de Crime",
+        "url": "https://open.spotify.com/album/0terqIEHaQJU3izTXvox5n"
+      },
+      "artists": [
+        {
+          "name": "Raflow",
+          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
+        },
+        {
+          "name": "Ar Baby",
+          "url": "https://open.spotify.com/artist/2AT3153fquK7QLZYfOLi9K"
+        },
+        {
+          "name": "Laundry Records",
+          "url": "https://open.spotify.com/artist/2V3I6RpWfNn1Y5cQzdu4zY"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124212,
+      "name": "Noite de Crime",
+      "url": "https://open.spotify.com/track/1AIculeL7OG4AgkgrfNWxo"
     },
     {
       "album": {

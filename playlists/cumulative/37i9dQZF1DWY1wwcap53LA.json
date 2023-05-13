@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Country music making waves. Cover: Rodell Duff",
+  "description": "Country music making waves. Cover: Willie Jones",
   "name": "Country Frequency",
   "tracks": [
     {
@@ -1894,6 +1894,24 @@
       "duration_ms": 196401,
       "name": "Somebody's Gotta Do It",
       "url": "https://open.spotify.com/track/4NocrufS4EcSjccPQYJIDD"
+    },
+    {
+      "album": {
+        "name": "Something To Dance To",
+        "url": "https://open.spotify.com/album/3CN2Jr3yuLh1soyJPNErQC"
+      },
+      "artists": [
+        {
+          "name": "Willie Jones",
+          "url": "https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152807,
+      "name": "Something To Dance To",
+      "url": "https://open.spotify.com/track/15wjZVpG5krE8khXtQq7Cu"
     },
     {
       "album": {

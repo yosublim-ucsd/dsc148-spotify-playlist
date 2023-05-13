@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Rayvanny
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,922 likes - 70 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,984 likes - 70 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 69 | [Dala Dala](https://open.spotify.com/track/1Wq9d6BDdi31KQ5s1NPY1h) | [DreyGon](https://open.spotify.com/artist/78m9kxa7EfBk1LTYotuOp0) | [Dala Dala](https://open.spotify.com/album/2nM8op6H7Mfp6CSpKj2zh4) | 4:46 |
 | 70 | [Melody](https://open.spotify.com/track/4SU8d5EyTg6fM4AUkrWmCg) | [Robby Vibe](https://open.spotify.com/artist/5MbMEjr2wDI9iczXvMCmUC), [Lody Music](https://open.spotify.com/artist/74V5EGZx8m1D9pAErk5TEz) | [Melody](https://open.spotify.com/album/3IsdN5UkV8Ri9F1KFDiL05) | 2:58 |
 
-Snapshot ID: `MCxjNGQ0OGYyNDBkOWNmOTExNzJmYTlhY2ViMjQyYzgzOTE1YTRmZjEx`
+Snapshot ID: `MCxlODI4YjI0YzQ1MzM5ODM5OGYwOGJlMGQ0ZThkNWUyNjRjZTM1ZTAz`

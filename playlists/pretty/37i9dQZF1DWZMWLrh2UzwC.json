@@ -1,13 +1,29 @@
 {
   "description": "The best newly released songs of the week. Cover: James Arthur",
-  "num_followers": 61115,
+  "num_followers": 61122,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjg5Yjk5NTU0Y2ZjZWJmMWNiMDVhMDM2YTlkYTZmNGE5ZGY3YmVi",
+  "snapshot_id": "MCwyZWQwNDNiZDg1NmQwOTE1MWRkNDFjNDlhZjE3YWM0NjQ2ZmRlZDQ2",
   "tracks": [
+    {
+      "added_at": "2023-05-11 16:00:00",
+      "album": {
+        "name": "The Planet",
+        "url": "https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 178156,
+      "name": "The Planet",
+      "url": "https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg"
+    },
     {
       "added_at": "2023-05-11 16:00:00",
       "album": {
@@ -235,6 +251,34 @@
     {
       "added_at": "2023-05-11 16:00:00",
       "album": {
+        "name": "Glorious (The Official Song of FIFA U-20 World Cup Argentina 2023\u2122)",
+        "url": "https://open.spotify.com/album/2m15vzjiJstBHRoB8GqFZT"
+      },
+      "artists": [
+        {
+          "name": "Weird Genius",
+          "url": "https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ"
+        },
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        },
+        {
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+        },
+        {
+          "name": "Ziva Magnolya",
+          "url": "https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd"
+        }
+      ],
+      "duration_ms": 203300,
+      "name": "Glorious - The Official Song of FIFA U-20 World Cup Argentina 2023\u2122",
+      "url": "https://open.spotify.com/track/4X7IYCqR576rQi9D1pVUxQ"
+    },
+    {
+      "added_at": "2023-05-11 16:00:00",
+      "album": {
         "name": "Levronka",
         "url": "https://open.spotify.com/album/19iIS7jphCzsXZbTqgZiRG"
       },
@@ -387,30 +431,6 @@
       "duration_ms": 278998,
       "name": "sulky baby",
       "url": "https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH"
-    },
-    {
-      "added_at": "2023-05-12 01:04:23",
-      "album": {
-        "name": "Goodness Gracious",
-        "url": "https://open.spotify.com/album/0Y5roMQHdFdabO2gHAUETL"
-      },
-      "artists": [
-        {
-          "name": "BABY GRAVY",
-          "url": "https://open.spotify.com/artist/46VgqDxDEn45y1t0zBS7Do"
-        },
-        {
-          "name": "Yung Gravy",
-          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
-        },
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 144207,
-      "name": "Goodness Gracious",
-      "url": "https://open.spotify.com/track/4z5G0VxaTklm6eLFtmYhJa"
     },
     {
       "added_at": "2023-05-11 16:00:00",
@@ -675,6 +695,46 @@
     {
       "added_at": "2023-05-11 16:00:00",
       "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/2W2HMbkDditbqRjfFkUuhk"
+      },
+      "artists": [
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "duration_ms": 192273,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/3b3mKCoZCKZjzO2n6M5fmy"
+    },
+    {
+      "added_at": "2023-05-12 01:04:23",
+      "album": {
+        "name": "Goodness Gracious",
+        "url": "https://open.spotify.com/album/0Y5roMQHdFdabO2gHAUETL"
+      },
+      "artists": [
+        {
+          "name": "BABY GRAVY",
+          "url": "https://open.spotify.com/artist/46VgqDxDEn45y1t0zBS7Do"
+        },
+        {
+          "name": "Yung Gravy",
+          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
+        },
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 144207,
+      "name": "Goodness Gracious",
+      "url": "https://open.spotify.com/track/4z5G0VxaTklm6eLFtmYhJa"
+    },
+    {
+      "added_at": "2023-05-11 16:00:00",
+      "album": {
         "name": "simon says",
         "url": "https://open.spotify.com/album/0HmHQlwuTWzL9VPMk7AC1U"
       },
@@ -741,7 +801,7 @@
         },
         {
           "name": "Lewis Thompson",
-          "url": "https://open.spotify.com/artist/2QsMZVsBumu6t90SB3yGrH"
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
         }
       ],
       "duration_ms": 153742,
@@ -763,22 +823,6 @@
       "duration_ms": 189955,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/1nLZY9rmmi5l9TgYjv0mQm"
-    },
-    {
-      "added_at": "2023-05-11 16:00:00",
-      "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/2W2HMbkDditbqRjfFkUuhk"
-      },
-      "artists": [
-        {
-          "name": "Ali Gatie",
-          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
-        }
-      ],
-      "duration_ms": 192273,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/3b3mKCoZCKZjzO2n6M5fmy"
     },
     {
       "added_at": "2023-05-11 16:00:00",

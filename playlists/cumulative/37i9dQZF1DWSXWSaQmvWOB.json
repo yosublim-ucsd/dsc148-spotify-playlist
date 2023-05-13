@@ -4706,7 +4706,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 213619,
       "name": "How Long",
       "url": "https://open.spotify.com/track/3kbDEejuDSeOS2biB43MNq"
@@ -11138,6 +11138,24 @@
       "duration_ms": 352253,
       "name": "The Healer",
       "url": "https://open.spotify.com/track/0CjY9niefITNSiK5OBgPeU"
+    },
+    {
+      "album": {
+        "name": "Soul,PRESENT",
+        "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242040,
+      "name": "THE HIDE",
+      "url": "https://open.spotify.com/track/5vmdxAlYMaMfKQRibZL5iu"
     },
     {
       "album": {

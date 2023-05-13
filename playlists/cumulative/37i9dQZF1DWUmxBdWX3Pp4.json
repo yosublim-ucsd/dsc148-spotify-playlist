@@ -577,6 +577,28 @@
     },
     {
       "album": {
+        "name": "ANGOLA",
+        "url": "https://open.spotify.com/album/3n0U3Rlyjpd9OOgsLzdFO0"
+      },
+      "artists": [
+        {
+          "name": "Blackthoven",
+          "url": "https://open.spotify.com/artist/6KhtkRzbD5IKjYOlHanIjS"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135003,
+      "name": "ANGOLA",
+      "url": "https://open.spotify.com/track/59N9V0HT0lnopU5bLL9NI8"
+    },
+    {
+      "album": {
         "name": "Anuel AA: Bzrp Music Sessions, Vol. 46",
         "url": "https://open.spotify.com/album/7fO4j6lmWPZAbAgi7ukz8c"
       },
@@ -2448,6 +2470,24 @@
       "duration_ms": 205187,
       "name": "Flow Prieto (feat. Jencko El Shinobi)",
       "url": "https://open.spotify.com/track/0G5Mq5YoX3DmgvQq2mbf6D"
+    },
+    {
+      "album": {
+        "name": "Followers",
+        "url": "https://open.spotify.com/album/2BfmP87r9XJ4pQLMdmpdo9"
+      },
+      "artists": [
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188181,
+      "name": "Followers",
+      "url": "https://open.spotify.com/track/4s1yIuy4ncKl09LZrzLMBV"
     },
     {
       "album": {
@@ -4986,7 +5026,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 270253,
       "name": "Nos Matamos",
       "url": "https://open.spotify.com/track/0kekARy9zsWohICrBUjyIn"
@@ -5402,7 +5442,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 236143,
       "name": "Party en el Barrio (feat. Duki)",
       "url": "https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm"
@@ -5702,7 +5742,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 140130,
       "name": "PUFF",
       "url": "https://open.spotify.com/track/2Asa5boIOZADugCzoy0lRS"
@@ -5826,7 +5866,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 174506,
       "name": "Quien Va a Frontiar",
       "url": "https://open.spotify.com/track/3ilZY9fbri982eVkRywGrK"
@@ -7602,6 +7642,28 @@
       "duration_ms": 161240,
       "name": "Young Flex",
       "url": "https://open.spotify.com/track/2C4f6LeM7Io332EuMbDGIT"
+    },
+    {
+      "album": {
+        "name": "YUYU",
+        "url": "https://open.spotify.com/album/6UBn9kD2TUkSCaePKkx7iF"
+      },
+      "artists": [
+        {
+          "name": "Peke\u00f1o 77",
+          "url": "https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD"
+        },
+        {
+          "name": "Nahuel one23",
+          "url": "https://open.spotify.com/artist/7szpfJlobAlM8CDVXziu05"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174315,
+      "name": "YUYU",
+      "url": "https://open.spotify.com/track/1zXiBTAFnO5L56UEuH7xwH"
     },
     {
       "album": {

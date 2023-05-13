@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Le Hosadi",
+        "url": "https://open.spotify.com/album/4cGSE40V1ayfvCeNWYQ992"
+      },
+      "artists": [
+        {
+          "name": "Badr Alsheafani",
+          "url": "https://open.spotify.com/artist/4dDhTNhkRc5avMooQiihNB"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282362,
+      "name": "Le Hosadi",
+      "url": "https://open.spotify.com/track/77jg1uFolRcsVD2FUEjHmv"
+    },
+    {
+      "album": {
         "name": "Marhaba Bek",
         "url": "https://open.spotify.com/album/6vBMUU5OMyieheEZofvPB7"
       },
@@ -328,6 +346,24 @@
       "duration_ms": 298598,
       "name": "Wedaa Ahbab",
       "url": "https://open.spotify.com/track/621bdki1XqcmcrfM2qtsGv"
+    },
+    {
+      "album": {
+        "name": "Zalzalet Harb",
+        "url": "https://open.spotify.com/album/0YmaVrDhj1gJqUcDfgRI9V"
+      },
+      "artists": [
+        {
+          "name": "Badr Alsheafani",
+          "url": "https://open.spotify.com/artist/4dDhTNhkRc5avMooQiihNB"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192670,
+      "name": "Zalzalet Harb",
+      "url": "https://open.spotify.com/track/5mqdUwdHxCR9vuYLvpmWH4"
     },
     {
       "album": {

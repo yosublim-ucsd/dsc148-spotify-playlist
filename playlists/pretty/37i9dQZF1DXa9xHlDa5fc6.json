@@ -1,12 +1,12 @@
 {
   "description": "unwind with these alternative favorites and new discoveries.",
-  "num_followers": 436612,
+  "num_followers": 436717,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWFjNTZiMzAzMDdiMDA4ZWNmOTg3MTc2M2EwNjJhOGVkNjgwOTRh",
+  "snapshot_id": "MCxjMzRmMGRkZjk3NzczMzNiYmFmMGJkYjI2NjlmMWI0ZDY0MDFiYTE4",
   "tracks": [
     {
       "added_at": "2023-05-02 03:26:15",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-05-02 03:26:15",
       "album": {
+        "name": "Alone in the Mountains",
+        "url": "https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 196707,
+      "name": "Alone in the Mountains",
+      "url": "https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi"
+    },
+    {
+      "added_at": "2023-05-02 03:26:15",
+      "album": {
         "name": "Record Player (with AJR)",
         "url": "https://open.spotify.com/album/0zs9o2NkQxcRTlGlcOteP5"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 149538,
       "name": "Record Player (with AJR)",
       "url": "https://open.spotify.com/track/4jYt1pQqg2mIZmY4FWCZEM"
-    },
-    {
-      "added_at": "2023-05-02 03:26:15",
-      "album": {
-        "name": "Alone in the Mountains",
-        "url": "https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 196707,
-      "name": "Alone in the Mountains",
-      "url": "https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi"
     },
     {
       "added_at": "2023-05-02 03:26:15",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-05-02 03:26:15",
       "album": {
+        "name": "Run To The Moon",
+        "url": "https://open.spotify.com/album/5OUIMs7DlmNEY1ia8IVQfs"
+      },
+      "artists": [
+        {
+          "name": "Beach Fossils",
+          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+        }
+      ],
+      "duration_ms": 225901,
+      "name": "Run To The Moon",
+      "url": "https://open.spotify.com/track/03tXFHO65orOSnHlEDf0JK"
+    },
+    {
+      "added_at": "2023-05-02 03:26:15",
+      "album": {
         "name": "Perspective",
         "url": "https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4"
       },
@@ -903,22 +919,6 @@
     {
       "added_at": "2023-05-02 03:26:15",
       "album": {
-        "name": "The Way",
-        "url": "https://open.spotify.com/album/3js2aCcAc96FwVGfTLoL8i"
-      },
-      "artists": [
-        {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
-        }
-      ],
-      "duration_ms": 234891,
-      "name": "The Way",
-      "url": "https://open.spotify.com/track/2wlZIwHXloe802coeEhJ3T"
-    },
-    {
-      "added_at": "2023-05-02 03:26:15",
-      "album": {
         "name": "Asphalt Meadows",
         "url": "https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS"
       },
@@ -935,18 +935,18 @@
     {
       "added_at": "2023-05-02 03:26:15",
       "album": {
-        "name": "Run To The Moon",
-        "url": "https://open.spotify.com/album/5OUIMs7DlmNEY1ia8IVQfs"
+        "name": "The Way",
+        "url": "https://open.spotify.com/album/3js2aCcAc96FwVGfTLoL8i"
       },
       "artists": [
         {
-          "name": "Beach Fossils",
-          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
         }
       ],
-      "duration_ms": 225901,
-      "name": "Run To The Moon",
-      "url": "https://open.spotify.com/track/03tXFHO65orOSnHlEDf0JK"
+      "duration_ms": 234891,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/2wlZIwHXloe802coeEhJ3T"
     },
     {
       "added_at": "2023-05-02 03:26:15",
@@ -1195,22 +1195,18 @@
     {
       "added_at": "2023-05-02 03:26:15",
       "album": {
-        "name": "100-99 (feat. GoldLink)",
-        "url": "https://open.spotify.com/album/6d0VbhJaKP5a4snEUTFmGg"
+        "name": "I'll Keep You In Mind, From Time to Time",
+        "url": "https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV"
       },
       "artists": [
         {
-          "name": "Albert Hammond Jr",
-          "url": "https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H"
-        },
-        {
-          "name": "GoldLink",
-          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+          "name": "Moose Blood",
+          "url": "https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q"
         }
       ],
-      "duration_ms": 216775,
-      "name": "100-99 (feat. GoldLink)",
-      "url": "https://open.spotify.com/track/5XlcnTmdhoAJBZT1aR4dAd"
+      "duration_ms": 159711,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB"
     },
     {
       "added_at": "2023-05-02 03:26:15",
@@ -1231,18 +1227,22 @@
     {
       "added_at": "2023-05-02 03:26:15",
       "album": {
-        "name": "I'll Keep You In Mind, From Time to Time",
-        "url": "https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV"
+        "name": "100-99 (feat. GoldLink)",
+        "url": "https://open.spotify.com/album/6d0VbhJaKP5a4snEUTFmGg"
       },
       "artists": [
         {
-          "name": "Moose Blood",
-          "url": "https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q"
+          "name": "Albert Hammond Jr",
+          "url": "https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H"
+        },
+        {
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
         }
       ],
-      "duration_ms": 159711,
-      "name": "Cherry",
-      "url": "https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB"
+      "duration_ms": 216775,
+      "name": "100-99 (feat. GoldLink)",
+      "url": "https://open.spotify.com/track/5XlcnTmdhoAJBZT1aR4dAd"
     },
     {
       "added_at": "2023-05-02 03:26:15",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-05-02 03:26:15",
       "album": {
-        "name": "The Singles Collection",
-        "url": "https://open.spotify.com/album/2m0063PKiyLZ0NQNEOhzHv"
-      },
-      "artists": [
-        {
-          "name": "Silversun Pickups",
-          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
-        }
-      ],
-      "duration_ms": 354360,
-      "name": "Lazy Eye",
-      "url": "https://open.spotify.com/track/7eZyj92v6bZsoQ85MxWZsO"
-    },
-    {
-      "added_at": "2023-05-02 03:26:15",
-      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/6sOmBkyGWJpzR04C7U7BZE"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 125830,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/6PsqixVNSE6N4WamoMFISK"
+    },
+    {
+      "added_at": "2023-05-02 03:26:15",
+      "album": {
+        "name": "The Singles Collection",
+        "url": "https://open.spotify.com/album/2m0063PKiyLZ0NQNEOhzHv"
+      },
+      "artists": [
+        {
+          "name": "Silversun Pickups",
+          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
+        }
+      ],
+      "duration_ms": 354360,
+      "name": "Lazy Eye",
+      "url": "https://open.spotify.com/track/7eZyj92v6bZsoQ85MxWZsO"
     },
     {
       "added_at": "2023-05-02 03:26:15",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-05-02 03:26:15",
       "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/5Uw2SD3FTrwSu5DCrZMPBJ"
-      },
-      "artists": [
-        {
-          "name": "SAINT PHNX",
-          "url": "https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk"
-        }
-      ],
-      "duration_ms": 192992,
-      "name": "King",
-      "url": "https://open.spotify.com/track/7ApHknZkWvbA1DMLQQfrnd"
-    },
-    {
-      "added_at": "2023-05-02 03:26:15",
-      "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 270053,
       "name": "The World Ender",
       "url": "https://open.spotify.com/track/3NNimGud58iHka1LHkda6D"
+    },
+    {
+      "added_at": "2023-05-02 03:26:15",
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/5Uw2SD3FTrwSu5DCrZMPBJ"
+      },
+      "artists": [
+        {
+          "name": "SAINT PHNX",
+          "url": "https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk"
+        }
+      ],
+      "duration_ms": 192992,
+      "name": "King",
+      "url": "https://open.spotify.com/track/7ApHknZkWvbA1DMLQQfrnd"
     },
     {
       "added_at": "2023-05-02 03:26:15",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-05-02 03:26:15",
       "album": {
-        "name": "West Coast",
-        "url": "https://open.spotify.com/album/4cSgASAuWJQ9igHuwMlCQ6"
-      },
-      "artists": [
-        {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
-        }
-      ],
-      "duration_ms": 251872,
-      "name": "West Coast",
-      "url": "https://open.spotify.com/track/6zvbty1Vv0uR5Zajlx43gk"
-    },
-    {
-      "added_at": "2023-05-02 03:26:15",
-      "album": {
         "name": "Hoops",
         "url": "https://open.spotify.com/album/6fW3GP3S8MqN0byG0fJ0Ut"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 158946,
       "name": "Hoops",
       "url": "https://open.spotify.com/track/4yUZPM6OfAY1KJik9rsveW"
+    },
+    {
+      "added_at": "2023-05-02 03:26:15",
+      "album": {
+        "name": "West Coast",
+        "url": "https://open.spotify.com/album/4cSgASAuWJQ9igHuwMlCQ6"
+      },
+      "artists": [
+        {
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+        }
+      ],
+      "duration_ms": 251872,
+      "name": "West Coast",
+      "url": "https://open.spotify.com/track/6zvbty1Vv0uR5Zajlx43gk"
     },
     {
       "added_at": "2023-05-02 03:26:15",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2023-05-02 03:26:15",
       "album": {
-        "name": "The Weakness",
-        "url": "https://open.spotify.com/album/1jKvsyAQdJG05hNyiMwg8v"
+        "name": "Jungle (Radio Edit)",
+        "url": "https://open.spotify.com/album/0O6n01xArsUl4MTRAwTxLX"
       },
       "artists": [
         {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
         }
       ],
-      "duration_ms": 183693,
-      "name": "Breakdown",
-      "url": "https://open.spotify.com/track/16DgQG7hAb6S7Bb783rRro"
+      "duration_ms": 236876,
+      "name": "Jungle (Radio Edit)",
+      "url": "https://open.spotify.com/track/7dEGgbP5Ld5mQfbpiwDjoe"
     },
     {
       "added_at": "2023-05-02 03:26:15",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-05-02 03:26:15",
       "album": {
-        "name": "Jungle (Radio Edit)",
-        "url": "https://open.spotify.com/album/0O6n01xArsUl4MTRAwTxLX"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 236876,
-      "name": "Jungle (Radio Edit)",
-      "url": "https://open.spotify.com/track/7dEGgbP5Ld5mQfbpiwDjoe"
-    },
-    {
-      "added_at": "2023-05-02 03:26:15",
-      "album": {
         "name": "Desert Snow / Hourglass",
         "url": "https://open.spotify.com/album/5M50Jray1eYGOW5gkTzUjT"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 215853,
       "name": "Desert Snow",
       "url": "https://open.spotify.com/track/0BVZY0wh4lUICV71haiBR4"
+    },
+    {
+      "added_at": "2023-05-02 03:26:15",
+      "album": {
+        "name": "The Weakness",
+        "url": "https://open.spotify.com/album/1jKvsyAQdJG05hNyiMwg8v"
+      },
+      "artists": [
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "Breakdown",
+      "url": "https://open.spotify.com/track/16DgQG7hAb6S7Bb783rRro"
     },
     {
       "added_at": "2023-05-02 03:26:15",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2023-05-02 03:26:15",
       "album": {
+        "name": "I Don't Think I Can Do This Anymore",
+        "url": "https://open.spotify.com/album/2Kq0O56yHIBpLJ0Oc2FjGe"
+      },
+      "artists": [
+        {
+          "name": "Moose Blood",
+          "url": "https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q"
+        }
+      ],
+      "duration_ms": 236560,
+      "name": "It's Too Much",
+      "url": "https://open.spotify.com/track/3kr9H1n5OHezIhj8oA9gOX"
+    },
+    {
+      "added_at": "2023-05-02 03:26:15",
+      "album": {
         "name": "Good Old",
         "url": "https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34"
       },
@@ -1727,22 +1743,6 @@
     {
       "added_at": "2023-05-02 03:26:15",
       "album": {
-        "name": "I Don't Think I Can Do This Anymore",
-        "url": "https://open.spotify.com/album/2Kq0O56yHIBpLJ0Oc2FjGe"
-      },
-      "artists": [
-        {
-          "name": "Moose Blood",
-          "url": "https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q"
-        }
-      ],
-      "duration_ms": 236560,
-      "name": "It's Too Much",
-      "url": "https://open.spotify.com/track/3kr9H1n5OHezIhj8oA9gOX"
-    },
-    {
-      "added_at": "2023-05-02 03:26:15",
-      "album": {
         "name": "Fix Yourself, Not the World",
         "url": "https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz"
       },
@@ -1755,6 +1755,22 @@
       "duration_ms": 273671,
       "name": "Method to the Madness",
       "url": "https://open.spotify.com/track/0ubaYhZGFOEvEA1vMciCgN"
+    },
+    {
+      "added_at": "2023-05-02 03:26:15",
+      "album": {
+        "name": "Temporary Love",
+        "url": "https://open.spotify.com/album/1cRv0odNNvTSxVnNFmeusc"
+      },
+      "artists": [
+        {
+          "name": "The Brinks",
+          "url": "https://open.spotify.com/artist/4fLpQdr6R7gqNGY7xpr7Jz"
+        }
+      ],
+      "duration_ms": 205129,
+      "name": "Temporary Love",
+      "url": "https://open.spotify.com/track/2U6hcDLZHYRSd9Up0mMe9W"
     },
     {
       "added_at": "2023-05-02 03:26:15",
@@ -1775,22 +1791,6 @@
       "duration_ms": 259188,
       "name": "Like A Stone (feat. Tom Morello) - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z"
-    },
-    {
-      "added_at": "2023-05-02 03:26:15",
-      "album": {
-        "name": "Temporary Love",
-        "url": "https://open.spotify.com/album/1cRv0odNNvTSxVnNFmeusc"
-      },
-      "artists": [
-        {
-          "name": "The Brinks",
-          "url": "https://open.spotify.com/artist/4fLpQdr6R7gqNGY7xpr7Jz"
-        }
-      ],
-      "duration_ms": 205129,
-      "name": "Temporary Love",
-      "url": "https://open.spotify.com/track/2U6hcDLZHYRSd9Up0mMe9W"
     },
     {
       "added_at": "2023-05-02 03:26:15",
@@ -1823,6 +1823,22 @@
       "duration_ms": 206976,
       "name": "Nothing Personal",
       "url": "https://open.spotify.com/track/4fzOCrzbRLppR4wkN8bFzz"
+    },
+    {
+      "added_at": "2023-05-02 03:26:15",
+      "album": {
+        "name": "Failed at Math(s)",
+        "url": "https://open.spotify.com/album/0xCCtljPkA65lyDP3CXFgr"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        }
+      ],
+      "duration_ms": 203368,
+      "name": "Until I Know",
+      "url": "https://open.spotify.com/track/4KH9g027K949LR2xkjC4jk"
     },
     {
       "added_at": "2023-05-02 03:26:15",
@@ -1991,18 +2007,22 @@
     {
       "added_at": "2023-05-02 03:26:15",
       "album": {
-        "name": "Failed at Math(s)",
-        "url": "https://open.spotify.com/album/0xCCtljPkA65lyDP3CXFgr"
+        "name": "It's Depression (feat. Middle Part)",
+        "url": "https://open.spotify.com/album/71tpQtJhXuTp5sYYWasvwW"
       },
       "artists": [
         {
-          "name": "Panchiko",
-          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+          "name": "Anna Shoemaker",
+          "url": "https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4"
+        },
+        {
+          "name": "Middle Part",
+          "url": "https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8"
         }
       ],
-      "duration_ms": 203368,
-      "name": "Until I Know",
-      "url": "https://open.spotify.com/track/4KH9g027K949LR2xkjC4jk"
+      "duration_ms": 193000,
+      "name": "It's Depression (feat. Middle Part)",
+      "url": "https://open.spotify.com/track/6wxdyMsMqUHOeMffm1Gsch"
     },
     {
       "added_at": "2023-05-02 03:26:15",
@@ -2019,22 +2039,6 @@
       "duration_ms": 128906,
       "name": "Pretender",
       "url": "https://open.spotify.com/track/1mos63P1S2fnTT3j0PgTVO"
-    },
-    {
-      "added_at": "2023-05-02 03:26:15",
-      "album": {
-        "name": "See You In The Dark",
-        "url": "https://open.spotify.com/album/4TtZH64f81Pv1Y7rpwqDBe"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 196239,
-      "name": "Spoiled",
-      "url": "https://open.spotify.com/track/1kpLFYELP9ZawXgUd8gr8v"
     }
   ],
   "unique_name": "License To Chill",

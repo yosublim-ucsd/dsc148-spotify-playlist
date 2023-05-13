@@ -2,9 +2,9 @@
 
 ### [Rock Total](https://open.spotify.com/playlist/37i9dQZF1DWU8yQ1nTMCfh)
 
-> Las nuevas vibras del rock en español\. Cover: WOS
+> Las nuevas vibras del rock en español\. Cover: Wiplash
 
-209 songs - 11 hr 41 min
+211 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Boni Naitó](https://open.spotify.com/track/0P7naJRJFW1uhaYbFabYOS) | [Myuné](https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT) | [Boni Naitó](https://open.spotify.com/album/6XOfXd2Maq3nRJoc73Nn8B) | 4:43 | 2022-07-19 | 2022-12-10 |
 | [Brindis](https://open.spotify.com/track/0MkY0QR03foMp3dFXc9zBa) | [BRUNO](https://open.spotify.com/artist/2RvoJbFSTxNnTZSyi2CwDd), [Alejandro Rosso](https://open.spotify.com/artist/2C6ud5Sihy5UODK6aKM6vo) | [Brindis](https://open.spotify.com/album/781zGGAuejqCiyXhfQJ4Qh) | 2:32 | 2022-07-19 | 2022-12-10 |
 | [Brutal](https://open.spotify.com/track/53A2Mrrj1EJmJIdfi7NFBu) | [Sharlene](https://open.spotify.com/artist/1gIUNwemvV0ieFYpL6jbEB), [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Brutal](https://open.spotify.com/album/4bMwAGWco8vww47fDYsD9T) | 2:43 | 2022-07-19 | 2023-01-09 |
-| [CABI](https://open.spotify.com/track/5LZWpaShpyGMIohH8kU0aK) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [CABI](https://open.spotify.com/album/5anonHgPUxe9l7aMIdwC3N) | 2:01 | 2023-03-24 |  |
+| [CABI](https://open.spotify.com/track/5LZWpaShpyGMIohH8kU0aK) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [CABI](https://open.spotify.com/album/5anonHgPUxe9l7aMIdwC3N) | 2:01 | 2023-03-24 | 2023-05-13 |
 | [Cansado de estar triste](https://open.spotify.com/track/0KhvJklV4bqAuXwFLEEX3x) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Cansado de estar triste](https://open.spotify.com/album/65JzMj5NQD539KQ0FzGBU2) | 2:55 | 2023-04-14 |  |
 | [Cantar de los Magos](https://open.spotify.com/track/6wNVd3n0AYoZrbuF45MYAL) | [El Viaje de Lázaro](https://open.spotify.com/artist/5BaL7UhFbZfIv7FzOD9so0) | [Cantar de los Magos](https://open.spotify.com/album/4AIbSPwiL3wb35iJTvqXFN) | 4:44 | 2022-04-15 | 2023-01-06 |
 | [Celosa](https://open.spotify.com/track/5A20apPrPKV8sNfUzrIQV7) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj) | [Celosa](https://open.spotify.com/album/7GAcSbOAokzBKUrW6ORmSB) | 4:22 | 2022-07-19 |  |
@@ -80,6 +80,7 @@
 | [El Valiente Sin Honor](https://open.spotify.com/track/06jnIgatetpgoviQiGmGmL) | [Las Cruxes](https://open.spotify.com/artist/3gL5WAtHmbaR1LR8zZiQn8) | [El Valiente Sin Honor](https://open.spotify.com/album/20XtWQXRtgs0BucXpmxz1j) | 5:01 | 2022-04-15 | 2022-12-10 |
 | [En El Surf](https://open.spotify.com/track/7IBYDJs4LEfwW8b17IAxwU) | [Palmera Beach](https://open.spotify.com/artist/0aVJ62IxBOiOh4KlOnnm7J) | [En El Surf](https://open.spotify.com/album/0S9FogbRiKfDgnVuSaRaFs) | 2:29 | 2022-04-15 | 2022-12-10 |
 | [enganchao](https://open.spotify.com/track/5WtolAqrKBXPp8wOcqS9CX) | [isra](https://open.spotify.com/artist/0LmfzRPAlGyi9yAIqS11EF), [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [enganchao](https://open.spotify.com/album/4EV8fIrw1qGJtkDzWRSOGv) | 2:30 | 2023-04-14 | 2023-04-16 |
+| [Esa Estrella](https://open.spotify.com/track/6p0tTJxVVRd31eC3KPRHM6) | [Siloé](https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4) | [Esa Estrella](https://open.spotify.com/album/5YgizxkrAK1uV89OaGUrAo) | 3:58 | 2023-05-12 |  |
 | [Extrarradio](https://open.spotify.com/track/4Yu4N8mdsSsmois7j4v3as) | [Sei Still](https://open.spotify.com/artist/2ifm8buuA5vEmxaSgAlt74) | [El Refugio](https://open.spotify.com/album/2ArUrVghLI8caKOMlW7mtF) | 4:53 | 2022-04-15 | 2022-12-10 |
 | [FBI](https://open.spotify.com/track/5gxQpTNE0oQb7Orf2QbnFX) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [FBI](https://open.spotify.com/album/7nISyqRwUIfAYATsvHgdgS) | 2:24 | 2022-09-06 | 2023-04-23 |
 | [Flashbacks](https://open.spotify.com/track/26Frme7h8IxAkzfFp7rUSS) | [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [Flashbacks](https://open.spotify.com/album/2eX3VTEufyr7HyraJAJh3p) | 2:53 | 2023-03-20 |  |
@@ -114,7 +115,7 @@
 | [Los Cobardes Viven Siempre](https://open.spotify.com/track/3rwcoBT2HRRoCWYVpcAZOW) | [Malmö 040](https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP) | [Los Cobardes Viven Siempre](https://open.spotify.com/album/0Icc3ELm9tbfwoCoYeSHLx) | 3:34 | 2023-01-20 | 2023-04-22 |
 | [Los Mejores \- Si Pudiera](https://open.spotify.com/track/1YZfiHarcCJGBPDk6PW96w) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL) | [Los Mejores \(Si Pudiera\)](https://open.spotify.com/album/6dmAMEznxIvcHBaUtZdslh) | 3:23 | 2022-04-15 | 2022-12-10 |
 | [Los Ángeles, California](https://open.spotify.com/track/5VYaHqFTsRjvqgaox7Iu6C) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 4:45 | 2023-01-13 | 2023-04-20 |
-| [LÁ LÁ](https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [LÁ LÁ](https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x) | 2:44 | 2023-03-10 |  |
+| [LÁ LÁ](https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [LÁ LÁ](https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x) | 2:44 | 2023-03-10 | 2023-05-13 |
 | [Mala Jugada](https://open.spotify.com/track/2e3vpJ5jXxzA4hS8RiqCUD) | [De Nalgas](https://open.spotify.com/artist/4VZR1CBFS8AR4zqrtn7Dlh) | [Cascajo](https://open.spotify.com/album/0mcOBPszOAIOVyjZSgsnJr) | 4:07 | 2022-04-15 | 2022-12-10 |
 | [Mala Vibra](https://open.spotify.com/track/66GS7AyNo0bcLes3q6R0My) | [The Froys](https://open.spotify.com/artist/3DrFw6l7rWBb8AbZ3B5zlc) | [Mala Vibra](https://open.spotify.com/album/5e5AeTW1NoinQ2iB0asP3O) | 3:21 | 2022-04-15 | 2022-12-10 |
 | [Maldivas](https://open.spotify.com/track/0dpXgd1OyD0etHnvCodXXZ) | [Diego Cuevas](https://open.spotify.com/artist/4dod4KFAtYQ9P7ubDRdz0u) | [Maldivas](https://open.spotify.com/album/51dVROPWemf4IOiRHVDMrE) | 3:20 | 2023-04-14 |  |
@@ -160,6 +161,7 @@
 | [Plaza en el cielo](https://open.spotify.com/track/330mS1U6KJ9Gie5PL4gkAo) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Plaza en el cielo](https://open.spotify.com/album/1oXFlNOxGfnSw9329hsgoT) | 3:26 | 2023-01-27 | 2023-03-08 |
 | [Plaza en el cielo](https://open.spotify.com/track/7gaonWEr5gnYx27N3JxZ2o) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [AAAAAA](https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi) | 3:26 | 2023-05-05 |  |
 | [PORTARSE MAL](https://open.spotify.com/track/20EnydkCy1x6OZsITbWQre) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [PORTARSE MAL](https://open.spotify.com/album/3X0mM0p3c8LhRw6T64svoe) | 3:12 | 2023-02-17 |  |
+| [Prometimos](https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Narvarte](https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI) | 3:13 | 2023-05-12 |  |
 | [Psycho](https://open.spotify.com/track/56f2EfGZQyygTlqfstY7yU) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [AAAAAA](https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi) | 3:13 | 2023-04-28 |  |
 | [Punks vs Emos](https://open.spotify.com/track/3hEyHrTsHskOcIzi7PDAR1) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [Martín Delgado presenta: La Otra Música x AireLibre​.​FM](https://open.spotify.com/album/02MKu06t0i6LMfeZl3EBKC) | 4:19 | 2022-04-15 | 2022-12-10 |
 | [Punta Diamante](https://open.spotify.com/track/6ZM6qRRY9YUER561TWGENV) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Mazunte 2016](https://open.spotify.com/album/0lmrY3kRUsLpZUXw7clbfT) | 2:42 | 2022-04-15 | 2022-12-10 |

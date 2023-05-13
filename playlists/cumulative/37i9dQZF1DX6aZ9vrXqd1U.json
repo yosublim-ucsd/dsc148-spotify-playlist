@@ -958,7 +958,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 209017,
       "name": "HATENA",
       "url": "https://open.spotify.com/track/5UbPHARFFiDdkRgfsJ03Rt"
@@ -980,6 +980,24 @@
       "duration_ms": 209017,
       "name": "HATENA",
       "url": "https://open.spotify.com/track/5ZmCWqYmT9Lpa5qM2gSCBF"
+    },
+    {
+      "album": {
+        "name": "\u9006\u5149\u5099\u5fd8\u9332",
+        "url": "https://open.spotify.com/album/6c9IBWiosIGvWUCNj4KYC8"
+      },
+      "artists": [
+        {
+          "name": "PENGUIN RESEARCH",
+          "url": "https://open.spotify.com/artist/4jiOvoNgxnEvdlBwrx6o28"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "HATENA",
+      "url": "https://open.spotify.com/track/79Jpqsmno4iZV7ko4h5rqM"
     },
     {
       "album": {

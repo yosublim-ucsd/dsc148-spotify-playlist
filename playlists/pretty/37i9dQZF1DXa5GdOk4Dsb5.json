@@ -1,12 +1,12 @@
 {
   "description": "Para ahogar las penas en el fondo de una botella.",
-  "num_followers": 100462,
+  "num_followers": 100617,
   "original_name": "Rancheras, Despecho & Licor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWQwMThmZjRmYTQzNzQxZjUwOGJlMzFjNzJlZDAyNjlhNjJhZDg0",
+  "snapshot_id": "MCxjM2U2OTZkZDk1YzFmZTk4OTEzOGQyOWRhOWY2NzU2Nzk1M2IzMGVi",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -119,6 +119,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Chale",
+        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 170744,
+      "name": "Chale",
+      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Qu\u00e9 Agon\u00eda",
         "url": "https://open.spotify.com/album/5OhmDEdu6pM2rTLOpOAk4v"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 152923,
       "name": "Qu\u00e9 Agon\u00eda",
       "url": "https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Chale",
-        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 170744,
-      "name": "Chale",
-      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -367,22 +367,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Solita (En Vivo)",
-        "url": "https://open.spotify.com/album/50ABTjpmglksLMkTdoo1lP"
+        "name": "Encerrados Pero Enfiestados Vol. 1 (Live)",
+        "url": "https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K"
       },
       "artists": [
         {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 215984,
-      "name": "Solita (En Vivo)",
-      "url": "https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD"
+      "duration_ms": 246131,
+      "name": "Tu - Live",
+      "url": "https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -407,18 +403,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Encerrados Pero Enfiestados Vol. 1 (Live)",
-        "url": "https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K"
+        "name": "Solita (En Vivo)",
+        "url": "https://open.spotify.com/album/50ABTjpmglksLMkTdoo1lP"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 246131,
-      "name": "Tu - Live",
-      "url": "https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu"
+      "duration_ms": 215984,
+      "name": "Solita (En Vivo)",
+      "url": "https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Encerrados Pero Enfiestados Vol. 1 (Live)",
-        "url": "https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 203816,
-      "name": "Amorcito M\u00edo - Live",
-      "url": "https://open.spotify.com/track/0iOZvZee49EgTNJEBm1VbC"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Por Mujeres Como T\u00fa",
         "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 200480,
       "name": "Directo Al Coraz\u00f3n",
       "url": "https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Encerrados Pero Enfiestados Vol. 1 (Live)",
+        "url": "https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 203816,
+      "name": "Amorcito M\u00edo - Live",
+      "url": "https://open.spotify.com/track/0iOZvZee49EgTNJEBm1VbC"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1503,22 +1503,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "La Conquista",
-        "url": "https://open.spotify.com/album/5uZpOJO7pLBQ7nSHE1fjjY"
+        "name": "En Tus Manos",
+        "url": "https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu"
       },
       "artists": [
         {
           "name": "Paola Jara",
           "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
-        },
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
         }
       ],
-      "duration_ms": 186378,
-      "name": "La Conquista",
-      "url": "https://open.spotify.com/track/4o5DwAte1mdSB3YfIKwZjm"
+      "duration_ms": 180165,
+      "name": "Muri\u00f3 El Amor",
+      "url": "https://open.spotify.com/track/2D6SrlLoIjmDX8xhCBA06n"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1551,22 +1547,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Mis Borracheras",
-        "url": "https://open.spotify.com/album/7gq0O9v34SWXIzggHHOZli"
-      },
-      "artists": [
-        {
-          "name": "Alzate",
-          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
-        }
-      ],
-      "duration_ms": 167895,
-      "name": "Mis Borracheras",
-      "url": "https://open.spotify.com/track/3V9ZEYBGRNiogfBzY5kffn"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "De Pura Rabia",
         "url": "https://open.spotify.com/album/3aKCApnTz9ESmKTUenfojX"
       },
@@ -1579,6 +1559,22 @@
       "duration_ms": 187397,
       "name": "De Pura Rabia",
       "url": "https://open.spotify.com/track/4bjhTbUKjfxODbAgUNAwHT"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Mis Borracheras",
+        "url": "https://open.spotify.com/album/7gq0O9v34SWXIzggHHOZli"
+      },
+      "artists": [
+        {
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        }
+      ],
+      "duration_ms": 167895,
+      "name": "Mis Borracheras",
+      "url": "https://open.spotify.com/track/3V9ZEYBGRNiogfBzY5kffn"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1635,18 +1631,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "En Tus Manos",
-        "url": "https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu"
+        "name": "La Conquista",
+        "url": "https://open.spotify.com/album/5uZpOJO7pLBQ7nSHE1fjjY"
       },
       "artists": [
         {
           "name": "Paola Jara",
           "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
         }
       ],
-      "duration_ms": 180165,
-      "name": "Muri\u00f3 El Amor",
-      "url": "https://open.spotify.com/track/2D6SrlLoIjmDX8xhCBA06n"
+      "duration_ms": 186378,
+      "name": "La Conquista",
+      "url": "https://open.spotify.com/track/4o5DwAte1mdSB3YfIKwZjm"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Bendecida",
-        "url": "https://open.spotify.com/album/5nDCeTPTS23OaddyzgMJF0"
-      },
-      "artists": [
-        {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
-        }
-      ],
-      "duration_ms": 190230,
-      "name": "Bendecida",
-      "url": "https://open.spotify.com/track/5qFO4vlG88RGZ0SpuXMikl"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "As\u00ed de Enamorados",
         "url": "https://open.spotify.com/album/6cjoz33o9RqcKCgo7zDXxK"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 174062,
       "name": "No Me Hace Bien",
       "url": "https://open.spotify.com/track/4BCplEwn32Y3nQeeBsbsj9"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Bendecida",
+        "url": "https://open.spotify.com/album/5nDCeTPTS23OaddyzgMJF0"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "duration_ms": 190230,
+      "name": "Bendecida",
+      "url": "https://open.spotify.com/track/5qFO4vlG88RGZ0SpuXMikl"
     },
     {
       "added_at": "2023-04-14 06:00:00",

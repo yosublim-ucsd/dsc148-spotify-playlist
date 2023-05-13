@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Sadie Jean
 
-456 songs - 1 day 0 hr 26 min
+459 songs - 1 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Bedroom Floor](https://open.spotify.com/track/2GjPJVgqtF8uSyoedh5Inf) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Bedroom Floor](https://open.spotify.com/album/1UdFJz9ptrLSmsTI87B2Ym) | 4:09 | 2022-08-26 | 2022-10-15 |
 | [Bedroom Floor](https://open.spotify.com/track/5QIIqyaKqjpDisjYNGZlAf) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Bedroom Floor](https://open.spotify.com/album/5S8Ucc9rGzrOTHz3Z4AsgQ) | 4:09 | 2022-08-26 | 2022-09-02 |
 | [Before I Go](https://open.spotify.com/track/3IcTA0EbqrgXbhAoY0b98r) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [Before I Go](https://open.spotify.com/album/1GDfKTurt5heggkwUFwRbj) | 3:24 | 2022-09-02 | 2022-12-24 |
+| [Big Star](https://open.spotify.com/track/3lnfzmGxaOSBLc2Hh4M5NT) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Big Star](https://open.spotify.com/album/5M1Y1ppNc7NFFq5b6U0s5K) | 3:00 | 2023-05-12 |  |
 | [birthday alone](https://open.spotify.com/track/4JrxkAArwiHvo3ZvtXmnoy) | [Sage Charmaine](https://open.spotify.com/artist/7Gm2KFPebqb5rGV3XrLqGn) | [birthday alone](https://open.spotify.com/album/2i3bzoH7SD600b3SKm0F8u) | 3:14 | 2022-09-30 | 2022-12-24 |
 | [Birthday Cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Birthday Cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 | 2022-02-04 | 2022-07-09 |
 | [Block me out](https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Block me out](https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN) | 4:09 | 2022-04-08 | 2022-08-13 |
@@ -61,7 +62,7 @@
 | [Brooklyn \- Stripped](https://open.spotify.com/track/3goLem0sEOQmKk29FWYx6q) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Brooklyn \(Stripped\)](https://open.spotify.com/album/1mOnHIpwGUAnU1jgbK3Ods) | 2:51 | 2022-01-14 | 2022-02-19 |
 | [Bumble Bee](https://open.spotify.com/track/4GcMviwgxuwqGW552BSqoq) | [Mila Degray](https://open.spotify.com/artist/2xEm2V0agYeSKR0xBLzMxu) | [Bumble Bee](https://open.spotify.com/album/1I2v5RJtr4Tt6yA7I1U1Rl) | 4:09 | 2022-12-23 | 2023-02-11 |
 | [Bumblebees and Blue Skies](https://open.spotify.com/track/0Bczbw2k63cjhOS078dXaF) | [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k) | [Bumblebees and Blue Skies](https://open.spotify.com/album/0OhZ0ZfAmshKSHDrxHALYW) | 5:16 | 2022-10-14 | 2022-12-24 |
-| [Burden](https://open.spotify.com/track/5vgZQdUkP8gYJnGkzZNqBm) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Burden](https://open.spotify.com/album/563cZfoxfkypO8RnzIbNGE) | 2:25 | 2023-02-17 |  |
+| [Burden](https://open.spotify.com/track/5vgZQdUkP8gYJnGkzZNqBm) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Burden](https://open.spotify.com/album/563cZfoxfkypO8RnzIbNGE) | 2:25 | 2023-02-17 | 2023-05-13 |
 | [Burn](https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Burn](https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79) | 2:59 | 2022-06-24 | 2022-11-26 |
 | [busy](https://open.spotify.com/track/7kdmDLwyzFL8jYLzfMvPwQ) | [Kira Kosarin](https://open.spotify.com/artist/7jksCPW6uDQiTDVbcyLV79) | [Something New](https://open.spotify.com/album/5pQLIMOOfKQlTufpnkV49Q) | 3:03 | 2022-07-15 | 2022-08-13 |
 | [Butterflies](https://open.spotify.com/track/6Xa2rrTpSLkpx887Y115mO) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Butterflies](https://open.spotify.com/album/2x3wUvuuBFYY0XEcm3Xp1U) | 3:03 | 2022-02-16 | 2022-02-19 |
@@ -175,7 +176,7 @@
 | [Haunted by Potential](https://open.spotify.com/track/6VzmUPRsALYM7FLfTs8GwF) | [PIAO](https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb) | [Haunted by Potential](https://open.spotify.com/album/68F4sD1sjZaVm15oynDKMD) | 3:38 | 2023-02-03 | 2023-02-25 |
 | [Headlights](https://open.spotify.com/track/0mzeEr7kHYzVPWF6iTIuwE) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Headlights](https://open.spotify.com/album/2iZdpmmkZ1FmQh179iOc9z) | 2:53 | 2022-09-02 | 2023-01-21 |
 | [hell yeah](https://open.spotify.com/track/254mJnXam0VoBPKY4toiM3) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [hell yeah](https://open.spotify.com/album/4qXrPD4TRtgX0CKdRpBRMN) | 2:39 | 2022-09-09 | 2022-11-12 |
-| [Hello Florence, How Are You?](https://open.spotify.com/track/0WII8HWOY0oYYpVNscWPDo) | [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Hello Florence, How Are You?](https://open.spotify.com/album/3GVON6N4X0E395w9Ai1cbc) | 4:15 | 2023-01-20 |  |
+| [Hello Florence, How Are You?](https://open.spotify.com/track/0WII8HWOY0oYYpVNscWPDo) | [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Hello Florence, How Are You?](https://open.spotify.com/album/3GVON6N4X0E395w9Ai1cbc) | 4:15 | 2023-01-20 | 2023-05-13 |
 | [Hey Brother](https://open.spotify.com/track/7dNWl8ygkv1REyRuUPs42w) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Hey Brother](https://open.spotify.com/album/6CxOmEhnxKMaeOXRCfJ6IG) | 2:33 | 2022-01-14 | 2022-04-09 |
 | [Him, Hymn](https://open.spotify.com/track/0AY5m5iHpv1kTipKWy1e2Z) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [Him, Hymn](https://open.spotify.com/album/2sJ2RM2sLmX8dljByalVSg) | 4:04 | 2022-10-14 | 2022-12-24 |
 | [Him, Hymn](https://open.spotify.com/track/71ooa3dfqRXgrAUm5urSZa) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [Him, Hymn](https://open.spotify.com/album/3mDWrmdvSYp2UU4Qv2A1Fk) | 4:04 | 2022-10-14 | 2022-10-16 |
@@ -206,6 +207,7 @@
 | [I Lost Myself In Loving You](https://open.spotify.com/track/2ySPkHH3mHCP3r3T040M5V) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [I Lost Myself In Loving You](https://open.spotify.com/album/1gLySgZluGmfvNYkny3H0C) | 3:21 | 2022-01-28 | 2022-09-10 |
 | [I Love My Birthday](https://open.spotify.com/track/7n7hPWER2dtJovBznJHa8W) | [Alexis Donn](https://open.spotify.com/artist/5oS6l0G47YindNtVFTzuGf) | [I Love My Birthday](https://open.spotify.com/album/4FT9kjBjX9zpfxtqPCVUxB) | 3:07 | 2022-01-14 | 2022-08-20 |
 | [I Miss You](https://open.spotify.com/track/4QVIZ1C5fOvlwVaWywkkHz) | [Abigail Fierce](https://open.spotify.com/artist/24q2VAybFrs4Lzy0eEnXga) | [I Miss You](https://open.spotify.com/album/3XtttQ1KmntgU5cx1wOmW2) | 3:30 | 2022-01-14 | 2022-04-09 |
+| [I should call my mom](https://open.spotify.com/track/3eLf5darT8r7GIeEmgwAaQ) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [I should call my mom](https://open.spotify.com/album/7qVlcmFyBzxCU1dzOIN3cS) | 3:00 | 2023-05-12 |  |
 | [I Wanna Be a Boy](https://open.spotify.com/track/5waXXk9DjEZ7LvaeDylbte) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [I Wanna Be a Boy](https://open.spotify.com/album/1CqhdFxHAyTGkmJNZMrHNw) | 3:19 | 2022-01-21 | 2022-10-01 |
 | [I Wanna Be In Love Again](https://open.spotify.com/track/3SoskoFsarFxM4xiGN2VvQ) | [Madds Buckley](https://open.spotify.com/artist/4BLdbgVNetzII3ggCMsNtq) | [I Wanna Be In Love Again](https://open.spotify.com/album/0jiEtrM5SHUJ2lAqDBlgdY) | 4:37 | 2022-12-02 | 2023-02-11 |
 | [I Want You](https://open.spotify.com/track/1q32AhBbgDPdBr5VyCRHq6) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [What Was, Not Now](https://open.spotify.com/album/0izGGxTiCAzk9Sgu8loZTe) | 3:30 | 2022-01-14 | 2022-07-02 |
@@ -233,6 +235,7 @@
 | [Is It Enough](https://open.spotify.com/track/5CiwHSUDf9C1Uv0r4nUVLd) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Is It Enough](https://open.spotify.com/album/6zmkcJhd5cv7pBrQYPDYfY) | 2:33 | 2022-07-08 | 2022-09-03 |
 | [Isolate Myself](https://open.spotify.com/track/24i28lemdaXJuEpmWcoDzU) | [Mallory Merk](https://open.spotify.com/artist/5GHFapUxfP2H2xxuMytwaF) | [Isolate Myself](https://open.spotify.com/album/2m6MKgiZRApIMIxOAptu3C) | 3:05 | 2022-07-08 | 2022-12-03 |
 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 | 2022-01-14 | 2022-08-06 |
+| [Jude Law](https://open.spotify.com/track/15rPuany8XoTaijKHdAf4j) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Jude Law](https://open.spotify.com/album/11R4y65FAlmyj90tWtOEfl) | 3:32 | 2023-05-12 |  |
 | [July \(Later On\)](https://open.spotify.com/track/1taQvtNRfKDHIV7TpzRRI4) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [July \(Later On\)](https://open.spotify.com/album/5Srlo0GV4YWeDDaGEIpU0a) | 2:19 | 2022-09-09 | 2022-11-05 |
 | [July \(Later On\)](https://open.spotify.com/track/4aOn1poQUctDNYifxmgK61) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [July \(Later On\)](https://open.spotify.com/album/67pdoqq7ID77qBa26APJ2m) | 2:19 | 2022-07-29 | 2022-11-04 |
 | [Just Because](https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Just Because](https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT) | 2:12 | 2023-05-05 |  |
@@ -381,7 +384,7 @@
 | [space](https://open.spotify.com/track/069GJA2jMuhubyFsaQcRtd) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [space](https://open.spotify.com/album/3gXgcspF6qBTJe9diFXCTV) | 4:02 | 2022-01-14 | 2022-03-12 |
 | [SPACE](https://open.spotify.com/track/0oedTfz3uuPFxmrDVwB0Gc) | [KILLBOY](https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm) | [SPACE](https://open.spotify.com/album/212R86ZzivVW2nNLidAvfO) | 2:03 | 2022-01-14 | 2022-03-12 |
 | [Spaceship](https://open.spotify.com/track/2H5swlv8mYd3P6R8mgeAPZ) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Spaceship](https://open.spotify.com/album/6D6ziDPPrgFye3Q0rJ4Bxv) | 3:18 | 2022-06-10 | 2022-10-15 |
-| [Spam Calls](https://open.spotify.com/track/34jEr8NupQF9PVS31Tyfff) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Spam Calls](https://open.spotify.com/album/4T7PakYjXie0JjTC6JqfSh) | 2:59 | 2023-01-27 |  |
+| [Spam Calls](https://open.spotify.com/track/34jEr8NupQF9PVS31Tyfff) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Spam Calls](https://open.spotify.com/album/4T7PakYjXie0JjTC6JqfSh) | 2:59 | 2023-01-27 | 2023-05-13 |
 | [Special](https://open.spotify.com/track/1mBR4OepAtxwfLwokFhWKC) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Special](https://open.spotify.com/album/6Gu8z975FwatmYxpXNG1hh) | 2:43 | 2022-10-21 | 2023-02-04 |
 | [Spell](https://open.spotify.com/track/6VnKIbHslTmwhEmH36ln4Q) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Spell](https://open.spotify.com/album/4DW2TnIuLYckzD1fPIgOrK) | 4:07 | 2022-10-21 | 2022-12-24 |
 | [star tripping](https://open.spotify.com/track/1ozWhltP7jnU01qOMWYBXH) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [star tripping](https://open.spotify.com/album/4hohZtRQRa3Iz76pJPwJwR) | 2:34 | 2022-10-07 | 2022-12-24 |

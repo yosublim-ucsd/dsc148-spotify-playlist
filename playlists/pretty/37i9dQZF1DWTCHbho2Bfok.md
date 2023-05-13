@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCHbho2Bfok.md) - [plain]
 
 > All the festive faves to soundtrack your very merry Christmas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,446 likes - 53 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,400 likes - 53 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCHbho2Bfok.md) - [plain]
 | 38 | [Christmas All Over Again](https://open.spotify.com/track/30SNjazZhzunhAWCjhdyyD) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [A Very Special Christmas 2](https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM) | 4:14 |
 | 39 | [Merry Christmas](https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Merry Christmas](https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK) | 3:28 |
 | 40 | [One Wish \(For Christmas\)](https://open.spotify.com/track/6pPLhUHaxNy37eIUNYu5JL) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [One Wish / The Holiday Album](https://open.spotify.com/album/7bEbn6yaqOzXmb3eAXDRbU) | 4:12 |
-| 41 | [Step Into Christmas](https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration / Super Deluxe\)](https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN) | 4:32 |
+| 41 | [Step Into Christmas](https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 4:32 |
 | 42 | [Fairytale of New York \(feat\. Kirsty MacColl\)](https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH), [Kirsty MacColl](https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq) | [If I Should Fall from Grace with God \(Expanded Edition\)](https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L) | 4:32 |
 | 43 | [Christmas In Hollis](https://open.spotify.com/track/41onDks2UPbyjer5fMeUWf) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Tougher Than Leather \(Expanded Edition\)](https://open.spotify.com/album/5opAMGIf8Hn7xIaTPdHFDv) | 2:58 |
 | 44 | [The Little Drummer Boy](https://open.spotify.com/track/5byWqEEi3ZdTpz3UJafR91) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Only Santa Knows \(Deluxe Edition\)](https://open.spotify.com/album/4HPh13sNS108WhMSmXgXjV) | 3:33 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCHbho2Bfok.md) - [plain]
 | 52 | [\(It Must've Been Ol'\) Santa Claus](https://open.spotify.com/track/54G7kjF8wbQAwG3WGmP6Ji) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When My Heart Finds Christmas](https://open.spotify.com/album/1It3aEvCmT8UvUMmBm5DIV) | 4:36 |
 | 53 | [Silent Night](https://open.spotify.com/track/43EtTBgd5UPVkqPWiQCAnm) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR), [Gurrumul](https://open.spotify.com/artist/41U5QueLMyYyJ3Hoe4kKX4) | [Only Santa Knows \(Deluxe Edition\)](https://open.spotify.com/album/4HPh13sNS108WhMSmXgXjV) | 4:05 |
 
-Snapshot ID: `MCxmN2VjZjE3NDA1ZmExY2QxZjQyMzhlYTcwNjIzYTViNGQ5MDE4YjQw`
+Snapshot ID: `MCxmMzllMmFjZTM0MWM4NTJkMjg3NmQxYTRmMzY0ODk0YjE0NmQxYTgw`

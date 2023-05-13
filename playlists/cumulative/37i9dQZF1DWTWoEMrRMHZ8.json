@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: Jards Macal\u00e9",
+  "description": "As belas novidades da MPB. Foto: Martinho da Vila, Chico C\u00e9sar",
   "name": "Divina MPB",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 224960,
       "name": "A arte de n\u00e3o morrer",
       "url": "https://open.spotify.com/track/491TwNe5sWUi1fSXmRAJIw"
@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 213191,
       "name": "A Bela \u00e9 a Fera",
       "url": "https://open.spotify.com/track/5ih4tXFZQWtshcsRmpKljo"
@@ -326,6 +326,28 @@
       "duration_ms": 273033,
       "name": "Abrigo",
       "url": "https://open.spotify.com/track/5nhJ79B02fCLIHIIQaybev"
+    },
+    {
+      "album": {
+        "name": "Negra \u00d3pera",
+        "url": "https://open.spotify.com/album/12ruJLnnZM4RlCAlxPSq6f"
+      },
+      "artists": [
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        },
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267308,
+      "name": "Acender as Velas",
+      "url": "https://open.spotify.com/track/4EeEwcqSLV8QmguC33sxE6"
     },
     {
       "album": {
@@ -1332,7 +1354,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 207857,
       "name": "Boca de A\u00e7a\u00ed",
       "url": "https://open.spotify.com/track/7xN0nAmh7igHAFoB0PW8kX"
@@ -1878,7 +1900,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 240383,
       "name": "Coisas Vazias Ficam pra Tr\u00e1s",
       "url": "https://open.spotify.com/track/5NhMbFwZMJiRrchR006I1z"
@@ -2880,7 +2902,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 147925,
       "name": "Estrela Negr\u00edssima",
       "url": "https://open.spotify.com/track/3Hiq2UxTdyOQdZ1EUaZCUG"
@@ -3314,7 +3336,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 331166,
       "name": "Garimpo Yanomami",
       "url": "https://open.spotify.com/track/7dQjpm7DR9DkgXKIiawron"
@@ -3707,6 +3729,28 @@
     },
     {
       "album": {
+        "name": "Jardim da Noite (Esses Dias)",
+        "url": "https://open.spotify.com/album/07c5tz3AK72OyRiKvpkEh8"
+      },
+      "artists": [
+        {
+          "name": "Patr\u00edcia Ahmaral",
+          "url": "https://open.spotify.com/artist/2iWBU8uSOix81wnZtwDqLx"
+        },
+        {
+          "name": "Paulinho Moska",
+          "url": "https://open.spotify.com/artist/50sWvKw2zsmX9lmcPWmJaT"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262226,
+      "name": "Jardim da Noite (Esses Dias)",
+      "url": "https://open.spotify.com/track/5zHHeYbRyoxyIuOK4SQonA"
+    },
+    {
+      "album": {
         "name": "Jasmim Parte 1",
         "url": "https://open.spotify.com/album/6YRFjsWP08K5hNWocg7o2Q"
       },
@@ -3904,7 +3948,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 170632,
       "name": "Larga Tudo",
       "url": "https://open.spotify.com/track/1CQIFlw9S6pz02XaP7eeJB"
@@ -3926,6 +3970,28 @@
       "duration_ms": 149434,
       "name": "Lasc\u00edvia",
       "url": "https://open.spotify.com/track/3l2pa4hh5xEQmtlqpUxFJB"
+    },
+    {
+      "album": {
+        "name": "Olho de Peixe",
+        "url": "https://open.spotify.com/album/4Qo5awa7oJiARMUs7tHsb8"
+      },
+      "artists": [
+        {
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+        },
+        {
+          "name": "Marcos Suzano",
+          "url": "https://open.spotify.com/artist/7eoxe0CyQFAF2xpYYvstkp"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198800,
+      "name": "Le\u00e3o do Norte",
+      "url": "https://open.spotify.com/track/0OuAp3mPhm8gtCF6fqqyYL"
     },
     {
       "album": {
@@ -7733,6 +7799,24 @@
     },
     {
       "album": {
+        "name": "Seu Anjo",
+        "url": "https://open.spotify.com/album/6kd1kQHUp1gACNL05u6jez"
+      },
+      "artists": [
+        {
+          "name": "Sarah Renata",
+          "url": "https://open.spotify.com/artist/03KBnCXOAIMKBJhpadTkNY"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195056,
+      "name": "Seu Anjo",
+      "url": "https://open.spotify.com/track/2DngmDYImzKt5C3l72IBuI"
+    },
+    {
+      "album": {
         "name": "Sim",
         "url": "https://open.spotify.com/album/04t4WLCMz8nzevU7Frcn1g"
       },
@@ -8399,6 +8483,24 @@
     },
     {
       "album": {
+        "name": "AMOR",
+        "url": "https://open.spotify.com/album/0grasxQbKhiZy5CNE6gXS8"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9ssica Gaspar",
+          "url": "https://open.spotify.com/artist/6ungwDo99f5ZK7aNb2UTip"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "TRANQUILA & MENININHA",
+      "url": "https://open.spotify.com/track/7MgiDQwJnVtq6cqZGTSRbJ"
+    },
+    {
+      "album": {
         "name": "Travessia - Spotify Singles",
         "url": "https://open.spotify.com/album/6fFIFnaCrSYWUeyK4HItVL"
       },
@@ -8809,6 +8911,24 @@
     },
     {
       "album": {
+        "name": "ARRISCA",
+        "url": "https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc"
+      },
+      "artists": [
+        {
+          "name": "Majur",
+          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213513,
+      "name": "Vendaval",
+      "url": "https://open.spotify.com/track/6b9uUnrmLrzrMkaTts77GO"
+    },
+    {
+      "album": {
         "name": "Ventania",
         "url": "https://open.spotify.com/album/3i2LOsgLugd1YksxeKrg5Z"
       },
@@ -9061,6 +9181,28 @@
     },
     {
       "album": {
+        "name": "Jaqueira",
+        "url": "https://open.spotify.com/album/0HRQHuzohSmYpjYxL5cp3M"
+      },
+      "artists": [
+        {
+          "name": "Hiran",
+          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
+        },
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166565,
+      "name": "Voz do Destino",
+      "url": "https://open.spotify.com/track/7Iec2eWfv49sfUzOmIOc8z"
+    },
+    {
+      "album": {
         "name": "\u00c0deusdar\u00c1",
         "url": "https://open.spotify.com/album/1DTQyqb5YW6aqf1q8ql6M6"
       },
@@ -9090,7 +9232,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 174770,
       "name": "\u00c0s Avessas Por Voc\u00ea",
       "url": "https://open.spotify.com/track/23DXIx5eol08KDm7yAZRsj"
@@ -9134,6 +9276,24 @@
       "duration_ms": 167061,
       "name": "\u00c1rvore - Ao Vivo no Rio",
       "url": "https://open.spotify.com/track/6ck63Hkr6XAuLdOioWyAjQ"
+    },
+    {
+      "album": {
+        "name": "\u00c9 Preciso Perdoar",
+        "url": "https://open.spotify.com/album/4gByp1kmVWGA7V90369Bkz"
+      },
+      "artists": [
+        {
+          "name": "Bebel Gilberto",
+          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245666,
+      "name": "\u00c9 Preciso Perdoar",
+      "url": "https://open.spotify.com/track/0krzUBNYlpOtWN9alUDP3r"
     },
     {
       "album": {

@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "A Year Ago",
+        "url": "https://open.spotify.com/album/4mXHsCQ4aRccewmcKUxIBJ"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170830,
+      "name": "A Year Ago",
+      "url": "https://open.spotify.com/track/3DBJE1Zndql25OGUQSv7aD"
+    },
+    {
+      "album": {
         "name": "About Damn Time",
         "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
       },
@@ -796,6 +814,24 @@
       "duration_ms": 198221,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/2vCKQ9NNCTXoAF8ltW0Zv9"
+    },
+    {
+      "album": {
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7"
+      },
+      "artists": [
+        {
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192130,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE"
     },
     {
       "album": {
@@ -1612,7 +1648,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 234800,
       "name": "Don't Be So Hard On Yourself",
       "url": "https://open.spotify.com/track/35w6sOAI3DDG4UqeWqkQJT"
@@ -2763,6 +2799,24 @@
     },
     {
       "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/4Ypr345ZDelmTzuoGDMgs5"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189955,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/1nLZY9rmmi5l9TgYjv0mQm"
+    },
+    {
+      "album": {
         "name": "Handle with Care",
         "url": "https://open.spotify.com/album/05hWw0s7A5YHErAUE3OMXu"
       },
@@ -3370,7 +3424,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 160559,
       "name": "How To Cry",
       "url": "https://open.spotify.com/track/5TQTUVJ23PhEhrriErbDWb"
@@ -3676,7 +3730,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 269538,
       "name": "I Made It",
       "url": "https://open.spotify.com/track/4dkf6Qfmy7730BwwIqyb4Y"
@@ -4088,7 +4142,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 170975,
       "name": "james (bleeding alone)",
       "url": "https://open.spotify.com/track/5VS8Efjwq1WcAm3B0cmMit"
@@ -4286,7 +4340,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 163854,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"
@@ -4482,6 +4536,28 @@
       "duration_ms": 187027,
       "name": "Lie Again",
       "url": "https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP"
+    },
+    {
+      "album": {
+        "name": "Life Goes On (feat. Luke Combs)",
+        "url": "https://open.spotify.com/album/6fyUUW7ISpjbxCxaBHl1UN"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210208,
+      "name": "Life Goes On (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/63kLorCFyk4ZHMHPhcWOtO"
     },
     {
       "album": {
@@ -4720,6 +4796,24 @@
       "duration_ms": 190527,
       "name": "Looks Like Me",
       "url": "https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA"
+    },
+    {
+      "album": {
+        "name": "Looping",
+        "url": "https://open.spotify.com/album/7v1fF2heE7azqtCgG9viSk"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193967,
+      "name": "Looping",
+      "url": "https://open.spotify.com/track/6p3qUiFmgLx3nVFJn7zhKn"
     },
     {
       "album": {
@@ -5001,6 +5095,24 @@
     },
     {
       "album": {
+        "name": "Maybe Next Time",
+        "url": "https://open.spotify.com/album/6oGzvyilFapjThmlJPJKiW"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188373,
+      "name": "Maybe Next Time",
+      "url": "https://open.spotify.com/track/3NZDpFKjCApF6WkI5g6iFg"
+    },
+    {
+      "album": {
         "name": "Every Little Detail",
         "url": "https://open.spotify.com/album/35HZGYSj5vzKFeRsoCMU2w"
       },
@@ -5034,6 +5146,24 @@
       "duration_ms": 208906,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/7CHNIK6EGjnwpWkSpx6JZe"
+    },
+    {
+      "album": {
+        "name": "Meltdown",
+        "url": "https://open.spotify.com/album/5YFjep71L0CSTopsrhZ56q"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153037,
+      "name": "Meltdown",
+      "url": "https://open.spotify.com/track/52Rfxu5AUNMV1qhhC2ZCkb"
     },
     {
       "album": {
@@ -5214,6 +5344,24 @@
       "duration_ms": 213622,
       "name": "motions",
       "url": "https://open.spotify.com/track/5QTPZNq8wnpDIoxHx0dkif"
+    },
+    {
+      "album": {
+        "name": "Mountain",
+        "url": "https://open.spotify.com/album/3iRiuWFQaB6J31fqTl0oiw"
+      },
+      "artists": [
+        {
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169479,
+      "name": "Mountain",
+      "url": "https://open.spotify.com/track/0uIjaOUqCKav7yJU4Lj2hB"
     },
     {
       "album": {
@@ -5752,7 +5900,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 146654,
       "name": "people pleaser",
       "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
@@ -6084,6 +6232,24 @@
       "duration_ms": 216000,
       "name": "Run to You",
       "url": "https://open.spotify.com/track/38LpvbIp9It4wkOYL9SVHM"
+    },
+    {
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218577,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq"
     },
     {
       "album": {
@@ -6817,6 +6983,24 @@
     },
     {
       "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161811,
+      "name": "Summer Baby",
+      "url": "https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U"
+    },
+    {
+      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
       },
@@ -6940,7 +7124,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 258812,
       "name": "Thank God I Do",
       "url": "https://open.spotify.com/track/60StAgy8EkIsaGEGebKcBB"
@@ -7212,6 +7396,24 @@
       "duration_ms": 227813,
       "name": "There Isn't Much",
       "url": "https://open.spotify.com/track/1ZEXbPAZfODwpQVLkT94Nj"
+    },
+    {
+      "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230931,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/3aJs1TqxQh1Y2SNL8Vt1ZA"
     },
     {
       "album": {
@@ -7526,7 +7728,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 179202,
       "name": "We\u2019re All Gonna Die (with Noah Kahan)",
       "url": "https://open.spotify.com/track/2Eb2TKNAaE15Fqd4A3MFWU"

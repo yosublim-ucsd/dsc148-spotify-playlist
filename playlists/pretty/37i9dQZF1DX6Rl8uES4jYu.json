@@ -1,13 +1,45 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 241083,
+  "num_followers": 241075,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmIxY2NkMGZiNzQxNWQxNTk5YzdhYjgxM2U1NTkxODQwNWRlZDFl",
+  "snapshot_id": "MCw0YTgwYTkwMzViYjU2MzZjNDk3OWVlZDRkMjAwMzY1YTZhNGRlMDgw",
   "tracks": [
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "The Sweetest Thing",
+        "url": "https://open.spotify.com/album/5BIpgoq1dFvuTLcKRDbD09"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "duration_ms": 275070,
+      "name": "The Sweetest Thing",
+      "url": "https://open.spotify.com/track/4jDAQRLExhzT6CEmo0nucu"
+    },
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
@@ -1763,22 +1795,6 @@
     {
       "added_at": "2023-02-17 05:01:00",
       "album": {
-        "name": "Tip Of The Flame (12\" Disco Mix)",
-        "url": "https://open.spotify.com/album/6QoIPnSuTwSMWoWjoqtiCD"
-      },
-      "artists": [
-        {
-          "name": "Young Gun Silver Fox",
-          "url": "https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG"
-        }
-      ],
-      "duration_ms": 357087,
-      "name": "Tip Of The Flame - 12\" Disco Mix",
-      "url": "https://open.spotify.com/track/67DpsCMB560OVTv3EfztzW"
-    },
-    {
-      "added_at": "2023-02-17 05:01:00",
-      "album": {
         "name": "My 21st Century Blues",
         "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 199293,
       "name": "The Thrill Is Gone.",
       "url": "https://open.spotify.com/track/5eVG50IlyjSevPsWnSI76r"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Lunar Eclipse",
-        "url": "https://open.spotify.com/album/40SlzaFKQTtGh2vOv1BPAC"
-      },
-      "artists": [
-        {
-          "name": "Fulton Lee",
-          "url": "https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS"
-        }
-      ],
-      "duration_ms": 194498,
-      "name": "Lunar Eclipse",
-      "url": "https://open.spotify.com/track/5LeKKDF7i65mQ3NIW8mkwP"
     }
   ],
   "unique_name": "Ready for the Day",

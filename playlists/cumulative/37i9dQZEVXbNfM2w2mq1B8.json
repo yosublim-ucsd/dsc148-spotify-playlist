@@ -4078,7 +4078,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 260253,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
@@ -12826,7 +12826,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 214764,
       "name": "Parva liga",
       "url": "https://open.spotify.com/track/24hVjJC4kREi2bQYT3HIov"
@@ -13424,7 +13424,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 172125,
       "name": "Princess Diana (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
@@ -14923,6 +14923,36 @@
     },
     {
       "album": {
+        "name": "SHELLEY (Summer Mix)",
+        "url": "https://open.spotify.com/album/6joIX2x9ThQmgAnxPCK8lB"
+      },
+      "artists": [
+        {
+          "name": "CORALLY",
+          "url": "https://open.spotify.com/artist/6aNAOg1PZUKZdE861K0Y50"
+        },
+        {
+          "name": "Billx",
+          "url": "https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB"
+        },
+        {
+          "name": "Jean Marie",
+          "url": "https://open.spotify.com/artist/0GVEViT63fsMLllbFa0Mop"
+        },
+        {
+          "name": "Thomas Deil",
+          "url": "https://open.spotify.com/artist/5uYKQrTEx51AOXot2Z2Czl"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "SHELLEY - Summer Mix",
+      "url": "https://open.spotify.com/track/6lrJhUjMTfIWmB090c6s6f"
+    },
+    {
+      "album": {
         "name": "Aft\u00ebrLyfe",
         "url": "https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM"
       },
@@ -15476,6 +15506,24 @@
       "duration_ms": 215693,
       "name": "Solid (feat. Drake)",
       "url": "https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd"
+    },
+    {
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/4zX2oy6k4NLIThxb2Qp6LZ"
+      },
+      "artists": [
+        {
+          "name": "BLANKA",
+          "url": "https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154710,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/3xxjYOFR1y7By2wNDS51XV"
     },
     {
       "album": {
@@ -17468,7 +17516,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 194786,
       "name": "Trance (with Travis Scott & Young Thug)",
       "url": "https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J"
@@ -20008,7 +20056,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 190434,
       "name": "\u0417\u0430\u0431\u0440\u0430\u0432\u044f\u0439 \u043c\u0435",
       "url": "https://open.spotify.com/track/2BfIkZJht4lBG73fqtsSxp"
@@ -21632,7 +21680,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-05",
+      "date_removed": null,
       "duration_ms": 181304,
       "name": "\u0424\u0438\u043b\u043c \u0437\u0430 \u043d\u0430\u0441",
       "url": "https://open.spotify.com/track/772ARvmnEjryug7ce0lRAF"

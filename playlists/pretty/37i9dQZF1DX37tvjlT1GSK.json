@@ -1,12 +1,12 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Virl\u00e1n Garc\u00eda en portada. ",
-  "num_followers": 726387,
+  "num_followers": 726525,
   "original_name": "Sierre\u00f1o 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDE1NGVmN2IwMjNlMDcyNDA0NDcxOWJlNTNkZDA5NmVjMDgxMGFh",
+  "snapshot_id": "MCxkZTYwZTE5NjNhMDNhOTllYzQzODViMDZmY2VhNTU1ZWRiYWU0YmU1",
   "tracks": [
     {
       "added_at": "2023-03-17 06:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Ya Aprend\u00ed la Lecci\u00f3n",
-        "url": "https://open.spotify.com/album/7zdX1DPwz8PU1tsaw5qSg8"
-      },
-      "artists": [
-        {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
-        }
-      ],
-      "duration_ms": 208541,
-      "name": "El Final de Nuestra Historia",
-      "url": "https://open.spotify.com/track/73aNc2V32NpepB8lLhnDjW"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
         "name": "El Carrito",
         "url": "https://open.spotify.com/album/1Dg8iAxvKPx5jhzHWEgf98"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 178812,
       "name": "El Carrito",
       "url": "https://open.spotify.com/track/073rXJBr0SdO7s6yEhMQXP"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
+        "name": "Ya Aprend\u00ed la Lecci\u00f3n",
+        "url": "https://open.spotify.com/album/7zdX1DPwz8PU1tsaw5qSg8"
+      },
+      "artists": [
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "duration_ms": 208541,
+      "name": "El Final de Nuestra Historia",
+      "url": "https://open.spotify.com/track/73aNc2V32NpepB8lLhnDjW"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Falso",
-        "url": "https://open.spotify.com/album/1QATRuRMTlIEzQi9VvRm5m"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 234189,
-      "name": "Falso",
-      "url": "https://open.spotify.com/track/7FF8AgGRyOzjKQ4SpTVJ7D"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
         "name": "Te Vas A Recordar",
         "url": "https://open.spotify.com/album/1toqZv5ko57peyVVpYJFvo"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 182909,
       "name": "El Rapido",
       "url": "https://open.spotify.com/track/3IDvZQYop4XSaTZHw4H5hK"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
+        "name": "Falso",
+        "url": "https://open.spotify.com/album/1QATRuRMTlIEzQi9VvRm5m"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 234189,
+      "name": "Falso",
+      "url": "https://open.spotify.com/track/7FF8AgGRyOzjKQ4SpTVJ7D"
     },
     {
       "added_at": "2023-03-17 06:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "The Latin soundtrack of the 2000s! Cover: Shakira",
-  "num_followers": 252530,
+  "num_followers": 252588,
   "original_name": "00s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2RmZmM5ODgyYjlhNTMzODRmM2U2NWI0Yzg1N2U0YTc3OGNlMGE3",
+  "snapshot_id": "MCxhMjcxZWUwY2E1ZWQ2ZGQxM2M2ZjcyYThmOWM0YjExNTQ1N2Y2MzRl",
   "tracks": [
     {
       "added_at": "2023-01-31 23:21:10",
@@ -63,22 +63,6 @@
     {
       "added_at": "2023-01-31 23:21:10",
       "album": {
-        "name": "Motivando a la Yal",
-        "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 232019,
-      "name": "Yo Voy (feat. Daddy Yankee)",
-      "url": "https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS"
-    },
-    {
-      "added_at": "2023-01-31 23:21:10",
-      "album": {
         "name": "Barrio Fino (Bonus Track Version)",
         "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 192600,
       "name": "Gasolina",
       "url": "https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj"
+    },
+    {
+      "added_at": "2023-01-31 23:21:10",
+      "album": {
+        "name": "Motivando a la Yal",
+        "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 232019,
+      "name": "Yo Voy (feat. Daddy Yankee)",
+      "url": "https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS"
     },
     {
       "added_at": "2023-01-31 23:21:10",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-01-31 23:21:10",
       "album": {
-        "name": "Stereo Hits",
-        "url": "https://open.spotify.com/album/6y3FTrfW6zFquk2V1qU2as"
-      },
-      "artists": [
-        {
-          "name": "M\u0153nia",
-          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
-        }
-      ],
-      "duration_ms": 219533,
-      "name": "Ni T\u00fa Ni Nadie",
-      "url": "https://open.spotify.com/track/16J6wH4Evm97ta1hDQIYQC"
-    },
-    {
-      "added_at": "2023-01-31 23:21:10",
-      "album": {
         "name": "The Last Don",
         "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 212413,
       "name": "Dale Don Dale",
       "url": "https://open.spotify.com/track/1PZrHbJjt5t7dP9OGRxcD0"
+    },
+    {
+      "added_at": "2023-01-31 23:21:10",
+      "album": {
+        "name": "Stereo Hits",
+        "url": "https://open.spotify.com/album/6y3FTrfW6zFquk2V1qU2as"
+      },
+      "artists": [
+        {
+          "name": "M\u0153nia",
+          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
+        }
+      ],
+      "duration_ms": 219533,
+      "name": "Ni T\u00fa Ni Nadie",
+      "url": "https://open.spotify.com/track/16J6wH4Evm97ta1hDQIYQC"
     },
     {
       "added_at": "2023-01-31 23:21:10",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-01-31 23:21:10",
       "album": {
-        "name": "Desde Abajo",
-        "url": "https://open.spotify.com/album/7dhQWDiTlbp3Np8sdLMY3R"
-      },
-      "artists": [
-        {
-          "name": "Mach & Daddy",
-          "url": "https://open.spotify.com/artist/5Q1vijNjTVhQBoVrZVXms8"
-        }
-      ],
-      "duration_ms": 177293,
-      "name": "La Botella",
-      "url": "https://open.spotify.com/track/3dtGHZyEGmKSmQoAPcbvyb"
-    },
-    {
-      "added_at": "2023-01-31 23:21:10",
-      "album": {
         "name": "Masterpiece: Nuestra Obra Maestra",
         "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 225693,
       "name": "Down",
       "url": "https://open.spotify.com/track/0t0WIrjRcvgBAwLlby2gsZ"
+    },
+    {
+      "added_at": "2023-01-31 23:21:10",
+      "album": {
+        "name": "Desde Abajo",
+        "url": "https://open.spotify.com/album/7dhQWDiTlbp3Np8sdLMY3R"
+      },
+      "artists": [
+        {
+          "name": "Mach & Daddy",
+          "url": "https://open.spotify.com/artist/5Q1vijNjTVhQBoVrZVXms8"
+        }
+      ],
+      "duration_ms": 177293,
+      "name": "La Botella",
+      "url": "https://open.spotify.com/track/3dtGHZyEGmKSmQoAPcbvyb"
     },
     {
       "added_at": "2023-01-31 23:21:10",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-01-31 23:21:10",
       "album": {
-        "name": "Un Mundo Diferente",
-        "url": "https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 267106,
-      "name": "Color Esperanza",
-      "url": "https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4"
-    },
-    {
-      "added_at": "2023-01-31 23:21:10",
-      "album": {
         "name": "Ricky Martin MTV Unplugged",
         "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 247866,
       "name": "Tu Recuerdo (feat. La Mari De Chambao & Tommy Torres) - MTV Unplugged Version",
       "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
+    },
+    {
+      "added_at": "2023-01-31 23:21:10",
+      "album": {
+        "name": "Un Mundo Diferente",
+        "url": "https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 267106,
+      "name": "Color Esperanza",
+      "url": "https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4"
     },
     {
       "added_at": "2023-01-31 23:21:10",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-01-31 23:21:10",
       "album": {
+        "name": "Valio La Pena",
+        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 309586,
+      "name": "Ahora Quien - Salsa Version",
+      "url": "https://open.spotify.com/track/5A32KQZznC2HSqr9qzTl2N"
+    },
+    {
+      "added_at": "2023-01-31 23:21:10",
+      "album": {
         "name": "Celestial",
         "url": "https://open.spotify.com/album/1cjDwE4UHCXZOwgYE3XUgw"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 211466,
       "name": "Ser O Parecer",
       "url": "https://open.spotify.com/track/5sgvzXoYFCr5F5tUZdAA20"
-    },
-    {
-      "added_at": "2023-01-31 23:21:10",
-      "album": {
-        "name": "Valio La Pena",
-        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 309586,
-      "name": "Ahora Quien - Salsa Version",
-      "url": "https://open.spotify.com/track/5A32KQZznC2HSqr9qzTl2N"
     },
     {
       "added_at": "2023-01-31 23:21:10",
@@ -1139,46 +1139,6 @@
     {
       "added_at": "2023-01-31 23:21:10",
       "album": {
-        "name": "Nuestro Amor",
-        "url": "https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF"
-      },
-      "artists": [
-        {
-          "name": "RBD",
-          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
-        },
-        {
-          "name": "Anah\u00ed",
-          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
-        },
-        {
-          "name": "Dulce Mar\u00eda",
-          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
-        },
-        {
-          "name": "Maite Perroni",
-          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
-        },
-        {
-          "name": "Christian Ch\u00e1vez",
-          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
-        },
-        {
-          "name": "Christopher von Uckermann",
-          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
-        },
-        {
-          "name": "Alfonso Herrera",
-          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "A\u00fan Hay Algo",
-      "url": "https://open.spotify.com/track/6fqpsCQ7jF7OgQolXgYovX"
-    },
-    {
-      "added_at": "2023-01-31 23:21:10",
-      "album": {
         "name": "La Historia De El D\u00fao (Vol.1)",
         "url": "https://open.spotify.com/album/0LHnOx2oLegPCawcuxRF7j"
       },
@@ -1223,6 +1183,46 @@
       "duration_ms": 264599,
       "name": "Mariposa Traicionera",
       "url": "https://open.spotify.com/track/2USyvcBpPjhW0rgiD2R8Bp"
+    },
+    {
+      "added_at": "2023-01-31 23:21:10",
+      "album": {
+        "name": "Nuestro Amor",
+        "url": "https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "A\u00fan Hay Algo",
+      "url": "https://open.spotify.com/track/6fqpsCQ7jF7OgQolXgYovX"
     },
     {
       "added_at": "2023-01-31 23:21:10",
@@ -1291,46 +1291,6 @@
     {
       "added_at": "2023-01-31 23:21:10",
       "album": {
-        "name": "Rebelde",
-        "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
-      },
-      "artists": [
-        {
-          "name": "RBD",
-          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
-        },
-        {
-          "name": "Anah\u00ed",
-          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
-        },
-        {
-          "name": "Dulce Mar\u00eda",
-          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
-        },
-        {
-          "name": "Maite Perroni",
-          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
-        },
-        {
-          "name": "Christian Ch\u00e1vez",
-          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
-        },
-        {
-          "name": "Christopher von Uckermann",
-          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
-        },
-        {
-          "name": "Alfonso Herrera",
-          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
-        }
-      ],
-      "duration_ms": 214306,
-      "name": "Rebelde",
-      "url": "https://open.spotify.com/track/56tOMi4N980gmsdUoyaLb3"
-    },
-    {
-      "added_at": "2023-01-31 23:21:10",
-      "album": {
         "name": "Ananda",
         "url": "https://open.spotify.com/album/3crF1rm8dNCybqtUd1gNZj"
       },
@@ -1375,6 +1335,26 @@
       "duration_ms": 271600,
       "name": "\u00bfQui\u00e9n Te Dijo Eso?",
       "url": "https://open.spotify.com/track/159yUhKZg2ZAdt0HknTqDr"
+    },
+    {
+      "added_at": "2023-01-31 23:21:10",
+      "album": {
+        "name": "The Boatlift",
+        "url": "https://open.spotify.com/album/7m9AYxqeFPagkaqlg6WE0J"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "duration_ms": 245054,
+      "name": "The Anthem",
+      "url": "https://open.spotify.com/track/2cZ5ACJfBj2uAXARdHpjAW"
     }
   ],
   "unique_name": "00s Latino",

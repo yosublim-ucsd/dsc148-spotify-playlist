@@ -1407,6 +1407,24 @@
     },
     {
       "album": {
+        "name": "Caribou",
+        "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309106,
+      "name": "Pinball Wizard",
+      "url": "https://open.spotify.com/track/6CJCCb9ookMMDQNz1Rrtii"
+    },
+    {
+      "album": {
         "name": "Goodbye Yellow Brick Road (40th Anniversary Celebration / Super Deluxe)",
         "url": "https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN"
       },
@@ -1418,7 +1436,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 315627,
       "name": "Pinball Wizard",
       "url": "https://open.spotify.com/track/7bLVAgQDVEdeGrsPVABVRi"

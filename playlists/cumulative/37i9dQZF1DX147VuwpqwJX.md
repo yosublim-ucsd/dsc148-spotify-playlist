@@ -4,7 +4,7 @@
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-125 songs - 8 hr 15 min
+126 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [The Ha Dance](https://open.spotify.com/track/4x1E99Fe36e06M5YbLBgMC) | [Masters At Work](https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1) | [The House Of Cutting](https://open.spotify.com/album/6E4mUW9BXuEywxJN23D1vD) | 3:22 | 2021-11-19 |  |
 | [This is CVNT \- Original Mix](https://open.spotify.com/track/7szp97ML4nikrRXAeJpAvi) | [Cvnt Traxxx](https://open.spotify.com/artist/0xsRLWmYqD6chhCWdS8S8m), [Sugur Shane](https://open.spotify.com/artist/6W5grmdNl1vuIaB4B0yPND) | [This is CVNT](https://open.spotify.com/album/7aipWe1xOEOvr6JhQ2SXE3) | 4:18 | 2021-11-19 |  |
 | [ThundaKats](https://open.spotify.com/track/7DRk2Pp3vXKCrgoiSLsW4R) | [Vjuan Allure](https://open.spotify.com/artist/6XsYyM6VcCkFglSRqzUMXJ) | [ThundaKats EP](https://open.spotify.com/album/1lOA60vjn1dMSOu4ElokU4) | 6:36 | 2021-11-19 |  |
+| [Topsy Turvy](https://open.spotify.com/track/56bEBI8L8MxILCNCb9751g) | [Yvie Oddly](https://open.spotify.com/artist/0jjPWNC0IDjq8OI0PNufGo), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Topsy Turvy](https://open.spotify.com/album/3K2nwwZ9bW0HN0GbyDWBj6) | 2:13 | 2023-05-12 |  |
 | [tunna\-melt](https://open.spotify.com/track/40wS0Hn107CwIHLHSQNsGt) | [Divoli S'vere](https://open.spotify.com/artist/5auaHQB2vtaJTdrppcTAEw) | [CKUNTINOMKSZ](https://open.spotify.com/album/2YzChAOzMjwskZWWuSXXcI) | 2:27 | 2021-11-19 |  |
 | [Turned Heads](https://open.spotify.com/track/2imalXmegXoWFbiqXxXeDf) | [Janey Jacké](https://open.spotify.com/artist/2n7tUIeULpqEweNoyaNJ7v), [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Turned Heads](https://open.spotify.com/album/21PU8CmmhciAg0HKRL1oh3) | 2:22 | 2022-03-04 | 2022-08-19 |
 | [Turned Heads](https://open.spotify.com/track/4GKDapJjK9DOCG3ZQdWxcG) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Janey Jacké](https://open.spotify.com/artist/2n7tUIeULpqEweNoyaNJ7v) | [Turned Heads](https://open.spotify.com/album/4X1xAPK4ft5jb9MPvUuDDX) | 2:22 | 2022-08-05 |  |

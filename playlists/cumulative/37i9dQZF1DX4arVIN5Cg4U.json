@@ -118,6 +118,24 @@
     {
       "album": {
         "name": "Bass Cannon",
+        "url": "https://open.spotify.com/album/2cmBRFSeVDZVTSPyQG9AoF"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309546,
+      "name": "Bass Cannon",
+      "url": "https://open.spotify.com/track/4u3a1nylBxY8siO7Os4t22"
+    },
+    {
+      "album": {
+        "name": "Bass Cannon",
         "url": "https://open.spotify.com/album/6byw7VMDEduQESVKJ8tbWA"
       },
       "artists": [
@@ -132,24 +150,6 @@
       "duration_ms": 310410,
       "name": "Bass Cannon",
       "url": "https://open.spotify.com/track/1fc12F23NDBAN1Y75GEc1v"
-    },
-    {
-      "album": {
-        "name": "Bass Cannon",
-        "url": "https://open.spotify.com/album/2cmBRFSeVDZVTSPyQG9AoF"
-      },
-      "artists": [
-        {
-          "name": "Flux Pavillion",
-          "url": "https://open.spotify.com/artist/0z9vD9DKvwTGRPEQ4JZID7"
-        }
-      ],
-      "date_added": "2020-10-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 309546,
-      "name": "Bass Cannon",
-      "url": "https://open.spotify.com/track/4u3a1nylBxY8siO7Os4t22"
     },
     {
       "album": {

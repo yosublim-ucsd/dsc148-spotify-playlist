@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Alan Walker x Sasha Alex Sloan
 
-291 songs - 14 hr 35 min
+292 songs - 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [My Life \(feat\. The Runaway Club\)](https://open.spotify.com/track/2ii4OMvYuKkRe7o4Xy68RH) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [The Runaway Club](https://open.spotify.com/artist/6tVdbeBMatYt5AZcmj8DnN) | [My Life \(feat\. The Runaway Club\)](https://open.spotify.com/album/0bSFvNT802a9GwaSwXRL0O) | 2:20 | 2023-02-02 | 2023-03-25 |
 | [My Remedy](https://open.spotify.com/track/32pozaCliTMq8bhUlv1Rgl) | [SECMOS](https://open.spotify.com/artist/0zZ0bI60hTmGInF2acMFgk), [Yellwflwer](https://open.spotify.com/artist/7yJ6JIPHYqJ7sbMBtAXB6v), [Peter Claymore](https://open.spotify.com/artist/3KrY7rjviDEePGFjY5iylJ) | [My Remedy](https://open.spotify.com/album/5Hl2aYRADNYBYqOa1GVSfK) | 2:57 | 2023-02-02 | 2023-03-03 |
 | [My World](https://open.spotify.com/track/0A9lFZPyPmytyYSNcYBnDv) | [Tweellve](https://open.spotify.com/artist/0DejclZvFobqZbbfiVZAsF) | [My World](https://open.spotify.com/album/4k0WDz9zyff55wtTi6xC5h) | 2:54 | 2023-02-02 | 2023-02-17 |
+| [Never Let Me Go](https://open.spotify.com/track/7rSFf5LyMWCF2lMZJWhnOY) | [Brian Rian Rehan](https://open.spotify.com/artist/5CTKQxuMX0Vto97Ofqn2KN) | [Never Let Me Go](https://open.spotify.com/album/6BgmEI778jzHSmZy0ajIZY) | 3:14 | 2023-05-11 |  |
 | [Never Let You Down](https://open.spotify.com/track/3HnGSgsJA5KkXAnVthERri) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Miles Away](https://open.spotify.com/artist/3V8H59FqUdudlO1Fl019tg), [RYYZN](https://open.spotify.com/artist/54YpMpAIJC7FV2toZvVo5f) | [Never Let You Down](https://open.spotify.com/album/6fQJLkZUzXXynBgMXKoA8n) | 3:13 | 2023-04-13 |  |
 | [Next To You \(feat\. Kane Brown\)](https://open.spotify.com/track/6iZ2inFhxOuHKxOlTwwhZq) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Next To You \(feat\. Kane Brown\)](https://open.spotify.com/album/2lN4M7HJ3xPgPFpVuInEQe) | 2:41 | 2023-02-23 | 2023-03-31 |
 | [NIGHT](https://open.spotify.com/track/6MvLdr8EU0ROnLBIydewaD) | [VESK GREEN](https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo) | [NIGHT](https://open.spotify.com/album/4SnyGwyZNSkBCIbzJWEbyB) | 4:19 | 2023-05-04 |  |

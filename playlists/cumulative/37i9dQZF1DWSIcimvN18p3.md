@@ -4,7 +4,7 @@
 
 > Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Sunny War
 
-376 songs - 22 hr 59 min
+377 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Blues In My Mind](https://open.spotify.com/track/26Ve3SqyA3lgEMOU7lXiDX) | [Ginny Hawker](https://open.spotify.com/artist/3e3eLRGBRzHUq7wcI5hT54) | [After It's Gone](https://open.spotify.com/album/3HxzaKoVfyT7dBBN2acIrS) | 2:10 | 2021-03-05 | 2022-02-28 |
 | [Boardwalks](https://open.spotify.com/track/7sTdeM1DsL2V5caPFfcrDO) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH) | [Little May](https://open.spotify.com/album/15h8DXuEUUU8FKcElRPf4S) | 3:15 | 2021-03-05 |  |
 | [Bobby Reid](https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS) | [Lucette](https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn) | [Black Is the Color](https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY) | 2:18 | 2021-03-05 |  |
-| [Boots of Spanish Leather](https://open.spotify.com/track/4cbMK3hOqvXiBiHQkGgsAf) | [Nanci Griffith](https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0) | [Other Voices, Other Rooms](https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE) | 5:17 | 2021-03-05 |  |
+| [Boots of Spanish Leather](https://open.spotify.com/track/4cbMK3hOqvXiBiHQkGgsAf) | [Nanci Griffith](https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0) | [Other Voices, Other Rooms](https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE) | 5:17 | 2021-03-05 | 2023-05-13 |
 | [Both Hands](https://open.spotify.com/track/3sQIESZGkkxYRn4NCq9B55) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Ani DiFranco](https://open.spotify.com/album/0G6JEkNgzfTlve4XAiRlCk) | 3:35 | 2021-03-05 | 2022-07-29 |
 | [Both Hands](https://open.spotify.com/track/1pQhpD3hn0IBcY2sDdjIdg) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Ani DiFranco](https://open.spotify.com/album/0831E4Cmgg52SYn6TEuw3K) | 3:38 | 2022-10-14 |  |
 | [Both Hands](https://open.spotify.com/track/4FJsFAdLFGqrmuM74CIzhs) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Ani DiFranco](https://open.spotify.com/album/7cdszxdNxyYrL9wkPPpCcw) | 3:38 | 2021-03-05 | 2022-11-03 |
@@ -301,6 +301,7 @@
 | [Strange Girl](https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 3:21 | 2021-03-05 |  |
 | [Strange Isabella](https://open.spotify.com/track/0Cb2GVqt0s3RL5jKR4KyN1) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Boots No\. 2: The Lost Songs, Vol\. 1](https://open.spotify.com/album/33qsTsdSSS0dXLEOOUpcci) | 3:50 | 2021-03-05 | 2022-07-29 |
 | [Swept Away](https://open.spotify.com/track/0j1lzFyh427bXhDHLeth6q) | [Missy Raines](https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep), [Alison Brown](https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK), [Becky Buller](https://open.spotify.com/artist/51GVpccMzO5rZqCEaePGBv), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Royal Traveller](https://open.spotify.com/album/0O6Nyhc5bVD0iYtEq5J3sZ) | 3:56 | 2021-03-05 | 2022-07-29 |
+| [Swing and Turn Jubilee](https://open.spotify.com/track/0wg0CxkcfjRkq3BMwE4m9D) | [The A's](https://open.spotify.com/artist/0lL30FdUoEkbzNtJSrXM9p) | [Fruit](https://open.spotify.com/album/2ypGAXfloqIuWWhyxhWQFJ) | 4:09 | 2023-03-08 |  |
 | [Take Back Thy Gift](https://open.spotify.com/track/3ugct54al0lscnP8yZhE4C) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [That Spell](https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ) | 3:13 | 2022-03-08 |  |
 | [Teeth Marks](https://open.spotify.com/track/4hpHGNOycA02mFKH6U97Gx) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Teeth Marks](https://open.spotify.com/album/0YOnr9NbhkWBBYOWGWq7AE) | 3:37 | 2022-03-08 | 2022-07-29 |
 | [Tehachapi](https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Pohorylle](https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR) | 3:07 | 2022-03-08 |  |

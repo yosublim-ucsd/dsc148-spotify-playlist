@@ -4,7 +4,7 @@
 
 > Soak up the spirit of Spain with a taste of these traditional flamenco and folk tunes.
 
-103 songs - 7 hr 34 min
+105 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,12 +101,14 @@
 | [The Flavor](https://open.spotify.com/track/3oxqugZiGg6uIzY4beGaCx) | [Oscar Lopez](https://open.spotify.com/artist/3ELktghnE5zeabnHdNycyh) | [Seduction](https://open.spotify.com/album/7n9XvIP2pVI53sbdEvbaTX) | 4:00 | 2022-01-21 |  |
 | [Tres Amores](https://open.spotify.com/track/7DpDb8R3OxTr3FaiKwhYKB) | [Julian Vigil](https://open.spotify.com/artist/37iIAObpTKbDOZ9BjSrmMv) | [Tres Amores](https://open.spotify.com/album/01HM86e0bYj6oqXdCJ03AN) | 2:25 | 2022-01-21 |  |
 | [Un Jardín De Amor](https://open.spotify.com/track/0tB9K5yKFC9vJPsZsZB17l) | [Graciela Flores](https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ) | [Un Jardín De Amor](https://open.spotify.com/album/3nJ6jn0yfUEl1ic8qnGqiK) | 2:11 | 2022-01-21 |  |
-| [Veras](https://open.spotify.com/track/2INMbTvlLhGs1b1O3EYhiS) | [Alhama, Los](https://open.spotify.com/artist/6Gg623dfCM6CrYGBt0twPX) | [Traditional Gypsy Flamenco](https://open.spotify.com/album/40NaiYoHAvxeLv0hj5BViC) | 2:26 | 2022-01-21 |  |
+| [Veras](https://open.spotify.com/track/2INMbTvlLhGs1b1O3EYhiS) | [Alhama, Los](https://open.spotify.com/artist/6Gg623dfCM6CrYGBt0twPX) | [Traditional Gypsy Flamenco](https://open.spotify.com/album/40NaiYoHAvxeLv0hj5BViC) | 2:26 | 2022-01-21 | 2023-05-13 |
 | [Veras](https://open.spotify.com/track/5lhhRaZZkvzjAWUXKUpay5) | [Domingo Dominguez](https://open.spotify.com/artist/3S1TgZkbTq1XMUoHKzzi8R), [Alhama, Los](https://open.spotify.com/artist/6Gg623dfCM6CrYGBt0twPX) | [Traditional Gypsy Flamenco](https://open.spotify.com/album/4kKheS9UXOnll6Wz1fyyv9) | 2:26 | 2022-01-21 | 2022-07-29 |
+| [Veras](https://open.spotify.com/track/1brVVsBeE4MikwI2nO3ACz) | [Los Alhama](https://open.spotify.com/artist/4wONqd16Nu3igdQL7FQX47) | [Flamenco](https://open.spotify.com/album/6sD5zlDx4I2ViZFv5RRAqX) | 2:25 | 2022-08-30 |  |
 | [Vete de mi vera](https://open.spotify.com/track/14WUytY9xks121FAmVkwxo) | [Grupo Macarena](https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f) | [Grupo Macarena: Gypsy Flamenco Rumba](https://open.spotify.com/album/6Pth02lvYNd5mEAISGGb9r) | 3:44 | 2022-01-21 |  |
 | [Vete de Mi Vera](https://open.spotify.com/track/5nAQQFOetddZYv3RcuRCMA) | [Macarena](https://open.spotify.com/artist/3xQTG5piAM8ZaHHFYzLBD7) | [Discover Flamenco with ARC Music](https://open.spotify.com/album/2a1vFVlI5sUOoZMCFBGWRV) | 3:44 | 2022-08-30 | 2022-11-13 |
 | [Vete de Mí Vera](https://open.spotify.com/track/3CISlF5FhNkOEsmrgGhOsm) | [Grupo Macarena](https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f) | [Rafa El Tachuela: Gypsy Rumba Flamenco](https://open.spotify.com/album/2Ua0wHzned6093d5fKmGBX) | 3:44 | 2022-01-21 | 2022-07-29 |
-| [Y dejame con mi sino](https://open.spotify.com/track/1TpfaYxONeYxEzpm2pIolj) | [Alhama, Los](https://open.spotify.com/artist/6Gg623dfCM6CrYGBt0twPX) | [Traditional Gypsy Flamenco](https://open.spotify.com/album/40NaiYoHAvxeLv0hj5BViC) | 4:14 | 2022-01-21 |  |
+| [Y dejame con mi sino](https://open.spotify.com/track/1TpfaYxONeYxEzpm2pIolj) | [Alhama, Los](https://open.spotify.com/artist/6Gg623dfCM6CrYGBt0twPX) | [Traditional Gypsy Flamenco](https://open.spotify.com/album/40NaiYoHAvxeLv0hj5BViC) | 4:14 | 2022-01-21 | 2023-05-13 |
+| [Y Dejame Con Mi Sino](https://open.spotify.com/track/0cb1tnOvlCReBfsAOPgyUJ) | [Los Alhama](https://open.spotify.com/artist/4wONqd16Nu3igdQL7FQX47) | [Flamenco](https://open.spotify.com/album/6sD5zlDx4I2ViZFv5RRAqX) | 4:22 | 2022-08-30 |  |
 | [Y dejame con mi sino](https://open.spotify.com/track/1IiEYGCYwmUv97hhpcEzvG) | [Mari Moreno Burgos](https://open.spotify.com/artist/5ubXzkE3O46cIwmx0AH2UD), [Alhama, Los](https://open.spotify.com/artist/6Gg623dfCM6CrYGBt0twPX) | [Traditional Gypsy Flamenco](https://open.spotify.com/album/4kKheS9UXOnll6Wz1fyyv9) | 4:14 | 2022-01-21 | 2022-07-29 |
 | [Yerba buena](https://open.spotify.com/track/0fY29wb0ejG5LEXw6StNGC) | [Rafa El Tachuela](https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk), [Pablo Carcamo](https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS), [La Moraima](https://open.spotify.com/artist/4DyCHXN1RPYrHRAYDyce0z), [Hossam Ramzy](https://open.spotify.com/artist/1f52NJ98E9Pz2hJQ8oe4sD) | [Best of Flamenco](https://open.spotify.com/album/2B0L8ZdN9CoYJXjvcWnRfB) | 4:15 | 2022-08-30 | 2022-11-13 |
 | [Yerba buena](https://open.spotify.com/track/2ytD1he4cklb86ZbY6Bnra) | [Rafa El Tachuela](https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk), [Pablo Carcamo](https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS), [La Moraima](https://open.spotify.com/artist/4DyCHXN1RPYrHRAYDyce0z), [Hossam Ramzy](https://open.spotify.com/artist/1f52NJ98E9Pz2hJQ8oe4sD) | [Flamenco](https://open.spotify.com/album/1dWXg3wCJRWfpG5D4Z44m0) | 4:15 | 2022-01-21 |  |

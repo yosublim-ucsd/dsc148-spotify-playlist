@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover: The National",
+  "description": "Current indie tunes from Asia and around the world. Cover: Arlo Parks, Phoebe Bridgers",
   "name": "Indie Shuffle",
   "tracks": [
     {
@@ -342,7 +342,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 264109,
       "name": "A Song About Me",
       "url": "https://open.spotify.com/track/19F9GvHsmoOchHLxiXOEkE"
@@ -714,6 +714,24 @@
       "duration_ms": 398053,
       "name": "Always Together With You",
       "url": "https://open.spotify.com/track/0piWYpm3L2Ss0UOAH0hl4G"
+    },
+    {
+      "album": {
+        "name": "Live at Electric Lady",
+        "url": "https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224946,
+      "name": "Amoeba - Recorded At Electric Lady Studios",
+      "url": "https://open.spotify.com/track/04FtOyX3Gb1XPDiuioA3cN"
     },
     {
       "album": {
@@ -2156,7 +2174,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 193373,
       "name": "Campanita",
       "url": "https://open.spotify.com/track/0NreA5b6Mmd56S7JO2eFAU"
@@ -2232,7 +2250,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 314520,
       "name": "Candy Necklace (feat. Jon Batiste)",
       "url": "https://open.spotify.com/track/3MlEryrxCKZkcfX18ZLX96"
@@ -3234,7 +3252,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 145059,
       "name": "Dare Me",
       "url": "https://open.spotify.com/track/6uThQ2RC0Vn9XoaWNfmBWl"
@@ -3440,7 +3458,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 246750,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4eD5EYgHx2HJ6OKEduR8dc"
@@ -4216,6 +4234,24 @@
       "duration_ms": 183114,
       "name": "Eraser",
       "url": "https://open.spotify.com/track/1JNVs1DgzDKcL83wiXjQMv"
+    },
+    {
+      "album": {
+        "name": "Escape From The Killer",
+        "url": "https://open.spotify.com/album/3f8J1FJdPioQfUEG3FL2PG"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206524,
+      "name": "Escape From The Killer 2008",
+      "url": "https://open.spotify.com/track/0E3C9ry5VM5YqCZLdcE0Fj"
     },
     {
       "album": {
@@ -5248,6 +5284,24 @@
       "duration_ms": 222911,
       "name": "Frisco",
       "url": "https://open.spotify.com/track/1cU4jWWFTAiclPWyD3X2KP"
+    },
+    {
+      "album": {
+        "name": "From The Start",
+        "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169573,
+      "name": "From The Start",
+      "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
     },
     {
       "album": {
@@ -6796,7 +6850,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 179750,
       "name": "I Don't Wanna",
       "url": "https://open.spotify.com/track/2a6e6wgk47p5ZKfiRsfo1D"
@@ -7196,7 +7250,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 229203,
       "name": "Impurities",
       "url": "https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M"
@@ -7258,6 +7312,32 @@
       "duration_ms": 102500,
       "name": "IN THE DOG HOUSE",
       "url": "https://open.spotify.com/track/4x9Yt0EnOEKRs2cdSJwSzN"
+    },
+    {
+      "album": {
+        "name": "Random Access Memories (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4mAhdh996uW5SnnFKXUmC0"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "name": "Julian Casablancas",
+          "url": "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
+        },
+        {
+          "name": "The Voidz",
+          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239213,
+      "name": "Infinity Repeating (2013 Demo) [feat. Julian Casablancas+The Voidz]",
+      "url": "https://open.spotify.com/track/4r4fX4NZIqVIhGyDvERp0l"
     },
     {
       "album": {
@@ -8932,7 +9012,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 156857,
       "name": "midnight rendezvous",
       "url": "https://open.spotify.com/track/6gVIrj4H3rmXYZnFXxtEl3"
@@ -10057,6 +10137,24 @@
     },
     {
       "album": {
+        "name": "NYE",
+        "url": "https://open.spotify.com/album/0xIg9hAbN6BYXXoEVoMwqX"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190664,
+      "name": "NYE",
+      "url": "https://open.spotify.com/track/5VWtw1qkaq1lBsgY2lLhNo"
+    },
+    {
+      "album": {
         "name": "10 Tracks to Echo in the Dark",
         "url": "https://open.spotify.com/album/5qVcQzxnSthvOT7OOIXDdH"
       },
@@ -10217,6 +10315,24 @@
     },
     {
       "album": {
+        "name": "Melodies on Hiatus - Part 1",
+        "url": "https://open.spotify.com/album/06NbI8mRE1dqOm2zP99kBe"
+      },
+      "artists": [
+        {
+          "name": "Albert Hammond Jr",
+          "url": "https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213948,
+      "name": "Old Man",
+      "url": "https://open.spotify.com/track/0twq6M40aU5NBb76xdhyJa"
+    },
+    {
+      "album": {
         "name": "omw",
         "url": "https://open.spotify.com/album/7gjkHNt9Vc71PPXPp5Pja0"
       },
@@ -10268,7 +10384,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 141106,
       "name": "On and Ever Onward (Live from Housing Works 2009)",
       "url": "https://open.spotify.com/track/2u1ImCvsSyDhNBSH8nLrOj"
@@ -10851,6 +10967,28 @@
     },
     {
       "album": {
+        "name": "Pegasus (ft. Phoebe Bridgers)",
+        "url": "https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186836,
+      "name": "Pegasus (ft. Phoebe Bridgers)",
+      "url": "https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh"
+    },
+    {
+      "album": {
         "name": "Pendant",
         "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
       },
@@ -11284,7 +11422,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 185120,
       "name": "Psychos",
       "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
@@ -12287,6 +12425,24 @@
     },
     {
       "album": {
+        "name": "Seconds",
+        "url": "https://open.spotify.com/album/5lNnIDwtLluGqbDmgD62Nn"
+      },
+      "artists": [
+        {
+          "name": "Beach Fossils",
+          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187925,
+      "name": "Seconds",
+      "url": "https://open.spotify.com/track/1tObJybm96JPKfR56vTh7m"
+    },
+    {
+      "album": {
         "name": "See you Soon",
         "url": "https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG"
       },
@@ -13167,6 +13323,24 @@
     },
     {
       "album": {
+        "name": "Stationary Bike",
+        "url": "https://open.spotify.com/album/0iTtw3q2b3w5krUub6W9Ed"
+      },
+      "artists": [
+        {
+          "name": "The Purest Blue",
+          "url": "https://open.spotify.com/artist/4gLOH9QcvymfFLcsiPuf7G"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166187,
+      "name": "Stationary Bike",
+      "url": "https://open.spotify.com/track/6VRvc0MJnGEoxBJJE81iyM"
+    },
+    {
+      "album": {
         "name": "Opening The Door",
         "url": "https://open.spotify.com/album/7qWVvcaFH5Wlv0vxBXMOUQ"
       },
@@ -13425,6 +13599,24 @@
     },
     {
       "album": {
+        "name": "stuck in san antonio",
+        "url": "https://open.spotify.com/album/5i6JV5RaAEXYbwQx3si9Mo"
+      },
+      "artists": [
+        {
+          "name": "a kid named rufus",
+          "url": "https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153873,
+      "name": "stuck in san antonio",
+      "url": "https://open.spotify.com/track/3Pw3s89FOoJarpM4Zl50VY"
+    },
+    {
+      "album": {
         "name": "Subway Station Revelation",
         "url": "https://open.spotify.com/album/3xGvbbfdc5oiEKlzh4co04"
       },
@@ -13458,6 +13650,24 @@
       "duration_ms": 205046,
       "name": "Sucks To Be Human",
       "url": "https://open.spotify.com/track/0Rn2cteUVGOabK55rQVN3Z"
+    },
+    {
+      "album": {
+        "name": "sulky baby",
+        "url": "https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278998,
+      "name": "sulky baby",
+      "url": "https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH"
     },
     {
       "album": {
@@ -13802,6 +14012,24 @@
       "duration_ms": 267093,
       "name": "Talk to Me, Talk to Me",
       "url": "https://open.spotify.com/track/3tY8hVWV5QnulkKVSm7LjQ"
+    },
+    {
+      "album": {
+        "name": "Tears can be so soft",
+        "url": "https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311928,
+      "name": "Tears can be so soft",
+      "url": "https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9"
     },
     {
       "album": {
@@ -14708,7 +14936,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 347713,
       "name": "True love (feat. 070 Shake)",
       "url": "https://open.spotify.com/track/6PdUV3DjQAT4Hk9Hz7UNZ5"
@@ -14744,7 +14972,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 586506,
       "name": "Turbines/Pigs - Live at Bush Hall",
       "url": "https://open.spotify.com/track/626DiLKaEAoQfJ7YLdjcaF"

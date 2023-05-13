@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-337 songs - 20 hr 17 min
+338 songs - 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,8 @@
 | [Rules](https://open.spotify.com/track/6x108QFQh3AP7wzQt6zqxY) | [TAIKING](https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011), [Tao Tsuchiya](https://open.spotify.com/artist/078uTew0ffZM8zKSYdZsDQ) | [Rules](https://open.spotify.com/album/0zRsI6dnQZsxKZvbNdM7fn) | 3:35 | 2022-10-20 | 2022-11-30 |
 | [S.O.L](https://open.spotify.com/track/0g39c1wm3U7lTBTjmXF5II) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Olivier St.Louis](https://open.spotify.com/artist/0HHMWJfJPFFuZqnv2rSsyI) | [BIB10](https://open.spotify.com/album/0NBqhQmnLKNHvrB0a3jrK7) | 5:51 | 2022-10-20 | 2022-12-09 |
 | [Season](https://open.spotify.com/track/28H2R5DE6eVKIBBYvGbKRg) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Season](https://open.spotify.com/album/4Bf2U02MHfbI5QwpdID98M) | 3:28 | 2023-04-18 | 2023-04-20 |
-| [Season](https://open.spotify.com/track/5mIJzqBwYM3SSVuCCCC3gg) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Season](https://open.spotify.com/album/0oNra3mg2Pon6DWljxx8WR) | 3:28 | 2023-04-18 |  |
+| [Season](https://open.spotify.com/track/59ZJXXQ0VeLtBK5EfW0KLJ) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O) | 3:28 | 2023-05-11 |  |
+| [Season](https://open.spotify.com/track/5mIJzqBwYM3SSVuCCCC3gg) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Season](https://open.spotify.com/album/0oNra3mg2Pon6DWljxx8WR) | 3:28 | 2023-04-18 | 2023-05-13 |
 | [Secrets \(Your Fire\)](https://open.spotify.com/track/3tgHGoK5ItQv2q2yqggxlb) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 4:05 | 2022-10-20 | 2023-01-20 |
 | [See you Soon](https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [See you Soon](https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG) | 3:26 | 2022-11-29 | 2022-12-24 |
 | [Seed](https://open.spotify.com/track/57oVY3KrjM7DNiMwMcPCDl) | [Mime](https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Bloom](https://open.spotify.com/album/7q37XpOyHaEbmsmGJpFrCi) | 4:08 | 2022-12-06 | 2023-03-08 |

@@ -1,12 +1,12 @@
 {
   "description": "Get pumped, feel the vibe and get ready for the swell coming in.",
-  "num_followers": 17294,
+  "num_followers": 17293,
   "original_name": "Sun & Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzExMmQxZGRkMzkzNzgwMjA0MjlkYzQ4MWVhMTA5NTc2NjcyNjQ3",
+  "snapshot_id": "MCxmODczYzk1MzM4OTQ0MTMwN2Y5ZjY2Njk5OWY1MDczM2VhMmNjMzAy",
   "tracks": [
     {
       "added_at": "2021-04-09 06:19:31",
@@ -331,22 +331,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Ten",
-        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 161893,
-      "name": "Oceans",
-      "url": "https://open.spotify.com/track/0LBmvPJYmtEJ7kkWvc3kbT"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Allah-Las",
         "url": "https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0"
       },
@@ -363,18 +347,34 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Oshin",
-        "url": "https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh"
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
       },
       "artists": [
         {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 222973,
-      "name": "Doused",
-      "url": "https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx"
+      "duration_ms": 161893,
+      "name": "Oceans",
+      "url": "https://open.spotify.com/track/0LBmvPJYmtEJ7kkWvc3kbT"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "The Dream Is Over",
+        "url": "https://open.spotify.com/album/3l94HZBpKFTn1plZ1WWQPf"
+      },
+      "artists": [
+        {
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+        }
+      ],
+      "duration_ms": 148893,
+      "name": "DVP",
+      "url": "https://open.spotify.com/track/0QpST3fcy7z1xcdFGFTk3D"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -395,18 +395,18 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "The Dream Is Over",
-        "url": "https://open.spotify.com/album/3l94HZBpKFTn1plZ1WWQPf"
+        "name": "Oshin",
+        "url": "https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh"
       },
       "artists": [
         {
-          "name": "PUP",
-          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
         }
       ],
-      "duration_ms": 148893,
-      "name": "DVP",
-      "url": "https://open.spotify.com/track/0QpST3fcy7z1xcdFGFTk3D"
+      "duration_ms": 222973,
+      "name": "Doused",
+      "url": "https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx"
     },
     {
       "added_at": "2022-03-23 15:48:35",
@@ -523,6 +523,22 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
+        "name": "Lullabies To Paralyze",
+        "url": "https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 114386,
+      "name": "Medication",
+      "url": "https://open.spotify.com/track/3HrXk6mPsz9PdLcWEq7btE"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
         "name": "The Drums",
         "url": "https://open.spotify.com/album/3pfNU5FIwyvTjtxxtQXK9l"
       },
@@ -539,22 +555,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "FIDLAR",
-        "url": "https://open.spotify.com/album/33D9P5ywquFzDqx30JxCxs"
-      },
-      "artists": [
-        {
-          "name": "FIDLAR",
-          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
-        }
-      ],
-      "duration_ms": 134026,
-      "name": "No Waves",
-      "url": "https://open.spotify.com/track/5vw6mb5UUdA3vVQfcFN8yA"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Sundown Syndrome / Remember Me",
         "url": "https://open.spotify.com/album/58rVVNfX3nGIMcaC1Zf2qe"
       },
@@ -567,6 +567,22 @@
       "duration_ms": 261040,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/48HSUrDZQPVeWuVckLb902"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "FIDLAR",
+        "url": "https://open.spotify.com/album/33D9P5ywquFzDqx30JxCxs"
+      },
+      "artists": [
+        {
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+        }
+      ],
+      "duration_ms": 134026,
+      "name": "No Waves",
+      "url": "https://open.spotify.com/track/5vw6mb5UUdA3vVQfcFN8yA"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -603,22 +619,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Lullabies To Paralyze",
-        "url": "https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 114386,
-      "name": "Medication",
-      "url": "https://open.spotify.com/track/3HrXk6mPsz9PdLcWEq7btE"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Bass Drum of Death",
         "url": "https://open.spotify.com/album/5CZ0hRrtBQifqQ1GhHuNgH"
       },
@@ -635,22 +635,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Abysmal Thoughts",
-        "url": "https://open.spotify.com/album/2dfRhvbhgRTB5wBjI1mihw"
-      },
-      "artists": [
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        }
-      ],
-      "duration_ms": 228146,
-      "name": "Blood Under My Belt",
-      "url": "https://open.spotify.com/track/5Nhsz5O0DIS5Mh5E3tlBbp"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Good Bad Not Evil",
         "url": "https://open.spotify.com/album/7G1IjybnBzcJvYntqY8q7A"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 148306,
       "name": "Veni Vidi Vici",
       "url": "https://open.spotify.com/track/5BQ7Txrx41vbbUvQBuKNuP"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Abysmal Thoughts",
+        "url": "https://open.spotify.com/album/2dfRhvbhgRTB5wBjI1mihw"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "duration_ms": 228146,
+      "name": "Blood Under My Belt",
+      "url": "https://open.spotify.com/track/5Nhsz5O0DIS5Mh5E3tlBbp"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -695,22 +695,6 @@
       "duration_ms": 412040,
       "name": "The Dream",
       "url": "https://open.spotify.com/track/1JdweBSkJMLjnNW6LzmXJ8"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
-        "name": "Badillac",
-        "url": "https://open.spotify.com/album/5GgsYoD0QMQyCaJ1MhEtPz"
-      },
-      "artists": [
-        {
-          "name": "Together Pangea",
-          "url": "https://open.spotify.com/artist/29q1axQPERERxUzqufXMqB"
-        }
-      ],
-      "duration_ms": 147880,
-      "name": "Badillac",
-      "url": "https://open.spotify.com/track/5tQkgG7unCiJxaOFp5yc5O"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -751,6 +735,22 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
+        "name": "Badillac",
+        "url": "https://open.spotify.com/album/5GgsYoD0QMQyCaJ1MhEtPz"
+      },
+      "artists": [
+        {
+          "name": "Together Pangea",
+          "url": "https://open.spotify.com/artist/29q1axQPERERxUzqufXMqB"
+        }
+      ],
+      "duration_ms": 147880,
+      "name": "Badillac",
+      "url": "https://open.spotify.com/track/5tQkgG7unCiJxaOFp5yc5O"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
         "name": "Onion",
         "url": "https://open.spotify.com/album/33q5Lnqw87FHgKa2F6YB5W"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Get It On: The Collection",
-        "url": "https://open.spotify.com/album/6EtPzgRUvsv5L0kL0dn4kx"
-      },
-      "artists": [
-        {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
-        }
-      ],
-      "duration_ms": 131986,
-      "name": "Ride A White Swan",
-      "url": "https://open.spotify.com/track/4JzqDlNhjxxZ3oQcfXhS6q"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Loopholes",
         "url": "https://open.spotify.com/album/3Jwlm2yPSjIld9S1sCNw4G"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 190284,
       "name": "Space Cadet",
       "url": "https://open.spotify.com/track/3bkP8LtaC6fWnBPkuqDlQa"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Get It On: The Collection",
+        "url": "https://open.spotify.com/album/6EtPzgRUvsv5L0kL0dn4kx"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "duration_ms": 131986,
+      "name": "Ride A White Swan",
+      "url": "https://open.spotify.com/track/4JzqDlNhjxxZ3oQcfXhS6q"
     },
     {
       "added_at": "2021-04-09 06:19:31",

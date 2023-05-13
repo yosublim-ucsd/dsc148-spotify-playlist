@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: lighthearted \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,060 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,113 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [Apology From Hades](https://open.spotify.com/track/1z8OSNeSVGqlJ3jiqKLc3R) | [Mother Juniper](https://open.spotify.com/artist/0shJpWV36dxbXdniaiXDm8) | [Apology From Hades](https://open.spotify.com/album/5Tbe6BM9sHpbI1cJ5vHOu1) | 2:33 |
 | 100 | [If That Ocean's Still Blue](https://open.spotify.com/track/6KzFvsUBJTyuOsnxzwwjzj) | [Ellie Turner](https://open.spotify.com/artist/1bPQDG6agXz5IWtuUCeJeg) | [When The Trouble's All Done](https://open.spotify.com/album/29hwr6aTkvh1Oq2cXRI2aa) | 4:14 |
 
-Snapshot ID: `MCxmYzZlNDY4ZDg5ZGY1MmFmZWQ1MDkwZDI2MjgzMjVjMWM5MGJlNjRm`
+Snapshot ID: `MCw2Nzc2ZDE1MWVmZmI0NDlmZjg4YTQ0MGNkZDliNGM5NDQxYTVmMDJi`

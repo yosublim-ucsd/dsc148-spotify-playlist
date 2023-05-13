@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "Alcohallelujah",
+        "url": "https://open.spotify.com/album/0BfroDedjttVda68iUY5ia"
+      },
+      "artists": [
+        {
+          "name": "Lukas Nelson and Promise of the Real",
+          "url": "https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213213,
+      "name": "Alcohallelujah",
+      "url": "https://open.spotify.com/track/0K6dmuthM56bETaZY10pbk"
+    },
+    {
+      "album": {
         "name": "All I Got",
         "url": "https://open.spotify.com/album/3m1TVcg4p3VwpRuyt02VSM"
       },
@@ -3190,7 +3208,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 204800,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk"
@@ -4015,6 +4033,28 @@
     },
     {
       "album": {
+        "name": "Killing Me (feat. Hillary Lindsey)",
+        "url": "https://open.spotify.com/album/0mzoK1Yw7i92QboRvlRcWo"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        },
+        {
+          "name": "Hillary Lindsey",
+          "url": "https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167437,
+      "name": "Killing Me (feat. Hillary Lindsey)",
+      "url": "https://open.spotify.com/track/3fAZ38PiyZaozDD6zZcNyN"
+    },
+    {
+      "album": {
         "name": "Year Of The Dark Horse",
         "url": "https://open.spotify.com/album/0HLAkdOg4mPRmdVaIdTK11"
       },
@@ -4316,7 +4356,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 259077,
       "name": "Long, Long Year",
       "url": "https://open.spotify.com/track/0pLsmdx3085wYk87iU2A8T"
@@ -4410,6 +4450,24 @@
       "duration_ms": 227346,
       "name": "Low Dog Blues",
       "url": "https://open.spotify.com/track/07Xkk56uB6HfGekcA5N8wn"
+    },
+    {
+      "album": {
+        "name": "Lowland Trail",
+        "url": "https://open.spotify.com/album/74gyHiDd8nPsUX9P9qlQk0"
+      },
+      "artists": [
+        {
+          "name": "Margo Cilker",
+          "url": "https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144600,
+      "name": "Lowland Trail",
+      "url": "https://open.spotify.com/track/7y2QBn2C3LiQ0NBrreutRs"
     },
     {
       "album": {
@@ -4514,7 +4572,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 163095,
       "name": "Man's Gotta Eat",
       "url": "https://open.spotify.com/track/2USfmX6vhiEofB8i1I5HoA"
@@ -4952,6 +5010,24 @@
       "duration_ms": 224680,
       "name": "Nobody's Sweetheart",
       "url": "https://open.spotify.com/track/2vJihPQKmsrSYRKtLwRlES"
+    },
+    {
+      "album": {
+        "name": "Northwest",
+        "url": "https://open.spotify.com/album/7sfdAh5oRQDPknCjqS3Eqt"
+      },
+      "artists": [
+        {
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285549,
+      "name": "Northwest",
+      "url": "https://open.spotify.com/track/26XedTngu1tjJkwoHqQiC1"
     },
     {
       "album": {
@@ -8206,7 +8282,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 179013,
       "name": "Years",
       "url": "https://open.spotify.com/track/6BSPlPR4Pxz6WnUIBlrWWQ"
@@ -8352,6 +8428,24 @@
       "duration_ms": 309746,
       "name": "You're Not Alone [Feat. Brandi Carlile]",
       "url": "https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16"
+    },
+    {
+      "album": {
+        "name": "You're the One",
+        "url": "https://open.spotify.com/album/6RBTZpN4KkTLDbPdSUYRPJ"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205040,
+      "name": "You're the One",
+      "url": "https://open.spotify.com/track/2YEN8LRUuTViNyCGeUQukS"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "A collection of the biggest soul tracks from the 1970s.",
-  "num_followers": 1413098,
+  "num_followers": 1413565,
   "original_name": "70s Soul Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2RhMWI0MTBmODc0ZTJmMWRiMzBiYjkwMmFkZjM3ZjA2MTUwMTk5",
+  "snapshot_id": "MCxlMGI3NWUxZDAxMzExN2YxNmE5MTVjYjZhMTQyMjFmNDQwOWE3YTg2",
   "tracks": [
     {
       "added_at": "2022-02-04 15:57:42",
@@ -615,18 +615,18 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Life Is A Song Worth Singing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+        "name": "I've Got So Much To Give",
+        "url": "https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI"
       },
       "artists": [
         {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 296880,
-      "name": "When Somebody Loves You Back",
-      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
+      "duration_ms": 431506,
+      "name": "I'm Gonna Love You Just A Little More Baby",
+      "url": "https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -647,18 +647,18 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "I've Got So Much To Give",
-        "url": "https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI"
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
       },
       "artists": [
         {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 431506,
-      "name": "I'm Gonna Love You Just A Little More Baby",
-      "url": "https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w"
+      "duration_ms": 296880,
+      "name": "When Somebody Loves You Back",
+      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 325493,
+      "name": "Close the Door",
+      "url": "https://open.spotify.com/track/53m3UkzcaQVbB2DENsrJiK"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
         "name": "Be Thankful for What You Got",
         "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 251560,
       "name": "Supernatural Thing, Pt. 1",
       "url": "https://open.spotify.com/track/62dhSmROhppvuWyeCeC730"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "Life Is A Song Worth Singing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 325493,
-      "name": "Close the Door",
-      "url": "https://open.spotify.com/track/53m3UkzcaQVbB2DENsrJiK"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Think (About It)",
-        "url": "https://open.spotify.com/album/2197TH5e4lrSiZvYUPh3YE"
-      },
-      "artists": [
-        {
-          "name": "Lyn Collins",
-          "url": "https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN"
-        }
-      ],
-      "duration_ms": 204160,
-      "name": "Think (About It)",
-      "url": "https://open.spotify.com/track/1kG2PZ8geznbDA8I6iWeDi"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "Superfly (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 207653,
       "name": "Thin Line Between Love and Hate",
       "url": "https://open.spotify.com/track/6uDRZi9MOTtkuNUHMfREib"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Think (About It)",
+        "url": "https://open.spotify.com/album/2197TH5e4lrSiZvYUPh3YE"
+      },
+      "artists": [
+        {
+          "name": "Lyn Collins",
+          "url": "https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN"
+        }
+      ],
+      "duration_ms": 204160,
+      "name": "Think (About It)",
+      "url": "https://open.spotify.com/track/1kG2PZ8geznbDA8I6iWeDi"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Hang On In There Baby",
-        "url": "https://open.spotify.com/album/6eoKjEg7UGE9ZeT3S3Q6Ix"
-      },
-      "artists": [
-        {
-          "name": "Johnny Bristol",
-          "url": "https://open.spotify.com/artist/0F4yfY9manxJrgsfwbXdZa"
-        }
-      ],
-      "duration_ms": 233720,
-      "name": "Hang On In There Baby",
-      "url": "https://open.spotify.com/track/4RYNJVKgNpwSZguajVfsef"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "The Very Best Of The Dramatics",
         "url": "https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7"
       },
@@ -1011,6 +995,22 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
+        "name": "Hang On In There Baby",
+        "url": "https://open.spotify.com/album/6eoKjEg7UGE9ZeT3S3Q6Ix"
+      },
+      "artists": [
+        {
+          "name": "Johnny Bristol",
+          "url": "https://open.spotify.com/artist/0F4yfY9manxJrgsfwbXdZa"
+        }
+      ],
+      "duration_ms": 233720,
+      "name": "Hang On In There Baby",
+      "url": "https://open.spotify.com/track/4RYNJVKgNpwSZguajVfsef"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
         "name": "Choice Cuts",
         "url": "https://open.spotify.com/album/6omfXjVxM6zIroFzyHjNkY"
       },
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Tell It Like It Is",
-        "url": "https://open.spotify.com/album/01z00nqcQU6ffZVfx0SIeg"
-      },
-      "artists": [
-        {
-          "name": "Aaron Neville",
-          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
-        }
-      ],
-      "duration_ms": 249226,
-      "name": "Hercules",
-      "url": "https://open.spotify.com/track/0INkcALLD8NAM6tbn4qbMj"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "George McCrae - Disco Pioneer",
         "url": "https://open.spotify.com/album/3qJGzbhk63pzwqzpTr0bxt"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 200053,
       "name": "Rock Your Baby",
       "url": "https://open.spotify.com/track/16KwF7IrKHTVTitUKH58g3"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Tell It Like It Is",
+        "url": "https://open.spotify.com/album/01z00nqcQU6ffZVfx0SIeg"
+      },
+      "artists": [
+        {
+          "name": "Aaron Neville",
+          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
+        }
+      ],
+      "duration_ms": 249226,
+      "name": "Hercules",
+      "url": "https://open.spotify.com/track/0INkcALLD8NAM6tbn4qbMj"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "The Best Of Bobby Womack - The Soul Years",
-        "url": "https://open.spotify.com/album/6aBN9OWwAcB49LWlI95ekd"
-      },
-      "artists": [
-        {
-          "name": "Bobby Womack",
-          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
-        }
-      ],
-      "duration_ms": 210453,
-      "name": "Woman's Gotta Have It",
-      "url": "https://open.spotify.com/track/20HCbY9qPpi1H2pP2MRUWy"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "Superfly: Deluxe 25th Anniversary Edition",
         "url": "https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 329466,
       "name": "Freddie's Dead",
       "url": "https://open.spotify.com/track/2ouFIPC3O1HNBcVTw1d9AN"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "The Best Of Bobby Womack - The Soul Years",
+        "url": "https://open.spotify.com/album/6aBN9OWwAcB49LWlI95ekd"
+      },
+      "artists": [
+        {
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
+        }
+      ],
+      "duration_ms": 210453,
+      "name": "Woman's Gotta Have It",
+      "url": "https://open.spotify.com/track/20HCbY9qPpi1H2pP2MRUWy"
     },
     {
       "added_at": "2022-02-04 15:57:42",

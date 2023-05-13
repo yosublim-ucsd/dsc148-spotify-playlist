@@ -4,7 +4,7 @@
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. Cover: Ado
 
-75 songs - 4 hr 22 min
+77 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Buckingham](https://open.spotify.com/track/7uX2DpFsKiitlAYGLSGlci) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Neon](https://open.spotify.com/album/2B5aKWrCrb8XNAtufGyxm8) | 3:41 | 2023-05-09 |  |
 | [CANDY CANDY \- Moe Shop Remix](https://open.spotify.com/track/28d5jK6lX3Mipdta6dQWjJ) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP), [Moe Shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ) | [CANDY CANDY \(Moe Shop Remix\)](https://open.spotify.com/album/7rNO0ev82wqyzSZ8c9PAUG) | 4:45 | 2023-05-09 |  |
 | [Comedy](https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Comedy](https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn) | 3:50 | 2023-05-09 |  |
-| [Day After Day feat\. Mei Takahashi](https://open.spotify.com/track/5b03vF7Qyc70kDJHiQZ8L7) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [髙橋芽以](https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf) | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/album/7ridH3ntXiiWfC2jA6uqb3) | 4:43 | 2023-05-09 |  |
+| [Day After Day feat\. Mei Takahashi](https://open.spotify.com/track/1fHXLiqPG6su57eAlbnjVO) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [髙橋芽以](https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf) | [FINE LINE](https://open.spotify.com/album/37XJRNnSBngM8e8Ejp3oQ7) | 4:43 | 2023-05-09 |  |
+| [Day After Day feat\. Mei Takahashi](https://open.spotify.com/track/5b03vF7Qyc70kDJHiQZ8L7) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [髙橋芽以](https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf) | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/album/7ridH3ntXiiWfC2jA6uqb3) | 4:43 | 2023-05-09 | 2023-05-13 |
 | [de messiah](https://open.spotify.com/track/5HPkVEqdGS65rqvX4a5UFo) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [Welcome to MY WONDERLAND](https://open.spotify.com/album/0yReU2G889wJ9bJmNnGhHb) | 3:47 | 2023-05-09 |  |
 | [Dodonpa](https://open.spotify.com/track/2AndL1gnrkjtzoxIy2AG8Y) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Candy Racer](https://open.spotify.com/album/1i5J264nc9xYsroDS3FTHx) | 4:37 | 2023-05-09 |  |
 | [Dogs and Ducks](https://open.spotify.com/track/3Xmkf8BENKXeHv38sUfUa6) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [上出来](https://open.spotify.com/album/1nUwhyn08TSd7Ibg6EWPmv) | 2:41 | 2023-05-09 |  |
@@ -63,7 +64,8 @@
 | [TONDEMO\-WONDERZ](https://open.spotify.com/track/4hrhv3LGlhO0qK21zWeHgW) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1) | [TONDEMO\-WONDERZ](https://open.spotify.com/album/0E3hZEBiEMetjMHCo93BKk) | 3:15 | 2023-05-09 |  |
 | [Under the skin](https://open.spotify.com/track/14OcSHjrsHoZBJHwaYefH7) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Under the skin](https://open.spotify.com/album/0UVj9I0OG2Ti1QjHVRpO2K) | 3:11 | 2023-05-09 |  |
 | [Unleash!!!!!](https://open.spotify.com/track/5Ti8I2TZIE0CM625nT9e0H) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:10 | 2023-05-09 |  |
-| [Venus Flytrap feat\. Chiaki Sato](https://open.spotify.com/track/1YXrGKtu8iNnBl1tL6EvdH) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [Venus Flytrap feat\. Chiaki Sato](https://open.spotify.com/album/0RjeR3PLe9fCu7G3bQh96v) | 3:45 | 2023-05-09 |  |
+| [Venus Flytrap feat\. Chiaki Sato](https://open.spotify.com/track/51tgAkF9HE14FIR4iYN8K3) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [The Lover](https://open.spotify.com/album/0QCyj1UlVJQ91sFNqHx9nc) | 3:45 | 2023-05-09 |  |
+| [Venus Flytrap feat\. Chiaki Sato](https://open.spotify.com/track/1YXrGKtu8iNnBl1tL6EvdH) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [Venus Flytrap feat\. Chiaki Sato](https://open.spotify.com/album/0RjeR3PLe9fCu7G3bQh96v) | 3:45 | 2023-05-09 | 2023-05-13 |
 | [W●RK](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [W●RK](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 | 2023-05-09 |  |
 | [Zurukunai?](https://open.spotify.com/track/5sfozeR3LgwkGWWUT5TmiH) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Zurukunai?](https://open.spotify.com/album/4wJr6bbq5dLHT5uSF6ZSrA) | 3:28 | 2023-05-09 |  |
 | [いちごミルク](https://open.spotify.com/track/7Inby7iP2ikZhnfeISXFZO) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [いちごミルク](https://open.spotify.com/album/6FLvaoPDHbhvl3bYfLpLa5) | 2:37 | 2023-05-09 |  |

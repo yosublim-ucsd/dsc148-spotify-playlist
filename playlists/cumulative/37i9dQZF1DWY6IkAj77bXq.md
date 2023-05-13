@@ -4,7 +4,7 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-150 songs - 7 hr 27 min
+151 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Moving Slow](https://open.spotify.com/track/479TAluzixIctz5AiwnrA1) | [Russel Jace](https://open.spotify.com/artist/6GwgVH86t9xt98l4RSoMbP) | [Moving Slow](https://open.spotify.com/album/626tC0NRDHsPdPBB8hrKLc) | 2:48 | 2022-11-22 |  |
 | [My Horizon](https://open.spotify.com/track/0IeAKzoK78YpLGWn8wCQV8) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [One Sense](https://open.spotify.com/album/466ShS1EJQJcwI63omgHJT) | 3:05 | 2022-07-05 |  |
 | [Nature of Life](https://open.spotify.com/track/4EaHb0wumMJODjK2vsoqTI) | [Ozo Nakuru](https://open.spotify.com/artist/2HhQt5oH01WtYFmwM2yVo7) | [Nature of Life](https://open.spotify.com/album/6l6qwBSjrCfVaNrJE4r6DE) | 2:39 | 2022-10-14 |  |
+| [Nature's Embrace](https://open.spotify.com/track/7iASF4SyBJIHg7PM3rEpTR) | [David Tobin](https://open.spotify.com/artist/37WB1QgTG301CGchCHTQ5O), [Jeff Meegan](https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8) | [Ambient Sleep Bliss](https://open.spotify.com/album/6N4hsBasKsW1LAuv2bPKNp) | 4:12 | 2023-04-28 |  |
 | [Nature's Embrace](https://open.spotify.com/track/5m3jRldCUrybs5M95MMoRb) | [Meditación Música Ambiente](https://open.spotify.com/artist/5LJBMRcPlMWzJeCILYD48q) | [Natural Essentials](https://open.spotify.com/album/3wNDHjotE7OuXmTmjXlmyS) | 4:12 | 2022-07-19 | 2022-07-29 |
 | [No Stress](https://open.spotify.com/track/4x1rCoArznEyfhBqDKgG98) | [Sleeping Culture](https://open.spotify.com/artist/6wIHPaNyPH048cNyeskFH3), [Quiet Music Academy](https://open.spotify.com/artist/5tcoDKPUGotuCohyrYXvJ9) | [Sleep Better Tonight: Feeling Rested and Staying Healthy](https://open.spotify.com/album/2wXBlv9PFC9Mkw4DsuLR9I) | 5:39 | 2022-07-05 | 2022-07-29 |
 | [Oh so Quiet](https://open.spotify.com/track/4VRWsEwCyHInmiS7AV0hn9) | [The Silent Ocean](https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN) | [Oh so Quiet](https://open.spotify.com/album/7hA3Z4F90GoBPxsNz8DZj4) | 3:10 | 2022-07-05 |  |
@@ -123,7 +124,7 @@
 | [Shaasvat](https://open.spotify.com/track/3simwgVNK0SqFOdQ7JjL0J) | [Mishika](https://open.spotify.com/artist/79pwbuZeN20i17nbhG3Qgr) | [Shaasvat](https://open.spotify.com/album/4CDm3GVljjGXaJr0k0pFzk) | 3:25 | 2022-07-05 | 2022-11-12 |
 | [Shasta \- Meditation Mix](https://open.spotify.com/track/7pOo8zgxmkZVMEO0B4fH4Y) | [Dreemy](https://open.spotify.com/artist/7Hh9phP3DEcbwxipzObxum) | [Paradiso \(Meditation Mix\)](https://open.spotify.com/album/2NWm5EjnnTktWmN2pI87XH) | 3:01 | 2022-07-05 |  |
 | [Silent Waters](https://open.spotify.com/track/7pu8jpGVUIYiMXfgwXRXXM) | [The Silent Ocean](https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN) | [Silent Waters](https://open.spotify.com/album/1G9Y1TI9ijJjN83ARckHtT) | 2:24 | 2022-07-05 |  |
-| [Sleep Drifting](https://open.spotify.com/track/1PTo6XB9bsMpJq0bCxvVEv) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Sleep Drifting](https://open.spotify.com/album/3baXMgcjcVR8e2sujbNbXN) | 2:51 | 2022-07-19 |  |
+| [Sleep Drifting](https://open.spotify.com/track/1PTo6XB9bsMpJq0bCxvVEv) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Sleep Drifting](https://open.spotify.com/album/3baXMgcjcVR8e2sujbNbXN) | 2:51 | 2022-07-19 | 2023-05-13 |
 | [Sleep Sequence](https://open.spotify.com/track/10m4p8Qb6IeRacfFGyN4Id) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Sleep Sequence](https://open.spotify.com/album/5SdZ0RNRN07ltZd0fPjBGm) | 3:23 | 2022-07-19 | 2023-05-11 |
 | [Sleep, Heavenly Sleep](https://open.spotify.com/track/1JLHJ9ETGzBV7Ey0IMqAAZ) | [Dreamabout](https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3) | [Sleep, Heavenly Sleep](https://open.spotify.com/album/3LSfBtybYHmwkHFz2GO6rL) | 3:00 | 2022-07-19 |  |
 | [Sleep, Heavenly Sleep](https://open.spotify.com/track/36AM3FkKz49Iic9MkWvGr1) | [Dreamabout](https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3) | [Sleep, Heavenly Sleep](https://open.spotify.com/album/0eOtNnA9eqarEySiZOAeb3) | 3:00 | 2022-07-05 | 2022-07-29 |

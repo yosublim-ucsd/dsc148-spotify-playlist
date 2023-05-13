@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Alan Walker
 
-265 songs - 13 hr 21 min
+267 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Stay With Me](https://open.spotify.com/track/37SZi6cnrAJY0K7Xc8lwqe) | [SPIRIT LINK](https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc), [Swole Sauce](https://open.spotify.com/artist/1Uh145npienV63MZaMLAmT), [Tom The Gaffer](https://open.spotify.com/artist/10RN2BJRsFdGpySIC39RRN) | [Stay With Me](https://open.spotify.com/album/3QksXN9OBPOxeyrBTIZnFt) | 2:45 | 2022-10-20 |  |
 | [Sunrise](https://open.spotify.com/track/5bOYGAj0x8UaqA9GxELXzi) | [Leat'eq](https://open.spotify.com/artist/1iBxtU5394iPOzmot1FDUD) | [Sunrise](https://open.spotify.com/album/0N16seYtml6g0DXWo9Ff25) | 2:25 | 2022-07-05 | 2023-04-28 |
 | [Sunshine](https://open.spotify.com/track/3LcuxzO1gLRhcRZbZJh0hE) | [Gelow](https://open.spotify.com/artist/1XOwklRW1AGECnhcL0lvfj), [BPRTS](https://open.spotify.com/artist/37oLcPpZmGMirasruONASH) | [Sunshine](https://open.spotify.com/album/5yPX9eTafy1WFFtWtIJ1Ak) | 2:40 | 2022-07-21 | 2023-04-28 |
+| [Surrender](https://open.spotify.com/track/54ZWd8JaiBPeKR2DWRyMLs) | [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Surrender](https://open.spotify.com/album/5CXQBoYlUCBZjDuC6z4wd5) | 4:19 | 2023-05-12 |  |
 | [Survive](https://open.spotify.com/track/3GFe0eZOOk3Fzkb902ZRQR) | [Axel Oliver](https://open.spotify.com/artist/32TdmnKAhRkuXvBmUX6dcE), [THEBOYWITHSPEC](https://open.spotify.com/artist/44LgzonzLV7ByKgYY2JKUQ) | [Survive](https://open.spotify.com/album/1swjDa36id38pp4nwoJvTD) | 4:08 | 2022-08-16 | 2023-04-28 |
 | [Sweet](https://open.spotify.com/track/7zheGycYrMgijrwtHEGsu5) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [MAZAN](https://open.spotify.com/artist/0y0mNvcQKUUsbRlOcekXG4) | [Sweet](https://open.spotify.com/album/3JiNug3c3xJbvhIGHzuBcl) | 2:40 | 2022-10-04 | 2023-04-28 |
 | [Symbolism pt\. III](https://open.spotify.com/track/3j9repS7j0ic94QnkmBWow) | [Electro\-Light](https://open.spotify.com/artist/1rpHb27OjM9LHmYm2zjnk5) | [Symbolism pt\. III](https://open.spotify.com/album/2W3HSyUgF9aoXOUIxB5xyx) | 4:06 | 2022-08-12 | 2023-04-28 |
@@ -268,6 +269,7 @@
 | [Wizkid](https://open.spotify.com/track/2rC9Mwkntrhv1RH4FzZ1MM) | [ReauBeau](https://open.spotify.com/artist/5fKpGPlcEvjFMDDWDKniND), [AVA NOVA](https://open.spotify.com/artist/3F7A0HJo5EKQKQ01Fv1TxW) | [Wizkid](https://open.spotify.com/album/0DfHdC5Ahks277KoV2ycp7) | 2:43 | 2022-11-10 | 2023-04-28 |
 | [World on Fire](https://open.spotify.com/track/6RUrwniB9s0Xm3iqXa5Jc2) | [Outlandr](https://open.spotify.com/artist/3rEAjEIr7devKI01WDprkl) | [World on Fire](https://open.spotify.com/album/6xYYOfJjOi1Xrs7M46NPoX) | 3:45 | 2023-03-22 |  |
 | [Would You Be Waiting](https://open.spotify.com/track/3PHOx8osoFglbGHz8dWY5E) | [Aeden](https://open.spotify.com/artist/2WIFU5KpTGyYWZs039dQPn) | [Would You Be Waiting](https://open.spotify.com/album/17zDJZXkFFsfWDpH83URKA) | 2:57 | 2022-08-26 | 2023-04-28 |
+| [Would You Ever](https://open.spotify.com/track/6qI2itQgAThUD1s24FtgAR) | [Maze](https://open.spotify.com/artist/6lAnJw7YqGPgG1ShMCjcbQ), [Trinist](https://open.spotify.com/artist/6XTrviAQeBuCkWgDenoiId) | [Would You Ever](https://open.spotify.com/album/08Nda5fgWQLMB7Ni36QQQ1) | 2:27 | 2023-05-12 |  |
 | [XXI](https://open.spotify.com/track/1WsksDgGtaNPLdGcwk78vt) | [QR](https://open.spotify.com/artist/698AkaHa09ShchhkKzd5wz) | [XXI](https://open.spotify.com/album/28F4laLubUUnKyXa9pfyWK) | 2:40 | 2022-03-29 | 2023-04-28 |
 | [Yesterday](https://open.spotify.com/track/0Cxyt1tuzX8dRdPR2mXPZz) | [4URA](https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd), [Young Viridii](https://open.spotify.com/artist/4Rm1nfclUTXCYusaJk7TA9) | [Yesterday](https://open.spotify.com/album/4gbR6lbzBVdoU9RNijlKpW) | 3:26 | 2022-08-18 | 2023-04-28 |
 | [You Did Me Wrong](https://open.spotify.com/track/021AdIBrNm09ETA6iMxnyw) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Alone EP](https://open.spotify.com/album/3QS6cvgnMj7JuA0gB12Lq8) | 2:05 | 2022-05-19 | 2023-04-28 |

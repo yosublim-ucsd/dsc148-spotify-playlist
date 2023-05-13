@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: aespa
 
-583 songs - 1 day 8 hr 6 min
+584 songs - 1 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -492,6 +492,7 @@
 | [The Astronaut](https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [The Astronaut](https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox) | 4:42 | 2022-10-27 | 2023-02-09 |
 | [The Feels \- Benny Benassi Remix](https://open.spotify.com/track/3zuOVDHUOI2E8dM3Rk5lmq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [The Feels](https://open.spotify.com/album/637onaunbESh9eqTqVGMka) | 3:05 | 2022-02-04 | 2022-04-06 |
 | [The One](https://open.spotify.com/track/1Kb2RNTXZ3PaL2xMDuJgQ6) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [Villain : The End](https://open.spotify.com/album/1Qm9lf5OrCzl3x9trdVMhD) | 3:31 | 2022-11-15 | 2022-12-22 |
+| [The Planet](https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Planet](https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5) | 2:58 | 2023-05-11 |  |
 | [The Song](https://open.spotify.com/track/6bqbFluyEgXV0hkLd9duMc) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Be Together](https://open.spotify.com/album/3atcX9xZNV2yqeWqe8UC0T) | 4:08 | 2022-02-22 | 2022-03-23 |
 | [THE SOUND](https://open.spotify.com/track/0q8bRAh9BktYFcsFfXOOWI) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THE SOUND](https://open.spotify.com/album/6MZOLMj926Ee5L8SzFFeEE) | 3:00 | 2023-01-27 |  |
 | [The TRICKY’s Secret](https://open.spotify.com/track/719ak1xDEREpIxuHlGYKh6) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [HOUSE OF TRICKY : Doorbell Ringing](https://open.spotify.com/album/6AO0SV6HUmKSu85OECxtYK) | 1:47 | 2023-03-30 |  |

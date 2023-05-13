@@ -579,6 +579,44 @@
     },
     {
       "album": {
+        "name": "Freedom Is A Constant Struggle",
+        "url": "https://open.spotify.com/album/2mGTeZBnyXP7CTapaW1p9S"
+      },
+      "artists": [
+        {
+          "name": "Leyla McCalla",
+          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
+        },
+        {
+          "name": "Joy Clark",
+          "url": "https://open.spotify.com/artist/7BTIW6ksfRBJ50xe6EtXjJ"
+        },
+        {
+          "name": "Lilli Lewis",
+          "url": "https://open.spotify.com/artist/2dh2iaRf6yHgqVmEJok53L"
+        },
+        {
+          "name": "Sabine McCalla",
+          "url": "https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR"
+        },
+        {
+          "name": "Sula Spirit",
+          "url": "https://open.spotify.com/artist/7qXJE0O3NsmQssEePihY2L"
+        },
+        {
+          "name": "Cassie Watson Francillon",
+          "url": "https://open.spotify.com/artist/6LuBYCozHo0lrFf7CnkgMX"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204998,
+      "name": "Freedom Is A Constant Struggle",
+      "url": "https://open.spotify.com/track/7pazEod5kIZKCpppre6kvx"
+    },
+    {
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/7fxmI2X1OBF3v3rBbrcbyd"
       },
@@ -938,6 +976,24 @@
       "duration_ms": 222853,
       "name": "Lost & Lonesome",
       "url": "https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f"
+    },
+    {
+      "album": {
+        "name": "Love After Love",
+        "url": "https://open.spotify.com/album/6ztEDQCLA3lAfcpU6Jj6GB"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152377,
+      "name": "Love After Love",
+      "url": "https://open.spotify.com/track/3mVsKKOlBBkTzlF4V1bEj7"
     },
     {
       "album": {
@@ -1334,6 +1390,24 @@
       "duration_ms": 224755,
       "name": "Short and Sweet",
       "url": "https://open.spotify.com/track/2Qtk2DM442dGv6n9Fmbs5s"
+    },
+    {
+      "album": {
+        "name": "Proof Of Life",
+        "url": "https://open.spotify.com/album/0F9RwW1ScEh2gNEADX67BO"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236291,
+      "name": "Somebody Like Me",
+      "url": "https://open.spotify.com/track/0uxLU5nNE35ZxNwoKm8XLq"
     },
     {
       "album": {
@@ -2032,6 +2106,24 @@
       "duration_ms": 181546,
       "name": "You Was Born To Die (feat. Kyshona Armstrong, Margo Price & Jason Isbell)",
       "url": "https://open.spotify.com/track/4jSCSnMnIXnRbMPM0qLRVX"
+    },
+    {
+      "album": {
+        "name": "You're the One",
+        "url": "https://open.spotify.com/album/6RBTZpN4KkTLDbPdSUYRPJ"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205040,
+      "name": "You're the One",
+      "url": "https://open.spotify.com/track/2YEN8LRUuTViNyCGeUQukS"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWTyhpyCExup"

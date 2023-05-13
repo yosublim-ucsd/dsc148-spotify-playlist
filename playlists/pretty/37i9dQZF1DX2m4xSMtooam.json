@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sweet and soothing sound of Bossa nova.",
-  "num_followers": 143739,
+  "num_followers": 143943,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzg3OWVjYmRiMDI1YzQ0ZWE1M2Q5NmVhMzZlYzU0ZGVjMjc4MTky",
+  "snapshot_id": "MCxlNTBhOWMyOGU3Yzk3ZGJmNmNkZDkxNTk2ODBiZmJiZTIyOGJiNWI5",
   "tracks": [
     {
       "added_at": "2023-05-11 22:01:00",
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "The Beat Goes On",
-        "url": "https://open.spotify.com/album/6L6CnGHpTnvj3BUf441OCh"
+        "name": "Quarteto Jobim Morelenbaum",
+        "url": "https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY"
       },
       "artists": [
         {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+          "name": "Quarteto Jobim-Morelenbaum",
+          "url": "https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL"
         }
       ],
-      "duration_ms": 280529,
-      "name": "Don't Think Twice, It's Alright",
-      "url": "https://open.spotify.com/track/6UeCjzfLUBhHOtney81sPn"
+      "duration_ms": 156502,
+      "name": "\u00c1gua de Beber",
+      "url": "https://open.spotify.com/track/1IkE3IsuP4HNU073wsE6T5"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -247,18 +247,18 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Quarteto Jobim Morelenbaum",
-        "url": "https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY"
+        "name": "The Beat Goes On",
+        "url": "https://open.spotify.com/album/6L6CnGHpTnvj3BUf441OCh"
       },
       "artists": [
         {
-          "name": "Quarteto Jobim-Morelenbaum",
-          "url": "https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL"
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
         }
       ],
-      "duration_ms": 156502,
-      "name": "\u00c1gua de Beber",
-      "url": "https://open.spotify.com/track/1IkE3IsuP4HNU073wsE6T5"
+      "duration_ms": 280529,
+      "name": "Don't Think Twice, It's Alright",
+      "url": "https://open.spotify.com/track/6UeCjzfLUBhHOtney81sPn"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Drivers License (Bossa Nova)",
-        "url": "https://open.spotify.com/album/4sG6ndx69BwxgqkKHaF1JQ"
-      },
-      "artists": [
-        {
-          "name": "Lisa \u00d6stergren",
-          "url": "https://open.spotify.com/artist/2KT7G56TlqNhbc3l98Lh4q"
-        }
-      ],
-      "duration_ms": 248253,
-      "name": "Drivers License - Bossa Nova",
-      "url": "https://open.spotify.com/track/3CcGoFaDVUnbaZ4TeDEe4n"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Jazz + Bossa",
         "url": "https://open.spotify.com/album/5jkc9bfTpFlbK5rIzKeWdj"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 187613,
       "name": "In a mellow tone",
       "url": "https://open.spotify.com/track/5ifsDssC2Yv86cHLg2g8rg"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Drivers License (Bossa Nova)",
+        "url": "https://open.spotify.com/album/4sG6ndx69BwxgqkKHaF1JQ"
+      },
+      "artists": [
+        {
+          "name": "Lisa \u00d6stergren",
+          "url": "https://open.spotify.com/artist/2KT7G56TlqNhbc3l98Lh4q"
+        }
+      ],
+      "duration_ms": 248253,
+      "name": "Drivers License - Bossa Nova",
+      "url": "https://open.spotify.com/track/3CcGoFaDVUnbaZ4TeDEe4n"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
+        "name": "Night Lights (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan Sextet",
+          "url": "https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1"
+        }
+      ],
+      "duration_ms": 256533,
+      "name": "Prelude In E Minor",
+      "url": "https://open.spotify.com/track/17OHsQ5RBrU6b9lTaPP0vh"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
         "name": "Chambre Avec Vue",
         "url": "https://open.spotify.com/album/1EE8dKVd22YHhZT2LoiEOB"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 248306,
       "name": "All I Really Want Is Love",
       "url": "https://open.spotify.com/track/4EtULbS8K8zZ3apaEX36oI"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "Night Lights (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan Sextet",
-          "url": "https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1"
-        }
-      ],
-      "duration_ms": 256533,
-      "name": "Prelude In E Minor",
-      "url": "https://open.spotify.com/track/17OHsQ5RBrU6b9lTaPP0vh"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "chambre avec vue",
-        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
-      },
-      "artists": [
-        {
-          "name": "Henri Salvador",
-          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
-        }
-      ],
-      "duration_ms": 203066,
-      "name": "Jazz M\u00e9diterran\u00e9e",
-      "url": "https://open.spotify.com/track/2yHTFqjyTh32XPddASX3sV"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Haven't We Met?",
         "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 183763,
       "name": "One Note Samba",
       "url": "https://open.spotify.com/track/3P9ykpmg0veqHJ0gJ6zG1i"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "chambre avec vue",
+        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
+      },
+      "artists": [
+        {
+          "name": "Henri Salvador",
+          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+        }
+      ],
+      "duration_ms": 203066,
+      "name": "Jazz M\u00e9diterran\u00e9e",
+      "url": "https://open.spotify.com/track/2yHTFqjyTh32XPddASX3sV"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1312,30 +1312,6 @@
       "added_at": "2023-05-11 22:01:00",
       "album": {
         "name": "Brazil",
-        "url": "https://open.spotify.com/album/0SVtsd6mAN8xjDFR8NDZRr"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 321640,
-      "name": "All of Me (Disse alguem)",
-      "url": "https://open.spotify.com/track/0YPurGQSRUDTtIFUX3Nskc"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "Brazil",
         "url": "https://open.spotify.com/album/4ZfijPsvkBtwZWiGScdvOs"
       },
       "artists": [
@@ -1375,18 +1351,26 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Amorosa",
-        "url": "https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz"
+        "name": "Brazil",
+        "url": "https://open.spotify.com/album/0SVtsd6mAN8xjDFR8NDZRr"
       },
       "artists": [
         {
-          "name": "Rosa Passos",
-          "url": "https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP"
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 267666,
-      "name": "S'Wonderful",
-      "url": "https://open.spotify.com/track/71ZkjDXREmufJQGwwGhCSr"
+      "duration_ms": 321640,
+      "name": "All of Me (Disse alguem)",
+      "url": "https://open.spotify.com/track/0YPurGQSRUDTtIFUX3Nskc"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1403,6 +1387,22 @@
       "duration_ms": 222599,
       "name": "Enjoy Your Cigar",
       "url": "https://open.spotify.com/track/5WaOOx9Q5BJhJAfQaxnaaN"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Amorosa",
+        "url": "https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz"
+      },
+      "artists": [
+        {
+          "name": "Rosa Passos",
+          "url": "https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP"
+        }
+      ],
+      "duration_ms": 267666,
+      "name": "S'Wonderful",
+      "url": "https://open.spotify.com/track/71ZkjDXREmufJQGwwGhCSr"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Take Ten",
-        "url": "https://open.spotify.com/album/67OvvuGokycHO0Quc9HyKZ"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 253133,
-      "name": "The Theme from \"Black Orpheus\"",
-      "url": "https://open.spotify.com/track/0XBDgnZFhL27Y46oVknBPE"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "North Carolina",
         "url": "https://open.spotify.com/album/5CSBOCtfPDZdagmDqyvb81"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 174439,
       "name": "North Carolina",
       "url": "https://open.spotify.com/track/6EmTdoIgJe8PygIqxJ48iu"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Take Ten",
+        "url": "https://open.spotify.com/album/67OvvuGokycHO0Quc9HyKZ"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 253133,
+      "name": "The Theme from \"Black Orpheus\"",
+      "url": "https://open.spotify.com/track/0XBDgnZFhL27Y46oVknBPE"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Quarteto Jobim Morelenbaum",
-        "url": "https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY"
-      },
-      "artists": [
-        {
-          "name": "Quarteto Jobim-Morelenbaum",
-          "url": "https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL"
-        }
-      ],
-      "duration_ms": 181951,
-      "name": "\u00c1guas de Mar\u00e7o",
-      "url": "https://open.spotify.com/track/4xBk5YBUkEFz5gVP74y6pc"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Nana",
         "url": "https://open.spotify.com/album/7JXX0EsuHWnOweuAmeb484"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 273637,
       "name": "Nana",
       "url": "https://open.spotify.com/track/7hZgnIYynYjpYPQ5lcvUXm"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Quarteto Jobim Morelenbaum",
+        "url": "https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY"
+      },
+      "artists": [
+        {
+          "name": "Quarteto Jobim-Morelenbaum",
+          "url": "https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL"
+        }
+      ],
+      "duration_ms": 181951,
+      "name": "\u00c1guas de Mar\u00e7o",
+      "url": "https://open.spotify.com/track/4xBk5YBUkEFz5gVP74y6pc"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Night Lights (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan Sextet",
-          "url": "https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1"
-        }
-      ],
-      "duration_ms": 330546,
-      "name": "Morning Of The Carnival - From \"Black Orpheus\"",
-      "url": "https://open.spotify.com/track/6GQ6rapsknPIutGbpv0DTR"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "day by day",
         "url": "https://open.spotify.com/album/4mQSSzdJ4EdKxRNx5wF9nB"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 259933,
       "name": "Day by day",
       "url": "https://open.spotify.com/track/4Wa359eOBiLxHlz5W6Czp6"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Night Lights (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan Sextet",
+          "url": "https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1"
+        }
+      ],
+      "duration_ms": 330546,
+      "name": "Morning Of The Carnival - From \"Black Orpheus\"",
+      "url": "https://open.spotify.com/track/6GQ6rapsknPIutGbpv0DTR"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
+        "name": "Verano",
+        "url": "https://open.spotify.com/album/3dLSXvdHsZjBxYfeeZDeHX"
+      },
+      "artists": [
+        {
+          "name": "Vendla",
+          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
+        }
+      ],
+      "duration_ms": 172162,
+      "name": "Verano",
+      "url": "https://open.spotify.com/track/7qf9r2CuRXyskGOqx2Smen"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
         "name": "Greatest Hits Series--Paul Desmond",
         "url": "https://open.spotify.com/album/3bBvPOUVZz1NxBBqpJf20b"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 266480,
       "name": "O Gato",
       "url": "https://open.spotify.com/track/0YUaViwX9I554N7MYYxqcM"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "Verano",
-        "url": "https://open.spotify.com/album/3dLSXvdHsZjBxYfeeZDeHX"
-      },
-      "artists": [
-        {
-          "name": "Vendla",
-          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
-        }
-      ],
-      "duration_ms": 172162,
-      "name": "Verano",
-      "url": "https://open.spotify.com/track/7qf9r2CuRXyskGOqx2Smen"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Aquele Frevo Ax\u00e9",
-        "url": "https://open.spotify.com/album/5jhcmxv1YOORIADhphS2SE"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 232293,
-      "name": "Aquele Frevo Ax\u00e9",
-      "url": "https://open.spotify.com/track/0Fd5qH2K7UsQh4MU3MB17m"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Rio",
         "url": "https://open.spotify.com/album/1CZob5T7V1GsgTjMFVY64B"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 199875,
       "name": "Rio",
       "url": "https://open.spotify.com/track/5tFmZJH6cznz3n4sSpcPLq"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Aquele Frevo Ax\u00e9",
+        "url": "https://open.spotify.com/album/5jhcmxv1YOORIADhphS2SE"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 232293,
+      "name": "Aquele Frevo Ax\u00e9",
+      "url": "https://open.spotify.com/track/0Fd5qH2K7UsQh4MU3MB17m"
     },
     {
       "added_at": "2023-05-11 22:01:00",

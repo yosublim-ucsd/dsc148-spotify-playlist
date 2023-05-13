@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Goditi l'aperitivo in compagnia e con la colonna sonora ideale!
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,307 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,320 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 10 | [Montrose Ave](https://open.spotify.com/track/1kFu2TuUmsARXGYc2eYXiC) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Montrose Ave](https://open.spotify.com/album/38FmGb1NtDyPwZtHHoL8x5) | 2:53 |
 | 11 | [Swept Away](https://open.spotify.com/track/78YxzNOYX8D4kcct5G8fcf) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Anna Naklab](https://open.spotify.com/artist/6vNe5MINTo5QZyR08sBOBA) | [Fading Nights](https://open.spotify.com/album/51ICSJv35BaLYkYHVKJfkA) | 5:46 |
 | 12 | [Anyone](https://open.spotify.com/track/2jdObkXiyca07k9r6UwqaL) | [Maiwan](https://open.spotify.com/artist/7Bv1SZbrpTYQixKfQgCzsI) | [Summer Crush](https://open.spotify.com/album/7u3rOTDTne8OfLdo79a0Go) | 3:06 |
-| 13 | [The Ghost in Your Smile](https://open.spotify.com/track/63FttXBXFyghH7q9CVIjcW) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [The Ghost in Your Smile](https://open.spotify.com/album/3XanT5R6MH4AeDbSn5hJVa) | 3:14 |
+| 13 | [Back To You \- Joey Pecoraro Remix](https://open.spotify.com/track/216afVgCJWieLyqPDwziwq) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Back To You \(Joey Pecoraro Remix\)](https://open.spotify.com/album/5YOxoeO5DRUWEBbDt9A3jU) | 3:46 |
 | 14 | [Give Me a Light](https://open.spotify.com/track/6dnPMrlvN8w1KIgV8pb9Gu) | [Jay Arrow](https://open.spotify.com/artist/3cAD80R4qsZOlYVPi9xN89) | [Give Me a Light](https://open.spotify.com/album/3xeGedO2mQCVHzO4WiC0WA) | 3:15 |
-| 15 | [Back To You \- Joey Pecoraro Remix](https://open.spotify.com/track/216afVgCJWieLyqPDwziwq) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Back To You \(Joey Pecoraro Remix\)](https://open.spotify.com/album/5YOxoeO5DRUWEBbDt9A3jU) | 3:46 |
+| 15 | [The Ghost in Your Smile](https://open.spotify.com/track/63FttXBXFyghH7q9CVIjcW) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [The Ghost in Your Smile](https://open.spotify.com/album/3XanT5R6MH4AeDbSn5hJVa) | 3:14 |
 | 16 | [All The Wild Things](https://open.spotify.com/track/6dts1ns58gm8pXv8EnJaYZ) | [Lylos](https://open.spotify.com/artist/5atRFMjItKzpYWYW1yVMoR) | [All The Wild Things](https://open.spotify.com/album/6cgWG2hgYYjxfx7MH5lYrc) | 3:30 |
 | 17 | [Best Part Of us](https://open.spotify.com/track/0t8zIi7cwdADvWmkIWE1sp) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Best Part Of Us](https://open.spotify.com/album/431OaLkgYn4TJU2JynSAJm) | 4:01 |
 | 18 | [Wicked Hearts](https://open.spotify.com/track/0iYdflVjQStuXFDspvUFrp) | [Junge Junge](https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD), [Jamie Hartman](https://open.spotify.com/artist/1B4yu7LuLM9Y5YislMFPwo) | [Wicked Hearts](https://open.spotify.com/album/1NJTTkpZZoPGaCv3V7Q8pk) | 3:09 |
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 26 | [Cruel Summer](https://open.spotify.com/track/4sI7exQBHsJ1NRwjJqWRo2) | [Daniel Liebt](https://open.spotify.com/artist/70tutLzvBrNYvlvuVanzI9) | [Cruel Summer](https://open.spotify.com/album/6ZudtFGegLxFJx8KQX40Yk) | 3:29 |
 | 27 | [Une Beat Encore](https://open.spotify.com/track/1IcvRPjADDdJVqraXMk5W0) | [Maulisé](https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1) | [Une Beat Encore](https://open.spotify.com/album/2LZbXiTsLFaX6tiERnEYfu) | 3:16 |
 | 28 | [It's alright](https://open.spotify.com/track/4S1ApI9K5p6mAW1aKQ6f9d) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [It's alright](https://open.spotify.com/album/7cWCWMMAcUGHDEfcMgCJML) | 3:16 |
-| 29 | [A Little Bit Closer](https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [A Little Bit Closer](https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn) | 2:35 |
+| 29 | [Never Be the Same](https://open.spotify.com/track/2oIFFx2csg2lxgOhLDrd70) | [Sons Of Maria](https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU), [Agatha Saron](https://open.spotify.com/artist/7w6sRUIg45gPBfa6d2vvYO) | [Never Be the Same \(Sons Of Maria vs\. Agatha Saron\)](https://open.spotify.com/album/2a6WTjGTEKetqEjGUkRk4U) | 3:20 |
 | 30 | [All Access](https://open.spotify.com/track/47lv0fs01NLcygKcnD9PFX) | [Ben Eggs](https://open.spotify.com/artist/2Oe8Eh7oyLV1CfJ8UjJ9Qd) | [All Access](https://open.spotify.com/album/2yghC1izlXbRMLXAvuZnPg) | 3:06 |
-| 31 | [Never Be the Same](https://open.spotify.com/track/2oIFFx2csg2lxgOhLDrd70) | [Sons Of Maria](https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU), [Agatha Saron](https://open.spotify.com/artist/7w6sRUIg45gPBfa6d2vvYO) | [Never Be the Same \(Sons Of Maria vs\. Agatha Saron\)](https://open.spotify.com/album/2a6WTjGTEKetqEjGUkRk4U) | 3:20 |
+| 31 | [A Little Bit Closer](https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [A Little Bit Closer](https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn) | 2:35 |
 | 32 | [Voyages](https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG) | [Tekkla](https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz) | [Voyages](https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG) | 3:36 |
 | 33 | [White Heart Sand](https://open.spotify.com/track/0L0A2JQesE17iqjuEQDfiW) | [Togo Bao](https://open.spotify.com/artist/6iLiH4i8sPHd7x1RvS5Fqn) | [White Heart Sand](https://open.spotify.com/album/5yX6p6KpVVS9iPjWAKFrxd) | 3:48 |
 | 34 | [Lost in Music](https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9) | [Maulisé](https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1) | [Lost in Music](https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG) | 3:28 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 59 | [Esmeralda](https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e) | [Samba Twins](https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X) | [Esmeralda](https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0) | 3:54 |
 | 60 | [Bloom](https://open.spotify.com/track/0mi3tBUwtdYwXCFdZ6QHAZ) | [Sol Calor](https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj) | [Bloom](https://open.spotify.com/album/6DRSizkWFTohOLptBgR2cT) | 3:38 |
 
-Snapshot ID: `MCwwMmY2NmRmZGNlNzQ5Mzk3MGU0ZWUxZWI1ZTc2OWIxNGI3NjNiMDdk`
+Snapshot ID: `MCw2MGE5YjA5ZTc2ZjliYmNkY2UzYmY2MWNhZjY1NGE5ZDFiZGI3NzRh`

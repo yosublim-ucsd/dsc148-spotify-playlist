@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 
 > Leave no rock undiscovered and explore the essential foundations of Christian rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,516 likes - 87 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,615 likes - 87 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 | 86 | [Preacher's Kid](https://open.spotify.com/track/1MYeiUMvuupmhDqMqwM2tN) | [Johnny Q\. Public](https://open.spotify.com/artist/0TLrBAUaGIFgurLKPIPaCi) | [Extra Ordinary](https://open.spotify.com/album/3Ou72BgMUjJImE7s53V8iZ) | 3:59 |
 | 87 | [Rise](https://open.spotify.com/track/1W0YS64vF9qgMVLuN76aqg) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Rise \(Deluxe Edition\)](https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA) | 4:20 |
 
-Snapshot ID: `MCw4ZjViM2M0NzJjZDk5ODIzNzQ1ZjYwZGRiMDY5N2RmM2ZhNGQwNWJj`
+Snapshot ID: `MCwxZDg5MzJhOWEzYmFhZjZjNDE2YjI0MGZkNTdlYzkwODMxYWYwYTZi`

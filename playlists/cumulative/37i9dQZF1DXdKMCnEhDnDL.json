@@ -493,6 +493,24 @@
     },
     {
       "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/3E8AMIqWVMZv4kONTo2dxC"
+      },
+      "artists": [
+        {
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211174,
+      "name": "Dat Heb Jij Gedaan",
+      "url": "https://open.spotify.com/track/3BkP5vYURwcoAkKhzrLVd8"
+    },
+    {
+      "album": {
         "name": "Dat heb jij gedaan",
         "url": "https://open.spotify.com/album/1MwiN9zv6V9GWHdVPsR4Q1"
       },
@@ -504,7 +522,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 211174,
       "name": "Dat heb jij gedaan",
       "url": "https://open.spotify.com/track/4wn7cO2iHlWueXGDd4gH9g"

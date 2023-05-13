@@ -244,7 +244,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 240437,
       "name": "Aleros/Pompeii",
       "url": "https://open.spotify.com/track/2KSyKlJ3SWPFflplhYhPTl"
@@ -1294,7 +1294,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 196588,
       "name": "Clich\u00e9",
       "url": "https://open.spotify.com/track/1IeIu8G0uzcrDKl2l6eg99"
@@ -2432,7 +2432,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 164444,
       "name": "El Ride",
       "url": "https://open.spotify.com/track/6QZCS1tO3dL3gm9ZHWL4d0"
@@ -2636,7 +2636,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 238000,
       "name": "Eterno Verano",
       "url": "https://open.spotify.com/track/1LKZ4TNbzvhXypk8XSEVOR"
@@ -3002,7 +3002,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-10",
+      "date_removed": null,
       "duration_ms": 242374,
       "name": "Futuro",
       "url": "https://open.spotify.com/track/3jHL68prXOOuDrgz9jbIoT"
@@ -3336,7 +3336,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 303903,
       "name": "Happiness",
       "url": "https://open.spotify.com/track/35lxFAny9XDBkvE6r9j4uG"
@@ -4452,7 +4452,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 81649,
       "name": "Love You Like A Love Song",
       "url": "https://open.spotify.com/track/3Ge27Zxv9DLpYenWdoUyVJ"
@@ -4856,7 +4856,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 203157,
       "name": "Miel <3",
       "url": "https://open.spotify.com/track/4DjuqRQQIBLkOz9S6MN28t"
@@ -5178,7 +5178,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 160166,
       "name": "Never Felt So Alone",
       "url": "https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo"
@@ -5410,7 +5410,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 152698,
       "name": "NORTE A SUR",
       "url": "https://open.spotify.com/track/2ghoM5KMSQUOGW0VAVaTvF"
@@ -5558,7 +5558,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 153171,
       "name": "Ocho Rios",
       "url": "https://open.spotify.com/track/5XUuMp2i5ojqcDOSusChqL"
@@ -5792,7 +5792,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 172411,
       "name": "Para Llevar",
       "url": "https://open.spotify.com/track/3AhT5jxJpA6hVDgSgkrr3l"
@@ -6360,7 +6360,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 197653,
       "name": "Ribbons",
       "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
@@ -7560,7 +7560,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 236838,
       "name": "To Love",
       "url": "https://open.spotify.com/track/0a64exvT5aKVaRSmAVMaCT"
@@ -7716,7 +7716,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-11",
+      "date_removed": null,
       "duration_ms": 175007,
       "name": "t\u00fa y yo",
       "url": "https://open.spotify.com/track/0Ss650In2VXxwhXy166Gu4"
@@ -7742,6 +7742,24 @@
       "duration_ms": 242373,
       "name": "T\u00fa Y Yo",
       "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
+    },
+    {
+      "album": {
+        "name": "555",
+        "url": "https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP"
+      },
+      "artists": [
+        {
+          "name": "The Change",
+          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180885,
+      "name": "t\u00fa\u00fa\u00fa",
+      "url": "https://open.spotify.com/track/1hiUCESJkxPvAdnql5KKE2"
     },
     {
       "album": {
@@ -7796,7 +7814,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 164444,
       "name": "Un D\u00eda",
       "url": "https://open.spotify.com/track/2g2VPxPZTKVr7Vzbi9KSF9"
@@ -8094,7 +8112,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 90110,
       "name": "We Might Even Be Falling In Love (Duet) - Spotify Singles",
       "url": "https://open.spotify.com/track/0wOtc2nY3NOohp4xSwOyTN"

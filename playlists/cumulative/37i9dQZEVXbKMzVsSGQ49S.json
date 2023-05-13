@@ -1715,6 +1715,24 @@
     },
     {
       "album": {
+        "name": "Because Of You",
+        "url": "https://open.spotify.com/album/4Pbi89jb8k56Qh8hrwwbGu"
+      },
+      "artists": [
+        {
+          "name": "Gustaph",
+          "url": "https://open.spotify.com/artist/55L5ivgJXuhhrPw3pdEph7"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179908,
+      "name": "Because Of You",
+      "url": "https://open.spotify.com/track/320jqrATpl9762bCQkmLDf"
+    },
+    {
+      "album": {
         "name": "Chosen",
         "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
       },
@@ -2375,6 +2393,24 @@
     },
     {
       "album": {
+        "name": "Break a Broken Heart",
+        "url": "https://open.spotify.com/album/6E8mwCc1q5s5zhlY9f6xUz"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lambrou",
+          "url": "https://open.spotify.com/artist/2LJg6YXPzGpih3QOUmyruJ"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178506,
+      "name": "Break a Broken Heart",
+      "url": "https://open.spotify.com/track/5dRAJ9UsR0qyMMKnonWewz"
+    },
+    {
+      "album": {
         "name": "Surface Sounds",
         "url": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
       },
@@ -2444,6 +2480,42 @@
       "duration_ms": 278281,
       "name": "BREAK MY SOUL",
       "url": "https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U"
+    },
+    {
+      "album": {
+        "name": "Breaking My Heart",
+        "url": "https://open.spotify.com/album/4F56jP5yIlOGBCL8NJBizD"
+      },
+      "artists": [
+        {
+          "name": "Reiley",
+          "url": "https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165179,
+      "name": "Breaking My Heart",
+      "url": "https://open.spotify.com/track/0Bz7sidJkrYTnEQoYSxU0C"
+    },
+    {
+      "album": {
+        "name": "Bridges",
+        "url": "https://open.spotify.com/album/0MpZN5tjvlgGGooZISXYki"
+      },
+      "artists": [
+        {
+          "name": "ALIKA",
+          "url": "https://open.spotify.com/artist/0k7PxyzK6aIWSzmC3522c4"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185610,
+      "name": "Bridges",
+      "url": "https://open.spotify.com/track/3pvzk44kwy8u46wtglCKzd"
     },
     {
       "album": {
@@ -2658,7 +2730,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 159836,
       "name": "B\u00fainn a\u00f0 gleyma \u00fe\u00e9r..",
       "url": "https://open.spotify.com/track/1ZcV7Ewu98X8VLetJPDDV9"
@@ -3650,7 +3722,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 174253,
       "name": "Cupid - Twin Ver.",
       "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
@@ -5778,7 +5850,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
@@ -7874,7 +7946,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 217756,
       "name": "Good Drank",
       "url": "https://open.spotify.com/track/6a5J4NNKeO4q07vJeERmFE"
@@ -10354,7 +10426,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -17153,6 +17225,24 @@
     },
     {
       "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/1C7B9slsGeLEDgzbrJcHkg"
+      },
+      "artists": [
+        {
+          "name": "Voyager",
+          "url": "https://open.spotify.com/artist/16fltNcwTM5V9rnxIlcha4"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183510,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/0LeK6Ol47og0WdGwKegNUL"
+    },
+    {
+      "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
@@ -18846,6 +18936,36 @@
       "duration_ms": 230093,
       "name": "Shape of My Heart",
       "url": "https://open.spotify.com/track/35o9a4iAfLl5jRmqMX9c1D"
+    },
+    {
+      "album": {
+        "name": "SHELLEY (Summer Mix)",
+        "url": "https://open.spotify.com/album/6joIX2x9ThQmgAnxPCK8lB"
+      },
+      "artists": [
+        {
+          "name": "CORALLY",
+          "url": "https://open.spotify.com/artist/6aNAOg1PZUKZdE861K0Y50"
+        },
+        {
+          "name": "Billx",
+          "url": "https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB"
+        },
+        {
+          "name": "Jean Marie",
+          "url": "https://open.spotify.com/artist/0GVEViT63fsMLllbFa0Mop"
+        },
+        {
+          "name": "Thomas Deil",
+          "url": "https://open.spotify.com/artist/5uYKQrTEx51AOXot2Z2Czl"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "SHELLEY - Summer Mix",
+      "url": "https://open.spotify.com/track/6lrJhUjMTfIWmB090c6s6f"
     },
     {
       "album": {
@@ -24088,7 +24208,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 120160,
       "name": "YEAAA",
       "url": "https://open.spotify.com/track/5mV2Xpbf812LHpSIvWWcds"

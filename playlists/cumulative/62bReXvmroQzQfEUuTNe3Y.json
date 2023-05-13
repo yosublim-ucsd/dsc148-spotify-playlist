@@ -147,6 +147,32 @@
     },
     {
       "album": {
+        "name": "Allein Allein",
+        "url": "https://open.spotify.com/album/2oLn47kWsw7iYC3NOtNEx2"
+      },
+      "artists": [
+        {
+          "name": "INNERVERSE",
+          "url": "https://open.spotify.com/artist/0lIiVp6FVbJR2utszYQhNf"
+        },
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221128,
+      "name": "Allein Allein",
+      "url": "https://open.spotify.com/track/2bpHc7nCduKQWJVNqJ4mDj"
+    },
+    {
+      "album": {
         "name": "Almost Love (feat. Dominic Neill)",
         "url": "https://open.spotify.com/album/11Qhu8bimVBjtbb6RXm0O9"
       },
@@ -5627,6 +5653,28 @@
     },
     {
       "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/7ymnnljOmnTNiJmlcNrv9Q"
+      },
+      "artists": [
+        {
+          "name": "Indigo Eyes",
+          "url": "https://open.spotify.com/artist/04qGSeuOlRDSyVYFblRy9O"
+        },
+        {
+          "name": "Lily Ward",
+          "url": "https://open.spotify.com/artist/1kYMGmkw8ta4nvMiK0pcdF"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227076,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/56es20uK9nOaNsPycHJojQ"
+    },
+    {
+      "album": {
         "name": "Shipwreck / My World",
         "url": "https://open.spotify.com/album/7KuX0qEAZtyeC6O1R0YYna"
       },
@@ -6120,7 +6168,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 184333,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/3ponDZeMH4ONWpPCyfrJ5L"

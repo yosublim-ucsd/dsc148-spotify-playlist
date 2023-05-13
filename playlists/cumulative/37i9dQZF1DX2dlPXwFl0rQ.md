@@ -2,9 +2,9 @@
 
 ### [Mujeres Bravías](https://open.spotify.com/playlist/37i9dQZF1DX2dlPXwFl0rQ)
 
-> Estas son las indomables del Regional Mexicano\. Ana Bárbara en portada.
+> Estas son las indomables de la Música Mexicana\. Janeth Valenzuela en portada.
 
-266 songs - 14 hr 20 min
+267 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Basta Ya \- Banda](https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Joyas Prestadas \- Banda](https://open.spotify.com/album/2S1InqamaQuotpISCqos3W) | 4:03 | 2021-12-17 |  |
 | [Besos Y Copas](https://open.spotify.com/track/5gXJjrNk3kwPkz8toXQTxf) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Soy Lo Prohibido](https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4) | 2:58 | 2021-12-17 |  |
 | [Borracha De Amor](https://open.spotify.com/track/2PeQ5QSleIKfW8GfIVsEmj) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Borracha De Amor](https://open.spotify.com/album/56YlKtQXcwuYq5562zFYIJ) | 3:39 | 2021-12-17 | 2022-03-18 |
-| [Brujería](https://open.spotify.com/track/1PcwgVL81paHLsxatYSNR3) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 2:01 | 2022-12-09 |  |
+| [Brujería](https://open.spotify.com/track/1PcwgVL81paHLsxatYSNR3) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 2:01 | 2022-12-09 | 2023-05-13 |
 | [Cada Quien Su Gusto](https://open.spotify.com/track/6lyembOsPmVy52cfCj8nO8) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Cada Quien Su Gusto](https://open.spotify.com/album/0mqdqY75p9sNoqTTQs0SJN) | 2:43 | 2021-12-17 | 2022-03-15 |
 | [Callados](https://open.spotify.com/track/4mXxiaroiAGrGwbbAFkRhU) | [Ninel Conde](https://open.spotify.com/artist/1MI8FuxN4qF0Hr1qmZZLYK) | [Ninel Conde](https://open.spotify.com/album/4s3cLJ3uFfMydKR4ekp6R7) | 4:26 | 2021-12-17 | 2022-04-09 |
 | [Carta Jugada](https://open.spotify.com/track/0SkoD9nDolXwWLxb8AOP16) | [Dueto Dos Rosas](https://open.spotify.com/artist/1zVb5eLiSqjctRTX4dfrer) | [Carta Jugada](https://open.spotify.com/album/73qs1Kaz7Br0gFu7cd1CtH) | 3:18 | 2021-12-17 | 2022-02-23 |
@@ -183,6 +183,7 @@
 | [Ponte Las Pilas](https://open.spotify.com/track/6iZ1Fd3YjhDek7nWZub395) | [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly) | [Ponte Las Pilas](https://open.spotify.com/album/223lyPMI0rFgcCYS201YLp) | 3:00 | 2022-01-28 | 2022-03-22 |
 | [Por Confiar En Ti](https://open.spotify.com/track/2MfJSHRdG2hZWX6YEL0Kjv) | [Rocio Reyna](https://open.spotify.com/artist/35IdmDZL2acYsC86sLEUbK) | [Por Confiar En Ti](https://open.spotify.com/album/5A931C8ImEjy9HPMCyxJhl) | 3:40 | 2021-12-17 | 2022-03-18 |
 | [Por Salud Mental](https://open.spotify.com/track/2fHKAwEiIp1ZuRdeAsYKex) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 3:32 | 2022-12-09 |  |
+| [Por Ti](https://open.spotify.com/track/56kcxvEbwLaKpR6btCuE8q) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Por Ti](https://open.spotify.com/album/2qrc0YH2PfVbdSQpwEWxl9) | 2:43 | 2023-05-12 |  |
 | [Por Ti Me Abrazaré](https://open.spotify.com/track/6bvHqGVqf320Sn3bkQcOyp) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Por Ti Me Abrazaré](https://open.spotify.com/album/5qndP6JceszrhYHRcXwVBp) | 3:14 | 2021-12-17 | 2022-04-29 |
 | [Por Tu Perra Decisión](https://open.spotify.com/track/2fgpM626rTMByq9GYEAYC6) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [Por Tu Perra Decisión](https://open.spotify.com/album/2hcjsoV8pRBNTyojGPE2xZ) | 2:56 | 2022-07-01 | 2022-12-10 |
 | [Por un Malandro](https://open.spotify.com/track/2MQPxzwvpgcJ4kBNBB0UjK) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [Por un Malandro](https://open.spotify.com/album/60a681bIqPM7sKHJsThh4T) | 2:58 | 2022-04-29 | 2022-09-24 |

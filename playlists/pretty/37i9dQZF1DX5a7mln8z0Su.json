@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 5734,
+  "num_followers": 5740,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmJiNzZiYjYxYjg0NDEzMzFkZTkwNmZiMjFkYmI5NjNmYmQ4NTQ1",
+  "snapshot_id": "MCw0MzNlMjY2NTg2ZWU4MzJjZmJkZGFmMWIzZjg4MGM4YzA2ZDA1YmVk",
   "tracks": [
     {
       "added_at": "2023-05-05 08:16:27",
@@ -199,18 +199,18 @@
     {
       "added_at": "2023-05-05 08:16:27",
       "album": {
-        "name": "NANGMAN",
-        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
+        "name": "Heart Burn",
+        "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
       },
       "artists": [
         {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
         }
       ],
-      "duration_ms": 216293,
-      "name": "Vancouver",
-      "url": "https://open.spotify.com/track/0gFCY62s8BCy6x0Q3gxczc"
+      "duration_ms": 195040,
+      "name": "Childhood",
+      "url": "https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj"
     },
     {
       "added_at": "2023-05-05 08:16:27",
@@ -231,18 +231,18 @@
     {
       "added_at": "2023-05-05 08:16:27",
       "album": {
-        "name": "Heart Burn",
-        "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
+        "name": "NANGMAN",
+        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
       "artists": [
         {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         }
       ],
-      "duration_ms": 195040,
-      "name": "Childhood",
-      "url": "https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj"
+      "duration_ms": 216293,
+      "name": "Vancouver",
+      "url": "https://open.spotify.com/track/0gFCY62s8BCy6x0Q3gxczc"
     },
     {
       "added_at": "2023-05-05 08:16:27",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-05-05 08:16:27",
       "album": {
-        "name": "All I Have",
-        "url": "https://open.spotify.com/album/1i69rOSur7z9iARKyz0tZZ"
-      },
-      "artists": [
-        {
-          "name": "soowoo",
-          "url": "https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo"
-        }
-      ],
-      "duration_ms": 168480,
-      "name": "All I Have",
-      "url": "https://open.spotify.com/track/6GJJ8nmShJUDSIyyjl9yqv"
-    },
-    {
-      "added_at": "2023-05-05 08:16:27",
-      "album": {
         "name": "Track 03",
         "url": "https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 171866,
       "name": "Airplane Mode",
       "url": "https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE"
+    },
+    {
+      "added_at": "2023-05-05 08:16:27",
+      "album": {
+        "name": "All I Have",
+        "url": "https://open.spotify.com/album/1i69rOSur7z9iARKyz0tZZ"
+      },
+      "artists": [
+        {
+          "name": "soowoo",
+          "url": "https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo"
+        }
+      ],
+      "duration_ms": 168480,
+      "name": "All I Have",
+      "url": "https://open.spotify.com/track/6GJJ8nmShJUDSIyyjl9yqv"
     },
     {
       "added_at": "2023-05-05 08:16:27",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-05-05 08:16:27",
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/2L572virNeJpe4X8SAVbQ1"
+      },
+      "artists": [
+        {
+          "name": "OoOo",
+          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
+        }
+      ],
+      "duration_ms": 183281,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0tkR9qJXzuUoI9sKW08ZGM"
+    },
+    {
+      "added_at": "2023-05-05 08:16:27",
+      "album": {
         "name": "Used",
         "url": "https://open.spotify.com/album/5GoH6H1Aq60j0HRApDWHqr"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 233117,
       "name": "Used",
       "url": "https://open.spotify.com/track/1ihB9RzGn3IrdnsHZ2e7qv"
-    },
-    {
-      "added_at": "2023-05-05 08:16:27",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/2L572virNeJpe4X8SAVbQ1"
-      },
-      "artists": [
-        {
-          "name": "OoOo",
-          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
-        }
-      ],
-      "duration_ms": 183281,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0tkR9qJXzuUoI9sKW08ZGM"
     },
     {
       "added_at": "2023-05-05 08:16:27",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-05-05 08:16:27",
       "album": {
-        "name": "Kangaroo",
-        "url": "https://open.spotify.com/album/7GBQfaZAiYs7K1kGRYUYKv"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 225903,
-      "name": "Kangaroo",
-      "url": "https://open.spotify.com/track/1Oi9J5OpJmnZusVBbt2cjo"
-    },
-    {
-      "added_at": "2023-05-05 08:16:27",
-      "album": {
         "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
         "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 235693,
       "name": "Nemo",
       "url": "https://open.spotify.com/track/2JZiDl32xEwkm7TjMOPUVB"
+    },
+    {
+      "added_at": "2023-05-05 08:16:27",
+      "album": {
+        "name": "Kangaroo",
+        "url": "https://open.spotify.com/album/7GBQfaZAiYs7K1kGRYUYKv"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 225903,
+      "name": "Kangaroo",
+      "url": "https://open.spotify.com/track/1Oi9J5OpJmnZusVBbt2cjo"
     }
   ],
   "unique_name": "\uad1c\ud788 \uc13c\uce58\ud574",

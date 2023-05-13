@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 38907,
+  "num_followers": 38922,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YWU1MGNiYTFjM2IxZWJlOTEyNTNiMTk5ZGVjNGQ0YjU3ZTkxN2Q0",
+  "snapshot_id": "MCw2MjA5YWM1NmEyYWNhNmJhM2Y2MTM2YThmMDA1NzQ4MDZhMGU2NzBk",
   "tracks": [
     {
       "added_at": "2019-10-04 16:01:14",
@@ -505,6 +505,22 @@
       "url": "https://open.spotify.com/track/372QbYnp7oUWhRCplHNlUN"
     },
     {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "The Complete Verve Singles",
+        "url": "https://open.spotify.com/album/2gmllgULrjkPa1QSZ2mPwd"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Smith",
+          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
+        }
+      ],
+      "duration_ms": 149560,
+      "name": "Funky Broadway",
+      "url": "https://open.spotify.com/track/2CAgx55oNmNRUjC1XKNDe4"
+    },
+    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "River: The Joni Letters (Expanded Edition)",
@@ -523,22 +539,6 @@
       "duration_ms": 324960,
       "name": "River",
       "url": "https://open.spotify.com/track/6pQ7nunBpQc5In5wBl2ZhK"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "The Complete Verve Singles",
-        "url": "https://open.spotify.com/album/2gmllgULrjkPa1QSZ2mPwd"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Smith",
-          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
-        }
-      ],
-      "duration_ms": 149560,
-      "name": "Funky Broadway",
-      "url": "https://open.spotify.com/track/2CAgx55oNmNRUjC1XKNDe4"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "Lester Swings",
-        "url": "https://open.spotify.com/album/1YtMIgRjJvAUtbidTuRMAg"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Lester Swings",
-      "url": "https://open.spotify.com/track/2LYklTGasuPu3GbcEDUuNa"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
         "name": "Samba Para Dos",
         "url": "https://open.spotify.com/album/1VHvivZcnwF5NoENyrP0hM"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 120813,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/00GTtlXO556jzueCinWmu9"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "Lester Swings",
+        "url": "https://open.spotify.com/album/1YtMIgRjJvAUtbidTuRMAg"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Lester Swings",
+      "url": "https://open.spotify.com/track/2LYklTGasuPu3GbcEDUuNa"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1429,22 +1429,6 @@
       "url": "https://open.spotify.com/track/3lta7AUv6eu5QSjiGPqKYz"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Guitar Forms (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3blcKLkwfmRUFBVUbTyLHc"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        }
-      ],
-      "duration_ms": 251026,
-      "name": "Greensleeves",
-      "url": "https://open.spotify.com/track/0H1Ps1YpObdbhZOF7DLWId"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "High Life",
@@ -1459,6 +1443,22 @@
       "duration_ms": 312133,
       "name": "Maya",
       "url": "https://open.spotify.com/track/14CS5ex2sEZKyKdCgDOivI"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Guitar Forms (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3blcKLkwfmRUFBVUbTyLHc"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        }
+      ],
+      "duration_ms": 251026,
+      "name": "Greensleeves",
+      "url": "https://open.spotify.com/track/0H1Ps1YpObdbhZOF7DLWId"
     },
     {
       "added_at": "2019-10-02 08:54:10",

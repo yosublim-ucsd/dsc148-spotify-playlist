@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 
 > Even through heartbreak and pain, God’s love remains\. Here are songs that cover the crossroads of hope and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,917 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,961 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fall in Love with You.](https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:12 |
 | 2 | [You Say](https://open.spotify.com/track/6Up545NUflOiXo8cEraH49) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:34 |
-| 3 | [God Only Knows](https://open.spotify.com/track/4ElNxglBjcrASiGn58t9Jm) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Burn The Ships](https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh) | 3:49 |
+| 3 | [Lord, I Need You](https://open.spotify.com/track/4EHWldZTas5KUyFtT0rQlY) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 3:25 |
 | 4 | [Destroy Myself Just For You](https://open.spotify.com/track/40iHwasC0kEK8fgaEfQReF) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Destroy Myself Just For You](https://open.spotify.com/album/1X71Gke5NpopGMNbNxEB35) | 2:26 |
-| 5 | [Lord, I Need You](https://open.spotify.com/track/4EHWldZTas5KUyFtT0rQlY) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 3:25 |
+| 5 | [God Only Knows](https://open.spotify.com/track/4ElNxglBjcrASiGn58t9Jm) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Burn The Ships](https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh) | 3:49 |
 | 6 | [Hey You \(feat\. Jonathan McReynolds\)](https://open.spotify.com/track/5Hi8tZPoSgvt3NkZLbTIk3) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [DOE \- EP](https://open.spotify.com/album/2Qsk6hOtjEoBPURQWEppLo) | 3:35 |
 | 7 | [Do It Again](https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 6:38 |
 | 8 | [Beautifully Broken](https://open.spotify.com/track/2j5iN3PBDJrboveBmEEwfg) | [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Beautifully Broken](https://open.spotify.com/album/4TisM8f1MV8XSE7U5iQ69I) | 3:23 |
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 12 | [Coffee & Cherries](https://open.spotify.com/track/7gucyUOtnBppG9Kdx452ya) | [Kylie Odetta](https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq) | [Coffee & Cherries](https://open.spotify.com/album/4kPbI0DiBzMrGeFJMrlPAu) | 2:21 |
 | 13 | [Tell Your Heart To Beat Again](https://open.spotify.com/track/4F6KXBE38OBGPZsryUih1x) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Hope In Front of Me](https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM) | 3:53 |
 | 14 | [Pull My Heart Away](https://open.spotify.com/track/4vFZjVQKlYM7vOPfvAc4dn) | [Samuel Sweat](https://open.spotify.com/artist/7aOUerIr7SYARgetssONKz), [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Pull My Heart Away](https://open.spotify.com/album/1OxM5G8WOARS4BKwh9Hiuv) | 2:30 |
-| 15 | [Maybe It's Ok](https://open.spotify.com/track/3mKIS7svYfwxiwRWIi1tmK) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Power](https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi) | 3:31 |
+| 15 | [Hills and Valleys](https://open.spotify.com/track/3jWo2yhB8vq8c2OMgPg25D) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:55 |
 | 16 | [Broken](https://open.spotify.com/track/2EfEa3TJlpPUX9pY95KQxI) | [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Broken](https://open.spotify.com/album/3BIidQamOV0tESTXQJaHFa) | 3:35 |
-| 17 | [Hills and Valleys](https://open.spotify.com/track/3jWo2yhB8vq8c2OMgPg25D) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:55 |
+| 17 | [Maybe It's Ok](https://open.spotify.com/track/3mKIS7svYfwxiwRWIi1tmK) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Power](https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi) | 3:31 |
 | 18 | [What Faith Can Do](https://open.spotify.com/track/58nLgrkgVsVA4w5dWsFgR2) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [It Is Well \(Expanded Edition\)](https://open.spotify.com/album/23nxQxj7M00ktsNdLE2e1D) | 3:53 |
 | 19 | [The Breakup Song](https://open.spotify.com/track/5U4zBRfVdqaL1kOULNtZ1T) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [Own It](https://open.spotify.com/album/4ggS6OmzHrIqpfj0tYdzT0) | 3:24 |
 | 20 | [Busted Heart \(Hold On To Me\)](https://open.spotify.com/track/3p6xfj47lt8TfOax2oB2Mr) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Crave](https://open.spotify.com/album/6UoU5gg48va0GbZchRK1pw) | 3:18 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 29 | [fast forward](https://open.spotify.com/track/046316TMJn8PQ3QD3WSBEf) | [zachy](https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4) | [fast forward](https://open.spotify.com/album/0p5weycPUThEvVxrdyMNrs) | 2:07 |
 | 30 | [Maybe Tables Turn \(demo\)](https://open.spotify.com/track/1xOLUgp4pb9SsH5kPiTHfS) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Maybe Tables Turn \(demo\)](https://open.spotify.com/album/3elMZvgMAgsJEj2oUXC56M) | 2:37 |
 | 31 | [Movin' On \- Live](https://open.spotify.com/track/3XlnwrRvWSmK3mAygwhiaM) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [Jonny x Mali: Live in LA \(Stereo\)](https://open.spotify.com/album/7ze06tCYbvgbZWVcGIQdfO) | 4:20 |
-| 32 | [Brokenhearted \(with Marvin L\. Winans\)](https://open.spotify.com/track/37ao4T8DSd6DvIbgIlMps3) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Marvin L\. Winans](https://open.spotify.com/artist/3hjybWRzcos3v8ooD8hETy) | [Hero](https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m) | 6:01 |
-| 33 | [ilym](https://open.spotify.com/track/35vaMa2SQtGbyvJRwZRr4C) | [Reed Deming](https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR) | [ilym](https://open.spotify.com/album/3RZ3gxJs0aXflqt1RW4ddg) | 3:57 |
+| 32 | [ilym](https://open.spotify.com/track/35vaMa2SQtGbyvJRwZRr4C) | [Reed Deming](https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR) | [ilym](https://open.spotify.com/album/3RZ3gxJs0aXflqt1RW4ddg) | 3:57 |
+| 33 | [Brokenhearted \(with Marvin L\. Winans\)](https://open.spotify.com/track/37ao4T8DSd6DvIbgIlMps3) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Marvin L\. Winans](https://open.spotify.com/artist/3hjybWRzcos3v8ooD8hETy) | [Hero](https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m) | 6:01 |
 | 34 | [Why Am I Not Yours](https://open.spotify.com/track/3E5F6g4wXD7D8tkyZa6mnt) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [an Anecdote of Love and All that Lies Within](https://open.spotify.com/album/5UjR03cOSRrwzj2abbu0DM) | 3:44 |
 | 35 | [Happier](https://open.spotify.com/track/7aUtyTij6lRyNjSAV9liDq) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD) | [Happier](https://open.spotify.com/album/1dQCWiSfNzXl9nhRCiGhsV) | 2:08 |
 | 36 | [Shoot Me Down](https://open.spotify.com/track/2NgwMt6Oay0NQ8x0hTL0kM) | [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP) | [Shoot Me Down](https://open.spotify.com/album/0IK82QYmC74RY1geq4Kgu8) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 49 | [Mender Of Broken Hearts](https://open.spotify.com/track/7LrTq9MG2jsGK5VWhEleLa) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Nothing But The Hits: Fred Hammond](https://open.spotify.com/album/0BrE1eS3LplGo2OnLPa2j4) | 5:00 |
 | 50 | [Memories \- Remastered](https://open.spotify.com/track/4zHq7tEb1aU14yBI3h48Dn) | [Audrey Marie](https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU) | [Illuminate](https://open.spotify.com/album/3gv6D5I0UO9vDypT3H9UbX) | 4:07 |
 
-Snapshot ID: `MCw0OTI5YzU2OTE2M2ExMDFmYzQ1ZTU0MjJlMmM0ODVkNjlhMjI3NzUx`
+Snapshot ID: `MCxhNmE1NmMyMWYxZWUyNDRjNDM3NmVmNTVkYzkzN2QxNTI5ZTc3YzA3`

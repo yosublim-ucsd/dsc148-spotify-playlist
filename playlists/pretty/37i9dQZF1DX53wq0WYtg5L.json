@@ -1,12 +1,12 @@
 {
   "description": "Celebremos el orgullo mexicano con estas alegres canciones.",
-  "num_followers": 538047,
+  "num_followers": 538114,
   "original_name": "\u00a1Viva M\u00e9xico!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTY0ZWUwNjQ3NTk4MGRjYjU1MWRlYTI0MTNhMGE3Y2ExNDM2YmNm",
+  "snapshot_id": "MCwzOTMwZWQ3NmRjM2Q2MTQ3NGI5MWYwNjhjNjBiOGU0ZmRjMThmY2Rj",
   "tracks": [
     {
       "added_at": "2022-09-12 17:32:54",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Canta a su tierra",
-        "url": "https://open.spotify.com/album/6kAzgClJ1Wep9hYbPsZbK1"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Jalisco",
-          "url": "https://open.spotify.com/artist/7GiXhGibdAeh2aNSWRiX3O"
-        }
-      ],
-      "duration_ms": 176844,
-      "name": "El Son de Mi Tierra",
-      "url": "https://open.spotify.com/track/3UjLx3Hx0TM0Z8gkCqQ6wa"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "Selecci\u00f3n Especial (Remastered)",
         "url": "https://open.spotify.com/album/0cIdrD4KzNHtGwyWRKf5ac"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 137640,
       "name": "La Raspa - Remastered",
       "url": "https://open.spotify.com/track/5xxy1vBcEG9W9rzZeUlz12"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Canta a su tierra",
+        "url": "https://open.spotify.com/album/6kAzgClJ1Wep9hYbPsZbK1"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Jalisco",
+          "url": "https://open.spotify.com/artist/7GiXhGibdAeh2aNSWRiX3O"
+        }
+      ],
+      "duration_ms": 176844,
+      "name": "El Son de Mi Tierra",
+      "url": "https://open.spotify.com/track/3UjLx3Hx0TM0Z8gkCqQ6wa"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Mariachi Azteca",
-        "url": "https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Azteca",
-          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
-        }
-      ],
-      "duration_ms": 127200,
-      "name": "Las alazanas",
-      "url": "https://open.spotify.com/track/53OZ46nxUyq94rZDGxbb3I"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "Polkas Mexicanas",
         "url": "https://open.spotify.com/album/38xZkah2e5R45YCihrw5Wg"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 160760,
       "name": "Jesusita En Chihuahua",
       "url": "https://open.spotify.com/track/6uPPaJBSEn1kp9ZUQuDfEq"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Mariachi Azteca",
+        "url": "https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Azteca",
+          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
+        }
+      ],
+      "duration_ms": 127200,
+      "name": "Las alazanas",
+      "url": "https://open.spotify.com/track/53OZ46nxUyq94rZDGxbb3I"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -963,8 +963,8 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Mariachi from Mexico",
-        "url": "https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM"
+        "name": "Mariachi Azteca",
+        "url": "https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo"
       },
       "artists": [
         {
@@ -972,9 +972,9 @@
           "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
         }
       ],
-      "duration_ms": 114960,
-      "name": "El relampago",
-      "url": "https://open.spotify.com/track/6Zdt5sqHFN4UOoDIOE04rO"
+      "duration_ms": 228160,
+      "name": "La bamba",
+      "url": "https://open.spotify.com/track/73TlRBB49YVKtrmlj7mERt"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1036,9 +1036,9 @@
           "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
         }
       ],
-      "duration_ms": 219040,
-      "name": "Huapango Torero - Remastered",
-      "url": "https://open.spotify.com/track/0Hl5ZPb8lAk5Bx0NTUfhNQ"
+      "duration_ms": 193946,
+      "name": "El Herradero - Remastered",
+      "url": "https://open.spotify.com/track/6ymFvQN3Tfd3CXpyJvIok3"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1228,9 +1228,9 @@
           "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
         }
       ],
-      "duration_ms": 193946,
-      "name": "El Herradero - Remastered",
-      "url": "https://open.spotify.com/track/6ymFvQN3Tfd3CXpyJvIok3"
+      "duration_ms": 219040,
+      "name": "Huapango Torero - Remastered",
+      "url": "https://open.spotify.com/track/0Hl5ZPb8lAk5Bx0NTUfhNQ"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1443,8 +1443,8 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Mariachi Azteca",
-        "url": "https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo"
+        "name": "Mariachi from Mexico",
+        "url": "https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM"
       },
       "artists": [
         {
@@ -1452,9 +1452,9 @@
           "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
         }
       ],
-      "duration_ms": 228160,
-      "name": "La bamba",
-      "url": "https://open.spotify.com/track/73TlRBB49YVKtrmlj7mERt"
+      "duration_ms": 114960,
+      "name": "El relampago",
+      "url": "https://open.spotify.com/track/6Zdt5sqHFN4UOoDIOE04rO"
     },
     {
       "added_at": "2022-09-12 17:32:54",

@@ -1,12 +1,12 @@
 {
   "description": "The best Blues for a long trip behind the wheel. ",
-  "num_followers": 18995,
+  "num_followers": 19042,
   "original_name": "Blues Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTBmNmE3YTQ0OTFlMzgzN2JhNGY3NDUxY2E0MDM5MmVkNDIxYTU2",
+  "snapshot_id": "MCxmNGM0YmU4ODg1MzZlNzVhMGU5OTdlNzViMTA3YjhhZGQ3NTkyMGNk",
   "tracks": [
     {
       "added_at": "2023-01-27 16:34:16",
@@ -159,6 +159,22 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
+        "name": "Truckin' With Albert Collins",
+        "url": "https://open.spotify.com/album/1RVKFYjaQtyNFTsVRSwcLj"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 185560,
+      "name": "Frosty - Single Version",
+      "url": "https://open.spotify.com/track/4uaMKjr8pj92Z0PYwSeN5b"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
         "name": "ZZ Top's First Album",
         "url": "https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 390226,
       "name": "Spoonful",
       "url": "https://open.spotify.com/track/5v2Hwf7w2j4Xpy8kdRgpK2"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
-        "name": "Truckin' With Albert Collins",
-        "url": "https://open.spotify.com/album/1RVKFYjaQtyNFTsVRSwcLj"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 185560,
-      "name": "Frosty - Single Version",
-      "url": "https://open.spotify.com/track/4uaMKjr8pj92Z0PYwSeN5b"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "Mean Old World",
-      "url": "https://open.spotify.com/track/4Eqa2PFcVgCWjBlj2Xw8wN"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
         "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 152893,
       "name": "Shake Your Money Maker",
       "url": "https://open.spotify.com/track/2VxnY6jbl0SckkZp9wrNF7"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "Mean Old World",
+      "url": "https://open.spotify.com/track/4Eqa2PFcVgCWjBlj2Xw8wN"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Shake Down",
-        "url": "https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb"
-      },
-      "artists": [
-        {
-          "name": "Savoy Brown",
-          "url": "https://open.spotify.com/artist/17obwOahRWI121iMUZznh2"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "Ain't Superstitious",
-      "url": "https://open.spotify.com/track/2z47CyvhUXKg2aE5DVBSeK"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "It's My Life Baby",
         "url": "https://open.spotify.com/album/5BO0YaOMf0isXQcVqr14XH"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 206960,
       "name": "(I Got A) Stomach Ache",
       "url": "https://open.spotify.com/track/4qHJ2Ap72rtcupZrn7f1do"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Shake Down",
+        "url": "https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb"
+      },
+      "artists": [
+        {
+          "name": "Savoy Brown",
+          "url": "https://open.spotify.com/artist/17obwOahRWI121iMUZznh2"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "Ain't Superstitious",
+      "url": "https://open.spotify.com/track/2z47CyvhUXKg2aE5DVBSeK"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -775,38 +775,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "More Real Folk Blues",
-        "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
-      },
-      "artists": [
-        {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
-        }
-      ],
-      "duration_ms": 147293,
-      "name": "Stop Right Now - Stereo Version",
-      "url": "https://open.spotify.com/track/4Uo4RCirDyu9P9YaUAFFPV"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
-        "name": "Goin' To Chicago",
-        "url": "https://open.spotify.com/album/4p5MlG351OaQac8CRZsF3K"
-      },
-      "artists": [
-        {
-          "name": "Billy Boy Arnold",
-          "url": "https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o"
-        }
-      ],
-      "duration_ms": 154786,
-      "name": "Left My Happy Home",
-      "url": "https://open.spotify.com/track/7j8M2LKnaM5onc0XtcGotq"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Twice Removed from Yesterday",
         "url": "https://open.spotify.com/album/15XZ5bvCoiEXEBprtGkpZu"
       },
@@ -823,6 +791,22 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+        }
+      ],
+      "duration_ms": 147293,
+      "name": "Stop Right Now - Stereo Version",
+      "url": "https://open.spotify.com/track/4Uo4RCirDyu9P9YaUAFFPV"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
         "name": "The Best of Peter Green's Fleetwood Mac",
         "url": "https://open.spotify.com/album/3SgBIPBgm2Vmhv2kdym6pI"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 177026,
       "name": "My Heart Beat Like a Hammer",
       "url": "https://open.spotify.com/track/2vu5jhcPIraCfiRDLAvQuW"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Goin' To Chicago",
+        "url": "https://open.spotify.com/album/4p5MlG351OaQac8CRZsF3K"
+      },
+      "artists": [
+        {
+          "name": "Billy Boy Arnold",
+          "url": "https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o"
+        }
+      ],
+      "duration_ms": 154786,
+      "name": "Left My Happy Home",
+      "url": "https://open.spotify.com/track/7j8M2LKnaM5onc0XtcGotq"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
-      },
-      "artists": [
-        {
-          "name": "John Brim",
-          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
-        }
-      ],
-      "duration_ms": 175693,
-      "name": "You Got Me",
-      "url": "https://open.spotify.com/track/24m7kDzKRUnYRlz7LWCYnB"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 171968,
       "name": "Lightnin' Strikes One More Time",
       "url": "https://open.spotify.com/track/0jJ4yI4iNcmUDmb9EtWDZg"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+      },
+      "artists": [
+        {
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+        }
+      ],
+      "duration_ms": 175693,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/24m7kDzKRUnYRlz7LWCYnB"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
+        "name": "Free Form Patterns",
+        "url": "https://open.spotify.com/album/6XY6Bd52R2cJRI2uaDLqgd"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "duration_ms": 224453,
+      "name": "Give Me Time to Think",
+      "url": "https://open.spotify.com/track/0zx00UByhe6SqVcRHwlA1v"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
         "name": "The Essential Little Walter",
         "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
@@ -1363,22 +1379,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Vivid Sound",
-        "url": "https://open.spotify.com/album/4TxbXyp5SZGPxZoKCll7ZF"
-      },
-      "artists": [
-        {
-          "name": "Johnny \"Guitar\" Watson",
-          "url": "https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl"
-        }
-      ],
-      "duration_ms": 150693,
-      "name": "Highway 60",
-      "url": "https://open.spotify.com/track/17LkS9mDYDkkHjRz8M6OIe"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Texas Oil - The Complete Federal Recordings",
         "url": "https://open.spotify.com/album/0aUiSnttJkUwVycLAnXKdQ"
       },
@@ -1391,6 +1391,22 @@
       "duration_ms": 155000,
       "name": "Wash Out",
       "url": "https://open.spotify.com/track/7krwrfAipXYI2aChTzv3t0"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Vivid Sound",
+        "url": "https://open.spotify.com/album/4TxbXyp5SZGPxZoKCll7ZF"
+      },
+      "artists": [
+        {
+          "name": "Johnny \"Guitar\" Watson",
+          "url": "https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl"
+        }
+      ],
+      "duration_ms": 150693,
+      "name": "Highway 60",
+      "url": "https://open.spotify.com/track/17LkS9mDYDkkHjRz8M6OIe"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1427,22 +1443,6 @@
       "duration_ms": 177560,
       "name": "Feelin' Good - Remastered 2022",
       "url": "https://open.spotify.com/track/0hXOrxpO4fKKU53ac3p0Mh"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
-        "name": "Free Form Patterns",
-        "url": "https://open.spotify.com/album/6XY6Bd52R2cJRI2uaDLqgd"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 224453,
-      "name": "Give Me Time to Think",
-      "url": "https://open.spotify.com/track/0zx00UByhe6SqVcRHwlA1v"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Rockin' At The Hops",
-        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 126226,
-      "name": "Confessin' The Blues",
-      "url": "https://open.spotify.com/track/26VeLcnNOv7iOtzb7VuHZF"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Spider in My Stew",
         "url": "https://open.spotify.com/album/1QLaueGOJPQnXPnV7ZZP0h"
       },
@@ -1575,6 +1559,22 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
+        "name": "Rockin' At The Hops",
+        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 126226,
+      "name": "Confessin' The Blues",
+      "url": "https://open.spotify.com/track/26VeLcnNOv7iOtzb7VuHZF"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
         "name": "Retrospective 1957-62",
         "url": "https://open.spotify.com/album/6uWHkVI2uh6Dg2xvvZCwTe"
       },
@@ -1603,6 +1603,26 @@
       "duration_ms": 177160,
       "name": "So Unkind - 1999 RemasterStereo",
       "url": "https://open.spotify.com/track/72I1RvU2o1Yt8agkT95ePZ"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Chicago Blues Session Volume 12",
+        "url": "https://open.spotify.com/album/3aIsNJmW34RBXNoYOTKyOE"
+      },
+      "artists": [
+        {
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+        },
+        {
+          "name": "Pinetop Perkins",
+          "url": "https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55"
+        }
+      ],
+      "duration_ms": 171453,
+      "name": "Movin' Out",
+      "url": "https://open.spotify.com/track/2dY0bMsM7UXFh7Ekl7XSGn"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1639,26 +1659,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Chicago Blues Session Volume 12",
-        "url": "https://open.spotify.com/album/3aIsNJmW34RBXNoYOTKyOE"
-      },
-      "artists": [
-        {
-          "name": "John Brim",
-          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
-        },
-        {
-          "name": "Pinetop Perkins",
-          "url": "https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55"
-        }
-      ],
-      "duration_ms": 171453,
-      "name": "Movin' Out",
-      "url": "https://open.spotify.com/track/2dY0bMsM7UXFh7Ekl7XSGn"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Hot Boppin Girls Vol. 1",
         "url": "https://open.spotify.com/album/6xeAubcR03QNp2ix1iEcfx"
       },
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Chicago Blues From Islington Mews 1977",
-        "url": "https://open.spotify.com/album/0aDCNjNtPRJsPMkfutDO62"
-      },
-      "artists": [
-        {
-          "name": "Billy Boy Arnold",
-          "url": "https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o"
-        }
-      ],
-      "duration_ms": 195720,
-      "name": "Don't Stay Out All Night",
-      "url": "https://open.spotify.com/track/5nNLdUPVy9J0fYdlS6al2i"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "The Blues Ain't Nothin' (Recorded in France 1971-1973)",
         "url": "https://open.spotify.com/album/3KTnRBMogesNlMGkx4Axb1"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 257000,
       "name": "Goin' to Chicago",
       "url": "https://open.spotify.com/track/2qthiyAT4MJjYuM1q5Qqo1"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Chicago Blues From Islington Mews 1977",
+        "url": "https://open.spotify.com/album/0aDCNjNtPRJsPMkfutDO62"
+      },
+      "artists": [
+        {
+          "name": "Billy Boy Arnold",
+          "url": "https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o"
+        }
+      ],
+      "duration_ms": 195720,
+      "name": "Don't Stay Out All Night",
+      "url": "https://open.spotify.com/track/5nNLdUPVy9J0fYdlS6al2i"
     },
     {
       "added_at": "2023-01-27 16:34:16",

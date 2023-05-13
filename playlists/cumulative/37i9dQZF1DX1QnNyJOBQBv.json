@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The hottest Latin pop tracks right now. Cover: Las Villa & Marco Mares",
+  "description": "The hottest Latin pop tracks right now. Cover: Sebastian Yatra, Manuel Turizo & Be\u00e9le",
   "name": "Latin Pop Today",
   "tracks": [
     {
@@ -210,6 +210,24 @@
       "duration_ms": 145783,
       "name": "A Veces Bien Y A Veces Mal",
       "url": "https://open.spotify.com/track/21DZByorOzBJ0a0mikH8ri"
+    },
+    {
+      "album": {
+        "name": "Acr\u00f3stico",
+        "url": "https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170785,
+      "name": "Acr\u00f3stico",
+      "url": "https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp"
     },
     {
       "album": {
@@ -2891,6 +2909,24 @@
     },
     {
       "album": {
+        "name": "La Mitad",
+        "url": "https://open.spotify.com/album/4FdLKltOVq8bIkMBCdYXqn"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176236,
+      "name": "La Mitad",
+      "url": "https://open.spotify.com/track/5nIZkrEBVzbt3XhXRyVRQo"
+    },
+    {
+      "album": {
         "name": "La Ni\u00f1a",
         "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
       },
@@ -3266,7 +3302,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 148700,
       "name": "Luna",
       "url": "https://open.spotify.com/track/5XmAauYsJ9KctEO70myiRJ"
@@ -4066,7 +4102,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 191863,
       "name": "Obsesi\u00f3n",
       "url": "https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp"
@@ -4084,7 +4120,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 193360,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/1GOCK6Pr1oXFQUpqNVSTZ9"
@@ -4348,6 +4384,24 @@
       "duration_ms": 105022,
       "name": "Parcerita",
       "url": "https://open.spotify.com/track/1QlJLYbbNlaJAWOzhKalSz"
+    },
+    {
+      "album": {
+        "name": "Parece Mentira",
+        "url": "https://open.spotify.com/album/4qVv2WWXeyeLZqXmbIJ1Pm"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213958,
+      "name": "Parece Mentira",
+      "url": "https://open.spotify.com/track/6MPOkyax2MTcsMVhbQ93vz"
     },
     {
       "album": {
@@ -5002,7 +5056,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 204454,
       "name": "Si T\u00fa Me Quieres",
       "url": "https://open.spotify.com/track/6EjZfW6C5msXQNaf1kquu7"
@@ -5788,6 +5842,32 @@
       "duration_ms": 155440,
       "name": "Vacaciones",
       "url": "https://open.spotify.com/track/5a1uP3YHcvb4XkucSQGC1c"
+    },
+    {
+      "album": {
+        "name": "VAGABUNDO",
+        "url": "https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215600,
+      "name": "VAGABUNDO",
+      "url": "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG"
     },
     {
       "album": {

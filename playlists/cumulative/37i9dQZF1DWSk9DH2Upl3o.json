@@ -1604,10 +1604,32 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 347600,
       "name": "Scarlet Begonias",
       "url": "https://open.spotify.com/track/7w3f1gluu1NTtKcTD6s5p0"
+    },
+    {
+      "album": {
+        "name": "To Lay Me Down (feat. Jamey Johnson)",
+        "url": "https://open.spotify.com/album/4Mr06hdaTRf9p4UBMbX7qH"
+      },
+      "artists": [
+        {
+          "name": "Dave McMurray",
+          "url": "https://open.spotify.com/artist/1DOwY4lGFMmu4gqoGAI84x"
+        },
+        {
+          "name": "Oteil Burbridge",
+          "url": "https://open.spotify.com/artist/5NxOynAoF4PRKsFHH5LhGL"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347600,
+      "name": "Scarlet Begonias (feat. Oteil Burbridge)",
+      "url": "https://open.spotify.com/track/0sdyxD5y3KxMrWA2kAF5vf"
     },
     {
       "album": {

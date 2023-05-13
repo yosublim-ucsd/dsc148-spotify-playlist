@@ -1,12 +1,12 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 336692,
+  "num_followers": 336783,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTQ4Y2RjNWJhMjkwYWJmODhjOWNlMzUyZmQyN2I1ZDE4NDQyNWU1",
+  "snapshot_id": "MCxkZmYyMDUyNDgwYTdjMjBiZWEzMTdkNzQ4YzU2NTA1YjZiYjIxMzU4",
   "tracks": [
     {
       "added_at": "2023-03-31 04:11:02",
@@ -91,6 +91,22 @@
       "duration_ms": 197081,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/0loJyuSFr6vVPBQSmLLrrQ"
+    },
+    {
+      "added_at": "2023-05-12 04:56:59",
+      "album": {
+        "name": "The Sweetest Thing",
+        "url": "https://open.spotify.com/album/5BIpgoq1dFvuTLcKRDbD09"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "duration_ms": 275070,
+      "name": "The Sweetest Thing",
+      "url": "https://open.spotify.com/track/4jDAQRLExhzT6CEmo0nucu"
     },
     {
       "added_at": "2021-01-15 05:01:00",
@@ -611,22 +627,6 @@
       "duration_ms": 256000,
       "name": "It Never Rains (In SoCal)",
       "url": "https://open.spotify.com/track/2yBk4a2LyBM5vRAMe5eIiG"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "Charlie, Last Name Wilson",
-        "url": "https://open.spotify.com/album/28HcjLBR5KSz5QrnRz7kSP"
-      },
-      "artists": [
-        {
-          "name": "Charlie Wilson",
-          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
-        }
-      ],
-      "duration_ms": 302440,
-      "name": "Let's Chill",
-      "url": "https://open.spotify.com/track/7wb7R141Fp1oRitCNhKsyu"
     }
   ],
   "unique_name": "Soul Revived",

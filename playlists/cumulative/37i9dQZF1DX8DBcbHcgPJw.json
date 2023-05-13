@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Natalie Perez.",
+  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Rei",
   "name": "Dame M\u00e1s Cumbia",
   "tracks": [
     {
@@ -122,6 +122,24 @@
       "duration_ms": 218117,
       "name": "A Chillar a Otra Parte - Remix",
       "url": "https://open.spotify.com/track/2pcK0a6052l3VE2qs9gTIy"
+    },
+    {
+      "album": {
+        "name": "A llorar a otra parte",
+        "url": "https://open.spotify.com/album/3WIlRYCiQJ67h9gkRnAhBH"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "A llorar a otra parte",
+      "url": "https://open.spotify.com/track/7wB5JU6RIcUZCoymczsCFN"
     },
     {
       "album": {
@@ -418,7 +436,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 400395,
       "name": "Asi Fue / Lloraras Mas de 10 Veces / Te Quiero",
       "url": "https://open.spotify.com/track/5PDjNRHHWb31OL09yfX1rT"
@@ -510,6 +528,24 @@
       "duration_ms": 221612,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/0MMS8TSvVyKk4SASvX5tUl"
+    },
+    {
+      "album": {
+        "name": "Bebe Dame",
+        "url": "https://open.spotify.com/album/0SLGJMpawwQIMjgQbEAhW0"
+      },
+      "artists": [
+        {
+          "name": "Los Turros",
+          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224999,
+      "name": "Bebe Dame",
+      "url": "https://open.spotify.com/track/7hTNKOhg7i53zGvwWWalLG"
     },
     {
       "album": {
@@ -1674,7 +1710,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 154315,
       "name": "Donde Estas",
       "url": "https://open.spotify.com/track/7c5h3BeU2q9paJelFjtmTG"
@@ -3310,7 +3346,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 170653,
       "name": "Lejos",
       "url": "https://open.spotify.com/track/6Kk4fza1rX70tVY3ZZcsic"
@@ -3703,6 +3739,28 @@
     },
     {
       "album": {
+        "name": "MAL AH\u00cd",
+        "url": "https://open.spotify.com/album/5AhhiMMEQ3cRzhcrSxXel6"
+      },
+      "artists": [
+        {
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+        },
+        {
+          "name": "Flor Vigna",
+          "url": "https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140631,
+      "name": "MAL AH\u00cd",
+      "url": "https://open.spotify.com/track/76yC0nTceLTh1wW1NfxoJe"
+    },
+    {
+      "album": {
         "name": "Mal de Amores",
         "url": "https://open.spotify.com/album/5rd8XvZd7lmlRaON32NNQW"
       },
@@ -3900,7 +3958,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 133572,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/21rvGezCRIQrWTd6lByZza"
@@ -6652,6 +6710,24 @@
       "duration_ms": 161156,
       "name": "Trato de Olvidarte",
       "url": "https://open.spotify.com/track/7qlNg7nyyrU4weeD7GVfO6"
+    },
+    {
+      "album": {
+        "name": "Travesura / Me Prefieres a Mi / Te Ir\u00e9 a Buscar",
+        "url": "https://open.spotify.com/album/3ikPUZJb2SwycIzx063wCh"
+      },
+      "artists": [
+        {
+          "name": "Mosc\u00fa",
+          "url": "https://open.spotify.com/artist/37ELrXzdpjhfUxmNf7Nm0B"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218996,
+      "name": "Travesura / Me Prefieres a Mi / Te Ire a Buscar",
+      "url": "https://open.spotify.com/track/70pnrz3kuFOUHTexeNsxym"
     },
     {
       "album": {

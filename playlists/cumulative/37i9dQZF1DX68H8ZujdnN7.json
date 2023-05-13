@@ -1810,6 +1810,24 @@
     {
       "album": {
         "name": "Twice Shy",
+        "url": "https://open.spotify.com/album/7EV1o7drnL1jKZMwzFAqH8"
+      },
+      "artists": [
+        {
+          "name": "Great White",
+          "url": "https://open.spotify.com/artist/6ZPbX2Lxd40e2UVkXpyxvI"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322896,
+      "name": "Once Bitten Twice Shy",
+      "url": "https://open.spotify.com/track/07nxmAxwhY51juyImllKD2"
+    },
+    {
+      "album": {
+        "name": "Twice Shy",
         "url": "https://open.spotify.com/album/0gPfgxBDkrtJgwIkziS8LI"
       },
       "artists": [
@@ -1820,7 +1838,7 @@
       ],
       "date_added": "2020-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 322896,
       "name": "Once Bitten Twice Shy",
       "url": "https://open.spotify.com/track/7pkWZL0kA26s754CwyK0SH"
@@ -2594,10 +2612,28 @@
       ],
       "date_added": "2020-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 226026,
       "name": "Up All Night",
       "url": "https://open.spotify.com/track/1AsRjeavWPH8sCQbjMP8Xh"
+    },
+    {
+      "album": {
+        "name": "Mass Slaughter: The Best Of Slaughter",
+        "url": "https://open.spotify.com/album/3eefJebHQxT81kCOMr41l4"
+      },
+      "artists": [
+        {
+          "name": "Slaughter",
+          "url": "https://open.spotify.com/artist/4ibNXJiMYOPibpS9DB9Qz3"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226026,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/4AgWfa7qvz3fc1orCPlwNL"
     },
     {
       "album": {

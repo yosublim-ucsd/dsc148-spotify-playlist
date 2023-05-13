@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 
 > A playlist of Christian summer camp favorites, past and present.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,604 likes - 53 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,617 likes - 53 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,16 +25,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 | 15 | [In The Light \- Remastered 2013](https://open.spotify.com/track/2IpbrxP9MqUCtcQQchAiTK) | [DC Talk](https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh) | [Jesus Freak \(Remastered\)](https://open.spotify.com/album/6KbHC5ADEGbnvl7Ge3GVQF) | 5:05 |
 | 16 | [Above All](https://open.spotify.com/track/3JSxKlxWTriK218L3yqoLN) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Worship](https://open.spotify.com/album/4uWr8fOgmNBCP5awR10dbs) | 4:36 |
 | 17 | [Blessed Be Your Name](https://open.spotify.com/track/14HrSWGYPCDwqAcVFUYKsq) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Sing Like Never Before: The Essential Collection](https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm) | 5:48 |
-| 18 | [I've Got Peace Like A River](https://open.spotify.com/track/2CuTb9Tks9eeAmjHGm5vAC) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Sunday School Songs](https://open.spotify.com/album/4YSuzBvt9mppuiha44U2dX) | 1:33 |
-| 19 | [Big House](https://open.spotify.com/track/6j2rwn2MWg4VU9B1GEgqfs) | [Audio Adrenaline](https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER) | [Don't Censor Me](https://open.spotify.com/album/19QwRyfvFmQiIudO3x5m1C) | 3:31 |
+| 18 | [Big House](https://open.spotify.com/track/6j2rwn2MWg4VU9B1GEgqfs) | [Audio Adrenaline](https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER) | [Don't Censor Me](https://open.spotify.com/album/19QwRyfvFmQiIudO3x5m1C) | 3:31 |
+| 19 | [I've Got Peace Like A River](https://open.spotify.com/track/2CuTb9Tks9eeAmjHGm5vAC) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Sunday School Songs](https://open.spotify.com/album/4YSuzBvt9mppuiha44U2dX) | 1:33 |
 | 20 | [Best Friends](https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends](https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO) | 3:05 |
 | 21 | [The Great Adventure](https://open.spotify.com/track/3Qpx3cHP6XMmf8comtpjkT) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op), [Bailee Madison](https://open.spotify.com/artist/1ADf0BZ77Jw7XYFB37hABE), [Jahbril Cook](https://open.spotify.com/artist/4niQBqaDLz6CBtHdTlmcWT), [Kat Conner Sterling](https://open.spotify.com/artist/0ix8tTQpoazYsJEkn0TazD), [Iain Tucker](https://open.spotify.com/artist/11sxWrzQpcZs47pMYU4FVN), [Sherri Shepherd](https://open.spotify.com/artist/006eSnqZrWRa4Z7jhlCt4J), [The Cast Of Netflix's Film A Week Away](https://open.spotify.com/artist/3Rn6h4Auck41QvOCm2jtQQ) | [A Week Away \(Music From The Netflix Film\)](https://open.spotify.com/album/0dD74nV0Y03hx2nXE6UInb) | 3:42 |
 | 22 | [Trading My Sorrows \(Yes Lord\)](https://open.spotify.com/track/4lD8ygUjwpsMvnHgJaSJBC) | [Darrell Evans](https://open.spotify.com/artist/049i3NJRKyn0tQPNTwrKYO) | [Freedom](https://open.spotify.com/album/5YEwF7ET8aobfKYu0AUwgA) | 6:01 |
 | 23 | [Shine](https://open.spotify.com/track/03upgLFcOiiB0HlO4LmdLv) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [The Ultimate Collection](https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd) | 3:41 |
 | 24 | [Jesus Freak](https://open.spotify.com/track/5ID6qIRs04r4fMajBDY7uK) | [DC Talk](https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh) | [8 Great Hits dc Talk](https://open.spotify.com/album/4ml5pL07kDVb9AxJutpI9U) | 4:47 |
-| 25 | [Rise And Shine \(Arky, Arky\)](https://open.spotify.com/track/2DjWrLnmKSWl6ri5EtzVNv) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Action Bible Songs](https://open.spotify.com/album/6Xg4hDKUL9qvivx83Fhgsv) | 2:07 |
+| 25 | [Open the Eyes of My Heart Lord](https://open.spotify.com/track/0UlNsw2YfstrHGWYTOpE0w) | [Elevation](https://open.spotify.com/artist/00g1hZIIn1xKwrbZd6nDUY) | [Timeless Treasures: Open the Eyes of My Heart Lord](https://open.spotify.com/album/1oXWRQSCgYgIy41b5YVTQI) | 4:12 |
 | 26 | [Love Won't Let Me Down](https://open.spotify.com/track/2NssSayyXceWY40zguZjeq) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [III](https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C) | 3:25 |
-| 27 | [Open the Eyes of My Heart Lord](https://open.spotify.com/track/0UlNsw2YfstrHGWYTOpE0w) | [Elevation](https://open.spotify.com/artist/00g1hZIIn1xKwrbZd6nDUY) | [Timeless Treasures: Open the Eyes of My Heart Lord](https://open.spotify.com/album/1oXWRQSCgYgIy41b5YVTQI) | 4:12 |
+| 27 | [Rise And Shine \(Arky, Arky\)](https://open.spotify.com/track/2DjWrLnmKSWl6ri5EtzVNv) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Action Bible Songs](https://open.spotify.com/album/6Xg4hDKUL9qvivx83Fhgsv) | 2:07 |
 | 28 | [You Are My All In All](https://open.spotify.com/track/5Qut1hSpuu7GtsInQunc7O) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 2](https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97) | 3:49 |
 | 29 | [Shine, Jesus Shine](https://open.spotify.com/track/3dbMLnjppsv9pVW7eq9sAK) | [Maranatha! Praise Band](https://open.spotify.com/artist/6CDJjCW8qVphiyxVukKdOa) | [Top 25 Praise Songs: 2005](https://open.spotify.com/album/3qlXW3egxplVOjgLmzVqqS) | 2:27 |
 | 30 | [Great Big God](https://open.spotify.com/track/4vLiBeWve4L9llDzGdpWsM) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Vineyard Kids](https://open.spotify.com/artist/2PwunoNd5k6WstyyC67xhH) | [Great Big God](https://open.spotify.com/album/0Y36IFn8h2NS5afQZXpnTT) | 2:51 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 | 52 | [Every Move I Make](https://open.spotify.com/track/1HBWWoS8rdvZtPLdK4UY6g) | [Maranatha! Praise Band](https://open.spotify.com/artist/6CDJjCW8qVphiyxVukKdOa) | [Praise And Worship Top 40](https://open.spotify.com/album/41yxtxd3tOJ7CXlUPGnfWg) | 3:59 |
 | 53 | [Belong](https://open.spotify.com/track/2LCjZzth94744Ki2vR4scR) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Belong](https://open.spotify.com/album/23UWXk1FORanft5u9boft9) | 3:48 |
 
-Snapshot ID: `MCxhZWM5ZGY0NGM3ZjA4ZmVlMWVkNTQ2ZDlmYzgxNTc4MmEwOWE0M2Zl`
+Snapshot ID: `MCxlNzAyMWI0ZWIzMzJjZjI4MDhhZTc3M2Q0ZjA2MWI4YWY0MWVjZDEz`

@@ -1,12 +1,12 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 30652,
+  "num_followers": 30671,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGUxMzNjMDVmNTQ4N2I2NDAyNmZhYjQwYzg3ZmVmMGE3ZGI4NGFj",
+  "snapshot_id": "MCxmZTA3OTQxZmY4OTU5ZmFhYmVhZWUyMGYzMDcwNzk0Yzk0ODk0N2U3",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -455,26 +455,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "The Long, Long Winter Night",
-        "url": "https://open.spotify.com/album/7Acie5cNav6oF3DpHw0GmO"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
-        }
-      ],
-      "duration_ms": 71773,
-      "name": "Grieg: Norwegian Peasant Dances, Op. 72: No. 6, Gangar",
-      "url": "https://open.spotify.com/track/7eZ7nqIC6eP9e3H234aOP7"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Grieg: Piano Concerto / Chopin: Piano Concerto No.2",
         "url": "https://open.spotify.com/album/2bTPenOgCU40rKBhyembmt"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 754160,
       "name": "Piano Concerto in A minor, Op. 16: 1. Allegro molto moderato",
       "url": "https://open.spotify.com/track/4HliprEFTBVNsf8spybkm2"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "The Long, Long Winter Night",
+        "url": "https://open.spotify.com/album/7Acie5cNav6oF3DpHw0GmO"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        }
+      ],
+      "duration_ms": 71773,
+      "name": "Grieg: Norwegian Peasant Dances, Op. 72: No. 6, Gangar",
+      "url": "https://open.spotify.com/track/7eZ7nqIC6eP9e3H234aOP7"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -659,26 +659,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Schumann: Piano Concerto in A Minor, Op. 54",
-        "url": "https://open.spotify.com/album/0CjRmvLs8eDLbAQ89nlwtl"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Evgeny Kissin",
-          "url": "https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ"
-        }
-      ],
-      "duration_ms": 155026,
-      "name": "Piano Transcriptions of Songs, Op. 41: No. 3, Jeg elsker dig",
-      "url": "https://open.spotify.com/track/5H2fooY77jr8VaAyfxvqh1"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Grieg: Piano Sonata, Op. 7 / Stimmungen / 4 Piano Pieces, Op. 1",
         "url": "https://open.spotify.com/album/0YsAMGxpqI8BnX0H2cYSh5"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 267093,
       "name": "Piano Sonata in E Minor, Op. 7: I. Allegro moderato",
       "url": "https://open.spotify.com/track/48NYbFhVqxxfJcLwxNwgv6"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Schumann: Piano Concerto in A Minor, Op. 54",
+        "url": "https://open.spotify.com/album/0CjRmvLs8eDLbAQ89nlwtl"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Evgeny Kissin",
+          "url": "https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ"
+        }
+      ],
+      "duration_ms": 155026,
+      "name": "Piano Transcriptions of Songs, Op. 41: No. 3, Jeg elsker dig",
+      "url": "https://open.spotify.com/track/5H2fooY77jr8VaAyfxvqh1"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -823,26 +823,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Lyric Pieces; Sonata; Fugues",
-        "url": "https://open.spotify.com/album/17YxMaI0YHCEWsmoslhZt8"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Mikhail Pletnev",
-          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Lyric Pieces IV, Op. 47: No. 3 Melodie",
-      "url": "https://open.spotify.com/track/5iEnou51q2TGpOcT7nqVZm"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Grieg: Songs",
         "url": "https://open.spotify.com/album/77ECwA3RIFptg5sTjz21Sb"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 379693,
       "name": "The Mountain Thrall, Op. 32",
       "url": "https://open.spotify.com/track/5fBUHjqqtBwX36qabYf8Ep"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Grieg: Lyric Pieces; Sonata; Fugues",
+        "url": "https://open.spotify.com/album/17YxMaI0YHCEWsmoslhZt8"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Mikhail Pletnev",
+          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Lyric Pieces IV, Op. 47: No. 3 Melodie",
+      "url": "https://open.spotify.com/track/5iEnou51q2TGpOcT7nqVZm"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Grieg: Lyric Pieces; Sonata; Fugues",
+        "url": "https://open.spotify.com/album/17YxMaI0YHCEWsmoslhZt8"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Mikhail Pletnev",
+          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Lyric Pieces Book V, Op. 54: VI. Bellringing",
+      "url": "https://open.spotify.com/track/5qcM4MqtNkPQZoKncxM4NW"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Grieg : Peer Gynt Suites 1, 2 & Symphonic Dances",
         "url": "https://open.spotify.com/album/0jDwimSa57C39bletgnvSa"
       },
@@ -1143,26 +1163,6 @@
       "duration_ms": 604400,
       "name": "Grieg: 4 Symphonic Dances, Op. 64: IV. Andante - Allegro molto e risoluto",
       "url": "https://open.spotify.com/track/721hCedr4F2gAuaV3Okfzn"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Grieg: Lyric Pieces; Sonata; Fugues",
-        "url": "https://open.spotify.com/album/17YxMaI0YHCEWsmoslhZt8"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Mikhail Pletnev",
-          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Lyric Pieces Book V, Op. 54: VI. Bellringing",
-      "url": "https://open.spotify.com/track/5qcM4MqtNkPQZoKncxM4NW"
     },
     {
       "added_at": "2022-09-30 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmxXDRgAKVq.md) - [plain]
 
 > Curated by A$AP Mob in honor of A$AP Yams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,205 likes - 51 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,210 likes - 51 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmxXDRgAKVq.md) - [plain]
 | 50 | [Nasty's World \(feat\. A$AP Nast & Onyx\)](https://open.spotify.com/track/2fCoq1wZzsa18L8mD33iuM) | [A$AP Mob](https://open.spotify.com/artist/7yO4IdJjCEPz7YgZMe25iS), [A$AP NAST](https://open.spotify.com/artist/1uLYUm2A6kpFYAECfAFoH1), [Onyx](https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu) | [Cozy Tapes: Vol\. 1 Friends \-](https://open.spotify.com/album/3RaACfwYTY9uiDy3VSWLLc) | 3:58 |
 | 51 | [BYF \(feat\. A$AP Rocky, A$AP Ant & Smooky MarGielaa\)](https://open.spotify.com/track/6g5exlGGjNqJwIK6OQoolD) | [A$AP Mob](https://open.spotify.com/artist/7yO4IdJjCEPz7YgZMe25iS), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [A$AP ANT](https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj), [Smooky MarGielaa](https://open.spotify.com/artist/2HO2kO7O5gEnM91dhobllP) | [Cozy Tapes Vol\. 2: Too Cozy](https://open.spotify.com/album/0qr1Fvi1haEDWVbFtekZLb) | 2:54 |
 
-Snapshot ID: `MCwxYTZkODc1ZjgxZTNkMDU0ZTJhN2U5YjQ3ZGM2MWU5NDE3NTYwMTg3`
+Snapshot ID: `MCw4M2Y1Y2M4YjMzNTIzZDc3ODY2YWVhNTZiZWFlYjJjYTY5MDJiOTdk`

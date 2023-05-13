@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-197 songs - 13 hr 49 min
+198 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Hold It Down](https://open.spotify.com/track/57Gbsto4EnpOEUtklQQSSm) | [Happy Daggers](https://open.spotify.com/artist/1AjDEQ2pPDEuDAXgEyh4pH) | [Hold It Down](https://open.spotify.com/album/2weMcTG4ElQswQlqw724rQ) | 3:04 | 2020-10-30 | 2022-04-09 |
 | [How Far We've Come](https://open.spotify.com/track/4Bvc8SWQsj3DIhyygQZ9Un) | [Jamey Arent](https://open.spotify.com/artist/3Hez51EruyL1L9x0HBsubm), [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [How Far We've Come](https://open.spotify.com/album/6i87cBvfTHbasGb4h2WlPP) | 3:59 | 2020-10-30 | 2022-04-09 |
 | [Howlin'](https://open.spotify.com/track/2ON7wWva8R2XA5l5PODZ75) | [The Vibe](https://open.spotify.com/artist/3oUd06MlbmbVv591HZ0Do4) | [Howlin'](https://open.spotify.com/album/554sZoptKeZRjTTqpybLFG) | 4:25 | 2020-10-30 | 2022-04-09 |
-| [I Did It to Myself](https://open.spotify.com/track/4lHiCssWm534vTJdRrdNIR) | [Dakota Jones](https://open.spotify.com/artist/6DQRKapXMed5FzDufBQ83K) | [I Did It to Myself](https://open.spotify.com/album/5dVdmEhvEGuXegj9X7yi6i) | 2:44 | 2021-06-18 |  |
+| [I Did It To Myself](https://open.spotify.com/track/18zAjIgSzxpzSfWprqBp5d) | [Dakota Jones](https://open.spotify.com/artist/6DQRKapXMed5FzDufBQ83K) | [Black Light](https://open.spotify.com/album/3lyDIsUBFuRQ4aq9YBYs68) | 2:44 | 2021-06-18 |  |
+| [I Did It to Myself](https://open.spotify.com/track/4lHiCssWm534vTJdRrdNIR) | [Dakota Jones](https://open.spotify.com/artist/6DQRKapXMed5FzDufBQ83K) | [I Did It to Myself](https://open.spotify.com/album/5dVdmEhvEGuXegj9X7yi6i) | 2:44 | 2021-06-18 | 2023-05-13 |
 | [I'm Your Biggest Fan](https://open.spotify.com/track/6Q4TofQytmgDayivXKAIiL) | [Karl Denson](https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v) | [I'm Your Biggest Fan](https://open.spotify.com/album/3J3JKEbtbE2RFyyY9MLWUV) | 3:36 | 2020-10-30 | 2022-04-09 |
 | [I've Got Reasons](https://open.spotify.com/track/0XdkAB76rEDoZeycSu4Vh5) | [The Greyboy Allstars](https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07) | [I've Got Reasons](https://open.spotify.com/album/6rc0o370jH6rCKO0yMZsZk) | 4:42 | 2022-02-04 |  |
 | [If It Ain't Funky Back It Up, Pt\. 1](https://open.spotify.com/track/4tbKutO3WSFhNyLaUs3F3s) | [Soopasoul](https://open.spotify.com/artist/4qbiMv4o3ZLoZaJlXaE0I0) | [If It Ain't Funky Back It Up](https://open.spotify.com/album/7KAiS75Nn4mCt9BhWdR8W5) | 2:33 | 2020-10-30 | 2022-04-09 |

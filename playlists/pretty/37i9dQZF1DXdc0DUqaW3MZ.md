@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > Soul, R'n'B all with a tinge of electronic goodness\. Cover: Jitwam
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,934 likes - 70 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,066 likes - 70 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 38 | [For Keeps](https://open.spotify.com/track/14n6WNRYJDqXhWJKE57zln) | [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Rocks \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg) | 2:52 |
 | 39 | [Sweating](https://open.spotify.com/track/47aXdSXENr8dOecqWtOk0T) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Sweating](https://open.spotify.com/album/3ct1sH3rZPE4ZpgwsKj6tQ) | 3:24 |
 | 40 | [You Could Be](https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [You Could Be](https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI) | 3:38 |
-| 41 | [STAY UP](https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [STAY UP / SWEET](https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc) | 3:49 |
-| 42 | [Nightrider](https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Nightrider](https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l) | 5:00 |
+| 41 | [Nightrider](https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Nightrider](https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l) | 5:00 |
+| 42 | [STAY UP](https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [STAY UP / SWEET](https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc) | 3:49 |
 | 43 | [Be Patient](https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Be Patient](https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a) | 3:36 |
 | 44 | [We Are](https://open.spotify.com/track/6s5AiGzj0il15KrBOlOKp6) | [2fox](https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0), [Afronaut Zu](https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ) | [We Are](https://open.spotify.com/album/15Q6QHhdfU3q7hFLVPqMps) | 4:15 |
 | 45 | [LowKey \(feat\. Jayd Ink\)](https://open.spotify.com/track/1esyt62pq02xPShuaK5OpA) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Jayd Ink](https://open.spotify.com/artist/6TfJcKCr5hFsYZkq2k1Pac) | [LowKey \(feat\. Jayd Ink\)](https://open.spotify.com/album/5IymapBkxovOp4ELc4sQNy) | 2:53 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 54 | [Moves](https://open.spotify.com/track/07DuoTCTocHk7y3d8MImks) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Moves EP](https://open.spotify.com/album/7sAOz7qlL8UyeRtFyVNWcj) | 3:43 |
 | 55 | [FVR105 \- p\-rallel Remix](https://open.spotify.com/track/5F4jNQAtcorOBctGgpcjNh) | [NiNE8](https://open.spotify.com/artist/0b3ISAJg1jwifewBgTwTHG), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Bone Slim](https://open.spotify.com/artist/5VoreVetRqMEFui6KpGdt2), [Lorenzorsv](https://open.spotify.com/artist/6ikQz0CCwjFMtT7Hzxn9mY), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [FVR105 \(p\-rallel Remix\)](https://open.spotify.com/album/6LMCxZc1m2uTJ1ZSNwgjYz) | 3:13 |
 | 56 | [Boy Blue](https://open.spotify.com/track/0ZMaQmfnm9rvC2gGuu09bN) | [Buddy Love](https://open.spotify.com/artist/76If8HF56JoLYMc3AqmuVf) | [Pleasure \(Now & Forever\)](https://open.spotify.com/album/6rFWEYBOT85TvmryKgEufn) | 4:06 |
-| 57 | [Hot In Herre](https://open.spotify.com/track/6YjRsyEcSOLKYIT5MIkKYT) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Hot In Herre](https://open.spotify.com/album/3nh64W0WwLqiG8eCHBJWXW) | 3:05 |
-| 58 | [Heart\-Shaped Box](https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Heart\-Shaped Box](https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz) | 2:49 |
+| 57 | [Heart\-Shaped Box](https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Heart\-Shaped Box](https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz) | 2:49 |
+| 58 | [Hot In Herre](https://open.spotify.com/track/6YjRsyEcSOLKYIT5MIkKYT) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Hot In Herre](https://open.spotify.com/album/3nh64W0WwLqiG8eCHBJWXW) | 3:05 |
 | 59 | [Super Good Times](https://open.spotify.com/track/0evxHcyCVN4f88IDipmvge) | [Suray Sertin](https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP) | [Super Good Times](https://open.spotify.com/album/68cDaUqXV1gBfUTikzcpwj) | 3:41 |
 | 60 | [Big Bad Mood \(feat\. Miraa May\)](https://open.spotify.com/track/3GdWGAtxFU9184mRdqfB0T) | [Jordan Stephens](https://open.spotify.com/artist/0SVz62vUjHKkbVOgoTK4Ze), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Big Bad Mood \(feat\. Miraa May\)](https://open.spotify.com/album/4kpdV2LSaUGLSPLZWz7cEJ) | 3:49 |
 | 61 | [Half Hour Verve](https://open.spotify.com/track/0ffiGkNSrTfbvkXHLz2gGk) | [Harvey Causon](https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d) | [Fourth Wall](https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei) | 4:05 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 69 | [o shit!](https://open.spotify.com/track/0RQpg3Q0QOxp6gqDpE8uWH) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [o shit!](https://open.spotify.com/album/14V0wL2inmCogS2KVsWNm2) | 2:16 |
 | 70 | [All Up To You](https://open.spotify.com/track/2ucJBU4uvj0RgWPY4PgVVV) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [All Up To You](https://open.spotify.com/album/7BMMTfxpwX5ZOPrDxxrHIU) | 3:08 |
 
-Snapshot ID: `MCwyMDQ1NDcxYzlhMmZlZmYyZjRiYWRjOWNmZTJmNGRjYWY2NzYyNDdk`
+Snapshot ID: `MCw2ZDkzOGI3NTlkNGMyZjliNmM3NTMxNjk2ZjM2MGRhNzEwNmMwNGY5`

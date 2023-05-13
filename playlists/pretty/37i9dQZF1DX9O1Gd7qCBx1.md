@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 
 > Para honrar a los muertos con el más sublime placer terrenal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,481 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,498 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 37 | [Uy que miedo](https://open.spotify.com/track/1PsMejyv5k5cS24FNDuYy2) | [Chico Che y La Crisis](https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm) | [El Ritmo De Chico Che Y La Crisis](https://open.spotify.com/album/6oaUkOuzi3a61cT7hPnKKU) | 2:52 |
 | 38 | [Drácula, Calígula, Tarántula \- Coágula Espátulo](https://open.spotify.com/track/5VgsXmsfGIBOqq0imAv4y1) | [31 Minutos](https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG) | [Arwrarwrirwrarwro \(Banda Sonora Original de la Cuarta Temporada\)](https://open.spotify.com/album/3lhrBqbQbfPx4aMfP0pbkK) | 2:53 |
 | 39 | [Cerquita de Dios](https://open.spotify.com/track/3TmdXxx65CnANS9DMrS1aK) | [San Pascualito Rey](https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6) | [Sufro Sufro Sufro](https://open.spotify.com/album/0np21WDUyCaqdEB2grsjcx) | 4:00 |
-| 40 | [Paloma negra](https://open.spotify.com/track/2ib9PWWqtNyw9rff0qcm5G) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Serie Diamante \(USA\)](https://open.spotify.com/album/2eoBGUFrJZobGxGpwZ7dAp) | 3:15 |
-| 41 | [La muerte chiquita](https://open.spotify.com/track/4JH1M62gVDNDhDAUiQB3Qv) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Tiempo transcurrido](https://open.spotify.com/album/4IGFOWjEuIfnmeQYEEglUz) | 2:51 |
+| 40 | [La muerte chiquita](https://open.spotify.com/track/4JH1M62gVDNDhDAUiQB3Qv) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Tiempo transcurrido](https://open.spotify.com/album/4IGFOWjEuIfnmeQYEEglUz) | 2:51 |
+| 41 | [Paloma negra](https://open.spotify.com/track/2ib9PWWqtNyw9rff0qcm5G) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Serie Diamante \(USA\)](https://open.spotify.com/album/2eoBGUFrJZobGxGpwZ7dAp) | 3:15 |
 | 42 | [Dios nunca muere](https://open.spotify.com/track/6mIjLHD3t1bcsUwQjyh4wn) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Inmortales de Pedro Infante \(USA\)](https://open.spotify.com/album/4ZMUQuAe77nOQXZ6aIoMg8) | 2:45 |
 | 43 | [El Fantasma Enamorado](https://open.spotify.com/track/02VciW1DGSHEyxt61nMElb) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [El Tren de la Alegría](https://open.spotify.com/album/5bdtr6jYC4Lqm8gkfebEG6) | 4:22 |
 | 44 | [Romance del Enamorado y la Muerte](https://open.spotify.com/track/0PQoLyBIZyBFZLvbLpJqfY) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Romance del Enamorado y la Muerte](https://open.spotify.com/album/1KkQO5xOhLvog2bR7hk2Js) | 3:34 |
@@ -89,13 +89,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 79 | [Sus Ojos Se Cerraron](https://open.spotify.com/track/18u7VFcTzUIm86HJ1oo3UZ) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mano a Mano \- Tangos a la Manera de Vicente Fernández](https://open.spotify.com/album/6sh6Vqdbu9mHsnWvsqyikC) | 3:46 |
 | 80 | [Kumbia Zombie](https://open.spotify.com/track/3i5QMzqtVccNIp2TWSquEH) | [Kumbia Queers](https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K) | [God Save The Queers EP](https://open.spotify.com/album/3dqUvQdsfeBfIJH0Zz0THJ) | 4:48 |
 | 81 | [La Catrína Pobre](https://open.spotify.com/track/6conItSeJ4djinIUrq2mJD) | [Trio Armonia Huasteca](https://open.spotify.com/artist/4jyDN8IXegV9Hn6RNVcejK), [Las Rancheritas](https://open.spotify.com/artist/0JrvKuMSrLHPKvWd4bM5YJ) | [Contestadas Y Rancheras](https://open.spotify.com/album/4IKibIvIpvYbcibKsxnv7t) | 2:18 |
-| 82 | [Calaverita de Azúcar](https://open.spotify.com/track/1FBwY5QHbedQrNfAk24lun) | [CARLOS AZCUAGA](https://open.spotify.com/artist/3hdeCDIA82KbccDhWtxp0g) | [Canciones de Día de Muertos](https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ) | 3:13 |
-| 83 | [Vengan Abuelitos](https://open.spotify.com/track/7tIj0Jv4PUgfdWUSCfzfgh) | [Tzotzollin](https://open.spotify.com/artist/2bO4AJkMVzTJHpo3HbxtGx) | [Mexihkateokwikameh, Sacred Songs Of The Aztecs](https://open.spotify.com/album/2AlrMT4U2E0P5MkeCz8oMt) | 2:11 |
+| 82 | [Vengan Abuelitos](https://open.spotify.com/track/7tIj0Jv4PUgfdWUSCfzfgh) | [Tzotzollin](https://open.spotify.com/artist/2bO4AJkMVzTJHpo3HbxtGx) | [Mexihkateokwikameh, Sacred Songs Of The Aztecs](https://open.spotify.com/album/2AlrMT4U2E0P5MkeCz8oMt) | 2:11 |
+| 83 | [Calaverita de Azúcar](https://open.spotify.com/track/1FBwY5QHbedQrNfAk24lun) | [CARLOS AZCUAGA](https://open.spotify.com/artist/3hdeCDIA82KbccDhWtxp0g) | [Canciones de Día de Muertos](https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ) | 3:13 |
 | 84 | [Coplas del Muerto \(Coplas\) \[México\]](https://open.spotify.com/track/0qOkrzZJWLTWDm8AanZwm6) | [Los Folkloristas](https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU) | [Cantando Con la Muerte](https://open.spotify.com/album/1N47s2RcEQ0P2vZkNeyt06) | 2:27 |
 | 85 | [El Funeral](https://open.spotify.com/track/61IjyAktalOHr6HpPkutRI) | [Kanaku y El Tigre](https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS) | [Caracoles](https://open.spotify.com/album/4Q9zv0BFqFTDb3KF3ZrwJv) | 2:25 |
 | 86 | [Gracias a la Vida](https://open.spotify.com/track/1fi85DWMkQEmQfR5odB40c) | [Tania Libertad](https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh) | [Alfonsina y el Mar \(Remasterizado\)](https://open.spotify.com/album/0eJA4NkiiRl68lTXSYaPAr) | 4:05 |
-| 87 | [El Jinete](https://open.spotify.com/track/3SV4KyLigqwMsbuEUDRvF3) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Sus Grandes Corridos y Rancheras](https://open.spotify.com/album/3smCO3bWe2bjBkMNt3UL1V) | 2:52 |
-| 88 | [Boda Negra \(El Enterrador\)](https://open.spotify.com/track/3piawlFhk12c09HYG5ElbY) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Joyas De Dos Siglos](https://open.spotify.com/album/1J52yTpzmmKd5bACzZnErX) | 3:46 |
+| 87 | [Boda Negra \(El Enterrador\)](https://open.spotify.com/track/3piawlFhk12c09HYG5ElbY) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Joyas De Dos Siglos](https://open.spotify.com/album/1J52yTpzmmKd5bACzZnErX) | 3:46 |
+| 88 | [El Jinete](https://open.spotify.com/track/3SV4KyLigqwMsbuEUDRvF3) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Sus Grandes Corridos y Rancheras](https://open.spotify.com/album/3smCO3bWe2bjBkMNt3UL1V) | 2:52 |
 | 89 | [Era Mi Abuelo](https://open.spotify.com/track/6fCvxTPA1u5ov55svizA97) | [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Siguiente](https://open.spotify.com/album/1Px6ATcmtKsrP7WAKmbch3) | 3:24 |
 | 90 | [Décimas a La Muerte](https://open.spotify.com/track/3Qg17l5FX1OxStkPDLp2i5) | [Astrid Hadad](https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3) | [Vivir Muriendo](https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1) | 3:58 |
 | 91 | [La Danza de la Muerte \- Día de Muertos](https://open.spotify.com/track/45vSa9GcUjSdLNtf7bk05I) | [Fanko](https://open.spotify.com/artist/7FTVF3GI4iIuxErFlgYS2n) | [La Danza de la Muerte \(Día de Muertos\)](https://open.spotify.com/album/2ZPACZToEtrhz8rXxw6DjZ) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 99 | [Los Esqueletos](https://open.spotify.com/track/2evbt2sweKafw1Xx6tUVq6) | [Espanto](https://open.spotify.com/artist/4m2iq2WEoxSFvOZd130HIQ) | [Tres Canciones Nuevas](https://open.spotify.com/album/1t3hGZtxBBXWmWGCuFM6QH) | 3:04 |
 | 100 | [Refalosa del Adiós \(Refalosa\) \[Chile\]](https://open.spotify.com/track/4vmhFQ2XbD5sOcVnxE3Aew) | [Los Folkloristas](https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU) | [Cantando Con la Muerte](https://open.spotify.com/album/1N47s2RcEQ0P2vZkNeyt06) | 2:36 |
 
-Snapshot ID: `MCw2NGY3YTQ3ODEzMmYwMWNjNDg4NmIyODI0MjMyM2FlYzcwYTg0YWJl`
+Snapshot ID: `MCxmNmYxN2Y5YjA1ODUxZjMwYTMzMmE3N2Q1YmJlZGE0OGFmZGVkOWFh`

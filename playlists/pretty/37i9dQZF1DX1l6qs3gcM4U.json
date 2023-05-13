@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Yasmine.  ",
-  "num_followers": 166686,
+  "num_followers": 166838,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjBjZTgyZThlYzhkNTRkNmJjMjBmZDU1Y2YwNjdhNTgwNGI4NTk4",
+  "snapshot_id": "MCw1NmQ1NTRjNTc3NzAwYTg0MjcyMDI3ZjY0NjE2MzVjMWZiZjc0ZmU2",
   "tracks": [
     {
       "added_at": "2023-05-04 23:00:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
+        "name": "Desculpa",
+        "url": "https://open.spotify.com/album/258S9L0PGKl7o0dRA1A27H"
+      },
+      "artists": [
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "duration_ms": 212504,
+      "name": "Desculpa",
+      "url": "https://open.spotify.com/track/0TuuZwRot3vVK6tqV8zh2q"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
         "name": "Tudo de Novo",
         "url": "https://open.spotify.com/album/0EOvEnan4nHBtwRKQ0qyfz"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 259333,
       "name": "Tudo de Novo",
       "url": "https://open.spotify.com/track/0xdYdzu9XSwKTRjOWWUEgS"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
-        "name": "Desculpa",
-        "url": "https://open.spotify.com/album/258S9L0PGKl7o0dRA1A27H"
-      },
-      "artists": [
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        }
-      ],
-      "duration_ms": 212504,
-      "name": "Desculpa",
-      "url": "https://open.spotify.com/track/0TuuZwRot3vVK6tqV8zh2q"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -1123,42 +1123,6 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Corno",
-        "url": "https://open.spotify.com/album/5wIj5r7RnXbgpY86w5NIRZ"
-      },
-      "artists": [
-        {
-          "name": "Messias Maricoa",
-          "url": "https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99"
-        }
-      ],
-      "duration_ms": 210424,
-      "name": "Corno",
-      "url": "https://open.spotify.com/track/65YDzoTd19yrff1ThXfmOW"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
-        "name": "Tellin Me Something",
-        "url": "https://open.spotify.com/album/4pqUdkYZOgXe1WfETwoIVI"
-      },
-      "artists": [
-        {
-          "name": "Nelson Freitas",
-          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 167875,
-      "name": "Tellin Me Something",
-      "url": "https://open.spotify.com/track/25NM2Mrlz8NTm82HIOzeck"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
         "name": "Boda",
         "url": "https://open.spotify.com/album/5MBwc952fsqXyjK2MPBHDR"
       },
@@ -1179,6 +1143,22 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
+        "name": "Corno",
+        "url": "https://open.spotify.com/album/5wIj5r7RnXbgpY86w5NIRZ"
+      },
+      "artists": [
+        {
+          "name": "Messias Maricoa",
+          "url": "https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99"
+        }
+      ],
+      "duration_ms": 210424,
+      "name": "Corno",
+      "url": "https://open.spotify.com/track/65YDzoTd19yrff1ThXfmOW"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
         "name": "Cuiar Assim",
         "url": "https://open.spotify.com/album/79wdIV83MzqZW2WlrWpAEM"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 230217,
       "name": "Cuiar Assim",
       "url": "https://open.spotify.com/track/1624vqUVv4mXnaV1M4z6Fd"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
+        "name": "Tellin Me Something",
+        "url": "https://open.spotify.com/album/4pqUdkYZOgXe1WfETwoIVI"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 167875,
+      "name": "Tellin Me Something",
+      "url": "https://open.spotify.com/track/25NM2Mrlz8NTm82HIOzeck"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -1475,22 +1475,22 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Se Eu Pudesse",
-        "url": "https://open.spotify.com/album/5b7CxDT0ukq7agUrwUv8W5"
+        "name": "Teu Ego",
+        "url": "https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa"
       },
       "artists": [
         {
-          "name": "Mr. Carly",
-          "url": "https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE"
+          "name": "Ivan Alekxei",
+          "url": "https://open.spotify.com/artist/4kR1QWyFVV4vr0JxkWv7EC"
         },
         {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
         }
       ],
-      "duration_ms": 196567,
-      "name": "Se Eu Pudesse",
-      "url": "https://open.spotify.com/track/1K5Zb9auos324cI21vbQfy"
+      "duration_ms": 286093,
+      "name": "Teu Ego",
+      "url": "https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ"
     },
     {
       "added_at": "2023-05-04 23:00:00",

@@ -4,7 +4,7 @@
 
 > Let your worries and cares slip away.
 
-275 songs - 17 hr 47 min
+276 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,8 +77,8 @@
 | [Favorite Peeps](https://open.spotify.com/track/0SHa9XHwYYB1UUmgbgHuhQ) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 3:13 | 2023-02-10 |  |
 | [Favorite Peeps](https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Favorite Peeps](https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI) | 3:13 | 2022-06-08 | 2023-03-19 |
 | [For a While](https://open.spotify.com/track/6Qk4zqHRjy4huavhMyQ5co) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [For a While](https://open.spotify.com/album/2Mf95tVtt4V6ewsVsYipHL) | 3:54 | 2019-05-26\* | 2022-05-14 |
-| [Foreign Hands](https://open.spotify.com/track/3nnXAqJVpdiwYKAXFBpnlG) | [George Ogilvie](https://open.spotify.com/artist/56NSAhpJRoeaGi5uyUdYlI) | [Foreign Hands](https://open.spotify.com/album/5PAnvxRPA6ewcH22vxjfxe) | 4:18 | 2019-05-26\* | 2022-07-29 |
-| [Foreign Hands \(George's Version\)](https://open.spotify.com/track/78e02OxzIocXs21FqQ4UGK) | [George Ogilvie](https://open.spotify.com/artist/56NSAhpJRoeaGi5uyUdYlI) | [Foreign Hands \(George's Version\)](https://open.spotify.com/album/11OoifQTfRnad4m4ocQdZs) | 4:18 | 2022-06-24 |  |
+| [Foreign Hands](https://open.spotify.com/track/3nnXAqJVpdiwYKAXFBpnlG) | [George Ogilvie](https://open.spotify.com/artist/56NSAhpJRoeaGi5uyUdYlI) | [Foreign Hands](https://open.spotify.com/album/5PAnvxRPA6ewcH22vxjfxe) | 4:18 | 2019-05-26\* |  |
+| [Foreign Hands \(George's Version\)](https://open.spotify.com/track/78e02OxzIocXs21FqQ4UGK) | [George Ogilvie](https://open.spotify.com/artist/56NSAhpJRoeaGi5uyUdYlI) | [Foreign Hands \(George's Version\)](https://open.spotify.com/album/11OoifQTfRnad4m4ocQdZs) | 4:18 | 2022-06-24 | 2023-05-13 |
 | [Georgia](https://open.spotify.com/track/6Fha6tXHkL3r9m9nNqQG8p) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:50 | 2019-05-26\* | 2021-06-10 |
 | [Getting It Right](https://open.spotify.com/track/3W2DvPUsPGyCbfBZEgqPn8) | [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM), [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Getting It Right](https://open.spotify.com/album/3zA17MmyBmEogW6WHIDsWj) | 2:50 | 2022-11-11 |  |
 | [Give Me The Reason \- Stripped Acoustic](https://open.spotify.com/track/1swgoSkNmzepVAXcBL6xv0) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason \(Stripped Acoustic\)](https://open.spotify.com/album/3EtG50pcQ4QExmabzcHnzn) | 3:52 | 2022-06-08 |  |
@@ -238,7 +238,8 @@
 | [The Only Thing I Fear](https://open.spotify.com/track/78xk8iamPxnraeoDComAta) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [The Only Thing I Fear](https://open.spotify.com/album/03Tm3d6OTCejpmEfeVmpea) | 3:30 | 2020-06-04 | 2022-06-09 |
 | [The Pool](https://open.spotify.com/track/3PXbcti7P1ZekivSWu48A3) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [The Pool](https://open.spotify.com/album/3yx7FdDCtxXE7zQeGWCgwj) | 4:02 | 2019-07-10 | 2022-01-08 |
 | [The Spark \- Bonus Track](https://open.spotify.com/track/2FL7TC4SZlGZ5GHcFcnHJV) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [The Spark](https://open.spotify.com/album/5w75Sqg4Nt2vnPBJWykINQ) | 3:21 | 2019-05-26\* | 2020-11-11 |
-| [The Swimmer \(To Be an Old Man\)](https://open.spotify.com/track/4nlDcud1pcNcvWEbPH4it1) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Bravado](https://open.spotify.com/album/3ZkPIFsMYL7cALJr2LPohi) | 4:07 | 2023-04-28 |  |
+| [The Swimmer \(To Be an Old Man\)](https://open.spotify.com/track/4nlDcud1pcNcvWEbPH4it1) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Bravado](https://open.spotify.com/album/3ZkPIFsMYL7cALJr2LPohi) | 4:07 | 2023-04-28 | 2023-05-13 |
+| [The Swimmer \(To Be an Old Man\)](https://open.spotify.com/track/5YebJFFiYKBXYQYASFUuoD) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Bravado](https://open.spotify.com/album/1OOpLsjYm20UGottxYTusF) | 4:07 | 2023-04-28 |  |
 | [The Swimmer \(To Be an Old Man\)](https://open.spotify.com/track/7LEGwwvRtilCPvNrHxxRGw) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Bravado](https://open.spotify.com/album/6HG6bnPHDDW3R6RBlJBFGq) | 4:07 | 2020-03-07 | 2023-05-01 |
 | [The Trouble with Wanting](https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:55 | 2019-05-26\* |  |
 | [The Way Back Home](https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [The Way Back Home](https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY) | 3:34 | 2022-06-24 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Eladio Carri\u00f3n & Peso Pluma en portada.",
-  "num_followers": 126619,
+  "num_followers": 126834,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDNmYWM1N2I3MTg4NjRiNzcxMzRkMDk1Yzg1ZmVhZmVmMTc5ZTcz",
+  "snapshot_id": "MCwyODVmOTVmMzc4Y2U2ZWVmYjc3MzczNTNiMmI5ZjY1YThkMDAwYTJk",
   "tracks": [
     {
       "added_at": "2023-05-05 06:00:00",
@@ -593,20 +593,20 @@
       "url": "https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt"
     },
     {
-      "added_at": "2023-04-19 16:02:16",
+      "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Vamos Aclarando Muchas Cosas (En Vivo)",
-        "url": "https://open.spotify.com/album/7tcgJJT6XQ22P9V6JII4G4"
+        "name": "Pacas De Billetes",
+        "url": "https://open.spotify.com/album/70y25lLU64tj9PWd6CqVFG"
       },
       "artists": [
         {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 190720,
-      "name": "Vamos Aclarando Muchas Cosas - En Vivo",
-      "url": "https://open.spotify.com/track/5gZOpqxK3J5b5BSjzG1PkM"
+      "duration_ms": 188074,
+      "name": "Pacas De Billetes",
+      "url": "https://open.spotify.com/track/3IMuuBcKSeFqQSlF2XluA1"
     },
     {
       "added_at": "2023-04-19 16:02:16",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-04-19 16:02:16",
       "album": {
+        "name": "Vamos Aclarando Muchas Cosas (En Vivo)",
+        "url": "https://open.spotify.com/album/7tcgJJT6XQ22P9V6JII4G4"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 190720,
+      "name": "Vamos Aclarando Muchas Cosas - En Vivo",
+      "url": "https://open.spotify.com/track/5gZOpqxK3J5b5BSjzG1PkM"
+    },
+    {
+      "added_at": "2023-04-19 16:02:16",
+      "album": {
         "name": "El Chamaquito",
         "url": "https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 139863,
       "name": "El Chamaquito",
       "url": "https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd"
-    },
-    {
-      "added_at": "2023-04-19 16:02:16",
-      "album": {
-        "name": "La Clase",
-        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 196864,
-      "name": "Fuga Pa Cali 2",
-      "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
     },
     {
       "added_at": "2023-04-19 16:02:16",
@@ -705,20 +705,20 @@
       "url": "https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8"
     },
     {
-      "added_at": "2023-05-05 06:00:00",
+      "added_at": "2023-04-19 16:02:16",
       "album": {
-        "name": "Pacas De Billetes",
-        "url": "https://open.spotify.com/album/70y25lLU64tj9PWd6CqVFG"
+        "name": "La Clase",
+        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 188074,
-      "name": "Pacas De Billetes",
-      "url": "https://open.spotify.com/track/3IMuuBcKSeFqQSlF2XluA1"
+      "duration_ms": 196864,
+      "name": "Fuga Pa Cali 2",
+      "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
     },
     {
       "added_at": "2023-04-19 16:02:16",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-04-19 16:02:16",
       "album": {
+        "name": "Morritas",
+        "url": "https://open.spotify.com/album/4rl0XbWJhc8ZD2aTPwo7a7"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 216330,
+      "name": "Morritas",
+      "url": "https://open.spotify.com/track/5RQKSb1oqK7bAkuNpu1NSC"
+    },
+    {
+      "added_at": "2023-04-19 16:02:16",
+      "album": {
         "name": "En Blindadas",
         "url": "https://open.spotify.com/album/3jyPLQ5JSlA2SlDEgquSvY"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 129953,
       "name": "Negro Como La Pantera",
       "url": "https://open.spotify.com/track/1QpM1kB7sggMOBuWUNUnfg"
-    },
-    {
-      "added_at": "2023-04-19 16:02:16",
-      "album": {
-        "name": "Morritas",
-        "url": "https://open.spotify.com/album/4rl0XbWJhc8ZD2aTPwo7a7"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 216330,
-      "name": "Morritas",
-      "url": "https://open.spotify.com/track/5RQKSb1oqK7bAkuNpu1NSC"
     },
     {
       "added_at": "2023-04-19 16:02:16",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2023-04-19 16:02:16",
       "album": {
-        "name": "Una 45",
-        "url": "https://open.spotify.com/album/0wc26q3gjwL5zJ3NFosd6I"
-      },
-      "artists": [
-        {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 113130,
-      "name": "Una 45",
-      "url": "https://open.spotify.com/track/0CeRRemIexnXiSKT4qWUTa"
-    },
-    {
-      "added_at": "2023-04-19 16:02:16",
-      "album": {
         "name": "Que Me Importa",
         "url": "https://open.spotify.com/album/0AParm3sgfEHQUXnUP4ivI"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 208541,
       "name": "Que Me Importa",
       "url": "https://open.spotify.com/track/7rp5s1fEFuu42FoeHrrPyx"
+    },
+    {
+      "added_at": "2023-04-19 16:02:16",
+      "album": {
+        "name": "Una 45",
+        "url": "https://open.spotify.com/album/0wc26q3gjwL5zJ3NFosd6I"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 113130,
+      "name": "Una 45",
+      "url": "https://open.spotify.com/track/0CeRRemIexnXiSKT4qWUTa"
     },
     {
       "added_at": "2023-04-19 16:02:16",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-04-19 16:02:16",
       "album": {
+        "name": "Proyecto Akwid",
+        "url": "https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM"
+      },
+      "artists": [
+        {
+          "name": "Akwid",
+          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
+        }
+      ],
+      "duration_ms": 243466,
+      "name": "No Hay Manera",
+      "url": "https://open.spotify.com/track/5dFaYG4WClIHhbHSe0m3FO"
+    },
+    {
+      "added_at": "2023-04-19 16:02:16",
+      "album": {
         "name": "Te Encontr\u00e9",
         "url": "https://open.spotify.com/album/0RvUTJIIZUlDiMMhA63sX9"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 222857,
       "name": "Te Encontr\u00e9",
       "url": "https://open.spotify.com/track/3Do3yeHyrQtV302BQxeOWj"
-    },
-    {
-      "added_at": "2023-04-19 16:02:16",
-      "album": {
-        "name": "Proyecto Akwid",
-        "url": "https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM"
-      },
-      "artists": [
-        {
-          "name": "Akwid",
-          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
-        }
-      ],
-      "duration_ms": 243466,
-      "name": "No Hay Manera",
-      "url": "https://open.spotify.com/track/5dFaYG4WClIHhbHSe0m3FO"
     },
     {
       "added_at": "2023-04-19 16:02:16",
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2023-04-19 16:02:16",
       "album": {
-        "name": "30 Blindadas",
-        "url": "https://open.spotify.com/album/6sNLsF2fYslNGiQzb9NfXG"
-      },
-      "artists": [
-        {
-          "name": "Raul Vega",
-          "url": "https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 126293,
-      "name": "30 Blindadas",
-      "url": "https://open.spotify.com/track/1DSEdQdvhbBfXmDkQNZbzf"
-    },
-    {
-      "added_at": "2023-04-19 16:02:16",
-      "album": {
         "name": "Mi Porvenir",
         "url": "https://open.spotify.com/album/7g3gtNzXyVjmBh7tdd4Lmp"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 161816,
       "name": "Mi Porvenir",
       "url": "https://open.spotify.com/track/1qOAfH6GJZ7IVuOkOsDit9"
+    },
+    {
+      "added_at": "2023-04-19 16:02:16",
+      "album": {
+        "name": "30 Blindadas",
+        "url": "https://open.spotify.com/album/6sNLsF2fYslNGiQzb9NfXG"
+      },
+      "artists": [
+        {
+          "name": "Raul Vega",
+          "url": "https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 126293,
+      "name": "30 Blindadas",
+      "url": "https://open.spotify.com/track/1DSEdQdvhbBfXmDkQNZbzf"
     },
     {
       "added_at": "2023-04-19 16:02:16",
@@ -1613,6 +1613,26 @@
       "url": "https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W"
     },
     {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Querida",
+        "url": "https://open.spotify.com/album/66kffsd3bubXY3tEe7Mv6S"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "duration_ms": 188500,
+      "name": "Querida",
+      "url": "https://open.spotify.com/track/5RyOeJHSAHUVZi2nAR2qlf"
+    },
+    {
       "added_at": "2023-04-19 16:02:16",
       "album": {
         "name": "EL KARMA",
@@ -1651,26 +1671,6 @@
       "duration_ms": 205309,
       "name": "Mecha Corta",
       "url": "https://open.spotify.com/track/6fMVfi5TK2A5b1gMbWfjOV"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "Querida",
-        "url": "https://open.spotify.com/album/66kffsd3bubXY3tEe7Mv6S"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
-        }
-      ],
-      "duration_ms": 188500,
-      "name": "Querida",
-      "url": "https://open.spotify.com/track/5RyOeJHSAHUVZi2nAR2qlf"
     },
     {
       "added_at": "2023-04-19 16:02:16",

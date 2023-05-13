@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 
 > Relax and unwind with gentle guitar covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,535 likes - 183 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,661 likes - 183 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -192,4 +192,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 | 182 | [True colors](https://open.spotify.com/track/3bVwh1aRQAnMyrNDI9sjW0) | [Tim Raymond](https://open.spotify.com/artist/4kYHqjNdzbIyg2EsqY0nWe) | [True colors](https://open.spotify.com/album/13QfkW5FCtLmYBUq9Izmwr) | 3:38 |
 | 183 | [Love Me Like You Do](https://open.spotify.com/track/1nyxHNRjeyTlJQwsLMH7C0) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [Anna Kitkowska](https://open.spotify.com/album/02yT961mEldwOgfmrwzW0Z) | 3:18 |
 
-Snapshot ID: `MCwzZmIyMDY5MDUwZjBlY2I2NWI1ZGMyODM0NDEyMDY4OWM5Y2NlNTE3`
+Snapshot ID: `MCxhMzFiMzZhYjhmYzNkZTI4NmNmMTlhNTg1NDhmNDU3NjE0ZThmZTQ0`

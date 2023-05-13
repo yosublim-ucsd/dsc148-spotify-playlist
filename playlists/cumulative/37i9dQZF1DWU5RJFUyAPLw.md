@@ -2,7 +2,7 @@
 
 ### [Alma Libre](https://open.spotify.com/playlist/37i9dQZF1DWU5RJFUyAPLw)
 
-> Relajados y disfrutando la vida con musiquita linda de fondo.
+> Island life vibes ✨ Relajados y disfrutando la vida con musiquita linda de fondo.
 
 60 songs - 3 hr 26 min
 

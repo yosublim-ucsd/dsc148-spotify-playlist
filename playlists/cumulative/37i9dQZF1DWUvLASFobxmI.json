@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Calibre 50 en portada.",
+  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Edgardo Nu\u00f1ez & C\u00f3digo FN en portada.",
   "name": "Norte\u00f1o 2023",
   "tracks": [
     {
@@ -144,6 +144,28 @@
       "duration_ms": 186780,
       "name": "Agarra La Onda",
       "url": "https://open.spotify.com/track/74TXCLIJTGoVB9EuhW9nxD"
+    },
+    {
+      "album": {
+        "name": "Al Modo Culiac\u00e1n",
+        "url": "https://open.spotify.com/album/6Y3QJ12QIF9hD9jyIZq7gk"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "La Instruxion",
+          "url": "https://open.spotify.com/artist/4IJpHcdinb2JCL9Gi9Gdw4"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111666,
+      "name": "Al Modo Culiac\u00e1n",
+      "url": "https://open.spotify.com/track/63eQoXTDQFMi8hO5D0fcUx"
     },
     {
       "album": {
@@ -554,7 +576,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 173642,
       "name": "B\u00e9lico X Siempre",
       "url": "https://open.spotify.com/track/7uZ3mZbVE1e7NtYMBAK3hA"
@@ -572,7 +594,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 194655,
       "name": "Cada Vez Mas",
       "url": "https://open.spotify.com/track/5Jo2xhD9fwJJbCYE9FY2i5"
@@ -662,7 +684,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 159056,
       "name": "Cholos al Punto",
       "url": "https://open.spotify.com/track/7knvkQS97TeGHM4MdoohpB"
@@ -688,6 +710,46 @@
       "duration_ms": 200141,
       "name": "Chorumbo",
       "url": "https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b"
+    },
+    {
+      "album": {
+        "name": "Cinco Letras de Miel",
+        "url": "https://open.spotify.com/album/2pAF6tby7WfPilxShPyPsr"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        },
+        {
+          "name": "Graciela Beltran",
+          "url": "https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222894,
+      "name": "Cinco Letras de Miel",
+      "url": "https://open.spotify.com/track/0NnQVi8cI6GDY70gcY58JF"
+    },
+    {
+      "album": {
+        "name": "Coincidencia",
+        "url": "https://open.spotify.com/album/5kZpacNK5T75ydnsjHPI5A"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190870,
+      "name": "Coincidencia",
+      "url": "https://open.spotify.com/track/6mG194I8D0FM4lHwVnfdWu"
     },
     {
       "album": {
@@ -3399,6 +3461,28 @@
     },
     {
       "album": {
+        "name": "Me Haces Tan Bien",
+        "url": "https://open.spotify.com/album/6vibWAte3CQY0K6EUxiPAv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168576,
+      "name": "Me Haces Tan Bien",
+      "url": "https://open.spotify.com/track/5mJ3ce2hMDnpGSuELoKUoL"
+    },
+    {
+      "album": {
         "name": "Me Porto Bonito / Te Bote (Dale Mambo Mix En Vivo)",
         "url": "https://open.spotify.com/album/1FIoOoWKqOQdGDeciXgWRN"
       },
@@ -3880,6 +3964,28 @@
       "duration_ms": 185296,
       "name": "No Paras de Hacerme Feliz",
       "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
+    },
+    {
+      "album": {
+        "name": "No Quiero Perderte",
+        "url": "https://open.spotify.com/album/6N1YHlNxKfAyB2llfHDYIH"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159530,
+      "name": "No Quiero Perderte",
+      "url": "https://open.spotify.com/track/00bc7aBgwI1wD3zEwrcH4h"
     },
     {
       "album": {
@@ -4806,7 +4912,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 233812,
       "name": "Siempre Estoy Pa\u00b4Ti",
       "url": "https://open.spotify.com/track/7tdu9DVtHAxWapgPtnuZkM"
@@ -5688,7 +5794,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 253116,
       "name": "Yo Seguir\u00e9",
       "url": "https://open.spotify.com/track/0wCmsxdleZ6Bx1wnbASzPT"

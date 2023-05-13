@@ -28649,6 +28649,24 @@
     },
     {
       "album": {
+        "name": "Stay Alive",
+        "url": "https://open.spotify.com/album/42s6aKRKc9CzoxNDxAVRt7"
+      },
+      "artists": [
+        {
+          "name": "Alfie",
+          "url": "https://open.spotify.com/artist/4ETB5cha0iq0Q5FWiGnsdX"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247232,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/1Ee2vybGrQJwPmCSFXDcql"
+    },
+    {
+      "album": {
         "name": "Stay On Me",
         "url": "https://open.spotify.com/album/3k8zP2seZa5f04aC0UfWrU"
       },
@@ -29419,7 +29437,7 @@
       "artists": [
         {
           "name": "SUN",
-          "url": "https://open.spotify.com/artist/5EjzvshGaeIYnjdttJF6ZQ"
+          "url": "https://open.spotify.com/artist/2xqgOMshAgaakXlWVYio8L"
         }
       ],
       "date_added": "2023-05-11",

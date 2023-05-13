@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Today's Hip-Hop with Coi Leray, Gucci Mane, and Lil Baby!",
+  "description": "Today's Hip-Hop with Lil Durk & J. Cole, A Boogie Wit Da Hoodie, and Lil Tecca!",
   "name": "Hip-Hop Central",
   "tracks": [
     {
@@ -766,6 +766,28 @@
       "duration_ms": 138187,
       "name": "All Dz Chainz (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/6f8nS2g21RNEL7gNG4WJVT"
+    },
+    {
+      "album": {
+        "name": "All My Life (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223878,
+      "name": "All My Life (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
     },
     {
       "album": {
@@ -1746,7 +1768,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 189450,
       "name": "Blackout",
       "url": "https://open.spotify.com/track/0B0Xu2ih8fWpcwyxAt1c7m"
@@ -5371,6 +5393,32 @@
     },
     {
       "album": {
+        "name": "Go To Sleep",
+        "url": "https://open.spotify.com/album/1FYYGbPi1ZRituR7b6THpY"
+      },
+      "artists": [
+        {
+          "name": "Sukha",
+          "url": "https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG"
+        },
+        {
+          "name": "AR Paisley",
+          "url": "https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd"
+        },
+        {
+          "name": "Prodgk",
+          "url": "https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124863,
+      "name": "Go To Sleep",
+      "url": "https://open.spotify.com/track/5yPN6daDWtbMa3Osyqq5FH"
+    },
+    {
+      "album": {
         "name": "GOATED.",
         "url": "https://open.spotify.com/album/2RU7Ol70IsJo40QMaV1Yfz"
       },
@@ -6084,6 +6132,40 @@
       "duration_ms": 142657,
       "name": "HOTEL LOBBY (Unc & Phew)",
       "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
+    },
+    {
+      "album": {
+        "name": "House of Blues (feat. Wiz Khalifa, Big K.R.I.T., Curren$y & Girl Talk)",
+        "url": "https://open.spotify.com/album/6xjCkh4iZgNvClGhi36WIr"
+      },
+      "artists": [
+        {
+          "name": "Smoke DZA",
+          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Big K.R.I.T.",
+          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+        },
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        },
+        {
+          "name": "Girl Talk",
+          "url": "https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234299,
+      "name": "House of Blues (feat. Wiz Khalifa, Big K.R.I.T., Curren$y & Girl Talk)",
+      "url": "https://open.spotify.com/track/1AMhPPGhfiTFiJucauyCkA"
     },
     {
       "album": {
@@ -7698,7 +7780,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 153600,
       "name": "Mad Max",
       "url": "https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c"
@@ -7950,7 +8032,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 187034,
       "name": "Me & You",
       "url": "https://open.spotify.com/track/12Us8e6NFesdkXKf4StU1I"
@@ -8318,7 +8400,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 196573,
       "name": "Move",
       "url": "https://open.spotify.com/track/5FoSDKPB0QufTlGbOBye0F"
@@ -8414,6 +8496,28 @@
       "duration_ms": 146666,
       "name": "MVP",
       "url": "https://open.spotify.com/track/2ayvMaVf5RAXnNQwHvArB7"
+    },
+    {
+      "album": {
+        "name": "MVP (feat. G-Eazy)",
+        "url": "https://open.spotify.com/album/4pyhYSKl4jBqkemyG94DSG"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173948,
+      "name": "MVP (feat. G-Eazy)",
+      "url": "https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d"
     },
     {
       "album": {
@@ -8635,6 +8739,24 @@
     },
     {
       "album": {
+        "name": "Need Me",
+        "url": "https://open.spotify.com/album/453LC2RXr0Yv6M86esUdqm"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138946,
+      "name": "Need Me",
+      "url": "https://open.spotify.com/track/7a636g0dl8a487foiAcoCM"
+    },
+    {
+      "album": {
         "name": "Dope Don't Sell Itself",
         "url": "https://open.spotify.com/album/5IGnGTSdX9jMvEMostmUfu"
       },
@@ -8716,7 +8838,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 207306,
       "name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
       "url": "https://open.spotify.com/track/4WuOWVnAqvEQxgSRrspBgt"
@@ -9248,7 +9370,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 169693,
       "name": "One Mic, One Gun",
       "url": "https://open.spotify.com/track/7CpXFEjLntpr4GdOhTtFEv"
@@ -9538,7 +9660,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 122070,
       "name": "PAINTING PICTURES",
       "url": "https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T"
@@ -10602,6 +10724,40 @@
       "duration_ms": 213975,
       "name": "Right On",
       "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
+    },
+    {
+      "album": {
+        "name": "Ring Ring (feat. Travis Scott, Don Toliver, Quavo & Ty Dolla $ign)",
+        "url": "https://open.spotify.com/album/6Op5Oqgnb443EjcHdAR5eY"
+      },
+      "artists": [
+        {
+          "name": "CHASE B",
+          "url": "https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186833,
+      "name": "Ring Ring (feat. Travis Scott, Don Toliver, Quavo & Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/7pFzbZz89oXVsRxhUvO7q2"
     },
     {
       "album": {
@@ -14186,6 +14342,24 @@
       "duration_ms": 224680,
       "name": "What's My Name",
       "url": "https://open.spotify.com/track/3Bpju6yr23IQ75f954uNto"
+    },
+    {
+      "album": {
+        "name": "What's That?",
+        "url": "https://open.spotify.com/album/3VhrV608YO2YN2Z1tY879X"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207546,
+      "name": "What's That?",
+      "url": "https://open.spotify.com/track/3NqKpLijeFLWflbXDj3Hra"
     },
     {
       "album": {

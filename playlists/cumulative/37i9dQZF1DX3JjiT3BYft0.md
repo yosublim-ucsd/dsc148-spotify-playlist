@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-336 songs - 1 day 0 hr 30 min
+337 songs - 1 day 0 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,7 +267,7 @@
 | [ゼッタイ宣言\~Recital\~](https://open.spotify.com/track/6R4xCec3924oT1bZBOmVwu) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [きゅ\~まい\*flower](https://open.spotify.com/album/4jC57dEsjYWNPsY3XnKbV4) | 4:02 | 2022-09-20 | 2022-12-03 |
 | [ゼッタイ宣言〜Recital〜](https://open.spotify.com/track/2b5IFysNrjuW6u7VNdy9gG) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [きゅ〜まい\*flower](https://open.spotify.com/album/0hHVUOsumXqR5YJ9ueTcgx) | 4:01 | 2022-05-17 | 2022-07-11 |
 | [チョコレイトの低音レシピ](https://open.spotify.com/track/5PumX86kzr0BD3IgBtTYtM) | [牛込りみ\(CV.西本りみ\)](https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG) | [TVアニメ「BanG Dream!」キャラクターソング 牛込りみ「チョコレイトの低温レシピ」](https://open.spotify.com/album/3zrgzF43liJ4XmUmg83AQY) | 4:26 | 2022-05-17 | 2022-07-29 |
-| [チョコレイトの低音レシピ](https://open.spotify.com/track/0o4od2HRigwdtMGZdRnwXA) | [牛込りみ\(CV.西本りみ\)](https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG) | [TVアニメ「BanG Dream!」キャラクターソング 牛込りみ「チョコレイトの低音レシピ」](https://open.spotify.com/album/6FbxgPesZO4zbeWV0CF6VP) | 4:31 | 2022-09-20 |  |
+| [チョコレイトの低音レシピ](https://open.spotify.com/track/0o4od2HRigwdtMGZdRnwXA) | [牛込りみ\(CV.西本りみ\)](https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG) | [TVアニメ「BanG Dream!」キャラクターソング 牛込りみ「チョコレイトの低音レシピ」](https://open.spotify.com/album/6FbxgPesZO4zbeWV0CF6VP) | 4:31 | 2022-09-20 | 2023-05-13 |
 | [ツナグ、ソラモヨウ](https://open.spotify.com/track/6HJSR4oCtRxucJxjWPrjVX) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2CXi2Ys7mgFksGB1vb2FOn) | 4:08 | 2022-05-17 | 2022-06-18 |
 | [ティアドロップス](https://open.spotify.com/track/2SI7zaBCXvKEeASHS0I7cJ) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Poppin’on!](https://open.spotify.com/album/4zb8XgVyapzSvGKBdvO5sI) | 3:37 | 2022-09-20 |  |
 | [ティアドロップス](https://open.spotify.com/track/6LOwfEulHshS3CXEtPnnjr) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [バンドリ!「走り始めたばかりのキミに/ティアドロップス」](https://open.spotify.com/album/5naHriVgqbOAwQXqG6g7bD) | 3:37 | 2022-05-17 | 2022-07-28 |
@@ -322,6 +322,7 @@
 | [灼熱 Bonfire!](https://open.spotify.com/track/1kbvJ9ovjKzoibiWzeBkaB) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Domination to world](https://open.spotify.com/album/4hQnaCfXlMwWHofrkAQDOE) | 3:44 | 2022-09-20 | 2022-12-14 |
 | [無路矢](https://open.spotify.com/track/5BtZ5g4LAJPEMx7fVaPN9f) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [無路矢](https://open.spotify.com/album/2rSKZFZzDIcooeTCPKBLOt) | 3:42 | 2023-05-09 |  |
 | [独創収差](https://open.spotify.com/track/1TDNF588GS7ijlkGB57o0f) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [独創収差](https://open.spotify.com/album/6sqC5pyp0EFFxysVHJFcWo) | 4:35 | 2022-09-20 |  |
+| [神さま、バカ](https://open.spotify.com/track/4gRh7Jbk7W2IkLZKuyiHT2) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [神さま、バカ](https://open.spotify.com/album/2VtDfTQftGvkCf1VyFxqSK) | 3:33 | 2023-05-09 |  |
 | [競宴Red×Violet](https://open.spotify.com/track/6HczQuXOK6kviIaMd2joBD) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy), [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [劇場版「BanG Dream! FILM LIVE 2nd Stage」Special Songs](https://open.spotify.com/album/6E9PhFn4SWpwlNSDJ4JDo1) | 4:24 | 2022-05-17 | 2022-07-25 |
 | [約束](https://open.spotify.com/track/7rXA5MuwDku3tT0ABY7Amn) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [約束](https://open.spotify.com/album/6W6f8CRpWTlxPvbg3Too9b) | 5:04 | 2022-05-17 | 2022-07-03 |
 | [絆色のアンサンブル](https://open.spotify.com/track/1g8uyFFDuiYsgbDirSkB0R) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6), [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg), [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [劇場版「BanG Dream! FILM LIVE 2nd Stage」Special Songs](https://open.spotify.com/album/6E9PhFn4SWpwlNSDJ4JDo1) | 5:12 | 2022-05-17 | 2022-07-26 |

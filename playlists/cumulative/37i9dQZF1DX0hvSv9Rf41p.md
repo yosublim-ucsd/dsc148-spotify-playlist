@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with Whyte Fang.
 
-476 songs - 1 day 3 hr 39 min
+477 songs - 1 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Hyperdust](https://open.spotify.com/track/1P3o5TUYsIN3Qx7u17iRBN) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [HUMAN](https://open.spotify.com/album/5iXNn0qS3oGyl4jnYW8Y8d) | 2:40 | 2023-03-24 |  |
 | [Hypnocurrency](https://open.spotify.com/track/3evAUkYDPeLX5kn0LbvGz4) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Hypnocurrency](https://open.spotify.com/album/28WW07Sx0IrAXAb1xDDnD3) | 4:52 | 2021-12-17 | 2022-02-19 |
 | [Hypnotic](https://open.spotify.com/track/2GVscOY1PbZknTX0lNuxni) | [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Onzeker Kraft Vol.1](https://open.spotify.com/album/5YjyH1QQ20buSHnLJ3xm65) | 3:43 | 2023-03-24 | 2023-05-04 |
+| [I Found You](https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [I Found You](https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW) | 2:56 | 2023-05-12 |  |
 | [I'm Delighted](https://open.spotify.com/track/3N6B80cmfOnaQGG7KWppyb) | [Cookie Monsta](https://open.spotify.com/artist/2uGNBmaWvxF6HAcWuhK7OP), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [I'm Delighted](https://open.spotify.com/album/7DvM5EovlXacl7ngrQcI1h) | 5:39 | 2022-09-30 |  |
 | [ID1](https://open.spotify.com/track/6B2iGXREq0qb0N5thBN279) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Nightmare On Rezz Street 2 Mix](https://open.spotify.com/album/5aRRt9zSKDEQdWghFvkiEi) | 2:54 | 2022-10-28 |  |
 | [If I Have To](https://open.spotify.com/track/6BhQZ0wlqpOvx5SUhamhNR) | [A Hundred Drums](https://open.spotify.com/artist/1dUCaUhp2RZRXrwOyUnHxQ), [SAULE](https://open.spotify.com/artist/49MYInJAJqPwuH2jdHVYVc) | [If I Have To](https://open.spotify.com/album/08Q9olnsm63azlo8oC2pit) | 3:41 | 2022-02-04 | 2022-08-06 |
@@ -480,7 +481,7 @@
 | [Without You](https://open.spotify.com/track/1gs7LWmkKWpJ8M6cnWkK5e) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [Without You](https://open.spotify.com/album/5NQMRc7B6CvjhCcjYzSErM) | 3:45 | 2022-02-25 | 2023-01-04 |
 | [Worst Enemy](https://open.spotify.com/track/1ZASppQGfipnlhwfXooTdy) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [Worst Enemy](https://open.spotify.com/album/7d5WbnusZ9Gnku3Z92yphk) | 2:37 | 2022-06-10 | 2022-09-03 |
 | [XENA](https://open.spotify.com/track/3RWjhGoGLeJlrPlMWJyHJf) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [XENA](https://open.spotify.com/album/6dIRD8FVDLGmA0AoxYEOeA) | 4:11 | 2023-02-04 |  |
-| [You Got It](https://open.spotify.com/track/3bXWu4wjShtls0NJT59YrE) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [You Got It](https://open.spotify.com/album/6EUg2hYGUKicBGqGu5GzPs) | 2:38 | 2023-04-07 |  |
+| [You Got It](https://open.spotify.com/track/3bXWu4wjShtls0NJT59YrE) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [You Got It](https://open.spotify.com/album/6EUg2hYGUKicBGqGu5GzPs) | 2:38 | 2023-04-07 | 2023-05-13 |
 | [You Were Right](https://open.spotify.com/track/0m3EsIfqAfo48vGr18KVpq) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 3:55 | 2023-04-28 |  |
 | [Your Love](https://open.spotify.com/track/5xmwDU6b2jc80VmbgtpijM) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [Roniit](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY) | [Your Love](https://open.spotify.com/album/2bBRHynve4mj9EyncJmTie) | 3:09 | 2023-04-21 |  |
 | [Zest Please](https://open.spotify.com/track/3VhngLAWsDigMXslv72LnT) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF) | [Zest Please](https://open.spotify.com/album/4xo4jfgh25UO6deIa3kC5A) | 3:12 | 2021-12-17 | 2022-02-19 |

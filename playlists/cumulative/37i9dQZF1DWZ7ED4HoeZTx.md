@@ -4,7 +4,7 @@
 
 > Your chill anime soundtrack.
 
-73 songs - 5 hr 11 min
+74 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Deep down](https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Deep down](https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K) | 3:47 | 2023-01-05 |  |
 | [Eternal Youth](https://open.spotify.com/track/0ytvsZOerGzUWfHXVT2Sgy) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Eternal Youth](https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV) | 3:25 | 2023-01-05 |  |
 | [Figure](https://open.spotify.com/track/19qpmFLSJXgyeYohRFGf17) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 3:27 | 2023-01-17 |  |
+| [FLOAT](https://open.spotify.com/track/1Rwo1hDhVccHaDfXurutVP) | [mid](https://open.spotify.com/artist/18fyEcWuvZUxxKa5ofDYuD) | [FLOAT](https://open.spotify.com/album/5BdddlQ5i8s5wxXfmyG72Y) | 3:34 | 2023-05-12 |  |
 | [Garnet](https://open.spotify.com/track/40jwSjLscs3wDOvYUpaJoB) | [Hanako Oku](https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR) | [Hanako Oku Best \~ My Letters \~](https://open.spotify.com/album/10S0x53VUJYn6Dcw7sY1fq) | 5:20 | 2023-01-05 | 2023-01-18 |
 | [give it back](https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [give it back](https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI) | 3:32 | 2023-01-05 | 2023-01-11 |
 | [Hann Kemur I Kvold](https://open.spotify.com/track/0gStMkeGEZGAHusrp3oixi) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW), [Magnus Johann](https://open.spotify.com/artist/3WUBOQWgRGWHn4tcUypekj), [Jelena Ciric](https://open.spotify.com/artist/4o7faE2REjG6dtpfG0Xma2) | [Hann Kemur I Kvold](https://open.spotify.com/album/0J05c8KUza1pa5bzomJRAt) | 5:44 | 2023-03-07 |  |
@@ -29,7 +30,7 @@
 | [Let There Be Light Again](https://open.spotify.com/track/0YCz0CKKxSx1Ezk0HsYnHI) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Let There Be Light Again](https://open.spotify.com/album/2T9PfTuP5ovbfpM7wv6nez) | 3:47 | 2023-01-05 | 2023-04-29 |
 | [Let There Be Light Again](https://open.spotify.com/track/4Anip7bDkwKk4HacAIwvEl) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/2iuPnIdqfKsze3urSvl7XZ) | [Let There Be Light Again](https://open.spotify.com/album/6uQ4JRkPUIbk757knVVIZS) | 3:47 | 2023-04-18 |  |
 | [Mayonaka no Door / Stay With Me](https://open.spotify.com/track/2BHj31ufdEqVK5CkYDp9mA) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [Miki Matsubara Best Collection](https://open.spotify.com/album/1ANaxJNBcbOvvycNL4MCL5) | 5:12 | 2023-01-05 |  |
-| [memories](https://open.spotify.com/track/12MSmLSGPWulxOPvYBy5Ss) | [Maki Otsuki](https://open.spotify.com/artist/10C2C3ecEhGKdHskghO52u) | [Stories](https://open.spotify.com/album/4qo7xzzzNICqYYU36O5x00) | 4:26 | 2023-01-05 |  |
+| [memories](https://open.spotify.com/track/12MSmLSGPWulxOPvYBy5Ss) | [Maki Otsuki](https://open.spotify.com/artist/10C2C3ecEhGKdHskghO52u) | [Stories](https://open.spotify.com/album/4qo7xzzzNICqYYU36O5x00) | 4:26 | 2023-01-05 | 2023-05-13 |
 | [My Plan](https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [My Plan](https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e) | 3:43 | 2023-01-12 |  |
 | [My Plan \- Lofi Remix](https://open.spotify.com/track/3By0mwdcJC2m9Vq0W3LwC2) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [一騎\(CV:豊永利行\)](https://open.spotify.com/artist/6UNfWUQV7Zjuz2WvFSXcj3), [零\(CV:内山昂輝\)](https://open.spotify.com/artist/3bT8HW83dr4YDKYN20RYjy) | [My Plan](https://open.spotify.com/album/3CpERluTyAXWsI6kaQp139) | 3:37 | 2023-03-14 |  |
 | [Next to you \- from Parasyte](https://open.spotify.com/track/3iVvQHWCLGjfY3iFEwV9lO) | [Ken Arai](https://open.spotify.com/artist/5zGGIlGJXnwLcbniSyoc7w), [NSZX](https://open.spotify.com/artist/2DvKwWmzK5CPUBSRCWtZCy) | [Next to you \(from Parasyte\)](https://open.spotify.com/album/3GWLbX2NoKUi2wv6IKJ5z3) | 3:33 | 2023-01-05 | 2023-01-13 |

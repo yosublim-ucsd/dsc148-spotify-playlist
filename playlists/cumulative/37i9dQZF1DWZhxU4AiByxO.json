@@ -1617,6 +1617,24 @@
     },
     {
       "album": {
+        "name": "Boy\u2019s a liar",
+        "url": "https://open.spotify.com/album/6qLtJJ9Al14QF9xzsWZX7d"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190798,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/56IVjXSaLC5WYXHNeNYSrj"
+    },
+    {
+      "album": {
         "name": "Aladdin (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS"
       },
@@ -3507,6 +3525,24 @@
     },
     {
       "album": {
+        "name": "The Super Mario Bros. Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd"
+      },
+      "artists": [
+        {
+          "name": "Jack Black",
+          "url": "https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95440,
+      "name": "Peaches",
+      "url": "https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6"
+    },
+    {
+      "album": {
         "name": "Peppermint Twist",
         "url": "https://open.spotify.com/album/7C1905Zli5yhr2Nj8PMAka"
       },
@@ -4872,6 +4908,24 @@
       "duration_ms": 196853,
       "name": "Try Everything",
       "url": "https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ"
+    },
+    {
+      "album": {
+        "name": "Rainbow Vision",
+        "url": "https://open.spotify.com/album/7ICgxvkng11vLDlnpIGeKe"
+      },
+      "artists": [
+        {
+          "name": "Rainbow High",
+          "url": "https://open.spotify.com/artist/7cvp5x5lxRteAQnPklF4zD"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169389,
+      "name": "Turn Your Color Up",
+      "url": "https://open.spotify.com/track/1Q02L5rSO7YaSXEbmftO07"
     },
     {
       "album": {

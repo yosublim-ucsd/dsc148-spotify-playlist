@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-03-27",
-  "description": "House music lives here. United under one roof, featuring HUGEL.",
+  "description": "House music lives here. United under one roof, featuring James Hype.",
   "name": "Housewerk",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 168200,
       "name": "079",
       "url": "https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd"
@@ -820,7 +820,7 @@
       ],
       "date_added": "2021-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 118871,
       "name": "Back Tomorrow",
       "url": "https://open.spotify.com/track/4q2azQakSVVyqljRiCZtu3"
@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 278281,
       "name": "BREAK MY SOUL",
       "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
@@ -1826,7 +1826,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 174138,
       "name": "Check Out",
       "url": "https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM"
@@ -1884,7 +1884,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 202524,
       "name": "Chromatic",
       "url": "https://open.spotify.com/track/3FcKnF4nEwGxlwdAmRIogh"
@@ -2080,7 +2080,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 208544,
       "name": "Coma Cat - Purple Disco Machine Re-Work",
       "url": "https://open.spotify.com/track/1BMFet4vUoOgpLYIl3kVMQ"
@@ -2176,7 +2176,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-07",
+      "date_removed": null,
       "duration_ms": 221202,
       "name": "Could Heaven Ever Be Like This - Walker & Royce and Chris Lorenzo Remix",
       "url": "https://open.spotify.com/track/7lhNCZG9JWxhoJSGkJa2AS"
@@ -2332,7 +2332,7 @@
       ],
       "date_added": "2021-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 240480,
       "name": "Dancing",
       "url": "https://open.spotify.com/track/7xbBNB9bivza5vrYfnZJYg"
@@ -2869,6 +2869,28 @@
     },
     {
       "album": {
+        "name": "Dummy \u2013 Chris Lake Remix",
+        "url": "https://open.spotify.com/album/6XqbzujsQpFewramig6kUM"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173001,
+      "name": "Dummy \u2013 Chris Lake Remix",
+      "url": "https://open.spotify.com/track/0SmyaVrzL7j3R9k3pkJgUh"
+    },
+    {
+      "album": {
         "name": "Sound Travels",
         "url": "https://open.spotify.com/album/6oPPpL8pptFNGierdn3KRT"
       },
@@ -2986,6 +3008,24 @@
       "duration_ms": 370946,
       "name": "Essa Mina",
       "url": "https://open.spotify.com/track/3s4vo3MRq4u5ogEQYtydfT"
+    },
+    {
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/4dtA4QUlcF3fsOcWYkXiLB"
+      },
+      "artists": [
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158399,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/5QjfEMyFm4YTyYTbHvriGT"
     },
     {
       "album": {
@@ -3664,7 +3704,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 186862,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/3uO4nLDiJMH2DkixEFcHIN"
@@ -4205,6 +4245,24 @@
     },
     {
       "album": {
+        "name": "HOLD YOU",
+        "url": "https://open.spotify.com/album/5KgTqGLDlJo6kL67PMbRdi"
+      },
+      "artists": [
+        {
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "HOLD YOU",
+      "url": "https://open.spotify.com/track/5YOcEEKHgs1IgqudZ5vx8Q"
+    },
+    {
+      "album": {
         "name": "Holding On Too Long",
         "url": "https://open.spotify.com/album/1JjIcS5IOv87nWHhbUBRPw"
       },
@@ -4286,7 +4344,7 @@
       ],
       "date_added": "2021-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 219047,
       "name": "Human (feat. Echoes)",
       "url": "https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR"
@@ -5049,6 +5107,32 @@
     },
     {
       "album": {
+        "name": "Kamili",
+        "url": "https://open.spotify.com/album/59q5fTLywgfKCoensSHdxG"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226500,
+      "name": "Kamili",
+      "url": "https://open.spotify.com/track/5JEaCJCehAtt1nQf0gd9Dx"
+    },
+    {
+      "album": {
         "name": "Keep Pushing",
         "url": "https://open.spotify.com/album/51Efce1Hjf6TxbU7hAKwik"
       },
@@ -5396,7 +5480,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 154761,
       "name": "Let Me Take You",
       "url": "https://open.spotify.com/track/0q6ty9Ga2ebtTKa2C74jrC"
@@ -5656,7 +5740,7 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-01",
+      "date_removed": null,
       "duration_ms": 226666,
       "name": "Lights Go Out",
       "url": "https://open.spotify.com/track/18KVIouF8klKE9HdqdpUxd"
@@ -5692,7 +5776,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 180719,
       "name": "Like That",
       "url": "https://open.spotify.com/track/0ddvXI226RBn6NXy692GK7"
@@ -5750,7 +5834,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 201868,
       "name": "Liquor Store",
       "url": "https://open.spotify.com/track/3aLsMcZZTLgQqjpWgeWMMM"
@@ -5812,6 +5896,24 @@
       "duration_ms": 334838,
       "name": "Los Tamales",
       "url": "https://open.spotify.com/track/3SvhhsODK5VG35Cs5eAJ8M"
+    },
+    {
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/1OYS1FK3tnJ8JhbWuUZaqE"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173437,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/3DLWVhaowApIGw1JnJj6GS"
     },
     {
       "album": {
@@ -6540,7 +6642,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 174220,
       "name": "Misbehave",
       "url": "https://open.spotify.com/track/5ycGcr8ZiWiutDmLps8UQG"
@@ -6771,6 +6873,24 @@
     },
     {
       "album": {
+        "name": "My Mistake",
+        "url": "https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN"
+      },
+      "artists": [
+        {
+          "name": "BKAYE",
+          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195757,
+      "name": "My Mistake",
+      "url": "https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf"
+    },
+    {
+      "album": {
         "name": "My Name (feat. Lolita Leopard)",
         "url": "https://open.spotify.com/album/4w1921hEHiOnAmq4bCVxyY"
       },
@@ -6984,7 +7104,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 149455,
       "name": "Nightjar (feat. SHELLS)",
       "url": "https://open.spotify.com/track/2rNy5Ils7RO6m2E2W83CR5"
@@ -8058,7 +8178,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 199967,
       "name": "Remember (feat. Stevie Appleton)",
       "url": "https://open.spotify.com/track/5Cv9UBYh2VkiCspwh4Wog5"
@@ -8288,7 +8408,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 217749,
       "name": "Rizzla",
       "url": "https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v"
@@ -9586,7 +9706,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 249678,
       "name": "Tell Me Something Good",
       "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
@@ -9666,7 +9786,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-16",
+      "date_removed": null,
       "duration_ms": 192960,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/5UkoWcFsdWn8NtSAh73Vli"
@@ -9688,7 +9808,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 197760,
       "name": "The Calling",
       "url": "https://open.spotify.com/track/4ANmPUsA3LAvOSP8xen6Vt"
@@ -9838,6 +9958,28 @@
       "duration_ms": 171796,
       "name": "The Night (feat. Purple Velvet Curtains)",
       "url": "https://open.spotify.com/track/1O5aDl6qjgN80CJJ9JHDgw"
+    },
+    {
+      "album": {
+        "name": "The Otherside (feat. Paige Cavell)",
+        "url": "https://open.spotify.com/album/79yXQTjSXHNmWjpsrmPjAW"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Paige Cavell",
+          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202941,
+      "name": "The Otherside (feat. Paige Cavell)",
+      "url": "https://open.spotify.com/track/4BtscbDsAeMeIXRCpEXMTH"
     },
     {
       "album": {

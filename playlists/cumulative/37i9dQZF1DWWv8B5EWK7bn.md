@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-301 songs - 21 hr 42 min
+302 songs - 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Log In Your Fire](https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 2:51 | 2022-02-04 |  |
 | [Log In Your Fire](https://open.spotify.com/track/7txXo9E9GS7ioSX1g3RNSv) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog \(Prequel\)](https://open.spotify.com/album/010kVtJGaVvJPmMyAHscKD) | 2:51 | 2022-02-04 | 2022-07-29 |
 | [Lonely One](https://open.spotify.com/track/35b2N9gDlR3LPSKaXTGOmu) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Lonely One](https://open.spotify.com/album/1qDhZO24bweGR7zKze2xMZ) | 2:47 | 2022-09-29 | 2022-10-30 |
-| [Lonely One](https://open.spotify.com/track/7dW6aiHZG0A8xApW0Xg40G) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Spirit Mission](https://open.spotify.com/album/31t6VcIOZ3WqsSH2F9Zcy0) | 2:47 | 2022-09-29 |  |
+| [Lonely One](https://open.spotify.com/track/7dW6aiHZG0A8xApW0Xg40G) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Spirit Mission](https://open.spotify.com/album/31t6VcIOZ3WqsSH2F9Zcy0) | 2:47 | 2022-09-29 | 2023-05-13 |
 | [Lost](https://open.spotify.com/track/5NIrChwN4QRg8sGrFalgMU) | [Zola Jesus](https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P) | [Arkhon](https://open.spotify.com/album/4fAgGEM3LIMho5Brx5Gio9) | 3:24 | 2022-07-15 |  |
 | [Lost Heads](https://open.spotify.com/track/3UweSSZc1r6z0DPQYEymb4) | [Moon Duo](https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu) | [Stars Are the Light](https://open.spotify.com/album/70nGjFdZKPyoYCtDhTlbqQ) | 6:26 | 2021-10-06 | 2022-07-29 |
 | [Lost Heads](https://open.spotify.com/track/6f8wIpMdNnL7CZ8zsfmh6v) | [Moon Duo](https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu) | [Stars Are the Light](https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5) | 6:26 | 2021-10-06 | 2022-08-04 |
@@ -262,6 +262,7 @@
 | [Tell Somebody](https://open.spotify.com/track/3lQPBzcMsqmNldx9AgIhSt) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Tell Somebody](https://open.spotify.com/album/6N1ewdXLJv8e5gW5GBk5JO) | 3:10 | 2023-01-20 |  |
 | [THE 55](https://open.spotify.com/track/61aBhscbYMdkvI4V4ikn70) | [GUSPY](https://open.spotify.com/artist/1zixgqu3Rx9mXzCsS7k7lp) | [THE 55](https://open.spotify.com/album/3VRckeo4W4pLalver76sg1) | 2:52 | 2022-08-13 |  |
 | [the dealer](https://open.spotify.com/track/0wVIuUDDqemXEU30I9XIWn) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [the dealer](https://open.spotify.com/album/64U2AlwSv3RDN33tpzT5HI) | 3:38 | 2022-03-04 | 2022-08-14 |
+| [The Lava Is Calm](https://open.spotify.com/track/3g1uQN86mg2yLHnJCuN2fR) | [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [The Lava Is Calm](https://open.spotify.com/album/5aHkYVIe5sD87SjN4lmFvg) | 3:06 | 2023-05-12 |  |
 | [The Loop](https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Loop](https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF) | 4:01 | 2022-02-25 | 2022-05-13 |
 | [The Order of the Rain](https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [The Order of the Rain](https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK) | 5:00 | 2022-09-22 | 2023-04-01 |
 | [The Revolution Of Super Visions](https://open.spotify.com/track/4FBxXwJfqJv5kmeJ4ciAhY) | [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Revolution Of Super Visions](https://open.spotify.com/album/4faN9KeYJRiyylygDmHqbP) | 5:01 | 2021-10-06 | 2023-02-07 |

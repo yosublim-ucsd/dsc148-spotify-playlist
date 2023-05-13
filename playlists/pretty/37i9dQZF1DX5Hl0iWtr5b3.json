@@ -1,12 +1,12 @@
 {
   "description": "All your favorite tracks from Bridgerton and Queen Charlotte, now streaming on Netflix.",
-  "num_followers": 986620,
+  "num_followers": 990280,
   "original_name": "Bridgerton and Queen Charlotte Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTdjNDZkOTZhMjJiMWExMmM4ZjkzOWJiYmNjZWQ5MDFmODVhZjg2",
+  "snapshot_id": "MCxjZWQxYjM2ZWJlMGFjYTBjMTllNDdjNTgxYzIxZmI3NWVhOWE0MDQz",
   "tracks": [
     {
       "added_at": "2023-05-04 07:00:00",
@@ -27,6 +27,38 @@
       "duration_ms": 173500,
       "name": "Halo",
       "url": "https://open.spotify.com/track/74N9z23qZd1q3rViChUdB7"
+    },
+    {
+      "added_at": "2023-05-04 07:00:00",
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "If I Ain't Got You",
+      "url": "https://open.spotify.com/track/1NaQBIECEo3dFOMtgvCWFN"
+    },
+    {
+      "added_at": "2023-05-04 07:00:00",
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "duration_ms": 285946,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/1Pz0hDCAXTTfcpNT5YrufQ"
     },
     {
       "added_at": "2023-05-04 07:00:00",
@@ -56,33 +88,17 @@
       },
       "artists": [
         {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "If I Ain't Got You",
-      "url": "https://open.spotify.com/track/1NaQBIECEo3dFOMtgvCWFN"
-    },
-    {
-      "added_at": "2023-05-04 07:00:00",
-      "album": {
-        "name": "Queen Charlotte: A Bridgerton Story (Covers from the Netflix Series)",
-        "url": "https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8"
-      },
-      "artists": [
-        {
-          "name": "Kris Bowers",
-          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+          "name": "Caleb Chan",
+          "url": "https://open.spotify.com/artist/0YjUXIuubffRMoxE6jvosS"
         },
         {
-          "name": "Tayla Parx",
-          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
+          "name": "Brian Chan",
+          "url": "https://open.spotify.com/artist/0CRbBSZqPI9g9oNTSYNjCO"
         }
       ],
-      "duration_ms": 224500,
-      "name": "A Feeling I've Never Been",
-      "url": "https://open.spotify.com/track/6GheQyWRdAQAtXa4PMNNNG"
+      "duration_ms": 245000,
+      "name": "Nobody Gets Me",
+      "url": "https://open.spotify.com/track/02xryujVOT8wOxSxCfGG9M"
     },
     {
       "added_at": "2023-05-04 07:00:00",
@@ -112,33 +128,17 @@
       },
       "artists": [
         {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
-        }
-      ],
-      "duration_ms": 285946,
-      "name": "I Will Always Love You",
-      "url": "https://open.spotify.com/track/1Pz0hDCAXTTfcpNT5YrufQ"
-    },
-    {
-      "added_at": "2023-05-04 07:00:00",
-      "album": {
-        "name": "Queen Charlotte: A Bridgerton Story (Covers from the Netflix Series)",
-        "url": "https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8"
-      },
-      "artists": [
-        {
-          "name": "Caleb Chan",
-          "url": "https://open.spotify.com/artist/0YjUXIuubffRMoxE6jvosS"
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         },
         {
-          "name": "Brian Chan",
-          "url": "https://open.spotify.com/artist/0CRbBSZqPI9g9oNTSYNjCO"
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
         }
       ],
-      "duration_ms": 245000,
-      "name": "Nobody Gets Me",
-      "url": "https://open.spotify.com/track/02xryujVOT8wOxSxCfGG9M"
+      "duration_ms": 224500,
+      "name": "A Feeling I've Never Been",
+      "url": "https://open.spotify.com/track/6GheQyWRdAQAtXa4PMNNNG"
     },
     {
       "added_at": "2023-05-04 07:00:00",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-05-04 07:00:00",
       "album": {
-        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
-      },
-      "artists": [
-        {
-          "name": "Kris Bowers",
-          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
-        }
-      ],
-      "duration_ms": 142603,
-      "name": "Arranging Marriage",
-      "url": "https://open.spotify.com/track/1Efnol5ZaNkz6FWZ4vTTm7"
-    },
-    {
-      "added_at": "2023-05-04 07:00:00",
-      "album": {
         "name": "Bridgerton (Covers from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe"
       },
@@ -259,24 +243,8 @@
     {
       "added_at": "2023-05-04 07:00:00",
       "album": {
-        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
-        "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
-      },
-      "artists": [
-        {
-          "name": "Steve Horner",
-          "url": "https://open.spotify.com/artist/0mRwlobkMJCn8G51R9oYZw"
-        }
-      ],
-      "duration_ms": 159453,
-      "name": "Sign of the Times - Stripped",
-      "url": "https://open.spotify.com/track/0uaJBwwtP6FMqdDpHYNOk0"
-    },
-    {
-      "added_at": "2023-05-04 07:00:00",
-      "album": {
-        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
-        "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
+        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
       },
       "artists": [
         {
@@ -284,9 +252,25 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 244339,
-      "name": "Material Girl",
-      "url": "https://open.spotify.com/track/4p7na6NSU0F7lMOhx9kg9k"
+      "duration_ms": 218732,
+      "name": "Who You Are",
+      "url": "https://open.spotify.com/track/5vgnRvuUVkic3Dhy1oGORc"
+    },
+    {
+      "added_at": "2023-05-04 07:00:00",
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "duration_ms": 142603,
+      "name": "Arranging Marriage",
+      "url": "https://open.spotify.com/track/1Efnol5ZaNkz6FWZ4vTTm7"
     },
     {
       "added_at": "2023-05-04 07:00:00",
@@ -316,15 +300,31 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 218732,
-      "name": "Who You Are",
-      "url": "https://open.spotify.com/track/5vgnRvuUVkic3Dhy1oGORc"
+      "duration_ms": 113372,
+      "name": "Observatory Kiss",
+      "url": "https://open.spotify.com/track/5464c5jof2DVpBwIB2fXQR"
     },
     {
       "added_at": "2023-05-04 07:00:00",
       "album": {
-        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
+        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
+      },
+      "artists": [
+        {
+          "name": "Steve Horner",
+          "url": "https://open.spotify.com/artist/0mRwlobkMJCn8G51R9oYZw"
+        }
+      ],
+      "duration_ms": 159453,
+      "name": "Sign of the Times - Stripped",
+      "url": "https://open.spotify.com/track/0uaJBwwtP6FMqdDpHYNOk0"
+    },
+    {
+      "added_at": "2023-05-04 07:00:00",
+      "album": {
+        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 113372,
-      "name": "Observatory Kiss",
-      "url": "https://open.spotify.com/track/5464c5jof2DVpBwIB2fXQR"
+      "duration_ms": 244339,
+      "name": "Material Girl",
+      "url": "https://open.spotify.com/track/4p7na6NSU0F7lMOhx9kg9k"
     },
     {
       "added_at": "2023-05-04 07:00:00",
@@ -387,22 +387,6 @@
       "duration_ms": 116170,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/6M4CKv0mfBDXKg8uIphjG0"
-    },
-    {
-      "added_at": "2023-05-04 07:00:00",
-      "album": {
-        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
-        "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
-      },
-      "artists": [
-        {
-          "name": "Kris Bowers",
-          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
-        }
-      ],
-      "duration_ms": 208893,
-      "name": "Kabhi Khushi Kabhie Gham",
-      "url": "https://open.spotify.com/track/2uU4tNepmkbE5lyQ9d0zFZ"
     },
     {
       "added_at": "2023-05-04 07:00:00",
@@ -483,6 +467,22 @@
       "duration_ms": 228684,
       "name": "I Am Venus",
       "url": "https://open.spotify.com/track/45Y6CfbfZnKrBaqJcqNsAk"
+    },
+    {
+      "added_at": "2023-05-04 07:00:00",
+      "album": {
+        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "duration_ms": 208893,
+      "name": "Kabhi Khushi Kabhie Gham",
+      "url": "https://open.spotify.com/track/2uU4tNepmkbE5lyQ9d0zFZ"
     },
     {
       "added_at": "2023-05-04 07:00:00",

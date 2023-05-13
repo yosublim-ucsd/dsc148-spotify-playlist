@@ -881,6 +881,24 @@
     },
     {
       "album": {
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214455,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0"
+    },
+    {
+      "album": {
         "name": "Red Moon In Venus",
         "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
       },
@@ -1200,7 +1218,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 196933,
       "name": "Fatal Attraction",
       "url": "https://open.spotify.com/track/3y9JbvYZAhVeQsAECrKAgt"
@@ -2208,6 +2226,28 @@
       "duration_ms": 229053,
       "name": "Light Me Up",
       "url": "https://open.spotify.com/track/0QQMJ3W0zNoHeak1NWnPDm"
+    },
+    {
+      "album": {
+        "name": "Like Her Too",
+        "url": "https://open.spotify.com/album/2fw7ZZewq0CRvqwmoTmjIe"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        },
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177533,
+      "name": "Like Her Too",
+      "url": "https://open.spotify.com/track/1Nxx1LHMLKxC6yGaZjpPO5"
     },
     {
       "album": {
@@ -3466,7 +3506,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 148062,
       "name": "silhouette",
       "url": "https://open.spotify.com/track/2FZi6QvNlnmFEInKKwKdc4"

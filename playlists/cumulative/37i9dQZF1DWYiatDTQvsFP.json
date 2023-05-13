@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "it's scary hours...\u26c8\ufe0f  cover: Ashanti",
+  "description": "it's scary hours...\u26c8\ufe0f  cover: Brandy",
   "name": "mid:nite storm ",
   "tracks": [
     {
@@ -148,10 +148,32 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 245133,
       "name": "Always On Time",
       "url": "https://open.spotify.com/track/4hrae8atte6cRlSC9a7VCO"
+    },
+    {
+      "album": {
+        "name": "Pain Is Love",
+        "url": "https://open.spotify.com/album/6x7ohjhYzzmCglAT4TD9T9"
+      },
+      "artists": [
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245866,
+      "name": "Always On Time",
+      "url": "https://open.spotify.com/track/2lXJr5BkUPZpQUV2ZGN1Wv"
     },
     {
       "album": {
@@ -1324,10 +1346,32 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 331133,
       "name": "Down A** B**ch",
       "url": "https://open.spotify.com/track/4Z69sHFf60gZbdgdd9sBBq"
+    },
+    {
+      "album": {
+        "name": "Pain Is Love",
+        "url": "https://open.spotify.com/album/6x7ohjhYzzmCglAT4TD9T9"
+      },
+      "artists": [
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Chuck",
+          "url": "https://open.spotify.com/artist/3nymLh0T0yPM7HtNXzMJeO"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332293,
+      "name": "Down A** B**ch",
+      "url": "https://open.spotify.com/track/2eTJ14pjbaVBmXKohkTihY"
     },
     {
       "album": {

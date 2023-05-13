@@ -1,13 +1,29 @@
 {
   "description": "maxime. makes anti pop",
-  "num_followers": 696573,
+  "num_followers": 696624,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDZlMDcyYjg0ZTBmNmIwMzg2ZTdiNTRkMGE4NDc4ZDU2ZWI4YmMz",
+  "snapshot_id": "MCxjZWQwNmFlMzNhMjg5MjExZGMxNTU1OTZiNDY5MWQ0ZGYwMzI2MGQ4",
   "tracks": [
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "BULLET MAN",
+        "url": "https://open.spotify.com/album/1B9eLnJh3huaPRziWXWliK"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "duration_ms": 178195,
+      "name": "BULLET MAN",
+      "url": "https://open.spotify.com/track/1xscJ2dRvxgJhB8V10EqZn"
+    },
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
@@ -73,6 +89,22 @@
       "url": "https://open.spotify.com/track/7rG0ambeXy4HZsTCuFnAgX"
     },
     {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "sunset blvd",
+        "url": "https://open.spotify.com/album/5Jdnp7iYU4QlKkdMoKn0DR"
+      },
+      "artists": [
+        {
+          "name": "CLIP",
+          "url": "https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl"
+        }
+      ],
+      "duration_ms": 132654,
+      "name": "sunset blvd",
+      "url": "https://open.spotify.com/track/4RN4a0h7o3Cxv2mJSHxKJ2"
+    },
+    {
       "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "SHIMMY SHIMMY YA",
@@ -103,6 +135,26 @@
       "duration_ms": 213500,
       "name": "Aliens",
       "url": "https://open.spotify.com/track/6oHszCRqdIvOmjKf6vu67Y"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Dressed For A Funeral",
+        "url": "https://open.spotify.com/album/6x47JaUUbqIjrxqd2eCd3r"
+      },
+      "artists": [
+        {
+          "name": "Groupthink",
+          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
+        },
+        {
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+        }
+      ],
+      "duration_ms": 144625,
+      "name": "Dressed For A Funeral",
+      "url": "https://open.spotify.com/track/0iHZE9wKvvOXeKRkfbpjMQ"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -255,6 +307,22 @@
       "duration_ms": 130369,
       "name": "SNAKE EYES",
       "url": "https://open.spotify.com/track/37ouI56S9L2R8ASWeyAMG7"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Don't Make Me Go Wrong",
+        "url": "https://open.spotify.com/album/3kSyH8xI2iecmqWLrUQN3T"
+      },
+      "artists": [
+        {
+          "name": "Moritz",
+          "url": "https://open.spotify.com/artist/67aMKJMVxYIbbVjzfJ5dPZ"
+        }
+      ],
+      "duration_ms": 199909,
+      "name": "Don't Make Me Go Wrong",
+      "url": "https://open.spotify.com/track/2zIDLsduXFSguKxHgzuq0A"
     },
     {
       "added_at": "2023-04-07 04:00:00",

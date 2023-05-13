@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: Angelina Jordan",
-  "num_followers": 407414,
+  "num_followers": 407578,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGZkNDE0ZjRiZTI5ZTBmZTU2OGJmNDdlN2Y0ZTIxYWJmZjM4MmZl",
+  "snapshot_id": "MCw5YjllMDE3ZjNiMTg4YjJhZjBlYmRjYmI5MTU1MDAyZDZiYzFkMDU2",
   "tracks": [
     {
       "added_at": "2023-05-05 04:01:00",
@@ -119,6 +119,22 @@
       "duration_ms": 179426,
       "name": "You",
       "url": "https://open.spotify.com/track/6FAsJDkg4y5JSWP9ZMKlDj"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "NEWS",
+        "url": "https://open.spotify.com/album/1Rp96rbYxQJgiksH8datBA"
+      },
+      "artists": [
+        {
+          "name": "Loi",
+          "url": "https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE"
+        }
+      ],
+      "duration_ms": 147475,
+      "name": "NEWS",
+      "url": "https://open.spotify.com/track/4LdFhvSwioFDEdOuRQp2MV"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1683,22 +1699,6 @@
       "duration_ms": 238613,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
-    },
-    {
-      "added_at": "2022-05-02 20:03:12",
-      "album": {
-        "name": "It Will Come In Time",
-        "url": "https://open.spotify.com/album/3kUX1L10eOj1lSuwrfk9PM"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 173862,
-      "name": "It Will Come In Time",
-      "url": "https://open.spotify.com/track/2eqocLN1rW8h10svumB8wd"
     }
   ],
   "unique_name": "Retro Pop",

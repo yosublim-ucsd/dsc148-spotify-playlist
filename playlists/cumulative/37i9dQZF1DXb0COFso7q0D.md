@@ -2,7 +2,7 @@
 
 ### [Los Que Mandan](https://open.spotify.com/playlist/37i9dQZF1DXb0COFso7q0D)
 
-> The playlist sin fronteras\. Cover: Fuerza Regida & Myke Towers
+> The playlist sin fronteras\. Cover: Grupo Frontera & Bad Bunny
 
 349 songs - 18 hr 20 min
 

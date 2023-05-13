@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 637,253 likes - 115 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 637,492 likes - 115 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 6 | [Ezio's Family](https://open.spotify.com/track/05UMQXFCsa9oPnLgfJHVyF) | [Jesper Kyd](https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed 2 \(Original Game Soundtrack\)](https://open.spotify.com/album/09ixa10YNG75H0HDKbMAiZ) | 3:57 |
 | 7 | [The Rebel Path](https://open.spotify.com/track/3m8UfZwPMMbiWfGR8Lg2cR) | [P.T\. Adamczyk](https://open.spotify.com/artist/27VhXJzIph9c75cBh1e8XM) | [Cyberpunk 2077 \- Original Score](https://open.spotify.com/album/1B2QrHbMox8vPXUY7rXAFp) | 4:10 |
 | 8 | [Elden Ring](https://open.spotify.com/track/2iiJOgkKOCyb7ZPeqUNpud) | [Tsukasa Saitoh](https://open.spotify.com/artist/4iHfF8FJmOcgYAhnhqLqaD) | [Elden Ring \(Original Soundtrack\)](https://open.spotify.com/album/6WWL32UxPnjrIWlgLdzoir) | 1:38 |
-| 9 | [Fields of Dusk \- Orchestral Version](https://open.spotify.com/track/4zDOsDzhepxaCHzDiMVBEJ) | [Tamuz Dekel](https://open.spotify.com/artist/2qro5TGvNZmeUEB1Rce5H1), [Offir Benjaminov](https://open.spotify.com/artist/0Rj7Rx1KUdSAVeh2xth2mV), [Dan Mayo](https://open.spotify.com/artist/0eVbdzTTWTCvJkwrER5veb) | [Star Wars Jedi: Survivor \(Original Video Game Soundtrack\)](https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741) | 4:41 |
+| 9 | [Fields of Dusk \- Orchestral Version](https://open.spotify.com/track/4zDOsDzhepxaCHzDiMVBEJ) | [TATRAN](https://open.spotify.com/artist/3gzgB8WFPLlgpn03piQ5pB) | [Star Wars Jedi: Survivor \(Original Video Game Soundtrack\)](https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741) | 4:41 |
 | 10 | [Overture to the Unwritten \(from "Hogwarts Legacy"\)](https://open.spotify.com/track/4u3Idn4PRAINifJ5lgzZDx) | [chuck e\. myers 'sea'](https://open.spotify.com/artist/3LgsL4KAyz5zPUMnDoZjCa), [J Scott Rakozy](https://open.spotify.com/artist/5QsqtbrHN65994pLwOyp5N), [Peter Murray](https://open.spotify.com/artist/4OmBmVt6D1vpEF32YC9gWL), [Hogwarts Legacy](https://open.spotify.com/artist/3he1hJlJoHsQOzaDlNptC2) | [Hogwarts Legacy \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7zh839yQHDgZJASAuDmnpi) | 5:00 |
 | 11 | [Geralt Of Rivia](https://open.spotify.com/track/5tmhUzJuP7XwqCHglyqnt8) | [Marcin Przybyłowicz](https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw) | [The Witcher 3: Wild Hunt \(Original Game Soundtrack\)](https://open.spotify.com/album/6pYNEn4tMc6gdv5fIZf5yn) | 2:21 |
 | 12 | [Assassin's Creed IV Black Flag Main Theme](https://open.spotify.com/track/6enLk2V2s0M6D6PGLjHxYv) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed 4: Black Flag \(Original Game Soundtrack\)](https://open.spotify.com/album/76Sa34PcsBjp52vsjOd0Tz) | 2:13 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 114 | [Fabula Nova Crystallis \(From "Final Fantasy XIII"\)](https://open.spotify.com/track/0jJwod2HN9wpPEv6Io1wfa) | [Masashi Hamauzu](https://open.spotify.com/artist/63aGIPDyyk7J6s68Yy8vf5) | [Distant Worlds III: More Music from Final Fantasy](https://open.spotify.com/album/0jQi3Ed1ujzx8K12u9DIr6) | 2:54 |
 | 115 | [Get To Potions](https://open.spotify.com/track/3Wc0JpVHqMjXV5W9VNiWIn) | [James Hannigan](https://open.spotify.com/artist/6kfhASNYuazU444iSF4iuI) | [Ea Music Composer Series: James Hannigan, Vol\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/234mcpdkR9lNkLt3TrPtkZ) | 1:46 |
 
-Snapshot ID: `MCw5ZWZhZTI2NzRlM2VlNjI2ZmQ4NmFkOTFiZTNjZGJjOWU4YzJhZTE5`
+Snapshot ID: `MCw4OTUxMjFiNGViM2ZhZWM0Yzg5ZDkzZGU2NTk4MzZmY2FjNmI1ZGY1`

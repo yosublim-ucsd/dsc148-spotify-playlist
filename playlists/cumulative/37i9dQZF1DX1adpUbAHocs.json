@@ -1886,7 +1886,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 225470,
       "name": "Frightened By The Sound",
       "url": "https://open.spotify.com/track/3fp778baYgJ5gDcXtZgGm5"
@@ -1944,7 +1944,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 264040,
       "name": "Going On A Feeling",
       "url": "https://open.spotify.com/track/7yq3HE1RNBTRAw8YG8xtdT"
@@ -3278,7 +3278,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 238426,
       "name": "Mountain Man",
       "url": "https://open.spotify.com/track/3QnxeNu890sL0Lcfy0iFzQ"
@@ -3740,6 +3740,24 @@
       "duration_ms": 238813,
       "name": "Problems",
       "url": "https://open.spotify.com/track/4WBs7J0btTQLsER9ouXW2I"
+    },
+    {
+      "album": {
+        "name": "Puppy and a Truck",
+        "url": "https://open.spotify.com/album/2udBN6XsNrbgLOFzrqEBVt"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191280,
+      "name": "Puppy and a Truck",
+      "url": "https://open.spotify.com/track/6nrfecLjwsQngv4LbOMrRe"
     },
     {
       "album": {

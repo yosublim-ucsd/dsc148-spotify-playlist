@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Brazil.
 
-675 songs - 1 day 9 hr 59 min
+676 songs - 1 day 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Cara da Derrota \- Ao Vivo](https://open.spotify.com/track/2bWVxK5GlPtS4D3FcLjGgQ) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco Goiânia \(Ao Vivo\)](https://open.spotify.com/album/00jkZlcpl1OU9kZbgLqBMT) | 2:41 | 2022-12-17 | 2023-02-11 |
 | [Carinha de Bebê](https://open.spotify.com/track/2jZrMlMuTk1N3LJS8yQM6q) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [Carinha de Bebê](https://open.spotify.com/album/3rUoVCrA04JXWIrpOQqZhl) | 2:55 | 2023-02-19 | 2023-02-24 |
 | [Carinha de Neném](https://open.spotify.com/track/6T6SDJszPbuMCBpSm3aS3G) | [Japãozin](https://open.spotify.com/artist/7bDY7ck0pXuKESZtEt1X5d) | [Brabo dos Paredões](https://open.spotify.com/album/6fnrD6gb7XwFCZMj7o44mN) | 2:20 | 2021-10-10 | 2022-01-15 |
+| [Cartão Black](https://open.spotify.com/track/12YCtLHGk6tP6RbHDHflCs) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [Cartão Black](https://open.spotify.com/album/23R4fvlUILMwCpu3tpgiMH) | 2:39 | 2023-05-12 |  |
 | [Casei Com a Putaria](https://open.spotify.com/track/1OZ4uv7OAP24Ix6j3vojLt) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Casei Com a Putaria](https://open.spotify.com/album/4cLbAcr21lNTq9oTGGTvQi) | 2:37 | 2022-07-27 | 2023-02-26 |
 | [Cavalo de Pau](https://open.spotify.com/track/74Le949TrZk4zwDjtWzH23) | [Bruno & Denner](https://open.spotify.com/artist/0jLROJ4FhMIKMF9XzlR5IZ), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Cavalo de Pau](https://open.spotify.com/album/2BDEQmIWBMZQg8BuGClF5y) | 2:44 | 2022-12-25 | 2023-02-08 |
 | [Cavalo de Tróia](https://open.spotify.com/track/7uXQAiHezf6VR7txWkS86Q) | [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa) | [Cavalo de Tróia](https://open.spotify.com/album/04U270KQCg8MTB1GnzZr6y) | 2:42 | 2021-05-19 | 2021-05-22 |
@@ -633,7 +634,7 @@
 | [Vai Dar PT \- Ao Vivo](https://open.spotify.com/track/3aD1casmkFBZRtBcTs33fL) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/0Ovm1SkjHbW11vWJHVlRlS) | 1:50 | 2022-10-31 | 2022-11-02 |
 | [Vai Lá Em Casa Hoje](https://open.spotify.com/track/1c4htMHiolERc0YJvZNdlc) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Vai Lá Em Casa Hoje](https://open.spotify.com/album/2ULXBNAz2pgBQmwc3qODUz) | 3:11 | 2021-11-12 | 2022-02-28 |
 | [Vai Lá Em Casa Hoje](https://open.spotify.com/track/2wSCalnGOnXdAJC0Fn8OUY) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Vai Lá Em Casa Hoje](https://open.spotify.com/album/0JKlc3z8LMvYXvAvCv1EzG) | 3:11 | 2022-02-27 | 2023-01-04 |
-| [Vai Vendo](https://open.spotify.com/track/2D1YgoOgqGfEENCtsZNXMi) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Vai Vendo](https://open.spotify.com/album/7khLcypJ5ujTq7aK5pAUm5) | 2:42 | 2023-05-09 |  |
+| [Vai Vendo](https://open.spotify.com/track/2D1YgoOgqGfEENCtsZNXMi) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Vai Vendo](https://open.spotify.com/album/7khLcypJ5ujTq7aK5pAUm5) | 2:42 | 2023-05-09 | 2023-05-13 |
 | [VALHO NADA](https://open.spotify.com/track/18XOY618zQH4bFw3TgVT9L) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Vinicin](https://open.spotify.com/artist/6GF33PalPVxh4sMpbHir0F), [Amorim](https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a), [A.R](https://open.spotify.com/artist/7KEZl3nvHOJaaLZUo1wLwc), [Palma](https://open.spotify.com/artist/5M5Fa00P9Ur9hh3MnqHUQC), [Felipe Rosa](https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N), [Brutus](https://open.spotify.com/artist/4X7RS8ZUL2fsYifgzuN7l5) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 3:37 | 2022-12-23 | 2022-12-25 |
 | [Vamo Tomar Uma](https://open.spotify.com/track/1YiO0AdZz9HNoJZr8nkaDR) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Chaaama](https://open.spotify.com/album/32Db0Wp1YHCpQW7GBqQbRU) | 2:19 | 2021-08-29 | 2021-10-10 |
 | [Vamo Tomar Uma](https://open.spotify.com/track/452LVnTBjXYW3guqe3xiqI) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Chaaama](https://open.spotify.com/album/7c3OrNevQnYSjGRFAjz5C1) | 2:19 | 2021-10-10 | 2022-02-02 |

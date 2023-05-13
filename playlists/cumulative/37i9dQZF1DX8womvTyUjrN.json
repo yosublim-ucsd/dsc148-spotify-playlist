@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Fresh Latin pop on the rise. Cover: Alvaro Diaz",
+  "description": "Fresh Latin pop on the rise. Cover: GALE",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 147149,
       "name": "A Poca Luz",
       "url": "https://open.spotify.com/track/4RSCTqtn9ymYFPMapDtGvO"
@@ -418,7 +418,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 262309,
       "name": "AMOR DE CINE",
       "url": "https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS"
@@ -686,7 +686,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 180949,
       "name": "Bayam\u00f3n",
       "url": "https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ"
@@ -1280,6 +1280,24 @@
       "duration_ms": 215400,
       "name": "Colores",
       "url": "https://open.spotify.com/track/3cjX2kNtmCn9uP4vvxvNdK"
+    },
+    {
+      "album": {
+        "name": "como te va?",
+        "url": "https://open.spotify.com/album/113FXbf4zKRInNJksj2H8V"
+      },
+      "artists": [
+        {
+          "name": "Corina Smith",
+          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154401,
+      "name": "como te va?",
+      "url": "https://open.spotify.com/track/64gyDJ9fXpZvsycMEHRLUG"
     },
     {
       "album": {
@@ -2138,7 +2156,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 217951,
       "name": "El Plan",
       "url": "https://open.spotify.com/track/7kwWynCThNe0IhUTxjRxtW"
@@ -3337,6 +3355,24 @@
     },
     {
       "album": {
+        "name": "La Mitad",
+        "url": "https://open.spotify.com/album/4FdLKltOVq8bIkMBCdYXqn"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176236,
+      "name": "La Mitad",
+      "url": "https://open.spotify.com/track/5nIZkrEBVzbt3XhXRyVRQo"
+    },
+    {
+      "album": {
         "name": "La Primera Vez",
         "url": "https://open.spotify.com/album/5o6FpcNF63Rzf2sGZL1WYp"
       },
@@ -3388,7 +3424,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 141890,
       "name": "La Reina",
       "url": "https://open.spotify.com/track/5KrBFRj0Vfq0QQjlyKs5Hr"
@@ -3552,7 +3588,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 155031,
       "name": "lo que hay x aqu\u00ed",
       "url": "https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC"
@@ -3798,7 +3834,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 126641,
       "name": "Me Equivoqu\u00e9",
       "url": "https://open.spotify.com/track/6QqJcOLFsdSLDuc4tcgSob"
@@ -3960,6 +3996,24 @@
       "duration_ms": 172077,
       "name": "mi man\u00e1",
       "url": "https://open.spotify.com/track/0zhV7fyFkmRz69TzajWjdO"
+    },
+    {
+      "album": {
+        "name": "Mi una en 1M",
+        "url": "https://open.spotify.com/album/65DjpBrXK7A4gp9r5j3UlQ"
+      },
+      "artists": [
+        {
+          "name": "RUGGERO",
+          "url": "https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188666,
+      "name": "Mi una en 1M",
+      "url": "https://open.spotify.com/track/6vkrrInEdRM4E490HVdMws"
     },
     {
       "album": {
@@ -4774,7 +4828,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 204826,
       "name": "Nunca Tristes (Me Vale Madre)",
       "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
@@ -5606,6 +5660,24 @@
       "duration_ms": 213666,
       "name": "Quieres",
       "url": "https://open.spotify.com/track/4iGnpp1h0i33lpoP42Y8Jt"
+    },
+    {
+      "album": {
+        "name": "rimas del verbo amar",
+        "url": "https://open.spotify.com/album/7pOc6WF4NzYgX99UoxVRP5"
+      },
+      "artists": [
+        {
+          "name": "BORJA",
+          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152906,
+      "name": "Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/4cDjYh6JH1zzRvrNr0JKE8"
     },
     {
       "album": {
@@ -6547,6 +6619,24 @@
     },
     {
       "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/7nVcDQMiKAJvKArWWVmlft"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91371,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/2cTMmwJpMuGxH4AQUhS2qh"
+    },
+    {
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g"
       },
@@ -6878,7 +6968,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 206400,
       "name": "TURISMO",
       "url": "https://open.spotify.com/track/3ZZjnPbfDxvZB5lLaFRBCS"
@@ -7068,7 +7158,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 195300,
       "name": "Verano",
       "url": "https://open.spotify.com/track/1wf5TOiS5FniiUFoXG98zd"
@@ -7090,6 +7180,28 @@
       "duration_ms": 172453,
       "name": "Vestido Azul",
       "url": "https://open.spotify.com/track/1AhK0LVcXaZ4SRcaJvU6MK"
+    },
+    {
+      "album": {
+        "name": "Viaje En El Tiempo",
+        "url": "https://open.spotify.com/album/2CQPjn8kkqEAjHMboyCyJY"
+      },
+      "artists": [
+        {
+          "name": "Pitizion",
+          "url": "https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq"
+        },
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163866,
+      "name": "Viaje En El Tiempo",
+      "url": "https://open.spotify.com/track/319lJ1kNxjgbGZW4kZCXwz"
     },
     {
       "album": {

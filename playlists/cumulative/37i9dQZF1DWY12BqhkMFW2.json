@@ -526,7 +526,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 302440,
       "name": "Let's Chill",
       "url": "https://open.spotify.com/track/7wb7R141Fp1oRitCNhKsyu"
@@ -1096,6 +1096,24 @@
       "duration_ms": 335866,
       "name": "The Love We Had (Stays On My Mind)",
       "url": "https://open.spotify.com/track/3PaovpaWAYcNH6CCBXFfR5"
+    },
+    {
+      "album": {
+        "name": "The Sweetest Thing",
+        "url": "https://open.spotify.com/album/5BIpgoq1dFvuTLcKRDbD09"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275070,
+      "name": "The Sweetest Thing",
+      "url": "https://open.spotify.com/track/4jDAQRLExhzT6CEmo0nucu"
     },
     {
       "album": {

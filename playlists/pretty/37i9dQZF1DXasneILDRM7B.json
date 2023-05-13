@@ -1,12 +1,12 @@
 {
   "description": "Please stand for your personal anthems. Cover: Fall Out Boy",
-  "num_followers": 2938658,
+  "num_followers": 2939294,
   "original_name": "Pure Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmIwMGFlOTkwOTE0MzYxNjFjNDAwNTFkYjU2YjI4MjAzMjBkMjMz",
+  "snapshot_id": "MCxkODVkYWEyNTI4NGJiODRjM2Q0YzgzOGI3YTEyZTk5MTE1MTc3NzBm",
   "tracks": [
     {
       "added_at": "2023-01-25 14:57:38",
@@ -621,20 +621,20 @@
       "url": "https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx"
     },
     {
-      "added_at": "2023-01-25 14:57:38",
+      "added_at": "2023-02-10 16:26:23",
       "album": {
-        "name": "A Fever You Can't Sweat Out",
-        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
+        "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
+        "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
       },
       "artists": [
         {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
         }
       ],
-      "duration_ms": 186634,
-      "name": "I Write Sins Not Tragedies",
-      "url": "https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du"
+      "duration_ms": 134466,
+      "name": "Blitzkrieg Bop - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -653,20 +653,20 @@
       "url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN"
     },
     {
-      "added_at": "2023-02-10 16:26:23",
+      "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
-        "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
+        "name": "A Fever You Can't Sweat Out",
+        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
       },
       "artists": [
         {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 134466,
-      "name": "Blitzkrieg Bop - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
+      "duration_ms": 186634,
+      "name": "I Write Sins Not Tragedies",
+      "url": "https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
+        "name": "Take Off Your Pants And Jacket",
+        "url": "https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 171600,
+      "name": "The Rock Show",
+      "url": "https://open.spotify.com/track/2ydUT1pFhuLDnouelIv4WH"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
         "name": "Tickets To My Downfall",
         "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 171620,
       "name": "forget me too (feat. Halsey)",
       "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "Take Off Your Pants And Jacket",
-        "url": "https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 171600,
-      "name": "The Rock Show",
-      "url": "https://open.spotify.com/track/2ydUT1pFhuLDnouelIv4WH"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "Tickets To My Downfall",
-        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 205158,
-      "name": "bloody valentine",
-      "url": "https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
         "name": "The Young and The Hopeless",
         "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
       },
@@ -909,6 +893,22 @@
       "url": "https://open.spotify.com/track/0tyR7Bu9P086aWBFZ4QJoo"
     },
     {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "Let's Cheers To This",
+        "url": "https://open.spotify.com/album/4TuNgoALZ10zEOHgfkxs8T"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 250240,
+      "name": "If You Can't Hang",
+      "url": "https://open.spotify.com/track/3ouugfdFz6exFXUxu7wRvD"
+    },
+    {
       "added_at": "2023-02-10 16:26:23",
       "album": {
         "name": "Left for Dead",
@@ -927,34 +927,34 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "Let's Cheers To This",
-        "url": "https://open.spotify.com/album/4TuNgoALZ10zEOHgfkxs8T"
+        "name": "blink-182",
+        "url": "https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp"
       },
       "artists": [
         {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 250240,
-      "name": "If You Can't Hang",
-      "url": "https://open.spotify.com/track/3ouugfdFz6exFXUxu7wRvD"
+      "duration_ms": 172645,
+      "name": "Feeling This",
+      "url": "https://open.spotify.com/track/26AYR77170U49cMcXB7aRV"
     },
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "Louder Now (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb"
+        "name": "Tickets To My Downfall",
+        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
       "artists": [
         {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
         }
       ],
-      "duration_ms": 208280,
-      "name": "MakeDamnSure",
-      "url": "https://open.spotify.com/track/6fTgbkBiMITtHUmik95ClX"
+      "duration_ms": 205158,
+      "name": "bloody valentine",
+      "url": "https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -975,18 +975,18 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "blink-182",
-        "url": "https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp"
+        "name": "Louder Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb"
       },
       "artists": [
         {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 172645,
-      "name": "Feeling This",
-      "url": "https://open.spotify.com/track/26AYR77170U49cMcXB7aRV"
+      "duration_ms": 208280,
+      "name": "MakeDamnSure",
+      "url": "https://open.spotify.com/track/6fTgbkBiMITtHUmik95ClX"
     },
     {
       "added_at": "2023-02-10 16:26:23",

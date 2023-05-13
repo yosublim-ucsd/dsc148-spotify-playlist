@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas aconchegantes para aquecer a alma nos dias frios.",
-  "num_followers": 341877,
+  "num_followers": 341954,
   "original_name": "Friozinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMThmMTNkNTkwYzc0YzcwZDViNWVkZmVjMGJjZjRmYWMyYjllZGU3",
+  "snapshot_id": "MCxjNjY2ZTY3MDc3YmUwOTA4ZTM0MWMxMjE1Zjk3ZDQ3YzdmM2Y0MDUy",
   "tracks": [
     {
       "added_at": "2023-04-17 15:45:34",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-04-17 15:45:34",
       "album": {
-        "name": "Sob Rock",
-        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 159133,
-      "name": "Carry Me Away",
-      "url": "https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ"
-    },
-    {
-      "added_at": "2023-04-17 15:45:34",
-      "album": {
         "name": "Hurtless",
         "url": "https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 180274,
       "name": "Hurtless",
       "url": "https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z"
+    },
+    {
+      "added_at": "2023-04-17 15:45:34",
+      "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 159133,
+      "name": "Carry Me Away",
+      "url": "https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ"
     },
     {
       "added_at": "2023-04-17 15:45:34",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-04-17 15:45:34",
       "album": {
-        "name": "= (Tour Edition)",
-        "url": "https://open.spotify.com/album/2CIOGAByaHyjQ1EO55JSzC"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 231546,
-      "name": "One Life",
-      "url": "https://open.spotify.com/track/5DXKvETa1xppOmd4CDxs9S"
-    },
-    {
-      "added_at": "2023-04-17 15:45:34",
-      "album": {
         "name": "Te Amar Demais",
         "url": "https://open.spotify.com/album/1mZhSh8FpeL2ZE9dcexXWR"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 131970,
       "name": "Te Amar Demais",
       "url": "https://open.spotify.com/track/70maGr0lQYDj0tcpcA2ORM"
+    },
+    {
+      "added_at": "2023-04-17 15:45:34",
+      "album": {
+        "name": "= (Tour Edition)",
+        "url": "https://open.spotify.com/album/2CIOGAByaHyjQ1EO55JSzC"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 231546,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/5DXKvETa1xppOmd4CDxs9S"
     },
     {
       "added_at": "2023-04-17 15:45:34",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-04-17 15:45:34",
       "album": {
+        "name": "Optimist",
+        "url": "https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 205286,
+      "name": "A Concert Six Months From Now",
+      "url": "https://open.spotify.com/track/7aDIsG4RJx4THcSEMeM01x"
+    },
+    {
+      "added_at": "2023-04-17 15:45:34",
+      "album": {
         "name": "WDIA (Would Do It Again)",
         "url": "https://open.spotify.com/album/50ImqQW5kr8xad7RZgnCvB"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 191040,
       "name": "WDIA (Would Do It Again)",
       "url": "https://open.spotify.com/track/2CORoIId0A9UrEIft3nExk"
-    },
-    {
-      "added_at": "2023-04-17 15:45:34",
-      "album": {
-        "name": "Optimist",
-        "url": "https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 205286,
-      "name": "A Concert Six Months From Now",
-      "url": "https://open.spotify.com/track/7aDIsG4RJx4THcSEMeM01x"
     },
     {
       "added_at": "2023-04-17 15:45:34",

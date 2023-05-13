@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 211598,
+  "num_followers": 211711,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODE0YWZhNDBkNzk5MmU0Yjc3NDY0M2VlNWNmOTdhNDQ3ZGNiOWI5",
+  "snapshot_id": "MCwzYmM1MWQyOWE1ZjZhNWRlNTlhY2EyMmEzMGE1YmM5ZDhiNTAwZGQw",
   "tracks": [
     {
       "added_at": "2022-12-30 18:20:45",
@@ -743,6 +743,22 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
+        "name": "Qu\u00e9 Sorpresa",
+        "url": "https://open.spotify.com/album/6rUbV5YhPvlqsYTXO3Mjig"
+      },
+      "artists": [
+        {
+          "name": "Alexander Abreu and Havana D' Primera",
+          "url": "https://open.spotify.com/artist/6SE3JOfUEXlxp0iUKzzLLI"
+        }
+      ],
+      "duration_ms": 360957,
+      "name": "Qu\u00e9 Sorpresa",
+      "url": "https://open.spotify.com/track/0WEUAHwL8buyzLIM5NMgN5"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
         "name": "De Vuelta al Barrio",
         "url": "https://open.spotify.com/album/0gVY0zm89oBzVfWSpAPUu8"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 168866,
       "name": "Historia de un Amor",
       "url": "https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
-        "name": "Qu\u00e9 Sorpresa",
-        "url": "https://open.spotify.com/album/6rUbV5YhPvlqsYTXO3Mjig"
-      },
-      "artists": [
-        {
-          "name": "Alexander Abreu and Havana D' Primera",
-          "url": "https://open.spotify.com/artist/6SE3JOfUEXlxp0iUKzzLLI"
-        }
-      ],
-      "duration_ms": 360957,
-      "name": "Qu\u00e9 Sorpresa",
-      "url": "https://open.spotify.com/track/0WEUAHwL8buyzLIM5NMgN5"
     },
     {
       "added_at": "2022-12-30 18:20:45",

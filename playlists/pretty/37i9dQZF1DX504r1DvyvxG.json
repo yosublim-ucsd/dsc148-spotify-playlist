@@ -1,12 +1,12 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2586806,
+  "num_followers": 2587259,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmNmZjEyNzgxNGQyZGMxYTE4Y2RhMzczOGE2NWJmNjkwY2ExY2Y5",
+  "snapshot_id": "MCxlYmQ3NTUwYWI5Zjc0NGU4NTMzNjM5NTFmNmNlZmEzOWZmOTgyMTZm",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "In the Wind",
-        "url": "https://open.spotify.com/album/5XresJcJBgYkVQE9PATjli"
+        "name": "Good Times! (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4UwFizSE0TB6EzTfkkxlbF"
       },
       "artists": [
         {
-          "name": "Peter, Paul and Mary",
-          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
         }
       ],
-      "duration_ms": 177360,
-      "name": "Blowin' in the Wind",
-      "url": "https://open.spotify.com/track/62Yu8QL1g9pdbvN4XL9Rah"
+      "duration_ms": 213706,
+      "name": "Me & Magdalena",
+      "url": "https://open.spotify.com/track/1XxRYmDKuABtbtCozx3pA2"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Good Times! (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4UwFizSE0TB6EzTfkkxlbF"
+        "name": "In the Wind",
+        "url": "https://open.spotify.com/album/5XresJcJBgYkVQE9PATjli"
       },
       "artists": [
         {
-          "name": "The Monkees",
-          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+          "name": "Peter, Paul and Mary",
+          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
         }
       ],
-      "duration_ms": 213706,
-      "name": "Me & Magdalena",
-      "url": "https://open.spotify.com/track/1XxRYmDKuABtbtCozx3pA2"
+      "duration_ms": 177360,
+      "name": "Blowin' in the Wind",
+      "url": "https://open.spotify.com/track/62Yu8QL1g9pdbvN4XL9Rah"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Pieces of the Sky (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "Boulder to Birmingham - 2003 Remaster",
-      "url": "https://open.spotify.com/track/05XNDab0Lhitzqk7tRpOnY"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Odetta Sings",
         "url": "https://open.spotify.com/album/1dG9AMcbsyxRCJO6aXL5jp"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 234530,
       "name": "Hit Or Miss",
       "url": "https://open.spotify.com/track/4YJ1KDI6tUSapyD6XTAg8i"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Pieces of the Sky (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "Boulder to Birmingham - 2003 Remaster",
+      "url": "https://open.spotify.com/track/05XNDab0Lhitzqk7tRpOnY"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Mercy Now",
-        "url": "https://open.spotify.com/album/1FGmBGkpEjtrtqbW85d9TW"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 350560,
-      "name": "Mercy Now",
-      "url": "https://open.spotify.com/track/6684GUHy1jpyhJVzpz5OFr"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "San Francisco Days",
         "url": "https://open.spotify.com/album/75BiePy3TDKg9or1NKm0ov"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 178973,
       "name": "San Francisco Days",
       "url": "https://open.spotify.com/track/5Trbt34yBAzpM59c6G8pqO"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Mercy Now",
+        "url": "https://open.spotify.com/album/1FGmBGkpEjtrtqbW85d9TW"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 350560,
+      "name": "Mercy Now",
+      "url": "https://open.spotify.com/track/6684GUHy1jpyhJVzpz5OFr"
     },
     {
       "added_at": "2023-03-31 04:00:00",

@@ -2384,7 +2384,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 217000,
       "name": "Blue Hair",
       "url": "https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t"
@@ -4799,6 +4799,24 @@
     },
     {
       "album": {
+        "name": "D\u017eanum",
+        "url": "https://open.spotify.com/album/66OKdF2UFS4TC5FToHWL5Y"
+      },
+      "artists": [
+        {
+          "name": "Teya Dora",
+          "url": "https://open.spotify.com/artist/5japL3H3OQvvJfhtsNh3eU"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174045,
+      "name": "D\u017eanum",
+      "url": "https://open.spotify.com/track/2fF8V1O1i1Y8s06FmJHJlz"
+    },
+    {
+      "album": {
         "name": "E.T.",
         "url": "https://open.spotify.com/album/32BvqUbDG3OTjGl319nCy1"
       },
@@ -6332,7 +6350,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-20",
+      "date_removed": null,
       "duration_ms": 211643,
       "name": "Gladiator",
       "url": "https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1"
@@ -6610,7 +6628,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 138205,
       "name": "GTA IV",
       "url": "https://open.spotify.com/track/3IyQAzgYNYe5F7LizTvwEu"
@@ -8192,7 +8210,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 309294,
       "name": "Intoxicated",
       "url": "https://open.spotify.com/track/6IfUW6lNAkiW3VVVzf9zYP"
@@ -9322,7 +9340,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 165030,
       "name": "Ladada (Mes Derniers Mots)",
       "url": "https://open.spotify.com/track/03M7Ky4A9kCxIXje8SijD7"
@@ -11064,7 +11082,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 139714,
       "name": "MON LOVE OHO",
       "url": "https://open.spotify.com/track/06l63fDOp1qRltZbA6r4nP"
@@ -11526,7 +11544,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 176800,
       "name": "My Sister's Crown",
       "url": "https://open.spotify.com/track/59md7R7fW5LjSbZITzzn3n"
@@ -13410,6 +13428,28 @@
       "duration_ms": 226206,
       "name": "Phoneline",
       "url": "https://open.spotify.com/track/5nCNItjhTUj7MqL3oFHmFc"
+    },
+    {
+      "album": {
+        "name": "PHONKGASKAR",
+        "url": "https://open.spotify.com/album/2B6eFuLza7i5gwzzWgASFI"
+      },
+      "artists": [
+        {
+          "name": "Rushex",
+          "url": "https://open.spotify.com/artist/55TpSGABb9xsmXHkqbv3ti"
+        },
+        {
+          "name": "Jolixwery",
+          "url": "https://open.spotify.com/artist/1OZskXcIcGU2L0RamW7Xa0"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82514,
+      "name": "PHONKGASKAR",
+      "url": "https://open.spotify.com/track/7FoanMQjdrrecBH8YiIti2"
     },
     {
       "album": {
@@ -19334,7 +19374,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 186769,
       "name": "Whiskey Cola",
       "url": "https://open.spotify.com/track/5gLWD7DB4w72BMLOfbHdTl"

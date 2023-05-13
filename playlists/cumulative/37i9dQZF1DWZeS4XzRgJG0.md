@@ -4,7 +4,7 @@
 
 > sorry ik kan niet..\. moet studeren
 
-218 songs - 13 hr 17 min
+219 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Always Remember Us This Way](https://open.spotify.com/track/2rbDhOo9Fh61Bbu23T2qCk) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 3:30 | 2022-11-11 |  |
 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 | 2022-11-11 |  |
 | [Are You With Me](https://open.spotify.com/track/401MfYscl2EMF4nDbnbG0K) | [nilu](https://open.spotify.com/artist/1XplrA4Q9dPFcayYbJqX6K) | [Are You With Me](https://open.spotify.com/album/4VpZ0Le2LUhUYERoNUtRZd) | 4:09 | 2022-11-11 |  |
+| [Baby Don't Quit](https://open.spotify.com/track/1s1cSCxr8sfCNCKwYaESSh) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [Oh Glory](https://open.spotify.com/album/5yDHs2AqfwT1sPxUlQDzQt) | 3:12 | 2023-05-12 |  |
 | [Be Alright](https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Be Alright](https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD) | 3:16 | 2022-11-11 |  |
 | [Beneath Your Beautiful \(feat\. Emeli Sandé\)](https://open.spotify.com/track/2EcsgXlxz99UMDSPg5T8RF) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Electronic Earth \(Expanded Edition\)](https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI) | 4:31 | 2022-11-11 |  |
 | [Boys Like You \- Acoustic](https://open.spotify.com/track/51xRMJFRBrW9C1RI1qW4S0) | [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD) | [Boys Like You \(Acoustic\)](https://open.spotify.com/album/5vFQw6vOWYH9SaYVbSY9to) | 3:58 | 2022-11-11 |  |

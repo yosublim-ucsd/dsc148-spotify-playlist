@@ -2,7 +2,7 @@
 
 ### [Corridos Perrones](https://open.spotify.com/playlist/37i9dQZF1DX2shzuwwKw0y)
 
-> Del rancho a la ciudad, las historias que pocos se atreven a contar\. Grupo Marca Registrada en portada.
+> Del rancho a la ciudad, las historias que pocos se atreven a contar\. Fuerza Regida en portada.
 
 210 songs - 10 hr 37 min
 

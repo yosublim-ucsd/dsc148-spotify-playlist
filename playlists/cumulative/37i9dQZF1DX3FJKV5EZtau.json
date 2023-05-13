@@ -262,7 +262,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-13",
+      "date_removed": null,
       "duration_ms": 239250,
       "name": "ARCADE NIGHT",
       "url": "https://open.spotify.com/track/3VUPk0XASJ8a0HDyj4omX5"
@@ -872,7 +872,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-10",
+      "date_removed": null,
       "duration_ms": 178497,
       "name": "Can't Sleep Alone At Night",
       "url": "https://open.spotify.com/track/7BBzoOS8HR4zdlk1y0VNBB"
@@ -996,7 +996,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 188470,
       "name": "Changa - Blanke Remix",
       "url": "https://open.spotify.com/track/6rQcfPSmfwiJWae8WhU5k8"
@@ -1208,6 +1208,28 @@
       "duration_ms": 190400,
       "name": "Close to You (feat. PollyAnna)",
       "url": "https://open.spotify.com/track/4gEC7He07d6cuzkQ7MSobQ"
+    },
+    {
+      "album": {
+        "name": "Colorblind",
+        "url": "https://open.spotify.com/album/27kSpWLZ9j0Jj12Q3DG86R"
+      },
+      "artists": [
+        {
+          "name": "Rome in Silver",
+          "url": "https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN"
+        },
+        {
+          "name": "Biicla",
+          "url": "https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155454,
+      "name": "Colorblind",
+      "url": "https://open.spotify.com/track/124LAe6tqwsbVusWRkSw16"
     },
     {
       "album": {
@@ -1474,7 +1496,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-01",
+      "date_removed": null,
       "duration_ms": 197793,
       "name": "Don't Need You",
       "url": "https://open.spotify.com/track/0se8mCFDYQohVqP6cFoToK"
@@ -1724,7 +1746,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 205935,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/3Tz5z68t6Ii4rf6bTMJHyo"
@@ -1836,7 +1858,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-20",
+      "date_removed": null,
       "duration_ms": 170285,
       "name": "Error Sound",
       "url": "https://open.spotify.com/track/4NfZ4p7FW83hiePlB8t0J1"
@@ -1876,6 +1898,24 @@
       "duration_ms": 224075,
       "name": "escape",
       "url": "https://open.spotify.com/track/7BN0NHDHYkfACPK4OTwqv6"
+    },
+    {
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/3xVH7ahLB6T9AnnCekRV5o"
+      },
+      "artists": [
+        {
+          "name": "TWERL",
+          "url": "https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139241,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/0IRFKCE1lDyKOf12ZQ5CJm"
     },
     {
       "album": {
@@ -2118,7 +2158,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 171904,
       "name": "Find You",
       "url": "https://open.spotify.com/track/28OESpqaslD63Wbrg0yVRP"
@@ -2220,7 +2260,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 203731,
       "name": "Flash Drive",
       "url": "https://open.spotify.com/track/3gA35jxypCyQczOR5Tew9J"
@@ -2614,7 +2654,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 228800,
       "name": "Gigabot",
       "url": "https://open.spotify.com/track/7CA84GteV8749lfiJ1i3FI"
@@ -2778,7 +2818,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 326241,
       "name": "grayscale",
       "url": "https://open.spotify.com/track/7bDVv5WI1ZPJOVNtJvqmYb"
@@ -3203,6 +3243,24 @@
     },
     {
       "album": {
+        "name": "Polychrome",
+        "url": "https://open.spotify.com/album/0NdJ9dK8zavK2oB68fJFva"
+      },
+      "artists": [
+        {
+          "name": "MELVV",
+          "url": "https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286034,
+      "name": "I'll Be There for You",
+      "url": "https://open.spotify.com/track/6TxceRnA4BeLn0XFRNbl5Y"
+    },
+    {
+      "album": {
         "name": "I'll Be Waiting",
         "url": "https://open.spotify.com/album/2HFkHwcSgULeBwn78FapIh"
       },
@@ -3492,7 +3550,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 195483,
       "name": "Last Kiss",
       "url": "https://open.spotify.com/track/4k02dP3j9AtSBIGUniUaVt"
@@ -4304,7 +4362,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 277577,
       "name": "Need You",
       "url": "https://open.spotify.com/track/6PewGjMYsJCzIjldrCuZvB"
@@ -5044,7 +5102,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 234568,
       "name": "Power",
       "url": "https://open.spotify.com/track/3KK6KP4JsFL9ZxgdmLhuJz"
@@ -5776,7 +5834,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 145287,
       "name": "Silence",
       "url": "https://open.spotify.com/track/2ezhpsQj2wNPjOKC1oh1PB"
@@ -5874,7 +5932,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 75463,
       "name": "skyscraper",
       "url": "https://open.spotify.com/track/2DJcpcaK67nhs4kKo1lZpv"
@@ -6074,7 +6132,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 162352,
       "name": "stay",
       "url": "https://open.spotify.com/track/5CkrwMZvgBO068EhQyiTZt"
@@ -6342,7 +6400,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 227170,
       "name": "talk - KOTONOHOUSE Remix",
       "url": "https://open.spotify.com/track/7oUKu47V3HhOOyqkGK4F4E"
@@ -6696,7 +6754,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-16",
+      "date_removed": null,
       "duration_ms": 168652,
       "name": "VLONE",
       "url": "https://open.spotify.com/track/0jYBQcR3imgLDhSZN9npPL"
@@ -6978,7 +7036,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 209454,
       "name": "With Clouds Below",
       "url": "https://open.spotify.com/track/7hwSaTdDujbwXGGp72hssA"

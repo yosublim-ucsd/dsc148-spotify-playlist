@@ -4,7 +4,7 @@
 
 > Una eufórica dosis de urbano romántico en español.
 
-115 songs - 6 hr 48 min
+116 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Lento](https://open.spotify.com/track/4uBtsdMMC7toM7DFV08uie) | [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL), [Moree Neri](https://open.spotify.com/artist/7JwiKwvicnP4AkPB65Ds4Y) | [Lento](https://open.spotify.com/album/4HffDVQnrInW3kQ5ewyHmb) | 3:19 | 2022-06-27 |  |
 | [Llévame](https://open.spotify.com/track/0eduCnvSAPlph82xkBOGsY) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Mundo](https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9) | 3:01 | 2022-08-15 |  |
 | [Los No Tan Tristes](https://open.spotify.com/track/2iS1BUa0VwSil4uQ89cfst) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/01X0X1KTVjis1cNXF0zA9U) | 4:06 | 2022-05-25 |  |
+| [LQRA Session \#14](https://open.spotify.com/track/3aizSWR2gxLPgkp7Y2aBI7) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [LQRA Session \#14](https://open.spotify.com/album/4ySdVWAQMgIcytZ2lMbyji) | 3:13 | 2023-05-12 |  |
 | [LQRA Session \#5](https://open.spotify.com/track/1YVyKeuVEhIGNTdhNjbREI) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [LQRA Session \#5](https://open.spotify.com/album/6fEbvdp7RK0pfoeHiJ2r8a) | 5:08 | 2022-05-25 |  |
 | [Lumbre](https://open.spotify.com/track/5HNUAiuRtopnLuKL1WFCE2) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3) | [Lumbre](https://open.spotify.com/album/6kfLdeS27w0ZgWqFze5Y25) | 3:52 | 2022-05-25 | 2022-07-29 |
 | [Lumbre](https://open.spotify.com/track/5JKDc7HClAX7gTibgUjuwu) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [De Inmensidades](https://open.spotify.com/album/53KaEPa4Kfa1B3k6CCCexq) | 3:51 | 2022-06-27 |  |

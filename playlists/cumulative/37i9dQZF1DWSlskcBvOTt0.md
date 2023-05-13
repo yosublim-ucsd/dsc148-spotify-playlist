@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-413 songs - 1 day 17 hr 46 min
+414 songs - 1 day 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Ashes in the Wind](https://open.spotify.com/track/4PqD4wAf77OxpAiOODf1Rg) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Secrets EP](https://open.spotify.com/album/1aZ3SBhJnP4B8G4gQ65fT1) | 10:04 | 2021-04-21 | 2022-12-17 |
 | [Audara](https://open.spotify.com/track/6YjQxa2wea38xj1ZUzjZR7) | [Lindahl](https://open.spotify.com/artist/5Tf9JeR6Ry2OQv6c4UucP1), [ATÉA](https://open.spotify.com/artist/2ldjUobIK4xXwGWqIW8el0) | [Audara EP](https://open.spotify.com/album/7BZdCphrUu99bBX8WeP9FZ) | 7:22 | 2021-04-21 | 2022-07-28 |
 | [Aura](https://open.spotify.com/track/4JIphNXs4zpmNyaJFhKKKY) | [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [Aura EP](https://open.spotify.com/album/4SErxwdvqZvsrYcQ8gGimx) | 8:21 | 2021-06-18 | 2022-07-22 |
+| [Away](https://open.spotify.com/track/1R277vjeyNAZQ1dLPcuSlU) | [Eli Fola](https://open.spotify.com/artist/5IcFG09FACrC6m7N1qa9o0), [Gifted Fire](https://open.spotify.com/artist/05YKDN73pAbCvbeSqpBtKL) | [Away](https://open.spotify.com/album/6hydQgkHE6bhZl0zaeX9o8) | 7:54 | 2023-05-12 |  |
 | [Aye Aye](https://open.spotify.com/track/3ZnHoSCItVMbFU8FhdjS7B) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Cameron Jack](https://open.spotify.com/artist/3ZziXomLvLKvBpTDzxcypH) | [Aye Aye](https://open.spotify.com/album/5RK1I6kgXh0Hkkl034kltc) | 4:00 | 2022-08-05 | 2023-05-05 |
 | [Bacall](https://open.spotify.com/track/0keMf5m5CVWX0ZZnhc8xPz) | [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 4:06 | 2021-04-21 | 2022-10-13 |
 | [Bacall](https://open.spotify.com/track/1bhSnPeBGo1cSPgjDZXujj) | [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Noir](https://open.spotify.com/album/74H4kh761bl6UDTOWfYC8G) | 4:06 | 2022-07-01 | 2023-04-29 |
@@ -85,7 +86,7 @@
 | [Cumulonimbus Incus](https://open.spotify.com/track/2paMfzAp6rhZaAU5gjVfh6) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK) | [Silver Linings](https://open.spotify.com/album/3OFxNZom1XclhLF4cU62n8) | 6:48 | 2021-07-30 | 2022-07-29 |
 | [Cure My Desire \(feat\. Clementine Douglas\) \- Themba Remix](https://open.spotify.com/track/5vaNPQoye1DYsXj0yckiCk) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6), [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC) | [Cure My Desire \(feat\. Clementine Douglas\) \[Themba Remix\]](https://open.spotify.com/album/00QRGLQDaGgBc9ukkiSgwi) | 3:40 | 2023-01-30 |  |
 | [Cutting Ribbons \(feat\. Paul Brenning\)](https://open.spotify.com/track/72qQf918A43mrhddO8Hp9G) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Monnarsh](https://open.spotify.com/artist/2shdnmTdFi3RxMa5OGOPRj), [Paul Brenning](https://open.spotify.com/artist/4LJbPEKdCcfzE1x0GhUnL6) | [Cutting Ribbons \(feat\. Paul Brenning\)](https://open.spotify.com/album/0dyvhEKGtheznpjjPZ0Ub3) | 3:53 | 2023-05-05 |  |
-| [Dark Sun](https://open.spotify.com/track/4Rlbt7DrxqHqT2gSAOVbLe) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Momentum](https://open.spotify.com/album/0dqK6mrJ3jnp8fmN5gbbTB) | 7:10 | 2023-04-07 |  |
+| [Dark Sun](https://open.spotify.com/track/4Rlbt7DrxqHqT2gSAOVbLe) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Momentum](https://open.spotify.com/album/0dqK6mrJ3jnp8fmN5gbbTB) | 7:10 | 2023-04-07 | 2023-05-13 |
 | [Days Like This](https://open.spotify.com/track/51l7PA4wcyQMEJeuanHrbf) | [Fiin](https://open.spotify.com/artist/1epLtVgUJz01HSPZbdAT1X) | [Days Like This](https://open.spotify.com/album/0wO5kcElEfWFL0FMlehALZ) | 5:20 | 2021-04-21 | 2022-07-29 |
 | [Dede](https://open.spotify.com/track/7dR999H4VruQjlx7yFLR2U) | [Sinca](https://open.spotify.com/artist/5TjfRHDPGSphgwJaiGauqT) | [Dede](https://open.spotify.com/album/16KOMbLfPxLqnWmS7qCKmo) | 4:39 | 2022-09-09 | 2022-10-26 |
 | [Delusions](https://open.spotify.com/track/2M6XhuILqt1uh6VzKgQYYu) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO), [Local Dialect](https://open.spotify.com/artist/1dFKuU0lKJNg27s2LKLZ2j) | [Delusions](https://open.spotify.com/album/1lGzqoNRkYYB7m7y8SQFKN) | 4:32 | 2021-10-01 | 2022-07-10 |

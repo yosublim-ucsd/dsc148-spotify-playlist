@@ -309,6 +309,24 @@
     },
     {
       "album": {
+        "name": "Therapist",
+        "url": "https://open.spotify.com/album/1lagCns5TwcDe8TcJJsHkR"
+      },
+      "artists": [
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193069,
+      "name": "Therapist",
+      "url": "https://open.spotify.com/track/42NFq86YCRMnV10M7lihzk"
+    },
+    {
+      "album": {
         "name": "Tutor",
         "url": "https://open.spotify.com/album/0wGByPiO4hAEj7n6FtAB1e"
       },
@@ -638,7 +656,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 246000,
       "name": "\u0e04\u0e27\u0e32\u0e21\u0e19\u0e48\u0e32\u0e08\u0e30\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e17\u0e48\u0e32\u0e01\u0e31\u0e1a\u0e2a\u0e39\u0e0d (0%)",
       "url": "https://open.spotify.com/track/52hkekPSYxc3O3GYbviwsN"
@@ -890,7 +908,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 347500,
       "name": "\u0e17\u0e34\u0e49\u0e07\u0e44\u0e1b",
       "url": "https://open.spotify.com/track/0kQLcP9TrYqx79QIDZnnO0"
@@ -1020,6 +1038,28 @@
       "duration_ms": 233000,
       "name": "\u0e1b\u0e25\u0e2d\u0e14\u0e20\u0e31\u0e22",
       "url": "https://open.spotify.com/track/4Fer8UPWzhbdyVnccMzPcr"
+    },
+    {
+      "album": {
+        "name": "\u0e1c\u0e34\u0e14\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e35\u0e48 (Responsibility) [feat. Aheye of 4EVE]",
+        "url": "https://open.spotify.com/album/6Sult4isw1GLJ5ezxOVd2p"
+      },
+      "artists": [
+        {
+          "name": "TIGGER (\u0e17\u0e34\u0e01\u0e40\u0e01\u0e2d\u0e23\u0e4c)",
+          "url": "https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF"
+        },
+        {
+          "name": "Aheye of 4EVE",
+          "url": "https://open.spotify.com/artist/2Vku6chPlceHuJIr8sHP4u"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193660,
+      "name": "\u0e1c\u0e34\u0e14\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e35\u0e48 (Responsibility)",
+      "url": "https://open.spotify.com/track/3bSjF0JyKyZGHQMPBumwh2"
     },
     {
       "album": {

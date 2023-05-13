@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVs8I62NcHks.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVs8I62NcHks) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVs8I62NcHks)
 
-### [Disney Favorites](https://open.spotify.com/playlist/37i9dQZF1DWVs8I62NcHks)
+### [Disney100 Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWVs8I62NcHks)
 
-> All your favorite Disney classics, new and old\. Stream Pinocchio on Disney+.
+> For 100 years, our passion has been storytelling\.  From one generation to the next, the greatest stories live forever\.  You made this dream come true.
 
 108 songs - 5 hr 34 min
 

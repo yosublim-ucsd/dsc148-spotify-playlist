@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "A Quiet Message",
+        "url": "https://open.spotify.com/album/2oXytMuBdpnQjKnqnSgqdT"
+      },
+      "artists": [
+        {
+          "name": "Morris Lafleur",
+          "url": "https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165545,
+      "name": "A Quiet Message",
+      "url": "https://open.spotify.com/track/71cuAghXvaIQVBKGRwPDcK"
+    },
+    {
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/7FOICAmy6YkVum07rk5tNJ"
       },
@@ -423,6 +441,24 @@
     },
     {
       "album": {
+        "name": "Angel Falls",
+        "url": "https://open.spotify.com/album/5Tlrch0TT9BZ9texXaqc3E"
+      },
+      "artists": [
+        {
+          "name": "Beau Hayes",
+          "url": "https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144097,
+      "name": "Angel Falls",
+      "url": "https://open.spotify.com/track/7e29VRvlas6fkZrstGcPry"
+    },
+    {
+      "album": {
         "name": "Another Birthday",
         "url": "https://open.spotify.com/album/7Jd9vy8MacIdxJXzyfg7G2"
       },
@@ -434,7 +470,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 146260,
       "name": "Another Birthday",
       "url": "https://open.spotify.com/track/3rCOGLCgNRmW3OqO49IptS"
@@ -474,6 +510,24 @@
       "duration_ms": 147907,
       "name": "Anteayer",
       "url": "https://open.spotify.com/track/3qTOFnijKc0S5ddgzjr5yu"
+    },
+    {
+      "album": {
+        "name": "Any Day Now",
+        "url": "https://open.spotify.com/album/3PLBn83wOzdXLaJBej3kuX"
+      },
+      "artists": [
+        {
+          "name": "Tim Hans",
+          "url": "https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176058,
+      "name": "Any Day Now",
+      "url": "https://open.spotify.com/track/1nQc7JxHc1cg1hPVqCnQ04"
     },
     {
       "album": {
@@ -614,10 +668,28 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 221775,
       "name": "Athena",
       "url": "https://open.spotify.com/track/7lD3GgCXvZvCskNmmdF9yo"
+    },
+    {
+      "album": {
+        "name": "Azores",
+        "url": "https://open.spotify.com/album/6cBG03sFqnDga0VqnWDpEu"
+      },
+      "artists": [
+        {
+          "name": "Brandon Taylor Smith",
+          "url": "https://open.spotify.com/artist/0CkM1sLkP3yQW8I7ja51am"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159061,
+      "name": "Azores",
+      "url": "https://open.spotify.com/track/2YN1AKTAJApNLbTyNXrm6j"
     },
     {
       "album": {
@@ -787,6 +859,24 @@
     },
     {
       "album": {
+        "name": "Best friends",
+        "url": "https://open.spotify.com/album/4ALkcz004EhEw7PlFRFEBk"
+      },
+      "artists": [
+        {
+          "name": "Owen Larsson",
+          "url": "https://open.spotify.com/artist/3yj6wzbqsrmZhF87e97km8"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83544,
+      "name": "Best friends",
+      "url": "https://open.spotify.com/track/0yU9Qy2A7tCrhobBuKnnvE"
+    },
+    {
+      "album": {
         "name": "Better Day",
         "url": "https://open.spotify.com/album/76KdJF0ReBY7NlolwLFsPj"
       },
@@ -820,6 +910,24 @@
       "duration_ms": 128304,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/0BPdtwPaBWWbo2GDUsBCG8"
+    },
+    {
+      "album": {
+        "name": "Beyond Any Doubt",
+        "url": "https://open.spotify.com/album/7fapRWAW0Gi5HWxspy0yC5"
+      },
+      "artists": [
+        {
+          "name": "Robert Lowe",
+          "url": "https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168305,
+      "name": "Beyond Any Doubt",
+      "url": "https://open.spotify.com/track/0hKUf6QOZ9IPA8tMnghi51"
     },
     {
       "album": {
@@ -1018,7 +1126,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 158568,
       "name": "Blue Nights",
       "url": "https://open.spotify.com/track/4nQkcnKRluoyu2UfanfqWX"
@@ -1115,6 +1223,24 @@
     },
     {
       "album": {
+        "name": "Break Of Day",
+        "url": "https://open.spotify.com/album/45VoYJoivXsCEwOI107vkI"
+      },
+      "artists": [
+        {
+          "name": "Denver Paige",
+          "url": "https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Break Of Day",
+      "url": "https://open.spotify.com/track/0tLYax4z9smBlddTSfeguE"
+    },
+    {
+      "album": {
         "name": "Boboli Gardens",
         "url": "https://open.spotify.com/album/1ZorAmdZHG1iTSsXHkWhFM"
       },
@@ -1184,6 +1310,24 @@
       "duration_ms": 135500,
       "name": "brighter times",
       "url": "https://open.spotify.com/track/6i7GBQ9bIAAbsqdJW12e88"
+    },
+    {
+      "album": {
+        "name": "Broader Perspective",
+        "url": "https://open.spotify.com/album/634j9Sa1Mc5dCBqtYsdjdQ"
+      },
+      "artists": [
+        {
+          "name": "Argun North",
+          "url": "https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Broader Perspective",
+      "url": "https://open.spotify.com/track/4FFQNhG63aCcAVGSOkTEeR"
     },
     {
       "album": {
@@ -2196,10 +2340,28 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 149500,
       "name": "Down State",
       "url": "https://open.spotify.com/track/5x2Jg2HWtgXWZu6jxQnHrr"
+    },
+    {
+      "album": {
+        "name": "Daughters",
+        "url": "https://open.spotify.com/album/5gxMmTD71Ttee6IKhnI0CA"
+      },
+      "artists": [
+        {
+          "name": "Oaktree Melodies",
+          "url": "https://open.spotify.com/artist/0U0qUcjrya7xDHCxVkXvPV"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179070,
+      "name": "Down That Hill",
+      "url": "https://open.spotify.com/track/3mkDxkKf6GfMsGc7yXjFPr"
     },
     {
       "album": {
@@ -2272,6 +2434,24 @@
       "duration_ms": 134704,
       "name": "Du Soleil \u00c0 La Mer",
       "url": "https://open.spotify.com/track/3fGsSYCfdzbHQ85ZVpofdl"
+    },
+    {
+      "album": {
+        "name": "Dubrovnik",
+        "url": "https://open.spotify.com/album/00ofzPCdvfpTcffTPxqoZr"
+      },
+      "artists": [
+        {
+          "name": "Philip Grass",
+          "url": "https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125070,
+      "name": "Dubrovnik",
+      "url": "https://open.spotify.com/track/6bTvNM2GfDx56jhng3K6Uj"
     },
     {
       "album": {
@@ -2596,7 +2776,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 163984,
       "name": "Estate",
       "url": "https://open.spotify.com/track/5ypMr7lTJ0WVl1pqIbpAtj"
@@ -2765,6 +2945,42 @@
     },
     {
       "album": {
+        "name": "First Light",
+        "url": "https://open.spotify.com/album/0S5xUJOjVtl6g3WXVGi5ED"
+      },
+      "artists": [
+        {
+          "name": "Bill Valentino",
+          "url": "https://open.spotify.com/artist/0I1EsNzqgWLBylHYY8kQnN"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102218,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/5eIg1epMoq4ZRNPEy0W7wH"
+    },
+    {
+      "album": {
+        "name": "Flickering",
+        "url": "https://open.spotify.com/album/4wSMizTu9VA7nDu1iZZGwx"
+      },
+      "artists": [
+        {
+          "name": "Dan Lauften",
+          "url": "https://open.spotify.com/artist/1nUr7Y05ABzaFcKpkg6l65"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101475,
+      "name": "Flickering",
+      "url": "https://open.spotify.com/track/626xcRaDQa8wTLniVI14dY"
+    },
+    {
+      "album": {
         "name": "For Louise",
         "url": "https://open.spotify.com/album/13EEH5mQbYcwlCS4jM74UV"
       },
@@ -2798,6 +3014,24 @@
       "duration_ms": 139346,
       "name": "For Me & You",
       "url": "https://open.spotify.com/track/4dnC5VgcrkUn4INXveBDPo"
+    },
+    {
+      "album": {
+        "name": "Fortnight ago",
+        "url": "https://open.spotify.com/album/2pDbN5sRfuZUA7W7gCAciD"
+      },
+      "artists": [
+        {
+          "name": "Aveline Bisset",
+          "url": "https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123309,
+      "name": "Fortnight ago",
+      "url": "https://open.spotify.com/track/2WjxJuMb7Fl3wi0hQtnkFA"
     },
     {
       "album": {
@@ -2927,6 +3161,24 @@
     },
     {
       "album": {
+        "name": "Gentle Wind",
+        "url": "https://open.spotify.com/album/5NQQh0vTespdY28H1mW6d9"
+      },
+      "artists": [
+        {
+          "name": "Adrian Strohm",
+          "url": "https://open.spotify.com/artist/1Rs3hpkbsgsgFiavB9Id1i"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147258,
+      "name": "Gentle Wind",
+      "url": "https://open.spotify.com/track/199dJ94ukJhAJd4eKpAZLH"
+    },
+    {
+      "album": {
         "name": "Giardino del respiro",
         "url": "https://open.spotify.com/album/10a1HPIygy93hpQc3r5pgZ"
       },
@@ -3010,7 +3262,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 117750,
       "name": "Gra\u0301ficos",
       "url": "https://open.spotify.com/track/114pRyLH2yYFtmududd0Ba"
@@ -3298,7 +3550,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 202500,
       "name": "High Hill",
       "url": "https://open.spotify.com/track/6iLc1q7vKnSzYLkVvIvfrN"
@@ -3536,7 +3788,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 200345,
       "name": "I Found The Right Bottle Of Wine",
       "url": "https://open.spotify.com/track/2rFbFGCYmtwuUDEVSTyQ82"
@@ -3590,7 +3842,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 233686,
       "name": "I Wish It Stayed Like This",
       "url": "https://open.spotify.com/track/5wcnN9Ru1abQHVo6mPG9o4"
@@ -3885,6 +4137,24 @@
     },
     {
       "album": {
+        "name": "Isle of Skye",
+        "url": "https://open.spotify.com/album/5qbEWj7jgylfziWGTZffD6"
+      },
+      "artists": [
+        {
+          "name": "Lisa Helmer",
+          "url": "https://open.spotify.com/artist/62OhntIcWQWg4e0MDjaHzo"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133645,
+      "name": "Isle of Skye",
+      "url": "https://open.spotify.com/track/3rxo4jNntMRi6KHJkFHjNR"
+    },
+    {
+      "album": {
         "name": "It's Raining Again",
         "url": "https://open.spotify.com/album/1GGuS0jjw5aWZIiCCNpOhg"
       },
@@ -4047,6 +4317,24 @@
     },
     {
       "album": {
+        "name": "La Venue",
+        "url": "https://open.spotify.com/album/0eGdnNpMq1wzNMtLICDSHZ"
+      },
+      "artists": [
+        {
+          "name": "Marina Portier",
+          "url": "https://open.spotify.com/artist/5eY2S3YgZLBtyyEBgP9m7z"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108331,
+      "name": "La Venue",
+      "url": "https://open.spotify.com/track/17Z6iT4BizcR7BnqqBrzTi"
+    },
+    {
+      "album": {
         "name": "Labyrinth",
         "url": "https://open.spotify.com/album/4E8Eyp8NYNqSRtxPp5F59Y"
       },
@@ -4062,6 +4350,24 @@
       "duration_ms": 152241,
       "name": "Labyrinth",
       "url": "https://open.spotify.com/track/56GaSp5xjMWEwsbSnI35JQ"
+    },
+    {
+      "album": {
+        "name": "Lacrime",
+        "url": "https://open.spotify.com/album/0xh6Z1tnwWL1H79Lapk4AG"
+      },
+      "artists": [
+        {
+          "name": "DeLand",
+          "url": "https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111098,
+      "name": "Lacrime",
+      "url": "https://open.spotify.com/track/4kkylod0jvQnK7Ognj9OUP"
     },
     {
       "album": {
@@ -4206,6 +4512,24 @@
       "duration_ms": 161750,
       "name": "Las Rosas",
       "url": "https://open.spotify.com/track/62eMqR3ynGdonHy5ObmWTL"
+    },
+    {
+      "album": {
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/1LLh6WHQyFxRJSvMAw1kav"
+      },
+      "artists": [
+        {
+          "name": "Taylor Ellis",
+          "url": "https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151968,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/4CLVSuWpDxHuUXyIuGTVQ0"
     },
     {
       "album": {
@@ -4461,6 +4785,24 @@
     },
     {
       "album": {
+        "name": "Lingering Bloom",
+        "url": "https://open.spotify.com/album/5uj7kIeWilrFDclzjtKMuR"
+      },
+      "artists": [
+        {
+          "name": "Toledo Heights",
+          "url": "https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104756,
+      "name": "Lingering Bloom",
+      "url": "https://open.spotify.com/track/4ZAvg7HUOB3jH9e5niRKgQ"
+    },
+    {
+      "album": {
         "name": "Llamame e Insiste",
         "url": "https://open.spotify.com/album/1VuqJvXizrcq4dyqYTgWE2"
       },
@@ -4548,6 +4890,24 @@
       "duration_ms": 118215,
       "name": "Looking Up",
       "url": "https://open.spotify.com/track/0tkjSbIkXcZ7gGJrWme3fk"
+    },
+    {
+      "album": {
+        "name": "Loomy Woods",
+        "url": "https://open.spotify.com/album/34I5Dwjv7aAHVW66mXApP4"
+      },
+      "artists": [
+        {
+          "name": "Kevin Flynn",
+          "url": "https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194830,
+      "name": "Loomy Woods",
+      "url": "https://open.spotify.com/track/2AWMZjZp5uoB4nJN8RLced"
     },
     {
       "album": {
@@ -5171,6 +5531,24 @@
     },
     {
       "album": {
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/1pN9aYINmhUNUH1KFVDjHJ"
+      },
+      "artists": [
+        {
+          "name": "Steve D",
+          "url": "https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99069,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/5KscTL4V9Yz0hgH5aiJCLF"
+    },
+    {
+      "album": {
         "name": "Mondschein",
         "url": "https://open.spotify.com/album/6MRZynP88zTclx9tOUoGrx"
       },
@@ -5344,7 +5722,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 136723,
       "name": "M\u00eame Dans La Mort",
       "url": "https://open.spotify.com/track/39F5SdQXokv3QJxmLODxfU"
@@ -6424,7 +6802,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 185824,
       "name": "Remembrance",
       "url": "https://open.spotify.com/track/7C92YbwWfe1HfpA2bBvBsI"
@@ -6712,7 +7090,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 156152,
       "name": "Satellites",
       "url": "https://open.spotify.com/track/241ZXbv26EbLNmVADe6yDK"
@@ -6842,6 +7220,24 @@
       "duration_ms": 118727,
       "name": "Serendipity",
       "url": "https://open.spotify.com/track/0V7r7muOAacZx6KEnHDp5o"
+    },
+    {
+      "album": {
+        "name": "Serengeti",
+        "url": "https://open.spotify.com/album/4fEskCIrZkg9C4yPWn7XsZ"
+      },
+      "artists": [
+        {
+          "name": "Neve Baker",
+          "url": "https://open.spotify.com/artist/40E7LcjmJufJCHiaxXzBfT"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154916,
+      "name": "Serengeti",
+      "url": "https://open.spotify.com/track/4yoILdPVTyiwWkJQfXqshB"
     },
     {
       "album": {
@@ -6986,6 +7382,24 @@
       "duration_ms": 162684,
       "name": "Sine Qua Non",
       "url": "https://open.spotify.com/track/1O2iWnAVqXWYaOXCOTezfo"
+    },
+    {
+      "album": {
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/7fcgX0jd8ZbfyuPDUKWabu"
+      },
+      "artists": [
+        {
+          "name": "Owen Larssen",
+          "url": "https://open.spotify.com/artist/5KC38oAHkvoeZvx2k9Pwlo"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104852,
+      "name": "Skyline",
+      "url": "https://open.spotify.com/track/285lEr4h595zVTecy0u7Nf"
     },
     {
       "album": {
@@ -7252,7 +7666,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 169094,
       "name": "Soneto",
       "url": "https://open.spotify.com/track/44hRQCCOLtV5OnghKRFjqa"
@@ -7468,7 +7882,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 163366,
       "name": "Stairway to Heaven",
       "url": "https://open.spotify.com/track/52MugsFISb5ACXi5d8Z2kG"
@@ -7580,6 +7994,24 @@
       "duration_ms": 121500,
       "name": "Strange Trails",
       "url": "https://open.spotify.com/track/5T59Qef05DQSA32kj2mw7t"
+    },
+    {
+      "album": {
+        "name": "Strawberry Dreams",
+        "url": "https://open.spotify.com/album/1MOCesaJVnxOgVz3iyIzvp"
+      },
+      "artists": [
+        {
+          "name": "Kim Rodgers",
+          "url": "https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155827,
+      "name": "Strawberry Dreams",
+      "url": "https://open.spotify.com/track/6WWPhYyJVAZV4gA38GXmcF"
     },
     {
       "album": {
@@ -7702,7 +8134,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 198437,
       "name": "Sweet Harbour",
       "url": "https://open.spotify.com/track/4Vn3gAiJNQdmlwW2OuXJCZ"
@@ -7882,7 +8314,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 167124,
       "name": "The Dunes",
       "url": "https://open.spotify.com/track/0HRRkGGFpMQH1AMLUDYjc1"
@@ -8627,6 +9059,24 @@
     },
     {
       "album": {
+        "name": "V\u00f8ringfossen",
+        "url": "https://open.spotify.com/album/5feSa7mTYzFpHcM1QlNxaP"
+      },
+      "artists": [
+        {
+          "name": "Fabian Lombardi",
+          "url": "https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129561,
+      "name": "V\u00f8ringfossen",
+      "url": "https://open.spotify.com/track/3pkttYHK5xWJQVqZ8MpTZ7"
+    },
+    {
+      "album": {
         "name": "Wachet auf, ruft uns die Stimme, BWV 645",
         "url": "https://open.spotify.com/album/6wgDm19rHIlnFcQ3BAxIVA"
       },
@@ -8793,6 +9243,24 @@
     },
     {
       "album": {
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/1F5ltuidSbJFydkutXmMMl"
+      },
+      "artists": [
+        {
+          "name": "Pether Walth",
+          "url": "https://open.spotify.com/artist/7KsO5zRoKDB9DumlFYRNW1"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112657,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/4yfJrK5whv2XCvp6JEwayO"
+    },
+    {
+      "album": {
         "name": "Way Harder Than I Thought",
         "url": "https://open.spotify.com/album/54k6cq8bMjnlDjVWSinIN5"
       },
@@ -8804,7 +9272,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 184562,
       "name": "Way Harder Than I Thought",
       "url": "https://open.spotify.com/track/0aInkt9zWTzd5TeBoUXS74"
@@ -8991,6 +9459,24 @@
     },
     {
       "album": {
+        "name": "Wichita Falls",
+        "url": "https://open.spotify.com/album/1Ty3h8HlwKdRThb4qzR9fC"
+      },
+      "artists": [
+        {
+          "name": "Amma Lerato",
+          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143847,
+      "name": "Wichita Falls",
+      "url": "https://open.spotify.com/track/1CAOAUuIIhbXkHUeQHgnYb"
+    },
+    {
+      "album": {
         "name": "Wildflowers",
         "url": "https://open.spotify.com/album/2hlO5P9G2aDGVS6GnDxaXI"
       },
@@ -9171,6 +9657,24 @@
     },
     {
       "album": {
+        "name": "You're Not Alone",
+        "url": "https://open.spotify.com/album/0xDfnkhHwktefc4MmHrXuR"
+      },
+      "artists": [
+        {
+          "name": "Damien Adams",
+          "url": "https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143733,
+      "name": "You're Not Alone",
+      "url": "https://open.spotify.com/track/4ROmwACfJCiGMBioN6k0m5"
+    },
+    {
+      "album": {
         "name": "Your Picture Is Still There",
         "url": "https://open.spotify.com/album/7fPhXvEplJRwPqLrRF8ovS"
       },
@@ -9236,7 +9740,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 180124,
       "name": "Zita",
       "url": "https://open.spotify.com/track/06atvPAAccSFyPWrQuxjrr"

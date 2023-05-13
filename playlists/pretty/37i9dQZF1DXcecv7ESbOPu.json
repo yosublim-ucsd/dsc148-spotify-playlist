@@ -1,12 +1,12 @@
 {
   "description": "\u00c4ntligen fredag och ny musik! Happy New Music Friday!",
-  "num_followers": 196858,
+  "num_followers": 197027,
   "original_name": "New Music Friday Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDZlNWZmZjlhOTFkN2FmODkzYTQ3MThlMjRjOGM2YWU4YzZlZjk0",
+  "snapshot_id": "MCw5YzI1MmI4ODc2NjgzMzA5M2Q1OWJhZjZiZjBiZWE3ODQ4NjUyNDYx",
   "tracks": [
     {
       "added_at": "2023-05-11 22:04:12",
@@ -53,7 +53,7 @@
         },
         {
           "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/1Yf0RNIHrSpEfIFuvTIKfc"
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
         }
       ],
       "duration_ms": 161258,
@@ -89,7 +89,7 @@
         },
         {
           "name": "Lewis Thompson",
-          "url": "https://open.spotify.com/artist/2QsMZVsBumu6t90SB3yGrH"
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
         }
       ],
       "duration_ms": 153742,
@@ -151,6 +151,26 @@
       "duration_ms": 204600,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
+    },
+    {
+      "added_at": "2023-05-11 22:04:12",
+      "album": {
+        "name": "All My Life (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 223878,
+      "name": "All My Life (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
     },
     {
       "added_at": "2023-05-11 22:04:12",
@@ -320,7 +340,7 @@
       "added_at": "2023-05-11 22:04:12",
       "album": {
         "name": "How You Samba",
-        "url": "https://open.spotify.com/album/7yTCyFCX4y3xymp5q65peJ"
+        "url": "https://open.spotify.com/album/12WYrw3Af5ha9SVxHEv7KH"
       },
       "artists": [
         {
@@ -338,7 +358,7 @@
       ],
       "duration_ms": 151680,
       "name": "How You Samba",
-      "url": "https://open.spotify.com/track/3nyebfHIhsgRvUJd9wv3u1"
+      "url": "https://open.spotify.com/track/4uoSxzvEVMcDsIK0aHZFAv"
     },
     {
       "added_at": "2023-05-11 22:04:12",
@@ -397,6 +417,22 @@
       "url": "https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh"
     },
     {
+      "added_at": "2023-05-12 07:44:26",
+      "album": {
+        "name": "A Good Friend",
+        "url": "https://open.spotify.com/album/5Xh5pjZ8xqmzKBCgEvsWYF"
+      },
+      "artists": [
+        {
+          "name": "Raghd",
+          "url": "https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw"
+        }
+      ],
+      "duration_ms": 169052,
+      "name": "You Know That I'm Around",
+      "url": "https://open.spotify.com/track/0yMe0g5uPUrzBhGIEg3x5O"
+    },
+    {
       "added_at": "2023-05-11 22:04:12",
       "album": {
         "name": "Tears can be so soft",
@@ -427,6 +463,26 @@
       "duration_ms": 169386,
       "name": "Lipstick Lover",
       "url": "https://open.spotify.com/track/6IhkXHtj7tJg5waF4utfX0"
+    },
+    {
+      "added_at": "2023-05-11 22:04:12",
+      "album": {
+        "name": "MVP (feat. G-Eazy)",
+        "url": "https://open.spotify.com/album/4pyhYSKl4jBqkemyG94DSG"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "duration_ms": 173948,
+      "name": "MVP (feat. G-Eazy)",
+      "url": "https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d"
     },
     {
       "added_at": "2023-05-11 22:04:12",
@@ -955,6 +1011,30 @@
     {
       "added_at": "2023-05-11 22:04:12",
       "album": {
+        "name": "Blessings (feat. Wizkid & Gimba)",
+        "url": "https://open.spotify.com/album/7Jczi3QQN1oiJPa2k2mrpx"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Gimba",
+          "url": "https://open.spotify.com/artist/1aov1VXIBA7iACR51xloHt"
+        }
+      ],
+      "duration_ms": 196725,
+      "name": "Blessings (feat. Wizkid & Gimba)",
+      "url": "https://open.spotify.com/track/1ALcYeD6JELUFLL3obyUDt"
+    },
+    {
+      "added_at": "2023-05-11 22:04:12",
+      "album": {
         "name": "Better Man",
         "url": "https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7"
       },
@@ -1257,7 +1337,7 @@
         }
       ],
       "duration_ms": 136213,
-      "name": "I Ain't Worried (feat. Becky G)",
+      "name": "I Ain't Worried (feat. Becky G) - Latin Version",
       "url": "https://open.spotify.com/track/0kljJKo5ibiYiLQkzEXKsG"
     },
     {
@@ -1311,6 +1391,46 @@
       "duration_ms": 259627,
       "name": "Se Grita",
       "url": "https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn"
+    },
+    {
+      "added_at": "2023-05-11 22:04:12",
+      "album": {
+        "name": "Rodeo (feat. Flo Milli) [A7S Remix]",
+        "url": "https://open.spotify.com/album/0z2jhJxFjWF52qtWS1ZJmW"
+      },
+      "artists": [
+        {
+          "name": "Lah Pat",
+          "url": "https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 195552,
+      "name": "Rodeo (feat. Flo Milli) - A7S Remix",
+      "url": "https://open.spotify.com/track/2mcTeFUWMOdG9AFsHt7jbJ"
+    },
+    {
+      "added_at": "2023-05-11 22:04:12",
+      "album": {
+        "name": "The Planet",
+        "url": "https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 178156,
+      "name": "The Planet",
+      "url": "https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg"
     },
     {
       "added_at": "2023-05-11 22:04:12",

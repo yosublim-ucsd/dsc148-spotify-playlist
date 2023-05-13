@@ -186,6 +186,24 @@
     {
       "album": {
         "name": "Habibti",
+        "url": "https://open.spotify.com/album/57JFtx9zHfzT39a1rlP4RK"
+      },
+      "artists": [
+        {
+          "name": "Abe",
+          "url": "https://open.spotify.com/artist/2Bv3me5y2XnscjPGreroh4"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204068,
+      "name": "Habibti",
+      "url": "https://open.spotify.com/track/3dwHet5JjKR4gS8aY2plg6"
+    },
+    {
+      "album": {
+        "name": "Habibti",
         "url": "https://open.spotify.com/album/6rWsWm2XEgvvZens32Bl2C"
       },
       "artists": [
@@ -1004,7 +1022,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 427206,
       "name": "\u064a\u0627 \u0645\u0647\u0627\u062c\u0631",
       "url": "https://open.spotify.com/track/3bBj0z4e5PSRKq9uIB8LGD"

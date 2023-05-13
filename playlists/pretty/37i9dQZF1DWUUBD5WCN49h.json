@@ -1,12 +1,12 @@
 {
   "description": "New and emerging R&B and Alternative tracks. Cover: <a href=\"https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu?si=lXygR8XNTOmWchcoEDKwcQ\"> Sut\u00e9 Iwar</a> ",
-  "num_followers": 9746,
+  "num_followers": 9755,
   "original_name": "Sizzlers ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzNlZDBhMGE1NmU0Mzg3NDY4MjJlMDg2MGI5OGFjYTQ3Yzk2MGM1",
+  "snapshot_id": "MCw0YTJhOTlhNWI5MDc5YWU1NGI3Yzg1ZTZlZDJmMTA4MTRjMmI0ZmYz",
   "tracks": [
     {
       "added_at": "2023-05-11 23:00:00",
@@ -167,6 +167,26 @@
       "duration_ms": 164584,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/1dGiHUu8vWQmXTPtvvxlPr"
+    },
+    {
+      "added_at": "2023-05-12 12:12:36",
+      "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/0s6OouXXqvm1fGHarO3t41"
+      },
+      "artists": [
+        {
+          "name": "Welmz",
+          "url": "https://open.spotify.com/artist/1tQiHnuwQxWAAaFHyTqRFu"
+        },
+        {
+          "name": "Aderinsola Adeyemi",
+          "url": "https://open.spotify.com/artist/7FFvaEjo5whoDkKGayjqf7"
+        }
+      ],
+      "duration_ms": 167183,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/3hMFV4kyz0XkLYXLneEvqw"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -939,22 +959,6 @@
       "duration_ms": 190633,
       "name": "Exchange",
       "url": "https://open.spotify.com/track/2JQn20w1FmCrQ2xDjxXq89"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "Rest My Case",
-        "url": "https://open.spotify.com/album/0ipjnPpQ0CCJneCcZmyyZK"
-      },
-      "artists": [
-        {
-          "name": "Kvngs",
-          "url": "https://open.spotify.com/artist/1SxJBIJJbaj2fpni5DNoXU"
-        }
-      ],
-      "duration_ms": 192111,
-      "name": "Rest My Case",
-      "url": "https://open.spotify.com/track/54I5MSvbijyqMfB0Ci0Lvc"
     },
     {
       "added_at": "2023-05-11 23:00:00",

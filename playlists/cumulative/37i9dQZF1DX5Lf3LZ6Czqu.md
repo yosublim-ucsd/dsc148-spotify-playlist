@@ -4,7 +4,7 @@
 
 > Instrumental guitar shreddery\. Cover: Angel Vivaldi
 
-121 songs - 9 hr 5 min
+122 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Ego Death \(feat\. Steve Vai\)](https://open.spotify.com/track/0Qj7PB41b6XgkApKPwDy1r) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Ego Death \(feat\. Steve Vai\)](https://open.spotify.com/album/6V7vpT9XvJccQgnkG6hRZv) | 5:50 | 2022-09-30 |  |
 | [Elemental](https://open.spotify.com/track/7pELXfqANfpuEgVQhL6kDS) | [Al Joseph](https://open.spotify.com/artist/21PirAYDy86Fxofydxphxu) | [Elemental](https://open.spotify.com/album/1Y8ixv209l76IYgFS0DHyN) | 7:10 | 2022-07-29 |  |
 | [Elysium](https://open.spotify.com/track/2QSPTVVCczdil3ixvn7OvR) | [Al Joseph](https://open.spotify.com/artist/21PirAYDy86Fxofydxphxu) | [All of Creation](https://open.spotify.com/album/4JnTiM4k8PskSpoT1ORTIa) | 4:38 | 2021-05-04 |  |
+| [Equilibrium](https://open.spotify.com/track/70WWLKQe224T8X3nhSKJZ8) | [Mansur Brown](https://open.spotify.com/artist/1ky3oGuE5XOsOzqiFEGwqR) | [Desta \- The Memories Between](https://open.spotify.com/album/3abIVvUTTjffmjEf49VeAI) | 3:59 | 2023-05-12 |  |
 | [Erzuín](https://open.spotify.com/track/2yimDfvXLSIt55KCaj8LSO) | [Gilipojazz](https://open.spotify.com/artist/47TWGbbKU5JYIzlySwkFK4) | [¿Dónde está el Jazz?](https://open.spotify.com/album/4Ekvaovlvw6lzwsStKibfr) | 6:46 | 2022-04-01 |  |
 | [Esperanza](https://open.spotify.com/track/4jJQlw27J0OF3wiYGY1egh) | [Lari Basilio](https://open.spotify.com/artist/74cXaGQVjndcGMGcxWz7j0) | [The Sound of My Room](https://open.spotify.com/album/6dW8Oqq6KWBEePGQ4yZj0x) | 4:18 | 2021-05-04 |  |
 | [Every Piece Matters](https://open.spotify.com/track/1kuUcD74m4Pqmu3LYjNvMo) | [Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic) | [Handmade Cities](https://open.spotify.com/album/4cJ8qhE71x97swkaMQhGcr) | 3:40 | 2021-05-04 |  |
@@ -47,7 +48,7 @@
 | [Falling Up](https://open.spotify.com/track/76u0xybJDLKrKS8TOnIE40) | [Allen Hinds](https://open.spotify.com/artist/3GxEPmRiVDifXYi0mswBAK) | [Falling Up](https://open.spotify.com/album/4j7MhzKAEAEzCSD9dXC4uK) | 4:45 | 2021-05-04 |  |
 | [Fat Hair](https://open.spotify.com/track/7xtnntJ25E0IGT9fQny0IP) | [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Bird of Passage](https://open.spotify.com/album/1nrKhiNrFuverJiIo1zliu) | 3:42 | 2022-04-08 |  |
 | [firebird](https://open.spotify.com/track/4aVjtxZglv9VpHiOvb2F6m) | [Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV) | [firebird](https://open.spotify.com/album/16p01UoGeKCDn0r4E9zrok) | 4:40 | 2023-02-24 |  |
-| [Five Fourths Will Get You Six](https://open.spotify.com/track/59Arv6QbBfhA5RenhE9kpT) | [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Still](https://open.spotify.com/album/4HxFvpLAqMnIoW172AyxQw) | 6:30 | 2021-05-04 |  |
+| [Five Fourths Will Get You Six](https://open.spotify.com/track/59Arv6QbBfhA5RenhE9kpT) | [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Still](https://open.spotify.com/album/4HxFvpLAqMnIoW172AyxQw) | 6:30 | 2021-05-04 | 2023-05-13 |
 | [Flight Mode](https://open.spotify.com/track/4X7Jsy8kRkRz7LHrrtFunn) | [Mr\. Fastfinger](https://open.spotify.com/artist/2EwvEoMSkP2QHZfLoN7AVd), [Mika Tyyskä](https://open.spotify.com/artist/7I3GNszuWihe6wYylLTuie) | [Flight Mode](https://open.spotify.com/album/4hAUsySEtN8LtIyC3hzeTC) | 4:14 | 2022-10-28 |  |
 | [Four Day Weekend](https://open.spotify.com/track/2Lv1k8ZSaC8XbjRvLPXqgM) | [Moray Pringle](https://open.spotify.com/artist/2XxpV0Zg0H0BZWCxgZQZKW) | [Four Day Weekend](https://open.spotify.com/album/4BJ2bEGlgs2EMv6GoDLLLt) | 4:25 | 2021-05-04 |  |
 | [Funk Force Five](https://open.spotify.com/track/4717gUSZNJkUiClBF0HS6z) | [Greg Koch](https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC) | [Unrepentant](https://open.spotify.com/album/2rkB2Xplv6eQeEI2MhQVC1) | 3:09 | 2021-05-04 |  |

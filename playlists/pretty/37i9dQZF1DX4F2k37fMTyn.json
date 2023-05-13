@@ -1,12 +1,12 @@
 {
   "description": "\u5973\u6027\u30dd\u30c3\u30d7\u30a2\u30a4\u30b3\u30f3\u306e\u540d\u66f2\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: GAYLE",
-  "num_followers": 30229,
+  "num_followers": 30249,
   "original_name": "Girl On Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYWQzMTM0N2RhMzE5YzFmM2EwMjEyZGE3MWZmZDdjNWNiZDNmNjE1",
+  "snapshot_id": "MCwxZTVhZjRhZWFhMzhmMGRjYmU0NmNhMWVjMTQzNmY0ODVkYjJhMWJk",
   "tracks": [
     {
       "added_at": "2023-05-11 15:00:00",
@@ -541,7 +541,7 @@
         },
         {
           "name": "Lewis Thompson",
-          "url": "https://open.spotify.com/artist/2QsMZVsBumu6t90SB3yGrH"
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
         }
       ],
       "duration_ms": 153742,
@@ -811,6 +811,26 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/5YdIiv5WLNbaONCyGIDszz"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 185113,
+      "name": "Alone (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/7kOletJ0Q5H4MWe7cfeZXP"
+    },
+    {
+      "added_at": "2023-05-11 15:00:00",
+      "album": {
         "name": "SHOOTING STAR",
         "url": "https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 187107,
       "name": "2 Be Loved (Am I Ready)",
       "url": "https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT"
-    },
-    {
-      "added_at": "2023-05-11 15:00:00",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/5YdIiv5WLNbaONCyGIDszz"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 185113,
-      "name": "Alone (with Nicki Minaj)",
-      "url": "https://open.spotify.com/track/7kOletJ0Q5H4MWe7cfeZXP"
     },
     {
       "added_at": "2023-05-11 15:00:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
+        "name": "Little Girl Gone",
+        "url": "https://open.spotify.com/album/1vTHLsE6MttzdRfg2ZkU4I"
+      },
+      "artists": [
+        {
+          "name": "CHINCHILLA",
+          "url": "https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI"
+        }
+      ],
+      "duration_ms": 188596,
+      "name": "Little Girl Gone",
+      "url": "https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp"
+    },
+    {
+      "added_at": "2023-05-11 15:00:00",
+      "album": {
         "name": "All By Myself",
         "url": "https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn"
       },
@@ -931,22 +947,6 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
-        "name": "SHOOTING STAR",
-        "url": "https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 203556,
-      "name": "SHOOTING STAR",
-      "url": "https://open.spotify.com/track/3IelG5zYpWWCZIH4cqWlPV"
-    },
-    {
-      "added_at": "2023-05-11 15:00:00",
-      "album": {
         "name": "Every Summertime",
         "url": "https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa"
       },
@@ -959,22 +959,6 @@
       "duration_ms": 215686,
       "name": "Every Summertime",
       "url": "https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro"
-    },
-    {
-      "added_at": "2023-05-11 15:00:00",
-      "album": {
-        "name": "Little Girl Gone",
-        "url": "https://open.spotify.com/album/1vTHLsE6MttzdRfg2ZkU4I"
-      },
-      "artists": [
-        {
-          "name": "CHINCHILLA",
-          "url": "https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI"
-        }
-      ],
-      "duration_ms": 188596,
-      "name": "Little Girl Gone",
-      "url": "https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp"
     },
     {
       "added_at": "2023-05-11 15:00:00",
@@ -995,6 +979,22 @@
       "duration_ms": 160766,
       "name": "Remember",
       "url": "https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb"
+    },
+    {
+      "added_at": "2023-05-11 15:00:00",
+      "album": {
+        "name": "SHOOTING STAR",
+        "url": "https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 203556,
+      "name": "SHOOTING STAR",
+      "url": "https://open.spotify.com/track/3IelG5zYpWWCZIH4cqWlPV"
     },
     {
       "added_at": "2023-05-11 15:00:00",

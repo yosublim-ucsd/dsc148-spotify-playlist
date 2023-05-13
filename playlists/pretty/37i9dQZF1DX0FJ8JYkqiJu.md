@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 
 > Tune in, bliss out
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,650 likes - 70 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,698 likes - 70 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,23 +60,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 50 | [Grapevine](https://open.spotify.com/track/2a2Yb7fc67EzRUVpYTUyZq) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Grapevine](https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU) | 6:21 |
 | 51 | [Waves](https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM) | [Abroad](https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft) | [Waves](https://open.spotify.com/album/6SJ4vAeTsekxlFQDK4ciDu) | 4:02 |
 | 52 | [Falling](https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby) | [Falling](https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS) | 3:17 |
-| 53 | [Nobody Scared](https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Baby Face](https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe) | 3:39 |
-| 54 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 |
+| 53 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 |
+| 54 | [Nobody Scared](https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Baby Face](https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe) | 3:39 |
 | 55 | [Tulum](https://open.spotify.com/track/4yPqxzBhXslFCcOq6fKanw) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Tulum](https://open.spotify.com/album/0gWuDtNiBHpeURomqk8DEc) | 3:45 |
 | 56 | [Something Real](https://open.spotify.com/track/1Z0N9hxlzZRPAKI5Q33jsq) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Loner](https://open.spotify.com/album/0sFdU2ngIsxgpErPAwgbvq) | 3:49 |
 | 57 | [Tidal Waves](https://open.spotify.com/track/3YTZyDywwVOWOXw2d970Dx) | [Isaak Young](https://open.spotify.com/artist/7qmOAgRUFZhLfwtyCGPKdo) | [Tidal Waves](https://open.spotify.com/album/5JUNGkyetUR1RC0svtR772) | 3:10 |
-| 58 | [La Perla \- Tourist Remix](https://open.spotify.com/track/1V2Z18nOByb7DqCECFh2Yt) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [La Perla \(Tourist Remix\)](https://open.spotify.com/album/2CEQtjRACjOqhLnDsiKzor) | 5:17 |
-| 59 | [Shapes](https://open.spotify.com/track/21MsNjTGZ0b2tbVa0m7nNi) | [Floating Anarchy](https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d), [Kairoh](https://open.spotify.com/artist/1Frlf4JDGlf6OrwQvSR7I2) | [Shapes](https://open.spotify.com/album/1YLn7DOkqIlDBbszOhPgA3) | 2:20 |
+| 58 | [Shapes](https://open.spotify.com/track/21MsNjTGZ0b2tbVa0m7nNi) | [Floating Anarchy](https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d), [Kairoh](https://open.spotify.com/artist/1Frlf4JDGlf6OrwQvSR7I2) | [Shapes](https://open.spotify.com/album/1YLn7DOkqIlDBbszOhPgA3) | 2:20 |
+| 59 | [La Perla \- Tourist Remix](https://open.spotify.com/track/1V2Z18nOByb7DqCECFh2Yt) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [La Perla \(Tourist Remix\)](https://open.spotify.com/album/2CEQtjRACjOqhLnDsiKzor) | 5:17 |
 | 60 | [Way Out](https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:20 |
-| 61 | [Purple Sun](https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Purple Sun](https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1) | 4:01 |
-| 62 | [Afterglow](https://open.spotify.com/track/4Ir2UxDlAm01qmv3eSZYlP) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Afterglow](https://open.spotify.com/album/1IsOH127OxGWcybr11hYKa) | 3:26 |
+| 61 | [Afterglow](https://open.spotify.com/track/4Ir2UxDlAm01qmv3eSZYlP) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Afterglow](https://open.spotify.com/album/1IsOH127OxGWcybr11hYKa) | 3:26 |
+| 62 | [Purple Sun](https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Purple Sun](https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1) | 4:01 |
 | 63 | [Hey Papi \- Edit](https://open.spotify.com/track/7E0yobaZYmUDnk646JD0XT) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Hey Papi](https://open.spotify.com/album/7vESA3Bg1fOvgHfAHUBZ8o) | 2:38 |
-| 64 | [Hollow](https://open.spotify.com/track/0QWfkVxD0iy0a8vRhQWm3s) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Hollow](https://open.spotify.com/album/13R5GMY8KhoR2HNyYblrhU) | 4:14 |
-| 65 | [Above the Salt](https://open.spotify.com/track/6UuUbGvNaGsNjCYOuyw18Y) | [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG), [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Above the Salt](https://open.spotify.com/album/7tHZf9HwjVlQjQ7JkAXWNE) | 3:46 |
+| 64 | [Above the Salt](https://open.spotify.com/track/6UuUbGvNaGsNjCYOuyw18Y) | [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG), [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Above the Salt](https://open.spotify.com/album/7tHZf9HwjVlQjQ7JkAXWNE) | 3:46 |
+| 65 | [Hollow](https://open.spotify.com/track/0QWfkVxD0iy0a8vRhQWm3s) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Hollow](https://open.spotify.com/album/13R5GMY8KhoR2HNyYblrhU) | 4:14 |
 | 66 | [Wake Up Call](https://open.spotify.com/track/6HjoXmL9BiC1Cmb7oktz5N) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [Sanctuary Point](https://open.spotify.com/album/2vnz72t4mSjrw1RhgfDSTN) | 3:44 |
 | 67 | [Faisal \(London Bridge Station\)](https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 5:09 |
 | 68 | [Ask](https://open.spotify.com/track/1QDfa76GouFESAc6e9xI7l) | [Dual Sessions](https://open.spotify.com/artist/62G1LvBKkkl7sLHqrGbAcp), [Style Project](https://open.spotify.com/artist/1vWOhY2gsar5XKVJqBfdrh) | [Ask](https://open.spotify.com/album/4FkzJu0EGu2Y5zz7XQpQQD) | 2:20 |
 | 69 | [Greener](https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:54 |
 | 70 | [Blinding Lights](https://open.spotify.com/track/3uertkdKKnKntI2kK0fDqg) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP), [Amelia Magdalena](https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu) | [Blinding Lights](https://open.spotify.com/album/2ULm5UwqgPxTypBJYi0w1w) | 2:52 |
 
-Snapshot ID: `MCxhYzY4NzZjOGUwYThjYjIwMjVhNGUxZDZhOGZlYmQ4NTFkNWIxNDdk`
+Snapshot ID: `MCw4YTk1MjRhM2IyM2MyNjhkYjAxZWY4YmY2ZWUyZmI2NDgzNzFhMTI1`

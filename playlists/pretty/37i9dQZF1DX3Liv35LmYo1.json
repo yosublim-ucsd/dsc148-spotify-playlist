@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night time hours",
-  "num_followers": 104030,
+  "num_followers": 104044,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjFhOGE5NTEwYzRmMzdiY2IzNmU2MzA2M2ViMzNkMzg0NWQ5NDIy",
+  "snapshot_id": "MCxiYWI0NjlmYTVkYmI4M2FjODU4NzA4ZmY0MzRjZDIwMWZkYzM5N2Vl",
   "tracks": [
     {
       "added_at": "2023-05-05 02:04:51",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
-        "name": "RUSH (Blush)",
-        "url": "https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp"
-      },
-      "artists": [
-        {
-          "name": "Willo",
-          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
-        }
-      ],
-      "duration_ms": 242545,
-      "name": "RUSH (Blush)",
-      "url": "https://open.spotify.com/track/6pjI3CKUkIGbvSgo7TuRuu"
-    },
-    {
-      "added_at": "2023-05-05 02:04:51",
-      "album": {
         "name": "Eat Your Own Ears Recordings EP 1",
         "url": "https://open.spotify.com/album/5qrcFcqf23B9TUQef3Caxx"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 480253,
       "name": "Scythe Master",
       "url": "https://open.spotify.com/track/2ioTUZg5JbOwl2nKNFquQx"
+    },
+    {
+      "added_at": "2023-05-05 02:04:51",
+      "album": {
+        "name": "RUSH (Blush)",
+        "url": "https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp"
+      },
+      "artists": [
+        {
+          "name": "Willo",
+          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
+        }
+      ],
+      "duration_ms": 242545,
+      "name": "RUSH (Blush)",
+      "url": "https://open.spotify.com/track/6pjI3CKUkIGbvSgo7TuRuu"
     },
     {
       "added_at": "2023-05-05 02:04:51",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
-        "name": "All Good",
-        "url": "https://open.spotify.com/album/4KyYJbYmodLczcw5HLkkzI"
-      },
-      "artists": [
-        {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
-        }
-      ],
-      "duration_ms": 271742,
-      "name": "All Good",
-      "url": "https://open.spotify.com/track/0E1R3RC1YxQ6nIJ2ZDbDjF"
-    },
-    {
-      "added_at": "2023-05-05 02:04:51",
-      "album": {
         "name": "Whatever Happens, Happens",
         "url": "https://open.spotify.com/album/1WJ9gGJIFiHEcAgTMMwtD8"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 227304,
       "name": "Whatever Happens, Happens",
       "url": "https://open.spotify.com/track/7JCDUpvqoOsUI80cQezG7M"
+    },
+    {
+      "added_at": "2023-05-05 02:04:51",
+      "album": {
+        "name": "All Good",
+        "url": "https://open.spotify.com/album/4KyYJbYmodLczcw5HLkkzI"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "duration_ms": 271742,
+      "name": "All Good",
+      "url": "https://open.spotify.com/track/0E1R3RC1YxQ6nIJ2ZDbDjF"
     },
     {
       "added_at": "2023-05-05 02:04:51",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
-        "name": "Setting Sun",
-        "url": "https://open.spotify.com/album/2ExANkuoKaZn7qOGvf014G"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 373166,
-      "name": "Setting Sun",
-      "url": "https://open.spotify.com/track/4BG4Smwt9cu1RzAKurrIN6"
-    },
-    {
-      "added_at": "2023-05-05 02:04:51",
-      "album": {
         "name": "Leave Here",
         "url": "https://open.spotify.com/album/4kwlyY10z4cSiF6jmyngt9"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 297585,
       "name": "Leave Here",
       "url": "https://open.spotify.com/track/3JKn7wZYSwOGriPALOQPBT"
+    },
+    {
+      "added_at": "2023-05-05 02:04:51",
+      "album": {
+        "name": "Setting Sun",
+        "url": "https://open.spotify.com/album/2ExANkuoKaZn7qOGvf014G"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 373166,
+      "name": "Setting Sun",
+      "url": "https://open.spotify.com/track/4BG4Smwt9cu1RzAKurrIN6"
     },
     {
       "added_at": "2023-05-05 02:04:51",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 282349,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
+    },
+    {
+      "added_at": "2023-05-05 02:04:51",
+      "album": {
         "name": "Ultra Truth",
         "url": "https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI"
       },
@@ -831,22 +847,6 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 282349,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
-    },
-    {
-      "added_at": "2023-05-05 02:04:51",
-      "album": {
         "name": "Have You Felt Lately? (Brijean Remix)",
         "url": "https://open.spotify.com/album/4Rr4ZzOpiDaTAA3gJY6LsM"
       },
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
-        "name": "Domenico",
-        "url": "https://open.spotify.com/album/0DhbY3VlbKpUABz7i6gUne"
-      },
-      "artists": [
-        {
-          "name": "Giulia Tess",
-          "url": "https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3"
-        }
-      ],
-      "duration_ms": 298500,
-      "name": "Domenico",
-      "url": "https://open.spotify.com/track/2jvoUFy1ovw1q2kloUPBE1"
-    },
-    {
-      "added_at": "2023-05-05 02:04:51",
-      "album": {
         "name": "Floating",
         "url": "https://open.spotify.com/album/5ZDfdoj6YtnOhPGwPKTTr8"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 349000,
       "name": "Floating",
       "url": "https://open.spotify.com/track/0sfY8uUKQxPqnK8sqvvKO2"
+    },
+    {
+      "added_at": "2023-05-05 02:04:51",
+      "album": {
+        "name": "Domenico",
+        "url": "https://open.spotify.com/album/0DhbY3VlbKpUABz7i6gUne"
+      },
+      "artists": [
+        {
+          "name": "Giulia Tess",
+          "url": "https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3"
+        }
+      ],
+      "duration_ms": 298500,
+      "name": "Domenico",
+      "url": "https://open.spotify.com/track/2jvoUFy1ovw1q2kloUPBE1"
     },
     {
       "added_at": "2023-05-05 02:04:51",
@@ -931,38 +931,6 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/2QV91V7AsQLDSKbcjSFYpG"
-      },
-      "artists": [
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        }
-      ],
-      "duration_ms": 317178,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/6KOngf9VGk1Q6oQgfuryQU"
-    },
-    {
-      "added_at": "2023-05-05 02:04:51",
-      "album": {
-        "name": "Affirmation Practice",
-        "url": "https://open.spotify.com/album/2tnN5ey40OEsFKIurIWNsK"
-      },
-      "artists": [
-        {
-          "name": "DJ Gigola",
-          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
-        }
-      ],
-      "duration_ms": 311827,
-      "name": "Affirmation Practice",
-      "url": "https://open.spotify.com/track/2nArEaoCGtb6ws4wO4cI9a"
-    },
-    {
-      "added_at": "2023-05-05 02:04:51",
-      "album": {
         "name": "Ultra Truth",
         "url": "https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI"
       },
@@ -975,6 +943,22 @@
       "duration_ms": 317183,
       "name": "Ultra Truth",
       "url": "https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY"
+    },
+    {
+      "added_at": "2023-05-05 02:04:51",
+      "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/2QV91V7AsQLDSKbcjSFYpG"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "duration_ms": 317178,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/6KOngf9VGk1Q6oQgfuryQU"
     },
     {
       "added_at": "2023-05-05 02:04:51",
@@ -995,6 +979,22 @@
       "duration_ms": 266853,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/1NhtY0fQV9pna3FW6YH6PK"
+    },
+    {
+      "added_at": "2023-05-05 02:04:51",
+      "album": {
+        "name": "Affirmation Practice",
+        "url": "https://open.spotify.com/album/2tnN5ey40OEsFKIurIWNsK"
+      },
+      "artists": [
+        {
+          "name": "DJ Gigola",
+          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
+        }
+      ],
+      "duration_ms": 311827,
+      "name": "Affirmation Practice",
+      "url": "https://open.spotify.com/track/2nArEaoCGtb6ws4wO4cI9a"
     },
     {
       "added_at": "2023-05-05 02:04:51",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
+        "name": "View from the Aeroplane Window",
+        "url": "https://open.spotify.com/album/2sRxQH3FnEm4M0K8PnmQsH"
+      },
+      "artists": [
+        {
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+        }
+      ],
+      "duration_ms": 233346,
+      "name": "View from the Aeroplane Window",
+      "url": "https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr"
+    },
+    {
+      "added_at": "2023-05-05 02:04:51",
+      "album": {
         "name": "Holding on to You",
         "url": "https://open.spotify.com/album/5FJQTiYHMOL01mewrJk7i4"
       },
@@ -1151,18 +1167,18 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
-        "name": "View from the Aeroplane Window",
-        "url": "https://open.spotify.com/album/2sRxQH3FnEm4M0K8PnmQsH"
+        "name": "To You EP",
+        "url": "https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI"
       },
       "artists": [
         {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
         }
       ],
-      "duration_ms": 233346,
-      "name": "View from the Aeroplane Window",
-      "url": "https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr"
+      "duration_ms": 306589,
+      "name": "To You",
+      "url": "https://open.spotify.com/track/38GS3GcRxHE9YXuIk21eaC"
     },
     {
       "added_at": "2023-05-05 02:04:51",
@@ -1179,22 +1195,6 @@
       "duration_ms": 219000,
       "name": "Justine",
       "url": "https://open.spotify.com/track/2saPzK0KELO2hH2vBLsZDV"
-    },
-    {
-      "added_at": "2023-05-05 02:04:51",
-      "album": {
-        "name": "To You EP",
-        "url": "https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 306589,
-      "name": "To You",
-      "url": "https://open.spotify.com/track/38GS3GcRxHE9YXuIk21eaC"
     },
     {
       "added_at": "2023-05-05 02:04:51",

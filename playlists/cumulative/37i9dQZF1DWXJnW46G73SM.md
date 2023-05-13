@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية اليوم🤩 الغلاف: نانسي عجرم
 
-431 songs - 1 day 1 hr 1 min
+433 songs - 1 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Di Halawa](https://open.spotify.com/track/3BW4RcvJUYGtnPOzppeVW9) | [Ahmed Bahaa](https://open.spotify.com/artist/0YYLDpbsExW7PI14mRJPfx), [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Sary Hany](https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK) | [Di Halawa](https://open.spotify.com/album/7hy7jpcDzPXmIde1fICTvT) | 3:16 | 2022-10-06 | 2022-12-30 |
 | [Diva](https://open.spotify.com/track/0ECT1q8mtxBE7cCRIeCXO2) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Diva](https://open.spotify.com/album/0WRvr1ZggOBKzYMSpCUZ1r) | 2:52 | 2023-02-16 | 2023-04-21 |
 | [Dom Dom](https://open.spotify.com/track/09qJciYwmS2hlWlpjaIKZm) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Dom Dom](https://open.spotify.com/album/0b5kI7IIsYfVsAXawB2dak) | 3:02 | 2022-07-20 | 2022-10-11 |
+| [DOPAMINE](https://open.spotify.com/track/6Q3KOmzeEhkGcRxQpccaVO) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [DOPAMINE](https://open.spotify.com/album/2xuSq58iRiMwy96wN9rV4C) | 3:19 | 2023-05-12 |  |
 | [Downtown](https://open.spotify.com/track/5mJwIPGuMG8jhvhr9igD4W) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Downtown](https://open.spotify.com/album/1l7zke8JZbv83flMvXW99N) | 3:36 | 2022-03-03 | 2022-06-24 |
 | [Eesh Bezyda \(El Gouna International Tournament Squash Official Song\)](https://open.spotify.com/track/3n1Ay9tmg5lJXEgEbalNye) | [Ramy Ashour](https://open.spotify.com/artist/63KnNE9cEnAJ2bkSvLsAdx) | [Eesh Bezyda \(El Gouna International Tournament Squash Official Song\)](https://open.spotify.com/album/4889Xh1DOnyxnXKfNoinDe) | 4:04 | 2022-06-09 | 2022-09-16 |
 | [Ee’mel Share \(from the movie "Ramsis Paris"\)](https://open.spotify.com/track/3eBRF7ygd5nMA6u3ayacXe) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Ee’mel Share \(from the movie "Ramsis Paris"\)](https://open.spotify.com/album/2HDBFEh30oqfRgDesORlzD) | 3:12 | 2023-04-20 |  |
@@ -179,7 +180,7 @@
 | [Kalam Kobar](https://open.spotify.com/track/0bBNbNMZiU5WQ8Qe5y2peh) | [Mostafa Gad](https://open.spotify.com/artist/5ASLdjUfY4styIRJ5smXmB) | [Kalam Kobar](https://open.spotify.com/album/2z2gS7oXlrbVcnffgffTFU) | 2:32 | 2022-05-18 | 2022-08-21 |
 | [Kan Mawdo3](https://open.spotify.com/track/3FJ2RFcLUogTbyt9MGVQoC) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 4:42 | 2022-01-27 | 2022-04-24 |
 | [Katr Min Orbak](https://open.spotify.com/track/25PxqBg1eC40lRZtXiHYQk) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Katr Min Orbak](https://open.spotify.com/album/3jKzcf98QNkMJrLZ9eGk8Q) | 3:07 | 2021-12-30 | 2022-03-10 |
-| [Kelma \( Intro Of El Harsha El Sabaa Series\)](https://open.spotify.com/track/571hMdqSYlYZNa4i4Y0IpS) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4), [Boustan Magdy](https://open.spotify.com/artist/2hY97UqOlQK2wyIAXkx2Ep) | [Kelma \( Intro Of El Harsha El Sabaa Series\)](https://open.spotify.com/album/5wnmqhy2eKLnqEYqAHZ7O4) | 3:14 | 2023-03-30 |  |
+| [Kelma \( Intro Of El Harsha El Sabaa Series\)](https://open.spotify.com/track/571hMdqSYlYZNa4i4Y0IpS) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4), [Boustan Magdy](https://open.spotify.com/artist/2hY97UqOlQK2wyIAXkx2Ep) | [Kelma \( Intro Of El Harsha El Sabaa Series\)](https://open.spotify.com/album/5wnmqhy2eKLnqEYqAHZ7O4) | 3:14 | 2023-03-30 | 2023-05-13 |
 | [Khaleek Aneed](https://open.spotify.com/track/74LjFQrbHiRiJgXqhOrRn3) | [Code Masr](https://open.spotify.com/artist/145N3lyWbfwAEVNFwb0ack) | [Khaleek Aneed](https://open.spotify.com/album/1jWBxVRTqIzB7PHhOm7c6n) | 2:45 | 2022-12-12 | 2023-02-10 |
 | [Khaleena A’din](https://open.spotify.com/track/4GRMwobUes0Q9SQOa6C9e3) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Khaleena A’din](https://open.spotify.com/album/6JTpTvLCv2OpZ0peRsu5hQ) | 4:36 | 2022-08-03 | 2022-10-27 |
 | [Khaleny Fe Hodnak](https://open.spotify.com/track/64bw7oItH3tbiWmfhKq4Vg) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Khaleny Fe Hodnak](https://open.spotify.com/album/0Vl0OtSiNJysAHGVrRVlCd) | 3:16 | 2022-01-20 | 2022-04-08 |
@@ -420,6 +421,7 @@
 | [نحنوح](https://open.spotify.com/track/1lcoflpxNSJR8U0gzVY6xq) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [نحنوح](https://open.spotify.com/album/7KNPArvrYE01FNciIiERE0) | 3:25 | 2022-09-15 | 2022-12-02 |
 | [نسينا نعيش](https://open.spotify.com/track/0Ia5kzbFM2iMADp1Wq1EZe) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [نسينا نعيش](https://open.spotify.com/album/5TlwYlQKbof258r72pe1lu) | 3:15 | 2023-02-27 | 2023-05-05 |
 | [نصابة](https://open.spotify.com/track/4wwKW2VSUbLAkUA53Al0iZ) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [نصابة](https://open.spotify.com/album/6HiHRHRuP8AbVYJe2kASYs) | 2:58 | 2023-02-01 | 2023-03-10 |
+| [هارلي \- أغنية الفيلم](https://open.spotify.com/track/1xONu0es8q0Mw68bxMLxkY) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [هارلي \(أغنية الفيلم\)](https://open.spotify.com/album/3hMbBbUijCEaOmKhcBsi9b) | 1:54 | 2023-05-12 |  |
 | [هجوم فجائي](https://open.spotify.com/track/6oJ8OTMckJHkMP96OmM20M) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [هجوم فجائي](https://open.spotify.com/album/7MVTw1BuTpyCh8kl8Ca5Ww) | 4:25 | 2023-01-03 | 2023-02-17 |
 | [هنتقابل بعدين](https://open.spotify.com/track/4zyDUiz5Z19Gt93O4xFRpY) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [هنتقابل بعدين](https://open.spotify.com/album/474Bf3FITUcUkns8TzeXd4) | 4:29 | 2022-03-09 | 2022-07-02 |
 | [هو احنا غرب](https://open.spotify.com/track/1elQRhX2LeoWf6QdNbzksN) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [النسخة الجديدة](https://open.spotify.com/album/2Ri8hAF6UfEkpRN5Bc5Kxu) | 3:00 | 2023-01-19 | 2023-03-03 |

@@ -4,7 +4,7 @@
 
 > Just chill.
 
-487 songs - 1 day 3 hr 59 min
+488 songs - 1 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Fool 4 U](https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y4](https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR) | 2:59 | 2022-09-02 |  |
 | [For The Breakdowns](https://open.spotify.com/track/2fN3mTftR80HwV5r79rq10) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [For the Breakdowns](https://open.spotify.com/album/5yoqFxiDljDVn70lVn1Sd2) | 3:04 | 2022-09-16 | 2023-04-22 |
 | [Free Again](https://open.spotify.com/track/5waEuhjLJ2B5gZwYNOb8lj) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [Free Again](https://open.spotify.com/album/2d1y23eHvch2vbp0Em8k5l) | 2:39 | 2022-10-08 | 2023-04-22 |
+| [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-05-12 |  |
 | [Fuck Tha World](https://open.spotify.com/track/0BMNgV6BjAvWU3zueMBaRu) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Fuck Tha World](https://open.spotify.com/album/49QnWzeoHyQsILlEoM8aAQ) | 2:21 | 2023-01-13 |  |
 | [Futari](https://open.spotify.com/track/6NGOmfOqrMgEBDsu0D7iGn) | [smile for me.](https://open.spotify.com/artist/2V89TxaFRKg6P252Nj0FPb), [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL), [Hayne](https://open.spotify.com/artist/2OuXA3zTqSBjchwV4jD5gL) | [Luv\-Fi Tape](https://open.spotify.com/album/0lmN3k9Q4MRga3tZxObCVK) | 2:00 | 2020-08-14 | 2022-01-22 |
 | [Garden](https://open.spotify.com/track/50iDsxVvLyArwlS5PUuiy3) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [What Should We Do This Summer ?](https://open.spotify.com/album/63SUShWKQ0g7ttqbgN8b2P) | 3:12 | 2020-10-16 | 2022-01-22 |
@@ -354,7 +355,7 @@
 | [Satellites](https://open.spotify.com/track/67zg0RXCLGmf934W2H2ooM) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW), [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA) | [Satellites](https://open.spotify.com/album/5wvHPnrNyTIQmZuqEPUgLO) | 4:00 | 2022-11-07 | 2023-04-22 |
 | [Scarlet](https://open.spotify.com/track/3nUjs7y1fhZYSmPNQ0YfqO) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Scarlet](https://open.spotify.com/album/0uC6KvswSzKrzdvqbfOWZV) | 3:18 | 2022-08-05 | 2023-04-22 |
 | [Secrets](https://open.spotify.com/track/5ktGBmi2zJOqcoVxxuzmcD) | [Kevitch](https://open.spotify.com/artist/5TBHVZmjr81pOyk8gi0HmI) | [Secrets](https://open.spotify.com/album/50QXe7xHd3i6rhYYxeQAJF) | 2:53 | 2023-02-16 | 2023-04-23 |
-| [Seigfried](https://open.spotify.com/track/2MccEWWQ00oLtGjeOQKibQ) | [Justice Der](https://open.spotify.com/artist/2N79L5eT2Xraec4UJsi2Fz) | [Favorites 3](https://open.spotify.com/album/140HPATke2m0iUEJ0kNb5D) | 6:13 | 2022-04-29 |  |
+| [Seigfried](https://open.spotify.com/track/2MccEWWQ00oLtGjeOQKibQ) | [Justice Der](https://open.spotify.com/artist/2N79L5eT2Xraec4UJsi2Fz) | [Favorites 3](https://open.spotify.com/album/140HPATke2m0iUEJ0kNb5D) | 6:13 | 2022-04-29 | 2023-05-13 |
 | [Selene](https://open.spotify.com/track/4npKDsY9jICNTZ9k1OCJWv) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Selene](https://open.spotify.com/album/5vM130oQKE5jQ22EgX7Cy7) | 4:54 | 2023-03-17 |  |
 | [Self\-Contained](https://open.spotify.com/track/69juaKk6uRwnslwNX5niEp) | [DWY](https://open.spotify.com/artist/6rKDNm4z67mZVwDwnE0WsX) | [Self\-Contained](https://open.spotify.com/album/5HOxi26ZvTMi8zW0iadJtT) | 3:01 | 2022-09-29 | 2023-04-22 |
 | [Seltzer](https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Seltzer](https://open.spotify.com/album/1Nifv5zMNTM89Q1m98U32a) | 3:04 | 2022-11-25 |  |

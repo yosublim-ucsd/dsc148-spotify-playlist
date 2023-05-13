@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzFWXFlsp56.md) - [plain]
 
 > Descubre los nuevos talentos de Colombia, Ecuador, Venezuela y Perú\. Foto: ICON.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,247 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,245 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzFWXFlsp56.md) - [plain]
 | 45 | [¿qué más da?](https://open.spotify.com/track/09I75WeZNBSDUXX66hcWHF) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [¿qué más da?](https://open.spotify.com/album/2lhGoTSIZ1VJx5OkXhNW6t) | 3:11 |
 | 46 | [Parapente](https://open.spotify.com/track/7I748qKWSny5fh18KAFnWz) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Parapente](https://open.spotify.com/album/2ZT8R1lhtbkoKRvS21Nqvd) | 2:42 |
 | 47 | [Todo Lo Que Sube](https://open.spotify.com/track/4Nue2wVbfAAVURd26kjNEN) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Todo Lo Que Sube](https://open.spotify.com/album/0rnPkYTulKklj3XbNuP9Ar) | 4:25 |
-| 48 | [Tus Fotos \(with Javiielo\)](https://open.spotify.com/track/1I9nceRI1bSCE4QYiltuI3) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5) | [Tus Fotos \(with Javiielo\)](https://open.spotify.com/album/0DSdxX7PSym9rzdrhypsMr) | 3:01 |
+| 48 | [Tus Fotos](https://open.spotify.com/track/1I9nceRI1bSCE4QYiltuI3) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5) | [Tus Fotos](https://open.spotify.com/album/0DSdxX7PSym9rzdrhypsMr) | 3:01 |
 | 49 | [Garúa \(Sabor a Querer\)](https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Migliz](https://open.spotify.com/artist/0Wg0zqWRumeTT4AEMIVu2b) | [Garúa \(Sabor a Querer\)](https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO) | 3:42 |
 | 50 | [A Mi Ritmo](https://open.spotify.com/track/0dpTDF578tB1gdRnahSyyp) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Mirando al cielo](https://open.spotify.com/album/4bKbHme7qn0tV1UW9MnRGn) | 3:06 |
 
-Snapshot ID: `MCw5MjFiNjNjNDIwNjFhN2JlOTAwYjgxZjc3ZTU4NGQ0N2M3OWU0MTcx`
+Snapshot ID: `MCw2YWQ1NDEwNDQyZDI3NmE2ZWRkNGI3YWE3NDQzZGQyMGIzMjA5NjNl`

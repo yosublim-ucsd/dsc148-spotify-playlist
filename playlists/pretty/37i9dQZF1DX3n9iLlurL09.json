@@ -1,12 +1,12 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 67721,
+  "num_followers": 67814,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODRkNmM3ZDUwN2NkOGY0NmIxYmYxYjgxZmE5ZDg0NzU2ZjgwM2Q3",
+  "snapshot_id": "MCxlYmMwYTEyNTE5YmVlZTA1ODlmZmRlNTRjOWQzODc5Mzc3NjU4YjA2",
   "tracks": [
     {
       "added_at": "2022-05-19 08:11:23",
@@ -615,6 +615,22 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
+        "name": "Waiting For The Dawn",
+        "url": "https://open.spotify.com/album/1sO3d5N07nqu5CeJTLg7PG"
+      },
+      "artists": [
+        {
+          "name": "The Mowgli's",
+          "url": "https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ"
+        }
+      ],
+      "duration_ms": 173093,
+      "name": "San Francisco",
+      "url": "https://open.spotify.com/track/5RRWirYSE08FPKD6Mx4v0V"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
         "name": "Woman",
         "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
       },
@@ -647,18 +663,18 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Waiting For The Dawn",
-        "url": "https://open.spotify.com/album/1sO3d5N07nqu5CeJTLg7PG"
+        "name": "Lonesome Dreams (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c"
       },
       "artists": [
         {
-          "name": "The Mowgli's",
-          "url": "https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 173093,
-      "name": "San Francisco",
-      "url": "https://open.spotify.com/track/5RRWirYSE08FPKD6Mx4v0V"
+      "duration_ms": 284146,
+      "name": "Ends of the Earth",
+      "url": "https://open.spotify.com/track/1KQsrNv2vEW7AXKTrFz0Ah"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -679,22 +695,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Lonerism",
-        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 271880,
-      "name": "Mind Mischief",
-      "url": "https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Born To Die \u2013 Paradise Edition (Special Version)",
         "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
       },
@@ -711,18 +711,18 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Lonesome Dreams (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c"
+        "name": "Lonerism",
+        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 284146,
-      "name": "Ends of the Earth",
-      "url": "https://open.spotify.com/track/1KQsrNv2vEW7AXKTrFz0Ah"
+      "duration_ms": 271880,
+      "name": "Mind Mischief",
+      "url": "https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Oshin",
-        "url": "https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 222973,
-      "name": "Doused",
-      "url": "https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Jake Bugg",
         "url": "https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 199453,
       "name": "Simple As This",
       "url": "https://open.spotify.com/track/59xYAblNy1Xr4U1IsJ3gZb"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Oshin",
+        "url": "https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 222973,
+      "name": "Doused",
+      "url": "https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Synthetica (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2xbkLrXys1oVlp5fgTgwSJ"
-      },
-      "artists": [
-        {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        }
-      ],
-      "duration_ms": 236413,
-      "name": "Breathing Underwater",
-      "url": "https://open.spotify.com/track/1KZjU7csKHOLRiRPBWZIJS"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "shrines",
         "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 239613,
       "name": "lofticries",
       "url": "https://open.spotify.com/track/0Uc1kywLKWHjqRbuY6OJvK"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Synthetica (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2xbkLrXys1oVlp5fgTgwSJ"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "duration_ms": 236413,
+      "name": "Breathing Underwater",
+      "url": "https://open.spotify.com/track/1KZjU7csKHOLRiRPBWZIJS"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Port Of Morrow",
-        "url": "https://open.spotify.com/album/4ZTcGoOrNro2aCAStXEjZi"
+        "name": "shrines",
+        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
       },
       "artists": [
         {
-          "name": "The Shins",
-          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
         }
       ],
-      "duration_ms": 241613,
-      "name": "It's Only Life",
-      "url": "https://open.spotify.com/track/4UXSYJDEgOlMX3MXVkaiyH"
+      "duration_ms": 209573,
+      "name": "obedear",
+      "url": "https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH"
     }
   ],
   "unique_name": "Best of Indie 2012",

@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of Country and Folk\. Cover: Colter Wall
 
-315 songs - 19 hr 16 min
+316 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [O Glory Lost Those Blues Again](https://open.spotify.com/track/0eyyfDrV3arjYL1kfP1fGd) | [Blackie & The Rodeo Kings](https://open.spotify.com/artist/5Xkfy1HC5JSFKU1Z4lr3Ru) | [O Glory Lost Those Blues Again](https://open.spotify.com/album/3wE1yyIcRn5eITElpD3IS0) | 3:23 | 2022-05-13 | 2022-11-12 |
 | [Oblivion](https://open.spotify.com/track/3fUV94MU8ULFZtKh3KUYlm) | [The Wilderness of Manitoba](https://open.spotify.com/artist/5iiDMOV4u4LhRMqbCAepUM) | [Oblivion](https://open.spotify.com/album/1KYXQbM2qinEl2a0PRMOy7) | 4:08 | 2022-05-13 | 2022-10-29 |
 | [Oklahoma Smokeshow](https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:31 | 2022-08-26 | 2023-04-22 |
+| [On a Roll](https://open.spotify.com/track/0BDsgepsUjyAmk5CLeHjwG) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [On A Roll](https://open.spotify.com/album/1a6lHO1OX3bTb4T0H9eLJb) | 3:31 | 2023-05-12 |  |
 | [Only an Island](https://open.spotify.com/track/0g1F7GCvtVXwMKuqhAnoBB) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Only an Island](https://open.spotify.com/album/3tw9sLSnx1LdZFpgfgXGs6) | 4:33 | 2023-01-27 | 2023-05-01 |
 | [Opening the Sky](https://open.spotify.com/track/3C5jENIYVwG38O0QkjlAA4) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Opening the Sky](https://open.spotify.com/album/0970umokFEUwY11RwYX7sE) | 4:17 | 2022-09-23 | 2022-10-15 |
 | [Other Side of Goodbye](https://open.spotify.com/track/1hMyjL6US0O882EZJ6tRih) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [House to House](https://open.spotify.com/album/1bgLbawfHvuMhOEE9WQA8w) | 2:34 | 2022-05-13 | 2022-07-29 |
@@ -306,7 +307,7 @@
 | [We Need To Talk About It](https://open.spotify.com/track/2oIBjeGgsdb5mEB7t32UzI) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [We Need To Talk About It](https://open.spotify.com/album/7BTfvWrBKPESCs1UKXrfYZ) | 2:53 | 2022-06-17 | 2022-07-23 |
 | [We'll Sweep out the Ashes in the Morning](https://open.spotify.com/track/2t9ALXxbk3N6jwSgpUqehE) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [We'll Sweep out the Ashes in the Morning](https://open.spotify.com/album/4T39qyzsn7ZeFcq6SqmPoT) | 3:35 | 2022-07-15 | 2022-10-29 |
 | [What I Had in Mind](https://open.spotify.com/track/5saojvKcj1644C6Fi7BY3j) | [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [What I Had in Mind](https://open.spotify.com/album/1qi7P89eVlmAzdDd4Wv1Kp) | 3:13 | 2022-09-30 | 2022-11-19 |
-| [What Is a Broken Heart For](https://open.spotify.com/track/0aCm3Et01TEjfKeG2bABUK) | [The Hello Darlins](https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC) | [In the Sundust](https://open.spotify.com/album/4AHKtxn6vYt9a85DlCKg1g) | 4:00 | 2023-03-24 |  |
+| [What Is a Broken Heart For](https://open.spotify.com/track/0aCm3Et01TEjfKeG2bABUK) | [The Hello Darlins](https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC) | [In the Sundust](https://open.spotify.com/album/4AHKtxn6vYt9a85DlCKg1g) | 4:00 | 2023-03-24 | 2023-05-13 |
 | [When You Miss Someone](https://open.spotify.com/track/7qJKahUHkASPu54vMil98J) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [When You Miss Someone / Tanqueray](https://open.spotify.com/album/7gzB41KzCKsIlRMOq8q0x1) | 3:05 | 2023-02-03 |  |
 | [When You're Gone](https://open.spotify.com/track/6o4WL0W4PqWI4K9csGt2Eq) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [When You're Gone](https://open.spotify.com/album/3CRYeWlC7Hu66h2ypeB6qX) | 2:45 | 2022-12-09 |  |
 | [Whiskey River \(Recorded At Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/6zQW6QKb3b3X1OoFpBM7gU) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Spotify Singles](https://open.spotify.com/album/48eE2fd87vxdyIgTQU4sw7) | 3:54 | 2023-05-05 |  |

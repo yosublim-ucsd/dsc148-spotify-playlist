@@ -1,12 +1,12 @@
 {
   "description": "Soul for the blues. Cover: Otis Redding.",
-  "num_followers": 128578,
+  "num_followers": 128794,
   "original_name": "Sad Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzVmYzIxMjRjYmFmM2VhNjYyODA3ZTViYmJjMzE2OTQ3NDlhMGMz",
+  "snapshot_id": "MCw3MzZlZjkzNmJmZjA1ZTg1YjNlZjIyYTBjMDM2MTE1ZWY5NGE2MGU4",
   "tracks": [
     {
       "added_at": "2021-11-11 14:02:18",
@@ -399,18 +399,22 @@
     {
       "added_at": "2022-09-08 14:58:04",
       "album": {
-        "name": "'Justments",
-        "url": "https://open.spotify.com/album/10jKkqtTI0cblOQjJfDUpt"
+        "name": "No Time For Dreaming",
+        "url": "https://open.spotify.com/album/6j1xh7WBOIVNekKFKFKbAp"
       },
       "artists": [
         {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+          "name": "Charles Bradley",
+          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+        },
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
         }
       ],
-      "duration_ms": 229573,
-      "name": "Can We Pretend",
-      "url": "https://open.spotify.com/track/0S5ZoKKZD3bllkvhEoPimZ"
+      "duration_ms": 202492,
+      "name": "The World (Is Going Up in Flames)",
+      "url": "https://open.spotify.com/track/6MQlNH8e6jG0LZg2mocK1R"
     },
     {
       "added_at": "2021-11-11 14:02:18",
@@ -435,22 +439,18 @@
     {
       "added_at": "2022-09-08 14:58:04",
       "album": {
-        "name": "No Time For Dreaming",
-        "url": "https://open.spotify.com/album/6j1xh7WBOIVNekKFKFKbAp"
+        "name": "'Justments",
+        "url": "https://open.spotify.com/album/10jKkqtTI0cblOQjJfDUpt"
       },
       "artists": [
         {
-          "name": "Charles Bradley",
-          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
-        },
-        {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
         }
       ],
-      "duration_ms": 202492,
-      "name": "The World (Is Going Up in Flames)",
-      "url": "https://open.spotify.com/track/6MQlNH8e6jG0LZg2mocK1R"
+      "duration_ms": 229573,
+      "name": "Can We Pretend",
+      "url": "https://open.spotify.com/track/0S5ZoKKZD3bllkvhEoPimZ"
     },
     {
       "added_at": "2022-09-08 14:58:04",

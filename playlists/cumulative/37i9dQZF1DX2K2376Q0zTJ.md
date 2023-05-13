@@ -4,7 +4,7 @@
 
 > 女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー:  ちゃんみな \(CHANMINA\)
 
-813 songs - 2 day 0 hr 16 min
+815 songs - 2 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,8 @@
 | [friday](https://open.spotify.com/track/1kElYu8m1PcJ7DTTVv0d2u) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [friday](https://open.spotify.com/album/5aRjH7I1J7EQwyInITKUt2) | 2:49 | 2023-02-01 | 2023-02-16 |
 | [FRIEND](https://open.spotify.com/track/4OsmrkuVLJe8ze6FJJxxzX) | [重盛さと美](https://open.spotify.com/artist/520STFW9IFHZA5A1WPWUeZ), [Tomodachi](https://open.spotify.com/artist/10b7iI7HzdtxZgCfPovith) | [FRIEND](https://open.spotify.com/album/5GQWA5bQcJAVSJf27W0wL4) | 3:11 | 2022-08-02 |  |
 | [Friends](https://open.spotify.com/track/5kbva5l7pGT7HGKkj86FS1) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Hotel Insomnia](https://open.spotify.com/album/5gUvrb0y7rmxfjnhhGDZKh) | 4:01 | 2023-02-28 | 2023-04-05 |
-| [friends](https://open.spotify.com/track/0K958nrYqQ94HznXAQ8cWi) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [friends](https://open.spotify.com/album/6fxDSk0nnIRStLtvRRGJl8) | 3:49 | 2023-05-02 |  |
+| [friends](https://open.spotify.com/track/0K958nrYqQ94HznXAQ8cWi) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [friends](https://open.spotify.com/album/6fxDSk0nnIRStLtvRRGJl8) | 3:49 | 2023-05-02 | 2023-05-13 |
+| [friends](https://open.spotify.com/track/4Yo0r2wyWLIOVzAnyJwbIc) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O) | 3:50 | 2023-05-10 |  |
 | [FUJIN CLUB](https://open.spotify.com/track/28TMBk7DLURw6jZylCBJ4y) | [FUJIN CLUB](https://open.spotify.com/artist/3ijB4Zzxv8NWbKgdGIt500) | [FUJIN CLUB](https://open.spotify.com/album/4DYf6F9iDvunBGGnNZAVy2) | 4:38 | 2022-07-05 | 2022-08-03 |
 | [FUJIN CLUB](https://open.spotify.com/track/2WbjvytatcTymtMFxwnCPY) | [FUJIN CLUB](https://open.spotify.com/artist/3ijB4Zzxv8NWbKgdGIt500) | [FUJIN CLUB](https://open.spotify.com/album/7GiX9C8jmcHkGgSnVAhcp3) | 4:38 | 2022-07-05 | 2022-07-29 |
 | [FUNCTION](https://open.spotify.com/track/3XhPGRiechskhUG8998PkU) | [Makoto Kawamoto](https://open.spotify.com/artist/2MF3aPE7iQsg8CtlBmHfjx) | [願いがかわるまでに](https://open.spotify.com/album/2riJF0917V6I9mKtxOzGbj) | 4:16 | 2022-01-04 | 2022-02-02 |
@@ -436,7 +437,8 @@
 | [Scrapbook](https://open.spotify.com/track/2MNoBcufx0TD9hmZQXHCgi) | [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [SPRING2022..u\_u..vV](https://open.spotify.com/album/1ZSkAxJkvufSx1SpNRvmyo) | 2:38 | 2022-11-08 | 2022-12-07 |
 | [Scrapbook](https://open.spotify.com/track/7ffb4pcISLct97b8Ix468I) | [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [SPRING2022..u\_u..vV](https://open.spotify.com/album/5n9HrbabSmtVlrUff9C4hw) | 2:38 | 2022-04-05 | 2022-05-05 |
 | [Search + Destroy](https://open.spotify.com/track/5hCqYXndamqqxqQQtPvURn) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Search + Destroy](https://open.spotify.com/album/3wDguisEiAJzZkeaILX46v) | 4:49 | 2022-07-05 | 2022-08-03 |
-| [Season](https://open.spotify.com/track/5mIJzqBwYM3SSVuCCCC3gg) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Season](https://open.spotify.com/album/0oNra3mg2Pon6DWljxx8WR) | 3:28 | 2023-05-02 |  |
+| [Season](https://open.spotify.com/track/59ZJXXQ0VeLtBK5EfW0KLJ) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O) | 3:28 | 2023-05-10 |  |
+| [Season](https://open.spotify.com/track/5mIJzqBwYM3SSVuCCCC3gg) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Season](https://open.spotify.com/album/0oNra3mg2Pon6DWljxx8WR) | 3:28 | 2023-05-02 | 2023-05-13 |
 | [Seed](https://open.spotify.com/track/57oVY3KrjM7DNiMwMcPCDl) | [Mime](https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Bloom](https://open.spotify.com/album/7q37XpOyHaEbmsmGJpFrCi) | 4:08 | 2023-01-03 | 2023-02-02 |
 | [Sentiment](https://open.spotify.com/track/5F7shYRRh82Ikcjija4wqd) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Sentiment / Your Song](https://open.spotify.com/album/6F8hynSC3oLBpTqcdSjK8a) | 3:53 | 2023-01-03 | 2023-02-02 |
 | [set me free](https://open.spotify.com/track/1RMNsdSWzCivT5Db9afYuM) | [Kaoruko](https://open.spotify.com/artist/4p8Qi7wNCoyMNEF7dX8qUl) | [set me free](https://open.spotify.com/album/4QbwpyNyVJErLqLSLFxsmQ) | 3:50 | 2023-02-01 | 2023-03-01 |

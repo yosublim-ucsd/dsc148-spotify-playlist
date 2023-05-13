@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-1,059 songs - 2 day 9 hr 48 min
+1,060 songs - 2 day 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [Escapism.](https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 4:32 | 2023-01-01 | 2023-01-25 |
 | [eScoRpiÓn :\)](https://open.spotify.com/track/3IWV5aOW7cnfuYIZLucSan) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [eScoRpiÓn :\)](https://open.spotify.com/album/6R7O6y1D6wSQ0JV40XRFyj) | 2:59 | 2022-07-19 | 2022-07-26 |
 | [Eso Si Me Dolió](https://open.spotify.com/track/3rfDkHCYGAwngKxArHz08k) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 2:14 | 2022-06-21 | 2022-07-06 |
+| [Espantan](https://open.spotify.com/track/2IYCG4VXCbmqZc9pZPCPwV) | [Alnz G](https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf), [Tensec](https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB) | [Espantan](https://open.spotify.com/album/3YGnRsecy1lKRSevwGWJja) | 2:39 | 2023-05-12 |  |
 | [Esta Noche](https://open.spotify.com/track/6FJbKBPUiFVPC4e5S3uesc) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Esta Noche](https://open.spotify.com/album/1uVGFC7Zio3Sc4UTfz4Y7Y) | 3:09 | 2022-05-03 | 2022-05-16 |
 | [Esta Noche Se Me Olvida](https://open.spotify.com/track/6746mUlyXUbMeWzBqMTYEi) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Diablo Ni Santo](https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6) | 3:22 | 2022-06-22 | 2022-07-20 |
 | [ESTILAZO](https://open.spotify.com/track/3S6VRZQYwuPIllMmYdAj66) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [ESTILAZO](https://open.spotify.com/album/5JsaR3E92H6w32amvOhl7t) | 2:49 | 2022-05-24 | 2022-05-27 |
@@ -620,7 +621,7 @@
 | [My Name Is](https://open.spotify.com/track/0L9oPr8kJBxupBSKts8A9l) | [D Billions](https://open.spotify.com/artist/0qIpOhRDzOLVVxO7RAR3RZ) | [My Name Is](https://open.spotify.com/album/23KCv7dLeI31BBNjKjDcGK) | 1:24 | 2022-05-02 | 2022-05-28 |
 | [Márchate](https://open.spotify.com/track/7ywyOW3ugVzVBIU3TFO9af) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Márchate Y Olvídame](https://open.spotify.com/album/1laTU2tuhmcjEaZHCgwOiP) | 2:54 | 2022-06-22 | 2022-07-06 |
 | [Más Contigo](https://open.spotify.com/track/4mFIOxB5fZFGBDTP2CzcR0) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3) | [Más Contigo](https://open.spotify.com/album/70ddg1lMQklsojaoud6RyR) | 3:07 | 2022-05-03 | 2022-05-11 |
-| [Más humano](https://open.spotify.com/track/4A5ikwMNsH1LujHkVzo693) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Más humano](https://open.spotify.com/album/5K2EDr2gJWAwfk4fNMmFYO) | 3:07 | 2023-01-20 |  |
+| [Más humano](https://open.spotify.com/track/4A5ikwMNsH1LujHkVzo693) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Más humano](https://open.spotify.com/album/5K2EDr2gJWAwfk4fNMmFYO) | 3:07 | 2023-01-20 | 2023-05-13 |
 | [México En La Piel](https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 3:29 | 2022-09-17 | 2022-09-24 |
 | [Mía Mía](https://open.spotify.com/track/0hLHKOrFIHcr4NeWHlPTaI) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Mía Mía](https://open.spotify.com/album/6JItTIS5UxMSndYqRMHpTX) | 2:10 | 2022-10-25 | 2022-10-29 |
 | [Mía Mía](https://open.spotify.com/track/5frA4yUrm67JdmgrJOjJgg) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:10 | 2022-10-28 | 2022-11-06 |

@@ -114,10 +114,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 104 | [Goin](https://open.spotify.com/track/3TAACPVfSwjwZy3Bc4CwC8) | [Diggy](https://open.spotify.com/artist/2LuUALONla8DJRSCiGONBp) | [Lighten Up](https://open.spotify.com/album/2cOUZ5AnAz7dCO2sdIg3Ic) | 2:39 |
 | 105 | [Name Drop Interlude \- Robert Glasper x KAYTRANADA](https://open.spotify.com/track/3z3xbjtTWL4BhZditetd8R) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Robert Glasper x KAYTRANADA: The ArtScience Remixes](https://open.spotify.com/album/62JcJAgTFI06FHviKCdrro) | 1:39 |
 | 106 | [Outro \- Robert Glasper x KAYTRANADA](https://open.spotify.com/track/31Xy58NK7jr4H05K28EzrH) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Robert Glasper x KAYTRANADA: The ArtScience Remixes](https://open.spotify.com/album/62JcJAgTFI06FHviKCdrro) | 2:32 |
-| 107 | [Written In Stone](https://open.spotify.com/track/1DThFZ1wt6UQqApCofAKFb) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [ArtScience](https://open.spotify.com/album/3Bn4x1v0uRbt2JwkxVg7Wu) | 5:01 |
-| 108 | [warmest winter.](https://open.spotify.com/track/1DQV5VtXXo09zuCdsWqDrN) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Euphonyus](https://open.spotify.com/album/7jlnxMcPR6LK0bvBtQyu45) | 3:49 |
+| 107 | [warmest winter.](https://open.spotify.com/track/1DQV5VtXXo09zuCdsWqDrN) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Euphonyus](https://open.spotify.com/album/7jlnxMcPR6LK0bvBtQyu45) | 3:49 |
+| 108 | [Written In Stone](https://open.spotify.com/track/1DThFZ1wt6UQqApCofAKFb) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [ArtScience](https://open.spotify.com/album/3Bn4x1v0uRbt2JwkxVg7Wu) | 5:01 |
 | 109 | [Involved](https://open.spotify.com/track/69oGXYDezTiGTnJ1DUSUPF) | [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [.WAV Theory](https://open.spotify.com/album/0529AOnY3HoL4NvAf2kthD) | 2:48 |
 | 110 | [NEW FRIENDS](https://open.spotify.com/track/2K2HS7k6TikCQ0ErmZK4BM) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 3:06 |
 | 111 | [FIRE](https://open.spotify.com/track/5h7V109OsJIa9zsfU8vEey) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 3:13 |
 
-Snapshot ID: `MjgwNjQyMjgsMDAwMDAwMDA3YmU4NGE0OGZkNDA0YWM1Y2M2NDUzOTc4MmI0YWYxNQ==`
+Snapshot ID: `MjgwNjU2NjgsMDAwMDAwMDAyZjkyNWI1YTNkOGQ3ZjM1OTM2YjEwZTE2Mzg3N2VkMg==`

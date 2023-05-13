@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 
 > A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 \- Possible Musics'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,285 likes - 70 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,314 likes - 70 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,16 +34,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 24 | [Ultramarine](https://open.spotify.com/track/121tcNEsqszGVrJjViZFQR) | [Michael Brook](https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y) | [Cobalt Blue](https://open.spotify.com/album/5YjTUXG87pwWU4CtbdcA1i) | 4:34 |
 | 25 | [entropy & kindness](https://open.spotify.com/track/5CJwBWeHLCSAKtLaMTrnfO) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG), [Lara Sarkissian](https://open.spotify.com/artist/6ctLrB5PwqC8earV2J39qW) | [entropy & kindness](https://open.spotify.com/album/2ol7vC6iwa2AkKD5RuUMAX) | 4:21 |
 | 26 | [Dear Ko \(To Ko the Regt\)](https://open.spotify.com/track/0GjLTIe2YZDqf7qm1hmEhD) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Jim Doney](https://open.spotify.com/artist/0DNaDKWd80xRDE0c6OUQJ8) | [Point Zero](https://open.spotify.com/album/1ve0EVReU1tU7SKofALGXI) | 3:11 |
-| 27 | [Haut](https://open.spotify.com/track/47z9MmkB84n0UB8ZtpYgNU) | [Ralph Heidel](https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H) | [Haut](https://open.spotify.com/album/6AXggAB3ZLFpju607wptwm) | 4:12 |
-| 28 | [Forest Trails](https://open.spotify.com/track/2Gvy4DbDM6NQ5rUJDljXz4) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Forest Trails](https://open.spotify.com/album/4IraxSJiP3P7561LUlNTrY) | 5:46 |
+| 27 | [Forest Trails](https://open.spotify.com/track/2Gvy4DbDM6NQ5rUJDljXz4) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Forest Trails](https://open.spotify.com/album/4IraxSJiP3P7561LUlNTrY) | 5:46 |
+| 28 | [Haut](https://open.spotify.com/track/47z9MmkB84n0UB8ZtpYgNU) | [Ralph Heidel](https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H) | [Haut](https://open.spotify.com/album/6AXggAB3ZLFpju607wptwm) | 4:12 |
 | 29 | [Fen](https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx) | [Wacław Zimpel](https://open.spotify.com/artist/124sGtDIjkbuOt1uDcZ2Lz) | [Fen](https://open.spotify.com/album/0VcztgRrk8OU2PjCPfXpVk) | 4:55 |
 | 30 | [Cabaraú](https://open.spotify.com/track/0DbDPy9K2mLuIBE6ai2XaU) | [Pandit Pam Pam](https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9) | [Cabaraú](https://open.spotify.com/album/4yxOkUTHo8ZBU5LI6Ltmt1) | 6:32 |
 | 31 | [Water Memory 1](https://open.spotify.com/track/7x1ct7s9fVqkIWwbah9NO1) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Water Memory](https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6) | 7:28 |
 | 32 | [Broken Clouds](https://open.spotify.com/track/7q0OGG60Em2wwPNDpBFPGy) | [Gaussian Curve](https://open.spotify.com/artist/2rxgmguaQSynTMnBKZL73G) | [Clouds](https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q) | 5:24 |
 | 33 | [Sick Times](https://open.spotify.com/track/1kWsVllnOYVv84DpXxoWr3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 4:16 |
 | 34 | [On Plateau](https://open.spotify.com/track/5SpQc9ByjLPrycqSBdPRKU) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Between No Things](https://open.spotify.com/album/6OQwiuvocNlEp7D9nIBOjj) | 3:55 |
-| 35 | [I've Got What I Need](https://open.spotify.com/track/5X7DeZgp2mRSkwc5tHrCNY) | [Nate Mercereau](https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X) | [SUNDAYS](https://open.spotify.com/album/58R38dTFySIe8wW1NfU96K) | 4:54 |
-| 36 | [Renee Sleeping](https://open.spotify.com/track/0wXlOE5NioNvUozBtNmBUy) | [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Talk from Home](https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6) | 4:09 |
+| 35 | [Renee Sleeping](https://open.spotify.com/track/0wXlOE5NioNvUozBtNmBUy) | [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Talk from Home](https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6) | 4:09 |
+| 36 | [I've Got What I Need](https://open.spotify.com/track/5X7DeZgp2mRSkwc5tHrCNY) | [Nate Mercereau](https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X) | [SUNDAYS](https://open.spotify.com/album/58R38dTFySIe8wW1NfU96K) | 4:54 |
 | 37 | [Stratum](https://open.spotify.com/track/6yXUaEbzWHCrYYUrw2KTpV) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa), [Satsuki Shibano](https://open.spotify.com/artist/41uROYFIU6V6D0dHUdpS6c) | [FRKWYS Vol\. 15: serenitatem](https://open.spotify.com/album/3c8oJantTYVugv4AyIRhiP) | 7:11 |
 | 38 | [Nexus On The Beach](https://open.spotify.com/track/6LMAeSiM6YiiGsfE1G4jUD) | [Roberto Musci](https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw) | [Tower of Silence](https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S) | 6:09 |
 | 39 | [Palace Posy](https://open.spotify.com/track/2nJB27OfeX9Z5ROl3uZngi) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 4:05 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 48 | [Come Back To Bali](https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi) | [Idee Du Femelle](https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm) | [Sequences](https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B) | 7:37 |
 | 49 | [Closed \- Yosemite Version](https://open.spotify.com/track/6kVv525s4LlVtZ75f74Bc1) | [Vivian Koch](https://open.spotify.com/artist/16xZ9dx7FhyK68gDskeweF) | [Beyond Contact](https://open.spotify.com/album/5aYn1Q50RPtHWf97O3Wt7i) | 3:52 |
 | 50 | [Terrazzo](https://open.spotify.com/track/6zH4JhuFvC8Fe6DSGv61cC) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Motion Graphics](https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi) | [Reassemblage](https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK) | 3:40 |
-| 51 | [Agua Azul](https://open.spotify.com/track/6ltgJwPbkprpKTUaysPS0i) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Sketch for Winter IX: Perlita](https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8) | 5:16 |
-| 52 | [Omprovo](https://open.spotify.com/track/2IGlsC51UCUtQLIaDJuVPg) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Oquo](https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv) | 2:40 |
+| 51 | [Omprovo](https://open.spotify.com/track/2IGlsC51UCUtQLIaDJuVPg) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Oquo](https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv) | 2:40 |
+| 52 | [Agua Azul](https://open.spotify.com/track/6ltgJwPbkprpKTUaysPS0i) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Sketch for Winter IX: Perlita](https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8) | 5:16 |
 | 53 | [Fairy Creek Alder in the Evening \(Raag Kafi\)](https://open.spotify.com/track/1YwE8ioksrrIOjndQMtofC) | [Modern Biology](https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o) | [Plant Music, Vol\. 1](https://open.spotify.com/album/4BrxiBiX85qOxYPbZXXl3c) | 3:51 |
 | 54 | [Desert Wax](https://open.spotify.com/track/1RQBeZgMF37bZaXCXYbfil) | [S A D](https://open.spotify.com/artist/3iCMhOPsGRUGXAOhHaS6PU) | [Children of the Sun](https://open.spotify.com/album/7JqhSihASq4Jl5SWxeUTdV) | 4:45 |
 | 55 | [The Clearing Pt\. 2](https://open.spotify.com/track/2SCFCNIvWuup7rGr9pUa1C) | [Hans Berg](https://open.spotify.com/artist/3HtBPJEDYVtAbTGSpaJ3Hk) | [Waypoints](https://open.spotify.com/album/7niveWSY99Oij26h1PjjBR) | 5:54 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 69 | [Yamaha Birds 1](https://open.spotify.com/track/7t7taJQjwmd3NFdkjI6FIt) | [Dialect](https://open.spotify.com/artist/22oD5ZYEJPZf9e68jQbQz5) | [Under\~Between](https://open.spotify.com/album/3RDWe0g3LLqhJhDdq1uRKk) | 2:04 |
 | 70 | [Mouthfeel 2](https://open.spotify.com/track/42dJxpG0YNmPDs1G6TlNNh) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Josiah Steinbrick](https://open.spotify.com/artist/2t1feKJJZgzieczJ0oDmiP) | [Mouthfeel / Serene](https://open.spotify.com/album/6FRipfCiwuxPvdaagJUg3P) | 3:36 |
 
-Snapshot ID: `MCwxZDI1YTkxZTRlNDRlYjNlN2Y2N2Q4MDUzYThmYjcyZjAwN2I3NGUx`
+Snapshot ID: `MCxmZmViZDA4OTVkOWI4ZGU3OTc5ZjAwMDhkMzc0NWEwY2ZiYmI2MmVi`

@@ -4,7 +4,7 @@
 
 > bossa vibes and a romantic daydream
 
-63 songs - 3 hr 10 min
+64 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Anywhere](https://open.spotify.com/track/0U6S4ELEx0YA7JlhELnZaf) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Sensitive Soul](https://open.spotify.com/album/16DsW178EtZBoVHGatdPoa) | 2:26 | 2023-01-06 |  |
 | [Baby](https://open.spotify.com/track/7ezdBjcpj2yQVDLWv80z3U) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [Baby](https://open.spotify.com/album/1bSMgGLERBaeOJgsgt3ldN) | 3:40 | 2023-03-10 |  |
 | [barcelona](https://open.spotify.com/track/6tvikT3O9PBnghgHN9LaiB) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [georgia got colder](https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2) | 2:55 | 2023-01-06 |  |
-| [Beautiful Stranger](https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:21 | 2023-01-06 |  |
+| [Beautiful Stranger](https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:21 | 2023-01-06 | 2023-05-13 |
 | [Billie Bossa Nova](https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:16 | 2023-01-06 |  |
 | [Cantares](https://open.spotify.com/track/7tn64XRTYFqr2K7ujNLgTl) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Cantares](https://open.spotify.com/album/1UBBUboWIBuEYeYQy7QFCO) | 2:55 | 2023-01-06 |  |
 | [Cariño](https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Cariño](https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6) | 4:18 | 2023-01-06 |  |
@@ -36,6 +36,7 @@
 | [Find My Boy](https://open.spotify.com/track/2rmf4QaSE174hUEObAxLpw) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:12 | 2023-01-06 |  |
 | [Flor Amarelo \(Para Você\)](https://open.spotify.com/track/4TfoDylS5Is5i67nAI0oeK) | [Goofy Geese](https://open.spotify.com/artist/4ogf206MydyTFBUNeguyIl) | [Flor Amarelo \(Para Você\)](https://open.spotify.com/album/4T6O67PiUSYMRHDPsFvUHX) | 2:51 | 2023-01-06 |  |
 | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/6nuNgD841boUffjDiI8et4) | 3:29 | 2023-01-06 |  |
+| [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-05-12 |  |
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-03-10 |  |
 | [I Can't Get Over You](https://open.spotify.com/track/7tdFmz7aTM0MTssyzOSXta) | [Leo Sun](https://open.spotify.com/artist/40F0oisdGBuAC0i1vh2cxW) | [I Can't Get Over You](https://open.spotify.com/album/3OCO1ebyxBC6CXsF99Xara) | 4:21 | 2023-01-06 |  |
 | [I'll Play the Fool](https://open.spotify.com/track/44jrccmdmEEaAMgvWMiNN5) | [Claude Fontaine](https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y) | [Claude Fontaine](https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7) | 2:48 | 2023-01-06 |  |

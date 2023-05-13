@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUaRhCgtpCo.md) - [plain]
 
 > May the Force be with you\. Listen to all the best Star Wars tracks, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,904 likes - 127 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 481,054 likes - 127 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUaRhCgtpCo.md) - [plain]
 | 2 | [The Imperial March \(Darth Vader's Theme\)](https://open.spotify.com/track/2bw4WgXyXP90hIex7ur58y) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Empire Strikes Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a) | 2:59 |
 | 3 | [Open the Door](https://open.spotify.com/track/1PRgvXplpe5ruTlMP95M8l) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Season 2 \- Vol\. 2 \(Chapters 13\-16\) \[Original Score\]](https://open.spotify.com/album/4xUXCZfINYIV1DdZKomeVx) | 4:52 |
 | 4 | [The Mandalorian](https://open.spotify.com/track/6tJFtthY0rI1x06qb8NjK0) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 1 \(Original Score\)](https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL) | 3:18 |
-| 5 | [Fields of Dusk \- Orchestral Version](https://open.spotify.com/track/4zDOsDzhepxaCHzDiMVBEJ) | [Tamuz Dekel](https://open.spotify.com/artist/2qro5TGvNZmeUEB1Rce5H1), [Offir Benjaminov](https://open.spotify.com/artist/0Rj7Rx1KUdSAVeh2xth2mV), [Dan Mayo](https://open.spotify.com/artist/0eVbdzTTWTCvJkwrER5veb) | [Star Wars Jedi: Survivor \(Original Video Game Soundtrack\)](https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741) | 4:41 |
+| 5 | [Fields of Dusk \- Orchestral Version](https://open.spotify.com/track/4zDOsDzhepxaCHzDiMVBEJ) | [TATRAN](https://open.spotify.com/artist/3gzgB8WFPLlgpn03piQ5pB) | [Star Wars Jedi: Survivor \(Original Video Game Soundtrack\)](https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741) | 4:41 |
 | 6 | [Stronger Together](https://open.spotify.com/track/76kDodRN092G8YHHeNl31y) | [Joseph Shirley](https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Season 3 \- Vol\. 2 \(Chapters 21\-24\) \[Original Score\]](https://open.spotify.com/album/3wuE2JeCx2Vmvk7b1c9fnI) | 5:00 |
 | 7 | [A Castle](https://open.spotify.com/track/4pzG7RTbaEMug1aR3guLDl) | [Joseph Shirley](https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Season 3 \- Vol\. 1 \(Chapters 17\-20\) \[Original Score\]](https://open.spotify.com/album/2JtB7K4gMmfC7Ow9Y4pz4b) | 3:34 |
 | 8 | [The Doctor](https://open.spotify.com/track/3cQ8hOUwxv8QBRzkWHWdHj) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW) | [Star Wars: The Bad Batch – Season 2: Vol\. 2 \(Episodes 9\-16\) \[Original Soundtrack\]](https://open.spotify.com/album/7t9Fc3xnmmYqUkMdMpuqdA) | 3:51 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUaRhCgtpCo.md) - [plain]
 | 126 | [Star Wars: Galaxy's Edge Symphonic Suite \- Music Inspired by the Disney Themed Land](https://open.spotify.com/track/0ETHUHGV4QrIQ3iGIUQZbd) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: Galaxy's Edge Symphonic Suite \(Music Inspired by the Disney Themed Land\)](https://open.spotify.com/album/53V20nN6s91x3ey4grFvwY) | 4:57 |
 | 127 | [Ewok Celebration and Finale](https://open.spotify.com/track/4f6pN7FdZ0RZiNGAAEyAux) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: Return of the Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1gt4PAxdMmq5DUV7tyuNxx) | 8:01 |
 
-Snapshot ID: `MCw5Y2M2MTA4OWNkYjBlMzJmMGFhYzU0YjkzMzk5MmZiZWU0NzBkYmY4`
+Snapshot ID: `MCxjYWZmYmM3MzdmM2JhZWZiZmJlOWY0MDgxM2EzZmZjMDE3ZmVmNWQ5`

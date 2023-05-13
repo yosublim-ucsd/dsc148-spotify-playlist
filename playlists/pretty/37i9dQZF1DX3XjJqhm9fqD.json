@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Anie Alerte ",
-  "num_followers": 77123,
+  "num_followers": 77147,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMmFiYjNmMWQxODQyYWZmNjY0OTkwOGJlNWFiMjM4Zjg4YWY4YTMx",
+  "snapshot_id": "MCw0NGUxNzY2MmE1ZmQ3YzY3YjFhM2JlYmIwMTJjYWEyOWE1YjBjMDQz",
   "tracks": [
     {
       "added_at": "2023-05-08 21:28:11",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-05-08 21:28:11",
       "album": {
-        "name": "I Don't Care",
-        "url": "https://open.spotify.com/album/0ggs2PkqXX0iS04QP224FX"
-      },
-      "artists": [
-        {
-          "name": "Sweet Micky",
-          "url": "https://open.spotify.com/artist/05geNTZ09mJ7s6OguQySjc"
-        }
-      ],
-      "duration_ms": 512940,
-      "name": "I Don't Care",
-      "url": "https://open.spotify.com/track/2zJ6ZsqLSAaov7OXnePKcB"
-    },
-    {
-      "added_at": "2023-05-08 21:28:11",
-      "album": {
         "name": "LAS",
         "url": "https://open.spotify.com/album/72xQw0tZDwDDl1uQ6ixpo7"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 313421,
       "name": "Dlo Dous",
       "url": "https://open.spotify.com/track/092nVwXDBvlff4H9p71rOh"
+    },
+    {
+      "added_at": "2023-05-08 21:28:11",
+      "album": {
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/0ggs2PkqXX0iS04QP224FX"
+      },
+      "artists": [
+        {
+          "name": "Sweet Micky",
+          "url": "https://open.spotify.com/artist/05geNTZ09mJ7s6OguQySjc"
+        }
+      ],
+      "duration_ms": 512940,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/2zJ6ZsqLSAaov7OXnePKcB"
     },
     {
       "added_at": "2023-05-08 21:28:11",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-05-08 21:28:11",
       "album": {
+        "name": "Thug Love",
+        "url": "https://open.spotify.com/album/01syB7Sv7P91d6OBnNjLm5"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 188250,
+      "name": "Thug Love",
+      "url": "https://open.spotify.com/track/37PRqXgbusYfrUitGoVsKP"
+    },
+    {
+      "added_at": "2023-05-08 21:28:11",
+      "album": {
         "name": "Teke Fren",
         "url": "https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 177748,
       "name": "Teke Fren",
       "url": "https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg"
-    },
-    {
-      "added_at": "2023-05-08 21:28:11",
-      "album": {
-        "name": "Thug Love",
-        "url": "https://open.spotify.com/album/01syB7Sv7P91d6OBnNjLm5"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 188250,
-      "name": "Thug Love",
-      "url": "https://open.spotify.com/track/37PRqXgbusYfrUitGoVsKP"
     },
     {
       "added_at": "2023-05-08 21:28:11",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-05-08 21:28:11",
       "album": {
+        "name": "Ti Kabrit",
+        "url": "https://open.spotify.com/album/126HZ3Ggm1f7300inNCydK"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 161717,
+      "name": "Ti Kabrit",
+      "url": "https://open.spotify.com/track/2JBYTiyA2K0cakWqqzZ4mR"
+    },
+    {
+      "added_at": "2023-05-08 21:28:11",
+      "album": {
         "name": "Podyab Yo",
         "url": "https://open.spotify.com/album/2Jpm6VFzVuFBmpVspJSfva"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 319974,
       "name": "Podyab Yo",
       "url": "https://open.spotify.com/track/49NaaHGyi4uuHzZoGDYXp8"
-    },
-    {
-      "added_at": "2023-05-08 21:28:11",
-      "album": {
-        "name": "Ti Kabrit",
-        "url": "https://open.spotify.com/album/126HZ3Ggm1f7300inNCydK"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 161717,
-      "name": "Ti Kabrit",
-      "url": "https://open.spotify.com/track/2JBYTiyA2K0cakWqqzZ4mR"
     },
     {
       "added_at": "2023-05-08 21:28:11",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-05-08 21:28:11",
       "album": {
-        "name": "Donzo City",
-        "url": "https://open.spotify.com/album/470RDnmQOE7co3AkwUa6Hx"
-      },
-      "artists": [
-        {
-          "name": "DonLex",
-          "url": "https://open.spotify.com/artist/4uCFoJL7rPk1U3pndQL94Y"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "KASE",
-      "url": "https://open.spotify.com/track/1sJPUmyBAzz2IMyeMG3HS0"
-    },
-    {
-      "added_at": "2023-05-08 21:28:11",
-      "album": {
         "name": "Ram 6: Manmanm Se Ginen",
         "url": "https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 183333,
       "name": "Mpral D\u00f2mi Nan Simity\u00e8",
       "url": "https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey"
+    },
+    {
+      "added_at": "2023-05-08 21:28:11",
+      "album": {
+        "name": "Donzo City",
+        "url": "https://open.spotify.com/album/470RDnmQOE7co3AkwUa6Hx"
+      },
+      "artists": [
+        {
+          "name": "DonLex",
+          "url": "https://open.spotify.com/artist/4uCFoJL7rPk1U3pndQL94Y"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "KASE",
+      "url": "https://open.spotify.com/track/1sJPUmyBAzz2IMyeMG3HS0"
     },
     {
       "added_at": "2023-05-08 21:28:11",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-05-08 21:28:11",
       "album": {
-        "name": "Nan ou",
-        "url": "https://open.spotify.com/album/6hofahig2OrGv725bqsmo3"
-      },
-      "artists": [
-        {
-          "name": "Gessica G\u00e9n\u00e9us",
-          "url": "https://open.spotify.com/artist/1GAw14vejnlO5eyny3lDHw"
-        }
-      ],
-      "duration_ms": 226520,
-      "name": "Nan ou",
-      "url": "https://open.spotify.com/track/7BXFfnn1uw7e1Zx6Pi3KGH"
-    },
-    {
-      "added_at": "2023-05-08 21:28:11",
-      "album": {
         "name": "Ou Bezwen",
         "url": "https://open.spotify.com/album/0tH8ORhhM3pt7UhoG9jnOp"
       },
@@ -1635,18 +1619,18 @@
     {
       "added_at": "2023-05-08 21:28:11",
       "album": {
-        "name": "Mr Diablo",
-        "url": "https://open.spotify.com/album/5lvLevWZg0Z8b1394RveBa"
+        "name": "Nan ou",
+        "url": "https://open.spotify.com/album/6hofahig2OrGv725bqsmo3"
       },
       "artists": [
         {
-          "name": "DonLex",
-          "url": "https://open.spotify.com/artist/4uCFoJL7rPk1U3pndQL94Y"
+          "name": "Gessica G\u00e9n\u00e9us",
+          "url": "https://open.spotify.com/artist/1GAw14vejnlO5eyny3lDHw"
         }
       ],
-      "duration_ms": 166635,
-      "name": "Mr Diablo",
-      "url": "https://open.spotify.com/track/0zJCVVMLdHKvpYbWCYjoyc"
+      "duration_ms": 226520,
+      "name": "Nan ou",
+      "url": "https://open.spotify.com/track/7BXFfnn1uw7e1Zx6Pi3KGH"
     },
     {
       "added_at": "2023-05-08 21:28:11",
@@ -1679,6 +1663,22 @@
       "duration_ms": 180000,
       "name": "Gas",
       "url": "https://open.spotify.com/track/4DdQQo4qhk9eF1UHdJbyHe"
+    },
+    {
+      "added_at": "2023-05-08 21:28:11",
+      "album": {
+        "name": "Mr Diablo",
+        "url": "https://open.spotify.com/album/5lvLevWZg0Z8b1394RveBa"
+      },
+      "artists": [
+        {
+          "name": "DonLex",
+          "url": "https://open.spotify.com/artist/4uCFoJL7rPk1U3pndQL94Y"
+        }
+      ],
+      "duration_ms": 166635,
+      "name": "Mr Diablo",
+      "url": "https://open.spotify.com/track/0zJCVVMLdHKvpYbWCYjoyc"
     },
     {
       "added_at": "2023-05-08 21:28:11",
@@ -1783,30 +1783,6 @@
     {
       "added_at": "2023-05-08 21:28:11",
       "album": {
-        "name": "Nahil\u00e9",
-        "url": "https://open.spotify.com/album/3zTmCWFQQkVHtKI3tRKZR9"
-      },
-      "artists": [
-        {
-          "name": "RockLee",
-          "url": "https://open.spotify.com/artist/0xKCpd2XrSE30wn3NLBHBM"
-        },
-        {
-          "name": "Wesli",
-          "url": "https://open.spotify.com/artist/7BOu7POeMEK7gaMPZcsvt5"
-        },
-        {
-          "name": "Paul Cargnello",
-          "url": "https://open.spotify.com/artist/4er9yr5qZMtEFHY3GR7VYj"
-        }
-      ],
-      "duration_ms": 229787,
-      "name": "Nahil\u00e9",
-      "url": "https://open.spotify.com/track/0uub812CwPqYSU0VZzcSYa"
-    },
-    {
-      "added_at": "2023-05-08 21:28:11",
-      "album": {
         "name": "Koup\u00e9",
         "url": "https://open.spotify.com/album/0wDhbYYG03ApoFYKwtFpZI"
       },
@@ -1827,6 +1803,30 @@
       "duration_ms": 155637,
       "name": "Koup\u00e9",
       "url": "https://open.spotify.com/track/4qDqvbShZqZoipdKJuV3fk"
+    },
+    {
+      "added_at": "2023-05-08 21:28:11",
+      "album": {
+        "name": "Nahil\u00e9",
+        "url": "https://open.spotify.com/album/3zTmCWFQQkVHtKI3tRKZR9"
+      },
+      "artists": [
+        {
+          "name": "RockLee",
+          "url": "https://open.spotify.com/artist/0xKCpd2XrSE30wn3NLBHBM"
+        },
+        {
+          "name": "Wesli",
+          "url": "https://open.spotify.com/artist/7BOu7POeMEK7gaMPZcsvt5"
+        },
+        {
+          "name": "Paul Cargnello",
+          "url": "https://open.spotify.com/artist/4er9yr5qZMtEFHY3GR7VYj"
+        }
+      ],
+      "duration_ms": 229787,
+      "name": "Nahil\u00e9",
+      "url": "https://open.spotify.com/track/0uub812CwPqYSU0VZzcSYa"
     },
     {
       "added_at": "2023-05-08 21:28:11",

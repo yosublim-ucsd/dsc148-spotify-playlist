@@ -4,7 +4,7 @@
 
 > Tracks popping off in the Afro scene\. Cover: Victor Thompson
 
-147 songs - 7 hr 29 min
+149 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Agenda](https://open.spotify.com/track/6lnCVR1HeGL7c55x8A29xX) | [Toluwa](https://open.spotify.com/artist/4xtmLIFUpUopqHWjhECWUM) | [Agenda](https://open.spotify.com/album/4xnnaBJnbYUGtupWT7jwek) | 2:07 | 2022-07-13 | 2022-12-15 |
 | [Alone](https://open.spotify.com/track/0AoBY2Y3qs6dtGgOD6c91N) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:41 | 2022-11-17 | 2023-04-13 |
 | [Alone](https://open.spotify.com/track/0vLj7fwt3HM36zo7HEghCL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 3:41 | 2022-11-16 | 2022-11-21 |
-| [Amina](https://open.spotify.com/track/0oLiV7JRGac0z4oVyen8cE) | [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv), [Man Like Maz](https://open.spotify.com/artist/2W40n1Ft9S6yMtBRPaKywG), [Hmlss](https://open.spotify.com/artist/5MIQztLQ1z5KBxe5cU3Fdq) | [Laso](https://open.spotify.com/album/4kPltVu8CgPZqtDxUuF2GQ) | 2:39 | 2022-12-08 |  |
+| [Amina](https://open.spotify.com/track/0oLiV7JRGac0z4oVyen8cE) | [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv), [Man Like Maz](https://open.spotify.com/artist/2W40n1Ft9S6yMtBRPaKywG), [Hmlss](https://open.spotify.com/artist/5MIQztLQ1z5KBxe5cU3Fdq) | [Laso](https://open.spotify.com/album/4kPltVu8CgPZqtDxUuF2GQ) | 2:39 | 2022-12-08 | 2023-05-13 |
 | [Apollo](https://open.spotify.com/track/3OsZkVwyJhGLJ0KrdUx23o) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Apollo](https://open.spotify.com/album/3yblFXYTz2eKaNd36H6QQz) | 2:50 | 2022-07-13 | 2022-12-15 |
 | [Are You](https://open.spotify.com/track/6pe39thx4HeFncnNASbqWE) | [Henry X](https://open.spotify.com/artist/7IqCBWPW8KoYk9ZBJsATSA), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Smeez](https://open.spotify.com/artist/0mNkY84ZAQz0n72YKF2mWC), [D3an](https://open.spotify.com/artist/7fxlgdYoZS0VKxOq9xondZ), [Bollar](https://open.spotify.com/artist/143cqNsgoeJWiUbBCtXJow) | [Are You](https://open.spotify.com/album/4VyX0V7R86XZiTerIAdeKi) | 6:33 | 2023-03-23 |  |
 | [Asiwaju](https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Asiwaju](https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt) | 3:36 | 2022-12-01 |  |
@@ -118,6 +118,7 @@
 | [Personal Baby](https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Personal Baby](https://open.spotify.com/album/61F8DGdLWIG1JP4bm1Rzwd) | 2:53 | 2022-08-25 | 2023-03-03 |
 | [PICANTO](https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [ECko Miles](https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD) | [PICANTO](https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc) | 3:04 | 2023-05-11 |  |
 | [Playboy](https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI) | 3:27 | 2022-07-13 | 2023-01-13 |
+| [RDV](https://open.spotify.com/track/5bHQArgWUfUkpVgUeebG2V) | [Drea Dury](https://open.spotify.com/artist/7euT1r89ub1s001dTqp3gh), [Squidji](https://open.spotify.com/artist/15LZyW96TXq91lUBjMHQok) | [RDV](https://open.spotify.com/album/1jUNyRcjiJt5QazplahPr6) | 2:29 | 2023-05-12 |  |
 | [Repeat](https://open.spotify.com/track/2S7FTwyeXHxDKaiMTrLixP) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Repeat](https://open.spotify.com/album/5vtxJ5aAD0dYe9fxduV2xY) | 2:39 | 2022-07-13 | 2022-09-02 |
 | [Rora](https://open.spotify.com/track/6b6Bz7pyeqLXDn92EHCyVY) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Rora](https://open.spotify.com/album/4LzrbIrHS40GfLklCbjX05) | 2:29 | 2023-01-26 |  |
 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 | 2022-09-15 | 2023-04-06 |
@@ -155,5 +156,6 @@
 | [Won Da Mo](https://open.spotify.com/track/0xPz8qjfchKRCAmABJH65Z) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Won Da Mo](https://open.spotify.com/album/6QwF6NbMHG9BWKNctTw2pC) | 4:07 | 2022-12-01 |  |
 | [Ya Dellali \(Afro Arab \#1\) \(feat\. Bryan Mg\)](https://open.spotify.com/track/3ZYYizCVeyUC13DrDiycMS) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Ya Dellali \(Afro Arab \#1\) \(feat\. Bryan Mg\)](https://open.spotify.com/album/1WduJOhYm7wXuTJORnymfr) | 2:41 | 2022-07-13 | 2022-08-26 |
 | [Yahoo Boy](https://open.spotify.com/track/5HlLiMUciWPEGG2c3Xu0cu) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Yahoo Boy](https://open.spotify.com/album/5xuTeLzxHqw4s15EM0ep22) | 2:54 | 2022-07-13 | 2022-12-02 |
+| [Yessika](https://open.spotify.com/track/1oNAj4KjfCqqGppXhPbtYv) | [Kay Slice](https://open.spotify.com/artist/1mPNT5YwLcCKfjdTwOfSC8) | [Yessika](https://open.spotify.com/album/72gi5YK4kSOg5j7lYWHbwx) | 3:45 | 2023-05-12 |  |
 
 \*This playlist was first scraped on 2022-07-19. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: فهد بن فصلا و غريب المخلص
 
-149 songs - 9 hr 47 min
+151 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Koon Insan](https://open.spotify.com/track/2hLkOauE0bNHoIDwJ45dFj) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Koon Insan](https://open.spotify.com/album/7E3LtuiAJK99BU9RPPPmUl) | 3:00 | 2023-02-22 |  |
 | [Koul Shya Weleh Nehayah](https://open.spotify.com/track/3V5UpDdPUZdGKSgaaDFKpr) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Koul Shya Weleh Nehayah](https://open.spotify.com/album/6YpmIaqZ9iD4gVVenm6oAE) | 3:49 | 2022-03-30 | 2023-02-23 |
 | [La tadeay Belmahabeh](https://open.spotify.com/track/6LTjugDnOwFFlLy8mfCWJN) | [Zayed Bin Saber](https://open.spotify.com/artist/0TNuRg9zAJbDy4chgGD4Cs) | [La tadeay Belmahabeh](https://open.spotify.com/album/3KABKr2xB3xOR6UlTtip5L) | 3:04 | 2023-02-22 |  |
+| [Le Hosadi](https://open.spotify.com/track/77jg1uFolRcsVD2FUEjHmv) | [Badr Alsheafani](https://open.spotify.com/artist/4dDhTNhkRc5avMooQiihNB) | [Le Hosadi](https://open.spotify.com/album/4cGSE40V1ayfvCeNWYQ992) | 4:42 | 2023-05-12 |  |
 | [Marhaba Bek](https://open.spotify.com/track/3dHSmw4UKtQkXDb7EQS19Y) | [Fahd Bn Fasla](https://open.spotify.com/artist/7KcsMljHCItOCLGI8BDGZ4), [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [Marhaba Bek](https://open.spotify.com/album/6vBMUU5OMyieheEZofvPB7) | 4:01 | 2023-04-26 |  |
 | [Msahat Alahlam](https://open.spotify.com/track/0CpKjyK98dwLyDuZX68BxD) | [Saleh Alyami](https://open.spotify.com/artist/0EHQN1RzPBV4c1iPv8m5ln) | [Msahat Alahlam](https://open.spotify.com/album/0b3vh1sUThYMn2P21ZLGVQ) | 5:49 | 2023-02-22 | 2023-02-25 |
 | [Sheila Sattar](https://open.spotify.com/track/3WIAH5gwrFhd4tJz0oyEZ9) | [Telfaz11](https://open.spotify.com/artist/5PVYhzRlwWI7OWgPBDDQkh), [Hussain Al Labeed](https://open.spotify.com/artist/57RLY6gST8c5vCtPygoHuy), [Abdulaziz Al Shehri](https://open.spotify.com/artist/6XbUXannvTDg5AzUWsal0t) | [Sattar](https://open.spotify.com/album/5zTkn4lFoPfW09RREtNxmr) | 1:39 | 2023-02-22 |  |
@@ -25,6 +26,7 @@
 | [Tik Tak](https://open.spotify.com/track/37Dij6t00vGWiebXZBqCtB) | [Ziyad Al Zahem](https://open.spotify.com/artist/6X48LcVZiaJrHUdyhikE08), [Mansour Al Wailey](https://open.spotify.com/artist/0Qij0wHzhhvpitpc9KzX6U) | [Tik Tak](https://open.spotify.com/album/57xSDIcbzJUCalSL79eOzX) | 3:38 | 2022-03-30 |  |
 | [Wajeh Medfaa](https://open.spotify.com/track/4oF5qZ5OtPnfeLoceMmtxx) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Wajeh Medfaa](https://open.spotify.com/album/5iPXD7xOxkJN2HqasEAiJR) | 4:54 | 2022-03-30 | 2023-02-23 |
 | [Wedaa Ahbab](https://open.spotify.com/track/621bdki1XqcmcrfM2qtsGv) | [Saleh Alyami](https://open.spotify.com/artist/0EHQN1RzPBV4c1iPv8m5ln) | [Wedaa Ahbab](https://open.spotify.com/album/4dwxIqFq6qtyj8757DkLaG) | 4:58 | 2023-02-22 |  |
+| [Zalzalet Harb](https://open.spotify.com/track/5mqdUwdHxCR9vuYLvpmWH4) | [Badr Alsheafani](https://open.spotify.com/artist/4dDhTNhkRc5avMooQiihNB) | [Zalzalet Harb](https://open.spotify.com/album/0YmaVrDhj1gJqUcDfgRI9V) | 3:12 | 2023-05-12 |  |
 | [آخر امالي](https://open.spotify.com/track/4VUMevwK5WhDrEjxH7okJL) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch), [منصور الوايلي](https://open.spotify.com/artist/6wgdTtjcI9FJnFJuJz70C4) | [آخر امالي](https://open.spotify.com/album/61PakJUPIbdvuMBPk8ZcOY) | 3:22 | 2023-02-22 |  |
 | [أحبك يوم تاخذني](https://open.spotify.com/track/3C0Hpz4Df64ZszZNODDaUV) | [محمد الديحاني](https://open.spotify.com/artist/4omgo2tmAfhkk3hizsuHzb) | [أحبك يوم تاخذني](https://open.spotify.com/album/1Sbqm44BUnM6FLJZhMeXov) | 4:18 | 2022-03-30 | 2022-11-03 |
 | [أحبك يوم تاخذني](https://open.spotify.com/track/4eLMkrYnqxRGmNSchxoGy6) | [محمد الديحاني](https://open.spotify.com/artist/4omgo2tmAfhkk3hizsuHzb) | [أحبك يوم تاخذني](https://open.spotify.com/album/2wd6hOMXwP04aZU1cb9GCy) | 4:18 | 2022-08-31 | 2023-05-04 |

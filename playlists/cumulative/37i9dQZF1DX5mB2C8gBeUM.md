@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Cover: Diplo & Lily Rose
 
-337 songs - 17 hr 6 min
+339 songs - 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Grow Up \(feat\. Blake Shelton\)](https://open.spotify.com/track/3Hj2VfZMpov5Z9KiKv22Cx) | [Ian Flanigan](https://open.spotify.com/artist/5rPnSGtasjvQgEwK0Wmb1y), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Grow Up \(feat\. Blake Shelton\)](https://open.spotify.com/album/38uTO3DOjGERyVb9ug1R1U) | 3:38 | 2021-12-10 | 2022-06-04 |
 | [hail mary](https://open.spotify.com/track/0EePy0Tts3VKrHaxIHbJir) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [hail mary](https://open.spotify.com/album/66ffihcpI4EZbBw8XlkPkR) | 2:30 | 2021-12-31 | 2022-07-02 |
 | [Happy](https://open.spotify.com/track/055RqRu1mNSgLCEyrj7b76) | [Dylan Burk](https://open.spotify.com/artist/4gey8MMHoIbHz7edJBq1Wx) | [Happy](https://open.spotify.com/album/0vuPBOaCaK0a6dhBFp3Ynz) | 3:10 | 2022-04-15 |  |
+| [Hate Me More](https://open.spotify.com/track/3eR9esizpZyvy4NBAiViZ6) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [Hate Me More](https://open.spotify.com/album/75zEUdUGdIoRQDU5MXnzcj) | 2:40 | 2023-05-12 |  |
 | [Hate My Heart](https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:03 | 2022-06-10 |  |
 | [Having It All](https://open.spotify.com/track/6U9ReLnZaZvqBk3uJcgPZV) | [Claire Wright](https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn) | [Having It All](https://open.spotify.com/album/1I6LESufAXYVWAnfdoIyjv) | 2:53 | 2021-12-10 | 2022-02-26 |
 | [Haw Yee](https://open.spotify.com/track/6b9TY1cfPnJKGjedkYMRIQ) | [El Ray](https://open.spotify.com/artist/32pa3a2Tu9C4TmrAtN6cyO), [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM) | [Haw Yee](https://open.spotify.com/album/1hSBCYMhXhQwaZom8bpHBr) | 2:46 | 2023-04-21 |  |
@@ -326,6 +327,7 @@
 | [What You Waiting On](https://open.spotify.com/track/3IuQhTGbYThnkKKTco4ylf) | [Hueston](https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP) | [What You Waiting On](https://open.spotify.com/album/4ryBeV911Ub8Z4nEG51dZO) | 2:38 | 2022-10-28 |  |
 | [When the Party's Over](https://open.spotify.com/track/044EoWO4Z6BLhGrK3R5k9h) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Without People \(Deluxe\)](https://open.spotify.com/album/61s6rViH39OjqfrPigQ3cy) | 3:31 | 2021-12-10 | 2022-01-08 |
 | [When's It Gonna Happen](https://open.spotify.com/track/0h0PVL7SoC7l4sJ5AYQZX5) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [When's It Gonna Happen](https://open.spotify.com/album/7nQ3jAmRGhlHQOB66gWtad) | 3:37 | 2022-01-14 | 2023-05-04 |
+| [Where There’s Smoke](https://open.spotify.com/track/6qGS1Co26eZamo8HvcRkt5) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Where There’s Smoke](https://open.spotify.com/album/6IejL7qAaA6R1ysk9APTN3) | 2:42 | 2023-05-12 |  |
 | [Where We Started](https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:02 | 2022-04-01 |  |
 | [Whiskey Mode](https://open.spotify.com/track/37Vr9VYnUtMZXxZ9DkR6Qv) | [Hunter Phelps](https://open.spotify.com/artist/3TiUMPXO9xfV406Vv8qYXq) | [Whiskey Mode](https://open.spotify.com/album/7N1YlqTjrOBPWZ8uccFmJ7) | 3:30 | 2021-12-10 | 2022-07-02 |
 | [Who Are You Kidding?](https://open.spotify.com/track/0MNRFOV4FnArjHK6Elx5uj) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Who Are You Kidding?](https://open.spotify.com/album/5Jn4Ph14KfaiKLSaAtY6SK) | 3:27 | 2021-12-10 | 2022-06-04 |

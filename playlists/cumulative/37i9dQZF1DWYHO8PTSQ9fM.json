@@ -114,7 +114,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 259591,
       "name": "Allo - \u0627\u0644\u0648",
       "url": "https://open.spotify.com/track/1mYKk7dWVDcfn8lTJ6CKJV"
@@ -840,7 +840,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 220444,
       "name": "DRAILL",
       "url": "https://open.spotify.com/track/2UYZDBQ89KYUdU3CspLZJ2"
@@ -1450,6 +1450,24 @@
       "duration_ms": 208747,
       "name": "IDK",
       "url": "https://open.spotify.com/track/34CTxOT4WPY14XWLbuv9o1"
+    },
+    {
+      "album": {
+        "name": "SOS (Chapitre 3)",
+        "url": "https://open.spotify.com/album/6oCXtKVOwAtyiAncg4QVWt"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159839,
+      "name": "Inta habibi",
+      "url": "https://open.spotify.com/track/5nspOXY1J4WLcqUJ1q9fwO"
     },
     {
       "album": {
@@ -2752,6 +2770,36 @@
       "duration_ms": 203225,
       "name": "Sonia",
       "url": "https://open.spotify.com/track/5NuvJqrwmFovb6TGbnjjqR"
+    },
+    {
+      "album": {
+        "name": "Soweto (with Don Toliver, Rema, and Tempoe)",
+        "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Tempoe",
+          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219500,
+      "name": "Soweto (with Don Toliver, Rema and Tempoe)",
+      "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
     },
     {
       "album": {

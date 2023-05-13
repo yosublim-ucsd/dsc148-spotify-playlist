@@ -4,7 +4,7 @@
 
 > Hair goals, spandex and epic guitar solos\. We got you.
 
-170 songs - 12 hr 27 min
+172 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,8 @@
 | [Nobody's Fool](https://open.spotify.com/track/6LFoyjCI9eFZw3QmN46x2V) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Night Songs](https://open.spotify.com/album/0r5AdSHXZuSb0KkdSOr3g1) | 4:47 | 2020-10-08 | 2022-07-29 |
 | [Nobody's Fool](https://open.spotify.com/track/0i2UFCx1xsZq16F4uH8ngK) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [80's Rock Power Ballads](https://open.spotify.com/album/3hx4DBiw6CIvIIonZzQ1gp) | 4:47 | 2022-07-05 | 2022-11-14 |
 | [Nothin' But A Good Time \- Remastered 2006](https://open.spotify.com/track/2V8KvnD5LVeeDChMWEkSzC) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say...Ahh! \(20th Anniversary Edition\)](https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd) | 3:44 | 2020-10-08 |  |
-| [Once Bitten Twice Shy](https://open.spotify.com/track/7pkWZL0kA26s754CwyK0SH) | [Great White](https://open.spotify.com/artist/6ZPbX2Lxd40e2UVkXpyxvI) | [Twice Shy](https://open.spotify.com/album/0gPfgxBDkrtJgwIkziS8LI) | 5:22 | 2020-10-08 |  |
+| [Once Bitten Twice Shy](https://open.spotify.com/track/07nxmAxwhY51juyImllKD2) | [Great White](https://open.spotify.com/artist/6ZPbX2Lxd40e2UVkXpyxvI) | [Twice Shy](https://open.spotify.com/album/7EV1o7drnL1jKZMwzFAqH8) | 5:22 | 2022-07-05 |  |
+| [Once Bitten Twice Shy](https://open.spotify.com/track/7pkWZL0kA26s754CwyK0SH) | [Great White](https://open.spotify.com/artist/6ZPbX2Lxd40e2UVkXpyxvI) | [Twice Shy](https://open.spotify.com/album/0gPfgxBDkrtJgwIkziS8LI) | 5:22 | 2020-10-08 | 2023-05-13 |
 | [Panama \- 2015 Remaster](https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 3:30 | 2020-10-08 |  |
 | [Paradise City](https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 6:45 | 2022-07-05 |  |
 | [Paradise City](https://open.spotify.com/track/5Q41NLTmGbVPozwHKK7bk2) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/5JKFiC2WVi9HtvJEm8CUB8) | 6:46 | 2020-10-08 | 2022-07-29 |
@@ -151,7 +152,8 @@
 | [The Final Countdown](https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 5:10 | 2020-10-08 |  |
 | [Uncle Tom's Cabin](https://open.spotify.com/track/3WW3g2scq0m7ZY5JCxrdWw) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Cherry Pie](https://open.spotify.com/album/4LgsHyufRmmcB1HIqTES19) | 4:01 | 2020-10-08 |  |
 | [Unskinny Bop](https://open.spotify.com/track/1Z6lKdYhwp8WYoBqGCKxlM) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Flesh & Blood](https://open.spotify.com/album/7alngtync76VqYWSKxcBhB) | 3:48 | 2020-10-08 |  |
-| [Up All Night](https://open.spotify.com/track/1AsRjeavWPH8sCQbjMP8Xh) | [Slaughter](https://open.spotify.com/artist/4ibNXJiMYOPibpS9DB9Qz3) | [Mass Slaughter](https://open.spotify.com/album/1PLl8ONmplOUyu5Bq8GYJL) | 3:46 | 2020-10-08 |  |
+| [Up All Night](https://open.spotify.com/track/1AsRjeavWPH8sCQbjMP8Xh) | [Slaughter](https://open.spotify.com/artist/4ibNXJiMYOPibpS9DB9Qz3) | [Mass Slaughter](https://open.spotify.com/album/1PLl8ONmplOUyu5Bq8GYJL) | 3:46 | 2020-10-08 | 2023-05-13 |
+| [Up All Night](https://open.spotify.com/track/4AgWfa7qvz3fc1orCPlwNL) | [Slaughter](https://open.spotify.com/artist/4ibNXJiMYOPibpS9DB9Qz3) | [Mass Slaughter: The Best Of Slaughter](https://open.spotify.com/album/3eefJebHQxT81kCOMr41l4) | 3:46 | 2022-07-05 |  |
 | [Wait](https://open.spotify.com/track/2QfjV18pg4Ye7Vo4TsSobq) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [When The Children Cry \- Greatest Hits](https://open.spotify.com/album/45jAG1Yxe3gdYoTKRxu6vE) | 4:55 | 2020-10-08 |  |
 | [Wanted Dead Or Alive](https://open.spotify.com/track/1QN1IOcB00ZwdKMm5c162h) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Memorial Day 2022](https://open.spotify.com/album/21FQiQoxtmNaM9EaPgU3Ha) | 5:08 | 2022-07-05 | 2022-11-13 |
 | [Wanted Dead Or Alive](https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 5:08 | 2022-07-05 |  |

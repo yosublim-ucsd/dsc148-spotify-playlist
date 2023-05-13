@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Temples on cover.",
-  "num_followers": 356311,
+  "num_followers": 356556,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDJmOWVhNmNlMWI2M2NlNDc2YzQwZWE3NTg4ZWI0YjAwNjdlNDk0",
+  "snapshot_id": "MCw1MmUyN2FlODA1YjJiNTE2MTA2NjA3YzU5MDg0ODQxMjA3ZTVkYTU0",
   "tracks": [
     {
       "added_at": "2022-04-12 18:03:13",
@@ -363,18 +363,18 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Wading Out / Shell Island",
-        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
+        "name": "Moonlust",
+        "url": "https://open.spotify.com/album/5dsTu76YBUMKIvgjrswqpF"
       },
       "artists": [
         {
-          "name": "Favourite People",
-          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
+          "name": "The Holydrug Couple",
+          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
         }
       ],
-      "duration_ms": 203680,
-      "name": "Shell Island",
-      "url": "https://open.spotify.com/track/6zdthQLxB71PgKzTrgp36I"
+      "duration_ms": 205010,
+      "name": "Concorde",
+      "url": "https://open.spotify.com/track/5ULB93v4tHdKtXC4LTa3k1"
     },
     {
       "added_at": "2022-10-28 05:00:00",
@@ -411,18 +411,18 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Moonlust",
-        "url": "https://open.spotify.com/album/5dsTu76YBUMKIvgjrswqpF"
+        "name": "Wading Out / Shell Island",
+        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
       },
       "artists": [
         {
-          "name": "The Holydrug Couple",
-          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
+          "name": "Favourite People",
+          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
         }
       ],
-      "duration_ms": 205010,
-      "name": "Concorde",
-      "url": "https://open.spotify.com/track/5ULB93v4tHdKtXC4LTa3k1"
+      "duration_ms": 203680,
+      "name": "Shell Island",
+      "url": "https://open.spotify.com/track/6zdthQLxB71PgKzTrgp36I"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -603,22 +603,6 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Fuckin Whatever",
-        "url": "https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI"
-      },
-      "artists": [
-        {
-          "name": "Fuckin Whatever",
-          "url": "https://open.spotify.com/artist/27dj7fdNHxGi0ysorNdEGe"
-        }
-      ],
-      "duration_ms": 213211,
-      "name": "Trash",
-      "url": "https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
         "name": "The Underdog",
         "url": "https://open.spotify.com/album/3t24SFsyPmgC5K20d3aOof"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 285643,
       "name": "The Blue Marble",
       "url": "https://open.spotify.com/track/4qvPp0Lt3MWWwHVb72Taox"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Fuckin Whatever",
+        "url": "https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI"
+      },
+      "artists": [
+        {
+          "name": "Fuckin Whatever",
+          "url": "https://open.spotify.com/artist/27dj7fdNHxGi0ysorNdEGe"
+        }
+      ],
+      "duration_ms": 213211,
+      "name": "Trash",
+      "url": "https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -857,22 +857,6 @@
       "url": "https://open.spotify.com/track/3dvtiG0XQkcfHQpr3Ghhp0"
     },
     {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Reap the Storm",
-        "url": "https://open.spotify.com/album/2cjYFCwK1QT5gt90rGsEMS"
-      },
-      "artists": [
-        {
-          "name": "Wucan",
-          "url": "https://open.spotify.com/artist/7FsZ5HKdtDFJ1xmK6NICBO"
-        }
-      ],
-      "duration_ms": 325015,
-      "name": "The Rat Catcher",
-      "url": "https://open.spotify.com/track/06GMFLjz0xowyKlmTbJyHZ"
-    },
-    {
       "added_at": "2022-04-12 17:55:21",
       "album": {
         "name": "Egypt",
@@ -887,6 +871,22 @@
       "duration_ms": 261634,
       "name": "Egypt",
       "url": "https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Reap the Storm",
+        "url": "https://open.spotify.com/album/2cjYFCwK1QT5gt90rGsEMS"
+      },
+      "artists": [
+        {
+          "name": "Wucan",
+          "url": "https://open.spotify.com/artist/7FsZ5HKdtDFJ1xmK6NICBO"
+        }
+      ],
+      "duration_ms": 325015,
+      "name": "The Rat Catcher",
+      "url": "https://open.spotify.com/track/06GMFLjz0xowyKlmTbJyHZ"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -921,22 +921,6 @@
       "url": "https://open.spotify.com/track/0ZRcldb8W55uBCrNBXZp1o"
     },
     {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Sancocho Stereo",
-        "url": "https://open.spotify.com/album/38Y2bvBgrjb4zyMrGlJjAq"
-      },
-      "artists": [
-        {
-          "name": "Los Espiritus",
-          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
-        }
-      ],
-      "duration_ms": 273000,
-      "name": "Todo Bien",
-      "url": "https://open.spotify.com/track/4GZknZiW5V6uCJYBdutfkD"
-    },
-    {
       "added_at": "2022-04-06 03:33:39",
       "album": {
         "name": "Time Bazaar",
@@ -951,6 +935,22 @@
       "duration_ms": 236000,
       "name": "Time Bazaar",
       "url": "https://open.spotify.com/track/4BO3RC8xxcf9Jpvkl6UVJg"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Sancocho Stereo",
+        "url": "https://open.spotify.com/album/38Y2bvBgrjb4zyMrGlJjAq"
+      },
+      "artists": [
+        {
+          "name": "Los Espiritus",
+          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
+        }
+      ],
+      "duration_ms": 273000,
+      "name": "Todo Bien",
+      "url": "https://open.spotify.com/track/4GZknZiW5V6uCJYBdutfkD"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -987,22 +987,6 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "The Trip",
-        "url": "https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ"
-      },
-      "artists": [
-        {
-          "name": "Derya Y\u0131ld\u0131r\u0131m & Grup \u015eim\u015fek",
-          "url": "https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT"
-        }
-      ],
-      "duration_ms": 257972,
-      "name": "The Trip",
-      "url": "https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
         "name": "Jukebox Babe",
         "url": "https://open.spotify.com/album/4Qr9GotOrEdcEg1NXmfWEV"
       },
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Death Hawks",
-        "url": "https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv"
+        "name": "The Trip",
+        "url": "https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ"
       },
       "artists": [
         {
-          "name": "Death Hawks",
-          "url": "https://open.spotify.com/artist/0x2ktQVEo3hmwjR1UMgpb1"
+          "name": "Derya Y\u0131ld\u0131r\u0131m & Grup \u015eim\u015fek",
+          "url": "https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT"
         }
       ],
-      "duration_ms": 546640,
-      "name": "Black Acid",
-      "url": "https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE"
+      "duration_ms": 257972,
+      "name": "The Trip",
+      "url": "https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1047,6 +1031,22 @@
       "duration_ms": 332335,
       "name": "Time Frame",
       "url": "https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Death Hawks",
+        "url": "https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv"
+      },
+      "artists": [
+        {
+          "name": "Death Hawks",
+          "url": "https://open.spotify.com/artist/0x2ktQVEo3hmwjR1UMgpb1"
+        }
+      ],
+      "duration_ms": 546640,
+      "name": "Black Acid",
+      "url": "https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1081,6 +1081,22 @@
       "url": "https://open.spotify.com/track/6zj2ESvjOkDt1m32Y8SpLa"
     },
     {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "everything's worth it",
+        "url": "https://open.spotify.com/album/1JkKG9yyfzYJfzUNOCsZic"
+      },
+      "artists": [
+        {
+          "name": "iogi",
+          "url": "https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ"
+        }
+      ],
+      "duration_ms": 219524,
+      "name": "you\\me\\everyone",
+      "url": "https://open.spotify.com/track/47Da4bjJRnEFSEDhUoptC7"
+    },
+    {
       "added_at": "2022-09-30 04:01:00",
       "album": {
         "name": "Pascuales",
@@ -1111,22 +1127,6 @@
       "duration_ms": 277589,
       "name": "Los Estimados",
       "url": "https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "everything's worth it",
-        "url": "https://open.spotify.com/album/1JkKG9yyfzYJfzUNOCsZic"
-      },
-      "artists": [
-        {
-          "name": "iogi",
-          "url": "https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ"
-        }
-      ],
-      "duration_ms": 219524,
-      "name": "you\\me\\everyone",
-      "url": "https://open.spotify.com/track/47Da4bjJRnEFSEDhUoptC7"
     },
     {
       "added_at": "2022-11-15 16:39:12",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Victor's Belt",
-        "url": "https://open.spotify.com/album/6wY4XmQTsy1neCkX1yzaQF"
-      },
-      "artists": [
-        {
-          "name": "Jaialai",
-          "url": "https://open.spotify.com/artist/3dFAQoWOP8AIuLcqhf416Q"
-        }
-      ],
-      "duration_ms": 192386,
-      "name": "Victor's Belt",
-      "url": "https://open.spotify.com/track/05mUXc20CCu93SnqWVAscp"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
         "name": "Hyper Super Mega",
         "url": "https://open.spotify.com/album/4OIFW53ufeQgpo8PCDc8pT"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 240468,
       "name": "Forever End",
       "url": "https://open.spotify.com/track/5aGBLQ3Xrbo7Ok0XDRM3bj"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Victor's Belt",
+        "url": "https://open.spotify.com/album/6wY4XmQTsy1neCkX1yzaQF"
+      },
+      "artists": [
+        {
+          "name": "Jaialai",
+          "url": "https://open.spotify.com/artist/3dFAQoWOP8AIuLcqhf416Q"
+        }
+      ],
+      "duration_ms": 192386,
+      "name": "Victor's Belt",
+      "url": "https://open.spotify.com/track/05mUXc20CCu93SnqWVAscp"
     }
   ],
   "unique_name": "Neo-Psychedelic Rock",

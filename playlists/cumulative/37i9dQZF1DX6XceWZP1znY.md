@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-749 songs - 2 day 1 hr 33 min
+750 songs - 2 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [BANG!!!](https://open.spotify.com/track/4o1s691Qn6lUmFh1Bl28NG) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [BANG!!!](https://open.spotify.com/album/7JruDbtqHdtkxzIXBf6gjO) | 3:16 | 2022-06-07 | 2023-04-02 |
 | [Be Down](https://open.spotify.com/track/46rQoQSSkFRYxYkd2p71Er) | [ACCAMER](https://open.spotify.com/artist/6fl8KnCZzMYMHTklUPWlX2) | [Be Down / ダイバーシティ](https://open.spotify.com/album/7eY44boPV2SC1H9CdFHCaj) | 4:04 | 2022-06-07 | 2022-07-26 |
 | [BE ME](https://open.spotify.com/track/6YXgarWY2jY2f1F7VVUE0Z) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [BE ME](https://open.spotify.com/album/0nJ24ELPglbislYG5leab8) | 3:31 | 2022-12-23 | 2023-01-21 |
-| [BEAUTIFUL \- Anime Edit](https://open.spotify.com/track/56LHN0v30yTGB6NFdihTg1) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [BEAUTIFUL \(Anime Edit\)](https://open.spotify.com/album/02LoAQmz9DRGyD3T3LBc5h) | 1:32 | 2022-06-07 |  |
+| [BEAUTIFUL \- Anime Edit](https://open.spotify.com/track/56LHN0v30yTGB6NFdihTg1) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [BEAUTIFUL \(Anime Edit\)](https://open.spotify.com/album/02LoAQmz9DRGyD3T3LBc5h) | 1:32 | 2022-06-07 | 2023-05-13 |
 | [Before the Nightmare](https://open.spotify.com/track/6yLMicWzVVOvzlkXN9rcPl) | [高槻かなこ](https://open.spotify.com/artist/2do49zyzTTvfteT4XSof5k) | [Before the Nightmare](https://open.spotify.com/album/1nDKk1Ao6Y1UYjYTDndFw9) | 3:33 | 2022-06-07 | 2022-07-15 |
 | [BELIEVE MYSELF](https://open.spotify.com/track/3CFqP29BSTS4yi70BwN3bT) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [BELIEVE MYSELF](https://open.spotify.com/album/1URkZlcuwbkx0GlbS1RQy3) | 3:33 | 2022-06-07 | 2022-06-17 |
 | [BELONG](https://open.spotify.com/track/7cbhfvV5kvpBWwjVpqvvJJ) | [SawanoHiroyuki\[nZk\]:Yosh](https://open.spotify.com/artist/2LjjIxKVSELsdFKkmABPNT) | [BELONG](https://open.spotify.com/album/7gkbhbpygQvDvGYekPOWNX) | 3:50 | 2022-06-07 | 2022-07-29 |
@@ -159,6 +159,7 @@
 | [Here I Stand \- Anime Edit](https://open.spotify.com/track/3RPNNWB4ZbL9siNR2woL5I) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [Here I Stand \(Anime Edit\)](https://open.spotify.com/album/7makenyxwdnXOdla8Z4DY2) | 1:36 | 2023-02-20 |  |
 | [HIGHEST](https://open.spotify.com/track/1ocxu4f7ZOjOcwAbqQ8l1T) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [OPENING THEME FROM TV SERIES ”THE EMINENCE IN SHADOW”](https://open.spotify.com/album/0thfg8QuF1USWyk0XYYqMh) | 3:36 | 2022-11-22 |  |
 | [Hikare Inochi](https://open.spotify.com/track/0ltIx8PLjtWoS9zn9PqsZW) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Hikare Inochi](https://open.spotify.com/album/18uE4ky7hhYtS1j9QY7p14) | 5:22 | 2022-06-07 | 2022-11-23 |
+| [HOLLOW HUNGER](https://open.spotify.com/track/77tBI3JCCnvJYLAH6j6Gy1) | [caleb982](https://open.spotify.com/artist/0hjUXdnmj0C9gVbmTvtsnm) | [HOLLOW HUNGER](https://open.spotify.com/album/450SRXXak0hHsMtwazOi0q) | 3:43 | 2023-05-01 |  |
 | [HOLLOW HUNGER](https://open.spotify.com/track/355nQhlJ37CswXP54GZAz9) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [OPEING THEME FROM TV SERIES ”OVERLORD IV”](https://open.spotify.com/album/1iR5yhnaLHIIUEbXq5Zcxh) | 3:43 | 2022-08-11 | 2023-04-21 |
 | [HOLLOW HUNGER](https://open.spotify.com/track/4OJVRrXhEdvtUCL3jtpdla) | [Wxchi](https://open.spotify.com/artist/0QfAfi0YfXU5M6aWRAJcYy) | [HOLLOW HUNGER](https://open.spotify.com/album/0cCWAbgxj9xluHmdCx2lv7) | 3:43 | 2022-10-04 | 2022-10-08 |
 | [HOME](https://open.spotify.com/track/4FSejBjuCSqv0NsJskPShe) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [HOME](https://open.spotify.com/album/5fxto0FPkSBuYETRE5wT2d) | 4:51 | 2022-06-07 |  |

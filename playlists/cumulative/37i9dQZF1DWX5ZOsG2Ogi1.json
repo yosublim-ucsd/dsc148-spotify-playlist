@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "\u00a1Perreo del bueno!\nCover: Farina & Brray ",
+  "description": "\u00a1Perreo del bueno!\nCover: Ivy Queen",
   "name": "Puro Perreo",
   "tracks": [
     {
@@ -144,7 +144,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 243226,
       "name": "6 AM",
       "url": "https://open.spotify.com/track/3uvypVUsiIr1B0BccIcsEh"
@@ -316,7 +316,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 235411,
       "name": "ALMAS GEMELAS",
       "url": "https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx"
@@ -726,6 +726,28 @@
       "duration_ms": 196500,
       "name": "Bichiyal",
       "url": "https://open.spotify.com/track/4j4w4CXm6BSr0s25wAWrrX"
+    },
+    {
+      "album": {
+        "name": "BIKINI",
+        "url": "https://open.spotify.com/album/6CeDEzgtJTweJGkPUasPXV"
+      },
+      "artists": [
+        {
+          "name": "Montano",
+          "url": "https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH"
+        },
+        {
+          "name": "Kiko el Crazy",
+          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146980,
+      "name": "BIKINI",
+      "url": "https://open.spotify.com/track/6slXEgNhtJXAqgW9RQOdRM"
     },
     {
       "album": {
@@ -2390,6 +2412,28 @@
       "duration_ms": 325692,
       "name": "Eleg\u00ed (feat. Farruko, Anuel AA, Sech, D\u00edmelo Flow & Justin Quiles) - Remix",
       "url": "https://open.spotify.com/track/3oCghu20Kto5Xcu8Pg0cit"
+    },
+    {
+      "album": {
+        "name": "Elixir",
+        "url": "https://open.spotify.com/album/2YYzqek3w2LadxlC27BUd1"
+      },
+      "artists": [
+        {
+          "name": "Mequi",
+          "url": "https://open.spotify.com/artist/37sm4BRjUMEVI6iUC1Zg6k"
+        },
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Elixir",
+      "url": "https://open.spotify.com/track/5FC3QxywFfQq39TI4U9Pru"
     },
     {
       "album": {
@@ -4166,7 +4210,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 276066,
       "name": "La Single",
       "url": "https://open.spotify.com/track/7dAwKpgHeKrxPJ2aygL97o"
@@ -4832,7 +4876,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 232000,
       "name": "Me Arrepent\u00ed",
       "url": "https://open.spotify.com/track/40w8JmvwYUP2HUiXPxjy99"
@@ -5016,7 +5060,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 242696,
       "name": "Mejor Que Yo",
       "url": "https://open.spotify.com/track/1VsHc0qIeyjYOyvN5HIEQG"
@@ -5768,6 +5812,28 @@
       "duration_ms": 180040,
       "name": "OJOS FERRARI",
       "url": "https://open.spotify.com/track/5yAIrkplUEpMNeojW8Q30o"
+    },
+    {
+      "album": {
+        "name": "Orgullo",
+        "url": "https://open.spotify.com/album/0Le1Lj2NyXlJZW02C706u3"
+      },
+      "artists": [
+        {
+          "name": "Ken-Y",
+          "url": "https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ"
+        },
+        {
+          "name": "R.K.M & Ken-Y",
+          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223389,
+      "name": "Orgullo",
+      "url": "https://open.spotify.com/track/1rWfFeGXyCsfpsWq5dz94Y"
     },
     {
       "album": {
@@ -7972,6 +8038,10 @@
         {
           "name": "HAMLIT SHORTY",
           "url": "https://open.spotify.com/artist/06n23qw408xNUMGETWsmaL"
+        },
+        {
+          "name": "Sticks House",
+          "url": "https://open.spotify.com/artist/3gvuPnQphwrMjq23LTUAFN"
         }
       ],
       "date_added": "2023-02-24",
@@ -8337,6 +8407,24 @@
     },
     {
       "album": {
+        "name": "Tira Pa Tra",
+        "url": "https://open.spotify.com/album/6GP8fr8B8GjMPbfwbbk0UN"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175933,
+      "name": "Tira Pa Tra",
+      "url": "https://open.spotify.com/track/7e3eBgoH6HuhYrNMQavcgf"
+    },
+    {
+      "album": {
         "name": "TO' ESTO ES TUYO",
         "url": "https://open.spotify.com/album/0tYGtxW8nnYORSaUtWzPFn"
       },
@@ -8434,6 +8522,42 @@
       "duration_ms": 208000,
       "name": "TODO O NADA",
       "url": "https://open.spotify.com/track/59rjsHYxdxeUG6gd43Emzs"
+    },
+    {
+      "album": {
+        "name": "Toma",
+        "url": "https://open.spotify.com/album/4cbxkM3zQSH8nGm9KQaIwF"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162330,
+      "name": "Toma",
+      "url": "https://open.spotify.com/track/48iWXYdWMFNenABULLtopW"
+    },
+    {
+      "album": {
+        "name": "Toretto (FAST X / Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4YHGjIgKtP3QKRA11AhfJ1"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150517,
+      "name": "Toretto",
+      "url": "https://open.spotify.com/track/2LhnVbBHUWyrDQ4m1LCPvo"
     },
     {
       "album": {
@@ -8608,7 +8732,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 249463,
       "name": "TU DIABLO",
       "url": "https://open.spotify.com/track/3cubuvfYq2yHijwV7eCHwL"

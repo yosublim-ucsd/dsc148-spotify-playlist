@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,518 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,550 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 19 | [Tengo un Nuevo Amor \- Salsa](https://open.spotify.com/track/6jtT0TU60r0ECBtRtNe335) | [David Y Abraham](https://open.spotify.com/artist/03bSnfVbCWNrwj4UfHzoc4) | [Alábale Con Ritmo de Salsa](https://open.spotify.com/album/4cmpSr90A0JzyVtngmxoMr) | 4:42 |
 | 20 | [Vuelvo a Nacer](https://open.spotify.com/track/6adDoj00wwGzZwj9mY9Jma) | [Jose "Papo" Rivera](https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY) | [Soy Sonero \- Concierto en Vivo](https://open.spotify.com/album/0BDopJiR33PUsLRU1z6Ybf) | 4:22 |
 | 21 | [Sin Ti](https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Sin Ti](https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH) | 4:24 |
-| 22 | [Tu Eres \(feat\. Andrea Dominguez\)](https://open.spotify.com/track/5hYZyaj6vaEwP5tEjsKBSA) | [Mikey A](https://open.spotify.com/artist/1l6CSnpOO3rlki99yADeks), [Andrea Dominguez](https://open.spotify.com/artist/25YZT94TGT0kKiLaTybU3O) | [Por Amor](https://open.spotify.com/album/3e2VFF2ZVNODx11mQGCdAy) | 3:39 |
-| 23 | [TRAPCHATA](https://open.spotify.com/track/0sFvANVCB08GDLjjUx7NDm) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab) | [PANORAMA](https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33) | 4:43 |
+| 22 | [TRAPCHATA](https://open.spotify.com/track/0sFvANVCB08GDLjjUx7NDm) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab) | [PANORAMA](https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33) | 4:43 |
+| 23 | [Tu Eres \(feat\. Andrea Dominguez\)](https://open.spotify.com/track/5hYZyaj6vaEwP5tEjsKBSA) | [Mikey A](https://open.spotify.com/artist/1l6CSnpOO3rlki99yADeks), [Andrea Dominguez](https://open.spotify.com/artist/25YZT94TGT0kKiLaTybU3O) | [Por Amor](https://open.spotify.com/album/3e2VFF2ZVNODx11mQGCdAy) | 3:39 |
 | 24 | [Fiesta](https://open.spotify.com/track/5BoyMsxh4nET9KiiWW1BgX) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fiel](https://open.spotify.com/album/0jPkJNUVPwugoSZWs63orG) | 4:38 |
 | 25 | [Que No Faltes Tu](https://open.spotify.com/track/4ct64YIDnmfCDYPiVidt8l) | [Melvin Ayala](https://open.spotify.com/artist/5EGSaehrI82YE3RpU6GkLS) | [Flaming Fire](https://open.spotify.com/album/4MYWnUXEyqvznkPcIkaDMR) | 3:32 |
 | 26 | [Eres Merecedor](https://open.spotify.com/track/1f2xoS6RAsYlHSFSsbyFDR) | [Johnny González](https://open.spotify.com/artist/156azSG483Q5kBmIj8fzJL), [Abdi](https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6) | [Eres Merecedor](https://open.spotify.com/album/4zc7F9nicKZ6OWOedj0iGp) | 3:41 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 36 | [Yo Te Prometo](https://open.spotify.com/track/78qhDtLwEUei6bkEWlG06O) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR), [Niko La Fábrica](https://open.spotify.com/artist/77gpdl9ket58wQczszbrno) | [Corazón](https://open.spotify.com/album/45Ww8247fdYO93oBrloSsN) | 3:44 |
 | 37 | [Tu Amor](https://open.spotify.com/track/61No7p1QjC00WCWM6wP88E) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0), [Melissa Hermosillo](https://open.spotify.com/artist/35U8X9qqvWRAAhCkjN7LnP) | [Tu Amor](https://open.spotify.com/album/1TbMgpLI7P6CCq1mqVff90) | 3:12 |
 | 38 | [Good Good Father \(feat\. Avion Blackman\)](https://open.spotify.com/track/2ZlaPNCTkfbyOn29z3DrSo) | [Christafari](https://open.spotify.com/artist/5397Q0lxSvxsQkkYiyQGeO), [Avion Blackman](https://open.spotify.com/artist/0lEo8Bgl7QGsRRZXZr8mWO) | [Original Love](https://open.spotify.com/album/1MWefbBiKCxIX3n7NyAhzO) | 4:08 |
-| 39 | [Diez Mil Razones](https://open.spotify.com/track/6ZTC7BGLtPgjz8pcRDG88b) | [Zander](https://open.spotify.com/artist/0gMR4IlYgNQHl7smugxuWN) | [Diez Mil Razones](https://open.spotify.com/album/1z18dSxKVxkeRZeK9Jp37H) | 3:00 |
-| 40 | [Ritmo Del Cielo](https://open.spotify.com/track/78A0tsRzfFHAdyLWd1S5cA) | [Michael Pratts](https://open.spotify.com/artist/0zdgPYpK8lYxpW8g5uNlxp) | [Conteo Regresivo](https://open.spotify.com/album/4u5WBcNF0IolTEzYBjLKHg) | 3:49 |
+| 39 | [Ritmo Del Cielo](https://open.spotify.com/track/78A0tsRzfFHAdyLWd1S5cA) | [Michael Pratts](https://open.spotify.com/artist/0zdgPYpK8lYxpW8g5uNlxp) | [Conteo Regresivo](https://open.spotify.com/album/4u5WBcNF0IolTEzYBjLKHg) | 3:49 |
+| 40 | [Diez Mil Razones](https://open.spotify.com/track/6ZTC7BGLtPgjz8pcRDG88b) | [Zander](https://open.spotify.com/artist/0gMR4IlYgNQHl7smugxuWN) | [Diez Mil Razones](https://open.spotify.com/album/1z18dSxKVxkeRZeK9Jp37H) | 3:00 |
 | 41 | [Ancla](https://open.spotify.com/track/4vWqtYT69Ivi5dXOisjL62) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [Daniela Araújo](https://open.spotify.com/artist/7k1mBV7McqMl1WEyuC1M4m) | [Ancla](https://open.spotify.com/album/3Hfdb0KVrFw3gix8Xc0t38) | 3:27 |
 | 42 | [La Misma Mentira](https://open.spotify.com/track/6wwRmRSc9OP9RdovSj7CZi) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [This Is My Time](https://open.spotify.com/album/0n71AqZVvgoRuxW1pSSTsA) | 3:48 |
 | 43 | [Va Cae](https://open.spotify.com/track/7zyrVOD70rjN3QMVTcERBq) | [Ariel Kelly](https://open.spotify.com/artist/4BYn8aKDAf0keMvw8k28Kb) | [Quinto Elemento](https://open.spotify.com/album/1Jlnu4bxr0NhJZLg9SZ8qx) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 49 | [Desde Mi Alma](https://open.spotify.com/track/4CyVYEF7Jd1PFP5TvKic0Z) | [Joseph Burgos](https://open.spotify.com/artist/1j3m47q8Ul9ZN0YQ1m2ONL) | [Desde Mi Alma](https://open.spotify.com/album/1AGbEgukntBYyagzUeuvOD) | 4:08 |
 | 50 | [Contigo](https://open.spotify.com/track/1ld0Nc6a8kqXjMJw3eRm1j) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Contigo](https://open.spotify.com/album/4EyoMV51X0r69upo5S2na0) | 3:42 |
 
-Snapshot ID: `MCw0NjAzMmNkNjc4YzJjNTEzZGZlNzYzOWQzZDI1NDQ2MWM5YTBmMWEz`
+Snapshot ID: `MCxmMmZhODM2MjBmZTNmN2MyMGJhMTczN2JkZTk1ODVjMjIwYjVhMmE5`

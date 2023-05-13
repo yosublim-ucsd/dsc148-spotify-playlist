@@ -152,7 +152,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 226720,
       "name": "Acende a Chama",
       "url": "https://open.spotify.com/track/4irUbAh6C0Fr4BEhcrIajp"
@@ -420,6 +420,24 @@
       "duration_ms": 231000,
       "name": "As Cores do C\u00e9u",
       "url": "https://open.spotify.com/track/0uWfAsbsoWxGLTyGsy4zMr"
+    },
+    {
+      "album": {
+        "name": "Atenas",
+        "url": "https://open.spotify.com/album/4lZT8fKuYJP6zTB6aHzBrJ"
+      },
+      "artists": [
+        {
+          "name": "Diego Ddl",
+          "url": "https://open.spotify.com/artist/5hB4mr0SPo58rqZejiZ9u5"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152479,
+      "name": "Atenas",
+      "url": "https://open.spotify.com/track/5o6r4EhnXuDxlexSZZn51p"
     },
     {
       "album": {
@@ -2361,6 +2379,24 @@
     },
     {
       "album": {
+        "name": "Like Mike",
+        "url": "https://open.spotify.com/album/41HvJgefgvHOBHDS2sqPnx"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Alcantara",
+          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126382,
+      "name": "Like Mike",
+      "url": "https://open.spotify.com/track/15bs7soXUtytxW95KxGFQG"
+    },
+    {
+      "album": {
         "name": "Luva de Pedreiro - Mudei",
         "url": "https://open.spotify.com/album/2pgVPTtO7vfvRub0ARIs2L"
       },
@@ -2460,6 +2496,24 @@
       "duration_ms": 176934,
       "name": "Mateus 6.6",
       "url": "https://open.spotify.com/track/3LLyv1b4IX5WjKhs2kuiqZ"
+    },
+    {
+      "album": {
+        "name": "Me Faz Bem",
+        "url": "https://open.spotify.com/album/2yccid2zOW2rcTqzjmVwj4"
+      },
+      "artists": [
+        {
+          "name": "MARCO AZAUSKI",
+          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186293,
+      "name": "Me Faz Bem",
+      "url": "https://open.spotify.com/track/332XZaNZUvAAsDsbtKknZE"
     },
     {
       "album": {
@@ -3328,7 +3382,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 149303,
       "name": "Quem Mandou?",
       "url": "https://open.spotify.com/track/2J40FjoqZ732umKZMrBZSQ"
@@ -3768,7 +3822,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 131476,
       "name": "Sou Campe\u00e3o",
       "url": "https://open.spotify.com/track/3vOTwt90MQ6v8YblGpdazb"
@@ -3786,7 +3840,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 136087,
       "name": "Te Agrade\u00e7o",
       "url": "https://open.spotify.com/track/5DDWvqCt4JhlTy1gRo8Aj2"
@@ -4092,6 +4146,32 @@
       "duration_ms": 154390,
       "name": "Vazio",
       "url": "https://open.spotify.com/track/1m6fkCIQwEMKHbG0l8MWl2"
+    },
+    {
+      "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/07F6rlMPanCpXRzCJjFjcN"
+      },
+      "artists": [
+        {
+          "name": "Moskitto",
+          "url": "https://open.spotify.com/artist/3okdXZyurX68tcNnjx0HQM"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203499,
+      "name": "Vida",
+      "url": "https://open.spotify.com/track/5jjlCBDJADX7GOyVVR6ncB"
     },
     {
       "album": {

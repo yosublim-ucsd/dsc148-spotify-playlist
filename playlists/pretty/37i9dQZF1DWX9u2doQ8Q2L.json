@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 368324,
+  "num_followers": 368383,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2U2MmUwZTY2YWJhOGQzYzliN2E2MjA4ZTI0MzExMjRmZDU2YWEz",
+  "snapshot_id": "MCw4OTQzMzkyM2M2NmQ4ZDUwYTZjMTVlNDRkYjM2NjJiZGJmODZjMzY5",
   "tracks": [
     {
       "added_at": "2023-05-11 15:00:00",
@@ -51,8 +51,8 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
-        "name": "Season",
-        "url": "https://open.spotify.com/album/0oNra3mg2Pon6DWljxx8WR"
+        "name": "PRIVATE",
+        "url": "https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O"
       },
       "artists": [
         {
@@ -62,7 +62,7 @@
       ],
       "duration_ms": 208133,
       "name": "Season",
-      "url": "https://open.spotify.com/track/5mIJzqBwYM3SSVuCCCC3gg"
+      "url": "https://open.spotify.com/track/59ZJXXQ0VeLtBK5EfW0KLJ"
     },
     {
       "added_at": "2023-05-11 15:00:00",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
-        "name": "Go",
-        "url": "https://open.spotify.com/album/63ivUbYvqKIaYh8OQJ7EaN"
+        "name": "Jam",
+        "url": "https://open.spotify.com/album/6yGcdAn7qspsakb8jdPtbp"
       },
       "artists": [
         {
-          "name": "Kan Sano",
-          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
+          "name": "Mizuki Ohira",
+          "url": "https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx"
         }
       ],
-      "duration_ms": 230080,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/7KsJL2oqJWXJ8pbnVc5yND"
+      "duration_ms": 245535,
+      "name": "Jam",
+      "url": "https://open.spotify.com/track/5xt9N7xhDqEpp6NIdMCUux"
     },
     {
       "added_at": "2023-05-11 15:00:00",
@@ -1435,34 +1435,18 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
-        "name": "Jam",
-        "url": "https://open.spotify.com/album/6yGcdAn7qspsakb8jdPtbp"
+        "name": "Go",
+        "url": "https://open.spotify.com/album/63ivUbYvqKIaYh8OQJ7EaN"
       },
       "artists": [
         {
-          "name": "Mizuki Ohira",
-          "url": "https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx"
+          "name": "Kan Sano",
+          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
         }
       ],
-      "duration_ms": 245535,
-      "name": "Jam",
-      "url": "https://open.spotify.com/track/5xt9N7xhDqEpp6NIdMCUux"
-    },
-    {
-      "added_at": "2023-05-11 15:00:00",
-      "album": {
-        "name": "Damn!",
-        "url": "https://open.spotify.com/album/58iLEcJ5gjmwjPH4T8Ahy9"
-      },
-      "artists": [
-        {
-          "name": "Wez Atlas",
-          "url": "https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ"
-        }
-      ],
-      "duration_ms": 161760,
-      "name": "Damn!",
-      "url": "https://open.spotify.com/track/7f8eO8Gd4FNZZemvweT31N"
+      "duration_ms": 230080,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/7KsJL2oqJWXJ8pbnVc5yND"
     },
     {
       "added_at": "2023-05-11 15:00:00",
@@ -1483,26 +1467,6 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
-        "name": "\u706b\u3092\u3064\u3051\u3066 feat. \u677e\u5c3e\u30ec\u30df (GLIM SPANKY)",
-        "url": "https://open.spotify.com/album/5Hd2WIPcnkSNh2nAUxt2b2"
-      },
-      "artists": [
-        {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
-        },
-        {
-          "name": "Remi Matsuo",
-          "url": "https://open.spotify.com/artist/5KRGr2Dbq35ycjbyRpKoc7"
-        }
-      ],
-      "duration_ms": 299803,
-      "name": "\u706b\u3092\u3064\u3051\u3066 feat. \u677e\u5c3e\u30ec\u30df (GLIM SPANKY)",
-      "url": "https://open.spotify.com/track/0C2S3sEvaNfulnSRNF2E1j"
-    },
-    {
-      "added_at": "2023-05-11 15:00:00",
-      "album": {
         "name": "BE THE GROOVE",
         "url": "https://open.spotify.com/album/1MJdzLW8rQadytAc39Lmnb"
       },
@@ -1519,6 +1483,42 @@
       "duration_ms": 164800,
       "name": "BE THE GROOVE",
       "url": "https://open.spotify.com/track/3ib1m0Op3FQVXNIpEVOKf3"
+    },
+    {
+      "added_at": "2023-05-11 15:00:00",
+      "album": {
+        "name": "Damn!",
+        "url": "https://open.spotify.com/album/58iLEcJ5gjmwjPH4T8Ahy9"
+      },
+      "artists": [
+        {
+          "name": "Wez Atlas",
+          "url": "https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ"
+        }
+      ],
+      "duration_ms": 161760,
+      "name": "Damn!",
+      "url": "https://open.spotify.com/track/7f8eO8Gd4FNZZemvweT31N"
+    },
+    {
+      "added_at": "2023-05-11 15:00:00",
+      "album": {
+        "name": "\u706b\u3092\u3064\u3051\u3066 feat. \u677e\u5c3e\u30ec\u30df (GLIM SPANKY)",
+        "url": "https://open.spotify.com/album/5Hd2WIPcnkSNh2nAUxt2b2"
+      },
+      "artists": [
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        },
+        {
+          "name": "Remi Matsuo",
+          "url": "https://open.spotify.com/artist/5KRGr2Dbq35ycjbyRpKoc7"
+        }
+      ],
+      "duration_ms": 299803,
+      "name": "\u706b\u3092\u3064\u3051\u3066 feat. \u677e\u5c3e\u30ec\u30df (GLIM SPANKY)",
+      "url": "https://open.spotify.com/track/0C2S3sEvaNfulnSRNF2E1j"
     },
     {
       "added_at": "2023-05-11 15:00:00",
@@ -1559,34 +1559,6 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
-        "name": "eden",
-        "url": "https://open.spotify.com/album/317j5AzcY1fL9NgKAMZIcD"
-      },
-      "artists": [
-        {
-          "name": "\u3072\u304b\u308a\u3068\u3060\u3044\u3061 love SOIL&\"PIMP\"SESSIONS",
-          "url": "https://open.spotify.com/artist/5kEUSsToZBCBfFr68aT7f9"
-        },
-        {
-          "name": "Hikari Mitsushima",
-          "url": "https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG"
-        },
-        {
-          "name": "Daichi Miura",
-          "url": "https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ"
-        },
-        {
-          "name": "SOIL & \u201cPIMP\u201d SESSIONS",
-          "url": "https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF"
-        }
-      ],
-      "duration_ms": 237686,
-      "name": "eden",
-      "url": "https://open.spotify.com/track/2INM5qrVFHkFpfGWQ5FxLB"
-    },
-    {
-      "added_at": "2023-05-11 15:00:00",
-      "album": {
         "name": "Mirage Op.4 - Collective ver. (feat. \u9577\u6fa4\u307e\u3055\u307f)",
         "url": "https://open.spotify.com/album/3X8NFyIOThWuYBSJnZ3GEs"
       },
@@ -1615,6 +1587,34 @@
       "duration_ms": 268119,
       "name": "Mirage Op.4 - Collective ver. (feat. \u9577\u6fa4\u307e\u3055\u307f)",
       "url": "https://open.spotify.com/track/4wx4CeiVDQM2RDq8b6nYWk"
+    },
+    {
+      "added_at": "2023-05-11 15:00:00",
+      "album": {
+        "name": "eden",
+        "url": "https://open.spotify.com/album/317j5AzcY1fL9NgKAMZIcD"
+      },
+      "artists": [
+        {
+          "name": "\u3072\u304b\u308a\u3068\u3060\u3044\u3061 love SOIL&\"PIMP\"SESSIONS",
+          "url": "https://open.spotify.com/artist/5kEUSsToZBCBfFr68aT7f9"
+        },
+        {
+          "name": "Hikari Mitsushima",
+          "url": "https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG"
+        },
+        {
+          "name": "Daichi Miura",
+          "url": "https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ"
+        },
+        {
+          "name": "SOIL & \u201cPIMP\u201d SESSIONS",
+          "url": "https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF"
+        }
+      ],
+      "duration_ms": 237686,
+      "name": "eden",
+      "url": "https://open.spotify.com/track/2INM5qrVFHkFpfGWQ5FxLB"
     },
     {
       "added_at": "2023-05-11 15:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
-        "name": "Inner Ocean",
-        "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
-      },
-      "artists": [
-        {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
-        }
-      ],
-      "duration_ms": 223808,
-      "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
-      "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
-    },
-    {
-      "added_at": "2023-05-11 15:00:00",
-      "album": {
         "name": "orange",
         "url": "https://open.spotify.com/album/4l0svnFTrWNYbN02FNxmGk"
       },
@@ -1679,26 +1663,6 @@
       "duration_ms": 176666,
       "name": "orange",
       "url": "https://open.spotify.com/track/1OzZI9XdRIkAkYqAsUlJnL"
-    },
-    {
-      "added_at": "2023-05-11 15:00:00",
-      "album": {
-        "name": "U.F.O",
-        "url": "https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0"
-      },
-      "artists": [
-        {
-          "name": "haruno",
-          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
-        },
-        {
-          "name": "A.G.O",
-          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
-        }
-      ],
-      "duration_ms": 230319,
-      "name": "U.F.O",
-      "url": "https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j"
     },
     {
       "added_at": "2023-05-11 15:00:00",
@@ -1743,18 +1707,18 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
-        "name": "\u30e1\u30ac\u30d5\u30a9\u30f3",
-        "url": "https://open.spotify.com/album/6LBUQPn9rnTdJFmH0vLUa1"
+        "name": "Inner Ocean",
+        "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
       },
       "artists": [
         {
-          "name": "BBHF",
-          "url": "https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY"
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
         }
       ],
-      "duration_ms": 158500,
-      "name": "\u30e1\u30ac\u30d5\u30a9\u30f3",
-      "url": "https://open.spotify.com/track/3b97D6YMKoXseRjntwH5q0"
+      "duration_ms": 223808,
+      "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
+      "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
     },
     {
       "added_at": "2023-05-11 15:00:00",
@@ -1787,6 +1751,22 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
+        "name": "\u30e1\u30ac\u30d5\u30a9\u30f3",
+        "url": "https://open.spotify.com/album/6LBUQPn9rnTdJFmH0vLUa1"
+      },
+      "artists": [
+        {
+          "name": "BBHF",
+          "url": "https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY"
+        }
+      ],
+      "duration_ms": 158500,
+      "name": "\u30e1\u30ac\u30d5\u30a9\u30f3",
+      "url": "https://open.spotify.com/track/3b97D6YMKoXseRjntwH5q0"
+    },
+    {
+      "added_at": "2023-05-11 15:00:00",
+      "album": {
         "name": "Chrome Season",
         "url": "https://open.spotify.com/album/26z9uGhvmZt7YjkCspGTlB"
       },
@@ -1815,6 +1795,22 @@
       "duration_ms": 268500,
       "name": "\u5922\u306b\u306a\u3089\u306a\u3044\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/3akniqbPdq5nhh19QtxAq2"
+    },
+    {
+      "added_at": "2023-05-11 15:00:00",
+      "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/2VSREGDOr59t7uOXZ8B7s7"
+      },
+      "artists": [
+        {
+          "name": "No Buses",
+          "url": "https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6"
+        }
+      ],
+      "duration_ms": 170064,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/5hztfJs7VAjS4c4IWc3lZc"
     }
   ],
   "unique_name": "Tokyo Rising",

@@ -1,12 +1,12 @@
 {
   "description": "You can practically taste the desert dirt in your mouth while listening to these riff-heavy, fuzzed out numbers. Cover: Queens of the Stone Age",
-  "num_followers": 503959,
+  "num_followers": 504168,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmQ5MGQ2MmJjMjlmMjhjMWE4NmI1MzJlYjEzNmRjNGZmZmRhYzhj",
+  "snapshot_id": "MCw1YzhiMDYxYjg0NTYwZGNiMWMzZGQ5Yzk2ZGQ2ZDZiNjRhNzdlNDhh",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -345,22 +345,6 @@
       "url": "https://open.spotify.com/track/0ni8h8HAJNFwuL9cMWR9XN"
     },
     {
-      "added_at": "2023-03-22 16:17:38",
-      "album": {
-        "name": "Nola",
-        "url": "https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg"
-      },
-      "artists": [
-        {
-          "name": "DOWN",
-          "url": "https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu"
-        }
-      ],
-      "duration_ms": 424000,
-      "name": "Bury Me in Smoke",
-      "url": "https://open.spotify.com/track/6raRCdd8RoWvtBpzhJ1CJb"
-    },
-    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "Legend",
@@ -375,6 +359,22 @@
       "duration_ms": 317600,
       "name": "An Alternative to Freedom",
       "url": "https://open.spotify.com/track/0fATnWJXdt6ke5kR2klu7g"
+    },
+    {
+      "added_at": "2023-03-22 16:17:38",
+      "album": {
+        "name": "Nola",
+        "url": "https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg"
+      },
+      "artists": [
+        {
+          "name": "DOWN",
+          "url": "https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu"
+        }
+      ],
+      "duration_ms": 424000,
+      "name": "Bury Me in Smoke",
+      "url": "https://open.spotify.com/track/6raRCdd8RoWvtBpzhJ1CJb"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -423,6 +423,22 @@
       "duration_ms": 356200,
       "name": "Supa Scoopa and Mighty Scoop",
       "url": "https://open.spotify.com/track/74PX4Sa0tXJDStditawG0O"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/0SarnHDFSff7x2ziE4Ajrp"
+      },
+      "artists": [
+        {
+          "name": "Witchcraft",
+          "url": "https://open.spotify.com/artist/3HVmba1wHgrLVsVC5IIzkG"
+        }
+      ],
+      "duration_ms": 309986,
+      "name": "Deconstruction",
+      "url": "https://open.spotify.com/track/0IOu6NlseiiSm1VaEEbVOt"
     },
     {
       "added_at": "2023-03-22 16:17:38",
@@ -475,22 +491,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/0SarnHDFSff7x2ziE4Ajrp"
-      },
-      "artists": [
-        {
-          "name": "Witchcraft",
-          "url": "https://open.spotify.com/artist/3HVmba1wHgrLVsVC5IIzkG"
-        }
-      ],
-      "duration_ms": 309986,
-      "name": "Deconstruction",
-      "url": "https://open.spotify.com/track/0IOu6NlseiiSm1VaEEbVOt"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Woodland Rites",
         "url": "https://open.spotify.com/album/2GKhNkbjC7jZqH2s4MDCro"
       },
@@ -503,22 +503,6 @@
       "duration_ms": 300226,
       "name": "Let the Devil In",
       "url": "https://open.spotify.com/track/4dePQcQTcRj4K4cHjwcC1v"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Agents Of Ahriman",
-        "url": "https://open.spotify.com/album/5PSBwA2oaiwxhJXcORR52z"
-      },
-      "artists": [
-        {
-          "name": "Greenleaf",
-          "url": "https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7"
-        }
-      ],
-      "duration_ms": 185440,
-      "name": "Stray Bullit Woman",
-      "url": "https://open.spotify.com/track/3QBGlNOpMFuPQjpWu3eL2c"
     },
     {
       "added_at": "2023-03-22 16:17:38",
@@ -535,6 +519,22 @@
       "duration_ms": 392000,
       "name": "Look To Your Orb For The Warning",
       "url": "https://open.spotify.com/track/0hXpC8CI25VOT8qNV1nr8l"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Agents Of Ahriman",
+        "url": "https://open.spotify.com/album/5PSBwA2oaiwxhJXcORR52z"
+      },
+      "artists": [
+        {
+          "name": "Greenleaf",
+          "url": "https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7"
+        }
+      ],
+      "duration_ms": 185440,
+      "name": "Stray Bullit Woman",
+      "url": "https://open.spotify.com/track/3QBGlNOpMFuPQjpWu3eL2c"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "GAUPA",
-        "url": "https://open.spotify.com/album/1zCtx2csLzFU3cLdsCplyC"
-      },
-      "artists": [
-        {
-          "name": "GAUPA",
-          "url": "https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg"
-        }
-      ],
-      "duration_ms": 447680,
-      "name": "Febersvan",
-      "url": "https://open.spotify.com/track/176O5r9pRLRv8yj1IvLBoQ"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Age of Winters",
         "url": "https://open.spotify.com/album/1GyHRxKZ2DUsOrXSKuJUtC"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 274400,
       "name": "Freya",
       "url": "https://open.spotify.com/track/6WGAMXLrez7idFa5DLeWrM"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "GAUPA",
+        "url": "https://open.spotify.com/album/1zCtx2csLzFU3cLdsCplyC"
+      },
+      "artists": [
+        {
+          "name": "GAUPA",
+          "url": "https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg"
+        }
+      ],
+      "duration_ms": 447680,
+      "name": "Febersvan",
+      "url": "https://open.spotify.com/track/176O5r9pRLRv8yj1IvLBoQ"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -649,22 +649,6 @@
       "url": "https://open.spotify.com/track/0aBBIonGDbOcEyntUARrUV"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Our Mother Electricity",
-        "url": "https://open.spotify.com/album/5tUZdF1iAbmvs0GnXln2Gg"
-      },
-      "artists": [
-        {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
-        }
-      ],
-      "duration_ms": 352073,
-      "name": "Elk.Blood.Heart",
-      "url": "https://open.spotify.com/track/5PMpxJQfyrMPTfdEmyohky"
-    },
-    {
       "added_at": "2023-03-22 16:17:38",
       "album": {
         "name": "Gravity X",
@@ -683,6 +667,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Our Mother Electricity",
+        "url": "https://open.spotify.com/album/5tUZdF1iAbmvs0GnXln2Gg"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "duration_ms": 352073,
+      "name": "Elk.Blood.Heart",
+      "url": "https://open.spotify.com/track/5PMpxJQfyrMPTfdEmyohky"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Blood Lust",
         "url": "https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 435213,
       "name": "Death's Door",
       "url": "https://open.spotify.com/track/0Af99n8xtgGe57zDumMcOT"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Macho Libre",
-        "url": "https://open.spotify.com/album/00mzkzyLCpZOaNXwZHpQjO"
-      },
-      "artists": [
-        {
-          "name": "Planet of Zeus",
-          "url": "https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG"
-        }
-      ],
-      "duration_ms": 230653,
-      "name": "Leftovers",
-      "url": "https://open.spotify.com/track/7IM5tvokhddITGFOrbZZGk"
     },
     {
       "added_at": "2023-03-22 16:17:38",
@@ -727,6 +711,22 @@
       "duration_ms": 364924,
       "name": "God Is In The Radio",
       "url": "https://open.spotify.com/track/1dVWz4VM5QkgzHLjFEKM4u"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Macho Libre",
+        "url": "https://open.spotify.com/album/00mzkzyLCpZOaNXwZHpQjO"
+      },
+      "artists": [
+        {
+          "name": "Planet of Zeus",
+          "url": "https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG"
+        }
+      ],
+      "duration_ms": 230653,
+      "name": "Leftovers",
+      "url": "https://open.spotify.com/track/7IM5tvokhddITGFOrbZZGk"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Witch",
+        "url": "https://open.spotify.com/album/5LcBa7FlZORQ1RQRJtlxFz"
+      },
+      "artists": [
+        {
+          "name": "Witch",
+          "url": "https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3"
+        }
+      ],
+      "duration_ms": 477920,
+      "name": "Seer",
+      "url": "https://open.spotify.com/track/0RGtMGYaz9esrHsFiC8TJR"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Trance States in Tongues",
         "url": "https://open.spotify.com/album/3XRs4R7TrBDAAfWk4cGIZa"
       },
@@ -1095,38 +1111,6 @@
       "duration_ms": 301973,
       "name": "Moonage Daydream",
       "url": "https://open.spotify.com/track/7cUnYzb4Hf1dg0LmYIY0QG"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "The Great American Death Rattle",
-        "url": "https://open.spotify.com/album/5CqNNTLYPQMpfXrs9LtHVY"
-      },
-      "artists": [
-        {
-          "name": "Youngblood Supercult",
-          "url": "https://open.spotify.com/artist/4WGjGwFHGjMwImoTe84nz7"
-        }
-      ],
-      "duration_ms": 244720,
-      "name": "The Great American Death Rattle",
-      "url": "https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Head Smashed In",
-        "url": "https://open.spotify.com/album/2VSqgmpVulvNEeIoxZGJVw"
-      },
-      "artists": [
-        {
-          "name": "We Hunt Buffalo",
-          "url": "https://open.spotify.com/artist/6Bz2ZeTKI0cyJwt7tBKoUU"
-        }
-      ],
-      "duration_ms": 290965,
-      "name": "Heavy Low",
-      "url": "https://open.spotify.com/track/4tLIZnSxxoVG2CtJkO0ov3"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1147,18 +1131,34 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Witch",
-        "url": "https://open.spotify.com/album/5LcBa7FlZORQ1RQRJtlxFz"
+        "name": "Head Smashed In",
+        "url": "https://open.spotify.com/album/2VSqgmpVulvNEeIoxZGJVw"
       },
       "artists": [
         {
-          "name": "Witch",
-          "url": "https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3"
+          "name": "We Hunt Buffalo",
+          "url": "https://open.spotify.com/artist/6Bz2ZeTKI0cyJwt7tBKoUU"
         }
       ],
-      "duration_ms": 477920,
-      "name": "Seer",
-      "url": "https://open.spotify.com/track/0RGtMGYaz9esrHsFiC8TJR"
+      "duration_ms": 290965,
+      "name": "Heavy Low",
+      "url": "https://open.spotify.com/track/4tLIZnSxxoVG2CtJkO0ov3"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "The Great American Death Rattle",
+        "url": "https://open.spotify.com/album/5CqNNTLYPQMpfXrs9LtHVY"
+      },
+      "artists": [
+        {
+          "name": "Youngblood Supercult",
+          "url": "https://open.spotify.com/artist/4WGjGwFHGjMwImoTe84nz7"
+        }
+      ],
+      "duration_ms": 244720,
+      "name": "The Great American Death Rattle",
+      "url": "https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR"
     },
     {
       "added_at": "2023-03-10 05:00:00",

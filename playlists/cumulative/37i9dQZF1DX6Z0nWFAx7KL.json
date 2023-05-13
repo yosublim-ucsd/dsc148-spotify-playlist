@@ -625,6 +625,24 @@
     },
     {
       "album": {
+        "name": "Come alive",
+        "url": "https://open.spotify.com/album/56tG12F6kTu2HJZHEslHPZ"
+      },
+      "artists": [
+        {
+          "name": "Marble & Gold",
+          "url": "https://open.spotify.com/artist/2SodjHn7iDJ2ZQeVogqWo7"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234049,
+      "name": "Come alive",
+      "url": "https://open.spotify.com/track/3hEWU8JfRsKM74EagGviNu"
+    },
+    {
+      "album": {
         "name": "Come Along",
         "url": "https://open.spotify.com/album/24eGI8ydRbFmsGBh1ZMXnY"
       },
@@ -970,7 +988,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 147599,
       "name": "Eye Of The Storm",
       "url": "https://open.spotify.com/track/706QfMn0WUC3rtGXuPs1RV"

@@ -4480,12 +4480,12 @@
       },
       "artists": [
         {
-          "name": "Sonambient",
-          "url": "https://open.spotify.com/artist/6kWBanEb3KNwDZ0ubLY4Yn"
-        },
-        {
           "name": "Plato",
           "url": "https://open.spotify.com/artist/4mvTxzyBjXb0ml6xxlhfDQ"
+        },
+        {
+          "name": "Sonambient",
+          "url": "https://open.spotify.com/artist/6kWBanEb3KNwDZ0ubLY4Yn"
         }
       ],
       "date_added": "2023-05-03",

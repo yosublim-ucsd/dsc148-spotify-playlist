@@ -815,6 +815,28 @@
     },
     {
       "album": {
+        "name": "All My Life (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223878,
+      "name": "All My Life (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
+    },
+    {
+      "album": {
         "name": "All Nighter",
         "url": "https://open.spotify.com/album/1cQUgdn5goiU3fbKc3aykV"
       },
@@ -9310,10 +9332,36 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 151680,
       "name": "How You Samba",
       "url": "https://open.spotify.com/track/3nyebfHIhsgRvUJd9wv3u1"
+    },
+    {
+      "album": {
+        "name": "How You Samba",
+        "url": "https://open.spotify.com/album/12WYrw3Af5ha9SVxHEv7KH"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151680,
+      "name": "How You Samba",
+      "url": "https://open.spotify.com/track/4uoSxzvEVMcDsIK0aHZFAv"
     },
     {
       "album": {
@@ -14349,6 +14397,24 @@
     },
     {
       "album": {
+        "name": "No Place Like Home",
+        "url": "https://open.spotify.com/album/7xH7wIl5e2rsPGgDP1Nio9"
+      },
+      "artists": [
+        {
+          "name": "TIMMS",
+          "url": "https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163210,
+      "name": "No Place Like Home",
+      "url": "https://open.spotify.com/track/1HDAvSg4nARVkl5inW779y"
+    },
+    {
+      "album": {
         "name": "No Reason",
         "url": "https://open.spotify.com/album/0noR7T69B8RDZ71B5VIIrt"
       },
@@ -18045,7 +18111,7 @@
         },
         {
           "name": "Lewis Thompson",
-          "url": "https://open.spotify.com/artist/2QsMZVsBumu6t90SB3yGrH"
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
         }
       ],
       "date_added": "2023-05-11",
@@ -20310,6 +20376,24 @@
       "duration_ms": 202941,
       "name": "The Otherside (feat. Paige Cavell)",
       "url": "https://open.spotify.com/track/4BtscbDsAeMeIXRCpEXMTH"
+    },
+    {
+      "album": {
+        "name": "The Planet",
+        "url": "https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178156,
+      "name": "The Planet",
+      "url": "https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg"
     },
     {
       "album": {
@@ -23113,6 +23197,24 @@
     },
     {
       "album": {
+        "name": "Real Back In Style",
+        "url": "https://open.spotify.com/album/4ZXd1RIxHGNExQjajXcdV3"
+      },
+      "artists": [
+        {
+          "name": "Potter Payper",
+          "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225423,
+      "name": "White Ash",
+      "url": "https://open.spotify.com/track/2sngouSS4sot4DR4qkX4Ef"
+    },
+    {
+      "album": {
         "name": "White Ash",
         "url": "https://open.spotify.com/album/0fq5Tu08ZzjlTgk6vgtdma"
       },
@@ -23124,7 +23226,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 225423,
       "name": "White Ash",
       "url": "https://open.spotify.com/track/3u47ySotzOLUU4oWbqQ7ev"

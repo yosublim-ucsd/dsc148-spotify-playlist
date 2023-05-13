@@ -1939,6 +1939,24 @@
     },
     {
       "album": {
+        "name": "Second Best Thing",
+        "url": "https://open.spotify.com/album/6lHzXNv0spHnMTZCeqWP1p"
+      },
+      "artists": [
+        {
+          "name": "Travis Denning",
+          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191546,
+      "name": "Second Best Thing",
+      "url": "https://open.spotify.com/track/3YZnlHl5UvSS5gG5smw9Hz"
+    },
+    {
+      "album": {
         "name": "The Highway Kind",
         "url": "https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ"
       },

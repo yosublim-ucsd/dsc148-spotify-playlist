@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDhSekKgFI.md) - [plain]
 
 > Los niños se volverán locos por estas canciones de fiesta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,017 likes - 61 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,042 likes - 61 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDhSekKgFI.md) - [plain]
 | 3 | [Don't Start Now](https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:03 |
 | 4 | [Sucker](https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:01 |
 | 5 | [You Need To Calm Down](https://open.spotify.com/track/6RRNNciQGZEXnqk8SQ9yv5) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:51 |
-| 6 | [Prisoner \(feat\. Dua Lipa\)](https://open.spotify.com/track/2Oycxb8QbPkpHTo8ZrmG0B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 2:49 |
-| 7 | [Havana \(feat\. Young Thug\)](https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 3:37 |
+| 6 | [Havana \(feat\. Young Thug\)](https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 3:37 |
+| 7 | [Prisoner \(feat\. Dua Lipa\)](https://open.spotify.com/track/2Oycxb8QbPkpHTo8ZrmG0B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 2:49 |
 | 8 | [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 |
 | 9 | [Dance Monkey](https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance Monkey \(Stripped Back\) / Dance Monkey](https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD) | 3:29 |
 | 10 | [Old Town Road](https://open.spotify.com/track/0F7FA14euOIX8KcbEturGH) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 1:53 |
@@ -56,11 +56,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDhSekKgFI.md) - [plain]
 | 46 | [Copy Paste](https://open.spotify.com/track/39UXEKOYb2YXx3GgzQf7hs) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Copy Paste](https://open.spotify.com/album/0BMYDRsP7t1nBcDM2Lmatn) | 3:01 |
 | 47 | [Vamos a Jugar](https://open.spotify.com/track/4qRrtwjr7wKWniPuFr2Cu9) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 2:55 |
 | 48 | [La Luz](https://open.spotify.com/track/7Jafrholm3CJ8AIfWKi77X) | [Isabella Castillo](https://open.spotify.com/artist/1VMbsWJQQaRlubXsKcEOcL) | [Yo Soy Franky \(Música Original de la Serie\)](https://open.spotify.com/album/4b1h8Ne7RKTyIpQ9WfWm8F) | 3:40 |
-| 49 | [A Bailar \(Reggaeton\)](https://open.spotify.com/track/1o57FlJbOyZyg9f6ZZYR4W) | [Payasitas Nifu Nifa](https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T), [Dj Checho](https://open.spotify.com/artist/22x9PuTD1UCatt3pkPn8QZ) | [Por Ti y Para Ti](https://open.spotify.com/album/553Z8YDy0KOYGyh1BegVoH) | 3:24 |
+| 49 | [Esto es una fiesta](https://open.spotify.com/track/1EJPIRE9940BW0ksVlt3Of) | [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Esto es una fiesta \(Music from the TV Series\)](https://open.spotify.com/album/27sSsMXBELJJkHpasXVq0u) | 2:13 |
 | 50 | [Un Día Voy a Ser Gigante](https://open.spotify.com/track/24F2hfF3c2hx0wAzzP1NHn) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [Miss Patylu, vol\. 1](https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq) | 3:16 |
 | 51 | [Todo de Ti](https://open.spotify.com/track/5yLHW8TGZihPwravJTTrgu) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Todo de Ti](https://open.spotify.com/album/22OaXBrC2e3CrQ5Cgp6m2L) | 2:31 |
 | 52 | [Osito Carpintero](https://open.spotify.com/track/4x9TXDIjvz3RElsuPiEVqE) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 2:36 |
-| 53 | [Esto es una fiesta](https://open.spotify.com/track/1EJPIRE9940BW0ksVlt3Of) | [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Esto es una fiesta \(Music from the TV Series\)](https://open.spotify.com/album/27sSsMXBELJJkHpasXVq0u) | 2:13 |
+| 53 | [A Bailar \(Reggaeton\)](https://open.spotify.com/track/1o57FlJbOyZyg9f6ZZYR4W) | [Payasitas Nifu Nifa](https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T), [Dj Checho](https://open.spotify.com/artist/22x9PuTD1UCatt3pkPn8QZ) | [Por Ti y Para Ti](https://open.spotify.com/album/553Z8YDy0KOYGyh1BegVoH) | 3:24 |
 | 54 | [A Divertirse](https://open.spotify.com/track/1URPFeH9U75h8hCjyZylEA) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [¡Viva Mi Planeta 2!](https://open.spotify.com/album/75DqI2Vyklgc4fDTzISbWb) | 1:54 |
 | 55 | [Speedy Gonzalez](https://open.spotify.com/track/11dG2Slr6F3a3UB7MHztvd) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Adelante](https://open.spotify.com/album/0npmHTuGBf093p6kFgZKam) | 3:25 |
 | 56 | [Chiqui Boom](https://open.spotify.com/track/6QOEP25z7BqTTIK8Skyu7Z) | [Banda Infantil](https://open.spotify.com/artist/28qWzF1RMBH0ZJrSj20BdZ) | [Colorea Tu Portada Vol.25](https://open.spotify.com/album/6B4ZCjw573fCJh94YZq6nV) | 3:12 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDhSekKgFI.md) - [plain]
 | 60 | [Desconocidos](https://open.spotify.com/track/18K0QPs7G0yPaDlz1W47bG) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 40](https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ) | 3:26 |
 | 61 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 |
 
-Snapshot ID: `MCxiNDJlNjY4OWVlOWRkMTY5NTlkNjlhYmIzYzE1NTUwNTlhNDVkYzNi`
+Snapshot ID: `MCw2ZGE0ZDgxZTU0MzQ2MmJlNTRhMjhiMzg3OGQzNGNlOGZlZDIyY2Jh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 
 > Écoutez en boucle les hits algériens du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,023 likes - 40 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,111 likes - 40 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 | 24 | [Ghorba](https://open.spotify.com/track/3toSazVCqpqb4gbDv5oFu1) | [Medi Meyz](https://open.spotify.com/artist/4XCcYzu2zRJvBp3QZct3Oj), [Souf](https://open.spotify.com/artist/2tsnxjntsRI6iFL9ZeC0ec), [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Ghorba](https://open.spotify.com/album/2fzJHkMuLWU9nHXstA5cw8) | 3:45 |
 | 25 | [Oublie\-moi](https://open.spotify.com/track/19EZ9PFgJM0xh2Ruld9z2F) | [Emkal](https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs) | [Oublie\-moi](https://open.spotify.com/album/4hS1lDUpq5UXLapDgD9MFY) | 3:01 |
 | 26 | [Oran Marseille](https://open.spotify.com/track/0Ye58r1DvVAIR2JMpNEu8B) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [Nadirben](https://open.spotify.com/artist/6zqHGUcxVpqdd2aP3513d3), [Lakero](https://open.spotify.com/artist/15M6Rc9osdjjf4H45ET433) | [Oran Marseille](https://open.spotify.com/album/39RyhwGJlc0JKBclw45kFC) | 2:55 |
-| 27 | [KHABTA](https://open.spotify.com/track/4haYrG9E9kcu1inPdfsktK) | [La mass le vrai](https://open.spotify.com/artist/1HPm1tMewqJhqjGkM7f5vk), [Phobia Isaac](https://open.spotify.com/artist/2q4mJNyOd6lXVRR3DCdci3) | [KHABTA](https://open.spotify.com/album/5daw2vuOQGUWyHYoUvKPEm) | 4:24 |
+| 27 | [KHABTA](https://open.spotify.com/track/6p0nEcRHhxqTpEekVYhiPF) | [La mass le vrai](https://open.spotify.com/artist/1HPm1tMewqJhqjGkM7f5vk), [Phobia Isaac](https://open.spotify.com/artist/2q4mJNyOd6lXVRR3DCdci3) | [KHABTA](https://open.spotify.com/album/5WvYOZJbUHnsDF8FNPajiU) | 4:24 |
 | 28 | [Ma Bella](https://open.spotify.com/track/45KQJy7KlhyXCPZzg3ACvW) | [Fethi Manar](https://open.spotify.com/artist/6g9hpEimVF4dYzs32kT94m) | [Ma Bella](https://open.spotify.com/album/5GutzL1w4cssmLszj2oFpX) | 4:21 |
 | 29 | [El Walida](https://open.spotify.com/track/0OMWSq7rLnzzZk8xto8BR8) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh), [Kader Japonais](https://open.spotify.com/artist/3e3cKwH1kUr02bvIm7VaIe), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [El Walida](https://open.spotify.com/album/10jXA8hvcNntyPi4DRJWbW) | 4:10 |
 | 30 | [Achfa](https://open.spotify.com/track/0Q7rY5KgKlvmBjvYYMpEFM) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Achfa](https://open.spotify.com/album/5C8huomQsXZdimYXBFQxEw) | 3:40 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 | 39 | [Thatmet Lekdar](https://open.spotify.com/track/61vtgCYKGAiw75IoTnDCG1) | [Kami Phénoméne](https://open.spotify.com/artist/2BxA0WWffDANrGk2etCPfI) | [Bonita](https://open.spotify.com/album/6SV06bKUQ0zibdRafy5PSW) | 4:07 |
 | 40 | [Mazal Mazal](https://open.spotify.com/track/2YSsSIVvoOtuXfbTUp3X71) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Mazal Mazal](https://open.spotify.com/album/1oghaMTdh4pK4qUmp81t4u) | 3:17 |
 
-Snapshot ID: `MCxkNjc0YWNiOGI1OWU1ZWEyOWViNTg1ZTNmMDU0MTliYjI0NGE0M2Q3`
+Snapshot ID: `MCwzMWU0NjAwMjFhOWM5ZTEyYzVmNDM5YjMxYThiOTE5NzNkMjRmMzc1`

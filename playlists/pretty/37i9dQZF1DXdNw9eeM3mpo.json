@@ -1,12 +1,12 @@
 {
   "description": "100 % ska latinoamericano. Los Caligaris en portada.",
-  "num_followers": 422507,
+  "num_followers": 422621,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTY5ZDk4M2ZkNjE3ZTAyZjAxMjA0ZjA2MGIwOWU0MjdiYTEwYTcy",
+  "snapshot_id": "MCxhMzkzNTY3ZDNjMjkzZmI4NTAzYWVmOGVhNWZiYWQzZGYyNDc0M2Vm",
   "tracks": [
     {
       "added_at": "2021-12-21 17:00:46",
@@ -885,6 +885,22 @@
       "url": "https://open.spotify.com/track/2yV2H6tLETd64BapUezE95"
     },
     {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "Frecuencia Extrema",
+        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Mala Vida",
+      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
+    },
+    {
       "added_at": "2022-09-07 01:07:35",
       "album": {
         "name": "Batuco",
@@ -903,22 +919,6 @@
       "duration_ms": 328680,
       "name": "Mi Vida sin tu Amor (featuring Mi\u00f1o)",
       "url": "https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
-        "name": "Frecuencia Extrema",
-        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Mala Vida",
-      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1017,22 +1017,6 @@
       "url": "https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED"
     },
     {
-      "added_at": "2022-09-29 00:17:43",
-      "album": {
-        "name": "Todo Alg\u00fan D\u00eda Termina",
-        "url": "https://open.spotify.com/album/6ee0nmx2mLFnanzvX32pSK"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        }
-      ],
-      "duration_ms": 248014,
-      "name": "Todo Alg\u00fan D\u00eda Termina",
-      "url": "https://open.spotify.com/track/45YYcOVAIAFxGV0kR4pMq0"
-    },
-    {
       "added_at": "2021-12-21 17:00:46",
       "album": {
         "name": "Flamingo",
@@ -1067,6 +1051,22 @@
       "duration_ms": 264354,
       "name": "Fuera de Ritmo",
       "url": "https://open.spotify.com/track/2wjG05ZMz3Cgy4opzpNNd7"
+    },
+    {
+      "added_at": "2022-09-29 00:17:43",
+      "album": {
+        "name": "Todo Alg\u00fan D\u00eda Termina",
+        "url": "https://open.spotify.com/album/6ee0nmx2mLFnanzvX32pSK"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        }
+      ],
+      "duration_ms": 248014,
+      "name": "Todo Alg\u00fan D\u00eda Termina",
+      "url": "https://open.spotify.com/track/45YYcOVAIAFxGV0kR4pMq0"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1169,22 +1169,6 @@
       "url": "https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P"
     },
     {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
-        "name": "Somos",
-        "url": "https://open.spotify.com/album/5X8S69HVzok5dsfLRcoRVA"
-      },
-      "artists": [
-        {
-          "name": "Kotardo",
-          "url": "https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P"
-        }
-      ],
-      "duration_ms": 145285,
-      "name": "Somos",
-      "url": "https://open.spotify.com/track/32cN25vFyAg3SlY5UrwNyr"
-    },
-    {
       "added_at": "2021-12-21 17:00:46",
       "album": {
         "name": "Supersonico",
@@ -1199,6 +1183,22 @@
       "duration_ms": 206933,
       "name": "Qu\u00e9 Vas a Hacer Conmigo",
       "url": "https://open.spotify.com/track/4J0phvYcKa1Hr1EBwH0pu3"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
+        "name": "Somos",
+        "url": "https://open.spotify.com/album/5X8S69HVzok5dsfLRcoRVA"
+      },
+      "artists": [
+        {
+          "name": "Kotardo",
+          "url": "https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P"
+        }
+      ],
+      "duration_ms": 145285,
+      "name": "Somos",
+      "url": "https://open.spotify.com/track/32cN25vFyAg3SlY5UrwNyr"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1393,22 +1393,6 @@
       "url": "https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX"
     },
     {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
-        "name": "Del Ayer",
-        "url": "https://open.spotify.com/album/3FedNhiF6P9nE4P5CUEhCD"
-      },
-      "artists": [
-        {
-          "name": "Tropa 56",
-          "url": "https://open.spotify.com/artist/7dQkBUbCHIHb5T5tjD8dQJ"
-        }
-      ],
-      "duration_ms": 280750,
-      "name": "Del Ayer",
-      "url": "https://open.spotify.com/track/3jBY6x8LCx4X6ylaFWTMeR"
-    },
-    {
       "added_at": "2021-12-21 17:00:46",
       "album": {
         "name": "Crimen en el Para\u00edso",
@@ -1423,6 +1407,22 @@
       "duration_ms": 212766,
       "name": "Crimen en el Para\u00edso",
       "url": "https://open.spotify.com/track/1vevBksiqjLNvrCCaVeSAq"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
+        "name": "Del Ayer",
+        "url": "https://open.spotify.com/album/3FedNhiF6P9nE4P5CUEhCD"
+      },
+      "artists": [
+        {
+          "name": "Tropa 56",
+          "url": "https://open.spotify.com/artist/7dQkBUbCHIHb5T5tjD8dQJ"
+        }
+      ],
+      "duration_ms": 280750,
+      "name": "Del Ayer",
+      "url": "https://open.spotify.com/track/3jBY6x8LCx4X6ylaFWTMeR"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Pante\u00f3n Rococ\u00f3",
-        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 197533,
-      "name": "Estrella Roja",
-      "url": "https://open.spotify.com/track/6sNGJP7X3DSmQsdSD91Eu0"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
         "name": "Lo Esencial",
         "url": "https://open.spotify.com/album/2P9cy8tTevB3UBgAD3MQio"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 274960,
       "name": "El Matador",
       "url": "https://open.spotify.com/track/7N2qyJrAp16ghZFBloT8Ye"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 197533,
+      "name": "Estrella Roja",
+      "url": "https://open.spotify.com/track/6sNGJP7X3DSmQsdSD91Eu0"
     },
     {
       "added_at": "2022-09-28 22:54:48",

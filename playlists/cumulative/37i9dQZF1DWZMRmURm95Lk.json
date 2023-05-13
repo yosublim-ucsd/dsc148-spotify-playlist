@@ -90,7 +90,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 161890,
       "name": "64 Bare",
       "url": "https://open.spotify.com/track/2hgdx2fVpYncIrV4IDMZoF"
@@ -862,7 +862,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-11",
+      "date_removed": null,
       "duration_ms": 283480,
       "name": "Chi more pe' mme",
       "url": "https://open.spotify.com/track/25flWdPdXnkAUnaAYiptsJ"
@@ -1886,16 +1886,16 @@
           "url": "https://open.spotify.com/artist/7Munu8K4WpaJxPfnwXh0re"
         },
         {
-          "name": "Franco126",
-          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
-        },
-        {
           "name": "Asp126",
           "url": "https://open.spotify.com/artist/7eNMxs7VUuMBoGNipu7z5G"
         },
         {
           "name": "Mystic One",
           "url": "https://open.spotify.com/artist/3ZjI6kc92iwO57El1ZneWY"
+        },
+        {
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
         },
         {
           "name": "Nino Brown",
@@ -3048,7 +3048,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-23",
+      "date_removed": null,
       "duration_ms": 175219,
       "name": "Maledetti",
       "url": "https://open.spotify.com/track/1xL1G84NvDrorgI0Xcg0Rt"
@@ -3406,7 +3406,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 260000,
       "name": "Natura",
       "url": "https://open.spotify.com/track/5ebE6c9KKiOgI4iF40AraF"
@@ -5110,12 +5110,12 @@
           "url": "https://open.spotify.com/artist/7Munu8K4WpaJxPfnwXh0re"
         },
         {
-          "name": "Franco126",
-          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
-        },
-        {
           "name": "Ugo Borghetti",
           "url": "https://open.spotify.com/artist/3i6za4KlTDNe8mducqnwJi"
+        },
+        {
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
         },
         {
           "name": "Gemello",

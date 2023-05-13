@@ -1,28 +1,84 @@
 {
-  "description": "Chilled R&B jams for your most relaxed moods. Cover: Phabo",
-  "num_followers": 2328422,
+  "description": "Chilled R&B jams for your most relaxed moods. Cover: Tay Iwar",
+  "num_followers": 2328645,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzA1Y2ExZjY0MjM2ZmZkMWY5MTM1ZTYwOTFhMjc1NDY0MTkxOTU0",
+  "snapshot_id": "MCwyNGJjZDNjZTcyZWY0YmVjMDQ1MDBjZDU2OTVhNmZmYjY1ZWQ0MDk4",
   "tracks": [
     {
-      "added_at": "2023-05-05 04:00:00",
+      "added_at": "2023-05-12 04:36:41",
       "album": {
-        "name": "Casamigos",
-        "url": "https://open.spotify.com/album/0fhG0rYGnIX8l9lzn9WRed"
+        "name": "Undercover Lover",
+        "url": "https://open.spotify.com/album/11T4lEhgDKLOA6be6OUzfP"
       },
       "artists": [
         {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Twelve XII",
+          "url": "https://open.spotify.com/artist/5Xy5YahwMWeQneQEjYnzHi"
         }
       ],
-      "duration_ms": 142191,
-      "name": "Casamigos",
-      "url": "https://open.spotify.com/track/5zpsRcW4tF8kUgJY7NvbcX"
+      "duration_ms": 152072,
+      "name": "Undercover Lover",
+      "url": "https://open.spotify.com/track/27z7oXTVCZnNL23hPI1cPj"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "ME YOU & GOD",
+        "url": "https://open.spotify.com/album/2dz401rHd6flMgD42tPSk4"
+      },
+      "artists": [
+        {
+          "name": "Jidenna",
+          "url": "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+        }
+      ],
+      "duration_ms": 171426,
+      "name": "MAYBE SWANKAFORNiA",
+      "url": "https://open.spotify.com/track/0mRa1oLuYvOOhRydLk0Bqp"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Full Circle : Sonic Book 1",
+        "url": "https://open.spotify.com/album/0ZTwFe2keKG5kkROe5Unf7"
+      },
+      "artists": [
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        },
+        {
+          "name": "Rileyy Lanez",
+          "url": "https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr"
+        }
+      ],
+      "duration_ms": 205630,
+      "name": "BS",
+      "url": "https://open.spotify.com/track/4c5VzowOXBYPveZPa51eRw"
+    },
+    {
+      "added_at": "2023-05-12 04:36:41",
+      "album": {
+        "name": "MAGIC!",
+        "url": "https://open.spotify.com/album/7rZ8d3jhHarpijjU57Waqo"
+      },
+      "artists": [
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "duration_ms": 195041,
+      "name": "MAGIC!",
+      "url": "https://open.spotify.com/track/03bFDCogqEAeXsiNdTBY1D"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -155,38 +211,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "ME YOU & GOD",
-        "url": "https://open.spotify.com/album/2dz401rHd6flMgD42tPSk4"
+        "name": "Casamigos",
+        "url": "https://open.spotify.com/album/0fhG0rYGnIX8l9lzn9WRed"
       },
       "artists": [
         {
-          "name": "Jidenna",
-          "url": "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
         }
       ],
-      "duration_ms": 171426,
-      "name": "MAYBE SWANKAFORNiA",
-      "url": "https://open.spotify.com/track/0mRa1oLuYvOOhRydLk0Bqp"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Full Circle : Sonic Book 1",
-        "url": "https://open.spotify.com/album/0ZTwFe2keKG5kkROe5Unf7"
-      },
-      "artists": [
-        {
-          "name": "Omarion",
-          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
-        },
-        {
-          "name": "Rileyy Lanez",
-          "url": "https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr"
-        }
-      ],
-      "duration_ms": 205630,
-      "name": "BS",
-      "url": "https://open.spotify.com/track/4c5VzowOXBYPveZPa51eRw"
+      "duration_ms": 142191,
+      "name": "Casamigos",
+      "url": "https://open.spotify.com/track/5zpsRcW4tF8kUgJY7NvbcX"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -397,40 +433,36 @@
       "url": "https://open.spotify.com/track/0QWbZNc1mW8k9Alpl6AnSL"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-05-12 04:36:41",
       "album": {
-        "name": "Scorpio Moon",
-        "url": "https://open.spotify.com/album/2NpMbftxDxTwKI2CAVz6gv"
+        "name": "No Love Without You",
+        "url": "https://open.spotify.com/album/4psixGGfeWXq1LMcVmX9ME"
       },
       "artists": [
         {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+          "name": "Jesse Boykins III",
+          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
         }
       ],
-      "duration_ms": 177371,
-      "name": "Scorpio Moon",
-      "url": "https://open.spotify.com/track/3IGuwQrpudC28e2gMgNjWj"
+      "duration_ms": 190329,
+      "name": "No Love Without You",
+      "url": "https://open.spotify.com/track/6hkp6tJrFcoYkdktLIA4rh"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-05-12 04:36:41",
       "album": {
-        "name": "NEVER ENOUGH",
-        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
+        "name": "June 15th",
+        "url": "https://open.spotify.com/album/3NZoQUV5mWoXx9CrCZvulx"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "serpentwithfeet",
-          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+          "name": "TA Thomas",
+          "url": "https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul"
         }
       ],
-      "duration_ms": 241232,
-      "name": "Disillusioned (with serpentwithfeet)",
-      "url": "https://open.spotify.com/track/4YsnwsPURRSvprBHBY1BCd"
+      "duration_ms": 163631,
+      "name": "June 15th",
+      "url": "https://open.spotify.com/track/6LikRE4RwaYvfm79UwEU3X"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -469,6 +501,42 @@
       "url": "https://open.spotify.com/track/35wau9leYsDWBTW4A0ISyL"
     },
     {
+      "added_at": "2023-05-12 04:36:41",
+      "album": {
+        "name": "Charismatic",
+        "url": "https://open.spotify.com/album/6mbkUcTvJ5eS6OBzeuAwyw"
+      },
+      "artists": [
+        {
+          "name": "Hailey Knox",
+          "url": "https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH"
+        }
+      ],
+      "duration_ms": 184736,
+      "name": "Charismatic",
+      "url": "https://open.spotify.com/track/4zJD8PyDnzzA3WCi8Eg0jc"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "duration_ms": 241232,
+      "name": "Disillusioned (with serpentwithfeet)",
+      "url": "https://open.spotify.com/track/4YsnwsPURRSvprBHBY1BCd"
+    },
+    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "What Had Happened Was\u2026 (Deluxe Edition)",
@@ -487,6 +555,22 @@
       "duration_ms": 171000,
       "name": "Brandy Joint",
       "url": "https://open.spotify.com/track/5sDIe7tx9ZenBPTH4cgb33"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Scorpio Moon",
+        "url": "https://open.spotify.com/album/2NpMbftxDxTwKI2CAVz6gv"
+      },
+      "artists": [
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        }
+      ],
+      "duration_ms": 177371,
+      "name": "Scorpio Moon",
+      "url": "https://open.spotify.com/track/3IGuwQrpudC28e2gMgNjWj"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -525,20 +609,24 @@
       "url": "https://open.spotify.com/track/39RJfDkli3BkEsW6LN4DrZ"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
+      "added_at": "2023-05-12 04:36:41",
       "album": {
-        "name": "Valentina",
-        "url": "https://open.spotify.com/album/3Fqjb0gzWbJglEdf4HX5uw"
+        "name": "cool_v2",
+        "url": "https://open.spotify.com/album/314cN1rqr9aqjS1J2ag5Sq"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "Merges",
+          "url": "https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3"
+        },
+        {
+          "name": "Kaelin Ellis",
+          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
         }
       ],
-      "duration_ms": 154531,
-      "name": "Valentina",
-      "url": "https://open.spotify.com/track/0s7Z1RtnsmiYOfSIbB3btD"
+      "duration_ms": 132374,
+      "name": "cool_v2",
+      "url": "https://open.spotify.com/track/5KxudlMFpmglXBDeYHxUhm"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -623,6 +711,22 @@
       "duration_ms": 126857,
       "name": "THERAPY",
       "url": "https://open.spotify.com/track/49Lbka7DlfHkooF7ZIkQl2"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Valentina",
+        "url": "https://open.spotify.com/album/3Fqjb0gzWbJglEdf4HX5uw"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 154531,
+      "name": "Valentina",
+      "url": "https://open.spotify.com/track/0s7Z1RtnsmiYOfSIbB3btD"
     },
     {
       "added_at": "2023-04-21 04:00:00",

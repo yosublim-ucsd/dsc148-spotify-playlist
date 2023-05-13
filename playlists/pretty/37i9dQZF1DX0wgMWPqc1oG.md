@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 
 > The essential recordings from the beginning of the Post Bop era\. Cover: Freddie Hubbard
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,913 likes - 100 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,931 likes - 100 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,10 +81,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 71 | [Portsmouth Figurations](https://open.spotify.com/track/3D0W1LYyO4yp2QjEg6UiJS) | [Gary Burton Quartet](https://open.spotify.com/artist/2vB9VR5CJ70elfI1wWrvBl) | [Duster](https://open.spotify.com/album/7hA6gmViMYYoSpb8FxJsFf) | 3:05 |
 | 72 | [Stop\-Start](https://open.spotify.com/track/7GBWFGFJQ8KHG3oS5rmIlJ) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Procrastinator](https://open.spotify.com/album/4HyzR2bsFvS4GqJMYtHjvq) | 6:12 |
 | 73 | [Point Of Many Returns](https://open.spotify.com/track/0cCWBZBTGiKwqZtxbgp8gY) | [Sam Rivers](https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5) | [Contours](https://open.spotify.com/album/4Qk5Ifnki13u4bSvNwXM8Y) | 9:23 |
-| 74 | [Thumb Under](https://open.spotify.com/track/02lmMdDTxH58UIwpQ60PK8) | [Lee Konitz Quintet](https://open.spotify.com/artist/58qZcMEA6JYKQ1QHtBUkz2) | [Peacemeal](https://open.spotify.com/album/7dvmPixFQk7VT64HfSfIuh) | 3:14 |
+| 74 | [East of the Sun \- Live@Monterey](https://open.spotify.com/track/0oanzoMD8tt7YMkgaAd6Gj) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Forest Flower: Charles Lloyd At Monterey](https://open.spotify.com/album/6lIWfnUerZuu9UcUDnF2JD) | 10:44 |
 | 75 | [Sao Paulo \- Remastered 2014](https://open.spotify.com/track/1USV1eumNSdlqPCSOkOUg4) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Una Mas \(Remastered 2014\)](https://open.spotify.com/album/5CWHeD4i4D8ytWcttJ2SpZ) | 7:17 |
 | 76 | [Herzog](https://open.spotify.com/track/00ccfrP2pK0CHhaSeGZXHy) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Total Eclipse](https://open.spotify.com/album/22CAQduBWiDnEMAF05wWlM) | 6:36 |
-| 77 | [East of the Sun \- Live@Monterey](https://open.spotify.com/track/0oanzoMD8tt7YMkgaAd6Gj) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Forest Flower: Charles Lloyd At Monterey](https://open.spotify.com/album/6lIWfnUerZuu9UcUDnF2JD) | 10:44 |
+| 77 | [Thumb Under](https://open.spotify.com/track/02lmMdDTxH58UIwpQ60PK8) | [Lee Konitz Quintet](https://open.spotify.com/artist/58qZcMEA6JYKQ1QHtBUkz2) | [Peacemeal](https://open.spotify.com/album/7dvmPixFQk7VT64HfSfIuh) | 3:14 |
 | 78 | [Off My Back Jack](https://open.spotify.com/track/3AtuHU0gxC9210nu0wK3tU) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali](https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX) | 5:13 |
 | 79 | [Kahlil The Prophet](https://open.spotify.com/track/25UXC18kep4qTng1062Fjf) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Destination...Out!](https://open.spotify.com/album/5G3L2XFdPWxKmsFSljLjj1) | 10:24 |
 | 80 | [Easterly Winds \- Remastered](https://open.spotify.com/track/1XZrDnwGRDzElcXigwhUSb) | [Jack Wilson](https://open.spotify.com/artist/1MJpO71ShS9nmFAbT6KM2n) | [Easterly Winds \(Remastered\)](https://open.spotify.com/album/1Xist2IJU302l9yVzyVoYz) | 5:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 99 | [Breaking Point \- Remastered 2004](https://open.spotify.com/track/45wnqKMg6CEL48lWMqCvQt) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Breaking Point](https://open.spotify.com/album/0FeZbhuzIoD7E5ru2eDpIH) | 10:19 |
 | 100 | [Melonae's Dance \- Remastered](https://open.spotify.com/track/6E9PgCW9kMhkIZuuCXcc5K) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Jackie's Bag](https://open.spotify.com/album/38DK5YkAlvSqJ7BAEQPm7P) | 6:46 |
 
-Snapshot ID: `MCwwODJmNDQwMzIyNmIwZDc3Zjc5MWVjNDc2ZGU0YjRjM2Y1ZjI2MTY4`
+Snapshot ID: `MCw4NTg1NzI4OTIyMmU5ZGE3ZDI0ZDllNzVjMGFhMTZkYjdmNTNiY2I1`

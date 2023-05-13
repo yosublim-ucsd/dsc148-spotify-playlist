@@ -1,12 +1,12 @@
 {
   "description": "El aderezo que te falta.",
-  "num_followers": 34152,
+  "num_followers": 34165,
   "original_name": "Cocina con sabor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjM0ZTMyMWFjNGJiMDExMzcyMjZhZTcwZTFmOWQxZTVhODU5NDkz",
+  "snapshot_id": "MCwwZDg0YjNjZDcwODYzZTY1NWFhODk5ZjljYjhhYzZlM2M1ZmY3YTEx",
   "tracks": [
     {
       "added_at": "2021-03-15 16:04:53",
@@ -763,6 +763,38 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "Jersey Beat: The Music Of Frankie Valli and The Four Seasons",
+        "url": "https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+        }
+      ],
+      "duration_ms": 168706,
+      "name": "Beggin' - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4LQtQV5HHTdVBCBJYaEuUr"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
+        "url": "https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 118120,
+      "name": "Desafinado",
+      "url": "https://open.spotify.com/track/7dm2MG1cI9oo3kZgpjMLFz"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "Gal Costa",
         "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
       },
@@ -795,38 +827,6 @@
       "duration_ms": 161973,
       "name": "The Tide Is High - Stereo Version",
       "url": "https://open.spotify.com/track/7056gVvC7P3PpltHgippd2"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "Jersey Beat: The Music Of Frankie Valli and The Four Seasons",
-        "url": "https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
-        }
-      ],
-      "duration_ms": 168706,
-      "name": "Beggin' - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4LQtQV5HHTdVBCBJYaEuUr"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
-        "url": "https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 118120,
-      "name": "Desafinado",
-      "url": "https://open.spotify.com/track/7dm2MG1cI9oo3kZgpjMLFz"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1131,18 +1131,22 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Gipsy Kings",
-        "url": "https://open.spotify.com/album/4aDmHcFNChCXPle7tMeoWS"
+        "name": "Intensified",
+        "url": "https://open.spotify.com/album/1QRSVAqC4M1HQGb8P1B6Cy"
       },
       "artists": [
         {
-          "name": "Gipsy Kings",
-          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
+          "name": "Desmond Dekker",
+          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
+        },
+        {
+          "name": "ACES",
+          "url": "https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG"
         }
       ],
-      "duration_ms": 231093,
-      "name": "A Mi Manera",
-      "url": "https://open.spotify.com/track/1R0GOPjljIJ997WnDXWW88"
+      "duration_ms": 153663,
+      "name": "(Poor Mi) Israelites",
+      "url": "https://open.spotify.com/track/53aXCpKRUASUQ8cIDsJ7VN"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1163,22 +1167,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Intensified",
-        "url": "https://open.spotify.com/album/1QRSVAqC4M1HQGb8P1B6Cy"
+        "name": "Gipsy Kings",
+        "url": "https://open.spotify.com/album/4aDmHcFNChCXPle7tMeoWS"
       },
       "artists": [
         {
-          "name": "Desmond Dekker",
-          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
-        },
-        {
-          "name": "ACES",
-          "url": "https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG"
+          "name": "Gipsy Kings",
+          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
         }
       ],
-      "duration_ms": 153663,
-      "name": "(Poor Mi) Israelites",
-      "url": "https://open.spotify.com/track/53aXCpKRUASUQ8cIDsJ7VN"
+      "duration_ms": 231093,
+      "name": "A Mi Manera",
+      "url": "https://open.spotify.com/track/1R0GOPjljIJ997WnDXWW88"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "S'Imbora - A Hist\u00f3ria De Wilson Simonal",
+        "url": "https://open.spotify.com/album/4N9x0tpa3JaHNTWfoRvIx4"
+      },
+      "artists": [
+        {
+          "name": "Wilson Simonal",
+          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
+        }
+      ],
+      "duration_ms": 152226,
+      "name": "Nem Vem Que N\u00e3o Tem - Ao Vivo",
+      "url": "https://open.spotify.com/track/2Tu5gM7e8Di209p7Gg2CCp"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "Domingo",
         "url": "https://open.spotify.com/album/4d8IqRNN8UX3vxtS6jnBA8"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 112466,
       "name": "Remelexo",
       "url": "https://open.spotify.com/track/0jkR7EFXNnY1PHJ8pMYnd9"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "S'Imbora - A Hist\u00f3ria De Wilson Simonal",
-        "url": "https://open.spotify.com/album/4N9x0tpa3JaHNTWfoRvIx4"
-      },
-      "artists": [
-        {
-          "name": "Wilson Simonal",
-          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
-        }
-      ],
-      "duration_ms": 152226,
-      "name": "Nem Vem Que N\u00e3o Tem - Ao Vivo",
-      "url": "https://open.spotify.com/track/2Tu5gM7e8Di209p7Gg2CCp"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Se\u00f1or Coconut / Around the World",
-        "url": "https://open.spotify.com/album/3kc3Xf5509dG8PJeAkmZuF"
-      },
-      "artists": [
-        {
-          "name": "Atom TM",
-          "url": "https://open.spotify.com/artist/2a8NW6dE2Igxb6LQXDhdgL"
-        }
-      ],
-      "duration_ms": 167497,
-      "name": "Around the World (Intro)",
-      "url": "https://open.spotify.com/track/21lWmLmNPE7tBehlegKU7c"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Coleccion",
         "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 238413,
       "name": "La negra Tomasa",
       "url": "https://open.spotify.com/track/4ruIPaoUI5m32txdjLkpzG"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Se\u00f1or Coconut / Around the World",
+        "url": "https://open.spotify.com/album/3kc3Xf5509dG8PJeAkmZuF"
+      },
+      "artists": [
+        {
+          "name": "Atom TM",
+          "url": "https://open.spotify.com/artist/2a8NW6dE2Igxb6LQXDhdgL"
+        }
+      ],
+      "duration_ms": 167497,
+      "name": "Around the World (Intro)",
+      "url": "https://open.spotify.com/track/21lWmLmNPE7tBehlegKU7c"
     },
     {
       "added_at": "2021-03-15 16:04:53",

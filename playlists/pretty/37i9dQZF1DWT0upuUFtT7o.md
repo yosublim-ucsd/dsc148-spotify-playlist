@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Waterbaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,245 likes - 120 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,297 likes - 120 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 13 | [Stinks 4 Lyfe](https://open.spotify.com/track/6omYJzwD9CJarnbwe5BItE) | [Nymphlord](https://open.spotify.com/artist/1yfevoyZUkL1AppRncgILh) | [Stinks 4 Lyfe](https://open.spotify.com/album/1U6LhGdZF7C7R70PDhtGQV) | 3:10 |
 | 14 | [White Out](https://open.spotify.com/track/0dVj5fmkYseC1paXiRc9Wg) | [Xelli Island](https://open.spotify.com/artist/0Hd7uyxLIPZMxOpcZIZ7sV) | [White Out](https://open.spotify.com/album/4YY1lRElicxpo436bQOW7r) | 4:27 |
 | 15 | [Adriene](https://open.spotify.com/track/41LWp11o90tOinH3V3xpky) | [Flasher](https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f) | [In My Myth](https://open.spotify.com/album/7r3Avec8jernU9ZI1GNKjl) | 4:20 |
-| 16 | [I Wanna Feel Good Naked](https://open.spotify.com/track/0FFp3UtslIjNPY1Z8VBTEy) | [Ava Beathard](https://open.spotify.com/artist/7hwnSMEIzb8Ry5i69tubcu) | [I Wanna Feel Good Naked](https://open.spotify.com/album/0w9rQWBLFuXrfrlpSyqRYY) | 3:48 |
+| 16 | [I Wanna Feel Good Naked](https://open.spotify.com/track/0FFp3UtslIjNPY1Z8VBTEy) | [Ava Beathard](https://open.spotify.com/artist/7hwnSMEIzb8Ry5i69tubcu) | [I Wanna Feel Good Naked](https://open.spotify.com/album/0w9rQWBLFuXrfrlpSyqRYY) | 3:46 |
 | 17 | [Same Thing Every Day](https://open.spotify.com/track/4TonuDFhZeY5rrmkMFiiT5) | [The Flints](https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v) | [Same Thing Every Day](https://open.spotify.com/album/02H0yfRYPaeAJcnH4pklQl) | 3:14 |
 | 18 | [Another Blessing](https://open.spotify.com/track/0VpD1S8Y4rv08n1VwjPMgY) | [Chinatown Slalom](https://open.spotify.com/artist/25pbZ2yTnog5SBbk7WyfNn) | [Another Blessing](https://open.spotify.com/album/6wpLys9GqxhZSgrNt8pTk8) | 2:28 |
 | 19 | [Color Bag](https://open.spotify.com/track/3tnZfj4J9d8fAz2YQLgQcV) | [Dorio](https://open.spotify.com/artist/0XQs1MH9uzbaiAa3BiMvRv) | [Strawberry Dream](https://open.spotify.com/album/7jrswg7nXecHjMB2mZQJ4G) | 2:50 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 119 | [Done With the Day](https://open.spotify.com/track/2ohsDgZQM0W3FamOXVUCXK) | [7ebra](https://open.spotify.com/artist/425zLTPcp673F9ybc3Zcja) | [Bird Hour](https://open.spotify.com/album/0WIlE8U5KX5gjNj5i8J5Ae) | 3:30 |
 | 120 | [Itinerary](https://open.spotify.com/track/5OJvD7iPHQo0SuSB6zjoO7) | [V.V\. Lightbody](https://open.spotify.com/artist/0g7sn95ZJ9iMKdmIAec3E5) | [Itinerary](https://open.spotify.com/album/2Qiu1gpocWUsFGIx0fJsTF) | 3:30 |
 
-Snapshot ID: `MCwxZWYxZTg0ZTM0MGRhODJmNjJhMDg0MDhhYjM2NTVkNTliNGFkNTk2`
+Snapshot ID: `MCw1YjVlMmM5M2Q4ODY3YjMzMjMzMGFkNTE4MWJiNzEwOWViNmEwNDA2`

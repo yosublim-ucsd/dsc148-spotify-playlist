@@ -4,7 +4,7 @@
 
 > Only the best rock in the world\. Cover: Måneskin
 
-337 songs - 21 hr 16 min
+338 songs - 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Congratulations](https://open.spotify.com/track/4KegQTOlL9MRctg4JIeVUl) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Congratulations](https://open.spotify.com/album/2N32BE9xsjUyzQ2jfOPAyq) | 3:16 | 2022-05-06 | 2022-05-13 |
 | [CORALINE](https://open.spotify.com/track/7HMz8o0m7ASQ3ImFPfhWTY) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 5:00 | 2022-05-06 |  |
 | [Cough Bin](https://open.spotify.com/track/5pWUXIx4lKAIptN5yHaZof) | [Aggressive Raisin Cat](https://open.spotify.com/artist/7BFFCrMT0jUIZ29H6BTys2) | [Cough Bin](https://open.spotify.com/album/7jP1jMKkS1q0q1Scd3gtLD) | 7:16 | 2022-08-25 | 2022-09-30 |
-| [Council Skies](https://open.spotify.com/track/1KDR3iKY185DjEREnzYhgU) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies](https://open.spotify.com/album/0LEsy6Ncwa96urueYAB8ud) | 4:42 | 2023-04-20 |  |
+| [Council Skies](https://open.spotify.com/track/1KDR3iKY185DjEREnzYhgU) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies](https://open.spotify.com/album/0LEsy6Ncwa96urueYAB8ud) | 4:42 | 2023-04-20 | 2023-05-13 |
+| [Council Skies](https://open.spotify.com/track/7mx6gWyqk2vbm2WfqwXX2G) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies \(The Reflex Revision\)](https://open.spotify.com/album/3XVRHph1vIQcqefiFh7drP) | 4:42 | 2023-05-04 |  |
 | [Crossfire](https://open.spotify.com/track/4bwvPbiPCsjyMZc6W4VPA2) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion: Day of Destiny](https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv) | 3:12 | 2023-02-16 |  |
 | [curious/furious](https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [curious/furious](https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z) | 3:04 | 2022-09-08 | 2022-09-23 |
 | [Darkness Turns to Light \(Opening Theme Song\) \[From "Beyblade Burst QuadStrike"\]](https://open.spotify.com/track/6J9DuvcPLzivD98KsXSJHu) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Darkness Turns to Light \(Opening Theme Song\) \[From "Beyblade Burst QuadStrike"\]](https://open.spotify.com/album/2t9BAAn4EeMEkwRbxsP1Ou) | 2:03 | 2023-02-09 | 2023-02-24 |

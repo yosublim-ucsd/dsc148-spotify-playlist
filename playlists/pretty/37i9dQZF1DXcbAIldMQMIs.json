@@ -1,12 +1,12 @@
 {
   "description": "Indie pop when ur crushing",
-  "num_followers": 489303,
+  "num_followers": 489422,
   "original_name": "text me back",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjQ1ODk4MDAzNjdmMTI3NTZmMWI3N2JlNWViM2MwMThmNGUxYzNm",
+  "snapshot_id": "MCwzOTdjMDkxOWYxMTc1YmY4ZTczZWI3NjgxZWFiNmVhYTM0ZWM5MWY0",
   "tracks": [
     {
       "added_at": "2023-02-21 22:48:01",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-02-21 22:48:01",
       "album": {
+        "name": "Not Your Muse (Deluxe)",
+        "url": "https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "duration_ms": 255986,
+      "name": "Strange",
+      "url": "https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4"
+    },
+    {
+      "added_at": "2023-02-21 22:48:01",
+      "album": {
         "name": "Falling for U",
         "url": "https://open.spotify.com/album/3PUmELve1Jt5EdFU6cv8Hb"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 124000,
       "name": "Falling for U",
       "url": "https://open.spotify.com/track/2xhGZ3WzOa3tir28y7Cb88"
-    },
-    {
-      "added_at": "2023-02-21 22:48:01",
-      "album": {
-        "name": "Not Your Muse (Deluxe)",
-        "url": "https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep"
-      },
-      "artists": [
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        }
-      ],
-      "duration_ms": 255986,
-      "name": "Strange",
-      "url": "https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4"
     },
     {
       "added_at": "2023-02-21 22:48:01",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-02-21 22:48:01",
       "album": {
-        "name": "Mariposa",
-        "url": "https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh"
-      },
-      "artists": [
-        {
-          "name": "Peach Tree Rascals",
-          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Mariposa",
-      "url": "https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD"
-    },
-    {
-      "added_at": "2023-02-21 22:48:01",
-      "album": {
         "name": "Cyclones and Hey Lover",
         "url": "https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 162560,
       "name": "Hey Lover!",
       "url": "https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd"
+    },
+    {
+      "added_at": "2023-02-21 22:48:01",
+      "album": {
+        "name": "Mariposa",
+        "url": "https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Mariposa",
+      "url": "https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD"
     },
     {
       "added_at": "2023-02-21 22:48:01",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-02-21 22:48:01",
       "album": {
+        "name": "ARIZONA BABY",
+        "url": "https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        }
+      ],
+      "duration_ms": 176732,
+      "name": "Peach",
+      "url": "https://open.spotify.com/track/5JRMqkR82k2fdDEAim9SCN"
+    },
+    {
+      "added_at": "2023-02-21 22:48:01",
+      "album": {
         "name": "Pleaser",
         "url": "https://open.spotify.com/album/3XwLvPyeeyTjFKeBdtC978"
       },
@@ -647,18 +663,18 @@
     {
       "added_at": "2023-02-21 22:48:01",
       "album": {
-        "name": "ARIZONA BABY",
-        "url": "https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO"
+        "name": "Punisher",
+        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
       },
       "artists": [
         {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 176732,
-      "name": "Peach",
-      "url": "https://open.spotify.com/track/5JRMqkR82k2fdDEAim9SCN"
+      "duration_ms": 219681,
+      "name": "Garden Song",
+      "url": "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
     },
     {
       "added_at": "2023-02-21 22:48:01",
@@ -683,22 +699,6 @@
     {
       "added_at": "2023-02-21 22:48:01",
       "album": {
-        "name": "Punisher",
-        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "Garden Song",
-      "url": "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
-    },
-    {
-      "added_at": "2023-02-21 22:48:01",
-      "album": {
         "name": "striptease",
         "url": "https://open.spotify.com/album/7f00XGE0JdyekiSS14v9QR"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 160659,
       "name": "striptease",
       "url": "https://open.spotify.com/track/62C8Bd6EgEOofLZ1COjF3n"
+    },
+    {
+      "added_at": "2023-02-21 22:48:01",
+      "album": {
+        "name": "Kid Krow",
+        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 174680,
+      "name": "Comfort Crowd",
+      "url": "https://open.spotify.com/track/6uaBrivDHCaV0uBTiwHTUi"
     },
     {
       "added_at": "2023-02-21 22:48:01",
@@ -731,22 +747,6 @@
       "duration_ms": 270960,
       "name": "Summertime In Paris",
       "url": "https://open.spotify.com/track/6XNANAB7sFvkfho6bMCp7o"
-    },
-    {
-      "added_at": "2023-02-21 22:48:01",
-      "album": {
-        "name": "Kid Krow",
-        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 174680,
-      "name": "Comfort Crowd",
-      "url": "https://open.spotify.com/track/6uaBrivDHCaV0uBTiwHTUi"
     },
     {
       "added_at": "2023-02-21 22:48:01",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-02-21 22:48:01",
       "album": {
-        "name": "at least i'm pretty",
-        "url": "https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL"
-      },
-      "artists": [
-        {
-          "name": "Harriette",
-          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
-        }
-      ],
-      "duration_ms": 106800,
-      "name": "at least i'm pretty",
-      "url": "https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc"
-    },
-    {
-      "added_at": "2023-02-21 22:48:01",
-      "album": {
         "name": "Chiquito",
         "url": "https://open.spotify.com/album/4gjhrTin1WwrEHd8GslZ7O"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 207692,
       "name": "Dontmakemefallinlove",
       "url": "https://open.spotify.com/track/4Ooq4tmYpe3nZP1BnCtsWM"
+    },
+    {
+      "added_at": "2023-02-21 22:48:01",
+      "album": {
+        "name": "at least i'm pretty",
+        "url": "https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL"
+      },
+      "artists": [
+        {
+          "name": "Harriette",
+          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
+        }
+      ],
+      "duration_ms": 106800,
+      "name": "at least i'm pretty",
+      "url": "https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc"
     },
     {
       "added_at": "2023-02-21 22:48:01",

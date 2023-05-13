@@ -2,9 +2,9 @@
 
 ### [Chill Pop](https://open.spotify.com/playlist/37i9dQZF1DX0MLFaUdXnjA)
 
-> Keeping it lowkey with the best of today's chill pop\. Cover: Taylor Swift
+> Keeping it lowkey with the best of today's chill pop\. Cover: Laufey
 
-1,259 songs - 2 day 19 hr 18 min
+1,260 songs - 2 day 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Bitch](https://open.spotify.com/track/2PjGWkumFMNIrdgJ8tA5BI) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [Bitch](https://open.spotify.com/album/5FYMZSGSXsQDRUljl5nvnQ) | 3:14 | 2021-06-26 | 2021-08-28 |
 | [Bits and Pieces](https://open.spotify.com/track/5MTZS8M1OvEDntOc3g87rf) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Bits and Pieces](https://open.spotify.com/album/18xGcnwJkEeGQtrVfVmBID) | 3:00 | 2020-04-26\* | 2020-10-02 |
 | [Black Boots And Leather Rebellion](https://open.spotify.com/track/0NXP4ludZAzYM7Z8IHZu0X) | [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls) | [Black Boots And Leather Rebellion](https://open.spotify.com/album/5bUXsJJChr9ugC6zD9Bmj4) | 3:42 | 2021-12-01 | 2022-01-29 |
-| [Blades](https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Blades](https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep) | 3:41 | 2023-04-21 |  |
+| [Blades](https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Blades](https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep) | 3:41 | 2023-04-21 | 2023-05-13 |
 | [Bleach](https://open.spotify.com/track/0RPtYre1zqrPbQMSqJjwc1) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Brightest Blue](https://open.spotify.com/album/7hCfgsycCFH4bBjEfUwh3S) | 3:17 | 2020-07-18 | 2020-08-21 |
 | [Blessed & Free](https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Blessed & Free](https://open.spotify.com/album/055uuuPMs7soYjnONo02QV) | 3:18 | 2021-10-02 | 2022-07-16 |
 | [Block me out](https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Block me out](https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN) | 4:09 | 2022-04-22 | 2022-09-24 |
@@ -398,6 +398,7 @@
 | [Fresh Water](https://open.spotify.com/track/2UbdtdpOW3URCTqKsPATJg) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Young Fel 2](https://open.spotify.com/album/265rgx93RpuQmpok31gynl) | 2:49 | 2021-10-23 | 2022-06-25 |
 | [Friends \(feat\. Kiana Lede\)](https://open.spotify.com/track/5DzG4l0RdEQIre7B7Vxj1x) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Friends \(feat\. Kiana Lede\)](https://open.spotify.com/album/50wbrnbjFqDsBRg4DkfoW5) | 2:38 | 2021-12-04 | 2022-03-26 |
 | [Friends With Benefits](https://open.spotify.com/track/2WbwjvE4L7WTsPhDwET5Ui) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [Friends With Benefits](https://open.spotify.com/album/68f7El7waXgxTTn6zlFsNV) | 2:50 | 2023-04-14 |  |
+| [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-05-12 |  |
 | [Frozen](https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Frozen](https://open.spotify.com/album/2GAIUdfLIFtxDty42RowjE) | 2:00 | 2022-03-04 | 2022-04-09 |
 | [Frozen \(feat\. 070 Shake\)](https://open.spotify.com/track/34itnB3u4NTwj9ctVfiPmC) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Frozen \(feat\. 070 Shake\)](https://open.spotify.com/album/78zdwUAgBJyjPjwYAMSUDD) | 2:19 | 2022-04-08 | 2022-06-20 |
 | [fue mejor \(feat\. SZA\)](https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [fue mejor \(feat\. SZA\)](https://open.spotify.com/album/5h23sIlF1FvjdIdcJofXlI) | 3:50 | 2021-10-02 | 2022-03-12 |

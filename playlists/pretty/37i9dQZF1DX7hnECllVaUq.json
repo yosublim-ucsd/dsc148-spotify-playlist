@@ -1,12 +1,12 @@
 {
   "description": "The biggest hits from country artists around the globe. Cover: Kip Moore",
-  "num_followers": 17311,
+  "num_followers": 17428,
   "original_name": "Country Worldwide",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWFiYjdhN2I4Mjg3NDA3MGNlMmVmNjEyNWZkNDhhMWI3ZDNkOTM5",
+  "snapshot_id": "MCwzYjM1YzFmNmVmMzdmMTEzZmYzZWYzMDNkYTg4NjhmZTFjNmNkNjZj",
   "tracks": [
     {
       "added_at": "2023-05-05 01:49:44",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-05-05 01:49:44",
       "album": {
-        "name": "You Proof",
-        "url": "https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 157477,
-      "name": "You Proof",
-      "url": "https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3"
-    },
-    {
-      "added_at": "2023-05-05 01:49:44",
-      "album": {
         "name": "Purgatory",
         "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 224946,
       "name": "Feathered Indians",
       "url": "https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE"
+    },
+    {
+      "added_at": "2023-05-05 01:49:44",
+      "album": {
+        "name": "You Proof",
+        "url": "https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 157477,
+      "name": "You Proof",
+      "url": "https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3"
     },
     {
       "added_at": "2023-05-05 01:49:44",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-05-05 01:49:44",
       "album": {
-        "name": "Tennessee Orange",
-        "url": "https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3"
+        "name": "Stereotype",
+        "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
       },
       "artists": [
         {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
         }
       ],
-      "duration_ms": 223119,
-      "name": "Tennessee Orange",
-      "url": "https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC"
+      "duration_ms": 206106,
+      "name": "She Had Me At Heads Carolina",
+      "url": "https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46"
     },
     {
       "added_at": "2023-05-05 01:49:44",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-05-05 01:49:44",
       "album": {
-        "name": "Stereotype",
-        "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
-      },
-      "artists": [
-        {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        }
-      ],
-      "duration_ms": 206106,
-      "name": "She Had Me At Heads Carolina",
-      "url": "https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46"
-    },
-    {
-      "added_at": "2023-05-05 01:49:44",
-      "album": {
         "name": "Country Squire",
         "url": "https://open.spotify.com/album/2T9P5dSm786uuxA5tkI1Xb"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 218280,
       "name": "All Your'n",
       "url": "https://open.spotify.com/track/0fCwTrRNfoNk962ati8n2K"
+    },
+    {
+      "added_at": "2023-05-05 01:49:44",
+      "album": {
+        "name": "Tennessee Orange",
+        "url": "https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 223119,
+      "name": "Tennessee Orange",
+      "url": "https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC"
     },
     {
       "added_at": "2023-05-05 01:49:44",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-05-05 01:49:44",
       "album": {
-        "name": "Purgatory",
-        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 183533,
-      "name": "Lady May",
-      "url": "https://open.spotify.com/track/3t5OV1asJHmOlf23T08CLv"
-    },
-    {
-      "added_at": "2023-05-05 01:49:44",
-      "album": {
         "name": "Different Man",
         "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
       },
@@ -823,6 +807,22 @@
     {
       "added_at": "2023-05-05 01:49:44",
       "album": {
+        "name": "Purgatory",
+        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 183533,
+      "name": "Lady May",
+      "url": "https://open.spotify.com/track/3t5OV1asJHmOlf23T08CLv"
+    },
+    {
+      "added_at": "2023-05-05 01:49:44",
+      "album": {
         "name": "Giddy Up!",
         "url": "https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy"
       },
@@ -835,22 +835,6 @@
       "duration_ms": 162665,
       "name": "Giddy Up!",
       "url": "https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W"
-    },
-    {
-      "added_at": "2023-05-05 01:49:44",
-      "album": {
-        "name": "Whiskey On You",
-        "url": "https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 183789,
-      "name": "Whiskey On You",
-      "url": "https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3"
     },
     {
       "added_at": "2023-05-05 01:49:44",
@@ -871,6 +855,22 @@
       "duration_ms": 167693,
       "name": "10,000 Hours (with Justin Bieber)",
       "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
+    },
+    {
+      "added_at": "2023-05-05 01:49:44",
+      "album": {
+        "name": "Whiskey On You",
+        "url": "https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 183789,
+      "name": "Whiskey On You",
+      "url": "https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3"
     },
     {
       "added_at": "2023-05-05 01:49:44",
@@ -1167,22 +1167,18 @@
     {
       "added_at": "2023-05-05 01:49:44",
       "album": {
-        "name": "Flower Shops (feat. Morgan Wallen)",
-        "url": "https://open.spotify.com/album/5gdgH8d7W2KwkK03Ea0vpi"
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/3svJ9Mv1JKL7R4CBZLtCfp"
       },
       "artists": [
         {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
         }
       ],
-      "duration_ms": 214405,
-      "name": "Flower Shops (feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/2ccuOtUjIyx3tPcsnpeBzJ"
+      "duration_ms": 214798,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/7cRggVoZ18mmvIN2EcSQ3J"
     },
     {
       "added_at": "2023-05-05 01:49:44",
@@ -1203,18 +1199,22 @@
     {
       "added_at": "2023-05-05 01:49:44",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/3svJ9Mv1JKL7R4CBZLtCfp"
+        "name": "Flower Shops (feat. Morgan Wallen)",
+        "url": "https://open.spotify.com/album/5gdgH8d7W2KwkK03Ea0vpi"
       },
       "artists": [
         {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 214798,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/7cRggVoZ18mmvIN2EcSQ3J"
+      "duration_ms": 214405,
+      "name": "Flower Shops (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/2ccuOtUjIyx3tPcsnpeBzJ"
     },
     {
       "added_at": "2023-05-05 01:49:44",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-05-05 01:49:44",
       "album": {
-        "name": "High Time",
-        "url": "https://open.spotify.com/album/00neLJxSSvcyqcy97jviyn"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 234848,
-      "name": "High Time",
-      "url": "https://open.spotify.com/track/31fVD0q2ooBFCa2DT3PjBr"
-    },
-    {
-      "added_at": "2023-05-05 01:49:44",
-      "album": {
         "name": "What I Get for Loving You",
         "url": "https://open.spotify.com/album/3uYGwz0SDYcgE6NkHojO8Q"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 174111,
       "name": "Good Beer",
       "url": "https://open.spotify.com/track/78S1U4SYfjUKhJ2CbCsixJ"
+    },
+    {
+      "added_at": "2023-05-05 01:49:44",
+      "album": {
+        "name": "High Time",
+        "url": "https://open.spotify.com/album/00neLJxSSvcyqcy97jviyn"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 234848,
+      "name": "High Time",
+      "url": "https://open.spotify.com/track/31fVD0q2ooBFCa2DT3PjBr"
     },
     {
       "added_at": "2023-05-05 01:49:44",

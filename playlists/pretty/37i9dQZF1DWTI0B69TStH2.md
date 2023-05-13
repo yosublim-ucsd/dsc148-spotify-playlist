@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: FOMOTOK \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,070 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,075 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Nie ma tu nas](https://open.spotify.com/track/3YF4k97idQfsln6MIgBXmK) | [ZACHODY](https://open.spotify.com/artist/3Mh1EkzjOa34L8PnfHqL9y) | [Nie ma tu nas](https://open.spotify.com/album/5UAmHjBh8U06ABrEAID7rL) | 3:14 |
 | 100 | [Honeypearl](https://open.spotify.com/track/2Z0CGKepO4oNdmGC7R3ddV) | [Heathermint](https://open.spotify.com/artist/35u55Ua83aO2FRZoCZvTXa) | [Honeypearl](https://open.spotify.com/album/29VxrUfVpAPp8ufQu0ATcM) | 4:16 |
 
-Snapshot ID: `MCxhZDQwYjE4MTk2OTFmMGFhYTRhNTNlYWQ2NjM3NjE4Y2NkMDZmOGYw`
+Snapshot ID: `MCwwMTY0NjJiY2ZjMTJkOTQ2ZjdiMTM2NTVkNmMwNDUzYjcyZmJlODBh`

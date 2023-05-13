@@ -1,12 +1,12 @@
 {
   "description": "The best instrumental versions of the american songbook classics. Cover: Stan Getz",
-  "num_followers": 74652,
+  "num_followers": 74780,
   "original_name": "Instrumental Jazz Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTg3YjBjMzkxYjk2OGQxMTYwMjZlZDdlNWZlNWY5ZTYxMWZmM2Mw",
+  "snapshot_id": "MCxiYmQzMzJmMTdkYmZkNTE1YTA3MzdhMTE0ZDFhZDUxMDZhOGZlOTcy",
   "tracks": [
     {
       "added_at": "2023-05-09 13:22:02",
@@ -439,18 +439,22 @@
     {
       "added_at": "2023-05-09 13:22:02",
       "album": {
-        "name": "King Of The Tenors",
-        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
+        "name": "Undercurrent",
+        "url": "https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ"
       },
       "artists": [
         {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        },
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
         }
       ],
-      "duration_ms": 185800,
-      "name": "Don't Get Around Much Any More",
-      "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
+      "duration_ms": 309666,
+      "name": "Darn That Dream",
+      "url": "https://open.spotify.com/track/1qTNMWo0Al8AfAX6aPGo6k"
     },
     {
       "added_at": "2023-05-09 13:22:02",
@@ -471,22 +475,18 @@
     {
       "added_at": "2023-05-09 13:22:02",
       "album": {
-        "name": "Undercurrent",
-        "url": "https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ"
+        "name": "King Of The Tenors",
+        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
       },
       "artists": [
         {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        },
-        {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
         }
       ],
-      "duration_ms": 309666,
-      "name": "Darn That Dream",
-      "url": "https://open.spotify.com/track/1qTNMWo0Al8AfAX6aPGo6k"
+      "duration_ms": 185800,
+      "name": "Don't Get Around Much Any More",
+      "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
     },
     {
       "added_at": "2023-05-09 13:22:02",
@@ -547,18 +547,18 @@
     {
       "added_at": "2023-05-09 13:22:02",
       "album": {
-        "name": "The Complete Savoy Master Takes",
-        "url": "https://open.spotify.com/album/7obNWrtC06yrnbNlovA7H0"
+        "name": "Moon Beams",
+        "url": "https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1"
       },
       "artists": [
         {
-          "name": "Erroll Garner",
-          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
         }
       ],
-      "duration_ms": 179133,
-      "name": "I Only Have Eyes For You",
-      "url": "https://open.spotify.com/track/6QUFqmU2xu1gXkmpbqHPsi"
+      "duration_ms": 299760,
+      "name": "Polka Dots And Moonbeams",
+      "url": "https://open.spotify.com/track/3mciMzCg5pWvadcQxIwi0q"
     },
     {
       "added_at": "2023-05-09 13:22:02",
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-05-09 13:22:02",
       "album": {
-        "name": "Moon Beams",
-        "url": "https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1"
+        "name": "The Complete Savoy Master Takes",
+        "url": "https://open.spotify.com/album/7obNWrtC06yrnbNlovA7H0"
       },
       "artists": [
         {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+          "name": "Erroll Garner",
+          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
         }
       ],
-      "duration_ms": 299760,
-      "name": "Polka Dots And Moonbeams",
-      "url": "https://open.spotify.com/track/3mciMzCg5pWvadcQxIwi0q"
+      "duration_ms": 179133,
+      "name": "I Only Have Eyes For You",
+      "url": "https://open.spotify.com/track/6QUFqmU2xu1gXkmpbqHPsi"
     },
     {
       "added_at": "2023-05-09 13:22:02",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-05-09 13:22:02",
       "album": {
-        "name": "Chet (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/1MlU3WEMLbxw9d4B08AptQ"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 218093,
-      "name": "How High The Moon",
-      "url": "https://open.spotify.com/track/1qagJUT7uzS8eAkDJmO8QG"
-    },
-    {
-      "added_at": "2023-05-09 13:22:02",
-      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 266706,
       "name": "I Remember You",
       "url": "https://open.spotify.com/track/5eMz1VtT2zNtsyh1bDgDhb"
+    },
+    {
+      "added_at": "2023-05-09 13:22:02",
+      "album": {
+        "name": "Chet (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/1MlU3WEMLbxw9d4B08AptQ"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 218093,
+      "name": "How High The Moon",
+      "url": "https://open.spotify.com/track/1qagJUT7uzS8eAkDJmO8QG"
     },
     {
       "added_at": "2023-05-09 13:22:02",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-05-09 13:22:02",
       "album": {
-        "name": "Now!",
-        "url": "https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG"
-      },
-      "artists": [
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "I'm Getting Sentimental Over You",
-      "url": "https://open.spotify.com/track/59eRG0NvuYIxe0i7IMAH0z"
-    },
-    {
-      "added_at": "2023-05-09 13:22:02",
-      "album": {
         "name": "Nancy Wilson/Cannonball Adderley",
         "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 297533,
       "name": "I Can't Get Started - Instrumental",
       "url": "https://open.spotify.com/track/5OJw2p5rD4DwtGOCC438De"
+    },
+    {
+      "added_at": "2023-05-09 13:22:02",
+      "album": {
+        "name": "Now!",
+        "url": "https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "I'm Getting Sentimental Over You",
+      "url": "https://open.spotify.com/track/59eRG0NvuYIxe0i7IMAH0z"
     },
     {
       "added_at": "2023-05-09 13:22:02",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2023-05-09 13:22:02",
       "album": {
+        "name": "Julian \"Cannonball\" Adderley",
+        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 253133,
+      "name": "The Song Is You",
+      "url": "https://open.spotify.com/track/64UJdbSWjE1iS5pWhP8m1f"
+    },
+    {
+      "added_at": "2023-05-09 13:22:02",
+      "album": {
         "name": "Soulville",
         "url": "https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 198223,
       "name": "They Can't Take That Away From Me",
       "url": "https://open.spotify.com/track/687ORY7Mxi44UdgBm3Vfbz"
-    },
-    {
-      "added_at": "2023-05-09 13:22:02",
-      "album": {
-        "name": "Julian \"Cannonball\" Adderley",
-        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 253133,
-      "name": "The Song Is You",
-      "url": "https://open.spotify.com/track/64UJdbSWjE1iS5pWhP8m1f"
     },
     {
       "added_at": "2023-05-09 13:22:02",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-05-09 13:22:02",
       "album": {
-        "name": "Modern Art",
-        "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 363026,
-      "name": "What Is This Thing Called Love?",
-      "url": "https://open.spotify.com/track/7uwEQccVDaRZwz3zp09e5M"
-    },
-    {
-      "added_at": "2023-05-09 13:22:02",
-      "album": {
         "name": "Konitz Meets Mulligan",
         "url": "https://open.spotify.com/album/7yXH6IIoz1egpOdG62fiMh"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 178640,
       "name": "Almost Like Being In Love",
       "url": "https://open.spotify.com/track/4wUYuo0KGplgiav1AzY1RV"
+    },
+    {
+      "added_at": "2023-05-09 13:22:02",
+      "album": {
+        "name": "Modern Art",
+        "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 363026,
+      "name": "What Is This Thing Called Love?",
+      "url": "https://open.spotify.com/track/7uwEQccVDaRZwz3zp09e5M"
     },
     {
       "added_at": "2023-05-09 13:22:02",

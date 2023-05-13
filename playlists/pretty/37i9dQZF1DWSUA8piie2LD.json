@@ -1,12 +1,12 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 74778,
+  "num_followers": 74937,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGViMTNjNWQzZWNiNDM1NjNkMDRkNTAyNTE3YWQwZDM1MWE1Nzlk",
+  "snapshot_id": "MCw1MjZjZDZmMjBjZGUyMjg4ODI1ZTc0OWIxOGQ2MTBmZjQ0ZWM2MmRm",
   "tracks": [
     {
       "added_at": "2023-05-09 12:06:43",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-05-09 12:06:43",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV"
-      },
-      "artists": [
-        {
-          "name": "Tim Bowman",
-          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
-        }
-      ],
-      "duration_ms": 246237,
-      "name": "Let It Shine",
-      "url": "https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9"
-    },
-    {
-      "added_at": "2023-05-09 12:06:43",
-      "album": {
         "name": "Livin' Large",
         "url": "https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 178933,
       "name": "Don't Let Me Be Lonely Tonight",
       "url": "https://open.spotify.com/track/1stVg1ixXQigAaehgcpH5h"
+    },
+    {
+      "added_at": "2023-05-09 12:06:43",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+        }
+      ],
+      "duration_ms": 246237,
+      "name": "Let It Shine",
+      "url": "https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9"
     },
     {
       "added_at": "2023-05-09 12:06:43",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-05-09 12:06:43",
       "album": {
-        "name": "Born 2 Groove",
-        "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 309386,
-      "name": "Slow Jam",
-      "url": "https://open.spotify.com/track/15X9hW8V03M3NWVQ4yVAZq"
-    },
-    {
-      "added_at": "2023-05-09 12:06:43",
-      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 254266,
       "name": "Soul Dance",
       "url": "https://open.spotify.com/track/2ZKdcqyDje4i0PtjCrPkrf"
+    },
+    {
+      "added_at": "2023-05-09 12:06:43",
+      "album": {
+        "name": "Born 2 Groove",
+        "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 309386,
+      "name": "Slow Jam",
+      "url": "https://open.spotify.com/track/15X9hW8V03M3NWVQ4yVAZq"
     },
     {
       "added_at": "2023-05-09 12:06:43",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-05-09 12:06:43",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/2fH2LsKWZ0peVa6kUohsw5"
-      },
-      "artists": [
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
-        }
-      ],
-      "duration_ms": 266693,
-      "name": "The Closer I Get To You",
-      "url": "https://open.spotify.com/track/4Yo6PbuZYIqlXSp7eAw2e4"
-    },
-    {
-      "added_at": "2023-05-09 12:06:43",
-      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/5UJmUYnpdtUGCcoMa7hDKE"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 253760,
       "name": "Nightshift",
       "url": "https://open.spotify.com/track/5T7rGLBBmkjrKMuoaabrkZ"
+    },
+    {
+      "added_at": "2023-05-09 12:06:43",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/2fH2LsKWZ0peVa6kUohsw5"
+      },
+      "artists": [
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+        }
+      ],
+      "duration_ms": 266693,
+      "name": "The Closer I Get To You",
+      "url": "https://open.spotify.com/track/4Yo6PbuZYIqlXSp7eAw2e4"
     },
     {
       "added_at": "2023-05-09 12:06:43",
@@ -619,8 +619,8 @@
     {
       "added_at": "2023-05-09 12:06:43",
       "album": {
-        "name": "Seven Large",
-        "url": "https://open.spotify.com/album/1jqCVKzF972INDR51m9NUR"
+        "name": "Euge Groove",
+        "url": "https://open.spotify.com/album/2r10VaddyCNK8eXQOmSNHG"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
         }
       ],
-      "duration_ms": 300560,
-      "name": "Love Won't Let Me Wait",
-      "url": "https://open.spotify.com/track/3jHXbXBwZ9O1YMVsSfXuee"
+      "duration_ms": 304400,
+      "name": "Sneak a Peek",
+      "url": "https://open.spotify.com/track/2uc5qiIZZPPFpNaQn3M54w"
     },
     {
       "added_at": "2023-05-09 12:06:43",
@@ -715,8 +715,8 @@
     {
       "added_at": "2023-05-09 12:06:43",
       "album": {
-        "name": "Euge Groove",
-        "url": "https://open.spotify.com/album/2r10VaddyCNK8eXQOmSNHG"
+        "name": "Seven Large",
+        "url": "https://open.spotify.com/album/1jqCVKzF972INDR51m9NUR"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
         }
       ],
-      "duration_ms": 304400,
-      "name": "Sneak a Peek",
-      "url": "https://open.spotify.com/track/2uc5qiIZZPPFpNaQn3M54w"
+      "duration_ms": 300560,
+      "name": "Love Won't Let Me Wait",
+      "url": "https://open.spotify.com/track/3jHXbXBwZ9O1YMVsSfXuee"
     },
     {
       "added_at": "2023-05-09 12:06:43",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-05-09 12:06:43",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/0ZymVVHN1W2T6rYSqIjLaW"
-      },
-      "artists": [
-        {
-          "name": "Kirk Whalum",
-          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
-        }
-      ],
-      "duration_ms": 276226,
-      "name": "If Only For One Night",
-      "url": "https://open.spotify.com/track/7eAboOIUeI5RYXVjCI6p0S"
-    },
-    {
-      "added_at": "2023-05-09 12:06:43",
-      "album": {
         "name": "Steppin' Out",
         "url": "https://open.spotify.com/album/253BTggCrxk5ULsiaYTZfF"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 238293,
       "name": "Night Rider",
       "url": "https://open.spotify.com/track/3mn4KmAcvj2mhpkO11EsGQ"
+    },
+    {
+      "added_at": "2023-05-09 12:06:43",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/0ZymVVHN1W2T6rYSqIjLaW"
+      },
+      "artists": [
+        {
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+        }
+      ],
+      "duration_ms": 276226,
+      "name": "If Only For One Night",
+      "url": "https://open.spotify.com/track/7eAboOIUeI5RYXVjCI6p0S"
     },
     {
       "added_at": "2023-05-09 12:06:43",

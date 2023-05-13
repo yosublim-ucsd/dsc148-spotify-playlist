@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > ¡Bienvenida Generación RADAR 2023! Los Aptos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,690 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,723 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 39 | [Fuerza De Voluntad](https://open.spotify.com/track/2O75oyAguhcpgpDkP5k0Wm) | [Misael Gutiérrez](https://open.spotify.com/artist/4TAlMkVgr4FK7INJXQLzfS) | [Fuerza De Voluntad](https://open.spotify.com/album/59x39WBJbbolx68Dt9Di27) | 2:43 |
 | 40 | [Como Intento](https://open.spotify.com/track/1zpfNm2TIcA5mqiONzXyaf) | [Los K\-Bros](https://open.spotify.com/artist/6t0pW5dxdrPbrqnCK4sQ2f) | [Como Intento](https://open.spotify.com/album/1ZTJ3I8M7jANe5qBYCU5Ee) | 2:43 |
 | 41 | [Bonita](https://open.spotify.com/track/7khVfafgV6p2dnJYOXN1S7) | [Retoños Del Rio](https://open.spotify.com/artist/0b4F6xrKsPCHTXEl4j03LF) | [Bonita](https://open.spotify.com/album/6R2qa9DVZYEgs7fRwWYgAx) | 3:02 |
-| 42 | [¿Y que pensabas?](https://open.spotify.com/track/3ZDhzlwp5xjRM3KQRKKCMh) | [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3) | [ASÍ ME ENAMORÉ](https://open.spotify.com/album/5GX2SxB93AlOOcPM7DojMA) | 2:44 |
+| 42 | [Estos Días](https://open.spotify.com/track/2oIwJKdjg8amIYUupl4RUO) | [Drupys](https://open.spotify.com/artist/51v2O1Wdjz5ESexCePinre) | [Estos Días](https://open.spotify.com/album/28oQLDvOUhSoyyTZSkpwdh) | 3:24 |
 | 43 | [No Quiero Llorar](https://open.spotify.com/track/3wNfYe0jVuk14kY028HzK1) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [No Quiero Llorar](https://open.spotify.com/album/3PgJ2wWIEOTu7smbdou1La) | 3:12 |
-| 44 | [Estos Días](https://open.spotify.com/track/2oIwJKdjg8amIYUupl4RUO) | [Drupys](https://open.spotify.com/artist/51v2O1Wdjz5ESexCePinre) | [Estos Días](https://open.spotify.com/album/28oQLDvOUhSoyyTZSkpwdh) | 3:24 |
+| 44 | [¿Y que pensabas?](https://open.spotify.com/track/3ZDhzlwp5xjRM3KQRKKCMh) | [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3) | [ASÍ ME ENAMORÉ](https://open.spotify.com/album/5GX2SxB93AlOOcPM7DojMA) | 2:44 |
 | 45 | [Viajemos al Espacio](https://open.spotify.com/track/60OumNmnrNqc218tPLRAs4) | [Ivan Orozco](https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i) | [Viajemos al Espacio](https://open.spotify.com/album/0AvhavhOmQIp3L3LsTg3DL) | 4:19 |
 | 46 | [Mi Tierra](https://open.spotify.com/track/4RbrGZ6GCRAgsOnPZQwsJx) | [El Trizte](https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV) | [Mi Tierra](https://open.spotify.com/album/4H30nHj9bXx3MieRMi2bQI) | 1:57 |
 | 47 | [San Mike](https://open.spotify.com/track/1IsK1ydUSOuc32aMwYB0wa) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [San Mike](https://open.spotify.com/album/49o87APRm62j0t13TMOB4E) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 49 | [Pa' Que Sepas](https://open.spotify.com/track/1zv4GLkzu9aC1LxANPVABR) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Pa' Que Sepas](https://open.spotify.com/album/2v1MC1AaDxXvSg0yU5DKg1) | 2:51 |
 | 50 | [Te Has Convertido](https://open.spotify.com/track/2n5nRP7fcX88f9kkrQJU46) | [Los K\-Bros](https://open.spotify.com/artist/6t0pW5dxdrPbrqnCK4sQ2f) | [Te Has Convertido](https://open.spotify.com/album/7tcYacZtqg7FB1NX0gS1pq) | 3:25 |
 
-Snapshot ID: `MCxkYzlkNzE2ZmE0MTgzOTMyOGQ0YTU1MTZlMTRhMmYwZTZmMzdmMWY4`
+Snapshot ID: `MCxiNjViYzllOTBlNDhkNGEwYWM4ZTU4MzhiYzFiNmVlOTA3MzRiOGUw`

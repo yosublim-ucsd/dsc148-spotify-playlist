@@ -1,12 +1,12 @@
 {
   "description": "la primavera non \u00e8 una stagione, \u00e8 un mood \ud83c\udf37",
-  "num_followers": 57173,
+  "num_followers": 57184,
   "original_name": "primavera chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDQ5NDVjMDNjNzkxZjRlNzg5OGFmYWI3NDIwZDNjODc5NDJmY2I3",
+  "snapshot_id": "MCw4NTA5MWQ1NDAwN2FmMDUxNWNkNDhlZDUwZTkxOWRkOWI1NDI1NjFj",
   "tracks": [
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Good Riddance",
-        "url": "https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 243599,
-      "name": "Where do we go now?",
-      "url": "https://open.spotify.com/track/22bV9M6ZhoSMQk6Kumpe92"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/3hR8a4KfoKuRvMDmZB3Di4"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 203653,
       "name": "Spirits",
       "url": "https://open.spotify.com/track/1VyiUi0mRnSKgtHa5dBoUd"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Good Riddance",
+        "url": "https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 243599,
+      "name": "Where do we go now?",
+      "url": "https://open.spotify.com/track/22bV9M6ZhoSMQk6Kumpe92"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "Black Pumas",
+        "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 246586,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/6d4FWjx72iuRWzn1HwywLK"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "Si Me Voy (with The Mar\u00edas)",
         "url": "https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 203219,
       "name": "Si Me Voy (with The Mar\u00edas)",
       "url": "https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Black Pumas",
-        "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 246586,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/6d4FWjx72iuRWzn1HwywLK"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "love + everything else",
-        "url": "https://open.spotify.com/album/3viPcBAym7FXyZWuvTM5T7"
-      },
-      "artists": [
-        {
-          "name": "John K",
-          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
-        }
-      ],
-      "duration_ms": 156505,
-      "name": "parachute",
-      "url": "https://open.spotify.com/track/3orJ0XpgXRG1LTA521BpDz"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Flags",
         "url": "https://open.spotify.com/album/4JYjZh7R8F7Na5x1lVqOl9"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 216493,
       "name": "Flags",
       "url": "https://open.spotify.com/track/2RZ8SjEJYJHZ8YCUzls77w"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "love + everything else",
+        "url": "https://open.spotify.com/album/3viPcBAym7FXyZWuvTM5T7"
+      },
+      "artists": [
+        {
+          "name": "John K",
+          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
+        }
+      ],
+      "duration_ms": 156505,
+      "name": "parachute",
+      "url": "https://open.spotify.com/track/3orJ0XpgXRG1LTA521BpDz"
     }
   ],
   "unique_name": "primavera chill",

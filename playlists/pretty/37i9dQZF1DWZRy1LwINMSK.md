@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno\. Foto: Julianno Sosa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,918 likes - 98 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,956 likes - 98 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 97 | [Juegos de Matel \(feat\. El Menor y El Barto\)](https://open.spotify.com/track/6vdBpuktDTX4Y7JPAxgTNF) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [El Menor](https://open.spotify.com/artist/5jAbdQuetN1LntrEphYBTW), [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP) | [Juegos de Matel \(feat\. El Menor y El Barto\)](https://open.spotify.com/album/6N3LPbmSG9D6Of82jugIPN) | 3:59 |
 | 98 | [Te Vas](https://open.spotify.com/track/2mFfut7uFV9zEwAcIZIw0B) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [L.O.V.E.](https://open.spotify.com/album/0Vcer7S419SpqX0BX6nj2I) | 1:58 |
 
-Snapshot ID: `MCwyODgyODcyMzVjZDZiN2ExNWM2MDAwYTBlMTFjNDE5OTkzNDk4MDhi`
+Snapshot ID: `MCw2OTI5ZTY5YmM1ZWJmZjlhNTM0ODM1MWMzN2E2ZjA1NWYyY2U1ZTdj`

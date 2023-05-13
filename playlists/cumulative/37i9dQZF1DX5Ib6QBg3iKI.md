@@ -4,7 +4,7 @@
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-154 songs - 8 hr 23 min
+155 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,8 +130,9 @@
 | [Snowman](https://open.spotify.com/track/3E6Ydoy1H8ePoigc10Mgsa) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas](https://open.spotify.com/album/0DB01cPUt66gHPLL1JcdQq) | 2:45 | 2021-12-17 | 2022-07-29 |
 | [Snowman](https://open.spotify.com/track/6ujtWaqT4ZDkMhDgVQzXtH) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Cold December Night](https://open.spotify.com/album/59z4CNPuuXCl3r0DsMG2MS) | 2:45 | 2022-10-28 | 2022-11-13 |
 | [Step Into Christmas](https://open.spotify.com/track/10HDoLPz2bucGBkoNEjDHW) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered\)](https://open.spotify.com/album/4wBEBXmZSMUnscian0hgCI) | 4:32 | 2021-12-17 | 2022-07-29 |
+| [Step Into Christmas](https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 4:32 | 2022-11-18 |  |
 | [Step Into Christmas](https://open.spotify.com/track/5AG7WObBQyMrmAfP5X9FKw) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Happy Navidad](https://open.spotify.com/album/1PpiyGryY19O7Lk6L1IbFu) | 4:32 | 2022-10-28 | 2022-11-13 |
-| [Step Into Christmas](https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration / Super Deluxe\)](https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN) | 4:32 | 2021-12-17 |  |
+| [Step Into Christmas](https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration / Super Deluxe\)](https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN) | 4:32 | 2021-12-17 | 2023-05-13 |
 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/6NBEjaO6uf9ZCxjylkazqh) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 3:35 | 2022-11-18 | 2023-02-23 |
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 | 2021-12-17 |  |
 | [The Christmas Song \(Merry Christmas To You\) \- Remastered](https://open.spotify.com/track/4dkgXebWN4q3dLbvLUZhHf) | [Nat King Cole Trio](https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ) | [Christmas Greatest Hits](https://open.spotify.com/album/4LgLH1pW1JEY633h0gVTWy) | 3:11 | 2022-10-28 | 2022-11-13 |

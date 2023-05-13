@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 | 15 | [New York](https://open.spotify.com/track/5fLJks68YQXC1tPngFZn88) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 1:09 |
 | 16 | [Mcnue Leaves](https://open.spotify.com/track/7st5nMW9QlnCq7j5Ygt1rw) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 3:04 |
 
-Snapshot ID: `MjgwNjM0NjIsMDAwMDAwMDAzYzFmOTlhMjRjMjIwOWQ4YmQ1MTJlZTk5NGNiNjQ1Mg==`
+Snapshot ID: `MjgwNjQ5MDksMDAwMDAwMDBiZThlOTZjNDgxNzkxNDllOGJhMmIzZTA2ZjcyNThmMA==`

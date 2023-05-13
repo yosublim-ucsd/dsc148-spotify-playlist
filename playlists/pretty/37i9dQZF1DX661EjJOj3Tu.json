@@ -1,12 +1,12 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Tito Puente",
-  "num_followers": 504958,
+  "num_followers": 505033,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Y2FiMTk5MGZlZWQ0ZTdmOGYxNzhmN2Y1MDBjOWFkMjk5YzY3MzEw",
+  "snapshot_id": "MCw3ODI0OTEwOTk4OGE2MWI1ZTI4ZTNmNWI1ZWFkZGRkNGM4MTY3Yzcw",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "E Music",
+        "url": "https://open.spotify.com/album/40PuB9YHSod4WSW0Qkozh7"
+      },
+      "artists": [
+        {
+          "name": "Pete Escovedo",
+          "url": "https://open.spotify.com/artist/3EXBBqXojqnitE9lPX0uUZ"
+        }
+      ],
+      "duration_ms": 341066,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/40hvnBSpgJ9W6BsQe4v8UO"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "To Know Without Knowing",
         "url": "https://open.spotify.com/album/1475ygGcXf7C3oQ4XMYkMX"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 380419,
       "name": "Mulatu",
       "url": "https://open.spotify.com/track/5dkCbFyJIZmaRst8E2eggt"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "E Music",
-        "url": "https://open.spotify.com/album/40PuB9YHSod4WSW0Qkozh7"
-      },
-      "artists": [
-        {
-          "name": "Pete Escovedo",
-          "url": "https://open.spotify.com/artist/3EXBBqXojqnitE9lPX0uUZ"
-        }
-      ],
-      "duration_ms": 341066,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/40hvnBSpgJ9W6BsQe4v8UO"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
+        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+        }
+      ],
+      "duration_ms": 201933,
+      "name": "Scarborough Fair",
+      "url": "https://open.spotify.com/track/6tx4luUmjZXUW1HuLmNb4U"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Live in Cuba",
         "url": "https://open.spotify.com/album/2mLRfQqMxdiZSpUHnd0HKy"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 417302,
       "name": "Como Fue (feat. Bobby Carcass\u00e9s)",
       "url": "https://open.spotify.com/track/23DTCcj8R5BHYgsprq5ngD"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
-        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
-        }
-      ],
-      "duration_ms": 201933,
-      "name": "Scarborough Fair",
-      "url": "https://open.spotify.com/track/6tx4luUmjZXUW1HuLmNb4U"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
+        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+        }
+      ],
+      "duration_ms": 188600,
+      "name": "Day Tripper",
+      "url": "https://open.spotify.com/track/5J3R2eEHlD2ng4cwh6Tlnz"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Mango",
         "url": "https://open.spotify.com/album/59PyMjDWf4lvoQTtNUNUcX"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 221954,
       "name": "Mango",
       "url": "https://open.spotify.com/track/1YiIduNkxaZtiojkkQxk2R"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
-        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
-        }
-      ],
-      "duration_ms": 188600,
-      "name": "Day Tripper",
-      "url": "https://open.spotify.com/track/5J3R2eEHlD2ng4cwh6Tlnz"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Trane's Delight",
-        "url": "https://open.spotify.com/album/6sMYDCMbXwodgyR2vejSEb"
-      },
-      "artists": [
-        {
-          "name": "Poncho Sanchez",
-          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
-        }
-      ],
-      "duration_ms": 353840,
-      "name": "Soul Bourgeoisie",
-      "url": "https://open.spotify.com/track/1Q6wac6uy5RyqC1DaResLx"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Tr\u00edo Oriental",
         "url": "https://open.spotify.com/album/2xxEkQlYyJCe36tOWKUfUX"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 130346,
       "name": "La Explicaci\u00f3n",
       "url": "https://open.spotify.com/track/2HlWEGp5Hefb38uuwEL4dI"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Trane's Delight",
+        "url": "https://open.spotify.com/album/6sMYDCMbXwodgyR2vejSEb"
+      },
+      "artists": [
+        {
+          "name": "Poncho Sanchez",
+          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
+        }
+      ],
+      "duration_ms": 353840,
+      "name": "Soul Bourgeoisie",
+      "url": "https://open.spotify.com/track/1Q6wac6uy5RyqC1DaResLx"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1199,22 +1199,6 @@
       "duration_ms": 347803,
       "name": "Poinciana",
       "url": "https://open.spotify.com/track/1rxhAnn7mZAUwytVbBOLS3"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Trane's Delight",
-        "url": "https://open.spotify.com/album/6sMYDCMbXwodgyR2vejSEb"
-      },
-      "artists": [
-        {
-          "name": "Poncho Sanchez",
-          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
-        }
-      ],
-      "duration_ms": 357120,
-      "name": "The Feeling Of Jazz",
-      "url": "https://open.spotify.com/track/7IzKaEpu718xiAyPhMMmHg"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1275,6 +1259,22 @@
       "duration_ms": 289986,
       "name": "Descarga Vald\u00e9s",
       "url": "https://open.spotify.com/track/2fKIOUrSKTpI6LlRRELZ7a"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Trane's Delight",
+        "url": "https://open.spotify.com/album/6sMYDCMbXwodgyR2vejSEb"
+      },
+      "artists": [
+        {
+          "name": "Poncho Sanchez",
+          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
+        }
+      ],
+      "duration_ms": 357120,
+      "name": "The Feeling Of Jazz",
+      "url": "https://open.spotify.com/track/7IzKaEpu718xiAyPhMMmHg"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Keeper Of The Flame",
-        "url": "https://open.spotify.com/album/3e4bAbCTZq7nvw62WuFgOH"
+        "name": "Listen Here",
+        "url": "https://open.spotify.com/album/07KdM1RxB17RPj7PY6o2Oi"
       },
       "artists": [
         {
-          "name": "Poncho Sanchez",
-          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
         }
       ],
-      "duration_ms": 247693,
-      "name": "A Night In Tunisia",
-      "url": "https://open.spotify.com/track/5wRMcNaW1pCQjBIAw7ZY5t"
+      "duration_ms": 341560,
+      "name": "In Flight",
+      "url": "https://open.spotify.com/track/3Mk8X0BQTypfytrfwMoVKM"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1431,18 +1431,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Listen Here",
-        "url": "https://open.spotify.com/album/07KdM1RxB17RPj7PY6o2Oi"
+        "name": "Ultimate Duets",
+        "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
       },
       "artists": [
         {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+          "name": "Arturo Sandoval",
+          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+        },
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
         }
       ],
-      "duration_ms": 341560,
-      "name": "In Flight",
-      "url": "https://open.spotify.com/track/3Mk8X0BQTypfytrfwMoVKM"
+      "duration_ms": 320480,
+      "name": "Solo Esta Soledad",
+      "url": "https://open.spotify.com/track/4Y30iXqao3OnzhSFQaBW7L"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1463,22 +1467,34 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Ultimate Duets",
-        "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
+        "name": "Keeper Of The Flame",
+        "url": "https://open.spotify.com/album/3e4bAbCTZq7nvw62WuFgOH"
       },
       "artists": [
         {
-          "name": "Arturo Sandoval",
-          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
-        },
-        {
-          "name": "Josh Groban",
-          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+          "name": "Poncho Sanchez",
+          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
         }
       ],
-      "duration_ms": 320480,
-      "name": "Solo Esta Soledad",
-      "url": "https://open.spotify.com/track/4Y30iXqao3OnzhSFQaBW7L"
+      "duration_ms": 247693,
+      "name": "A Night In Tunisia",
+      "url": "https://open.spotify.com/track/5wRMcNaW1pCQjBIAw7ZY5t"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Salsa-Jazz-Descarga",
+        "url": "https://open.spotify.com/album/4DRLWQNSmZ1rnoddSFwPG3"
+      },
+      "artists": [
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        }
+      ],
+      "duration_ms": 245666,
+      "name": "Condiciones Que Existen",
+      "url": "https://open.spotify.com/track/6rKrh4zGSBCa7aFcyq5Gvo"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1555,22 +1571,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Salsa-Jazz-Descarga",
-        "url": "https://open.spotify.com/album/4DRLWQNSmZ1rnoddSFwPG3"
-      },
-      "artists": [
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        }
-      ],
-      "duration_ms": 245666,
-      "name": "Condiciones Que Existen",
-      "url": "https://open.spotify.com/track/6rKrh4zGSBCa7aFcyq5Gvo"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Jazz Bat\u00e1 2",
         "url": "https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A"
       },
@@ -1583,6 +1583,22 @@
       "duration_ms": 432617,
       "name": "Chucho\u2019s Mood",
       "url": "https://open.spotify.com/track/2VACXzUf5uOvheUAztmM3P"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "La Perfecta II",
+        "url": "https://open.spotify.com/album/2PMNAdxyoVxGkrECXSmzD1"
+      },
+      "artists": [
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        }
+      ],
+      "duration_ms": 330826,
+      "name": "Tirandote Flores II",
+      "url": "https://open.spotify.com/track/7vhOv82NZMxWKx5VrfFBNf"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1675,22 +1691,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Caminos",
-        "url": "https://open.spotify.com/album/6bbqvMNCUdRGHCebMMzXhI"
-      },
-      "artists": [
-        {
-          "name": "Carlos Aguirre",
-          "url": "https://open.spotify.com/artist/42aKOZOUTiO5DmS1FF4nVN"
-        }
-      ],
-      "duration_ms": 238786,
-      "name": "Milonga gris",
-      "url": "https://open.spotify.com/track/4MRLHLGa1bqOpH9K4QiKzL"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Dizzy Con Clave: Live from Dizzy's Club Coca Cola",
         "url": "https://open.spotify.com/album/7bwbHc0k88oDET8KYTRtcm"
       },
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "La Perfecta II",
-        "url": "https://open.spotify.com/album/2PMNAdxyoVxGkrECXSmzD1"
+        "name": "Caminos",
+        "url": "https://open.spotify.com/album/6bbqvMNCUdRGHCebMMzXhI"
       },
       "artists": [
         {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+          "name": "Carlos Aguirre",
+          "url": "https://open.spotify.com/artist/42aKOZOUTiO5DmS1FF4nVN"
         }
       ],
-      "duration_ms": 330826,
-      "name": "Tirandote Flores II",
-      "url": "https://open.spotify.com/track/7vhOv82NZMxWKx5VrfFBNf"
+      "duration_ms": 238786,
+      "name": "Milonga gris",
+      "url": "https://open.spotify.com/track/4MRLHLGa1bqOpH9K4QiKzL"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Duos II",
-        "url": "https://open.spotify.com/album/5HBHLmP3Zv5Qc1a5NdguBn"
-      },
-      "artists": [
-        {
-          "name": "Luciana Souza",
-          "url": "https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM"
-        }
-      ],
-      "duration_ms": 172680,
-      "name": "Muita Bobeira",
-      "url": "https://open.spotify.com/track/3yWwPTIZAw9qYkH1L3tIdO"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "New Era",
         "url": "https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 267240,
       "name": "Brazilian Love Affair",
       "url": "https://open.spotify.com/track/5CUvPHZF4c0gHeJuTG4lN1"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Duos II",
+        "url": "https://open.spotify.com/album/5HBHLmP3Zv5Qc1a5NdguBn"
+      },
+      "artists": [
+        {
+          "name": "Luciana Souza",
+          "url": "https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM"
+        }
+      ],
+      "duration_ms": 172680,
+      "name": "Muita Bobeira",
+      "url": "https://open.spotify.com/track/3yWwPTIZAw9qYkH1L3tIdO"
     },
     {
       "added_at": "2023-04-28 04:00:00",

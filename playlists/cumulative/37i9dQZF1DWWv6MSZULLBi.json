@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Elisapie",
+  "description": "A laid-back trip in the folk scene. Cover: Rhiannon Giddens",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -586,6 +586,24 @@
       "duration_ms": 174840,
       "name": "Bandages",
       "url": "https://open.spotify.com/track/32z65nCDfiHwd7Ly1AyN2t"
+    },
+    {
+      "album": {
+        "name": "Basic Channels",
+        "url": "https://open.spotify.com/album/6zrGwKqL2sJ6bkni0tY9Sc"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114683,
+      "name": "Basic Channels",
+      "url": "https://open.spotify.com/track/4gnJLzWvpsVPHybDPoWW9H"
     },
     {
       "album": {
@@ -2891,6 +2909,24 @@
     },
     {
       "album": {
+        "name": "Hallelujah Anyway",
+        "url": "https://open.spotify.com/album/6iG1EIMbUXhXTpb99kcHhi"
+      },
+      "artists": [
+        {
+          "name": "Luke Sital-Singh",
+          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213312,
+      "name": "Hallelujah Anyway",
+      "url": "https://open.spotify.com/track/2i6U0iTND18B5gD6QmCo2M"
+    },
+    {
+      "album": {
         "name": "Norm",
         "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
       },
@@ -3311,6 +3347,24 @@
     },
     {
       "album": {
+        "name": "I Believe in Something More",
+        "url": "https://open.spotify.com/album/2rKIHcjKHe52kvPeAUZ5rO"
+      },
+      "artists": [
+        {
+          "name": "Hayden Calnin",
+          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181111,
+      "name": "I Believe in Something More",
+      "url": "https://open.spotify.com/track/7eOYNPtD0tq3Q0JJ7JxwjQ"
+    },
+    {
+      "album": {
         "name": "I Can't Get My Head Around You",
         "url": "https://open.spotify.com/album/7yyWIkHQjDMsH8ij1Nuj6e"
       },
@@ -3474,6 +3528,28 @@
       "duration_ms": 150141,
       "name": "I'd Have to Think About It",
       "url": "https://open.spotify.com/track/50lUr1G0TYol01m2RlqPzZ"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6WdZ6j0Mm6fOzpyHXKx8PP"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217873,
+      "name": "If We Were Vampires (feat. Wesley Schultz) - Spotify Singles",
+      "url": "https://open.spotify.com/track/6LKvzEJQTIm2RrWAMPwQH6"
     },
     {
       "album": {
@@ -4697,6 +4773,24 @@
     },
     {
       "album": {
+        "name": "More Change",
+        "url": "https://open.spotify.com/album/5z8sVCeIggrJ2FYIfHefJ0"
+      },
+      "artists": [
+        {
+          "name": "This Is The Kit",
+          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149946,
+      "name": "More Change",
+      "url": "https://open.spotify.com/track/6T8jm94wSS3fbgM4VAEITF"
+    },
+    {
+      "album": {
         "name": "Mother Love",
         "url": "https://open.spotify.com/album/7dKPc0Mj8iVLpaVvby2NSf"
       },
@@ -5206,6 +5300,24 @@
       "duration_ms": 135730,
       "name": "One Bird Calling",
       "url": "https://open.spotify.com/track/4GzJ0pIpiIl3lkVVEL4ZLq"
+    },
+    {
+      "album": {
+        "name": "One of Those Nights",
+        "url": "https://open.spotify.com/album/2m5d3D16D5Ee3thsqBcDWy"
+      },
+      "artists": [
+        {
+          "name": "Angus Maude",
+          "url": "https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "One of Those Nights",
+      "url": "https://open.spotify.com/track/0YdXvFAUApwJXIoIeizVBJ"
     },
     {
       "album": {
@@ -7577,6 +7689,24 @@
     },
     {
       "album": {
+        "name": "Warning Signs",
+        "url": "https://open.spotify.com/album/7gQjG65hSkp91PXzJ3G69T"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212440,
+      "name": "Warning Signs",
+      "url": "https://open.spotify.com/track/6G5BZd8IB5qYCAg6zNSASp"
+    },
+    {
+      "album": {
         "name": "Wasted On You",
         "url": "https://open.spotify.com/album/5RAH5Q2N6QrzXaLbyU8OtJ"
       },
@@ -8332,6 +8462,24 @@
       "duration_ms": 216000,
       "name": "You're My Winter",
       "url": "https://open.spotify.com/track/5u6vKboXSgqGxh7dCWy6tQ"
+    },
+    {
+      "album": {
+        "name": "You're the One",
+        "url": "https://open.spotify.com/album/6RBTZpN4KkTLDbPdSUYRPJ"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205040,
+      "name": "You're the One",
+      "url": "https://open.spotify.com/track/2YEN8LRUuTViNyCGeUQukS"
     },
     {
       "album": {

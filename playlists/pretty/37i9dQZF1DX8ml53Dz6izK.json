@@ -1,12 +1,12 @@
 {
   "description": "< insert emo glitter gif here >",
-  "num_followers": 45966,
+  "num_followers": 45995,
   "original_name": "CrySpace",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGM1ZDkzNGU2ZTdmMWM1NmU0ZDE5ODgyZjBkN2NlM2IyZTBjMzVi",
+  "snapshot_id": "MCxjOTk0Mjk3YTFmY2MyMTJhYjJjNTYwYTBkNTFkMDQzODBlOTM0Y2I4",
   "tracks": [
     {
       "added_at": "2022-08-18 15:16:06",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-08-18 15:16:06",
       "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 220480,
-      "name": "That's What You Get",
-      "url": "https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ"
-    },
-    {
-      "added_at": "2022-08-18 15:16:06",
-      "album": {
         "name": "Metro Station",
         "url": "https://open.spotify.com/album/2tZnyjZ6Orm55gE8bqJ3UG"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 179946,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/5619Ojc6t9evEEs3B7Drhe"
+    },
+    {
+      "added_at": "2022-08-18 15:16:06",
+      "album": {
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 220480,
+      "name": "That's What You Get",
+      "url": "https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ"
     },
     {
       "added_at": "2022-08-18 15:16:06",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-08-18 15:16:06",
       "album": {
-        "name": "Commit This To Memory",
-        "url": "https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT"
-      },
-      "artists": [
-        {
-          "name": "Motion City Soundtrack",
-          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
-        }
-      ],
-      "duration_ms": 207633,
-      "name": "Everything Is Alright",
-      "url": "https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV"
-    },
-    {
-      "added_at": "2022-08-18 15:16:06",
-      "album": {
         "name": "For Those Who Have Heart",
         "url": "https://open.spotify.com/album/4HEUcIsYZNkvMWQkIIEJYq"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 198266,
       "name": "Since U Been Gone",
       "url": "https://open.spotify.com/track/45oBSaWml0fU1S6qcHcpxF"
+    },
+    {
+      "added_at": "2022-08-18 15:16:06",
+      "album": {
+        "name": "Commit This To Memory",
+        "url": "https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT"
+      },
+      "artists": [
+        {
+          "name": "Motion City Soundtrack",
+          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
+        }
+      ],
+      "duration_ms": 207633,
+      "name": "Everything Is Alright",
+      "url": "https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV"
     },
     {
       "added_at": "2022-08-18 15:16:06",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-08-18 15:16:06",
       "album": {
-        "name": "Dying Is Your Latest Fashion",
-        "url": "https://open.spotify.com/album/01ufkmZ5R6UvEqKWfuNotw"
-      },
-      "artists": [
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 231506,
-      "name": "Not Good Enough For Truth In Clich\u00e9",
-      "url": "https://open.spotify.com/track/50NQdrO55nqwZrDwKny5NH"
-    },
-    {
-      "added_at": "2022-08-18 15:16:06",
-      "album": {
         "name": "Deja Entendu",
         "url": "https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 241640,
       "name": "The Quiet Things That No One Ever Knows",
       "url": "https://open.spotify.com/track/3IlY76VbP31zwPY0S2EMjh"
+    },
+    {
+      "added_at": "2022-08-18 15:16:06",
+      "album": {
+        "name": "Dying Is Your Latest Fashion",
+        "url": "https://open.spotify.com/album/01ufkmZ5R6UvEqKWfuNotw"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "duration_ms": 231506,
+      "name": "Not Good Enough For Truth In Clich\u00e9",
+      "url": "https://open.spotify.com/track/50NQdrO55nqwZrDwKny5NH"
     },
     {
       "added_at": "2022-08-18 15:16:06",

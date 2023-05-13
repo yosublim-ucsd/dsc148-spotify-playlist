@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor y lo último del pop en español\. Foto: Abraham Mateo, Chanel
 
-[Spotify](https://open.spotify.com/user/spotify) - 977,000 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 977,145 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 74 | [Beso Nuclear](https://open.spotify.com/track/6I5XNhtSdKhOj72qcryPry) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Beso Nuclear](https://open.spotify.com/album/3f6rbt6L2DIFOjoKqgFLFb) | 2:41 |
 | 75 | [Psycho](https://open.spotify.com/track/56f2EfGZQyygTlqfstY7yU) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [AAAAAA](https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi) | 3:13 |
 
-Snapshot ID: `MCwzOTVjZmNhZWNjZGJhMTg2NzE2MGY5MzEyZGJkODRmNTNkNjcwNmFm`
+Snapshot ID: `MCxlYTIyNjZkN2FiYzIyNTFiZmI2OWZkMzk5MmY2NTEyMzRkNjExZmNm`

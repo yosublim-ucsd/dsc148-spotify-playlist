@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer. Foto: AHYRE",
+  "description": "\u00a1Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer. Foto: Soledad",
   "name": "Lunas de Folklore",
   "tracks": [
     {
@@ -490,7 +490,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 320085,
       "name": "C\u00f3mplices",
       "url": "https://open.spotify.com/track/6IjYr3ioZO2yDLFsVWPd6A"
@@ -1034,7 +1034,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 210820,
       "name": "La Bicicleta",
       "url": "https://open.spotify.com/track/7c5AYFF7kNDnDTLjxuzDaF"
@@ -1254,6 +1254,24 @@
       "duration_ms": 269196,
       "name": "La Noche Sin Ti",
       "url": "https://open.spotify.com/track/3o9cQ5wp9QXhKXHAOAESFG"
+    },
+    {
+      "album": {
+        "name": "La Paloma",
+        "url": "https://open.spotify.com/album/6DgVAve7m06lb2ubFqp3J3"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224759,
+      "name": "La Paloma",
+      "url": "https://open.spotify.com/track/1xbueGvTrxbpYNtOSFKdTJ"
     },
     {
       "album": {
@@ -2102,6 +2120,24 @@
       "duration_ms": 198507,
       "name": "Si No Te Vuelvo a Ver",
       "url": "https://open.spotify.com/track/47DVLnnCOWVKvOkCz9RA1y"
+    },
+    {
+      "album": {
+        "name": "Si Pudiera",
+        "url": "https://open.spotify.com/album/1wMLkuAbaKSaqZr11xG32C"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera y Pampas de Bariloche",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173322,
+      "name": "Si Pudiera",
+      "url": "https://open.spotify.com/track/2S9oyHCvXTaaIFm2dkpwge"
     },
     {
       "album": {

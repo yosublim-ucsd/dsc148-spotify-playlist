@@ -4,7 +4,7 @@
 
 > A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.
 
-366 songs - 1 day 16 hr 31 min
+367 songs - 1 day 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Distopia](https://open.spotify.com/track/24ZVytjb1R8ojaa4u1lRNW) | [Dandara](https://open.spotify.com/artist/6h2EcimpzT4Ft2t2vfjEt4) | [Desolate Distopia](https://open.spotify.com/album/0SLi6pMdIw9uWHIoNDVvW1) | 6:52 | 2020-11-05 | 2021-02-07 |
 | [Drums Marrakech](https://open.spotify.com/track/74vqtIP1ZpXmNOkzkbswGe) | [Chaim](https://open.spotify.com/artist/2XMpXAQ0B1J95en60YGE3V) | [Drums Marrakech](https://open.spotify.com/album/1GcSm4bpJuQLLoRSQPVtz8) | 5:40 | 2019-08-02\* | 2021-05-28 |
 | [Duat](https://open.spotify.com/track/7MqyoCR3gABY7R5ibLRjpR) | [Trippin Jaguar](https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0), [Raffaello Visconti](https://open.spotify.com/artist/1JaqbmYIACQImzNpyefYnp) | [Arecibo](https://open.spotify.com/album/1Q8Lwbmwvfded4H34gHTj6) | 7:18 | 2019-08-02\* | 2021-12-05 |
-| [Earth](https://open.spotify.com/track/18Vds2ehiWC09W390vcptq) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Tripoli](https://open.spotify.com/artist/5kO8Lt8fTaDRmvwcmjDO46) | [Plutón](https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW) | 6:22 | 2022-04-04 |  |
+| [Earth](https://open.spotify.com/track/18Vds2ehiWC09W390vcptq) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Tripoli](https://open.spotify.com/artist/5kO8Lt8fTaDRmvwcmjDO46) | [Plutón](https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW) | 6:22 | 2022-04-04 | 2023-05-13 |
 | [Ecbatana](https://open.spotify.com/track/6ElWJx7lHxUQ7EcNytyLBe) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Arya Noble](https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50) | [Ecbatana](https://open.spotify.com/album/5HVONgm46A279BAssIgpVC) | 3:48 | 2019-08-02\* | 2021-09-06 |
 | [Efsun](https://open.spotify.com/track/4qpm26kuDkeIRICuQ34Q1U) | [Ali Kuru](https://open.spotify.com/artist/4ljGdf7WSUgs2gc0TVGNGV) | [Merhaba](https://open.spotify.com/album/0MWRx1a4Z2MaaWqn4rqY94) | 6:21 | 2019-11-02 | 2021-02-27 |
 | [Ekata](https://open.spotify.com/track/45nyiS7Q2fJaY9AuNDZDee) | [The Advocate](https://open.spotify.com/artist/2BoWW5buEf2tz4NlKVknvm), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK) | [Ekata](https://open.spotify.com/album/15NQB0wgAcH6pStxyo0rCb) | 5:34 | 2021-02-28 | 2022-04-21 |
@@ -220,6 +220,7 @@
 | [Meigallo \(Matias Aguayo Remix\)](https://open.spotify.com/track/7tDbFscaADIXxZJKV3se7a) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS), [Lilaina](https://open.spotify.com/artist/0tyBq40GhIuFlZERtHbONh), [Matias Aguayo](https://open.spotify.com/artist/7daexEpVdKDbvlUHZ2rWbe) | [Meigallo \(Matias Aguayo Remix\)](https://open.spotify.com/album/1CqPXmacI6CoVz7m5gAiyf) | 5:26 | 2022-04-04 | 2022-04-18 |
 | [Memphis](https://open.spotify.com/track/5xVCf8z2hgLCa7Vmp7L9c7) | [Anton Ishutin](https://open.spotify.com/artist/0RhuWNLtoucVMRmsSkCgWl) | [Memphis](https://open.spotify.com/album/2gLRbGdOqB0o67CGffy25z) | 6:57 | 2022-11-25 | 2023-02-01 |
 | [Mencitaimu](https://open.spotify.com/track/0pivFXWc9scNbb0HChzrRq) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3) | [Mencitaimu](https://open.spotify.com/album/6gfwj35LdW08bmGXxNXvYf) | 8:08 | 2021-10-16 | 2022-07-28 |
+| [Mesta](https://open.spotify.com/track/0qPCty2LrwBk1unrp3mRlI) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT) | [Mesta](https://open.spotify.com/album/5Qr3sN626ogWOB6VtefrNS) | 6:11 | 2023-04-20 |  |
 | [Mesta](https://open.spotify.com/track/3HIyzleWbghroY372GMajL) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT) | [Mesta](https://open.spotify.com/album/2uDlUnjYwrxwSmeftzqo8G) | 6:11 | 2021-08-22 | 2023-04-30 |
 | [Milambi](https://open.spotify.com/track/6Bg9rnY8OXQZOG79lCveyu) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Milambi](https://open.spotify.com/album/4D4QOUYRQ98dXcmNHAAS7q) | 3:13 | 2020-01-29 |  |
 | [Milla Ella](https://open.spotify.com/track/0A2mTYI8HDN0X6afRLSHB4) | [Come Closer](https://open.spotify.com/artist/0ldaAtkGESIpY4avgd1LqC) | [Milla Ella](https://open.spotify.com/album/0FhyEz5SmhnAmJQBvlx4MY) | 8:49 | 2021-09-11 | 2022-07-23 |

@@ -1,12 +1,12 @@
 {
   "description": "Sinta o flow do rap em estilo ac\u00fastico ou rom\u00e2ntico. Foto: Ikki",
-  "num_followers": 538229,
+  "num_followers": 538256,
   "original_name": "Rap Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYThlZGUwMDM3MTg3ODQyZWM2M2I5ZjM2NzU0ODM1MWE3ZGY1MjI2",
+  "snapshot_id": "MCw1OGRmMjBlMTFkMGU3N2ZjODNkMDU5MTU2MDA3MmE0Njc0ZjU3ZWE3",
   "tracks": [
     {
       "added_at": "2023-05-12 00:48:06",
@@ -67,6 +67,30 @@
       "duration_ms": 142417,
       "name": "Se For Pra Ser",
       "url": "https://open.spotify.com/track/5j2GLJa9u24f31c8Hn1lbq"
+    },
+    {
+      "added_at": "2023-05-12 00:48:06",
+      "album": {
+        "name": "Ac\u00fastico 10 Anos Cacife (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2o0lQSlcbTnFNFpXDOovQ7"
+      },
+      "artists": [
+        {
+          "name": "Cacife Clandestino",
+          "url": "https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 203878,
+      "name": "S\u00f3 Me Ligar - Ao Vivo",
+      "url": "https://open.spotify.com/track/7F3wFxzD8nJqXM2AyXYg4B"
     },
     {
       "added_at": "2023-05-12 00:48:06",
@@ -159,6 +183,26 @@
       "duration_ms": 315652,
       "name": "Poesia Ac\u00fastica - Lisboa",
       "url": "https://open.spotify.com/track/0xYOVTHZVSvZBUQgCybH9b"
+    },
+    {
+      "added_at": "2023-05-12 00:48:06",
+      "album": {
+        "name": "Fim De Semana",
+        "url": "https://open.spotify.com/album/3pbfczs2jCRIaPsjWcSszo"
+      },
+      "artists": [
+        {
+          "name": "Kaio Viana",
+          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
+        },
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        }
+      ],
+      "duration_ms": 135718,
+      "name": "Fim De Semana",
+      "url": "https://open.spotify.com/track/4SKrgwolhav2i1NXhjHMix"
     },
     {
       "added_at": "2023-05-12 00:48:06",

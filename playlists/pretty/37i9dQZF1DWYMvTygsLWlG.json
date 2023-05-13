@@ -1,12 +1,12 @@
 {
   "description": "Some of the worlds most beautiful love songs.",
-  "num_followers": 2013858,
+  "num_followers": 2014340,
   "original_name": "Love Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTQzMWE2ZjQyNTRjN2RjN2Y3ODEyMDM2MzI1NDgyZTk2YzA2Nzli",
+  "snapshot_id": "MCxmODk4ZmI1YTQ1MzAyM2VhOGU3OTIzYTYzN2YwMjQ5YTViYTczN2Fk",
   "tracks": [
     {
       "added_at": "2022-12-02 12:00:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Agent Provocateur",
-        "url": "https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 304786,
-      "name": "I Want to Know What Love Is - 1999 Remaster",
-      "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "Don't Play That Song (Mono)",
         "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 180055,
       "name": "Stand by Me",
       "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "Agent Provocateur",
+        "url": "https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 304786,
+      "name": "I Want to Know What Love Is - 1999 Remaster",
+      "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 179693,
-      "name": "At Last",
-      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "Into The Light",
         "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 256173,
       "name": "The Lady In Red",
       "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 179693,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Extreme II - Pornograffitti",
-        "url": "https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC"
-      },
-      "artists": [
-        {
-          "name": "Extreme",
-          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
-        }
-      ],
-      "duration_ms": 334106,
-      "name": "More Than Words",
-      "url": "https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "I AM...SASHA FIERCE",
         "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 261640,
       "name": "Halo",
       "url": "https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "Extreme II - Pornograffitti",
+        "url": "https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC"
+      },
+      "artists": [
+        {
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
+        }
+      ],
+      "duration_ms": 334106,
+      "name": "More Than Words",
+      "url": "https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Keep The Faith",
-        "url": "https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 394400,
-      "name": "Bed Of Roses",
-      "url": "https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "Falling into You",
         "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 273666,
       "name": "Because You Loved Me (Theme from \"Up Close and Personal\")",
       "url": "https://open.spotify.com/track/28UMiBhn383n9S7GL4tsxD"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "Keep The Faith",
+        "url": "https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 394400,
+      "name": "Bed Of Roses",
+      "url": "https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 284760,
-      "name": "This I Promise You",
-      "url": "https://open.spotify.com/track/46n2EGFnPC3tzWCN1Aqe26"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "Butterfly",
         "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 230933,
       "name": "My All",
       "url": "https://open.spotify.com/track/3RSpK5Y0y5tl25qvssrwJ6"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 284760,
+      "name": "This I Promise You",
+      "url": "https://open.spotify.com/track/46n2EGFnPC3tzWCN1Aqe26"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Waking Up The Neighbours",
-        "url": "https://open.spotify.com/album/061uAXmheZOILmf2rr3tTn"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 394133,
-      "name": "(Everything I Do) I Do It For You",
-      "url": "https://open.spotify.com/track/6eBK3edMW7bEzecF1eCezc"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "The One Thing",
         "url": "https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 304866,
       "name": "Said I Loved You...But I Lied",
       "url": "https://open.spotify.com/track/2nfMrwg3aRhSAv4HX7IzJL"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "Waking Up The Neighbours",
+        "url": "https://open.spotify.com/album/061uAXmheZOILmf2rr3tTn"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 394133,
+      "name": "(Everything I Do) I Do It For You",
+      "url": "https://open.spotify.com/track/6eBK3edMW7bEzecF1eCezc"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -2307,6 +2307,22 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
+        "name": "Christopher Cross",
+        "url": "https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "duration_ms": 258866,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/4ogaI0XfmAunA0LyjveMSF"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
         "name": "The Mirror Has Two Faces - Music From The Motion Picture",
         "url": "https://open.spotify.com/album/5m0V4PrFdpsqtLXNgsnprE"
       },
@@ -2323,22 +2339,6 @@
       "duration_ms": 221973,
       "name": "I Finally Found Someone (feat. Bryan Adams)",
       "url": "https://open.spotify.com/track/2WthqeuPLwn0CHwCMrlt6L"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
-        "name": "Christopher Cross",
-        "url": "https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh"
-      },
-      "artists": [
-        {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
-        }
-      ],
-      "duration_ms": 258866,
-      "name": "Sailing",
-      "url": "https://open.spotify.com/track/4ogaI0XfmAunA0LyjveMSF"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Take My Breath Away",
-        "url": "https://open.spotify.com/album/1gwQ8OK1YHKpzIxLKuc1MQ"
-      },
-      "artists": [
-        {
-          "name": "Berlin",
-          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
-        }
-      ],
-      "duration_ms": 264213,
-      "name": "Take My Breath Away",
-      "url": "https://open.spotify.com/track/1hZJcuz9iMoz6tLkFlIaUy"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "The Evolution of Robin Thicke",
         "url": "https://open.spotify.com/album/55ErdDg54WTAEySb0r7yzb"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 254146,
       "name": "Lost Without U",
       "url": "https://open.spotify.com/track/4V2F0DZrAXOWq9hkwMMG3x"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "Take My Breath Away",
+        "url": "https://open.spotify.com/album/1gwQ8OK1YHKpzIxLKuc1MQ"
+      },
+      "artists": [
+        {
+          "name": "Berlin",
+          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
+        }
+      ],
+      "duration_ms": 264213,
+      "name": "Take My Breath Away",
+      "url": "https://open.spotify.com/track/1hZJcuz9iMoz6tLkFlIaUy"
     },
     {
       "added_at": "2022-12-02 12:00:00",

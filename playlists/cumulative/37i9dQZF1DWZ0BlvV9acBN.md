@@ -4,7 +4,7 @@
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: PG
 
-99 songs - 7 hr 57 min
+100 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [HEREGE](https://open.spotify.com/track/5yZBk4qrWmgRGcWHtt74ot) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [HEREGE](https://open.spotify.com/album/1aZjMqH9pQ0RHhyjxOmEqv) | 4:09 | 2022-09-02 |  |
 | [Hoje Tem Cor](https://open.spotify.com/track/63ICcEPOOPlcSHXzQXQMDH) | [Salvaon](https://open.spotify.com/artist/1YbTEvDgGkTuBpMFtHDbgG) | [LIVE](https://open.spotify.com/album/3BVK1en3BkNnAhpJxULFD3) | 5:53 | 2022-09-02 | 2023-03-18 |
 | [Jesus é o Amigo da Hora](https://open.spotify.com/track/7aeJCG02CJAMgXjX5NmJX8) | [Khorus](https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx) | [Jesus é o Amigo da Hora](https://open.spotify.com/album/29CVx12VyXFjyNZbvC2iSW) | 3:19 | 2023-01-20 | 2023-03-04 |
-| [João 1 \- VEC](https://open.spotify.com/track/4uruuwLWdKR34haz31Ptzk) | [verboemcarne](https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY) | [Vida/Eternidade](https://open.spotify.com/album/3upWhnmQOjNyyUyFnIO4PP) | 4:18 | 2022-10-07 |  |
+| [João 1 \- VEC](https://open.spotify.com/track/4uruuwLWdKR34haz31Ptzk) | [verboemcarne](https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY) | [Vida/Eternidade](https://open.spotify.com/album/3upWhnmQOjNyyUyFnIO4PP) | 4:18 | 2022-10-07 | 2023-05-13 |
+| [João 1 \- VEC](https://open.spotify.com/track/7fY0cpQJpJkvMfN7st6PyG) | [verboemcarne](https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY), [please provide remixers](https://open.spotify.com/artist/2pEyXjApcGSzbu7ba6yjgc) | [Vida/Eternidade](https://open.spotify.com/album/15aPsEilVLOZ4lF5JWg6be) | 4:18 | 2023-05-05 |  |
 | [justiça, paz, alegria](https://open.spotify.com/track/0uFxeF9GqOOOlYAwHQVOjW) | [verboemcarne](https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY), [Ana Heloysa](https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4) | [justiça, paz, alegria](https://open.spotify.com/album/2xtFRJflfGl6hkMIoZ1fKS) | 4:30 | 2022-09-02 | 2022-10-08 |
 | [Lado a Lado](https://open.spotify.com/track/0GTm4VBJFD2UXrgirOvAtE) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT) | [Lado a Lado](https://open.spotify.com/album/3YjjJX4higvdh2gqKxHs9O) | 3:45 | 2022-10-14 | 2023-05-06 |
 | [Livre Sou](https://open.spotify.com/track/62aGtaEunlFAd8HagOBeWx) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Livre Sou](https://open.spotify.com/album/28NPgRLhM0u0UiIQnTvUKd) | 3:26 | 2023-03-24 |  |

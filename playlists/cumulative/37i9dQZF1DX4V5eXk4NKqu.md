@@ -2,9 +2,9 @@
 
 ### [Ultimate Latin Indie](https://open.spotify.com/playlist/37i9dQZF1DX4V5eXk4NKqu)
 
-> The best Latin Indie tracks right now, featuring Little Jesus.
+> The best Latin Indie tracks right now, featuring León Larregui.
 
-247 songs - 14 hr 9 min
+248 songs - 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [ALL THESE INSTRUMENTS](https://open.spotify.com/track/1x6mcBCE9umx4zSzeQM5mo) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [WILL THIS MAKE ME GOOD](https://open.spotify.com/album/5vxofv9WcrZHyA4Ce0PpDI) | 4:09 | 2022-09-06 | 2023-02-09 |
 | [Alone in the Universe](https://open.spotify.com/track/0tnPftx27fXQ5FCpEAwvOu) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Alone in the Universe](https://open.spotify.com/album/2tAnRr7wRAoPL6zUm1T2Bt) | 3:24 | 2022-03-10 | 2022-07-27 |
 | [Alone in the Universe](https://open.spotify.com/track/5fiIW6iNDuremm3HJTTAFE) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [La Linda](https://open.spotify.com/album/05ZdcQ2F8wSobCk3ypo15O) | 3:24 | 2022-06-03 | 2022-09-07 |
-| [Amante](https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Amante](https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk) | 3:51 | 2022-12-02 |  |
+| [Amante](https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Amante](https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk) | 3:51 | 2022-12-02 | 2023-05-13 |
 | [Ambar Bossa Nova \- Spotify Singles](https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Spotify Singles](https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV) | 3:01 | 2022-03-10 | 2023-02-03 |
 | [Amor Barato](https://open.spotify.com/track/3UAZphSh6pog2QYXvEJsQg) | [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Amor Barato](https://open.spotify.com/album/3VhIk6vzARVy2CUhtViy94) | 3:17 | 2023-04-06 | 2023-04-16 |
 | [Another Observer](https://open.spotify.com/track/0OwQPTFWy8Xcvy4ViLvyF1) | [Irene Diaz](https://open.spotify.com/artist/1ADOdE5G5ToLJQBP9hv9NF) | [Another Observer](https://open.spotify.com/album/2FWiGcbJT16qpmtYE7vtd8) | 3:26 | 2022-04-21 | 2022-07-29 |
@@ -102,6 +102,7 @@
 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 | 2023-01-20 |  |
 | [IN MY ROOM!](https://open.spotify.com/track/74XGMhW9YScgVpeVJmzKqj) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [DUALITY](https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4) | 3:42 | 2022-06-03 | 2023-02-09 |
 | [IN MY ROOM!](https://open.spotify.com/track/7IFgW2N3HuyJEQWk6yN5je) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [IN MY ROOM!](https://open.spotify.com/album/1HOTQCGJo92zcBjHnICVgu) | 3:42 | 2022-03-10 | 2022-07-29 |
+| [Incendio de Amor/Carmelita](https://open.spotify.com/track/7kSNQV7OsOLVskKKmcXR4I) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [PRISMARAMA](https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst) | 4:47 | 2023-05-12 |  |
 | [Inevitable](https://open.spotify.com/track/1gptFG7KprUHogyVXLZytK) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Inevitable](https://open.spotify.com/album/2v0nWKYp3INzkGDRTQBqQa) | 3:24 | 2022-03-10 |  |
 | [inigualable](https://open.spotify.com/track/0dgiJjVATkBD3IYJr6lTI2) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [inigualable](https://open.spotify.com/album/3o1aaswVqoB6hrjtzqeptq) | 2:58 | 2022-05-06 |  |
 | [Inutil](https://open.spotify.com/track/1jVfUFLizfiZYtp24Jmg0R) | [Sara Ontaneda](https://open.spotify.com/artist/3gNLzb7aAJ0ZfUkyEvomsC) | [Inutil](https://open.spotify.com/album/1kXO2cTsW3Qd1MLFSwafJF) | 3:53 | 2022-03-10 | 2022-07-29 |

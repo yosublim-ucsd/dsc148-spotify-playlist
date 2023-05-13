@@ -2,7 +2,7 @@
 
 ### [The Locker](https://open.spotify.com/playlist/37i9dQZF1DWYmDNATMglFU)
 
-> it's a generation ⛓ ft\. delilah bon
+> it's a generation ⛓ ft\. LØLØ
 
 534 songs - 1 day 2 hr 41 min
 

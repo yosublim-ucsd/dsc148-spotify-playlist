@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 38663,
+  "num_followers": 38675,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGQ3YWVmMDZhMWY0MTc3ZGRmZTEzMTY5YmY2YTI0YzllYTI1Zjlh",
+  "snapshot_id": "MCw5MDczOTViODFiM2FiNzBkN2ViYTI2YzE5OGZmY2NhN2VhMTFlMjI5",
   "tracks": [
     {
       "added_at": "2023-05-09 20:04:54",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-05-09 20:04:54",
       "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
+    },
+    {
+      "added_at": "2023-05-09 20:04:54",
+      "album": {
         "name": "Special (feat. SZA)",
         "url": "https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 174748,
       "name": "Special (feat. SZA)",
       "url": "https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk"
-    },
-    {
-      "added_at": "2023-05-09 20:04:54",
-      "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
     },
     {
       "added_at": "2023-05-09 20:04:54",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-05-09 20:04:54",
       "album": {
-        "name": "Pretty Face",
-        "url": "https://open.spotify.com/album/4ex498BshH176bBZTm0FBx"
-      },
-      "artists": [
-        {
-          "name": "Maya Delilah",
-          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
-        }
-      ],
-      "duration_ms": 204907,
-      "name": "Pretty Face",
-      "url": "https://open.spotify.com/track/76FIWDl9FJBphuJhjPkYtr"
-    },
-    {
-      "added_at": "2023-05-09 20:04:54",
-      "album": {
         "name": "OCD",
         "url": "https://open.spotify.com/album/5uv3O6o3BvR3roR6fBxqJZ"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 208440,
       "name": "OCD",
       "url": "https://open.spotify.com/track/6FAdjcQl0Yi8GTu1TAM0V5"
+    },
+    {
+      "added_at": "2023-05-09 20:04:54",
+      "album": {
+        "name": "Pretty Face",
+        "url": "https://open.spotify.com/album/4ex498BshH176bBZTm0FBx"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "duration_ms": 204907,
+      "name": "Pretty Face",
+      "url": "https://open.spotify.com/track/76FIWDl9FJBphuJhjPkYtr"
     },
     {
       "added_at": "2023-05-09 20:04:54",

@@ -9016,7 +9016,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 166533,
       "name": "Flow Violento - Remix",
       "url": "https://open.spotify.com/track/66j4P6CdkPZQW5q0Lv3Vn8"
@@ -10324,7 +10324,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 171007,
       "name": "G\u00f6zlerimi Kapatt\u0131m",
       "url": "https://open.spotify.com/track/4dGAUUU1IoXxxB0fCJYBGL"
@@ -11250,7 +11250,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 183853,
       "name": "I AM",
       "url": "https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM"
@@ -15720,7 +15720,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 161379,
       "name": "Marolento",
       "url": "https://open.spotify.com/track/6qylu0VNKUfKiVi88WL3Ci"
@@ -16420,6 +16420,24 @@
       "duration_ms": 238103,
       "name": "Meri Jaan",
       "url": "https://open.spotify.com/track/4iEGv5Ne6HuCkFCjzxdWQK"
+    },
+    {
+      "album": {
+        "name": "Merindukanmu",
+        "url": "https://open.spotify.com/album/5CNkGpz6Hf1P595qSsOw3C"
+      },
+      "artists": [
+        {
+          "name": "Salma Aliyyah",
+          "url": "https://open.spotify.com/artist/090J9hBaxShI7OWuk64gm3"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235858,
+      "name": "Merindukanmu",
+      "url": "https://open.spotify.com/track/6iWN7lzwq9LedX3F1g3sTy"
     },
     {
       "album": {
@@ -17714,6 +17732,24 @@
       "duration_ms": 96304,
       "name": "my money dont jiggle jiggle, it falls",
       "url": "https://open.spotify.com/track/4suCwJOOBSCCyaFkcqmUb7"
+    },
+    {
+      "album": {
+        "name": "My Sister's Crown",
+        "url": "https://open.spotify.com/album/6nF3kWl5zcDPLqEgxLTRJp"
+      },
+      "artists": [
+        {
+          "name": "Vesna",
+          "url": "https://open.spotify.com/artist/44kmUe319y8RNgOU2deqX6"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176800,
+      "name": "My Sister's Crown",
+      "url": "https://open.spotify.com/track/59md7R7fW5LjSbZITzzn3n"
     },
     {
       "album": {
@@ -19375,6 +19411,24 @@
     },
     {
       "album": {
+        "name": "Fruto Proibido",
+        "url": "https://open.spotify.com/album/48SnM2iORxlYTyCefwJZvs"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338933,
+      "name": "Ovelha Negra",
+      "url": "https://open.spotify.com/track/5xpumjGGcdWvqWxYVrd7jI"
+    },
+    {
+      "album": {
         "name": "Candydrip",
         "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
       },
@@ -20784,7 +20838,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 172125,
       "name": "Princess Diana (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
@@ -24968,7 +25022,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 183374,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
@@ -28216,6 +28270,28 @@
       "duration_ms": 236000,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
+    },
+    {
+      "album": {
+        "name": "Who the Hell Is Edgar?",
+        "url": "https://open.spotify.com/album/0Pc0YjphyuqsZbeHJq7AJ0"
+      },
+      "artists": [
+        {
+          "name": "TEYA",
+          "url": "https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI"
+        },
+        {
+          "name": "SALENA",
+          "url": "https://open.spotify.com/artist/5uoK1zfpi48x9aKAM8x6pt"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159417,
+      "name": "Who the Hell Is Edgar?",
+      "url": "https://open.spotify.com/track/3gUC7tGDPVLOq42vvTUVdI"
     },
     {
       "album": {

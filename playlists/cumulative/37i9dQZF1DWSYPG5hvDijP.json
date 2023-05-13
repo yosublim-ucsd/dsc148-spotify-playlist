@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "New Hip Hop from India. Cover- Raja Kumari",
+  "description": "New Hip Hop from India. Cover- MC STAN and KSHMR",
   "name": "Taaza hai bro!",
   "tracks": [
     {
@@ -385,6 +385,24 @@
     },
     {
       "album": {
+        "name": "Blue Bandana",
+        "url": "https://open.spotify.com/album/2R032taLxn2FdTdKUIWNpb"
+      },
+      "artists": [
+        {
+          "name": "Shez",
+          "url": "https://open.spotify.com/artist/4VY44gs03ET26RjfICYmBe"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149433,
+      "name": "Blue Bandana",
+      "url": "https://open.spotify.com/track/6OyaAyFZ6nzOwe6hoPa72N"
+    },
+    {
+      "album": {
         "name": "Chemical Reaction",
         "url": "https://open.spotify.com/album/4avCrGvAoyiwRbSQUdyaHf"
       },
@@ -633,6 +651,28 @@
     },
     {
       "album": {
+        "name": "RAP GODDESS",
+        "url": "https://open.spotify.com/album/1H2Cs63eKn7PPuBCjHZCu1"
+      },
+      "artists": [
+        {
+          "name": "Agsy",
+          "url": "https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp"
+        },
+        {
+          "name": "ISHH",
+          "url": "https://open.spotify.com/artist/6QQsEqBC1lD3g2iMHIb8F8"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177954,
+      "name": "COMING UP",
+      "url": "https://open.spotify.com/track/5Slg73y7Ul41nQ4rY9QHlg"
+    },
+    {
+      "album": {
         "name": "Company",
         "url": "https://open.spotify.com/album/7jgPKe6FNO62URMNko4jsL"
       },
@@ -688,6 +728,28 @@
       "duration_ms": 148965,
       "name": "Dayein Bayein",
       "url": "https://open.spotify.com/track/3VOwYlsDo66ZtAB5SbqfVx"
+    },
+    {
+      "album": {
+        "name": "Desktop",
+        "url": "https://open.spotify.com/album/7AqO9vYUFXCA4sL1clxoJk"
+      },
+      "artists": [
+        {
+          "name": "Boyblanck",
+          "url": "https://open.spotify.com/artist/4ClQqb25PHO77Hciaauga5"
+        },
+        {
+          "name": "DRV",
+          "url": "https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120750,
+      "name": "Desktop",
+      "url": "https://open.spotify.com/track/1KXJ0DXzCA5ysq7i15ujKP"
     },
     {
       "album": {
@@ -995,6 +1057,32 @@
     },
     {
       "album": {
+        "name": "Haath Varthi",
+        "url": "https://open.spotify.com/album/6H44Nod2PTvbTuu7PnUZWg"
+      },
+      "artists": [
+        {
+          "name": "MC STAN",
+          "url": "https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH"
+        },
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Phenom",
+          "url": "https://open.spotify.com/artist/03hG7s3MUquIZwa4OvtLD7"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149570,
+      "name": "Haath Varthi",
+      "url": "https://open.spotify.com/track/0H8I33DTtRS9nEZX2FLJV5"
+    },
+    {
+      "album": {
         "name": "Haraami 2",
         "url": "https://open.spotify.com/album/148IdeaVWQTqsk6jXhzGXi"
       },
@@ -1092,6 +1180,40 @@
       "duration_ms": 157730,
       "name": "HipHop",
       "url": "https://open.spotify.com/track/2P93lGrpCAYBsRDkwTAJUR"
+    },
+    {
+      "album": {
+        "name": "MEEN",
+        "url": "https://open.spotify.com/album/0x8LEMRVAJWEdX6cGEcJeu"
+      },
+      "artists": [
+        {
+          "name": "yungsta",
+          "url": "https://open.spotify.com/artist/4HQz6xUrKEKQ8nmMKsfvkB"
+        },
+        {
+          "name": "Sez on the Beat",
+          "url": "https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe"
+        },
+        {
+          "name": "Raga",
+          "url": "https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO"
+        },
+        {
+          "name": "Encore ABJ",
+          "url": "https://open.spotify.com/artist/1GNRmzBPWT8hh6CYxkNiRy"
+        },
+        {
+          "name": "dilliboy",
+          "url": "https://open.spotify.com/artist/37KYCGXSG8pWVFC0fQbWoh"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262765,
+      "name": "Hona Hi Tha",
+      "url": "https://open.spotify.com/track/3ezm3DukK26vagWIIPvmgS"
     },
     {
       "album": {
@@ -1224,6 +1346,28 @@
       "duration_ms": 213809,
       "name": "Kaha Tak",
       "url": "https://open.spotify.com/track/1EvFCT12WiFT649pC9wsPV"
+    },
+    {
+      "album": {
+        "name": "Kalamkaand",
+        "url": "https://open.spotify.com/album/6MPlFOjhFBYddTxV4shdcX"
+      },
+      "artists": [
+        {
+          "name": "Harjas Harjaayi",
+          "url": "https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ"
+        },
+        {
+          "name": "DJ Harpz",
+          "url": "https://open.spotify.com/artist/6ClT6x4LnhH5CDLBePdoaA"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Kalamkaand",
+      "url": "https://open.spotify.com/track/2uickBJkb6Q9p5OUijDyXA"
     },
     {
       "album": {
@@ -1370,6 +1514,32 @@
       "duration_ms": 262319,
       "name": "Lockup No 4Three",
       "url": "https://open.spotify.com/track/3sWtJHAngYx3sA2q6Q0vzE"
+    },
+    {
+      "album": {
+        "name": "RAP GODDESS",
+        "url": "https://open.spotify.com/album/1H2Cs63eKn7PPuBCjHZCu1"
+      },
+      "artists": [
+        {
+          "name": "Agsy",
+          "url": "https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp"
+        },
+        {
+          "name": "Harjas Harjaayi",
+          "url": "https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ"
+        },
+        {
+          "name": "ISHH",
+          "url": "https://open.spotify.com/artist/6QQsEqBC1lD3g2iMHIb8F8"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143355,
+      "name": "LOVE MUMBLE",
+      "url": "https://open.spotify.com/track/64ojSWneYaXvX6YLtnVGT3"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. Cover: Ado
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,395 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,233 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 29 | [Easy Breezy](https://open.spotify.com/track/4B0iIMQz88iQiMlRP47fJ1) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [maze](https://open.spotify.com/album/6t1kYddCW5E9StZEf0UxMd) | 3:28 |
 | 30 | [Dodonpa](https://open.spotify.com/track/2AndL1gnrkjtzoxIy2AG8Y) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Candy Racer](https://open.spotify.com/album/1i5J264nc9xYsroDS3FTHx) | 4:37 |
 | 31 | [NAINAINAI](https://open.spotify.com/track/4LnMz836E4F1Z3qIPxUGVR) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [NAINAINAI](https://open.spotify.com/album/1syyqRfv0iRNmVzrxFXSdo) | 3:13 |
-| 32 | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/track/5b03vF7Qyc70kDJHiQZ8L7) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [髙橋芽以](https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf) | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/album/7ridH3ntXiiWfC2jA6uqb3) | 4:43 |
+| 32 | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/track/1fHXLiqPG6su57eAlbnjVO) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [髙橋芽以](https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf) | [FINE LINE](https://open.spotify.com/album/37XJRNnSBngM8e8Ejp3oQ7) | 4:43 |
 | 33 | [Summer Situation](https://open.spotify.com/track/7Da7crN49ehmABnxJuo52J) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [SIKK\-O](https://open.spotify.com/artist/62x90xtztIeFjU7Z9eVKDR), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [ALLSEASON EP.](https://open.spotify.com/album/7enrVhK4zZBVokYXmZXm4L) | 4:50 |
 | 34 | [MAGICAL DREAM](https://open.spotify.com/track/6YCOnfmSd5G13hFBwcWO4P) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [YUC'e](https://open.spotify.com/artist/0jP8a2o9Mw5qYoUz1SnQ2A) | [MAGICAL DREAM](https://open.spotify.com/album/3V6tFl2XWnYgSl5WUR6k6D) | 3:07 |
 | 35 | [Love You!!!!!!](https://open.spotify.com/track/2a64t56KzgVqp8iYRCj8fs) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Love You!!!!!!](https://open.spotify.com/album/0ecMSnvcWpp5lxHvs8sKGU) | 2:05 |
-| 36 | [Venus Flytrap feat\. Chiaki Sato](https://open.spotify.com/track/1YXrGKtu8iNnBl1tL6EvdH) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [Venus Flytrap feat\. Chiaki Sato](https://open.spotify.com/album/0RjeR3PLe9fCu7G3bQh96v) | 3:45 |
+| 36 | [Venus Flytrap feat\. Chiaki Sato](https://open.spotify.com/track/51tgAkF9HE14FIR4iYN8K3) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [The Lover](https://open.spotify.com/album/0QCyj1UlVJQ91sFNqHx9nc) | 3:45 |
 | 37 | [Baby you](https://open.spotify.com/track/7mawUh4upc0sJVHgkgY3wb) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [Baby you](https://open.spotify.com/album/54ZCBICVYg5jvNehprcJj1) | 2:43 |
 | 38 | [Sugar Magic](https://open.spotify.com/track/25QIhqinwmNWzkM60wXLEK) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [Sugar Magic](https://open.spotify.com/album/7vFtPaViNfyM9xb66JZtbF) | 3:55 |
 | 39 | [LADY](https://open.spotify.com/track/7w6NWogvAAFdEhD9MA2uvv) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LADY](https://open.spotify.com/album/3VuokauXicAVtmjIhMCXeW) | 3:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [Setsunano Chikai](https://open.spotify.com/track/1YKBiydKeMfqHXwDECHLU6) | [Neko Hacker](https://open.spotify.com/artist/2aQ9IoRPwXEhhBVj4wbS46), [由崎司](https://open.spotify.com/artist/57nGnwFiNGNY5t77bVWWw2) | [Setsunano Chikai](https://open.spotify.com/album/5RxLQesE8xz3LsCwyrLIDn) | 3:40 |
 | 75 | [Firetruck](https://open.spotify.com/track/5D09TkOLzrkWTWqQxAId5V) | [SG5](https://open.spotify.com/artist/7D2TZnpK65Crptr2BgWrJ6) | [Firetruck](https://open.spotify.com/album/7bAkSGLaKkIcBb6RmhR8yN) | 2:24 |
 
-Snapshot ID: `MCxiNTE4ZDJlY2M4MzM0MGFjOGI0OTRjYzk3NWM2NjdjMGVlYTI2NzNi`
+Snapshot ID: `MCw5NTYwZDdjNzFiOWM3MTNmYjBjZGI5OGNkOWUyNDRhN2ZiMjRiMzVi`

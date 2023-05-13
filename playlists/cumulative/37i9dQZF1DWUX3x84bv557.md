@@ -4,7 +4,7 @@
 
 > MEAU op de cover van de vernieuwde Je Moerstaal!
 
-187 songs - 9 hr 5 min
+188 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Koning Liefde](https://open.spotify.com/track/4y8Lwn9OwGxUf7fTJtlPXl) | [OG3NE](https://open.spotify.com/artist/1SiCF4gVjnR5iAIwk1nkXo) | [Koning Liefde](https://open.spotify.com/album/2xyUvd6kssT9MiTbDQfwUZ) | 2:44 | 2023-03-30 |  |
 | [Laat Het Effe](https://open.spotify.com/track/2TpYFSFsDLK0Sd0QwoV7zV) | [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Laat Het Effe](https://open.spotify.com/album/6YW7e4vC5ytXUDG2IDoWUt) | 3:23 | 2023-02-23 | 2023-04-28 |
 | [Ladada \(Mon Dernier Mot\)](https://open.spotify.com/track/0LVjBdjZvJykxed42ExTLf) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Ladada \(Mon Dernier Mot\)](https://open.spotify.com/album/0MNpgjf367wpgf742ZkHGr) | 2:44 | 2023-02-23 | 2023-03-10 |
-| [Later Als Ik Groot Ben](https://open.spotify.com/track/2izndz00zguhQQJ06MhMzA) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Later Als Ik Groot Ben](https://open.spotify.com/album/6ffWQnfFXStzKOAk6RXjQ4) | 3:26 | 2023-02-23 |  |
+| [Later Als Ik Groot Ben](https://open.spotify.com/track/2izndz00zguhQQJ06MhMzA) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Later Als Ik Groot Ben](https://open.spotify.com/album/6ffWQnfFXStzKOAk6RXjQ4) | 3:26 | 2023-02-23 | 2023-05-13 |
 | [Layla](https://open.spotify.com/track/7vb5ewZM4Ei7FTbSYDAPd8) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Layla](https://open.spotify.com/album/5WBoyKy4ezxq7P4v6Yyvf7) | 2:43 | 2023-03-30 |  |
 | [Leidseplein](https://open.spotify.com/track/0Hi3vw8XJ14gs9zE721zmN) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Leidseplein](https://open.spotify.com/album/3qrxL8lc4PrftAnuTvxpgC) | 2:41 | 2023-03-16 |  |
 | [Lentesneeuw](https://open.spotify.com/track/5W7WdKoJHZC6fGWbt0YWd7) | [Pjotr](https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta) | [Lentesneeuw](https://open.spotify.com/album/4TTe9Cik1Vu39LxoVUAONF) | 2:53 | 2023-03-02 |  |
@@ -177,6 +177,7 @@
 | [Ver Van Huis](https://open.spotify.com/track/1RkGMhN4VLb0fiytr7EodW) | [Ginger](https://open.spotify.com/artist/3mrOynKrihp03WXLtootoD), [Livv](https://open.spotify.com/artist/0DVLNg4cUvv8X38wf9iyt2) | [Ver Van Huis](https://open.spotify.com/album/2pXbiUAJ6gbNNjHOy7qFcM) | 3:21 | 2023-02-23 | 2023-04-07 |
 | [Verleden Tijd](https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Verleden Tijd](https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa) | 2:47 | 2023-04-13 |  |
 | [Vervloekt](https://open.spotify.com/track/2fLTwHxKyC7D4O4ekCGjhi) | [Zeno](https://open.spotify.com/artist/3DzZYAqD6HAy1XVai7Udb8) | [Aan De Rand Van Het Ravijn Bloeien De Mooiste Bloemen](https://open.spotify.com/album/7vcodonZM5pAQ1NZ1HIJhS) | 2:32 | 2023-02-23 | 2023-04-26 |
+| [Vier Seizoenen](https://open.spotify.com/track/0Y9BkgFnckuG7dZrJAjk3j) | [Roets](https://open.spotify.com/artist/3K0u138EjCuhbWEwUnGwmu) | [Vier Seizoenen](https://open.spotify.com/album/2FBq2bcPYnxRdYHYj7i7oZ) | 3:33 | 2023-05-12 |  |
 | [Vliegen](https://open.spotify.com/track/2tnv26XNloxZMK1usRktqa) | [AISHA](https://open.spotify.com/artist/5UpppF0nILJOYwXkRCgieY) | [Vliegen](https://open.spotify.com/album/3VDVZIdLTmS21GbNVyYeBL) | 2:46 | 2023-03-02 |  |
 | [Vlinder](https://open.spotify.com/track/07anqvcBCZVR8AKn4RZEw1) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Vlinder](https://open.spotify.com/album/7oxJp1V8RBoIjXHx9x9dyi) | 3:15 | 2023-03-02 |  |
 | [Voor De Gek](https://open.spotify.com/track/6BXVmVTRyEnTcJHjmy8kCg) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Voor De Gek](https://open.spotify.com/album/5GgAB0RzMQ8gtszcfpUO0a) | 3:03 | 2023-02-23 | 2023-05-10 |

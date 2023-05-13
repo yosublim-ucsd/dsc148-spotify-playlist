@@ -4,7 +4,7 @@
 
 > Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.
 
-70 songs - 5 hr 16 min
+71 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Killing Me Softly With His Song](https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 4:58 | 2021-01-15 |  |
 | [Knocks Me Off My Feet](https://open.spotify.com/track/4o1E2c0ye1RlIJJqOM0dqP) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B) | [My Heart](https://open.spotify.com/album/1YylipCwfGRhRc4j3vJzwV) | 3:42 | 2021-01-15 |  |
 | [Lately](https://open.spotify.com/track/5hIljtQ1fRvDRc1aHdhwWK) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [Uptown MTV Unplugged](https://open.spotify.com/album/0CQcwTXgmXtXpMcORejZSM) | 6:13 | 2021-01-15 |  |
-| [Let's Chill](https://open.spotify.com/track/7wb7R141Fp1oRitCNhKsyu) | [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Charlie, Last Name Wilson](https://open.spotify.com/album/28HcjLBR5KSz5QrnRz7kSP) | 5:02 | 2021-01-15 |  |
+| [Let's Chill](https://open.spotify.com/track/7wb7R141Fp1oRitCNhKsyu) | [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Charlie, Last Name Wilson](https://open.spotify.com/album/28HcjLBR5KSz5QrnRz7kSP) | 5:02 | 2021-01-15 | 2023-05-13 |
 | [Love Changes \(feat\. Mary J\. Blige\)](https://open.spotify.com/track/7q83jvO3GjbyS7FnHoM1f2) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Unpredictable](https://open.spotify.com/album/045D1HbNHv4R31D9vkL8Ve) | 4:30 | 2021-01-15 | 2022-07-29 |
 | [Love Don't Live Here Anymore](https://open.spotify.com/track/0bL1x6Y2OvJZbkB1B7o83u) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faith](https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev) | 4:17 | 2021-01-15 | 2023-05-06 |
 | [Love Is Stronger Than Pride](https://open.spotify.com/track/12S0avZgcxEa4lJXC37tzX) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Conexão \- EP](https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn) | 3:52 | 2021-01-15 |  |
@@ -65,6 +65,7 @@
 | [Thank God I Found You \(feat\. Joe & Nas\) \- Make It Last Remix Edit](https://open.spotify.com/track/6nTcn8CybBcx0t7IaXEJ6O) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Clue](https://open.spotify.com/artist/4ybJiTIMVzeVOd00nI8Xxm), [Supa Engineer "Duro"](https://open.spotify.com/artist/04PvD1Anr3LC341vrIWXsf) | [My Name Is Joe](https://open.spotify.com/album/6zuCJaxmHKNKN5hMDF556U) | 4:11 | 2021-01-15 |  |
 | [The Love We Had \(Stays On My Mind\)](https://open.spotify.com/track/1c5933EOm7iYCsbVLHNxq7) | [Dru Hill](https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT) | [Enter The Dru](https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE) | 5:35 | 2021-01-15 |  |
 | [The Love We Had \(Stays On My Mind\)](https://open.spotify.com/track/3PaovpaWAYcNH6CCBXFfR5) | [Dru Hill](https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT) | [Enter The Dru](https://open.spotify.com/album/1kbWhB5qEyUDaHPtXYiA2m) | 5:35 | 2021-01-15 | 2022-07-29 |
+| [The Sweetest Thing](https://open.spotify.com/track/4jDAQRLExhzT6CEmo0nucu) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [The Sweetest Thing](https://open.spotify.com/album/5BIpgoq1dFvuTLcKRDbD09) | 4:35 | 2023-05-12 |  |
 | [This Is for the Lover In You \(feat\. LL Cool J, Howard Hewett, Jody Watley & Jeffrey Daniels\)](https://open.spotify.com/track/1blZP5x1XQSqQFpTy12rFh) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Howard Hewett](https://open.spotify.com/artist/3S78Gzhp1D01i1x2KGXrnh), [Jody Watley](https://open.spotify.com/artist/71aKjsWKYqASAffyIQaocZ), [Jeffrey Daniels](https://open.spotify.com/artist/4LJ9G2mHQIu6z4NFvg5EhJ) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 3:59 | 2021-01-15 |  |
 | [Untitled \(How Does It Feel\)](https://open.spotify.com/track/6ALoVRxwV5KxaSWyejnmvi) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Spotify Singles](https://open.spotify.com/album/7pfQDManhpjhxwqps9cveA) | 3:41 | 2021-01-15 |  |
 | [Visions](https://open.spotify.com/track/3evLDlldkPh1TO9XDrNFv1) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Conception \- An Interpretation Of Stevie Wonder's Songs](https://open.spotify.com/album/0YZ71lmEMbf2kyyCppL76Q) | 5:34 | 2021-01-15 | 2022-07-26 |

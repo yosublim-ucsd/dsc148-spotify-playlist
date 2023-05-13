@@ -2,9 +2,9 @@
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> make it pop! cover: The Aces
+> make it pop! cover: Jeremy Zucker
 
-636 songs - 1 day 7 hr 56 min
+638 songs - 1 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Cutie](https://open.spotify.com/track/4nLTOnpSCBwRlul92HLIyW) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Cutie](https://open.spotify.com/album/5bn7iiPpq2Za6KX1PekKD2) | 3:04 | 2022-01-28 | 2022-02-26 |
 | [Dance Like This](https://open.spotify.com/track/3O8682mukvr6oq0YWDuwX6) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Nothing Lasts Forever And That's OK](https://open.spotify.com/album/2jsBB0Mq3vX9FHLQPZ1gyH) | 3:07 | 2021-10-29 | 2022-03-18 |
 | [Dance With You](https://open.spotify.com/track/2nsf0yZBCWNq20FvTUCXpe) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Dance With You](https://open.spotify.com/album/4e0RTJEbQGd7cfGd2CHSm4) | 3:46 | 2022-06-24 | 2022-08-20 |
-| [DANCING ALL ALONE](https://open.spotify.com/track/3vHKqg3WDgtWA5unl5layh) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [DANCING ALL ALONE](https://open.spotify.com/album/6E1rMJkFB1eJwgyMQhN1mg) | 2:51 | 2023-02-17 |  |
+| [DANCING ALL ALONE](https://open.spotify.com/track/3vHKqg3WDgtWA5unl5layh) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [DANCING ALL ALONE](https://open.spotify.com/album/6E1rMJkFB1eJwgyMQhN1mg) | 2:51 | 2023-02-17 | 2023-05-13 |
 | [Dancing In The Courthouse](https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Dancing In The Courthouse](https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq) | 2:37 | 2023-04-14 |  |
 | [Dancing in the Mirror](https://open.spotify.com/track/4h0lirk2bZfueiTWUQ0UYh) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [Dancing in the Mirror](https://open.spotify.com/album/2LXpyMZDLUB9IcrIhHWWBB) | 3:04 | 2021-10-29 | 2022-02-26 |
 | [Dark Skies](https://open.spotify.com/track/6md6TywIVmybRn604WiPdu) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Dark Skies](https://open.spotify.com/album/02sx3jt3ifjyr8Yfq6XY0V) | 3:14 | 2023-04-07 |  |
@@ -372,6 +372,7 @@
 | [Love!](https://open.spotify.com/track/21nLUVmQSUVd6qsFZRB416) | [Hallie](https://open.spotify.com/artist/0I0VahDFplPkGInkRvoXPW) | [Love!](https://open.spotify.com/album/0fTcODKOu5ujhJDJ2XltDN) | 3:19 | 2023-01-20 | 2023-02-18 |
 | [Lucky \- Edit](https://open.spotify.com/track/2MHkpE8EdENJyhsW80MVXf) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Lucky](https://open.spotify.com/album/5xuxGrVtAlSz5c8W2gkvLl) | 3:16 | 2022-07-29 | 2022-09-03 |
 | [make you sick](https://open.spotify.com/track/7Ec2TmAp6LQhPP21ioIEh1) | [Jake Cornell](https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV) | [make you sick](https://open.spotify.com/album/59wTseGXxX8DibgCwwMzDP) | 2:01 | 2023-03-03 |  |
+| [Malibu](https://open.spotify.com/track/3b3mKCoZCKZjzO2n6M5fmy) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Malibu](https://open.spotify.com/album/2W2HMbkDditbqRjfFkUuhk) | 3:12 | 2023-05-12 |  |
 | [MASOCHIST](https://open.spotify.com/track/1fDGlJAUBDeCgWYqhna9jN) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [MASOCHIST](https://open.spotify.com/album/2NM15uX3nFGvD6nnJUCuPK) | 2:44 | 2023-04-21 |  |
 | [maybe money](https://open.spotify.com/track/7LslekRtdFPRxkRlyC8vkC) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [maybe money](https://open.spotify.com/album/0lWMNJDiYO0EcjYO7O2cAC) | 2:23 | 2022-04-22 | 2022-06-11 |
 | [Me Myself & I](https://open.spotify.com/track/0C9aH2f4LO8SPPqUWOrcbk) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Me Myself & I](https://open.spotify.com/album/44rEE58rgbF88y9wrpadOl) | 2:57 | 2022-05-13 | 2022-08-20 |
@@ -391,7 +392,7 @@
 | [moshpit](https://open.spotify.com/track/5LIwaCUAPW3ugjQ5ls3Fxs) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 3:38 | 2022-08-19 | 2023-03-25 |
 | [Move](https://open.spotify.com/track/2ZzHR2sOKAOKyN8efCa69E) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Move](https://open.spotify.com/album/5ZNjMUOLzjsQRDbAdtHial) | 2:36 | 2022-05-06 | 2022-08-20 |
 | [Move Me](https://open.spotify.com/track/0vrGg6n72wLwgv32jeewgi) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Give Me Your Shoulders, Pt\. 1](https://open.spotify.com/album/07Ac7q2KMqblFcVfyWPmig) | 3:36 | 2022-02-11 | 2022-04-16 |
-| [mr\. sunshine](https://open.spotify.com/track/6x984mI891z1E2sVwYumUx) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 8](https://open.spotify.com/album/5cYaUdDHrHhOIsTlHU9Tbk) | 2:57 | 2022-09-02 |  |
+| [mr\. sunshine](https://open.spotify.com/track/6x984mI891z1E2sVwYumUx) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 8](https://open.spotify.com/album/5cYaUdDHrHhOIsTlHU9Tbk) | 2:57 | 2022-09-02 | 2023-05-13 |
 | [Mrs\. Hollywood](https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Mrs\. Hollywood](https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59) | 2:23 | 2023-04-07 |  |
 | [My Heart Can't Take Anymore](https://open.spotify.com/track/2vNhHqak5COmtfAiVYyl1n) | [NEW CITY](https://open.spotify.com/artist/4X5U7EjHMofqX4mUAkJm23) | [My Heart Can't Take Anymore](https://open.spotify.com/album/7FJxThX7Dl99iA1Wro5x1m) | 3:05 | 2022-07-29 | 2022-08-27 |
 | [My Stupid Heart](https://open.spotify.com/track/3UZDl7g2r84o1b5marUjfK) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [My Stupid Heart](https://open.spotify.com/album/5csTYfCTB01hnZ3tT1yI39) | 2:40 | 2023-01-27 |  |
@@ -420,6 +421,7 @@
 | [OH NO!](https://open.spotify.com/track/5NDjk4GOodIGmrQxSjExEr) | [Jake Clark](https://open.spotify.com/artist/5fPvc8tIZfLbEm3GsbFHgd) | [OH NO!](https://open.spotify.com/album/0oKwWq3FGBprGxwSKxwOvV) | 2:11 | 2022-09-30 | 2022-12-03 |
 | [Oh shit…are we in love?](https://open.spotify.com/track/4Ok8EFwlT2SkmCfxQpidjV) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Oh shit…are we in love?](https://open.spotify.com/album/0m0PoRgev9z31KQ3OuFYO5) | 2:35 | 2021-10-29 | 2022-01-08 |
 | [OH WELL](https://open.spotify.com/track/2sfYIKz3J8eZkBdTh25KyK) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [OH WELL](https://open.spotify.com/album/2AGtYibeIFAnUVQadCVr16) | 2:54 | 2021-11-12 | 2022-03-18 |
+| [OK](https://open.spotify.com/track/2RSAu3AGDi2sPhYEjSZmzv) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [OK](https://open.spotify.com/album/15kgnv34kf8eRCpNWZl79V) | 4:23 | 2023-05-12 |  |
 | [Okay](https://open.spotify.com/track/2Vm6N90nP3iVAm4ejHrl1a) | [Harry Strange](https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr) | [Okay](https://open.spotify.com/album/76MulsxJQcZuCf9EphKOi1) | 3:08 | 2022-02-04 | 2022-03-18 |
 | [OLDER](https://open.spotify.com/track/74dJdWzKwtxV5s77GOsa8w) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [OLDER](https://open.spotify.com/album/1dLlSnoQk8tec7Tyubd7u7) | 3:22 | 2022-05-20 | 2022-07-30 |
 | [on life](https://open.spotify.com/track/2p3bubd7FHs1XN4tiasCqJ) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [on life](https://open.spotify.com/album/1WC5QLxSqWPlau5SJZIudy) | 2:12 | 2023-01-13 | 2023-03-25 |
@@ -563,7 +565,7 @@
 | [the chase](https://open.spotify.com/track/2oeKs07xK7pO5b7Nxq9zOj) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [the chase](https://open.spotify.com/album/5IWhQ0YxYt1SRc6QODGWKv) | 3:25 | 2022-05-06 | 2022-07-23 |
 | [The Curse](https://open.spotify.com/track/0w1jfF6OgO3cpg8Mc74yfT) | [FRENSHIP](https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH) | [The Curse](https://open.spotify.com/album/3tdSVisnG7oFhR4pQE5eiI) | 3:46 | 2022-02-25 | 2022-03-26 |
 | [The DJ Is Crying For Help](https://open.spotify.com/track/2fihoO76h66Hio6noF4tQD) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The DJ Is Crying For Help](https://open.spotify.com/album/09XyW9pKOCq5Cqq7IITKDB) | 3:40 | 2022-11-18 | 2023-01-28 |
-| [The Dumb Song](https://open.spotify.com/track/5udkv8BEG1sAN5ZtR6CAzv) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Dumb Song](https://open.spotify.com/album/1W2Srir1JwdyDQMrN66CF5) | 3:46 | 2023-04-21 |  |
+| [The Dumb Song](https://open.spotify.com/track/5udkv8BEG1sAN5ZtR6CAzv) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Dumb Song](https://open.spotify.com/album/1W2Srir1JwdyDQMrN66CF5) | 3:45 | 2023-04-21 |  |
 | [The Funeral](https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Funeral](https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW) | 3:31 | 2022-03-11 | 2022-04-29 |
 | [The Good Part](https://open.spotify.com/track/5cBLBXhU9sf6kGvb2Dv2cl) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Click](https://open.spotify.com/album/2LyLlHg03okxUU3UVrKtSC) | 3:47 | 2021-10-29 | 2022-10-01 |
 | [The Look \(feat\. Kehlani\)](https://open.spotify.com/track/3POcBJvOCO5Xeov9F3cpgh) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [WHO HURT YOU?](https://open.spotify.com/album/5KOqAAM9SMO0LLbT5apaur) | 3:36 | 2022-08-12 | 2022-09-03 |

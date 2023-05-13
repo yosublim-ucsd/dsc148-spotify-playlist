@@ -2,9 +2,9 @@
 
 ### [Blues Roots](https://open.spotify.com/playlist/37i9dQZF1DXcFk5r8uS3l2)
 
-> You've come to the crossroads of soul, folk, and the blues\. Cover: The War and Treaty
+> You've come to the crossroads of soul, folk, and the blues\. Cover: Vintage Trouble
 
-297 songs - 18 hr 46 min
+299 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Angel](https://open.spotify.com/track/5OCOEBBK7N9l6qh7LYgcmf) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W) | 3:22 | 2023-03-10 | 2023-03-25 |
 | [Another Weary Soul](https://open.spotify.com/track/7MyvG8lmIMQw0nKFTpCI3x) | [Rī Wolf](https://open.spotify.com/artist/1XDa8n7FHrWuRxvzZvmi7n), [Justin Johnson](https://open.spotify.com/artist/151RUyDTIDJM8gXwGJbv7z) | [Elemental](https://open.spotify.com/album/3lkWqGeZOq0cZwvjmXBVlz) | 4:07 | 2022-05-27 | 2022-06-11 |
 | [Back Seat](https://open.spotify.com/track/5cORKRcTX6dstvvBVSQan5) | [Chastity Brown](https://open.spotify.com/artist/6vRqjrYlvurWLEwRKvTdEw) | [Back Seat](https://open.spotify.com/album/04hqq9ebr9x6MRmJsyJkzF) | 3:49 | 2022-05-27 |  |
-| [bad blood](https://open.spotify.com/track/4lizDGXpBCg6o9B90eA5pH) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:08 | 2022-01-28 |  |
+| [bad blood](https://open.spotify.com/track/4lizDGXpBCg6o9B90eA5pH) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:08 | 2022-01-28 | 2023-05-13 |
 | [bad blood](https://open.spotify.com/track/7lqyiS447jxNlaMpzsYfkY) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [bad blood](https://open.spotify.com/album/0IYR6AlNwF9HW1u4Jzf1oo) | 3:08 | 2021-12-17 | 2022-06-12 |
 | [Bayou Blues \- Demo Version](https://open.spotify.com/track/021PQTMq7rwoMDci9piPVm) | [Lily Belle](https://open.spotify.com/artist/52JMyJYhF7HqCb0Ric9Zqd) | [Bayou Blues \(Demo Version\)](https://open.spotify.com/album/4HpxmLgbT4eK3zMA4wVsQM) | 3:37 | 2023-02-03 |  |
 | [Bees Making Honey](https://open.spotify.com/track/08VbstN22j4jlgMemYE2xk) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Bees Making Honey](https://open.spotify.com/album/2BIa0ZW6IpukvlDfRrhhH4) | 2:49 | 2022-08-26 | 2022-09-17 |
@@ -84,6 +84,7 @@
 | [Fireman](https://open.spotify.com/track/2sSpzTMLQTLn2BjPTuSyaO) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Hard to Kill](https://open.spotify.com/album/53nnG57cJkUHY52Ftihn0P) | 3:27 | 2022-06-24 |  |
 | [First McDonell's on the Moon](https://open.spotify.com/track/5tIPp0eDCVopzvXyeMgUOm) | [Jake La Botz](https://open.spotify.com/artist/7pHtidPDRlqg71cTcwjWQX) | [First McDonell's on the Moon](https://open.spotify.com/album/6hVnFJurOhApCMbjug96f4) | 3:51 | 2022-04-01 | 2023-04-09 |
 | [Forever You and Me](https://open.spotify.com/track/4GUaG3df9nbrj77GKEB76j) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Forever You and Me](https://open.spotify.com/album/1aUMtW3DvOoPetvGzgkuUW) | 2:55 | 2021-12-17 | 2023-02-25 |
+| [Freedom Is A Constant Struggle](https://open.spotify.com/track/7pazEod5kIZKCpppre6kvx) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y), [Joy Clark](https://open.spotify.com/artist/7BTIW6ksfRBJ50xe6EtXjJ), [Lilli Lewis](https://open.spotify.com/artist/2dh2iaRf6yHgqVmEJok53L), [Sabine McCalla](https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR), [Sula Spirit](https://open.spotify.com/artist/7qXJE0O3NsmQssEePihY2L), [Cassie Watson Francillon](https://open.spotify.com/artist/6LuBYCozHo0lrFf7CnkgMX) | [Freedom Is A Constant Struggle](https://open.spotify.com/album/2mGTeZBnyXP7CTapaW1p9S) | 3:24 | 2023-05-12 |  |
 | [Freedom Road](https://open.spotify.com/track/5zRlD6bPTJI0zBvqMJ2H95) | [Indra Rios\-Moore](https://open.spotify.com/artist/43WX6yWKK6qAqKCr2d3yw9) | [Freedom Road](https://open.spotify.com/album/3fN5DXHpo9ut4TmVAouTRG) | 3:43 | 2022-03-18 |  |
 | [Full Throttle](https://open.spotify.com/track/3a9hjQyEt5g1L6jbK46oM3) | [Clayton Sturgeon](https://open.spotify.com/artist/48MYOaXNicyTiWBlRCkogN) | [Full Throttle](https://open.spotify.com/album/19GYEqqEXkYbCGNh65mRlu) | 3:11 | 2022-08-05 | 2023-03-11 |
 | [Get Real High](https://open.spotify.com/track/1AsuZS5OuqOcftkRNXm5Hk) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Get Real High](https://open.spotify.com/album/6zQE9aX3u2NsNJcxxq37Qz) | 4:07 | 2022-04-22 | 2023-02-12 |
@@ -184,7 +185,7 @@
 | [Mystery](https://open.spotify.com/track/0YsLm3mpqjELlj7N8iRoO4) | [David Myles](https://open.spotify.com/artist/0C52ChHxEwG9E6Mi7Kmlkf) | [It's Only a Little Loneliness](https://open.spotify.com/album/4ZRQS7I2IlLKLNyDV6ON7P) | 3:25 | 2022-05-27 |  |
 | [Mystery](https://open.spotify.com/track/2KbNZUsmY1jg6sCyN2Xtrd) | [David Myles](https://open.spotify.com/artist/0C52ChHxEwG9E6Mi7Kmlkf) | [Mystery](https://open.spotify.com/album/1Ru4jgnreryoTXbp2SdZRr) | 3:25 | 2022-05-27 | 2023-03-25 |
 | [Need To Know Basis](https://open.spotify.com/track/5MwOpeeCnMTXxTAtM9nsYr) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Bloodline Maintenance](https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth) | 1:59 | 2022-07-26 | 2023-02-25 |
-| [Neon Experience \- Live from Vatnagarðar](https://open.spotify.com/track/3MLlB7G51LJaILSRUMfU2k) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Síminn+Spotify Session](https://open.spotify.com/album/2n2zexzNMZYmptJ1vAoTM4) | 5:52 | 2022-01-28 |  |
+| [Neon Experience \- Live from Vatnagarðar](https://open.spotify.com/track/3MLlB7G51LJaILSRUMfU2k) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Síminn+Spotify Session](https://open.spotify.com/album/2n2zexzNMZYmptJ1vAoTM4) | 5:52 | 2022-01-28 | 2023-05-13 |
 | [Neon Experience \- Live from Vatnagarðar](https://open.spotify.com/track/4x1vhOOK3VJhhq9BkMNq9z) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Síminn+Spotify Session](https://open.spotify.com/album/0pZUQKSLyTeTHIy0A4Q0Zb) | 5:52 | 2021-12-17 | 2022-07-29 |
 | [neve give up](https://open.spotify.com/track/2a5qaGUrVHWAIrh0xmTADM) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [aloha](https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd) | 3:41 | 2021-12-17 | 2023-02-25 |
 | [Never Giving Up](https://open.spotify.com/track/24OXVPUzk1SMVMiMd8LmQ3) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Never Giving Up](https://open.spotify.com/album/60h7Js16nMwWUhRiOYrXpM) | 2:38 | 2022-05-06 | 2022-06-11 |
@@ -266,6 +267,7 @@
 | [The Kids Are Having None Of It](https://open.spotify.com/track/1okc9vBreGSAqixbVaAGUH) | [Frazey Ford](https://open.spotify.com/artist/3w6sr0v1PArSe6JAwqk8Bl) | [U kin B the Sun](https://open.spotify.com/album/4N5WuLpUuLCY98TrthGv3C) | 4:49 | 2021-12-17 |  |
 | [The Last Time](https://open.spotify.com/track/7MTUA6kke0Q1p86I2XQL34) | [John Németh](https://open.spotify.com/artist/3oMTO3MlDwAzROExBbqKPz) | [May Be the Last Time](https://open.spotify.com/album/7fGQsHSygCD5xVwM0IVQhK) | 3:35 | 2022-09-16 | 2022-10-08 |
 | [The Lengths](https://open.spotify.com/track/7nl6fbpRrLAED8KR2pUgTp) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Rubber Factory](https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5) | 4:54 | 2021-12-17 | 2023-05-06 |
+| [The Love That Once Lingered \- feat\. Lady Blackbird](https://open.spotify.com/track/4vlATschiZVKFlngUwN4k9) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0), [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [The Love That Once Lingered](https://open.spotify.com/album/0oMr2919OXeWIhGqvbKsfv) | 3:54 | 2023-05-12 |  |
 | [The Map](https://open.spotify.com/track/7lBcer2WtpdnPpHVcVpROp) | [War & Pierce](https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh) | [The Map](https://open.spotify.com/album/2qabf6Z1Q1Bt1nXKoTunWd) | 3:35 | 2021-12-17 | 2023-03-11 |
 | [The Preacher Man](https://open.spotify.com/track/0vOTVTfIG7e0FihbmfB72d) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Old Habits](https://open.spotify.com/album/4YXrI2ePBrOXvATQ8qLd8y) | 2:48 | 2022-09-23 | 2022-10-22 |
 | [The Reckoning](https://open.spotify.com/track/0JoT21QZNDV1f52oKAiyCA) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [The Reckoning](https://open.spotify.com/album/4SpmzZschXxbCnNAFTTESm) | 3:38 | 2022-06-17 | 2022-06-25 |

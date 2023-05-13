@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 
 > The most calming classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,118 likes - 64 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,567 likes - 64 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 | 27 | [Wasserklavier](https://open.spotify.com/track/3LRYwBJECFeQGi16cPxEZY) | [David Arden](https://open.spotify.com/artist/70xr7TopAcWrip0NJWDmOc) | [Luciano Berio \- The Complete Works For Solo Piano](https://open.spotify.com/album/2bYrUpinp9EtQYTsA5h2Wb) | 2:02 |
 | 28 | [II\. floating leaf](https://open.spotify.com/track/1HE6aHCUtC6Mx0kiOsRUIS) | [Konstantia Gourzi](https://open.spotify.com/artist/6KYa46jd4bu7OeKBpW4rFJ), [William Youn](https://open.spotify.com/artist/7uWSy5aRJy75BSKdpYbp2R) | [wind whispers, Op\. 85/II\. floating leaf](https://open.spotify.com/album/4oXRET0XU9DTUwM9yxjcoq) | 2:17 |
 | 29 | [Poulenc: Cello Sonata, FP 143: II\. Cavatine](https://open.spotify.com/track/6tmzIxHREnZzKSDMm6CNNS) | [Francis Poulenc](https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY), [Daniel Müller\-Schott/Robert Kulek](https://open.spotify.com/artist/4VUYXi3DM3kMe8ifsgz4vD) | [Debussy/Poulenc/Franck/Ravel:Music for Cello & Piano](https://open.spotify.com/album/1cUtLiXmkRNUw9j9eyyPgM) | 6:26 |
-| 30 | [Ave verum corpus, K.618 \(Arr\. for Piano by Franz Liszt\)](https://open.spotify.com/track/5SHZOPZyGmRUwGgahmn32d) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [Lacrymosa from Mozart's Requiem, S\. 550](https://open.spotify.com/album/775A1OSmwFYHClGO2fQmpq) | 3:15 |
+| 30 | [Ave verum corpus, K.618 \(Arr\. for Piano by Franz Liszt\)](https://open.spotify.com/track/3DYxUyNeBa9MbT867F9gMO) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [MozartReworked](https://open.spotify.com/album/0iscfEvEjrQFkNTV7Hitgb) | 3:15 |
 | 31 | [Five Pieces For Violin And Piano: I\. Elegia \(Andante Larghetto\)](https://open.spotify.com/track/1d1FNmfO3dFlH8873yNFX3) | [Valentin Silvestrov](https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6), [Duo Gazzana](https://open.spotify.com/artist/44yqsYKtToaDXjtyMuVXCj) | [Takemitsu, Hindemith, Janáček, Silvestrov: Five Pieces](https://open.spotify.com/album/3NCv2JjqPcJQx1dYcGDPiv) | 2:59 |
 | 32 | [An Idea](https://open.spotify.com/track/1PINN6x0Riouab3wPSglpp) | [Leo Brouwer](https://open.spotify.com/artist/4PdumqEAuo2EQzukVWnxa0), [Zsófia Boros](https://open.spotify.com/artist/6T9wLNtkKE8Z5GusLK6v9c) | [En Otra Parte](https://open.spotify.com/album/3TRN62RoTGNXKtKEu2JvxW) | 2:38 |
 | 33 | [The Hours: An Unwelcome Friend \(From "The Hours"\)](https://open.spotify.com/track/2GnYCy70I8cR4oEA2wsSDx) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Nicolas Horvath](https://open.spotify.com/artist/6EyYsJlQEb3uHINVS5EIsB) | [Philip Glass: Glassworlds, Vol\. 4 – On Love](https://open.spotify.com/album/2HItrNjxkcndzejvNPdE6v) | 4:16 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 | 63 | [Seven Days Walking / Day 1: Ascent](https://open.spotify.com/track/4NqknSuLbtn77F73YzNVBf) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Seven Days Walking](https://open.spotify.com/album/5Otajf16kZ0zkVZWhu7LtO) | 5:37 |
 | 64 | [Suite d'orchestre dans le style ancien, Op\. 2: II\. Sarabande\. Mesto](https://open.spotify.com/track/3C8Xxgad3ejXfJ0RiJq9G1) | [Albéric Magnard](https://open.spotify.com/artist/6vXWehXddAhqxqCAbUeQYa), [Philharmonisches Orchester Freiburg](https://open.spotify.com/artist/7zW6AJzj7refzE8uu9W8jA), [Fabrice Bollon](https://open.spotify.com/artist/3TatLwCeXp89VYjOQVyJjZ) | [Magnard: Orchestral Works](https://open.spotify.com/album/5cNzmh737G2dscX93MDeZh) | 2:09 |
 
-Snapshot ID: `MCw3MTUwNWNjMGNkZjU5ZDA2YjM5NTI5YzVhNmEwMDQ1M2U4YWQwYzE5`
+Snapshot ID: `MCw5Njc3NWRkZmQ5ZjgwYjE3ZGY0NjM1ODMxNDEwYzRlYTA0M2ZkMzVh`

@@ -4,7 +4,7 @@
 
 > fatimaaaaaa!!!
 
-973 songs - 1 day 18 hr 58 min
+974 songs - 1 day 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Bagaget](https://open.spotify.com/track/1zTa8EjeV78WHp4zDKN9Qr) | [L1NA](https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf) | [MP3](https://open.spotify.com/album/6ebOVpxiICOiwmCY4B5qTQ) | 1:54 | 2021-12-16 | 2022-03-04 |
 | [BAGS](https://open.spotify.com/track/7BrVRDCieNEotTW4FptYh3) | [BABY MALA](https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl) | [BAGS](https://open.spotify.com/album/5uQIVyMtZm1kjPA5acv8IC) | 2:40 | 2021-12-16 | 2022-01-28 |
 | [Bakom kulisserna](https://open.spotify.com/track/5KQuFht8RqgECvi2LbF6WP) | [Parana](https://open.spotify.com/artist/7mkDHzjImR7tnMVJ1QKeFv), [Ahdam](https://open.spotify.com/artist/7sc53ILf25bAriqrCMgYTt) | [Bakom kulisserna](https://open.spotify.com/album/3i6r96nl9ottiXvcmhhh0H) | 2:38 | 2023-05-11 |  |
-| [Balans \(Vad händer Fatima!!?\)](https://open.spotify.com/track/6TLjoYLWtjziKPsLxSOkZv) | [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ) | [Balans \(Vad händer Fatima!!?\)](https://open.spotify.com/album/6ErQass5rD25XSozTbKqq9) | 2:16 | 2023-03-09 |  |
+| [balans \(va händer fatima!!?\)](https://open.spotify.com/track/2SBn5ZoH7bceLNcbRIOM8q) | [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ) | [balans \(va händer fatima!!?\)](https://open.spotify.com/album/3pGyZvmSakMW9bjOHoaTNo) | 2:15 | 2023-05-11 |  |
+| [Balans \(Vad händer Fatima!!?\)](https://open.spotify.com/track/6TLjoYLWtjziKPsLxSOkZv) | [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ) | [Balans \(Vad händer Fatima!!?\)](https://open.spotify.com/album/6ErQass5rD25XSozTbKqq9) | 2:16 | 2023-03-09 | 2023-05-13 |
 | [Ballon d’Or](https://open.spotify.com/track/0qRxGxNapJNMExgNjR3ndj) | [T.G Boogie](https://open.spotify.com/artist/1PVxZM6C1jxLDUNJAEVX6d) | [Ballon d’Or](https://open.spotify.com/album/2VTEkN8egQFqubOxx17WXP) | 2:45 | 2022-12-21 | 2023-03-10 |
 | [Banana](https://open.spotify.com/track/4lhNy5ouftIuxPuISfEk16) | [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3) | [Mode Avion](https://open.spotify.com/album/12bqfaU1WWmN4REkJOqQOd) | 3:30 | 2022-02-20 | 2022-03-05 |
 | [Bandet / täta \(Interlude\)](https://open.spotify.com/track/608VTrAE3lXWrkTGifnrIV) | [L1NA](https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf) | [MP3](https://open.spotify.com/album/6ebOVpxiICOiwmCY4B5qTQ) | 4:12 | 2021-12-16 | 2022-02-11 |
@@ -511,7 +512,7 @@
 | [Landet i fjärran](https://open.spotify.com/track/6xeeAu3iNRp8NGw1s9cfCw) | [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs), [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2), [Academics](https://open.spotify.com/artist/2qDTb1Hj9x4Ic97w87xfkg) | [Missaoui](https://open.spotify.com/album/1iX6D47cXE8PgH5gylJRIn) | 4:43 | 2022-06-17 | 2022-08-26 |
 | [Lay Low](https://open.spotify.com/track/00qyoiew5KL83ob2Leqp8F) | [Talé](https://open.spotify.com/artist/0lP9Mb11BH9rnSrFwf5x7f), [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls) | [Lay Low](https://open.spotify.com/album/2S58a2nf12RarEUAwM5gzg) | 3:19 | 2021-12-16 | 2022-01-05 |
 | [Lebanese Beauty](https://open.spotify.com/track/4lR14xynE2svX4uHQhh02l) | [Jeano](https://open.spotify.com/artist/3qzw8zce3NwedmWnD1vx8V) | [Lebanese Beauty](https://open.spotify.com/album/1F0LKMVW32JrOMGSxkWnRM) | 2:10 | 2022-07-21 | 2022-08-12 |
-| [Ledare](https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Dizzy](https://open.spotify.com/artist/1Yf0RNIHrSpEfIFuvTIKfc) | [Ledare](https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA) | 2:41 | 2023-05-11 |  |
+| [Ledare](https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Ledare](https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA) | 2:41 | 2023-05-11 |  |
 | [Legender](https://open.spotify.com/track/7qFVDZg7WnMreyXnyVrF8V) | [Rikard "Skizz" Bizzi](https://open.spotify.com/artist/3AcDJEZvKgdQU4qK9JvczW), [MAR](https://open.spotify.com/artist/05sagCJlmdoKKQVGoLLyVC) | [Går som klockan sedan 2014](https://open.spotify.com/album/0XFFbmvDOSjIGA2KZjhqku) | 4:08 | 2023-04-20 | 2023-05-12 |
 | [LEMONAD](https://open.spotify.com/track/1FgD6USyeXXse1Xj9YmiN6) | [Jeaff](https://open.spotify.com/artist/04OtPVhopqSHGWhzy5O5bE) | [LEMONAD](https://open.spotify.com/album/61EggV7UyNvJ2i6YYF9BpI) | 3:21 | 2022-10-20 | 2022-11-04 |
 | [LEMONADE](https://open.spotify.com/track/0bi9Yk7VNi4yCqxmwJLNDo) | [J Wes](https://open.spotify.com/artist/1V3qwdq9cJOcIURCrLtUbi) | [LEMONADE](https://open.spotify.com/album/7uS8dpMq3wiHH6e0d8DKKr) | 2:15 | 2023-01-26 | 2023-02-17 |

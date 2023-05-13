@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,874 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,906 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 43 | [Tóxico](https://open.spotify.com/track/2waVXWweKkBdpSEMuH6HMV) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Tóxico](https://open.spotify.com/album/772jAkiIpQ9XXGh54OGaHl) | 3:49 |
 | 44 | [Bien](https://open.spotify.com/track/3WNSy6s729D5dwreu1SsNi) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Bien](https://open.spotify.com/album/3RI5pKpWlcKFe0ziDizIMX) | 3:27 |
 | 45 | [Vas a Volver](https://open.spotify.com/track/5A6ALVribfvYq8yUv97mlp) | [Yoky Barrios](https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Vas a Volver](https://open.spotify.com/album/7Dc3OsO2OyxVWcG0G6YdQF) | 3:23 |
-| 46 | [Toqué Fondo](https://open.spotify.com/track/31UaO89hcqvZpv0ZxS0CBD) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [COQE](https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E) | [Toqué Fondo](https://open.spotify.com/album/3pP50Wip0grdAxzPo7eDbC) | 3:46 |
-| 47 | [Contra Corriente](https://open.spotify.com/track/56eurZLGRLoYxkqcU6ECfw) | [Rapsusklei](https://open.spotify.com/artist/451DVjaBuGYfvDfvG9MxaG), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Contra Corriente](https://open.spotify.com/album/1C6yVzlnS2IZOCvU5zLO12) | 3:29 |
-| 48 | [Eres Mi Aire](https://open.spotify.com/track/6TFD7lH9k8A8PC4CRns4IT) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Bones](https://open.spotify.com/album/3JQEMF8g2t7S3LwKnCDRAO) | 3:45 |
-| 49 | [Chip S \(Metal Version\)](https://open.spotify.com/track/1CgPXNuxT2ZPQkE073ckQa) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Ladrones](https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6) | [Chip S \(Metal Version\)](https://open.spotify.com/album/0eE73v8SPdXJyIVtwL5DG2) | 3:13 |
-| 50 | [Mundo De Papel](https://open.spotify.com/track/5XZwPDh81lZP85iMkxZ9VO) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Mundo De Papel](https://open.spotify.com/album/4m0KAB42QxgsFT3RJ2QkvR) | 3:42 |
+| 46 | [Contra Corriente](https://open.spotify.com/track/56eurZLGRLoYxkqcU6ECfw) | [Rapsusklei](https://open.spotify.com/artist/451DVjaBuGYfvDfvG9MxaG), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Contra Corriente](https://open.spotify.com/album/1C6yVzlnS2IZOCvU5zLO12) | 3:29 |
+| 47 | [Toqué Fondo](https://open.spotify.com/track/31UaO89hcqvZpv0ZxS0CBD) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [COQE](https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E) | [Toqué Fondo](https://open.spotify.com/album/3pP50Wip0grdAxzPo7eDbC) | 3:46 |
+| 48 | [Chip S \(Metal Version\)](https://open.spotify.com/track/1CgPXNuxT2ZPQkE073ckQa) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Ladrones](https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6) | [Chip S \(Metal Version\)](https://open.spotify.com/album/0eE73v8SPdXJyIVtwL5DG2) | 3:13 |
+| 49 | [Mundo De Papel](https://open.spotify.com/track/5XZwPDh81lZP85iMkxZ9VO) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Mundo De Papel](https://open.spotify.com/album/4m0KAB42QxgsFT3RJ2QkvR) | 3:42 |
+| 50 | [Eres Mi Aire](https://open.spotify.com/track/6TFD7lH9k8A8PC4CRns4IT) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Bones](https://open.spotify.com/album/3JQEMF8g2t7S3LwKnCDRAO) | 3:45 |
 
-Snapshot ID: `MjgwNjM0NjIsMDAwMDAwMDAxMWM4N2NhZjM0YTJhODc1MjZlNzE1ZDhjYjEzNjgyMA==`
+Snapshot ID: `MjgwNjQ5MDksMDAwMDAwMDAwMGUwMDc5ODM1MDE3MGZjN2EyMGVlZGQwMmE5ODcwNg==`

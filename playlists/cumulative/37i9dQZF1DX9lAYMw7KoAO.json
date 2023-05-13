@@ -4045,6 +4045,28 @@
     },
     {
       "album": {
+        "name": "YAH (Spirit Chant)",
+        "url": "https://open.spotify.com/album/5sR2Q9yzejaiMOdlelBVAi"
+      },
+      "artists": [
+        {
+          "name": "Eljoe onoja",
+          "url": "https://open.spotify.com/artist/63Y0MtLSfC9rjMZ1KsqTZi"
+        },
+        {
+          "name": "Chris Morgan",
+          "url": "https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337320,
+      "name": "YAH - Spirit Chant",
+      "url": "https://open.spotify.com/track/1zbg4LlaiwYvjGSikk3Yjn"
+    },
+    {
+      "album": {
         "name": "Yahweh: Song of Moses",
         "url": "https://open.spotify.com/album/1J1qOKKHPplDFzbcz0dDvj"
       },
@@ -4158,7 +4180,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 397572,
       "name": "You Are (Live)",
       "url": "https://open.spotify.com/track/5DOe949J5w1cD7WvxChUwA"

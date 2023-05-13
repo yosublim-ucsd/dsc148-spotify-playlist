@@ -453,6 +453,24 @@
     },
     {
       "album": {
+        "name": "Bored",
+        "url": "https://open.spotify.com/album/64RY3WoNtQIbPjfH69eiW5"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194285,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/3yVHTc8ngdOPbNLJRJNrCB"
+    },
+    {
+      "album": {
         "name": "BOYZ",
         "url": "https://open.spotify.com/album/4tLBzhf9266srlw5qj6LnE"
       },
@@ -594,6 +612,28 @@
       "duration_ms": 272280,
       "name": "Check Mate",
       "url": "https://open.spotify.com/track/22CE5S0W2mBnuQnIQS6O0N"
+    },
+    {
+      "album": {
+        "name": "Coke & Rum",
+        "url": "https://open.spotify.com/album/2vteFYYCDoqVsMUvbKKiZ0"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        },
+        {
+          "name": "Charlie Ray",
+          "url": "https://open.spotify.com/artist/5E0lRlMBtVgbEo3gsn8UuF"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174285,
+      "name": "Coke & Rum",
+      "url": "https://open.spotify.com/track/47SbCzEuIxZbLbNBs21FoW"
     },
     {
       "album": {
@@ -1274,7 +1314,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 461538,
       "name": "Grammar",
       "url": "https://open.spotify.com/track/4wgE9XKaHBl9E42jK7AgVu"
@@ -2790,7 +2830,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 346000,
       "name": "Startrack",
       "url": "https://open.spotify.com/track/7gMwTtOLh618Q8lzuYtkKo"
@@ -2885,6 +2925,24 @@
     },
     {
       "album": {
+        "name": "Crash Recoil",
+        "url": "https://open.spotify.com/album/074BDQSfufLOuL8qWsRsyg"
+      },
+      "artists": [
+        {
+          "name": "Surgeon",
+          "url": "https://open.spotify.com/artist/1PSylklb2w06BAAHEtepqM"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358831,
+      "name": "Subcultures",
+      "url": "https://open.spotify.com/track/219dcH5o0f37ECYioSPtaw"
+    },
+    {
+      "album": {
         "name": "Sue\u00f1os",
         "url": "https://open.spotify.com/album/6nxJBK0M3lFEoFq1aPYshe"
       },
@@ -2950,7 +3008,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 421059,
       "name": "Take Me Higher",
       "url": "https://open.spotify.com/track/7r8Q5lPGmMyYccWfUlyGDl"
@@ -3262,7 +3320,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 360023,
       "name": "Voicebox",
       "url": "https://open.spotify.com/track/5GO6gvPD2DC3iZuxUUTsr7"
@@ -3528,6 +3586,28 @@
       "duration_ms": 359000,
       "name": "Your Future Looks Different In The Light",
       "url": "https://open.spotify.com/track/5uf5vCbAH9YeO2HfJKdlVo"
+    },
+    {
+      "album": {
+        "name": "Your Mind",
+        "url": "https://open.spotify.com/album/25fUzY5qFM0Fm6ESlFOJFu"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Josh Gigante",
+          "url": "https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354647,
+      "name": "Your Mind",
+      "url": "https://open.spotify.com/track/4zDG66t4CS5gD2WLq4K9JK"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8ZMwsPgxIOs"

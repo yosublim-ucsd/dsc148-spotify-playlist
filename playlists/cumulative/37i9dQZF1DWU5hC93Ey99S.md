@@ -4,7 +4,7 @@
 
 > What in the stutter/rainy/tremolo house list did I just create??
 
-68 songs - 3 hr 45 min
+69 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 | 2023-04-13 |  |
 | [Dancing Thing](https://open.spotify.com/track/4M2pTJYh02HGpH3KqkGvoP) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Dancing Thing](https://open.spotify.com/album/3Lc3AX7Ta7WsefbEAFplQr) | 3:04 | 2023-04-13 |  |
 | [Danielle \(smile on my face\)](https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Danielle \(smile on my face\)](https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y) | 3:21 | 2023-04-13 |  |
-| [Deny It](https://open.spotify.com/track/2G0pIL19syX70AXLc9ykPj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Deny It](https://open.spotify.com/album/6lIxoZV2okhpBngVJvXi8i) | 4:02 | 2023-04-13 |  |
+| [Deny It](https://open.spotify.com/track/2G0pIL19syX70AXLc9ykPj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Deny It](https://open.spotify.com/album/6lIxoZV2okhpBngVJvXi8i) | 4:02 | 2023-04-13 | 2023-05-13 |
 | [Esther \- Duskus Romantic Edit](https://open.spotify.com/track/3VgWp5x2nvvP9XFCs6UBQs) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Esther \(Duskus Romantic Edit\)](https://open.spotify.com/album/7cUcaY2UwQPaFYYnEx648J) | 3:03 | 2023-04-13 | 2023-04-23 |
 | [Find a Way](https://open.spotify.com/track/4npcaX8c3wKVKXbkdrMWPu) | [Gavin Moss](https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT), [Tom Polo](https://open.spotify.com/artist/3QSfc9ujwQnb254isTp4VK), [Mars Twins](https://open.spotify.com/artist/2255cIvJST7JWNyUizO1py) | [Find a Way](https://open.spotify.com/album/5hKGXah8BRysDvwyKuLrda) | 2:16 | 2023-04-27 |  |
 | [Food for the Soul](https://open.spotify.com/track/7u0fz3V6cYeYTX91DMmIvQ) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC) | [Food for the Soul](https://open.spotify.com/album/3U20hCbqPM745vgo0PVcmw) | 3:30 | 2023-04-13 |  |
@@ -75,6 +75,7 @@
 | [what we had was real](https://open.spotify.com/track/7lPVC3ppoIixU2PH2KcvTK) | [Rommii](https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U) | [what we had was real](https://open.spotify.com/album/0mAxfupLpuSvfiHeaerkBV) | 2:16 | 2023-04-13 |  |
 | [What You Do To Me](https://open.spotify.com/track/74Sk5cVfVNhfKY9S7hDqrp) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [What You Do To Me](https://open.spotify.com/album/35Mc0p9KECg2XVfy1287pR) | 2:34 | 2023-04-13 |  |
 | [Where did you go](https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Where did you go](https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE) | 2:48 | 2023-04-27 |  |
+| [yes 2 heaven](https://open.spotify.com/track/2SFvNyfzLs7sv40WLqn5xE) | [Sokrat](https://open.spotify.com/artist/3Gxx3Kl9GqBPyKoUNHMxuB), [simOne](https://open.spotify.com/artist/0THaJJT8yNpEdMs4vpJEYR) | [yes 2 heaven](https://open.spotify.com/album/7cOYMlDXp28Bg5KpoFWSOB) | 4:15 | 2023-05-12 |  |
 | [Youthful Kids](https://open.spotify.com/track/1YBvhB1094Q5Niw1GDSRY3) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC) | [Youthful Kids](https://open.spotify.com/album/6PcXHDSWeTupdzdabiuYZj) | 2:59 | 2023-04-20 |  |
 
 \*This playlist was first scraped on 2023-04-15. Prior content cannot be recovered.

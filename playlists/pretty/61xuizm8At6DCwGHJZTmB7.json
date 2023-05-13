@@ -1,12 +1,12 @@
 {
   "description": "Listen to the top Christian and worship hits of 2023 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more.  Cover: Brooke Ligertwood",
-  "num_followers": 115843,
+  "num_followers": 115851,
   "original_name": "Worship 2023",
   "owner": {
     "name": "SOZO Playlists ",
     "url": "https://open.spotify.com/user/sozoofficial"
   },
-  "snapshot_id": "Njk5MSxlOGVkNDg1MjAxNWQxNTM0ZDk4OGM5MDBhYTEyMTM4Njg3ZTQ1ZmFj",
+  "snapshot_id": "Njk5Myw5YmI1NzNjZDk2NGEwMTRlMzgxMjRmYTQ1Yzg4YTI2ZGU5ODdhNDll",
   "tracks": [
     {
       "added_at": "2023-05-09 14:59:05",
@@ -109,6 +109,22 @@
       "url": "https://open.spotify.com/track/5VpzCWRBKUhm50jtafbKu2"
     },
     {
+      "added_at": "2023-05-12 15:08:09",
+      "album": {
+        "name": "Call On The Name (Live)",
+        "url": "https://open.spotify.com/album/1IHiwaA7vh2a4hycVsEIqW"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 388875,
+      "name": "Call On The Name - Live",
+      "url": "https://open.spotify.com/track/2Z7crug9ZVQ8TZ6xg1f3pR"
+    },
+    {
       "added_at": "2023-05-09 14:59:05",
       "album": {
         "name": "I've Witnessed It (Live)",
@@ -127,22 +143,6 @@
       "duration_ms": 269000,
       "name": "I've Witnessed It - Single Version",
       "url": "https://open.spotify.com/track/7taJcMLsv0VoF96NOvHCqx"
-    },
-    {
-      "added_at": "2023-05-09 14:59:05",
-      "album": {
-        "name": "Firm Foundation (He Won't)",
-        "url": "https://open.spotify.com/album/7a7spHufCfzU5ZO6O0nJJT"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 382174,
-      "name": "Firm Foundation (He Won\u2019t)",
-      "url": "https://open.spotify.com/track/4iaas0o0bFzalTLwhQTuBH"
     },
     {
       "added_at": "2023-05-09 14:59:05",
@@ -363,6 +363,22 @@
       "duration_ms": 257730,
       "name": "Graves Into Gardens",
       "url": "https://open.spotify.com/track/1c9YQ3wWFBds5Vd7l28g9p"
+    },
+    {
+      "added_at": "2023-05-09 14:59:05",
+      "album": {
+        "name": "Firm Foundation (He Won't)",
+        "url": "https://open.spotify.com/album/7a7spHufCfzU5ZO6O0nJJT"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 382174,
+      "name": "Firm Foundation (He Won\u2019t)",
+      "url": "https://open.spotify.com/track/4iaas0o0bFzalTLwhQTuBH"
     },
     {
       "added_at": "2023-05-09 14:59:05",

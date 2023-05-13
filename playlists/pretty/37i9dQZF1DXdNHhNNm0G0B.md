@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 
 > Relax to the sounds of acoustic blues and folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,745 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,767 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 43 | [Hemet Pine Singer](https://open.spotify.com/track/0aNyZsNQZykSvoiwrjhBFB) | [Will Stratton](https://open.spotify.com/artist/7vy0OevOpPswNjEUxXPhaR) | [Imaginational Anthem Vol\. 5](https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE) | 3:49 |
 | 44 | [Detroit Blues](https://open.spotify.com/track/5rJbBdz2yN7ZPIPjX70Foq) | [Danny Kroha](https://open.spotify.com/artist/0amf91cUep3YKQ5R7NJ1Mb) | [Detroit Blues](https://open.spotify.com/album/5r7zpXdCkM4wED1dVgXI70) | 2:49 |
 | 45 | [Trouble in Mind](https://open.spotify.com/track/1ymBUTnXZpFaefVJxvoDjL) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [New Orleans Street Singer](https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu) | 2:50 |
-| 46 | [Sarah Anne](https://open.spotify.com/track/6G6eM490aDeluKpsDeCLyb) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Jesus I'm a Sinner](https://open.spotify.com/album/398IZHABZSTKg102AxTtTO) | 6:52 |
-| 47 | [Natural West](https://open.spotify.com/track/59eoAFWBywElrjWlUfsCCM) | [Danny Paul Grody](https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx) | [Fountain](https://open.spotify.com/album/5rYIynWlr7cv7AXi1pPJy7) | 5:03 |
+| 46 | [Natural West](https://open.spotify.com/track/59eoAFWBywElrjWlUfsCCM) | [Danny Paul Grody](https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx) | [Fountain](https://open.spotify.com/album/5rYIynWlr7cv7AXi1pPJy7) | 5:03 |
+| 47 | [Sarah Anne](https://open.spotify.com/track/6G6eM490aDeluKpsDeCLyb) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Jesus I'm a Sinner](https://open.spotify.com/album/398IZHABZSTKg102AxTtTO) | 6:52 |
 | 48 | [Sunflower Blues](https://open.spotify.com/track/2gcs9yC8hTZA9Rlq8eIO4c) | [John Fahey](https://open.spotify.com/artist/4js8BDiQwnHLlDmT1shPH7) | [The Guitar Masters Collection: John Fahey](https://open.spotify.com/album/2S8MEqzZMTVa48ZKp4Oayb) | 3:22 |
 | 49 | [Rondo in D \- On Southern Themes](https://open.spotify.com/track/1TIC8q2kyazBKXExaHySUr) | [Harry Taussig](https://open.spotify.com/artist/2vbPZ0xMZiXxUkR744bcoh) | [Fate Is Only Twice](https://open.spotify.com/album/6W8PmtEtz4GbBFBksE0xQC) | 4:47 |
 | 50 | [Night After Sidewalk](https://open.spotify.com/track/6aEKWnhMVr2rdaqSdNha6U) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV) | [Imaginational Anthem](https://open.spotify.com/album/0Aht6TMCyVgToFJGKR22VO) | 3:34 |
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 62 | [Good Timin'](https://open.spotify.com/track/0Y9O57DFFTyEI5jX9ByiP6) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [Bottom's Up](https://open.spotify.com/album/5rmJIwR8VuRFFSSjLjhg31) | 2:52 |
 | 63 | [Seasonal Hire](https://open.spotify.com/track/7sL1LTuyprfH7uR2sdCagh) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO), [The Black Twig Pickers](https://open.spotify.com/artist/5M49KBg6FogkxrK5NAGzpa) | [Seasonal Hire](https://open.spotify.com/album/2QsROTjpIZO0bBYmHZ3tqz) | 16:23 |
 | 64 | [The Man From Nowhere](https://open.spotify.com/track/6LAiCNbCebsCf5M8w8A2Ws) | [Dom Martin](https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ) | [A Savage Life](https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B) | 3:06 |
-| 65 | [When You Got a Good Friend](https://open.spotify.com/track/1NPWchV6p9SBsGEVTqoFyc) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Doyle Bramhall II](https://open.spotify.com/artist/7Chzu4eSaqDHFXFvjaycAV) | [Brother Johnny](https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa) | 3:52 |
+| 65 | [Plains of Waterloo / James Connolly](https://open.spotify.com/track/6I1z2fe4YlpWsuaR0X1RSy) | [Martin Simpson](https://open.spotify.com/artist/5nUScDmyGIvoX7ol79YnBQ) | [Bootleg USA](https://open.spotify.com/album/4WvjLRuyca7wsn1ab6cz7p) | 5:39 |
 | 66 | [A Real State of Independence](https://open.spotify.com/track/2r5Pn8ZqFTlHpVgRZg2Znj) | [Nick Schillace](https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM) | [Landscape and People](https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y) | 6:19 |
-| 67 | [Plains of Waterloo / James Connolly](https://open.spotify.com/track/6I1z2fe4YlpWsuaR0X1RSy) | [Martin Simpson](https://open.spotify.com/artist/5nUScDmyGIvoX7ol79YnBQ) | [Bootleg USA](https://open.spotify.com/album/4WvjLRuyca7wsn1ab6cz7p) | 5:39 |
+| 67 | [When You Got a Good Friend](https://open.spotify.com/track/1NPWchV6p9SBsGEVTqoFyc) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Doyle Bramhall II](https://open.spotify.com/artist/7Chzu4eSaqDHFXFvjaycAV) | [Brother Johnny](https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa) | 3:52 |
 | 68 | [Friar's Point Blues](https://open.spotify.com/track/3cwOZlayYhxMNQgEJEyp8r) | [Robert Nighthawk](https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG) | [Presenting Robert Nighthawk](https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS) | 2:54 |
 | 69 | [Right Kind of Trouble](https://open.spotify.com/track/1CZ8Z3XLlhWuR8XH509ZDp) | [Elly Wininger](https://open.spotify.com/artist/3k76bXCZIz5biiGbFrUBMJ) | [The Blues Never End](https://open.spotify.com/album/43w78hH7AEQmunINV8bxw1) | 4:21 |
 | 70 | [Way Down Yonder Blues](https://open.spotify.com/track/5cMLUxRl1dO83NLNgo8by9) | [Lemuel Turner](https://open.spotify.com/artist/6W3S0STPYle2QmDNLGAzmS) | [Turn Me Loose: Outsiders of Old\-Time Music](https://open.spotify.com/album/690HtrG9fKZnEp5fq8ed7Y) | 3:12 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 79 | [Lonesome Blues](https://open.spotify.com/track/0pYI2557do9fk2PlH8JfKg) | [Guitar Welch](https://open.spotify.com/artist/5VUwLyb3FCvjVYqbcxjhRf) | [Southern Prison Blues](https://open.spotify.com/album/3zphUD0wf8hzwgZ6GxeLQF) | 3:27 |
 | 80 | [She Ain't Nowhere \- Remastered](https://open.spotify.com/track/2C0sWdXD2V6Ebbw0d5fQiS) | [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2) | [Golden Selection \(Remastered\)](https://open.spotify.com/album/6bXXdAzX6YF7eEmvSnraaF) | 2:49 |
 
-Snapshot ID: `MCxjYWNlMTc0YTljMzM4MDcyN2Y5OGYzYTUzOTBmNmFjZTljODdjNTk0`
+Snapshot ID: `MCwyMzRlNDhiNzk0NWJmMzQyNTAxM2E3NGVlZWMzMDQ5ZGZlNWY0NmVl`

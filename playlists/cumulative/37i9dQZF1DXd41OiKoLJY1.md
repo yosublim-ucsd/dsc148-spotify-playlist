@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Reanne Borela Artwork: Isu Kim
 
-1,167 songs - 2 day 21 hr 47 min
+1,168 songs - 2 day 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Ambot Lang](https://open.spotify.com/track/3F6LJUl1SlUdEckoC0g9z1) | [Poppert Bernadas](https://open.spotify.com/artist/6R9MgvtKnpQwMsBMGBr6Hl) | [Ambot Lang](https://open.spotify.com/album/1dc1q8edFGYfzvVgThLmeZ) | 3:18 | 2022-02-17 | 2023-01-13 |
 | [AMPAW](https://open.spotify.com/track/7H8nhTCen6rmngyGHCMEaG) | [Beggar's Moon](https://open.spotify.com/artist/4DPejx13QohuLl8KB6JEVj) | [AMPAW](https://open.spotify.com/album/51Lc3j3y8OGDn7289yeuDq) | 5:15 | 2022-03-10 | 2022-04-01 |
 | [Amping](https://open.spotify.com/track/2JTQEl3bqAobCyV5PWVJV3) | [FiveStates](https://open.spotify.com/artist/76ZJzx5b26rLUxoq1Yq31w) | [Amping](https://open.spotify.com/album/66dkSWWPibXHqjra1hpeCa) | 3:31 | 2022-02-10 | 2022-03-11 |
+| [Ancient History](https://open.spotify.com/track/2G2QfxGZsFFrheAxS4Craw) | [Kemrie](https://open.spotify.com/artist/5ZAXoEmG8XufgQpkWbHbSp) | [Ancient History](https://open.spotify.com/album/4xX0mZlDz2fPes6MnByJep) | 2:23 | 2023-05-11 |  |
 | [Anesthesia](https://open.spotify.com/track/29RqqJUQevoHU2kWk2F5QA) | [Mazeboiii](https://open.spotify.com/artist/3DFM7ya81iULbYzrxvXzo2), [p4blo](https://open.spotify.com/artist/1xGujM1kZrIz9u2jsvfiEj), [Hanzomadeit](https://open.spotify.com/artist/1Nj4b4Xg1qmdskQlxKqvz6) | [Anesthesia](https://open.spotify.com/album/4QsIwYBHOw6v6WUBVcuQUQ) | 2:46 | 2022-04-14 | 2022-04-22 |
 | [Ang Bukas Ay Para Sa Akin](https://open.spotify.com/track/0zPS7pPbLJG2K695YLDKdv) | [Maricris Garcia\-Cruz](https://open.spotify.com/artist/4ahu9DIiIqlx3pVeObQHl7) | [Artikulo 247 \(Original Soundtrack\)](https://open.spotify.com/album/2665DMdfDspCTvlZV8em3K) | 3:20 | 2022-03-31 | 2022-04-08 |
 | [Ang Ganda Mo](https://open.spotify.com/track/3IgoaTcIoS4CWpSYQPBYZu) | [Skant Vee](https://open.spotify.com/artist/6L1W8c844zn3yBmkeVgbdR), [Cash Koo](https://open.spotify.com/artist/45GqSja1kI92nc4BKJa9qz) | [Ang Ganda Mo](https://open.spotify.com/album/0NhtF2zDYfw6k0PAerN3uk) | 3:42 | 2022-08-26 | 2022-12-01 |

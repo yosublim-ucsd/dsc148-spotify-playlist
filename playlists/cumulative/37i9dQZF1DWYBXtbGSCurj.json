@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Xam\u00e3",
+  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: MC Caverinha, KayBlack",
   "name": "Trap Ouro",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/0uGpWtQgtZ6UcFXnFiNhNq"
@@ -1368,7 +1368,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 130909,
       "name": "Australiana",
       "url": "https://open.spotify.com/track/1vSi0uIXyYgI35vWkpHZDx"
@@ -2668,10 +2668,32 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 126131,
       "name": "Carteira Quadrada",
       "url": "https://open.spotify.com/track/3F0gib7NudVVYa27aZjTPw"
+    },
+    {
+      "album": {
+        "name": "Cart\u00e3o Black",
+        "url": "https://open.spotify.com/album/23R4fvlUILMwCpu3tpgiMH"
+      },
+      "artists": [
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159973,
+      "name": "Cart\u00e3o Black",
+      "url": "https://open.spotify.com/track/12YCtLHGk6tP6RbHDHflCs"
     },
     {
       "album": {
@@ -7238,7 +7260,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 295384,
       "name": "Homem De Neg\u00f3cios (Pediu Fogo)",
       "url": "https://open.spotify.com/track/08VjnWweAgBgwZXCUwd9S1"
@@ -9199,6 +9221,32 @@
     },
     {
       "album": {
+        "name": "Mant\u00e9m o Pique",
+        "url": "https://open.spotify.com/album/4RVMFRNLl65DNtpmGS2M7z"
+      },
+      "artists": [
+        {
+          "name": "Ryu, the Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Neckklace",
+          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163880,
+      "name": "Mant\u00e9m o Pique",
+      "url": "https://open.spotify.com/track/4Fd1cs4q4oA95DmqiPSXhO"
+    },
+    {
+      "album": {
         "name": "Marca de Fita",
         "url": "https://open.spotify.com/album/1QFheKaIxrR8apZFZg8hZx"
       },
@@ -9881,6 +9929,32 @@
     },
     {
       "album": {
+        "name": "CTB",
+        "url": "https://open.spotify.com/album/1LhZSfJi9f1t8hacBoNHmq"
+      },
+      "artists": [
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162644,
+      "name": "Mercedes Benz",
+      "url": "https://open.spotify.com/track/7rwAH4AidLoHzOC5bQMhro"
+    },
+    {
+      "album": {
         "name": "Metflix",
         "url": "https://open.spotify.com/album/36GkjPO0oYcbKFCYtbPEHj"
       },
@@ -10217,6 +10291,28 @@
     },
     {
       "album": {
+        "name": "Molho",
+        "url": "https://open.spotify.com/album/0H7TgZyBTY2DNBx7mwHWUX"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167119,
+      "name": "Molho",
+      "url": "https://open.spotify.com/track/0vnMKXdO0LsTXTjI5gjeu0"
+    },
+    {
+      "album": {
         "name": "Momento",
         "url": "https://open.spotify.com/album/2qphFJ5CfaDKa62CIMMU7k"
       },
@@ -10306,6 +10402,28 @@
       "duration_ms": 132857,
       "name": "Morango",
       "url": "https://open.spotify.com/track/1D2X9Yyj0LF5tAOrUMNy3P"
+    },
+    {
+      "album": {
+        "name": "Motor",
+        "url": "https://open.spotify.com/album/50mSvzbbn5zyjS9bwTKU5N"
+      },
+      "artists": [
+        {
+          "name": "Raffa Moreira",
+          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158932,
+      "name": "Motor",
+      "url": "https://open.spotify.com/track/2NeCzvtURdGehud3qHsvaF"
     },
     {
       "album": {
@@ -10964,7 +11082,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 176656,
       "name": "Nikeboy 2",
       "url": "https://open.spotify.com/track/7DoeVIOZEq4kfpf63Ovb2z"
@@ -12362,7 +12480,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 109714,
       "name": "PATY",
       "url": "https://open.spotify.com/track/0vAR4NHpDOzS7vonuZONHh"
@@ -13592,7 +13710,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 177464,
       "name": "Pura Adrenalina",
       "url": "https://open.spotify.com/track/6HMDkpWfQFBbzxpljJYYPg"
@@ -15024,6 +15142,28 @@
       "duration_ms": 147264,
       "name": "Sem Saber",
       "url": "https://open.spotify.com/track/4QgPMexFryXvDE6wn8NDIv"
+    },
+    {
+      "album": {
+        "name": "SEMPRE TRAVADO",
+        "url": "https://open.spotify.com/album/1FRMcQix0gOchwfR1Y2LBF"
+      },
+      "artists": [
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        },
+        {
+          "name": "TTF",
+          "url": "https://open.spotify.com/artist/7DNHbtTJPNfl3TsTCbJN56"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "SEMPRE TRAVADO",
+      "url": "https://open.spotify.com/track/3mYblXOntVWfzRccFzQemi"
     },
     {
       "album": {
@@ -16816,6 +16956,24 @@
       "duration_ms": 273008,
       "name": "Tudo do Melhor",
       "url": "https://open.spotify.com/track/4sfslUCiSjOBJZcu08U1qb"
+    },
+    {
+      "album": {
+        "name": "Tudo Normal",
+        "url": "https://open.spotify.com/album/2kDinPjFq2OflFktkmNpnb"
+      },
+      "artists": [
+        {
+          "name": "Brocasito",
+          "url": "https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138173,
+      "name": "Tudo Normal",
+      "url": "https://open.spotify.com/track/0ZCgCquFLAk2SGHN4Jj2Ry"
     },
     {
       "album": {

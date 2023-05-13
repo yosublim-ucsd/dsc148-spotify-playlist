@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fDcF6S4tuJ.md) - [plain]
 
 > Listen to all your favorite Disney Princess songs including songs from The Little Mermaid.
 
-[Spotify](https://open.spotify.com/user/spotify) - 797,473 likes - 56 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 797,994 likes - 56 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fDcF6S4tuJ.md) - [plain]
 | 55 | [That's How You Know \- From "Enchanted"/Soundtrack Version](https://open.spotify.com/track/1OzSfjFW08DTD51XoNnog7) | [Amy Adams](https://open.spotify.com/artist/1gkcZQArk5rV8uBwG8y5FX) | [Enchanted](https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc) | 3:48 |
 | 56 | [Part of Your World \- From "The Little Mermaid Live!"](https://open.spotify.com/track/05ET8TiuscvijP4b4b1Jg9) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [The Little Mermaid Live!](https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc) | 3:10 |
 
-Snapshot ID: `MCxlM2QxYzk0M2NiYjgwOGI4NmExYWMyZWIyOTk0OTA0NjNmNDFlODIx`
+Snapshot ID: `MCxhNjE4MGNiM2ZkYmU5NzIxZWFjNjlmYTg4M2FlMTI0NDYwOTc0NTg4`

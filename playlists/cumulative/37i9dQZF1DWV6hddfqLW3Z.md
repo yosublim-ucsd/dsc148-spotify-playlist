@@ -4,13 +4,14 @@
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-90 songs - 5 hr 27 min
+91 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [12 Horas \(Ao Vivo\) \(feat\. Marília Mendonça\) \- Acústico](https://open.spotify.com/track/1aYI1bfSzo2M1LjFwZrXLY) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [12 Horas \(Ao Vivo\) \(feat\. Marília Mendonça\) \[Acústico\]](https://open.spotify.com/album/2XJWP3wpipPyna8pFX68ZJ) | 3:22 | 2022-08-19 |  |
 | [A noite](https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Esmeraldas \(Álbum Comentado\)](https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII) | 3:38 | 2022-08-19 |  |
 | [Abrigo](https://open.spotify.com/track/5xl9IXMENlBNwAbs7Y8z2W) | [ÀVUÀ](https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik), [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN), [Bruna Black](https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX) | [Abrigo](https://open.spotify.com/album/3IcpMI2WjS8OHrbsHuh6pL) | 3:52 | 2022-08-19 | 2022-10-02 |
+| [Acender as Velas](https://open.spotify.com/track/4EeEwcqSLV8QmguC33sxE6) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E), [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Negra Ópera](https://open.spotify.com/album/12ruJLnnZM4RlCAlxPSq6f) | 4:27 | 2023-05-12 |  |
 | [Algo Parecido](https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU) | [Algo Parecido](https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb) | 3:45 | 2022-08-19 |  |
 | [Amarelo, azul e branco](https://open.spotify.com/track/2LOIoeI16A8jjKubPKoCSa) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [COR](https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC) | 3:21 | 2022-08-19 |  |
 | [Andar com fé](https://open.spotify.com/track/2BvDFQOl4JieEGK2cgKOey) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Um banda um](https://open.spotify.com/album/3eXCgCBM4BS6H83xmxKdL6) | 3:20 | 2022-08-19 |  |
@@ -88,7 +89,7 @@
 | [Só Hoje \- Acústico](https://open.spotify.com/track/3dQlFoNRi1mjKBPVXXEjYt) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Acústico Jota Quest](https://open.spotify.com/album/5op3qEsyQ81iVROB97nWd9) | 5:07 | 2022-08-19 |  |
 | [Só Louco](https://open.spotify.com/track/1733B1kOllykeA4kFffXqm) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Só Louco](https://open.spotify.com/album/1qYZNLNDWuY7tJjwAVGiB0) | 3:56 | 2022-11-09 | 2022-12-02 |
 | [Tempo Perdido \(Versão Os Dias Eram Assim\)](https://open.spotify.com/track/5nJNdtx7ZtkNRKiYdhb87Z) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Tempo Perdido \(Versão Os Dias Eram Assim\)](https://open.spotify.com/album/7t5ScMLW7t6WIa5F1VRvNN) | 3:28 | 2022-08-19 |  |
-| [Torto Arado](https://open.spotify.com/track/5pembobNk0jvwt6xa2MnlP) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [AS PALAVRAS, VOL\. 1 & 2](https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg) | 4:11 | 2023-03-12 |  |
+| [Torto Arado](https://open.spotify.com/track/5pembobNk0jvwt6xa2MnlP) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [AS PALAVRAS, VOL\. 1 & 2](https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg) | 4:11 | 2023-03-12 | 2023-05-13 |
 | [Travessia \- Spotify Singles](https://open.spotify.com/track/07O5hhA4N5vxPwCq6U5ukg) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Travessia \- Spotify Singles](https://open.spotify.com/album/6fFIFnaCrSYWUeyK4HItVL) | 3:25 | 2022-10-26 | 2022-12-27 |
 | [Trem\-Bala](https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Trem\-Bala](https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF) | 3:00 | 2022-08-19 |  |
 | [Trevo \(Tu\)](https://open.spotify.com/track/2vRBYKWOyHtFMtiK60qRz7) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [ANAVITÓRIA](https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw) | 3:25 | 2022-08-19 |  |

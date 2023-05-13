@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168293,
+      "name": "Airstream Song",
+      "url": "https://open.spotify.com/track/5FXLX6lLO3SWATDIqfTCzz"
+    },
+    {
+      "album": {
         "name": "The Cowboy Rides Away: Live From AT&T Stadium",
         "url": "https://open.spotify.com/album/2L2L5dwy8JCw6zqslBaASk"
       },
@@ -128,7 +146,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 209760,
       "name": "Bluebird",
       "url": "https://open.spotify.com/track/0kPeZAyIhIfeZNrtfjJGDB"
@@ -300,7 +318,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 245625,
       "name": "Drunk (And I Don't Wanna Go Home)",
       "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
@@ -752,7 +770,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 248866,
       "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
       "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
@@ -796,7 +814,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 185800,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/2yhhcHTfvLC0HzSajGYL0h"
@@ -1204,7 +1222,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-11",
+      "date_removed": null,
       "duration_ms": 330693,
       "name": "Smokin' and Drinkin' (feat. Little Big Town)",
       "url": "https://open.spotify.com/track/13keyz9ikBe6ZpRasw7l4X"
@@ -1451,6 +1469,36 @@
     },
     {
       "album": {
+        "name": "Hell On Heels",
+        "url": "https://open.spotify.com/album/2zJVeRorn9q3XBeH7twIjc"
+      },
+      "artists": [
+        {
+          "name": "Pistol Annies",
+          "url": "https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+        },
+        {
+          "name": "Angaleena Presley",
+          "url": "https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181440,
+      "name": "Trailer for Rent",
+      "url": "https://open.spotify.com/track/7Bppatt7pAcCg5sr2A2BTx"
+    },
+    {
+      "album": {
         "name": "The Weight of These Wings",
         "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
       },
@@ -1528,7 +1576,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-27",
+      "date_removed": null,
       "duration_ms": 194080,
       "name": "Way Too Pretty for Prison (with Maren Morris)",
       "url": "https://open.spotify.com/track/6ZShReTf4SiT7LYXnRCks0"

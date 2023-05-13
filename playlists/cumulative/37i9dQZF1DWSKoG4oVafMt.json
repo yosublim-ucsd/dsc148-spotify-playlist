@@ -461,6 +461,24 @@
     },
     {
       "album": {
+        "name": "Akhiyaan",
+        "url": "https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191868,
+      "name": "Akhiyaan",
+      "url": "https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz"
+    },
+    {
+      "album": {
         "name": "All Day Sunday",
         "url": "https://open.spotify.com/album/6aB9nSsIosjBxUIgln10vy"
       },
@@ -586,6 +604,28 @@
       "duration_ms": 263201,
       "name": "Amber Nu Paudi",
       "url": "https://open.spotify.com/track/1Cgf1bIWS0oJtzHidStWtQ"
+    },
+    {
+      "album": {
+        "name": "Ambran De Taare",
+        "url": "https://open.spotify.com/album/21eSHgrZHYjhYMVRNi4R4d"
+      },
+      "artists": [
+        {
+          "name": "Garry Sandhu",
+          "url": "https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75"
+        },
+        {
+          "name": "Rahul Sathu",
+          "url": "https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212692,
+      "name": "Ambran De Taare",
+      "url": "https://open.spotify.com/track/6qRdYQIMhVBG9FtVC1lItU"
     },
     {
       "album": {
@@ -10562,6 +10602,32 @@
       "duration_ms": 144000,
       "name": "Qaid",
       "url": "https://open.spotify.com/track/6FVA4ByYR7Pr5DZu1BVX8H"
+    },
+    {
+      "album": {
+        "name": "Qareeb (From \"Mera Baba Nanak\")",
+        "url": "https://open.spotify.com/album/0tZbKhJ3UH10aNLYxESiHv"
+      },
+      "artists": [
+        {
+          "name": "Amar Jalal",
+          "url": "https://open.spotify.com/artist/2zZ39d8KJqwu7TkF4dEh03"
+        },
+        {
+          "name": "Manpal singh",
+          "url": "https://open.spotify.com/artist/2PEI7maTESwCaV0r77RDjb"
+        },
+        {
+          "name": "Hasanvir Chahal",
+          "url": "https://open.spotify.com/artist/0YgGhI5xgzfr9EDGFMYBXL"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Qareeb - From \"Mera Baba Nanak\"",
+      "url": "https://open.spotify.com/track/0zXtHShexjiAQHeMem1MOf"
     },
     {
       "album": {

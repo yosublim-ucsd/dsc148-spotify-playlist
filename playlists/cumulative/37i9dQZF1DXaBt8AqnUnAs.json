@@ -1206,7 +1206,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 275120,
       "name": "Convite (Live at Soho Sessions)",
       "url": "https://open.spotify.com/track/5Bxbs557c651uUffzSqZdX"
@@ -1490,7 +1490,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 179775,
       "name": "Distante",
       "url": "https://open.spotify.com/track/60oUdqaiYwOlsbXUszHezr"
@@ -1866,6 +1866,24 @@
       "duration_ms": 197746,
       "name": "Eu Gosto Dela",
       "url": "https://open.spotify.com/track/5yqbISO0lUFwY3wdrLgiR0"
+    },
+    {
+      "album": {
+        "name": "Eu Nem Sabia",
+        "url": "https://open.spotify.com/album/48TZLqHz2j1CoDep5W7vZE"
+      },
+      "artists": [
+        {
+          "name": "Pedrosa",
+          "url": "https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187651,
+      "name": "Eu Nem Sabia",
+      "url": "https://open.spotify.com/track/6TiU1URegwlqUv6RTP4Ezh"
     },
     {
       "album": {
@@ -2374,7 +2392,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 122406,
       "name": "Gasolina e fogo",
       "url": "https://open.spotify.com/track/6WYVNNhokLzQEXeG0m3WMk"
@@ -3154,7 +3172,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 165663,
       "name": "Meu Faixa",
       "url": "https://open.spotify.com/track/3SKf49nyXfhL26KSkaUNZJ"
@@ -3700,6 +3718,32 @@
       "duration_ms": 174776,
       "name": "n\u00f3",
       "url": "https://open.spotify.com/track/0hSN5geEl2wczCdvnw7dZB"
+    },
+    {
+      "album": {
+        "name": "O Mund\u00e3o \u00c9 Seu (Trap)",
+        "url": "https://open.spotify.com/album/6qAIMfIx8bCtWsrOZMQ5sd"
+      },
+      "artists": [
+        {
+          "name": "Gabily",
+          "url": "https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz"
+        },
+        {
+          "name": "Mousik",
+          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137500,
+      "name": "O Mund\u00e3o \u00c9 Seu (Trap)",
+      "url": "https://open.spotify.com/track/0H2uVgHAnaSimZR0I6zwUj"
     },
     {
       "album": {

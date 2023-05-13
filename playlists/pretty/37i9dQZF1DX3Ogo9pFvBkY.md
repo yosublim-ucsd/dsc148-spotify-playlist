@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 
 > Relax and unwind with chill, ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,195,361 likes - 228 songs - 11 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,195,425 likes - 228 songs - 11 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -237,4 +237,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 | 227 | [Moons in the Rings](https://open.spotify.com/track/3Y3u0mF1FF8Psi7PDnSvLI) | [Interstellar Journey](https://open.spotify.com/artist/2lVUuG2asaRByPWesKcMW4) | [Tides on Titan](https://open.spotify.com/album/09Kpj515fwXraK5qYOpx3F) | 2:56 |
 | 228 | [Euphrosyne](https://open.spotify.com/track/7arWoSrPeW1uiCGbCu0Igm) | [Arlette Leduc](https://open.spotify.com/artist/3LyPSzNbQ3R4cgHZDUP06T) | [Euphrosyne](https://open.spotify.com/album/7BlXg4aB6bpzIsYP5wqrVT) | 2:39 |
 
-Snapshot ID: `MCwwNzNkMWNkYzRlYTRjZjY2NTQ2ODBmNWRiNzNiNWNkYWRkMzNlNDdm`
+Snapshot ID: `MCwwMDVmZjhlYWM1YzFjMDY0ZWY2NTg2NmRjMDI0ZDkxMjQzNmZiNTQ0`

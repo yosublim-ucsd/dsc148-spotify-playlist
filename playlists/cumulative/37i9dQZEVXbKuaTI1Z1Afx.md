@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-1,509 songs - 3 day 8 hr 58 min
+1,510 songs - 3 day 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -662,6 +662,7 @@
 | [In My Room](https://open.spotify.com/track/3SM7uIYEz3v3BGy9RHp7oU) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/1tI6mIu9HHp0OuD0U0i9AB) | 2:57 | 2022-06-19 | 2022-07-06 |
 | [In The Kitchen](https://open.spotify.com/track/0XmN2KXDcNbcpeeUoB1HTV) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [In The Kitchen](https://open.spotify.com/album/3AjfnMxAc6JajluGMxja3Q) | 3:47 | 2022-08-16 | 2022-09-09 |
 | [In The Kitchen](https://open.spotify.com/track/2VFetGqLYq0Pc8ZtRYCaeL) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 3:47 | 2022-12-19 | 2023-01-07 |
+| [In the Meantime](https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC) | [Spacehog](https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ) | [Resident Alien](https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A) | 4:59 | 2023-05-12 |  |
 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 | 2022-05-24 | 2022-06-07 |
 | [In The Yuma \(feat\. Aatig\)](https://open.spotify.com/track/2e2yKavdT6WQzzMHwNtPFa) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [In The Yuma \(feat\. Aatig\)](https://open.spotify.com/album/0JjZ7kWBexlcQJMCpZ2MZF) | 2:36 | 2022-12-07 | 2023-01-16 |
 | [in these walls \(my house\) \(feat\. PVRIS\)](https://open.spotify.com/track/70R3yxMofIQpUmLUFIzA6J) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [lockdown sessions](https://open.spotify.com/album/38kBJGfjhkTGqBs5EqoaMN) | 2:48 | 2022-03-09 | 2022-03-11 |
@@ -1330,7 +1331,7 @@
 | [Time Warp](https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu) | [Little Nell](https://open.spotify.com/artist/213WFYdlgojElnXhDyhwke), [Patricia Quinn](https://open.spotify.com/artist/7Akz0poR4eUgNM0ciCWqIs), [Richard O'Brien](https://open.spotify.com/artist/0aIOdrjH5s3hJqxmKoAEUg) | [The Rocky Horror Picture Show \- Original Soundtrack](https://open.spotify.com/album/4QviryaneolcRmDB57SLco) | 3:19 | 2022-10-30 | 2022-11-09 |
 | [Tinnitus \(Wanna be a rock\)](https://open.spotify.com/track/0f0SbtoKGe41cX5LzlnX6X) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 2:37 | 2023-02-21 | 2023-03-02 |
 | [Tití Me Preguntó](https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:03 | 2022-05-31 | 2022-09-11 |
-| [To Be A Man](https://open.spotify.com/track/5uqXEAPYnytyz9WPoXr3UR) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [To Be A Man](https://open.spotify.com/album/5w1tKn8VLDYKcfFuYFQqvh) | 3:39 | 2023-05-09 |  |
+| [To Be A Man](https://open.spotify.com/track/5uqXEAPYnytyz9WPoXr3UR) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [To Be A Man](https://open.spotify.com/album/5w1tKn8VLDYKcfFuYFQqvh) | 3:39 | 2023-05-09 | 2023-05-13 |
 | [TO THE](https://open.spotify.com/track/3kvm9xedJN0uVx9kFmcFdf) | [GoldSkull](https://open.spotify.com/artist/13GA8qxVLDZs0oh1zZ872C) | [TO THE](https://open.spotify.com/album/2CZxED1GDIM7fV6ODe6rMf) | 2:32 | 2021-12-30 | 2022-01-05 |
 | [To The Bone \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/4wRJHXHDJnKSPr9IVn0BFR) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Only Built For Infinity Links](https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t) | 4:43 | 2022-11-03 | 2022-11-11 |
 | [TO THE MOON](https://open.spotify.com/track/0hYFc3HSZHDaDzquLVRwBH) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn) | [TO THE MOON](https://open.spotify.com/album/2zTIjSnZvTRpX4lShuDnrt) | 2:32 | 2021-12-27 | 2022-01-23 |

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "137",
+        "url": "https://open.spotify.com/album/2i6cQdA7t4o6u7PZ3BnX2K"
+      },
+      "artists": [
+        {
+          "name": "Soren Jahan",
+          "url": "https://open.spotify.com/artist/3QuCMIn8tUrEybwF48qWtn"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224137,
+      "name": "04c",
+      "url": "https://open.spotify.com/track/7goaAhD1hCMfBLsm4ePEW7"
+    },
+    {
+      "album": {
         "name": "05h33 (Adagio, Piano Sonata No. 14, \"Moonlight\") - Beethoven Remixed",
         "url": "https://open.spotify.com/album/6VWhSZHVZDkeSVNj7LlXBx"
       },
@@ -157,6 +175,24 @@
     },
     {
       "album": {
+        "name": "Third Ear",
+        "url": "https://open.spotify.com/album/1qzmCUFszkpWLvlrROhW21"
+      },
+      "artists": [
+        {
+          "name": "u.r.trax",
+          "url": "https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295548,
+      "name": "biosseum",
+      "url": "https://open.spotify.com/track/1iO1JyUx4GSeNaLRFuyypJ"
+    },
+    {
+      "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/2ceMZ1jf2D5aV4rHEVRjlQ"
       },
@@ -220,7 +256,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 266619,
       "name": "Black Smokers",
       "url": "https://open.spotify.com/track/1uL1hBBXXyZN0pIgsFqCr9"
@@ -554,7 +590,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 291166,
       "name": "i can\u2019t believe (you\u2019re real)",
       "url": "https://open.spotify.com/track/1LcVfuMJbKCtT0qdZaHAQC"

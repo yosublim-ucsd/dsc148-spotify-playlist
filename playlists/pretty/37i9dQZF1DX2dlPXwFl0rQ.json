@@ -1,31 +1,31 @@
 {
-  "description": "Estas son las indomables del Regional Mexicano. Ana B\u00e1rbara en portada.",
-  "num_followers": 87385,
+  "description": "Estas son las indomables de la M\u00fasica Mexicana. Janeth Valenzuela en portada.",
+  "num_followers": 87493,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTQzOTgzODI1YjI4NTljYjVmMmI2NDNmZDhhMjUxYTUxMDFhZTk3",
+  "snapshot_id": "MCxmMzI5ZjlmYjFhNDczOGVmMDdlODg0OTg5NWEwMTA4YTYwM2FjMjZk",
   "tracks": [
     {
-      "added_at": "2023-05-05 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Bordado a Mano",
-        "url": "https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh"
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/2qrc0YH2PfVbdSQpwEWxl9"
       },
       "artists": [
         {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
         }
       ],
-      "duration_ms": 162320,
-      "name": "Prefiero Tomar",
-      "url": "https://open.spotify.com/track/5vpA67Nbp1btxUWsfeVUQB"
+      "duration_ms": 163200,
+      "name": "Por Ti",
+      "url": "https://open.spotify.com/track/56kcxvEbwLaKpR6btCuE8q"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/3CNbrXrUrEARw8zeKNCdYo"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Ya acab\u00f3 (Con Becky G)",
         "url": "https://open.spotify.com/album/6XZejfd76Y8JU23nnaVDTc"
@@ -77,7 +77,71 @@
       "url": "https://open.spotify.com/track/0OPiOIAyw2FUjKm8PXBGhq"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 194946,
+      "name": "No Llega el Olvido",
+      "url": "https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Loca De Amar",
+        "url": "https://open.spotify.com/album/2eyl66bHPrqMjjTfzLxHt3"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 275893,
+      "name": "Lo Busqu\u00e9",
+      "url": "https://open.spotify.com/track/7ceiXwNZ2DwNIJ54tsJwRY"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
+        "url": "https://open.spotify.com/album/2lrBqFbFWoZddaOjUbD1DF"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 228187,
+      "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
+      "url": "https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Un Nuevo Amor",
+        "url": "https://open.spotify.com/album/0qRYR5QyvLEt16G7UisMS2"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 226776,
+      "name": "Un Nuevo Amor",
+      "url": "https://open.spotify.com/track/4vyg50FAJjpCQEwmJMxlv1"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Paso A Pasito",
         "url": "https://open.spotify.com/album/65SCAsrB3oSDhqU6HY7r2j"
@@ -97,135 +161,7 @@
       "url": "https://open.spotify.com/track/0oXXhfxgC0dV4UFvVKLL6J"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "La Gran Se\u00f1ora",
-        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 194946,
-      "name": "No Llega el Olvido",
-      "url": "https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Tus Desprecios",
-        "url": "https://open.spotify.com/album/5aH48JYL2Ep2EYnXldMXrv"
-      },
-      "artists": [
-        {
-          "name": "Kimberly Pleitez",
-          "url": "https://open.spotify.com/artist/1oTBX1FlyRBYNxAqkKwpqr"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "Tus Desprecios",
-      "url": "https://open.spotify.com/track/1JPjkRwFPi7NJy8YEDBxlv"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
-        "url": "https://open.spotify.com/album/2lrBqFbFWoZddaOjUbD1DF"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 228187,
-      "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
-      "url": "https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Loca De Amar",
-        "url": "https://open.spotify.com/album/2eyl66bHPrqMjjTfzLxHt3"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 275893,
-      "name": "Lo Busqu\u00e9",
-      "url": "https://open.spotify.com/track/7ceiXwNZ2DwNIJ54tsJwRY"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Un Nuevo Amor",
-        "url": "https://open.spotify.com/album/0qRYR5QyvLEt16G7UisMS2"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 226776,
-      "name": "Un Nuevo Amor",
-      "url": "https://open.spotify.com/track/4vyg50FAJjpCQEwmJMxlv1"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Mi Vida Loca",
-        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 179320,
-      "name": "Inolvidable",
-      "url": "https://open.spotify.com/track/7bEZbS1gadU29L5eIwM2gM"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Cuatro Copas Bohemia En La Finca Altozano",
-        "url": "https://open.spotify.com/album/6MHrApGXMR205wKeaiG9rb"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 259120,
-      "name": "Me Estoy Volviendo Loca",
-      "url": "https://open.spotify.com/track/1divYQCik9Cc9C7s3Cbsu1"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 200840,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Orgullo De Mujer",
         "url": "https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3"
@@ -241,59 +177,7 @@
       "url": "https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Porque Soy Abeja Reina",
-        "url": "https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 158146,
-      "name": "Porque Soy Abeja Reina",
-      "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Joyas Prestadas - Banda",
-        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 243173,
-      "name": "Basta Ya - Banda",
-      "url": "https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Pa' Luego Es Tarde",
-        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 185153,
-      "name": "Te Dejo",
-      "url": "https://open.spotify.com/track/5N3lFRVdbmindAPgkEQwe4"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Las Que M\u00e1s Amo",
         "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
@@ -309,7 +193,71 @@
       "url": "https://open.spotify.com/track/17XOZ99cghYPO4oDiTrBNQ"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 200840,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Porque Soy Abeja Reina",
+        "url": "https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 158146,
+      "name": "Porque Soy Abeja Reina",
+      "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 179320,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/7bEZbS1gadU29L5eIwM2gM"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 185153,
+      "name": "Te Dejo",
+      "url": "https://open.spotify.com/track/5N3lFRVdbmindAPgkEQwe4"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Qu\u00e9 Bueno Es Tenerte",
         "url": "https://open.spotify.com/album/5mylIAlnG7NVExUV5hPc3H"
@@ -329,7 +277,23 @@
       "url": "https://open.spotify.com/track/2Vficy40iZyTKoAJNwLWzd"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 157306,
+      "name": "Fotos Y Recuerdos",
+      "url": "https://open.spotify.com/track/0kQOWm8vYnQEb2gVWITaAA"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Ah\u00ed Donde Me Ven",
         "url": "https://open.spotify.com/album/6M9GNcF5jLv8CNmDlFrGid"
@@ -345,7 +309,7 @@
       "url": "https://open.spotify.com/track/4kdmt0MDdze6TZvyU0Fmqg"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Ajustando Cuentas",
         "url": "https://open.spotify.com/album/4sGlWWQx6V1fq8ct7T4aFV"
@@ -365,55 +329,7 @@
       "url": "https://open.spotify.com/track/3rbtjnfJKzKxvwvaB3zopY"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Te Mereces Un Amor",
-        "url": "https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        }
-      ],
-      "duration_ms": 226400,
-      "name": "Te Mereces Un Amor",
-      "url": "https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "La Gran Se\u00f1ora",
-        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Ya Lo S\u00e9",
-      "url": "https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 157306,
-      "name": "Fotos Y Recuerdos",
-      "url": "https://open.spotify.com/track/0kQOWm8vYnQEb2gVWITaAA"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Soy Lo Prohibido",
         "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
@@ -429,39 +345,23 @@
       "url": "https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Pa' Luego Es Tarde",
-        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+        "name": "Te Mereces Un Amor",
+        "url": "https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
         }
       ],
-      "duration_ms": 212746,
-      "name": "Por Salud Mental",
-      "url": "https://open.spotify.com/track/2fHKAwEiIp1ZuRdeAsYKex"
+      "duration_ms": 226400,
+      "name": "Te Mereces Un Amor",
+      "url": "https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "M\u00e9xico de Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
-      },
-      "artists": [
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        }
-      ],
-      "duration_ms": 278800,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/2rPmMvb83a5GaLFGcMFoBw"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "La Historia De Los Exitos Pop A La Mexicana",
         "url": "https://open.spotify.com/album/3pfJEAn0WEGXs2SkeJ2CKh"
@@ -477,23 +377,59 @@
       "url": "https://open.spotify.com/track/51nRQic7PFMD4NsdRj6soX"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Parrandera, Rebelde y Atrevida",
-        "url": "https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs"
+        "name": "M\u00e9xico de Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        }
+      ],
+      "duration_ms": 278800,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/2rPmMvb83a5GaLFGcMFoBw"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Joyas Prestadas - Banda",
+        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
       },
       "artists": [
         {
           "name": "Jenni Rivera",
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 195626,
-      "name": "Qu\u00e9 Me Vas a Dar",
-      "url": "https://open.spotify.com/track/1dqURLZC3n4EL6lPUF2DHx"
+      "duration_ms": 243173,
+      "name": "Basta Ya - Banda",
+      "url": "https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 212746,
+      "name": "Por Salud Mental",
+      "url": "https://open.spotify.com/track/2fHKAwEiIp1ZuRdeAsYKex"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Desarmada - Spotify Singles",
         "url": "https://open.spotify.com/album/4lzjjzwvPHCGW5LOWTQHih"
@@ -509,7 +445,7 @@
       "url": "https://open.spotify.com/track/2Sq8nivB0lT67tpg2xgIcG"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Por Puro Amor",
         "url": "https://open.spotify.com/album/0WsszKdBU8ZgICPUvrvIb6"
@@ -525,39 +461,7 @@
       "url": "https://open.spotify.com/track/1dRk52eZwBlyJVdPajfBp4"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Soy Lo Prohibido",
-        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
-      },
-      "artists": [
-        {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
-        }
-      ],
-      "duration_ms": 178813,
-      "name": "Besos Y Copas",
-      "url": "https://open.spotify.com/track/5gXJjrNk3kwPkz8toXQTxf"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Pa' Luego Es Tarde",
-        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 175822,
-      "name": "Alma Enamorada",
-      "url": "https://open.spotify.com/track/4gLc3SHtuu2svpOByuYQX7"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Juntos Otra Vez (with Juan Gabriel)",
         "url": "https://open.spotify.com/album/3hHk7IdhmA0i7RcbFoVUny"
@@ -573,7 +477,7 @@
       "url": "https://open.spotify.com/track/3ZTldOU6uczC22Rx1eXIbG"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
         "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
@@ -593,7 +497,23 @@
       "url": "https://open.spotify.com/track/07YArNoh8ZeQfnQc4sDXxB"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Soy Lo Prohibido",
+        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
+      },
+      "artists": [
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        }
+      ],
+      "duration_ms": 178813,
+      "name": "Besos Y Copas",
+      "url": "https://open.spotify.com/track/5gXJjrNk3kwPkz8toXQTxf"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Cuesti\u00f3n De Tiempo",
         "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
@@ -609,7 +529,23 @@
       "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 175822,
+      "name": "Alma Enamorada",
+      "url": "https://open.spotify.com/track/4gLc3SHtuu2svpOByuYQX7"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Pobre Coraz\u00f3n",
         "url": "https://open.spotify.com/album/1wKf4J6fA55pKnRRXHZU9c"
@@ -625,7 +561,23 @@
       "url": "https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Ya Lo S\u00e9",
+      "url": "https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Por Puro Amor",
         "url": "https://open.spotify.com/album/0WsszKdBU8ZgICPUvrvIb6"
@@ -641,7 +593,23 @@
       "url": "https://open.spotify.com/track/4IBhHhbBSGRGrP6wXzRK2v"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Bordado a Mano",
+        "url": "https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 162320,
+      "name": "Prefiero Tomar",
+      "url": "https://open.spotify.com/track/5vpA67Nbp1btxUWsfeVUQB"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Mis 20 \u00c9xitos",
         "url": "https://open.spotify.com/album/3qI4cBRQr7DIMOEY7eXfHn"
@@ -657,23 +625,7 @@
       "url": "https://open.spotify.com/track/0zt7aMpLsOcckqSxqedrwt"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
-        "url": "https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 178378,
-      "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
-      "url": "https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Mi Herencia, Mi Sangre",
         "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
@@ -689,7 +641,7 @@
       "url": "https://open.spotify.com/track/1LITSGGVyVIyYzfEv9hAdi"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
         "url": "https://open.spotify.com/album/5x7kmstea5CT51BApKPU5N"
@@ -705,43 +657,7 @@
       "url": "https://open.spotify.com/track/4UsBDxqUj3ar1FcUt2kjN4"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Se Disfraz\u00f3",
-        "url": "https://open.spotify.com/album/0e90dEopSeHMvkBdWB2nX8"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 206383,
-      "name": "Se Disfraz\u00f3",
-      "url": "https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Pa' Los Dolidos",
-        "url": "https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi"
-      },
-      "artists": [
-        {
-          "name": "Laraim",
-          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
-        },
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 161927,
-      "name": "Desaires",
-      "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "No Me Deja De Doler",
         "url": "https://open.spotify.com/album/3TbFDaU2et83hjIMXpeBlJ"
@@ -761,23 +677,7 @@
       "url": "https://open.spotify.com/track/2P77G1ApHDmnOzEbk8C6jn"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Cuando Caiga la Noche",
-        "url": "https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 201802,
-      "name": "Cuando Caiga la Noche",
-      "url": "https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Por Puro Amor",
         "url": "https://open.spotify.com/album/0WsszKdBU8ZgICPUvrvIb6"
@@ -793,43 +693,87 @@
       "url": "https://open.spotify.com/track/48YY9jYcCMqW6FiAZ5EmSb"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Paloma Blanca",
-        "url": "https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI"
+        "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
+        "url": "https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE"
       },
       "artists": [
         {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        },
-        {
-          "name": "Mariachi Divas de Cindy Shea",
-          "url": "https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 233373,
-      "name": "Paloma Blanca",
-      "url": "https://open.spotify.com/track/0qTmcxa3HhdKEH0wftscnQ"
+      "duration_ms": 178378,
+      "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
+      "url": "https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Confidente",
-        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
+        "name": "Parrandera, Rebelde y Atrevida",
+        "url": "https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs"
       },
       "artists": [
         {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 150654,
-      "name": "Que Poquito Me Conoces",
-      "url": "https://open.spotify.com/track/3rxafxANDFSkB2onHUBUe6"
+      "duration_ms": 195626,
+      "name": "Qu\u00e9 Me Vas a Dar",
+      "url": "https://open.spotify.com/track/1dqURLZC3n4EL6lPUF2DHx"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Cuando Caiga la Noche",
+        "url": "https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 201802,
+      "name": "Cuando Caiga la Noche",
+      "url": "https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Se Disfraz\u00f3",
+        "url": "https://open.spotify.com/album/0e90dEopSeHMvkBdWB2nX8"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 206383,
+      "name": "Se Disfraz\u00f3",
+      "url": "https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Cuatro Copas Bohemia En La Finca Altozano",
+        "url": "https://open.spotify.com/album/6MHrApGXMR205wKeaiG9rb"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 259120,
+      "name": "Me Estoy Volviendo Loca",
+      "url": "https://open.spotify.com/track/1divYQCik9Cc9C7s3Cbsu1"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Una Buena Ranchera",
         "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
@@ -845,55 +789,7 @@
       "url": "https://open.spotify.com/track/1CIFAglkWiVnQlF4BVYt5h"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 226618,
-      "name": "El Barco",
-      "url": "https://open.spotify.com/track/0O195ut6Wlnv0ppzxmEpU4"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Cuando Me Importabas",
-        "url": "https://open.spotify.com/album/1yEZEZ575OrXSneXTDDsWD"
-      },
-      "artists": [
-        {
-          "name": "Mari\u00e1n Oviedo",
-          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
-        }
-      ],
-      "duration_ms": 192913,
-      "name": "Cuando Me Importabas",
-      "url": "https://open.spotify.com/track/0ihv6gQs9XoIr7me3M9sCy"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Promesas No",
-        "url": "https://open.spotify.com/album/17cEzhYbgpZ3MBf6K9l0Y3"
-      },
-      "artists": [
-        {
-          "name": "Graciela Beltran",
-          "url": "https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl"
-        }
-      ],
-      "duration_ms": 206213,
-      "name": "Es Cosa De El",
-      "url": "https://open.spotify.com/track/0ftCOyTnNeeLhlIuMPR3op"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
         "url": "https://open.spotify.com/album/5yVQrHPHs6fVqkeNDHrbQO"
@@ -913,7 +809,111 @@
       "url": "https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Pa' Los Dolidos",
+        "url": "https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi"
+      },
+      "artists": [
+        {
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 161927,
+      "name": "Desaires",
+      "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Paloma Blanca",
+        "url": "https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Mariachi Divas de Cindy Shea",
+          "url": "https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd"
+        }
+      ],
+      "duration_ms": 233373,
+      "name": "Paloma Blanca",
+      "url": "https://open.spotify.com/track/0qTmcxa3HhdKEH0wftscnQ"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Confidente",
+        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 150654,
+      "name": "Que Poquito Me Conoces",
+      "url": "https://open.spotify.com/track/3rxafxANDFSkB2onHUBUe6"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Cuando Me Importabas",
+        "url": "https://open.spotify.com/album/1yEZEZ575OrXSneXTDDsWD"
+      },
+      "artists": [
+        {
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+        }
+      ],
+      "duration_ms": 192913,
+      "name": "Cuando Me Importabas",
+      "url": "https://open.spotify.com/track/0ihv6gQs9XoIr7me3M9sCy"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 226618,
+      "name": "El Barco",
+      "url": "https://open.spotify.com/track/0O195ut6Wlnv0ppzxmEpU4"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Promesas No",
+        "url": "https://open.spotify.com/album/17cEzhYbgpZ3MBf6K9l0Y3"
+      },
+      "artists": [
+        {
+          "name": "Graciela Beltran",
+          "url": "https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl"
+        }
+      ],
+      "duration_ms": 206213,
+      "name": "Es Cosa De El",
+      "url": "https://open.spotify.com/track/0ftCOyTnNeeLhlIuMPR3op"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Tambien Las Mujeres Pueden (En Vivo)",
         "url": "https://open.spotify.com/album/0A9jc2mNfi0CeYveDasqI3"
@@ -933,7 +933,7 @@
       "url": "https://open.spotify.com/track/0EwW3CpYxYmiwa4LHOmbxY"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Dos Botellas De Mezcal",
         "url": "https://open.spotify.com/album/1GreuGxkG2mQaEqkU5w4Yg"
@@ -953,7 +953,23 @@
       "url": "https://open.spotify.com/track/28QfOZ6Z3ozknIq5g1Tf5C"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Mor\u00ed",
+        "url": "https://open.spotify.com/album/0yexjHqn8yMIgpxNxJqVQ0"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 224506,
+      "name": "Mor\u00ed",
+      "url": "https://open.spotify.com/track/2ysxv5DXuosxjvaGItVn1E"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Te Lo Dije",
         "url": "https://open.spotify.com/album/6L4FZy4urqYOoXG7QCJvGt"
@@ -973,39 +989,7 @@
       "url": "https://open.spotify.com/track/1qIzFCCra5oghKuOwygbxm"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Mor\u00ed",
-        "url": "https://open.spotify.com/album/0yexjHqn8yMIgpxNxJqVQ0"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 224506,
-      "name": "Mor\u00ed",
-      "url": "https://open.spotify.com/track/2ysxv5DXuosxjvaGItVn1E"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "As\u00ed Nom\u00e1s",
-        "url": "https://open.spotify.com/album/1DJ1t2VC98iToO2Xw0cIPy"
-      },
-      "artists": [
-        {
-          "name": "Nora Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
-        }
-      ],
-      "duration_ms": 191028,
-      "name": "As\u00ed Nom\u00e1s",
-      "url": "https://open.spotify.com/track/56J7bkvuNDfs2e9YGbI01E"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "No que no",
         "url": "https://open.spotify.com/album/0epUaxYXXwj70sm73aYpSF"
@@ -1021,7 +1005,23 @@
       "url": "https://open.spotify.com/track/2rWePwaFVD8ukg8qimS3lP"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "As\u00ed Nom\u00e1s",
+        "url": "https://open.spotify.com/album/1DJ1t2VC98iToO2Xw0cIPy"
+      },
+      "artists": [
+        {
+          "name": "Nora Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+        }
+      ],
+      "duration_ms": 191028,
+      "name": "As\u00ed Nom\u00e1s",
+      "url": "https://open.spotify.com/track/56J7bkvuNDfs2e9YGbI01E"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Hazme Tuya",
         "url": "https://open.spotify.com/album/0a48C884SUXHbslHhIwlGI"
@@ -1037,7 +1037,7 @@
       "url": "https://open.spotify.com/track/7GbzKGxTsaNmvgnBhcnNP5"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "No Me Amenaces",
         "url": "https://open.spotify.com/album/5PTXa366m9IeBC8bqo9HMh"
@@ -1053,7 +1053,7 @@
       "url": "https://open.spotify.com/track/2F9QiR9xVc7HXJ6qPQQxNO"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "No Me Lamentare",
         "url": "https://open.spotify.com/album/7Bl7KTEP0tDvSLfLbYhn1O"
@@ -1069,7 +1069,23 @@
       "url": "https://open.spotify.com/track/1Wmxfl6r5CVc8FplFZ8hxM"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Tus Desprecios",
+        "url": "https://open.spotify.com/album/5aH48JYL2Ep2EYnXldMXrv"
+      },
+      "artists": [
+        {
+          "name": "Kimberly Pleitez",
+          "url": "https://open.spotify.com/artist/1oTBX1FlyRBYNxAqkKwpqr"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "Tus Desprecios",
+      "url": "https://open.spotify.com/track/1JPjkRwFPi7NJy8YEDBxlv"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Mi Problema",
         "url": "https://open.spotify.com/album/1yPw3S7ednaRYnHUZchyMb"
@@ -1085,7 +1101,7 @@
       "url": "https://open.spotify.com/track/4VPFDmBBwE3MfMRL42iIa4"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Graciela Beltran 14 Super Exitos",
         "url": "https://open.spotify.com/album/2Yftqok3ZWYM1wu3ESWvaS"
@@ -1101,23 +1117,7 @@
       "url": "https://open.spotify.com/track/4ojSnzH10PN0dxTr0eWtOt"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Un Amor en el Olvido",
-        "url": "https://open.spotify.com/album/6q00MyI9sqAZ5RcglZzi0R"
-      },
-      "artists": [
-        {
-          "name": "Irene del Rosario",
-          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "Un Amor en el Olvido",
-      "url": "https://open.spotify.com/track/0HospTDnDM29cIreAUpPqQ"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Homenaje A Mi Madre",
         "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
@@ -1133,7 +1133,23 @@
       "url": "https://open.spotify.com/track/3cvK6LKGFN8U0LyHJ4TSSJ"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Un Amor en el Olvido",
+        "url": "https://open.spotify.com/album/6q00MyI9sqAZ5RcglZzi0R"
+      },
+      "artists": [
+        {
+          "name": "Irene del Rosario",
+          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "Un Amor en el Olvido",
+      "url": "https://open.spotify.com/track/0HospTDnDM29cIreAUpPqQ"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "\u00bfPor Qu\u00e9 No Vienes?",
         "url": "https://open.spotify.com/album/0YkM3kQNfaCjr5cUjNktzm"
@@ -1149,7 +1165,7 @@
       "url": "https://open.spotify.com/track/5OMUiJlu6MR1JAS7PVuIOY"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Empoderada",
         "url": "https://open.spotify.com/album/5BO9Ecu5Qk8t5Z7MBhXSWD"
@@ -1165,7 +1181,7 @@
       "url": "https://open.spotify.com/track/7n7NCdkIoSDB5VTazPcKFP"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Ahora Va La M\u00eda",
         "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
@@ -1181,7 +1197,23 @@
       "url": "https://open.spotify.com/track/0CEublugofmBX9a2RKoxjq"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Pa' Dentro",
+        "url": "https://open.spotify.com/album/1KuZ2S6sbJF1BE3Uw70ncW"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 152160,
+      "name": "Pa' Dentro - Versi\u00f3n Banda",
+      "url": "https://open.spotify.com/track/10Uc1hSwdM9RG9zMbIeJSz"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Amiga",
         "url": "https://open.spotify.com/album/1Zc6hqIINyRhDkyvLNV1e8"
@@ -1201,23 +1233,7 @@
       "url": "https://open.spotify.com/track/5fB1anQrnZBMnSjilCnAZ8"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Pa' Dentro",
-        "url": "https://open.spotify.com/album/1KuZ2S6sbJF1BE3Uw70ncW"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 152160,
-      "name": "Pa' Dentro - Versi\u00f3n Banda",
-      "url": "https://open.spotify.com/track/10Uc1hSwdM9RG9zMbIeJSz"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Y Sigues Siendo T\u00fa",
         "url": "https://open.spotify.com/album/0pTTS2mSMDlhPHTYRkgwv7"
@@ -1233,7 +1249,7 @@
       "url": "https://open.spotify.com/track/0aoR2KYk8JJDDaKwSeP4Y8"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "No Te Dejes Enga\u00f1ar",
         "url": "https://open.spotify.com/album/5r2bpBBDDMPEenUASbVGME"
@@ -1249,7 +1265,7 @@
       "url": "https://open.spotify.com/track/1DDqAJ6VPBqB8mBi64B7jf"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Vida Prestada",
         "url": "https://open.spotify.com/album/7agDaMTnaNFNi819B4pSaK"
@@ -1265,7 +1281,39 @@
       "url": "https://open.spotify.com/track/14oT5LTQiYKZIb1kk6lJMM"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Cinco Razones",
+        "url": "https://open.spotify.com/album/5lFmabGSRMh7o8GHntGeqZ"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Odessa",
+          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
+        }
+      ],
+      "duration_ms": 220427,
+      "name": "Lo Mal Que Me Trataste",
+      "url": "https://open.spotify.com/track/0Tfr04oA2EPOTovHiM5lqK"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Ahora Va La M\u00eda",
+        "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
+      },
+      "artists": [
+        {
+          "name": "Marisol Terrazas",
+          "url": "https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok"
+        }
+      ],
+      "duration_ms": 206960,
+      "name": "Si Quieres Verme Llorar",
+      "url": "https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "En Carne Viva",
         "url": "https://open.spotify.com/album/2MOtc63fVOckXi8FrW19Di"
@@ -1285,23 +1333,7 @@
       "url": "https://open.spotify.com/track/0576T1N3lsfD2ImwFrW1tO"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Cinco Razones",
-        "url": "https://open.spotify.com/album/5lFmabGSRMh7o8GHntGeqZ"
-      },
-      "artists": [
-        {
-          "name": "Marilyn Odessa",
-          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
-        }
-      ],
-      "duration_ms": 220427,
-      "name": "Lo Mal Que Me Trataste",
-      "url": "https://open.spotify.com/track/0Tfr04oA2EPOTovHiM5lqK"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Le Cale A Quien Le Cale",
         "url": "https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn"
@@ -1317,7 +1349,23 @@
       "url": "https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "De Ti No Lo Esperaba",
+        "url": "https://open.spotify.com/album/5WWN1xJb84SCDRx3kll6E0"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "duration_ms": 193184,
+      "name": "De Ti No Lo Esperaba",
+      "url": "https://open.spotify.com/track/6JMJKfwi2UiDsCvAlaOH4x"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Volumen 2",
         "url": "https://open.spotify.com/album/0qKcVvwYT8omzgJOV5XODe"
@@ -1333,23 +1381,7 @@
       "url": "https://open.spotify.com/track/6NwYyRMf0y0g6hOsitO1Ex"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Ahora Va La M\u00eda",
-        "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
-      },
-      "artists": [
-        {
-          "name": "Marisol Terrazas",
-          "url": "https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok"
-        }
-      ],
-      "duration_ms": 206960,
-      "name": "Si Quieres Verme Llorar",
-      "url": "https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Amor De Unos Botes",
         "url": "https://open.spotify.com/album/1XtF9fBxTchoV70JxxdFTe"
@@ -1369,7 +1401,7 @@
       "url": "https://open.spotify.com/track/1g1F4DIjpLnh6TEeB8SCHD"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Volver\u00e9 A Amar",
         "url": "https://open.spotify.com/album/52la7FZHARCdV9pOo09E2o"
@@ -1385,39 +1417,7 @@
       "url": "https://open.spotify.com/track/15AwwPqHhOSA3LviBHfIAN"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "No Se Vayan Con La Finta (En Vivo)",
-        "url": "https://open.spotify.com/album/7GI58DuMbYiPMKBeT7d42a"
-      },
-      "artists": [
-        {
-          "name": "Janely Rosa",
-          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
-        }
-      ],
-      "duration_ms": 193840,
-      "name": "La Primera Piedra (En Vivo)",
-      "url": "https://open.spotify.com/track/5k3Ajm3rvCI3L5IDXjZi8C"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Se Te Olvid\u00f3",
-        "url": "https://open.spotify.com/album/4Oe4ORLwZV7y4OtjRjsCOA"
-      },
-      "artists": [
-        {
-          "name": "Nora Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
-        }
-      ],
-      "duration_ms": 186475,
-      "name": "Se Te Olvid\u00f3",
-      "url": "https://open.spotify.com/track/6kviIjZXocJZlfMM7Hy13x"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Les Molesta",
         "url": "https://open.spotify.com/album/4zDvdAWFpyH1cQKNRTll90"
@@ -1433,23 +1433,7 @@
       "url": "https://open.spotify.com/track/0FQUdbfAuh7HzHGOeXxvSb"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "De Ti No Lo Esperaba",
-        "url": "https://open.spotify.com/album/5WWN1xJb84SCDRx3kll6E0"
-      },
-      "artists": [
-        {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
-        }
-      ],
-      "duration_ms": 193184,
-      "name": "De Ti No Lo Esperaba",
-      "url": "https://open.spotify.com/track/6JMJKfwi2UiDsCvAlaOH4x"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Hoy Dame el Gusto",
         "url": "https://open.spotify.com/album/3kRufiPZq2VFnS6EhFqUwF"
@@ -1465,55 +1449,39 @@
       "url": "https://open.spotify.com/track/5bYDZac40Gh7u7MdOm2RlI"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Lo Que A Usted Le Falta",
-        "url": "https://open.spotify.com/album/7k7f0reFwLXPWXjAgIYnts"
+        "name": "No Se Vayan Con La Finta (En Vivo)",
+        "url": "https://open.spotify.com/album/7GI58DuMbYiPMKBeT7d42a"
       },
       "artists": [
         {
-          "name": "Grace Guill\u00e9n",
-          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
+          "name": "Janely Rosa",
+          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
         }
       ],
-      "duration_ms": 168066,
-      "name": "Lo Que A Usted Le Falta",
-      "url": "https://open.spotify.com/track/1CxvKku2dDNICvZ3Jg5PyS"
+      "duration_ms": 193840,
+      "name": "La Primera Piedra (En Vivo)",
+      "url": "https://open.spotify.com/track/5k3Ajm3rvCI3L5IDXjZi8C"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Simplemente Amigos",
-        "url": "https://open.spotify.com/album/28gBhc6eA3RIgkp5sI7oTc"
+        "name": "Se Te Olvid\u00f3",
+        "url": "https://open.spotify.com/album/4Oe4ORLwZV7y4OtjRjsCOA"
       },
       "artists": [
         {
-          "name": "Nicole Padilla",
-          "url": "https://open.spotify.com/artist/1nKgKBoclIzq2uiBRz3VAv"
+          "name": "Nora Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
         }
       ],
-      "duration_ms": 175770,
-      "name": "Simplemente Amigos",
-      "url": "https://open.spotify.com/track/59wb3CHtDB6NpshT2mzKtt"
+      "duration_ms": 186475,
+      "name": "Se Te Olvid\u00f3",
+      "url": "https://open.spotify.com/track/6kviIjZXocJZlfMM7Hy13x"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Una Tarde De Abril",
-        "url": "https://open.spotify.com/album/3lESpmcn3r1pR2prmtMrfh"
-      },
-      "artists": [
-        {
-          "name": "Irene del Rosario",
-          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
-        }
-      ],
-      "duration_ms": 173148,
-      "name": "Una Tarde De Abril",
-      "url": "https://open.spotify.com/track/2WP7Hffpxt4SuvZY0UG6PY"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Esencia",
         "url": "https://open.spotify.com/album/1zwouzqra6ZrjRg9qkk1gL"
@@ -1529,42 +1497,10 @@
       "url": "https://open.spotify.com/track/3bPCfYzKsnzhT4YYcYC0lq"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Sesiones En Vivo Vol. 2",
-        "url": "https://open.spotify.com/album/10F9VCKoV67HlFuBM0wgju"
-      },
-      "artists": [
-        {
-          "name": "Ana Casillas",
-          "url": "https://open.spotify.com/artist/1B14dSg39GuUntPDa6KOXu"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Contigo Aprend\u00ed - En Vivo",
-      "url": "https://open.spotify.com/track/1Oj84aMBeOnTcjKyQ4yHkA"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Mi Soldadita",
-        "url": "https://open.spotify.com/album/2aRBOVDwie76WQ55iIUUkt"
-      },
-      "artists": [
-        {
-          "name": "La Abuela Irma Silva",
-          "url": "https://open.spotify.com/artist/54326fpqCFfVK6deMVzOTq"
-        }
-      ],
-      "duration_ms": 190146,
-      "name": "Mi Soldadita",
-      "url": "https://open.spotify.com/track/5lpKKzuCgPqrcOscblmapl"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Ya Te Olvid\u00e9",
-        "url": "https://open.spotify.com/album/5naqdFvqwIyTVEcLdUmPrV"
+        "name": "Lo Que A Usted Le Falta",
+        "url": "https://open.spotify.com/album/7k7f0reFwLXPWXjAgIYnts"
       },
       "artists": [
         {
@@ -1572,12 +1508,28 @@
           "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
         }
       ],
-      "duration_ms": 220946,
-      "name": "Ya Te Olvid\u00e9",
-      "url": "https://open.spotify.com/track/6AQmEy0PpEHNb72Pz94sMD"
+      "duration_ms": 168066,
+      "name": "Lo Que A Usted Le Falta",
+      "url": "https://open.spotify.com/track/1CxvKku2dDNICvZ3Jg5PyS"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Simplemente Amigos",
+        "url": "https://open.spotify.com/album/28gBhc6eA3RIgkp5sI7oTc"
+      },
+      "artists": [
+        {
+          "name": "Nicole Padilla",
+          "url": "https://open.spotify.com/artist/1nKgKBoclIzq2uiBRz3VAv"
+        }
+      ],
+      "duration_ms": 175770,
+      "name": "Simplemente Amigos",
+      "url": "https://open.spotify.com/track/59wb3CHtDB6NpshT2mzKtt"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Ven a M\u00ed",
         "url": "https://open.spotify.com/album/1kVJTTPDm0gYX7au6C6Uli"
@@ -1593,7 +1545,71 @@
       "url": "https://open.spotify.com/track/3GfABcgtxdYZyNwtiFNfhY"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Una Tarde De Abril",
+        "url": "https://open.spotify.com/album/3lESpmcn3r1pR2prmtMrfh"
+      },
+      "artists": [
+        {
+          "name": "Irene del Rosario",
+          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
+        }
+      ],
+      "duration_ms": 173148,
+      "name": "Una Tarde De Abril",
+      "url": "https://open.spotify.com/track/2WP7Hffpxt4SuvZY0UG6PY"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Sesiones En Vivo Vol. 2",
+        "url": "https://open.spotify.com/album/10F9VCKoV67HlFuBM0wgju"
+      },
+      "artists": [
+        {
+          "name": "Ana Casillas",
+          "url": "https://open.spotify.com/artist/1B14dSg39GuUntPDa6KOXu"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Contigo Aprend\u00ed - En Vivo",
+      "url": "https://open.spotify.com/track/1Oj84aMBeOnTcjKyQ4yHkA"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Mi Soldadita",
+        "url": "https://open.spotify.com/album/2aRBOVDwie76WQ55iIUUkt"
+      },
+      "artists": [
+        {
+          "name": "La Abuela Irma Silva",
+          "url": "https://open.spotify.com/artist/54326fpqCFfVK6deMVzOTq"
+        }
+      ],
+      "duration_ms": 190146,
+      "name": "Mi Soldadita",
+      "url": "https://open.spotify.com/track/5lpKKzuCgPqrcOscblmapl"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Ya Te Olvid\u00e9",
+        "url": "https://open.spotify.com/album/5naqdFvqwIyTVEcLdUmPrV"
+      },
+      "artists": [
+        {
+          "name": "Grace Guill\u00e9n",
+          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
+        }
+      ],
+      "duration_ms": 220946,
+      "name": "Ya Te Olvid\u00e9",
+      "url": "https://open.spotify.com/track/6AQmEy0PpEHNb72Pz94sMD"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Porque Me Sabes Querer",
         "url": "https://open.spotify.com/album/6iaj4eF6KuCyBrJXFzdOem"
@@ -1609,7 +1625,7 @@
       "url": "https://open.spotify.com/track/3XTggCtNo5eeMgjy4BgpBk"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "La Misma Gran Se\u00f1ora",
         "url": "https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5"
@@ -1625,7 +1641,7 @@
       "url": "https://open.spotify.com/track/5M0xCMnbD2gDUfhRo5pvlT"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Mi Vida Loca",
         "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
@@ -1641,7 +1657,7 @@
       "url": "https://open.spotify.com/track/4mznGgE31Oj2vDlrPNZLqx"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-05-12 06:00:00",
       "album": {
         "name": "Mi Vida Loca",
         "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
@@ -1655,22 +1671,6 @@
       "duration_ms": 238026,
       "name": "Mariposa de Barrio",
       "url": "https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Pa' Luego Es Tarde",
-        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 121889,
-      "name": "Brujer\u00eda",
-      "url": "https://open.spotify.com/track/1PcwgVL81paHLsxatYSNR3"
     }
   ],
   "unique_name": "Mujeres Brav\u00edas",

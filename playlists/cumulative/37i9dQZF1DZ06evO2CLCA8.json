@@ -556,7 +556,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 350733,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/3BFOW7dc6oxzuEPWKsESTI"
@@ -1314,6 +1314,24 @@
       "duration_ms": 284773,
       "name": "Southern Accents",
       "url": "https://open.spotify.com/track/6QUppE7S4HgcfC3jZIcYlV"
+    },
+    {
+      "album": {
+        "name": "Southern Accents",
+        "url": "https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212200,
+      "name": "Spike",
+      "url": "https://open.spotify.com/track/0OynySxoDTVepVdwm0iigw"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > O melhor do rap em 2022\. Foto: Dillaz.
 
-95 songs - 5 hr 34 min
+97 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [2 da Matina](https://open.spotify.com/track/2Nxl2DRXsj7jkRBQ66GUJv) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [2 da Matina](https://open.spotify.com/album/69wSG4zSCMGNb6V7cnxPYS) | 3:31 | 2021-12-01 | 2022-07-29 |
 | [2 da Matina](https://open.spotify.com/track/6mHEUDWaySfb6YvLC7JgPN) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Trilogia Pão Na Mesa](https://open.spotify.com/album/7zZoScNI4mNYXE5vQhMeQi) | 3:31 | 2021-12-01 |  |
 | [3,14](https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG) | [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [3,14](https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe) | 5:24 | 2021-12-01 |  |
-| [300](https://open.spotify.com/track/6lElXo5x9oyqvIUcG7gP7d) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:17 | 2021-12-01 |  |
+| [300](https://open.spotify.com/track/6lElXo5x9oyqvIUcG7gP7d) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:17 | 2021-12-01 | 2023-05-13 |
+| [300](https://open.spotify.com/track/7s0bCwjqJRMjH7yNf6Gyf7) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj) | 4:17 | 2022-11-30 |  |
 | [3POINTS](https://open.spotify.com/track/1TrjslfLFx7l7r2eMKAwX4) | [RDM Gang](https://open.spotify.com/artist/0njwfY4F51Cis2dWWoqLfR) | [3POINTS](https://open.spotify.com/album/0dDUh0a8V8w4EnEUX7n8qw) | 4:27 | 2021-12-01 | 2022-12-01 |
 | [Abraço](https://open.spotify.com/track/5IwgsQkoSeDPr4yWPILbiE) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4), [Rony Fuego](https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk) | [Abraço](https://open.spotify.com/album/1NEgmMKZTPfgeVqtEfeFng) | 2:57 | 2021-12-01 | 2022-12-01 |
 | [Amor Ou Segredo](https://open.spotify.com/track/0NAIF6FSjiH0jECUSy2xtU) | [Bless](https://open.spotify.com/artist/7G3cc4g02s4aGoY30P8dIG) | [Amor Ou Segredo](https://open.spotify.com/album/2fY2MEmSGaDqmHFJxj9Eql) | 4:04 | 2021-12-01 | 2022-12-01 |
@@ -81,7 +82,8 @@
 | [Popo](https://open.spotify.com/track/24QcmVdz7CwEYhohJxJ4EX) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Harley KSD](https://open.spotify.com/artist/0AyoY8RFId4AqueSJvE99D) | [Popo](https://open.spotify.com/album/6V1YM7CbiOwqwIEa73riB3) | 3:19 | 2022-11-30 |  |
 | [Por Enquanto](https://open.spotify.com/track/5fjD0vHh9XRL6b657FWe9C) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Por Enquanto](https://open.spotify.com/album/1uFTodamqWqlk5KwYkqy0n) | 2:22 | 2022-11-30 |  |
 | [PRA MIM](https://open.spotify.com/track/6wDT7SWDZPlOoneWOmSmSC) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [CASTANHO](https://open.spotify.com/album/2NYhVEDTSEwvNrW7qs7IOU) | 2:33 | 2022-11-30 |  |
-| [Praça Onze](https://open.spotify.com/track/30WnHkBkq3vE8jJcNZ3RKr) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Praça Onze](https://open.spotify.com/album/3jPS6pgoJ4adGHImcNxETl) | 4:23 | 2022-11-30 |  |
+| [Praça Onze](https://open.spotify.com/track/0hMUCxx0QJfxOmWq7D5oi0) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Praça Onze](https://open.spotify.com/album/6BBDRshfbJrNM9yJJSZhPD) | 4:23 | 2022-11-30 |  |
+| [Praça Onze](https://open.spotify.com/track/30WnHkBkq3vE8jJcNZ3RKr) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Praça Onze](https://open.spotify.com/album/3jPS6pgoJ4adGHImcNxETl) | 4:23 | 2022-11-30 | 2023-05-13 |
 | [Pão na Mesa \(feat\. Richie Campbell\)](https://open.spotify.com/track/46Pfb5oErr8WVn3frcXybC) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Trilogia Pão Na Mesa](https://open.spotify.com/album/7zZoScNI4mNYXE5vQhMeQi) | 3:39 | 2021-12-01 | 2022-12-01 |
 | [RockNRoll](https://open.spotify.com/track/1Hsxz3THpMGPlUfs6ut8kv) | [XROOTZ](https://open.spotify.com/artist/0ZDuMqcz7YEc0sJDijQmEb), [LZ](https://open.spotify.com/artist/7ylnIZOT3I0EdTMcWVTLud), [CL](https://open.spotify.com/artist/4i1KqPb9iJ51vS7BhXn0U0), [XIXO503](https://open.spotify.com/artist/0jJKdlK7cMSI6YFFCI7khz) | [RockNRoll](https://open.spotify.com/album/41fW2ux0CwJF85Qk183l2c) | 4:03 | 2022-11-30 |  |
 | [ROSAS](https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu), [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr) | [ROSAS](https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E) | 2:57 | 2022-11-30 |  |

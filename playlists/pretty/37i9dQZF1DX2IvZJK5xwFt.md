@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 
 > Only the best rock in the world\. Cover: Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,250 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,435 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 10 | [Hysteria](https://open.spotify.com/track/3Qmd2CaJzPkqZEh2Tc50Bl) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx), [Ian Maclay](https://open.spotify.com/artist/345GATJZugQUwdn8rbsKCS) | [Drastic Symphonies](https://open.spotify.com/album/1mUwxZgyoD795awXthjCSu) | 5:54 |
 | 11 | [Hold Me Like a Grudge](https://open.spotify.com/track/7u2nN6yhi4SfFyMHLE032Q) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1) | 3:35 |
 | 12 | [Half My Heart](https://open.spotify.com/track/3EMVljpsr9TPKYScAFQNJh) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [I Love You, I’m Trying](https://open.spotify.com/album/2BTddi3XyqAcset5mAYl2n) | 2:44 |
-| 13 | [Council Skies](https://open.spotify.com/track/1KDR3iKY185DjEREnzYhgU) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies](https://open.spotify.com/album/0LEsy6Ncwa96urueYAB8ud) | 4:42 |
+| 13 | [Council Skies](https://open.spotify.com/track/7mx6gWyqk2vbm2WfqwXX2G) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies \(The Reflex Revision\)](https://open.spotify.com/album/3XVRHph1vIQcqefiFh7drP) | 4:42 |
 | 14 | [Something To Hide](https://open.spotify.com/track/1hKDAx8YhDEX3tjynYj6uG) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Something To Hide](https://open.spotify.com/album/3zPbLl9qdGpL3MjCnWFBFe) | 1:59 |
 | 15 | [Trouble](https://open.spotify.com/track/2QPW157Ms76KiW8rByD73h) | [Adam Jensen](https://open.spotify.com/artist/7ymrIsmp4vE7vAtcS12J4D) | [Trouble](https://open.spotify.com/album/00joypS8k7ckow4zx2whRL) | 3:44 |
 | 16 | [If Darkness Had a Son](https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 6:36 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 74 | [Jealousy](https://open.spotify.com/track/7xMZix45UoyZiS40vHC8oy) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Jealousy](https://open.spotify.com/album/1948jAOGWUVxGl7mCLEIef) | 2:09 |
 | 75 | [Spillways \[Feat\. Joe Elliott\]](https://open.spotify.com/track/720C8mWrqRdh1zYBGqLj9p) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D), [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Joe Elliott](https://open.spotify.com/artist/5Nbg0g30EwMpYD6jQ2xcfX) | [Spillways \[Feat\. Joe Elliott\]](https://open.spotify.com/album/1aMqVnl2zFenUsGrlYMc91) | 3:19 |
 
-Snapshot ID: `MCwzMzU3ZTFkNWUxNmZmMmMwMGE2YzdmMjQ1M2M1MjZlZjUzMDg2Njdm`
+Snapshot ID: `MCwzODRlMGE3YTIwMDk5YWRkOWFiNjcwY2E2MmYxNTU1Y2VhOTAwNDVj`

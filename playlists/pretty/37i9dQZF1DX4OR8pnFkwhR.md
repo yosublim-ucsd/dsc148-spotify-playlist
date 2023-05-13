@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Furui Riho
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,433 likes - 70 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,454 likes - 70 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 69 | [ふたり](https://open.spotify.com/track/6wbXSVc6kR9cAHP0rWTUMT) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [ふたり](https://open.spotify.com/album/1atBgPVgFDAyqyt4wGYz8w) | 4:12 |
 | 70 | [Pretty in pink](https://open.spotify.com/track/4xCy0UyJ5qMx0bbt4F9B0d) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Pretty in pink](https://open.spotify.com/album/5Cgh8OZAJ8Y6haJyxMzBVH) | 2:56 |
 
-Snapshot ID: `MCwyNmY0M2I0ZjI4MjU0MzU4ODE3OWU0ZmNiNTI3MDZlZjNkYzhlYzRk`
+Snapshot ID: `MCwwNTZmNzI4MDk4NjMyYjE1NzM3ZjcyOGNmYzRlN2FiNmJhZmVmZGUw`

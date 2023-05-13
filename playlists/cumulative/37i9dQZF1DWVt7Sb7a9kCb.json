@@ -315,6 +315,32 @@
     },
     {
       "album": {
+        "name": "Reinsertado",
+        "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261713,
+      "name": "Andando",
+      "url": "https://open.spotify.com/track/0yK1nUASmGNYKUH5qpXeOY"
+    },
+    {
+      "album": {
         "name": "Angelito",
         "url": "https://open.spotify.com/album/51XfF3Vuzhj33GNL4GFUWw"
       },
@@ -1874,7 +1900,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 231959,
       "name": "Horas",
       "url": "https://open.spotify.com/track/5CCCk6rRJS0wTPHFY6vWR9"
@@ -2246,7 +2272,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 242500,
       "name": "Las redes (feat. Jthyago, Oscar el Ruso)",
       "url": "https://open.spotify.com/track/74honumrnQTsTKGfyGQL13"
@@ -2940,6 +2966,24 @@
       "duration_ms": 163626,
       "name": "Morena M\u00eda",
       "url": "https://open.spotify.com/track/5ppm2LDV6yqf7cxjKHOqkG"
+    },
+    {
+      "album": {
+        "name": "Mxfix G5",
+        "url": "https://open.spotify.com/album/6i7nZXIeKaSBLXl5b3UirN"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154520,
+      "name": "Mxfix G5",
+      "url": "https://open.spotify.com/track/6RvdPXkp63MIt9oNFJBRIz"
     },
     {
       "album": {

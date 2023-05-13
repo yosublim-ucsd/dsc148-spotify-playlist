@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "BULLET MAN",
+        "url": "https://open.spotify.com/album/1B9eLnJh3huaPRziWXWliK"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178195,
+      "name": "BULLET MAN",
+      "url": "https://open.spotify.com/track/1xscJ2dRvxgJhB8V10EqZn"
+    },
+    {
+      "album": {
         "name": "Evil Empire",
         "url": "https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF"
       },

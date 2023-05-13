@@ -1,12 +1,12 @@
 {
   "description": "We're celebrating 30 years of Brooks & Dunn's iconic album \"Hard Workin' Man\" on 90s Country! ",
-  "num_followers": 1559152,
+  "num_followers": 1560132,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjljMWU5MjZjMmIwNjNjNjdiODhkOWFmZjJkZWRkMDNiNWYwNjQ0",
+  "snapshot_id": "MCw0YzFhZWRhMTViYWQ3MmM5NTYxNDU1NTU3OTJjZTdjZTg4ZGIzYzli",
   "tracks": [
     {
       "added_at": "2023-01-20 04:30:15",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "Some Gave All",
-        "url": "https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV"
-      },
-      "artists": [
-        {
-          "name": "Billy Ray Cyrus",
-          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "Achy Breaky Heart",
-      "url": "https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ"
-    },
-    {
-      "added_at": "2023-01-20 04:30:15",
-      "album": {
         "name": "Toby Keith",
         "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 211306,
       "name": "Should've Been A Cowboy",
       "url": "https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy"
+    },
+    {
+      "added_at": "2023-01-20 04:30:15",
+      "album": {
+        "name": "Some Gave All",
+        "url": "https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV"
+      },
+      "artists": [
+        {
+          "name": "Billy Ray Cyrus",
+          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Achy Breaky Heart",
+      "url": "https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "Six Days On The Road",
-        "url": "https://open.spotify.com/album/6d2GhPWhRwb1KcfHFR0wXX"
-      },
-      "artists": [
-        {
-          "name": "Sawyer Brown",
-          "url": "https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97"
-        }
-      ],
-      "duration_ms": 173426,
-      "name": "Six Days On The Road",
-      "url": "https://open.spotify.com/track/4OCFCX4RSZl8esUMtt3muO"
-    },
-    {
-      "added_at": "2023-01-20 04:30:15",
-      "album": {
         "name": "Honky Tonk Attitude",
         "url": "https://open.spotify.com/album/1P1OZ9XR6qjmOV6J2G8LDi"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 272066,
       "name": "John Deere Green",
       "url": "https://open.spotify.com/track/2evFJQfQVcDEXyOiyEV6OW"
+    },
+    {
+      "added_at": "2023-01-20 04:30:15",
+      "album": {
+        "name": "Six Days On The Road",
+        "url": "https://open.spotify.com/album/6d2GhPWhRwb1KcfHFR0wXX"
+      },
+      "artists": [
+        {
+          "name": "Sawyer Brown",
+          "url": "https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97"
+        }
+      ],
+      "duration_ms": 173426,
+      "name": "Six Days On The Road",
+      "url": "https://open.spotify.com/track/4OCFCX4RSZl8esUMtt3muO"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "Out With A Bang",
-        "url": "https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9"
-      },
-      "artists": [
-        {
-          "name": "David Lee Murphy",
-          "url": "https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5"
-        }
-      ],
-      "duration_ms": 198440,
-      "name": "Party Crowd",
-      "url": "https://open.spotify.com/track/57IEs29xqMQaAkjQ8iQuI0"
-    },
-    {
-      "added_at": "2023-01-20 04:30:15",
-      "album": {
         "name": "Here In The Real World",
         "url": "https://open.spotify.com/album/7aKsH9D0ud6MzGTjnrwM3e"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 185373,
       "name": "Chasin' That Neon Rainbow",
       "url": "https://open.spotify.com/track/6QP8JgHuOi0itWXuZ6wdTM"
+    },
+    {
+      "added_at": "2023-01-20 04:30:15",
+      "album": {
+        "name": "Out With A Bang",
+        "url": "https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9"
+      },
+      "artists": [
+        {
+          "name": "David Lee Murphy",
+          "url": "https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5"
+        }
+      ],
+      "duration_ms": 198440,
+      "name": "Party Crowd",
+      "url": "https://open.spotify.com/track/57IEs29xqMQaAkjQ8iQuI0"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "When Love Finds You",
-        "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
-      },
-      "artists": [
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 315973,
-      "name": "Go Rest High On That Mountain",
-      "url": "https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz"
-    },
-    {
-      "added_at": "2023-01-20 04:30:15",
-      "album": {
         "name": "Wide Open Spaces",
         "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
       },
@@ -1459,18 +1443,18 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "Brand New Man",
-        "url": "https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3"
+        "name": "When Love Finds You",
+        "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
       },
       "artists": [
         {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
         }
       ],
-      "duration_ms": 197640,
-      "name": "Boot Scootin' Boogie",
-      "url": "https://open.spotify.com/track/6iKWr2XH1DyT7TQzDZlvzd"
+      "duration_ms": 315973,
+      "name": "Go Rest High On That Mountain",
+      "url": "https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1487,6 +1471,22 @@
       "duration_ms": 260493,
       "name": "Gone Country",
       "url": "https://open.spotify.com/track/6IEIPevuDocD80PovsX6kN"
+    },
+    {
+      "added_at": "2023-01-20 04:30:15",
+      "album": {
+        "name": "Brand New Man",
+        "url": "https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Boot Scootin' Boogie",
+      "url": "https://open.spotify.com/track/6iKWr2XH1DyT7TQzDZlvzd"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1843,18 +1843,18 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "Greatest Hits: Mark Chesnutt",
-        "url": "https://open.spotify.com/album/3BHgJUyzqtmUFnUngsDVeg"
+        "name": "This Time",
+        "url": "https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50"
       },
       "artists": [
         {
-          "name": "Mark Chesnutt",
-          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
         }
       ],
-      "duration_ms": 163560,
-      "name": "It's A Little Too Late - 1996 Greatest Hits Version",
-      "url": "https://open.spotify.com/track/0D5L0ZxGyhEFTqhfiXwYxw"
+      "duration_ms": 200533,
+      "name": "Ain't That Lonely Yet",
+      "url": "https://open.spotify.com/track/0Kwu1D6HJc8KCLjTGCB22w"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1891,18 +1891,18 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "This Time",
-        "url": "https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50"
+        "name": "Greatest Hits: Mark Chesnutt",
+        "url": "https://open.spotify.com/album/3BHgJUyzqtmUFnUngsDVeg"
       },
       "artists": [
         {
-          "name": "Dwight Yoakam",
-          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+          "name": "Mark Chesnutt",
+          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
         }
       ],
-      "duration_ms": 200533,
-      "name": "Ain't That Lonely Yet",
-      "url": "https://open.spotify.com/track/0Kwu1D6HJc8KCLjTGCB22w"
+      "duration_ms": 163560,
+      "name": "It's A Little Too Late - 1996 Greatest Hits Version",
+      "url": "https://open.spotify.com/track/0D5L0ZxGyhEFTqhfiXwYxw"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/5LT49LTUsSmazrZpBV3OPP"
-      },
-      "artists": [
-        {
-          "name": "Martina McBride",
-          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "A Broken Wing",
-      "url": "https://open.spotify.com/track/0nqjaaZQtY9fgl1M9qjssn"
-    },
-    {
-      "added_at": "2023-01-20 04:30:15",
-      "album": {
         "name": "Sticks and Stones",
         "url": "https://open.spotify.com/album/0MhvdNZeIBuzjyG1jBDTbq"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 218053,
       "name": "Sticks and Stones",
       "url": "https://open.spotify.com/track/1l6aokk2Hw72z0mFPKgPmm"
+    },
+    {
+      "added_at": "2023-01-20 04:30:15",
+      "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/5LT49LTUsSmazrZpBV3OPP"
+      },
+      "artists": [
+        {
+          "name": "Martina McBride",
+          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "A Broken Wing",
+      "url": "https://open.spotify.com/track/0nqjaaZQtY9fgl1M9qjssn"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "Michael Peterson",
-        "url": "https://open.spotify.com/album/6SYfJ8JLGIP87pOiH9FMpC"
-      },
-      "artists": [
-        {
-          "name": "Michael Peterson",
-          "url": "https://open.spotify.com/artist/5SOL8Hz0JUmgBWHggBQ5Kz"
-        }
-      ],
-      "duration_ms": 182306,
-      "name": "Drink, Swear, Steal & Lie",
-      "url": "https://open.spotify.com/track/3ZdAwMX7Lku81KGiqsjDeA"
-    },
-    {
-      "added_at": "2023-01-20 04:30:15",
-      "album": {
         "name": "Whatcha Gonna Do With A Cowboy",
         "url": "https://open.spotify.com/album/6He4j8heX7l96p8y2FMjbz"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 155000,
       "name": "Whatcha Gonna Do With A Cowboy",
       "url": "https://open.spotify.com/track/6UBvhlms1M16oUYZkEfqpy"
+    },
+    {
+      "added_at": "2023-01-20 04:30:15",
+      "album": {
+        "name": "Michael Peterson",
+        "url": "https://open.spotify.com/album/6SYfJ8JLGIP87pOiH9FMpC"
+      },
+      "artists": [
+        {
+          "name": "Michael Peterson",
+          "url": "https://open.spotify.com/artist/5SOL8Hz0JUmgBWHggBQ5Kz"
+        }
+      ],
+      "duration_ms": 182306,
+      "name": "Drink, Swear, Steal & Lie",
+      "url": "https://open.spotify.com/track/3ZdAwMX7Lku81KGiqsjDeA"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "I Think About You",
-        "url": "https://open.spotify.com/album/6ngZLbm52ebfzfIxYIybvu"
-      },
-      "artists": [
-        {
-          "name": "Collin Raye",
-          "url": "https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI"
-        }
-      ],
-      "duration_ms": 206506,
-      "name": "I Think About You",
-      "url": "https://open.spotify.com/track/31zLkaElQKtj8hDigVB31n"
-    },
-    {
-      "added_at": "2023-01-20 04:30:15",
-      "album": {
         "name": "Wynonna",
         "url": "https://open.spotify.com/album/1Z3psPyYFp0pUA1MupFbLi"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 240706,
       "name": "No One Else On Earth",
       "url": "https://open.spotify.com/track/6Ek2xNsKHwkuYBqvzj20rl"
+    },
+    {
+      "added_at": "2023-01-20 04:30:15",
+      "album": {
+        "name": "I Think About You",
+        "url": "https://open.spotify.com/album/6ngZLbm52ebfzfIxYIybvu"
+      },
+      "artists": [
+        {
+          "name": "Collin Raye",
+          "url": "https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "I Think About You",
+      "url": "https://open.spotify.com/track/31zLkaElQKtj8hDigVB31n"
     },
     {
       "added_at": "2023-01-20 04:30:15",

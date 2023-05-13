@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 181080,
       "name": "Esa Flaca",
       "url": "https://open.spotify.com/track/2e0EnlrAtFtzo4q91sR38G"
@@ -2019,6 +2019,24 @@
     },
     {
       "album": {
+        "name": "La Receta",
+        "url": "https://open.spotify.com/album/2KcbwgVZYmXv6Zh0hpY12y"
+      },
+      "artists": [
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175733,
+      "name": "La Receta",
+      "url": "https://open.spotify.com/track/5F9UDD7ZNbmyRFYyb4qF2z"
+    },
+    {
+      "album": {
         "name": "Bonito que Canta",
         "url": "https://open.spotify.com/album/0cFDDmABXYhxZygOjOFwSr"
       },
@@ -2174,7 +2192,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 190173,
       "name": "Loiza",
       "url": "https://open.spotify.com/track/6iJa6ly8IIwuOzoOZtnXfw"
@@ -2684,6 +2702,28 @@
       "duration_ms": 153269,
       "name": "Nena",
       "url": "https://open.spotify.com/track/4fWY8QZsAhEF0WeI20QhMj"
+    },
+    {
+      "album": {
+        "name": "NO AZARA",
+        "url": "https://open.spotify.com/album/6HbbphcRcKCbvbO6XHppND"
+      },
+      "artists": [
+        {
+          "name": "Dawer X Damper",
+          "url": "https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY"
+        },
+        {
+          "name": "La Dame Blanche",
+          "url": "https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149167,
+      "name": "NO AZARA",
+      "url": "https://open.spotify.com/track/6ZN6U9DZFVaquehTHGGag5"
     },
     {
       "album": {

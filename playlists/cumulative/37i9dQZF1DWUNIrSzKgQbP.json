@@ -2065,6 +2065,24 @@
     },
     {
       "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/7kPbGx2SpdAATE9m3WX3Bo"
+      },
+      "artists": [
+        {
+          "name": "Will Paquin",
+          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164339,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/1V5y0xMb0syKomJH0jSLdf"
+    },
+    {
+      "album": {
         "name": "Fall Indie",
         "url": "https://open.spotify.com/album/7aRCVy4mQ9RHle8Kw6EBfH"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Throw it back to the biggest, best hits of the 2000's.",
-  "num_followers": 1369704,
+  "num_followers": 1370032,
   "original_name": "Throwback Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzVkZWMyYTk3YzdiNzE2MWIzNTZkZGYwMjQwMDhiZDZlNzkxYzMz",
+  "snapshot_id": "MCxmMzQ3NDBjYjMzZTM4MjNhOTE3ZGVhNjJjYTVjMGRiZjk4NDViOGI3",
   "tracks": [
     {
       "added_at": "2022-12-29 05:39:02",
@@ -931,22 +931,18 @@
     {
       "added_at": "2022-12-29 05:39:02",
       "album": {
-        "name": "Pain Is Love",
-        "url": "https://open.spotify.com/album/2wMavIKnu6feFNOeQ1hVwf"
+        "name": "Paper Trail",
+        "url": "https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC"
       },
       "artists": [
         {
-          "name": "Ja Rule",
-          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
-        },
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
         }
       ],
-      "duration_ms": 245133,
-      "name": "Always On Time",
-      "url": "https://open.spotify.com/track/4hrae8atte6cRlSC9a7VCO"
+      "duration_ms": 249533,
+      "name": "Whatever You Like",
+      "url": "https://open.spotify.com/track/1IAzD1muglOxOcPbUHs70R"
     },
     {
       "added_at": "2022-12-29 05:39:02",
@@ -963,22 +959,6 @@
       "duration_ms": 228240,
       "name": "Hot In Herre",
       "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
-    },
-    {
-      "added_at": "2022-12-29 05:39:02",
-      "album": {
-        "name": "Paper Trail",
-        "url": "https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC"
-      },
-      "artists": [
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        }
-      ],
-      "duration_ms": 249533,
-      "name": "Whatever You Like",
-      "url": "https://open.spotify.com/track/1IAzD1muglOxOcPbUHs70R"
     },
     {
       "added_at": "2022-12-29 05:39:02",
@@ -1163,22 +1143,6 @@
     {
       "added_at": "2022-12-29 05:39:02",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 236093,
-      "name": "Run the World (Girls)",
-      "url": "https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0"
-    },
-    {
-      "added_at": "2022-12-29 05:39:02",
-      "album": {
         "name": "Tomorrow",
         "url": "https://open.spotify.com/album/33YSJfsBkjN3yqcq18bdRi"
       },
@@ -1195,22 +1159,6 @@
     {
       "added_at": "2022-12-29 05:39:02",
       "album": {
-        "name": "Speakerboxxx/The Love Below",
-        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 369573,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb"
-    },
-    {
-      "added_at": "2022-12-29 05:39:02",
-      "album": {
         "name": "The Writing's On The Wall",
         "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
       },
@@ -1223,6 +1171,38 @@
       "duration_ms": 230200,
       "name": "Jumpin', Jumpin'",
       "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
+    },
+    {
+      "added_at": "2022-12-29 05:39:02",
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 236093,
+      "name": "Run the World (Girls)",
+      "url": "https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0"
+    },
+    {
+      "added_at": "2022-12-29 05:39:02",
+      "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 369573,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb"
     },
     {
       "added_at": "2022-12-29 05:39:02",
@@ -1327,26 +1307,34 @@
     {
       "added_at": "2022-12-29 05:39:02",
       "album": {
-        "name": "Free Wired",
-        "url": "https://open.spotify.com/album/1TuKgkCGIxiIns9Bc5XKRC"
+        "name": "Kevin Lyttle (US Domestic Release)",
+        "url": "https://open.spotify.com/album/0OWwtYwEZFMquSeHGNv3cw"
       },
       "artists": [
         {
-          "name": "Far East Movement",
-          "url": "https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq"
-        },
-        {
-          "name": "The Cataracs",
-          "url": "https://open.spotify.com/artist/7C64wNX3howEFZjAYRKsfP"
-        },
-        {
-          "name": "DEV",
-          "url": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
+          "name": "Kevin Lyttle",
+          "url": "https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba"
         }
       ],
-      "duration_ms": 216893,
-      "name": "Like A G6",
-      "url": "https://open.spotify.com/track/4DvhkX2ic4zWkQeWMwQ2qf"
+      "duration_ms": 192106,
+      "name": "Turn Me On",
+      "url": "https://open.spotify.com/track/0BBOLOV5JntPL3341swIre"
+    },
+    {
+      "added_at": "2022-12-29 05:39:02",
+      "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi"
     }
   ],
   "unique_name": "Throwback Workout",

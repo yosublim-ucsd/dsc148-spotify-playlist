@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The hottest tunes in rock. Crank it up! Cover: grandson",
+  "description": "The hottest tunes in rock. Crank it up! Cover: Thirty Seconds To Mars",
   "name": "Rock Your Block",
   "tracks": [
     {
@@ -86,7 +86,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 136508,
       "name": "5,6,7,8 (feat. girlfriends)",
       "url": "https://open.spotify.com/track/6YAngZqMTJyorUHoeOpaqy"
@@ -2638,6 +2638,24 @@
       "duration_ms": 159096,
       "name": "emo girl (feat. WILLOW)",
       "url": "https://open.spotify.com/track/2AAyBZmMVZSZfgzXRYJOWQ"
+    },
+    {
+      "album": {
+        "name": "Emotion Sickness",
+        "url": "https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271076,
+      "name": "Emotion Sickness",
+      "url": "https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa"
     },
     {
       "album": {
@@ -7129,6 +7147,24 @@
     },
     {
       "album": {
+        "name": "omg",
+        "url": "https://open.spotify.com/album/3EjgHtmVkvOdn2OM5vAOQm"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154590,
+      "name": "omg",
+      "url": "https://open.spotify.com/track/4wQlMwDDOxTY91kk5B7Y77"
+    },
+    {
+      "album": {
         "name": "One By One",
         "url": "https://open.spotify.com/album/0aiVSysWw5WGJx5ufv6k9H"
       },
@@ -7318,6 +7354,24 @@
       "duration_ms": 210939,
       "name": "Out Of Nowhere",
       "url": "https://open.spotify.com/track/1sUNporSfAID4Cwz413eLj"
+    },
+    {
+      "album": {
+        "name": "Overcome",
+        "url": "https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214723,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
     },
     {
       "album": {
@@ -9239,6 +9293,24 @@
     },
     {
       "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182746,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S"
+    },
+    {
+      "album": {
         "name": "StuckintheMiddle",
         "url": "https://open.spotify.com/album/2lVvUZidTV6naaGRy7E2WT"
       },
@@ -11046,7 +11118,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 198798,
       "name": "Welcome to the DCC",
       "url": "https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK"

@@ -203,6 +203,28 @@
     },
     {
       "album": {
+        "name": "Anemouhagh",
+        "url": "https://open.spotify.com/album/663ElbBp2yIaQQZXoU3Ajy"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        },
+        {
+          "name": "Fats Kaplin",
+          "url": "https://open.spotify.com/artist/5AzDLOaBZOw8YvHyMuGt69"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224586,
+      "name": "Anemouhagh",
+      "url": "https://open.spotify.com/track/6Yk0t2210xFtLnUl0hkYDp"
+    },
+    {
+      "album": {
         "name": "Angel In The Alleyways",
         "url": "https://open.spotify.com/album/0dDD5xoKda8099F4wTuByT"
       },
@@ -2453,6 +2475,28 @@
     },
     {
       "album": {
+        "name": "Last Time",
+        "url": "https://open.spotify.com/album/7d1zgjgQZO89I2ffcHpVze"
+      },
+      "artists": [
+        {
+          "name": "Bob Corritore",
+          "url": "https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH"
+        },
+        {
+          "name": "Jimmy Rogers",
+          "url": "https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151919,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/5y0qdBH20kqP3xCWP2UmQt"
+    },
+    {
+      "album": {
         "name": "Leave Me Alone",
         "url": "https://open.spotify.com/album/2sqbgimLbrq5LXYGktcECB"
       },
@@ -4132,7 +4176,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 212386,
       "name": "Tenere Den",
       "url": "https://open.spotify.com/track/7ytOQ3MLqno1gpctggPRTU"
@@ -5118,7 +5162,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 166975,
       "name": "You're Gonna Be Sorry",
       "url": "https://open.spotify.com/track/66lsfUDfroN998Sau6OkIp"

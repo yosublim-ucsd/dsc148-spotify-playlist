@@ -1,12 +1,12 @@
 {
   "description": "The best new dance & electronic by independent artists and labels. Cover: SKALA. Artwork by Rewina Beshue. Updates every Wednesday.",
-  "num_followers": 148361,
+  "num_followers": 148440,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTgwZTRmOTU3Y2NlNTEzNzJkMzdkZWRiYzI5ZTE5YTM3ZTI3OGJh",
+  "snapshot_id": "MCxhMzFjZGEzMGMxZTcxM2VhZDk2ZjM5OTU5OTVhOTllZTNhMzRlOWYy",
   "tracks": [
     {
       "added_at": "2023-05-10 04:00:00",
@@ -592,12 +592,12 @@
       },
       "artists": [
         {
-          "name": "Sonambient",
-          "url": "https://open.spotify.com/artist/6kWBanEb3KNwDZ0ubLY4Yn"
-        },
-        {
           "name": "Plato",
           "url": "https://open.spotify.com/artist/4mvTxzyBjXb0ml6xxlhfDQ"
+        },
+        {
+          "name": "Sonambient",
+          "url": "https://open.spotify.com/artist/6kWBanEb3KNwDZ0ubLY4Yn"
         }
       ],
       "duration_ms": 288000,

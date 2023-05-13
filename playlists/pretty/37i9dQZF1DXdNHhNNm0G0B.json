@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sounds of acoustic blues and folk.",
-  "num_followers": 70745,
+  "num_followers": 70767,
   "original_name": "Rockin' Chair Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWNlMTc0YTljMzM4MDcyN2Y5OGYzYTUzOTBmNmFjZTljODdjNTk0",
+  "snapshot_id": "MCwyMzRlNDhiNzk0NWJmMzQyNTAxM2E3NGVlZWMzMDQ5ZGZlNWY0NmVl",
   "tracks": [
     {
       "added_at": "2023-04-07 00:01:00",
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ"
     },
     {
-      "added_at": "2023-05-12 01:25:41",
+      "added_at": "2023-05-13 01:35:19",
       "album": {
         "name": "Blues Jumped a Rabbit",
         "url": "https://open.spotify.com/album/5cOjiagbLZqw85RJNk8lQ4"
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Jesus I'm a Sinner",
-        "url": "https://open.spotify.com/album/398IZHABZSTKg102AxTtTO"
-      },
-      "artists": [
-        {
-          "name": "Daniel Bachman",
-          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
-        }
-      ],
-      "duration_ms": 412581,
-      "name": "Sarah Anne",
-      "url": "https://open.spotify.com/track/6G6eM490aDeluKpsDeCLyb"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Fountain",
         "url": "https://open.spotify.com/album/5rYIynWlr7cv7AXi1pPJy7"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 303946,
       "name": "Natural West",
       "url": "https://open.spotify.com/track/59eoAFWBywElrjWlUfsCCM"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "Jesus I'm a Sinner",
+        "url": "https://open.spotify.com/album/398IZHABZSTKg102AxTtTO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bachman",
+          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+        }
+      ],
+      "duration_ms": 412581,
+      "name": "Sarah Anne",
+      "url": "https://open.spotify.com/track/6G6eM490aDeluKpsDeCLyb"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1055,22 +1055,18 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Brother Johnny",
-        "url": "https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa"
+        "name": "Bootleg USA",
+        "url": "https://open.spotify.com/album/4WvjLRuyca7wsn1ab6cz7p"
       },
       "artists": [
         {
-          "name": "Edgar Winter",
-          "url": "https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk"
-        },
-        {
-          "name": "Doyle Bramhall II",
-          "url": "https://open.spotify.com/artist/7Chzu4eSaqDHFXFvjaycAV"
+          "name": "Martin Simpson",
+          "url": "https://open.spotify.com/artist/5nUScDmyGIvoX7ol79YnBQ"
         }
       ],
-      "duration_ms": 232426,
-      "name": "When You Got a Good Friend",
-      "url": "https://open.spotify.com/track/1NPWchV6p9SBsGEVTqoFyc"
+      "duration_ms": 339320,
+      "name": "Plains of Waterloo / James Connolly",
+      "url": "https://open.spotify.com/track/6I1z2fe4YlpWsuaR0X1RSy"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1091,18 +1087,22 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Bootleg USA",
-        "url": "https://open.spotify.com/album/4WvjLRuyca7wsn1ab6cz7p"
+        "name": "Brother Johnny",
+        "url": "https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa"
       },
       "artists": [
         {
-          "name": "Martin Simpson",
-          "url": "https://open.spotify.com/artist/5nUScDmyGIvoX7ol79YnBQ"
+          "name": "Edgar Winter",
+          "url": "https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk"
+        },
+        {
+          "name": "Doyle Bramhall II",
+          "url": "https://open.spotify.com/artist/7Chzu4eSaqDHFXFvjaycAV"
         }
       ],
-      "duration_ms": 339320,
-      "name": "Plains of Waterloo / James Connolly",
-      "url": "https://open.spotify.com/track/6I1z2fe4YlpWsuaR0X1RSy"
+      "duration_ms": 232426,
+      "name": "When You Got a Good Friend",
+      "url": "https://open.spotify.com/track/1NPWchV6p9SBsGEVTqoFyc"
     },
     {
       "added_at": "2023-04-07 00:01:00",

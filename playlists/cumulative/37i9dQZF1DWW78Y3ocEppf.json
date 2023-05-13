@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "Let the songs speak. Cover: Reggie Becton",
+  "description": "Let the songs speak. Cover: Layton Greene",
   "name": "Some Kinda Way",
   "tracks": [
     {
@@ -534,7 +534,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 178000,
       "name": "Awkward",
       "url": "https://open.spotify.com/track/2xZ0zfuDTv5LxLhEgD82PG"
@@ -2004,7 +2004,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 189462,
       "name": "DO 4 LOVE",
       "url": "https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS"
@@ -3086,7 +3086,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-07",
+      "date_removed": null,
       "duration_ms": 145609,
       "name": "Glowin 4 Me",
       "url": "https://open.spotify.com/track/5jI8xKMCIEToPXuXdFCoFJ"
@@ -3780,6 +3780,28 @@
       "duration_ms": 221441,
       "name": "I Been",
       "url": "https://open.spotify.com/track/4elUB6bs5rrPbqlajs1oYp"
+    },
+    {
+      "album": {
+        "name": "Big Boss",
+        "url": "https://open.spotify.com/album/0ZLuL6c8Kr4Vx2XTsWzTzQ"
+      },
+      "artists": [
+        {
+          "name": "Keke Palmer",
+          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
+        },
+        {
+          "name": "Lxrd Rossi",
+          "url": "https://open.spotify.com/artist/10a1pn8WLc7Ek2uoy3s4JQ"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245022,
+      "name": "I Care",
+      "url": "https://open.spotify.com/track/0YWmIEuPAIp8vezxX1m1Z3"
     },
     {
       "album": {
@@ -4678,7 +4700,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 206002,
       "name": "Lethal Weapon (feat. Gemaine)",
       "url": "https://open.spotify.com/track/6fN1VPY1mndv67dhGXbJWc"
@@ -5430,7 +5452,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 149020,
       "name": "New Nigga",
       "url": "https://open.spotify.com/track/03sBdwtbA0t5mGOcqHxBXB"
@@ -6246,7 +6268,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 164163,
       "name": "pieces",
       "url": "https://open.spotify.com/track/2o9aMaRxK62Nw8KdONNoZU"
@@ -6532,7 +6554,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 230841,
       "name": "Queen Space (with Summer Walker)",
       "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
@@ -6890,7 +6912,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 158661,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5"
@@ -7519,6 +7541,24 @@
     },
     {
       "album": {
+        "name": "Spin Again",
+        "url": "https://open.spotify.com/album/4gZVLOdSn4kqeJ8fInPZdh"
+      },
+      "artists": [
+        {
+          "name": "Layton Greene",
+          "url": "https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248872,
+      "name": "Spin Again",
+      "url": "https://open.spotify.com/track/6HiEe3hSKazKZOscOZjcyN"
+    },
+    {
+      "album": {
         "name": "Spin the Block",
         "url": "https://open.spotify.com/album/2eco2tXEVHu9oaI1uwxCYC"
       },
@@ -7574,7 +7614,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 186294,
       "name": "Standards",
       "url": "https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe"
@@ -7728,7 +7768,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 219500,
       "name": "Strip for You (feat. Vedo)",
       "url": "https://open.spotify.com/track/5KyaW4SQOARjggwgcSvcrI"
@@ -8488,7 +8528,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 168000,
       "name": "uni",
       "url": "https://open.spotify.com/track/3zMZ4ymzVVzRCFpcKpBM6M"
@@ -9294,7 +9334,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 230906,
       "name": "You Never Visit Me - Single Version",
       "url": "https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd"

@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Xdinary Heroes\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Kim Dong Ryul\(김동률\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-474 songs - 1 day 5 hr 10 min
+475 songs - 1 day 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,11 +134,12 @@
 | [From You](https://open.spotify.com/track/34qvU10EU2RsoBRX5qYlpb) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Alice \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/1pmEVARxxmA6polrjOqREk) | 3:47 | 2022-04-22 | 2022-07-16 |
 | [Fuckers Are Everywhere](https://open.spotify.com/track/6UgjTJdHdoMT5hOr9nF10G) | [Deadbuttons](https://open.spotify.com/artist/1QOnYPjbIcHGpBetj5Szfb) | [Fuckers Are Everywhere](https://open.spotify.com/album/1fPsgAQLSulmieALAGythC) | 2:55 | 2022-05-03 | 2022-07-14 |
 | [Girls](https://open.spotify.com/track/0jRA23cPBShrFIXPGfegQC) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Seoul Check\-in OST Part 1](https://open.spotify.com/album/1lQLjWafvbyoQ9XUmAZI2L) | 4:36 | 2022-04-22 | 2022-07-09 |
-| [Go](https://open.spotify.com/track/51W0tWQB56AvnLhIauJuSc) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Record of Youth \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/6PCVAO4BRutldPc7WjbkLU) | 3:33 | 2022-07-22 | 2022-10-21 |
+| [Go](https://open.spotify.com/track/51W0tWQB56AvnLhIauJuSc) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Record of Youth \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/6PCVAO4BRutldPc7WjbkLU) | 3:33 | 2022-07-22 |  |
 | [Go Fast \(KARTRIDER X LINE FRIENDS \[Original Game Soundtrack\], Pt\. 3\)](https://open.spotify.com/track/3YPSH6gOsnEZgItxaLDSAL) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB), [KimYeji](https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9) | [Go Fast \(KARTRIDER X LINE FRIENDS \[Original Game Soundtrack\], Pt\. 3\)](https://open.spotify.com/album/3DfLxv8m65MF99PDCpqlUa) | 2:53 | 2022-05-03 | 2022-06-13 |
 | [Go!](https://open.spotify.com/track/4hzeoIOERTL4jdTXAQ0FWr) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Twenty\-Five Twenty\-One OST Part 5](https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR) | 3:29 | 2022-05-24 | 2023-04-06 |
 | [GO!DO!RIGHT!](https://open.spotify.com/track/6e9W7Eo6I34JgJW5ZiXz26) | [O.O.O](https://open.spotify.com/artist/0YMpM4y1fUUHhBLFnYVOaD) | [BLUE](https://open.spotify.com/album/3ZPTjzyy3cmbKp8lLT2SNi) | 4:02 | 2022-08-12 | 2022-08-19 |
 | [Going On](https://open.spotify.com/track/05hmP7we4C8bf4DLcrcxeo) | [PAGO](https://open.spotify.com/artist/3M4zeC84P7onkK1PsrI1cE) | [Going On](https://open.spotify.com/album/0VGsRsvO6Cdi5C8qA7A2Kz) | 4:22 | 2022-04-22 | 2022-05-11 |
+| [Golden Mask](https://open.spotify.com/track/4g7Up38eOByMRnGX6SiHw5) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [Golden Mask](https://open.spotify.com/album/2mxkNX39Eoi2NSX7B67xVe) | 4:01 | 2023-05-12 |  |
 | [GOOD BAM](https://open.spotify.com/track/2iODlZgbroRzdfuxmFfPiH) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [YAHO](https://open.spotify.com/album/54lrjzd3nWqD8JxSERPlBN) | 3:30 | 2022-04-22 | 2022-07-20 |
 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 | 2022-07-08 |  |
 | [Green](https://open.spotify.com/track/7KTwml8vIRLGZKBe1YWv6J) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [can't](https://open.spotify.com/album/5XKIoRiJI9U2NXBOB7nhjI) | 4:02 | 2022-04-22 | 2022-06-15 |
@@ -213,7 +214,7 @@
 | [Let's go home](https://open.spotify.com/track/7J00hW1bd6Zp3wykjQCP8M) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [I'm](https://open.spotify.com/album/085XU5PQYl7eUA97BkkE8Z) | 3:45 | 2022-04-12 | 2022-07-21 |
 | [Let's stay away \(Feat\. AQUINAS\) \(Prod\. Lilkey\)](https://open.spotify.com/track/6k0ApE2WFw3nV1xQrtIZp1) | [seizetheday](https://open.spotify.com/artist/4QOj43HDq0domGAuo3naZB), [Lilkey](https://open.spotify.com/artist/7p4j1maf48LtHY0NnAKBj4), [AQUINAS](https://open.spotify.com/artist/6icWxBzgVFQXsLJN8uIzCR) | [Let's stay away \(Feat\. AQUINAS\) \(Prod\. Lilkey\)](https://open.spotify.com/album/5Ixd8BpltXP3GiVjwu45KV) | 3:07 | 2023-01-14 | 2023-01-26 |
 | [Letter](https://open.spotify.com/track/5eQpbcCvsnvmp58ph8mOa1) | [Purple Rain](https://open.spotify.com/artist/4Myaw7YiDO14r4JhxeXIiL) | [Letter](https://open.spotify.com/album/3JnckYCOtlr4EmxYoXA7um) | 3:51 | 2022-06-09 | 2022-06-14 |
-| [Let’s Love](https://open.spotify.com/track/0wk4GYAryLcXEMvfhzU1bv) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Self\-Portrait \- The 1st Mini Album](https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1) | 3:49 | 2022-04-22 | 2023-05-08 |
+| [Let’s Love](https://open.spotify.com/track/0wk4GYAryLcXEMvfhzU1bv) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Self\-Portrait \- The 1st Mini Album](https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1) | 3:49 | 2022-04-22 |  |
 | [Let′s Get it](https://open.spotify.com/track/2w1jsbgkgR6aeg56H2AHSW) | [sEODo](https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX) | [Royal Secret Inspector and Joy, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4UXcY00wGw2ZHMHHXzmyRN) | 3:14 | 2022-04-21 | 2022-04-23 |
 | [Life](https://open.spotify.com/track/2oxxGEfr7uciElfiDo135t) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [CEREMONIA \(Complete Edition\)](https://open.spotify.com/album/2itIZTzeIXjJn7sqReMvQE) | 3:53 | 2022-04-22 | 2022-05-13 |
 | [Life Dancing](https://open.spotify.com/track/1Na51A7s9Fm1ullr4aVG5l) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [Life Dancing](https://open.spotify.com/album/5Hw3PFHxV4GGfMJHZfnVyA) | 3:15 | 2022-04-22 | 2022-07-01 |
@@ -323,7 +324,7 @@
 | [Ring on my Ears](https://open.spotify.com/track/7JvzA81nojfdhki4JFeerm) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [ONE](https://open.spotify.com/album/2VTgzWVmPQRELLVPu4VLFK) | 3:45 | 2022-04-22 | 2022-07-18 |
 | [Roller Coaster](https://open.spotify.com/track/6Y8iUOQbIwQaYzEYs0r9ZV) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Where is my Garden!](https://open.spotify.com/album/5A0G6El208bcSxPfNw0CrR) | 3:03 | 2022-05-11 | 2022-07-25 |
 | [Rolling Rolling](https://open.spotify.com/track/2C0JYaMElHcXV91oOhinzQ) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [BLUE](https://open.spotify.com/album/6E06DFk8k2TG4dycatLnt6) | 4:01 | 2022-04-12 | 2022-07-28 |
-| [Romanticism](https://open.spotify.com/track/6BuBas6u8SShF6OVeFdWlg) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [Narcissus](https://open.spotify.com/album/58nrjxdxUZJOVvLU1uyc6b) | 3:32 | 2023-04-26 |  |
+| [Romanticism](https://open.spotify.com/track/6BuBas6u8SShF6OVeFdWlg) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [Narcissus](https://open.spotify.com/album/58nrjxdxUZJOVvLU1uyc6b) | 3:32 | 2023-04-26 | 2023-05-13 |
 | [Rooftop](https://open.spotify.com/track/2LwH6T39A5IODRgPv9XitR) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [FLY HIGH PROJECT \#2 'Rooftop'](https://open.spotify.com/album/6UGXwkMNagPJ3jhSMTv4V5) | 3:30 | 2022-04-12 |  |
 | [Run](https://open.spotify.com/track/4SQw5cHoDxfoSTtaXgaG86) | [밴드기린](https://open.spotify.com/artist/1eIXaK6EOhmMncTZ2L1SWG) | [Run](https://open.spotify.com/album/7McA98esvLlvWfNOnCmfqd) | 3:52 | 2023-04-07 | 2023-04-27 |
 | [Run Away](https://open.spotify.com/track/0PAU08erz7NJwpgDSDOfsE) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Run Away](https://open.spotify.com/album/7fBkBBzXwB9qyXYsYpNFGx) | 3:24 | 2022-06-09 | 2022-07-27 |
@@ -357,7 +358,7 @@
 | [sorry](https://open.spotify.com/track/54SuHqxVjZVNDyIUVpSgpJ) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Void](https://open.spotify.com/album/0HIDsIWC43WiecL3qO7IUP) | 3:35 | 2022-04-12 | 2022-07-22 |
 | [sorry](https://open.spotify.com/track/2mqN6WJawRJzT2X9T5bdYV) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Void](https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk) | 3:35 | 2023-01-06 |  |
 | [Sorry](https://open.spotify.com/track/7zmrZMinkTMJ2kZgM9Kqgp) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Sorry](https://open.spotify.com/album/6D48tHXsa6LzoViDIACdkt) | 3:35 | 2022-07-22 | 2023-01-04 |
-| [SOS](https://open.spotify.com/track/6KLyguge9Zz70BXzXUDZGy) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [SOS](https://open.spotify.com/album/7mvXcE4O6cXegKk52405G4) | 3:38 | 2023-04-26 |  |
+| [SOS](https://open.spotify.com/track/6KLyguge9Zz70BXzXUDZGy) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [SOS](https://open.spotify.com/album/7mvXcE4O6cXegKk52405G4) | 3:38 | 2023-04-26 | 2023-05-13 |
 | [Sound](https://open.spotify.com/track/3NXq3EZ1dcIN0y2gZTqZXq) | [GOMCHI](https://open.spotify.com/artist/7uA35iZSc9vZLATSFqCRua) | [TRUE STORY](https://open.spotify.com/album/4dwceGQaqejgtkZ5hbkcbG) | 4:31 | 2022-06-03 | 2022-06-26 |
 | [Sour](https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [HEAL](https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW) | 3:20 | 2022-10-07 |  |
 | [Sour](https://open.spotify.com/track/6Ji1Ucu9oFMkRawhEe8a16) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [HEAL](https://open.spotify.com/album/2jmok4chNxn00UBs3gj1xF) | 3:20 | 2022-10-07 | 2022-10-13 |
@@ -475,7 +476,7 @@
 | [마네킨 Mannequin](https://open.spotify.com/track/2jZl3rjxP3BcouBIEd4XS2) | [The ASIANIC](https://open.spotify.com/artist/7hrYxrbbaa7TtlKqg9iruF) | [마네킨 Mannequin](https://open.spotify.com/album/2xuc8x41OZSjTeP255pqdv) | 3:40 | 2023-01-10 | 2023-01-26 |
 | [밤이 깊었네 Oh! What a Shiny Night \(25th Anniv\. Ver.\)](https://open.spotify.com/track/0sY4hsa7Xd3I4dUNho8tti) | [Crying Nut](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [밤이 깊었네 Oh! What a Shiny Night \(25th Anniv\. Ver.\)](https://open.spotify.com/album/6LK325AvLUydBNuhnPUsDG) | 4:15 | 2022-06-09 | 2022-07-03 |
 | [불꽃놀이](https://open.spotify.com/track/6s4CfimDTNqCWAkTCgYmRD) | [Lim Jae Bum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Seven,\(세븐 콤마\) <빛을 따라서...>](https://open.spotify.com/album/7lqABGolJepJu86N1WRo9T) | 4:05 | 2022-08-12 | 2022-08-19 |
-| [사랑은 먼지 같아도](https://open.spotify.com/track/2wkREQBFKKJwTBQSDLX6cE) | [JUROKEY](https://open.spotify.com/artist/59TnLHZJYHwrk51oo4bbVC) | [그냥](https://open.spotify.com/album/1flU2TXdMjvTwsGnJxKcHN) | 3:20 | 2023-04-26 |  |
+| [사랑은 먼지 같아도](https://open.spotify.com/track/2wkREQBFKKJwTBQSDLX6cE) | [JUROKEY](https://open.spotify.com/artist/59TnLHZJYHwrk51oo4bbVC) | [그냥](https://open.spotify.com/album/1flU2TXdMjvTwsGnJxKcHN) | 3:20 | 2023-04-26 | 2023-05-13 |
 | [생각없는생각에털썩머무르자 Mindless mind](https://open.spotify.com/track/5oKr4zxLZxe4rNj2SrzWYR) | [Jisokury](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [생각없는생각에털썩머무르자 Mindless mind](https://open.spotify.com/album/7lGC2tpIRttYuRWGazMQP2) | 4:15 | 2022-10-02 | 2022-10-19 |
 | [세션맨](https://open.spotify.com/track/17Zyp5evNDU8i3A21bX7ii) | [AMHO](https://open.spotify.com/artist/5HletaYAQGurTXlY0WfFHs) | [SESSION MAN](https://open.spotify.com/album/4uVMcFU1GiebB352eAsI6p) | 3:42 | 2023-01-26 | 2023-02-15 |
 | [시작](https://open.spotify.com/track/4kIpBfvK44bxqX7zo8K1oP) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/4AgCiUejVvU6729YAJwRH9) | 3:22 | 2022-07-22 | 2023-04-06 |

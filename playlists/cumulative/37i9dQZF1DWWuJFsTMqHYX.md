@@ -4,7 +4,7 @@
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-86 songs - 6 hr 26 min
+87 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Tamiditine](https://open.spotify.com/track/2st24VONuY9hqiGAPkhyua) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 4:39 | 2022-03-07 |  |
 | [Taragalte](https://open.spotify.com/track/0g9YOykbhG0jhDW2m4Y3w8) | [Oum](https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f) | [Soul of Morocco](https://open.spotify.com/album/1C00IcQUmLjluDOZjgxUM5) | 7:12 | 2022-03-07 |  |
 | [Tarha Tadagh](https://open.spotify.com/track/2LQwuRI1h4Q4qk4HzK9zE2) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Imarhan](https://open.spotify.com/album/2aLKNhNF3szhUQY3AJoGgL) | 3:06 | 2022-03-07 |  |
-| [Taxi Brousse](https://open.spotify.com/track/2IqeH9eUGHoK9HNgdirYZL) | [Rajery](https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Driss El Maloumi](https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB) | [3MA](https://open.spotify.com/album/5RfLcVTzv6SciIwGyQfnK6) | 1:28 | 2023-03-23 |  |
+| [Taxi Brousse](https://open.spotify.com/track/2IqeH9eUGHoK9HNgdirYZL) | [Rajery](https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Driss El Maloumi](https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB) | [3MA](https://open.spotify.com/album/5RfLcVTzv6SciIwGyQfnK6) | 1:28 | 2023-03-23 | 2023-05-13 |
+| [Tazidert](https://open.spotify.com/track/28KVcCkqUTaMyAS132L2jC) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Tazidert](https://open.spotify.com/album/2UKhdMdLW0DzHIs36zTaHu) | 4:56 | 2023-05-12 |  |
 | [Timtar \(Memories\)](https://open.spotify.com/track/5TT9Gy9rToJrKcOepuWN47) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Azel](https://open.spotify.com/album/1qgTFlnlo0dMsx27C9BMGw) | 4:53 | 2022-03-07 | 2022-07-29 |
 | [Tisnant an Chatma](https://open.spotify.com/track/32ORiXJSpjsxEBh53n03U4) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Chatma](https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU) | 4:50 | 2022-03-07 |  |
 | [Tiwàyyen](https://open.spotify.com/track/30A3vEsySPkeXzXeMITvwE) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Elwan](https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE) | 3:44 | 2022-09-01 | 2022-10-26 |

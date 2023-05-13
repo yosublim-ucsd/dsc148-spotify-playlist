@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres que la rompen feat\. Eruca Sativa.<br/>Dales play, dales power.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,604 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,834 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 12 | [El Próximo Verano](https://open.spotify.com/track/5wnRZoCrnjF3Nqb9ZrSbqt) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [El Próximo Verano](https://open.spotify.com/album/48IfeqDJcdA6ce5fxZ0oIv) | 4:29 |
 | 13 | [Pulso](https://open.spotify.com/track/4y90PJFul4Mcv17dB7Gz1U) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Pulso](https://open.spotify.com/album/4iKFJ6kNQ83QEsK6HsVoDV) | 2:26 |
 | 14 | [24/7](https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [24/7](https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw) | 2:13 |
-| 15 | [Bolero](https://open.spotify.com/track/3yz96oTI0rHUaXruFziWBS) | [Lesbiandrama](https://open.spotify.com/artist/0LZwj8XbxIwTjaDX478RXl), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Lesbiandrama](https://open.spotify.com/album/2oY9USTDYbnQtcy5bRa2DR) | 4:03 |
-| 16 | [Del Amor el Helado](https://open.spotify.com/track/6xVQpm9hI7692sWxl6EaEt) | [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR) | [Cayó el Valiente](https://open.spotify.com/album/6N4ZiLKW6mQ9jPmwjxj2rd) | 3:19 |
+| 15 | [Del Amor el Helado](https://open.spotify.com/track/6xVQpm9hI7692sWxl6EaEt) | [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR) | [Cayó el Valiente](https://open.spotify.com/album/6N4ZiLKW6mQ9jPmwjxj2rd) | 3:19 |
+| 16 | [Bolero](https://open.spotify.com/track/3yz96oTI0rHUaXruFziWBS) | [Lesbiandrama](https://open.spotify.com/artist/0LZwj8XbxIwTjaDX478RXl), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Lesbiandrama](https://open.spotify.com/album/2oY9USTDYbnQtcy5bRa2DR) | 4:03 |
 | 17 | [NO ESTÁ EN EL SISTEMA](https://open.spotify.com/track/2ofro0kd49m5OkKDAkxWCP) | [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [UN NÚMERO](https://open.spotify.com/album/5q6ysT1TcmswkV4c86d2bI) | 1:12 |
 | 18 | [El Imán](https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Como Bailan los Demás](https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF) | 4:03 |
 | 19 | [Suponte](https://open.spotify.com/track/1SeOc1M9lJzUFwYKnXIRUy) | [Noelia Recalde](https://open.spotify.com/artist/26O45xhjbZjSY8vubvACRv) | [Mi Propia Casa](https://open.spotify.com/album/6fk7OdqM6ToImBSso5tCdx) | 2:29 |
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 21 | [El Valle Encantado](https://open.spotify.com/track/2nHMuo3mqEOePjLlIz1PhQ) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [El Valle Encantado](https://open.spotify.com/album/7zpoL3fDPFbGYB7XdbSl1S) | 2:17 |
 | 22 | [Mágica Intuición](https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Mágica Intuición](https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE) | 3:10 |
 | 23 | [Solomias](https://open.spotify.com/track/4lIocFgnBIEuugfXHTlq0h) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [Solomias](https://open.spotify.com/album/06cawtPKkwWUdt30hgfoIf) | 2:05 |
-| 24 | [La Bruma](https://open.spotify.com/track/1JygNtvlAa6fBtw9IpchCG) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [La Bruma](https://open.spotify.com/album/1oMTBKKuzfzwad6M3tRTcp) | 2:53 |
-| 25 | [En la arena](https://open.spotify.com/track/3bjgeWGIREJFpCkSqr206N) | [Los Besos](https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee) | [En la arena](https://open.spotify.com/album/5K5WS0vFNNSHcSYZTmKma4) | 4:49 |
-| 26 | [En Toneles](https://open.spotify.com/track/0AKSlOfNxuM2c3ydqUPYdg) | [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Lucy Patané](https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w) | 4:06 |
+| 24 | [En Toneles](https://open.spotify.com/track/0AKSlOfNxuM2c3ydqUPYdg) | [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Lucy Patané](https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w) | 4:06 |
+| 25 | [La Bruma](https://open.spotify.com/track/1JygNtvlAa6fBtw9IpchCG) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [La Bruma](https://open.spotify.com/album/1oMTBKKuzfzwad6M3tRTcp) | 2:53 |
+| 26 | [En la arena](https://open.spotify.com/track/3bjgeWGIREJFpCkSqr206N) | [Los Besos](https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee) | [En la arena](https://open.spotify.com/album/5K5WS0vFNNSHcSYZTmKma4) | 4:49 |
 | 27 | [Terremoto](https://open.spotify.com/track/50fHlG70LL8olJ2e2kbFLW) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [DUM](https://open.spotify.com/album/2VHHU1Sr4sweqmFJXhk2dS) | 2:43 |
 | 28 | [Descalza](https://open.spotify.com/track/3NN8MirGqlscR6H61hjdm5) | [Spaghetti Western](https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc) | [Living](https://open.spotify.com/album/2h5t04RdpafPVA15JcYiI0) | 3:39 |
 | 29 | [Pensamientos intrusivos](https://open.spotify.com/track/00fA8U2HVDVBHgpfoCXdmE) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [La Fuerza](https://open.spotify.com/album/6Z9DBFIWEnKxGyx0Vgs4ee) | 4:17 |
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 32 | [Agua Dorada](https://open.spotify.com/track/2B4DhBGl6AXwfNvfkIqXF6) | [TRIÁNGULA](https://open.spotify.com/artist/7CZl5RxEVuBnxJEF7QG7cj) | [TRIÁNGULA](https://open.spotify.com/album/4TEmP8W3asA1lPttNx6S90) | 3:46 |
 | 33 | [Tussiclub](https://open.spotify.com/track/5ZF5cxPEpnlEus4rVt7fw5) | [Las Tussi](https://open.spotify.com/artist/5Zc1hvy8HoaA0vymJgcx6Q) | [Jajaquefuerte](https://open.spotify.com/album/686d0bcLnWMQa0DrXx1hPh) | 2:16 |
 | 34 | [Directa](https://open.spotify.com/track/4SuLvV6N2mpxucwiWLJ4oc) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [Gracias por Cuidar el Equipo](https://open.spotify.com/album/4eVPY8ZtGm1KDS8P1RKsCY) | 3:47 |
-| 35 | [Poder](https://open.spotify.com/track/1USbQDLPadvpXrfmm2z6j4) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Correr Adentro](https://open.spotify.com/album/1xFdj2dVA2nIYnYuU0hUuq) | 2:07 |
-| 36 | [Otro Vals](https://open.spotify.com/track/3RhdFQClD67rNdX3MbqpRA) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Otro Vals](https://open.spotify.com/album/4VT3sDnEGPUFkgsy3k5kTm) | 3:42 |
-| 37 | [Flaps](https://open.spotify.com/track/1KulHWqJTFq3tKAXJxDASc) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs) | [FLAPS](https://open.spotify.com/album/5hfIZZICVUZzSVGjSv4fRn) | 3:45 |
-| 38 | [Los Viernes](https://open.spotify.com/track/2VtiabfPpLPA3w3c1Tp92t) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV), [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Los Viernes](https://open.spotify.com/album/4m53CrqQEMLqam0yoBOxDN) | 3:19 |
+| 35 | [Otro Vals](https://open.spotify.com/track/3RhdFQClD67rNdX3MbqpRA) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Otro Vals](https://open.spotify.com/album/4VT3sDnEGPUFkgsy3k5kTm) | 3:42 |
+| 36 | [Los Viernes](https://open.spotify.com/track/2VtiabfPpLPA3w3c1Tp92t) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV), [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Los Viernes](https://open.spotify.com/album/4m53CrqQEMLqam0yoBOxDN) | 3:19 |
+| 37 | [Poder](https://open.spotify.com/track/1USbQDLPadvpXrfmm2z6j4) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Correr Adentro](https://open.spotify.com/album/1xFdj2dVA2nIYnYuU0hUuq) | 2:07 |
+| 38 | [Flaps](https://open.spotify.com/track/1KulHWqJTFq3tKAXJxDASc) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs) | [FLAPS](https://open.spotify.com/album/5hfIZZICVUZzSVGjSv4fRn) | 3:45 |
 | 39 | [La Casa De Tu Mamá](https://open.spotify.com/track/347RGsSgCXlzIlZYb2gEwu) | [Kill Flora](https://open.spotify.com/artist/618OuvXwIUhB0xE7XnCiwe) | [La Casa De Tu Mamá](https://open.spotify.com/album/05SDUU6l3vytYY5Jld0b00) | 3:13 |
 | 40 | [Diré tu nombre](https://open.spotify.com/track/6cf6NHFQPDDhkxQX5j96J8) | [Agua Florida](https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq) | [Diré tu nombre](https://open.spotify.com/album/04ABlbA8bASVGdjfq1aNwr) | 2:59 |
 | 41 | [Éxodo Mental](https://open.spotify.com/track/0kjtwZybKdX5uXK1qCHojD) | [Piba](https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb) | [Éxodo Mental](https://open.spotify.com/album/3m9ywZHKa2Zj2uldZ4s3CO) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [Saturno](https://open.spotify.com/track/62AxB4BpSqAhbBEdcBOrpD) | [Charlie](https://open.spotify.com/artist/2l9jciSGE6MJ4Ez7Tc9ryr) | [Cráneo](https://open.spotify.com/album/0LduVR7QbZX5tsuZ6aEg4c) | 3:20 |
 | 50 | [Uh](https://open.spotify.com/track/0qQM9TJBrvNJu62aaxcYxF) | [Jazmín Mazzuchelli](https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm) | [Uh](https://open.spotify.com/album/08F1JJE42aA2P7mlQjAldU) | 2:36 |
 
-Snapshot ID: `MCxlNTRhNmJhMGY3OGNiMTcxNGQ3OWMxMTY4Y2UyYTIxMzNiMDdmN2Mz`
+Snapshot ID: `MCwxN2U1MjRhNDRmODM5ZmJkODJiOTYwODlhN2U0Y2ZhZDA4Yzk2M2Q3`

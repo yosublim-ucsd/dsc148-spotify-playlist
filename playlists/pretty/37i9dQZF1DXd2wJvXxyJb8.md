@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > compre meu curso e descubra como ir pra renaissance world tour cm apenas 5 reais e 1 sonho
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,050,569 likes - 60 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,051,356 likes - 60 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 3 | [Papin](https://open.spotify.com/track/3khLpwuyIjEOw8vfJ1oUIT) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [MC Caja](https://open.spotify.com/artist/0zyPMXUsjcvUvgWmaRt0bY) | [Tamborzão Raiz](https://open.spotify.com/album/7qwJFRvShWMVg39UKWafzW) | 2:02 |
 | 4 | [Mec Life](https://open.spotify.com/track/5tk0ERnzadzyexVfXA0yed) | [DJ ESCOBAR](https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB) | [Mec Life](https://open.spotify.com/album/0PXiTPSYnO6jU5z3g0MKx4) | 3:15 |
 | 5 | [Lapada Dela \- Ao Vivo](https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Confia \(Ao Vivo\)](https://open.spotify.com/album/4rqK6xBQRRn9jBrHRQ3J2w) | 2:39 |
-| 6 | [QUE EU VOU TE BOTAR](https://open.spotify.com/track/5KeRe32bIOU5rUa2MBzJnW) | [DJ JOÃO PEREIRA](https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt) | [QUE EU VOU TE BOTAR](https://open.spotify.com/album/5fUkvbwQFcdsOHtEd1IkC3) | 2:16 |
+| 6 | [QUE EU VOU TE BOTAR](https://open.spotify.com/track/5KeRe32bIOU5rUa2MBzJnW) | [DJ JOÃO PEREIRA](https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt), [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X), [Menor do Engenho](https://open.spotify.com/artist/48OIkMByRxvJ6bxHrnCwLS) | [QUE EU VOU TE BOTAR](https://open.spotify.com/album/5fUkvbwQFcdsOHtEd1IkC3) | 2:16 |
 | 7 | [085 \- Ao Vivo](https://open.spotify.com/track/7Ht57bh2FwiQLwRH9zqESG) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Pode Crê \(Ao Vivo\)](https://open.spotify.com/album/1RgyCNTHPkg1IxFO0d6bhQ) | 2:43 |
 | 8 | [Conexões de Máfia \(feat\. Rich The Kid\)](https://open.spotify.com/track/3ktTWpYdXrYApH54cBo4Ap) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Conexões de Máfia \(feat\. Rich The Kid\)](https://open.spotify.com/album/54nMZ1uU3fJFROh7jEymzB) | 3:41 |
 | 9 | [Love Gostosinho \- Ao Vivo](https://open.spotify.com/track/2BlFIe0712LBUtTHxbqjme) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [O Fantástico Mundo De Nattan \(Ao Vivo\)](https://open.spotify.com/album/3MsdSA7cGEb95F2IMQUGGJ) | 2:43 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 59 | [No Ouvidinho](https://open.spotify.com/track/4QWumyD2uwiePBBha9XBHI) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [No Ouvidinho](https://open.spotify.com/album/4Ljc7jLwnwltjgugXbGOoq) | 3:03 |
 | 60 | [Balanço da Rede](https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Balanço da Rede](https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP) | 2:46 |
 
-Snapshot ID: `MCw4MTY2NjYzMmViMzYxZjFhMDA0ZTFkOTI3MGExYmIwNmU5ZTMwNzY4`
+Snapshot ID: `MCxhOTI1ZGFjZDQ0MzBkZmMzODhlYjJjZGFlZWE1OGM0ZWM5MjVjMWY3`

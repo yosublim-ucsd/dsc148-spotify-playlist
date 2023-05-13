@@ -636,7 +636,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 202191,
       "name": "ABISSALE",
       "url": "https://open.spotify.com/track/3U8TFdchz8dK1nYYgZgd9f"
@@ -12488,7 +12488,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 196693,
       "name": "Lacrime Di Piombo",
       "url": "https://open.spotify.com/track/5fh7anHZAkkaTzM3tUGkAg"
@@ -13708,6 +13708,32 @@
       "duration_ms": 174360,
       "name": "m%n",
       "url": "https://open.spotify.com/track/1kbngfAC4VUm2Ybrohrmb6"
+    },
+    {
+      "album": {
+        "name": "M' Manc (con Geolier & Sfera Ebbasta)",
+        "url": "https://open.spotify.com/album/4LPEPv5dG2Cu5aceakd1cm"
+      },
+      "artists": [
+        {
+          "name": "Shablo",
+          "url": "https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "M' Manc (con Geolier & Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/0MLu1cFYL4ikdRTdasCQT9"
     },
     {
       "album": {
@@ -18892,7 +18918,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 155862,
       "name": "PIOVE (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou"

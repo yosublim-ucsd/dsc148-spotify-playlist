@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 
 > Deep beats to study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,219 likes - 80 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,270 likes - 80 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 30 | [Arterial](https://open.spotify.com/track/5G67YWTwKKRBkk1EH8aw3S) | [Lusine](https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub) | [Arterial](https://open.spotify.com/album/11IULm1RrL6acmTm3qQzLH) | 4:14 |
 | 31 | [Timid Dancer](https://open.spotify.com/track/6By61fFlJmZ4FjNTbc0Z5w) | [Coeo](https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z) | [Closer](https://open.spotify.com/album/0UMTI5aZGLWvKF68r9jQ0I) | 6:56 |
 | 32 | [Rebirth](https://open.spotify.com/track/4CMOzNttliw41slRLQY6kL) | [A Forest Mighty Black](https://open.spotify.com/artist/4zPCP1wMTDpEWsMWtMvPv5) | [Mellowdramatic](https://open.spotify.com/album/7p4K6P0lFMFHIYix2axSFN) | 7:19 |
-| 33 | [Sarita Colonia \- Edit](https://open.spotify.com/track/0VNtKhOQZConLZc1GjQckk) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sarita Colonia](https://open.spotify.com/album/0ku4piLs17h4xD7e92FEf6) | 3:47 |
-| 34 | [Bassment Dweller \- Original Mix](https://open.spotify.com/track/27kxG6am8GnYowF9HQPuzX) | [Jesse Bru](https://open.spotify.com/artist/3TQ2taKTip3uFICbu5aIJq) | [Science Is Science](https://open.spotify.com/album/1BHST3ipVCc0i32OcXX1i7) | 7:03 |
+| 33 | [Bassment Dweller \- Original Mix](https://open.spotify.com/track/27kxG6am8GnYowF9HQPuzX) | [Jesse Bru](https://open.spotify.com/artist/3TQ2taKTip3uFICbu5aIJq) | [Science Is Science](https://open.spotify.com/album/1BHST3ipVCc0i32OcXX1i7) | 7:03 |
+| 34 | [Sarita Colonia \- Edit](https://open.spotify.com/track/0VNtKhOQZConLZc1GjQckk) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sarita Colonia](https://open.spotify.com/album/0ku4piLs17h4xD7e92FEf6) | 3:47 |
 | 35 | [Letters \- NTO Remix](https://open.spotify.com/track/5eoWUn76XK5blDGfJMecTY) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN), [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [A Magic World \(Remixes\)](https://open.spotify.com/album/39rJ5ozCZCmmeC7N0e2JOS) | 6:05 |
 | 36 | [Red Giant](https://open.spotify.com/track/66qXeOxetftqPPJSOznljQ) | [Kodomo](https://open.spotify.com/artist/57BliIwnAIqKeI4dbAWwaU) | [Patterns & Light](https://open.spotify.com/album/77W2sLDuzAH07zhYpx0AQ5) | 4:55 |
 | 37 | [The Year After](https://open.spotify.com/track/7eeu7aUoOaK7j3w7Cb2eiY) | [French 79](https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e) | [The Year After](https://open.spotify.com/album/07h9aRI5hbIbaF0ltioU2M) | 7:08 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 46 | [Dance Machine \- Original Mix](https://open.spotify.com/track/15Xi6tukR3x3rl6XcY8Pb7) | [Stereoclip](https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL), [Jim Henderson](https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG) | [Dance Machine](https://open.spotify.com/album/5F2iDQN8FGSAT8Qis3uVjn) | 5:40 |
 | 47 | [Moons](https://open.spotify.com/track/4t4uk0wS8mvGwuAsGW9TB8) | [Embee](https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF) | [Moons](https://open.spotify.com/album/3tIgTO7IeJfRd4rUDyxAUb) | 3:37 |
 | 48 | [Vanilla](https://open.spotify.com/track/050gkqbA6Rl0SRZpzQKrAr) | [Gavinco](https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6) | [Vanilla](https://open.spotify.com/album/4Xs7MNZpiPaKnM4BqkdXTj) | 6:47 |
-| 49 | [Take Your Place](https://open.spotify.com/track/0za5G50kbPJNA8wyqodYWT) | [Lucci Minati](https://open.spotify.com/artist/4nbU2WGv335ioQaQFcfqO1) | [The Ring EP](https://open.spotify.com/album/7zYrkUcbpyB4JgPcl86Dse) | 6:31 |
-| 50 | [Cow Palace](https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [The Haunted House of House](https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n) | 5:46 |
+| 49 | [Cow Palace](https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [The Haunted House of House](https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n) | 5:46 |
+| 50 | [Take Your Place](https://open.spotify.com/track/0za5G50kbPJNA8wyqodYWT) | [Lucci Minati](https://open.spotify.com/artist/4nbU2WGv335ioQaQFcfqO1) | [The Ring EP](https://open.spotify.com/album/7zYrkUcbpyB4JgPcl86Dse) | 6:31 |
 | 51 | [Sweet Spot](https://open.spotify.com/track/1SRLcPOv2gHmEgzrHD831l) | [Flabaire](https://open.spotify.com/artist/4PlRWEw6q6gyML5o0dlP4X) | [It's Just A Silly Phase I'm Going Through](https://open.spotify.com/album/3pCNvytAktBWfslmbpow5H) | 4:55 |
 | 52 | [Witness](https://open.spotify.com/track/2pRAMwsabRCbF8fnkTlWOF) | [Foans](https://open.spotify.com/artist/5MZSJngIq1ppTHcmoLS2zb) | [Foans](https://open.spotify.com/album/3TGK3p8EtGd4NeK80rXXWn) | 4:36 |
 | 53 | [Deep Eyes Blue Skies](https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot) | [Trudge](https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG) | [When the Rain](https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66) | 6:40 |
@@ -65,12 +65,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 55 | [Loop No 1](https://open.spotify.com/track/02G42teKnMwPwDFEKUfdct) | [Moomin](https://open.spotify.com/artist/5GyUtaUuEnR7uhRF3jDj4s) | [A Minor Thought](https://open.spotify.com/album/0bxwH4IfXTXYmpiC2rIfFA) | 6:12 |
 | 56 | [Pill Collins](https://open.spotify.com/track/6tb0FandMz53RXzHTwh6XS) | [Trickski](https://open.spotify.com/artist/62ODIfRSB2K4w7GdBEFhKm) | [After & Before EP](https://open.spotify.com/album/1p14a0p8X9STKt6yYncrAf) | 7:35 |
 | 57 | [Archive Seven](https://open.spotify.com/track/5q9o521FdgonxiKsvAFIPJ) | [Pilotpriest](https://open.spotify.com/artist/6WedqgL53vbco33SU3sVAX) | [WWDKF](https://open.spotify.com/album/1PZ4lKDTSi66OmL8plZEfM) | 5:44 |
-| 58 | [Warped](https://open.spotify.com/track/3jgpE2RhPNOD98t5PoYTrT) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Warped](https://open.spotify.com/album/6XCDqHX603iScKjeb9ffAG) | 7:30 |
-| 59 | [Toxic Temptation \- Undercatt Remix](https://open.spotify.com/track/0VKIilt1Z8oJQ7isTytBDc) | [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5), [Lenny](https://open.spotify.com/artist/2g2RH7Hcjsn7fnK2sXdlfz), [Undercatt](https://open.spotify.com/artist/5HRGFSrlJruRPZNPbsy57r) | [Toxic Temptation](https://open.spotify.com/album/2bTmTP8aBsiwY9ibFFtq6e) | 7:00 |
+| 58 | [Toxic Temptation \- Undercatt Remix](https://open.spotify.com/track/0VKIilt1Z8oJQ7isTytBDc) | [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5), [Lenny](https://open.spotify.com/artist/2g2RH7Hcjsn7fnK2sXdlfz), [Undercatt](https://open.spotify.com/artist/5HRGFSrlJruRPZNPbsy57r) | [Toxic Temptation](https://open.spotify.com/album/2bTmTP8aBsiwY9ibFFtq6e) | 7:00 |
+| 59 | [Warped](https://open.spotify.com/track/3jgpE2RhPNOD98t5PoYTrT) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Warped](https://open.spotify.com/album/6XCDqHX603iScKjeb9ffAG) | 7:30 |
 | 60 | [Miracle Of The Rose](https://open.spotify.com/track/3Tw7T1en0fIwM5RzKPVvCi) | [Denis Horvat](https://open.spotify.com/artist/5eJJoSS6weFQeI9AtNFLee) | [Miracle Of The Rose EP](https://open.spotify.com/album/2RqPo78ZB3Ln3i7TQPUcaC) | 5:31 |
 | 61 | [Lefty's Bar](https://open.spotify.com/track/3zsDzU5rmhseMKqSaJUjKc) | [Fouk](https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe) | [Kill Frenzy](https://open.spotify.com/album/5K9V9bm1Bn9xVviaCP5f0w) | 5:55 |
-| 62 | [Opal Waltz](https://open.spotify.com/track/5rHTvJCwN2D4sLrqwAVorG) | [Supernaive](https://open.spotify.com/artist/0LIQJHtaj1P8K7CFMxqonq) | [Dazed & Confused](https://open.spotify.com/album/5ELUDL08pgSVM1FmpWlJP2) | 3:43 |
-| 63 | [Vasudeva](https://open.spotify.com/track/7j3zDLa2WRzvNdaYfriFMy) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Vasudeva](https://open.spotify.com/album/0MonXllNzp5GeLEGopQE5G) | 6:16 |
+| 62 | [Vasudeva](https://open.spotify.com/track/7j3zDLa2WRzvNdaYfriFMy) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Vasudeva](https://open.spotify.com/album/0MonXllNzp5GeLEGopQE5G) | 6:16 |
+| 63 | [Opal Waltz](https://open.spotify.com/track/5rHTvJCwN2D4sLrqwAVorG) | [Supernaive](https://open.spotify.com/artist/0LIQJHtaj1P8K7CFMxqonq) | [Dazed & Confused](https://open.spotify.com/album/5ELUDL08pgSVM1FmpWlJP2) | 3:43 |
 | 64 | [like me](https://open.spotify.com/track/6CJwIcJNQStg1cgRBMLM76) | [paleboi](https://open.spotify.com/artist/1v8jFbmY8xNOopHAn0hRSe) | [like me](https://open.spotify.com/album/3b5GMe23M4eZ8uqOplgPup) | 5:11 |
 | 65 | [Occasional Magic \- Ulrich Schnauss Remix](https://open.spotify.com/track/4cVbjycdaVOrQUPtn7zauc) | [Yppah](https://open.spotify.com/artist/3Gaqw2nGyE7yM3rcRSzE3U), [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [Occasional Magic Remixes EP](https://open.spotify.com/album/1LpyYD31piweVGq8HIhv2n) | 5:30 |
 | 66 | [Orbital Hypnosis \- Erly Tepshi Remix](https://open.spotify.com/track/2JoHFhA0p9bghOKkEWVK0C) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [Erly Tepshi](https://open.spotify.com/artist/3p4rWxMeVAsWCHG8F0HyRj) | [Passengers](https://open.spotify.com/album/1SUZeWADdTWBZTG2HjQfFP) | 6:06 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 75 | [Heading North](https://open.spotify.com/track/2gbQR2XJlZy461hu9FOrZL) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [Flu](https://open.spotify.com/artist/0et1qkvGOPow6uK5rJzyzi) | [Endless Sacrifice](https://open.spotify.com/album/6q9loyCvFDdPgUER8JcX5J) | 7:17 |
 | 76 | [Trivia](https://open.spotify.com/track/3RdmKETgOJTBvNH8DBH5ND) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [The Two of Us](https://open.spotify.com/album/0TA4nUzkgQcOO6P6YyHP29) | 5:44 |
 | 77 | [Raw Charmer](https://open.spotify.com/track/6lS2kTYNUCVwOsyBAIUq3s) | [Danny B](https://open.spotify.com/artist/1tTPp6zfAgJuXzLG7okW3B) | [Find Myself EP](https://open.spotify.com/album/5Gc6QWBtKKNUpLObp9Rq6b) | 6:04 |
-| 78 | [Shift II \- Original Mix](https://open.spotify.com/track/2VAPNBfbvw7zagvjO1bHZd) | [Coss](https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74) | [Shift I \- II](https://open.spotify.com/album/6N6oJFs70pee2N27qQFwWX) | 5:56 |
-| 79 | [Beirut](https://open.spotify.com/track/3Yfs5ZmkP7FgMzREvrgS07) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF) | [A Slice of'' Heaven'' EP](https://open.spotify.com/album/2pU6NoEXYQq2bv27p82faA) | 7:27 |
+| 78 | [Beirut](https://open.spotify.com/track/3Yfs5ZmkP7FgMzREvrgS07) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF) | [A Slice of'' Heaven'' EP](https://open.spotify.com/album/2pU6NoEXYQq2bv27p82faA) | 7:27 |
+| 79 | [Shift II \- Original Mix](https://open.spotify.com/track/2VAPNBfbvw7zagvjO1bHZd) | [Coss](https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74) | [Shift I \- II](https://open.spotify.com/album/6N6oJFs70pee2N27qQFwWX) | 5:56 |
 | 80 | [VIEW FROM MY BALCONY AT NIGHT](https://open.spotify.com/track/5wOcV21lFPwIL8XbpWy6WF) | [Da Vosk Docta](https://open.spotify.com/artist/0eVFGwSvttHQvGrdcKXbW2) | [LO\-FI IS THE UNWANTED BASTARD CHILD OF JAZZ](https://open.spotify.com/album/5CPLb3j8NMxwplclu4xMEc) | 5:08 |
 
-Snapshot ID: `MCw1OGE3ZWZkZjdkZTFlMDI1ZDQ5OGFiYjRjOGJmODE2MjlhN2M5NzU5`
+Snapshot ID: `MCxiYzk1NTQwYmE1YjA1M2MzYmM2NzU2MzcxN2NlZTk1NWFhOTYxNzgz`

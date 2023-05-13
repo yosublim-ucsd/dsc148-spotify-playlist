@@ -4,7 +4,7 @@
 
 > You know all the tracks, you just can't sing\-along\. Cover: Martin Garrix.
 
-48 songs - 3 hr 15 min
+49 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Electric Elephants](https://open.spotify.com/track/4O2gRMLAIQYHXe25wjeTFj) | [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr) | [Electric Elephants](https://open.spotify.com/album/1Vlj2MZ0h4LA0IYjPvX6eI) | 2:53 | 2021-12-22 |  |
 | [Five Hours](https://open.spotify.com/track/3haS1MDe2Zh8jJaeiiymSt) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Five Hours](https://open.spotify.com/album/6qBYhiSsjPux8YODj3YX3e) | 5:26 | 2021-12-22 |  |
 | [Forbidden Voices](https://open.spotify.com/track/6EsH66Uto1zwZlDGQ6RokU) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Forbidden Voices](https://open.spotify.com/album/3COyh97TYskmV4cOqPed49) | 3:50 | 2021-12-22 |  |
-| [G.I.P.S.Y\. \- Radio Edit](https://open.spotify.com/track/4BLHQIfrGZX6VKAmCjJwaZ) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Boostedkids](https://open.spotify.com/artist/2PMTEy2vzCh81UZTpjK7fZ) | [G.I.P.S.Y.](https://open.spotify.com/album/7gMun8L9PaRORbVjsi4Bli) | 3:41 | 2021-12-22 |  |
+| [G.I.P.S.Y.](https://open.spotify.com/track/5Xhhp2oYeueCjTI06r6LHC) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [Boostedkids](https://open.spotify.com/artist/2PMTEy2vzCh81UZTpjK7fZ) | [G.I.P.S.Y.](https://open.spotify.com/album/3hIa94ZQqFgQSFg1aA9ShB) | 3:41 | 2021-12-22 |  |
+| [G.I.P.S.Y\. \- Radio Edit](https://open.spotify.com/track/4BLHQIfrGZX6VKAmCjJwaZ) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Boostedkids](https://open.spotify.com/artist/2PMTEy2vzCh81UZTpjK7fZ) | [G.I.P.S.Y.](https://open.spotify.com/album/7gMun8L9PaRORbVjsi4Bli) | 3:41 | 2021-12-22 | 2023-05-13 |
 | [Golden Pineapple](https://open.spotify.com/track/2hNzhAJqtVIHlcTwmPJFf0) | [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr) | [Golden Pineapple](https://open.spotify.com/album/67eeCJWRKbaRuT57iuRdhd) | 3:08 | 2021-12-22 |  |
 | [Greyhound](https://open.spotify.com/track/0VffaI2jwQknRrxpECYHsF) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Until Now](https://open.spotify.com/album/4ljisoNarj0BpQSMIEv88L) | 6:50 | 2021-12-22 |  |
 | [How We Party](https://open.spotify.com/track/6Yis2VwVcABCNVEutLgAf7) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [How We Party](https://open.spotify.com/album/3kA25T4kY1AwFVrLDJCzLE) | 3:31 | 2021-12-22 |  |

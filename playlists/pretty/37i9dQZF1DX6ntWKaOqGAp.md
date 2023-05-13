@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: 神はサイコロを振らない
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,368 likes - 80 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,492 likes - 80 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 79 | [Alone](https://open.spotify.com/track/72OWeSElexd0PQCsJJsx8c) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [Alone](https://open.spotify.com/album/0iRBUigZih92BXcPofuy5h) | 3:12 |
 | 80 | [Play](https://open.spotify.com/track/5Ec4YyeFG6IIYOf93DbzZ3) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [Q.](https://open.spotify.com/album/68UCYi46B4pP5WUo6Yxeuf) | 3:35 |
 
-Snapshot ID: `MCwzZjgzOGFlNzdkYTQ2YTQ1YzhhMjMwYzBmYTAxMzhhMzRjMWM0ZDQ2`
+Snapshot ID: `MCxjMzIwZWE2NjQ3ZjQ2ZDQ3ZGU0ZDE2ZWEyZGExMmMzYmFkYjEzNTcx`

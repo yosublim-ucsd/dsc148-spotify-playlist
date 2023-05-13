@@ -4,7 +4,7 @@
 
 > Disfrutemos del amor en los tiempos del rock.
 
-168 songs - 10 hr 25 min
+171 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Amor Sin Fin](https://open.spotify.com/track/5eROI0UcZNlPtlWhwwOak2) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Amador](https://open.spotify.com/album/27scONugjs898tPlDCKo3p) | 3:13 | 2023-04-28 |  |
 | [Amor Sin Fin](https://open.spotify.com/track/5wPsMPU6dTGckf8VLW2fsg) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [Amador](https://open.spotify.com/album/2IsJL5SdD7FnplHSrlS6A0) | 3:13 | 2022-04-26 | 2022-07-29 |
 | [Andar Conmigo](https://open.spotify.com/track/05iMQqncVBIm4AE26EvaTL) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 3:13 | 2022-01-28 |  |
+| [Antes de Marcharte](https://open.spotify.com/track/1R2f7wi1RHp2sPnvtHj1LR) | [Dawn Avenue](https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P) | [Mareas](https://open.spotify.com/album/2i3WQcqW1wVG3PPlTJAlWP) | 4:02 | 2023-05-12 |  |
 | [Arrullo De Estrellas](https://open.spotify.com/track/1p4rYrxjVkj6v2eMzRhLfA) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Programaton](https://open.spotify.com/album/3UZ0vtpq3mGcr4J0kjveSD) | 4:12 | 2022-01-28 |  |
 | [Azul Oscuro](https://open.spotify.com/track/0QN72F39qCxtXJnyBGoUvy) | [Zurdok](https://open.spotify.com/artist/2A2x3ZwZEOgWdSmSHZRIok) | [Gran Salto 1997\-2014](https://open.spotify.com/album/3Wag0awiCvOgN4Sj6BXSuy) | 4:20 | 2022-01-28 | 2022-07-29 |
 | [Azul Oscuro](https://open.spotify.com/track/0foav3p9d6BKaYhzFkGP7Y) | [Zurdok](https://open.spotify.com/artist/2A2x3ZwZEOgWdSmSHZRIok) | [Rock Latino Pa' Curar La Cruda](https://open.spotify.com/album/37g0WUTlL4p92pVKi9gRqg) | 4:21 | 2022-01-28 | 2022-11-13 |
@@ -94,6 +95,7 @@
 | [Ignis](https://open.spotify.com/track/5GHDwauerHo0VhYuHIEoGl) | [URSS Bajo el Árbol](https://open.spotify.com/artist/0CdtlByOfGrD6VOvsJUKTY) | [Ignis](https://open.spotify.com/album/3T2ngs2uRrlCWvG6t2mfvQ) | 3:19 | 2022-01-28 | 2023-01-07 |
 | [Ignis](https://open.spotify.com/track/7cdjVBrIyoRxjbKbCLFWDx) | [URSS Bajo el Árbol](https://open.spotify.com/artist/0CdtlByOfGrD6VOvsJUKTY) | [Ciclo Vol\. I](https://open.spotify.com/album/3yFhGVb5lE3KHRg4jHUoIh) | 3:19 | 2022-01-28 | 2023-02-18 |
 | [Impacto](https://open.spotify.com/track/5agpMV7rvg7Hf8IiX5kQXe) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR), [Lo Blondo](https://open.spotify.com/artist/7L05sfIkvxhvoCxALFHGwt) | [El Segundo Es Felino](https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe) | 3:56 | 2022-01-28 |  |
+| [Incendio de Amor/Carmelita](https://open.spotify.com/track/7kSNQV7OsOLVskKKmcXR4I) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [PRISMARAMA](https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst) | 4:47 | 2023-05-12 |  |
 | [Inesperado](https://open.spotify.com/track/5GbbHqyhsl2tIZTvyBieL0) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Destruye Hogares](https://open.spotify.com/album/1cepreuLqLtbdRAhCorr8G) | 2:47 | 2022-04-26 |  |
 | [Inevitable](https://open.spotify.com/track/1gptFG7KprUHogyVXLZytK) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Inevitable](https://open.spotify.com/album/2v0nWKYp3INzkGDRTQBqQa) | 3:24 | 2022-03-28 |  |
 | [Insatisfecho](https://open.spotify.com/track/12bpuwhO89NZuKgcWAM7tN) | [PJAMA](https://open.spotify.com/artist/6rEnCeFGwNGiOuBhjOPMVH) | [Insatisfecho](https://open.spotify.com/album/67677bOS0mEinGuIto707S) | 3:07 | 2022-01-28 |  |
@@ -150,6 +152,7 @@
 | [Risa](https://open.spotify.com/track/3L55aSsDkT5ojgy3WXjh7s) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Infame](https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn) | 3:07 | 2022-01-28 |  |
 | [Rue Vieille Du Temple](https://open.spotify.com/track/4ViWSkl1it95PjoGn1VkHG) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Voluma](https://open.spotify.com/album/6pTyhD8IxuyQXzcCZJp5EM) | 3:51 | 2022-04-26 |  |
 | [Sabor Cayena](https://open.spotify.com/track/7AeeynF7fkV4aFFwR9KeiA) | [Aceros del Pacífico](https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o) | [Sabor Cayena](https://open.spotify.com/album/5LiWn17rIUI0oqxfOyxVaP) | 4:16 | 2022-02-09 |  |
+| [Satélites](https://open.spotify.com/track/4ZkDM3luQLAL8oXmDUHbuh) | [Depressiego](https://open.spotify.com/artist/0lGbS4aZKjwIzqXtq2fyQD) | [Satélites](https://open.spotify.com/album/7KE8OXh0yBO1VdP7XIsQ5r) | 3:19 | 2023-05-12 |  |
 | [Sentimiento](https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy) | [Gabacho](https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu) | [Sentimiento](https://open.spotify.com/album/53nvTD2BYsEqicPz4hhuQY) | 2:52 | 2022-02-24 |  |
 | [Ser Humano \(Pies Extraños\)](https://open.spotify.com/track/2d2HXApLEJdHVppOfUhkQ7) | [Hay Un Dinosaurio](https://open.spotify.com/artist/6EarpkLGAtCbNZcKJ0WnGe) | [Lonely Dinosaurio](https://open.spotify.com/album/3HlXOARhQkhD8NfCXnt7Ai) | 2:54 | 2023-04-28 |  |
 | [Siento Que...](https://open.spotify.com/track/1VtBjpwh6xdRPDy20Uln3W) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [Restaurant](https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c) | 3:29 | 2022-01-28 |  |

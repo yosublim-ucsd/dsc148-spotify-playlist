@@ -1530,7 +1530,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -4741,6 +4741,44 @@
     },
     {
       "album": {
+        "name": "COLOSSEUM",
+        "url": "https://open.spotify.com/album/0wq5kKpVAGKAgvERJbGlXG"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "Kabe",
+          "url": "https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt"
+        },
+        {
+          "name": "ReTo",
+          "url": "https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli"
+        },
+        {
+          "name": "Gruby Mielzky",
+          "url": "https://open.spotify.com/artist/6f3oixxZSgRKOW2CSqOFqM"
+        },
+        {
+          "name": "Borixon",
+          "url": "https://open.spotify.com/artist/5Q5WdRs96HgbxdVIfhHqt2"
+        },
+        {
+          "name": "BeMelo",
+          "url": "https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "COLOSSEUM",
+      "url": "https://open.spotify.com/track/31xzEogE9mXNUGF92kJqv1"
+    },
+    {
+      "album": {
         "name": "Confident",
         "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
       },
@@ -5260,7 +5298,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 149508,
       "name": "Dach",
       "url": "https://open.spotify.com/track/1ryBtjEDxoMI1YsHzJ3zRw"
@@ -7322,7 +7360,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 256000,
       "name": "FALA",
       "url": "https://open.spotify.com/track/4pRmXzB5gkQXkfEOLfwJQx"
@@ -8056,7 +8094,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 211643,
       "name": "Gladiator",
       "url": "https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1"
@@ -9914,7 +9952,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 162935,
       "name": "Jakie To Uczucie?",
       "url": "https://open.spotify.com/track/1SDoIIjDCFjJuglM7qbIqf"
@@ -13474,7 +13512,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 181000,
       "name": "Ma\u0142y Ksi\u0105\u017c\u0119",
       "url": "https://open.spotify.com/track/5ngOu7hZUAGnk0FTDPzBob"
@@ -19488,7 +19526,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-11",
+      "date_removed": null,
       "duration_ms": 151048,
       "name": "Rarara",
       "url": "https://open.spotify.com/track/1VEzvYlDWGz3KhxGg73jHG"
@@ -23225,6 +23263,28 @@
     },
     {
       "album": {
+        "name": "UZUMAKI FORMA OSTATECZNA",
+        "url": "https://open.spotify.com/album/0uNsJE7RW8JwGL1uC7cohf"
+      },
+      "artists": [
+        {
+          "name": "Szpaku",
+          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
+        },
+        {
+          "name": "Kubi Producent",
+          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198772,
+      "name": "UZUMAKI FORMA OSTATECZNA",
+      "url": "https://open.spotify.com/track/4ROC81h8HweWDJcSw0JtF9"
+    },
+    {
+      "album": {
         "name": "Fight Club",
         "url": "https://open.spotify.com/album/1XNJspeyxcjk6EZTLB32Mj"
       },
@@ -24186,6 +24246,28 @@
       "duration_ms": 189036,
       "name": "WMTB",
       "url": "https://open.spotify.com/track/2uR9nWZDvjjmQm5CTrqA1Y"
+    },
+    {
+      "album": {
+        "name": "Kr\u00f3l Albanii",
+        "url": "https://open.spotify.com/album/2FWl9XKJCblwqgxFedAGyV"
+      },
+      "artists": [
+        {
+          "name": "Popek",
+          "url": "https://open.spotify.com/artist/4NtiLs5NpjgZDHNBEMbjKz"
+        },
+        {
+          "name": "Matheo",
+          "url": "https://open.spotify.com/artist/6YFFJXCSmDv4SJEi0JSp2S"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Wodospady",
+      "url": "https://open.spotify.com/track/1mgtLt6PfNvYCmYQAiOzI5"
     },
     {
       "album": {

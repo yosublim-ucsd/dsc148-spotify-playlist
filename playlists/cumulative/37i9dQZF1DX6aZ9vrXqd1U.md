@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
-216 songs - 15 hr 43 min
+217 songs - 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,8 +59,9 @@
 | [Gの閃光](https://open.spotify.com/track/1qfpMdHoqhpRssLkw253ht) | [ハセガワダイスケ](https://open.spotify.com/artist/3Zd87MBrn6zbLnZQA8rF13) | [Gの閃光](https://open.spotify.com/album/0btQbNsSjSXqUplvgbOKec) | 3:37 | 2023-04-21 |  |
 | [Gの閃光](https://open.spotify.com/track/29ODTLXlIpmNT7rZFmV4gH) | [ハセガワダイスケ](https://open.spotify.com/artist/3Zd87MBrn6zbLnZQA8rF13) | [TVアニメ『ガンダム Gのレコンギスタ』オリジナルサウンドトラック 3](https://open.spotify.com/album/3WFW8EMq7eQyd4PO12HYgH) | 3:37 | 2022-07-27 | 2023-05-03 |
 | [Hasen no Namida](https://open.spotify.com/track/2G6cLZijcvKMEcRxThTBtm) | [Masayoshi Yamazaki](https://open.spotify.com/artist/6gvedX0HcRQYMD5IhY8KKt) | [MOBILE SUIT GUNDAM THE ORIGIN \- Chronicle of the Loum Battlefield \- \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7c0Xs5C1nmkw7rVDVpuCZ8) | 4:51 | 2022-12-06 |  |
-| [HATENA](https://open.spotify.com/track/5UbPHARFFiDdkRgfsJ03Rt) | [PENGUIN RESEARCH](https://open.spotify.com/artist/4jiOvoNgxnEvdlBwrx6o28) | [HATENA](https://open.spotify.com/album/4hWdLdkGzwMstowEcJoGQw) | 3:29 | 2022-07-27 |  |
+| [HATENA](https://open.spotify.com/track/5UbPHARFFiDdkRgfsJ03Rt) | [PENGUIN RESEARCH](https://open.spotify.com/artist/4jiOvoNgxnEvdlBwrx6o28) | [HATENA](https://open.spotify.com/album/4hWdLdkGzwMstowEcJoGQw) | 3:29 | 2022-07-27 | 2023-05-13 |
 | [HATENA](https://open.spotify.com/track/5ZmCWqYmT9Lpa5qM2gSCBF) | [PENGUIN RESEARCH](https://open.spotify.com/artist/4jiOvoNgxnEvdlBwrx6o28) | [HATENA](https://open.spotify.com/album/0g7ikkSqZYYjLTA9t9mJUr) | 3:29 | 2022-07-27 | 2022-07-29 |
+| [HATENA](https://open.spotify.com/track/79Jpqsmno4iZV7ko4h5rqM) | [PENGUIN RESEARCH](https://open.spotify.com/artist/4jiOvoNgxnEvdlBwrx6o28) | [逆光備忘録](https://open.spotify.com/album/6c9IBWiosIGvWUCNj4KYC8) | 3:33 | 2023-04-21 |  |
 | [Hikari no Hate](https://open.spotify.com/track/6a0Scz4j4tbqURCVyAvNSW) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Hikari no Hate](https://open.spotify.com/album/7DORue0YE6jJImEv9a5pgd) | 6:23 | 2022-07-27 | 2023-03-02 |
 | [Hikari no Hate \(feat\. Aina The End\)](https://open.spotify.com/track/0IF2evtzFoRvcgfj805Nkd) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Mobile Suit Gundam 40th Anniversary Album \~BEYOND\~](https://open.spotify.com/album/5zpZp7yQ1iRd9DuoLei2BI) | 6:26 | 2022-12-06 |  |
 | [I CAN'T DO ANYTHING\-宇宙よ\-](https://open.spotify.com/track/1jGRCbz8D1prxGRbSy4Xir) | [服部隆之 Presents GUNDAM THE ORIGIN](https://open.spotify.com/artist/4E6kqE30CXyqBEFxeD8Pj6), [AYA](https://open.spotify.com/artist/5XboRZlTHep5d4fC6AmZkW) | [I CAN'T DO ANYTHING\-宇宙よ\-](https://open.spotify.com/album/4ADBrrYkMVaEBe4IP4Jqcl) | 5:24 | 2022-07-27 |  |

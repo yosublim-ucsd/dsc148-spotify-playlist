@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: Pretty Pink",
-  "num_followers": 26239,
+  "num_followers": 26249,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2RmOTdkOTJlY2I3M2ZmOGQxNGMyMDQzNjY0OGM2Yzg3NmEzMTdj",
+  "snapshot_id": "MCwwNjg2YmY4OGM3YzNiNzEyMjk5MTkyZDU4MTQxNDlhMTQ3ZjFhMjQz",
   "tracks": [
     {
       "added_at": "2023-05-02 22:00:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-05-02 22:00:00",
       "album": {
+        "name": "Augen zu",
+        "url": "https://open.spotify.com/album/4quko6tSRQ2bAZlZxTCtHU"
+      },
+      "artists": [
+        {
+          "name": "SHARI",
+          "url": "https://open.spotify.com/artist/2DSyocyjeHkXU2AsWQyYZS"
+        }
+      ],
+      "duration_ms": 161225,
+      "name": "Augen zu",
+      "url": "https://open.spotify.com/track/2WBl3RGjTOc1b7fV7l3PMt"
+    },
+    {
+      "added_at": "2023-05-02 22:00:00",
+      "album": {
         "name": "Titanic",
         "url": "https://open.spotify.com/album/6YxTUTfGHKmpOMqlruyxSN"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 278438,
       "name": "Titanic",
       "url": "https://open.spotify.com/track/1f5iEY0FhKFTJzlELuyaaY"
-    },
-    {
-      "added_at": "2023-05-02 22:00:00",
-      "album": {
-        "name": "Augen zu",
-        "url": "https://open.spotify.com/album/4quko6tSRQ2bAZlZxTCtHU"
-      },
-      "artists": [
-        {
-          "name": "SHARI",
-          "url": "https://open.spotify.com/artist/2DSyocyjeHkXU2AsWQyYZS"
-        }
-      ],
-      "duration_ms": 161225,
-      "name": "Augen zu",
-      "url": "https://open.spotify.com/track/2WBl3RGjTOc1b7fV7l3PMt"
     },
     {
       "added_at": "2023-05-02 22:00:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-05-02 22:00:00",
       "album": {
+        "name": "Watching Strangers Smile",
+        "url": "https://open.spotify.com/album/0zpSsEuwv5VbuiyuvfpjmZ"
+      },
+      "artists": [
+        {
+          "name": "FILLY",
+          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
+        }
+      ],
+      "duration_ms": 133280,
+      "name": "Motorola",
+      "url": "https://open.spotify.com/track/0vEVGIB0WqzWRD5D8dfxAw"
+    },
+    {
+      "added_at": "2023-05-02 22:00:00",
+      "album": {
         "name": "Consciousness As A State Of Matter",
         "url": "https://open.spotify.com/album/30ihOotiuxfm39eEVm24FI"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 166500,
       "name": "DJ in Berlin",
       "url": "https://open.spotify.com/track/5DCH8ZcKlZyfXYetdaPOiv"
-    },
-    {
-      "added_at": "2023-05-02 22:00:00",
-      "album": {
-        "name": "Watching Strangers Smile",
-        "url": "https://open.spotify.com/album/0zpSsEuwv5VbuiyuvfpjmZ"
-      },
-      "artists": [
-        {
-          "name": "FILLY",
-          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
-        }
-      ],
-      "duration_ms": 133280,
-      "name": "Motorola",
-      "url": "https://open.spotify.com/track/0vEVGIB0WqzWRD5D8dfxAw"
     },
     {
       "added_at": "2023-05-02 22:00:00",

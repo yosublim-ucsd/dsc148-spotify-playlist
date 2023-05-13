@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 
 > Cool down with these chill beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,330 likes - 82 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,371 likes - 82 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,12 +83,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 73 | [NightSky](https://open.spotify.com/track/5fpsn9LdAGXQbZcOwTs0WV) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC) | [NightSky](https://open.spotify.com/album/3i2d5SvAl9KbdvKDcbqwHu) | 3:04 |
 | 74 | [Nuz An Tara](https://open.spotify.com/track/60ka7YNcrwXJOqxdgmytaz) | [SicknessMP](https://open.spotify.com/artist/31uUEuPkmv9b61QnayPF9U) | [Nuz An Tara](https://open.spotify.com/album/4zfqdXuhrSemPWGy4wX8ua) | 2:12 |
 | 75 | [Dignity](https://open.spotify.com/track/3KdWOfRqIwRzDxuhw1vKzW) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O) | [Chillhop Essentials Winter 2017](https://open.spotify.com/album/0Gec7sa8MPlj5cW9JbqwEl) | 3:10 |
-| 76 | [Soul Finding](https://open.spotify.com/track/0L0O6m5t5usqQHEaBsHgSa) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF), [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH) | [Collabs, Vol 2](https://open.spotify.com/album/6VxgOQVVFej9Br7fWVVuZi) | 1:41 |
-| 77 | [Mirage](https://open.spotify.com/track/59RLG6R4RlbGsRMrLBSuIw) | [Kaspa.](https://open.spotify.com/artist/06O3Epykgsr2PuMgTwZCWF), [chief.](https://open.spotify.com/artist/0HCAzT0cSCpiNje7AcAQaD) | [Mirage](https://open.spotify.com/album/11lBSg0fUCPWIBlM05FAJx) | 2:24 |
+| 76 | [Mirage](https://open.spotify.com/track/59RLG6R4RlbGsRMrLBSuIw) | [Kaspa.](https://open.spotify.com/artist/06O3Epykgsr2PuMgTwZCWF), [chief.](https://open.spotify.com/artist/0HCAzT0cSCpiNje7AcAQaD) | [Mirage](https://open.spotify.com/album/11lBSg0fUCPWIBlM05FAJx) | 2:24 |
+| 77 | [Soul Finding](https://open.spotify.com/track/0L0O6m5t5usqQHEaBsHgSa) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF), [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH) | [Collabs, Vol 2](https://open.spotify.com/album/6VxgOQVVFej9Br7fWVVuZi) | 1:41 |
 | 78 | [Sonar](https://open.spotify.com/track/2WqVy95w7d9XloMp9zUsjG) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Sonar](https://open.spotify.com/album/2gppwhmAbBtAb7Qx3vzI7U) | 1:58 |
 | 79 | [Soul Sista](https://open.spotify.com/track/6tun0i4mdf8qgNXVYxRZRe) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo) | [Chasing Sunsets](https://open.spotify.com/album/6dcJQL3ZyE6ODjsaibp6fi) | 2:00 |
-| 80 | [Are We Safe?](https://open.spotify.com/track/4li9SK4Cke0vSiJYBKgR3c) | [Intalekt](https://open.spotify.com/artist/0DyatUnzbcULupeMCfqumy) | [The Adventures Of Masta Splinta](https://open.spotify.com/album/6C9MolvNVm2DdfJ2or8qQQ) | 4:58 |
-| 81 | [Sundays](https://open.spotify.com/track/5UGC2XD60M7Ki6kh1A4oyI) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh) | [Sundays](https://open.spotify.com/album/5VIO4AL989PapgtG5KAL0B) | 2:54 |
-| 82 | [Summer Rain](https://open.spotify.com/track/0TlDsAhqgVsO3TNBo0gTQ4) | [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J), [wavvzz](https://open.spotify.com/artist/33tg0cH66APhaWirPjOXEu), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Summer Rain](https://open.spotify.com/album/4zfkuCcrDREsudeOPP8XNF) | 2:04 |
+| 80 | [Sundays](https://open.spotify.com/track/5UGC2XD60M7Ki6kh1A4oyI) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh) | [Sundays](https://open.spotify.com/album/5VIO4AL989PapgtG5KAL0B) | 2:54 |
+| 81 | [Summer Rain](https://open.spotify.com/track/0TlDsAhqgVsO3TNBo0gTQ4) | [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J), [wavvzz](https://open.spotify.com/artist/33tg0cH66APhaWirPjOXEu), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Summer Rain](https://open.spotify.com/album/4zfkuCcrDREsudeOPP8XNF) | 2:04 |
+| 82 | [Are We Safe?](https://open.spotify.com/track/4li9SK4Cke0vSiJYBKgR3c) | [Intalekt](https://open.spotify.com/artist/0DyatUnzbcULupeMCfqumy) | [The Adventures Of Masta Splinta](https://open.spotify.com/album/6C9MolvNVm2DdfJ2or8qQQ) | 4:58 |
 
-Snapshot ID: `MCxiOTc4MWVhNmFjNTljOWZkOWQyNzRiNTU3NjJiMDI4YzljYzE1Zjgw`
+Snapshot ID: `MCwxYjc1NmZiNmJjZGMzOGQxYTVlMjAwNTEzMWQyNDlhNzQwOTRiNmQz`

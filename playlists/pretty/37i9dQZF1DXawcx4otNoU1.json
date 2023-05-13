@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 484458,
+  "num_followers": 484677,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTFiZjVkNjZhNWMwMGM1YTg2NzRmNmJmOTM5ZmQ3ZGZjZDI4NjVj",
+  "snapshot_id": "MCxmYjZiNTBjMDhjMTAyNWU0YTgzMmJiODQ3MmU4Y2M3OTQ5ZGJkNmQz",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Melancholic",
-        "url": "https://open.spotify.com/album/6s7HjPR5SQ29OYKLIGq63J"
-      },
-      "artists": [
-        {
-          "name": "Ruben",
-          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
-        }
-      ],
-      "duration_ms": 170830,
-      "name": "Lay By Me",
-      "url": "https://open.spotify.com/track/5xQ1yxKzTuPcSNO9FP0lNS"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Let It All Go",
         "url": "https://open.spotify.com/album/70kdvnoDEA1srIsofErTEw"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 280757,
       "name": "Let It All Go",
       "url": "https://open.spotify.com/track/70K0ezmzYEZeqoSaZMyP7o"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Melancholic",
+        "url": "https://open.spotify.com/album/6s7HjPR5SQ29OYKLIGq63J"
+      },
+      "artists": [
+        {
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+        }
+      ],
+      "duration_ms": 170830,
+      "name": "Lay By Me",
+      "url": "https://open.spotify.com/track/5xQ1yxKzTuPcSNO9FP0lNS"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1081,22 +1081,6 @@
       "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
     },
     {
-      "added_at": "2023-03-17 11:15:09",
-      "album": {
-        "name": "GLU",
-        "url": "https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe"
-      },
-      "artists": [
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 262711,
-      "name": "GLU",
-      "url": "https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu"
-    },
-    {
       "added_at": "2023-02-10 11:00:00",
       "album": {
         "name": "Once Again",
@@ -1111,6 +1095,22 @@
       "duration_ms": 235666,
       "name": "Save Room",
       "url": "https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7"
+    },
+    {
+      "added_at": "2023-03-17 11:15:09",
+      "album": {
+        "name": "GLU",
+        "url": "https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 262711,
+      "name": "GLU",
+      "url": "https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 246053,
-      "name": "Fade",
-      "url": "https://open.spotify.com/track/6r2tV58enH9E8hj2oqoJNK"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "One Call Away (Acoustic + Remixes)",
         "url": "https://open.spotify.com/album/5UMl7dsO7ZoMyH7rKUc53q"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 189052,
       "name": "One Call Away - Acoustic",
       "url": "https://open.spotify.com/track/5DtTZfXWnMPzgSsl3GGN8u"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 246053,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/6r2tV58enH9E8hj2oqoJNK"
     },
     {
       "added_at": "2023-02-10 11:00:00",

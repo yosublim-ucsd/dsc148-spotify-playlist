@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica rica y antig\u00fcita!",
-  "num_followers": 32070,
+  "num_followers": 32131,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MWJhMjc3YWZkOTcwZDY0MjdlNWE1MjNkMDgyYzY2Zjc1YTFiZTk4",
+  "snapshot_id": "MCw1YTQ1YTczOWJkNGM2MjA4MmExODQ0NmFiNzcwZTE4ODdiY2U4NDc0",
   "tracks": [
     {
       "added_at": "2020-05-28 20:45:13",
@@ -475,22 +475,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "La Historia del Mambo, Vol. 2",
-        "url": "https://open.spotify.com/album/6fJdrjyuTWOeZboh03i01n"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 159503,
-      "name": "El Manicero",
-      "url": "https://open.spotify.com/track/4A0iCzLqX0bmDuDq1YAT59"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Caja de M\u00fasica (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/75lParfrGxiexJOFlDh94X"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 254480,
       "name": "Cempas\u00fachil",
       "url": "https://open.spotify.com/track/6i5K4Mxce8t9AT1RWxuiG5"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "La Historia del Mambo, Vol. 2",
+        "url": "https://open.spotify.com/album/6fJdrjyuTWOeZboh03i01n"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 159503,
+      "name": "El Manicero",
+      "url": "https://open.spotify.com/track/4A0iCzLqX0bmDuDq1YAT59"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -713,22 +713,6 @@
       "url": "https://open.spotify.com/track/7pOrjaSlEgPsWZhrIar1zf"
     },
     {
-      "added_at": "2022-04-19 19:22:36",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 209746,
-      "name": "Clandestina - Spotify Singles",
-      "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Papayas",
@@ -743,6 +727,22 @@
       "duration_ms": 337391,
       "name": "Papayas",
       "url": "https://open.spotify.com/track/5IdYwtkWxze5HKIq6uwFEk"
+    },
+    {
+      "added_at": "2022-04-19 19:22:36",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 209746,
+      "name": "Clandestina - Spotify Singles",
+      "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -857,22 +857,6 @@
       "url": "https://open.spotify.com/track/3buA1wR2SA347hFcbDvpSt"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "The Roots of Chicha 2",
-        "url": "https://open.spotify.com/album/6eYFx3AtyfJggMN3kWpIqI"
-      },
-      "artists": [
-        {
-          "name": "Manzanita",
-          "url": "https://open.spotify.com/artist/6YZOLlgZ38qVDSxVv9xg0G"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Paga la Cuenta Sinverguenza",
-      "url": "https://open.spotify.com/track/56PULupF5Gt50FyostKuMd"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Xe\u0308e\u0308w (Volumen 1)",
@@ -891,6 +875,22 @@
       "duration_ms": 338306,
       "name": "Un Derecho de Nacimiento",
       "url": "https://open.spotify.com/track/1M2SNsDjSIPRQ5TV0QmLc0"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "The Roots of Chicha 2",
+        "url": "https://open.spotify.com/album/6eYFx3AtyfJggMN3kWpIqI"
+      },
+      "artists": [
+        {
+          "name": "Manzanita",
+          "url": "https://open.spotify.com/artist/6YZOLlgZ38qVDSxVv9xg0G"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Paga la Cuenta Sinverguenza",
+      "url": "https://open.spotify.com/track/56PULupF5Gt50FyostKuMd"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -927,22 +927,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Batazo Batero",
-        "url": "https://open.spotify.com/album/5ajMRxW6NnJUUl3tq0WzFM"
-      },
-      "artists": [
-        {
-          "name": "Los Propios Bateros",
-          "url": "https://open.spotify.com/artist/27lsT9bLRBVy2lNW7DwmeC"
-        }
-      ],
-      "duration_ms": 298253,
-      "name": "Batazo Batero",
-      "url": "https://open.spotify.com/track/2sLMPlRSLlDBUiu6bECQjr"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Curandero",
         "url": "https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4"
       },
@@ -959,18 +943,18 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Banda de los Muertos",
-        "url": "https://open.spotify.com/album/2zkMyaGBpT2swb6k90jmO1"
+        "name": "Batazo Batero",
+        "url": "https://open.spotify.com/album/5ajMRxW6NnJUUl3tq0WzFM"
       },
       "artists": [
         {
-          "name": "Banda de los Muertos",
-          "url": "https://open.spotify.com/artist/51oqYJcrhViS7t0O8ibl5g"
+          "name": "Los Propios Bateros",
+          "url": "https://open.spotify.com/artist/27lsT9bLRBVy2lNW7DwmeC"
         }
       ],
-      "duration_ms": 187440,
-      "name": "Ay Mexicanita",
-      "url": "https://open.spotify.com/track/15Aju7YDD1m8LEwyoJGxTX"
+      "duration_ms": 298253,
+      "name": "Batazo Batero",
+      "url": "https://open.spotify.com/track/2sLMPlRSLlDBUiu6bECQjr"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -991,18 +975,18 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Elotitos Tiernos",
-        "url": "https://open.spotify.com/album/3CHxiCxnVaMvLNr94eXJbt"
+        "name": "Banda de los Muertos",
+        "url": "https://open.spotify.com/album/2zkMyaGBpT2swb6k90jmO1"
       },
       "artists": [
         {
-          "name": "Liliana Felipe",
-          "url": "https://open.spotify.com/artist/4SBHg3uVTZ3UNBDSh96tcV"
+          "name": "Banda de los Muertos",
+          "url": "https://open.spotify.com/artist/51oqYJcrhViS7t0O8ibl5g"
         }
       ],
-      "duration_ms": 392400,
-      "name": "A Su Merced",
-      "url": "https://open.spotify.com/track/6IFbs21O6l5wkvdqeWfagJ"
+      "duration_ms": 187440,
+      "name": "Ay Mexicanita",
+      "url": "https://open.spotify.com/track/15Aju7YDD1m8LEwyoJGxTX"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1019,6 +1003,22 @@
       "duration_ms": 163420,
       "name": "Guantanamera",
       "url": "https://open.spotify.com/track/0wNoE4ph2njLnF1txfeLVJ"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Elotitos Tiernos",
+        "url": "https://open.spotify.com/album/3CHxiCxnVaMvLNr94eXJbt"
+      },
+      "artists": [
+        {
+          "name": "Liliana Felipe",
+          "url": "https://open.spotify.com/artist/4SBHg3uVTZ3UNBDSh96tcV"
+        }
+      ],
+      "duration_ms": 392400,
+      "name": "A Su Merced",
+      "url": "https://open.spotify.com/track/6IFbs21O6l5wkvdqeWfagJ"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1069,6 +1069,26 @@
       "url": "https://open.spotify.com/track/0wQ2xkadkllQgL1mVQ4rSE"
     },
     {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Endangered Species Remixed",
+        "url": "https://open.spotify.com/album/7FDfzktt4wIcYv98QabmFk"
+      },
+      "artists": [
+        {
+          "name": "Nickodemus",
+          "url": "https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3"
+        },
+        {
+          "name": "Zeb",
+          "url": "https://open.spotify.com/artist/1Gw0Q0Oyi46o9Qd5oOQuv9"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Mi Swing es Tropical - Zeb Remix",
+      "url": "https://open.spotify.com/track/46VTfAdEu33535BxYyHkS4"
+    },
+    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Mongo Santamaria's Greatest Hits",
@@ -1099,26 +1119,6 @@
       "duration_ms": 241520,
       "name": "Arroz Con Frijoles",
       "url": "https://open.spotify.com/track/1Y7JDqUVbaHRPsLJtSY8ie"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Endangered Species Remixed",
-        "url": "https://open.spotify.com/album/7FDfzktt4wIcYv98QabmFk"
-      },
-      "artists": [
-        {
-          "name": "Nickodemus",
-          "url": "https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3"
-        },
-        {
-          "name": "Zeb",
-          "url": "https://open.spotify.com/artist/1Gw0Q0Oyi46o9Qd5oOQuv9"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Mi Swing es Tropical - Zeb Remix",
-      "url": "https://open.spotify.com/track/46VTfAdEu33535BxYyHkS4"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Bi",
-        "url": "https://open.spotify.com/album/5Rnk0JczvdBVg123Mpd483"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 267480,
-      "name": "Apocalypso",
-      "url": "https://open.spotify.com/track/6hgDFkV8ZAFFI6F9kvUFns"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Latin Soul Syndicate",
         "url": "https://open.spotify.com/album/4RX2MCsif63EAl7nM8JBiO"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 239760,
       "name": "Frida Kahlo aka Mamasita",
       "url": "https://open.spotify.com/track/0kVOs0kuxFduJQSGA3YA3x"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Bi",
+        "url": "https://open.spotify.com/album/5Rnk0JczvdBVg123Mpd483"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 267480,
+      "name": "Apocalypso",
+      "url": "https://open.spotify.com/track/6hgDFkV8ZAFFI6F9kvUFns"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1329,22 +1329,6 @@
       "url": "https://open.spotify.com/track/108bZCxgGxeHFQb14rJC1H"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "This Is Desmond Dekker (Enhanced Edition)",
-        "url": "https://open.spotify.com/album/6zmXwlVf8f9wpC4VEvpVUl"
-      },
-      "artists": [
-        {
-          "name": "Desmond Dekker",
-          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
-        }
-      ],
-      "duration_ms": 209360,
-      "name": "Coconut Water",
-      "url": "https://open.spotify.com/track/4d1CoRChi1Hi2795N5JB3G"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "La Fiesta",
@@ -1359,6 +1343,22 @@
       "duration_ms": 187813,
       "name": "Moliendo Caf\u00e9 - Ritmo Orquidea",
       "url": "https://open.spotify.com/track/2hAZYHPp6JLzLNRMdC3lPP"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "This Is Desmond Dekker (Enhanced Edition)",
+        "url": "https://open.spotify.com/album/6zmXwlVf8f9wpC4VEvpVUl"
+      },
+      "artists": [
+        {
+          "name": "Desmond Dekker",
+          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
+        }
+      ],
+      "duration_ms": 209360,
+      "name": "Coconut Water",
+      "url": "https://open.spotify.com/track/4d1CoRChi1Hi2795N5JB3G"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1441,22 +1441,6 @@
       "url": "https://open.spotify.com/track/2xirjKVetY5wxvw3hAuELH"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Guapapasea!",
-        "url": "https://open.spotify.com/album/1YjFIHAJ5SGF1x724MoFYP"
-      },
-      "artists": [
-        {
-          "name": "Gecko Turner",
-          "url": "https://open.spotify.com/artist/3vGEIjEdCD0TeZDOMkoaFg"
-        }
-      ],
-      "duration_ms": 331293,
-      "name": "Limon En La Cabeza",
-      "url": "https://open.spotify.com/track/3NLbpJkkXWoThhEe4RB9t5"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Concierto en Vivo (Vienna, Austria)",
@@ -1471,6 +1455,22 @@
       "duration_ms": 305906,
       "name": "El P\u00e1jaro C\u00fa - Live",
       "url": "https://open.spotify.com/track/1xNL418AYlSEzWH4Z8EGFh"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Guapapasea!",
+        "url": "https://open.spotify.com/album/1YjFIHAJ5SGF1x724MoFYP"
+      },
+      "artists": [
+        {
+          "name": "Gecko Turner",
+          "url": "https://open.spotify.com/artist/3vGEIjEdCD0TeZDOMkoaFg"
+        }
+      ],
+      "duration_ms": 331293,
+      "name": "Limon En La Cabeza",
+      "url": "https://open.spotify.com/track/3NLbpJkkXWoThhEe4RB9t5"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1589,22 +1589,6 @@
       "url": "https://open.spotify.com/track/7mJ2WDNjByJ1Ncqa8NjRJH"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Los 22 Grandes \u00c9xitos de P\u00e9rez Prado (Remastered)",
-        "url": "https://open.spotify.com/album/4NT0vaw4EP7hApFQCXqmoo"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 147789,
-      "name": "Mar\u00eda Cristina - Remastered",
-      "url": "https://open.spotify.com/track/5zimrebZIVCXRfcFuVbSqd"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Songs for Moonlight Swim and Otros Tipos de Ocupaciones",
@@ -1623,18 +1607,18 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Guajira Guantanamera (Remastered)",
-        "url": "https://open.spotify.com/album/53nYU70GFZo0FvmWPjOoID"
+        "name": "Los 22 Grandes \u00c9xitos de P\u00e9rez Prado (Remastered)",
+        "url": "https://open.spotify.com/album/4NT0vaw4EP7hApFQCXqmoo"
       },
       "artists": [
         {
-          "name": "Abelardo Barroso",
-          "url": "https://open.spotify.com/artist/54Cvt1RK4llutqZIBDZAVk"
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
         }
       ],
-      "duration_ms": 137530,
-      "name": "Los tamalitos de Olga - Remastered",
-      "url": "https://open.spotify.com/track/5kQcTgQ7TKzOvgslid4Qv2"
+      "duration_ms": 147789,
+      "name": "Mar\u00eda Cristina - Remastered",
+      "url": "https://open.spotify.com/track/5zimrebZIVCXRfcFuVbSqd"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1651,6 +1635,22 @@
       "duration_ms": 181864,
       "name": "Oracion Caribe",
       "url": "https://open.spotify.com/track/7EEgaEck35oVTzXGFOm7Kr"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Guajira Guantanamera (Remastered)",
+        "url": "https://open.spotify.com/album/53nYU70GFZo0FvmWPjOoID"
+      },
+      "artists": [
+        {
+          "name": "Abelardo Barroso",
+          "url": "https://open.spotify.com/artist/54Cvt1RK4llutqZIBDZAVk"
+        }
+      ],
+      "duration_ms": 137530,
+      "name": "Los tamalitos de Olga - Remastered",
+      "url": "https://open.spotify.com/track/5kQcTgQ7TKzOvgslid4Qv2"
     },
     {
       "added_at": "2022-01-11 03:10:29",

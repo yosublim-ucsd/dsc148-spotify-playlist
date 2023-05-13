@@ -2,9 +2,9 @@
 
 ### [Mariachi Joven](https://open.spotify.com/playlist/37i9dQZF1DXcF3YtBdCala)
 
-> Jóvenes y renovadas expresiones de la bella tradición mexicana\. Sandra Echeverría en portada.
+> Jóvenes y renovadas expresiones de la bella tradición mexicana\. Nuevo Elemento en portada.
 
-134 songs - 7 hr 8 min
+135 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Cada Vez](https://open.spotify.com/track/3ZT6RVJWZ9DBitAAQrRoIH) | [Misael Espinoza](https://open.spotify.com/artist/1msDpGTq1MREJh7JBdQu9k) | [Cada Vez](https://open.spotify.com/album/3FFt1fElUJya5Bi9zQrZQa) | 4:08 | 2022-10-14 | 2022-10-29 |
 | [Casi Algo \- Versión Mariachi](https://open.spotify.com/track/5zwhq3lsGiks3Uffseze9o) | [Uriel Barrera](https://open.spotify.com/artist/3pfVmZKUiPAsoIVAa1I8lH) | [Casi Algo \(Versión Mariachi\)](https://open.spotify.com/album/6z6XxuId7yju4sXvtkez0d) | 2:12 | 2022-05-06 | 2023-01-21 |
 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 | 2022-03-03 | 2022-10-15 |
+| [Coincidir](https://open.spotify.com/track/5xchG6qNlgDyZOgfmv5EpE) | [Nuevo Elemento](https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N) | [Coincidencias](https://open.spotify.com/album/0YGUKU6DyVS2F7TnMl2Jav) | 3:01 | 2023-05-12 |  |
 | [Como Te Quiero Yo A Ti \- Regional Mexican Version](https://open.spotify.com/track/2EBr0cv71zs5Fkov7bBP5O) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Como Te Quiero Yo A Ti \(Regional Mexican Version\)](https://open.spotify.com/album/3248Ap0ShuOzNBxBncwh4H) | 3:09 | 2022-08-05 | 2022-10-15 |
 | [Con Tu Recuerdo](https://open.spotify.com/track/4VUt0lvEPcNk9bZ3sDwROc) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Con Tu Recuerdo](https://open.spotify.com/album/2HvSOHRTPK1HBUMgA5eUUc) | 2:57 | 2022-12-09 | 2023-02-14 |
 | [Con Un Botecito A Pecho](https://open.spotify.com/track/1IqbC17XpPQ80i5gPAFnp1) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Con Un Botecito A Pecho](https://open.spotify.com/album/1Vm0rnopJSpZ7g5W41ca8k) | 2:56 | 2022-03-03 |  |
@@ -59,7 +60,7 @@
 | [Imborrable](https://open.spotify.com/track/3jNjhaqd0hDPHW8DFoufce) | [Chelo Ramírez](https://open.spotify.com/artist/5CrdWDm3mQfNI5vlPWyw3z) | [Imborrable](https://open.spotify.com/album/3A5prmtlMcT7DlMjAjTkCY) | 3:12 | 2022-10-14 | 2023-01-19 |
 | [La Despedida](https://open.spotify.com/track/2eBECLFWzlAHqJtEJhm5Ya) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [La Despedida](https://open.spotify.com/album/1OWsLICCRxbyWTZuE3xDvk) | 2:21 | 2023-01-20 |  |
 | [La Llorona](https://open.spotify.com/track/5AOEudcsj9BbSfDbRjxkpO) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [La Llorona](https://open.spotify.com/album/0vx6yN3peiZnWGIK3yxgZX) | 3:46 | 2022-10-28 |  |
-| [La Lotería](https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 3:06 | 2022-10-14 | 2023-05-09 |
+| [La Lotería](https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 3:06 | 2022-10-14 |  |
 | [La Muerte](https://open.spotify.com/track/57r6aaVaCxnOL9ntFEYySS) | [Miguelón Martínez](https://open.spotify.com/artist/5eTHk7xdW6Jf6RSEennGnz) | [La Muerte](https://open.spotify.com/album/1kXogJjit1w6TYkm7Thclz) | 2:18 | 2022-10-28 | 2022-12-08 |
 | [La Reina](https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [La Fuerza](https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5) | 3:48 | 2022-03-03 |  |
 | [La Siguiente](https://open.spotify.com/track/4joPCNKibsoabhpuHPofqG) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [La Siguiente](https://open.spotify.com/album/2ew2njzdzMchb0J1ocVLPH) | 3:22 | 2022-09-23 |  |
@@ -70,14 +71,14 @@
 | [Limón Con Sal](https://open.spotify.com/track/2yG1RaWw4zhu9YvIgXl2fD) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP 1](https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR) | 2:54 | 2022-06-03 | 2023-01-21 |
 | [Los Besos Jamás](https://open.spotify.com/track/7pj6fB6ohdQBAsI4fVUUUd) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Los Besos Jamás](https://open.spotify.com/album/1ZvZDdo2wp8MnzLUkocjgM) | 3:15 | 2022-03-03 |  |
 | [Magia](https://open.spotify.com/track/6ExLGBti18vFy0Kc3QNXvO) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [Magia](https://open.spotify.com/album/60kJstm2YGdiqr6g7gpCqB) | 2:37 | 2023-04-14 |  |
-| [MALAMANTE \(en carne viva\)](https://open.spotify.com/track/4YQ4KZT0CvKbFJFYPZZedi) | [Veronica Orozco](https://open.spotify.com/artist/1Te0peWkDd6h5Rnd0qjaKm), [Diana Hoyos](https://open.spotify.com/artist/1OfXFUyD2ihq5rMFtWIuJn) | [MALAMANTE \(en carne viva\)](https://open.spotify.com/album/12YgmMbN5H0v4ZXhxrSwpQ) | 3:20 | 2023-04-21 |  |
+| [MALAMANTE \(en carne viva\)](https://open.spotify.com/track/4YQ4KZT0CvKbFJFYPZZedi) | [Veronica Orozco](https://open.spotify.com/artist/1Te0peWkDd6h5Rnd0qjaKm), [Diana Hoyos](https://open.spotify.com/artist/1OfXFUyD2ihq5rMFtWIuJn) | [MALAMANTE \(en carne viva\)](https://open.spotify.com/album/12YgmMbN5H0v4ZXhxrSwpQ) | 3:20 | 2023-04-21 | 2023-05-13 |
 | [Me Hace Tanto Bien](https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Me Hace Tanto Bien](https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV) | 3:51 | 2022-07-08 |  |
 | [Me lo vas a agradecer](https://open.spotify.com/track/0XNpmYRhxlgC8n7QeuwLTq) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [Me lo vas a agradecer](https://open.spotify.com/album/4wmK6yBz7s8AyDW2hOcv3a) | 3:10 | 2022-10-28 | 2023-04-18 |
 | [Me Pase de Tragos](https://open.spotify.com/track/5ZGfTN3AjHosH5O8bpjyOf) | [Alexis Escobar](https://open.spotify.com/artist/5WJINRAYLwCnLBp9tzaE98) | [Me Pase de Tragos](https://open.spotify.com/album/6hA1t3VClQcV24hLiQ0zQn) | 2:58 | 2023-04-14 |  |
 | [Me Tiré Al Alcohol](https://open.spotify.com/track/2OQfPlCayqoDQHVWJPwBlu) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Me Tiré Al Alcohol](https://open.spotify.com/album/2QcBvOJ8cSTo5EsQarzKTx) | 2:43 | 2023-02-13 |  |
 | [Me Vas A Perdonar](https://open.spotify.com/track/1wuJDqor4jIBEbpsPxp4dh) | [Zornoza](https://open.spotify.com/artist/7duoO1s42va1lka5TikCfu) | [Me Vas A Perdonar](https://open.spotify.com/album/36GNoydedha8CPi0Ncd1gz) | 3:13 | 2022-09-09 | 2022-10-29 |
 | [Mejor Así](https://open.spotify.com/track/0lmmvf2eUzkjNlDWctEibC) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Mejor Así](https://open.spotify.com/album/0fa1WYDpSKEHiCj3YTtsDq) | 2:48 | 2023-04-21 |  |
-| [Mi Culpa](https://open.spotify.com/track/35NsxRSqly73eUC9jOgATW) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Mi Culpa](https://open.spotify.com/album/2IiwnQJQpBcaZnkvycvvT9) | 4:28 | 2023-04-21 |  |
+| [Mi Culpa](https://open.spotify.com/track/35NsxRSqly73eUC9jOgATW) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Mi Culpa](https://open.spotify.com/album/2IiwnQJQpBcaZnkvycvvT9) | 4:28 | 2023-04-21 | 2023-05-13 |
 | [Mi Ego](https://open.spotify.com/track/07YArNoh8ZeQfnQc4sDXxB) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [México de Mi Corazón, Vol\. 2](https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY) | 3:23 | 2022-03-03 |  |
 | [Mi Reflejo](https://open.spotify.com/track/1wi1GAdmpU1qdbrtNBss75) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Mi Reflejo](https://open.spotify.com/album/2YOA7R8fMyfUqGjNn4CYuP) | 3:34 | 2022-06-03 | 2022-12-03 |
 | [Morí](https://open.spotify.com/track/60ZnEd8EldyWJUJ9wuTqZN) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Douglas Bastidas Tranzas](https://open.spotify.com/artist/6ekmUnU8sgXqLDJWWWSNvz) | [Morí](https://open.spotify.com/album/5WGVNULWg82krh2zUUwM79) | 3:48 | 2022-10-28 | 2022-12-10 |

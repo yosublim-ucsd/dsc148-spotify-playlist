@@ -987,6 +987,24 @@
     },
     {
       "album": {
+        "name": "The Perpetual Dream",
+        "url": "https://open.spotify.com/album/6fPm9g2DHRc1uC9eVEbgtb"
+      },
+      "artists": [
+        {
+          "name": "Tulip",
+          "url": "https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311250,
+      "name": "Black Rainbow",
+      "url": "https://open.spotify.com/track/7qvj3XBm3H4TqmfEQ2PWXM"
+    },
+    {
+      "album": {
         "name": "Black Water",
         "url": "https://open.spotify.com/album/4VVqbpx3nWQT1MguesdSvL"
       },
@@ -1218,7 +1236,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 263395,
       "name": "Blood, Sweat, & Beers",
       "url": "https://open.spotify.com/track/1rO5KJFbnSU2CiIKASBQ4e"
@@ -2583,6 +2601,24 @@
     },
     {
       "album": {
+        "name": "Dying Light",
+        "url": "https://open.spotify.com/album/2yj1O1jlzZHkntX2ybPGbO"
+      },
+      "artists": [
+        {
+          "name": "Infected Rain",
+          "url": "https://open.spotify.com/artist/7duRZcBRPWVChY0xOyp6DY"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "Dying Light",
+      "url": "https://open.spotify.com/track/2FkKJavJX1OAYUVlzaQgPr"
+    },
+    {
+      "album": {
         "name": "Our Bones",
         "url": "https://open.spotify.com/album/41CaQanjJciO8xVlApEQBS"
       },
@@ -3252,7 +3288,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 352813,
       "name": "Fault Lines",
       "url": "https://open.spotify.com/track/3GyrxwekNfUmdLOQct75AJ"
@@ -3859,6 +3895,28 @@
     },
     {
       "album": {
+        "name": "Golden Age Of Music",
+        "url": "https://open.spotify.com/album/1tVChIu5QsFKxCsCdGx2Yx"
+      },
+      "artists": [
+        {
+          "name": "Arjen Lucassen's Supersonic Revolution",
+          "url": "https://open.spotify.com/artist/6FKUrDi8oDOzLFLGlb0hfK"
+        },
+        {
+          "name": "Ayreon",
+          "url": "https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312493,
+      "name": "Golden Age Of Music",
+      "url": "https://open.spotify.com/track/6V3piBg988IoOyqxyAQ3yF"
+    },
+    {
+      "album": {
         "name": "Gone Sour Doomed",
         "url": "https://open.spotify.com/album/2R4IMdqhxEy9oGZttcflWL"
       },
@@ -4032,7 +4090,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 266131,
       "name": "He and the Sea",
       "url": "https://open.spotify.com/track/5Lxr2tr0kXmS6DcxKu4mXP"
@@ -4086,10 +4144,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 345480,
       "name": "Head Mounted Sideways - Live From The Pool",
       "url": "https://open.spotify.com/track/4FQTC43CEgeZpZfrsYkGAE"
+    },
+    {
+      "album": {
+        "name": "Velvet Incandescence",
+        "url": "https://open.spotify.com/album/3FdWU5Dwuh59UmUEUn15D8"
+      },
+      "artists": [
+        {
+          "name": "Dawn of Ouroboros",
+          "url": "https://open.spotify.com/artist/10QeC2Z1BJ2nywykFZZ5JX"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329150,
+      "name": "Healing Grounds",
+      "url": "https://open.spotify.com/track/17XKmvVXawG9zhsuISPAdQ"
     },
     {
       "album": {
@@ -6722,7 +6798,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 250681,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/64dt6MAY6mSV1mQBUl8Uf0"
@@ -7076,6 +7152,24 @@
       "duration_ms": 330434,
       "name": "Prey",
       "url": "https://open.spotify.com/track/39HNgQGSnSGtGOwNF2aaGO"
+    },
+    {
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/1C7B9slsGeLEDgzbrJcHkg"
+      },
+      "artists": [
+        {
+          "name": "Voyager",
+          "url": "https://open.spotify.com/artist/16fltNcwTM5V9rnxIlcha4"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183510,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/0LeK6Ol47og0WdGwKegNUL"
     },
     {
       "album": {
@@ -8097,6 +8191,28 @@
     },
     {
       "album": {
+        "name": "Smoke of Their Torment",
+        "url": "https://open.spotify.com/album/5zWcZCDJFhDoO9QpZ55FwY"
+      },
+      "artists": [
+        {
+          "name": "REFORMED",
+          "url": "https://open.spotify.com/artist/1b36TEx0Pvv72Mn1WBwKfF"
+        },
+        {
+          "name": "Victor Borba",
+          "url": "https://open.spotify.com/artist/2yMgp5XJfvhpTgAg7wZqRF"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258526,
+      "name": "Smoke of Their Torment",
+      "url": "https://open.spotify.com/track/14hM03ZVjzGqiHAo4TMrak"
+    },
+    {
+      "album": {
         "name": "Snowblood",
         "url": "https://open.spotify.com/album/393HU6oEXQybzous3p0NC5"
       },
@@ -8533,6 +8649,24 @@
     },
     {
       "album": {
+        "name": "Subatlantic",
+        "url": "https://open.spotify.com/album/5EeaoNCpy5e8lI6NbV6h21"
+      },
+      "artists": [
+        {
+          "name": "The Ocean",
+          "url": "https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415666,
+      "name": "Subatlantic",
+      "url": "https://open.spotify.com/track/5aQwquM8wHf0X7OktRg69P"
+    },
+    {
+      "album": {
         "name": "Metal Covers, Vol. 1",
         "url": "https://open.spotify.com/album/6AJ0wg09tASuePn8zKV8nP"
       },
@@ -8616,7 +8750,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 358000,
       "name": "Surrounded - Live in NYC - 1993",
       "url": "https://open.spotify.com/track/4gi86wbezjWWY6UcSFHZut"
@@ -10124,7 +10258,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 219666,
       "name": "Turned",
       "url": "https://open.spotify.com/track/00CTRQJyxO0inKmGou2UEo"

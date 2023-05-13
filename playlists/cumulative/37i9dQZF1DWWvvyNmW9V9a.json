@@ -4719,6 +4719,24 @@
     },
     {
       "album": {
+        "name": "Fictional",
+        "url": "https://open.spotify.com/album/1Io07XUBdJzMINQnAWzSR5"
+      },
+      "artists": [
+        {
+          "name": "Khloe Rose",
+          "url": "https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223400,
+      "name": "Fictional",
+      "url": "https://open.spotify.com/track/6aHT59msgWO3ivOICNFmSS"
+    },
+    {
+      "album": {
         "name": "High School Musical: The Musical: The Series Season 3 (Episode 1) [From \"High School Musical: The Musical: The Series (Season 3)\"]",
         "url": "https://open.spotify.com/album/6lKBnP2FxDAFxUHVIxuvDC"
       },
@@ -4922,6 +4940,24 @@
       "duration_ms": 176989,
       "name": "Freezing",
       "url": "https://open.spotify.com/track/7reh67rES37v1n9grDX6HO"
+    },
+    {
+      "album": {
+        "name": "From The Start",
+        "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169573,
+      "name": "From The Start",
+      "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
     },
     {
       "album": {
@@ -5621,6 +5657,24 @@
     },
     {
       "album": {
+        "name": "Hare Hare",
+        "url": "https://open.spotify.com/album/0ymqvaOiilJa797C3Y2mZh"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203546,
+      "name": "Hare Hare",
+      "url": "https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t"
+    },
+    {
+      "album": {
         "name": "Hate Me If It Helps",
         "url": "https://open.spotify.com/album/1DUJT6Lfv7Ah0k9CX0Cftk"
       },
@@ -5946,6 +6000,24 @@
       "duration_ms": 197333,
       "name": "Hotel",
       "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
+    },
+    {
+      "album": {
+        "name": "hotline (edit)",
+        "url": "https://open.spotify.com/album/5iq9BytomHl2yBtORjUlzP"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60719,
+      "name": "hotline (edit)",
+      "url": "https://open.spotify.com/track/0WFryfbNKPXVtVQlz5dZ8H"
     },
     {
       "album": {

@@ -182,7 +182,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 251498,
       "name": "All of These Years",
       "url": "https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD"
@@ -644,6 +644,24 @@
       "duration_ms": 180453,
       "name": "Built Different",
       "url": "https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ"
+    },
+    {
+      "album": {
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233869,
+      "name": "Burn It Down",
+      "url": "https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW"
     },
     {
       "album": {
@@ -1626,7 +1644,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 191435,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/1pjwRbcx1M0MrUTvSRGCgu"
@@ -3894,7 +3912,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 169813,
       "name": "There's Always Next Year",
       "url": "https://open.spotify.com/track/2LEparJLsmYGlf51zAquu8"
@@ -3978,6 +3996,24 @@
       "duration_ms": 218201,
       "name": "To Whom ...",
       "url": "https://open.spotify.com/track/69JNWrpgjgulsDcCTXxlBk"
+    },
+    {
+      "album": {
+        "name": "Tough Crowd",
+        "url": "https://open.spotify.com/album/3BC1GZqDkYOdF0Icf2iebE"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200200,
+      "name": "Tough Crowd",
+      "url": "https://open.spotify.com/track/3CK7htQR2ighxCjU2vra9z"
     },
     {
       "album": {
@@ -4494,6 +4530,24 @@
       "duration_ms": 218419,
       "name": "Workin' Man",
       "url": "https://open.spotify.com/track/2ft5Bac46RD8TIN1yGbEwG"
+    },
+    {
+      "album": {
+        "name": "World On Fire",
+        "url": "https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261269,
+      "name": "World On Fire",
+      "url": "https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,684 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,723 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 47 | [遠い音楽 \~ハートビート\~](https://open.spotify.com/track/1m7rkEyTtteRmWbMQlDK4W) | [山吹沙綾\(CV.大橋彩香\)](https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy) | [TVアニメ「BanG Dream!」キャラクターソング 山吹沙綾「遠い音楽 \~ハートビート\~」](https://open.spotify.com/album/1kIj39FLWHXqd73Nal7tzK) | 4:03 |
 | 48 | [無路矢](https://open.spotify.com/track/5BtZ5g4LAJPEMx7fVaPN9f) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [無路矢](https://open.spotify.com/album/2rSKZFZzDIcooeTCPKBLOt) | 3:42 |
 | 49 | [クインティプル☆すまいる](https://open.spotify.com/track/38h0Hs77kE2C1nRN9KgZqp) | [香澄](https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV), [蘭](https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu), [彩](https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69), [友希那](https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw), [こころ](https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM) | [クインティプル☆すまいる](https://open.spotify.com/album/7jSTcMdYALUXD6hZWdsw5J) | 4:03 |
-| 50 | [チョコレイトの低音レシピ](https://open.spotify.com/track/0o4od2HRigwdtMGZdRnwXA) | [牛込りみ\(CV.西本りみ\)](https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG) | [TVアニメ「BanG Dream!」キャラクターソング 牛込りみ「チョコレイトの低音レシピ」](https://open.spotify.com/album/6FbxgPesZO4zbeWV0CF6VP) | 4:31 |
+| 50 | [神さま、バカ](https://open.spotify.com/track/4gRh7Jbk7W2IkLZKuyiHT2) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [神さま、バカ](https://open.spotify.com/album/2VtDfTQftGvkCf1VyFxqSK) | 3:33 |
 
-Snapshot ID: `MCw4YzNlNjcxNDkzNzU3YzVjNzFiOGZkZTUyM2RkODJlY2FlMjk4Mjlh`
+Snapshot ID: `MCxmOTcxY2U3MzE3MjNhNDFmMDExMDc3ODI0YmU5MWUxYWE2ZjcyOTVj`

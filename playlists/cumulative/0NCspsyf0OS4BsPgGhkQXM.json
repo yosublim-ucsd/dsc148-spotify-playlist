@@ -122,7 +122,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 187780,
       "name": "3+2=U",
       "url": "https://open.spotify.com/track/4MFddz4BhfPefzuc5WapkJ"
@@ -5020,7 +5020,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 194670,
       "name": "Friends With Benefits",
       "url": "https://open.spotify.com/track/1BHTi5p3yoeInhIL2ydZzj"
@@ -6363,6 +6363,28 @@
     },
     {
       "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/7nlCJDlqUxqV8opm2WNfbx"
+      },
+      "artists": [
+        {
+          "name": "Koastle",
+          "url": "https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g"
+        },
+        {
+          "name": "Talia Rose",
+          "url": "https://open.spotify.com/artist/6eYjrfBSmbl3b8TijVnW3T"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/5LQKxgiin9UDvg8GUaRXXu"
+    },
+    {
+      "album": {
         "name": "Hurt",
         "url": "https://open.spotify.com/album/7CUMWsuL3VBhlDaJXZGmX7"
       },
@@ -7512,7 +7534,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 169600,
       "name": "Know Me",
       "url": "https://open.spotify.com/track/5MJyKvSj8v6hrFohLg5YcB"
@@ -8282,7 +8304,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 188764,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3fH6sfaWJ9Ji6sqbcqdPmf"
@@ -15070,6 +15092,36 @@
       "duration_ms": 217411,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/5ACZOGjT6I5He0pDZED56Z"
+    },
+    {
+      "album": {
+        "name": "WANT 2",
+        "url": "https://open.spotify.com/album/4HGwuo32aQEziAi12CdUXc"
+      },
+      "artists": [
+        {
+          "name": "andrei",
+          "url": "https://open.spotify.com/artist/5tXxrzPQRZ7UK2cAQNSQW2"
+        },
+        {
+          "name": "Scott Rill",
+          "url": "https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV"
+        },
+        {
+          "name": "Besomorph",
+          "url": "https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158313,
+      "name": "WANT 2",
+      "url": "https://open.spotify.com/track/1sPaKzY12RpRuY0IeFcaPM"
     },
     {
       "album": {

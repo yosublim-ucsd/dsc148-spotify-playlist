@@ -801,6 +801,24 @@
     },
     {
       "album": {
+        "name": "Layalina",
+        "url": "https://open.spotify.com/album/0IS5I08Uw4cVS3f84n2WlO"
+      },
+      "artists": [
+        {
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230700,
+      "name": "El Nazra El Oula",
+      "url": "https://open.spotify.com/track/5XRNjWl6DE28GMn15NJktp"
+    },
+    {
+      "album": {
         "name": "Enta Farha",
         "url": "https://open.spotify.com/album/1iI8jMST3BCkWVZTTL0a7T"
       },
@@ -1143,6 +1161,24 @@
     },
     {
       "album": {
+        "name": "Helw El Kalam",
+        "url": "https://open.spotify.com/album/2LX8nfd7ZNYHBOFxiHqTBQ"
+      },
+      "artists": [
+        {
+          "name": "Amal Mansy",
+          "url": "https://open.spotify.com/artist/3gpaXBJk41UwHBOMY27VdQ"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209764,
+      "name": "Helw El Kalam",
+      "url": "https://open.spotify.com/track/0K9cS7axpvMGE67LPO3lqH"
+    },
+    {
+      "album": {
         "name": "Hetta Tanya",
         "url": "https://open.spotify.com/album/18REYwJulzZfAYpdvUXHtR"
       },
@@ -1280,7 +1316,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 276792,
       "name": "Khaleena A\u2019din",
       "url": "https://open.spotify.com/track/4GRMwobUes0Q9SQOa6C9e3"
@@ -2466,7 +2502,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 266134,
       "name": "\u063a\u0627\u0644\u064a",
       "url": "https://open.spotify.com/track/3wj9XRY8L2gzgMYQrh9so7"

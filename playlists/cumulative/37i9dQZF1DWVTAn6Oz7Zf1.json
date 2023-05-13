@@ -585,6 +585,24 @@
     },
     {
       "album": {
+        "name": "Buzzing",
+        "url": "https://open.spotify.com/album/1P6cgLWkMDEFw48KvYwRxY"
+      },
+      "artists": [
+        {
+          "name": "Lexa Hill",
+          "url": "https://open.spotify.com/artist/2EBpa9UjqsApalEK8cXoHI"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219285,
+      "name": "Buzzing",
+      "url": "https://open.spotify.com/track/1bFb1ae64GD6ZR68tiuFFf"
+    },
+    {
+      "album": {
         "name": "Belters Only",
         "url": "https://open.spotify.com/album/1JCbimAC11Q9dyaMk1dz0U"
       },
@@ -1723,6 +1741,28 @@
     },
     {
       "album": {
+        "name": "Hit 'Em Up Style (Oops!)",
+        "url": "https://open.spotify.com/album/5OlOJVvdqUc8BoMMjTGamk"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        },
+        {
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159840,
+      "name": "Hit 'Em Up Style (Oops!)",
+      "url": "https://open.spotify.com/track/6s2vYgLML3ClOtlJhYyYKR"
+    },
+    {
+      "album": {
         "name": "Hold U (feat. James Tone)",
         "url": "https://open.spotify.com/album/2Ej6MtS04Rpyr66M3dnxiB"
       },
@@ -1910,7 +1950,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 182918,
       "name": "Hungry Heart ft. Hayley Kiyoko",
       "url": "https://open.spotify.com/track/6JqJ2DMu7B2PddAdNAVmYy"
@@ -2818,6 +2858,24 @@
       "duration_ms": 168179,
       "name": "Need Your Love",
       "url": "https://open.spotify.com/track/0oe2fBE0ElSk7sIAz6bnOZ"
+    },
+    {
+      "album": {
+        "name": "Never Dance Again",
+        "url": "https://open.spotify.com/album/3FOC9lnnk67fAMm7g3MO38"
+      },
+      "artists": [
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192788,
+      "name": "Never Dance Again",
+      "url": "https://open.spotify.com/track/1F1z4H6hVC4wXSsPZKm8hV"
     },
     {
       "album": {
@@ -3820,7 +3878,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 150131,
       "name": "Sunday Night",
       "url": "https://open.spotify.com/track/7IAFfnLZEm7zPyTBNjjdYb"
@@ -4180,7 +4238,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 169831,
       "name": "V I B R A T I O N",
       "url": "https://open.spotify.com/track/2t3FV5IpL1uWeMjt7vOomW"

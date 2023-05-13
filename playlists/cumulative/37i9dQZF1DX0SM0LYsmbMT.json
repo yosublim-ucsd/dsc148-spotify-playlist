@@ -27200,7 +27200,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 118571,
       "name": "In Between",
       "url": "https://open.spotify.com/track/7D56BYZHOiHXNXBcVJI0Sl"
@@ -28770,6 +28770,32 @@
       "duration_ms": 123177,
       "name": "Jam Space",
       "url": "https://open.spotify.com/track/6bWDbXmt50RO7P8SnmlYWP"
+    },
+    {
+      "album": {
+        "name": "Jamata",
+        "url": "https://open.spotify.com/album/05RcL5NUr9nOc263frMVAW"
+      },
+      "artists": [
+        {
+          "name": "damaa.beats",
+          "url": "https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY"
+        },
+        {
+          "name": "Hoffy Beats",
+          "url": "https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq"
+        },
+        {
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158131,
+      "name": "Jamata",
+      "url": "https://open.spotify.com/track/3ziDRmHz1sbnWZ8uBJYoai"
     },
     {
       "album": {
@@ -45004,7 +45030,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 87048,
       "name": "Paper Plane",
       "url": "https://open.spotify.com/track/2omgCcDetlo5bsOx6Dcdrp"
@@ -49186,7 +49212,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 138795,
       "name": "right here",
       "url": "https://open.spotify.com/track/0CAXwqDURV3HNIcRBo6q0H"
@@ -60389,6 +60415,24 @@
     },
     {
       "album": {
+        "name": "Tesoro",
+        "url": "https://open.spotify.com/album/3yIpTYdbqhltPnPXh6hMVA"
+      },
+      "artists": [
+        {
+          "name": "Sabato Scola",
+          "url": "https://open.spotify.com/artist/6gy4Fsc3iuNQ5qkYdOzF7h"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Tesoro",
+      "url": "https://open.spotify.com/track/50FAMtr0bCWmcr32wP4zJ7"
+    },
+    {
+      "album": {
         "name": "Tessin",
         "url": "https://open.spotify.com/album/7GbM9Bd7aaXzJVrEzCxmkQ"
       },
@@ -60840,6 +60884,24 @@
       "duration_ms": 138353,
       "name": "The Hideout",
       "url": "https://open.spotify.com/track/6Ohyi1NkOWMKxQDfL3TL6X"
+    },
+    {
+      "album": {
+        "name": "The Hommage",
+        "url": "https://open.spotify.com/album/5B9hWvxShI6BT5v1wuY5gY"
+      },
+      "artists": [
+        {
+          "name": "Knowsum",
+          "url": "https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88148,
+      "name": "The Hommage",
+      "url": "https://open.spotify.com/track/6zNwFCceDEZGFEv6s1Itsh"
     },
     {
       "album": {

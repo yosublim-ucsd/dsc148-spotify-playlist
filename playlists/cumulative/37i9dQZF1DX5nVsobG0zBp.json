@@ -154,10 +154,28 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 257146,
       "name": "300",
       "url": "https://open.spotify.com/track/6lElXo5x9oyqvIUcG7gP7d"
+    },
+    {
+      "album": {
+        "name": "Ngana Zambi",
+        "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257146,
+      "name": "300",
+      "url": "https://open.spotify.com/track/7s0bCwjqJRMjH7yNf6Gyf7"
     },
     {
       "album": {
@@ -215,6 +233,24 @@
     },
     {
       "album": {
+        "name": "Ngana Zambi",
+        "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258590,
+      "name": "Bairro",
+      "url": "https://open.spotify.com/track/0eluGNN9BHwRew83LH8lUt"
+    },
+    {
+      "album": {
         "name": "Bairro",
         "url": "https://open.spotify.com/album/430C90nJt95Ie8YPDZFA46"
       },
@@ -226,7 +262,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 258590,
       "name": "Bairro",
       "url": "https://open.spotify.com/track/1ai9FDnFQDv18WAtFhMTIz"
@@ -834,7 +870,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 225880,
       "name": "FEELING",
       "url": "https://open.spotify.com/track/7mOrrV6qtWJsIccPN8uVVM"
@@ -1216,7 +1252,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 240594,
       "name": "La Bella Mafia",
       "url": "https://open.spotify.com/track/3UZUEIxIO8diPNOVusvrui"
@@ -1878,7 +1914,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-04",
+      "date_removed": null,
       "duration_ms": 304600,
       "name": "O Re$To",
       "url": "https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R"
@@ -1962,7 +1998,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 214654,
       "name": "Perseus",
       "url": "https://open.spotify.com/track/21tsJFuHp7gqkyY1Qg9vmD"
@@ -2158,7 +2194,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 223634,
       "name": "Rubi",
       "url": "https://open.spotify.com/track/4aStXzYiJWQvdspHEn6GJN"
@@ -2890,7 +2926,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 209000,
       "name": "\u00c9 Verdade",
       "url": "https://open.spotify.com/track/3pnhXjwXLLMfNrS9k9HbKh"

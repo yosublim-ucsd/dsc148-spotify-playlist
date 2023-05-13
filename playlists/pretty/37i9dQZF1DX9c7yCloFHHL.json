@@ -1,12 +1,12 @@
 {
   "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. Brian Eno and Fred Again.. on cover.",
-  "num_followers": 150455,
+  "num_followers": 150549,
   "original_name": "Ambiente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGRjZDBjZjc4NWNiNjhjZjVjYzUzZDdjYmY0NDY5MzBmYmZjZWUy",
+  "snapshot_id": "MCwyMTY1ZmMyN2Q2MzNkMGRhOWQyMDdmOWI0ZTg3ODQwZDZhMmM0YWIz",
   "tracks": [
     {
       "added_at": "2023-05-05 18:05:28",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-05-05 18:05:28",
       "album": {
+        "name": "Dawn Chorus",
+        "url": "https://open.spotify.com/album/09wpxcomjoPy3G0wKpZZzD"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 208625,
+      "name": "Dawn Chorus",
+      "url": "https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D"
+    },
+    {
+      "added_at": "2023-05-05 18:05:28",
+      "album": {
         "name": "Vapors",
         "url": "https://open.spotify.com/album/7pmaEJKmCiewU5BDYlEiAo"
       },
@@ -795,22 +811,6 @@
     {
       "added_at": "2023-05-05 18:05:28",
       "album": {
-        "name": "Dawn Chorus",
-        "url": "https://open.spotify.com/album/09wpxcomjoPy3G0wKpZZzD"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        }
-      ],
-      "duration_ms": 208625,
-      "name": "Dawn Chorus",
-      "url": "https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D"
-    },
-    {
-      "added_at": "2023-05-05 18:05:28",
-      "album": {
         "name": "No Highs",
         "url": "https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P"
       },
@@ -823,6 +823,22 @@
       "duration_ms": 155472,
       "name": "Winter Cop",
       "url": "https://open.spotify.com/track/5fK31V4Icpc46SpNQkwtv3"
+    },
+    {
+      "added_at": "2023-05-05 18:05:28",
+      "album": {
+        "name": "Then",
+        "url": "https://open.spotify.com/album/6Yj7uh3SXxi4OCpy9qTymc"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Then",
+      "url": "https://open.spotify.com/track/5Ij5ddGh0JCn6i6yGoC6Tf"
     },
     {
       "added_at": "2023-05-05 18:05:28",
@@ -843,22 +859,6 @@
       "duration_ms": 143483,
       "name": "Shards",
       "url": "https://open.spotify.com/track/06djq5wohrG47TNFMVm9rv"
-    },
-    {
-      "added_at": "2023-05-05 18:05:28",
-      "album": {
-        "name": "Then",
-        "url": "https://open.spotify.com/album/6Yj7uh3SXxi4OCpy9qTymc"
-      },
-      "artists": [
-        {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Then",
-      "url": "https://open.spotify.com/track/5Ij5ddGh0JCn6i6yGoC6Tf"
     },
     {
       "added_at": "2023-05-05 18:05:28",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-05-05 18:05:28",
       "album": {
-        "name": "Collected Pieces: 2015-2020",
-        "url": "https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 230051,
-      "name": "We Wave From Our Boats",
-      "url": "https://open.spotify.com/track/0ax8Q0A3ejFqsLA7Gl7mH3"
-    },
-    {
-      "added_at": "2023-05-05 18:05:28",
-      "album": {
         "name": "Circle 26 (Tom Ashbrook Rework)",
         "url": "https://open.spotify.com/album/0qoiIX2iLAn9olZFyM2349"
       },
@@ -987,18 +971,38 @@
     {
       "added_at": "2023-05-05 18:05:28",
       "album": {
-        "name": "Constellation No. 3",
-        "url": "https://open.spotify.com/album/05pAe2X5t1bWgk3uUuI6WW"
+        "name": "Collected Pieces: 2015-2020",
+        "url": "https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP"
       },
       "artists": [
         {
-          "name": "Dustin O'Halloran",
-          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
         }
       ],
-      "duration_ms": 436714,
-      "name": "Constellation No. 3",
-      "url": "https://open.spotify.com/track/0zmOab808L0fjCrBh1vXTq"
+      "duration_ms": 230051,
+      "name": "We Wave From Our Boats",
+      "url": "https://open.spotify.com/track/0ax8Q0A3ejFqsLA7Gl7mH3"
+    },
+    {
+      "added_at": "2023-05-05 18:05:28",
+      "album": {
+        "name": "everybody's gone home (florence slowed version)",
+        "url": "https://open.spotify.com/album/2y6UfCHwkqPap0k9HuR3tq"
+      },
+      "artists": [
+        {
+          "name": "MADEBYGODES",
+          "url": "https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc"
+        },
+        {
+          "name": "Sedogy Bedam",
+          "url": "https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt"
+        }
+      ],
+      "duration_ms": 171072,
+      "name": "everybody's gone home (florence slowed version)",
+      "url": "https://open.spotify.com/track/722gImw27YEj0Mda9wbabK"
     },
     {
       "added_at": "2023-05-05 18:05:28",
@@ -1023,22 +1027,18 @@
     {
       "added_at": "2023-05-05 18:05:28",
       "album": {
-        "name": "everybody's gone home (florence slowed version)",
-        "url": "https://open.spotify.com/album/2y6UfCHwkqPap0k9HuR3tq"
+        "name": "Constellation No. 3",
+        "url": "https://open.spotify.com/album/05pAe2X5t1bWgk3uUuI6WW"
       },
       "artists": [
         {
-          "name": "MADEBYGODES",
-          "url": "https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc"
-        },
-        {
-          "name": "Sedogy Bedam",
-          "url": "https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt"
+          "name": "Dustin O'Halloran",
+          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
         }
       ],
-      "duration_ms": 171072,
-      "name": "everybody's gone home (florence slowed version)",
-      "url": "https://open.spotify.com/track/722gImw27YEj0Mda9wbabK"
+      "duration_ms": 436714,
+      "name": "Constellation No. 3",
+      "url": "https://open.spotify.com/track/0zmOab808L0fjCrBh1vXTq"
     },
     {
       "added_at": "2023-05-05 18:05:28",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-05-05 18:05:28",
       "album": {
+        "name": "VIM",
+        "url": "https://open.spotify.com/album/7IOGpPO0xvq0jE1RUCepOl"
+      },
+      "artists": [
+        {
+          "name": "Martin Kohlstedt",
+          "url": "https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk"
+        }
+      ],
+      "duration_ms": 207756,
+      "name": "VIM",
+      "url": "https://open.spotify.com/track/62WGcKSzm5sDtn2QTzx6Gm"
+    },
+    {
+      "added_at": "2023-05-05 18:05:28",
+      "album": {
         "name": "In Light Of Blues",
         "url": "https://open.spotify.com/album/6lublxQLiB9wNHvcMRM6vD"
       },
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2023-05-05 18:05:28",
       "album": {
-        "name": "VIM",
-        "url": "https://open.spotify.com/album/7IOGpPO0xvq0jE1RUCepOl"
-      },
-      "artists": [
-        {
-          "name": "Martin Kohlstedt",
-          "url": "https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk"
-        }
-      ],
-      "duration_ms": 207756,
-      "name": "VIM",
-      "url": "https://open.spotify.com/track/62WGcKSzm5sDtn2QTzx6Gm"
-    },
-    {
-      "added_at": "2023-05-05 18:05:28",
-      "album": {
         "name": "Snowfall",
         "url": "https://open.spotify.com/album/3ZprQt0tSHmf9Y5bGQ1dGy"
       },
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-05-05 18:05:28",
       "album": {
-        "name": "The Long Night in Winter Light",
-        "url": "https://open.spotify.com/album/7ts5pWYsvPBiEunCLHuXD3"
-      },
-      "artists": [
-        {
-          "name": "Tomo-Nakaguchi",
-          "url": "https://open.spotify.com/artist/5x9yhEiHELdwW5zDBA6ueZ"
-        }
-      ],
-      "duration_ms": 235063,
-      "name": "Twilight Glow Of The Sky",
-      "url": "https://open.spotify.com/track/7dHU57RwTo816PY1mq3Z7n"
-    },
-    {
-      "added_at": "2023-05-05 18:05:28",
-      "album": {
         "name": "Epilogue",
         "url": "https://open.spotify.com/album/6BynYgJToip74Uh1EZ7yR4"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 249081,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/7lEfD3Sz6ibitGq0UanGMr"
+    },
+    {
+      "added_at": "2023-05-05 18:05:28",
+      "album": {
+        "name": "The Long Night in Winter Light",
+        "url": "https://open.spotify.com/album/7ts5pWYsvPBiEunCLHuXD3"
+      },
+      "artists": [
+        {
+          "name": "Tomo-Nakaguchi",
+          "url": "https://open.spotify.com/artist/5x9yhEiHELdwW5zDBA6ueZ"
+        }
+      ],
+      "duration_ms": 235063,
+      "name": "Twilight Glow Of The Sky",
+      "url": "https://open.spotify.com/track/7dHU57RwTo816PY1mq3Z7n"
     },
     {
       "added_at": "2023-05-05 18:05:28",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-05-05 18:05:28",
       "album": {
-        "name": "#3 (Rhubarb)",
-        "url": "https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK"
-      },
-      "artists": [
-        {
-          "name": "Brendan Eder Ensemble",
-          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
-        }
-      ],
-      "duration_ms": 437138,
-      "name": "#3 (Rhubarb)",
-      "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
-    },
-    {
-      "added_at": "2023-05-05 18:05:28",
-      "album": {
         "name": "Knit Cap Theater \"Fudarakutokaiki\" Original Soundtrack",
         "url": "https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 129600,
       "name": "Kuware Uta - Intro",
       "url": "https://open.spotify.com/track/2SWEdiXt0rDhEcXrLBktG1"
+    },
+    {
+      "added_at": "2023-05-05 18:05:28",
+      "album": {
+        "name": "#3 (Rhubarb)",
+        "url": "https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK"
+      },
+      "artists": [
+        {
+          "name": "Brendan Eder Ensemble",
+          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
+        }
+      ],
+      "duration_ms": 437138,
+      "name": "#3 (Rhubarb)",
+      "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
     },
     {
       "added_at": "2023-05-05 18:05:28",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2023-05-05 18:05:28",
       "album": {
-        "name": "Cloudleaping",
-        "url": "https://open.spotify.com/album/1XkHc9Ie65kxukIolLDQ81"
+        "name": "I Remember You Being Happy",
+        "url": "https://open.spotify.com/album/4w3v6gYbN4mdKd2mo5CtYS"
       },
       "artists": [
         {
-          "name": "Relief",
-          "url": "https://open.spotify.com/artist/345D7I2CuaqxHTTwD4wlBx"
+          "name": "BAILE",
+          "url": "https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9"
         }
       ],
-      "duration_ms": 152000,
-      "name": "Cloudleaping",
-      "url": "https://open.spotify.com/track/4KZ48xPHiGYVfcXuVBrgM8"
+      "duration_ms": 208988,
+      "name": "I Remember You Being Happy",
+      "url": "https://open.spotify.com/track/2Z2fWWESeWka0erDgpl6hZ"
     },
     {
       "added_at": "2023-05-05 18:05:28",
@@ -1691,6 +1691,22 @@
       "duration_ms": 315960,
       "name": "Vindheks",
       "url": "https://open.spotify.com/track/0k7W32ROqCNUuzRFb0tDxE"
+    },
+    {
+      "added_at": "2023-05-05 18:05:28",
+      "album": {
+        "name": "Cloudleaping",
+        "url": "https://open.spotify.com/album/1XkHc9Ie65kxukIolLDQ81"
+      },
+      "artists": [
+        {
+          "name": "Relief",
+          "url": "https://open.spotify.com/artist/345D7I2CuaqxHTTwD4wlBx"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Cloudleaping",
+      "url": "https://open.spotify.com/track/4KZ48xPHiGYVfcXuVBrgM8"
     },
     {
       "added_at": "2023-05-05 18:05:28",
@@ -1727,22 +1743,6 @@
     {
       "added_at": "2023-05-05 18:05:28",
       "album": {
-        "name": "Recovered",
-        "url": "https://open.spotify.com/album/5q5kFfRgXOMKiiOqk7kBFo"
-      },
-      "artists": [
-        {
-          "name": "Attom",
-          "url": "https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o"
-        }
-      ],
-      "duration_ms": 189908,
-      "name": "Recovered",
-      "url": "https://open.spotify.com/track/6D3nvlKp9mKSKt48N2liGr"
-    },
-    {
-      "added_at": "2023-05-05 18:05:28",
-      "album": {
         "name": "Invisible Cities",
         "url": "https://open.spotify.com/album/5jZGc1A6FrsN8qssSxxTce"
       },
@@ -1767,18 +1767,18 @@
     {
       "added_at": "2023-05-05 18:05:28",
       "album": {
-        "name": "Solar Winds",
-        "url": "https://open.spotify.com/album/3h6sOEyEuusliYvaxoEcWU"
+        "name": "Recovered",
+        "url": "https://open.spotify.com/album/5q5kFfRgXOMKiiOqk7kBFo"
       },
       "artists": [
         {
-          "name": "Retland",
-          "url": "https://open.spotify.com/artist/3dIuop1jVvVHVqOdB7mDMj"
+          "name": "Attom",
+          "url": "https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o"
         }
       ],
-      "duration_ms": 254333,
-      "name": "Solar Winds",
-      "url": "https://open.spotify.com/track/5rDCZp2N2REO0ICjB5dVNt"
+      "duration_ms": 189908,
+      "name": "Recovered",
+      "url": "https://open.spotify.com/track/6D3nvlKp9mKSKt48N2liGr"
     }
   ],
   "unique_name": "Ambiente",

@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "2023",
+        "url": "https://open.spotify.com/album/3liTrUIbXk9QpngZCHwLet"
+      },
+      "artists": [
+        {
+          "name": "A VOID",
+          "url": "https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222629,
+      "name": "2023",
+      "url": "https://open.spotify.com/track/10S8d3jVFTCNyfb8iWuhxN"
+    },
+    {
+      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/3EafDY5hu3gxtoLfn2TKDL"
       },
@@ -1201,6 +1219,24 @@
     },
     {
       "album": {
+        "name": "Choke",
+        "url": "https://open.spotify.com/album/1CUYUgptRIWm0wUsgwpTQp"
+      },
+      "artists": [
+        {
+          "name": "Heavenward",
+          "url": "https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190716,
+      "name": "Choke",
+      "url": "https://open.spotify.com/track/5kmn8hISjWoJPx17HqWSOj"
+    },
+    {
+      "album": {
         "name": "Circling the Drain",
         "url": "https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g"
       },
@@ -1417,6 +1453,24 @@
     },
     {
       "album": {
+        "name": "Creature",
+        "url": "https://open.spotify.com/album/2mQj1BmUj9HVQwDlEUTXWe"
+      },
+      "artists": [
+        {
+          "name": "bloodmoon",
+          "url": "https://open.spotify.com/artist/26hXUBuoVEiECCwpSCEYPB"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203766,
+      "name": "Creature",
+      "url": "https://open.spotify.com/track/4Jyiy6CRiKRQmlVt3JztNt"
+    },
+    {
+      "album": {
         "name": "Crosshairs",
         "url": "https://open.spotify.com/album/6ODSZq6jJ3oNoTJfuiPFAi"
       },
@@ -1525,6 +1579,24 @@
     },
     {
       "album": {
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215986,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj"
+    },
+    {
+      "album": {
         "name": "Dead Wake / Scavengers (Acoustic)",
         "url": "https://open.spotify.com/album/660CDua6AJT4ukoeursCgV"
       },
@@ -1590,7 +1662,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 234900,
       "name": "Deep in a Hole",
       "url": "https://open.spotify.com/track/1isXA4Z9dn35PG1PXw1bjY"
@@ -1648,7 +1720,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 220799,
       "name": "Destroy the World",
       "url": "https://open.spotify.com/track/3cqCrByCAW5x9RGcrICmYf"
@@ -2362,7 +2434,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 178349,
       "name": "Glazed Over",
       "url": "https://open.spotify.com/track/5MF8AmnvhY7uW3fgxKOVFf"
@@ -3079,6 +3151,24 @@
     },
     {
       "album": {
+        "name": "Jasmine",
+        "url": "https://open.spotify.com/album/2Q6wYidCFBABUIbJHS7k8I"
+      },
+      "artists": [
+        {
+          "name": "Wifecult",
+          "url": "https://open.spotify.com/artist/3pSxlyCEcLbIhN4dXOMs2n"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246453,
+      "name": "Jasmine",
+      "url": "https://open.spotify.com/track/0wVvRocrqgG7UcWahuDEHE"
+    },
+    {
+      "album": {
         "name": "Jealousy",
         "url": "https://open.spotify.com/album/4Tf9NrvgB10OtQgUAFyeav"
       },
@@ -3551,6 +3641,24 @@
     },
     {
       "album": {
+        "name": "Nepenthe",
+        "url": "https://open.spotify.com/album/1iwuk5tV77trbyFApJmLyT"
+      },
+      "artists": [
+        {
+          "name": "Bleach Garden",
+          "url": "https://open.spotify.com/artist/74v0EH5Gl2zsUhXXWzGJyI"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302828,
+      "name": "Make or Break",
+      "url": "https://open.spotify.com/track/1zE6P0V7FX36pdFblWVbUL"
+    },
+    {
+      "album": {
         "name": "Matilda",
         "url": "https://open.spotify.com/album/21e01B6u3KVo6l2LOFnZxC"
       },
@@ -3692,6 +3800,24 @@
       "duration_ms": 228866,
       "name": "Misplaced",
       "url": "https://open.spotify.com/track/1Ymfg3ga6MgtBaD3Cal5Q0"
+    },
+    {
+      "album": {
+        "name": "From Hell to Here",
+        "url": "https://open.spotify.com/album/0fESCRLAS064Q9a5blaLQ6"
+      },
+      "artists": [
+        {
+          "name": "HIMALAYAS",
+          "url": "https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194786,
+      "name": "Mistakes",
+      "url": "https://open.spotify.com/track/6Z54FF1uTQ4LeE6McKizwN"
     },
     {
       "album": {
@@ -4754,7 +4880,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 233361,
       "name": "Roosevelt",
       "url": "https://open.spotify.com/track/2XKhUAh2I8FpTfWqOPi22E"
@@ -4848,6 +4974,24 @@
       "duration_ms": 261345,
       "name": "Savior Mode",
       "url": "https://open.spotify.com/track/0G6fFMKdbf7fI3S1gLHSRK"
+    },
+    {
+      "album": {
+        "name": "Say",
+        "url": "https://open.spotify.com/album/4N9Y8YlXr38guFheXENI49"
+      },
+      "artists": [
+        {
+          "name": "Slow Joy",
+          "url": "https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152800,
+      "name": "Say",
+      "url": "https://open.spotify.com/track/2GIxKXaeFkLtuIRw6qmfGq"
     },
     {
       "album": {
@@ -5024,7 +5168,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 231666,
       "name": "Show You My Pain",
       "url": "https://open.spotify.com/track/6hcmMf722qybIx8OoyXvQd"
@@ -5384,7 +5528,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 232928,
       "name": "Supernatural",
       "url": "https://open.spotify.com/track/04Ndcc1318s9s9gRGGlrQo"
@@ -6012,7 +6156,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 196922,
       "name": "Tramlines",
       "url": "https://open.spotify.com/track/2TeHRE4Rl4YvuhlNuBXJVM"
@@ -6570,7 +6714,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 233603,
       "name": "Words of Love",
       "url": "https://open.spotify.com/track/0dhg4pXHwcMw6OY6c1SESI"

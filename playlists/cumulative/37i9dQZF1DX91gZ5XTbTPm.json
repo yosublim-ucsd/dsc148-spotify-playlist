@@ -551,6 +551,28 @@
     },
     {
       "album": {
+        "name": "All My Life (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223878,
+      "name": "All My Life (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
+    },
+    {
+      "album": {
         "name": "All or Nothing",
         "url": "https://open.spotify.com/album/2aZjdkUhj431M1eXs4thcq"
       },
@@ -2282,7 +2304,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 171700,
       "name": "Ex Dealer Flow 2 (feat. Jeezy)",
       "url": "https://open.spotify.com/track/3uQomGKwOomTBnuwWs9RGd"
@@ -2982,10 +3004,32 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 171872,
       "name": "GOMD",
       "url": "https://open.spotify.com/track/6qlQIOubQeiG3byhhqwPfU"
+    },
+    {
+      "album": {
+        "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
+        "url": "https://open.spotify.com/album/1XTi2AYI6uOEonUfsLSm3s"
+      },
+      "artists": [
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276986,
+      "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
+      "url": "https://open.spotify.com/track/4ncoZ4PKxvyzVoSIJsOLo0"
     },
     {
       "album": {
@@ -6551,6 +6595,28 @@
     },
     {
       "album": {
+        "name": "ROLL THE DICE (Prod. Gesaffelstein)",
+        "url": "https://open.spotify.com/album/6P4c5OMZZQZVJLQJrYgjbd"
+      },
+      "artists": [
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        },
+        {
+          "name": "Gesaffelstein",
+          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164946,
+      "name": "ROLL THE DICE (Prod. Gesaffelstein)",
+      "url": "https://open.spotify.com/track/7CAg4N1S926AymvuLjnJcy"
+    },
+    {
+      "album": {
         "name": "Roll Up Hot",
         "url": "https://open.spotify.com/album/31zHc8s8GFGigIErHVRgVH"
       },
@@ -7625,6 +7691,24 @@
     },
     {
       "album": {
+        "name": "Talkin Crazy",
+        "url": "https://open.spotify.com/album/0bafwntACaSuNBO9wDnAfm"
+      },
+      "artists": [
+        {
+          "name": "Rio Da Yung Og",
+          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210050,
+      "name": "Talkin Crazy",
+      "url": "https://open.spotify.com/track/0ypgbUTj2YsP1JO3etqq1b"
+    },
+    {
+      "album": {
         "name": "Talking Facts",
         "url": "https://open.spotify.com/album/4U3B0Os8xDWnoYRdZqaNRH"
       },
@@ -7862,7 +7946,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 172218,
       "name": "The Light",
       "url": "https://open.spotify.com/track/6j5BK1cFX9TjJd5EXHGgAn"
@@ -8448,7 +8532,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 188466,
       "name": "Way Too Hot (feat. DCG Msavv)",
       "url": "https://open.spotify.com/track/0gbJ0BNVj4Oq2bV8abqnc3"

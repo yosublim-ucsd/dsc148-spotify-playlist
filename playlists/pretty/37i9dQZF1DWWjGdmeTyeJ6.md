@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: Venus & the Flytraps\. Artwork by Isu Kim\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,155,041 likes - 66 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,155,020 likes - 66 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 23 | [Familiar](https://open.spotify.com/track/0QWbZNc1mW8k9Alpl6AnSL) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Familiar](https://open.spotify.com/album/2KkYkgjuWAVaUTLB0RFeGP) | 3:10 |
 | 24 | [Hanging Out With Your Cat](https://open.spotify.com/track/0RbPIVO6AL8pkuMtKCg2w6) | [Cataracts](https://open.spotify.com/artist/252OYk3jCYENB7kHajbs4O) | [You'll Never Find It If You're Looking For It](https://open.spotify.com/album/7BczxyKdSLswdYhlBsAD0R) | 3:40 |
 | 25 | [Drink The River](https://open.spotify.com/track/3znuPoIQWrUGRRL1nh3Ifz) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Drink The River](https://open.spotify.com/album/6t9HJaQDaEswn0LIweG7hg) | 3:35 |
-| 26 | [I Wanna Feel Good Naked](https://open.spotify.com/track/0FFp3UtslIjNPY1Z8VBTEy) | [Ava Beathard](https://open.spotify.com/artist/7hwnSMEIzb8Ry5i69tubcu) | [I Wanna Feel Good Naked](https://open.spotify.com/album/0w9rQWBLFuXrfrlpSyqRYY) | 3:48 |
+| 26 | [I Wanna Feel Good Naked](https://open.spotify.com/track/0FFp3UtslIjNPY1Z8VBTEy) | [Ava Beathard](https://open.spotify.com/artist/7hwnSMEIzb8Ry5i69tubcu) | [I Wanna Feel Good Naked](https://open.spotify.com/album/0w9rQWBLFuXrfrlpSyqRYY) | 3:46 |
 | 27 | [Sadboy](https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sadboy, Vol\. 1](https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo) | 2:10 |
 | 28 | [Rain In California](https://open.spotify.com/track/7e7Ahta2Z36i0kxM6JkSxi) | [VIBI](https://open.spotify.com/artist/5WXBhs4qvg2LSdklOaZCAl) | [Rain In California](https://open.spotify.com/album/0R6IlEAhvgQkcfcsMc6E0Z) | 2:28 |
 | 29 | [That Boat Sailed](https://open.spotify.com/track/00eAm6FQ58zYH4SIaJmpy5) | [Thomas Maggart](https://open.spotify.com/artist/4ByeJmj8U4Pp7VLpHxTRWK), [John Wells](https://open.spotify.com/artist/62VYCXrlHGnWT5DZAHG41L), [Dontaé](https://open.spotify.com/artist/7DJWT2NBNxaT4XLkXWQzmF), [Ferris](https://open.spotify.com/artist/5L4zqF3LDH8FL1v0F19GJ1) | [That Boat Sailed](https://open.spotify.com/album/1a0U0ryUd8VgvuKpS72YNf) | 2:42 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 65 | [BLOOD](https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [BLOOD](https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7) | 2:03 |
 | 66 | [Somedays \(People in Cars\)](https://open.spotify.com/track/3XqZApOAbVXyIGpx49Z4kO) | [Kevin Klein](https://open.spotify.com/artist/0NWmpU8ggo9yQW1yswpp1C) | [Somedays \(People in Cars\)](https://open.spotify.com/album/6Q1sqH38H5fB13LynwsKEO) | 3:53 |
 
-Snapshot ID: `MCw3MGYzMTU1NWY3YWU2NjBkYjk3OTBjNDgxY2ViODAwMzI0NWJjNTQ1`
+Snapshot ID: `MCw3MTQyNzBlOTBjZDQ5OTkyNzMyYmU0MDJiMDY0MTAzNmViZGZiNTBk`

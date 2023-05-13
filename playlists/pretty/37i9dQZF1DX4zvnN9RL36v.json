@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 5138,
+  "num_followers": 5145,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjgwZjFlMDNmNTQ2ODNkMWU1MDhhOTVjNDQzMDUzNmRhZDQ3ZjFi",
+  "snapshot_id": "MCw4N2FmM2FiYTU1YWIwNDM5NGRiMWVhY2E3YTAwYWU4OGJlMGUwZmM4",
   "tracks": [
     {
       "added_at": "2023-05-02 09:09:27",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "18 again, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/3iBLhqtk0UhCtLAIZXPFth"
-      },
-      "artists": [
-        {
-          "name": "SOYOU",
-          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
-        }
-      ],
-      "duration_ms": 242826,
-      "name": "The Only One",
-      "url": "https://open.spotify.com/track/6rCuyj1AxaO78VcbDpCfjZ"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "Whats wrong with secretary kim OST Part.5",
         "url": "https://open.spotify.com/album/0DScQIKugPfaNgB2iGp7Mu"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 220352,
       "name": "Because I only see you",
       "url": "https://open.spotify.com/track/2Akf1x68EZPx7H8zGlBWtR"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "18 again, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3iBLhqtk0UhCtLAIZXPFth"
+      },
+      "artists": [
+        {
+          "name": "SOYOU",
+          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
+        }
+      ],
+      "duration_ms": 242826,
+      "name": "The Only One",
+      "url": "https://open.spotify.com/track/6rCuyj1AxaO78VcbDpCfjZ"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -419,18 +419,18 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "\ub9e4\ub4dc\ub3c5 (Original Television Soundtrack) Pt. 1",
-        "url": "https://open.spotify.com/album/4yaskZdmtLHYLUirCrCimM"
+        "name": "Love you (bye)",
+        "url": "https://open.spotify.com/album/2wI45sUbr1MIpzKWrbUBtJ"
       },
       "artists": [
         {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
         }
       ],
-      "duration_ms": 189905,
-      "name": "\ud574\uac00 \uc9c0\uae30 \uc804\uc5d0",
-      "url": "https://open.spotify.com/track/7uEBXvioZbOXQx2lMN20F4"
+      "duration_ms": 219550,
+      "name": "Love you (bye)",
+      "url": "https://open.spotify.com/track/4xYXT7ZTyVvhdhNJotWGik"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -451,18 +451,18 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "Love you (bye)",
-        "url": "https://open.spotify.com/album/2wI45sUbr1MIpzKWrbUBtJ"
+        "name": "\ub9e4\ub4dc\ub3c5 (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/4yaskZdmtLHYLUirCrCimM"
       },
       "artists": [
         {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
         }
       ],
-      "duration_ms": 219550,
-      "name": "Love you (bye)",
-      "url": "https://open.spotify.com/track/4xYXT7ZTyVvhdhNJotWGik"
+      "duration_ms": 189905,
+      "name": "\ud574\uac00 \uc9c0\uae30 \uc804\uc5d0",
+      "url": "https://open.spotify.com/track/7uEBXvioZbOXQx2lMN20F4"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "Mr. Sunshine (Original Television Soundtrack), Pt. 14",
-        "url": "https://open.spotify.com/album/7KxB82sxRVaYRfnDLJN5RT"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 264223,
-      "name": "If You Were Me",
-      "url": "https://open.spotify.com/track/5PWU0W9hG0CGGiHsO56uJU"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "3.0",
         "url": "https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 239674,
       "name": "\uc9dd\uc0ac\ub791 Crush",
       "url": "https://open.spotify.com/track/6qBVH4v2yOfchMI5e89CU8"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "Mr. Sunshine (Original Television Soundtrack), Pt. 14",
+        "url": "https://open.spotify.com/album/7KxB82sxRVaYRfnDLJN5RT"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 264223,
+      "name": "If You Were Me",
+      "url": "https://open.spotify.com/track/5PWU0W9hG0CGGiHsO56uJU"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
+        "name": "RE:PLAYLIST Vol.3",
+        "url": "https://open.spotify.com/album/7gn6H37VoihSD18j1MCXpa"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 264921,
+      "name": "Love Me Once Again",
+      "url": "https://open.spotify.com/track/44n3xQ51XIOAGCMve5zh92"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
         "name": "A lonely song",
         "url": "https://open.spotify.com/album/6AJlKivqnbSRgP49nNR0ba"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 249438,
       "name": "Her",
       "url": "https://open.spotify.com/track/4QmWRo0gGe2IzmAqgyPUH0"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
-        "name": "RE:PLAYLIST Vol.3",
-        "url": "https://open.spotify.com/album/7gn6H37VoihSD18j1MCXpa"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 264921,
-      "name": "Love Me Once Again",
-      "url": "https://open.spotify.com/track/44n3xQ51XIOAGCMve5zh92"
     },
     {
       "added_at": "2023-05-02 09:09:27",

@@ -4,13 +4,13 @@
 
 > The unforgettable romantic Jazz songs\. Cover: Nat King Cole
 
-145 songs - 8 hr 19 min
+146 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(I Love You\) For Sentimental Reasons](https://open.spotify.com/track/5QnCtH7euld6R68UwcWrte) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:04 | 2022-02-25 |  |
 | [A Kiss To Build A Dream On](https://open.spotify.com/track/6GtJqo0vr7DqWOHQtp77cV) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello, Dolly! \(Remastered\)](https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC) | 4:31 | 2022-02-25 |  |
-| [A Time For Love](https://open.spotify.com/track/1R0wvgE1PnzLoE9YyXkkzb) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Pointless Nostalgic](https://open.spotify.com/album/4AD8H57Um3MlSuuqN4fZNv) | 5:06 | 2022-08-10 |  |
+| [A Time For Love](https://open.spotify.com/track/1R0wvgE1PnzLoE9YyXkkzb) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Pointless Nostalgic](https://open.spotify.com/album/4AD8H57Um3MlSuuqN4fZNv) | 5:06 | 2022-08-10 | 2023-05-13 |
 | [A Time For Love](https://open.spotify.com/track/4j6agW1zyunmyp6IYJZQyB) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Pointless Nostalgic](https://open.spotify.com/album/0T4B2RzILZxlRkHd1QbhDz) | 5:06 | 2021-12-02 | 2022-05-27 |
 | [All I Do Is Dream Of You \- Remastered](https://open.spotify.com/track/4e6JJ0mppGJmSG9TOTYVoM) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Sleep Warm](https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa) | 2:46 | 2022-05-19 |  |
 | [All of Me](https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Day: The Complete Billie Holiday On Columbia \(1933\-1944\)](https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy) | 3:01 | 2021-12-02 |  |
@@ -99,6 +99,7 @@
 | [Taking A Chance On Love](https://open.spotify.com/track/5xztcbdIaombDndOibp9Su) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Sweet And Hot](https://open.spotify.com/album/4ATQnfLrLxwHvsMcpIYhV0) | 3:08 | 2022-02-25 | 2022-09-28 |
 | [Teach Me Tonight](https://open.spotify.com/track/4waAobn5tpdqVoH9R8oDqc) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [L.A\. Is My Lady](https://open.spotify.com/album/4zvku3SSgsUaVRsvcCZ1aU) | 3:45 | 2022-05-19 |  |
 | [Tenderly](https://open.spotify.com/track/2ecdYdhDTfQ3P9rGQzFVi5) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [I Feel a Song Coming On: Lost Radio Recordings](https://open.spotify.com/album/3pTvid1kfdxgbJA6GlLj0F) | 2:47 | 2022-02-25 | 2023-04-30 |
+| [Tenderly](https://open.spotify.com/track/3oHIxYy7aIp9MWbJEMb3Nm) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [I Feel a Song Coming On: Lost Radio Recordings](https://open.spotify.com/album/3v7vfFLfUtGVeCj81t6Ko1) | 2:47 | 2023-05-09 |  |
 | [That's All](https://open.spotify.com/track/6QQZ902yIsQOHCusbHb3g9) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Vaughan And Violins](https://open.spotify.com/album/2AF2R3VOH6dSunwgKXdnHl) | 3:31 | 2022-05-25 |  |
 | [That's Amore](https://open.spotify.com/track/3chhqO7z6nVOf1fdhcyKFn) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Dick Stabile And His Orchestra](https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO) | [Piosenki z Filmów](https://open.spotify.com/album/5XppDzLQLDzEAKrpQQwKqi) | 3:07 | 2022-10-27 | 2022-11-13 |
 | [That's Amore](https://open.spotify.com/track/3x6wVKXfCm85Pw7gYo0rqq) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Dick Stabile And His Orchestra](https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO) | [The Capitol Years](https://open.spotify.com/album/31Mwr76okDPhxDxK6OaL1N) | 3:08 | 2021-12-02 | 2022-07-29 |

@@ -3073,6 +3073,24 @@
     },
     {
       "album": {
+        "name": "Beat",
+        "url": "https://open.spotify.com/album/6jbGBeBtwD05O0EV9RFjlC"
+      },
+      "artists": [
+        {
+          "name": "Bowery Electric",
+          "url": "https://open.spotify.com/artist/6a27jEzxHDgONdmADAGcej"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339493,
+      "name": "Fear of Flying",
+      "url": "https://open.spotify.com/track/4i1RRMLpGEDqT5vInUvwX7"
+    },
+    {
+      "album": {
         "name": "Fearless",
         "url": "https://open.spotify.com/album/4Keo1capq90Jwzf1ZsKUdd"
       },
@@ -4432,6 +4450,28 @@
       "duration_ms": 273117,
       "name": "It Was 9:30 and You Were Beautiful",
       "url": "https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS"
+    },
+    {
+      "album": {
+        "name": "Chicxulub",
+        "url": "https://open.spotify.com/album/0ECX5VMP06pTlNkFAprmsv"
+      },
+      "artists": [
+        {
+          "name": "Uriel VIllalobos Alva",
+          "url": "https://open.spotify.com/artist/7bWtjxmBs2HQH4A4iO8LmA"
+        },
+        {
+          "name": "Uriel Villalobos",
+          "url": "https://open.spotify.com/artist/0xszix5WIkPOTjBrXlJQfu"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487028,
+      "name": "Ixtlilxochitl",
+      "url": "https://open.spotify.com/track/5SGi1nqrlVyf6Qgij2H5xp"
     },
     {
       "album": {
@@ -6922,7 +6962,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 483594,
       "name": "Sais",
       "url": "https://open.spotify.com/track/65c7ctSEOiYbz61XtytvOV"
@@ -7422,7 +7462,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 286066,
       "name": "Spain",
       "url": "https://open.spotify.com/track/7nBp9NMpOUUMTxyfQPlk2M"

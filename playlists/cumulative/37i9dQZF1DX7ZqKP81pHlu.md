@@ -4,7 +4,7 @@
 
 > Écoutez en boucle les hits algériens du moment.
 
-143 songs - 8 hr 46 min
+144 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Jwabi](https://open.spotify.com/track/0HWqu8kIr5iitYHd62RkJH) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv) | [Atlantis](https://open.spotify.com/album/0AYqFxV365fsq7rVnW9nt0) | 4:22 | 2021-12-09 | 2022-12-31 |
 | [Jwabi](https://open.spotify.com/track/5g1Szjr5nWLKCm6P4Avyht) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv) | [Atlantis](https://open.spotify.com/album/2rPedzPOYgNlH7jjwF6bSL) | 4:22 | 2022-12-27 | 2023-02-07 |
 | [Kelthoum](https://open.spotify.com/track/7L5ZaHH54rkruo8N08vEf4) | [Nacim El Bey](https://open.spotify.com/artist/7DfSR1McqGpS5b7o1NSl5u) | [Kelthoum](https://open.spotify.com/album/0RyIS8LW7g75acJI2z0Ege) | 3:45 | 2021-12-09 | 2022-06-03 |
-| [KHABTA](https://open.spotify.com/track/4haYrG9E9kcu1inPdfsktK) | [La mass le vrai](https://open.spotify.com/artist/1HPm1tMewqJhqjGkM7f5vk), [Phobia Isaac](https://open.spotify.com/artist/2q4mJNyOd6lXVRR3DCdci3) | [KHABTA](https://open.spotify.com/album/5daw2vuOQGUWyHYoUvKPEm) | 4:24 | 2023-02-06 |  |
+| [KHABTA](https://open.spotify.com/track/4haYrG9E9kcu1inPdfsktK) | [La mass le vrai](https://open.spotify.com/artist/1HPm1tMewqJhqjGkM7f5vk), [Phobia Isaac](https://open.spotify.com/artist/2q4mJNyOd6lXVRR3DCdci3) | [KHABTA](https://open.spotify.com/album/5daw2vuOQGUWyHYoUvKPEm) | 4:24 | 2023-02-06 | 2023-05-13 |
+| [KHABTA](https://open.spotify.com/track/6p0nEcRHhxqTpEekVYhiPF) | [La mass le vrai](https://open.spotify.com/artist/1HPm1tMewqJhqjGkM7f5vk), [Phobia Isaac](https://open.spotify.com/artist/2q4mJNyOd6lXVRR3DCdci3) | [KHABTA](https://open.spotify.com/album/5WvYOZJbUHnsDF8FNPajiU) | 4:24 | 2023-05-10 |  |
 | [Khaled](https://open.spotify.com/track/1Va5ggNuXUoCQpCPHd40Gt) | [Ihan](https://open.spotify.com/artist/0RVR0TMGf3tNszGwldUu6O), [Twelve](https://open.spotify.com/artist/5zQrcUTf7m5hTwoOdXuk6E) | [Khaled](https://open.spotify.com/album/5O5XPPemXBy0AS3XrP8EZU) | 3:38 | 2021-12-09 | 2022-03-11 |
 | [Khdaatini Nti](https://open.spotify.com/track/68s3hJqkx1Nrz2bY2UQWAU) | [Abdou Sghir](https://open.spotify.com/artist/1maQs0Yi9KuzRDdbd9RCxG), [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ) | [Khdaatini Nti](https://open.spotify.com/album/6dv8rIqwLTeKbCZsMeRcLN) | 3:24 | 2022-12-25 | 2022-12-28 |
 | [Ktab Laghram](https://open.spotify.com/track/0DJbRxXvGgwHwQekxq8S1h) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Yasmine Ammari](https://open.spotify.com/artist/5XoRKOk0xPtJKh38ECeW0f) | [Ktab Laghram](https://open.spotify.com/album/2l2lkD65hpTCxNaYPZ6tKN) | 3:33 | 2021-12-09 | 2022-07-14 |

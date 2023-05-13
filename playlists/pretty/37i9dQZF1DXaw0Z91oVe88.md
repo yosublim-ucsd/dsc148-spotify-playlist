@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 
 > 우산을 던지고 빗 속으로 뛰어들고 싶은 날에 들으세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,486 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,489 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 | 16 | [Numb](https://open.spotify.com/track/67eJLGtHOUmoNXRYnkedwG) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:46 |
 | 17 | [2 KIDS](https://open.spotify.com/track/7MYf8wY7RdOgT7fPxJKIR8) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:33 |
 | 18 | [MIRROR](https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [MIRROR](https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9) | 4:42 |
-| 19 | [BETTER \(with MINO\)](https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:41 |
+| 19 | [Fantasy](https://open.spotify.com/track/2cgOdhrHYAx9ggmeMcyVqp) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [Fantasy](https://open.spotify.com/album/2YCvTWWmtS0wEokWvt7GYW) | 3:29 |
 | 20 | [How Do You Think](https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Q](https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr) | 3:25 |
-| 21 | [Fantasy](https://open.spotify.com/track/2cgOdhrHYAx9ggmeMcyVqp) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [Fantasy](https://open.spotify.com/album/2YCvTWWmtS0wEokWvt7GYW) | 3:29 |
+| 21 | [BETTER \(with MINO\)](https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:41 |
 | 22 | [Whatever You Do](https://open.spotify.com/track/2NDXgC3MbeyCUxThv3uYBt) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Crush on You](https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY) | 3:38 |
 | 23 | [2080](https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [ETERNITY](https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI) | 3:40 |
 | 24 | [Lover](https://open.spotify.com/track/4ky31ddTcLg2u2t9KBcyMv) | [SEOLA](https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf) | [Summer Strike, Pt\. 8 \(Original Soundtrack\)](https://open.spotify.com/album/6kKzcv5gzQ2BiwmcUnDjQW) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 | 49 | [Go Your Way](https://open.spotify.com/track/5CKEQUucs3M5To1LqfC8Qq) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 1:56 |
 | 50 | [To you, Tomorrow](https://open.spotify.com/track/5FOrl5XXBgdhEodenHXNFG) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [BAD BLOOD \- The 4th Mini Album](https://open.spotify.com/album/5c4Hq6RUECnCJi4zEVV5ta) | 4:04 |
 
-Snapshot ID: `MCxhYTkwZTNmZWQwYTE5M2I3NDE0YmIwY2U5ZDhkN2M0MTc3MGJmMTgw`
+Snapshot ID: `MCwzZGE5N2VlMGFmODgyMzQ3NDkyMDY3MGQzZWU2YWI3YThiZmFhYmYy`

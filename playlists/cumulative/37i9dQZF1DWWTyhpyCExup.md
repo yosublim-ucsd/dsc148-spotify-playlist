@@ -4,7 +4,7 @@
 
 > Blues, Bluegrass, Americana, Folk, & Soul; explore today's Black artists that are driving the evolution of roots music\. Cover: Jon Batiste
 
-109 songs - 6 hr 38 min
+113 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Formwela 4 \[Feat\. Corey King\]](https://open.spotify.com/track/5HQzWhErPSwzJkYC7sA4Lm) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Formwela 4 \[Feat\. Corey King\]](https://open.spotify.com/album/6DmbyrUQqzuAHwRyRUsZWz) | 4:19 | 2021-10-22 |  |
 | [Fort Dimanche](https://open.spotify.com/track/47g2cEftywynxNGzZEOepq) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [Fort Dimanche](https://open.spotify.com/album/4BzO8Zbnva52t9BSLtlHRt) | 3:07 | 2022-02-04 |  |
 | [FREEDOM](https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:58 | 2021-10-22 |  |
+| [Freedom Is A Constant Struggle](https://open.spotify.com/track/7pazEod5kIZKCpppre6kvx) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y), [Joy Clark](https://open.spotify.com/artist/7BTIW6ksfRBJ50xe6EtXjJ), [Lilli Lewis](https://open.spotify.com/artist/2dh2iaRf6yHgqVmEJok53L), [Sabine McCalla](https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR), [Sula Spirit](https://open.spotify.com/artist/7qXJE0O3NsmQssEePihY2L), [Cassie Watson Francillon](https://open.spotify.com/artist/6LuBYCozHo0lrFf7CnkgMX) | [Freedom Is A Constant Struggle](https://open.spotify.com/album/2mGTeZBnyXP7CTapaW1p9S) | 3:24 | 2023-05-12 |  |
 | [Gold](https://open.spotify.com/track/71u5Z6SNQR4d5SEm1gr9Md) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Gold](https://open.spotify.com/album/7fxmI2X1OBF3v3rBbrcbyd) | 3:31 | 2021-10-22 |  |
 | [Goodbye, Honey, You Call That Gone](https://open.spotify.com/track/74KdVnlCyEqUod4bti2GBc) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [Spider Tales](https://open.spotify.com/album/3S2GACXwN1hHxSKHxkGvKb) | 2:10 | 2021-10-22 |  |
 | [Have You A Heart](https://open.spotify.com/track/7AhVjOemVKsEiLSXvo9PHU) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W) | 4:20 | 2023-03-10 |  |
@@ -58,6 +59,7 @@
 | [Lord Remember Me](https://open.spotify.com/track/1NELifKcBpsVykd0fmvoiI) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Let It Burn](https://open.spotify.com/album/4lA80Y2V39eT01w0SIMS04) | 3:11 | 2021-10-22 |  |
 | [Lost & Lonesome](https://open.spotify.com/track/546RhRX8VYDgcZ9obgTkkX) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Lost & Lonesome](https://open.spotify.com/album/35u6E8Ukn8nRpsJJjS11xv) | 3:42 | 2021-10-22 | 2022-07-29 |
 | [Lost & Lonesome](https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:42 | 2022-06-17 |  |
+| [Love After Love](https://open.spotify.com/track/3mVsKKOlBBkTzlF4V1bEj7) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Love After Love](https://open.spotify.com/album/6ztEDQCLA3lAfcpU6Jj6GB) | 2:32 | 2023-05-12 |  |
 | [Lucid Lucy](https://open.spotify.com/track/21beaiAGKgVVWVSt3tx5QS) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Simple Syrup](https://open.spotify.com/album/1DcosrCPndyPwVtMB84A0u) | 3:37 | 2021-10-22 | 2022-07-29 |
 | [Lucid Lucy](https://open.spotify.com/track/6Xw7qv0H03e7bPBIH6tMQQ) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Simple Syrup](https://open.spotify.com/album/1WO7SNNBa9NddGXi3UDNjF) | 3:37 | 2022-06-17 |  |
 | [Magnolia Blues](https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Magnolia Blues](https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr) | 3:28 | 2021-10-22 | 2022-06-04 |
@@ -80,6 +82,7 @@
 | [Seeds](https://open.spotify.com/track/1NijLAZEVZAvJGHE1RO9if) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ) | [Revival](https://open.spotify.com/album/3ZeYPc2wcoSjM43wc9gdRO) | 3:08 | 2021-10-22 |  |
 | [Short and Sweet](https://open.spotify.com/track/1fDrmqH34hJ5Lx1w3ketXU) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:44 | 2022-06-17 |  |
 | [Short and Sweet](https://open.spotify.com/track/2Qtk2DM442dGv6n9Fmbs5s) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/6fbphjr9j57oxMB2bnhzUf) | 3:44 | 2021-10-22 | 2022-07-29 |
+| [Somebody Like Me](https://open.spotify.com/track/0uxLU5nNE35ZxNwoKm8XLq) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/0F9RwW1ScEh2gNEADX67BO) | 3:56 | 2023-05-12 |  |
 | [Song for a Dark Girl](https://open.spotify.com/track/46Q2hZCTU4UkD0JKavnR5m) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [Song for a Dark Girl](https://open.spotify.com/album/41lCuj8wpb12V8NuO05yGz) | 2:49 | 2021-10-22 | 2022-06-04 |
 | [sorry isn't good enough](https://open.spotify.com/track/52EPUO8FCJKXrvH6oPs4Nz) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [sorry isn't good enough](https://open.spotify.com/album/4ND9o4X7nbwLjNGyAtslXE) | 3:07 | 2021-10-22 | 2022-02-05 |
 | [Souled Out On You](https://open.spotify.com/track/4eTRBRseRwBDOlT5TeNyTH) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Souled Out On You](https://open.spotify.com/album/50BIR8Bg2W5OifAUjmRviK) | 3:33 | 2021-10-22 | 2022-07-29 |
@@ -117,5 +120,6 @@
 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 | 2021-10-22 |  |
 | [You And I](https://open.spotify.com/track/2KY7UK4IBIXjUya41cMnYl) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:39 | 2021-12-01 |  |
 | [You Was Born To Die \(feat\. Kyshona Armstrong, Margo Price & Jason Isbell\)](https://open.spotify.com/track/4jSCSnMnIXnRbMPM0qLRVX) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl), [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [A Southern Gothic](https://open.spotify.com/album/05ZMEHBBxF23Qm0GDclz3n) | 3:01 | 2022-06-03 |  |
+| [You're the One](https://open.spotify.com/track/2YEN8LRUuTViNyCGeUQukS) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/6RBTZpN4KkTLDbPdSUYRPJ) | 3:25 | 2023-05-12 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > songs that break bones
 
-249 songs - 11 hr 6 min
+250 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [BOOSMOBIL](https://open.spotify.com/track/0HS5ztOkdJmUMHvJ3SudYL) | [Timothy Bright](https://open.spotify.com/artist/3b6bwvqFH6oU8kSxzHJvTr) | [BOOSMOBIL](https://open.spotify.com/album/32ndS6eZQGTv42bgwapbLL) | 2:36 | 2022-03-29 | 2022-07-28 |
 | [Break Shit](https://open.spotify.com/track/46PndWC5iW7JpdmaY2Jswq) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [War](https://open.spotify.com/album/5UthVBNdNdHyqHmSKUlegX) | 1:35 | 2022-03-29 | 2022-07-08 |
 | [Brianstorm](https://open.spotify.com/track/5rTIpPWeO0IL4HWlGWrz5G) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 2:50 | 2022-09-26 | 2022-10-15 |
+| [BULLET MAN](https://open.spotify.com/track/1xscJ2dRvxgJhB8V10EqZn) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [BULLET MAN](https://open.spotify.com/album/1B9eLnJh3huaPRziWXWliK) | 2:58 | 2023-05-12 |  |
 | [Bulls On Parade](https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 3:49 | 2022-04-07 | 2022-04-21 |
 | [bullseye](https://open.spotify.com/track/0b25AYlOTrn1WhwPNTKBDE) | [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [bullseye](https://open.spotify.com/album/6ZPNyRhfoQ9hojx3MMndrn) | 2:26 | 2023-04-14 |  |
 | [Burfict!](https://open.spotify.com/track/5IZpEuLMO5lEmN1Rr008p8) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES](https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq) | 2:21 | 2023-03-24 |  |

@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: tomodati
 
-3,387 songs - 8 day 15 hr 5 min
+3,388 songs - 8 day 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,7 +397,8 @@
 | [Dark\_Eyes.](https://open.spotify.com/track/3rztynxdeGLdlMsSkgNcHf) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [Dark\_Eyes.](https://open.spotify.com/album/4yzm7FnAq26Wnc1SldTS7B) | 4:24 | 2022-05-10 | 2022-05-25 |
 | [Dark\_Eyes\. \(Bohdi Remix\)](https://open.spotify.com/track/3iGlUskESgaBu82lsozlSr) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v), [Bohdi](https://open.spotify.com/artist/1BdyAzMmvtayz03WAyS9MO) | [Dark\_Eyes\. \(Bohdi Remix\)](https://open.spotify.com/album/67uGRSLzgmc1UygSP8RhEQ) | 3:34 | 2022-08-15 | 2022-09-06 |
 | [darling](https://open.spotify.com/track/3o4rXldN4X1i9EygWMHfCt) | [Umnoise](https://open.spotify.com/artist/6mfqMKlmKZSjVBITWTT4Y7) | [darling](https://open.spotify.com/album/2FRdqWkvPJpp9r3pJbHffX) | 4:13 | 2023-01-09 | 2023-02-01 |
-| [Day After Day feat\. Mei Takahashi](https://open.spotify.com/track/5b03vF7Qyc70kDJHiQZ8L7) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [髙橋芽以](https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf) | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/album/7ridH3ntXiiWfC2jA6uqb3) | 4:43 | 2023-05-08 |  |
+| [Day After Day feat\. Mei Takahashi](https://open.spotify.com/track/1fHXLiqPG6su57eAlbnjVO) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [髙橋芽以](https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf) | [FINE LINE](https://open.spotify.com/album/37XJRNnSBngM8e8Ejp3oQ7) | 4:43 | 2023-05-08 |  |
+| [Day After Day feat\. Mei Takahashi](https://open.spotify.com/track/5b03vF7Qyc70kDJHiQZ8L7) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [髙橋芽以](https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf) | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/album/7ridH3ntXiiWfC2jA6uqb3) | 4:43 | 2023-05-08 | 2023-05-13 |
 | [Day.1](https://open.spotify.com/track/6w4wd1vFmMCXujStxWW1iA) | [IRIS MONDO](https://open.spotify.com/artist/0sNst8lobIesP02uMtsikj) | [Day.1](https://open.spotify.com/album/75QXJdPQKib48SeYqLgllV) | 3:22 | 2022-10-03 | 2022-10-18 |
 | [DAYDREAM](https://open.spotify.com/track/5kgypixQm9YDAiW0cXV3Kb) | [シロクロミーアキャット](https://open.spotify.com/artist/1Df09q3nInMTxbmnre927z) | [DAYDREAM](https://open.spotify.com/album/2iLq3U9ggelOp0MBb90stk) | 3:02 | 2023-03-14 | 2023-03-28 |
 | [Daydream Escape](https://open.spotify.com/track/5TFeGMwa6Qba5G0ni9CkPP) | [長瀬有花](https://open.spotify.com/artist/4eEVWfAuVUPgwMXWQiD4zX) | [Daydream Escape](https://open.spotify.com/album/2GZ3Mp4rKVWKvvCjAPVcAk) | 3:26 | 2023-01-31 | 2023-02-21 |

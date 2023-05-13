@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX?si=d0hf2IO-T9m3Boh8CcZn7A\"> A-Q</a> and <a href=\"https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W?si=GLVEnDSgRv6NWAaIdIM-wg\">Blaqbonez</a> ",
+  "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W?si=wS2oZz1IRbqPomFtKITcqA\"> Blaqbonez </a> ",
   "name": "Naija Bars ",
   "tracks": [
     {
@@ -704,6 +704,28 @@
       "duration_ms": 186920,
       "name": "Choosey",
       "url": "https://open.spotify.com/track/3ARj9nbJqRHqAGWYIUJ8XR"
+    },
+    {
+      "album": {
+        "name": "Cinderella Girl (Where You Dey) [feat. Ludacris]",
+        "url": "https://open.spotify.com/album/2Qk595xR8M6ar44RYi9aPR"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215217,
+      "name": "Cinderella Girl (Where You Dey) [feat. Ludacris]",
+      "url": "https://open.spotify.com/track/1E4ed73l5iopAIr9UkAlGy"
     },
     {
       "album": {
@@ -2206,7 +2228,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 145263,
       "name": "NI NIGERIA",
       "url": "https://open.spotify.com/track/4p92W0Op710L8WIzt6EQGf"
@@ -2374,7 +2396,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 168000,
       "name": "Okwaraji (feat. Bella Shmurda) [Remix]",
       "url": "https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R"
@@ -2571,6 +2593,28 @@
     },
     {
       "album": {
+        "name": "PAPILO / ABENA",
+        "url": "https://open.spotify.com/album/3XyMQj0gznOyea4pCdlRup"
+      },
+      "artists": [
+        {
+          "name": "Smada",
+          "url": "https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132173,
+      "name": "PAPILO (Smadumodu)",
+      "url": "https://open.spotify.com/track/2KVr1xCwXXLP5xdXSr0U54"
+    },
+    {
+      "album": {
         "name": "PARA",
         "url": "https://open.spotify.com/album/5lIW4ZVGLazp4s7E43EPuc"
       },
@@ -2718,6 +2762,24 @@
       "duration_ms": 202083,
       "name": "Pray",
       "url": "https://open.spotify.com/track/02twlwBTRl9wsjYwD1hq6T"
+    },
+    {
+      "album": {
+        "name": "PRAY",
+        "url": "https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5"
+      },
+      "artists": [
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177931,
+      "name": "PRAY",
+      "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"
     },
     {
       "album": {
@@ -3080,7 +3142,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-10",
+      "date_removed": null,
       "duration_ms": 200833,
       "name": "Silent Mode",
       "url": "https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ"
@@ -3138,7 +3200,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 162000,
       "name": "Smackdown",
       "url": "https://open.spotify.com/track/1ws0w64Ktn6k51cLXTnnhH"
@@ -3634,7 +3696,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 204800,
       "name": "Up",
       "url": "https://open.spotify.com/track/17mf9XIYI25YOaBolVvZXB"

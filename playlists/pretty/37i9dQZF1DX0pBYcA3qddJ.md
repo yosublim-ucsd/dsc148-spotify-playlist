@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,871 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,895 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 66 | [See you Soon](https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [See you Soon](https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG) | 3:26 |
 | 67 | [Newcastle](https://open.spotify.com/track/1O9v10ruWjTDPdxZ8AfDqt) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [Newcastle](https://open.spotify.com/album/2aa4KLeeVYptVBOWQ3Hbkc) | 5:43 |
 | 68 | [Faisal \(London Bridge Station\)](https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 5:09 |
-| 69 | [A Child's Question, August](https://open.spotify.com/track/471H7nQUp3VaAn4ZcA6THS) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [A Child's Question, August](https://open.spotify.com/album/23vvKltYuD1To9zWGQ5NnB) | 2:46 |
+| 69 | [Free In The Knowledge](https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 4:12 |
 | 70 | [LAW OF AWAKENING](https://open.spotify.com/track/2ZpaOyC5BtYzVCkWERZqW0) | [Shizuka Kanata](https://open.spotify.com/artist/1b1Iv5ZQQz9VXHOhFe1TCy), [Anzu Suhara](https://open.spotify.com/artist/6u30byKtb0cli6RU2iD1yj), [Junpei Hayashida](https://open.spotify.com/artist/7EFqed0fHG85IGP3XEbGo3), [Kensuke Yamauchi](https://open.spotify.com/artist/06xDUa8BpV0lfRPwWxBr15) | [LAW OF AWAKENING](https://open.spotify.com/album/7JWMMfWgw4fPYXm0cpWwgC) | 4:32 |
 | 71 | [Turbines/Pigs \- Live at Bush Hall](https://open.spotify.com/track/626DiLKaEAoQfJ7YLdjcaF) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Live at Bush Hall](https://open.spotify.com/album/1w7YBHqXz6UfLrVur8JAcW) | 9:46 |
-| 72 | [Free In The Knowledge](https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 4:12 |
+| 72 | [Anywhere Else](https://open.spotify.com/track/7ijdkXgeiAmxFPXBNbGOtY) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Anywhere Else](https://open.spotify.com/album/2IVTJm85OXU3wOerijun2y) | 2:36 |
 | 73 | [Ekstasis](https://open.spotify.com/track/1iX1fnU6tTBfgJhVyaLK4G) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Timo Andres](https://open.spotify.com/artist/6rsUydMSborFpWv0JkQgiz), [Conor Hanick](https://open.spotify.com/artist/1AJdvQXiX8UiSQQb9aILUO) | [Ekstasis](https://open.spotify.com/album/3KJ9BPyuAcyiH4kjIUCjzf) | 3:04 |
-| 74 | [Anywhere Else](https://open.spotify.com/track/7ijdkXgeiAmxFPXBNbGOtY) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Anywhere Else](https://open.spotify.com/album/2IVTJm85OXU3wOerijun2y) | 2:36 |
+| 74 | [A Child's Question, August](https://open.spotify.com/track/471H7nQUp3VaAn4ZcA6THS) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [A Child's Question, August](https://open.spotify.com/album/23vvKltYuD1To9zWGQ5NnB) | 2:46 |
 | 75 | [harukaze](https://open.spotify.com/track/0XflCyWk28wErpgiBPnNTK) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [harukaze](https://open.spotify.com/album/3pur6jiK9PCVKajSXvlWjJ) | 2:33 |
 | 76 | [Haru yo, Koi](https://open.spotify.com/track/6Omwpwl7DMVCgvyzdZJoYX) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU), [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [KIYOZUKA](https://open.spotify.com/album/6YsvJRT1Bhs3mOZuy6PqDQ) | 1:16 |
 | 77 | [Quiet Place](https://open.spotify.com/track/6k96PVCzURnKNnWDpsZ6xY) | [Wataru Sato](https://open.spotify.com/artist/7M9OHZ1HUapqspMXEthkvb) | [Piano Meditations II](https://open.spotify.com/album/6sdYGreE8MbiQHrgF6jJh6) | 3:30 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 91 | [Love Song](https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Love Song](https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH) | 2:51 |
 | 92 | [Raven](https://open.spotify.com/track/5UiH9u0WhHejEqDHZMsUbR) | [Wataru Sato](https://open.spotify.com/artist/7M9OHZ1HUapqspMXEthkvb) | [Raven](https://open.spotify.com/album/6jO2BuANtYaSHJLMHuC2mT) | 2:54 |
 | 93 | [Bye for now,](https://open.spotify.com/track/4Y9QwoUwo9blH9R9C5DCnk) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:50 |
-| 94 | [20220302 \- sarabande](https://open.spotify.com/track/7IYrIgIgomCRgXCNkHOXMX) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4) | 3:10 |
-| 95 | [Ascent](https://open.spotify.com/track/3Ygq0ec3IlNfBUCGW566Cx) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Ascent](https://open.spotify.com/album/3BqwGeDppomPKBHDO3Vkmj) | 2:12 |
-| 96 | [TREE](https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [TREE](https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav) | 4:38 |
-| 97 | [Another Universe](https://open.spotify.com/track/0Fnu1zx9glEOuEwegQlJ7x) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Another Universe](https://open.spotify.com/album/0EH0fPHBU6THoowDgDcCjz) | 2:42 |
+| 94 | [Ascent](https://open.spotify.com/track/3Ygq0ec3IlNfBUCGW566Cx) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Ascent](https://open.spotify.com/album/3BqwGeDppomPKBHDO3Vkmj) | 2:12 |
+| 95 | [Another Universe](https://open.spotify.com/track/0Fnu1zx9glEOuEwegQlJ7x) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Another Universe](https://open.spotify.com/album/0EH0fPHBU6THoowDgDcCjz) | 2:42 |
+| 96 | [20220302 \- sarabande](https://open.spotify.com/track/7IYrIgIgomCRgXCNkHOXMX) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4) | 3:10 |
+| 97 | [TREE](https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [TREE](https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav) | 4:38 |
 | 98 | [Cloud9](https://open.spotify.com/track/1guVDJWyU2q5BGIaos8jZ2) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH) | [Cloud9](https://open.spotify.com/album/5if4TAmZGtsuUpyIqRludq) | 2:06 |
 | 99 | [The Forever Now \- From "This Is Us: Season 6"](https://open.spotify.com/track/6iIHZUDmGAzpOuKHehdsgw) | [This Is Us Cast](https://open.spotify.com/artist/4jLe6sgGBkNDC6pNstUJ2S), [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [The Forever Now \(From "This Is Us: Season 6"\)](https://open.spotify.com/album/2h7h6xLkT9MjRi8xUdckLo) | 3:18 |
 | 100 | [Cello Concerto No\. 1 in C Major, Hob\. VIIb:1: II\. Adagio](https://open.spotify.com/track/3cc1BpGtocKOEnROApTv8M) | [Joseph Haydn](https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [José\-Luis Garcia](https://open.spotify.com/artist/3cQxD3FIUmh3VTeXAcAaoS), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF) | [Haydn: Cello Concertos \(Remastered\)](https://open.spotify.com/album/7M3Q7tG8qbEjk91laYhHIA) | 8:13 |
 
-Snapshot ID: `MCwyOGU1NjRkNDYwMmZlNGQ5YjM0ODRiMTc3MGFiZDZiOWU3MWQ4NThk`
+Snapshot ID: `MCxkZmE1NGJlNDE2YTc1ZTJjNThlMzFjMGMxYzAzMGM1OTA5Y2Q1MDZj`

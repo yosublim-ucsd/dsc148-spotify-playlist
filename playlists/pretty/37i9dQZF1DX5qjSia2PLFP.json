@@ -1,13 +1,29 @@
 {
   "description": "New music breaking waves. Cover, Lola Brooke\n",
-  "num_followers": 89828,
+  "num_followers": 89845,
   "original_name": "Ripple Effect",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Zjk0YzZhYTE1Mjg2MTg2M2EzMTZhZmFhNzZhYzgxY2YzYzZlNDZl",
+  "snapshot_id": "MCxlYzQzNWVjZmU1ZjVlYzY2MmM0ODg2MzI2OGNjNjdhMTg1MGFkMjI0",
   "tracks": [
+    {
+      "added_at": "2023-05-12 12:14:00",
+      "album": {
+        "name": "She Da Baddest",
+        "url": "https://open.spotify.com/album/4NIIPHjJ3EJA3XMgtddTAq"
+      },
+      "artists": [
+        {
+          "name": "Zahsosaa",
+          "url": "https://open.spotify.com/artist/7Kr0bEtV76UqZNRFBhmz6Y"
+        }
+      ],
+      "duration_ms": 139676,
+      "name": "She Da Baddest",
+      "url": "https://open.spotify.com/track/5y8q501o2YAvbK3V54yMc1"
+    },
     {
       "added_at": "2023-04-28 07:43:40",
       "album": {
@@ -23,6 +39,86 @@
       "duration_ms": 152213,
       "name": "Just Relax",
       "url": "https://open.spotify.com/track/4ZJ58LR9dwGJBFGC8RilBM"
+    },
+    {
+      "added_at": "2023-05-12 12:14:00",
+      "album": {
+        "name": "UR SO FULL OF IT",
+        "url": "https://open.spotify.com/album/0scVQRLEFHqCysQzYu5NNS"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        }
+      ],
+      "duration_ms": 134270,
+      "name": "UR SO FULL OF IT",
+      "url": "https://open.spotify.com/track/30ZieTpW4I1capqDGSY2mt"
+    },
+    {
+      "added_at": "2023-05-12 12:14:00",
+      "album": {
+        "name": "Siempre",
+        "url": "https://open.spotify.com/album/2ZxiQBQ8qj3bKVJwikvuwv"
+      },
+      "artists": [
+        {
+          "name": "SAFE",
+          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Siempre",
+      "url": "https://open.spotify.com/track/0Dqmom7WoaeIAox1YLISs8"
+    },
+    {
+      "added_at": "2023-05-12 12:14:00",
+      "album": {
+        "name": "Co-Star",
+        "url": "https://open.spotify.com/album/0FLajXxca41VLTunahQo9s"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 166533,
+      "name": "Co-Star",
+      "url": "https://open.spotify.com/track/2rYu4zr0jXGWAHmNdpQYsl"
+    },
+    {
+      "added_at": "2023-05-12 12:14:00",
+      "album": {
+        "name": "Casamigos",
+        "url": "https://open.spotify.com/album/0fhG0rYGnIX8l9lzn9WRed"
+      },
+      "artists": [
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        }
+      ],
+      "duration_ms": 142191,
+      "name": "Casamigos",
+      "url": "https://open.spotify.com/track/5zpsRcW4tF8kUgJY7NvbcX"
+    },
+    {
+      "added_at": "2023-05-12 12:14:00",
+      "album": {
+        "name": "Damn, Crazy",
+        "url": "https://open.spotify.com/album/7obgy7wcL3CgpiJGthVxuT"
+      },
+      "artists": [
+        {
+          "name": "MFnMelo",
+          "url": "https://open.spotify.com/artist/7auVoAwdrloWdyKULVOauu"
+        }
+      ],
+      "duration_ms": 95306,
+      "name": "Damn, Crazy",
+      "url": "https://open.spotify.com/track/2OJQNNnEiXyXiNRfl9Q0a2"
     },
     {
       "added_at": "2023-04-28 07:43:40",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The biggest Armada tracks of the moment! | Including Dance, Dance-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! | Updated weekly on Friday | Cover: SOMMA &amp; Sasson x Nathan Nicholson",
+  "description": "The biggest Armada tracks of the moment! | Including Dance, Dance-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! | Updated weekly on Friday | Cover: Joachim Pastor",
   "name": "Armada Today",
   "tracks": [
     {
@@ -284,7 +284,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 159074,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/40ydUI6moZMoOd65wbf6oz"
@@ -1031,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "Brian",
+        "url": "https://open.spotify.com/album/1NDBmWI1fi0XhlW7ztNRfE"
+      },
+      "artists": [
+        {
+          "name": "mOat",
+          "url": "https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242600,
+      "name": "Brian",
+      "url": "https://open.spotify.com/track/201R4RNcduvrdLEHawBS8v"
+    },
+    {
+      "album": {
         "name": "Bring The Heat",
         "url": "https://open.spotify.com/album/48oAYz2T9Iesq20OIMXNBK"
       },
@@ -1108,6 +1126,24 @@
       "duration_ms": 249600,
       "name": "Burn",
       "url": "https://open.spotify.com/track/0czsh9nvN2LIY73Qlb2r97"
+    },
+    {
+      "album": {
+        "name": "Burn It Down",
+        "url": "https://open.spotify.com/album/0bOjWx9E7bKO37vJhee5PC"
+      },
+      "artists": [
+        {
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159735,
+      "name": "Burn It Down",
+      "url": "https://open.spotify.com/track/3ZULXQYRpINwMSJLf13lgv"
     },
     {
       "album": {
@@ -2616,7 +2652,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 222948,
       "name": "Fall From Grace",
       "url": "https://open.spotify.com/track/1HIhKoXBxkbG1GD4fN1rXH"
@@ -2678,7 +2714,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 160650,
       "name": "Fascination",
       "url": "https://open.spotify.com/track/6PBErHoYOd20q39VUoAWDf"
@@ -2858,6 +2894,32 @@
       "duration_ms": 157120,
       "name": "Fiesta M\u00e1gica",
       "url": "https://open.spotify.com/track/3JcPfHYLzv6dJZP37xJjb8"
+    },
+    {
+      "album": {
+        "name": "Fire With Fire",
+        "url": "https://open.spotify.com/album/06feJaNWJYCfjbtbusCFBB"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "HRRTZ",
+          "url": "https://open.spotify.com/artist/6VpuPMBN4oVa62K1wS9bGS"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188799,
+      "name": "Fire With Fire",
+      "url": "https://open.spotify.com/track/7fpkRq8mT8uwspimOK6zH5"
     },
     {
       "album": {
@@ -4181,6 +4243,24 @@
     },
     {
       "album": {
+        "name": "Hij\u00f3ping",
+        "url": "https://open.spotify.com/album/0DahCEkHa16TIQrbra18oF"
+      },
+      "artists": [
+        {
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207360,
+      "name": "Hij\u00f3ping",
+      "url": "https://open.spotify.com/track/4FltryA18s8UU5ypUxJuPW"
+    },
+    {
+      "album": {
         "name": "Hold Me Close (Vintage Culture Remix)",
         "url": "https://open.spotify.com/album/4yhwVlnIOdgGmhmbaaCROg"
       },
@@ -4370,6 +4450,32 @@
       "duration_ms": 229266,
       "name": "How Will I Know",
       "url": "https://open.spotify.com/track/5lTOYADoL5tJq6SZcqXRnw"
+    },
+    {
+      "album": {
+        "name": "How You Samba",
+        "url": "https://open.spotify.com/album/6qm3xWNQ0APs9N1KmXAD9B"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151680,
+      "name": "How You Samba",
+      "url": "https://open.spotify.com/track/5OsYviJJXb8g8uM1K7JiPm"
     },
     {
       "album": {
@@ -4768,7 +4874,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 194753,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/5BiAz84wghZEkFqWskxaaZ"
@@ -5098,7 +5204,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 191297,
       "name": "Kill My Heart",
       "url": "https://open.spotify.com/track/5Od4XZQqtVq8lmpZSQvse4"
@@ -6633,6 +6739,28 @@
     },
     {
       "album": {
+        "name": "New Horizon",
+        "url": "https://open.spotify.com/album/1rQ795yaynVBewq66k21Js"
+      },
+      "artists": [
+        {
+          "name": "Scorz",
+          "url": "https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn"
+        },
+        {
+          "name": "Lauren L'aimant",
+          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315488,
+      "name": "New Horizon",
+      "url": "https://open.spotify.com/track/65TAeIqldndBSti0cJnRSj"
+    },
+    {
+      "album": {
         "name": "Night In Milan",
         "url": "https://open.spotify.com/album/5mjEC5XuALfFLI7XlpnAXL"
       },
@@ -7438,7 +7566,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 196751,
       "name": "Piece Of Art",
       "url": "https://open.spotify.com/track/05Z9XLTEN2aJx3y6YWlGoJ"
@@ -8434,7 +8562,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 207272,
       "name": "Say It Again",
       "url": "https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W"
@@ -8960,6 +9088,32 @@
       "duration_ms": 146580,
       "name": "Slip N Slide",
       "url": "https://open.spotify.com/track/4EWnfhH9PQt6QfEjDOYKiS"
+    },
+    {
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/4BxZ1ZUjyqOV4E6oj3x2ii"
+      },
+      "artists": [
+        {
+          "name": "DIM KELLY",
+          "url": "https://open.spotify.com/artist/60UEBuWoDQnIzdHid5xTkd"
+        },
+        {
+          "name": "Stereoclip",
+          "url": "https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL"
+        },
+        {
+          "name": "Lou Zweegers",
+          "url": "https://open.spotify.com/artist/77eHwnNisRwfBRz5wXjfZQ"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161329,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/0QXcqNQkP6DctmUv31KG9L"
     },
     {
       "album": {
@@ -10009,6 +10163,24 @@
     },
     {
       "album": {
+        "name": "The Duty",
+        "url": "https://open.spotify.com/album/5wkFYvOqJVrdW92n31wFwS"
+      },
+      "artists": [
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194610,
+      "name": "The Duty",
+      "url": "https://open.spotify.com/track/6VGCWLkUxy4OrK4Lb5YwUI"
+    },
+    {
+      "album": {
         "name": "The Inside",
         "url": "https://open.spotify.com/album/1qu4VgY15fuhhdY2HOzeek"
       },
@@ -10190,6 +10362,28 @@
       "duration_ms": 263000,
       "name": "This Girl Is Gone",
       "url": "https://open.spotify.com/track/0sNM1FfG9w5gAhylfV1E4T"
+    },
+    {
+      "album": {
+        "name": "This Is What It Feels Like",
+        "url": "https://open.spotify.com/album/3MWgPh6t7EPwvSqs2QT1Gx"
+      },
+      "artists": [
+        {
+          "name": "&friends",
+          "url": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
+        },
+        {
+          "name": "Phina Asa",
+          "url": "https://open.spotify.com/artist/4PcBXZOhw0X3TQzKpKc9v8"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256002,
+      "name": "This Is What It Feels Like",
+      "url": "https://open.spotify.com/track/02QT7nMw5X1lfjs68JWhpk"
     },
     {
       "album": {
@@ -11334,7 +11528,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 212320,
       "name": "We Deserve To Dream",
       "url": "https://open.spotify.com/track/4Jgvts0jaXRcZIT609Rugo"
@@ -11600,7 +11794,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 208253,
       "name": "Who Do You Love",
       "url": "https://open.spotify.com/track/6RKhCRlizhQX3N9SVSTSLg"
@@ -11896,7 +12090,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 178560,
       "name": "You Got Me Baby",
       "url": "https://open.spotify.com/track/1ULrW3uRP7OGreaIjfZpDM"
@@ -11984,7 +12178,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 151852,
       "name": "Your Dreams",
       "url": "https://open.spotify.com/track/5M5TCPGgMZxzRN3tOCOoGd"

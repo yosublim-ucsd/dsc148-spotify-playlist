@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Nairo, Matheus Fernandes",
+  "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: MC Cabelinho",
   "name": "brisa",
   "tracks": [
     {
@@ -1928,7 +1928,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 141688,
       "name": "Fixa\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/6su9AZXjpyLYT9DptbsTE5"
@@ -3448,6 +3448,24 @@
       "duration_ms": 325750,
       "name": "On\u00e7a Sessions #2 - Sobe Adrenalina",
       "url": "https://open.spotify.com/track/4ohl1Edvlp5BNF03lAwGO7"
+    },
+    {
+      "album": {
+        "name": "Ora Pois",
+        "url": "https://open.spotify.com/album/1MrQZLRzZWMgUGYBRXqrxI"
+      },
+      "artists": [
+        {
+          "name": "O Juh",
+          "url": "https://open.spotify.com/artist/0aFWyfehCefW4rvOYycBUd"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142800,
+      "name": "Ora Pois",
+      "url": "https://open.spotify.com/track/5zSpPU4hNair2ajJ9b1hTy"
     },
     {
       "album": {

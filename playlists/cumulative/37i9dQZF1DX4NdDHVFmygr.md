@@ -4,7 +4,7 @@
 
 > Écoutez en boucle les hits 100% marocains du moment.
 
-254 songs - 13 hr 51 min
+255 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,7 @@
 | [Slowmo](https://open.spotify.com/track/1CMO90rRzcZSUJ7U0oi1qX) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Slowmo](https://open.spotify.com/album/3m9DSWdlZOQmu4PBJ6qCah) | 3:00 | 2022-03-23 | 2022-07-14 |
 | [Souwlo Dmou3i](https://open.spotify.com/track/5vQJ4pwYSJfbGvM0BT9VwL) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Souwlo Dmou3i](https://open.spotify.com/album/57fGQC1ZgxfQQdBEGPllJH) | 3:43 | 2021-12-25 | 2022-01-04 |
 | [SOY MAROCCINO](https://open.spotify.com/track/51MSCZdV26sXAM2t5BG4iy) | [Rubio](https://open.spotify.com/artist/5LJX3D6BzDJkMGX7hFP1dl) | [SOY MAROCCINO](https://open.spotify.com/album/31V8d6Fw3eRsDUU6BpSCLI) | 2:18 | 2022-12-07 | 2022-12-24 |
-| [Stay](https://open.spotify.com/track/1g2680d7htD40vhKiVRTth) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa), [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [Nar](https://open.spotify.com/album/6k1p2MPYhbk1Uk83yOJmFd) | 3:30 | 2023-05-08 |  |
+| [Stay](https://open.spotify.com/track/1g2680d7htD40vhKiVRTth) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa), [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [Nar](https://open.spotify.com/album/6k1p2MPYhbk1Uk83yOJmFd) | 3:30 | 2023-05-08 | 2023-05-13 |
 | [Still Alive](https://open.spotify.com/track/0RNLOJuaBDGzg7oS4qS8OT) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Still Alive](https://open.spotify.com/album/2cIgCkVC96J85POryxlhZc) | 3:55 | 2023-05-08 |  |
 | [Strangers](https://open.spotify.com/track/5Xx23tgYcHoLEhsP8FfkeD) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Strangers](https://open.spotify.com/album/5GGZpeMyi3XHTUyH961K8b) | 2:56 | 2022-12-22 | 2022-12-27 |
 | [Stylo warqa](https://open.spotify.com/track/2KB0Hva9YPWOnU7GF5Kgv0) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Stylo warqa](https://open.spotify.com/album/0g7SOVgoPw2bH4cV7Yd65d) | 2:57 | 2023-02-12 |  |
@@ -225,6 +225,7 @@
 | [Sunshine](https://open.spotify.com/track/4lYaOQtP4QO6ysz5o8SfrR) | [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW) | [Sunshine](https://open.spotify.com/album/6aZJlU67NdC6pWLcLBcXE5) | 3:53 | 2022-10-25 | 2022-11-10 |
 | [Talet Lghiba](https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Talet Lghiba](https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ) | 3:31 | 2022-11-25 |  |
 | [Te Amo](https://open.spotify.com/track/2vzkvVC45Q5zZQm6WWoyfB) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Te Amo](https://open.spotify.com/album/55tZQkSyOWHKFVjrn5dzU1) | 2:55 | 2021-12-25 | 2022-02-15 |
+| [Tek Tek \(feat\. MHD\)](https://open.spotify.com/track/4TBxB7MulrQ1Nb2uxHwJX1) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [Tek Tek \(feat\. MHD\)](https://open.spotify.com/album/7uWbDuFBLAEI68L9U2pJ85) | 2:41 | 2023-05-12 |  |
 | [Vamos](https://open.spotify.com/track/3fl12SlkOX4m29KzCu6RVx) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Vangogh](https://open.spotify.com/album/4VkMKMS72gTlzFGlIiQp9j) | 2:49 | 2021-12-25 | 2022-05-20 |
 | [Wahdani](https://open.spotify.com/track/6LAvUVtKN9Qlbf0IKjXG6t) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Wahdani](https://open.spotify.com/album/3oe14m2WWfLW5tS4wNXxsL) | 3:45 | 2023-03-11 | 2023-03-23 |
 | [WAHYA](https://open.spotify.com/track/1pJD9zWCzBBVZsGlv9UGo8) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [WAHYA](https://open.spotify.com/album/5SmEFZhrh7PTkDhNhM6zTP) | 2:22 | 2022-02-26 | 2022-03-18 |

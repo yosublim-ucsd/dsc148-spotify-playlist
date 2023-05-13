@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks from Tiësto, David Guetta, BROHUG, Guz and many more.
 
-186 songs - 9 hr 2 min
+189 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Crypto](https://open.spotify.com/track/5FiVO5lwVNHS344sMB4OsJ) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [Crypto](https://open.spotify.com/album/1JRt5rECmRSIkMABuHD2QX) | 2:15 | 2023-02-12 | 2023-04-13 |
 | [DM ME](https://open.spotify.com/track/7dSHCIUMxruReVkPneapxP) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9) | [DM ME](https://open.spotify.com/album/3t0XeuHfiDfeRJD0enq96J) | 3:03 | 2023-02-12 | 2023-04-13 |
 | [Don't Know Where](https://open.spotify.com/track/5xWCRSWqhT4KZfhKlcmvX3) | [B/AN/K](https://open.spotify.com/artist/0KenGC6rx5erjBNitrfJNu) | [Don't Know Where](https://open.spotify.com/album/3sZXsUKL1qg7uNfejPlZb2) | 3:35 | 2023-03-10 | 2023-04-13 |
+| [Down the Line](https://open.spotify.com/track/1euzapXhpTXNIqDWyWOLqz) | [Aresta](https://open.spotify.com/artist/2m3tbaVv1oRAtY93M1K2s4) | [Down the Line](https://open.spotify.com/album/1BSXABMQ5zURAcytndSucq) | 3:08 | 2023-05-12 |  |
 | [Dream Of You](https://open.spotify.com/track/3lm2HKqkzRm6M6WxOZxJr1) | [Lost Capital](https://open.spotify.com/artist/0ig9HLfNn48EddTcRy2x0t) | [Dream Of You](https://open.spotify.com/album/3SrSVPe74Yc7Mq8NFrwzVx) | 2:24 | 2023-03-10 |  |
 | [Dummy – Chris Lake Remix](https://open.spotify.com/track/0SmyaVrzL7j3R9k3pkJgUh) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [Dummy – Chris Lake Remix](https://open.spotify.com/album/6XqbzujsQpFewramig6kUM) | 2:53 | 2023-03-31 | 2023-04-15 |
 | [El Ritmo](https://open.spotify.com/track/58bu9nSS6GAOgBQJJsDVVm) | [Laurent Simeca](https://open.spotify.com/artist/4siciMJGHAZA1jVYWUr4Vv) | [El Ritmo](https://open.spotify.com/album/7q5o59k8Jw2GPCokAfk3i9) | 2:46 | 2023-03-24 | 2023-04-15 |
@@ -152,7 +153,9 @@
 | [Sleep Alone](https://open.spotify.com/track/0qAXESAKhPGY9wcON9vzqu) | [Ander Huang](https://open.spotify.com/artist/1mAjrDuYNJU2ilt49OITNK) | [Sleep Alone](https://open.spotify.com/album/698xAEjzQVWB3yuPvkSpRY) | 3:13 | 2023-02-12 | 2023-03-25 |
 | [Smells Like Teen Spirit](https://open.spotify.com/track/3PJvNwNj6AhlVxm69dcyTB) | [Jaydan Wolf](https://open.spotify.com/artist/58NOd3nTpJVVGma4x975P0), [Te Pai](https://open.spotify.com/artist/1MGdLAHg2Wq4mSE6OEqXqg), [Kosimo](https://open.spotify.com/artist/01tarNGsg4dinY1iJPHZBq) | [Smells Like Teen Spirit](https://open.spotify.com/album/5daWuGgRobKJj2FG0dgYXo) | 2:04 | 2023-05-11 |  |
 | [Someone Like You](https://open.spotify.com/track/50er2te7txC3DkR4y8cANW) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Someone Like You](https://open.spotify.com/album/1Z9mfaM5XeMIqhlZzCeuyX) | 2:51 | 2023-03-24 | 2023-04-13 |
+| [Soy Candela](https://open.spotify.com/track/287RKyJTSkikoHJnM24eFq) | [Kitone](https://open.spotify.com/artist/0G8avcrSozHqt8AJDrd4Xj) | [Soy Candela](https://open.spotify.com/album/35lviq7UPLFwb75XzvFI2m) | 2:53 | 2023-05-12 |  |
 | [Space Trip](https://open.spotify.com/track/1tXXkKnv5QfIQ88XNNPvbf) | [Malcolm Zeller](https://open.spotify.com/artist/5LlefWbu524mwqs5ZmFuvm) | [Space Trip](https://open.spotify.com/album/2cPvcE5SPbVPyWNGOsisRD) | 2:50 | 2023-03-24 |  |
+| [State of Mind](https://open.spotify.com/track/4IFGiauDkB9nOiPrEw97F1) | [RYU & DANTE](https://open.spotify.com/artist/297i2RtGGQqofyuggOlE2l) | [State of Mind](https://open.spotify.com/album/4A8mUMRR5w7HoUALgYy0Pk) | 3:36 | 2023-05-12 |  |
 | [STRESS \- Andry J Remix](https://open.spotify.com/track/2Zie9bbu0a4d8n4AHMuQjN) | [YuB](https://open.spotify.com/artist/4jebwGrnlyNNecjXMuIxqi), [DJ Keys](https://open.spotify.com/artist/6dE1DevqS4To8Mb5VuvTbL), [Andry J](https://open.spotify.com/artist/2hAfluo80uBMGpmRI1kLF7) | [STRESS \(Andry J Remix\)](https://open.spotify.com/album/2m4fi5kR9BNloNaIS0hkeF) | 2:20 | 2023-03-31 | 2023-04-15 |
 | [Sweat](https://open.spotify.com/track/5Ly2w3jKYFvHbOv6Jf4HNM) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Sweat](https://open.spotify.com/album/56eNIDF7UTbl3Z8jw1Gofs) | 3:20 | 2023-04-27 |  |
 | [Swipe Right](https://open.spotify.com/track/1sYbOEE67umDAzHRfmkTwE) | [Lauren Mayhew](https://open.spotify.com/artist/1b3Fzlmx6LsJLXYPRJryEG), [Agus Zack](https://open.spotify.com/artist/5lgGTdDt54gaRQqbbOsnwK) | [Swipe Right](https://open.spotify.com/album/3jbkPoFE8dDXAtXqYBInLs) | 2:21 | 2023-05-01 |  |

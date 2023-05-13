@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 
 > Simmer down with this relaxing selection of old and new Reggae.
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,790 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,901 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 5 | [Mary Jane](https://open.spotify.com/track/5iYfpZzt7llzz2clvkVlRP) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [Black Am I](https://open.spotify.com/artist/4gGjGwAPoNq5UqUltcrSXN) | [The Kalling](https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9) | 4:19 |
 | 6 | [Do To Me](https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Do To Me](https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg) | 3:45 |
 | 7 | [The Voices Of Sweet Jamaica \- All Star Remix](https://open.spotify.com/track/6ueDnmAamC2RcxY9izQQia) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Josey Wales](https://open.spotify.com/artist/2hqyZpGViBQDIaMCme0DKC), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE), [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u), [U\-Roy](https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [T.O.K.](https://open.spotify.com/artist/4c4iX8pe1SV13xToguoelN), [Cocoa Tea](https://open.spotify.com/artist/7z7anCUBwfJUFuTQ4D1x6R), [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM), [Singing Melody](https://open.spotify.com/artist/1I6w9pHnP2Wo6ygwgpKuHQ), [Tony Curtis](https://open.spotify.com/artist/67lbnNvIaK3h8L0sFxoXvJ), [Ce'Cile](https://open.spotify.com/artist/1RnGhd2JfN5nbVOvYmhDyO), [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj), [Leroy Sibbles](https://open.spotify.com/artist/0h9oPMP5nFi3mY0lK4cSuy), [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [The Voices Of Sweet Jamaica](https://open.spotify.com/album/7CZ9pJ8wS1qyal2hnMf2qj) | 4:06 |
-| 8 | [Don't Give Up](https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H) | 3:18 |
-| 9 | [Longing For](https://open.spotify.com/track/4XvuRDrWteHQGLBOXbAkFZ) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy) | [True Reflections...A New Beginning](https://open.spotify.com/album/40BYBDHTNouG1hMQh1iDZn) | 3:52 |
+| 8 | [Longing For](https://open.spotify.com/track/4XvuRDrWteHQGLBOXbAkFZ) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy) | [True Reflections...A New Beginning](https://open.spotify.com/album/40BYBDHTNouG1hMQh1iDZn) | 3:52 |
+| 9 | [Don't Give Up](https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H) | 3:18 |
 | 10 | [Living It Up](https://open.spotify.com/track/0Xd3LUIjRESt5rSAGzvAvA) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Stony Hill](https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4) | 4:00 |
 | 11 | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1) | 3:29 |
 | 12 | [Skankin' Sweet](https://open.spotify.com/track/5SQaQWvBDEAeug4EPyYEGE) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 4:12 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 42 | [Amsterdam](https://open.spotify.com/track/19LXhmESLLMBb6bUJC02uR) | [Mungo's Hi Fi](https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK), [Eva Lazarus](https://open.spotify.com/artist/68eE2HHE6By6hOsOcsArcp) | [Amsterdam](https://open.spotify.com/album/3WVrgqUT8NWgAuicUPcKt0) | 3:58 |
 | 43 | [Made To Fall In Love](https://open.spotify.com/track/2JKv3r2AUmWjrDFO3unlpq) | [Bitty McLean](https://open.spotify.com/artist/2t3eEaWiT5weaCJIh6aRv2), [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Reggae Gold 2019](https://open.spotify.com/album/5cfZ5mWTwZwyzSSgDeiFN6) | 3:44 |
 | 44 | [Real Love](https://open.spotify.com/track/27yBUDE0EBDxQUkg72uL49) | [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1) | [Lily of da Valley](https://open.spotify.com/album/4fFTF01yyYfAbsI0ktBb7H) | 4:09 |
-| 45 | [To See](https://open.spotify.com/track/2sY6QwNrA9yWZRPW2WtHTq) | [Queen Ifrica](https://open.spotify.com/artist/5SK75gxwqKq5Zc1mdLfwv9) | [Reggae Gold 2019](https://open.spotify.com/album/5cfZ5mWTwZwyzSSgDeiFN6) | 3:44 |
-| 46 | [Use Me](https://open.spotify.com/track/3KDk6mLLHSd1YiaLtnAQdt) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Use Me](https://open.spotify.com/album/592Zbs7JSgwspo1O7BU1K1) | 3:12 |
+| 45 | [Use Me](https://open.spotify.com/track/3KDk6mLLHSd1YiaLtnAQdt) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Use Me](https://open.spotify.com/album/592Zbs7JSgwspo1O7BU1K1) | 3:12 |
+| 46 | [To See](https://open.spotify.com/track/2sY6QwNrA9yWZRPW2WtHTq) | [Queen Ifrica](https://open.spotify.com/artist/5SK75gxwqKq5Zc1mdLfwv9) | [Reggae Gold 2019](https://open.spotify.com/album/5cfZ5mWTwZwyzSSgDeiFN6) | 3:44 |
 | 47 | [Same So](https://open.spotify.com/track/54Dt888vzNrG90F51f1kSW) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Same So](https://open.spotify.com/album/2TRIUatF5kFierYyXW8zUq) | 3:28 |
 | 48 | [Buried Alive](https://open.spotify.com/track/0TihbhZf0uXlEcxDj4Fzpi) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Upside Down 2020](https://open.spotify.com/album/0gZau2nRsooGhfgul60N4l) | 3:52 |
 | 49 | [Radio](https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [The Golden Hour](https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78) | 3:00 |
 | 50 | [Love Overdue](https://open.spotify.com/track/0ClaCaTK8BdOSsP4FZbkio) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Love Overdue](https://open.spotify.com/album/4Gf8tEQ1cRQq9qnErm0TfA) | 3:27 |
 
-Snapshot ID: `MCwwMWIyZDg0ODYxODIwODU3MDU0MzA1MzhkOTUxYjQ5YjMyNjEwMmFj`
+Snapshot ID: `MCw2YTlhZTA5MjNmYThlYTc3YWE3YTk3NjUyYWYxNWIwZjM5OWU4NDUx`

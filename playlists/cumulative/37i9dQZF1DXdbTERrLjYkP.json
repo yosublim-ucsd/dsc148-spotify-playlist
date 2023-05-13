@@ -711,6 +711,24 @@
     },
     {
       "album": {
+        "name": "Big Star",
+        "url": "https://open.spotify.com/album/5M1Y1ppNc7NFFq5b6U0s5K"
+      },
+      "artists": [
+        {
+          "name": "Abigail Osborn",
+          "url": "https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180421,
+      "name": "Big Star",
+      "url": "https://open.spotify.com/track/3lnfzmGxaOSBLc2Hh4M5NT"
+    },
+    {
+      "album": {
         "name": "birthday alone",
         "url": "https://open.spotify.com/album/2i3bzoH7SD600b3SKm0F8u"
       },
@@ -974,7 +992,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 145341,
       "name": "Burden",
       "url": "https://open.spotify.com/track/5vgZQdUkP8gYJnGkzZNqBm"
@@ -3042,7 +3060,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 255500,
       "name": "Hello Florence, How Are You?",
       "url": "https://open.spotify.com/track/0WII8HWOY0oYYpVNscWPDo"
@@ -3589,6 +3607,24 @@
     },
     {
       "album": {
+        "name": "I should call my mom",
+        "url": "https://open.spotify.com/album/7qVlcmFyBzxCU1dzOIN3cS"
+      },
+      "artists": [
+        {
+          "name": "Zevia",
+          "url": "https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180778,
+      "name": "I should call my mom",
+      "url": "https://open.spotify.com/track/3eLf5darT8r7GIeEmgwAaQ"
+    },
+    {
+      "album": {
         "name": "I Wanna Be a Boy",
         "url": "https://open.spotify.com/album/1CqhdFxHAyTGkmJNZMrHNw"
       },
@@ -4076,6 +4112,24 @@
       "duration_ms": 290132,
       "name": "j's lullaby (darlin' i'd wait for you)",
       "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
+    },
+    {
+      "album": {
+        "name": "Jude Law",
+        "url": "https://open.spotify.com/album/11R4y65FAlmyj90tWtOEfl"
+      },
+      "artists": [
+        {
+          "name": "Isabel Pless",
+          "url": "https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212800,
+      "name": "Jude Law",
+      "url": "https://open.spotify.com/track/15rPuany8XoTaijKHdAf4j"
     },
     {
       "album": {
@@ -6766,7 +6820,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 179689,
       "name": "Spam Calls",
       "url": "https://open.spotify.com/track/34jEr8NupQF9PVS31Tyfff"

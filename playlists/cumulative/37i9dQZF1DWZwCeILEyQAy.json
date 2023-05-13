@@ -1910,7 +1910,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 146919,
       "name": "DUMB (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/2PQ8j691jAj6T4f7Ur4RiU"
@@ -2012,7 +2012,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 190416,
       "name": "Energy - Latto Remix",
       "url": "https://open.spotify.com/track/02quWjvp0fchzqa8uUXDps"
@@ -2350,7 +2350,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 158122,
       "name": "FW That",
       "url": "https://open.spotify.com/track/28u5CGeIstPNFZcyZ8OAg7"
@@ -3199,6 +3199,24 @@
     },
     {
       "album": {
+        "name": "Just Relax",
+        "url": "https://open.spotify.com/album/0Su9sgYg2FJNn6tamiu7Lc"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152213,
+      "name": "Just Relax",
+      "url": "https://open.spotify.com/track/4ZJ58LR9dwGJBFGC8RilBM"
+    },
+    {
+      "album": {
         "name": "Kater To Me",
         "url": "https://open.spotify.com/album/7KLGjJFMjyGK2eFOcymZ6j"
       },
@@ -3286,7 +3304,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 224358,
       "name": "Like That",
       "url": "https://open.spotify.com/track/0PC0xE49RsOT49PZmmxR0Z"
@@ -3893,6 +3911,24 @@
     },
     {
       "album": {
+        "name": "No Problems",
+        "url": "https://open.spotify.com/album/7ELvTvraPPFmhn5540Zyc5"
+      },
+      "artists": [
+        {
+          "name": "Rican Da Menace",
+          "url": "https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79488,
+      "name": "No Problems",
+      "url": "https://open.spotify.com/track/4D2vt3fDELk1gNQpUGucZ1"
+    },
+    {
+      "album": {
         "name": "No Tweakin",
         "url": "https://open.spotify.com/album/1x3rAsFcWEy5livF0JcfMx"
       },
@@ -3908,6 +3944,36 @@
       "duration_ms": 136258,
       "name": "No Tweakin",
       "url": "https://open.spotify.com/track/2TDvDD3HT5KwM7Naj97bRh"
+    },
+    {
+      "album": {
+        "name": "Nope Shemix",
+        "url": "https://open.spotify.com/album/0AKBMWlWpVd7zpUUf3eGgS"
+      },
+      "artists": [
+        {
+          "name": "Queen Key",
+          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
+        },
+        {
+          "name": "Omeretta the Great",
+          "url": "https://open.spotify.com/artist/3wFzTRAvCLEACzbRmgBEHx"
+        },
+        {
+          "name": "Rubi Rose",
+          "url": "https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk"
+        },
+        {
+          "name": "So Supa",
+          "url": "https://open.spotify.com/artist/6D6Uf2RTnvHkD64pUapryP"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168769,
+      "name": "Nope Shemix",
+      "url": "https://open.spotify.com/track/39fyKFM1q92YzWTQiDFF47"
     },
     {
       "album": {
@@ -4822,7 +4888,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 161860,
       "name": "Ridgemont Baby",
       "url": "https://open.spotify.com/track/24auUYE1W2wQmHiOqJSBhy"
@@ -5446,6 +5512,50 @@
       "duration_ms": 181224,
       "name": "Suck It Up",
       "url": "https://open.spotify.com/track/03qq2X85nmp16V4LJluQJ2"
+    },
+    {
+      "album": {
+        "name": "SUKISADA",
+        "url": "https://open.spotify.com/album/3FfOGRD9hSOwzgKZf0sYQr"
+      },
+      "artists": [
+        {
+          "name": "Sada Baby",
+          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
+        },
+        {
+          "name": "Sukihana",
+          "url": "https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "SUKISADA",
+      "url": "https://open.spotify.com/track/1uawwhj5sMN2M535rWd4Xs"
+    },
+    {
+      "album": {
+        "name": "PAPTIVITIES",
+        "url": "https://open.spotify.com/album/5OZEkISyLrkEvUnCZoLz5b"
+      },
+      "artists": [
+        {
+          "name": "Pap Chanel",
+          "url": "https://open.spotify.com/artist/1ziRj7e5Tm72Qf2ag6jHed"
+        },
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151272,
+      "name": "Summertime (with Fredo Bang)",
+      "url": "https://open.spotify.com/track/7p5GXypR2XsPuo6k0P4DrG"
     },
     {
       "album": {

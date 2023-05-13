@@ -4,7 +4,7 @@
 
 > Folksy takes on your favorite tracks\. Cover: Josiah and the Bonnevilles
 
-242 songs - 15 hr 29 min
+243 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Freedom Highway](https://open.spotify.com/track/3BpfVJSY1fUlzHXfnrzsSg) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Freedom Highway](https://open.spotify.com/album/1XhpZhj12zoDAoAPzUcWjf) | 4:49 | 2021-12-13 | 2022-07-26 |
 | [Gentle on My Mind](https://open.spotify.com/track/4TOuD1BPV4WJ4JM0Qt1kDq) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Joe Henry](https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r) | [Shine A Light: Field Recordings from the Great American Railroad](https://open.spotify.com/album/1M6N0Ejr1EUcRXhDT5Jtw6) | 3:39 | 2021-12-13 | 2022-07-29 |
 | [Gentle on My Mind](https://open.spotify.com/track/6XSXcrTzgowqsQo3AioT9o) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Joe Henry](https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r) | [Shine a Light: Field Recordings from the Great American Railroad](https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz) | 3:39 | 2022-06-03 |  |
-| [Gentle On My Mind](https://open.spotify.com/track/1FXnfvFJiCSVyanoUNmGiO) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Gentle On My Mind](https://open.spotify.com/album/4XrkDWDSjprpJicwP7fL1s) | 4:05 | 2022-06-03 |  |
+| [Gentle On My Mind](https://open.spotify.com/track/1FXnfvFJiCSVyanoUNmGiO) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Gentle On My Mind](https://open.spotify.com/album/4XrkDWDSjprpJicwP7fL1s) | 4:05 | 2022-06-03 | 2023-05-13 |
 | [Gentle On My Mind](https://open.spotify.com/track/6zq5dLGKdvGoXn9FUvcJLC) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Gentle On My Mind](https://open.spotify.com/album/7HLNwzaYWBgg9ttk1P7LyP) | 4:05 | 2021-12-13 | 2022-07-29 |
 | [Girl From The North Country](https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Leave Me Breathless](https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy) | 4:00 | 2021-12-13 |  |
 | [Go Your Own Way](https://open.spotify.com/track/2zi6avisctlzNHw7HjK7KM) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Covered up with Flowers](https://open.spotify.com/album/3BGlVmlsbBQXNTAdTP72Us) | 3:34 | 2022-06-03 |  |
@@ -129,6 +129,7 @@
 | [If I Were A Carpenter](https://open.spotify.com/track/07yhlDqS99totZZkdQEWBW) | [Ramblin' Jack Elliott](https://open.spotify.com/artist/6iuM8yp1x2N0l6SONhyq4b) | [Young Brigham](https://open.spotify.com/album/4m1PEBRoanU0XSqZMBQ5yO) | 5:04 | 2021-12-13 | 2023-01-12 |
 | [If It Makes You Happy](https://open.spotify.com/track/4GQ9PStMvCHmF13SLz1zki) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ) | 4:15 | 2021-12-13 | 2022-07-29 |
 | [If It Makes You Happy](https://open.spotify.com/track/7ia7SaMGhr00G8EX5DMiFq) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M) | 4:15 | 2022-06-03 |  |
+| [If We Were Vampires \(feat\. Wesley Schultz\) \- Spotify Singles](https://open.spotify.com/track/6LKvzEJQTIm2RrWAMPwQH6) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Spotify Singles](https://open.spotify.com/album/6WdZ6j0Mm6fOzpyHXKx8PP) | 3:37 | 2023-05-12 |  |
 | [If You Could Read My Mind](https://open.spotify.com/track/1AcMGe32z1DoV61PPCFTFn) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [If You Could Read My Mind](https://open.spotify.com/album/4xiAPrGgnwcfTJtdOwxKf4) | 3:17 | 2021-12-13 |  |
 | [In My Life](https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [In My Life](https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM) | 2:56 | 2021-12-13 |  |
 | [In My Room](https://open.spotify.com/track/0uyzIps7qIdNKOVIvR6Ex0) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [In My Room](https://open.spotify.com/album/2LPetL2iAG5jqVLPaKJPHc) | 2:45 | 2021-12-13 | 2022-07-29 |

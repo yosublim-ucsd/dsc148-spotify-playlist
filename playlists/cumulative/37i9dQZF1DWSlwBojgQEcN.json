@@ -1802,7 +1802,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 244520,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/3XWy3NVtRtrL6BCQl8PRD5"
@@ -3248,6 +3248,24 @@
       "duration_ms": 152626,
       "name": "Naked As We Came",
       "url": "https://open.spotify.com/track/2gUSIsapdX6jEJ0DvjqTt2"
+    },
+    {
+      "album": {
+        "name": "Naomi",
+        "url": "https://open.spotify.com/album/49QUxmBg3qgG3rK9nwFy4S"
+      },
+      "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142826,
+      "name": "Naomi",
+      "url": "https://open.spotify.com/track/2q8qMzt3s5b935nW0fn9t9"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: Jorja Smith
 
-978 songs - 2 day 4 hr 52 min
+980 songs - 2 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -779,7 +779,7 @@
 | [Shock](https://open.spotify.com/track/6cS8DvSGYojElW2XB3NNVM) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Shock](https://open.spotify.com/album/4IPN0EOPic8pdQRRaNYW3A) | 2:22 | 2022-06-30 | 2022-07-22 |
 | [Show My Love](https://open.spotify.com/track/075WtAJrh7uEbnInJVxjYj) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Show My Love](https://open.spotify.com/album/7riKp1e3NEWpgkevFL5v4U) | 2:43 | 2023-02-03 | 2023-02-24 |
 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-15 | 2022-11-05 |
-| [Side Effects](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/2QsMZVsBumu6t90SB3yGrH) | [Side Effects](https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j) | 2:33 | 2023-05-11 |  |
+| [Side Effects](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Side Effects](https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j) | 2:33 | 2023-05-11 |  |
 | [Sideways](https://open.spotify.com/track/72gTwGkP2OzBELgIVg5b4J) | [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW) | [We May Grow Old But We Never Grow Up](https://open.spotify.com/album/0hWlyiXKg65Wm8T99Uo8OZ) | 3:29 | 2022-06-16 | 2022-07-08 |
 | [Silent Running \(feat\. Adeleye Omotayo\)](https://open.spotify.com/track/5t6VBNWXxcwlrxCjU7ytGg) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Adeleye Omotayo](https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT) | [Silent Running \(feat\. Adeleye Omotayo\)](https://open.spotify.com/album/5IDEZ1rerrSPTypdQI3od9) | 4:26 | 2023-01-27 | 2023-03-08 |
 | [Silly Me](https://open.spotify.com/track/5qXmsKaUlKaRzVpmtCYfqr) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Silly Me](https://open.spotify.com/album/7HBMhkR1VpAQQF93biR19H) | 3:19 | 2023-04-27 |  |
@@ -864,6 +864,7 @@
 | [The One](https://open.spotify.com/track/75DRmgr7StSIMJqIDN2jHH) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [The One](https://open.spotify.com/album/2FhG2P32MEmsTHr4t0I7ht) | 2:52 | 2022-11-11 | 2022-12-02 |
 | [The Otherside \(feat\. Robinson\)](https://open.spotify.com/track/5En5CwjHaxxj7LpwpHojL3) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [This Is SHÈN](https://open.spotify.com/album/0BuCz58hOxBFXmfocz8eWU) | 3:28 | 2022-11-25 | 2022-12-16 |
 | [The Perfect Pair \- Spotify Singles](https://open.spotify.com/track/3VlDt2YVRn91CJXc89AQEx) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Our Generation \- Spotify Singles](https://open.spotify.com/album/3aVpww6hYzU8sHdkSeO0Bw) | 2:42 | 2023-05-04 |  |
+| [The Planet](https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Planet](https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5) | 2:58 | 2023-05-11 |  |
 | [The Process](https://open.spotify.com/track/5ZInXf93agOZ7972tb5rI6) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Prima Facie \(Original Theatre Soundtrack\)](https://open.spotify.com/album/6VHUXCU45lulZ2wkWhxAmU) | 3:17 | 2022-06-16 | 2022-07-22 |
 | [The Rodeo](https://open.spotify.com/track/3Yx28qSrbZupaKw9pUBHfu) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [The Rodeo](https://open.spotify.com/album/3VPtca7a7ZIpDiAlP6WITv) | 3:04 | 2022-06-24 | 2022-07-15 |
 | [The Void Stares Back](https://open.spotify.com/track/5V2okh49WkuGz0IvnRuqWL) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF), [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [The Void Stares Back](https://open.spotify.com/album/0rUlejX6IaCZVF9oWgtwu7) | 3:51 | 2022-08-11 | 2022-08-27 |
@@ -955,7 +956,8 @@
 | [Where do we go now?](https://open.spotify.com/track/4bYwK4mvWubnAkCextxH2d) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Where do we go now?](https://open.spotify.com/album/4ygkwRaKsCul6Hi0YBck0T) | 4:03 | 2023-01-17 | 2023-02-24 |
 | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/album/1wFiFlS50SnyKPAIcBzAQN) | 2:33 | 2022-05-26 | 2022-06-17 |
 | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj) | 3:01 | 2023-02-10 | 2023-03-25 |
-| [White Ash](https://open.spotify.com/track/3u47ySotzOLUU4oWbqQ7ev) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [White Ash](https://open.spotify.com/album/0fq5Tu08ZzjlTgk6vgtdma) | 3:45 | 2023-05-11 |  |
+| [White Ash](https://open.spotify.com/track/2sngouSS4sot4DR4qkX4Ef) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Real Back In Style](https://open.spotify.com/album/4ZXd1RIxHGNExQjajXcdV3) | 3:45 | 2023-05-11 |  |
+| [White Ash](https://open.spotify.com/track/3u47ySotzOLUU4oWbqQ7ev) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [White Ash](https://open.spotify.com/album/0fq5Tu08ZzjlTgk6vgtdma) | 3:45 | 2023-05-11 | 2023-05-13 |
 | [white lies](https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [songs written for piano](https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O) | 2:27 | 2022-12-02 | 2023-01-13 |
 | [white wine](https://open.spotify.com/track/0jgluhxUw9Karu8dGN6J2C) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [white wine](https://open.spotify.com/album/0nnes8RjTCvwCMDDjf2jmS) | 2:35 | 2023-03-17 | 2023-04-07 |
 | [Who Said Goons Don't Cry?](https://open.spotify.com/track/7bwUY127pZvvB7ChnZ03ds) | [Nino Uptown](https://open.spotify.com/artist/1zzNqXwB3gRY3Ucm8dQnr8) | [Who Said Goons Don't Cry?](https://open.spotify.com/album/18ChxxsuGLdXXzzaRLQCJE) | 3:49 | 2023-02-07 | 2023-02-24 |

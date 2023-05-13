@@ -645,6 +645,24 @@
     },
     {
       "album": {
+        "name": "Casi Que Me Pierdo",
+        "url": "https://open.spotify.com/album/5IQ4cyCs8yk8NSQfZ9VYao"
+      },
+      "artists": [
+        {
+          "name": "La Fiesta",
+          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145334,
+      "name": "Casi Que Me Pierdo",
+      "url": "https://open.spotify.com/track/5MRkyjBeo8hg0KGGI7q7lg"
+    },
+    {
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/7bPY6lL00xmDVS4VURDFCl"
       },
@@ -880,7 +898,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 189397,
       "name": "Coraz\u00f3n en Bandeja de T\u00e9",
       "url": "https://open.spotify.com/track/6JAqFBKUiAff3hYZafk8HI"
@@ -1132,7 +1150,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 168315,
       "name": "De d\u00eda te vas, de noche volv\u00e9s",
       "url": "https://open.spotify.com/track/4QF74SCZBCRdJwG1DUTuQ5"
@@ -1903,6 +1921,28 @@
     },
     {
       "album": {
+        "name": "Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/6xwX7AvhBv0yhUOyHAsbEZ"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173949,
+      "name": "Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/1j3hgXfIOJ5WrNiNiXs4uw"
+    },
+    {
+      "album": {
         "name": "Fue Culpa del Amor",
         "url": "https://open.spotify.com/album/4iXP6iThkVJY1Y6Zi0niPL"
       },
@@ -2040,7 +2080,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 209912,
       "name": "INAUDITO",
       "url": "https://open.spotify.com/track/30Nu2MaRxo4OtAUlStOzdg"
@@ -2575,6 +2615,24 @@
     },
     {
       "album": {
+        "name": "Lim\u00f3n Con Sal",
+        "url": "https://open.spotify.com/album/19QOLk9W8vUyIFT6UsCvRl"
+      },
+      "artists": [
+        {
+          "name": "Tyago Griffo",
+          "url": "https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165042,
+      "name": "Lim\u00f3n Con Sal",
+      "url": "https://open.spotify.com/track/70H1zygGjZGRhtuRWH4TCO"
+    },
+    {
+      "album": {
         "name": "Sabroso",
         "url": "https://open.spotify.com/album/4EFaPLKwbFhzBy9GWVcT75"
       },
@@ -2806,7 +2864,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 258821,
       "name": "Manos de Tijera - En Vivo",
       "url": "https://open.spotify.com/track/3p1VmY21fzMIYq29YVsjWo"
@@ -3146,7 +3204,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 184189,
       "name": "Mi Celosa Hermosa",
       "url": "https://open.spotify.com/track/6E788WFodIv2X1pkudERSO"
@@ -3248,6 +3306,28 @@
       "duration_ms": 254941,
       "name": "Mientes / Un Dia Sin Ti",
       "url": "https://open.spotify.com/track/3dPreolNY6PUrSrOiWPhpg"
+    },
+    {
+      "album": {
+        "name": "Mientras yo viva",
+        "url": "https://open.spotify.com/album/5KNkfu2wy3AcyrKFq8ORoe"
+      },
+      "artists": [
+        {
+          "name": "Ale Ceberio",
+          "url": "https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e"
+        },
+        {
+          "name": "Sergio Arguello",
+          "url": "https://open.spotify.com/artist/3XVEHVYVgo45WtDtFF7cLq"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236362,
+      "name": "Mientras yo viva",
+      "url": "https://open.spotify.com/track/5Cio5a1Ys6agUmWEYdzNgN"
     },
     {
       "album": {
@@ -5062,7 +5142,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-27",
+      "date_removed": null,
       "duration_ms": 302800,
       "name": "Soy Cordobes",
       "url": "https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS"

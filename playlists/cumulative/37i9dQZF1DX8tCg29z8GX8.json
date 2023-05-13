@@ -597,6 +597,32 @@
     },
     {
       "album": {
+        "name": "Blessings (feat. Wizkid & Gimba)",
+        "url": "https://open.spotify.com/album/7Jczi3QQN1oiJPa2k2mrpx"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Gimba",
+          "url": "https://open.spotify.com/artist/1aov1VXIBA7iACR51xloHt"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196725,
+      "name": "Blessings (feat. Wizkid & Gimba)",
+      "url": "https://open.spotify.com/track/1ALcYeD6JELUFLL3obyUDt"
+    },
+    {
+      "album": {
         "name": "Blind",
         "url": "https://open.spotify.com/album/5x9iKmrB20VHunQSud1vy6"
       },

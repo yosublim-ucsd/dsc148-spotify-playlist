@@ -4,7 +4,7 @@
 
 > for a first class pre, press play
 
-150 songs - 9 hr 38 min
+151 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [Like A G6](https://open.spotify.com/track/6fsNTnNIEEFeuph4vsSZYk) | [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq), [The Cataracs](https://open.spotify.com/artist/7C64wNX3howEFZjAYRKsfP), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Race Hits 2022](https://open.spotify.com/album/5FrmIPEpnHiK9tqGy41O75) | 3:38 | 2022-09-16 | 2022-11-13 |
 | [Like A G6](https://open.spotify.com/track/2s5YN9O8Qv25BjQobPHWVZ) | [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq), [The Cataracs](https://open.spotify.com/artist/7C64wNX3howEFZjAYRKsfP), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Dirty Bass \(Deluxe\)](https://open.spotify.com/album/78ysj0YXG9moP8Gv9izzm4) | 3:39 | 2022-05-06 | 2022-07-29 |
 | [Like You \(feat\. Ciara\)](https://open.spotify.com/track/3jEqrIfwKO0M8ALu3TGilF) | [Bow Wow](https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Wanted](https://open.spotify.com/album/65G0BpV00GmLi5WUCeWdvT) | 3:25 | 2022-09-16 |  |
-| [Livin' It Up](https://open.spotify.com/track/52gqeRlrBE7hqMlRxEsi6y) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Pain Is Love](https://open.spotify.com/album/2wMavIKnu6feFNOeQ1hVwf) | 4:17 | 2022-09-16 |  |
+| [Livin' It Up](https://open.spotify.com/track/52gqeRlrBE7hqMlRxEsi6y) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Pain Is Love](https://open.spotify.com/album/2wMavIKnu6feFNOeQ1hVwf) | 4:17 | 2022-09-16 | 2023-05-13 |
+| [Livin' It Up](https://open.spotify.com/track/4ToZV7r72wSbVrljaLSp13) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Pain Is Love](https://open.spotify.com/album/2iIIgsaTEtVjDhrV7HKDJC) | 4:17 | 2022-09-16 |  |
 | [Lose Control \(feat\. Ciara & Fat Man Scoop\)](https://open.spotify.com/track/0UaMYEvWZi0ZqiDOoHU3YI) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [The Cookbook](https://open.spotify.com/album/6vV5UrXcfyQD1wu4Qo2I9K) | 3:46 | 2022-09-16 |  |
 | [Love Sosa](https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rich](https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF) | 4:06 | 2022-05-06 | 2022-09-17 |
 | [Low \(feat\. T\-Pain\)](https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Mail on Sunday](https://open.spotify.com/album/5j1wrOAOm5KFd17pPiSvle) | 3:51 | 2022-05-06 |  |

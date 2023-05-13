@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-638 songs - 1 day 15 hr 17 min
+639 songs - 1 day 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,6 +322,7 @@
 | [In My Life](https://open.spotify.com/track/3P5PjBDgbYzumxnbuahZqn) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [In My Life](https://open.spotify.com/album/2bW3haSRmwMkq1UBXArTuX) | 2:34 | 2021-10-20 | 2022-07-29 |
 | [In My Life](https://open.spotify.com/track/3nsMuR3Bax8ZjhDl2xkGfJ) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [In My Life](https://open.spotify.com/album/3xmPSQOtxckv6Gr4IgVzw7) | 2:34 | 2022-06-10 |  |
 | [In My Life](https://open.spotify.com/track/7Dprt8s1FohodJYtCNcM4a) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 2:57 | 2021-10-20 |  |
+| [In My Life](https://open.spotify.com/track/3QGTAH2zBXS0EgLdrouSgF) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Aqui, Ali, Em Qualquer Lugar](https://open.spotify.com/album/07KAoy7racDNRDQEmpQOkN) | 2:23 | 2023-02-24 |  |
 | [In My Life](https://open.spotify.com/track/6IZOM0mpvqxtHXngtLdwJ7) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Aqui, Ali, em Qualquer Lugar](https://open.spotify.com/album/25gF6m29zFfS7NRTZ9SMq6) | 2:23 | 2021-10-20 | 2022-07-29 |
 | [In My Life](https://open.spotify.com/track/625ZpDbngDHqNgjoGiCgBp) | [Wallis Bird](https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX) | [Architect \(Deluxe\)](https://open.spotify.com/album/4tKIQtoOiJDj2mRonGNOcv) | 2:40 | 2021-10-20 |  |
 | [In The Aeroplane Over The Sea](https://open.spotify.com/track/1uR8YDxSxeo8BkbR6MUdvg) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [In The Aeroplane Over The Sea](https://open.spotify.com/album/3QSWBOJ6C8nEI35vhOkZ4u) | 3:41 | 2021-10-20 | 2022-07-29 |
@@ -425,7 +426,7 @@
 | [Ocean Eyes](https://open.spotify.com/track/21vCVeinc9agpAM7scu3Tx) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH) | [Ocean Eyes](https://open.spotify.com/album/5tT6uMrOHLmZWam8b4LEwr) | 3:20 | 2021-10-20 | 2022-07-29 |
 | [Ode to My Family](https://open.spotify.com/track/7aVmUCeBxzfyqqKwFyrYux) | [Radical Face](https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9) | [Ode to My Family](https://open.spotify.com/album/7uB4KcsGTHl0whmCwKOBl5) | 4:32 | 2021-10-20 | 2022-07-28 |
 | [Ohio](https://open.spotify.com/track/7LLUsLlN3ZqGxDJECgS6jN) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Ohio / After The Gold Rush](https://open.spotify.com/album/0DstfAvDUGVokiUpr8k2ci) | 3:21 | 2021-10-20 | 2022-07-29 |
-| [One](https://open.spotify.com/track/5e7OZ8PyDJYQdGAiidCPad) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Magnolia \(Music from the Motion Picture\)](https://open.spotify.com/album/6jbjx0LGKl11H6UtrgS2nV) | 2:53 | 2023-02-24 |  |
+| [One](https://open.spotify.com/track/5e7OZ8PyDJYQdGAiidCPad) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Magnolia \(Music from the Motion Picture\)](https://open.spotify.com/album/6jbjx0LGKl11H6UtrgS2nV) | 2:53 | 2023-02-24 | 2023-05-13 |
 | [Ordinary World](https://open.spotify.com/track/1Rzv9hwuNO1H7N947tD1e8) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Ordinary World](https://open.spotify.com/album/0yN19KuHWWvVMcaC7ygfIp) | 5:14 | 2021-10-20 |  |
 | [Out of the Woods \(Acoustic\) \[feat\. Jake Coco\]](https://open.spotify.com/track/7zPRddWOwc5yH7ugaT6lpP) | [Savannah Outen](https://open.spotify.com/artist/0FcC38n7nTB9YS1xhFOKDX), [Jake Coco](https://open.spotify.com/artist/6WyeyhNDpeIVbznnztFDQZ) | [Out of the Woods \(Acoustic\) \[feat\. Jake Coco\]](https://open.spotify.com/album/1GeT7oUQgVrTU9vsVkcRjQ) | 3:49 | 2021-10-20 | 2022-07-11 |
 | [Palace \- Cover](https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Palace \(Cover\) / Diane](https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS) | 3:49 | 2021-10-20 |  |

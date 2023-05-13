@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 
 > Feline\-friendly tracks curated by musicologist <a href="spotify:artist:0TMyZy9NGJJ7NKMAgCgw6B">David Teie</a>, who pioneered scientifically researched music for cats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,971 likes - 33 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,033 likes - 33 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 | 32 | [Piano Sonata No\. 16 in C Major, K\. 545 "Sonata facile": II\. Andante](https://open.spotify.com/track/6IKPX55mQL42ELcLIkK0Ci) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Mitsuko Uchida](https://open.spotify.com/artist/606pshIhidPHebEaDWSXDe) | [Mozart: Piano Sonatas Nos\. 15 & 16; Rondo in A minor](https://open.spotify.com/album/6krZ3BTfSZmA4OVceOAttH) | 7:00 |
 | 33 | [Spook's Ditty](https://open.spotify.com/track/50UO61QfF5DuAkegNrFzOv) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Spook's Ditty](https://open.spotify.com/album/4BNnFQGH2sQxxQZBxSuQxI) | 1:55 |
 
-Snapshot ID: `MCw2NmFlNGZmOTNjZjljNGZkY2ZmZDFjNzJjYTgxYTg1OGRlM2U1OTJh`
+Snapshot ID: `MCw1YWFjZTZiOGUyMmUyNDFhYjU3YWMxZGI0ZGYzOGRkODU0YmY2MjUx`

@@ -4,7 +4,7 @@
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : JON VINYL
 
-137 songs - 7 hr 34 min
+138 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Bittersweet Goodbyes](https://open.spotify.com/track/1otiDJ357ZDfyaJpK4IvNQ) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Motive](https://open.spotify.com/album/2IVlGSUdl1ZTeSjOj8tMEr) | 3:07 | 2022-12-22 | 2023-02-24 |
 | [Call Me](https://open.spotify.com/track/3wPNXRgvJI35uIXxlPriv2) | [Nka](https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz) | [La Lune](https://open.spotify.com/album/3Mp4ACnaRCKzMy8XmaT2iI) | 4:23 | 2022-12-22 | 2023-04-21 |
 | [Celebrate](https://open.spotify.com/track/4QacWDLNi3C82o2e79YV9R) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Mood Swings](https://open.spotify.com/album/3mRiJv27nO0LYbntvVsYN1) | 3:13 | 2023-01-12 | 2023-03-03 |
+| [Charismatic](https://open.spotify.com/track/4zJD8PyDnzzA3WCi8Eg0jc) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Charismatic](https://open.spotify.com/album/6mbkUcTvJ5eS6OBzeuAwyw) | 3:04 | 2023-05-11 |  |
 | [Closure](https://open.spotify.com/track/5tir4dUwLnKYd1rr0zLiGR) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [Rahrah Gabor](https://open.spotify.com/artist/0aXwPlkVGO3Cyn1nwiNq2g) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 3:29 | 2023-02-09 |  |
 | [Come Through \(feat\. Chris Brown\)](https://open.spotify.com/track/4dmNBu6IEQahPJDlQQOY69) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Back of My Mind](https://open.spotify.com/album/577SefILL1LFIbsOMP3lm1) | 3:34 | 2022-12-22 | 2023-01-13 |
 | [CUFF IT \- WETTER REMIX](https://open.spotify.com/track/7eQpbVg3tjHmtdOlAHxaTr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [CUFF IT](https://open.spotify.com/album/7BJjZgzGzpll0t8CEzjILs) | 4:09 | 2023-02-09 |  |

@@ -837,6 +837,24 @@
     },
     {
       "album": {
+        "name": "Catchin\u2019 Grasshoppers / Love Is A Drug / I Wish It Would Rain",
+        "url": "https://open.spotify.com/album/3DFmujeh2ifuIU5DJCujur"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249040,
+      "name": "Catchin' Grasshoppers",
+      "url": "https://open.spotify.com/track/37aQhY0D5FkBrG6sbNbiUX"
+    },
+    {
+      "album": {
         "name": "Texas to Tennessee",
         "url": "https://open.spotify.com/album/1mP7Dz3kH8vUPkraFnW6a6"
       },
@@ -2593,6 +2611,28 @@
     },
     {
       "album": {
+        "name": "448",
+        "url": "https://open.spotify.com/album/72w05PERbBG9DsIxVe17Mi"
+      },
+      "artists": [
+        {
+          "name": "Jeff Carson",
+          "url": "https://open.spotify.com/artist/1THO5gJEaoKK9ey0aZbCQE"
+        },
+        {
+          "name": "Craig Morgan",
+          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262906,
+      "name": "Real Life (I Never Was The Same Again)",
+      "url": "https://open.spotify.com/track/5mZ01tQEFBstAGa423rJdz"
+    },
+    {
+      "album": {
         "name": "Redhead",
         "url": "https://open.spotify.com/album/7hCl3yuH8JK5vRR0iSQpwF"
       },
@@ -3826,6 +3866,24 @@
       "duration_ms": 204906,
       "name": "Workin' My Way Down",
       "url": "https://open.spotify.com/track/6RauCs5nVH1UR2stIQNjXu"
+    },
+    {
+      "album": {
+        "name": "World On Fire",
+        "url": "https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261269,
+      "name": "World On Fire",
+      "url": "https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4"
     },
     {
       "album": {

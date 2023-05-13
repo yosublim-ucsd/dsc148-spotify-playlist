@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 7159,
+  "num_followers": 7169,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzIxYTE5Nzc4ZWJiMjE0YjI5MGFmODQzZmFiZmZjMjZiZjEyYWI0",
+  "snapshot_id": "MCw0NjQxNTY5NDMwZjI4ZjdlOWRiZjdiMTQ1YjUyNzBmOTgwZmUxYTU3",
   "tracks": [
     {
       "added_at": "2023-02-24 08:52:06",
@@ -579,26 +579,6 @@
     {
       "added_at": "2023-02-24 08:52:06",
       "album": {
-        "name": "School Rapper4 Final",
-        "url": "https://open.spotify.com/album/6Zw6ERPKHSEKN8PQafruGR"
-      },
-      "artists": [
-        {
-          "name": "PARK HYEON JIN",
-          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 213532,
-      "name": "INTRO (Feat. Jay Park)",
-      "url": "https://open.spotify.com/track/7tk4qEuY7cWeso5WyXgvqN"
-    },
-    {
-      "added_at": "2023-02-24 08:52:06",
-      "album": {
         "name": "Dingo X DAMOIM Pt. 2",
         "url": "https://open.spotify.com/album/7u4kbKGYSYvRcdfSlkHPAB"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 345620,
       "name": "\uc544\ub9c8\ub450 (feat. \uc6b0\uc6d0\uc7ac, \uae40\ud6a8\uc740, \ub109\uc0b4 & \ud5c8\ud074\ubca0\ub9ac\ud53c)",
       "url": "https://open.spotify.com/track/7z4TxEA4mXG1ChgxXp7Mj3"
+    },
+    {
+      "added_at": "2023-02-24 08:52:06",
+      "album": {
+        "name": "School Rapper4 Final",
+        "url": "https://open.spotify.com/album/6Zw6ERPKHSEKN8PQafruGR"
+      },
+      "artists": [
+        {
+          "name": "PARK HYEON JIN",
+          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 213532,
+      "name": "INTRO (Feat. Jay Park)",
+      "url": "https://open.spotify.com/track/7tk4qEuY7cWeso5WyXgvqN"
     },
     {
       "added_at": "2023-02-24 08:52:06",
@@ -819,22 +819,26 @@
     {
       "added_at": "2023-02-24 08:52:06",
       "album": {
-        "name": "HELLP",
-        "url": "https://open.spotify.com/album/1XV4Tae3eibi8dM3igtbgM"
+        "name": "School Rapper 2 Final",
+        "url": "https://open.spotify.com/album/6oX7tP4ac99NLogEHFn0WE"
       },
       "artists": [
         {
-          "name": "RYNO",
-          "url": "https://open.spotify.com/artist/5rIOZ6g7qSlq60wITUUle2"
+          "name": "Rohann",
+          "url": "https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1"
         },
         {
-          "name": "MELOH",
-          "url": "https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg"
+          "name": "ELO",
+          "url": "https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1"
+        },
+        {
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
         }
       ],
-      "duration_ms": 206625,
-      "name": "HELLP",
-      "url": "https://open.spotify.com/track/2D3rC3VmUhf3fVZeRbAwcC"
+      "duration_ms": 279884,
+      "name": "Lee Rohan (Prod. by Padi)",
+      "url": "https://open.spotify.com/track/5MmDbUVKsC7GyFx03PYqUY"
     },
     {
       "added_at": "2023-02-24 08:52:06",
@@ -875,42 +879,22 @@
     {
       "added_at": "2023-02-24 08:52:06",
       "album": {
-        "name": "School Rapper 2 Final",
-        "url": "https://open.spotify.com/album/6oX7tP4ac99NLogEHFn0WE"
+        "name": "HELLP",
+        "url": "https://open.spotify.com/album/1XV4Tae3eibi8dM3igtbgM"
       },
       "artists": [
         {
-          "name": "Rohann",
-          "url": "https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1"
+          "name": "RYNO",
+          "url": "https://open.spotify.com/artist/5rIOZ6g7qSlq60wITUUle2"
         },
         {
-          "name": "ELO",
-          "url": "https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1"
-        },
-        {
-          "name": "Jessi",
-          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+          "name": "MELOH",
+          "url": "https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg"
         }
       ],
-      "duration_ms": 279884,
-      "name": "Lee Rohan (Prod. by Padi)",
-      "url": "https://open.spotify.com/track/5MmDbUVKsC7GyFx03PYqUY"
-    },
-    {
-      "added_at": "2023-02-24 08:52:06",
-      "album": {
-        "name": "t 3 YOONMIRAE",
-        "url": "https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L"
-      },
-      "artists": [
-        {
-          "name": "Yoon Mirae",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        }
-      ],
-      "duration_ms": 244584,
-      "name": "Black Happiness",
-      "url": "https://open.spotify.com/track/3gpwEXhh8o08MWQukS9bVz"
+      "duration_ms": 206625,
+      "name": "HELLP",
+      "url": "https://open.spotify.com/track/2D3rC3VmUhf3fVZeRbAwcC"
     },
     {
       "added_at": "2023-02-24 08:52:06",
@@ -931,6 +915,22 @@
       "duration_ms": 185808,
       "name": "Sleepless (feat. Heize)",
       "url": "https://open.spotify.com/track/3JsiJGVbCJM7cIb1YnlG96"
+    },
+    {
+      "added_at": "2023-02-24 08:52:06",
+      "album": {
+        "name": "t 3 YOONMIRAE",
+        "url": "https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L"
+      },
+      "artists": [
+        {
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "duration_ms": 244584,
+      "name": "Black Happiness",
+      "url": "https://open.spotify.com/track/3gpwEXhh8o08MWQukS9bVz"
     },
     {
       "added_at": "2023-02-24 08:52:06",
@@ -995,26 +995,6 @@
     {
       "added_at": "2023-02-24 08:52:06",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "DUT2",
-          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
-        }
-      ],
-      "duration_ms": 239960,
-      "name": "Freedom (Feat. DUT2) (Prod. Way Ched)",
-      "url": "https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh"
-    },
-    {
-      "added_at": "2023-02-24 08:52:06",
-      "album": {
         "name": "Show Me The Money 9 Semi Final",
         "url": "https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V"
       },
@@ -1043,22 +1023,42 @@
     {
       "added_at": "2023-02-24 08:52:06",
       "album": {
-        "name": "Simon Dominic Presents `SNL LEAGUE BEGINS`",
-        "url": "https://open.spotify.com/album/6MorHjwkN577QPEPBNVUp5"
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8"
       },
       "artists": [
         {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
         },
         {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+          "name": "DUT2",
+          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
         }
       ],
-      "duration_ms": 274493,
-      "name": "Stay Cool",
-      "url": "https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS"
+      "duration_ms": 239960,
+      "name": "Freedom (Feat. DUT2) (Prod. Way Ched)",
+      "url": "https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh"
+    },
+    {
+      "added_at": "2023-02-24 08:52:06",
+      "album": {
+        "name": "School Rapper3 Final",
+        "url": "https://open.spotify.com/album/2BJzRehqZMKrajV0uRHzeU"
+      },
+      "artists": [
+        {
+          "name": "Young Kay",
+          "url": "https://open.spotify.com/artist/72F43xdiBUC3JmJ4kZbQye"
+        },
+        {
+          "name": "VINXEN",
+          "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
+        }
+      ],
+      "duration_ms": 229467,
+      "name": "HERE (Prod. by CODE KUNST)",
+      "url": "https://open.spotify.com/track/0CLJv5Pc0DZbuo78MqLyrG"
     }
   ],
   "unique_name": "\ud790\ub9c1 \ud799\ud569",

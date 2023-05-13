@@ -1,12 +1,12 @@
 {
-  "description": "Bad b**** energy. Be blessed, be spicy. Cover: Ice Spice",
-  "num_followers": 791206,
+  "description": "Bad b**** energy. Be blessed, be spicy. Cover: Kali",
+  "num_followers": 791635,
   "original_name": "BBE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGI5NjFmMDk3MzBkOGE2OTQ2N2E0M2Q1MjQ1YTg0MDFjZDJiMjkx",
+  "snapshot_id": "MCxiMGQ5MjQxOTE4N2U2YThiNDNkNGFiMDNlNzhkODI0MjMyMTlhMDBi",
   "tracks": [
     {
       "added_at": "2023-04-22 14:03:22",
@@ -137,6 +137,22 @@
       "url": "https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ"
     },
     {
+      "added_at": "2023-04-25 14:38:28",
+      "album": {
+        "name": "Keep Dat Nigga",
+        "url": "https://open.spotify.com/album/4EqXw4bTD5XpdI16CSlWng"
+      },
+      "artists": [
+        {
+          "name": "Icandy",
+          "url": "https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN"
+        }
+      ],
+      "duration_ms": 138945,
+      "name": "Keep Dat Nigga",
+      "url": "https://open.spotify.com/track/06eobTXs90ICbtbxhmgviZ"
+    },
+    {
       "added_at": "2023-04-22 14:03:22",
       "album": {
         "name": "Bitch Better Have My Money",
@@ -151,6 +167,26 @@
       "duration_ms": 219305,
       "name": "Bitch Better Have My Money",
       "url": "https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq"
+    },
+    {
+      "added_at": "2023-04-22 14:03:22",
+      "album": {
+        "name": "Amala",
+        "url": "https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Wine Pon You (feat. Konshens)",
+      "url": "https://open.spotify.com/track/2s4AcE9n80mSHl87lp4gIm"
     },
     {
       "added_at": "2023-04-22 14:03:22",
@@ -211,26 +247,6 @@
     {
       "added_at": "2023-04-22 14:03:22",
       "album": {
-        "name": "Amala",
-        "url": "https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Wine Pon You (feat. Konshens)",
-      "url": "https://open.spotify.com/track/2s4AcE9n80mSHl87lp4gIm"
-    },
-    {
-      "added_at": "2023-04-22 14:03:22",
-      "album": {
         "name": "Red Ruby Da Sleeze",
         "url": "https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 214445,
       "name": "Red Ruby Da Sleeze",
       "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
-    },
-    {
-      "added_at": "2023-04-25 14:38:28",
-      "album": {
-        "name": "Keep Dat Nigga",
-        "url": "https://open.spotify.com/album/4EqXw4bTD5XpdI16CSlWng"
-      },
-      "artists": [
-        {
-          "name": "Icandy",
-          "url": "https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN"
-        }
-      ],
-      "duration_ms": 138945,
-      "name": "Keep Dat Nigga",
-      "url": "https://open.spotify.com/track/06eobTXs90ICbtbxhmgviZ"
     },
     {
       "added_at": "2023-04-22 14:03:22",
@@ -279,6 +279,26 @@
     {
       "added_at": "2023-04-22 14:03:22",
       "album": {
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 233150,
+      "name": "Sl*t Him Out Again (feat. Kali)",
+      "url": "https://open.spotify.com/track/1rFSc82CUMlFewowdZPRT8"
+    },
+    {
+      "added_at": "2023-04-22 14:03:22",
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
@@ -291,58 +311,6 @@
       "duration_ms": 181080,
       "name": "Low",
       "url": "https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn"
-    },
-    {
-      "added_at": "2023-04-22 14:03:22",
-      "album": {
-        "name": "Put It On Da Floor",
-        "url": "https://open.spotify.com/album/6t8NaWyCTONzie6RKcK7TS"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 181437,
-      "name": "Put It On Da Floor",
-      "url": "https://open.spotify.com/track/1HYfsZnq3EXwK7SV8tYPoT"
-    },
-    {
-      "added_at": "2023-04-25 14:46:40",
-      "album": {
-        "name": "Little Girl Gone",
-        "url": "https://open.spotify.com/album/1vTHLsE6MttzdRfg2ZkU4I"
-      },
-      "artists": [
-        {
-          "name": "CHINCHILLA",
-          "url": "https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI"
-        }
-      ],
-      "duration_ms": 188596,
-      "name": "Little Girl Gone",
-      "url": "https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp"
-    },
-    {
-      "added_at": "2023-04-22 14:03:22",
-      "album": {
-        "name": "Flip A Switch. (feat. Coi Leray) [Remix]",
-        "url": "https://open.spotify.com/album/6il1IQ2A2yvZaGPgcqXDBd"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 201360,
-      "name": "Flip A Switch. (feat. Coi Leray) - Remix",
-      "url": "https://open.spotify.com/track/72b7GzsnUAjsk5I56hLkjp"
     },
     {
       "added_at": "2023-04-22 14:03:22",
@@ -395,6 +363,94 @@
       "duration_ms": 188866,
       "name": "She Wolf",
       "url": "https://open.spotify.com/track/4cS2HQ6jK80vqdY9ofpztx"
+    },
+    {
+      "added_at": "2023-04-22 14:03:22",
+      "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 198897,
+      "name": "AMERICA HAS A PROBLEM",
+      "url": "https://open.spotify.com/track/2XMAWynSTIst5KmLSv0Npf"
+    },
+    {
+      "added_at": "2023-04-25 14:46:40",
+      "album": {
+        "name": "Little Girl Gone",
+        "url": "https://open.spotify.com/album/1vTHLsE6MttzdRfg2ZkU4I"
+      },
+      "artists": [
+        {
+          "name": "CHINCHILLA",
+          "url": "https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI"
+        }
+      ],
+      "duration_ms": 188596,
+      "name": "Little Girl Gone",
+      "url": "https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp"
+    },
+    {
+      "added_at": "2023-04-22 14:03:22",
+      "album": {
+        "name": "Put It On Da Floor",
+        "url": "https://open.spotify.com/album/6t8NaWyCTONzie6RKcK7TS"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 181437,
+      "name": "Put It On Da Floor",
+      "url": "https://open.spotify.com/track/1HYfsZnq3EXwK7SV8tYPoT"
+    },
+    {
+      "added_at": "2023-04-22 14:03:22",
+      "album": {
+        "name": "Flip A Switch. (feat. Coi Leray) [Remix]",
+        "url": "https://open.spotify.com/album/6il1IQ2A2yvZaGPgcqXDBd"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 201360,
+      "name": "Flip A Switch. (feat. Coi Leray) - Remix",
+      "url": "https://open.spotify.com/track/72b7GzsnUAjsk5I56hLkjp"
+    },
+    {
+      "added_at": "2023-04-22 14:03:22",
+      "album": {
+        "name": "Like..?",
+        "url": "https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 159370,
+      "name": "Gangsta Boo (with Lil Tjay)",
+      "url": "https://open.spotify.com/track/2g5q0UpOOFMNOcHGaMG4b0"
     },
     {
       "added_at": "2023-04-22 14:03:22",
@@ -465,26 +521,6 @@
       "url": "https://open.spotify.com/track/4NZkwpYuSVe8ki1UH4xNtz"
     },
     {
-      "added_at": "2023-04-22 14:03:22",
-      "album": {
-        "name": "Mani/Pedi",
-        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "Kali",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 233150,
-      "name": "Sl*t Him Out Again (feat. Kali)",
-      "url": "https://open.spotify.com/track/1rFSc82CUMlFewowdZPRT8"
-    },
-    {
       "added_at": "2023-04-28 04:01:00",
       "album": {
         "name": "RENAISSANCE",
@@ -539,26 +575,6 @@
     {
       "added_at": "2023-04-22 14:03:22",
       "album": {
-        "name": "Like..?",
-        "url": "https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 159370,
-      "name": "Gangsta Boo (with Lil Tjay)",
-      "url": "https://open.spotify.com/track/2g5q0UpOOFMNOcHGaMG4b0"
-    },
-    {
-      "added_at": "2023-04-22 14:03:22",
-      "album": {
         "name": "FreakyT (feat. Latto) [Remix]",
         "url": "https://open.spotify.com/album/4itQ4SmVRwjURluBAHnxFx"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 142809,
       "name": "Body Do",
       "url": "https://open.spotify.com/track/4TiUFzVFDc17Gt0m1ktH2N"
-    },
-    {
-      "added_at": "2023-04-22 14:03:22",
-      "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 198897,
-      "name": "AMERICA HAS A PROBLEM",
-      "url": "https://open.spotify.com/track/2XMAWynSTIst5KmLSv0Npf"
     },
     {
       "added_at": "2023-04-22 14:03:22",

@@ -4,10 +4,11 @@
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: KVSH, Reezer
 
-126 songs - 6 hr 26 min
+127 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [2 Much 2 Handle](https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Alok Club Series 2023](https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT) | 3:08 | 2023-05-12 |  |
 | [Ai Papi](https://open.spotify.com/track/6l6RuG9usSZXu2s0NsyLWe) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [Ai Papi](https://open.spotify.com/album/5q36s9vwucIs4XKp03mNVv) | 2:38 | 2022-09-05 | 2022-09-24 |
 | [Ain't No Sunshine \(feat\. Jasmine Pace\)](https://open.spotify.com/track/3jKE64Lzp4fn9ZD28Z1dBc) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Jasmine Pace](https://open.spotify.com/artist/2URbjDB65sEN3MPX3e5tCy) | [Ain't No Sunshine \(feat\. Jasmine Pace\)](https://open.spotify.com/album/6EoWcArWFprS0ORf4oixfd) | 2:47 | 2021-12-24 | 2022-07-09 |
 | [All By Myself](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [All By Myself](https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn) | 2:51 | 2022-11-25 |  |
@@ -114,7 +115,7 @@
 | [Something](https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC) | [Something](https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ) | 2:43 | 2022-07-29 | 2022-11-12 |
 | [Stay](https://open.spotify.com/track/6syunUw85BZjNmMFAXQgL7) | [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj) | [Stay](https://open.spotify.com/album/0AZKItvBz3FYt5N4PykMmc) | 3:11 | 2021-12-24 | 2022-12-03 |
 | [Summer In New York \- Öwnboss & Fancy Inc Remix](https://open.spotify.com/track/6aFXimZOxnkqIEshd7d4JE) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh) | [Summer In New York \(Öwnboss & Fancy Inc Remix\)](https://open.spotify.com/album/4PL8JCOUayJesajCrmpPav) | 2:38 | 2022-07-08 | 2022-11-26 |
-| [Sun Goes Down \(Sound Of Violence\)](https://open.spotify.com/track/66j6JvXOiT608Ivh98URW8) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Zerky](https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok) | [Sun Goes Down \(Sound Of Violence\)](https://open.spotify.com/album/1NAp32E06cqBEDevOLJCYm) | 4:05 | 2022-04-08 |  |
+| [Sun Goes Down \(Sound Of Violence\)](https://open.spotify.com/track/66j6JvXOiT608Ivh98URW8) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Zerky](https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok) | [Sun Goes Down \(Sound Of Violence\)](https://open.spotify.com/album/1NAp32E06cqBEDevOLJCYm) | 4:05 | 2022-04-08 | 2023-05-13 |
 | [Take Over](https://open.spotify.com/track/4Q3iraOig7nyrRoNz1mNKc) | [Devochka](https://open.spotify.com/artist/02xYwCW4WypA3nRQv6qEcX), [REDÜKT](https://open.spotify.com/artist/0Km0b0FjBqTqx2qkyrUHlH) | [Take Over](https://open.spotify.com/album/6Xd8V1pQiniYTlwldeYTr2) | 2:57 | 2021-12-24 |  |
 | [Teletransporte](https://open.spotify.com/track/3scepjch61mbCMEiQ56C7Q) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn), [Lau de Prá](https://open.spotify.com/artist/0IQDW58CkNXAGsLx3DWcRt) | [Teletransporte](https://open.spotify.com/album/7ce0OYD2CrKIs70fXvKycS) | 2:45 | 2022-11-25 |  |
 | [Terremoto](https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Ghabe](https://open.spotify.com/artist/6q8BNoSQYcHGzaF5Kkb2nA) | [Terremoto EP](https://open.spotify.com/album/0aJooEPl35trvbDJxdFEj4) | 2:45 | 2021-12-24 | 2022-04-09 |

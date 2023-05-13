@@ -1,12 +1,12 @@
 {
   "description": "\u56de\u5bb6\u7684\u8def\u4e0a\uff0c\u6709\u597d\u807d\u7684\u6b4c\u66f2\u966a\u4f34\uff0c\u6703\u8b93\u4eba\u66ab\u6642\u5fd8\u4e86\u75b2\u5026\u3002",
-  "num_followers": 60834,
+  "num_followers": 60875,
   "original_name": "\u8fd4\u5bb6\u8f15\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDFjYWZhYTQyZjY3Nzk2YzlkOGQ1ZmJmMDhjOTY0ZDZlNjQ3Nzky",
+  "snapshot_id": "MCw0NjM5ZTYwMzMyZGM4N2E0Zjg2YzUyZGNkMzM4ZGU5NzFjYzZmY2E5",
   "tracks": [
     {
       "added_at": "2023-05-08 04:05:50",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-05-08 04:05:50",
       "album": {
-        "name": "\u6211\u8981\u4f60\u6709\u6211 (\u96fb\u5f71\u300a\u5012\u6578\u8aaa\u611b\u4f60\u300b\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/4DLOHuUtnxPFzTvDTqmtBl"
-      },
-      "artists": [
-        {
-          "name": "Rainie Yang",
-          "url": "https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk"
-        }
-      ],
-      "duration_ms": 262394,
-      "name": "\u6211\u8981\u4f60\u6709\u6211 (\u96fb\u5f71\u300a\u5012\u6578\u8aaa\u611b\u4f60\u300b\u4e3b\u984c\u66f2)",
-      "url": "https://open.spotify.com/track/7E6tbfDJnKWhKX43s6anwy"
-    },
-    {
-      "added_at": "2023-05-08 04:05:50",
-      "album": {
         "name": "\u7121\u540d\u4e4b\u8f29 (\u96fb\u8996\u5287\u300a\u89aa\u611b\u7684, \u71b1\u611b\u7684\u300b\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/25SPilLsgRVlEgDzbH6KcV"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 262588,
       "name": "\u7121\u540d\u4e4b\u8f29 (\u96fb\u8996\u5287\u300a\u89aa\u611b\u7684, \u71b1\u611b\u7684\u300b\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/4t6xJufZtFgVb0fbjCnWNv"
+    },
+    {
+      "added_at": "2023-05-08 04:05:50",
+      "album": {
+        "name": "\u6211\u8981\u4f60\u6709\u6211 (\u96fb\u5f71\u300a\u5012\u6578\u8aaa\u611b\u4f60\u300b\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/4DLOHuUtnxPFzTvDTqmtBl"
+      },
+      "artists": [
+        {
+          "name": "Rainie Yang",
+          "url": "https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk"
+        }
+      ],
+      "duration_ms": 262394,
+      "name": "\u6211\u8981\u4f60\u6709\u6211 (\u96fb\u5f71\u300a\u5012\u6578\u8aaa\u611b\u4f60\u300b\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/7E6tbfDJnKWhKX43s6anwy"
     },
     {
       "added_at": "2023-05-08 04:05:50",
@@ -767,18 +767,18 @@
     {
       "added_at": "2023-05-08 04:05:50",
       "album": {
-        "name": "\u8655\u8655\u907a\u61be",
-        "url": "https://open.spotify.com/album/6pCW8bXJ2lt3QBU5dFXGdu"
+        "name": "\u5c31\u8ba9\u8fd9\u5927\u96e8\u5168\u90fd\u843d\u4e0b",
+        "url": "https://open.spotify.com/album/3EXDubkvw4VIoIUJIWcO3v"
       },
       "artists": [
         {
-          "name": "\u989c\u4eba\u4e2d",
-          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
+          "name": "\u5bb9\u7956\u5152(Joey Yung)",
+          "url": "https://open.spotify.com/artist/4yKzoTce35C0nxbp2icxFE"
         }
       ],
-      "duration_ms": 250614,
-      "name": "\u8655\u8655\u907a\u61be",
-      "url": "https://open.spotify.com/track/6vcl5gHFcDmGnioPoHBxER"
+      "duration_ms": 254117,
+      "name": "\u5c31\u8ba9\u8fd9\u5927\u96e8\u5168\u90fd\u843d\u4e0b",
+      "url": "https://open.spotify.com/track/0J3GWS0Bv6I1reM1J69UBM"
     },
     {
       "added_at": "2023-05-08 04:05:50",
@@ -795,6 +795,22 @@
       "duration_ms": 205005,
       "name": "\u6bd2\u85e5",
       "url": "https://open.spotify.com/track/34YwC7hZlGeIyIZGir8WHE"
+    },
+    {
+      "added_at": "2023-05-08 04:05:50",
+      "album": {
+        "name": "\u8655\u8655\u907a\u61be",
+        "url": "https://open.spotify.com/album/6pCW8bXJ2lt3QBU5dFXGdu"
+      },
+      "artists": [
+        {
+          "name": "\u989c\u4eba\u4e2d",
+          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
+        }
+      ],
+      "duration_ms": 250614,
+      "name": "\u8655\u8655\u907a\u61be",
+      "url": "https://open.spotify.com/track/6vcl5gHFcDmGnioPoHBxER"
     },
     {
       "added_at": "2023-05-08 04:05:50",
@@ -875,22 +891,6 @@
       "duration_ms": 249041,
       "name": "\u653e\u904e\u81ea\u5df1",
       "url": "https://open.spotify.com/track/1AVYznIek3SoK9xSAsnAuH"
-    },
-    {
-      "added_at": "2023-05-08 04:05:50",
-      "album": {
-        "name": "\u5c31\u8ba9\u8fd9\u5927\u96e8\u5168\u90fd\u843d\u4e0b",
-        "url": "https://open.spotify.com/album/3EXDubkvw4VIoIUJIWcO3v"
-      },
-      "artists": [
-        {
-          "name": "\u5bb9\u7956\u5152(Joey Yung)",
-          "url": "https://open.spotify.com/artist/4yKzoTce35C0nxbp2icxFE"
-        }
-      ],
-      "duration_ms": 254117,
-      "name": "\u5c31\u8ba9\u8fd9\u5927\u96e8\u5168\u90fd\u843d\u4e0b",
-      "url": "https://open.spotify.com/track/0J3GWS0Bv6I1reM1J69UBM"
     },
     {
       "added_at": "2023-05-08 04:05:50",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-05-08 04:05:50",
       "album": {
+        "name": "hard to let you go",
+        "url": "https://open.spotify.com/album/7jvNKoYPvnHVF1dVM7l7m2"
+      },
+      "artists": [
+        {
+          "name": "Sherman Zhuo",
+          "url": "https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw"
+        }
+      ],
+      "duration_ms": 280845,
+      "name": "hard to let you go",
+      "url": "https://open.spotify.com/track/3QzvC0v07VV76tZ8SoIUce"
+    },
+    {
+      "added_at": "2023-05-08 04:05:50",
+      "album": {
         "name": "\u611b\u60c5\u600e\u9ebc\u4e86\u55ce",
         "url": "https://open.spotify.com/album/16SRsxQho3RdwRnFIQlE40"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 275500,
       "name": "\u5916\u4eba",
       "url": "https://open.spotify.com/track/3y3175OM52bdhGe98p2JIv"
-    },
-    {
-      "added_at": "2023-05-08 04:05:50",
-      "album": {
-        "name": "hard to let you go",
-        "url": "https://open.spotify.com/album/7jvNKoYPvnHVF1dVM7l7m2"
-      },
-      "artists": [
-        {
-          "name": "Sherman Zhuo",
-          "url": "https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw"
-        }
-      ],
-      "duration_ms": 280845,
-      "name": "hard to let you go",
-      "url": "https://open.spotify.com/track/3QzvC0v07VV76tZ8SoIUce"
     },
     {
       "added_at": "2023-05-08 04:05:50",
@@ -1135,6 +1135,54 @@
     {
       "added_at": "2023-05-08 04:05:50",
       "album": {
+        "name": "\u51ac\u7720",
+        "url": "https://open.spotify.com/album/0oS3ZVlS3ygBqI7zLDZa21"
+      },
+      "artists": [
+        {
+          "name": "\u53f8\u5357",
+          "url": "https://open.spotify.com/artist/0xftsXB7VnOwibMhupkamE"
+        }
+      ],
+      "duration_ms": 269583,
+      "name": "\u51ac\u7720",
+      "url": "https://open.spotify.com/track/0ygttXRPvD5u9ikS8LwJvl"
+    },
+    {
+      "added_at": "2023-05-08 04:05:50",
+      "album": {
+        "name": "\u65b0\u4e16\u754c",
+        "url": "https://open.spotify.com/album/5k5Rk6VmBvgKHia91bJFNN"
+      },
+      "artists": [
+        {
+          "name": "Hua Chen Yu",
+          "url": "https://open.spotify.com/artist/7v7bP8NfcMYh4sDADEAy6Z"
+        }
+      ],
+      "duration_ms": 258834,
+      "name": "\u597d\u60f3\u611b\u9019\u500b\u4e16\u754c\u554a",
+      "url": "https://open.spotify.com/track/4ypoimFPt0SuieiBFWXCqH"
+    },
+    {
+      "added_at": "2023-05-08 04:05:50",
+      "album": {
+        "name": "\u611b\u4e86\u5f88\u4e45\u7684\u670b\u53cb(\u96fb\u5f71\u300c\u5f8c\u4f86\u7684\u6211\u5011\u300d\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/5eBBWj4R69YZ0WSajD1YWw"
+      },
+      "artists": [
+        {
+          "name": "Hebe Tien",
+          "url": "https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5"
+        }
+      ],
+      "duration_ms": 268507,
+      "name": "\u611b\u4e86\u5f88\u4e45\u7684\u670b\u53cb(\u96fb\u5f71\u300c\u5f8c\u4f86\u7684\u6211\u5011\u300d\u63d2\u66f2)",
+      "url": "https://open.spotify.com/track/2CTAAr1Hd21pEvyjxUHHGC"
+    },
+    {
+      "added_at": "2023-05-08 04:05:50",
+      "album": {
         "name": "\u5225\u518d\u60f3\u898b\u6211",
         "url": "https://open.spotify.com/album/0wH1j5vCOautchAN4S6DbX"
       },
@@ -1171,22 +1219,6 @@
     {
       "added_at": "2023-05-08 04:05:50",
       "album": {
-        "name": "\u611b\u4e86\u5f88\u4e45\u7684\u670b\u53cb(\u96fb\u5f71\u300c\u5f8c\u4f86\u7684\u6211\u5011\u300d\u63d2\u66f2)",
-        "url": "https://open.spotify.com/album/5eBBWj4R69YZ0WSajD1YWw"
-      },
-      "artists": [
-        {
-          "name": "Hebe Tien",
-          "url": "https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5"
-        }
-      ],
-      "duration_ms": 268507,
-      "name": "\u611b\u4e86\u5f88\u4e45\u7684\u670b\u53cb(\u96fb\u5f71\u300c\u5f8c\u4f86\u7684\u6211\u5011\u300d\u63d2\u66f2)",
-      "url": "https://open.spotify.com/track/2CTAAr1Hd21pEvyjxUHHGC"
-    },
-    {
-      "added_at": "2023-05-08 04:05:50",
-      "album": {
         "name": "\u9cb8\u843d\u6d77\u5e95",
         "url": "https://open.spotify.com/album/7dHNvUWY9c3nix7Stp8zMy"
       },
@@ -1199,42 +1231,6 @@
       "duration_ms": 283997,
       "name": "\u9cb8\u843d\u6d77\u5e95",
       "url": "https://open.spotify.com/track/6SCJVKQdBc4KDDCafZ4S8p"
-    },
-    {
-      "added_at": "2023-05-08 04:05:50",
-      "album": {
-        "name": "Hold Me Tight",
-        "url": "https://open.spotify.com/album/72vVTzqoBOdbJDkZZmVmgd"
-      },
-      "artists": [
-        {
-          "name": "Vicky Chen",
-          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
-        },
-        {
-          "name": "Dena",
-          "url": "https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l"
-        }
-      ],
-      "duration_ms": 246315,
-      "name": "Hold Me Tight",
-      "url": "https://open.spotify.com/track/18U6DzjWgoMMYg14kJxCMu"
-    },
-    {
-      "added_at": "2023-05-08 04:05:50",
-      "album": {
-        "name": "\u65b0\u4e16\u754c",
-        "url": "https://open.spotify.com/album/5k5Rk6VmBvgKHia91bJFNN"
-      },
-      "artists": [
-        {
-          "name": "Hua Chen Yu",
-          "url": "https://open.spotify.com/artist/7v7bP8NfcMYh4sDADEAy6Z"
-        }
-      ],
-      "duration_ms": 258834,
-      "name": "\u597d\u60f3\u611b\u9019\u500b\u4e16\u754c\u554a",
-      "url": "https://open.spotify.com/track/4ypoimFPt0SuieiBFWXCqH"
     }
   ],
   "unique_name": "\u8fd4\u5bb6\u8f15\u807d",

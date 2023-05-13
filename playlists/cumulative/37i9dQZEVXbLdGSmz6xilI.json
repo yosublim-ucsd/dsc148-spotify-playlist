@@ -2600,7 +2600,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 256663,
       "name": "Ch\u1ebft Trong Em",
       "url": "https://open.spotify.com/track/1dUmmBh2nw8XzEI3au0uFs"
@@ -4200,7 +4200,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-27",
+      "date_removed": null,
       "duration_ms": 237419,
       "name": "Em Kh\u00f4ng Hi\u1ec3u",
       "url": "https://open.spotify.com/track/1izPmgSW7FV6XFdEOiTvOY"
@@ -7702,7 +7702,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-07",
+      "date_removed": null,
       "duration_ms": 212395,
       "name": "L\u00e0 Anh",
       "url": "https://open.spotify.com/track/2LhXE2daNpLVv9LYXvYm8F"
@@ -9200,6 +9200,36 @@
       "duration_ms": 188059,
       "name": "N\u1eaeM \u0110\u00d4I B\u00c0N TAY",
       "url": "https://open.spotify.com/track/3kwS7WlPS6NconVfVs6tTZ"
+    },
+    {
+      "album": {
+        "name": "Space Jam, Vol. 1",
+        "url": "https://open.spotify.com/album/7ahqMhfibWJT33LPuPlvK6"
+      },
+      "artists": [
+        {
+          "name": "Rhymastic",
+          "url": "https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw"
+        },
+        {
+          "name": "SOOBIN",
+          "url": "https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh"
+        },
+        {
+          "name": "Gonzo",
+          "url": "https://open.spotify.com/artist/3Ib80uqrBka6P4ncx6vJRF"
+        },
+        {
+          "name": "B-Wine",
+          "url": "https://open.spotify.com/artist/68Vj5ArAHBx2K0osGDXK4K"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203809,
+      "name": "N\u1eafng L\u00ean (feat. GONZO & Bwine)",
+      "url": "https://open.spotify.com/track/3I024mr4TcQb8W9cNVe0ze"
     },
     {
       "album": {
@@ -11344,7 +11374,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 197040,
       "name": "Spicy",
       "url": "https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP"
@@ -12322,7 +12352,7 @@
       ],
       "date_added": "2021-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 171741,
       "name": "Th\u00edch Em H\u01a1i Nhi\u1ec1u",
       "url": "https://open.spotify.com/track/45Mswno1F7FoZkcmQkp7fi"

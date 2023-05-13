@@ -1,12 +1,12 @@
 {
   "description": "Tropical jams to catch a vibe and whine to. Cover: Dau Dau",
-  "num_followers": 17995,
+  "num_followers": 18019,
   "original_name": "Afro Fusion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzFiYTJjOTNlMmFlNDU2M2ZmZGM4OTgxMTlhMDFmY2RjYjY2ZWRm",
+  "snapshot_id": "MCw5MTU0ODgzOTBhODAxZWE5NmM4OWU5MTM2ZDNkNDRkNmZhNzI5OTE4",
   "tracks": [
     {
       "added_at": "2023-05-11 12:09:58",
@@ -191,6 +191,30 @@
       "duration_ms": 181978,
       "name": "Who Knows Tomorrow",
       "url": "https://open.spotify.com/track/2eWUSvBfYbiMU4Ihk4yKrj"
+    },
+    {
+      "added_at": "2023-05-11 12:09:58",
+      "album": {
+        "name": "Blessings (feat. Wizkid & Gimba)",
+        "url": "https://open.spotify.com/album/7Jczi3QQN1oiJPa2k2mrpx"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Gimba",
+          "url": "https://open.spotify.com/artist/1aov1VXIBA7iACR51xloHt"
+        }
+      ],
+      "duration_ms": 196725,
+      "name": "Blessings (feat. Wizkid & Gimba)",
+      "url": "https://open.spotify.com/track/1ALcYeD6JELUFLL3obyUDt"
     },
     {
       "added_at": "2023-05-11 12:09:58",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "make it pop! cover: The Aces",
+  "description": "make it pop! cover: Jeremy Zucker",
   "name": "soda",
   "tracks": [
     {
@@ -2222,7 +2222,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 171601,
       "name": "DANCING ALL ALONE",
       "url": "https://open.spotify.com/track/3vHKqg3WDgtWA5unl5layh"
@@ -6709,6 +6709,24 @@
     },
     {
       "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/2W2HMbkDditbqRjfFkUuhk"
+      },
+      "artists": [
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192273,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/3b3mKCoZCKZjzO2n6M5fmy"
+    },
+    {
+      "album": {
         "name": "MASOCHIST",
         "url": "https://open.spotify.com/album/2NM15uX3nFGvD6nnJUCuPK"
       },
@@ -7066,7 +7084,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 177230,
       "name": "mr. sunshine",
       "url": "https://open.spotify.com/track/6x984mI891z1E2sVwYumUx"
@@ -7598,6 +7616,24 @@
       "duration_ms": 174914,
       "name": "OH WELL",
       "url": "https://open.spotify.com/track/2sfYIKz3J8eZkBdTh25KyK"
+    },
+    {
+      "album": {
+        "name": "OK",
+        "url": "https://open.spotify.com/album/15kgnv34kf8eRCpNWZl79V"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263986,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/2RSAu3AGDi2sPhYEjSZmzv"
     },
     {
       "album": {
@@ -10263,7 +10299,7 @@
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 226250,
+      "duration_ms": 225946,
       "name": "The Dumb Song",
       "url": "https://open.spotify.com/track/5udkv8BEG1sAN5ZtR6CAzv"
     },

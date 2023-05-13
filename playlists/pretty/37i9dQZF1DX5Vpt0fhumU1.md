@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vpt0fhumU1.md) - [plain]
 
 > Soak up the spirit of Spain with a taste of these traditional flamenco and folk tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,502 likes - 51 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,639 likes - 51 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Veras](https://open.spotify.com/track/2INMbTvlLhGs1b1O3EYhiS) | [Alhama, Los](https://open.spotify.com/artist/6Gg623dfCM6CrYGBt0twPX) | [Traditional Gypsy Flamenco](https://open.spotify.com/album/40NaiYoHAvxeLv0hj5BViC) | 2:26 |
+| 1 | [Veras](https://open.spotify.com/track/1brVVsBeE4MikwI2nO3ACz) | [Los Alhama](https://open.spotify.com/artist/4wONqd16Nu3igdQL7FQX47) | [Flamenco](https://open.spotify.com/album/6sD5zlDx4I2ViZFv5RRAqX) | 2:25 |
 | 2 | [Vete de mi vera](https://open.spotify.com/track/14WUytY9xks121FAmVkwxo) | [Grupo Macarena](https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f) | [Grupo Macarena: Gypsy Flamenco Rumba](https://open.spotify.com/album/6Pth02lvYNd5mEAISGGb9r) | 3:44 |
 | 3 | [Bailando](https://open.spotify.com/track/729HTgh7htIHseVz4lyrz9) | [Rafa El Tachuela](https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk), [Bjorn Chico Werra](https://open.spotify.com/artist/1A4HrEESjDDhDPKjHwxTNk), [Thomas Koch](https://open.spotify.com/artist/0CtjYrZQVXtGjWM0mOjS65), [Topo Gioia](https://open.spotify.com/artist/6GIbYKXxwHSLgrpo4RjtK8), [Khader Ahmad](https://open.spotify.com/artist/5rlJh1FezH9DdbjUvNcjFg) | [Rafa El Tachliela: Flamenco Romantico](https://open.spotify.com/album/7LX33MEo6gOOVDG0DB3drB) | 4:30 |
 | 4 | [Rayo](https://open.spotify.com/track/5FpJy5woYptiLlLY4M8b4t) | [Strunz & Farah](https://open.spotify.com/artist/2Vr1fub6eNIztdUNeFPvJj) | [Americas](https://open.spotify.com/album/4N1aKzXuJLHXBW6Hp5ZxSw) | 4:52 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vpt0fhumU1.md) - [plain]
 | 21 | [Un Jardín De Amor](https://open.spotify.com/track/0tB9K5yKFC9vJPsZsZB17l) | [Graciela Flores](https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ) | [Un Jardín De Amor](https://open.spotify.com/album/3nJ6jn0yfUEl1ic8qnGqiK) | 2:11 |
 | 22 | [Soleil](https://open.spotify.com/track/0k4Y2TqLUPNJ8euMibKQ4z) | [Grupo Macarena](https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f) | [Grupo Macarena: Gypsy Flamenco](https://open.spotify.com/album/6VmYzpmaaEJe66Sy9ZK4qO) | 4:36 |
 | 23 | [Princesa](https://open.spotify.com/track/5n7F3uCgTypj8anKwxQB5l) | [Grupo Macarena](https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f) | [Grupo Macarena: Gypsy Flamenco](https://open.spotify.com/album/6VmYzpmaaEJe66Sy9ZK4qO) | 4:36 |
-| 24 | [Y dejame con mi sino](https://open.spotify.com/track/1TpfaYxONeYxEzpm2pIolj) | [Alhama, Los](https://open.spotify.com/artist/6Gg623dfCM6CrYGBt0twPX) | [Traditional Gypsy Flamenco](https://open.spotify.com/album/40NaiYoHAvxeLv0hj5BViC) | 4:14 |
+| 24 | [Y Dejame Con Mi Sino](https://open.spotify.com/track/0cb1tnOvlCReBfsAOPgyUJ) | [Los Alhama](https://open.spotify.com/artist/4wONqd16Nu3igdQL7FQX47) | [Flamenco](https://open.spotify.com/album/6sD5zlDx4I2ViZFv5RRAqX) | 4:22 |
 | 25 | [Alagarabias \(Rejoicing\)](https://open.spotify.com/track/1yZrDWBbUIoT4Ik0nGyqKI) | [Vasco Hernandez](https://open.spotify.com/artist/5qHWYMAzg5sEONXNtiqzAM), [Diego el Gavi](https://open.spotify.com/artist/2FuC6pBl9eslfd4a8udMO9), [Vanesa Lledo](https://open.spotify.com/artist/6db18gdaJ3buJIpjmAxaLP), [Carlos Mil\-Homens](https://open.spotify.com/artist/2H2PjehaUM4tOJY7BwTv0T) | [Luz De Otra Manera](https://open.spotify.com/album/6TVAcRyDCNLiE8Twv9JHq3) | 4:23 |
 | 26 | [Pão de Açúcar](https://open.spotify.com/track/07ZdqvJ37JIGrbybE2iVPZ) | [El Equipo Del Norte](https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U) | [Pão de Açúcar](https://open.spotify.com/album/5qz7sVtLSdqQatSiYUpJWM) | 3:42 |
 | 27 | [Fuera de mi](https://open.spotify.com/track/7tbYo2WPobHpu1KF4JOnyf) | [Grupo Macarena](https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f) | [Grupo Macarena: Gypsy Flamenco](https://open.spotify.com/album/6VmYzpmaaEJe66Sy9ZK4qO) | 3:00 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vpt0fhumU1.md) - [plain]
 | 50 | [Bumblebeat](https://open.spotify.com/track/0aiqrNJkcz1xDGUD8HLrRz) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Mosaico](https://open.spotify.com/album/6PAB5rJADQ7HFjp0fzKjba) | 4:34 |
 | 51 | [En la Mancha](https://open.spotify.com/track/6qixM3ocxbC7JzrDg2YwrD) | [Mari Nieto](https://open.spotify.com/artist/1kpBaXhyD5w2NMYoklvChj), [Juan Antonio Torres](https://open.spotify.com/artist/1JXR84Lo1dOJcc8re1H5lw), [Viguela](https://open.spotify.com/artist/2MPy4JFvIlApj1PbxNTHBF) | [Temperamento: Traditional Music from Spain](https://open.spotify.com/album/7hlw3I2DL1JV4uw99h5BtC) | 5:50 |
 
-Snapshot ID: `MCw5NTUwMzZkM2MyNTRhOGVmZTM2YjA4ZjFkM2Y0ZjI1YmJmNWViYzI2`
+Snapshot ID: `MCxiZTg0MWM3ZjcyMzk5MDA4NmI5NTZmYTc2N2VmNDZlNDA2MWQ4ODUz`

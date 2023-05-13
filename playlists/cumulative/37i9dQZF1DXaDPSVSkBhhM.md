@@ -4,7 +4,7 @@
 
 > ¡Pop\-punk por siempre!
 
-110 songs - 6 hr 5 min
+111 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [No Digas Lo Siento](https://open.spotify.com/track/3e2W5jHkrLTzTOaL8Eqx52) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [No Digas Lo Siento](https://open.spotify.com/album/1c6ugiEfTV9lVRWIx93wW7) | 2:51 | 2021-11-26 |  |
 | [No Estoy Roto](https://open.spotify.com/track/4jT6v8PugBI98OFU1I9SJs) | [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [No Estoy Roto](https://open.spotify.com/album/47GSu9M63q84E8iNFeXu6A) | 4:13 | 2021-11-26 | 2022-07-23 |
 | [No Estoy Roto](https://open.spotify.com/track/77FQkYA5Z9Kt69lYOAUr9j) | [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [Laberinto](https://open.spotify.com/album/6l3lznEmHVDtb2hHae4vPx) | 4:13 | 2022-07-22 | 2022-07-29 |
-| [No Hay Final Feliz](https://open.spotify.com/track/4DA6ycFahIk2BekxtAnS8r) | [Cuatro y Medio](https://open.spotify.com/artist/6wJwB1zPYk6mASfPxua8qC) | [No Hay Final Feliz](https://open.spotify.com/album/5C2ctVj0v0BVGc3D7ELsea) | 3:38 | 2022-07-22 |  |
+| [No Hay Final Feliz](https://open.spotify.com/track/4DA6ycFahIk2BekxtAnS8r) | [Cuatro y Medio](https://open.spotify.com/artist/6wJwB1zPYk6mASfPxua8qC) | [No Hay Final Feliz](https://open.spotify.com/album/5C2ctVj0v0BVGc3D7ELsea) | 3:38 | 2022-07-22 | 2023-05-13 |
 | [No olvides de enfocarte siempre en lo importante](https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK) | [Da Skate](https://open.spotify.com/artist/3j5RvqYJKTwcBFebeRNrxW) | [La teoría de los septenios](https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo) | 2:31 | 2022-07-22 |  |
 | [No Olvides de Enfocarte Siempre en lo Importante](https://open.spotify.com/track/51jqqiXt5rnEl9xKRyj86Y) | [Da Skate](https://open.spotify.com/artist/3j5RvqYJKTwcBFebeRNrxW) | [No Olvides de Enfocarte Siempre en lo Importante](https://open.spotify.com/album/3Hvi3ChzBdjqSJY806rAAl) | 2:31 | 2021-11-26 | 2022-07-29 |
 | [no stas aki](https://open.spotify.com/track/5WlzkwCj5XfqdndTa4YZxa) | [Ariadna](https://open.spotify.com/artist/4YlhuV7FMCEIc8DPz99Mn5), [Yer](https://open.spotify.com/artist/5SeJPd7D4iQiBEEuhTuC5x) | [no stas aki](https://open.spotify.com/album/77y9QkYX480a9jv21IcKi8) | 2:46 | 2021-11-26 | 2022-07-01 |
@@ -99,6 +99,7 @@
 | [Quemando Cartas](https://open.spotify.com/track/2cv6qKNrkTFNVHuzzOH5wg) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz) | [Entre La Guerra Y El Amor](https://open.spotify.com/album/23iVqZRtuSKBHAfqtT8lCV) | 3:05 | 2021-11-26 |  |
 | [ReiniciaR](https://open.spotify.com/track/4fERNkRLeLdy2EqPxHzBiu) | [May Sunday](https://open.spotify.com/artist/08SkBrVjxq80ivZKnGh1LE) | [ReiniciaR](https://open.spotify.com/album/4HuFfpp2wVLhh1LdyPRfn6) | 3:18 | 2022-07-22 | 2022-07-25 |
 | [Rolleando Fuerte](https://open.spotify.com/track/5eicvn7A3NuAGduvU6a68t) | [2contra1](https://open.spotify.com/artist/07QNsyKFdUIrz9DdQj1Df6) | [2 contra 1](https://open.spotify.com/album/4sEtbJkhpBn6S3NgotSMFa) | 2:35 | 2021-11-26 | 2022-07-19 |
+| [Rompe Mi Mente](https://open.spotify.com/track/08FsQrACvV8m6qot7Uv2wI) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz) | [Rompe Mi Mente](https://open.spotify.com/album/0lvOw8x8KvSgARM5U8ZtLT) | 3:29 | 2023-05-12 |  |
 | [Salven la torre del reloj](https://open.spotify.com/track/3FDeix0Xgpf74VX3nV3g9w) | [Sad Saturno](https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d) | [Destinados a fallar](https://open.spotify.com/album/1OmvaIf4kLE46ZnX6Pfhnd) | 3:43 | 2021-11-26 | 2022-07-23 |
 | [Saoko \(Post\-Punk\)](https://open.spotify.com/track/1QcoAZN9XMAZQT2aeQqII0) | [Isaac De los Santos](https://open.spotify.com/artist/24jCcaU83zKxUs7BJylznZ) | [Saoko \(Post\-Punk\)](https://open.spotify.com/album/4Fmaxtk2DZgoQRZG3c8jn5) | 3:00 | 2022-10-01 | 2023-04-23 |
 | [Serás El Mástil De Mi Barco](https://open.spotify.com/track/3ehubcf2qVxCkpBwIeLBNu) | [May Sunday](https://open.spotify.com/artist/08SkBrVjxq80ivZKnGh1LE), [Alonzo Rodríguez](https://open.spotify.com/artist/6FabLitAKk8xbI901jJg6o) | [Ahora y Siempre](https://open.spotify.com/album/3FLGPjRkMAwnSN99iBR1e6) | 2:54 | 2021-11-26 | 2022-07-23 |

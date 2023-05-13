@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FWIO38pHuz.md) - [plain]
 
 > Funk favorites from 2022\. Cover: Cory Henry \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,569 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,569 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FWIO38pHuz.md) - [plain]
 | 48 | [Prince Of Something](https://open.spotify.com/track/4dzTAP52fk1dxxBARWkhZv) | [Jank Setup](https://open.spotify.com/artist/0Qk6tRQWQcA1YENkF0HIXZ) | [Look Who's Talking](https://open.spotify.com/album/0KwBrO0s9dYwXv3lmAm4JW) | 3:46 |
 | 49 | [Don't Bother Me](https://open.spotify.com/track/0byu4A4boBYXjappm4VilB) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU) | [It Starts with Love](https://open.spotify.com/album/6gzrKLDkaYEyUknqeS4aFW) | 3:29 |
 | 50 | [B Side \- Dr\. Rubberfunk Mix](https://open.spotify.com/track/304Y32tn2MipSfI2CJSTwW) | [Smudge All Stars](https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU), [Dr Rubberfunk](https://open.spotify.com/artist/7jOCklAiBleLs7aGsFaDep), [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc), [Fred Wesley](https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam) | [B Side \- Dr\. Rubberfunk Mix](https://open.spotify.com/album/3fQwy0KsXSMCpgoF8NERyT) | 4:43 |
-| 51 | [River Keep Runnin'](https://open.spotify.com/track/1ne7KDX3wIEn11XHoh9a0y) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [River Keep Runnin'](https://open.spotify.com/album/6sBBxKO8SWjxAKC8ZF7IHe) | 4:08 |
+| 51 | [River Keep Runnin'](https://open.spotify.com/track/0d0PEYhvGdBZBMS0wkCanE) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [River Keep Runnin’](https://open.spotify.com/album/3oUZlVmuSj6VtmXVN1uHjp) | 4:06 |
 | 52 | [D.R.E.A.D](https://open.spotify.com/track/3uQjXCAXuSAZIduWjU5mY8) | [Tom McGuire & the Brassholes](https://open.spotify.com/artist/7JnJgTo8cCtAQmtC0cJyjp) | [D.R.E.A.D](https://open.spotify.com/album/6sy0hfa6qSNN0REHDiHhR5) | 5:47 |
 | 53 | [Africvillean Funk](https://open.spotify.com/track/5xCbruMkIhwhRESa9YBUPr) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus), [Trobiz](https://open.spotify.com/artist/1SOChUFxbvRq02w2HC1XvX) | [Don't Trip](https://open.spotify.com/album/2TLJYbqaz0kygsMTDXn3et) | 3:12 |
 | 54 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FWIO38pHuz.md) - [plain]
 | 74 | [You Not Me \- Remix](https://open.spotify.com/track/6qmZKSHiYJCV09bSToTm3y) | [Baegod](https://open.spotify.com/artist/1F03cvxw1p5NzqkLnwDpcL), [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh) | [You Not Me \(Remix\)](https://open.spotify.com/album/5nCT2rB99boTMRmYIvky0d) | 2:34 |
 | 75 | [Pepper Dem](https://open.spotify.com/track/3NNozRRUuQnwMb3uASRpj4) | [Nathan Adams](https://open.spotify.com/artist/4Qc2hTBOx11WvgZMK2M4O9) | [Pepper Dem](https://open.spotify.com/album/2UffSLAJYhM96CBOt5dZtR) | 4:08 |
 
-Snapshot ID: `MCxiNzQ4NmY4OTA0ZmY1NDY0Nzc1NWY1NjY5MzZmZTJhMGExMTUxN2Zj`
+Snapshot ID: `MCxiMTE3OTg5MTNmZmM0MjgwNTI4YjVjOWQyMjU5OWI3NDg5NTJhNzdl`

@@ -4,10 +4,11 @@
 
 > <a href="spotify:artist:1oZmFNkGAT93yD1xX4vTRE">Nina Kraviz</a>' favorite tracks\. Updated regularly\. Curated by Nina Kraviz\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-61 songs - 5 hr 42 min
+63 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [04c](https://open.spotify.com/track/7goaAhD1hCMfBLsm4ePEW7) | [Soren Jahan](https://open.spotify.com/artist/3QuCMIn8tUrEybwF48qWtn) | [137](https://open.spotify.com/album/2i6cQdA7t4o6u7PZ3BnX2K) | 3:44 | 2023-05-12 |  |
 | [05h33 \(Adagio, Piano Sonata No\. 14, "Moonlight"\) \- Beethoven Remixed](https://open.spotify.com/track/3jDTHms2Cnyptxhdya2gUq) | [Anna Moreau](https://open.spotify.com/artist/0EmuKBNjozY65uHHQcah6V), [Anetha](https://open.spotify.com/artist/7sJ3ngSMvvXGdVLnODPqXa) | [05h33 \(Adagio, Piano Sonata No\. 14, "Moonlight"\) \- Beethoven Remixed](https://open.spotify.com/album/6VWhSZHVZDkeSVNj7LlXBx) | 6:19 | 2023-02-16 |  |
 | [A1 Star\-Kid](https://open.spotify.com/track/2terEafqPQc2egPCOM6RKW) | [Star\-Kid](https://open.spotify.com/artist/5FbRMUYX0JcNQMMrRBo2K1) | [Panzerkreuz 1012](https://open.spotify.com/album/2gQs2tl5SC4oTz1Y2I6Vl5) | 4:54 | 2023-02-16 | 2023-03-25 |
 | [Acid Love Making](https://open.spotify.com/track/2TAtmFFQSexZ2bgyCLsXpu) | [Acid Junkies](https://open.spotify.com/artist/60gEfPcEAvnvXBQ9oZePDI) | [Paranoid Experience](https://open.spotify.com/album/3sGeN4mOMfhTApjkKNjram) | 5:28 | 2023-02-16 |  |
@@ -16,9 +17,10 @@
 | [Aston](https://open.spotify.com/track/0F3O5aPpF30lw1NkC8Vm3j) | [Housewife 9](https://open.spotify.com/artist/2BWlGuH1XFha6dh3IXGcJM) | [Aston](https://open.spotify.com/album/39JtI95D6Q7tsVpqHTYmxR) | 2:32 | 2023-02-16 |  |
 | [Bass Drop](https://open.spotify.com/track/53fCTlSygBP4mlHKqww3h3) | [DJ Godfather](https://open.spotify.com/artist/0cKrM2XKF7wxyfEQDauvyQ), [Lil Mz\. 313](https://open.spotify.com/artist/0xwgxtAxlR2y2C3ijPKwzG) | [This Detroit Thing of Ours](https://open.spotify.com/album/6lZGZf3CQPvT1UBPIZFPAZ) | 1:42 | 2023-03-24 |  |
 | [Bassous](https://open.spotify.com/track/2wbaaQN1Q17hwWBpHsJzel) | [ZULI](https://open.spotify.com/artist/5Kur13kkU4pOoNFAE8K0YF) | [All Caps](https://open.spotify.com/album/1sXHoAxzB4MG62AaSDPToo) | 3:25 | 2023-02-16 |  |
+| [biosseum](https://open.spotify.com/track/1iO1JyUx4GSeNaLRFuyypJ) | [u.r.trax](https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5) | [Third Ear](https://open.spotify.com/album/1qzmCUFszkpWLvlrROhW21) | 4:55 | 2023-05-12 |  |
 | [Birds on E](https://open.spotify.com/track/4OQEO2Y6PuC9IlFYuz2p8j) | [Mike Dearborn](https://open.spotify.com/artist/0YVwdkC0wC44EbigdKTv9w) | [Moments](https://open.spotify.com/album/2ceMZ1jf2D5aV4rHEVRjlQ) | 6:17 | 2023-02-16 |  |
 | [Bizet: Carmen, Act 1: Habanera\. "L'amour est un oiseau rebelle" \(Carmen, Chœur\)](https://open.spotify.com/track/5Adxsld8lL9MLcaULeoSKu) | [Georges Bizet](https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd), [Maria Callas](https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E), [Choeurs Rene Duclos](https://open.spotify.com/artist/0iwjANAnsGz9IwE2UXLCFs), [Georges Prêtre](https://open.spotify.com/artist/5lfbI21DXOiKTCT3Gb802r), [Orchestre de l'Opéra National de Paris](https://open.spotify.com/artist/1hro5WQTcOb7fRCEUQEZtK) | [Pure \- Maria Callas](https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO) | 4:29 | 2023-02-16 |  |
-| [Black Smokers](https://open.spotify.com/track/1uL1hBBXXyZN0pIgsFqCr9) | [PTU](https://open.spotify.com/artist/70UHL8BEGqoUNmXfXi0nGr) | [Locus Error](https://open.spotify.com/album/2tFkUn6aftaPWDUZhn8xDl) | 4:26 | 2023-02-16 |  |
+| [Black Smokers](https://open.spotify.com/track/1uL1hBBXXyZN0pIgsFqCr9) | [PTU](https://open.spotify.com/artist/70UHL8BEGqoUNmXfXi0nGr) | [Locus Error](https://open.spotify.com/album/2tFkUn6aftaPWDUZhn8xDl) | 4:26 | 2023-02-16 | 2023-05-13 |
 | [Blika](https://open.spotify.com/track/5Jo4Y3kS3o6uXmtw5gHI2Z) | [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI) | [Woke Up Right Handed](https://open.spotify.com/album/6aK9NotwcbuNOwn6i6aUdH) | 4:03 | 2023-02-16 |  |
 | [Bring](https://open.spotify.com/track/5n4uWPmWMbg4XLzrkck25e) | [Randomer](https://open.spotify.com/artist/7K0WJzyqUNRhraNcsvJp1h) | [Bring / Curtains](https://open.spotify.com/album/3miXwU1DxdzOJiJ4IEHNWt) | 4:54 | 2023-03-24 |  |
 | [Caught Up On Your Love](https://open.spotify.com/track/2zknmd5HmXULWSZoUkltsq) | [Paul Johnson](https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G) | [Bump Talkin'](https://open.spotify.com/album/3yAlW3nGdarm5HxZfHBuLZ) | 5:58 | 2023-02-16 |  |
@@ -35,7 +37,7 @@
 | [Fock Music](https://open.spotify.com/track/0LKqm7QTZ9IViOZzDX8fSG) | [Pantomiman](https://open.spotify.com/artist/4YY17UFbIA2EXhF78H6UDP), [Fungus Funk](https://open.spotify.com/artist/0xqTHxXphPeLQgShl2REz7) | [No Jokes](https://open.spotify.com/album/1QmTzcOVQqbxc9QZkflZLI) | 7:42 | 2023-03-24 |  |
 | [Gott \- PTU Remix](https://open.spotify.com/track/7kip6RKdShrodDv8jGnLYw) | [Á&H](https://open.spotify.com/artist/2GSQdG7jd1pedGQ4sK8dPI), [PTU](https://open.spotify.com/artist/70UHL8BEGqoUNmXfXi0nGr) | [Gott](https://open.spotify.com/album/6wqLDxA8SdxiHazycVfd9Q) | 6:01 | 2023-02-16 | 2023-03-25 |
 | [Hace Ejercicios](https://open.spotify.com/track/7K8hVSM4s25QKgyyioLWTP) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [hace ejercicios](https://open.spotify.com/album/4QFKs1Wn1pVxUXuXPrkQH4) | 7:40 | 2023-02-16 |  |
-| [i can’t believe \(you’re real\)](https://open.spotify.com/track/1LcVfuMJbKCtT0qdZaHAQC) | [u.r.trax](https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5) | [Third Ear](https://open.spotify.com/album/1qzmCUFszkpWLvlrROhW21) | 4:51 | 2023-02-16 |  |
+| [i can’t believe \(you’re real\)](https://open.spotify.com/track/1LcVfuMJbKCtT0qdZaHAQC) | [u.r.trax](https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5) | [Third Ear](https://open.spotify.com/album/1qzmCUFszkpWLvlrROhW21) | 4:51 | 2023-02-16 | 2023-05-13 |
 | [I Can’t Take You Leaving Me](https://open.spotify.com/track/7rOTtFB0RhL3yduL3tv63g) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [Acacia Classics: Vol\. 1](https://open.spotify.com/album/3qypFU3zgm5aJAPhajCBnO) | 6:32 | 2023-02-16 |  |
 | [I Need Somebody To Love Tonight](https://open.spotify.com/track/6dC66ztLWiYp34KBd68E2b) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Stars](https://open.spotify.com/album/66w7Uu28k6PBgTieyN8aBY) | 6:51 | 2023-02-16 | 2023-03-25 |
 | [iteritax](https://open.spotify.com/track/0sDHfAWQpBazIpEAscxhPy) | [Cerrot](https://open.spotify.com/artist/0WWsZjbyYAPcxSFXvPY7Cx) | [Iteritax](https://open.spotify.com/album/4KF2LwQELhcBPbRmJDuaRu) | 5:54 | 2023-02-16 |  |

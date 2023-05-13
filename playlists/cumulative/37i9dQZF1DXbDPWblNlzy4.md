@@ -2,9 +2,9 @@
 
 ### [Frecuencia Pop](https://open.spotify.com/playlist/37i9dQZF1DXbDPWblNlzy4)
 
-> Los éxitos más POPulares en español los encuentras aquí\. Foto: Las Villa, Marco Mares
+> Los éxitos más POPulares en español los encuentras aquí\. Foto: Sebastian Yatra, Manuel Turizo, Beéle
 
-103 songs - 5 hr 22 min
+106 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [23](https://open.spotify.com/track/03I0v50PLHMxgP5CjzCwt3) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [23](https://open.spotify.com/album/7c4Q9TaHo8VHacdzpGw2JI) | 3:07 | 2023-03-17 |  |
 | [A La Playa](https://open.spotify.com/track/2MANpdplWDEAnmHC2GA42W) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [A La Playa](https://open.spotify.com/album/00FBTtbNuQhQqSGIMNSHjU) | 3:13 | 2023-03-17 | 2023-04-01 |
 | [A Mi Lado](https://open.spotify.com/track/5Qw9OHZdAX40qw5hZCU0BS) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [A Mi Lado](https://open.spotify.com/album/05l6EnHyQrjPhCP24EzjKi) | 3:17 | 2023-03-17 |  |
+| [Acróstico](https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Acróstico](https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd) | 2:50 | 2023-05-12 |  |
 | [Algo Me Pasa](https://open.spotify.com/track/1tZU2osSQKZ4VsAcmszltK) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Algo Me Pasa](https://open.spotify.com/album/2dhVZS72T4n6KfI71hnSXb) | 3:25 | 2023-03-17 | 2023-04-29 |
 | [Amigos \(con Maria Becerra\)](https://open.spotify.com/track/34tHZJLk0adg5tW49iybbE) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Amigos \(con Maria Becerra\)](https://open.spotify.com/album/3znR1F0VbgfKsDyTeC0Nt8) | 3:53 | 2023-03-17 |  |
 | [Ave de paso \(con Ana Mena\)](https://open.spotify.com/track/41qCPzahT6jEvZiIFYyycC) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Ave de paso \(con Ana Mena\)](https://open.spotify.com/album/6BArEoaNbHcObUE1DNELBn) | 3:36 | 2023-03-17 |  |
@@ -23,6 +24,7 @@
 | [Bora Bora](https://open.spotify.com/track/0w49NuhCUPdJpzE3ClojSa) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Bora Bora](https://open.spotify.com/album/2PnRPLXqb7SHg141358iah) | 2:48 | 2023-03-17 |  |
 | [CAIRO](https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [CAIRO](https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA) | 3:21 | 2023-03-17 |  |
 | [CAROLINA](https://open.spotify.com/track/3goYw6YHoCjA1sfBzpdgzH) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:42 | 2023-03-17 | 2023-03-25 |
+| [como te va?](https://open.spotify.com/track/64gyDJ9fXpZvsycMEHRLUG) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [como te va?](https://open.spotify.com/album/113FXbf4zKRInNJksj2H8V) | 2:34 | 2023-05-12 |  |
 | [Conquistar El Planeta](https://open.spotify.com/track/0PnQyZ2269uNKZjiwwiF9C) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Conquistar El Planeta](https://open.spotify.com/album/1eyy2wEKQLrxwchTKHC5cd) | 2:43 | 2023-03-17 |  |
 | [Contigo](https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Contigo](https://open.spotify.com/album/6fv6tD2JlEMZaFf6tF0GcH) | 3:28 | 2023-03-17 |  |
 | [Corazón](https://open.spotify.com/track/53ZLUs4cvMmPvodm3mVTPi) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:28 | 2023-04-28 |  |
@@ -52,12 +54,12 @@
 | [Guaro](https://open.spotify.com/track/57sG0muDy6txXqYFBlcA6y) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Guaro](https://open.spotify.com/album/1D8eQxCxhoMcNB7XwNl468) | 1:58 | 2023-03-17 |  |
 | [Junio](https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Junio](https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB) | 2:48 | 2023-03-17 |  |
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2023-03-17 |  |
-| [La Despedida](https://open.spotify.com/track/5fYkgGMrYss0OYJQWki4jn) | [Ceci Juno](https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu), [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [La Despedida](https://open.spotify.com/album/1gkyF5oXDdgY5UNfyY8yNl) | 3:14 | 2023-03-24 |  |
+| [La Despedida](https://open.spotify.com/track/5fYkgGMrYss0OYJQWki4jn) | [Ceci Juno](https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu), [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [La Despedida](https://open.spotify.com/album/1gkyF5oXDdgY5UNfyY8yNl) | 3:14 | 2023-03-24 | 2023-05-13 |
 | [La Primera Vez](https://open.spotify.com/track/3AS2NiyobOcS454xthOByC) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Primera Vez](https://open.spotify.com/album/5o6FpcNF63Rzf2sGZL1WYp) | 3:44 | 2023-03-17 |  |
 | [La Última Canción](https://open.spotify.com/track/0wKivXf3kIW91AtEll1Aqa) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [La Última Canción](https://open.spotify.com/album/0pSYqGyZXM9SlyTdyB1t1N) | 3:15 | 2023-05-05 |  |
 | [Legendaria](https://open.spotify.com/track/5bARvxCD7HTJXsBLN7UhbZ) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Legendaria](https://open.spotify.com/album/3pf7QneuFzJcgTPLVLXaBW) | 2:59 | 2023-03-17 |  |
 | [LLYLM](https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LLYLM](https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm) | 2:54 | 2023-03-17 | 2023-03-25 |
-| [lo que hay x aquí](https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [lo que hay x aquí](https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm) | 2:35 | 2023-03-17 |  |
+| [lo que hay x aquí](https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [lo que hay x aquí](https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm) | 2:35 | 2023-03-17 | 2023-05-13 |
 | [Lo Que Me Harías En Otra Parte](https://open.spotify.com/track/1gCTNc0Jrk78CHiHbuT63w) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [A Contraluz](https://open.spotify.com/album/0fHMjHobSboBcY2NQ4JfAN) | 2:40 | 2023-05-05 |  |
 | [Los Hombres Son Todos Iguales](https://open.spotify.com/track/2JNhw8a87uhQ8gTIf26RSb) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Los Hombres Son Todos Iguales](https://open.spotify.com/album/0kAaBCYWSzyRdFQ2Y1qjcY) | 4:04 | 2023-03-17 | 2023-05-06 |
 | [Malas Decisiones](https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:19 | 2023-03-17 |  |
@@ -88,7 +90,7 @@
 | [Plástico](https://open.spotify.com/track/7IdpZfT9vIWTEEA1pFGJNN) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Plástico](https://open.spotify.com/album/7L8mnNljgSj1MDAKnww7S9) | 2:49 | 2023-03-17 | 2023-03-25 |
 | [Por el Resto de Tu Vida](https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Por el Resto de Tu Vida](https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm) | 3:17 | 2023-03-17 |  |
 | [Primera Cita](https://open.spotify.com/track/61TIqrpTJ6ZlEaQpneVboa) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Primera Cita](https://open.spotify.com/album/12zL0QO90BC88QJTYeso5d) | 2:44 | 2023-03-17 |  |
-| [Prométeme](https://open.spotify.com/track/5LGEeGRTgcYI2KHRYcJLdc) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Bolero Apocalíptico](https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti) | 3:09 | 2023-04-28 |  |
+| [Prométeme](https://open.spotify.com/track/5LGEeGRTgcYI2KHRYcJLdc) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Bolero Apocalíptico](https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti) | 3:09 | 2023-04-28 | 2023-05-13 |
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2023-03-17 | 2023-04-22 |
 | [Que Se Parezca A Ti](https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales \(Deluxe Edition\)](https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU) | 3:04 | 2023-04-14 |  |
 | [Quiero](https://open.spotify.com/track/26tLmURZXoOmbFA7pjtvJ4) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Quiero](https://open.spotify.com/album/3rWNMVZ6RZvJm4RuF6G2Ts) | 2:55 | 2023-03-17 | 2023-03-25 |
@@ -109,6 +111,7 @@
 | [Un Reel](https://open.spotify.com/track/1IavuiWnbbts36JWozObGE) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Un Reel](https://open.spotify.com/album/46oK5w1Y9tEAC8423CWKkb) | 3:23 | 2023-03-17 | 2023-04-15 |
 | [Una Noche Sin Pensar](https://open.spotify.com/track/2oW52tBeJNSv93Ct5AJb8q) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Una Noche Sin Pensar](https://open.spotify.com/album/72RohnwnQyT7YbrIzDNROD) | 2:41 | 2023-03-17 |  |
 | [Vacío](https://open.spotify.com/track/60mUFN9EkDRL3YGOnKcbQ7) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 3:08 | 2023-03-17 |  |
+| [VAGABUNDO](https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [VAGABUNDO](https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc) | 3:35 | 2023-05-12 |  |
 | [Vestido Azul](https://open.spotify.com/track/1AhK0LVcXaZ4SRcaJvU6MK) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Vestido Azul](https://open.spotify.com/album/1cG0jWGYtjHLwkBDLu3evL) | 2:52 | 2023-04-21 |  |
 | [Vida](https://open.spotify.com/track/3vyUFpEdEAWqfBSRGUKL7z) | [Nina Rodriguez](https://open.spotify.com/artist/2DJELwDLewsLp12JjJUwI6) | [Vida](https://open.spotify.com/album/0LJJXNz6QEpPs0R8gykGjP) | 3:08 | 2023-03-17 |  |
 

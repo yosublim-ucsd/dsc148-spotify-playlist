@@ -1843,6 +1843,36 @@
     },
     {
       "album": {
+        "name": "Left Right",
+        "url": "https://open.spotify.com/album/3IHcOFALXIYAJ7FQBgkPVp"
+      },
+      "artists": [
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        },
+        {
+          "name": "Abdullah Siddiqui",
+          "url": "https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R"
+        },
+        {
+          "name": "Maanu",
+          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+        },
+        {
+          "name": "Shae Gill",
+          "url": "https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196250,
+      "name": "Left Right",
+      "url": "https://open.spotify.com/track/1WMImncoIZZ7Bz0Y6cZGVp"
+    },
+    {
+      "album": {
         "name": "Drive Thru",
         "url": "https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78"
       },

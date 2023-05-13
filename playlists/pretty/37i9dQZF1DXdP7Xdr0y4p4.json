@@ -1,12 +1,12 @@
 {
   "description": "An essential list of recent hits of SoGo.  Cover:  <a href=\"https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA\">The Browns</a>",
-  "num_followers": 7832,
+  "num_followers": 7852,
   "original_name": "Streets Of Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2VlMDUxYjk3YTBlMjg5Y2QwZDc4NzM1ZmE4MTUxYjljY2E2ZjA5",
+  "snapshot_id": "MCw2NTY2MGZmMTg2M2M2YjlmOTg5NGYwMmM0MDc0NzVhODRkZGExNTll",
   "tracks": [
     {
       "added_at": "2023-04-14 06:27:38",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Steppin' Out",
-        "url": "https://open.spotify.com/album/0wzJOZsUHlbbxahsZQl2PM"
-      },
-      "artists": [
-        {
-          "name": "11th Hour",
-          "url": "https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY"
-        }
-      ],
-      "duration_ms": 195360,
-      "name": "Bloodline",
-      "url": "https://open.spotify.com/track/4csB0M65mPjoCpo1g9EQiB"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Godfidence",
         "url": "https://open.spotify.com/album/6H6B0z1SFnGFclDLWKu1ku"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 196500,
       "name": "Godfidence",
       "url": "https://open.spotify.com/track/28N2L4CON8Z5VOHu5e7GAH"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Steppin' Out",
+        "url": "https://open.spotify.com/album/0wzJOZsUHlbbxahsZQl2PM"
+      },
+      "artists": [
+        {
+          "name": "11th Hour",
+          "url": "https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY"
+        }
+      ],
+      "duration_ms": 195360,
+      "name": "Bloodline",
+      "url": "https://open.spotify.com/track/4csB0M65mPjoCpo1g9EQiB"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Bigger Than Sunday",
-        "url": "https://open.spotify.com/album/0RgdcpTzlEU9m0WnfgsU19"
-      },
-      "artists": [
-        {
-          "name": "Triumphant Quartet",
-          "url": "https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC"
-        }
-      ],
-      "duration_ms": 197240,
-      "name": "Best Thing",
-      "url": "https://open.spotify.com/track/2LqfoPg1e7dud9HJSnaVsn"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Songs for the Times",
         "url": "https://open.spotify.com/album/37dXrupCMdsgBbOWlOy55U"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 224746,
       "name": "Peace in Trusting",
       "url": "https://open.spotify.com/track/0bRCxiCy7DKlaaa0cfZqc4"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Bigger Than Sunday",
+        "url": "https://open.spotify.com/album/0RgdcpTzlEU9m0WnfgsU19"
+      },
+      "artists": [
+        {
+          "name": "Triumphant Quartet",
+          "url": "https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC"
+        }
+      ],
+      "duration_ms": 197240,
+      "name": "Best Thing",
+      "url": "https://open.spotify.com/track/2LqfoPg1e7dud9HJSnaVsn"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/3Z6G191LKtBlbPwxJtOgEl"
-      },
-      "artists": [
-        {
-          "name": "The Hoppers",
-          "url": "https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7"
-        }
-      ],
-      "duration_ms": 241109,
-      "name": "Believe For It",
-      "url": "https://open.spotify.com/track/63R7v5So5B4NwnSg5D83Kb"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Favorites: On Repeat",
         "url": "https://open.spotify.com/album/7GnVw92Aav72gGVMpG0aXM"
       },
@@ -767,18 +751,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Not For Long",
-        "url": "https://open.spotify.com/album/3o2K93AUXYP6ksJabFbM62"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3Z6G191LKtBlbPwxJtOgEl"
       },
       "artists": [
         {
-          "name": "The Guardians",
-          "url": "https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo"
+          "name": "The Hoppers",
+          "url": "https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7"
         }
       ],
-      "duration_ms": 230013,
-      "name": "Not For Long",
-      "url": "https://open.spotify.com/track/2x5wmviqv1wC7rCd8gL1sQ"
+      "duration_ms": 241109,
+      "name": "Believe For It",
+      "url": "https://open.spotify.com/track/63R7v5So5B4NwnSg5D83Kb"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -811,6 +795,22 @@
       "duration_ms": 181000,
       "name": "Good in the Good Times",
       "url": "https://open.spotify.com/track/6m6CBaVU3KKztFkmz28m1I"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Not For Long",
+        "url": "https://open.spotify.com/album/3o2K93AUXYP6ksJabFbM62"
+      },
+      "artists": [
+        {
+          "name": "The Guardians",
+          "url": "https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo"
+        }
+      ],
+      "duration_ms": 230013,
+      "name": "Not For Long",
+      "url": "https://open.spotify.com/track/2x5wmviqv1wC7rCd8gL1sQ"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Glorious Appearing",
-        "url": "https://open.spotify.com/album/3kPtp2JB1FsCW7ntRNt99W"
-      },
-      "artists": [
-        {
-          "name": "The Hoppers",
-          "url": "https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7"
-        }
-      ],
-      "duration_ms": 228997,
-      "name": "Glorious Appearing",
-      "url": "https://open.spotify.com/track/2CGX7JVKELwjNgs4FppLEU"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Front Porch Singin'",
         "url": "https://open.spotify.com/album/41ueL4w9hoGodvfWHjLfCY"
       },
@@ -915,22 +899,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "In a Moment",
-        "url": "https://open.spotify.com/album/1hXk9gKQzIS6p9lnONUxpe"
-      },
-      "artists": [
-        {
-          "name": "Hebron Road",
-          "url": "https://open.spotify.com/artist/4IPpLxQQLSf3ANpz0Q7Y51"
-        }
-      ],
-      "duration_ms": 306462,
-      "name": "Every Other Throne",
-      "url": "https://open.spotify.com/track/4RLDBwWBB3amq8o48Zycig"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Brighten The Corner Where You Are (Radio Edit)",
         "url": "https://open.spotify.com/album/7tpVNdsEnSWj30uRodyS4y"
       },
@@ -943,6 +911,38 @@
       "duration_ms": 149545,
       "name": "Brighten The Corner Where You Are - Radio Edit",
       "url": "https://open.spotify.com/track/0rnHhaqD3Rpu7P7sIktSji"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Glorious Appearing",
+        "url": "https://open.spotify.com/album/3kPtp2JB1FsCW7ntRNt99W"
+      },
+      "artists": [
+        {
+          "name": "The Hoppers",
+          "url": "https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7"
+        }
+      ],
+      "duration_ms": 228997,
+      "name": "Glorious Appearing",
+      "url": "https://open.spotify.com/track/2CGX7JVKELwjNgs4FppLEU"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "In a Moment",
+        "url": "https://open.spotify.com/album/1hXk9gKQzIS6p9lnONUxpe"
+      },
+      "artists": [
+        {
+          "name": "Hebron Road",
+          "url": "https://open.spotify.com/artist/4IPpLxQQLSf3ANpz0Q7Y51"
+        }
+      ],
+      "duration_ms": 306462,
+      "name": "Every Other Throne",
+      "url": "https://open.spotify.com/track/4RLDBwWBB3amq8o48Zycig"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "My Name Is Victory",
-        "url": "https://open.spotify.com/album/5mOIV9KyRZNFEHi3Hi4Ftl"
-      },
-      "artists": [
-        {
-          "name": "The Wilbanks",
-          "url": "https://open.spotify.com/artist/59iNl6j8dYKneqZ1U4012r"
-        }
-      ],
-      "duration_ms": 202710,
-      "name": "The Spirit and the Bride",
-      "url": "https://open.spotify.com/track/6QVdPyhG84xBkum4UOUy7M"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Good News From Jerusalem (Made Popular by Tribute Quartet) [Performance Track]",
         "url": "https://open.spotify.com/album/1T2TM15utzZjxJxO674Q3H"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 237986,
       "name": "Good News From Jerusalem (Demonstration in C-C#-D)",
       "url": "https://open.spotify.com/track/3KbuCBE1F1dPBEBaLAN6hb"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "My Name Is Victory",
+        "url": "https://open.spotify.com/album/5mOIV9KyRZNFEHi3Hi4Ftl"
+      },
+      "artists": [
+        {
+          "name": "The Wilbanks",
+          "url": "https://open.spotify.com/artist/59iNl6j8dYKneqZ1U4012r"
+        }
+      ],
+      "duration_ms": 202710,
+      "name": "The Spirit and the Bride",
+      "url": "https://open.spotify.com/track/6QVdPyhG84xBkum4UOUy7M"
     },
     {
       "added_at": "2023-04-14 06:27:38",

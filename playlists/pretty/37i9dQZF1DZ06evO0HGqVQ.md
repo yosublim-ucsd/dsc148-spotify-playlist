@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HGqVQ.md) - [plain]
 
 > This is Los inquietos del vallenato\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,825 likes - 31 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,839 likes - 31 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HGqVQ.md) - [plain]
 | 30 | [Te Quiero Mas](https://open.spotify.com/track/63txzgrUTqOb6yWJQfUpKF) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Inquietos Por El Mundo](https://open.spotify.com/album/4ZfQmJiIAjQyOivNcmprP1) | 3:52 |
 | 31 | [Mejor No Somos Nada](https://open.spotify.com/track/7GR5PfiTaDyncp1M1si4gh) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/0xsLFXW6C2juv4RIGc57Xi) | 5:17 |
 
-Snapshot ID: `MjgwNjM0NjIsMDAwMDAwMDA1NzM0NDhiNzcwNGM3MzUzZTViY2FlMWEyYzI0YTZkOQ==`
+Snapshot ID: `MjgwNjQ5MDksMDAwMDAwMDA3ZmQxYjA5YWU0MjYxNmUzYzc2OTViODRkNzIwYzY5OQ==`

@@ -851,6 +851,28 @@
     },
     {
       "album": {
+        "name": "LQRA Session #14",
+        "url": "https://open.spotify.com/album/4ySdVWAQMgIcytZ2lMbyji"
+      },
+      "artists": [
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "LQRA Session #14",
+      "url": "https://open.spotify.com/track/3aizSWR2gxLPgkp7Y2aBI7"
+    },
+    {
+      "album": {
         "name": "LQRA Session #5",
         "url": "https://open.spotify.com/album/6fEbvdp7RK0pfoeHiJ2r8a"
       },

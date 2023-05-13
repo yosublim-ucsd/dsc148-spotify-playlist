@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "All the indescribable feelings that music gives you. cover: hemlocke springs",
+  "description": "All the indescribable feelings that music gives you. cover: Remi Wolf",
   "name": "Lorem",
   "tracks": [
     {
@@ -954,7 +954,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 264109,
       "name": "A Song About Me",
       "url": "https://open.spotify.com/track/19F9GvHsmoOchHLxiXOEkE"
@@ -1424,7 +1424,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 168982,
       "name": "Airforce blue",
       "url": "https://open.spotify.com/track/32Y3wufXTQKoVtNs23kwKi"
@@ -1626,7 +1626,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 194167,
       "name": "ALL I GOT",
       "url": "https://open.spotify.com/track/5tbpU6W9x2hABB8P3cHzuh"
@@ -10457,6 +10457,28 @@
     },
     {
       "album": {
+        "name": "Dressed For A Funeral",
+        "url": "https://open.spotify.com/album/6x47JaUUbqIjrxqd2eCd3r"
+      },
+      "artists": [
+        {
+          "name": "Groupthink",
+          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
+        },
+        {
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144625,
+      "name": "Dressed For A Funeral",
+      "url": "https://open.spotify.com/track/0iHZE9wKvvOXeKRkfbpjMQ"
+    },
+    {
+      "album": {
         "name": "Drew Barrymore",
         "url": "https://open.spotify.com/album/41HZOC3jBstsK2ujTn7Kgm"
       },
@@ -11314,6 +11336,24 @@
       "duration_ms": 146298,
       "name": "Escalator",
       "url": "https://open.spotify.com/track/0FpsrB0Kivu69LD8TaywhD"
+    },
+    {
+      "album": {
+        "name": "Escape From The Killer",
+        "url": "https://open.spotify.com/album/3f8J1FJdPioQfUEG3FL2PG"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206524,
+      "name": "Escape From The Killer 2008",
+      "url": "https://open.spotify.com/track/0E3C9ry5VM5YqCZLdcE0Fj"
     },
     {
       "album": {
@@ -17226,7 +17266,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 299687,
       "name": "I Been Young",
       "url": "https://open.spotify.com/track/54rNIPcl3M51J42P1C7NNX"
@@ -22196,6 +22236,24 @@
       "duration_ms": 187800,
       "name": "love, or the lack thereof",
       "url": "https://open.spotify.com/track/07s5wOe2qlyWWsf5I5gRxd"
+    },
+    {
+      "album": {
+        "name": "Lovegod",
+        "url": "https://open.spotify.com/album/2KEC2u2Q3nhAeXeZb6Ptq7"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kinsley",
+          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188065,
+      "name": "Lovegod",
+      "url": "https://open.spotify.com/track/2hKnW3SMsVWhXoSYLXn01G"
     },
     {
       "album": {
@@ -28431,6 +28489,24 @@
     },
     {
       "album": {
+        "name": "Prescription",
+        "url": "https://open.spotify.com/album/7HmE6jyAnWoVY870oQGNpo"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213237,
+      "name": "Prescription",
+      "url": "https://open.spotify.com/track/0ZlTm4xJKaSU98ZLza858W"
+    },
+    {
+      "album": {
         "name": "Presence",
         "url": "https://open.spotify.com/album/2dmb5Xafx6HfT4KQojD3BU"
       },
@@ -31852,7 +31928,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 233333,
       "name": "Slide",
       "url": "https://open.spotify.com/track/0BKIK1Zf025Y5zklE4IXSd"
@@ -33752,7 +33828,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 205484,
       "name": "Steamroller",
       "url": "https://open.spotify.com/track/3y2WGxpoUCvEzuSfbsDA5q"
@@ -33974,6 +34050,24 @@
       "duration_ms": 167301,
       "name": "Stone Cold",
       "url": "https://open.spotify.com/track/27u3KzXKq5iAwC3X8rl8i1"
+    },
+    {
+      "album": {
+        "name": "Stone Killer",
+        "url": "https://open.spotify.com/album/5g8JB0xHVPlp25BmuIci5L"
+      },
+      "artists": [
+        {
+          "name": "26fix",
+          "url": "https://open.spotify.com/artist/1HvnaxYOnYcLVvnOn2eb5e"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208293,
+      "name": "Stone Killer",
+      "url": "https://open.spotify.com/track/0HTdp0zc8NELjhPTbEp7PR"
     },
     {
       "album": {
@@ -39478,7 +39572,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 243599,
       "name": "Where do we go now?",
       "url": "https://open.spotify.com/track/22bV9M6ZhoSMQk6Kumpe92"
@@ -40270,7 +40364,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 212000,
       "name": "WONDERLAND",
       "url": "https://open.spotify.com/track/4RH5H3lx8hNw1JkXMjMqx0"
@@ -41165,6 +41259,24 @@
     },
     {
       "album": {
+        "name": "\"XCAPE\", PT. 1 JEAN DAWSON AS \"PHOENIX\"",
+        "url": "https://open.spotify.com/album/35t22RmD7ABTV5HPA8bYeV"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165519,
+      "name": "youth+",
+      "url": "https://open.spotify.com/track/5mp28cmHRbaFqZI2p7OrVo"
+    },
+    {
+      "album": {
         "name": "CRASH",
         "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
       },
@@ -41234,6 +41346,24 @@
       "duration_ms": 141093,
       "name": "YUKON (INTERLUDE)",
       "url": "https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq"
+    },
+    {
+      "album": {
+        "name": "Live at Electric Lady",
+        "url": "https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251400,
+      "name": "Zinnias - Recorded At Electric Lady Studios",
+      "url": "https://open.spotify.com/track/6f6IdBXL1sAHMVgwlcawDf"
     },
     {
       "album": {

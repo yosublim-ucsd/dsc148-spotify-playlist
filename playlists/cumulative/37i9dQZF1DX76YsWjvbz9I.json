@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 306840,
       "name": "A Time For Love",
       "url": "https://open.spotify.com/track/1R0wvgE1PnzLoE9YyXkkzb"
@@ -1700,6 +1700,24 @@
       "duration_ms": 167723,
       "name": "Tenderly",
       "url": "https://open.spotify.com/track/2ecdYdhDTfQ3P9rGQzFVi5"
+    },
+    {
+      "album": {
+        "name": "I Feel a Song Coming On: Lost Radio Recordings",
+        "url": "https://open.spotify.com/album/3v7vfFLfUtGVeCj81t6Ko1"
+      },
+      "artists": [
+        {
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167723,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/3oHIxYy7aIp9MWbJEMb3Nm"
     },
     {
       "album": {

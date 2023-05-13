@@ -4,7 +4,7 @@
 
 > Some bops to take the pain of homework away.
 
-475 songs - 1 day 2 hr 3 min
+476 songs - 1 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,7 @@
 | [Life Goes On](https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:27 | 2022-07-08 |  |
 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2022-10-28 |  |
 | [Like I Do](https://open.spotify.com/track/1inxDUNid3wiWPEqAqlJbo) | [J.Tajor](https://open.spotify.com/artist/0VpMOC5IZU06u29fWjv3qJ) | [Like I Do](https://open.spotify.com/album/7dGq6q1XNAapyo1MzLfZit) | 2:29 | 2022-04-14 | 2022-04-21 |
-| [Little Things](https://open.spotify.com/track/0TAmnCzOtqRfvA38DDLTjj) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Take Me Home \(Expanded Edition\)](https://open.spotify.com/album/2sWX3HYnZjPZ9MrH6MFsBt) | 3:39 | 2022-07-08 |  |
+| [Little Things](https://open.spotify.com/track/0TAmnCzOtqRfvA38DDLTjj) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Take Me Home \(Expanded Edition\)](https://open.spotify.com/album/2sWX3HYnZjPZ9MrH6MFsBt) | 3:39 | 2022-07-08 | 2023-05-13 |
 | [Location](https://open.spotify.com/track/152lZdxL1OR0ZMW6KquMif) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:39 | 2022-10-07 | 2022-10-29 |
 | [London](https://open.spotify.com/track/38o5lj4mbLK34vQkJUlMrg) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [London](https://open.spotify.com/album/75FQknIE9CKLj66rYEqoaD) | 2:40 | 2022-04-14 | 2022-07-29 |
 | [Lonely \(with benny blanco\)](https://open.spotify.com/track/3S8jK1mGzQi24ilFb45DAZ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:29 | 2022-04-14 | 2022-06-15 |
@@ -366,6 +366,7 @@
 | [Shade of Yellow](https://open.spotify.com/track/7qHXEShpUpCcSUbgVjEAoQ) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Shade of Yellow](https://open.spotify.com/album/1Yz6WdcuRxhdHzJG5zmLQZ) | 2:36 | 2022-07-08 | 2022-07-26 |
 | [Shallow](https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:35 | 2022-07-08 | 2023-03-18 |
 | [Ship Has Sailed](https://open.spotify.com/track/28ZSHQYTUVoVVu3tMHf6Q3) | [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Black Tea EP](https://open.spotify.com/album/6fsSRJ7H3RGJ5nvzQJh28f) | 3:16 | 2022-04-14 | 2022-04-21 |
+| [Shouldn't Be](https://open.spotify.com/track/7F6PtLP6fJPVtA1FWVkl8K) | [Luke Chiang](https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj) | [Shouldn't Be](https://open.spotify.com/album/0GObFfKRxmmY7lAeehFO51) | 3:30 | 2023-04-07 |  |
 | [Shut up My Moms Calling](https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Shut up My Moms Calling](https://open.spotify.com/album/4qVzNqB4cskFInYfrC7P0S) | 2:44 | 2022-11-19 |  |
 | [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-14 |  |
 | [Slip Away](https://open.spotify.com/track/65OZiiwtjWVtS0WZdG2wmO) | [Phlake](https://open.spotify.com/artist/7xSP5ABX7IOegINeUtUVay), [Mercedes the Virus](https://open.spotify.com/artist/6I8zdnP4s22cjES4v7ZlUU) | [The Illegal Download Of Your Soul](https://open.spotify.com/album/6Lwi5PYHKYIIHDiTjTraYu) | 3:15 | 2022-04-14 | 2022-04-21 |

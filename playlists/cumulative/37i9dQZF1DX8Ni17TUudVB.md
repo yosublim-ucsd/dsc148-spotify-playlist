@@ -4,7 +4,7 @@
 
 > Enérgicos beats para musicalizar tu rutina diaria de ejercicio.
 
-198 songs - 10 hr 26 min
+199 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Loco Contigo \(feat\. J\. Balvin & Tyga\)](https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Carte Blanche](https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR) | 3:05 | 2022-01-04 |  |
 | [Lokito](https://open.spotify.com/track/3wl6blcXqnpPI7f6UNH4II) | [Los Dutis](https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi) | [Lokito](https://open.spotify.com/album/6jX07JnOXrVcySLBHh7qbB) | 3:01 | 2022-01-04 | 2022-07-29 |
 | [Lone Wolf](https://open.spotify.com/track/76I3PmbGZazzNlEwlp1y85) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Lone Wolf](https://open.spotify.com/album/0ZOHOmSoA2F394OWEqvAIY) | 4:16 | 2022-01-04 |  |
-| [Look](https://open.spotify.com/track/2UnYp6QyIXKJiDF0tB8Smy) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Look](https://open.spotify.com/album/47QcF8U1SLWFGCqU2pmRxJ) | 2:48 | 2022-10-12 |  |
+| [Look](https://open.spotify.com/track/2UnYp6QyIXKJiDF0tB8Smy) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Look](https://open.spotify.com/album/47QcF8U1SLWFGCqU2pmRxJ) | 2:48 | 2022-10-12 | 2023-05-13 |
 | [Look](https://open.spotify.com/track/42y1R39jgfNb8tNtNNoYMZ) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Look](https://open.spotify.com/album/1I35zlzXcHo0RNRYAsH9eF) | 2:48 | 2022-04-13 | 2023-02-02 |
 | [Lose Control \- ChildsPlay & Badd Dimes Remix](https://open.spotify.com/track/44Fy9nmj1bBh42WviVea0m) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [ChildsPlay](https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel), [Badd Dimes](https://open.spotify.com/artist/4ddhmWe0fgEqOyb2kihLWB) | [Lose Control \(The Remixes, Pt\. 2\)](https://open.spotify.com/album/6DbsmA9K8WDhUgu3ZuLcBX) | 3:27 | 2022-01-04 |  |
 | [Mad World](https://open.spotify.com/track/6WsaEpK2Bky9ZGCCaQPyg4) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Mad World](https://open.spotify.com/album/35LVfE1wsiXr4tdKnYliJ8) | 2:33 | 2022-01-04 |  |
@@ -171,6 +171,7 @@
 | [Sex & Love](https://open.spotify.com/track/3ylhgzhvSICQcyv0U3Ozwv) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 2:25 | 2022-07-26 |  |
 | [Shake It](https://open.spotify.com/track/2Z78AngJD5wuKpSFIf89F3) | [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [Shake It](https://open.spotify.com/album/4LjGbU7iSp0eHTaJmNMfay) | 2:47 | 2022-10-12 |  |
 | [Shake It](https://open.spotify.com/track/5otdjL2CJnNLbY3WqHJzMD) | [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [Shake It](https://open.spotify.com/album/00SLXiSfueGVaPZSpNeqRa) | 2:47 | 2022-01-04 | 2023-01-30 |
+| [Shock \(feat\. Kabasaki\)](https://open.spotify.com/track/0aHZqxYvut2l9cqJ73VrpK) | [Ceaese](https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Fuka](https://open.spotify.com/artist/5TyQ1yXiSsZxrJHrL5kFmZ), [Kabasaki](https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX) | [Shock \(feat\. Kabasaki\)](https://open.spotify.com/album/3Bz8QogW92aM0p6YkXwqsp) | 2:47 | 2023-05-12 |  |
 | [Shout \- le Shuuk Remix](https://open.spotify.com/track/1BmYhtZrAuhxcg8aOBhX3F) | [Max Lean](https://open.spotify.com/artist/4sOc3KgWiki8GMnvxYH8sh), [Ane](https://open.spotify.com/artist/0832DbKyCSpPqX9lkf7aCj), [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u) | [Shout \(le Shuuk Remix\)](https://open.spotify.com/album/4aGVUiUTh8VPXPXNYdVBoR) | 2:51 | 2022-01-04 | 2022-06-21 |
 | [Show Me Love](https://open.spotify.com/track/0MiKO3HIvUreM5Tn986NGq) | [Fortu & Mendoza](https://open.spotify.com/artist/1Hxlo5vn0d4y63L6C0kxex) | [Show Me Love](https://open.spotify.com/album/2g2SBkcTs9xneesZOBOimD) | 3:18 | 2022-01-04 | 2022-07-29 |
 | [Show Me Love \- Kryder & Tom Staar Remix](https://open.spotify.com/track/6iplImDoHCSM74kGVVKARL) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Kimberly Anne](https://open.spotify.com/artist/3dfslm6CkJXlsvGSQxGgxt), [Kryder](https://open.spotify.com/artist/4GEuI6dz6nB4E7qYgdnJBL), [Tom Staar](https://open.spotify.com/artist/0iSYvHKAdhWVdZkS1PYK3u) | [Show Me Love \(Remixes 2\)](https://open.spotify.com/album/3Lyu7NctI2QfKiO6eLHjsb) | 4:38 | 2022-01-04 | 2022-07-17 |

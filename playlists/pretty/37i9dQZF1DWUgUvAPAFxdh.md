@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgUvAPAFxdh.md) - [plain]
 
 > The story of Cal Kestis continues in Star Wars Jedi: Survivor, a third person galaxy\-spanning action\-adventure game from Respawn Entertainment, developed in collaboration with Lucasfilm Games.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,252 likes - 59 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,425 likes - 59 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgUvAPAFxdh.md) - [plain]
 | 32 | [Desert Ruins](https://open.spotify.com/track/6RttMjcOBklrgWxIguM59X) | [Stephen Barton](https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk), [Gordy Haab](https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa) | [Star Wars Jedi: Survivor \(Original Video Game Soundtrack\)](https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741) | 4:59 |
 | 33 | [The Ancients](https://open.spotify.com/track/4b9Nev8sOS9XjrsXmYM6Wc) | [Stephen Barton](https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk), [Gordy Haab](https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa) | [Star Wars Jedi: Survivor \(Original Video Game Soundtrack\)](https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741) | 3:52 |
 | 34 | [Into the Storm](https://open.spotify.com/track/27IUc1SIMY1vIFpHGfSJO4) | [Stephen Barton](https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk), [Gordy Haab](https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa) | [Star Wars Jedi: Survivor \(Original Video Game Soundtrack\)](https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741) | 5:22 |
-| 35 | [Fields of Dusk \- Orchestral Version](https://open.spotify.com/track/4zDOsDzhepxaCHzDiMVBEJ) | [Tamuz Dekel](https://open.spotify.com/artist/2qro5TGvNZmeUEB1Rce5H1), [Offir Benjaminov](https://open.spotify.com/artist/0Rj7Rx1KUdSAVeh2xth2mV), [Dan Mayo](https://open.spotify.com/artist/0eVbdzTTWTCvJkwrER5veb) | [Star Wars Jedi: Survivor \(Original Video Game Soundtrack\)](https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741) | 4:41 |
+| 35 | [Fields of Dusk \- Orchestral Version](https://open.spotify.com/track/4zDOsDzhepxaCHzDiMVBEJ) | [TATRAN](https://open.spotify.com/artist/3gzgB8WFPLlgpn03piQ5pB) | [Star Wars Jedi: Survivor \(Original Video Game Soundtrack\)](https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741) | 4:41 |
 | 36 | [Campfire](https://open.spotify.com/track/01mFSzxDrPTIuEpxumXljp) | [Stephen Barton](https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk), [Gordy Haab](https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa) | [Star Wars Jedi: Survivor \(Original Video Game Soundtrack\)](https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741) | 3:13 |
 | 37 | [The Narkis Anchorites](https://open.spotify.com/track/120y5HBCa6RNMkZuo2m90o) | [Stephen Barton](https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk), [Gordy Haab](https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa) | [Star Wars Jedi: Survivor \(Original Video Game Soundtrack\)](https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741) | 4:04 |
 | 38 | [Unforgiving Sands](https://open.spotify.com/track/4gcqLodO5yal5YLaSWNRfP) | [Stephen Barton](https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk), [Gordy Haab](https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa) | [Star Wars Jedi: Survivor \(Original Video Game Soundtrack\)](https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741) | 8:02 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgUvAPAFxdh.md) - [plain]
 | 58 | [Through Darkness](https://open.spotify.com/track/6Q2SOb3ZVThGFOFKEsOFhb) | [Stephen Barton](https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk), [Gordy Haab](https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa) | [Star Wars Jedi: Survivor \(Original Video Game Soundtrack\)](https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741) | 5:35 |
 | 59 | [Cold Dawn](https://open.spotify.com/track/1qbr7BPoNtScCHrAbdkvKg) | [Stephen Barton](https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk), [Gordy Haab](https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa) | [Star Wars Jedi: Survivor \(Original Video Game Soundtrack\)](https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741) | 3:32 |
 
-Snapshot ID: `MCxiZTcwNzU1YTExZDk2MTllMWZiNDI1NDlmNGIxNTdlMDA2Nzg0NDk4`
+Snapshot ID: `MCxkY2U2MzdjMGQ4N2JmOWVkNWIyN2NhOGEzNGYwZTFlMmM5YWU3ODVl`

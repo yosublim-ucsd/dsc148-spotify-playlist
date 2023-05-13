@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-604 songs - 1 day 23 hr 52 min
+605 songs - 1 day 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,10 +430,11 @@
 | [Satin Doll](https://open.spotify.com/track/08KRFHK8w57Js5GZZjamll) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Nights Of Ballads & Blues](https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba) | 5:39 | 2022-10-27 | 2023-03-08 |
 | [Save Your Love For Me](https://open.spotify.com/track/4ur0Fd4coSwWtP8MWpkjR9) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 2:44 | 2023-01-03 |  |
 | [Say It \(Over And Over Again\)](https://open.spotify.com/track/016HKF7A4O7tatoJ9BgZM1) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads \(Deluxe Edition \- Rudy Van Gelder Remaster\)](https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt) | 4:15 | 2022-10-27 |  |
+| [Scrapple From The Apple](https://open.spotify.com/track/7flQESHoCoDzirWF4IkKGq) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Jazz Masters](https://open.spotify.com/album/3kxHhea3gA46uP2ylxbzQt) | 2:41 | 2023-05-09 |  |
 | [Search For Peace](https://open.spotify.com/track/4qRJ7ZJyfzchEd2fjle7Bz) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [The Real McCoy \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX) | 6:32 | 2022-10-27 |  |
 | [Senor Mouse](https://open.spotify.com/track/6linlPbVWEecMEMfNcul1e) | [Gary Burton](https://open.spotify.com/artist/4iovNkf44dsELmo3E7XSKX), [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Crystal Silence](https://open.spotify.com/album/1bvhjpp45aO2i1d7kjbsjh) | 6:17 | 2022-10-27 |  |
 | [Sideways](https://open.spotify.com/track/5iSawMqnY9rgPkUHhSvyNT) | [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Sideways](https://open.spotify.com/album/0nd4ki7GPhLrH5MjjdP7eP) | 4:51 | 2022-10-27 |  |
-| [Simplicity](https://open.spotify.com/track/2R1vQwYTC0sl93C6oyVuHC) | [Edward Simon](https://open.spotify.com/artist/0FAC6FNPb4LsY5uyp0xTWF) | [25 Years](https://open.spotify.com/album/4GDYdHheKfIOBMjqOgTK6k) | 5:09 | 2022-10-27 |  |
+| [Simplicity](https://open.spotify.com/track/2R1vQwYTC0sl93C6oyVuHC) | [Edward Simon](https://open.spotify.com/artist/0FAC6FNPb4LsY5uyp0xTWF) | [25 Years](https://open.spotify.com/album/4GDYdHheKfIOBMjqOgTK6k) | 5:09 | 2022-10-27 | 2023-05-13 |
 | [Since I Fell For You \- Rudy Van Gelder Edition / 2007 / Digital Remaster](https://open.spotify.com/track/6MXrGG7nff0FXBQJa5UF9P) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Candy \(Remastered\)](https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL) | 5:39 | 2022-10-27 |  |
 | [Sing, Sing, Sing](https://open.spotify.com/track/61znp1Iy11bdJ2YAbwaqw7) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [Ken Burns Jazz\-Benny Goodman](https://open.spotify.com/album/2fIAk4u4vd8yy8th8ZSlbS) | 8:40 | 2022-10-27 |  |
 | [Skating In Central Park](https://open.spotify.com/track/1cpANF6zMBoFoxkoIjZHjv) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Undercurrent](https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ) | 5:24 | 2022-10-27 |  |

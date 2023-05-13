@@ -1,12 +1,12 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 989001,
+  "num_followers": 989196,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDc0YzdjZWI4YmYxODUyNjRjYWRmYjU4YjlhYWUyMjBiMDMxODM0",
+  "snapshot_id": "MCwxMWMzYTU5NDMyMmJmN2IxMjkzNTcyMTRhZmQ3OGJhOTIwMjQ2Y2Iw",
   "tracks": [
     {
       "added_at": "2023-05-09 12:04:22",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-05-09 12:04:22",
       "album": {
-        "name": "The Complete Commodore Recordings",
-        "url": "https://open.spotify.com/album/7zSWkh1YCGAo4zO7nje22z"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 194573,
-      "name": "As Time Goes By",
-      "url": "https://open.spotify.com/track/3lO4Z6BSp773vcovgYurHg"
-    },
-    {
-      "added_at": "2023-05-09 12:04:22",
-      "album": {
         "name": "Qui ?",
         "url": "https://open.spotify.com/album/70PEHw90vbLwoHMFBEbI3x"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 139506,
       "name": "For Me Formidable",
       "url": "https://open.spotify.com/track/7xx7mUGAPcMd6gGqHzoec9"
+    },
+    {
+      "added_at": "2023-05-09 12:04:22",
+      "album": {
+        "name": "The Complete Commodore Recordings",
+        "url": "https://open.spotify.com/album/7zSWkh1YCGAo4zO7nje22z"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 194573,
+      "name": "As Time Goes By",
+      "url": "https://open.spotify.com/track/3lO4Z6BSp773vcovgYurHg"
     },
     {
       "added_at": "2023-05-09 12:04:22",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-05-09 12:04:22",
       "album": {
-        "name": "This Time I'm Swingin'",
-        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 221413,
-      "name": "On The Street Where You Live - Remastered",
-      "url": "https://open.spotify.com/track/6qMMQzYTKabamnMPlCmfxb"
-    },
-    {
-      "added_at": "2023-05-09 12:04:22",
-      "album": {
         "name": "This Guy's In Love",
         "url": "https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy"
       },
@@ -483,18 +467,18 @@
     {
       "added_at": "2023-05-09 12:04:22",
       "album": {
-        "name": "When Harry Met Sally... Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
+        "name": "This Time I'm Swingin'",
+        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
       },
       "artists": [
         {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 158226,
-      "name": "It Had to Be You (Big Band and Vocals)",
-      "url": "https://open.spotify.com/track/58Znl2X9CgsghGUZrkEUr4"
+      "duration_ms": 221413,
+      "name": "On The Street Where You Live - Remastered",
+      "url": "https://open.spotify.com/track/6qMMQzYTKabamnMPlCmfxb"
     },
     {
       "added_at": "2023-05-09 12:04:22",
@@ -511,6 +495,22 @@
       "duration_ms": 211586,
       "name": "In the Mood",
       "url": "https://open.spotify.com/track/6dZKWYSx5YBIme4SfpIHJ0"
+    },
+    {
+      "added_at": "2023-05-09 12:04:22",
+      "album": {
+        "name": "When Harry Met Sally... Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 158226,
+      "name": "It Had to Be You (Big Band and Vocals)",
+      "url": "https://open.spotify.com/track/58Znl2X9CgsghGUZrkEUr4"
     },
     {
       "added_at": "2023-05-09 12:04:22",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-05-09 12:04:22",
       "album": {
-        "name": "The Manhattan Transfer",
-        "url": "https://open.spotify.com/album/2xpz9Rm7NSVyOGN5zBODNx"
-      },
-      "artists": [
-        {
-          "name": "The Manhattan Transfer",
-          "url": "https://open.spotify.com/artist/2dogRElUKV20C2khRHqjRc"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Tuxedo Junction",
-      "url": "https://open.spotify.com/track/3NMvVmKyjNGs91aSYje0RZ"
-    },
-    {
-      "added_at": "2023-05-09 12:04:22",
-      "album": {
         "name": "Comin' Home Baby",
         "url": "https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 144266,
       "name": "Putting on the Ritz",
       "url": "https://open.spotify.com/track/3XeLKdhrqMhozx8EDmyA0Y"
+    },
+    {
+      "added_at": "2023-05-09 12:04:22",
+      "album": {
+        "name": "The Manhattan Transfer",
+        "url": "https://open.spotify.com/album/2xpz9Rm7NSVyOGN5zBODNx"
+      },
+      "artists": [
+        {
+          "name": "The Manhattan Transfer",
+          "url": "https://open.spotify.com/artist/2dogRElUKV20C2khRHqjRc"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Tuxedo Junction",
+      "url": "https://open.spotify.com/track/3NMvVmKyjNGs91aSYje0RZ"
     },
     {
       "added_at": "2023-05-09 12:04:22",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-05-09 12:04:22",
       "album": {
-        "name": "Your Songs",
-        "url": "https://open.spotify.com/album/74MmrgGXDvEZepbjCDCi8r"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 202226,
-      "name": "First Time Ever I Saw Your Face",
-      "url": "https://open.spotify.com/track/7hoWdQmgjEFAj1x0iNLpMd"
-    },
-    {
-      "added_at": "2023-05-09 12:04:22",
-      "album": {
         "name": "To Ella With Love",
         "url": "https://open.spotify.com/album/6glj5wRmAtkj3pgDUkZstz"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 166960,
       "name": "Let's Fall In Love",
       "url": "https://open.spotify.com/track/1b9gNirS4wUJwYg8X8l9jK"
+    },
+    {
+      "added_at": "2023-05-09 12:04:22",
+      "album": {
+        "name": "Your Songs",
+        "url": "https://open.spotify.com/album/74MmrgGXDvEZepbjCDCi8r"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "First Time Ever I Saw Your Face",
+      "url": "https://open.spotify.com/track/7hoWdQmgjEFAj1x0iNLpMd"
     },
     {
       "added_at": "2023-05-09 12:04:22",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-05-09 12:04:22",
       "album": {
-        "name": "Songs from the Heart (Remastered 2013)",
-        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 155689,
-      "name": "They Didn't Believe Me",
-      "url": "https://open.spotify.com/track/0KUSWy4fXCufHpuvvzAsuH"
-    },
-    {
-      "added_at": "2023-05-09 12:04:22",
-      "album": {
         "name": "The Big Band Era , Volume 1 - The Passing Of An Era",
         "url": "https://open.spotify.com/album/2XB8gzQ41ScpEhwY6vgdOH"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 187453,
       "name": "Rusty Dusty Blues",
       "url": "https://open.spotify.com/track/1ywNBYgKTyu9VpNGkeEbmG"
+    },
+    {
+      "added_at": "2023-05-09 12:04:22",
+      "album": {
+        "name": "Songs from the Heart (Remastered 2013)",
+        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 155689,
+      "name": "They Didn't Believe Me",
+      "url": "https://open.spotify.com/track/0KUSWy4fXCufHpuvvzAsuH"
     },
     {
       "added_at": "2023-05-09 12:04:22",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-05-09 12:04:22",
       "album": {
-        "name": "Like Someone In Love",
-        "url": "https://open.spotify.com/album/5YKGBdugeGn1zMTKnYCnWP"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "There's A Lull In My Life",
-      "url": "https://open.spotify.com/track/4Op0c1VSCGMsGX47Mh8wj8"
-    },
-    {
-      "added_at": "2023-05-09 12:04:22",
-      "album": {
         "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
         "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 170506,
       "name": "Two Sleepy People",
       "url": "https://open.spotify.com/track/6Q1VnirK7zQeJs37siT92V"
+    },
+    {
+      "added_at": "2023-05-09 12:04:22",
+      "album": {
+        "name": "Like Someone In Love",
+        "url": "https://open.spotify.com/album/5YKGBdugeGn1zMTKnYCnWP"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "There's A Lull In My Life",
+      "url": "https://open.spotify.com/track/4Op0c1VSCGMsGX47Mh8wj8"
     },
     {
       "added_at": "2023-05-09 12:04:22",

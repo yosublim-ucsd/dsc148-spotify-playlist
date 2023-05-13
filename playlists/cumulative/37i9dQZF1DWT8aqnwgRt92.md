@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-671 songs - 1 day 18 hr 42 min
+672 songs - 1 day 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,6 +346,7 @@
 | [TENTO](https://open.spotify.com/track/69Zbz5sTyrvn3v7vIyWYGW) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [OPENING THEME FROM TV SERIES ”IS IT WRONG TO TRY TO PICK UP GIRLS IN A DUNGEON? IV” TENTO](https://open.spotify.com/album/4aMD2s6KojE4jFNKEhfSID) | 3:40 | 2022-08-23 | 2022-10-19 |
 | [THE ENTERTAINMENT](https://open.spotify.com/track/19LKgWBrXVo5J9bWqJpmGZ) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [THE ENTERTAINMENT](https://open.spotify.com/album/5yVWYuYdwGNCp4fnzsuGOP) | 3:26 | 2022-10-27 | 2022-11-03 |
 | [THE ENTERTAINMENT](https://open.spotify.com/track/19jVz4hYk0kaDOMLEGNrGz) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [THE ENTERTAINMENT](https://open.spotify.com/album/5ikHcTlm4IV9j3mNwlOXl9) | 3:26 | 2022-11-02 | 2022-12-16 |
+| [The Planet](https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Planet](https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5) | 2:58 | 2023-05-11 |  |
 | [THE SHAPE OF](https://open.spotify.com/track/6yLpHWOoiT3lWPnZIXk1la) | [安月名莉子](https://open.spotify.com/artist/7ChJuYuw9pM8MqaZOAmvHX) | [OPENING THEME FROM TV SERIES MADE IN ABYSS ”THE GOLDEN CITY OF THE SCORCHING SUN” THE SHAPE OF](https://open.spotify.com/album/0tbPNaXiTK7G5V4LaZIjBQ) | 3:32 | 2022-08-23 | 2022-10-09 |
 | [TOMBI](https://open.spotify.com/track/7nnACrn6f6JsKskLYKq1Cl) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [TOMBI](https://open.spotify.com/album/1rl1ocAMAPeMfHuFpZj9vF) | 3:26 | 2023-01-05 | 2023-04-26 |
 | [Tot Musica](https://open.spotify.com/track/5hL1l3xsH0ZyKl8yUI6woj) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:15 | 2022-08-09 | 2022-08-17 |

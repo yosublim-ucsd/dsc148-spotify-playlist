@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-990 songs - 2 day 5 hr 56 min
+991 songs - 2 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Alone \- Official Music](https://open.spotify.com/track/6uaI6AHz8TN30zgDw2nuKi) | [InstKrox](https://open.spotify.com/artist/64e1ayZahQAq7W5CcDCYka), [Fabio Xhaja](https://open.spotify.com/artist/5GqcGgjxuRMgDOAZXGPeTq) | [Alone \(Mp3\)](https://open.spotify.com/album/5eXCvxFmfNKA9cH2HaoqY9) | 2:01 | 2022-10-09 | 2022-10-11 |
 | [AMG](https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [AMG](https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O) | 2:54 | 2023-04-22 | 2023-05-03 |
 | [AMIGA DATE CUENTA](https://open.spotify.com/track/44gzTwIFpKyyRPOTRBUbKX) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [AMIGA DATE CUENTA](https://open.spotify.com/album/15e00RGSgvmgPfovIgtCAa) | 2:17 | 2022-10-04 | 2022-10-13 |
+| [Amiri Jeans](https://open.spotify.com/track/1kavadKZM6Ah01m1rFCU0o) | [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB), [King Fly](https://open.spotify.com/artist/3bfahxMCLID17MMlD2DfGc) | [La Luz Es Única](https://open.spotify.com/album/1DsJVfcNlWH0W1Ie4QxBWB) | 2:16 | 2023-05-12 |  |
 | [Ando Enfocado](https://open.spotify.com/track/1Gm2qMRuxnuqnM62xyp89d) | [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ando Enfocado](https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq) | 3:04 | 2023-04-21 | 2023-05-01 |
 | [Andrea](https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 5:39 | 2022-05-31 | 2022-07-14 |
 | [ANTAGONISTA](https://open.spotify.com/track/25MXhQD6t6jkWhYcuGBcjt) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [ANTAGONISTA](https://open.spotify.com/album/7ofQ6GsdNL01Kki0GVaNrZ) | 2:12 | 2023-01-26 | 2023-02-20 |
@@ -870,7 +871,7 @@
 | [Tinnitus \(Wanna be a rock\)](https://open.spotify.com/track/0f0SbtoKGe41cX5LzlnX6X) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 2:37 | 2023-02-21 | 2023-03-10 |
 | [Titles](https://open.spotify.com/track/36qn2bFfZzUwM6eIv2XOc9) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Chariots Of Fire \(Original Motion Picture Soundtrack / Remastered\)](https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2) | 3:33 | 2022-05-22 | 2022-05-28 |
 | [Tití Me Preguntó](https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:03 | 2022-05-31 | 2022-08-15 |
-| [TNT](https://open.spotify.com/track/419xono1KqiWbVCu5bzSd8) | [LA FIRMA](https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q), [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6), [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [COLABORACIONES](https://open.spotify.com/album/6BvUu9MCrLMkeTQa5lDuyU) | 2:05 | 2023-05-09 |  |
+| [TNT](https://open.spotify.com/track/419xono1KqiWbVCu5bzSd8) | [LA FIRMA](https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q), [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6), [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [COLABORACIONES](https://open.spotify.com/album/6BvUu9MCrLMkeTQa5lDuyU) | 2:05 | 2023-05-09 | 2023-05-13 |
 | [Todo Mentira](https://open.spotify.com/track/5xiJDUW4WvM7FpYkq40d4s) | [Maka](https://open.spotify.com/artist/4lHAjTCvXGu8QIM3cEe93m) | [Todo Mentira](https://open.spotify.com/album/6DnLVVNxEbvqpThiPxWwk9) | 3:12 | 2023-05-08 |  |
 | [Tom's Diner](https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m), [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Tom's Diner](https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg) | 4:29 | 2022-04-15 | 2022-05-19 |
 | [Tomando Lean \(Puras de 25\)](https://open.spotify.com/track/6dj8LJdM6zQZSPJAluTocf) | [King Yeezus](https://open.spotify.com/artist/5J2FyVWb3lcl6cCww7ZFRp) | [Tomando Lean \(Puras de 25\)](https://open.spotify.com/album/1dMHTDDTYyFt36Dhe4l5jt) | 2:30 | 2023-01-19 | 2023-02-02 |

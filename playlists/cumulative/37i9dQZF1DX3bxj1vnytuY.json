@@ -1318,7 +1318,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 304426,
       "name": "Endless History",
       "url": "https://open.spotify.com/track/5OhycGO6E8HwsbtOPeCRxI"
@@ -2626,6 +2626,24 @@
       "duration_ms": 222366,
       "name": "Melancol\u00eda",
       "url": "https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH"
+    },
+    {
+      "album": {
+        "name": "The Lost Tribe",
+        "url": "https://open.spotify.com/album/35E8qTvXvEBKnUIeZPbPff"
+      },
+      "artists": [
+        {
+          "name": "Safar (FR)",
+          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386000,
+      "name": "Memelles",
+      "url": "https://open.spotify.com/track/2SWvbOmiI6sa9WVbiIk4Cm"
     },
     {
       "album": {

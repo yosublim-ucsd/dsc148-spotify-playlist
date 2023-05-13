@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Christian Nodal",
-  "num_followers": 66140,
+  "num_followers": 66180,
   "original_name": "Mariachi 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzUzZGI1YTg2MWJhZmU1YTZlOGFiOGIzZTJlZTc4OWIxMGU3ODk2",
+  "snapshot_id": "MCw1ZjZlYmI4MjgzYmUxYzBiN2IwMjQ1NWU0OWNhNWEwOTlhMzc3YzVi",
   "tracks": [
     {
       "added_at": "2023-05-01 17:02:47",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-05-01 17:02:47",
       "album": {
+        "name": "A la Medida",
+        "url": "https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 270943,
+      "name": "Hasta Que Llegue el Alba",
+      "url": "https://open.spotify.com/track/7kRUOKGmAG7wNxMy9tFQS7"
+    },
+    {
+      "added_at": "2023-05-01 17:02:47",
+      "album": {
         "name": "Cosas Del Diablo",
         "url": "https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 176146,
       "name": "Con Un Botecito A Pecho",
       "url": "https://open.spotify.com/track/7mVBmaeIkZo0Vm2zddlszz"
-    },
-    {
-      "added_at": "2023-05-01 17:02:47",
-      "album": {
-        "name": "A la Medida",
-        "url": "https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 270943,
-      "name": "Hasta Que Llegue el Alba",
-      "url": "https://open.spotify.com/track/7kRUOKGmAG7wNxMy9tFQS7"
     },
     {
       "added_at": "2023-05-01 17:02:47",
@@ -651,22 +651,18 @@
     {
       "added_at": "2023-05-01 17:02:47",
       "album": {
-        "name": "La Jugada",
-        "url": "https://open.spotify.com/album/0BHbOtxdDJrsNYIYNZpvNj"
+        "name": "De Pura Rabia",
+        "url": "https://open.spotify.com/album/3aKCApnTz9ESmKTUenfojX"
       },
       "artists": [
         {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        },
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
         }
       ],
-      "duration_ms": 233066,
-      "name": "La Jugada",
-      "url": "https://open.spotify.com/track/1wpYlTOjnNjg4NFOSfEZAQ"
+      "duration_ms": 187397,
+      "name": "De Pura Rabia",
+      "url": "https://open.spotify.com/track/4bjhTbUKjfxODbAgUNAwHT"
     },
     {
       "added_at": "2023-05-01 17:02:47",
@@ -719,18 +715,22 @@
     {
       "added_at": "2023-05-01 17:02:47",
       "album": {
-        "name": "De Pura Rabia",
-        "url": "https://open.spotify.com/album/3aKCApnTz9ESmKTUenfojX"
+        "name": "La Jugada",
+        "url": "https://open.spotify.com/album/0BHbOtxdDJrsNYIYNZpvNj"
       },
       "artists": [
         {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 187397,
-      "name": "De Pura Rabia",
-      "url": "https://open.spotify.com/track/4bjhTbUKjfxODbAgUNAwHT"
+      "duration_ms": 233066,
+      "name": "La Jugada",
+      "url": "https://open.spotify.com/track/1wpYlTOjnNjg4NFOSfEZAQ"
     },
     {
       "added_at": "2023-05-01 17:02:47",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-05-01 17:02:47",
       "album": {
-        "name": "No Creo Merecerte",
-        "url": "https://open.spotify.com/album/2BgF94FXZWA2vC1s4ZDiPh"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 185853,
-      "name": "No Creo Merecerte",
-      "url": "https://open.spotify.com/track/3f5C7I7llELCRZ2mQ4qyG3"
-    },
-    {
-      "added_at": "2023-05-01 17:02:47",
-      "album": {
         "name": "Pobre Coraz\u00f3n",
         "url": "https://open.spotify.com/album/1wKf4J6fA55pKnRRXHZU9c"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 198102,
       "name": "Pobre Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC"
+    },
+    {
+      "added_at": "2023-05-01 17:02:47",
+      "album": {
+        "name": "No Creo Merecerte",
+        "url": "https://open.spotify.com/album/2BgF94FXZWA2vC1s4ZDiPh"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 185853,
+      "name": "No Creo Merecerte",
+      "url": "https://open.spotify.com/track/3f5C7I7llELCRZ2mQ4qyG3"
     },
     {
       "added_at": "2023-05-01 17:02:47",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2023-05-01 17:02:47",
       "album": {
+        "name": "No Me Deja De Doler",
+        "url": "https://open.spotify.com/album/3TbFDaU2et83hjIMXpeBlJ"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        },
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        }
+      ],
+      "duration_ms": 157946,
+      "name": "No Me Deja De Doler",
+      "url": "https://open.spotify.com/track/2P77G1ApHDmnOzEbk8C6jn"
+    },
+    {
+      "added_at": "2023-05-01 17:02:47",
+      "album": {
         "name": "Una Buena Ranchera",
         "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 164054,
       "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
       "url": "https://open.spotify.com/track/4UsBDxqUj3ar1FcUt2kjN4"
-    },
-    {
-      "added_at": "2023-05-01 17:02:47",
-      "album": {
-        "name": "No Me Deja De Doler",
-        "url": "https://open.spotify.com/album/3TbFDaU2et83hjIMXpeBlJ"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        },
-        {
-          "name": "Helen Ochoa",
-          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
-        }
-      ],
-      "duration_ms": 157946,
-      "name": "No Me Deja De Doler",
-      "url": "https://open.spotify.com/track/2P77G1ApHDmnOzEbk8C6jn"
     },
     {
       "added_at": "2023-05-01 17:02:47",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-05-01 17:02:47",
       "album": {
-        "name": "A Escondidas",
-        "url": "https://open.spotify.com/album/0eopjOoHMQwmmx1dbz3hSE"
-      },
-      "artists": [
-        {
-          "name": "Luisito Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P"
-        }
-      ],
-      "duration_ms": 201288,
-      "name": "A Escondidas",
-      "url": "https://open.spotify.com/track/094KjPaocLCA5XasI5vpHq"
-    },
-    {
-      "added_at": "2023-05-01 17:02:47",
-      "album": {
         "name": "La Loter\u00eda",
         "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 140662,
       "name": "Pinocho",
       "url": "https://open.spotify.com/track/1HbgsUNqjjMO6okGRkpS2L"
+    },
+    {
+      "added_at": "2023-05-01 17:02:47",
+      "album": {
+        "name": "A Escondidas",
+        "url": "https://open.spotify.com/album/0eopjOoHMQwmmx1dbz3hSE"
+      },
+      "artists": [
+        {
+          "name": "Luisito Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P"
+        }
+      ],
+      "duration_ms": 201288,
+      "name": "A Escondidas",
+      "url": "https://open.spotify.com/track/094KjPaocLCA5XasI5vpHq"
     },
     {
       "added_at": "2023-05-01 17:02:47",

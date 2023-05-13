@@ -3569,6 +3569,24 @@
     },
     {
       "album": {
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204600,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
+    },
+    {
+      "album": {
         "name": "Long Way Home",
         "url": "https://open.spotify.com/album/2wTI2Oc4lMH7NEPeAx6mRo"
       },
@@ -3780,7 +3798,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 194498,
       "name": "Lunar Eclipse",
       "url": "https://open.spotify.com/track/5LeKKDF7i65mQ3NIW8mkwP"
@@ -6415,6 +6433,24 @@
     },
     {
       "album": {
+        "name": "The Sweetest Thing",
+        "url": "https://open.spotify.com/album/5BIpgoq1dFvuTLcKRDbD09"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275070,
+      "name": "The Sweetest Thing",
+      "url": "https://open.spotify.com/track/4jDAQRLExhzT6CEmo0nucu"
+    },
+    {
+      "album": {
         "name": "Escapism. / The Thrill Is Gone.",
         "url": "https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb"
       },
@@ -6644,7 +6680,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 357087,
       "name": "Tip Of The Flame - 12\" Disco Mix",
       "url": "https://open.spotify.com/track/67DpsCMB560OVTv3EfztzW"

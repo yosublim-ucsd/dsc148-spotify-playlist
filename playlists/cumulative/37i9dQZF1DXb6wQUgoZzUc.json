@@ -84,7 +84,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 366613,
       "name": "3G (feat. Jon Z, Don Chezina, Chencho Corleone & Myke Towers) - Remix",
       "url": "https://open.spotify.com/track/6dyUkkcyYuDiHOwIRXYOJm"
@@ -507,6 +507,28 @@
     },
     {
       "album": {
+        "name": "Baby Gangster",
+        "url": "https://open.spotify.com/album/27v22z3md6hWc4MR4SkODS"
+      },
+      "artists": [
+        {
+          "name": "Selected Music",
+          "url": "https://open.spotify.com/artist/4JfavcBZEpY1vMW8Xqcc6y"
+        },
+        {
+          "name": "KarloH",
+          "url": "https://open.spotify.com/artist/0QOlyFDAVDrZbnfS9zUQNk"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158622,
+      "name": "Baby Gangster",
+      "url": "https://open.spotify.com/track/6CcpvvC2SawPD2VRG7qJMh"
+    },
+    {
+      "album": {
         "name": "BABY OTAKU",
         "url": "https://open.spotify.com/album/7HUH0lFoay2KzGEZqGp55G"
       },
@@ -812,7 +834,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 206865,
       "name": "BLINDADO",
       "url": "https://open.spotify.com/track/7kDmN12XizlAvWraA6F08X"
@@ -856,6 +878,28 @@
       "duration_ms": 201280,
       "name": "CAIRO",
       "url": "https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1"
+    },
+    {
+      "album": {
+        "name": "BLACK YAYO VOL 1",
+        "url": "https://open.spotify.com/album/4UPMJzwSy8OwRYmV9dDbyh"
+      },
+      "artists": [
+        {
+          "name": "Bryartz",
+          "url": "https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL"
+        },
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185714,
+      "name": "Calipso",
+      "url": "https://open.spotify.com/track/5ZIHevOd1uUhVsLOcHDtgk"
     },
     {
       "album": {
@@ -956,7 +1000,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 184421,
       "name": "Castigo",
       "url": "https://open.spotify.com/track/5WwerOK3KqTcUEqr6m9CNx"
@@ -1868,7 +1912,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 221407,
       "name": "Ella",
       "url": "https://open.spotify.com/track/66S2z95FN3nUAr9S1gUIsp"
@@ -1894,7 +1938,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-21",
+      "date_removed": null,
       "duration_ms": 212035,
       "name": "Ella Quiere Hmm... Haa... Hmm... - Yayo Remix",
       "url": "https://open.spotify.com/track/0QN1rkBy3D6j9Yw3Czlcsc"
@@ -2124,7 +2168,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 183182,
       "name": "Frikitona",
       "url": "https://open.spotify.com/track/5JDjxO6F0RrLkzAdIOG6P3"
@@ -2700,7 +2744,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 185840,
       "name": "Jeans",
       "url": "https://open.spotify.com/track/3GtnId3Cm1Xa6joCj08nzW"
@@ -3276,7 +3320,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 179349,
       "name": "Legendaria",
       "url": "https://open.spotify.com/track/5bARvxCD7HTJXsBLN7UhbZ"
@@ -3336,7 +3380,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 352093,
       "name": "LEYENDAS",
       "url": "https://open.spotify.com/track/5vQy9fwVJTeLsaX9IOpCcp"
@@ -3708,7 +3752,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 202320,
       "name": "Me Fije",
       "url": "https://open.spotify.com/track/6Et5KimMg3IXwD6lJPGmQw"
@@ -3908,6 +3952,28 @@
       "duration_ms": 202478,
       "name": "Mi Gata",
       "url": "https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV"
+    },
+    {
+      "album": {
+        "name": "Millonarios Juntos",
+        "url": "https://open.spotify.com/album/7eIXPgbyRIyGMrEao8zsPU"
+      },
+      "artists": [
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182779,
+      "name": "Millonarios Juntos",
+      "url": "https://open.spotify.com/track/4g79mlIRCMtOvi1ZJVpq3t"
     },
     {
       "album": {
@@ -4116,7 +4182,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 266835,
       "name": "M\u00e1s de Ti",
       "url": "https://open.spotify.com/track/0DrpPAfbRHtPkBgfTZhTM9"
@@ -4934,7 +5000,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 221646,
       "name": "Peli-Culeo - Remix",
       "url": "https://open.spotify.com/track/0fHpcRj2Jog7fHYB6DbOZF"
@@ -5274,7 +5340,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-07",
+      "date_removed": null,
       "duration_ms": 202373,
       "name": "Ponte Pa' Mi",
       "url": "https://open.spotify.com/track/4C6BlqqMwjFzOXzqpTeoWR"
@@ -5846,7 +5912,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 160000,
       "name": "Salvaje",
       "url": "https://open.spotify.com/track/0OVJibv9jDMMhMfnqUDLka"
@@ -6176,7 +6242,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 163259,
       "name": "Sueltas",
       "url": "https://open.spotify.com/track/6PkiSdWbhsuFP9qaFyu3CA"
@@ -6408,7 +6474,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 211436,
       "name": "Te Olvido",
       "url": "https://open.spotify.com/track/1ycIhjQ4fQp2WqNFpSDEcX"
@@ -6683,6 +6749,24 @@
     },
     {
       "album": {
+        "name": "Toma",
+        "url": "https://open.spotify.com/album/4cbxkM3zQSH8nGm9KQaIwF"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162330,
+      "name": "Toma",
+      "url": "https://open.spotify.com/track/48iWXYdWMFNenABULLtopW"
+    },
+    {
+      "album": {
         "name": "Temporada de Reggaet\u00f3n",
         "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
       },
@@ -6698,6 +6782,24 @@
       "duration_ms": 146815,
       "name": "TOP 5",
       "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"
+    },
+    {
+      "album": {
+        "name": "Toretto (FAST X / Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4YHGjIgKtP3QKRA11AhfJ1"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150517,
+      "name": "Toretto",
+      "url": "https://open.spotify.com/track/2LhnVbBHUWyrDQ4m1LCPvo"
     },
     {
       "album": {
@@ -6942,7 +7044,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 178789,
       "name": "T\u00fa Me Mientes",
       "url": "https://open.spotify.com/track/6cjXpb4vraCUSSZA7tHtWb"
@@ -7140,7 +7242,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 186693,
       "name": "VACAXIONES",
       "url": "https://open.spotify.com/track/6DdC4I8ENm7zHH9Jy9pFg4"
@@ -7202,7 +7304,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 195300,
       "name": "Verano",
       "url": "https://open.spotify.com/track/1wf5TOiS5FniiUFoXG98zd"
@@ -7292,7 +7394,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 206639,
       "name": "Volar",
       "url": "https://open.spotify.com/track/5pQGLii6TY6nUzuBM5KXhs"
@@ -7384,7 +7486,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 187636,
       "name": "Wuapa",
       "url": "https://open.spotify.com/track/1GXZJCOFcyGpvUEqq7qxiY"

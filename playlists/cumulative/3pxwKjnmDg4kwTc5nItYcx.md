@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Budjerah
 
-687 songs - 1 day 13 hr 2 min
+689 songs - 1 day 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,6 +410,7 @@
 | [More](https://open.spotify.com/track/3mS7QkIx75iVG9JjXzKfIz) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [More](https://open.spotify.com/album/6whNqO63IXyrbpV6iZ1MBL) | 3:48 | 2021-09-04 |  |
 | [More Hearts Than Mine](https://open.spotify.com/track/0LcspVKJxhEQQSvVMiTPWz) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [More Hearts Than Mine](https://open.spotify.com/album/4VMYwWFqX9vUv9otWLRRF5) | 3:34 | 2019-08-27\* | 2019-11-11 |
 | [More Than Friends \(with HONNE\)](https://open.spotify.com/track/6Bxon4eYGOOwxXtSX9lhQo) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [More Than Friends \(with HONNE\)](https://open.spotify.com/album/6wfpyPte01RTckVpV3W1eq) | 4:09 | 2020-11-20 |  |
+| [Mountain](https://open.spotify.com/track/0uIjaOUqCKav7yJU4Lj2hB) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Mountain](https://open.spotify.com/album/3iRiuWFQaB6J31fqTl0oiw) | 2:49 | 2023-05-12 |  |
 | [move!](https://open.spotify.com/track/39rYdh4MkbRdoA7jvMUYYN) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [wanna take this downtown?](https://open.spotify.com/album/3HLwiAL4LbHVwQaVCl3tnR) | 2:36 | 2019-08-27\* | 2019-11-11 |
 | [Must Have Been The Wind](https://open.spotify.com/track/1PsMieVYFXrSeXMxuE2SbG) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Must Have Been The Wind](https://open.spotify.com/album/0A5GgdYeE7UJDnBeXuZWma) | 2:59 | 2019-08-27\* | 2020-02-12 |
 | [My Bad](https://open.spotify.com/track/5ql22UbzPOJrDSjVeTvX6E) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [My Bad](https://open.spotify.com/album/7KNGS1OOy0u8NHQxY553D7) | 2:57 | 2021-03-19 |  |
@@ -615,6 +616,7 @@
 | [The Wrong Ones](https://open.spotify.com/track/6Ngm2VhQna3DJGSYf5ePVG) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [The Wrong Ones](https://open.spotify.com/album/44uWdDSJjRmiB0nWbth1jO) | 2:47 | 2019-11-22 | 2020-05-19 |
 | [Therapy](https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Therapy](https://open.spotify.com/album/58SF72zVryflAg0WvepRzb) | 3:12 | 2023-02-10 |  |
 | [There's Only One \(feat\. Genesis Owusu\)](https://open.spotify.com/track/3FypeFOz4MXOMaC20j1mBg) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [There's Only One \(feat\. Genesis Owusu\)](https://open.spotify.com/album/3cF60RkN3triEWe9tt5ARt) | 3:09 | 2022-02-18 |  |
+| [These Are The Days](https://open.spotify.com/track/3aJs1TqxQh1Y2SNL8Vt1ZA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 3:50 | 2023-05-12 |  |
 | [These Days](https://open.spotify.com/track/4AJFUuMaJFsRlz1C4GzAWk) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [These Days](https://open.spotify.com/album/1WzqNwKJqMtMZA8rnWY1XS) | 3:23 | 2020-05-28 | 2021-05-12 |
 | [Think About It](https://open.spotify.com/track/1CkkV6YIEUTfxprPkg86Rh) | [Jim Junior](https://open.spotify.com/artist/31Xf3cuuJ63CRNoxbW3rdu) | [Think About It](https://open.spotify.com/album/5iTYPTP83OuJ7MfiQ9hhBe) | 3:32 | 2019-08-27\* | 2019-11-11 |
 | [Thinking Bout Me](https://open.spotify.com/track/2SUlt0qfsmE7lyUuSpKWcK) | [Cecily](https://open.spotify.com/artist/4wR8IGlAgXfIRFPUezlq6H) | [Thinking Bout Me](https://open.spotify.com/album/1t1LUPgT2V2ytlbNz7yNV8) | 2:56 | 2019-08-27\* | 2019-11-11 |

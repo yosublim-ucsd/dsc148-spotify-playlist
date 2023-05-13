@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: king isis
 
-897 songs - 2 day 3 hr 12 min
+900 songs - 2 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [Cowboy Boots](https://open.spotify.com/track/71jdngFJlIYfkwYZXHRQP1) | [Personal Trainer](https://open.spotify.com/artist/7hA3k0nbR7qQhE6LrbdQrI) | [Cowboy Boots](https://open.spotify.com/album/7DcpreV9l4SVhit3cWhMBm) | 3:00 | 2021-08-27 | 2022-03-12 |
 | [Cowboy Killer](https://open.spotify.com/track/3WQuo1C5WhP15EBv9aXbQy) | [Varsity](https://open.spotify.com/artist/339XMxg3AyRbEfeIAlxB2c) | [Cowboy Killer](https://open.spotify.com/album/6GlVNhYfePusaOwiqbENkR) | 6:39 | 2023-03-03 | 2023-04-22 |
 | [Cowboy Nudes](https://open.spotify.com/track/4GBIZMasDFztSQfK0IrNh6) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Cowboy Nudes](https://open.spotify.com/album/04qJMoLGlPcBHGNt3RoEFG) | 2:50 | 2023-03-03 |  |
-| [Cowboys in the Dark](https://open.spotify.com/track/4chdbznSgQEiTsmKY1mKLh) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [AWAKE/ASLEEP](https://open.spotify.com/album/2SM92RVNoh8JWPf4cSc6iy) | 3:32 | 2023-03-03 |  |
+| [Cowboys in the Dark](https://open.spotify.com/track/4chdbznSgQEiTsmKY1mKLh) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [AWAKE/ASLEEP](https://open.spotify.com/album/2SM92RVNoh8JWPf4cSc6iy) | 3:32 | 2023-03-03 | 2023-05-13 |
 | [Crawl II](https://open.spotify.com/track/30mJq8ujEDX7Y3pUus8PUb) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Crawl II](https://open.spotify.com/album/3CTvjgbFrgEiv8dSm05M6k) | 3:15 | 2023-03-03 |  |
 | [Cross the Sea](https://open.spotify.com/track/1pRtM1cHkCBvGGgmIsBfj5) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Cross the Sea](https://open.spotify.com/album/5ScFaVUiLnexP71s2kXqPS) | 3:36 | 2022-07-29 | 2022-09-24 |
 | [Crush \- Stripped](https://open.spotify.com/track/0pvUUXfn0avFTZYOFVjPX4) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush \(Stripped\)](https://open.spotify.com/album/1Z4jaVCQECJE5qeOafvWsw) | 3:49 | 2021-10-02 | 2022-04-29 |
@@ -445,7 +445,7 @@
 | [im fine, thx 4 asking](https://open.spotify.com/track/4wIz4Lx7BFfGi8E7PzVipV) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [scales](https://open.spotify.com/album/1u6rGG6BDo8bvpcXfhkS8W) | 3:01 | 2023-03-31 |  |
 | [Immunity](https://open.spotify.com/track/1EQFnxBTDsUJhnFzEYOuLc) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [God Save The Animals](https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU) | 3:50 | 2022-09-23 | 2023-01-18 |
 | [in love](https://open.spotify.com/track/0jcDwzxkfzdRHLiVHiRQII) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [in love](https://open.spotify.com/album/09GS5ONXA0R6l8oPCTsyzl) | 2:32 | 2021-08-27 | 2022-04-18 |
-| [In My Drink](https://open.spotify.com/track/4hfC9vhK3zPAn3qZ7ojv7f) | [waveform\*](https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd) | [In My Drink](https://open.spotify.com/album/4FYwHeyAnopGZyBWBUFMJg) | 5:28 | 2023-04-28 |  |
+| [In My Drink](https://open.spotify.com/track/4hfC9vhK3zPAn3qZ7ojv7f) | [waveform\*](https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd) | [In My Drink](https://open.spotify.com/album/4FYwHeyAnopGZyBWBUFMJg) | 5:28 | 2023-04-28 | 2023-05-13 |
 | [In My Feelings](https://open.spotify.com/track/51kcXkGlp7q5vFFORbHCmX) | [Bantug](https://open.spotify.com/artist/6zXxD2q2MDoVWsTBd0WCd5) | [In My Feelings](https://open.spotify.com/album/6ipINCnKZlyae3LTOgZZLK) | 2:14 | 2021-04-02 | 2022-04-20 |
 | [In the Comedown](https://open.spotify.com/track/2vENYDPVrXnCR6wkd3SIzB) | [Divine Sweater](https://open.spotify.com/artist/6QhdyISn8fmch9ULKyqUoH) | [In the Comedown](https://open.spotify.com/album/4s1zdTSI8xJKIYfOiEvKPZ) | 3:02 | 2023-04-28 |  |
 | [In the Meantime](https://open.spotify.com/track/7Mrb9CEAmEtPUaet43XZCw) | [Major Murphy](https://open.spotify.com/artist/5ly0mPdto6iDfI6X2Q4K6B) | [In the Meantime](https://open.spotify.com/album/5v70tpqXr8diSOsABLEJAq) | 3:46 | 2021-03-05 | 2022-04-14 |
@@ -513,7 +513,7 @@
 | [loaded gun](https://open.spotify.com/track/0pZsHpKYy6BpBpez1X1dBs) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [loaded gun](https://open.spotify.com/album/2Ez698EgVsoo910TP135N2) | 3:50 | 2021-03-05 | 2022-04-20 |
 | [Loaded Gun](https://open.spotify.com/track/7mH0fZKktrJ5Hbijrnp7OF) | [Quinn Christopherson](https://open.spotify.com/artist/0tzC81XDBWtTPfJyUg6O2j) | [I Am Bubblegum](https://open.spotify.com/album/45YoZEm1LM9BkOFKTBsjM3) | 3:42 | 2023-03-31 |  |
 | [Locket](https://open.spotify.com/track/0DKeB7jEvtKNoNgNhyJi81) | [Superviolet](https://open.spotify.com/artist/49B8mk1ywQNFmIYthC2p8P) | [Locket](https://open.spotify.com/album/5uijemnh4nVq5ZXeAtf79R) | 2:53 | 2023-04-14 |  |
-| [Lonely](https://open.spotify.com/track/6VVKpaJkY7dc4uGP0pE1KX) | [waveform\*](https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd) | [Lonely](https://open.spotify.com/album/3i8tDk6FlRAutGZtoKGlUB) | 2:41 | 2023-03-03 |  |
+| [Lonely](https://open.spotify.com/track/6VVKpaJkY7dc4uGP0pE1KX) | [waveform\*](https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd) | [Lonely](https://open.spotify.com/album/3i8tDk6FlRAutGZtoKGlUB) | 2:41 | 2023-03-03 | 2023-05-13 |
 | [Lore](https://open.spotify.com/track/2xcLyLijuMGQ1GANkSQGQW) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Heatwave](https://open.spotify.com/album/7J9hfaMEeWHUpNVm7ePRB8) | 3:21 | 2022-04-29 | 2022-07-29 |
 | [Lore](https://open.spotify.com/track/7fYMNO8W4OQUwdZoLwzhW2) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Devil for the Fire](https://open.spotify.com/album/61CtQxxTAKjdaBgVkg1hGL) | 3:21 | 2022-05-19 | 2022-10-01 |
 | [Love Child](https://open.spotify.com/track/5NRUB58dHpsWrpSS3aUvvp) | [High Waisted](https://open.spotify.com/artist/3mnkKjjmtXT6mpSAxUSiIo) | [Love Child](https://open.spotify.com/album/1FzXfUv6thn2iE9qm2turU) | 3:01 | 2023-03-03 | 2023-04-15 |
@@ -532,6 +532,7 @@
 | [MANY FACES](https://open.spotify.com/track/27cWalfVkjaY21WxHiR426) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [MANY FACES](https://open.spotify.com/album/5wYDGLWfZKFt11XSqtbKxc) | 2:33 | 2021-03-19 | 2022-03-27 |
 | [Mark Mothersbaugh Alterego](https://open.spotify.com/track/51AXx0yeXKZ9i87yvPwFF5) | [Yonic South](https://open.spotify.com/artist/1QRKC6oodMbGbuiTP2hmlg) | [Mark Mothersbaugh Alterego](https://open.spotify.com/album/47RiulSgSCvFPbzp11Qkf9) | 2:48 | 2023-01-13 | 2023-03-11 |
 | [Maybe](https://open.spotify.com/track/7B2BcS96XE8i0x9wiXrTij) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Maybe](https://open.spotify.com/album/6Tb0V8pptNIf83kJcSXMpY) | 3:13 | 2022-03-04 | 2022-04-26 |
+| [mean creek.](https://open.spotify.com/track/00AM3zuuier3pzRI0dFhSO) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [Elizabethtown.](https://open.spotify.com/album/7epCR4GKjfqGTuKZMyhtid) | 2:16 | 2023-05-12 |  |
 | [Middle Man](https://open.spotify.com/track/2if8XzDccK6q3e6NBCxj1o) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Middle Man](https://open.spotify.com/album/54fId2tvhp88PlC9XtoVpD) | 2:58 | 2022-01-28 | 2022-04-16 |
 | [Milky Way](https://open.spotify.com/track/7nkxrLrU4mTLvfXRdOG01B) | [Bad Bad Hats](https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6) | [Milky Way](https://open.spotify.com/album/0UmfTw8qxhWKMgqD0ya9pQ) | 2:33 | 2021-09-17 | 2022-04-20 |
 | [Mind of Its Own](https://open.spotify.com/track/0frbJJp4kKMvrvDnv6YiUD) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Mind of Its Own](https://open.spotify.com/album/0uXrDuj03d9mhUefCxEG3D) | 3:21 | 2022-04-01 | 2022-05-20 |
@@ -621,6 +622,7 @@
 | [Pictures of You](https://open.spotify.com/track/1XXwItGFhOuvQmopWby2dP) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Hiding in Plain Sight](https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN) | 3:09 | 2022-10-21 | 2022-11-12 |
 | [Pieces of Gold](https://open.spotify.com/track/5TtOVNkBiVYxs4MRgwOTqy) | [Ziggy Katz](https://open.spotify.com/artist/1kCey8cRpDpF2WsW0jPLVI) | [Pieces of Gold](https://open.spotify.com/album/5N1Ar0YY5Fjdyo2Yu675E3) | 4:01 | 2023-01-13 | 2023-03-11 |
 | [Pls](https://open.spotify.com/track/0huewUKXZxVWSsQlrGT19m) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED), [Mina Walker](https://open.spotify.com/artist/3Ck1jo2CdzAFX1T16jZdhr) | [Pls](https://open.spotify.com/album/5nAYqQTnaU48kSylS4lFzw) | 3:00 | 2021-05-14 | 2022-04-17 |
+| [Pocket](https://open.spotify.com/track/4reov1NyIRb9nMNLG8pkH5) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Pocket](https://open.spotify.com/album/7apMWaYl5LtImOrAHGPkEd) | 2:39 | 2023-05-12 |  |
 | [Pool Hopping](https://open.spotify.com/track/3MMGTD1oJQ6MZSHLap5ec6) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Pool Hopping](https://open.spotify.com/album/6kSbPYilCl1GgskOg6RQlE) | 3:07 | 2021-06-11 | 2022-03-27 |
 | [Poolside](https://open.spotify.com/track/5e1Q0FuvCEVDFVAztkSLnL) | [Dreamgirl](https://open.spotify.com/artist/7JPPLV24jlpVoHz5dHN6pR) | [Poolside](https://open.spotify.com/album/6ZXyOy9MkWxGPtMXl72RnX) | 2:18 | 2022-04-29 | 2022-08-27 |
 | [Pop Song 2](https://open.spotify.com/track/1ajhtWRkjgsKSvXn9zb6oS) | [Velvet Negroni](https://open.spotify.com/artist/3RGofWmykr8KICouK8pMUm) | [Pop Song 2 & 1](https://open.spotify.com/album/5BLlxvXXNaWcublYzNsNlz) | 1:54 | 2023-01-13 | 2023-03-11 |
@@ -807,6 +809,7 @@
 | [Time Bomb](https://open.spotify.com/track/0OdzC5KFzqugM9XjQF599R) | [Jacklen Ro](https://open.spotify.com/artist/02V9xHLkyNSvfSbJka7HhX) | [Sunshine, I'm Counting on You!](https://open.spotify.com/album/0Flk6B4XLCxviaNVfsTZwO) | 4:15 | 2023-01-20 |  |
 | [Time of Your Life](https://open.spotify.com/track/6QvZeQylq5VDMkBx4Uvb0f) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Time of Your Life](https://open.spotify.com/album/1817WuNlDWoq89RhEofTXA) | 2:55 | 2022-11-11 | 2023-01-07 |
 | [Time to Melt](https://open.spotify.com/track/49csj8JI9bpJ0aFBeRGmpN) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Time to Melt](https://open.spotify.com/album/0kPkiCZNV7EY487616MHDt) | 3:51 | 2021-09-17 | 2022-04-29 |
+| [time waits](https://open.spotify.com/track/6KVFcap7bKzswabvTXqzh4) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [time waits](https://open.spotify.com/album/0bQ8W6aJPOW3CI6vlGZGTZ) | 3:19 | 2023-05-12 |  |
 | [Time Walk](https://open.spotify.com/track/3sU3dsN3etkC0Teh3IZU9S) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [Everything](https://open.spotify.com/album/0O5kzFuZOVnamq7gpSVmqU) | 1:33 | 2022-04-29 | 2022-05-20 |
 | [to Perth, before the border closes](https://open.spotify.com/track/6WI8bktnr5LEmOCwGpmNSv) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [to Perth, before the border closes](https://open.spotify.com/album/3Pkzz94sEJxDI7fY0uZFcm) | 2:56 | 2021-03-05 | 2022-04-29 |
 | [To Repel Ghosts](https://open.spotify.com/track/2mkZJYJmjrLYFEWn7q5kLx) | [Saint Jude](https://open.spotify.com/artist/3xjaPchHHfcWBvkFtpejFh) | [To Repel Ghosts](https://open.spotify.com/album/06B3ihAJGFAeMbpAOJWtQn) | 3:26 | 2022-10-28 | 2022-12-15 |

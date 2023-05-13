@@ -499,6 +499,28 @@
     },
     {
       "album": {
+        "name": "All My Life (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223878,
+      "name": "All My Life (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
+    },
+    {
+      "album": {
         "name": "Allegedly",
         "url": "https://open.spotify.com/album/70l8Voq04MxVKRuH3vrqzz"
       },
@@ -2034,7 +2056,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 83514,
       "name": "Cold As Love",
       "url": "https://open.spotify.com/track/41Loud1XZkZgNw4SS2dsTW"
@@ -4649,6 +4671,32 @@
     },
     {
       "album": {
+        "name": "The Boys & Girls",
+        "url": "https://open.spotify.com/album/0yuDKkogcktyNgOBlYsQHz"
+      },
+      "artists": [
+        {
+          "name": "Chuck Strangers",
+          "url": "https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5"
+        },
+        {
+          "name": "Fly Anakin",
+          "url": "https://open.spotify.com/artist/5WybyjV2fRyRQcJrmmiifF"
+        },
+        {
+          "name": "Pink Siifu",
+          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206912,
+      "name": "Hurry",
+      "url": "https://open.spotify.com/track/3xEXJtBBatwc3zVTjHBFA4"
+    },
+    {
+      "album": {
         "name": "hyogo",
         "url": "https://open.spotify.com/album/2ASDSaBeaz82gXuU0BonvZ"
       },
@@ -5470,6 +5518,28 @@
       "duration_ms": 266291,
       "name": "l e t . g o . m y . h a n d (with Bas & 6LACK)",
       "url": "https://open.spotify.com/track/0GAyuCo975IHGxxiLKDufB"
+    },
+    {
+      "album": {
+        "name": "Once Upon A Time",
+        "url": "https://open.spotify.com/album/2S5o9AUgMBEKjlqZ5wOrbw"
+      },
+      "artists": [
+        {
+          "name": "Deante' Hitchcock",
+          "url": "https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH"
+        },
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220653,
+      "name": "Late Night (feat. Dende)",
+      "url": "https://open.spotify.com/track/5m7PMAzoPQiLPTpRNFQPSU"
     },
     {
       "album": {
@@ -6618,7 +6688,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 240000,
       "name": "NORTHERN PLAYALISTIC",
       "url": "https://open.spotify.com/track/1913qTxkTgKybt1zSSqHXI"
@@ -6926,7 +6996,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 186687,
       "name": "open letter",
       "url": "https://open.spotify.com/track/4MqLfcbzg95ocHYw6MLfMc"
@@ -7364,7 +7434,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 171680,
       "name": "Porsches in Spanish",
       "url": "https://open.spotify.com/track/5XgiTDXIMbw4biUJs5BUMl"
@@ -7657,6 +7727,24 @@
     },
     {
       "album": {
+        "name": "Rap Fix",
+        "url": "https://open.spotify.com/album/6lpZMvbuT4uEFvr8AWL0IH"
+      },
+      "artists": [
+        {
+          "name": "Nyck Caution",
+          "url": "https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Rap Fix",
+      "url": "https://open.spotify.com/track/088AAB1SkCbyzU4I7aTepk"
+    },
+    {
+      "album": {
         "name": "Rather Be Myself",
         "url": "https://open.spotify.com/album/0ffkK86WkytCNghaaRJ2wP"
       },
@@ -7916,7 +8004,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 194400,
       "name": "Say Enough",
       "url": "https://open.spotify.com/track/5Ls0yWZSQJtLY9FgHOO4nX"
@@ -8532,7 +8620,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 144000,
       "name": "Spicy Tuna Yellow Tail Freestyle",
       "url": "https://open.spotify.com/track/0yvxyLOcl9q2cnOj35MtLO"
@@ -8638,6 +8726,24 @@
       "duration_ms": 196066,
       "name": "Still Here (feat. Cordae)",
       "url": "https://open.spotify.com/track/1WmOlcya9zgYB714iujmVb"
+    },
+    {
+      "album": {
+        "name": "STILL HUMBLE",
+        "url": "https://open.spotify.com/album/6wO8JOuEelcIK5XVju4hm2"
+      },
+      "artists": [
+        {
+          "name": "Aaron May",
+          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205897,
+      "name": "STILL HUMBLE",
+      "url": "https://open.spotify.com/track/3GKQZZoHZ2MrfvQtipT5f9"
     },
     {
       "album": {
@@ -9010,6 +9116,32 @@
       "duration_ms": 193488,
       "name": "Terry Davis",
       "url": "https://open.spotify.com/track/5CxvjoDRlsRZeYxJgvvzU1"
+    },
+    {
+      "album": {
+        "name": "The Basement",
+        "url": "https://open.spotify.com/album/3vBiOLOfxBGyxc6rhVsjK2"
+      },
+      "artists": [
+        {
+          "name": "Kembe X",
+          "url": "https://open.spotify.com/artist/4uc4iep3LqgSj8qN4kp7qD"
+        },
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        },
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202981,
+      "name": "The Basement",
+      "url": "https://open.spotify.com/track/5AiS9AoF7ONfTcNdXjWPNi"
     },
     {
       "album": {
@@ -9622,10 +9754,32 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 182857,
       "name": "Trials & Tribulations",
       "url": "https://open.spotify.com/track/4RNNvZTRisiHOKhAZ1o2ML"
+    },
+    {
+      "album": {
+        "name": "Trials & Tribulations",
+        "url": "https://open.spotify.com/album/7tmmMeGi1ocHXL77wzPbRw"
+      },
+      "artists": [
+        {
+          "name": "AKTHESAVIOR",
+          "url": "https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw"
+        },
+        {
+          "name": "Zombie Juice",
+          "url": "https://open.spotify.com/artist/3yAXW26fnch5fOTDL1vvJR"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Trials & Tribulations",
+      "url": "https://open.spotify.com/track/5pmkGYNdAfokyv8VnkKVdy"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Lunas de Folklore](https://open.spotify.com/playlist/37i9dQZF1DWYLoJq8d80ds)
 
-> ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: AHYRE
+> ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Soledad
 
-141 songs - 7 hr 54 min
+143 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Corazón de Lechiguana](https://open.spotify.com/track/40KKM026TAT4sPNCQ2lKJm) | [Lucrecia Rodrigo](https://open.spotify.com/artist/1SYetf78ctGyoC8SSuargh), [Añapa Dúo](https://open.spotify.com/artist/7DkcfDuf8COfc9RGmcTpxG) | [Natural](https://open.spotify.com/album/45PIeay1Qdiv4TaPNC071j) | 2:26 | 2021-12-31 |  |
 | [Cuando Canto Chacarera](https://open.spotify.com/track/7hm9QgvT2CWFL8rLX21KSD) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Cuando Canto Chacarera](https://open.spotify.com/album/1opVRKCK6j2oskwXt3e5vU) | 3:02 | 2021-12-31 |  |
 | [Cusco](https://open.spotify.com/track/3JxuJd4IskavzFgVJEXolo) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Cusco](https://open.spotify.com/album/6H3ubwOSc8Z1plrQjM4to8) | 5:20 | 2023-01-27 |  |
-| [Cómplices](https://open.spotify.com/track/6IjYr3ioZO2yDLFsVWPd6A) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Cómplices](https://open.spotify.com/album/55QxtsOzQKo2F0g0puf4jM) | 5:20 | 2021-12-31 |  |
+| [Cómplices](https://open.spotify.com/track/6IjYr3ioZO2yDLFsVWPd6A) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Cómplices](https://open.spotify.com/album/55QxtsOzQKo2F0g0puf4jM) | 5:20 | 2021-12-31 | 2023-05-13 |
 | [De ahicito](https://open.spotify.com/track/5u7lYW3VKzFI90N1NSAQzD) | [Los Zorzales](https://open.spotify.com/artist/1Hq5LTPkhFbLas8UrI4w22) | [Paisajes de mi tierra](https://open.spotify.com/album/1YobWqjgJmjAwWURPTsxmw) | 3:17 | 2021-12-31 |  |
 | [Desvío](https://open.spotify.com/track/3E7JDPzzJh5BhivXutrXAz) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Renacer](https://open.spotify.com/album/5buWZNy12nG4fqpakqf5gR) | 2:43 | 2021-12-31 |  |
 | [Dime](https://open.spotify.com/track/2BNzCdbnUoJw9ZnvmLZQrs) | [Qiro](https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO) | [Dime](https://open.spotify.com/album/46CqfZvFn60Dv5qggaQ1G0) | 3:14 | 2021-12-31 |  |
@@ -59,7 +59,7 @@
 | [Juglar Chuncano](https://open.spotify.com/track/5FTwYtNlI7G5fWSGjaPVWU) | [Chechelos](https://open.spotify.com/artist/6a24LyJKiILo37aDxHVDL6), [Franco Ramirez](https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a) | [Juglar Chuncano](https://open.spotify.com/album/13Mj1uBTzv5Pp2JwPLBFla) | 2:33 | 2021-12-31 |  |
 | [Kuntur](https://open.spotify.com/track/7xhqqjuPlSs2kLnrLRskBc) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Kuntur](https://open.spotify.com/album/1ZBqCd1fTi93qpDutvmJtS) | 3:19 | 2021-12-31 | 2023-05-06 |
 | [La Alucinada](https://open.spotify.com/track/6HVG1pjvGHxmOdQj4TQWJ0) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [La Alucinada](https://open.spotify.com/album/2Xa4MMFxqXoPXD7u7JcfXf) | 2:38 | 2021-12-31 |  |
-| [La Bicicleta](https://open.spotify.com/track/7c5AYFF7kNDnDTLjxuzDaF) | [Amboé](https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD) | [La Bicicleta](https://open.spotify.com/album/6tC0mVd9UooFsdbD2hwe1o) | 3:30 | 2022-04-29 |  |
+| [La Bicicleta](https://open.spotify.com/track/7c5AYFF7kNDnDTLjxuzDaF) | [Amboé](https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD) | [La Bicicleta](https://open.spotify.com/album/6tC0mVd9UooFsdbD2hwe1o) | 3:30 | 2022-04-29 | 2023-05-13 |
 | [La Canción de la Alegría](https://open.spotify.com/track/41rWjU20AiwfVN5pmOtn6I) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD) | [La Canción de la Alegría](https://open.spotify.com/album/6BT25DiCRkOLy3om6fE23O) | 3:31 | 2022-07-01 |  |
 | [La Canción de la Alegría](https://open.spotify.com/track/4ecpwcIuLSrnon9Te6aMxf) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD) | [La Canción de la Alegría](https://open.spotify.com/album/6wfZc70VuJqOIdIh67ZwwJ) | 3:31 | 2021-12-31 | 2022-07-29 |
 | [La de los Violineros](https://open.spotify.com/track/0BuGlPsJYERQO0sTtIAaYW) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [La de los Violineros](https://open.spotify.com/album/6JaE72sn3c5Gnj80EVSb5C) | 2:41 | 2022-11-28 |  |
@@ -72,6 +72,7 @@
 | [La Noche Salteña](https://open.spotify.com/track/4EYyuY7x7OsbzC6MzkusHM) | [Canto Del Alma](https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa) | [La Noche Salteña](https://open.spotify.com/album/5HSE5Sx8MmtWdb66EmR3yj) | 2:52 | 2021-12-31 | 2022-08-12 |
 | [La Noche Salteña](https://open.spotify.com/track/6VRrhvfIn4tZUx0R37hOtD) | [Canto Del Alma](https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa) | [Fiesta del Alma](https://open.spotify.com/album/5c4Yz6YfBCQ73hj1fn5Rrh) | 2:52 | 2022-07-01 |  |
 | [La Noche Sin Ti](https://open.spotify.com/track/3o9cQ5wp9QXhKXHAOAESFG) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Ahyre](https://open.spotify.com/album/2jJyXMCAAQmgk1WlsFFwAN) | 4:29 | 2021-12-31 |  |
+| [La Paloma](https://open.spotify.com/track/1xbueGvTrxbpYNtOSFKdTJ) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Paloma](https://open.spotify.com/album/6DgVAve7m06lb2ubFqp3J3) | 3:44 | 2023-05-12 |  |
 | [La Revancha](https://open.spotify.com/track/32tw6sBHtgnsh36g2voewK) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [La Noche Perfecta](https://open.spotify.com/album/1tDPYZoGKYQPyo6qcm7yWU) | 2:35 | 2022-11-04 |  |
 | [La Sachapera](https://open.spotify.com/track/4AtnAMuqST1ZkEaTaXr2fa) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [La Sachapera](https://open.spotify.com/album/0fhJaycokyiWhvhnlUPHth) | 3:25 | 2021-12-31 |  |
 | [La Sembradora](https://open.spotify.com/track/0XyqBaoT1pjHNAFbNYpM2D) | [Germán Asis](https://open.spotify.com/artist/7et3MQLeWcD0rDQMf1h3hs), [Facundo Toro](https://open.spotify.com/artist/6ZkfAoHwFnBg7SKExJ3QJX) | [La Sembradora](https://open.spotify.com/album/6sTrPx3XKKRgSb1aWCvw6c) | 2:59 | 2022-07-01 |  |
@@ -116,6 +117,7 @@
 | [Septiembre Azul](https://open.spotify.com/track/4J66FHVXQPdjJ1kQoy6NUA) | [TAHUE](https://open.spotify.com/artist/6KttJbPQqHWXDmqUC22eSi) | [Septiembre Azul](https://open.spotify.com/album/1zR4ZOHugUOaapOrrbQuBU) | 3:10 | 2021-12-31 |  |
 | [Si Acaso Regresaras](https://open.spotify.com/track/4UfUDmOLBDYLmQt7FKmOyO) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Si Acaso Regresaras](https://open.spotify.com/album/1oJMF6AUvk5MLoGIhEC6nr) | 3:08 | 2021-12-31 | 2022-02-05 |
 | [Si No Te Vuelvo a Ver](https://open.spotify.com/track/47DVLnnCOWVKvOkCz9RA1y) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Si No Te Vuelvo a Ver](https://open.spotify.com/album/4I2nmRLtjWyFoNdHP6W9op) | 3:18 | 2021-12-31 |  |
+| [Si Pudiera](https://open.spotify.com/track/2S9oyHCvXTaaIFm2dkpwge) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Si Pudiera](https://open.spotify.com/album/1wMLkuAbaKSaqZr11xG32C) | 2:53 | 2023-05-12 |  |
 | [Siempre Chaqueño Seré](https://open.spotify.com/track/5QsE9o3fVm9PNFTvUyMu8g) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Siempre Chaqueño Seré](https://open.spotify.com/album/7ubNon6hL84WzO4gniXGrU) | 3:04 | 2021-12-31 | 2022-07-29 |
 | [Siempre Chaqueño Seré](https://open.spotify.com/track/5wCIhh0ieeby8Atimn1Nkn) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Siempre Chaqueño Seré](https://open.spotify.com/album/3RcFgjx90b78YbtXLHYeV6) | 3:04 | 2022-07-01 |  |
 | [Sin Ti No Valgo Nada](https://open.spotify.com/track/7n3rvqszVrAX448hWRX65H) | [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW) | [Instinto](https://open.spotify.com/album/24NfSZJS8SRtBfzDBzwML0) | 3:10 | 2021-12-31 | 2022-03-12 |

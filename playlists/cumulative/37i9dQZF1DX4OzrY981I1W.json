@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "american jesus",
+        "url": "https://open.spotify.com/album/7D970R6nLDmuw6XlpsceFW"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168899,
+      "name": "american jesus",
+      "url": "https://open.spotify.com/track/6gnjE8oBkosBIEZroEjq4I"
+    },
+    {
+      "album": {
         "name": "American Teen",
         "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
       },
@@ -3944,7 +3962,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 276800,
       "name": "My Way",
       "url": "https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe"

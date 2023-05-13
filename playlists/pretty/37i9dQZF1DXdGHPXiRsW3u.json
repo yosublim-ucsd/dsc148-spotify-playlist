@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 2000s.",
-  "num_followers": 448636,
+  "num_followers": 449174,
   "original_name": "Soft 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODMzYmI4ZGNjNzllOWRlMzlhZWY1MDlhNGRkZjM1Mzg0Y2IzYzM0",
+  "snapshot_id": "MCw1NjU2MzE3MzQ0MTE3MTY0Y2IyYmI5ZDdkMGZjMmJlMjgzZmFlOTNm",
   "tracks": [
     {
       "added_at": "2023-01-28 00:00:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "Corinne Bailey Rae",
-        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
-      },
-      "artists": [
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 215360,
-      "name": "Put Your Records On",
-      "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
-    },
-    {
-      "added_at": "2023-01-28 00:00:00",
-      "album": {
         "name": "Drops Of Jupiter",
         "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
       },
@@ -219,22 +203,18 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "Nellyville",
-        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
+        "name": "Corinne Bailey Rae",
+        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
       },
       "artists": [
         {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
-        },
-        {
-          "name": "Kelly Rowland",
-          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
         }
       ],
-      "duration_ms": 289160,
-      "name": "Dilemma",
-      "url": "https://open.spotify.com/track/0ARK753YaiJbpLUk7z5yIM"
+      "duration_ms": 215360,
+      "name": "Put Your Records On",
+      "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -255,6 +235,26 @@
       "duration_ms": 223440,
       "name": "My Boo",
       "url": "https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo"
+    },
+    {
+      "added_at": "2023-01-28 00:00:00",
+      "album": {
+        "name": "Nellyville",
+        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        },
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+        }
+      ],
+      "duration_ms": 289160,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/0ARK753YaiJbpLUk7z5yIM"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -943,8 +943,8 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "The Element Of Freedom",
-        "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
+        "name": "Songs In A Minor",
+        "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
       },
       "artists": [
         {
@@ -952,9 +952,9 @@
           "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 216480,
-      "name": "Empire State of Mind (Part II) Broken Down",
-      "url": "https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI"
+      "duration_ms": 210200,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "Call Me Irresponsible",
-        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
+        "name": "A Day Without Rain",
+        "url": "https://open.spotify.com/album/2ioso1tqQ5zABQDVYyiUi5"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Enya",
+          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
         }
       ],
-      "duration_ms": 212373,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG"
+      "duration_ms": 218546,
+      "name": "Only Time",
+      "url": "https://open.spotify.com/track/6FLwmdmW77N1Pxb1aWsZmO"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "A Day Without Rain",
-        "url": "https://open.spotify.com/album/2ioso1tqQ5zABQDVYyiUi5"
+        "name": "Call Me Irresponsible",
+        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
       },
       "artists": [
         {
-          "name": "Enya",
-          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 218546,
-      "name": "Only Time",
-      "url": "https://open.spotify.com/track/6FLwmdmW77N1Pxb1aWsZmO"
+      "duration_ms": 212373,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -1091,8 +1091,8 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "Songs In A Minor",
-        "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
+        "name": "The Element Of Freedom",
+        "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
       },
       "artists": [
         {
@@ -1100,25 +1100,9 @@
           "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 210200,
-      "name": "Fallin'",
-      "url": "https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D"
-    },
-    {
-      "added_at": "2023-01-28 00:00:00",
-      "album": {
-        "name": "Coast To Coast (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6P1sBa0T1fRooA0UTAQfOu"
-      },
-      "artists": [
-        {
-          "name": "Westlife",
-          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
-        }
-      ],
-      "duration_ms": 231760,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/5p0ietGkLNEqx1Z7ijkw5g"
+      "duration_ms": 216480,
+      "name": "Empire State of Mind (Part II) Broken Down",
+      "url": "https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -1135,6 +1119,22 @@
       "duration_ms": 258653,
       "name": "Goodbye My Lover",
       "url": "https://open.spotify.com/track/6gxycjJNMgmAyfzUXBN80P"
+    },
+    {
+      "added_at": "2023-01-28 00:00:00",
+      "album": {
+        "name": "Coast To Coast (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6P1sBa0T1fRooA0UTAQfOu"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        }
+      ],
+      "duration_ms": 231760,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/5p0ietGkLNEqx1Z7ijkw5g"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "All the Lost Souls",
-        "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX"
       },
       "artists": [
         {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+          "name": "GABRIELLE",
+          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
         }
       ],
-      "duration_ms": 280026,
-      "name": "1973",
-      "url": "https://open.spotify.com/track/1BV0m40U0M4t1SLIsDnwZl"
+      "duration_ms": 196986,
+      "name": "Out Of Reach",
+      "url": "https://open.spotify.com/track/0HKD13PLq2WicViBBhSrOl"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX"
+        "name": "All the Lost Souls",
+        "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
       },
       "artists": [
         {
-          "name": "GABRIELLE",
-          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
         }
       ],
-      "duration_ms": 196986,
-      "name": "Out Of Reach",
-      "url": "https://open.spotify.com/track/0HKD13PLq2WicViBBhSrOl"
+      "duration_ms": 280026,
+      "name": "1973",
+      "url": "https://open.spotify.com/track/1BV0m40U0M4t1SLIsDnwZl"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "Face To Face",
-        "url": "https://open.spotify.com/album/07sBktUc2CbnzPd8ecePWk"
-      },
-      "artists": [
-        {
-          "name": "Westlife",
-          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
-        }
-      ],
-      "duration_ms": 241066,
-      "name": "You Raise Me Up",
-      "url": "https://open.spotify.com/track/5XQavlXrNHBBvlN4IJqhqW"
-    },
-    {
-      "added_at": "2023-01-28 00:00:00",
-      "album": {
         "name": "It's Time",
         "url": "https://open.spotify.com/album/2koUTBXkwUt2uJYv0uezHx"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 225906,
       "name": "Home",
       "url": "https://open.spotify.com/track/4wLZ4zPM9c4oe1VV8ejdWV"
+    },
+    {
+      "added_at": "2023-01-28 00:00:00",
+      "album": {
+        "name": "Face To Face",
+        "url": "https://open.spotify.com/album/07sBktUc2CbnzPd8ecePWk"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        }
+      ],
+      "duration_ms": 241066,
+      "name": "You Raise Me Up",
+      "url": "https://open.spotify.com/track/5XQavlXrNHBBvlN4IJqhqW"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -2039,18 +2039,18 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "The Soul Sessions",
-        "url": "https://open.spotify.com/album/188TILSlxecPremJwHDkk7"
+        "name": "Divine Discontent",
+        "url": "https://open.spotify.com/album/0DlPNJ1lhOgcunXTsBboC0"
       },
       "artists": [
         {
-          "name": "Joss Stone",
-          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+          "name": "Sixpence None The Richer",
+          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
         }
       ],
-      "duration_ms": 260013,
-      "name": "Super Duper Love",
-      "url": "https://open.spotify.com/track/30yn7KuCLbXGCXxjsB0C8K"
+      "duration_ms": 243960,
+      "name": "Don't Dream It's Over",
+      "url": "https://open.spotify.com/track/2kyezitNXSQaIa1nsQRWVp"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -2071,18 +2071,18 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "Divine Discontent",
-        "url": "https://open.spotify.com/album/0DlPNJ1lhOgcunXTsBboC0"
+        "name": "The Soul Sessions",
+        "url": "https://open.spotify.com/album/188TILSlxecPremJwHDkk7"
       },
       "artists": [
         {
-          "name": "Sixpence None The Richer",
-          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
         }
       ],
-      "duration_ms": 243960,
-      "name": "Don't Dream It's Over",
-      "url": "https://open.spotify.com/track/2kyezitNXSQaIa1nsQRWVp"
+      "duration_ms": 260013,
+      "name": "Super Duper Love",
+      "url": "https://open.spotify.com/track/30yn7KuCLbXGCXxjsB0C8K"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -2295,18 +2295,18 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX"
+        "name": "The Emancipation Of Mimi (Ultra Platinum Edition)",
+        "url": "https://open.spotify.com/album/7MMpjM0wynysTbhpvKjHrm"
       },
       "artists": [
         {
-          "name": "GABRIELLE",
-          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 219093,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/63nkNgHkmfgjElTEnCzKYU"
+      "duration_ms": 233866,
+      "name": "Don't Forget About Us - Radio Edit",
+      "url": "https://open.spotify.com/track/1HkVSmzBbdZ5Bzdd00IZgh"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -2327,18 +2327,18 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "The Emancipation Of Mimi (Ultra Platinum Edition)",
-        "url": "https://open.spotify.com/album/7MMpjM0wynysTbhpvKjHrm"
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          "name": "GABRIELLE",
+          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
         }
       ],
-      "duration_ms": 233866,
-      "name": "Don't Forget About Us - Radio Edit",
-      "url": "https://open.spotify.com/track/1HkVSmzBbdZ5Bzdd00IZgh"
+      "duration_ms": 219093,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/63nkNgHkmfgjElTEnCzKYU"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -2439,22 +2439,6 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "Call Off The Search",
-        "url": "https://open.spotify.com/album/1EUIgGvwk1cvKmlZjZ2yph"
-      },
-      "artists": [
-        {
-          "name": "Katie Melua",
-          "url": "https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh"
-        }
-      ],
-      "duration_ms": 252466,
-      "name": "The Closest Thing to Crazy",
-      "url": "https://open.spotify.com/track/3rQjc4GGMcrtXwis7vBzaQ"
-    },
-    {
-      "added_at": "2023-01-28 00:00:00",
-      "album": {
         "name": "Coyote Ugly",
         "url": "https://open.spotify.com/album/0XxoyBssbnR7VB8YmtVzLD"
       },
@@ -2467,6 +2451,22 @@
       "duration_ms": 215506,
       "name": "Can't Fight The Moonlight",
       "url": "https://open.spotify.com/track/10FP9hm2aFfAIKEopqaG9D"
+    },
+    {
+      "added_at": "2023-01-28 00:00:00",
+      "album": {
+        "name": "Call Off The Search",
+        "url": "https://open.spotify.com/album/1EUIgGvwk1cvKmlZjZ2yph"
+      },
+      "artists": [
+        {
+          "name": "Katie Melua",
+          "url": "https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh"
+        }
+      ],
+      "duration_ms": 252466,
+      "name": "The Closest Thing to Crazy",
+      "url": "https://open.spotify.com/track/3rQjc4GGMcrtXwis7vBzaQ"
     }
   ],
   "unique_name": "Soft 00s",

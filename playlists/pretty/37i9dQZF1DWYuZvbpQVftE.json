@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 16430,
+  "num_followers": 16441,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTNiZjFhMzc1YWU1MTcxYmNmY2Q5ZjJkOTJkMDBkYjU4ZWM5MmU1",
+  "snapshot_id": "MCxlOWJhMjhkZjUzMzEwMzczYTNiOTg3ZDU1ZTNiOWI3YWNkNzdhZmU5",
   "tracks": [
     {
       "added_at": "2023-05-10 08:29:52",
@@ -191,8 +191,8 @@
     {
       "added_at": "2023-05-10 08:29:52",
       "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
+        "name": "Time Further Out",
+        "url": "https://open.spotify.com/album/0eMXd1VtCXCkuGWn9JjRDT"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
         }
       ],
-      "duration_ms": 262733,
-      "name": "Everybody's Jumpin'",
-      "url": "https://open.spotify.com/track/0r3ZObqOhirTkBCr8f4L9q"
+      "duration_ms": 277706,
+      "name": "Far More Blue",
+      "url": "https://open.spotify.com/track/2djpFaL4yqTH3fvDKijsMv"
     },
     {
       "added_at": "2023-05-10 08:29:52",
@@ -311,8 +311,8 @@
     {
       "added_at": "2023-05-10 08:29:52",
       "album": {
-        "name": "Time Further Out",
-        "url": "https://open.spotify.com/album/0eMXd1VtCXCkuGWn9JjRDT"
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
       },
       "artists": [
         {
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
         }
       ],
-      "duration_ms": 277706,
-      "name": "Far More Blue",
-      "url": "https://open.spotify.com/track/2djpFaL4yqTH3fvDKijsMv"
+      "duration_ms": 262733,
+      "name": "Everybody's Jumpin'",
+      "url": "https://open.spotify.com/track/0r3ZObqOhirTkBCr8f4L9q"
     },
     {
       "added_at": "2023-05-10 08:29:52",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-05-10 08:29:52",
       "album": {
-        "name": "Four!",
-        "url": "https://open.spotify.com/album/0kTwd8JPkvKEaQ1hjYkwdz"
-      },
-      "artists": [
-        {
-          "name": "Hampton Hawes",
-          "url": "https://open.spotify.com/artist/6BvSJSt6l7QJO2GHvtwFOK"
-        }
-      ],
-      "duration_ms": 294600,
-      "name": "Thou Swell",
-      "url": "https://open.spotify.com/track/5isHYKdOZoRLEltgxqjSMn"
-    },
-    {
-      "added_at": "2023-05-10 08:29:52",
-      "album": {
         "name": "Son Of Gunn!!",
         "url": "https://open.spotify.com/album/0wIqfFb0f9BQTjdUt31Zlq"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 289360,
       "name": "Blue Steel",
       "url": "https://open.spotify.com/track/6A5n5BZfgR2IhzlV1GbGWf"
+    },
+    {
+      "added_at": "2023-05-10 08:29:52",
+      "album": {
+        "name": "The Teddy Charles Tentet",
+        "url": "https://open.spotify.com/album/4SIPInfo9sWkrdOQJaLEhh"
+      },
+      "artists": [
+        {
+          "name": "Teddy Charles",
+          "url": "https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn"
+        }
+      ],
+      "duration_ms": 350720,
+      "name": "The Quiet Time",
+      "url": "https://open.spotify.com/track/6WAHaBnRvUFjw6L6Q2mMDh"
     },
     {
       "added_at": "2023-05-10 08:29:52",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-05-10 08:29:52",
       "album": {
-        "name": "The Teddy Charles Tentet",
-        "url": "https://open.spotify.com/album/4SIPInfo9sWkrdOQJaLEhh"
+        "name": "Four!",
+        "url": "https://open.spotify.com/album/0kTwd8JPkvKEaQ1hjYkwdz"
       },
       "artists": [
         {
-          "name": "Teddy Charles",
-          "url": "https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn"
+          "name": "Hampton Hawes",
+          "url": "https://open.spotify.com/artist/6BvSJSt6l7QJO2GHvtwFOK"
         }
       ],
-      "duration_ms": 350720,
-      "name": "The Quiet Time",
-      "url": "https://open.spotify.com/track/6WAHaBnRvUFjw6L6Q2mMDh"
+      "duration_ms": 294600,
+      "name": "Thou Swell",
+      "url": "https://open.spotify.com/track/5isHYKdOZoRLEltgxqjSMn"
     },
     {
       "added_at": "2023-05-10 08:29:52",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-05-10 08:29:52",
       "album": {
-        "name": "Coop! The Music Of Bob Cooper",
-        "url": "https://open.spotify.com/album/7rxeQyuaS753773hzXRyK5"
-      },
-      "artists": [
-        {
-          "name": "Bob Cooper",
-          "url": "https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK"
-        }
-      ],
-      "duration_ms": 261066,
-      "name": "Easy Living",
-      "url": "https://open.spotify.com/track/2qop18BlJiRwuvXJfKTA2z"
-    },
-    {
-      "added_at": "2023-05-10 08:29:52",
-      "album": {
         "name": "What Is There To Say?",
         "url": "https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 303533,
       "name": "News From Blueport",
       "url": "https://open.spotify.com/track/19cN9w8acuY1mhelpksd6h"
+    },
+    {
+      "added_at": "2023-05-10 08:29:52",
+      "album": {
+        "name": "Coop! The Music Of Bob Cooper",
+        "url": "https://open.spotify.com/album/7rxeQyuaS753773hzXRyK5"
+      },
+      "artists": [
+        {
+          "name": "Bob Cooper",
+          "url": "https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK"
+        }
+      ],
+      "duration_ms": 261066,
+      "name": "Easy Living",
+      "url": "https://open.spotify.com/track/2qop18BlJiRwuvXJfKTA2z"
     },
     {
       "added_at": "2023-05-10 08:29:52",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-05-10 08:29:52",
       "album": {
-        "name": "Take Me Along",
-        "url": "https://open.spotify.com/album/24I15RTAgb3NtGfrTilzQI"
-      },
-      "artists": [
-        {
-          "name": "Marty Paich",
-          "url": "https://open.spotify.com/artist/69OOiGDvj0o9QQ184tqc9R"
-        }
-      ],
-      "duration_ms": 304093,
-      "name": "Sid, Ol' Kid",
-      "url": "https://open.spotify.com/track/4ZdUYMQBvQe4o5qiIVGtzI"
-    },
-    {
-      "added_at": "2023-05-10 08:29:52",
-      "album": {
         "name": "Stan Getz At The Shrine",
         "url": "https://open.spotify.com/album/2fXvQcPb7ZVTr0GqLE1j12"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 523426,
       "name": "We'll Be Together Again",
       "url": "https://open.spotify.com/track/3fysSRqg0huNQnjCUS0zo3"
+    },
+    {
+      "added_at": "2023-05-10 08:29:52",
+      "album": {
+        "name": "Take Me Along",
+        "url": "https://open.spotify.com/album/24I15RTAgb3NtGfrTilzQI"
+      },
+      "artists": [
+        {
+          "name": "Marty Paich",
+          "url": "https://open.spotify.com/artist/69OOiGDvj0o9QQ184tqc9R"
+        }
+      ],
+      "duration_ms": 304093,
+      "name": "Sid, Ol' Kid",
+      "url": "https://open.spotify.com/track/4ZdUYMQBvQe4o5qiIVGtzI"
     },
     {
       "added_at": "2023-05-10 08:29:52",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-05-10 08:29:52",
       "album": {
+        "name": "The Essential Dave Brubeck",
+        "url": "https://open.spotify.com/album/2IaDMqrxVulBfj5Riy29xL"
+      },
+      "artists": [
+        {
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+        }
+      ],
+      "duration_ms": 410800,
+      "name": "Brandenburg Gate",
+      "url": "https://open.spotify.com/track/4p71KdIiYX7KQrkXoXE32X"
+    },
+    {
+      "added_at": "2023-05-10 08:29:52",
+      "album": {
         "name": "Westward Bound! (Live)",
         "url": "https://open.spotify.com/album/5Bcl5tLBwZxch1KWFg1iKF"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 518000,
       "name": "Happily Dancing / Deep Harmonies Falling - Live",
       "url": "https://open.spotify.com/track/7vcuLXP5eTaUwa1xh3rRYs"
-    },
-    {
-      "added_at": "2023-05-10 08:29:52",
-      "album": {
-        "name": "The Essential Dave Brubeck",
-        "url": "https://open.spotify.com/album/2IaDMqrxVulBfj5Riy29xL"
-      },
-      "artists": [
-        {
-          "name": "Dave Brubeck",
-          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
-        }
-      ],
-      "duration_ms": 410800,
-      "name": "Brandenburg Gate",
-      "url": "https://open.spotify.com/track/4p71KdIiYX7KQrkXoXE32X"
     },
     {
       "added_at": "2023-05-10 08:29:52",

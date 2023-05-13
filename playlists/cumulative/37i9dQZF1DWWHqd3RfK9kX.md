@@ -4,7 +4,7 @@
 
 > Il sound giusto per creare in cucina!
 
-162 songs - 9 hr 18 min
+163 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Ai, Amor](https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [O Tempo É Agora](https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj) | 3:40 | 2020-11-10 |  |
 | [Ain't No Sunshine](https://open.spotify.com/track/7DmExRy2zWKkM9QX8Wy7oM) | [Sivuca](https://open.spotify.com/artist/11L2rdluUfcxyWcX2feoCm) | [Loose & Juicy](https://open.spotify.com/album/1QrIXVqDiXZzmHLR0woYk7) | 4:49 | 2020-11-10 | 2022-11-13 |
 | [Amor em Jacumã](https://open.spotify.com/track/0LbDTSA6QB9nA3Wjtkbx9N) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z) | [Sem Nostalgia](https://open.spotify.com/album/78k0Tn5KyFMcPdTIAHqKh8) | 3:34 | 2020-11-10 | 2023-05-06 |
+| [Amor em Jacumã](https://open.spotify.com/track/4DbtZtymMSyIoCY7P3mZU8) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z) | [Sem Nostalgia](https://open.spotify.com/album/3qosc8WvmeN2oMd7LWZ34K) | 3:34 | 2020-11-10 |  |
 | [Amor em Jacumã](https://open.spotify.com/track/4Z8icaswbiCp775m8LkBlF) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z) | [Sem Nostalgia](https://open.spotify.com/album/2xOCtbKv0dVxX7MMuc0cm4) | 3:34 | 2020-11-10 | 2022-07-29 |
 | [Amor verdadero](https://open.spotify.com/track/6Ds9miFD06FwpFdAuqDo0h) | [Afro\-Cuban All Stars](https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg) | [A Toda Cuba Le Gusta](https://open.spotify.com/album/3mjwCWLCCtHiEv0Ttek5zT) | 6:36 | 2020-11-10 |  |
 | [Areia](https://open.spotify.com/track/2RXzCKMvVCYsu5F8JBmxbn) | [Russo Passapusso](https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm) | [Paraíso da Miragem](https://open.spotify.com/album/04KjZ79sAK9pCTsRXeY12q) | 2:08 | 2020-11-10 | 2022-07-08 |
@@ -43,7 +44,7 @@
 | [Build Me Up Buttercup](https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [The Foundations](https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp) | 2:57 | 2020-11-10 | 2022-11-14 |
 | [Bésame Mucho](https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Tesoros De Coleccion](https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk) | 3:00 | 2020-11-10 |  |
 | [Bésame Mucho](https://open.spotify.com/track/5lqY7EmoAu9rwV4hHxhEzB) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Historia De Un Amor](https://open.spotify.com/album/6ZqE68apCVUrnZh0nRe5x5) | 3:00 | 2020-11-10 | 2022-07-29 |
-| [Call](https://open.spotify.com/track/4tvw503IOIq9uc0QNYVey2) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 3:31 | 2020-11-10 |  |
+| [Call](https://open.spotify.com/track/4tvw503IOIq9uc0QNYVey2) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 3:31 | 2020-11-10 | 2023-05-13 |
 | [Candela](https://open.spotify.com/track/1eHGsCdAWh1Ffowzacpfoi) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi) | 5:27 | 2020-11-10 |  |
 | [Canoeiro](https://open.spotify.com/track/5vGjcafbPf55xNWI5pP9cy) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [Beach Samba](https://open.spotify.com/album/1nd8Xz8Zh7tZv5EdLbg5nF) | 1:32 | 2020-11-10 | 2022-05-27 |
 | [Canta Canta, Minha Gente](https://open.spotify.com/track/57E1ka54d8zrIy0VzE1EAV) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E) | [Martinho da Vila](https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB) | 2:33 | 2020-11-10 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Slipknot",
-  "num_followers": 1023742,
+  "num_followers": 1025205,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTlhYzM3YTIwMWUzMGFlMjk1MDFlYjc4NTczNTQ2ZGE1MDE2OTI4",
+  "snapshot_id": "MCwyYTdlMWYzNWJhYTgxZDk3OWE3ODQwZmNmZTRlOTExNWJiMWU2MDNj",
   "tracks": [
     {
       "added_at": "2023-02-08 17:32:03",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "As Daylight Dies (Special Edition)",
-        "url": "https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z"
-      },
-      "artists": [
-        {
-          "name": "Killswitch Engage",
-          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
-        }
-      ],
-      "duration_ms": 250253,
-      "name": "Holy Diver",
-      "url": "https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Primo Victoria (Re-Armed)",
         "url": "https://open.spotify.com/album/0XUH04WpLqnB0Q7Hep3aR0"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 250720,
       "name": "Primo Victoria",
       "url": "https://open.spotify.com/track/5DbAOJ5dYW5A9xBhkeb33t"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "As Daylight Dies (Special Edition)",
+        "url": "https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "duration_ms": 250253,
+      "name": "Holy Diver",
+      "url": "https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
+        "name": "Clayman",
+        "url": "https://open.spotify.com/album/1hVhTWO9hlpPr7T8ORczRd"
+      },
+      "artists": [
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "duration_ms": 294866,
+      "name": "Only for the Weak",
+      "url": "https://open.spotify.com/track/0JBQnLKfLXmlkquabLtAgd"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
         "name": "Worlds Collide",
         "url": "https://open.spotify.com/album/1rmhml18o2KDLUpYMXq6VQ"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 237346,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/1WxF4gMsFXnKCyh48CW2RI"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
-        "name": "Clayman",
-        "url": "https://open.spotify.com/album/1hVhTWO9hlpPr7T8ORczRd"
-      },
-      "artists": [
-        {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
-        }
-      ],
-      "duration_ms": 294866,
-      "name": "Only for the Weak",
-      "url": "https://open.spotify.com/track/0JBQnLKfLXmlkquabLtAgd"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Take A Look In The Mirror",
-        "url": "https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 189960,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/19fYhk0wzXqUOoBqkPsYCP"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "The Sinister Urge",
         "url": "https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 231386,
       "name": "Hearts on Fire",
       "url": "https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Take A Look In The Mirror",
+        "url": "https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 189960,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/19fYhk0wzXqUOoBqkPsYCP"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Reinventing the Steel",
-        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 316493,
-      "name": "Revolution Is My Name",
-      "url": "https://open.spotify.com/track/6LhUsJiXAuxoalUz01evh0"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Primitive (Special Edition)",
         "url": "https://open.spotify.com/album/5d9Rip6cM1xM8uYVepN70l"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 311986,
       "name": "Jumpdafuckup",
       "url": "https://open.spotify.com/track/1UwwbPgKGOoSbqqHm9Xxzn"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Reinventing the Steel",
+        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 316493,
+      "name": "Revolution Is My Name",
+      "url": "https://open.spotify.com/track/6LhUsJiXAuxoalUz01evh0"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Liebe ist f\u00fcr alle da",
-        "url": "https://open.spotify.com/album/3pksjSyo1w4vAPOenAzM4Z"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 301853,
-      "name": "Ich tu dir weh",
-      "url": "https://open.spotify.com/track/47gjUao1XjSO4fvVRm9L55"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Supremacy",
         "url": "https://open.spotify.com/album/3EYFN0Qx0TMeJwSVgWO1ky"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 209066,
       "name": "Destroy Everything",
       "url": "https://open.spotify.com/track/501CSzS4gwNOJnlWHuBt9r"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Liebe ist f\u00fcr alle da",
+        "url": "https://open.spotify.com/album/3pksjSyo1w4vAPOenAzM4Z"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 301853,
+      "name": "Ich tu dir weh",
+      "url": "https://open.spotify.com/track/47gjUao1XjSO4fvVRm9L55"
     },
     {
       "added_at": "2023-02-08 17:32:03",

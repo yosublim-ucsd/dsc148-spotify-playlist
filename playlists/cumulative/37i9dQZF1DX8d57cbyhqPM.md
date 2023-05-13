@@ -2,9 +2,9 @@
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> Du Congo, au monde\. 🌍 Photo: KeBlack
+> Du Congo, au monde\. 🌍 Photo: Serge Ibaka
 
-220 songs - 14 hr 17 min
+222 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Boma Moto](https://open.spotify.com/track/2B4bBd8tmT7JGmwg2svEct) | [Ryan De La Cruz](https://open.spotify.com/artist/0hascI4XWSMRTdWgdxNI8T) | [Boma Moto](https://open.spotify.com/album/5wsSj9qX534eND5nu6MI7h) | 2:57 | 2023-01-06 | 2023-03-18 |
 | [Bomaye](https://open.spotify.com/track/3CEFVlSmv5KRooqXoKSPWS) | [Omo Frenchie](https://open.spotify.com/artist/6VROqAbDagFNCB52DA4nO9) | [Bomaye](https://open.spotify.com/album/2oz2hClmby2iAj7iWulReI) | 2:24 | 2022-10-21 | 2022-12-25 |
 | [Bomaye](https://open.spotify.com/track/50ZsyxjMWxPjzun9kXmxv9) | [Omo Frenchie](https://open.spotify.com/artist/6VROqAbDagFNCB52DA4nO9) | [Bomaye](https://open.spotify.com/album/6ssjdtgwemdgvwovgOdEKr) | 2:24 | 2022-12-16 |  |
+| [Brakata \(Remix\)](https://open.spotify.com/track/6SmG3na48UBkXIGr7N1cUT) | [JD LSK](https://open.spotify.com/artist/6sYvVtA9vuxirfgrRZZxgJ), [Shinestone](https://open.spotify.com/artist/156idiGxU2Q0ZEqaejQFS8) | [Brakata \(Remix\)](https://open.spotify.com/album/6AFW8ZjnaZYGecazh9hEld) | 2:54 | 2023-05-12 |  |
 | [Burning Desire](https://open.spotify.com/track/3qpT9U1rM6FPbW7X3xogK4) | [Joe Gez](https://open.spotify.com/artist/7qVQ6lpoxUeAW4QKafkW6z) | [Burning Desire](https://open.spotify.com/album/4fuF6upvUdk2MhKLtL9x7b) | 2:52 | 2022-06-30 | 2022-10-22 |
 | [Butu Ya Lelo](https://open.spotify.com/track/6ybcrc3Ekrcy65TG0ASgsQ) | [Tcherly N](https://open.spotify.com/artist/5QhZSGrBxIQyLE7Ntl2VEi) | [Butu Ya Lelo](https://open.spotify.com/album/7brNGIzXrN2I5CUbsNmPTW) | 3:42 | 2022-06-30 | 2022-08-20 |
 | [Bébé](https://open.spotify.com/track/2sjJrFhDT0oP3fyCocTVyX) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [19](https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw) | 4:05 | 2022-06-30 | 2022-10-15 |
@@ -85,7 +86,7 @@
 | [Freestyle LVL UP 1](https://open.spotify.com/track/6RLVnSWFkT7ywpXv0XyRhY) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Freestyle LVL UP 1](https://open.spotify.com/album/3TwCsRI1sJRIUi6SPcFPhq) | 1:54 | 2023-05-05 |  |
 | [Furah](https://open.spotify.com/track/5ddDDkPFaCkbl9WBBlFeI4) | [Pson](https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt) | [Furah](https://open.spotify.com/album/5rD89G23WIlfKzGbGXiJJx) | 3:44 | 2023-01-06 | 2023-04-09 |
 | [Garde du coeur \(feat\. Charlotte Dipanda\)](https://open.spotify.com/track/5gpFpZOZ67HfKpwjZeQMkf) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Charlotte Dipanda](https://open.spotify.com/artist/3qt4OYC2CeOuVjKtzGMobL) | [Garde du coeur \(feat\. Charlotte Dipanda\)](https://open.spotify.com/album/0qLNkh0AwO8ospd87D4jxe) | 7:40 | 2022-12-02 | 2022-12-17 |
-| [Gbadolite](https://open.spotify.com/track/0mLtyubIbBG49c9ZMyJdOD) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [Uproot Andy](https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc), [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX) | [Gbadolite](https://open.spotify.com/album/54cR24WGOY6cAzardW0NEN) | 4:26 | 2022-06-30 |  |
+| [Gbadolite](https://open.spotify.com/track/0mLtyubIbBG49c9ZMyJdOD) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [Uproot Andy](https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc), [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX) | [Gbadolite](https://open.spotify.com/album/54cR24WGOY6cAzardW0NEN) | 4:26 | 2022-06-30 | 2023-05-13 |
 | [General](https://open.spotify.com/track/0lDx9Br2w3nX5loNu8OSMV) | [Sepho M](https://open.spotify.com/artist/4xlvdyNJ8KwXdrmCvParRE) | [General](https://open.spotify.com/album/7zIogOZFOtJ3zQzB4Obmr3) | 3:05 | 2023-02-24 | 2023-04-15 |
 | [Genkidama](https://open.spotify.com/track/1Jbim0t3F0TlAgBcza6tty) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Genkidama](https://open.spotify.com/album/3pzQi3OkoXi5xWgIcHmKfZ) | 3:04 | 2023-03-17 |  |
 | [Good Girl](https://open.spotify.com/track/3SP8A2N48XakBLHR8attPr) | [BMK](https://open.spotify.com/artist/7glinXeNR9Fs1UXGRcrbDk) | [Good Girl](https://open.spotify.com/album/7DEKSaSWU64dNbPqAXcnf7) | 2:40 | 2022-06-30 | 2022-08-27 |
@@ -151,6 +152,7 @@
 | [Nawe](https://open.spotify.com/track/1eP4rDdU5UohUBzfksBzOX) | [Percy](https://open.spotify.com/artist/49Jl2qfrGf6cNyZknXuMXJ), [Badi](https://open.spotify.com/artist/1NyPuswLVpGQYtybS22vKr), [Alesh](https://open.spotify.com/artist/1eoHFjFKLn2lr7FpLNSWdT) | [Nawe](https://open.spotify.com/album/6WgcT5ZDMaV10p0NdVwfKt) | 3:21 | 2022-06-30 | 2023-02-04 |
 | [Ndombolo](https://open.spotify.com/track/2DzhQ5UXu8fDQaQ0WaMYHK) | [J.B\. Mpiana](https://open.spotify.com/artist/6ZZMaIylugRJgjP7CAg7DX), [Wenge Musica](https://open.spotify.com/artist/196Mh2yrd4xaNupimhUmpP), [Papa Wemba](https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ) | [Feux de l'amour](https://open.spotify.com/album/2R1EfXW4P5627Q6qZqxPtF) | 3:22 | 2022-06-30 |  |
 | [Ngwende](https://open.spotify.com/track/5aanLdGgQfMm3qUViDhw2i) | [Fabregas le Métis Noir](https://open.spotify.com/artist/49ip7SoDZFm62AzVHPci6X) | [Je Pense « Poison »](https://open.spotify.com/album/6J7Q7SA4FwKekL6vtcGrOL) | 5:25 | 2022-06-30 | 2022-12-17 |
+| [Niata](https://open.spotify.com/track/1mtlYmtelBzQWEbHm07q1o) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [Niata](https://open.spotify.com/album/1JsCxj69403hiZzgNnKOYJ) | 3:02 | 2023-05-12 |  |
 | [Nina](https://open.spotify.com/track/1W5DSRAV2v550mvABI4ALR) | [Stone Komo](https://open.spotify.com/artist/30ZQRYlnhYefXWcsiNUvye), [Pson](https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt) | [Nina](https://open.spotify.com/album/6gYE1CUrLLIVw0uMNoSB6b) | 2:52 | 2022-09-16 |  |
 | [No No](https://open.spotify.com/track/1Frpb7u9lv3F12FoSlCoad) | [Sarah Kalume](https://open.spotify.com/artist/4hsGIQkG9TREkjWoXFRlAa) | [No No](https://open.spotify.com/album/7a0U6MdaIRecUdfwy749GX) | 3:54 | 2023-02-24 |  |
 | [Nous deux](https://open.spotify.com/track/6APVzgDu9ni6rIcSubOZz3) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Nous deux](https://open.spotify.com/album/4P6ow8BZHDgWESXQMjUUzK) | 3:41 | 2023-04-07 |  |
@@ -183,7 +185,7 @@
 | [Répondeur](https://open.spotify.com/track/215HuX5KUiYvdfQ5cO33Xd) | [Seven Binks](https://open.spotify.com/artist/12SPMb4VM4PyBD9no01jbH), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D) | [Monument](https://open.spotify.com/album/0qdoV48ifvkgiHkczUszyI) | 3:16 | 2022-06-30 | 2022-11-19 |
 | [Sakwado](https://open.spotify.com/track/6wQzmZREyVEFT2LTWoK3jE) | [George Kipa](https://open.spotify.com/artist/3ueSDQRME8RZFqJpJUEsxR), [Gbandz](https://open.spotify.com/artist/3dq9mDztwPneAJs5bZkgWw), [Mwizz](https://open.spotify.com/artist/5bSeeBLmB0lRlEQk02KoeU) | [Sakwado](https://open.spotify.com/album/1lXZ9T2DUQuxUnqtbiSL3W) | 2:40 | 2022-06-30 |  |
 | [Sala Sala](https://open.spotify.com/track/4ds8dnIqgWtzuxrnFrkS7q) | [Les Mamans du Congo](https://open.spotify.com/artist/7i6SYXEQQzBMOlb4M9hE1I), [RROBIN](https://open.spotify.com/artist/2xPaqV5LOTeUjSsMGaLVmY) | [Sala Sala](https://open.spotify.com/album/60M7cgeuKTmU3u9jMxRkAW) | 4:24 | 2023-02-10 | 2023-03-18 |
-| [Sapés comme jamais \(feat\. Niska\) \- Pilule bleue](https://open.spotify.com/track/0CJ31BEjjl1tPIj0CKi9kH) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Mon coeur avait raison](https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur) | 3:26 | 2022-10-14 |  |
+| [Sapés comme jamais \(feat\. Niska\) \- Pilule bleue](https://open.spotify.com/track/0CJ31BEjjl1tPIj0CKi9kH) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Mon coeur avait raison](https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur) | 3:26 | 2022-10-14 | 2023-05-13 |
 | [Science\-Fiction](https://open.spotify.com/track/2GSk3VrKZZGRfDejDmhi86) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Science\-Fiction](https://open.spotify.com/album/5OWv5Bpm5LYBwMGYKFkBpj) | 6:40 | 2022-08-26 | 2022-10-08 |
 | [Se Yo](https://open.spotify.com/track/1dNDtsCf0m5aQ6SdpgyTo1) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Se Yo](https://open.spotify.com/album/1Bgi3Kwi0hub7WFY3XKsXz) | 7:21 | 2022-10-07 | 2022-12-03 |
 | [Si je savais ça](https://open.spotify.com/track/4RqQKQ4VxlYC6zWHgCQb5p) | [Madilu System](https://open.spotify.com/artist/7dXTUndlDjlH9V5I9KRWjm) | [Dernière volonté](https://open.spotify.com/album/1fPlYiVtjdFgVcTMH4Q9IO) | 6:56 | 2023-03-17 | 2023-04-29 |

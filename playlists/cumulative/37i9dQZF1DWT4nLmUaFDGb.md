@@ -4,7 +4,7 @@
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-207 songs - 13 hr 15 min
+208 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Fire and Rain](https://open.spotify.com/track/4WQnAZU9ydRZ7XCwj4aEB5) | [Rigmor Gustafsson](https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU), [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP) | [I Will Wait for You \(with Nils Landgren & FleshQuartet\)](https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE) | 4:02 | 2021-12-21 |  |
 | [Fly Me To The Moon](https://open.spotify.com/track/7ilc2TB1RZXbQJyFs5qCiC) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Shadow Of Your Smile](https://open.spotify.com/album/37xKx9ymHBSgYX02zZhwb9) | 2:22 | 2021-12-21 | 2022-12-06 |
 | [From Paris With Love \- Single Version](https://open.spotify.com/track/5mw9Ox2dKksNDip74o6hU2) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [From Paris With Love](https://open.spotify.com/album/5Bk1iF2vmR6nGnX98KIuLH) | 4:48 | 2021-12-21 |  |
+| [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-05-11 |  |
 | [Girl from Ipanema](https://open.spotify.com/track/75TwPttPOaiTcP2BH6tdFW) | [Jonny Blu](https://open.spotify.com/artist/6uoCJh6AdFGLXtjUMhAJXw) | [The Best of Blu](https://open.spotify.com/album/3Y0clI1wk8ASZcNLeeFXWT) | 2:50 | 2021-12-21 |  |
 | [Hallelujah](https://open.spotify.com/track/3Fn1AoG7bIcMKPKy30KtKD) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Here It Is: A Tribute to Leonard Cohen](https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff) | 6:20 | 2022-11-10 |  |
 | [Harvest Moon](https://open.spotify.com/track/7sx41M0GEQPLMYt3FjCnSw) | [Jane Birkin](https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5) | [Fictions](https://open.spotify.com/album/13GE9LY5RpnTYTZ12LywX3) | 3:05 | 2021-12-21 |  |
@@ -118,7 +119,7 @@
 | [L\-O\-V\-E](https://open.spotify.com/track/06V4dX5wFakgvxaOaOIkOV) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Nat "King" Cole & Me](https://open.spotify.com/album/68XMYcFR8GebAgWi2zkT6u) | 2:08 | 2022-09-08 | 2022-10-08 |
 | [L\-O\-V\-E](https://open.spotify.com/track/70gk9Y6aKEdWiASuu59T7Q) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Nat "King" Cole & Me \(Deluxe\)](https://open.spotify.com/album/32neEPsXGNu2uoJuTxirbd) | 2:08 | 2021-12-21 | 2022-07-29 |
 | [La belle vie \- The Good Life](https://open.spotify.com/track/3bO3Bh5Cx2fRM75q42vrJE) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz), [Jeff Goldblum](https://open.spotify.com/artist/0O1n2TpXR4XizmHi7aY0l8) | [La belle vie \- The Good Life](https://open.spotify.com/album/5j9lwYLRgkVtN5HWJ08wfH) | 3:42 | 2021-12-21 | 2023-04-24 |
-| [La Vie En Rose](https://open.spotify.com/track/6kEi3816EhM1usV0W3DWGD) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Passion World](https://open.spotify.com/album/2pSQtV2WOa5tKWhaFaZqBi) | 8:12 | 2021-12-21 |  |
+| [La Vie En Rose](https://open.spotify.com/track/6kEi3816EhM1usV0W3DWGD) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Passion World](https://open.spotify.com/album/2pSQtV2WOa5tKWhaFaZqBi) | 8:12 | 2021-12-21 | 2023-05-13 |
 | [Look Of Love](https://open.spotify.com/track/1wb7rKI0B6Bjgfvoscu32w) | [Tok Tok Tok](https://open.spotify.com/artist/6NuChX9FrWXTUYgJUT0DYH) | [Love Again](https://open.spotify.com/album/0ZnfdSj8QzEIZxVSaKkMYX) | 3:50 | 2022-09-08 |  |
 | [Love of My Life](https://open.spotify.com/track/2xswKfIsupPXsS16zJApYo) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP), [Johan Norberg](https://open.spotify.com/artist/2awA1B7HXmbpuyMEJQkEyr), [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS), [Rasmus Kihlberg](https://open.spotify.com/artist/1HtXGJ1iYUcRZCirb47OmR) | [Eternal Beauty](https://open.spotify.com/album/0gSq5AEue1uEipwnTgWvOx) | 2:51 | 2022-08-19 |  |
 | [Love You Anymore](https://open.spotify.com/track/7JEUg9KqmpdIE5Nbb9ss66) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [love \(Deluxe Edition\)](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) | 3:02 | 2021-12-21 | 2022-08-30 |

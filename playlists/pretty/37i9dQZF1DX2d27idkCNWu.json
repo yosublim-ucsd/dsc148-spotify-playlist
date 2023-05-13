@@ -1,12 +1,12 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 261005,
+  "num_followers": 261029,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjMwZDQwOWJhNDRmY2I1NjQ5NzFlMzI2YWQ3YzZhMTM5YjNhNjdl",
+  "snapshot_id": "MCw2ZmY1ZGM1NGM1Y2MxNjM4MjNmMzg2OGE1YWY0ODE5ZDBjOTQ2MmFl",
   "tracks": [
     {
       "added_at": "2023-05-05 15:50:41",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-05-05 15:50:41",
       "album": {
-        "name": "Mistakes",
-        "url": "https://open.spotify.com/album/2gdsRtb1ckC5S0sC2VxwTJ"
-      },
-      "artists": [
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        }
-      ],
-      "duration_ms": 149451,
-      "name": "Mistakes",
-      "url": "https://open.spotify.com/track/4NAraLVJxtLPJhmKKVklKa"
-    },
-    {
-      "added_at": "2023-05-05 15:50:41",
-      "album": {
         "name": "The Village Sessions",
         "url": "https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 232706,
       "name": "Slow Dancing in a Burning Room - Acoustic",
       "url": "https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2"
+    },
+    {
+      "added_at": "2023-05-05 15:50:41",
+      "album": {
+        "name": "Mistakes",
+        "url": "https://open.spotify.com/album/2gdsRtb1ckC5S0sC2VxwTJ"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "duration_ms": 149451,
+      "name": "Mistakes",
+      "url": "https://open.spotify.com/track/4NAraLVJxtLPJhmKKVklKa"
     },
     {
       "added_at": "2023-05-05 15:50:41",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-05-05 15:50:41",
       "album": {
-        "name": "Pointless (Strings Acoustic)",
-        "url": "https://open.spotify.com/album/1cblE478ZQE4G3sDtGprqy"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 240238,
-      "name": "Pointless - Strings Acoustic",
-      "url": "https://open.spotify.com/track/4rmuX9LHbxYYJuPtP353uL"
-    },
-    {
-      "added_at": "2023-05-05 15:50:41",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 214586,
       "name": "Lost In Japan - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7b1WVMX0FShcPWct8ca7ma"
+    },
+    {
+      "added_at": "2023-05-05 15:50:41",
+      "album": {
+        "name": "Pointless (Strings Acoustic)",
+        "url": "https://open.spotify.com/album/1cblE478ZQE4G3sDtGprqy"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 240238,
+      "name": "Pointless - Strings Acoustic",
+      "url": "https://open.spotify.com/track/4rmuX9LHbxYYJuPtP353uL"
     },
     {
       "added_at": "2023-05-05 15:50:41",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-05-05 15:50:41",
       "album": {
-        "name": "Cheap Queen",
-        "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 202280,
-      "name": "Ain't Together",
-      "url": "https://open.spotify.com/track/4aGvs7y4hQIbGss7zmEXKf"
-    },
-    {
-      "added_at": "2023-05-05 15:50:41",
-      "album": {
         "name": "Acoustic In Nashville - Bootleg No. 2",
         "url": "https://open.spotify.com/album/7JnRIaA7a4XHmZBCAhPvqp"
       },
@@ -935,34 +919,18 @@
     {
       "added_at": "2023-05-05 15:50:41",
       "album": {
-        "name": "Dancing On My Own (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/00mmd7BRu1UElUfOd5GQtf"
+        "name": "Cheap Queen",
+        "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
       },
       "artists": [
         {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
         }
       ],
-      "duration_ms": 230553,
-      "name": "Dancing On My Own - triple j Like A Version",
-      "url": "https://open.spotify.com/track/6AZl84TvY6zvp1wqoyTVvV"
-    },
-    {
-      "added_at": "2023-05-05 15:50:41",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 227927,
-      "name": "Somewhere Only We know - Live from Spotify, London",
-      "url": "https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T"
+      "duration_ms": 202280,
+      "name": "Ain't Together",
+      "url": "https://open.spotify.com/track/4aGvs7y4hQIbGss7zmEXKf"
     },
     {
       "added_at": "2023-05-05 15:50:41",
@@ -983,6 +951,38 @@
       "duration_ms": 232906,
       "name": "Make Me (Cry) - Acoustic Version",
       "url": "https://open.spotify.com/track/6pP5RJbBH6eKR8BCYX3MSU"
+    },
+    {
+      "added_at": "2023-05-05 15:50:41",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 227927,
+      "name": "Somewhere Only We know - Live from Spotify, London",
+      "url": "https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T"
+    },
+    {
+      "added_at": "2023-05-05 15:50:41",
+      "album": {
+        "name": "Dancing On My Own (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/00mmd7BRu1UElUfOd5GQtf"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 230553,
+      "name": "Dancing On My Own - triple j Like A Version",
+      "url": "https://open.spotify.com/track/6AZl84TvY6zvp1wqoyTVvV"
     },
     {
       "added_at": "2023-05-05 15:50:41",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-05-05 15:50:41",
       "album": {
+        "name": "Releituras",
+        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 178081,
+      "name": "Coisas Que Eu Sei",
+      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
+    },
+    {
+      "added_at": "2023-05-05 15:50:41",
+      "album": {
         "name": "Coast (Acoustic)",
         "url": "https://open.spotify.com/album/7M4wQVXsGx99nOIajsGkvO"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 214000,
       "name": "Thunder - Live/Acoustic",
       "url": "https://open.spotify.com/track/2mZrKpdrNUA4oZJWzTunqZ"
-    },
-    {
-      "added_at": "2023-05-05 15:50:41",
-      "album": {
-        "name": "Releituras",
-        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 178081,
-      "name": "Coisas Que Eu Sei",
-      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
     },
     {
       "added_at": "2023-05-05 15:50:41",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-05-05 15:50:41",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 213542,
-      "name": "More Than Words - Spotify Singles",
-      "url": "https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae"
-    },
-    {
-      "added_at": "2023-05-05 15:50:41",
-      "album": {
         "name": "Acoustic EP",
         "url": "https://open.spotify.com/album/2sRSdxx5eJz8mewqaf6hmy"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 233160,
       "name": "Here Without You - Acoustic Version",
       "url": "https://open.spotify.com/track/0NGSH2Ah772qMcLTANjyO7"
+    },
+    {
+      "added_at": "2023-05-05 15:50:41",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 213542,
+      "name": "More Than Words - Spotify Singles",
+      "url": "https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae"
     },
     {
       "added_at": "2023-05-05 15:50:41",

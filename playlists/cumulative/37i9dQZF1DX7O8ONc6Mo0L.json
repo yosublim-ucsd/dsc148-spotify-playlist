@@ -448,7 +448,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 289772,
       "name": "Comigo Est\u00e1s - Ao Vivo",
       "url": "https://open.spotify.com/track/2eDcy7W8SCXkfe8IxdNu28"
@@ -793,6 +793,28 @@
     },
     {
       "album": {
+        "name": "Estou Com Voc\u00ea (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4xtgYl7Z9EIXPnwKWz7IGu"
+      },
+      "artists": [
+        {
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+        },
+        {
+          "name": "Sulset Music",
+          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285000,
+      "name": "Estou Com Voc\u00ea - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1q5Dqlj8PNIuqaSx9VzNrX"
+    },
+    {
+      "album": {
         "name": "Eu e o Rei (Ao Vivo)",
         "url": "https://open.spotify.com/album/0AeMfjhgwyDmcROxbEIYVJ"
       },
@@ -952,7 +974,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 249000,
       "name": "Express\u00e3o de Louvor - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3vMnBRfXNxKqr8TeCi7L1K"
@@ -1856,6 +1878,28 @@
       "duration_ms": 230792,
       "name": "Recome\u00e7ar",
       "url": "https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6"
+    },
+    {
+      "album": {
+        "name": "Rude Cruz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1R8t64G5z3pRiAzlDSeA6C"
+      },
+      "artists": [
+        {
+          "name": "Pr. Lucas",
+          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
+        },
+        {
+          "name": "Bekah Costa",
+          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303780,
+      "name": "Rude Cruz (Ao Vivo)",
+      "url": "https://open.spotify.com/track/583p2yhPa1VqXQiPH0yGzb"
     },
     {
       "album": {

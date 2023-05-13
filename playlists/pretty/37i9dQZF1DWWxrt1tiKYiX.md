@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxrt1tiKYiX.md) - [plain]
 
 > Lovely, acoustic pop\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,744 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,825 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxrt1tiKYiX.md) - [plain]
 | 38 | [IT'S YOU \(feat\. keshi\) \- Stripped Version](https://open.spotify.com/track/5XhyWkCp2jcYo3bJJoYASW) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [IT'S YOU \(feat\. keshi\) \[Stripped Version\]](https://open.spotify.com/album/5jHyTMPIvcjpjqkdqmSEmP) | 2:38 |
 | 39 | [Heaven \(Acoustic\)](https://open.spotify.com/track/0B4MTjEdRDso17Oy9iugE7) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Heaven \(Acoustic\)](https://open.spotify.com/album/0Ju0PhEN0Z43pCKc7ah1HN) | 3:12 |
 | 40 | [All That Really Matters \- Stripped Version](https://open.spotify.com/track/3fPc9bBcho6PKnaIkQs87u) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [All That Really Matters \(Stripped Version\)](https://open.spotify.com/album/7qTaZSmNrPdj909ayvnalM) | 3:18 |
-| 41 | [Feels This Good \(feat\. Stefflon Don\) \- Acoustic](https://open.spotify.com/track/2mzEYOnypTxiC5WVDZR6ZE) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Feels This Good \(feat\. Stefflon Don\)](https://open.spotify.com/album/7GnaLWzyYTxpcRRnEQhrJd) | 3:27 |
+| 41 | [Feels This Good \(feat\. Stefflon Don\) \- Acoustic](https://open.spotify.com/track/2mzEYOnypTxiC5WVDZR6ZE) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Feels This Good \(feat\. Stefflon Don\) \[Acoustic\]](https://open.spotify.com/album/7GnaLWzyYTxpcRRnEQhrJd) | 3:27 |
 | 42 | [State Of Grace \(Acoustic Version\) \(Taylor's Version\)](https://open.spotify.com/track/5jAIouBES8LWMiriuNq170) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 5:21 |
 | 43 | [Chasing Stars \(feat\. James Bay\) \[Stripped\]](https://open.spotify.com/track/13IMd84eJeHLdnLbzmIP2Q) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chasing Stars \(Stripped\)](https://open.spotify.com/album/7IY75Hh3USffqjFZi2oCNz) | 2:44 |
 | 44 | [Kiss Me \- Guitar](https://open.spotify.com/track/0X2DSuFNxMdw6Gr4XZcTqJ) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Kiss Me](https://open.spotify.com/album/23A1VrlL0AyJkv6OpZofNy) | 3:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxrt1tiKYiX.md) - [plain]
 | 99 | [New Rules \- Acoustic](https://open.spotify.com/track/4X283dKwcjIqJiOCV1dMBJ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [New Rules \(Acoustic\)](https://open.spotify.com/album/6kuqSRKActdXC7tu7c0L3o) | 3:33 |
 | 100 | [You should be sad \- Acoustic](https://open.spotify.com/track/4whxuYrgqxYoqqp41iIw66) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc) | 3:18 |
 
-Snapshot ID: `MCwzNmI3NWJmZDYzZGVhMGM4MmFmYjhmMWE5N2Y4MGQzMDA1ZGQxNTEy`
+Snapshot ID: `MCxhMTA0NGZjYTNhZTFhNTI5ODE3NDE0MTA4MzU2OGFjMjgwOWIyOTU4`

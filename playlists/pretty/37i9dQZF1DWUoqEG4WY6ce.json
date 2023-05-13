@@ -1,12 +1,12 @@
 {
   "description": "Hop in.",
-  "num_followers": 1020583,
+  "num_followers": 1020811,
   "original_name": "Indie Rock Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzVhZTVmZjFiNWNlMWVkNTE5NTJmYTVmMzYyZTRlMjE4MDIzZDRi",
+  "snapshot_id": "MCxkZjk0ZDVkODA4NGVkZDZiMTIzNTAwNjQwYTQ1YThlN2U0NGExZDMy",
   "tracks": [
     {
       "added_at": "2022-11-29 19:35:01",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-11-29 19:35:01",
       "album": {
-        "name": "The Slow Rush",
-        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 249586,
-      "name": "Lost In Yesterday",
-      "url": "https://open.spotify.com/track/5JWPUEov2wlX7c0jhYZpeB"
-    },
-    {
-      "added_at": "2022-11-29 19:35:01",
-      "album": {
         "name": "Get Behind Me Satan",
         "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 157560,
       "name": "Blue Orchid",
       "url": "https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1"
+    },
+    {
+      "added_at": "2022-11-29 19:35:01",
+      "album": {
+        "name": "The Slow Rush",
+        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 249586,
+      "name": "Lost In Yesterday",
+      "url": "https://open.spotify.com/track/5JWPUEov2wlX7c0jhYZpeB"
     },
     {
       "added_at": "2022-11-29 19:35:01",
@@ -679,6 +679,22 @@
     {
       "added_at": "2022-11-29 19:35:01",
       "album": {
+        "name": "White Blood Cells",
+        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 140178,
+      "name": "We're Going to Be Friends",
+      "url": "https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ"
+    },
+    {
+      "added_at": "2022-11-29 19:35:01",
+      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 206465,
       "name": "Me & My Dog",
       "url": "https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2"
-    },
-    {
-      "added_at": "2022-11-29 19:35:01",
-      "album": {
-        "name": "White Blood Cells",
-        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 140178,
-      "name": "We're Going to Be Friends",
-      "url": "https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ"
     },
     {
       "added_at": "2022-11-29 19:35:01",
@@ -965,22 +965,6 @@
       "url": "https://open.spotify.com/track/6Hmj7SrLRbreLVfVS7mV1S"
     },
     {
-      "added_at": "2023-02-10 00:03:20",
-      "album": {
-        "name": "Tropic Morning News",
-        "url": "https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 309400,
-      "name": "Tropic Morning News",
-      "url": "https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL"
-    },
-    {
       "added_at": "2022-11-29 19:35:01",
       "album": {
         "name": "We Were Dead Before The Ship Even Sank",
@@ -1013,6 +997,22 @@
       "url": "https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01"
     },
     {
+      "added_at": "2023-02-10 00:03:20",
+      "album": {
+        "name": "Tropic Morning News",
+        "url": "https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 309400,
+      "name": "Tropic Morning News",
+      "url": "https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL"
+    },
+    {
       "added_at": "2022-11-29 19:35:01",
       "album": {
         "name": "Landmark",
@@ -1027,6 +1027,22 @@
       "duration_ms": 245456,
       "name": "Way It Goes",
       "url": "https://open.spotify.com/track/6CES1554HcWMIVroJfmmBm"
+    },
+    {
+      "added_at": "2022-11-29 19:35:01",
+      "album": {
+        "name": "Lonesome Dreams (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 284146,
+      "name": "Ends of the Earth",
+      "url": "https://open.spotify.com/track/1KQsrNv2vEW7AXKTrFz0Ah"
     },
     {
       "added_at": "2022-11-29 19:35:01",
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2022-11-29 19:35:01",
       "album": {
-        "name": "Lonesome Dreams (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 284146,
-      "name": "Ends of the Earth",
-      "url": "https://open.spotify.com/track/1KQsrNv2vEW7AXKTrFz0Ah"
-    },
-    {
-      "added_at": "2022-11-29 19:35:01",
-      "album": {
         "name": "The Suburbs (Deluxe)",
         "url": "https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F"
       },
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-11-29 19:35:01",
       "album": {
-        "name": "Illinois",
-        "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 364613,
-      "name": "Chicago",
-      "url": "https://open.spotify.com/track/1yupbrI7ROhigIHpQBevPh"
-    },
-    {
-      "added_at": "2022-11-29 19:35:01",
-      "album": {
         "name": "Santa Catalina",
         "url": "https://open.spotify.com/album/6wv8zT8vG5EICl083UHoVm"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 235000,
       "name": "Driving South",
       "url": "https://open.spotify.com/track/1Mp50vmIphq9ui2UUJoX3m"
+    },
+    {
+      "added_at": "2022-11-29 19:35:01",
+      "album": {
+        "name": "Illinois",
+        "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 364613,
+      "name": "Chicago",
+      "url": "https://open.spotify.com/track/1yupbrI7ROhigIHpQBevPh"
     },
     {
       "added_at": "2022-11-29 19:35:01",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-11-29 19:35:01",
       "album": {
-        "name": "Miike Snow",
-        "url": "https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi"
-      },
-      "artists": [
-        {
-          "name": "Miike Snow",
-          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
-        }
-      ],
-      "duration_ms": 263426,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2"
-    },
-    {
-      "added_at": "2022-11-29 19:35:01",
-      "album": {
         "name": "Ode to a Conversation Stuck in Your Throat",
         "url": "https://open.spotify.com/album/5e8S6KvNbnZBbNzaL2YcLJ"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 198927,
       "name": "Ode to a Conversation Stuck in Your Throat",
       "url": "https://open.spotify.com/track/6JwkAGwClwUzcOi0ZBbSLe"
+    },
+    {
+      "added_at": "2022-11-29 19:35:01",
+      "album": {
+        "name": "Miike Snow",
+        "url": "https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi"
+      },
+      "artists": [
+        {
+          "name": "Miike Snow",
+          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+        }
+      ],
+      "duration_ms": 263426,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2"
     },
     {
       "added_at": "2022-11-29 19:35:01",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-11-29 19:35:01",
       "album": {
-        "name": "California",
-        "url": "https://open.spotify.com/album/4rX32NbzVfD94VvckCyNjc"
-      },
-      "artists": [
-        {
-          "name": "The Lagoons",
-          "url": "https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd"
-        }
-      ],
-      "duration_ms": 261773,
-      "name": "California",
-      "url": "https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ"
-    },
-    {
-      "added_at": "2022-11-29 19:35:01",
-      "album": {
         "name": "Consolers of the Lonely",
         "url": "https://open.spotify.com/album/3yx8gEFlojRtt2WBhmxwfg"
       },
@@ -1531,6 +1515,38 @@
     {
       "added_at": "2022-11-29 19:35:01",
       "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/4rX32NbzVfD94VvckCyNjc"
+      },
+      "artists": [
+        {
+          "name": "The Lagoons",
+          "url": "https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd"
+        }
+      ],
+      "duration_ms": 261773,
+      "name": "California",
+      "url": "https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ"
+    },
+    {
+      "added_at": "2022-11-29 19:35:01",
+      "album": {
+        "name": "Yoshimi Battles the Pink Robots",
+        "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
+      },
+      "artists": [
+        {
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+        }
+      ],
+      "duration_ms": 287506,
+      "name": "Yoshimi Battles the Pink Robots, Pt. 1",
+      "url": "https://open.spotify.com/track/0ccCwNzXvr1Yoz91vKz31Z"
+    },
+    {
+      "added_at": "2022-11-29 19:35:01",
+      "album": {
         "name": "An Awesome Wave",
         "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 314556,
       "name": "Daft Punk Is Playing at My House",
       "url": "https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI"
-    },
-    {
-      "added_at": "2022-11-29 19:35:01",
-      "album": {
-        "name": "Yoshimi Battles the Pink Robots",
-        "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
-      },
-      "artists": [
-        {
-          "name": "The Flaming Lips",
-          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
-        }
-      ],
-      "duration_ms": 287506,
-      "name": "Yoshimi Battles the Pink Robots, Pt. 1",
-      "url": "https://open.spotify.com/track/0ccCwNzXvr1Yoz91vKz31Z"
     },
     {
       "added_at": "2022-11-29 19:35:01",

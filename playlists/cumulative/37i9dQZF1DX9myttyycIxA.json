@@ -3476,7 +3476,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 212000,
       "name": "Cowboys in the Dark",
       "url": "https://open.spotify.com/track/4chdbznSgQEiTsmKY1mKLh"
@@ -8022,7 +8022,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 328706,
       "name": "In My Drink",
       "url": "https://open.spotify.com/track/4hfC9vhK3zPAn3qZ7ojv7f"
@@ -9254,7 +9254,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 161973,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/6VVKpaJkY7dc4uGP0pE1KX"
@@ -9582,6 +9582,24 @@
       "duration_ms": 193941,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/7B2BcS96XE8i0x9wiXrTij"
+    },
+    {
+      "album": {
+        "name": "Elizabethtown.",
+        "url": "https://open.spotify.com/album/7epCR4GKjfqGTuKZMyhtid"
+      },
+      "artists": [
+        {
+          "name": "Cottonwood Firing Squad",
+          "url": "https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136649,
+      "name": "mean creek.",
+      "url": "https://open.spotify.com/track/00AM3zuuier3pzRI0dFhSO"
     },
     {
       "album": {
@@ -11232,6 +11250,24 @@
       "duration_ms": 180500,
       "name": "Pls",
       "url": "https://open.spotify.com/track/0huewUKXZxVWSsQlrGT19m"
+    },
+    {
+      "album": {
+        "name": "Pocket",
+        "url": "https://open.spotify.com/album/7apMWaYl5LtImOrAHGPkEd"
+      },
+      "artists": [
+        {
+          "name": "feeble little horse",
+          "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159896,
+      "name": "Pocket",
+      "url": "https://open.spotify.com/track/4reov1NyIRb9nMNLG8pkH5"
     },
     {
       "album": {
@@ -14648,6 +14684,24 @@
       "duration_ms": 231134,
       "name": "Time to Melt",
       "url": "https://open.spotify.com/track/49csj8JI9bpJ0aFBeRGmpN"
+    },
+    {
+      "album": {
+        "name": "time waits",
+        "url": "https://open.spotify.com/album/0bQ8W6aJPOW3CI6vlGZGTZ"
+      },
+      "artists": [
+        {
+          "name": "Glitter Party",
+          "url": "https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199760,
+      "name": "time waits",
+      "url": "https://open.spotify.com/track/6KVFcap7bKzswabvTXqzh4"
     },
     {
       "album": {

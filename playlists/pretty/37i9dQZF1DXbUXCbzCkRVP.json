@@ -1,12 +1,12 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 31975,
+  "num_followers": 32025,
   "original_name": "Instrumental Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTI3Y2E4ZjBlNTFkMWVjNjg3MjJiM2E0N2NkNzY3NGE2YWNlYmFm",
+  "snapshot_id": "MCxkOTYyMzc0NTljZGFmZjYzNmMwMTQ5Y2MyZGMzZDkxYzFiMTk1NmU0",
   "tracks": [
     {
       "added_at": "2023-04-28 16:38:03",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
-        "name": "Chicago/The Blues/Today!",
-        "url": "https://open.spotify.com/album/7mBBWwpCTFnrVDci6WYU9T"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann's South Side Piano",
-          "url": "https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2"
-        }
-      ],
-      "duration_ms": 141560,
-      "name": "Spann's Stomp",
-      "url": "https://open.spotify.com/track/1gWCbuU98lwewH3n7xt6rT"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
         "name": "For Collectors Only (The Wham Of That Memphis Man)",
         "url": "https://open.spotify.com/album/5tgQYUZW6IHoi2VvP3yW7v"
       },
@@ -435,22 +419,6 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
-        "name": "Sweet Emma",
-        "url": "https://open.spotify.com/album/255HReDR5ysQDnH8WkpTJL"
-      },
-      "artists": [
-        {
-          "name": "Michael Reiss",
-          "url": "https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy"
-        }
-      ],
-      "duration_ms": 341854,
-      "name": "You Don't Know Me",
-      "url": "https://open.spotify.com/track/14ZXH12Uk9RJStH5x1RoXT"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
         "name": "Blue Guitar",
         "url": "https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP"
       },
@@ -463,6 +431,38 @@
       "duration_ms": 161479,
       "name": "Blue Guitar",
       "url": "https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
+        "name": "Chicago/The Blues/Today!",
+        "url": "https://open.spotify.com/album/7mBBWwpCTFnrVDci6WYU9T"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann's South Side Piano",
+          "url": "https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2"
+        }
+      ],
+      "duration_ms": 141560,
+      "name": "Spann's Stomp",
+      "url": "https://open.spotify.com/track/1gWCbuU98lwewH3n7xt6rT"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
+        "name": "Sweet Emma",
+        "url": "https://open.spotify.com/album/255HReDR5ysQDnH8WkpTJL"
+      },
+      "artists": [
+        {
+          "name": "Michael Reiss",
+          "url": "https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy"
+        }
+      ],
+      "duration_ms": 341854,
+      "name": "You Don't Know Me",
+      "url": "https://open.spotify.com/track/14ZXH12Uk9RJStH5x1RoXT"
     },
     {
       "added_at": "2023-04-28 16:38:03",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
-        "name": "Blues On Blues",
-        "url": "https://open.spotify.com/album/1XHnDSzTvbGK4oJkOtzC7V"
-      },
-      "artists": [
-        {
-          "name": "Pee Wee Crayton",
-          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
-        }
-      ],
-      "duration_ms": 183279,
-      "name": "Blues After Hours",
-      "url": "https://open.spotify.com/track/60ySIiaWLG77hphydDwmNn"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
         "name": "Io",
         "url": "https://open.spotify.com/album/5ughw0JaRjOMakLyA0kw20"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 284000,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/3SjpJJDdlE4HDbKzPzJXQw"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
+        "name": "Blues On Blues",
+        "url": "https://open.spotify.com/album/1XHnDSzTvbGK4oJkOtzC7V"
+      },
+      "artists": [
+        {
+          "name": "Pee Wee Crayton",
+          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
+        }
+      ],
+      "duration_ms": 183279,
+      "name": "Blues After Hours",
+      "url": "https://open.spotify.com/track/60ySIiaWLG77hphydDwmNn"
     },
     {
       "added_at": "2023-04-28 16:38:03",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
-        "name": "Music For Mad Men - Robust Blues",
-        "url": "https://open.spotify.com/album/2L1bV6IHXipTrOZTpOjgbg"
-      },
-      "artists": [
-        {
-          "name": "Lowell Fulson",
-          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
-        }
-      ],
-      "duration_ms": 139413,
-      "name": "Jukebox Shuffle",
-      "url": "https://open.spotify.com/track/1jiLso73owUVS8cmwwShsf"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
         "name": "Mercy Me",
         "url": "https://open.spotify.com/album/1wSy1a6XpkddFp8R8yHeyj"
       },
@@ -971,6 +955,22 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
+        "name": "Texas Sensation",
+        "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 194106,
+      "name": "The Stumble",
+      "url": "https://open.spotify.com/track/4SAKoygdIR2OwBO66j82vh"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
         "name": "The Essential Little Walter",
         "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
@@ -983,6 +983,22 @@
       "duration_ms": 171640,
       "name": "Off The Wall",
       "url": "https://open.spotify.com/track/33zZbABpbAWIHmLKq09DBf"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
+        "name": "Music For Mad Men - Robust Blues",
+        "url": "https://open.spotify.com/album/2L1bV6IHXipTrOZTpOjgbg"
+      },
+      "artists": [
+        {
+          "name": "Lowell Fulson",
+          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
+        }
+      ],
+      "duration_ms": 139413,
+      "name": "Jukebox Shuffle",
+      "url": "https://open.spotify.com/track/1jiLso73owUVS8cmwwShsf"
     },
     {
       "added_at": "2023-04-28 16:38:03",
@@ -1007,22 +1023,6 @@
       "duration_ms": 193551,
       "name": "Stay High [Feat. Cory Henry]",
       "url": "https://open.spotify.com/track/7jS37XIfOmMQQ5DU6hQwIS"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
-        "name": "Texas Sensation",
-        "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 194106,
-      "name": "The Stumble",
-      "url": "https://open.spotify.com/track/4SAKoygdIR2OwBO66j82vh"
     },
     {
       "added_at": "2023-04-28 16:38:03",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
+        "name": "Ain't That Lovin' You Baby",
+        "url": "https://open.spotify.com/album/1mIbq48CsGpnutDy0WQgr6"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Reed",
+          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
+        }
+      ],
+      "duration_ms": 153973,
+      "name": "Boogie in the Dark",
+      "url": "https://open.spotify.com/track/3ZoDX5gz2PHQCKqRhJ3mKR"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
         "name": "Gaslighter's Ball",
         "url": "https://open.spotify.com/album/3USbNYufFAKCtxQSjwClPo"
       },
@@ -1255,22 +1271,6 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
-        "name": "Ain't That Lovin' You Baby",
-        "url": "https://open.spotify.com/album/1mIbq48CsGpnutDy0WQgr6"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Reed",
-          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
-        }
-      ],
-      "duration_ms": 153973,
-      "name": "Boogie in the Dark",
-      "url": "https://open.spotify.com/track/3ZoDX5gz2PHQCKqRhJ3mKR"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
         "name": "Room To Move 1969 - 1974",
         "url": "https://open.spotify.com/album/6YGnkpsMZTH3fMuvhdC3WL"
       },
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
-        "name": "The Peacock Recordings: 1949-1959",
-        "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Ain't That Dandy",
-      "url": "https://open.spotify.com/track/1n0WyL1sxkNVE94n3MgPHn"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
         "name": "Midnight In Memphis",
         "url": "https://open.spotify.com/album/0W13XEedSrRjAWMNGilF60"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 187582,
       "name": "Midnight In Memphis",
       "url": "https://open.spotify.com/track/3LD6GIWctcXt9wm3z89zps"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
+        "name": "The Peacock Recordings: 1949-1959",
+        "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Ain't That Dandy",
+      "url": "https://open.spotify.com/track/1n0WyL1sxkNVE94n3MgPHn"
     },
     {
       "added_at": "2023-04-28 16:38:03",

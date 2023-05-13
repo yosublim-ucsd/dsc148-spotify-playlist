@@ -950,7 +950,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 154800,
       "name": "Annihilator",
       "url": "https://open.spotify.com/track/58kLQbV9LjVBrvRRB0n2cI"
@@ -3482,7 +3482,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 156279,
       "name": "Concrete Jungle",
       "url": "https://open.spotify.com/track/71cjuvx4ylaoLZJHSyHew2"
@@ -10475,6 +10475,24 @@
     },
     {
       "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/1OYS1FK3tnJ8JhbWuUZaqE"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173437,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/3DLWVhaowApIGw1JnJj6GS"
+    },
+    {
+      "album": {
         "name": "Lose Control (feat. Guilty Empress)",
         "url": "https://open.spotify.com/album/3zfNAvAZz0HxwjaePj0TzQ"
       },
@@ -15325,6 +15343,28 @@
     },
     {
       "album": {
+        "name": "Ride That Thang",
+        "url": "https://open.spotify.com/album/586kKycnpfuAAMwO3rgyGO"
+      },
+      "artists": [
+        {
+          "name": "Black V Neck",
+          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
+        },
+        {
+          "name": "Craze",
+          "url": "https://open.spotify.com/artist/1CxiYuhxzUwYDPQSZw076D"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200624,
+      "name": "Ride That Thang",
+      "url": "https://open.spotify.com/track/1qKr49O8S66kbZgNDoekhK"
+    },
+    {
+      "album": {
         "name": "Rio Rio (feat. Martina Camargo)",
         "url": "https://open.spotify.com/album/2lLotYOtvUOqdVCzor6XNZ"
       },
@@ -16830,7 +16870,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 218390,
       "name": "Sleep Walk (feat. Liz Cass)",
       "url": "https://open.spotify.com/track/5qZw8Y01dhAluWp6xdk4VV"
@@ -17904,6 +17944,24 @@
       "duration_ms": 167619,
       "name": "Sway (feat. Dope Earth Alien)",
       "url": "https://open.spotify.com/track/0KgDKuaHnbZOzz8adnnfxd"
+    },
+    {
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/56eNIDF7UTbl3Z8jw1Gofs"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200318,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/5Ly2w3jKYFvHbOv6Jf4HNM"
     },
     {
       "album": {

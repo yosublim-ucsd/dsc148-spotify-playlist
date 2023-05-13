@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across the African continent. Worship in your mother tongue here! Cover:  <a href=\"https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas\"> Victor Thompson </a>",
-  "num_followers": 70938,
+  "num_followers": 71194,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGVhOTY1MDJmMmJjYzczOWY3ZWQwNDI0MTYwMzllYWNmZTFmODJj",
+  "snapshot_id": "MCw0MzY0ZWU5NDRkNDMxN2M4OTVlMzQ1ZjljNjlhN2NjNjIwYWVhYjI5",
   "tracks": [
     {
       "added_at": "2023-05-05 00:01:00",
@@ -127,6 +127,26 @@
       "duration_ms": 234667,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub"
+    },
+    {
+      "added_at": "2023-05-12 08:29:04",
+      "album": {
+        "name": "YAH (Spirit Chant)",
+        "url": "https://open.spotify.com/album/5sR2Q9yzejaiMOdlelBVAi"
+      },
+      "artists": [
+        {
+          "name": "Eljoe onoja",
+          "url": "https://open.spotify.com/artist/63Y0MtLSfC9rjMZ1KsqTZi"
+        },
+        {
+          "name": "Chris Morgan",
+          "url": "https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM"
+        }
+      ],
+      "duration_ms": 337320,
+      "name": "YAH - Spirit Chant",
+      "url": "https://open.spotify.com/track/1zbg4LlaiwYvjGSikk3Yjn"
     },
     {
       "added_at": "2023-05-12 00:01:00",
@@ -1691,22 +1711,6 @@
       "duration_ms": 262321,
       "name": "COME AND SEE",
       "url": "https://open.spotify.com/track/6AcuWVJLutTcYQJQSikgZI"
-    },
-    {
-      "added_at": "2023-03-31 09:08:02",
-      "album": {
-        "name": "Your Kingdom on Earth (Live)",
-        "url": "https://open.spotify.com/album/0TYTdff6CTiivlJ13wHFfI"
-      },
-      "artists": [
-        {
-          "name": "HLE",
-          "url": "https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD"
-        }
-      ],
-      "duration_ms": 397572,
-      "name": "You Are (Live)",
-      "url": "https://open.spotify.com/track/5DOe949J5w1cD7WvxChUwA"
     }
   ],
   "unique_name": "Redeemed",

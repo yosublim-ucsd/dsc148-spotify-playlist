@@ -4,7 +4,7 @@
 
 > This is TOKiMONSTA\. The essential tracks, all in one playlist.
 
-52 songs - 3 hr 0 min
+53 songs - 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Dream Chorus](https://open.spotify.com/track/6kEZ1FCPDkCeaDeORgMzzZ) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Dream Chorus](https://open.spotify.com/album/3LsLYmmHtxx3j5aes44tZM) | 2:19 | 2023-05-02 |  |
 | [Dusty Stars](https://open.spotify.com/track/6zkKeA1t9mEJ0TopG3gqIw) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Desiderium](https://open.spotify.com/album/2mhTitMTzAO14t7oxcXvaC) | 3:11 | 2023-05-05 |  |
 | [Fallen Arches](https://open.spotify.com/track/1E2qjmmP6gkptMPFmGfHav) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 3:15 | 2023-05-02 |  |
-| [For My Eternal, Oh Dream My Treasure](https://open.spotify.com/track/0hlXa1QoFPuMaTKjWccv98) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1) | 2:49 | 2023-05-02 |  |
+| [For My Eternal, Oh Dream My Treasure](https://open.spotify.com/track/0hlXa1QoFPuMaTKjWccv98) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1) | 2:49 | 2023-05-02 | 2023-05-13 |
 | [Fried for the Night](https://open.spotify.com/track/6JFh4QqTwsad0Mn16eZqc7) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Oasis Nocturno](https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1) | 3:10 | 2023-05-02 |  |
 | [Gamble](https://open.spotify.com/track/2ahtfg7eIq70ftILthfSnr) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Midnight Menu](https://open.spotify.com/album/4X82sfwbHWa8KFz5Ik1tRX) | 2:26 | 2023-05-02 |  |
 | [Get Me Some](https://open.spotify.com/track/54bJVMbRyGmVHWslFpU4nK) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Drew Love](https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY), [Dumbfoundead](https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed) | [Oasis Nocturno](https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1) | 3:32 | 2023-05-02 |  |
@@ -44,6 +44,7 @@
 | [Phases \- bad tuner Remix](https://open.spotify.com/track/5mLfDev8PWL1gIMGWZyRJq) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2), [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Oasis Nocturno \(Remixed\)](https://open.spotify.com/album/6cC6x6bk3lsebSLz2CzGCP) | 3:25 | 2023-05-02 |  |
 | [Put It Down](https://open.spotify.com/track/0xGgaX21ytUiJu1nIgdYpa) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [KRANE](https://open.spotify.com/artist/2aOoD3zsuYforFcDvUpZoH) | [FOVERE](https://open.spotify.com/album/1L6lmqIsXeFTMakLAYp3hv) | 3:03 | 2023-05-02 |  |
 | [Realla](https://open.spotify.com/track/5mzoBYJM5WKAMQEOHpcgsx) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Desiderium](https://open.spotify.com/album/2mhTitMTzAO14t7oxcXvaC) | 3:30 | 2023-05-02 |  |
+| [Renter's Anthem](https://open.spotify.com/track/1xqUV7b5I7gdaINGhSO8CM) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1) | 3:58 | 2023-05-12 |  |
 | [Rose's Thorn](https://open.spotify.com/track/0VCUjtHZm8SRvKLWGzQKBf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 4:24 | 2023-05-02 |  |
 | [Rouge](https://open.spotify.com/track/1y4OnSCtttqYNLA1602LYh) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 2:13 | 2023-05-02 |  |
 | [Sa Mo Jung](https://open.spotify.com/track/2xbfhyjjSQMzBooLs7ZmT8) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Midnight Menu](https://open.spotify.com/album/4X82sfwbHWa8KFz5Ik1tRX) | 3:06 | 2023-05-02 |  |

@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 111066,
       "name": "And You Are Not Going",
       "url": "https://open.spotify.com/track/54udISeAGguLtkCncTE6Y4"
@@ -475,6 +475,28 @@
     },
     {
       "album": {
+        "name": "Dora and the Lost City of Gold (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p"
+      },
+      "artists": [
+        {
+          "name": "John Debney",
+          "url": "https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ"
+        },
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46866,
+      "name": "Making Friends",
+      "url": "https://open.spotify.com/track/7fuu4486VYc6FGKVPyVyia"
+    },
+    {
+      "album": {
         "name": "Margarita (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp"
       },
@@ -504,7 +526,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 87013,
       "name": "Masks And Mirrors",
       "url": "https://open.spotify.com/track/6xdlu35n0Vd1LpQqKBnfW0"
@@ -632,7 +654,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-11",
+      "date_removed": null,
       "duration_ms": 91453,
       "name": "Royal Car",
       "url": "https://open.spotify.com/track/2lsmyzXbFXVOsq91rMirAS"

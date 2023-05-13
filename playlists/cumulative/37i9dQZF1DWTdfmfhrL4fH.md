@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-533 songs - 1 day 9 hr 26 min
+534 songs - 1 day 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Footsteps](https://open.spotify.com/track/7IEpEB1hnFW67S2FTi8eyw) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [UP](https://open.spotify.com/album/6uyRHyNcSbGZZCP2JxaMrZ) | 4:22 | 2022-05-25 |  |
 | [Forever & Ever More](https://open.spotify.com/track/0GCENWl11MluqJbz1Dqm0i) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [What Did You Think When You Made Me This Way?](https://open.spotify.com/album/6qP4UnWRNlBMdsqanPhFuJ) | 3:28 | 2022-05-25 | 2022-07-17 |
 | [Freak Like Me](https://open.spotify.com/track/0AGJuICX9Uhne0ER96c4Rw) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of...](https://open.spotify.com/album/1d9fNpMEICkIPnJ3r6EG3A) | 3:38 | 2022-05-25 | 2022-07-29 |
+| [Freak Like Me](https://open.spotify.com/track/3Akw1yw6W6bQ7GXB0FCoe5) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 3:38 | 2023-01-18 |  |
 | [Friction](https://open.spotify.com/track/4odGB283pgwsBUCYmjpXRq) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Smoke + Mirrors \(Deluxe\)](https://open.spotify.com/album/6rRFeV6xigfNyPoZ6YqcoW) | 3:21 | 2022-05-25 | 2022-07-27 |
 | [Fuck You](https://open.spotify.com/track/0Yk3FzkNpuZUYY59j9p6eN) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [True North](https://open.spotify.com/album/64wdVyEDGVxfRsanjWxy2z) | 2:13 | 2022-05-25 | 2022-07-27 |
 | [Fur Cue](https://open.spotify.com/track/0TgjWllOiSiJHoNR3PtzTS) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Holding Onto Strings Better Left To Fray](https://open.spotify.com/album/1Bjmcy5hWGdGQ0zANfgIzh) | 3:48 | 2022-05-25 | 2022-07-24 |
@@ -460,7 +461,7 @@
 | [The Animal](https://open.spotify.com/track/1HD8mFfpSGLJnwv6UTLaIv) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Asylum \(Deluxe Edition\)](https://open.spotify.com/album/23Kf2cl3kz7pFNKhl4iMp9) | 4:13 | 2022-05-25 | 2022-07-29 |
 | [The Black Market](https://open.spotify.com/track/5skwAU0N1ijXEJ5HFDphXP) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Black Market](https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC) | 4:15 | 2022-05-25 | 2022-07-29 |
 | [The Blackout](https://open.spotify.com/track/28MPfAfqhRiBJLzNCHGHM3) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 4:45 | 2022-05-25 | 2022-07-23 |
-| [The Catalyst](https://open.spotify.com/track/4tXBsD5sEzxlJjWCOz6qzs) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [A Thousand Suns](https://open.spotify.com/album/113yjuFZEqkkbuLi4sEBxo) | 5:39 | 2023-01-18 |  |
+| [The Catalyst](https://open.spotify.com/track/4tXBsD5sEzxlJjWCOz6qzs) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [A Thousand Suns](https://open.spotify.com/album/113yjuFZEqkkbuLi4sEBxo) | 5:39 | 2023-01-18 | 2023-05-13 |
 | [The Catalyst](https://open.spotify.com/track/5bvgRxco3jgSZ3SP8rueDA) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [A Thousand Suns](https://open.spotify.com/album/5uvXx5ZQswNRFCdHR521YZ) | 5:39 | 2022-05-25 | 2022-07-29 |
 | [The Collapse](https://open.spotify.com/track/3h99RESVnS9wla9mxLGC0q) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk) | [Home School Valedictorian](https://open.spotify.com/album/4wphpmpU7otsQnFEjIHcMT) | 3:38 | 2022-05-25 | 2022-07-27 |
 | [The Currents](https://open.spotify.com/track/5hcxUMmvcL66B1OqPPres2) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:24 | 2022-05-25 | 2022-07-05 |

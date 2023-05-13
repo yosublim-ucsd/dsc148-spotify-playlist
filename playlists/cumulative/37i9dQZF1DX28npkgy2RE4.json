@@ -3858,7 +3858,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 319777,
       "name": "Love Factory",
       "url": "https://open.spotify.com/track/6chIuYEKToP0M1vg0fXN95"
@@ -3916,6 +3916,24 @@
       "duration_ms": 269760,
       "name": "Loving You Is Lonely",
       "url": "https://open.spotify.com/track/1IKSPT8NgQSLz5DwaxrnEe"
+    },
+    {
+      "album": {
+        "name": "Wilderness Within You",
+        "url": "https://open.spotify.com/album/0I0UeauEi5MwMKqlOMcFv2"
+      },
+      "artists": [
+        {
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230366,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/5NrIxkSt7Lmem0h7rK4Sgq"
     },
     {
       "album": {

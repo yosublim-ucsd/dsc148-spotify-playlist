@@ -2,9 +2,9 @@
 
 ### [Country Frequency](https://open.spotify.com/playlist/37i9dQZF1DWY1wwcap53LA)
 
-> Country music making waves\. Cover: Rodell Duff
+> Country music making waves\. Cover: Willie Jones
 
-138 songs - 7 hr 9 min
+139 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Sober & Skinny](https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Sober & Skinny](https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0) | 3:18 | 2021-12-03 |  |
 | [Somebody](https://open.spotify.com/track/6DrAI5Q4X00IBQIOE2jLOK) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP) | [Bettie James Gold Edition](https://open.spotify.com/album/7nkRtJr1dCHcQJHUvi2Dii) | 2:53 | 2022-02-04 |  |
 | [Somebody's Gotta Do It](https://open.spotify.com/track/4NocrufS4EcSjccPQYJIDD) | [Tony Evans Jr.](https://open.spotify.com/artist/3PvNwJTtWwtnkwW01JkNeE) | [Somebody's Gotta Do It](https://open.spotify.com/album/6sKyDqddZhAQKYrZonPCQX) | 3:16 | 2022-05-20 |  |
+| [Something To Dance To](https://open.spotify.com/track/15wjZVpG5krE8khXtQq7Cu) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Something To Dance To](https://open.spotify.com/album/3CN2Jr3yuLh1soyJPNErQC) | 2:32 | 2023-05-12 |  |
 | [Something To Do With You](https://open.spotify.com/track/1ids0Y24ua1ioQQTp4kx90) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Something To Do With You](https://open.spotify.com/album/5jUIvK7SDErkwpTmDKOmsn) | 3:06 | 2023-02-17 |  |
 | [Song of the Summer](https://open.spotify.com/track/54RQicVADP64aUiorGLj2K) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo), [Una Healy](https://open.spotify.com/artist/0yPAOmYRSrkuKnp70eLKLx) | [Song of the Summer](https://open.spotify.com/album/1ta49NPJlUEf6ZdvY2YKDy) | 3:07 | 2021-12-03 | 2023-02-18 |
 | [Southern Curls](https://open.spotify.com/track/2PXlqCswcJk7DHm605QFoP) | [Julie Williams](https://open.spotify.com/artist/4sRUZFWl0hDJg6MW9lHKR9) | [Southern Curls](https://open.spotify.com/album/0xea2CsAsnZK4JljMCXcJ5) | 4:38 | 2021-12-03 |  |

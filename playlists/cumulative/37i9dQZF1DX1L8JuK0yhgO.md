@@ -4,7 +4,7 @@
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-543 songs - 1 day 6 hr 24 min
+544 songs - 1 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [Dark Horse](https://open.spotify.com/track/5tdi3BqFzpYVAaXi2qwC2Y) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [JESSE](https://open.spotify.com/artist/1piiwMSnN21hrtRzpJ11ef), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Dark Horse](https://open.spotify.com/album/2w047BXSeBWZEoVblObPPs) | 3:45 | 2023-03-26 | 2023-04-04 |
 | [dawn](https://open.spotify.com/track/43w5CjBykSk8K07M1GHZyg) | [LIGHTERS](https://open.spotify.com/artist/3zIMtn2DQfuy14ZUthklGq) | [dawn](https://open.spotify.com/album/2ES2tljkU27Bg8EbNWbPxZ) | 3:54 | 2023-05-07 |  |
 | [Day & Night](https://open.spotify.com/track/2d0n8Sp0DfsNUUhqmXWJO6) | [Baku](https://open.spotify.com/artist/5m3CibdsoEKP2HxjyRBuGZ), [kuudere](https://open.spotify.com/artist/1OhN2StoiEjQmsLCbjpgpa) | [Day & Night](https://open.spotify.com/album/629FQaPhGt6R6NM7SgViac) | 3:31 | 2023-05-07 |  |
-| [Day After Day feat\. Mei Takahashi](https://open.spotify.com/track/5b03vF7Qyc70kDJHiQZ8L7) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [髙橋芽以](https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf) | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/album/7ridH3ntXiiWfC2jA6uqb3) | 4:43 | 2023-05-07 |  |
+| [Day After Day feat\. Mei Takahashi](https://open.spotify.com/track/1fHXLiqPG6su57eAlbnjVO) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [髙橋芽以](https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf) | [FINE LINE](https://open.spotify.com/album/37XJRNnSBngM8e8Ejp3oQ7) | 4:43 | 2023-05-07 |  |
+| [Day After Day feat\. Mei Takahashi](https://open.spotify.com/track/5b03vF7Qyc70kDJHiQZ8L7) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [髙橋芽以](https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf) | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/album/7ridH3ntXiiWfC2jA6uqb3) | 4:43 | 2023-05-07 | 2023-05-13 |
 | [Dear, My Friends](https://open.spotify.com/track/01Njag7j6G65JLFOZvcwMK) | [mashoe'](https://open.spotify.com/artist/5MPZJyDVTTKSdkli4U4k6Z) | [Dear, My Friends](https://open.spotify.com/album/79rNXwJvs1rmFvaezP6YYZ) | 2:48 | 2023-04-16 | 2023-04-24 |
 | [DENIM](https://open.spotify.com/track/2G3aEFkic3ynKnCjcZ83Eg) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc) | [DENIM](https://open.spotify.com/album/4syJwwxz4ayc9Hm974MPr8) | 2:21 | 2023-05-01 | 2023-05-08 |
 | [Disco Lonely](https://open.spotify.com/track/18WD50pQKjALiqO7bXGy0n) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI), [Linn Mori](https://open.spotify.com/artist/2XJEj3lY4tkVx0IH5Ue69E), [無雲](https://open.spotify.com/artist/6hEFxybJs9f8a1RmM90VPp) | [Little Bit Blues](https://open.spotify.com/album/75VH43yE690hoaEvImFv5T) | 3:14 | 2023-03-26 | 2023-04-04 |

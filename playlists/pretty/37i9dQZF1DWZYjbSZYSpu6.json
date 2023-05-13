@@ -1,12 +1,12 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: SOLE, Sung Si Kyung)",
-  "num_followers": 387113,
+  "num_followers": 387182,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmFlZjQxMzY3MDNjZWYwYmU5MDQxYWZkMGFjZjliOTA4OGMxZDA1",
+  "snapshot_id": "MCwwODZiODM4ZTczN2JiNzI5MmY0NjY5ODE0ZjA2MzBhYTJjZWRhMGZh",
   "tracks": [
     {
       "added_at": "2023-05-02 06:11:26",
@@ -951,26 +951,6 @@
     {
       "added_at": "2023-05-02 06:11:26",
       "album": {
-        "name": "24\u2103",
-        "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        },
-        {
-          "name": "\ucd5c\ud604\uc11d",
-          "url": "https://open.spotify.com/artist/7ywGEr53ogVxLibBcb82JV"
-        }
-      ],
-      "duration_ms": 202683,
-      "name": "1, 2",
-      "url": "https://open.spotify.com/track/2U4292s8Vs8p7rDP8LYr8c"
-    },
-    {
-      "added_at": "2023-05-02 06:11:26",
-      "album": {
         "name": "with HER",
         "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 211346,
       "name": "Let Me Go (with TAEYEON)",
       "url": "https://open.spotify.com/track/0W1BHowUDWND1AIQU6nUbD"
+    },
+    {
+      "added_at": "2023-05-02 06:11:26",
+      "album": {
+        "name": "24\u2103",
+        "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "\ucd5c\ud604\uc11d",
+          "url": "https://open.spotify.com/artist/7ywGEr53ogVxLibBcb82JV"
+        }
+      ],
+      "duration_ms": 202683,
+      "name": "1, 2",
+      "url": "https://open.spotify.com/track/2U4292s8Vs8p7rDP8LYr8c"
     },
     {
       "added_at": "2023-05-02 06:11:26",

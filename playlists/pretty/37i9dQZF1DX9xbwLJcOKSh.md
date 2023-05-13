@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 
 > 作曲、編曲、プロデュースワークを中心に活動。ジャンルを超えた表現で三木鶏郎広告音楽賞等、数々のアワードを受賞。
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,112 likes - 71 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,122 likes - 71 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 | 70 | [Ranka to Bobby no SMS Shoutai no Uta](https://open.spotify.com/track/4Z2UGK0tmXr4R0iUtQVh4X) | [Ranka Lee with Bobby Margo](https://open.spotify.com/artist/3zxmHKGd8fsi8XXYDaYgaK) | [MACROSS FRONTIER Ranka to Bobby no SMS Shoutai no Uta Nado.](https://open.spotify.com/album/09TpsQuLrcuECkeQaurAd3) | 1:00 |
 | 71 | [おてもやん](https://open.spotify.com/track/19kZmy3DQQxLbsHdAot5I6) | [Sayuri Ishikawa](https://open.spotify.com/artist/1tYbvS6Nkq4Rxvx8ZRTzJP) | [民 \~Tami\~](https://open.spotify.com/album/7fOVjAaS7rqZFoVpyr6wZK) | 3:36 |
 
-Snapshot ID: `MCxjNTFmODNlMjFmZWMxZGMxNDNlMmMzMzhjYTc5N2QyZWEzNWQ5NTQx`
+Snapshot ID: `MCxkNjk3ZThjMDk0OTk5NWMwNWVjOWU0YWJkMTJhNDBmN2VmNjAzMjhh`

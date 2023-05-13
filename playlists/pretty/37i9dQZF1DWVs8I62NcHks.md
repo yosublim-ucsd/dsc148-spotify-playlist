@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVs8I62NcHks.md) - [plain](/playlists/plain/37i9dQZF1DWVs8I62NcHks) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVs8I62NcHks)
 
-### [Disney Favorites](https://open.spotify.com/playlist/37i9dQZF1DWVs8I62NcHks)
+### [Disney100 Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWVs8I62NcHks)
 
-> All your favorite Disney classics, new and old\. Stream Pinocchio on Disney+.
+> For 100 years, our passion has been storytelling\.  From one generation to the next, the greatest stories live forever\.  You made this dream come true.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,902,337 likes - 83 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,902,385 likes - 83 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVs8I62NcHks.md) - [plain]
 | 82 | [Spirit](https://open.spotify.com/track/38SueFAjT6jtFneyoQamYi) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Lion King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7e8y48Z2fkJNGBOKSECCeS) | 4:33 |
 | 83 | [We're All In This Together](https://open.spotify.com/track/0cqNGWvuukhCiKvEX7utys) | [High School Musical Cast](https://open.spotify.com/artist/2gUMs9PE8XZVQyzCDqaYmW), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical](https://open.spotify.com/album/4dOvFkIgrb6b9zCcGfCcci) | 3:51 |
 
-Snapshot ID: `MCxhOTJmYjZkZTUwNjM1Yzg4ZDYzNGFiZWZlMTAxMjNkYmFkNjg0ZjRk`
+Snapshot ID: `MCxjODFhZGMzZTg0NGVmMGI5NWQ3YmMzZjkzM2UzOTRmOGJhZTcxNzMz`

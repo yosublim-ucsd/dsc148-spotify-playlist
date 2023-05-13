@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 151720,
+  "num_followers": 151756,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjE5NzIyMTBjZThhNjE4OTkzZGYzMmQyMjYxNThiYTVhMzk5ODZh",
+  "snapshot_id": "MCw5YjZhZmQ5NGQyYWVjNDBjMzJiYTVlMjBmMzQwMzFhMmY0OTM5YmZk",
   "tracks": [
     {
       "added_at": "2023-02-24 11:06:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "When You Love Someone (Acoustic)",
-        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "When You Love Someone - Acoustic",
-      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Naked (Acoustic Version)",
         "url": "https://open.spotify.com/album/2aOYprwJcCTSVk3ARMlOMO"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 230440,
       "name": "Naked - Acoustic Version",
       "url": "https://open.spotify.com/track/77vv9vprh6SazfOXIJgYpx"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "When You Love Someone (Acoustic)",
+        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "When You Love Someone - Acoustic",
+      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -597,22 +597,6 @@
       "url": "https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1"
     },
     {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "A Few More Hours at YYZ",
-        "url": "https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0"
-      },
-      "artists": [
-        {
-          "name": "Billy Raffoul",
-          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
-        }
-      ],
-      "duration_ms": 196067,
-      "name": "Easy Tiger",
-      "url": "https://open.spotify.com/track/4pHbu3jiGGhJn5shkFPp5Y"
-    },
-    {
       "added_at": "2023-02-24 11:06:00",
       "album": {
         "name": "Goddess (Deluxe)",
@@ -627,6 +611,22 @@
       "duration_ms": 281017,
       "name": "Someone New",
       "url": "https://open.spotify.com/track/7DF2SSCuHoniuh5sPeMvkv"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "A Few More Hours at YYZ",
+        "url": "https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        }
+      ],
+      "duration_ms": 196067,
+      "name": "Easy Tiger",
+      "url": "https://open.spotify.com/track/4pHbu3jiGGhJn5shkFPp5Y"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Fill Me Up",
-        "url": "https://open.spotify.com/album/2YR8pbTnU6vA1rOfTFwU14"
-      },
-      "artists": [
-        {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
-        }
-      ],
-      "duration_ms": 154560,
-      "name": "Fill Me Up",
-      "url": "https://open.spotify.com/track/2EsqgX8ZfyZrJqVTAowTvY"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Mystery",
         "url": "https://open.spotify.com/album/0c9oFRyzGPgAPQZ5Oj9TLe"
       },
@@ -731,18 +715,18 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "More & More",
-        "url": "https://open.spotify.com/album/5ASbLWy4g3WyCCuxvnJRvD"
+        "name": "Fill Me Up",
+        "url": "https://open.spotify.com/album/2YR8pbTnU6vA1rOfTFwU14"
       },
       "artists": [
         {
-          "name": "Finding Hope",
-          "url": "https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg"
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
         }
       ],
-      "duration_ms": 211133,
-      "name": "More & More",
-      "url": "https://open.spotify.com/track/5oYMLJBYRv0I3D5GZEqODA"
+      "duration_ms": 154560,
+      "name": "Fill Me Up",
+      "url": "https://open.spotify.com/track/2EsqgX8ZfyZrJqVTAowTvY"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -759,6 +743,22 @@
       "duration_ms": 192545,
       "name": "It Aint Me",
       "url": "https://open.spotify.com/track/2KsdoMZsL2ajnjjYUWm1ZT"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "More & More",
+        "url": "https://open.spotify.com/album/5ASbLWy4g3WyCCuxvnJRvD"
+      },
+      "artists": [
+        {
+          "name": "Finding Hope",
+          "url": "https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg"
+        }
+      ],
+      "duration_ms": 211133,
+      "name": "More & More",
+      "url": "https://open.spotify.com/track/5oYMLJBYRv0I3D5GZEqODA"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Dear Earth, I\u2019m Lost",
-        "url": "https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Gustafsson",
-          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Heaven Knows, Right?",
-      "url": "https://open.spotify.com/track/4XJES8gXvP1HrkAfXWa97O"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Paradise (with Olivia Holt) [Acoustic]",
         "url": "https://open.spotify.com/album/1yjHr8ZFLc0fZ7XhGlOnUQ"
       },
@@ -1483,6 +1467,38 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Dear Earth, I\u2019m Lost",
+        "url": "https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Gustafsson",
+          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Heaven Knows, Right?",
+      "url": "https://open.spotify.com/track/4XJES8gXvP1HrkAfXWa97O"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Ep1",
+        "url": "https://open.spotify.com/album/45IdJiVJuToGIpu9SwIOsI"
+      },
+      "artists": [
+        {
+          "name": "Kay Nambiar",
+          "url": "https://open.spotify.com/artist/2oFOiPYQ4kKIaBS9337ZoX"
+        }
+      ],
+      "duration_ms": 204398,
+      "name": "Recompose",
+      "url": "https://open.spotify.com/track/1aQ2mEr0u12stjGRnTnZA7"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "Wonderwall",
         "url": "https://open.spotify.com/album/3mkgZ2atNq2kp0nHphDhAG"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 236094,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/1qGoOiTVjCJ3iEKkxqpuvX"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Luck Pusher",
-        "url": "https://open.spotify.com/album/5J23ETJ3kP5Nwc3vY9GgSm"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 163410,
-      "name": "Luck Pusher",
-      "url": "https://open.spotify.com/track/3OXwGvg4SZgc6bHWedBYsI"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Ep1",
-        "url": "https://open.spotify.com/album/45IdJiVJuToGIpu9SwIOsI"
+        "name": "Luck Pusher",
+        "url": "https://open.spotify.com/album/5J23ETJ3kP5Nwc3vY9GgSm"
       },
       "artists": [
         {
-          "name": "Kay Nambiar",
-          "url": "https://open.spotify.com/artist/2oFOiPYQ4kKIaBS9337ZoX"
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
         }
       ],
-      "duration_ms": 204398,
-      "name": "Recompose",
-      "url": "https://open.spotify.com/track/1aQ2mEr0u12stjGRnTnZA7"
+      "duration_ms": 163410,
+      "name": "Luck Pusher",
+      "url": "https://open.spotify.com/track/3OXwGvg4SZgc6bHWedBYsI"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Live from the Village (Acoustic)",
-        "url": "https://open.spotify.com/album/2yPd47Gm4znFqjaC8QzbRq"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 227296,
-      "name": "Pink - Live & Acoustic",
-      "url": "https://open.spotify.com/track/5PjhxJQOcS6XMSIydhsMBe"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "When the Party's Over",
         "url": "https://open.spotify.com/album/1bitguaJlIxb9wsJiDFDnR"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 154732,
       "name": "When the Party's Over",
       "url": "https://open.spotify.com/track/0F78T5bfHQCliaNjBkIYBq"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Live from the Village (Acoustic)",
+        "url": "https://open.spotify.com/album/2yPd47Gm4znFqjaC8QzbRq"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 227296,
+      "name": "Pink - Live & Acoustic",
+      "url": "https://open.spotify.com/track/5PjhxJQOcS6XMSIydhsMBe"
     }
   ],
   "unique_name": "Soft Morning",

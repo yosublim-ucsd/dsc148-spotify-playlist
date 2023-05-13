@@ -4,7 +4,7 @@
 
 > Todos los cumbieros con las manos bien arriba haciendo palmas 💃🏾🕺🏾🏝
 
-104 songs - 6 hr 11 min
+105 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [La Ventanita](https://open.spotify.com/track/49nYkvvZTU06Pcwu1SrK4h) | [Garibaldi](https://open.spotify.com/artist/5PMqVxegfGlvhatvLA61uX) | [Caribe](https://open.spotify.com/album/3kpnPvG6TOLfpV0TvD0FUd) | 4:11 | 2023-01-30 |  |
 | [Latidos](https://open.spotify.com/track/2WFrChyI5KlmxunG45Sqws) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Latidos](https://open.spotify.com/album/307d2X9AdbxbyFd008xmn7) | 3:01 | 2023-04-07 |  |
 | [Le doy perreo](https://open.spotify.com/track/1DTmxMoV47mkuTrSY2xkyl) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [Le doy perreo](https://open.spotify.com/album/0VJzJRpkszNHrVcPnkzSRn) | 2:18 | 2023-01-30 |  |
-| [LO MISMO QUE MORIR](https://open.spotify.com/track/1XYjy0yiCL1utjnBRWou6f) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE) | [BUENOS AIRES MOTEL](https://open.spotify.com/album/5X33B3ES7gsqUTH47mmapY) | 2:26 | 2023-03-08 |  |
+| [LO MISMO QUE MORIR](https://open.spotify.com/track/1XYjy0yiCL1utjnBRWou6f) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE) | [BUENOS AIRES MOTEL](https://open.spotify.com/album/5X33B3ES7gsqUTH47mmapY) | 2:26 | 2023-03-08 | 2023-05-13 |
 | [Los Dos Fallamos](https://open.spotify.com/track/54cM6oKMmHbhrzTV6Qj0KQ) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Los Dos Fallamos](https://open.spotify.com/album/0oMFwEMTOKAE1RdDh3bKqz) | 2:40 | 2023-04-07 |  |
 | [Mala Suerte \(Escalona Nunca Se Había Grabado Así\)](https://open.spotify.com/track/0IqUC1k9LmVfQ6KIftfW0D) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Mala Suerte \(Escalona Nunca Se Había Grabado Así\)](https://open.spotify.com/album/4bJWAafvax13jJC0XiOcPe) | 3:33 | 2023-04-07 |  |
 | [Manos de Tijera](https://open.spotify.com/track/5bbDOmtSTUeAmzYDUv8eVF) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Manos de Tijera](https://open.spotify.com/album/6ZgE3A6SXIPCEvhVpLOwv9) | 3:50 | 2023-02-27 |  |
@@ -108,6 +108,7 @@
 | [Un Finde \| CROSSOVER \#2](https://open.spotify.com/track/3tiJUOfAEqIrLFRQgGgdoY) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Un Finde \| CROSSOVER \#2](https://open.spotify.com/album/7cAfD0HludcAifXAbcIR80) | 2:42 | 2023-04-07 |  |
 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 | 2023-04-17 |  |
 | [Universo Paralelo](https://open.spotify.com/track/6LBpjWMfy1NUfyxAJbcMRs) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Universo Paralelo](https://open.spotify.com/album/5gHGEuYNsRd8xSVW1Si2E2) | 3:37 | 2023-01-30 |  |
+| [VAGABUNDO](https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [VAGABUNDO](https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc) | 3:35 | 2023-05-12 |  |
 | [Ya No Quiero Verte](https://open.spotify.com/track/3eUtQSdde3wNmXOW2OESKi) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [La China](https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO) | [Ya No Quiero Verte](https://open.spotify.com/album/7LgHocBu4JUghhlAJqgNrS) | 2:45 | 2023-01-30 | 2023-02-28 |
 | [Ya No Vuelvas \(Versión Cuarteto\)](https://open.spotify.com/track/6jRZ33ifS5VOTMwmPxhPhN) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Ya No Vuelvas \(Versión Cuarteto\)](https://open.spotify.com/album/2Tuphpb4jfXRwFYTxGXCSs) | 3:24 | 2023-01-30 |  |
 | [Yo no lloro por llorar \- Versión salsa](https://open.spotify.com/track/6zYxJWxCl4SofXiffXk0kV) | [Nacho Acero](https://open.spotify.com/artist/2y3xMb1SrZezuoNZ5LTrxR) | [Yo no lloro por llorar \(Versión salsa\)](https://open.spotify.com/album/5sK5gmBFf2xT2hhNRx8G3q) | 4:00 | 2023-04-17 |  |

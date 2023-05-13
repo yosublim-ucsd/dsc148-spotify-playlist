@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Scott McMicken and THE EVER\-EXPANDING
 
-395 songs - 1 day 0 hr 20 min
+396 songs - 1 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,10 +213,11 @@
 | [Lose This Number](https://open.spotify.com/track/2KSB2nglqnZuW4ptnJZEIl) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Talk](https://open.spotify.com/album/3dQD1JXR6BEaEtwRm6BVLS) | 3:56 | 2021-11-12 | 2022-07-28 |
 | [Lose This Number](https://open.spotify.com/track/3zLQk7yhi0F8QPHU1dBBPG) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Beginners](https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY) | 3:56 | 2022-07-11 |  |
 | [Love](https://open.spotify.com/track/3b3D7KTw9eaKyAyVVJl8YU) | [Sam Teskey](https://open.spotify.com/artist/5tXk98OKpmBXhjUkBsQxfZ) | [Love](https://open.spotify.com/album/3l7H6wEfuEhEZVxwGcMXP8) | 5:43 | 2021-11-12 | 2022-07-29 |
-| [Love Factory](https://open.spotify.com/track/6chIuYEKToP0M1vg0fXN95) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Katy J Pearson](https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ) | [Love Factory](https://open.spotify.com/album/0RZAwFJb7dAWACcbmfzBQ3) | 5:19 | 2022-10-14 |  |
+| [Love Factory](https://open.spotify.com/track/6chIuYEKToP0M1vg0fXN95) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Katy J Pearson](https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ) | [Love Factory](https://open.spotify.com/album/0RZAwFJb7dAWACcbmfzBQ3) | 5:19 | 2022-10-14 | 2023-05-13 |
 | [Love Is Selfish](https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Love Is Selfish](https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A) | 2:52 | 2022-01-14 | 2023-05-03 |
 | [Love Without Possession](https://open.spotify.com/track/738fOOmAzfEssdCzYRv6Un) | [Scout LaRue Willis](https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN) | [Love Without Possession](https://open.spotify.com/album/3Ugdu51uh1xMeZkOoypBNL) | 4:01 | 2021-11-12 | 2022-07-29 |
 | [Loving You Is Lonely](https://open.spotify.com/track/1IKSPT8NgQSLz5DwaxrnEe) | [Harmony Byrne](https://open.spotify.com/artist/10rUrxQwhYFzOBGUcM0tWx) | [Loving You Is Lonely](https://open.spotify.com/album/1Zs8YINM2uPmsWes22fCkQ) | 4:29 | 2021-11-12 | 2022-07-27 |
+| [Magic](https://open.spotify.com/track/5NrIxkSt7Lmem0h7rK4Sgq) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [Wilderness Within You](https://open.spotify.com/album/0I0UeauEi5MwMKqlOMcFv2) | 3:50 | 2023-05-12 |  |
 | [Make It Out \(feat\. Maisie Peters\)](https://open.spotify.com/track/5qXbNSvVp8rB4Kcy2DTTIt) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Make It Out \(feat\. Maisie Peters\)](https://open.spotify.com/album/3i51kXWcF0fLzcwDBZFgNo) | 3:03 | 2022-01-14 |  |
 | [Makes Me Wonder](https://open.spotify.com/track/7IIYtMMgNqnHVYs2ZP4yfC) | [Caleb Elliott](https://open.spotify.com/artist/0ubsTbLcwOTtBgs9AqYafk) | [Forever to Fade](https://open.spotify.com/album/76B8wqEQX3ii5msPMhBfmY) | 3:33 | 2021-11-12 | 2022-07-28 |
 | [Mariella](https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 5:10 | 2022-03-04 |  |

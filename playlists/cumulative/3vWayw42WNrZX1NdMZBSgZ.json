@@ -1663,6 +1663,24 @@
     },
     {
       "album": {
+        "name": "Coincidencias",
+        "url": "https://open.spotify.com/album/0YGUKU6DyVS2F7TnMl2Jav"
+      },
+      "artists": [
+        {
+          "name": "Nuevo Elemento",
+          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181447,
+      "name": "Coincidir",
+      "url": "https://open.spotify.com/track/5xchG6qNlgDyZOgfmv5EpE"
+    },
+    {
+      "album": {
         "name": "Nicki Nicole (Live at NPR's Tiny Desk)",
         "url": "https://open.spotify.com/album/56vHzz7py4Ki3p901P1Db5"
       },
@@ -1842,6 +1860,28 @@
       "duration_ms": 211162,
       "name": "Confieso",
       "url": "https://open.spotify.com/track/2ydzr3NKng0u0JZUm0DpKK"
+    },
+    {
+      "album": {
+        "name": "Coquio Castro (En Vivo)",
+        "url": "https://open.spotify.com/album/4RCrIPTYt1YCI96WEunbuH"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191829,
+      "name": "Coquio Castro - En Vivo",
+      "url": "https://open.spotify.com/track/1EGcw5OrBiqQUYHW51IMYT"
     },
     {
       "album": {
@@ -9258,6 +9298,24 @@
     {
       "album": {
         "name": "Tiempo",
+        "url": "https://open.spotify.com/album/7nVcDQMiKAJvKArWWVmlft"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91371,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/2cTMmwJpMuGxH4AQUhS2qh"
+    },
+    {
+      "album": {
+        "name": "Tiempo",
         "url": "https://open.spotify.com/album/41Wxh8xLNvaolvU44HBupA"
       },
       "artists": [
@@ -9544,6 +9602,24 @@
       "duration_ms": 200502,
       "name": "Todo My Love",
       "url": "https://open.spotify.com/track/0XOr0FAZIbUaxyU84o9AWJ"
+    },
+    {
+      "album": {
+        "name": "Toma",
+        "url": "https://open.spotify.com/album/4cbxkM3zQSH8nGm9KQaIwF"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162330,
+      "name": "Toma",
+      "url": "https://open.spotify.com/track/48iWXYdWMFNenABULLtopW"
     },
     {
       "album": {
@@ -10012,6 +10088,32 @@
       "duration_ms": 210000,
       "name": "Un Viaje a Todas Partes - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/12AyVdnjbSyH00nrZXowIl"
+    },
+    {
+      "album": {
+        "name": "Una Noche Loca",
+        "url": "https://open.spotify.com/album/28YLk4yInrLrxXPlsjqMN1"
+      },
+      "artists": [
+        {
+          "name": "Nickzzy",
+          "url": "https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki"
+        },
+        {
+          "name": "LiL CaKe",
+          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
+        },
+        {
+          "name": "Came Beats",
+          "url": "https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194823,
+      "name": "Una Noche Loca",
+      "url": "https://open.spotify.com/track/6aYJlGgl6BFH2ZOmse7wpG"
     },
     {
       "album": {

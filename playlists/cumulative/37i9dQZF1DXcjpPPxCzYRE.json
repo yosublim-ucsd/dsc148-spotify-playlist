@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "Another Bundle of Tantrums",
+        "url": "https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/0Ddm2WaOg8B1OCa6zamy4K"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
       },
@@ -444,6 +462,28 @@
       "duration_ms": 247413,
       "name": "Change It All",
       "url": "https://open.spotify.com/track/7lWKpA4JZrGVqYURuz7cnu"
+    },
+    {
+      "album": {
+        "name": "Cieguita \"Los Remixes\"",
+        "url": "https://open.spotify.com/album/6Dyzm69MdAu3lP4aEdfwXx"
+      },
+      "artists": [
+        {
+          "name": "DALILA",
+          "url": "https://open.spotify.com/artist/7CNhaJPKRhrcKfVgQY1EWO"
+        },
+        {
+          "name": "tontimer weber",
+          "url": "https://open.spotify.com/artist/4V31E6EFu5yCqf49e5WwAH"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296041,
+      "name": "Cieguita",
+      "url": "https://open.spotify.com/track/2cqrxmFu6kQwlV9E3QnbBh"
     },
     {
       "album": {
@@ -932,7 +972,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 205590,
       "name": "How Do You Sleep? - Acoustic",
       "url": "https://open.spotify.com/track/2ZgUlizmH0VmOJzUwDchAf"
@@ -954,7 +994,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 196666,
       "name": "Hoy es siempre (feat. Nicole Zignago)",
       "url": "https://open.spotify.com/track/0oCQAJMx0PbuDYxBIaDN2z"
@@ -1008,10 +1048,36 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 138506,
       "name": "I Like You",
       "url": "https://open.spotify.com/track/7Afr3PKTtlFGHGiXYgnv6P"
+    },
+    {
+      "album": {
+        "name": "I Think I Like You",
+        "url": "https://open.spotify.com/album/1uyTVHINj1D2BfyCid3L27"
+      },
+      "artists": [
+        {
+          "name": "Gavin Moss",
+          "url": "https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT"
+        },
+        {
+          "name": "Tom Polo",
+          "url": "https://open.spotify.com/artist/3QSfc9ujwQnb254isTp4VK"
+        },
+        {
+          "name": "Urban Love",
+          "url": "https://open.spotify.com/artist/6sZREHX9XWWC5van5XX6Q7"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146471,
+      "name": "I Think I Like You",
+      "url": "https://open.spotify.com/track/2Rf33E2vpnJsIV5DpHCC6Y"
     },
     {
       "album": {
@@ -1134,7 +1200,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 208192,
       "name": "in ur motion",
       "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
@@ -1398,7 +1464,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 178026,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/3fn3cu0a9Rxwfdf98P9Lo2"
@@ -1572,7 +1638,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-10",
+      "date_removed": null,
       "duration_ms": 229960,
       "name": "No Right To Love You - Acoustic",
       "url": "https://open.spotify.com/track/58VJmNB8oeoE2PRqCrduEo"
@@ -1918,7 +1984,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 172965,
       "name": "Rayito",
       "url": "https://open.spotify.com/track/3Dvams9yiJchXGj1OlOCil"

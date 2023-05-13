@@ -4,7 +4,7 @@
 
 > Gospel music from across the African continent\. Worship in your mother tongue here! Cover:  <a href="https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"> Victor Thompson </a>
 
-216 songs - 20 hr 29 min
+217 songs - 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,12 +208,13 @@
 | [Xa Ndiyekelelwa \(Live\)](https://open.spotify.com/track/3hWGj0qXuKwjyM3Lf9ATMI) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Tshepiso](https://open.spotify.com/artist/0eUzQtxmaaNwA1wkyq4b2I), [Thando](https://open.spotify.com/artist/3bQm9hhUUYYmq9RHfReyhn) | [Spirit of Praise, Vol\. 5 \(Live\)](https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD) | 6:46 | 2020-05-15 | 2023-04-01 |
 | [Xa Ndiyekelelwa \- Live](https://open.spotify.com/track/5MDmBimlxmvhDshNiV5fCa) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Tshepiso](https://open.spotify.com/artist/0eUzQtxmaaNwA1wkyq4b2I), [Thando](https://open.spotify.com/artist/3bQm9hhUUYYmq9RHfReyhn) | [Collaborations, Vol\. 1](https://open.spotify.com/album/6FUPRNJO74x0fl6xphVQ3b) | 6:46 | 2020-05-15 | 2022-07-29 |
 | [Xorla \(Savior\)](https://open.spotify.com/track/5oeCjtT8jKUHnzRmRdPm5Q) | [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz), [Ps\. Helen Yawson](https://open.spotify.com/artist/6kTupYkSzsvfbbE75WuAlb) | [Xorla \(Savior\)](https://open.spotify.com/album/5ksHtx5tszK7XVxXjwAPzV) | 7:28 | 2022-03-17 | 2022-08-27 |
+| [YAH \- Spirit Chant](https://open.spotify.com/track/1zbg4LlaiwYvjGSikk3Yjn) | [Eljoe onoja](https://open.spotify.com/artist/63Y0MtLSfC9rjMZ1KsqTZi), [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM) | [YAH \(Spirit Chant\)](https://open.spotify.com/album/5sR2Q9yzejaiMOdlelBVAi) | 5:37 | 2023-05-12 |  |
 | [Yahweh: Song of Moses](https://open.spotify.com/track/13FKCr68YPsqWf0D5tXhQ0) | [Akesse Brempong](https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb), [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Yahweh: Song of Moses](https://open.spotify.com/album/1J1qOKKHPplDFzbcz0dDvj) | 7:44 | 2021-12-09 | 2023-04-01 |
 | [Yesu Mo](https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Yesu Mo](https://open.spotify.com/album/3dkgSTTZBFef5lc2JzftJG) | 4:01 | 2020-07-10 | 2023-04-14 |
 | [Yesu Wena UnguMhlobo \- Live](https://open.spotify.com/track/3j3Jn0bcG8rzliG4vHBYCa) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 23 \- Live at the CTICC Cape Town](https://open.spotify.com/album/4opHAaQZPtP5nMZacYfZtj) | 5:49 | 2019-11-06 | 2023-04-01 |
 | [Yhwh](https://open.spotify.com/track/41s5OcEXOhiIOsCIJiljF8) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Yhwh](https://open.spotify.com/album/6CdOpHsJDR9B2EzgKTLI5a) | 9:43 | 2022-09-09 | 2023-05-05 |
 | [Yibanathi](https://open.spotify.com/track/4rPSpeKJekm5pJNabHi0MK) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Yibanathi](https://open.spotify.com/album/76un37X1FHebVoU6wUzTcm) | 5:07 | 2020-07-14 | 2023-04-14 |
-| [You Are \(Live\)](https://open.spotify.com/track/5DOe949J5w1cD7WvxChUwA) | [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD) | [Your Kingdom on Earth \(Live\)](https://open.spotify.com/album/0TYTdff6CTiivlJ13wHFfI) | 6:37 | 2023-03-31 |  |
+| [You Are \(Live\)](https://open.spotify.com/track/5DOe949J5w1cD7WvxChUwA) | [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD) | [Your Kingdom on Earth \(Live\)](https://open.spotify.com/album/0TYTdff6CTiivlJ13wHFfI) | 6:37 | 2023-03-31 | 2023-05-13 |
 | [You Are Good](https://open.spotify.com/track/7GUIH3PAQ12qAIBl9jGBGn) | [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [You Are Good](https://open.spotify.com/album/5acZLqaRoq33m06wPIFDDf) | 2:07 | 2023-03-31 |  |
 | [You Are Worthy](https://open.spotify.com/track/0BTicoVlzcnlfMK2W8RJdW) | [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [Yes And Amen](https://open.spotify.com/album/2FEhibjz3n9PCtrwNiC1fH) | 6:45 | 2018-10-01 | 2023-04-01 |
 | [You Deserve It](https://open.spotify.com/track/3O3kBJYcEiK1LqpReeOLQ4) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Give Thanks](https://open.spotify.com/album/4UmNz5luJyOPEa7twLwoXY) | 9:56 | 2023-03-31 |  |

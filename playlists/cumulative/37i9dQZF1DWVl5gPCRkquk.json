@@ -244,7 +244,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 248853,
       "name": "April",
       "url": "https://open.spotify.com/track/6J0OvmRxVmiRyLeJ0aBryf"
@@ -1146,6 +1146,28 @@
       "duration_ms": 268432,
       "name": "doomsday",
       "url": "https://open.spotify.com/track/6bpZMLiRQDm2XcjZudu3xV"
+    },
+    {
+      "album": {
+        "name": "Down (Exit Song)",
+        "url": "https://open.spotify.com/album/78SFR8C0xd8wt4vDuhxmqK"
+      },
+      "artists": [
+        {
+          "name": "Wingtip",
+          "url": "https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI"
+        },
+        {
+          "name": "Bre Kennedy",
+          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187815,
+      "name": "Down (Exit Song)",
+      "url": "https://open.spotify.com/track/4mw2XX72WZ43X7QcrrlIf9"
     },
     {
       "album": {
@@ -2293,6 +2315,28 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6WdZ6j0Mm6fOzpyHXKx8PP"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217873,
+      "name": "If We Were Vampires (feat. Wesley Schultz) - Spotify Singles",
+      "url": "https://open.spotify.com/track/6LKvzEJQTIm2RrWAMPwQH6"
+    },
+    {
+      "album": {
         "name": "If You Need To, Keep Time On Me",
         "url": "https://open.spotify.com/album/0ieXS9qaiTJHZPQtVG0BHF"
       },
@@ -2658,7 +2702,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 290775,
       "name": "Little Lover",
       "url": "https://open.spotify.com/track/4wx3CZ1ykwZj7KY8S2dkC9"

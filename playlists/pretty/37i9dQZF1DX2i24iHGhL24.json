@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Sam Smith",
-  "num_followers": 97782,
+  "num_followers": 97856,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDlhNTA1Y2FlMjA3NWJlMWI0MjdlZjU1ZGQ1YWY5YjgyZmUwZjAx",
+  "snapshot_id": "MCwxZjljMjRhYTY2OWNjYTJjMDM2NmQ4YjdiNDE2YjViM2MwM2FlOTQ1",
   "tracks": [
     {
       "added_at": "2023-04-14 04:01:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/6zn7cLXjrLDV5hOOIg8lO8"
-      },
-      "artists": [
-        {
-          "name": "Natalie Jane",
-          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
-        }
-      ],
-      "duration_ms": 168421,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/2CSbx5XAFortinS8hJ3IiC"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "All The Things She Said",
         "url": "https://open.spotify.com/album/2rlUn38lFbYiBZ7L43gezd"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 221498,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/0wH55ChKuoZkmGhbIYtOI4"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/6zn7cLXjrLDV5hOOIg8lO8"
+      },
+      "artists": [
+        {
+          "name": "Natalie Jane",
+          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+        }
+      ],
+      "duration_ms": 168421,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/2CSbx5XAFortinS8hJ3IiC"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 184548,
-      "name": "ocean eyes - Recorded Live at Jungle City Studios",
-      "url": "https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "in between everything",
         "url": "https://open.spotify.com/album/2U94uUStzXa6RLGf0o46cj"
       },
@@ -543,18 +527,18 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Sing 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW"
       },
       "artists": [
         {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 201885,
-      "name": "Can't Feel My Face",
-      "url": "https://open.spotify.com/track/4UPZpRotT2V63Ev0vMRSOM"
+      "duration_ms": 184548,
+      "name": "ocean eyes - Recorded Live at Jungle City Studios",
+      "url": "https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -571,6 +555,22 @@
       "duration_ms": 216110,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/5iuWWNhVwmcbSJ5qTuYd9H"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Sing 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "duration_ms": 201885,
+      "name": "Can't Feel My Face",
+      "url": "https://open.spotify.com/track/4UPZpRotT2V63Ev0vMRSOM"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -592,22 +592,6 @@
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5F6IRzJZGzLGb8R0GDMKSz"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 241776,
-      "name": "You'll Be In My Heart - Spotify Singles",
-      "url": "https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
       },
       "artists": [
@@ -619,6 +603,22 @@
       "duration_ms": 267413,
       "name": "Say My Name - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5F6IRzJZGzLGb8R0GDMKSz"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 241776,
+      "name": "You'll Be In My Heart - Spotify Singles",
+      "url": "https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "I Wanna Dance With Somebody (Who Loves Me)",
-        "url": "https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 203538,
-      "name": "I Wanna Dance With Somebody - Who Loves Me",
-      "url": "https://open.spotify.com/track/0cgFnx6yIVv3RrqXlZTiGZ"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "PopArt: The Hits",
         "url": "https://open.spotify.com/album/4wcFyCDvWuIAIIfemgtNUv"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 237653,
       "name": "Always on My Mind - 2003 Remaster",
       "url": "https://open.spotify.com/track/2SWn864dJI5RNyrp3F4Kp1"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "I Wanna Dance With Somebody (Who Loves Me)",
+        "url": "https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 203538,
+      "name": "I Wanna Dance With Somebody - Who Loves Me",
+      "url": "https://open.spotify.com/track/0cgFnx6yIVv3RrqXlZTiGZ"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
+        "name": "Meet Me At Our Spot",
+        "url": "https://open.spotify.com/album/7yYIY5ZSptEn9CBm9QhW5O"
+      },
+      "artists": [
+        {
+          "name": "Christian French",
+          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
+        }
+      ],
+      "duration_ms": 137508,
+      "name": "Meet Me At Our Spot",
+      "url": "https://open.spotify.com/track/36d4GIYKnTr37URimc6FSP"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt"
       },
@@ -751,18 +767,18 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Meet Me At Our Spot",
-        "url": "https://open.spotify.com/album/7yYIY5ZSptEn9CBm9QhW5O"
+        "name": "I\u2019m Blue",
+        "url": "https://open.spotify.com/album/5oerPhDkPTBfRj1O8gXZBS"
       },
       "artists": [
         {
-          "name": "Christian French",
-          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
         }
       ],
-      "duration_ms": 137508,
-      "name": "Meet Me At Our Spot",
-      "url": "https://open.spotify.com/track/36d4GIYKnTr37URimc6FSP"
+      "duration_ms": 150511,
+      "name": "I\u2019m Blue",
+      "url": "https://open.spotify.com/track/7kIlkxmhj6AvR5gwKvcXZp"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -799,18 +815,18 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "I\u2019m Blue",
-        "url": "https://open.spotify.com/album/5oerPhDkPTBfRj1O8gXZBS"
+        "name": "Thank You (SOLOMON VERSION)",
+        "url": "https://open.spotify.com/album/3qEcZxhdZQF14Q869vsUQz"
       },
       "artists": [
         {
-          "name": "Faouzia",
-          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+          "name": "SOLOMON",
+          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
         }
       ],
-      "duration_ms": 150511,
-      "name": "I\u2019m Blue",
-      "url": "https://open.spotify.com/track/7kIlkxmhj6AvR5gwKvcXZp"
+      "duration_ms": 138600,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/0RSzx1yGKVNV8zsDtXdAsL"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -831,22 +847,6 @@
       "duration_ms": 239076,
       "name": "Lover - Recorded at Air Studios, London",
       "url": "https://open.spotify.com/track/3PgxWUQc4HJoQMj5Kp5Mcd"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Thank You (SOLOMON VERSION)",
-        "url": "https://open.spotify.com/album/3qEcZxhdZQF14Q869vsUQz"
-      },
-      "artists": [
-        {
-          "name": "SOLOMON",
-          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
-        }
-      ],
-      "duration_ms": 138600,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/0RSzx1yGKVNV8zsDtXdAsL"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1160,6 +1160,22 @@
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 194480,
+      "name": "Million Reasons - Live Session at Sound Stage Studios, Nashville, TN",
+      "url": "https://open.spotify.com/track/1tx3VJH2ThfGR0uYvcmkaK"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR"
       },
       "artists": [
@@ -1187,22 +1203,6 @@
       "duration_ms": 124805,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/6dgZhiW5isdLIrpOdDqrwr"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 194480,
-      "name": "Million Reasons - Live Session at Sound Stage Studios, Nashville, TN",
-      "url": "https://open.spotify.com/track/1tx3VJH2ThfGR0uYvcmkaK"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/79OPMp6YweXMi4whs0eJIV"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 246527,
-      "name": "Hello \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/2yN5ip7YyR19rmFSygnrOD"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Praise You",
         "url": "https://open.spotify.com/album/65CxUyETl0Q4A2u6dZtbiA"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 169050,
       "name": "Praise You",
       "url": "https://open.spotify.com/track/56dOfIe8TCrSvPBnQduue9"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/79OPMp6YweXMi4whs0eJIV"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 246527,
+      "name": "Hello \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/2yN5ip7YyR19rmFSygnrOD"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Kiss Me",
-        "url": "https://open.spotify.com/album/0GdTYLhpSyRzxgYmdjwnTN"
-      },
-      "artists": [
-        {
-          "name": "why mona",
-          "url": "https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU"
-        }
-      ],
-      "duration_ms": 148514,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/2Wv0DfptASwsdOVKtyLJua"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Come As You Are",
         "url": "https://open.spotify.com/album/18yErQMF59Oup4SvhmCoEm"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 156625,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/02iQfxXKbeR8L0AuGWrt9c"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Kiss Me",
+        "url": "https://open.spotify.com/album/0GdTYLhpSyRzxgYmdjwnTN"
+      },
+      "artists": [
+        {
+          "name": "why mona",
+          "url": "https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU"
+        }
+      ],
+      "duration_ms": 148514,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/2Wv0DfptASwsdOVKtyLJua"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -2115,6 +2115,22 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
+        "name": "Wouldn't It Be Nice",
+        "url": "https://open.spotify.com/album/1CFZu2ZdcAtMxwfAecgKKU"
+      },
+      "artists": [
+        {
+          "name": "Kate McGill",
+          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
+        }
+      ],
+      "duration_ms": 152181,
+      "name": "Wouldn't It Be Nice",
+      "url": "https://open.spotify.com/track/1U6deb3frWuMczVj2as98g"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
         "name": "Cruel Summer (Acoustic Version)",
         "url": "https://open.spotify.com/album/3N4veDCnNnZ848pdYaTjqU"
       },
@@ -2163,22 +2179,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "You Get What You Give",
-        "url": "https://open.spotify.com/album/2OU1KMDkZAXhWs1FUHcFm6"
-      },
-      "artists": [
-        {
-          "name": "Mint Simon",
-          "url": "https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh"
-        }
-      ],
-      "duration_ms": 217043,
-      "name": "You Get What You Give",
-      "url": "https://open.spotify.com/track/5THybCnLJJ6yELeignV078"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Montero (Call Me By Your Name)",
         "url": "https://open.spotify.com/album/3dapk74ATaYIUGIYLZBnmG"
       },
@@ -2207,6 +2207,22 @@
       "duration_ms": 242915,
       "name": "Crush",
       "url": "https://open.spotify.com/track/10zQ66l1AwcLtanGsv3Fav"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "You Get What You Give",
+        "url": "https://open.spotify.com/album/2OU1KMDkZAXhWs1FUHcFm6"
+      },
+      "artists": [
+        {
+          "name": "Mint Simon",
+          "url": "https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh"
+        }
+      ],
+      "duration_ms": 217043,
+      "name": "You Get What You Give",
+      "url": "https://open.spotify.com/track/5THybCnLJJ6yELeignV078"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -2347,22 +2363,6 @@
       "duration_ms": 233865,
       "name": "Before You Go",
       "url": "https://open.spotify.com/track/2TNAiE0HUKBVR4jckoN5YE"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Wouldn't It Be Nice",
-        "url": "https://open.spotify.com/album/1CFZu2ZdcAtMxwfAecgKKU"
-      },
-      "artists": [
-        {
-          "name": "Kate McGill",
-          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
-        }
-      ],
-      "duration_ms": 152181,
-      "name": "Wouldn't It Be Nice",
-      "url": "https://open.spotify.com/track/1U6deb3frWuMczVj2as98g"
     },
     {
       "added_at": "2023-04-14 04:01:00",

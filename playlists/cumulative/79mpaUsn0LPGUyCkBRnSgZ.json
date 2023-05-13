@@ -3917,6 +3917,24 @@
     },
     {
       "album": {
+        "name": "Out of the Hospital and Into the Morgue",
+        "url": "https://open.spotify.com/album/5HiftUDco0SH7jJmTFCvGm"
+      },
+      "artists": [
+        {
+          "name": "Mouseatouille",
+          "url": "https://open.spotify.com/artist/1RCFAywt6h42PGjgTOBNfa"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124590,
+      "name": "Welcome to (Drifter)",
+      "url": "https://open.spotify.com/track/5ZjaSKUMpSaXVwwFJrGL4O"
+    },
+    {
+      "album": {
         "name": "Desire, I Want To Turn Into You",
         "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
       },

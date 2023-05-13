@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: RENEE
 
-490 songs - 1 day 4 hr 6 min
+491 songs - 1 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Déjame](https://open.spotify.com/track/5M6tbiFcXlmUsExGACcB2W) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Déjame](https://open.spotify.com/album/0bMqqQFF8RH3HF44FLcsde) | 3:46 | 2022-01-21 | 2022-07-28 |
 | [Déjame Dejarte Atrás](https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Déjame Dejarte Atrás](https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx) | 3:24 | 2022-01-14 |  |
 | [DÍAS COMO HOY](https://open.spotify.com/track/6ukf7MHX1L5iwGUKCxm13N) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Lonely Fans](https://open.spotify.com/album/0jAcrKA6rbQWSQ1eBGo38P) | 3:31 | 2022-12-09 | 2023-02-04 |
-| [El After](https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Lo Que Siento](https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM) | 3:19 | 2022-10-28 |  |
+| [El After](https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Lo Que Siento](https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM) | 3:19 | 2022-10-28 | 2023-05-13 |
 | [El Aire Que Respires](https://open.spotify.com/track/2AwBz5FvRImGnV4T7qQKrR) | [NIKKÖ](https://open.spotify.com/artist/59pyzOYQlRJx8z1gzrN2ai), [Axel Mugneco](https://open.spotify.com/artist/6pr2XhUBfnXEa7bDc0nswN), [Michelle Mugneco](https://open.spotify.com/artist/693n5w7Sj2J0ZIjkp4FX9Y) | [El Aire Que Respires](https://open.spotify.com/album/2E8xOX3RrtFVdSDx5fW4yw) | 3:21 | 2022-01-21 | 2022-06-22 |
 | [El Astronauta](https://open.spotify.com/track/5KAeEQkHVqlEksNYZspCN0) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [El Astronauta](https://open.spotify.com/album/51aRXHN2FvmaRvyiAxKFdR) | 2:44 | 2022-01-14 | 2022-10-15 |
 | [El Club](https://open.spotify.com/track/0vDfod7HBva0Kr0R4tEIpD) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [El Club](https://open.spotify.com/album/4WTDpgb2hxYeqaOtcsUOVh) | 2:39 | 2022-10-14 |  |
@@ -321,6 +321,7 @@
 | [Otra Noche en los '70](https://open.spotify.com/track/4ymeGJhf1r8HJefwWDjv7o) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ), [Bullz](https://open.spotify.com/artist/7fakgBRUaUmAO91c9INRp1) | [Llorando en la Fiesta](https://open.spotify.com/album/2G9gRcA1G8qasisu7gQ4yD) | 2:37 | 2023-04-21 |  |
 | [Otro Café](https://open.spotify.com/track/11nOwkwi4fCSbSowdrMhBi) | [Jimena Gonik](https://open.spotify.com/artist/0zzqP0G1PR5B9Em78h6ibv) | [Otro Café](https://open.spotify.com/album/6OuR0BZ2t5csQsCotYUQaD) | 3:03 | 2022-04-01 | 2022-07-28 |
 | [Otro Lado](https://open.spotify.com/track/5CW1lIQkzMj5SjFZgM40iE) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Otro Lado](https://open.spotify.com/album/4lZqShlTketzCTHWnUMX1K) | 3:57 | 2022-01-14 |  |
+| [Otro Plan](https://open.spotify.com/track/3KfM0s42VjMA0REk1bWfJc) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Otro Plan](https://open.spotify.com/album/5sPy8rb96FxPrJ2GA1zfjW) | 3:02 | 2023-05-12 |  |
 | [Otro Universo](https://open.spotify.com/track/20n1iiiZDUEyrqTlwtJZjT) | [Luli Interllige](https://open.spotify.com/artist/6JRnOrJxnwXfS8kldJL2OO), [Leandro Lacerna](https://open.spotify.com/artist/5VpPGxW9y2vvqD0PAsnqZ9) | [Otro Universo](https://open.spotify.com/album/2l4IOiFLNwGrtVtXkL27AV) | 3:37 | 2022-02-11 | 2022-04-17 |
 | [Pa Lante](https://open.spotify.com/track/11fxEn95S7K4c2kXx8cmDM) | [Fabiana Brenner](https://open.spotify.com/artist/3FzRkXZD5SfQXxkjcQYJpo) | [Curare](https://open.spotify.com/album/1kIpUZy0fqsKoafJTrtrRa) | 4:15 | 2022-01-21 | 2022-07-12 |
 | [Paco y Carmela](https://open.spotify.com/track/4oBr8ZsmTTvgdcqsaUic3e) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Paco y Carmela](https://open.spotify.com/album/3AaoWRJ1xTHtyqvzOWvMRH) | 3:06 | 2022-01-21 | 2022-07-18 |

@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Magdalena Bay
 
-1,553 songs - 3 day 9 hr 57 min
+1,557 songs - 3 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -507,6 +507,7 @@
 | [Friend](https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:56 | 2020-10-20 | 2023-02-25 |
 | [Friends](https://open.spotify.com/track/0BwDF0PRX9skmZ0BUWmLOF) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Friends](https://open.spotify.com/album/7merJnzS4bvQD6Nv7PaA39) | 3:06 | 2023-04-14 |  |
 | [Friends](https://open.spotify.com/track/7oEO6TfBGcyJw8ZpP8e8i2) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Friends](https://open.spotify.com/album/4jStOidSdXoVBPdgVUj0po) | 3:26 | 2020-10-13\* | 2020-12-12 |
+| [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-05-12 |  |
 | [frown](https://open.spotify.com/track/0P2CBPHJsD0BgdsqHedugp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/4Ozq72UWig4PdVy3yGyzAE) | 2:19 | 2022-05-20 | 2022-10-13 |
 | [frown](https://open.spotify.com/track/4BESW4wF6WoW4blvEqeFJM) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 2:19 | 2022-12-16 | 2023-03-02 |
 | [Fruity](https://open.spotify.com/track/4XVPArAtSq0657KUF0vXRy) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Fruity](https://open.spotify.com/album/63awPWi564xa0E4Y61w2dz) | 3:13 | 2022-08-19 | 2022-10-16 |
@@ -541,7 +542,7 @@
 | [GIRL ON TV](https://open.spotify.com/track/6SnE7mmmYVpvd3QRkpKyXe) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [GIRL ON TV](https://open.spotify.com/album/1ysjIPMr2enaVZYn7HxMdA) | 3:12 | 2020-11-13 | 2022-04-14 |
 | [girl ur so pretty](https://open.spotify.com/track/2U55cNHErmbpOxq9TTrjSG) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [girl ur so pretty](https://open.spotify.com/album/2laKIsp6nPOKXjlGYro4e4) | 3:08 | 2022-05-13 | 2022-06-01 |
 | [Girls \- Single Edit](https://open.spotify.com/track/2LwNOv9B1vItliaWMctLTV) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Girls](https://open.spotify.com/album/78WCWfiENQYykDoDGNoeJQ) | 3:20 | 2022-04-08 | 2022-04-21 |
-| [Give A Little Kindness](https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Seasons](https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ) | 2:44 | 2023-03-31 |  |
+| [Give A Little Kindness](https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Seasons](https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ) | 2:44 | 2023-03-31 | 2023-05-13 |
 | [Glass Ceiling](https://open.spotify.com/track/74KhpMF3TuwzanrFXwfsZj) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Sonder](https://open.spotify.com/album/0s99qJjgAT5jyqpFQnFLMh) | 3:04 | 2021-09-24 | 2022-04-20 |
 | [Glitter](https://open.spotify.com/track/23TPP1eeElFfvYVznskwCY) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 3:00 | 2021-02-13 | 2022-08-27 |
 | [Glory Days](https://open.spotify.com/track/0hKA03dkqmFmGCXaFLPHt7) | [Will Jay](https://open.spotify.com/artist/4lWJityOQkWcLFiboQBvBq) | [Glory Days](https://open.spotify.com/album/3LOVCfGdGh57pl2Yu6Aj5Y) | 2:25 | 2021-05-11 | 2021-10-13 |
@@ -589,7 +590,7 @@
 | [Harmless Fun](https://open.spotify.com/track/5K09SsCBHoecbMq3fUN7BW) | [Belot](https://open.spotify.com/artist/05saREsqgyy8WODHpOIrKK) | [Harmless Fun](https://open.spotify.com/album/7utbZQTQuG0qyPxHloha0L) | 2:12 | 2022-03-04 | 2022-07-28 |
 | [hate to be lame \(feat\. FINNEAS\)](https://open.spotify.com/track/3QEX5O23KVp1yg1tj6Hycp) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [hate to be lame](https://open.spotify.com/album/5op9qDxPxMSBpV593Nxsaj) | 2:36 | 2022-04-08 | 2022-09-17 |
 | [hate to be you](https://open.spotify.com/track/7wDIcTm9EQiKxH60Z28jRU) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [hate to be you](https://open.spotify.com/album/6EFy6eC5CF3XUUMx2cwwAG) | 3:02 | 2022-03-18 | 2022-04-21 |
-| [HATELOVE](https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [HATELOVE](https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R) | 2:51 | 2023-02-24 |  |
+| [HATELOVE](https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [HATELOVE](https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R) | 2:51 | 2023-02-24 | 2023-05-13 |
 | [Haunted](https://open.spotify.com/track/71Uv6VSCYTjjXOEokJwpj4) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [Haunted](https://open.spotify.com/album/5tgF2RTf3CbJiU8GSoeUsy) | 2:53 | 2021-06-02 | 2022-04-15 |
 | [have a great day](https://open.spotify.com/track/2TmW432ldVYhIwAdJSlJEG) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [have a great day](https://open.spotify.com/album/0FOFp8kZa4HtV16w2TTqTS) | 3:22 | 2021-06-03 | 2021-10-14 |
 | [He Said She Said](https://open.spotify.com/track/5fdoU9T5AUNXj9NNWmRGLp) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [He Said She Said](https://open.spotify.com/album/6PU2JJHEfry8nJT8K3BDzL) | 3:09 | 2021-05-05 | 2022-04-03 |
@@ -603,6 +604,7 @@
 | [Hearts in Halves](https://open.spotify.com/track/6OtIOeIZIfRWQ251IgzUFb) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Hearts in Halves](https://open.spotify.com/album/2Z3NZ83Q44ogEhdL2IBSPh) | 3:15 | 2020-10-20 | 2020-10-21 |
 | [Heathens](https://open.spotify.com/track/6yTbMlD00yPN4fcCmUM1DB) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Heathens](https://open.spotify.com/album/727TuBQgwg62XhwClV7GtK) | 3:45 | 2021-12-03 | 2022-04-21 |
 | [Heather Grey](https://open.spotify.com/track/3NnOxkPPHIuM4jWPWyNz9O) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [Heather Grey](https://open.spotify.com/album/6OKDedyhI5AAFETKwyuS3Q) | 2:37 | 2022-06-01 | 2022-06-23 |
+| [Heaven Knows](https://open.spotify.com/track/1rGtiJ6NtmHiEij4bf6hOh) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [Heaven Knows](https://open.spotify.com/album/21rC1AhLo8aFP4zDbKVWSr) | 2:50 | 2023-05-12 |  |
 | [Hell](https://open.spotify.com/track/3DC8V0NDZ8h06R9xQhi0AH) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Hell](https://open.spotify.com/album/2vadrK0FovrmPSp4b8BSfN) | 3:32 | 2022-07-01 | 2022-07-04 |
 | [Hello](https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Hello, All!](https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4) | 3:23 | 2023-03-27 | 2023-04-01 |
 | [HELLO](https://open.spotify.com/track/6fvNZQoTK4eOfNg8MGzoiY) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [HELLO](https://open.spotify.com/album/7ENTmmB50lQi4pvn0w6v25) | 2:42 | 2022-03-31 | 2022-07-29 |
@@ -953,6 +955,7 @@
 | [My Ways](https://open.spotify.com/track/5o3IfIHZBTQCJS2y1c13su) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [My Ways](https://open.spotify.com/album/0XUrFhOuZ1HOijwXToI0gM) | 3:01 | 2021-02-28 | 2021-05-28 |
 | [n2o](https://open.spotify.com/track/2mPLs6IBClLRkRjgKoYBHi) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [n2o](https://open.spotify.com/album/0hNrShA8luMoMv9JQ0HZyy) | 2:59 | 2021-10-22 | 2022-04-16 |
 | [Naked in Manhattan](https://open.spotify.com/track/74oXlQPr6x05HDrGVaiYXZ) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Naked in Manhattan](https://open.spotify.com/album/2aA0deq09WgAaMzIpQcv4p) | 3:31 | 2022-02-25 | 2022-08-06 |
+| [name everywhere](https://open.spotify.com/track/3mOd7FgLgWATxB0khHOSOk) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [name everywhere](https://open.spotify.com/album/3V9iuYMjGOFl3bp5BLxYNq) | 3:34 | 2023-05-12 |  |
 | [Narcissist](https://open.spotify.com/track/3FLJNWLmA54aWQj6FAtFXg) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [The Yearbook](https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe) | 3:07 | 2021-10-14 | 2021-10-16 |
 | [Nasty](https://open.spotify.com/track/7pjGaJVs9ShUB6SFJTjWsO) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [Nasty](https://open.spotify.com/album/0fvYSWu3eHfBdnFEFN4Md5) | 2:51 | 2022-06-24 | 2022-07-02 |
 | [Nervous](https://open.spotify.com/track/3aWGQY8YwqHg4rerrAT1yl) | [The Natural Synthetic](https://open.spotify.com/artist/6tXQnD9aL1g2ugKMGlNcG5), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5), [Miette Hope](https://open.spotify.com/artist/4K61UysqQc1VRj8VsY76Qw) | [Nervous](https://open.spotify.com/album/49htQCsyElGJH9N70Nw5JQ) | 2:27 | 2020-10-13\* | 2020-11-13 |
@@ -1078,7 +1081,7 @@
 | [Perfect Timing](https://open.spotify.com/track/2OwLOjsJ7HTWQtnkInjHdL) | [McCall](https://open.spotify.com/artist/229NvsczXKwdH0DkPg4uwT) | [Perfect Timing](https://open.spotify.com/album/0xYhsSyXjDVBw2NtxkDYfu) | 2:13 | 2022-06-17 | 2022-07-29 |
 | [Perfume](https://open.spotify.com/track/3wJAk2rKEEoYlXSLpLVrkU) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Perfume](https://open.spotify.com/album/1vDtewM5wjw6WzUHS3aZqz) | 3:52 | 2021-08-27 | 2022-07-23 |
 | [Perspective](https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Perspective](https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4) | 2:43 | 2023-03-03 |  |
-| [Petals on the Moon](https://open.spotify.com/track/3BmaFHt6q91CmMrA7fLLRC) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Petals on the Moon](https://open.spotify.com/album/0o7cc3EnUTcYep5EiFFngs) | 4:16 | 2023-02-17 |  |
+| [Petals on the Moon](https://open.spotify.com/track/3BmaFHt6q91CmMrA7fLLRC) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Petals on the Moon](https://open.spotify.com/album/0o7cc3EnUTcYep5EiFFngs) | 4:16 | 2023-02-17 | 2023-05-13 |
 | [Petrified](https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 | 2022-04-08 | 2023-04-01 |
 | [PFC](https://open.spotify.com/track/0UHe6dSc0GrbuB6BlNXZZF) | [CRITTER](https://open.spotify.com/artist/7arvE5qBEbW7UgwoaJhpOM) | [PFC](https://open.spotify.com/album/0ECVeURUW3ZFLSMLErSs1V) | 3:06 | 2021-02-28 | 2021-05-27 |
 | [Pick Me Up](https://open.spotify.com/track/77d7t7SYR0YAXgXePYo8t5) | [Rachel Bochner](https://open.spotify.com/artist/6AdwNKE3DsPrlNNCIzdZXz) | [Pick Me Up](https://open.spotify.com/album/5V5x9zEi6XCVnn15qjpDRP) | 2:44 | 2020-11-13 | 2021-01-15 |
@@ -1180,6 +1183,7 @@
 | [Savage Good Boy](https://open.spotify.com/track/6mH7lvaAr2Q87Yz6JIeejx) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Savage Good Boy](https://open.spotify.com/album/3p84ciTFVs07foaC10DLAp) | 2:26 | 2021-06-02 | 2022-04-03 |
 | [Save Me From Myself](https://open.spotify.com/track/29fw7pUEE0AOsv2EmfY0Bm) | [MAX RAD](https://open.spotify.com/artist/2Igm79AVp3dCbQhfF6I60Z) | [Save Me From Myself, Pt\. 2](https://open.spotify.com/album/2Rtmp7ULUAN96u1RyP8W5D) | 4:56 | 2020-10-13\* | 2021-05-28 |
 | [Save Myself](https://open.spotify.com/track/6QDZlGAY1njNqAdOM6PryZ) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Save Myself](https://open.spotify.com/album/1xqgvYXcHZvCr9VthrD4mn) | 3:44 | 2020-11-20 | 2022-06-01 |
+| [Savior](https://open.spotify.com/track/7x6lcA2jLYKvhaS9IkzkzQ) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Savior](https://open.spotify.com/album/1NhQuFTgHVwpIjFRHDbOMs) | 2:21 | 2023-05-12 |  |
 | [say goodbye](https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [say goodbye](https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB) | 1:26 | 2021-06-02 | 2022-04-15 |
 | [Say It Again](https://open.spotify.com/track/3DF9XSRvf0dFT3Om0Rj4KJ) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Say It Again](https://open.spotify.com/album/1mgTS0tdQowCQkrOPxMVOG) | 3:36 | 2020-10-16 | 2021-05-20 |
 | [Say It's Over](https://open.spotify.com/track/3mmOZNLF9RwO85BD37j4A1) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Say It's Over](https://open.spotify.com/album/38qdPjDavVVwc4x21z2jEh) | 3:35 | 2022-10-21 | 2022-11-12 |

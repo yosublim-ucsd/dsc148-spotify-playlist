@@ -4,7 +4,7 @@
 
 > Listen to the top Christian and worship hits of 2023 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-275 songs - 1 day 2 hr 39 min
+276 songs - 1 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Break Every Chain \- Live](https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 8:18 | 2023-03-31 |  |
 | [Breakthrough Miracle Power](https://open.spotify.com/track/7ATRQZwETMu5jFYzXiMjNc) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Breakthrough Miracle Power / You Are The Lord](https://open.spotify.com/album/4gaDn0J2sLYMvOPCW9ZoNU) | 5:52 | 2022-03-15 | 2022-06-10 |
 | [Build My Life](https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Pat Barrett](https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5) | 4:04 | 2022-02-17 |  |
+| [Call On The Name \- Live](https://open.spotify.com/track/2Z7crug9ZVQ8TZ6xg1f3pR) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Call On The Name \(Live\)](https://open.spotify.com/album/1IHiwaA7vh2a4hycVsEIqW) | 6:28 | 2023-05-12 |  |
 | [Chariot \- Two Palms Sessions](https://open.spotify.com/track/327dDs4v50npSuWt01R2HO) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Are We There Yet? \(Expanded Edition\)](https://open.spotify.com/album/6sYp4E312yo75m3UfXyOOt) | 5:39 | 2023-02-03 |  |
 | [Christ And Christ Crucified \- Live](https://open.spotify.com/track/1ftdZF48D8Ig3zAtQUMYi7) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Christ And Christ Crucified \(Live\)](https://open.spotify.com/album/4r1B2UdNtZaIRtT3R6zziN) | 6:34 | 2022-04-01 | 2023-01-05 |
 | [Christ And Christ Crucified \- Live](https://open.spotify.com/track/32adupKO13M1j6hWpysy0U) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [I Saw The Lord \(Live\)](https://open.spotify.com/album/7Hm28jY9rPa1xCX8vpvAYw) | 6:34 | 2022-08-29 | 2023-04-15 |

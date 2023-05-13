@@ -2,7 +2,7 @@
 
 ### [sentimiento.](https://open.spotify.com/playlist/37i9dQZF1DX4Ghyz32wen4)
 
-> Una selección de temas de amor y desamor, con mucho feeling\. Kenia OS y Gera MX en portada.
+> Una selección de temas de amor y desamor, con mucho feeling\. Alvaro Diaz en portada.
 
 107 songs - 5 hr 43 min
 

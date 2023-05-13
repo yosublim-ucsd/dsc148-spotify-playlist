@@ -4,7 +4,7 @@
 
 > The biggest Texas Country Hits over the last couple of years\. Formerly Texas Music Rewind.
 
-165 songs - 10 hr 2 min
+166 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Lightning Fast](https://open.spotify.com/track/5kwmkPrTLa5OCbxRtBkY1i) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Lightning Fast](https://open.spotify.com/album/5hX3XsWvSjNVbSRMd5MuFS) | 3:10 | 2022-03-18 | 2023-05-09 |
 | [Like I Love You](https://open.spotify.com/track/5DATEqpNaBjXVo2NF0HPoo) | [Sarah Hobbs](https://open.spotify.com/artist/3MhVMd9a3ynRnLBThqSLkI) | [Texas Made](https://open.spotify.com/album/7yBHMD2T0sAI8G569XlqDA) | 3:51 | 2021-07-16 |  |
 | [Long Gone](https://open.spotify.com/track/0KaQom2aaLURgTYMKSYDnC) | [Wynn Williams](https://open.spotify.com/artist/6ZzXw8Du2F5Ak2udqeOTC4) | [Long Gone](https://open.spotify.com/album/6yXet43BmB7VaNsNop2X2F) | 3:14 | 2022-01-07 | 2023-02-11 |
+| [Loser Mentality](https://open.spotify.com/track/0kh5IPMmmY2LUPDij2H3T6) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Abstract Art of an Unstable Mind](https://open.spotify.com/album/6O5EG4fe0vKeINvGk0z2qW) | 3:12 | 2023-02-10 |  |
 | [Loser Mentality](https://open.spotify.com/track/2gM5ST0SGj3UkaqnvMatyw) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Loser Mentality](https://open.spotify.com/album/3zCXhcu8LJRfSdmQen1eN6) | 3:13 | 2022-05-27 | 2023-05-04 |
 | [Lovin' Where It's Goin'](https://open.spotify.com/track/2sErEhMGHJsGjm0LFKqesJ) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Lovin' Where It's Goin'](https://open.spotify.com/album/5DmcSJypcNe2D3ljGDyeMA) | 2:59 | 2022-03-18 |  |
 | [Marfa Lights](https://open.spotify.com/track/62TNzM2AkC9NiTu9nEcmMI) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Marfa Lights](https://open.spotify.com/album/24NOQ09OAx540cYX976EEo) | 3:42 | 2022-03-18 |  |
@@ -159,7 +160,7 @@
 | [Unrung](https://open.spotify.com/track/7zrfNVEwO2ig1pGVKh9z66) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [A Long Way from Your Heart](https://open.spotify.com/album/04ffYrjCuXYHdWvFXzGeW9) | 3:07 | 2021-04-16 |  |
 | [Unwanted Man](https://open.spotify.com/track/6ohgxacIDKLyvvfUYcmKcR) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Unwanted Man](https://open.spotify.com/album/4o5I0LPIKI0LqNGfV88pCw) | 4:16 | 2022-05-27 |  |
 | [Unwanted Man](https://open.spotify.com/track/6vvg8BQtLpvcmFq3X6wWwU) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [From The Album 'Unwanted Man'](https://open.spotify.com/album/6BoLrl0d4vtJ06y7oRuUFp) | 4:16 | 2022-05-27 | 2022-07-29 |
-| [Waiting for the Fall](https://open.spotify.com/track/0kTxPEHRite7TMCZTC42bk) | [Sam Riggs](https://open.spotify.com/artist/3vmCb694uLT5FBO1lVB52U) | [Waiting for the Fall](https://open.spotify.com/album/0TVD2skKoSDmQOhG8LgXid) | 3:37 | 2021-04-16 |  |
+| [Waiting for the Fall](https://open.spotify.com/track/0kTxPEHRite7TMCZTC42bk) | [Sam Riggs](https://open.spotify.com/artist/3vmCb694uLT5FBO1lVB52U) | [Waiting for the Fall](https://open.spotify.com/album/0TVD2skKoSDmQOhG8LgXid) | 3:37 | 2021-04-16 | 2023-05-13 |
 | [Walls Coming Down](https://open.spotify.com/track/2OvZ5FqpAHrbp1cyRPp7CP) | [Abbey Duncan](https://open.spotify.com/artist/1gxoexlfgalY8uZT3Rp0ui) | [Walls Coming Down](https://open.spotify.com/album/6HPdPvqDCzBVMFxXmjsIPG) | 3:37 | 2021-09-24 |  |
 | [Wasn't That Drunk \(feat\. Carly Pearce\)](https://open.spotify.com/track/0WnGvxW15RZyOvZxDYiWF4) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Front Row Seat](https://open.spotify.com/album/7yxhlLyOZAyFyjE3PyTaKX) | 3:43 | 2021-04-16 |  |
 | [What It Doesn’t Do](https://open.spotify.com/track/0EhzRx6ybqpSac2DW5lx7E) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [What It Doesn’t Do](https://open.spotify.com/album/1MHxVPMWkJwBYn7FNHncra) | 3:36 | 2021-09-03 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut to electronic tracks that grace the runways everywhere.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,681 likes - 100 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,717 likes - 100 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,15 +78,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 68 | [Lune est l'autre](https://open.spotify.com/track/355aCQI1oP2uebzzCrvabZ) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Premiers émois](https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ) | 3:53 |
 | 69 | [Famous Monsters](https://open.spotify.com/track/0K5tCOHMG1GN4HsBTOljKm) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Famous Monsters](https://open.spotify.com/album/2TMoP7QgyGeRuortBdbOuQ) | 6:37 |
 | 70 | [Dancers](https://open.spotify.com/track/258BvHGOVi8YbchiORbR52) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Polymer](https://open.spotify.com/album/3U8FaNJ7XTrin6TNwDjuiA) | 5:00 |
-| 71 | [Let It Go](https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i) | [KITTENS](https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM) | [Let It Go](https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ) | 3:07 |
-| 72 | [Romance Noire](https://open.spotify.com/track/7kBEQjXoeOGPGFaGIN9Ri8) | [Double Mixte](https://open.spotify.com/artist/0CbG9RmIlPk7RvbUEesKuR) | [Romance Noire](https://open.spotify.com/album/4Kw1fyxuNMfNOIXinAgTyD) | 5:12 |
+| 71 | [Romance Noire](https://open.spotify.com/track/7kBEQjXoeOGPGFaGIN9Ri8) | [Double Mixte](https://open.spotify.com/artist/0CbG9RmIlPk7RvbUEesKuR) | [Romance Noire](https://open.spotify.com/album/4Kw1fyxuNMfNOIXinAgTyD) | 5:12 |
+| 72 | [Let It Go](https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i) | [KITTENS](https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM) | [Let It Go](https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ) | 3:07 |
 | 73 | [Return to Oz](https://open.spotify.com/track/13HDTxGLX75krczQM9xRKP) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Amniotic](https://open.spotify.com/album/7M0Zg2A3mrTOOqfVyRUjb8) | 7:12 |
 | 74 | [Play In The Dark](https://open.spotify.com/track/4ND92kpiHy3mxvLVgFSowz) | [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Play In The Dark](https://open.spotify.com/album/4hU3TVtRDIPFugFjCGMKEC) | 4:55 |
 | 75 | [On Your Mind](https://open.spotify.com/track/3D9xV9vmNNSLEItOtlPILE) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [On Your Mind](https://open.spotify.com/album/6cWWxdWRhOhoS0cPYOmE5d) | 4:06 |
 | 76 | [Strut](https://open.spotify.com/track/3VICFKiIgp3V8OwOLZq4LL) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Strut](https://open.spotify.com/album/0iOUZ34Y3qWJAFqxBgcCRp) | 2:36 |
 | 77 | [Flutter](https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Bend](https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC) | 5:21 |
-| 78 | [Jam Fam \- Chanel Show Version](https://open.spotify.com/track/5jnyeC8SjI3vUOtstA5kZy) | [Planningtorock](https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG) | [Planningtochanel](https://open.spotify.com/album/4LqawEWlyDaDP9MA057KKQ) | 3:29 |
-| 79 | [U Wanna?](https://open.spotify.com/track/0lhWFpWU9NgQ2j7FuvjXH1) | [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr), [Sir JoQ](https://open.spotify.com/artist/0t2ATkbihdqPzUaE9PZaEs) | [U Wanna?](https://open.spotify.com/album/7wicSDee8Jznltmn6Bk9ZO) | 4:10 |
+| 78 | [U Wanna?](https://open.spotify.com/track/0lhWFpWU9NgQ2j7FuvjXH1) | [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr), [Sir JoQ](https://open.spotify.com/artist/0t2ATkbihdqPzUaE9PZaEs) | [U Wanna?](https://open.spotify.com/album/7wicSDee8Jznltmn6Bk9ZO) | 4:10 |
+| 79 | [Jam Fam \- Chanel Show Version](https://open.spotify.com/track/5jnyeC8SjI3vUOtstA5kZy) | [Planningtorock](https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG) | [Planningtochanel](https://open.spotify.com/album/4LqawEWlyDaDP9MA057KKQ) | 3:29 |
 | 80 | [Burner](https://open.spotify.com/track/79FRd4gq3o7yXSexLVsAFh) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Burner](https://open.spotify.com/album/1H2xgpZ4h6MAAlRnZxGKjl) | 5:08 |
 | 81 | [Electrian](https://open.spotify.com/track/6pErJ8bs3zL996xN0j93RF) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Galazy EP](https://open.spotify.com/album/1PULF355Ilwz6D00dFF1cn) | 6:52 |
 | 82 | [The Ghost](https://open.spotify.com/track/2QIYX6ULs33vMBurmcA5Kw) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [FOREVER](https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t) | 4:04 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 96 | [So Right](https://open.spotify.com/track/0UEqdYaTjYYLuEr6fLneDl) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [Working Class Woman](https://open.spotify.com/album/5AG8Dvo3N4y9ZlCjU06yXh) | 5:06 |
 | 97 | [Helix \- Gesaffelstein Vision Remix](https://open.spotify.com/track/7Crjmkp1INHKL6dY9ofSMe) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Helix](https://open.spotify.com/album/6eBYtM0UvlNlOz2CZf61DH) | 4:36 |
 | 98 | [Just Us](https://open.spotify.com/track/1ldQZnqbGD1sidVaIySCOA) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Just Us](https://open.spotify.com/album/0snSWda0RrCiyRzVIca0z8) | 6:45 |
-| 99 | [Silhouettes \(I, II, III\)](https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Elaenia](https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R) | 10:42 |
-| 100 | [August in Paris](https://open.spotify.com/track/3ZqbN38TDR0e0AEAthNZ3Y) | [Jennifer Cardini](https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf), [Shonky](https://open.spotify.com/artist/1waWwt8cVCJgqLItlQJz14) | [Mobilee Back to Back Vol\. 2 \- Presented By Gummihz](https://open.spotify.com/album/3qgEzuYMF3B0n2IcDm37yQ) | 8:36 |
+| 99 | [August in Paris](https://open.spotify.com/track/3ZqbN38TDR0e0AEAthNZ3Y) | [Jennifer Cardini](https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf), [Shonky](https://open.spotify.com/artist/1waWwt8cVCJgqLItlQJz14) | [Mobilee Back to Back Vol\. 2 \- Presented By Gummihz](https://open.spotify.com/album/3qgEzuYMF3B0n2IcDm37yQ) | 8:36 |
+| 100 | [Silhouettes \(I, II, III\)](https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Elaenia](https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R) | 10:42 |
 
-Snapshot ID: `MCxjOWQ0YjE1Y2Q2YmJiNmNkZjQ0ODhiODk5OGVjOTQ5ZDk4ZjkxN2U3`
+Snapshot ID: `MCw2MmY1ZGYyMzZiMzkyNjYzY2RjNjA2ZWE5YzU4NDhkZTZmYzJmNjhh`

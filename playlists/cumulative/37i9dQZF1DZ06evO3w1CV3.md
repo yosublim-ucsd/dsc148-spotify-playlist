@@ -4,7 +4,7 @@
 
 > This is Joy Crookes\. The essential tracks, all in one playlist.
 
-27 songs - 1 hr 29 min
+28 songs - 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Bad Feeling](https://open.spotify.com/track/5L3rFG7ttfr4OK87dbUfle) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:26 | 2023-05-02 |  |
 | [Darkest Hour](https://open.spotify.com/track/44gBofMgplbG0f1XQwTraO) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Perception EP](https://open.spotify.com/album/5UoWl95U6YTsS1N6JyQ7j4) | 3:36 | 2023-05-02 |  |
 | [Don't Let Me Down \- Demo](https://open.spotify.com/track/1VwPTHAfPvcL1ZubK6qabL) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Don't Let Me Down \(Demo\)](https://open.spotify.com/album/7GWow8Uxx2X9Moop7GD3KR) | 3:15 | 2023-05-02 |  |
-| [Early](https://open.spotify.com/track/6AcFiVsHvDtat3rmHNK2Nf) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Jafaris](https://open.spotify.com/artist/69hGavzu5tphYU1EIY0yEg) | [Early](https://open.spotify.com/album/5Q7XISk90DAYHFghAvKYI9) | 3:13 | 2023-05-02 |  |
+| [Early](https://open.spotify.com/track/6AcFiVsHvDtat3rmHNK2Nf) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Jafaris](https://open.spotify.com/artist/69hGavzu5tphYU1EIY0yEg) | [Early](https://open.spotify.com/album/5Q7XISk90DAYHFghAvKYI9) | 3:13 | 2023-05-02 | 2023-05-13 |
 | [Feet Don't Fail Me Now](https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Feet Don't Fail Me Now](https://open.spotify.com/album/4AsNUFCul8wrgyUbvBJeQZ) | 3:18 | 2023-05-02 |  |
 | [For a Minute \(feat\. KarimThaPeasant\)](https://open.spotify.com/track/4JSlPG9DkRuhyXNdLxhI5a) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [KarimThaPeasant](https://open.spotify.com/artist/1tDOv0KCi6XAF3aXsn559F) | [Reminiscence EP](https://open.spotify.com/album/6fACkmxRXI0jzKkdvrTGeV) | 3:12 | 2023-05-02 |  |
 | [HOW I'VE BEEN \(feat\. Joy Crookes, JNR Williams, Loyle Carner & Kojey Radical\)](https://open.spotify.com/track/6MBtgQDPFN5k3s5gwvbLqP) | [Swindle](https://open.spotify.com/artist/1gH9xoeNySnEkCtR2kbPiQ), [JNR WILLIAMS](https://open.spotify.com/artist/7GZfE8P3kSPhhzq854OMxk), [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [THE NEW WORLD](https://open.spotify.com/album/39GuCsNoBopSbJy3vSxh3n) | 5:09 | 2023-05-02 |  |
@@ -22,6 +22,7 @@
 | [Kingdom](https://open.spotify.com/track/0RVEAF3XFF2dZFhI8O58JF) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:08 | 2023-05-02 |  |
 | [London Mine](https://open.spotify.com/track/6vUIyI8EelA0GVKcwXOoai) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [London Mine](https://open.spotify.com/album/75Rq7SgoaIrr1CFQzUR7Nt) | 3:43 | 2023-05-02 |  |
 | [Lover Don't](https://open.spotify.com/track/4cbumWU9TeBFWkeqK7i8hy) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Reminiscence EP](https://open.spotify.com/album/6fACkmxRXI0jzKkdvrTGeV) | 3:37 | 2023-05-02 |  |
+| [Mahi Sona \(AKA The Wedding Song\) \- Joy Crookes Version](https://open.spotify.com/track/4oDFdxr8iodW5JubvDmjMt) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ), [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8), [Billy Khan](https://open.spotify.com/artist/1uEVvjjSsBzSJ15mxDcR4J) | [What's Love Got to Do with It? \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3OtrHr6YssIB3dCg42g8qc) | 2:27 | 2023-05-12 |  |
 | [Man's World](https://open.spotify.com/track/59oGmgXiWsC4BSkskZ1uhV) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Reminiscence EP](https://open.spotify.com/album/6fACkmxRXI0jzKkdvrTGeV) | 3:42 | 2023-05-02 |  |
 | [Mother May I Sleep With Danger?](https://open.spotify.com/track/6rZtlYru44l92npSBTbUN7) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:27 | 2023-05-02 |  |
 | [New Manhattan](https://open.spotify.com/track/6B0VAfh8UCCEMNvgmGYEGX) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:11 | 2023-05-02 |  |

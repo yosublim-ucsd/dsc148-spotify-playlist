@@ -4,7 +4,7 @@
 
 > Have a drink and relax to the Jazz played in the background in the bar.
 
-162 songs - 11 hr 24 min
+163 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,8 @@
 | [When Your Lover Has Gone](https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 2:54 | 2022-05-12 |  |
 | [Where Or When](https://open.spotify.com/track/6XgFdmolxw7DgvNQIiCNVB) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [The Nearness Of You](https://open.spotify.com/album/7LovmiRQviwrb2SczixozJ) | 6:11 | 2022-05-12 |  |
 | [Whisper Not](https://open.spotify.com/track/79C7NxcxlBEJcyGHGy6ZMD) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [The Three Sounds](https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi) | [Anita O'Day And The Three Sounds](https://open.spotify.com/album/7FocJoTkE5a9i9ngXe4xCX) | 2:56 | 2023-03-17 |  |
-| [You Better Go Now](https://open.spotify.com/track/064J1edY5qOTLlWqhDScD5) | [Red Garland Trio](https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5) | [Rojo](https://open.spotify.com/album/5a7kLOKVUt6vf0KznST8Pl) | 5:11 | 2022-05-12 |  |
+| [You Better Go Now](https://open.spotify.com/track/1Qi67EpJAbVzUefw4UGyFq) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [Presenting Red Garland](https://open.spotify.com/album/4h7i5B7Q7rRXIwTEulF8d3) | 5:11 | 2023-05-10 |  |
+| [You Better Go Now](https://open.spotify.com/track/064J1edY5qOTLlWqhDScD5) | [Red Garland Trio](https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5) | [Rojo](https://open.spotify.com/album/5a7kLOKVUt6vf0KznST8Pl) | 5:11 | 2022-05-12 | 2023-05-13 |
 | [You Go To My Head](https://open.spotify.com/track/78MIFwIW5oUNdaL6Sj8hTB) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:54 | 2022-05-12 | 2022-09-15 |
 | [You Go To My Head](https://open.spotify.com/track/34eW5SfpLNKTODUhE4LSCm) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet In Paris: Everything Happens To Me \- The Complete Barclay Recording Vol\. 2](https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD) | 5:52 | 2023-05-04 |  |
 | [You Go To My Head](https://open.spotify.com/track/4t1Awn1O7SRlSYOf7ZEWRW) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Spotlight on Louis Armstrong](https://open.spotify.com/album/6mmTCXQNKyhkOx7mTPzsaQ) | 6:25 | 2022-11-09 | 2022-11-13 |

@@ -4,7 +4,7 @@
 
 > New makes old\. Cover: Sierra Ferrell
 
-204 songs - 12 hr 3 min
+205 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Forever and Then Some](https://open.spotify.com/track/2JCkZhTXY187fNi9aIPzHQ) | [Lillie Mae](https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF) | [Forever and Then Some](https://open.spotify.com/album/6FtDjbQ3un5sAv9VFUFyL0) | 4:49 | 2022-04-01 |  |
 | [Four Years of Chances](https://open.spotify.com/track/3oXHbUxSKfigmlQdkTxVpu) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Midwest Farmer's Daughter](https://open.spotify.com/album/1ltdOb1CJGjzMW52gq2U9t) | 4:33 | 2021-11-12 | 2022-07-28 |
 | [Four Years of Chances](https://open.spotify.com/track/5NJ0s9f1IbRWJjC15bOEDx) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Midwest Farmer's Daughter](https://open.spotify.com/album/55byaTflUCrOReQQukpctP) | 4:33 | 2022-04-01 |  |
+| [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-05-12 |  |
 | [From What I Recall](https://open.spotify.com/track/4vCu2i1WDukiV06xQUnCMj) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [Ramblin' Soul](https://open.spotify.com/album/0lkkaseHHUBnHQMf4GDfvA) | 4:13 | 2022-11-18 | 2023-01-13 |
 | [Fuck Up](https://open.spotify.com/track/1cXUmVaiwY79D1GvUf43QS) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Sidelong](https://open.spotify.com/album/0QsTiookBuBIsLCdSvlTIa) | 3:21 | 2021-11-12 |  |
 | [Fuck With Sad Girls](https://open.spotify.com/track/68oChP7L8vv9Oy7ekk1DcV) | [Bonnie Whitmore](https://open.spotify.com/artist/69c5B6GGm5eZgdLDkYeCw9) | [Fuck With Sad Girls](https://open.spotify.com/album/42QRkIDihCyPWIrsYVgWni) | 4:38 | 2021-11-12 | 2022-11-13 |
@@ -122,7 +123,7 @@
 | [Lover's Lane](https://open.spotify.com/track/1pDXYuqZd9JjWDShs11Y1U) | [Micah P\. Hinson](https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6) | [Lover's Lane / The Years Tire On](https://open.spotify.com/album/2kyEZin1n3lWpa50iYTppe) | 3:02 | 2021-11-12 | 2022-07-29 |
 | [Lying in the Sun](https://open.spotify.com/track/7cvW4ayjsoS29xwgLImRzl) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [Lying in the Sun](https://open.spotify.com/album/1BDkPA1VYoDMnHvWeTdFOz) | 3:51 | 2022-04-01 | 2022-04-21 |
 | [Make Way for Love](https://open.spotify.com/track/5JYPThr0ZJ50DuTXFf1uC1) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Make Way for Love](https://open.spotify.com/album/30SzcUoJ2zGoniPf9UjU5k) | 3:55 | 2021-11-12 | 2022-07-28 |
-| [Make Way for Love](https://open.spotify.com/track/7HPewHhdWfo1EtLp6C8PYJ) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Make Way for Love](https://open.spotify.com/album/69wIdpWYSwdYMkYdn6iviH) | 3:55 | 2022-04-01 |  |
+| [Make Way for Love](https://open.spotify.com/track/7HPewHhdWfo1EtLp6C8PYJ) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Make Way for Love](https://open.spotify.com/album/69wIdpWYSwdYMkYdn6iviH) | 3:55 | 2022-04-01 | 2023-05-13 |
 | [Makin' Memories](https://open.spotify.com/track/6Q2TsYhosD9BaHio4WLd3o) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [Daddy's Country Gold](https://open.spotify.com/album/1b6lBkE4XKAGB8hGl8C57n) | 3:52 | 2022-02-18 |  |
 | [Mama Said](https://open.spotify.com/track/1G7COoZddkxeS4J9wp3aWM) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Mama Said](https://open.spotify.com/album/0rbncsbptDoCmN28OHJAUt) | 3:33 | 2021-11-12 | 2022-07-28 |
 | [Mama Said](https://open.spotify.com/track/3eiTlfmClIHJS7Vq4IwkBZ) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Ivory Castanets](https://open.spotify.com/album/4feDk4LVjagDkvmpCem8Le) | 3:33 | 2022-04-01 |  |
@@ -167,7 +168,7 @@
 | [Run\-down Neighborhood](https://open.spotify.com/track/4d75miZVKZd75MiAVWZvDa) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/5AmFYqUT1cu6JErSTHw5k6) | 3:06 | 2021-11-12 | 2022-07-29 |
 | [Run\-down Neighborhood](https://open.spotify.com/track/5a0zfY27mdOdvjwypqVVhT) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf) | 3:06 | 2022-04-01 |  |
 | [Runnin'](https://open.spotify.com/track/2EM8Ann4TIcFjnVtNpkT8D) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [Runnin'](https://open.spotify.com/album/0qcRycVTiFPrDF2DKQdRCv) | 3:57 | 2021-11-12 | 2022-07-29 |
-| [Same Devil \(feat\. Brandi Carlile\)](https://open.spotify.com/track/11ztTGjFtV3MNoNx0XvApC) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Same Devil \(feat\. Brandi Carlile\)](https://open.spotify.com/album/6XL1xCLdUOU6j35YspCkqO) | 3:07 | 2021-11-12 |  |
+| [Same Devil \(feat\. Brandi Carlile\)](https://open.spotify.com/track/11ztTGjFtV3MNoNx0XvApC) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Same Devil \(feat\. Brandi Carlile\)](https://open.spotify.com/album/6XL1xCLdUOU6j35YspCkqO) | 3:07 | 2021-11-12 | 2023-05-13 |
 | [Shakedown](https://open.spotify.com/track/5TiFSXE1DInbcr0xYeM2k4) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Shakedown](https://open.spotify.com/album/6H2F39aTyw02VjBsUyYmUb) | 2:46 | 2021-11-12 | 2022-07-29 |
 | [Shakedown](https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 2:46 | 2022-04-01 |  |
 | [Sold My Soul](https://open.spotify.com/track/2xklhH0eIzxKyagF3XAOYL) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Sold My Soul](https://open.spotify.com/album/1nh6RFcSZx7lU2zLi9seOR) | 6:11 | 2021-11-12 | 2022-07-29 |
@@ -208,7 +209,7 @@
 | [Where Ya Been?](https://open.spotify.com/track/5FBjLI91XAAfkJIObf6lvV) | [Luke Bell](https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ) | [Luke Bell](https://open.spotify.com/album/5gtzbumKYEG1Uz4BvB8hbj) | 3:29 | 2021-11-12 |  |
 | [Yellow Room](https://open.spotify.com/track/7jD4TV5mua3KeLqOIqFXm0) | [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT) | [Swimming Alone](https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk) | 3:19 | 2022-04-01 | 2022-04-21 |
 | [You Don't Own Me](https://open.spotify.com/track/6ZVCTPK8A83OogGsI0Dxjl) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [You Don't Own Me](https://open.spotify.com/album/7BOSDXG0al6FLZZyUqGIBe) | 2:48 | 2022-04-01 | 2022-04-19 |
-| [You Don't Scare Me](https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [Rule 62](https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf) | 4:10 | 2021-11-12 | 2023-05-11 |
+| [You Don't Scare Me](https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [Rule 62](https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf) | 4:10 | 2021-11-12 |  |
 | [You Never Can Tell \(C'est la Vie\) \- 2003 Remaster](https://open.spotify.com/track/1qVLm98UAAFyYuq4HCKFBV) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Luxury Liner \(Expanded & Remastered\)](https://open.spotify.com/album/2MY03ZPfqzrUmM5xPcyfrx) | 3:28 | 2022-04-01 |  |
 | [You're Leaving Me](https://open.spotify.com/track/3nIU8jZVOqFv88bQbMrrNF) | [Lydia Loveless](https://open.spotify.com/artist/4aZmKktp90vPbhbdgf2fpn) | [You're Leaving Me](https://open.spotify.com/album/33hGtYb71bdoDzQoJ4RIYP) | 2:29 | 2022-02-18 | 2022-07-28 |
 | [You've Lost That Lovin' Feelin'](https://open.spotify.com/track/7enr4eQzPkih9M7TkeDuw0) | [The Unrighteous Brothers](https://open.spotify.com/artist/4Q1IDfpCe7ZRhPDfqeb5dd), [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp), [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Unchained Melody / You've Lost That Lovin' Feelin'](https://open.spotify.com/album/2wuSSfY2acuozXaOth22B1) | 3:49 | 2021-11-12 |  |

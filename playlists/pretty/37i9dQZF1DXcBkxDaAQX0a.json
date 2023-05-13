@@ -1,12 +1,12 @@
 {
   "description": "Take a break from distorted guitars and enjoy punk's mellow side. Cover: Avril Lavigne",
-  "num_followers": 323440,
+  "num_followers": 323477,
   "original_name": "Punk Unplugged",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjZmZmI4MDEwYzhlMmI1NWJkMDkxYTc3MDgzMWQ3YTQwYzU1ZGE1",
+  "snapshot_id": "MCw4NTEyY2ViYjVjMDg4M2NmM2NkZjU0MjY2YmVhZThhMjEwZjQ4NTlk",
   "tracks": [
     {
       "added_at": "2022-04-04 15:03:53",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Letters to Our Former Selves Acoustic E.P.",
-        "url": "https://open.spotify.com/album/1RgTSS7BC4kNunc2knqTWY"
-      },
-      "artists": [
-        {
-          "name": "Youth Fountain",
-          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
-        }
-      ],
-      "duration_ms": 204538,
-      "name": "Deadlocked - Acoustic",
-      "url": "https://open.spotify.com/track/7weLkyN1t7GP8A6uD9YJnO"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Reimagined",
         "url": "https://open.spotify.com/album/3VCobudBxR70a4fngXZFLe"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 199750,
       "name": "Dakota (Reimagined)",
       "url": "https://open.spotify.com/track/3Rkpb1WRkkFD7AlFjNZf1i"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Letters to Our Former Selves Acoustic E.P.",
+        "url": "https://open.spotify.com/album/1RgTSS7BC4kNunc2knqTWY"
+      },
+      "artists": [
+        {
+          "name": "Youth Fountain",
+          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
+        }
+      ],
+      "duration_ms": 204538,
+      "name": "Deadlocked - Acoustic",
+      "url": "https://open.spotify.com/track/7weLkyN1t7GP8A6uD9YJnO"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Punk Goes Acoustic, Vol. 3",
-        "url": "https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 252466,
-      "name": "A Decade Under The Influence - Acoustic",
-      "url": "https://open.spotify.com/track/6c6vG7r3RWpiuIrawHNpd7"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "sleepwalking",
         "url": "https://open.spotify.com/album/7iNFE8xqEEOBl6gOwcDFoI"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 215979,
       "name": "sleepwalking",
       "url": "https://open.spotify.com/track/4VLX1i52yOU3uDUz3xYNgz"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Punk Goes Acoustic, Vol. 3",
+        "url": "https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 252466,
+      "name": "A Decade Under The Influence - Acoustic",
+      "url": "https://open.spotify.com/track/6c6vG7r3RWpiuIrawHNpd7"
     },
     {
       "added_at": "2022-04-04 15:03:53",

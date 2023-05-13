@@ -555,6 +555,36 @@
     },
     {
       "album": {
+        "name": "the record",
+        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Cool About It",
+      "url": "https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC"
+    },
+    {
+      "album": {
         "name": "Veneer",
         "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
       },
@@ -606,6 +636,24 @@
       "duration_ms": 286106,
       "name": "Diamonds And Rust",
       "url": "https://open.spotify.com/track/4O0sGJdqpHMaWz7KoVd7tb"
+    },
+    {
+      "album": {
+        "name": "La symphonie des \u00e9clairs",
+        "url": "https://open.spotify.com/album/1Vg18m8cCSPsTrGSoe0gpH"
+      },
+      "artists": [
+        {
+          "name": "Zaho de Sagazan",
+          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266422,
+      "name": "Dis-moi que tu m'aimes",
+      "url": "https://open.spotify.com/track/3ow5CelrJnKuAmzzbOtOJ7"
     },
     {
       "album": {
@@ -1112,7 +1160,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 351296,
       "name": "Imagining My Man",
       "url": "https://open.spotify.com/track/0B4U4UMwO5uKqM3OXm6L6P"
@@ -1798,7 +1846,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 278760,
       "name": "Nothing's Free",
       "url": "https://open.spotify.com/track/5IyRSZy0R7UdweNISjf5qS"
@@ -1978,7 +2026,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 153915,
       "name": "princes of melancholia",
       "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
@@ -2372,7 +2420,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 228066,
       "name": "Tableau",
       "url": "https://open.spotify.com/track/6d7Nhnnd68Pzdf6Pr476BT"
@@ -2542,6 +2590,24 @@
       "duration_ms": 265798,
       "name": "There\u2019d Better Be A Mirrorball",
       "url": "https://open.spotify.com/track/1zx6GSqLYI2ynzAHnPRKBR"
+    },
+    {
+      "album": {
+        "name": "Till the Flame Turns Blue",
+        "url": "https://open.spotify.com/album/7LLMYmgPN4YRHFqm3ipAjM"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245160,
+      "name": "Till the Flame Turns Blue",
+      "url": "https://open.spotify.com/track/3Zz37G6EggIIMiqgBnovnH"
     },
     {
       "album": {
@@ -2802,6 +2868,28 @@
       "duration_ms": 242560,
       "name": "Worry",
       "url": "https://open.spotify.com/track/5mLcaGVV89H58FWJ677E6K"
+    },
+    {
+      "album": {
+        "name": "Yard Sale",
+        "url": "https://open.spotify.com/album/4j3OwjL2lZAzUcSx1Lpju5"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        },
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257669,
+      "name": "Yard Sale",
+      "url": "https://open.spotify.com/track/4sH3OxT6GqGsihPcO3wmhw"
     },
     {
       "album": {

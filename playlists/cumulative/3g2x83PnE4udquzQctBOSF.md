@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-141 songs - 8 hr 4 min
+142 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Pitch Thing](https://open.spotify.com/track/6Kea7kd9xbq4bAgEp1srdN) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Pitch Thing](https://open.spotify.com/album/36khe7dGDSL0YUI6stNTzO) | 3:37 | 2023-03-05 | 2023-03-20 |
 | [Playa](https://open.spotify.com/track/3D0VEmqcbT95B22ojdjkU1) | [RAFI](https://open.spotify.com/artist/1lHKz7UclrOxsquASlnNRs) | [Playa](https://open.spotify.com/album/5Ys8n1I5tFS0uvFAlaRna0) | 3:06 | 2023-02-12 | 2023-03-06 |
 | [Preach](https://open.spotify.com/track/2X6HxhEym4TbK10GF7PL8m) | [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz), [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Preach](https://open.spotify.com/album/3BgQIbVApzmhwc39g05K9q) | 3:05 | 2023-02-19 | 2023-03-20 |
-| [Promise](https://open.spotify.com/track/6bUZWGb0T87wJ2ZPyz0UfC) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Promise](https://open.spotify.com/album/5WUts3vG3zcXW0KqK2KnGK) | 2:37 | 2022-05-26 |  |
+| [Promise](https://open.spotify.com/track/6bUZWGb0T87wJ2ZPyz0UfC) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Promise](https://open.spotify.com/album/5WUts3vG3zcXW0KqK2KnGK) | 2:37 | 2022-05-26 | 2023-05-13 |
 | [Pulp Fiction](https://open.spotify.com/track/5HzOV0JgAJXsmNr5sydLQ7) | [Gabriele Agostino](https://open.spotify.com/artist/3wl85IJepINSZzcf8bSDTJ), [Gosts](https://open.spotify.com/artist/6hMxBHVIRXtr1njOIOv8aS) | [Pulp Fiction](https://open.spotify.com/album/3mjsm77aIP6wB8ZLU5r2Yn) | 5:44 | 2023-04-23 |  |
 | [Ready Or Not](https://open.spotify.com/track/4n9RHYdYcIofn5C5j1gpz0) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Ready Or Not](https://open.spotify.com/album/4Vmlwmg6QKl3FYqeFZkfM7) | 3:09 | 2023-02-10 |  |
 | [Real](https://open.spotify.com/track/0sHxBKvOOrPfCfBZjOIbkN) | [Hans Glader](https://open.spotify.com/artist/2xncrpOGGRImOgiWmbAPZG), [Isenberg](https://open.spotify.com/artist/753xxcDfgqoyWJTs55HCal) | [Real](https://open.spotify.com/album/1S3kgoT0prKVmnoX18HZRk) | 3:24 | 2023-01-29 | 2023-03-06 |
@@ -143,6 +143,7 @@
 | [The Movement](https://open.spotify.com/track/7Iv0WsLicswjnu8giaN2Wn) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [The Movement](https://open.spotify.com/album/5XGUdgMXArjFNlckLB5jUC) | 3:04 | 2023-04-30 |  |
 | [The Mumble](https://open.spotify.com/track/1oQkhEfJrxUxFIMGlUMr9O) | [Groove Aspect](https://open.spotify.com/artist/6y0pzhdHu0IQAmqbbg6dhd) | [The Mumble](https://open.spotify.com/album/63xMbYrGDTZ2GTwG96AZch) | 3:46 | 2023-04-09 | 2023-04-24 |
 | [Toxic](https://open.spotify.com/track/34UqmMwF7IEGAm9qLo0Loc) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO), [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Rhiannon Roze](https://open.spotify.com/artist/3epScA5vlvqzr2AfI7JJ2f) | [Toxic](https://open.spotify.com/album/27LkHeHrRMtJRYZvgPvlmP) | 3:00 | 2023-03-19 | 2023-04-10 |
+| [Trees](https://open.spotify.com/track/7BtZd6usn7WB3HuWygWWx0) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Trees](https://open.spotify.com/album/4wmWWcZPAPMUIe0wJ58Fsg) | 3:02 | 2023-05-12 |  |
 | [Vankara](https://open.spotify.com/track/6RtjeiSNc8aS1t7jB7A60k) | [Orient](https://open.spotify.com/artist/5J9PVF5TuLRuTujc8w5EXJ) | [Vankara](https://open.spotify.com/album/0iEDRaHlD05PL0CgXQQb86) | 2:36 | 2023-01-15 | 2023-02-13 |
 | [Venezolana \- Original Mix](https://open.spotify.com/track/0bQlyeYdCvnimXDoL8XB6d) | [Gabriele Toma](https://open.spotify.com/artist/3Eylw4P4DCGqXcQZ4b8Fon) | [Venezolana](https://open.spotify.com/album/3lStdA5SbysTqa6Sqcxofs) | 5:37 | 2023-01-29 | 2023-02-20 |
 | [VIP Section](https://open.spotify.com/track/2fRPAxlfizmSKUwfGZZjNk) | [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M) | [VIP Section](https://open.spotify.com/album/0T0imnIgVVMxIMJnAvJk5f) | 3:26 | 2023-03-05 | 2023-03-27 |

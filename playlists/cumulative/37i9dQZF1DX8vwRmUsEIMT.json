@@ -15229,7 +15229,7 @@
         },
         {
           "name": "Lewis Thompson",
-          "url": "https://open.spotify.com/artist/2QsMZVsBumu6t90SB3yGrH"
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
         }
       ],
       "date_added": "2023-05-11",
@@ -16886,6 +16886,24 @@
       "duration_ms": 162613,
       "name": "The Perfect Pair - Spotify Singles",
       "url": "https://open.spotify.com/track/3VlDt2YVRn91CJXc89AQEx"
+    },
+    {
+      "album": {
+        "name": "The Planet",
+        "url": "https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178156,
+      "name": "The Planet",
+      "url": "https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg"
     },
     {
       "album": {
@@ -18687,6 +18705,24 @@
     },
     {
       "album": {
+        "name": "Real Back In Style",
+        "url": "https://open.spotify.com/album/4ZXd1RIxHGNExQjajXcdV3"
+      },
+      "artists": [
+        {
+          "name": "Potter Payper",
+          "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225423,
+      "name": "White Ash",
+      "url": "https://open.spotify.com/track/2sngouSS4sot4DR4qkX4Ef"
+    },
+    {
+      "album": {
         "name": "White Ash",
         "url": "https://open.spotify.com/album/0fq5Tu08ZzjlTgk6vgtdma"
       },
@@ -18698,7 +18734,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 225423,
       "name": "White Ash",
       "url": "https://open.spotify.com/track/3u47ySotzOLUU4oWbqQ7ev"

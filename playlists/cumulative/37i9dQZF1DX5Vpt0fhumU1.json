@@ -2054,7 +2054,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 146293,
       "name": "Veras",
       "url": "https://open.spotify.com/track/2INMbTvlLhGs1b1O3EYhiS"
@@ -2080,6 +2080,24 @@
       "duration_ms": 146293,
       "name": "Veras",
       "url": "https://open.spotify.com/track/5lhhRaZZkvzjAWUXKUpay5"
+    },
+    {
+      "album": {
+        "name": "Flamenco",
+        "url": "https://open.spotify.com/album/6sD5zlDx4I2ViZFv5RRAqX"
+      },
+      "artists": [
+        {
+          "name": "Los Alhama",
+          "url": "https://open.spotify.com/artist/4wONqd16Nu3igdQL7FQX47"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145280,
+      "name": "Veras",
+      "url": "https://open.spotify.com/track/1brVVsBeE4MikwI2nO3ACz"
     },
     {
       "album": {
@@ -2148,10 +2166,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 254400,
       "name": "Y dejame con mi sino",
       "url": "https://open.spotify.com/track/1TpfaYxONeYxEzpm2pIolj"
+    },
+    {
+      "album": {
+        "name": "Flamenco",
+        "url": "https://open.spotify.com/album/6sD5zlDx4I2ViZFv5RRAqX"
+      },
+      "artists": [
+        {
+          "name": "Los Alhama",
+          "url": "https://open.spotify.com/artist/4wONqd16Nu3igdQL7FQX47"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262866,
+      "name": "Y Dejame Con Mi Sino",
+      "url": "https://open.spotify.com/track/0cb1tnOvlCReBfsAOPgyUJ"
     },
     {
       "album": {

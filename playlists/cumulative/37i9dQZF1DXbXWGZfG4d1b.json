@@ -1739,6 +1739,24 @@
     },
     {
       "album": {
+        "name": "Divina Seducci\u00f3n",
+        "url": "https://open.spotify.com/album/6y9yqbRjgQa7NwiPcCqF8O"
+      },
+      "artists": [
+        {
+          "name": "Saturno y la Melancol\u00eda",
+          "url": "https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210616,
+      "name": "Divina Seducci\u00f3n",
+      "url": "https://open.spotify.com/track/3CjyLMFWTcdUrHHIbn3m4v"
+    },
+    {
+      "album": {
         "name": "P\u00e1nico y Distorsi\u00f3n",
         "url": "https://open.spotify.com/album/7hhroFtSzsFx9L9ALmKESc"
       },
@@ -1964,6 +1982,24 @@
       "duration_ms": 209241,
       "name": "El Disparo",
       "url": "https://open.spotify.com/track/7mTQouRQxzOyV3hsHRKnGu"
+    },
+    {
+      "album": {
+        "name": "Principio del Fin",
+        "url": "https://open.spotify.com/album/0I1uNlrv0RNdmWoUOIXe0m"
+      },
+      "artists": [
+        {
+          "name": "Riel",
+          "url": "https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249361,
+      "name": "El Fin",
+      "url": "https://open.spotify.com/track/1KQ9arIyVcyvbixRfog2NB"
     },
     {
       "album": {
@@ -4466,7 +4502,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 188632,
       "name": "Mejor Sin Miedo",
       "url": "https://open.spotify.com/track/4nbkZq5yLjPh4Zy7kEqOGX"
@@ -7140,7 +7176,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 343413,
       "name": "Tiempo Compartido",
       "url": "https://open.spotify.com/track/5ms50lUojH8Ft48znLxsfF"

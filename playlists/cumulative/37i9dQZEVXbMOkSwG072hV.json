@@ -5033,6 +5033,24 @@
     },
     {
       "album": {
+        "name": "Caso Perdido",
+        "url": "https://open.spotify.com/album/1Bh1BwozSOtx66aBUYSykv"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199401,
+      "name": "Caso Perdido",
+      "url": "https://open.spotify.com/track/11syf5T1UaTLXwyc9qtbbo"
+    },
+    {
+      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
@@ -5354,6 +5372,24 @@
       "duration_ms": 197973,
       "name": "Coisas Da Vida",
       "url": "https://open.spotify.com/track/5I9ToztAXrpsRbgVh1H8Lu"
+    },
+    {
+      "album": {
+        "name": "Acustico (Live)",
+        "url": "https://open.spotify.com/album/2bMTuolrlzBvZIXBzfxw1s"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240866,
+      "name": "Coisas Da Vida - Ao Vivo",
+      "url": "https://open.spotify.com/track/2i1thNaMj7wJ7txcnSLl05"
     },
     {
       "album": {
@@ -10406,8 +10442,8 @@
           "url": "https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK"
         },
         {
-          "name": "Mc Jessica",
-          "url": "https://open.spotify.com/artist/5yHTZRlnzU3hbTyk7BSTPO"
+          "name": "Mc Jessica do escad\u00e3o",
+          "url": "https://open.spotify.com/artist/5GL61oWz7b59KKnJfzlgrC"
         }
       ],
       "date_added": "2023-04-09",
@@ -16450,7 +16486,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 160166,
       "name": "Never Felt So Alone",
       "url": "https://open.spotify.com/track/6unndO70DvZfnXYcYQMyQJ"
@@ -19256,7 +19292,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 251072,
       "name": "Pitbull Enraivado",
       "url": "https://open.spotify.com/track/7jWEgucKOoKvzrV9dV2E3Q"
@@ -19944,7 +19980,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 172125,
       "name": "Princess Diana (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
@@ -20386,6 +20422,14 @@
         {
           "name": "DJ JO\u00c3O PEREIRA",
           "url": "https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt"
+        },
+        {
+          "name": "DJ Biel do Furduncinho",
+          "url": "https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X"
+        },
+        {
+          "name": "Menor do Engenho",
+          "url": "https://open.spotify.com/artist/48OIkMByRxvJ6bxHrnCwLS"
         }
       ],
       "date_added": "2023-04-25",
@@ -20850,6 +20894,24 @@
       "duration_ms": 120405,
       "name": "Reverse",
       "url": "https://open.spotify.com/track/5TGkZGCUoV1zvFxQOIQM5O"
+    },
+    {
+      "album": {
+        "name": "Reza",
+        "url": "https://open.spotify.com/album/3S2kchDYPQj5YKFLkii0dB"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146133,
+      "name": "Reza",
+      "url": "https://open.spotify.com/track/1CHRhhxaQGca5bv67N96PP"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: laye
+> Dark, hard hitting pop\. Cover: Cloudy June
 
-392 songs - 18 hr 1 min
+394 songs - 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [10 Things I Hate About You](https://open.spotify.com/track/6Jkm5kUldvIqxzI1Pa7nXH) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/26hYEKjKZU1sTC4mUPpVI6) | 2:37 | 2022-03-25 | 2022-07-30 |
 | [20 Questions](https://open.spotify.com/track/3lSrMxJwwGawtXZflUa1iN) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [20 Questions](https://open.spotify.com/album/1Jiprq0sbMHmBKOXbHZtVG) | 2:59 | 2022-09-23 | 2023-03-25 |
 | [20 Questions](https://open.spotify.com/track/5CvDcpK3CK6BhIXOgIuLBD) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [20 Questions](https://open.spotify.com/album/6LeZXjHYz5lylgFED1mVHL) | 2:59 | 2022-09-23 | 2022-10-14 |
+| [21st Century Princess](https://open.spotify.com/track/7t5szdTagFPMLCfTFKPG9c) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [21st Century Princess](https://open.spotify.com/album/2CfLW8uWYtXch0ZCdlxHia) | 3:01 | 2023-05-12 |  |
 | [29](https://open.spotify.com/track/35GQVy9TgNSRFQRTlr0e7m) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [29](https://open.spotify.com/album/2xMel5JwlO9RiqCANKjCaQ) | 2:43 | 2022-08-19 | 2022-10-08 |
 | [3 Times](https://open.spotify.com/track/4Dk1ZnnKsxQqAbRHQgeqDx) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [3 Times](https://open.spotify.com/album/75UP0VTcDDi6CSi6VUGqZ8) | 2:27 | 2022-11-18 | 2023-02-11 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-09-10 | 2022-02-19 |
@@ -95,7 +96,7 @@
 | [debbie downer](https://open.spotify.com/track/6VTzauIrG2hjKtKFYFJfMT) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [debbie downer](https://open.spotify.com/album/4jxtbLNDuxXJwXk8D9EhS6) | 2:39 | 2022-02-11 | 2022-04-02 |
 | [DEBBIE DOWNER](https://open.spotify.com/track/3AD4e2BU7UqmESFDIrQa72) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [DEBBIE DOWNER](https://open.spotify.com/album/7mjjw1ISBph3QY2Akn94th) | 3:45 | 2023-04-21 |  |
 | [Devil In A Dress](https://open.spotify.com/track/0IidWnhWbmVcVa5vzXucav) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Devil In A Dress](https://open.spotify.com/album/6ViBFxxd5c6e1WUCDbRMAk) | 1:51 | 2022-03-25 | 2022-07-09 |
-| [Devil Is A Woman](https://open.spotify.com/track/75hCdrSo0x1La6xUNGnvGv) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Devil Is A Woman](https://open.spotify.com/album/5pJK4ir6zF8VEscS6T34wL) | 3:12 | 2022-12-09 |  |
+| [Devil Is A Woman](https://open.spotify.com/track/75hCdrSo0x1La6xUNGnvGv) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Devil Is A Woman](https://open.spotify.com/album/5pJK4ir6zF8VEscS6T34wL) | 3:12 | 2022-12-09 | 2023-05-13 |
 | [devil may care](https://open.spotify.com/track/1Oui21vilndzO9nUABZYlp) | [Fae](https://open.spotify.com/artist/7gcUMQcBkw833YqXciq0WB) | [devil may care](https://open.spotify.com/album/3HD59AolaFb0PMhP3cy4lN) | 2:40 | 2022-10-21 | 2023-03-04 |
 | [Did It Hurt?](https://open.spotify.com/track/2hTeOCShIAHRpNCV6sHGOW) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [Did It Hurt?](https://open.spotify.com/album/1PlfFsWQTIuu3t5THSHzDD) | 2:44 | 2022-12-02 | 2023-05-06 |
 | [did it hurt?](https://open.spotify.com/track/4NUEtHceMHws1GfgAelmAB) | [NOT THE MAIN CHARACTERS](https://open.spotify.com/artist/3zXPbW06DXFBAToUstfD1V) | [bad things come in 3s](https://open.spotify.com/album/29NCAQcGId5b4HAJp87xCM) | 2:09 | 2022-05-20 | 2022-09-24 |
@@ -109,7 +110,7 @@
 | [dopamine](https://open.spotify.com/track/3EwCOs6Dh5tlsbIpvMjH4I) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [dopamine](https://open.spotify.com/album/2emZOQ9v8v9csDYeqDWnE3) | 2:45 | 2023-04-21 |  |
 | [Drama King](https://open.spotify.com/track/4dlGGvKNYl5uC9bwUZfrqa) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Drama King](https://open.spotify.com/album/6Do69YHGEiFnvLC70QGXW7) | 2:37 | 2023-03-31 |  |
 | [dramatic](https://open.spotify.com/track/5uBlr2RNpuu3n7ROgiQa7w) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [dramatic](https://open.spotify.com/album/2uIYbXxbgDyGpndqhhHQS9) | 2:30 | 2021-10-22 | 2022-07-23 |
-| [Dream Girl](https://open.spotify.com/track/1c020GsIldzCg0PQNq7T9b) | [Anderson Rocio](https://open.spotify.com/artist/7kyApKxTvtwfH2t917AD6P) | [Chapter One](https://open.spotify.com/album/0UY2iRcHONUFNMkfd6zLtA) | 2:21 | 2022-11-18 |  |
+| [Dream Girl](https://open.spotify.com/track/1c020GsIldzCg0PQNq7T9b) | [Anderson Rocio](https://open.spotify.com/artist/7kyApKxTvtwfH2t917AD6P) | [Chapter One](https://open.spotify.com/album/0UY2iRcHONUFNMkfd6zLtA) | 2:21 | 2022-11-18 | 2023-05-13 |
 | [dying on the inside](https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [dying on the inside](https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu) | 3:24 | 2022-02-25 | 2022-09-03 |
 | [Easier than Lying](https://open.spotify.com/track/7N1TIml2jRQRgXUrpXgXrk) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22) | 3:26 | 2022-03-18 | 2022-04-02 |
 | [End of an Era](https://open.spotify.com/track/2nQY9jprTEWOVMIAdN0o48) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [End of an Era](https://open.spotify.com/album/4IUNO0oCCoM5DZ3va30wVc) | 2:13 | 2022-11-11 | 2023-04-01 |
@@ -367,6 +368,7 @@
 | [Undone](https://open.spotify.com/track/1tEK1Lm8PnxCi83TSxmhgt) | [Circe](https://open.spotify.com/artist/3pS4Tt6b6z9B6WUu5RGvWc) | [Undone](https://open.spotify.com/album/0gCYOi2ZfRkI6cO9j8iviH) | 3:32 | 2023-03-17 | 2023-04-22 |
 | [Unholy \(feat\. Kim Petras\) \- Nova Twins Remix](https://open.spotify.com/track/1G2tlG3tA7uBH5izFZpaGX) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Unholy \(feat\. Kim Petras\) \[Nova Twins Remix\]](https://open.spotify.com/album/1Zq6e7bJTNwtf4IcZr4YaB) | 2:57 | 2022-12-09 | 2023-04-09 |
 | [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 | 2022-01-21 | 2022-05-28 |
+| [UR SO FULL OF IT](https://open.spotify.com/track/30ZieTpW4I1capqDGSY2mt) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [UR SO FULL OF IT](https://open.spotify.com/album/0scVQRLEFHqCysQzYu5NNS) | 2:14 | 2023-05-12 |  |
 | [UR SO FULL OF IT \(ILY NYC\) \- Spotify Singles](https://open.spotify.com/track/2UhF4UzGzUeVEvyd8Hq7in) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [UR SO FULL OF IT \(ILY NYC\) \- Spotify Singles](https://open.spotify.com/album/5lxHNkhOXyJ2mHnGxsbzeu) | 2:18 | 2022-05-27 | 2022-06-11 |
 | [Venus in Gemini](https://open.spotify.com/track/4ovENKeZBKNT75G1n9dwRn) | [DEZI](https://open.spotify.com/artist/3X9hlPTLBIZ9pEONCQnjTm) | [Venus in Gemini](https://open.spotify.com/album/5U4wp74HDJbO4kqmllAlCI) | 3:01 | 2021-10-29 | 2022-03-18 |
 | [Vigilante Shit](https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:44 | 2022-10-21 |  |

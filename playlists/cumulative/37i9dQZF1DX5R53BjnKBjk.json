@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer!  Foto: RAY / Arte: Isu Kim",
+  "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: Dani-Vie / Arte: Isu Kim",
   "name": "Fresh Finds Brasil",
   "tracks": [
     {
@@ -3494,7 +3494,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 139300,
       "name": "PLAYGROUND",
       "url": "https://open.spotify.com/track/5gitknsNQkrsCwfIbWK8Kd"
@@ -4398,6 +4398,28 @@
       "duration_ms": 209765,
       "name": "Tain\u00e1 Cigana",
       "url": "https://open.spotify.com/track/1DRZSRWT8dosHTI14vVp4b"
+    },
+    {
+      "album": {
+        "name": "Minha Cara",
+        "url": "https://open.spotify.com/album/7asVGLUfBi2Fxwb818FCzs"
+      },
+      "artists": [
+        {
+          "name": "Dani-Vie",
+          "url": "https://open.spotify.com/artist/2RrEvDsnA3z244bN2Z32iM"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199608,
+      "name": "Talante",
+      "url": "https://open.spotify.com/track/5P1WNHW4nUcBDFQPXHbSfR"
     },
     {
       "album": {

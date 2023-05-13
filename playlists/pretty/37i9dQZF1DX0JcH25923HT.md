@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 
 > Palos de ayer, clásicos para siempre\. Foto: Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,760 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,192 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 | 78 | [Ready Pa Morir](https://open.spotify.com/track/6kFpUyaEiuKriL9bhHLZqR) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Steve Lean](https://open.spotify.com/artist/43C3LVD6x8GLvputT34r6T) | [A.D.R.O.M.I.C.F.M.S\. 2](https://open.spotify.com/album/2p9pUKKk5lNjwOY6IbILXu) | 3:11 |
 | 79 | [Ojala](https://open.spotify.com/track/6KhcjdFnuQ6g6QUDnGEKPF) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [La Oscuridad](https://open.spotify.com/album/38QMtmbbl4jdpeQ29I8vMB) | 5:04 |
 | 80 | [Ahora Me Llama \- Remix](https://open.spotify.com/track/0mQD5ilmghCieAw6E6YFrd) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Ahora Me Llama \(Remix\)](https://open.spotify.com/album/3QL5SDLpu79KrQAW3jhJ8y) | 4:11 |
-| 81 | [Bounce](https://open.spotify.com/track/3EO0tGvdBCw6vdChaNvVlc) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Bonus Trap](https://open.spotify.com/album/7IAJrYDUHZhIGXY6pY1GPX) | 2:13 |
-| 82 | [Bésame](https://open.spotify.com/track/1thzPqoQxXhh6YHhANIFnj) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Halpe](https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Bésame](https://open.spotify.com/album/7BgcHmgYP3sp0AAYLKyc0s) | 3:34 |
+| 81 | [Bésame](https://open.spotify.com/track/1thzPqoQxXhh6YHhANIFnj) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Halpe](https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Bésame](https://open.spotify.com/album/7BgcHmgYP3sp0AAYLKyc0s) | 3:34 |
+| 82 | [Bounce](https://open.spotify.com/track/3EO0tGvdBCw6vdChaNvVlc) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Bonus Trap](https://open.spotify.com/album/7IAJrYDUHZhIGXY6pY1GPX) | 2:13 |
 | 83 | [Condiciones](https://open.spotify.com/track/2xcaABUXHZ5WNc6TtmghbX) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [Condiciones](https://open.spotify.com/album/2MoqqHx26J401BHrqqWNeY) | 3:15 |
 | 84 | [Ahora Dice \- Real Hasta La Muerte Remix](https://open.spotify.com/track/2TQTZ2TSAO5eGgkCtjxjrt) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Anuel](https://open.spotify.com/artist/00VnRQuhdfjkeaXeDu5dlW), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Ahora Dice \(Real Hasta La Muerte Remix\)](https://open.spotify.com/album/69kbK6RzAI23eD2TImJ687) | 4:36 |
 | 85 | [Tres Rosas](https://open.spotify.com/track/2r1Ovp2SgP1ybHNbbEAg1S) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Tres Rosas](https://open.spotify.com/album/6mvvlcmcxcEb5dGRbGPa06) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 | 99 | [A fuego](https://open.spotify.com/track/5gkSbR9E0jDgv65XeT5v5R) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Trend](https://open.spotify.com/album/31m5ji30Q77iGfBNCcTLSA) | 3:53 |
 | 100 | [Luna Llena](https://open.spotify.com/track/1aXIbSWA8S0pB2GbBntFhI) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Luna Llena](https://open.spotify.com/album/04nkvNMIVMlv7woPx32d1i) | 3:01 |
 
-Snapshot ID: `MCxhODBmY2MyZWQ4NjZlZDI4MzY3MGJjNzQxZjc3ODRkYmE0MTc1Y2E4`
+Snapshot ID: `MCwxOGRmMmI3ZGM1OWUwMzcwNjhhODgwMmM1ZjEwMWE2NDM5MTE0MDZm`

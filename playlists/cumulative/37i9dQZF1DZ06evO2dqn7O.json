@@ -219,6 +219,28 @@
     },
     {
       "album": {
+        "name": "VHS 2.0",
+        "url": "https://open.spotify.com/album/07MhkuCXC6XBQTDpXPRyBI"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198973,
+      "name": "Collider",
+      "url": "https://open.spotify.com/track/0eATgkWG5F2S0pLFK95ImZ"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5aWs6pUwG4gPNJxCF4wOwy"
       },
@@ -292,7 +314,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 217426,
       "name": "Down With Me",
       "url": "https://open.spotify.com/track/17FV9pZcXiJsFRn3McId1e"

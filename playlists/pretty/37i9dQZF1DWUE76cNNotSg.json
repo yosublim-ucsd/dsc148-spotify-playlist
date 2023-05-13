@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 436246,
+  "num_followers": 436416,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGQ2N2E4NmI1YWUzYjY1OTQ0YjI4MmMyNzAyOGJkNWJkOGRjNWJl",
+  "snapshot_id": "MCw2MTZlNTVhMGU3MWNlOTlkYWRlYTY1NmJhN2IxMjhjZWQwMWJjZDdh",
   "tracks": [
     {
       "added_at": "2023-03-20 18:32:59",
@@ -285,22 +285,6 @@
       "url": "https://open.spotify.com/track/3yydZof4pq6N4zeyTzLwQk"
     },
     {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
-        "name": "Caravelle",
-        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 190826,
-      "name": "Nan\u00e3",
-      "url": "https://open.spotify.com/track/0Psz3az3RIYfJpnsajBT8N"
-    },
-    {
       "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "Loving You",
@@ -315,6 +299,22 @@
       "duration_ms": 194594,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/5m5THqRa6jHwKYLMWp2DEW"
+    },
+    {
+      "added_at": "2023-03-20 18:32:59",
+      "album": {
+        "name": "Caravelle",
+        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 190826,
+      "name": "Nan\u00e3",
+      "url": "https://open.spotify.com/track/0Psz3az3RIYfJpnsajBT8N"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -615,18 +615,22 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "JUNGLE",
-        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
+        "name": "Luv Is Not Enough (Remixes)",
+        "url": "https://open.spotify.com/album/1sOtcGkBxbq7CflXDnVFYa"
       },
       "artists": [
         {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+          "name": "Miami Horror",
+          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
+        },
+        {
+          "name": "Forrest Mortifee",
+          "url": "https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ"
         }
       ],
-      "duration_ms": 279653,
-      "name": "LULLABY",
-      "url": "https://open.spotify.com/track/2o002vjoIgeX0Ho2aCWR1N"
+      "duration_ms": 197894,
+      "name": "Luv Is Not Enough",
+      "url": "https://open.spotify.com/track/0Hy5csM0LflFU0vUU9wFpj"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -663,22 +667,18 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "Luv Is Not Enough (Remixes)",
-        "url": "https://open.spotify.com/album/1sOtcGkBxbq7CflXDnVFYa"
+        "name": "JUNGLE",
+        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
       },
       "artists": [
         {
-          "name": "Miami Horror",
-          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
-        },
-        {
-          "name": "Forrest Mortifee",
-          "url": "https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ"
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
         }
       ],
-      "duration_ms": 197894,
-      "name": "Luv Is Not Enough",
-      "url": "https://open.spotify.com/track/0Hy5csM0LflFU0vUU9wFpj"
+      "duration_ms": 279653,
+      "name": "LULLABY",
+      "url": "https://open.spotify.com/track/2o002vjoIgeX0Ho2aCWR1N"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -943,6 +943,26 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
+        "name": "Woodstock (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2mCNJ90uPdrORywFGSxQfX"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        },
+        {
+          "name": "Medasin",
+          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
+        }
+      ],
+      "duration_ms": 194434,
+      "name": "Feel It Still - Medasin Remix",
+      "url": "https://open.spotify.com/track/4RVRgJXr8rPcHJqE7WLIcQ"
+    },
+    {
+      "added_at": "2023-03-20 18:32:59",
+      "album": {
         "name": "About A Feeling",
         "url": "https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX"
       },
@@ -955,6 +975,22 @@
       "duration_ms": 247572,
       "name": "I Wanna Go",
       "url": "https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC"
+    },
+    {
+      "added_at": "2023-03-20 18:32:59",
+      "album": {
+        "name": "What Falling in Love Is For",
+        "url": "https://open.spotify.com/album/7FFeFU5wRax5sTF3LurA68"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 174791,
+      "name": "What Falling in Love Is For",
+      "url": "https://open.spotify.com/track/6TYT1WKmZXZOkZDqDoNuAX"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -975,22 +1011,6 @@
       "duration_ms": 265758,
       "name": "We Stayed Up All Night",
       "url": "https://open.spotify.com/track/7eSWgAlmLPXbGxgH3RNoWh"
-    },
-    {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
-        "name": "What Falling in Love Is For",
-        "url": "https://open.spotify.com/album/7FFeFU5wRax5sTF3LurA68"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 174791,
-      "name": "What Falling in Love Is For",
-      "url": "https://open.spotify.com/track/6TYT1WKmZXZOkZDqDoNuAX"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -1035,26 +1055,6 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "Woodstock (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2mCNJ90uPdrORywFGSxQfX"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        },
-        {
-          "name": "Medasin",
-          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
-        }
-      ],
-      "duration_ms": 194434,
-      "name": "Feel It Still - Medasin Remix",
-      "url": "https://open.spotify.com/track/4RVRgJXr8rPcHJqE7WLIcQ"
-    },
-    {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
         "name": "Home For Now",
         "url": "https://open.spotify.com/album/3fAPDjSser74AWKNa8O66e"
       },
@@ -1087,22 +1087,6 @@
       "duration_ms": 259146,
       "name": "Far Away Place",
       "url": "https://open.spotify.com/track/34XwEhXXTz6dVRUxr8BbEB"
-    },
-    {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD"
-      },
-      "artists": [
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        }
-      ],
-      "duration_ms": 324266,
-      "name": "Kin",
-      "url": "https://open.spotify.com/track/3RID7FNOsH3XqUcEsgpq5v"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -1147,8 +1131,8 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "Purple Noon",
-        "url": "https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc"
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
       },
       "artists": [
         {
@@ -1156,9 +1140,9 @@
           "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
         }
       ],
-      "duration_ms": 252409,
-      "name": "Too Late",
-      "url": "https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z"
+      "duration_ms": 245654,
+      "name": "It All Feels Right",
+      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -1179,6 +1163,22 @@
       "duration_ms": 207786,
       "name": "Old Bone - Jim-E Stack Remix",
       "url": "https://open.spotify.com/track/6YKLlLoEYRujlAH8SgkTge"
+    },
+    {
+      "added_at": "2023-03-20 18:32:59",
+      "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "duration_ms": 324266,
+      "name": "Kin",
+      "url": "https://open.spotify.com/track/3RID7FNOsH3XqUcEsgpq5v"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -1239,8 +1239,8 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "Paracosm",
-        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
+        "name": "Purple Noon",
+        "url": "https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc"
       },
       "artists": [
         {
@@ -1248,9 +1248,9 @@
           "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
         }
       ],
-      "duration_ms": 245654,
-      "name": "It All Feels Right",
-      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
+      "duration_ms": 252409,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
+        "name": "All Becomes Okay",
+        "url": "https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 228162,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/0C7sbRykiD9VGrz1rXmv0T"
+    },
+    {
+      "added_at": "2023-03-20 18:32:59",
+      "album": {
         "name": "Californian Soil",
         "url": "https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 243284,
       "name": "Baby It's You",
       "url": "https://open.spotify.com/track/2g8y0qpGaM3HTWWJZiInKA"
-    },
-    {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
-        "name": "Chihiro (Remixes)",
-        "url": "https://open.spotify.com/album/5PQgIvaINhDN7I3RNmtYyQ"
-      },
-      "artists": [
-        {
-          "name": "Yoste",
-          "url": "https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf"
-        }
-      ],
-      "duration_ms": 212963,
-      "name": "Chihiro",
-      "url": "https://open.spotify.com/track/4sa0z53uQH0pBQPDaAnQcl"
     }
   ],
   "unique_name": "golden hour",

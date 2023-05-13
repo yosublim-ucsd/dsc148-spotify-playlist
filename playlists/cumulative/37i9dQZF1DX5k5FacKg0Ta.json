@@ -114,7 +114,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 474285,
       "name": "Amen",
       "url": "https://open.spotify.com/track/4Ai79FbgReT6KXHCsorAfS"
@@ -266,7 +266,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 271512,
       "name": "Brevity",
       "url": "https://open.spotify.com/track/26Sa1QK63XlCNIKKdNBuN5"
@@ -1178,7 +1178,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 297263,
       "name": "Liar",
       "url": "https://open.spotify.com/track/7HSKioNnSt9EDYJSrUrxX4"
@@ -1414,10 +1414,28 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 328560,
       "name": "Neon Light [And the Sky Was Trans]",
       "url": "https://open.spotify.com/track/7vFAgpPhAoNXnwVVS4gFOK"
+    },
+    {
+      "album": {
+        "name": "Never Call You By Yours (Mother)",
+        "url": "https://open.spotify.com/album/2dGR3zgJiHUt7VzOS2a6s5"
+      },
+      "artists": [
+        {
+          "name": "Signe",
+          "url": "https://open.spotify.com/artist/3vltTncSI7lVsRtKnsEDfY"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271133,
+      "name": "Never Call You By Yours (Mother)",
+      "url": "https://open.spotify.com/track/6H26Mm9CIMrCfJI2jAUb15"
     },
     {
       "album": {
@@ -1436,7 +1454,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 270249,
       "name": "Nocturne",
       "url": "https://open.spotify.com/track/0iwtrXQ6hkcuRqSuAhWplA"
@@ -1494,7 +1512,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 318840,
       "name": "One Perfect Morning",
       "url": "https://open.spotify.com/track/0E6lLl60PZYQIVRVsdTzVV"
@@ -2142,7 +2160,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 311269,
       "name": "To The Stars",
       "url": "https://open.spotify.com/track/64E9aanrebqOXsgY3Dvw70"
@@ -2178,7 +2196,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 354933,
       "name": "Too Late for a Kiss",
       "url": "https://open.spotify.com/track/4ZjuxNysdqmR1bSXSk4Ymb"
@@ -2273,6 +2291,24 @@
     },
     {
       "album": {
+        "name": "Two Shadows of You",
+        "url": "https://open.spotify.com/album/4zUjsY7rKNOMdqcQKt2e7W"
+      },
+      "artists": [
+        {
+          "name": "Janne Huttunen",
+          "url": "https://open.spotify.com/artist/2vnmi19CBiKUjsjyrLfyhA"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449093,
+      "name": "Two Shadows of You",
+      "url": "https://open.spotify.com/track/2zobyQH3iCld0ZOVpibSXt"
+    },
+    {
+      "album": {
         "name": "Utu",
         "url": "https://open.spotify.com/album/5O1QSu0FXMEOmb0cK2dsif"
       },
@@ -2284,7 +2320,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 331254,
       "name": "Utu",
       "url": "https://open.spotify.com/track/1vaPcZgalYASmWeOmFwNsq"

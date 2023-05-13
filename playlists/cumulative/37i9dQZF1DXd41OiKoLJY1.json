@@ -1481,6 +1481,24 @@
     },
     {
       "album": {
+        "name": "Ancient History",
+        "url": "https://open.spotify.com/album/4xX0mZlDz2fPes6MnByJep"
+      },
+      "artists": [
+        {
+          "name": "Kemrie",
+          "url": "https://open.spotify.com/artist/5ZAXoEmG8XufgQpkWbHbSp"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143333,
+      "name": "Ancient History",
+      "url": "https://open.spotify.com/track/2G2QfxGZsFFrheAxS4Craw"
+    },
+    {
+      "album": {
         "name": "Anesthesia",
         "url": "https://open.spotify.com/album/4QsIwYBHOw6v6WUBVcuQUQ"
       },

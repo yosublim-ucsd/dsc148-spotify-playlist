@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 
 > The Mills Brothers, The Andrews Sisters and other classic vocal groups.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,587 likes - 45 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,588 likes - 45 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 | 11 | [Straighten Up And Fly Right \- Single Version](https://open.spotify.com/track/2FZZZ3L1wj9xTgQzMlQEed) | [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM), [Vic Schoen & His Orchestra](https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42) | [50th Anniversary Collection \(Vol\. 2\)](https://open.spotify.com/album/4ro3pENrSK5JrlsTr1RS7L) | 2:29 |
 | 12 | [Sincerely](https://open.spotify.com/track/50AhgOXYVm9ASB6PlKdKk0) | [The McGuire Sisters](https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN) | [The Anthology](https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6) | 2:58 |
 | 13 | [Ac\-Cent\-Tchu\-Ate The Positive \- Single Version](https://open.spotify.com/track/7kjhZR3dESBnn0GoHf3tVI) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM), [Vic Schoen & His Orchestra](https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42) | [Bing\-His Legendary Years 1931\-1957](https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw) | 2:42 |
-| 14 | [Mairzy Doats](https://open.spotify.com/track/3jMP8VYsS7mt9ZeqLlnr3m) | [The Merry Macs](https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH) | [The Merry Macs Sing Mairzy Doats](https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr) | 2:44 |
-| 15 | [It's A Blue World](https://open.spotify.com/track/2iXNeaqJ1Ef3YZ3iEak8tU) | [The Four Freshmen](https://open.spotify.com/artist/7eAF64ZiDwK2rDPSrr97D9) | [Voices In Modern](https://open.spotify.com/album/6kckztjIdIEv1gLYa9Wyn8) | 2:58 |
+| 14 | [It's A Blue World](https://open.spotify.com/track/2iXNeaqJ1Ef3YZ3iEak8tU) | [The Four Freshmen](https://open.spotify.com/artist/7eAF64ZiDwK2rDPSrr97D9) | [Voices In Modern](https://open.spotify.com/album/6kckztjIdIEv1gLYa9Wyn8) | 2:58 |
+| 15 | [Mairzy Doats](https://open.spotify.com/track/3jMP8VYsS7mt9ZeqLlnr3m) | [The Merry Macs](https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH) | [The Merry Macs Sing Mairzy Doats](https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr) | 2:44 |
 | 16 | [Have You Heard](https://open.spotify.com/track/1fsWE3xBbvORHHPqICzTyR) | [The Duprees](https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS) | [Hits Singles: Collectors Series](https://open.spotify.com/album/0gPMn15Lddsz0xpsxjCfcH) | 2:31 |
 | 17 | [Moments To Remember](https://open.spotify.com/track/3M6vVP9wlbGC10xZ654SDb) | [The Four Lads](https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3) | [16 Most Requested Songs](https://open.spotify.com/album/0PHOqv81FzFx8PSVqEa0NE) | 3:15 |
 | 18 | [Nevertheless \(I'm In Love With You\)](https://open.spotify.com/track/35ZobdJK28ivwmMgyubZak) | [The Mills Brothers](https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha) | [The Anthology: 1931 \- 1968](https://open.spotify.com/album/1ARsPQG5T4Nx1fght0cGbo) | 2:48 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 | 44 | [It's Sand, Man!](https://open.spotify.com/track/1q71go9YGa3zQCAhnDtTzZ) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Milestones of a Jazz Legend \- Meets the Vocalists, Vol\. 4](https://open.spotify.com/album/3JW5jDInHzHfZjX2FpJ3hf) | 2:28 |
 | 45 | [Swing High Swing Low](https://open.spotify.com/track/6a0f0Kz6PXKinTaiF1N6sO) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Ink Spots Retrospective](https://open.spotify.com/album/3V3OopO2A0CoZURseTfrPs) | 2:39 |
 
-Snapshot ID: `MCw1OGMwM2RlZGY3ZTliNGI4MzU2YzI1ZTA3YWFlNWM4MDg4OWUwOTVj`
+Snapshot ID: `MCwzZDNmZDYzNmM0YmZlNWFiNjA3NDg0M2Q1ZDBkZTkxNzRhNTIyY2Y0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,489 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,549 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 49 | [MACHINEGUN POEM DOLL](https://open.spotify.com/track/0xly7rh0DZqVxI8Jmn7sid) | [cosMo@Bousou\-P](https://open.spotify.com/artist/62gTYZkiWxbP1fwqrGXjQ6) | [MACHINEGUN POEM DOLL](https://open.spotify.com/album/5PH0dNztK2UMLj8lLwmLqH) | 2:20 |
 | 50 | [オルターエゴ](https://open.spotify.com/track/7kR5u7rrajGzBuCiJjdOyU) | [Misumi](https://open.spotify.com/artist/79WesJjDmCUqObjbE0mNyA) | [オルターエゴ](https://open.spotify.com/album/0gZwTh7C2gc4kTCLDe7JvC) | 3:42 |
 
-Snapshot ID: `MCxmNmFlYjg5ZDBiZmQyMDA0ZGU0MzMzYjIxMjNkZmZmM2QxZDkwY2Y2`
+Snapshot ID: `MCw5NWQ1YTZiMGU4MTQyZGEyYWY4ZGNiNjAzMWZmMGNkMjJjZjUyZjU4`

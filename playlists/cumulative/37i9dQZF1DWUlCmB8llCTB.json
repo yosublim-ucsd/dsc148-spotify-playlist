@@ -172,7 +172,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 147254,
       "name": "365",
       "url": "https://open.spotify.com/track/5PTyCmP9CmulkI6jUEbFvW"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 171146,
       "name": "Aborrec\u00eda",
       "url": "https://open.spotify.com/track/1rxnMP6oWWhWrD11sYqw87"
@@ -706,7 +706,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 181604,
       "name": "Aunque Me Caigo Me Paro",
       "url": "https://open.spotify.com/track/3zW8kxLiE0L7KZLz6TZzVF"
@@ -864,6 +864,28 @@
       "duration_ms": 195237,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/1xUd3t6zmrAC08LrWKEBrC"
+    },
+    {
+      "album": {
+        "name": "Bandidos",
+        "url": "https://open.spotify.com/album/1ZWbLN7FGdhNwla71leFnt"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224194,
+      "name": "Bandidos",
+      "url": "https://open.spotify.com/track/1KEihgohVX0H1R1C6wjYly"
     },
     {
       "album": {
@@ -1178,6 +1200,28 @@
       "duration_ms": 129746,
       "name": "Bien Backeao",
       "url": "https://open.spotify.com/track/17a9aplVkXXIvbiZ1nsv4Q"
+    },
+    {
+      "album": {
+        "name": "BIKINI",
+        "url": "https://open.spotify.com/album/6CeDEzgtJTweJGkPUasPXV"
+      },
+      "artists": [
+        {
+          "name": "Montano",
+          "url": "https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH"
+        },
+        {
+          "name": "Kiko el Crazy",
+          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146980,
+      "name": "BIKINI",
+      "url": "https://open.spotify.com/track/6slXEgNhtJXAqgW9RQOdRM"
     },
     {
       "album": {
@@ -1598,7 +1642,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 199546,
       "name": "Chakalicious",
       "url": "https://open.spotify.com/track/7nVWFGzVmdwfLqJeptkfda"
@@ -3121,6 +3165,28 @@
     },
     {
       "album": {
+        "name": "Elixir",
+        "url": "https://open.spotify.com/album/2YYzqek3w2LadxlC27BUd1"
+      },
+      "artists": [
+        {
+          "name": "Mequi",
+          "url": "https://open.spotify.com/artist/37sm4BRjUMEVI6iUC1Zg6k"
+        },
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Elixir",
+      "url": "https://open.spotify.com/track/5FC3QxywFfQq39TI4U9Pru"
+    },
+    {
+      "album": {
         "name": "Eme",
         "url": "https://open.spotify.com/album/0NyszzEmfMrKgHVDlDaUVC"
       },
@@ -4118,7 +4184,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 197142,
       "name": "Ghetto Star",
       "url": "https://open.spotify.com/track/3t6SsMiA1b1Ju0HzKHIDSl"
@@ -6056,7 +6122,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 177667,
       "name": "Me Pone Mal",
       "url": "https://open.spotify.com/track/1i7WoaZrt8jGH9vM0GKYdn"
@@ -6284,6 +6350,28 @@
       "duration_ms": 166105,
       "name": "Mi real lova",
       "url": "https://open.spotify.com/track/1A8CcPnmexGWEDrzoFwyoR"
+    },
+    {
+      "album": {
+        "name": "Millonarios Juntos",
+        "url": "https://open.spotify.com/album/7eIXPgbyRIyGMrEao8zsPU"
+      },
+      "artists": [
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182779,
+      "name": "Millonarios Juntos",
+      "url": "https://open.spotify.com/track/4g79mlIRCMtOvi1ZJVpq3t"
     },
     {
       "album": {
@@ -6922,7 +7010,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 257683,
       "name": "NOPALATELE",
       "url": "https://open.spotify.com/track/0gytcfGU4mtSfckMajYQS9"
@@ -7120,6 +7208,28 @@
       "duration_ms": 181988,
       "name": "Ojitos Rojos",
       "url": "https://open.spotify.com/track/3LbiVjqY2chZ0q9oOwbluK"
+    },
+    {
+      "album": {
+        "name": "Orgullo",
+        "url": "https://open.spotify.com/album/0Le1Lj2NyXlJZW02C706u3"
+      },
+      "artists": [
+        {
+          "name": "Ken-Y",
+          "url": "https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ"
+        },
+        {
+          "name": "R.K.M & Ken-Y",
+          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223389,
+      "name": "Orgullo",
+      "url": "https://open.spotify.com/track/1rWfFeGXyCsfpsWq5dz94Y"
     },
     {
       "album": {
@@ -7910,7 +8020,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 144242,
       "name": "Pinkstar",
       "url": "https://open.spotify.com/track/2D4dYXWl7YchmOucqzipQy"
@@ -8066,7 +8176,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 156024,
       "name": "Porte",
       "url": "https://open.spotify.com/track/2ixCtJ3dVGT3pyjL7PDex1"
@@ -8196,7 +8306,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 203280,
       "name": "Pretty Bad Bitch",
       "url": "https://open.spotify.com/track/5Pfv9O833ZMX4q2PdiCHvT"
@@ -9012,7 +9122,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 199200,
       "name": "Santorini",
       "url": "https://open.spotify.com/track/0eh8K8zCq1sUf2reIaAg39"
@@ -9782,6 +9892,10 @@
         {
           "name": "HAMLIT SHORTY",
           "url": "https://open.spotify.com/artist/06n23qw408xNUMGETWsmaL"
+        },
+        {
+          "name": "Sticks House",
+          "url": "https://open.spotify.com/artist/3gvuPnQphwrMjq23LTUAFN"
         }
       ],
       "date_added": "2023-02-24",
@@ -10058,6 +10172,24 @@
       "duration_ms": 161287,
       "name": "Tiempos de Plan B",
       "url": "https://open.spotify.com/track/3ncDEAUzMdf291D27RJQdM"
+    },
+    {
+      "album": {
+        "name": "Tira Pa Tra",
+        "url": "https://open.spotify.com/album/6GP8fr8B8GjMPbfwbbk0UN"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175933,
+      "name": "Tira Pa Tra",
+      "url": "https://open.spotify.com/track/7e3eBgoH6HuhYrNMQavcgf"
     },
     {
       "album": {
@@ -10552,6 +10684,32 @@
       "duration_ms": 153750,
       "name": "Una Noche en Medell\u00edn",
       "url": "https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6"
+    },
+    {
+      "album": {
+        "name": "Una Noche Loca",
+        "url": "https://open.spotify.com/album/28YLk4yInrLrxXPlsjqMN1"
+      },
+      "artists": [
+        {
+          "name": "Nickzzy",
+          "url": "https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki"
+        },
+        {
+          "name": "LiL CaKe",
+          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
+        },
+        {
+          "name": "Came Beats",
+          "url": "https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194823,
+      "name": "Una Noche Loca",
+      "url": "https://open.spotify.com/track/6aYJlGgl6BFH2ZOmse7wpG"
     },
     {
       "album": {

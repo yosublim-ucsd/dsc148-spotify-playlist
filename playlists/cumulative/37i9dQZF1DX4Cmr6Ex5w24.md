@@ -4,7 +4,7 @@
 
 > Revisit the retro Rahman
 
-152 songs - 14 hr 9 min
+153 songs - 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,8 @@
 | [Strawberry Kanne Vinveli Penne](https://open.spotify.com/track/1OZVhqDWtr6PVwhXdhLiL4) | [Krishnakumar](https://open.spotify.com/artist/1dooBn8xfkYyIc9CkSpGrm), [Febi Mani](https://open.spotify.com/artist/659t1mZzgOMqjQLriWbK6x) | [Minsara Kanavu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4gUHjrxNtXVlyeAFnBAtOv) | 4:25 | 2021-10-15 | 2022-11-14 |
 | [Strawberry Kanne Vinveli Penne](https://open.spotify.com/track/5DMzoeLp9YhPBfpW9Ow3mX) | [Krishnakumar](https://open.spotify.com/artist/1dooBn8xfkYyIc9CkSpGrm), [Febi Mani](https://open.spotify.com/artist/659t1mZzgOMqjQLriWbK6x) | [Minsara Kanavu \(Orignal Motion Picture Soundtrack\)](https://open.spotify.com/album/0lu9EJwZFYWUogxPtptP3N) | 4:25 | 2021-10-15 | 2022-07-29 |
 | [Telephone Mani Pol](https://open.spotify.com/track/6gGfcvpyTSM8G1Vf5xUGYW) | [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Indian](https://open.spotify.com/album/7IIRC6m8rRU0qQUHo0BmR4) | 6:14 | 2021-10-15 |  |
-| [Thanga Thamarai](https://open.spotify.com/track/3vHcpDYRWPupG0Ss3VG1fX) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Malgudi Subha](https://open.spotify.com/artist/6AeYaKk3j2uxScmcPNYpHY) | [Minsara Kanavu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0nFErimoAvb7EYxSSdVoWK) | 5:02 | 2021-10-15 |  |
+| [Thanga Thamarai](https://open.spotify.com/track/3vHcpDYRWPupG0Ss3VG1fX) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Malgudi Subha](https://open.spotify.com/artist/6AeYaKk3j2uxScmcPNYpHY) | [Minsara Kanavu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0nFErimoAvb7EYxSSdVoWK) | 5:02 | 2021-10-15 | 2023-05-13 |
+| [Thanga Thamarai](https://open.spotify.com/track/5g4VioDaQiVlGnt0fbJ4H9) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Malgudi Subha](https://open.spotify.com/artist/6AeYaKk3j2uxScmcPNYpHY) | [Golden Collection Of S\. P\. Balasubrahmanyam Vol\-2](https://open.spotify.com/album/2W8MiRMpiRbI0hBlDOHu6V) | 5:02 | 2021-10-15 |  |
 | [Thanga Thamarai Magalae \(From "Minsara Kanavu"\)](https://open.spotify.com/track/5DUpzBD9oQp1YPzAMnBvw9) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Malgudi Subha](https://open.spotify.com/artist/6AeYaKk3j2uxScmcPNYpHY) | [Hits Of Vairamuthu](https://open.spotify.com/album/47T6ANfNnwLqDATbk2T8GI) | 5:02 | 2021-10-15 | 2022-11-13 |
 | [Thanga Thamari Magale](https://open.spotify.com/track/3UBL5FEA4JgMHj2z94fLSW) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Minsara Kanavu \(Orignal Motion Picture Soundtrack\)](https://open.spotify.com/album/0lu9EJwZFYWUogxPtptP3N) | 5:02 | 2021-10-15 | 2022-07-29 |
 | [Thayya Thayya](https://open.spotify.com/track/6otKKnSdVkg0OYGdJIK9NM) | [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Subha](https://open.spotify.com/artist/1wLg8vfE4nshGpjohoeXeQ) | [Uyire \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w2ko3R4trOYlVmNbxEX0s) | 6:49 | 2021-10-15 | 2022-07-29 |

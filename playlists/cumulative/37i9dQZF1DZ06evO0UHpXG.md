@@ -4,7 +4,7 @@
 
 > This is Motörhead\. The essential tracks, all in one playlist.
 
-64 songs - 3 hr 47 min
+65 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,11 +21,12 @@
 | [Damage Case](https://open.spotify.com/track/5VtZWqbYE9vkVSbvqNmg2D) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Bonus Track Edition\)](https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6) | 3:02 | 2022-12-30 |  |
 | [Eat the Rich](https://open.spotify.com/track/3XDkKF2P82Om5ZjAfxX2Y4) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Rock N' Roll \(Expanded Edition\)](https://open.spotify.com/album/3aoZZWomzwY4KuXM2Jqt7C) | 4:34 | 2022-12-30 |  |
 | [Electricity](https://open.spotify.com/track/6PMwlVmXwdTUm4B7x5HU4x) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic: SERIOUSLY BAD MAGIC](https://open.spotify.com/album/51G3HGyXVig4jdC58PU8Ay) | 2:16 | 2023-03-01 |  |
+| [Enter Sandman](https://open.spotify.com/track/5n9saQtKvEnGKfbGStiMNF) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Enter Sandman EP](https://open.spotify.com/album/66s72H4sebolFClzRV107Z) | 5:12 | 2023-05-12 |  |
 | [Evil Eye](https://open.spotify.com/track/0nNWoloOqRaGYHnPhWkOPM) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic: SERIOUSLY BAD MAGIC](https://open.spotify.com/album/51G3HGyXVig4jdC58PU8Ay) | 2:20 | 2023-02-27 |  |
 | [Fast and Loose](https://open.spotify.com/track/5rmrkIsEaff7cwtMNKNrMP) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91) | 3:21 | 2022-12-30 |  |
 | [Fire Storm Hotel](https://open.spotify.com/track/5lQArH5hK6UjiFPivtuXuU) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic: SERIOUSLY BAD MAGIC](https://open.spotify.com/album/51G3HGyXVig4jdC58PU8Ay) | 3:35 | 2023-03-01 |  |
 | [Go to Hell \- 40th Anniversary Master](https://open.spotify.com/track/5UwpBndztMkz2kEeHcj71B) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Iron Fist \(Deluxe 40th Anniversary Edition\)](https://open.spotify.com/album/2tkYl59Gdw4kLSXGCkEgN8) | 3:08 | 2022-12-30 | 2023-03-04 |
-| [God Save The Queen](https://open.spotify.com/track/0ZuyXUQM2yAFIbmTOTXAbi) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs) | 3:19 | 2022-12-30 |  |
+| [God Save The Queen](https://open.spotify.com/track/0ZuyXUQM2yAFIbmTOTXAbi) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs) | 3:19 | 2022-12-30 | 2023-05-13 |
 | [God Was Never on Your Side](https://open.spotify.com/track/3zeQSYzaN9kLVypKWr6yUi) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Kiss of Death](https://open.spotify.com/album/4syGSCBIzJWYQB15Msvn1y) | 4:21 | 2022-12-30 |  |
 | [Going To Brazil](https://open.spotify.com/track/63cQrvazYCVTQgWiOWKUPr) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [1916](https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx) | 2:29 | 2022-12-30 |  |
 | [Greedy Bastards](https://open.spotify.com/track/4tB3o3rTYsBTd3283dKNYg) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Greedy Bastards](https://open.spotify.com/album/320YsD7ccYfPwARI17GgMw) | 4:12 | 2023-01-28 |  |

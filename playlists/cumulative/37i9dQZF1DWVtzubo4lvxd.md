@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-234 songs - 9 hr 10 min
+235 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Secret](https://open.spotify.com/track/0z3u3kPRF6GMGJtzI3dJmz) | [Brock Berrigan](https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o) | [Cadillac Mountain](https://open.spotify.com/album/5QXqoXTxCW99EXlAn64Kul) | 1:43 | 2022-04-15 | 2022-07-23 |
 | [See You Tomorrow Sunshine](https://open.spotify.com/track/0FCj9e5G6bwfOhRP0pCi2d) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl) | [See You Tomorrow Sunshine](https://open.spotify.com/album/7hVaLzmrmoyAEPU9WqSXZ6) | 2:07 | 2022-04-15 | 2022-07-29 |
 | [sekao](https://open.spotify.com/track/4c2TiYoJHIjEPZ5syRZhsY) | [Delayde](https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h) | [running around dreaming](https://open.spotify.com/album/2yTJ6fdaX9ZYGzdEJyrvna) | 2:12 | 2022-04-15 |  |
+| [Set It](https://open.spotify.com/track/3lpwEykKy6oCNas9rD2wTd) | [Ol' Burger Beats](https://open.spotify.com/artist/4rDDy4hN7Tbrv0ntOvVKPz) | [Out of Sight, Out of Mind](https://open.spotify.com/album/2C0V6vwxCcimlflcJksBSh) | 2:09 | 2022-04-15 |  |
 | [Set It](https://open.spotify.com/track/40LwCzKswQAYsxvRfotmnq) | [Ol' Burger Beats](https://open.spotify.com/artist/4rDDy4hN7Tbrv0ntOvVKPz) | [Out of Sight, Out of Mind](https://open.spotify.com/album/6NqSw0jGSnRuZ3vXIJ8nkI) | 2:09 | 2022-04-15 | 2022-06-02 |
 | [Set It](https://open.spotify.com/track/58132xQKeQ9j6VHJb06B4s) | [Ol' Burger Beats](https://open.spotify.com/artist/4rDDy4hN7Tbrv0ntOvVKPz) | [Out of Sight, Out of Mind](https://open.spotify.com/album/4I4t9TwAp0zXmpckaV938P) | 2:09 | 2022-04-15 | 2023-04-13 |
 | [Shanghai Nights](https://open.spotify.com/track/1es71gP1Ljrf6KVvqR1T75) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Around the World](https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy) | 4:24 | 2022-04-15 |  |
@@ -229,7 +230,7 @@
 | [viola](https://open.spotify.com/track/6ghICeprXG957CqdLx67WN) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [ep unexpected](https://open.spotify.com/album/1x6l5C4ZifQ3u0NkILPlcc) | 1:26 | 2022-04-15 | 2022-07-03 |
 | [Water](https://open.spotify.com/track/1D1T85tGQBtiQwXbTRYXXC) | [Caleb Belkin](https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ) | [Discography](https://open.spotify.com/album/1z2EULhFIYioLEV4K6DEHp) | 1:58 | 2022-04-15 | 2022-08-12 |
 | [Water](https://open.spotify.com/track/3kMVwcWq73jxj9w3OlgrmR) | [Caleb Belkin](https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ) | [Discography](https://open.spotify.com/album/17KY09ISAVpJ30vTaiTW3n) | 1:58 | 2022-04-15 |  |
-| [Water](https://open.spotify.com/track/5Z393NbAlwjAl0vYzUZh9D) | [omarr](https://open.spotify.com/artist/6VlR5v7VgUjpqIrIgrZ7wb) | [Desire](https://open.spotify.com/album/0yC7LKmarREa0WIHiZNbnL) | 2:42 | 2022-04-15 |  |
+| [Water](https://open.spotify.com/track/5Z393NbAlwjAl0vYzUZh9D) | [omarr](https://open.spotify.com/artist/6VlR5v7VgUjpqIrIgrZ7wb) | [Desire](https://open.spotify.com/album/0yC7LKmarREa0WIHiZNbnL) | 2:42 | 2022-04-15 | 2023-05-13 |
 | [we used to talk every night](https://open.spotify.com/track/29MC6rSDNcImKHysL5acKj) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [time off](https://open.spotify.com/album/2lUVfC4UUKYtaeeGEAlOW8) | 2:02 | 2022-04-15 | 2023-03-30 |
 | [we used to talk every night](https://open.spotify.com/track/4FbOZNHWXvvCwuuqRVNkRS) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [time off](https://open.spotify.com/album/7aFxwormHMkxMn7gXzHvBs) | 2:02 | 2022-04-15 |  |
 | [we used to talk every night](https://open.spotify.com/track/6kAMaQt8UveeTctekIpUjF) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [time off](https://open.spotify.com/album/25mhdKvHHJ6QwDnsCmAaav) | 2:02 | 2022-04-15 | 2022-11-20 |

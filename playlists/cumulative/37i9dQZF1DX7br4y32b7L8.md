@@ -4,7 +4,7 @@
 
 > Viraal gaan is ook gaan! Cover: Heuss L'enfoiré & Jul
 
-143 songs - 7 hr 5 min
+144 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Dankjewel](https://open.spotify.com/track/6qlsnYLcPkZFxv0t2Koko8) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Dankjewel](https://open.spotify.com/album/4et19MNXHj4zo9e9IGCJlW) | 2:40 | 2023-02-23 | 2023-04-27 |
 | [DARBA 9ADIYA](https://open.spotify.com/track/0WCiCbdRB54GMzlRGs3Fa4) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [DARBA 9ADIYA](https://open.spotify.com/album/0A32UfWq7bigKFdXJ0o2LW) | 2:29 | 2023-05-04 |  |
 | [DNA](https://open.spotify.com/track/1CijnKFb3kqusDnNJrAJn1) | [Glen Fontein](https://open.spotify.com/artist/7oeQm1xiTWTKyq2DY42Hpq) | [DNA](https://open.spotify.com/album/4VFNlHIFWlwoknoAsJTyuu) | 2:34 | 2023-02-28 | 2023-04-19 |
+| [Dog Days Are Over](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:11 | 2023-05-12 |  |
 | [Drunk in Love \(Henny\)](https://open.spotify.com/track/14xuT74kDW0LIPMsr5g5zf) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Drunk in Love \(Henny\)](https://open.spotify.com/album/3AUvqkp5zza0MWlpv5OAwn) | 1:44 | 2023-03-16 | 2023-05-02 |
 | [Dumb Ways to Die](https://open.spotify.com/track/180MVaidIYWpB1MSYEv5BI) | [Tangerine Kitty](https://open.spotify.com/artist/3pJh0RWw3DrGBnS70xcI2T) | [Dumb Ways to Die](https://open.spotify.com/album/4Bd3TKczuye0zb8w9i45R6) | 3:00 | 2023-03-06 | 2023-04-19 |
 | [Dyscalculie](https://open.spotify.com/track/0LNT7X2PU2gg8vpMZHC37n) | [Maks](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [Dyscalculie](https://open.spotify.com/album/1hJBIeaY6hODwbYq0Zwsnk) | 1:33 | 2023-03-06 |  |

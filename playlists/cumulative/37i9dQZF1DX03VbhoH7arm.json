@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Os grandes hits do momento est\u00e3o aqui! Foto: Anitta, Mc Ryan SP",
+  "description": "Os grandes hits do momento est\u00e3o aqui! Foto: Papatinho, Lu\u00edsa Sonza, DJ Biel do Furduncinho",
   "name": "Hot Hits Brasil",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/5smr3wYPodiv8ogWy0DE6J"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 168601,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
@@ -1048,6 +1048,24 @@
       "duration_ms": 212000,
       "name": "DAN\u00c7ARINA (feat. Nicky Jam, MC Pedrinho) - Remix",
       "url": "https://open.spotify.com/track/5QQKWOwPjG9vcDBTQ5Hv5Q"
+    },
+    {
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
       "album": {
@@ -2682,6 +2700,32 @@
       "duration_ms": 172324,
       "name": "positions",
       "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
+    },
+    {
+      "album": {
+        "name": "Posi\u00e7\u00e3o de Ataque",
+        "url": "https://open.spotify.com/album/3koR16KYlMIRIzWUxNREXs"
+      },
+      "artists": [
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "DJ Biel do Furduncinho",
+          "url": "https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149090,
+      "name": "Posi\u00e7\u00e3o de Ataque",
+      "url": "https://open.spotify.com/track/1MgO3fAl4ODVQweg5GR0Lk"
     },
     {
       "album": {

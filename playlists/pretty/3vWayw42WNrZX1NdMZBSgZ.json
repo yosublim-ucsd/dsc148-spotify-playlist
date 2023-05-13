@@ -1,12 +1,12 @@
 {
   "description": "The perfect mix of the biggest <a href=\"https://www.instagram.com/sonymusiclatin/\">Sony Music Latin</a> hits! Follow this playlist for hot new updates. Cover: Shakira",
-  "num_followers": 56434,
+  "num_followers": 56436,
   "original_name": "Top Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "MzgyOCw0ODI3YjgwODhkYzMxNzM2YTMxZDU1MjNhOWUyOGQ5NDIyNDY2Y2Qx",
+  "snapshot_id": "MzgzNCwxMTI2ZDJiOWNiZTI3NTQ3MGViYjIxNjEwODAyNjA2NDU3Y2QwMDA5",
   "tracks": [
     {
       "added_at": "2023-05-12 00:05:43",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp"
     },
     {
+      "added_at": "2023-05-09 22:27:40",
+      "album": {
+        "name": "La Mitad",
+        "url": "https://open.spotify.com/album/4FdLKltOVq8bIkMBCdYXqn"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        }
+      ],
+      "duration_ms": 176236,
+      "name": "La Mitad",
+      "url": "https://open.spotify.com/track/5nIZkrEBVzbt3XhXRyVRQo"
+    },
+    {
       "added_at": "2023-05-12 00:07:48",
       "album": {
         "name": "Parece Mentira",
@@ -39,6 +55,98 @@
       "duration_ms": 213958,
       "name": "Parece Mentira",
       "url": "https://open.spotify.com/track/6MPOkyax2MTcsMVhbQ93vz"
+    },
+    {
+      "added_at": "2023-05-12 17:12:45",
+      "album": {
+        "name": "Coincidencias",
+        "url": "https://open.spotify.com/album/0YGUKU6DyVS2F7TnMl2Jav"
+      },
+      "artists": [
+        {
+          "name": "Nuevo Elemento",
+          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
+        }
+      ],
+      "duration_ms": 181447,
+      "name": "Coincidir",
+      "url": "https://open.spotify.com/track/5xchG6qNlgDyZOgfmv5EpE"
+    },
+    {
+      "added_at": "2023-05-12 17:29:26",
+      "album": {
+        "name": "Toma",
+        "url": "https://open.spotify.com/album/4cbxkM3zQSH8nGm9KQaIwF"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 162330,
+      "name": "Toma",
+      "url": "https://open.spotify.com/track/48iWXYdWMFNenABULLtopW"
+    },
+    {
+      "added_at": "2023-05-12 14:38:12",
+      "album": {
+        "name": "Una Noche Loca",
+        "url": "https://open.spotify.com/album/28YLk4yInrLrxXPlsjqMN1"
+      },
+      "artists": [
+        {
+          "name": "Nickzzy",
+          "url": "https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki"
+        },
+        {
+          "name": "LiL CaKe",
+          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
+        },
+        {
+          "name": "Came Beats",
+          "url": "https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "Una Noche Loca",
+      "url": "https://open.spotify.com/track/6aYJlGgl6BFH2ZOmse7wpG"
+    },
+    {
+      "added_at": "2023-05-12 17:27:09",
+      "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/7nVcDQMiKAJvKArWWVmlft"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "duration_ms": 91371,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/2cTMmwJpMuGxH4AQUhS2qh"
+    },
+    {
+      "added_at": "2023-05-12 19:09:04",
+      "album": {
+        "name": "Coquio Castro (En Vivo)",
+        "url": "https://open.spotify.com/album/4RCrIPTYt1YCI96WEunbuH"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 191829,
+      "name": "Coquio Castro - En Vivo",
+      "url": "https://open.spotify.com/track/1EGcw5OrBiqQUYHW51IMYT"
     },
     {
       "added_at": "2023-05-05 04:52:26",
@@ -59,22 +167,6 @@
       "duration_ms": 174174,
       "name": "Me Met\u00ed en el Ruedo - Remix",
       "url": "https://open.spotify.com/track/0Ssb1Wk9WDFapIL2SnNkA7"
-    },
-    {
-      "added_at": "2023-05-09 22:27:40",
-      "album": {
-        "name": "La Mitad",
-        "url": "https://open.spotify.com/album/4FdLKltOVq8bIkMBCdYXqn"
-      },
-      "artists": [
-        {
-          "name": "GALE",
-          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
-        }
-      ],
-      "duration_ms": 176236,
-      "name": "La Mitad",
-      "url": "https://open.spotify.com/track/5nIZkrEBVzbt3XhXRyVRQo"
     },
     {
       "added_at": "2023-05-05 00:06:49",

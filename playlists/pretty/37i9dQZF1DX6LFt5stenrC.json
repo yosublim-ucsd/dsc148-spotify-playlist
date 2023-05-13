@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzJhZThlMTlkNTQzZDU5YzNiM2IwODg3ZTFkOGIxNjlhYWJlMTBm",
+  "snapshot_id": "MCxkYTVlMmIwZjI4N2Y0M2ExMDYzYWVlYmJmYzllMzdkZjRmZDgyMzA4",
   "tracks": [
     {
       "added_at": "2023-01-27 10:00:00",
@@ -383,26 +383,6 @@
     {
       "added_at": "2023-01-27 10:00:00",
       "album": {
-        "name": "DreamWorks Trolls - The Beat Goes On!",
-        "url": "https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg"
-        },
-        {
-          "name": "Branch",
-          "url": "https://open.spotify.com/artist/1cpn7jBL4ELqWrJDtC98k5"
-        }
-      ],
-      "duration_ms": 134493,
-      "name": "Hair In The Air (Trolls: The Beat Goes On Theme)",
-      "url": "https://open.spotify.com/track/1mHtYTi3jasQzaUIwUM2RC"
-    },
-    {
-      "added_at": "2023-01-27 10:00:00",
-      "album": {
         "name": "Power Rangers Dino Charge Theme Song",
         "url": "https://open.spotify.com/album/2TlnrB2whsLXmvMKK1KpQ0"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 115555,
       "name": "Power Rangers Dino Charge Theme Song - Extended Full Version",
       "url": "https://open.spotify.com/track/7GmlAIzyeG3OjQLB7BUkgz"
+    },
+    {
+      "added_at": "2023-01-27 10:00:00",
+      "album": {
+        "name": "DreamWorks Trolls - The Beat Goes On!",
+        "url": "https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg"
+        },
+        {
+          "name": "Branch",
+          "url": "https://open.spotify.com/artist/1cpn7jBL4ELqWrJDtC98k5"
+        }
+      ],
+      "duration_ms": 134493,
+      "name": "Hair In The Air (Trolls: The Beat Goes On Theme)",
+      "url": "https://open.spotify.com/track/1mHtYTi3jasQzaUIwUM2RC"
     },
     {
       "added_at": "2023-01-27 10:00:00",
@@ -923,22 +923,42 @@
     {
       "added_at": "2023-01-27 10:00:00",
       "album": {
-        "name": "Disney Junior Music: Mickey Mouse Funhouse Vol. 1",
-        "url": "https://open.spotify.com/album/4WAOBwmnOk4t3aZ7a4z7ZX"
+        "name": "Equestria Girls: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0jly2QLfRSLqFARqSGO2Mr"
       },
       "artists": [
         {
-          "name": "Mickey Mouse",
-          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+          "name": "Sunset Shimmer",
+          "url": "https://open.spotify.com/artist/5fyTC8eAkkeidVgqku26mz"
         },
         {
-          "name": "Mickey Mouse Funhouse - Cast",
-          "url": "https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS"
+          "name": "Twilight Sparkle",
+          "url": "https://open.spotify.com/artist/53CQUfjaBNRwV2nFro1nac"
+        },
+        {
+          "name": "Pinkie Pie",
+          "url": "https://open.spotify.com/artist/7ExZeMNpyKhYSokWo9riU5"
+        },
+        {
+          "name": "Rainbow Dash",
+          "url": "https://open.spotify.com/artist/0iKnctG436f9uUKSuSFx2n"
+        },
+        {
+          "name": "Fluttershy",
+          "url": "https://open.spotify.com/artist/2KL1HTA8ijZSuf7VJaL4OU"
+        },
+        {
+          "name": "Apple Jack",
+          "url": "https://open.spotify.com/artist/1r0v3fdCiqrr9mYtvbCccT"
+        },
+        {
+          "name": "Rarity",
+          "url": "https://open.spotify.com/artist/6PqIHmHPCKrZoyLMf98era"
         }
       ],
-      "duration_ms": 78880,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/06XmduRx6Fhod8FnjyK9lh"
+      "duration_ms": 91416,
+      "name": "Opening Titles Remix",
+      "url": "https://open.spotify.com/track/35EJK7aNqtYfQZANUTdls9"
     },
     {
       "added_at": "2023-01-27 10:00:00",

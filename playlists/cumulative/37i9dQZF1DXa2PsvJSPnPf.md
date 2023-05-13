@@ -4,7 +4,7 @@
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 
-185 songs - 11 hr 35 min
+187 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Joke’s On Me](https://open.spotify.com/track/4PrwTOyFdEzYaYoTDaLuIG) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs) | [Cycles](https://open.spotify.com/album/39YBVSJcX1YP53p3CiEOTB) | 2:46 | 2023-04-28 |  |
 | [Joke’s On Me](https://open.spotify.com/track/5yczYndIpml2ip1H3q2D3U) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs) | [Joke's On Me](https://open.spotify.com/album/2bUopTPyNJIcpvvMJwxgk3) | 2:46 | 2021-11-19 | 2023-04-30 |
 | [Julep](https://open.spotify.com/track/5a4ZTEMp6wULHTEzJclKxt) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [The Phosphorescent Blues](https://open.spotify.com/album/3cdqpjwuTvDeLe3RYIGb0j) | 5:26 | 2021-11-19 |  |
+| [July Jackson \- Billy Horton Sessions](https://open.spotify.com/track/0mgeY4RQLtvDtmqp8A5m9n) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [July Jackson \(Billy Horton Sessions\)](https://open.spotify.com/album/39gJS5syykqaNY6U4DHwvW) | 2:43 | 2023-05-12 |  |
 | [Just Like Leaving](https://open.spotify.com/track/1KtqnK25qwyUK17y19Aks9) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Just Like Leaving](https://open.spotify.com/album/1YFu2Ce9NLQeSWFuhdztFe) | 3:26 | 2022-05-16 |  |
 | [Just Like Leaving](https://open.spotify.com/track/63C5SO2zyoWvMS6JL6mv8Y) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Just Like Leaving](https://open.spotify.com/album/0Opbhs5LBTdPR63ndzzsNw) | 3:26 | 2021-11-19 | 2022-07-29 |
 | [Just Want To Be Loved](https://open.spotify.com/track/0NYl9aDHEcTNQ8SKu8GLqM) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:16 | 2021-11-19 |  |
@@ -191,6 +192,7 @@
 | [Wishing I Was Wrong](https://open.spotify.com/track/2ovmeD1VIEPJu9Z8qibUks) | [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [Wishing I Was Wrong](https://open.spotify.com/album/3Pz8RqCxcBLkjKLHVgFIvY) | 3:08 | 2022-01-07 |  |
 | [With You](https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [With You](https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ) | 3:31 | 2021-11-19 |  |
 | [You're Free Now](https://open.spotify.com/track/0ySdK6vR22cXZMb3AMgsUS) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [da Costa Deluxe](https://open.spotify.com/album/0Q5GdiJwXZ1FvdxUj5X7uY) | 4:19 | 2022-05-16 |  |
+| [You're the One](https://open.spotify.com/track/2YEN8LRUuTViNyCGeUQukS) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/6RBTZpN4KkTLDbPdSUYRPJ) | 3:25 | 2023-05-12 |  |
 | [You, Me and The Mountains \- Live Off The Floor](https://open.spotify.com/track/3VyzVPoGB0ikZcAjWnCRdf) | [Ryan Lindsay](https://open.spotify.com/artist/1KWojkmgW6AiDS9yIx9VVu), [Lizzie No](https://open.spotify.com/artist/68MHAPLIwh1JcUqfhb2MWn) | [You, Me and The Mountains \(Live Off The Floor\)](https://open.spotify.com/album/1f2GXONeh0Rbu1ETjLw9uk) | 3:48 | 2022-01-07 |  |
 | [You’re Free Now \(feat\. Sarah Jarosz\)](https://open.spotify.com/track/0n5BiC98D3E0EZimzsboGW) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [da Costa Deluxe](https://open.spotify.com/album/2JPABhQendr6PM7QmR8iLR) | 4:19 | 2021-11-19 | 2022-07-29 |
 

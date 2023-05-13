@@ -4,7 +4,7 @@
 
 > Voici les hits du moment\. Photo: David Guetta, Anne\-Marie, Coi Leray
 
-232 songs - 12 hr 12 min
+233 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [2 Die 4](https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [2 Die 4](https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t) | 3:05 | 2022-08-01 | 2022-08-27 |
 | [21 Days](https://open.spotify.com/track/0KChbh9zPLQNOxkG20cWTN) | [Jonathan Roy](https://open.spotify.com/artist/62ggJuZV87VvP3sAHM0V3K) | [21 Days](https://open.spotify.com/album/2nfbP4RNeTZQNfcD6qgqa2) | 3:06 | 2022-09-09 | 2023-01-30 |
 | [2step \(feat\. Lil Baby\)](https://open.spotify.com/track/2UN0lp72LAusrXi8LLVomt) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [2step \(feat\. Lil Baby\)](https://open.spotify.com/album/6NPPPC6DxPvukxZcYVOBif) | 2:43 | 2022-07-09 | 2022-09-03 |
-| [3 accords](https://open.spotify.com/track/4Hsywq7qnQVsutWBFf8rPZ) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [3 accords](https://open.spotify.com/album/1IsJS2WEY8FGvmVdX0ehQU) | 2:42 | 2022-07-09 |  |
+| [3 accords](https://open.spotify.com/track/4Hsywq7qnQVsutWBFf8rPZ) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [3 accords](https://open.spotify.com/album/1IsJS2WEY8FGvmVdX0ehQU) | 2:42 | 2022-07-09 | 2023-05-13 |
 | [80's](https://open.spotify.com/track/6VONfYwyPiTSVAkbVHMdBa) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [80's](https://open.spotify.com/album/2XjaUCMkWHkRd996KUVOHT) | 3:21 | 2023-01-27 |  |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-07-09 | 2022-10-15 |
 | [Acapulco](https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Acapulco](https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW) | 2:19 | 2022-07-09 | 2022-09-03 |
@@ -45,6 +45,7 @@
 | [Calm Down](https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:39 | 2022-07-09 | 2022-08-27 |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2022-08-26 |  |
 | [Camping](https://open.spotify.com/track/3nCyD17Oecbgx4VNX5fNZ5) | [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Camping](https://open.spotify.com/album/0TKxbWXUfFAdInNrf6WzrQ) | 3:24 | 2022-07-09 |  |
+| [Ce soir \(j'suis dans ma tête\)](https://open.spotify.com/track/154hu0b2iObjLxyKLHDC5O) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Ce soir \(j'suis dans ma tête\)](https://open.spotify.com/album/5Uiy5vNgCfejYNl3yosE9e) | 2:20 | 2023-05-12 |  |
 | [Ce soir je danse](https://open.spotify.com/track/7A2RNX0JUMC9ZYWl7a5pyC) | [William Cloutier](https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS) | [On ira](https://open.spotify.com/album/1g67KJ5aDutnK0IeWniWKQ) | 2:09 | 2022-07-09 | 2022-12-06 |
 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-04-21 |  |
 | [Chocolat](https://open.spotify.com/track/6Are8wJXglZ9q9QX00xoLV) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm) | [AGUÀ EXTEND'EAU](https://open.spotify.com/album/5fvffbbz0BfUuo42slpV9A) | 3:09 | 2022-07-09 | 2022-07-16 |

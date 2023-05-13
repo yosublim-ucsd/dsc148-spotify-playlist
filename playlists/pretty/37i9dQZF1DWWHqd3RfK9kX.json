@@ -1,12 +1,12 @@
 {
   "description": "Il sound giusto per creare in cucina!",
-  "num_followers": 21496,
+  "num_followers": 21501,
   "original_name": "Musica per Cucinare",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjdkMDQyY2U5ZDhkOTU0MjI4NjllM2NkZGEyNjI3OTRjNDRkNzg1",
+  "snapshot_id": "MCxlYzE1NTI3ZWU4MzQ5ZDFkMWI3YmU5ZmFkMjdkYzhhNWEzYmI1MjE3",
   "tracks": [
     {
       "added_at": "2020-11-10 18:47:22",
@@ -855,6 +855,22 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
+        "name": "Jersey Beat: The Music Of Frankie Valli and The Four Seasons",
+        "url": "https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+        }
+      ],
+      "duration_ms": 168706,
+      "name": "Beggin' - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4LQtQV5HHTdVBCBJYaEuUr"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
         "name": "Gal Costa",
         "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 214933,
       "name": "Que Pena (Ele J\u00e1 N\u00e3o Gosta Mais De Mim)",
       "url": "https://open.spotify.com/track/1wuB9MID26ep43OlkOtBXd"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "Jersey Beat: The Music Of Frankie Valli and The Four Seasons",
-        "url": "https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
-        }
-      ],
-      "duration_ms": 168706,
-      "name": "Beggin' - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4LQtQV5HHTdVBCBJYaEuUr"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Gipsy Kings",
-        "url": "https://open.spotify.com/album/4aDmHcFNChCXPle7tMeoWS"
-      },
-      "artists": [
-        {
-          "name": "Gipsy Kings",
-          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "A Mi Manera",
-      "url": "https://open.spotify.com/track/1R0GOPjljIJ997WnDXWW88"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Intensified",
         "url": "https://open.spotify.com/album/1QRSVAqC4M1HQGb8P1B6Cy"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 153663,
       "name": "(Poor Mi) Israelites",
       "url": "https://open.spotify.com/track/53aXCpKRUASUQ8cIDsJ7VN"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Gipsy Kings",
+        "url": "https://open.spotify.com/album/4aDmHcFNChCXPle7tMeoWS"
+      },
+      "artists": [
+        {
+          "name": "Gipsy Kings",
+          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "A Mi Manera",
+      "url": "https://open.spotify.com/track/1R0GOPjljIJ997WnDXWW88"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Painted",
-        "url": "https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk"
+        "name": "Sem Nostalgia",
+        "url": "https://open.spotify.com/album/3qosc8WvmeN2oMd7LWZ34K"
       },
       "artists": [
         {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Lucas Santtana",
+          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
         }
       ],
-      "duration_ms": 211945,
-      "name": "Call",
-      "url": "https://open.spotify.com/track/4tvw503IOIq9uc0QNYVey2"
+      "duration_ms": 214266,
+      "name": "Amor em Jacum\u00e3",
+      "url": "https://open.spotify.com/track/4DbtZtymMSyIoCY7P3mZU8"
     }
   ],
   "unique_name": "Musica per Cucinare",

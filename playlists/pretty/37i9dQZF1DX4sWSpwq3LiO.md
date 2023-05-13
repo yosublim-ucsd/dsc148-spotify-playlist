@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,033,445 likes - 304 songs - 12 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,034,901 likes - 304 songs - 12 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -313,4 +313,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 303 | [Needle and Thread](https://open.spotify.com/track/2jUd0hF3zy4FNsO2ODt3hq) | [Aisha Edwards](https://open.spotify.com/artist/3YZeY8Jt05JPzWSY6VNnYZ) | [Needle and Thread](https://open.spotify.com/album/1MglpBPFAoUNAoPPtp4Tz0) | 2:46 |
 | 304 | [Skymning](https://open.spotify.com/track/2jRlPB32YMnpz1qcIY97oY) | [Vanja Lind](https://open.spotify.com/artist/2L3FiPy8Ek8kHpSD6EdFLV) | [Skymning](https://open.spotify.com/album/6iB98euArvi49Fl9ys2CQP) | 2:03 |
 
-Snapshot ID: `MCxmM2IyNGIyNTgyOTRmYTIzNmQ0Yjk2NTBiYWE4OGZhMDYzNjc3OTg5`
+Snapshot ID: `MCxiZGExZDAyNmMzMjg0YzYwYjZjNTUxNTQwMzJkNTlhNDUwMTM1YmJk`

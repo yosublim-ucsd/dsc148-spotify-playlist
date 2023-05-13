@@ -1,12 +1,12 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 131539,
+  "num_followers": 131882,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzRjODg2ODY3NDRhNDUyYjdmNWFhZTI2ZmQ1OTQwOWVjODhlOGQ2",
+  "snapshot_id": "MCw1ZDJlMTZlMGYzN2Q5NGNkYjM3NWJkZGY2YWQzOTA3NjJmNGQ5OThj",
   "tracks": [
     {
       "added_at": "2023-05-02 06:14:26",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-05-02 06:14:26",
       "album": {
-        "name": "NOEASY",
-        "url": "https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 212480,
-      "name": "Mixtape : OH",
-      "url": "https://open.spotify.com/track/2afx8zfrOsN3QVEWSx5IPp"
-    },
-    {
-      "added_at": "2023-05-02 06:14:26",
-      "album": {
         "name": "minisode1 : Blue Hour",
         "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 210549,
       "name": "We Lost The Summer",
       "url": "https://open.spotify.com/track/1WrScpykT891CZhFThXJtj"
+    },
+    {
+      "added_at": "2023-05-02 06:14:26",
+      "album": {
+        "name": "NOEASY",
+        "url": "https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 212480,
+      "name": "Mixtape : OH",
+      "url": "https://open.spotify.com/track/2afx8zfrOsN3QVEWSx5IPp"
     },
     {
       "added_at": "2023-05-02 06:14:26",
@@ -747,22 +747,18 @@
     {
       "added_at": "2023-05-02 06:14:26",
       "album": {
-        "name": "1st Single 'S.i.R'",
-        "url": "https://open.spotify.com/album/7eZ1MuD9GYRP35jumpZStH"
+        "name": "GO LIVE",
+        "url": "https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo"
       },
       "artists": [
         {
-          "name": "BOBBY",
-          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
-        },
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
         }
       ],
-      "duration_ms": 169800,
-      "name": "Drowning (Feat. SOLE)",
-      "url": "https://open.spotify.com/track/7gVFUy4jtXJ6nmk6nHAz2A"
+      "duration_ms": 251300,
+      "name": "Blueprint",
+      "url": "https://open.spotify.com/track/2JzOF5Ex1BfufuZ6DgvOPe"
     },
     {
       "added_at": "2023-05-02 06:14:26",
@@ -783,18 +779,22 @@
     {
       "added_at": "2023-05-02 06:14:26",
       "album": {
-        "name": "GO LIVE",
-        "url": "https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo"
+        "name": "1st Single 'S.i.R'",
+        "url": "https://open.spotify.com/album/7eZ1MuD9GYRP35jumpZStH"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "BOBBY",
+          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
+        },
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
         }
       ],
-      "duration_ms": 251300,
-      "name": "Blueprint",
-      "url": "https://open.spotify.com/track/2JzOF5Ex1BfufuZ6DgvOPe"
+      "duration_ms": 169800,
+      "name": "Drowning (Feat. SOLE)",
+      "url": "https://open.spotify.com/track/7gVFUy4jtXJ6nmk6nHAz2A"
     },
     {
       "added_at": "2023-05-02 06:14:26",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-05-02 06:14:26",
       "album": {
-        "name": "THE FIRST STEP : TREASURE EFFECT",
-        "url": "https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 204493,
-      "name": "COME TO ME",
-      "url": "https://open.spotify.com/track/1jkO79LWdg5RjkSZ2VfuTo"
-    },
-    {
-      "added_at": "2023-05-02 06:14:26",
-      "album": {
         "name": "Why - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 207777,
       "name": "Why",
       "url": "https://open.spotify.com/track/4eiPbjcTEJDQcsv7WV0vfD"
+    },
+    {
+      "added_at": "2023-05-02 06:14:26",
+      "album": {
+        "name": "THE FIRST STEP : TREASURE EFFECT",
+        "url": "https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "duration_ms": 204493,
+      "name": "COME TO ME",
+      "url": "https://open.spotify.com/track/1jkO79LWdg5RjkSZ2VfuTo"
     },
     {
       "added_at": "2023-05-02 06:14:26",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-05-02 06:14:26",
       "album": {
-        "name": "MOONLIGHT",
-        "url": "https://open.spotify.com/album/0ymC3LS9iRfz8GntIXHuch"
-      },
-      "artists": [
-        {
-          "name": "HENRY",
-          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
-        }
-      ],
-      "duration_ms": 161826,
-      "name": "MOONLIGHT",
-      "url": "https://open.spotify.com/track/2T23r4De9TGsNRF4u7tU8p"
-    },
-    {
-      "added_at": "2023-05-02 06:14:26",
-      "album": {
         "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
         "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 214293,
       "name": "Fever",
       "url": "https://open.spotify.com/track/7qDbAc6xMW07T7yyMnQqS8"
+    },
+    {
+      "added_at": "2023-05-02 06:14:26",
+      "album": {
+        "name": "MOONLIGHT",
+        "url": "https://open.spotify.com/album/0ymC3LS9iRfz8GntIXHuch"
+      },
+      "artists": [
+        {
+          "name": "HENRY",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+        }
+      ],
+      "duration_ms": 161826,
+      "name": "MOONLIGHT",
+      "url": "https://open.spotify.com/track/2T23r4De9TGsNRF4u7tU8p"
     },
     {
       "added_at": "2023-05-02 06:14:26",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-05-02 06:14:26",
       "album": {
-        "name": "BLOOM*IZ",
-        "url": "https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm"
-      },
-      "artists": [
-        {
-          "name": "IZ*ONE",
-          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
-        }
-      ],
-      "duration_ms": 202400,
-      "name": "AYAYAYA",
-      "url": "https://open.spotify.com/track/4XKCLNyCTvtdkLu5O1mzTU"
-    },
-    {
-      "added_at": "2023-05-02 06:14:26",
-      "album": {
         "name": "What You Waiting For",
         "url": "https://open.spotify.com/album/59iiiARciChm70cn85wxuH"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 175327,
       "name": "What You Waiting For",
       "url": "https://open.spotify.com/track/4CoxD8tetisleUQDA7vn1B"
+    },
+    {
+      "added_at": "2023-05-02 06:14:26",
+      "album": {
+        "name": "BLOOM*IZ",
+        "url": "https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm"
+      },
+      "artists": [
+        {
+          "name": "IZ*ONE",
+          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
+        }
+      ],
+      "duration_ms": 202400,
+      "name": "AYAYAYA",
+      "url": "https://open.spotify.com/track/4XKCLNyCTvtdkLu5O1mzTU"
     },
     {
       "added_at": "2023-05-02 06:14:26",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-05-02 06:14:26",
       "album": {
-        "name": "Summer Magic - Summer Mini Album",
-        "url": "https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 196093,
-      "name": "Blue Lemonade",
-      "url": "https://open.spotify.com/track/5XTQXTzEVpYq8wL6DZYgSz"
-    },
-    {
-      "added_at": "2023-05-02 06:14:26",
-      "album": {
         "name": "HEART*IZ",
         "url": "https://open.spotify.com/album/548UwoyV9v9fTaoEfzoCBb"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 192851,
       "name": "Up",
       "url": "https://open.spotify.com/track/70QXJyGkuTJDhfxqW2XGED"
+    },
+    {
+      "added_at": "2023-05-02 06:14:26",
+      "album": {
+        "name": "Summer Magic - Summer Mini Album",
+        "url": "https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 196093,
+      "name": "Blue Lemonade",
+      "url": "https://open.spotify.com/track/5XTQXTzEVpYq8wL6DZYgSz"
     },
     {
       "added_at": "2023-05-02 06:14:26",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2023-05-02 06:14:26",
       "album": {
-        "name": "The Red Summer - Summer Mini Album",
-        "url": "https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2"
+        "name": "SF9 4th Mini Album [ MAMMA MIA! ]",
+        "url": "https://open.spotify.com/album/1sJh6MN85EcJAxnfRt6YvV"
       },
       "artists": [
         {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+          "name": "SF9",
+          "url": "https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X"
         }
       ],
-      "duration_ms": 204833,
-      "name": "Zoo",
-      "url": "https://open.spotify.com/track/7sEwz6PjhQ1bbSSWb6IBid"
+      "duration_ms": 204594,
+      "name": "MAMMA MIA",
+      "url": "https://open.spotify.com/track/65eBRMPIMrQVndALJMc4fX"
     },
     {
       "added_at": "2023-05-02 06:14:26",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-05-02 06:14:26",
       "album": {
-        "name": "SF9 4th Mini Album [ MAMMA MIA! ]",
-        "url": "https://open.spotify.com/album/1sJh6MN85EcJAxnfRt6YvV"
-      },
-      "artists": [
-        {
-          "name": "SF9",
-          "url": "https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X"
-        }
-      ],
-      "duration_ms": 204594,
-      "name": "MAMMA MIA",
-      "url": "https://open.spotify.com/track/65eBRMPIMrQVndALJMc4fX"
-    },
-    {
-      "added_at": "2023-05-02 06:14:26",
-      "album": {
         "name": "SPECIAL ALBUM <For the Summer>",
         "url": "https://open.spotify.com/album/53gncm4YYhGNfqgPWSgXbJ"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 183787,
       "name": "Boogie Up",
       "url": "https://open.spotify.com/track/6u5ipVfAHGjTXvWuiI5sKB"
+    },
+    {
+      "added_at": "2023-05-02 06:14:26",
+      "album": {
+        "name": "The Red Summer - Summer Mini Album",
+        "url": "https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 204833,
+      "name": "Zoo",
+      "url": "https://open.spotify.com/track/7sEwz6PjhQ1bbSSWb6IBid"
     },
     {
       "added_at": "2023-05-02 06:14:26",
@@ -1535,22 +1535,22 @@
     {
       "added_at": "2023-05-02 06:14:26",
       "album": {
-        "name": "PROMISE U (REVIBE Vol.1)",
-        "url": "https://open.spotify.com/album/4eJdKwHH9rb3dNbtIsBgjV"
+        "name": "Summer or Summer",
+        "url": "https://open.spotify.com/album/5Sxd8gbumDCdcmq6M24eJV"
       },
       "artists": [
         {
-          "name": "Solar",
-          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
+          "name": "HYOLYN",
+          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
         },
         {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+          "name": "DASOM",
+          "url": "https://open.spotify.com/artist/6xxFNpc17jiiVZzOCgdLyv"
         }
       ],
-      "duration_ms": 207613,
-      "name": "Promise U",
-      "url": "https://open.spotify.com/track/3S0yfEkrXLpHjcizhj97nf"
+      "duration_ms": 199026,
+      "name": "Summer or Summer",
+      "url": "https://open.spotify.com/track/6tU92qp9bJWAW86IHUggUa"
     },
     {
       "added_at": "2023-05-02 06:14:26",
@@ -1607,22 +1607,22 @@
     {
       "added_at": "2023-05-02 06:14:26",
       "album": {
-        "name": "Summer or Summer",
-        "url": "https://open.spotify.com/album/5Sxd8gbumDCdcmq6M24eJV"
+        "name": "PROMISE U (REVIBE Vol.1)",
+        "url": "https://open.spotify.com/album/4eJdKwHH9rb3dNbtIsBgjV"
       },
       "artists": [
         {
-          "name": "HYOLYN",
-          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
+          "name": "Solar",
+          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
         },
         {
-          "name": "DASOM",
-          "url": "https://open.spotify.com/artist/6xxFNpc17jiiVZzOCgdLyv"
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
         }
       ],
-      "duration_ms": 199026,
-      "name": "Summer or Summer",
-      "url": "https://open.spotify.com/track/6tU92qp9bJWAW86IHUggUa"
+      "duration_ms": 207613,
+      "name": "Promise U",
+      "url": "https://open.spotify.com/track/3S0yfEkrXLpHjcizhj97nf"
     },
     {
       "added_at": "2023-05-02 06:14:26",

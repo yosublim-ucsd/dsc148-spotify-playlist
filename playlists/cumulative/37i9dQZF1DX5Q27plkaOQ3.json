@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 198399,
       "name": "(Never Gonna) Be Alone",
       "url": "https://open.spotify.com/track/1vTTzqjD4zWJ8ZtVwgr4dK"
@@ -114,7 +114,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 169600,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/10Ypa5Os3CqBKRZT8K2V9Q"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 186400,
       "name": "Arabian Knights",
       "url": "https://open.spotify.com/track/2kO0AAHz7hYN6taN6oUMwT"
@@ -538,7 +538,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 188607,
       "name": "Backbreaker",
       "url": "https://open.spotify.com/track/2mhD6IAZ7oGdRT8bzFI5tF"
@@ -688,7 +688,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 216666,
       "name": "Black And Blue",
       "url": "https://open.spotify.com/track/2P0Zjj0EtelNoF1yoP1RhT"
@@ -898,7 +898,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-01",
+      "date_removed": null,
       "duration_ms": 195692,
       "name": "Buckle Up",
       "url": "https://open.spotify.com/track/6DzgdoD0Dv3JQhU5bsg6IR"
@@ -1026,7 +1026,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 213517,
       "name": "Bussin Bussin (feat. JV Rhymes)",
       "url": "https://open.spotify.com/track/7e9hK7EA6ErF1FfARROJQE"
@@ -1981,6 +1981,24 @@
     },
     {
       "album": {
+        "name": "Dubstep Starter Pack Vol. 1 [Sample Pack Demo]",
+        "url": "https://open.spotify.com/album/5ecmyO9qktV5vXdjZSOZdV"
+      },
+      "artists": [
+        {
+          "name": "Disciple",
+          "url": "https://open.spotify.com/artist/7a3OvvhvAvZ1FZE928i3Lk"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166471,
+      "name": "Dubstep Starter Pack Vol. 1 [Sample Pack Demo]",
+      "url": "https://open.spotify.com/track/4EqeZDO7zV9O2I52NqzSkN"
+    },
+    {
+      "album": {
         "name": "DUMP TRUCC",
         "url": "https://open.spotify.com/album/2Fwu1JBMmy1PzUUORgvhyZ"
       },
@@ -2312,7 +2330,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-03",
+      "date_removed": null,
       "duration_ms": 252631,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/1SIQqSE0P63y5z97Y7BNFm"
@@ -2862,7 +2880,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 252800,
       "name": "Haxo -Sharks Remix",
       "url": "https://open.spotify.com/track/1HIj9nk8ceUK7o87SgXv8o"
@@ -2906,7 +2924,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-23",
+      "date_removed": null,
       "duration_ms": 298110,
       "name": "Higher",
       "url": "https://open.spotify.com/track/5wzp6qTG9HebBeK9lByJs7"
@@ -2928,7 +2946,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 182266,
       "name": "Holla",
       "url": "https://open.spotify.com/track/5ZXKxQWkDCm8RI0JWnBaam"
@@ -3050,7 +3068,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 255846,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/4hSmhoWceZfpoTopxcvaEr"
@@ -3218,6 +3236,24 @@
       "duration_ms": 180000,
       "name": "In My Soul",
       "url": "https://open.spotify.com/track/6NLZEoGMoml2czKixvO1Ze"
+    },
+    {
+      "album": {
+        "name": "Into The HEYZ, Part I",
+        "url": "https://open.spotify.com/album/4Pmq8bZNhxmBYBdGzMhjg4"
+      },
+      "artists": [
+        {
+          "name": "Heyz",
+          "url": "https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220689,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/3qPJQhBBLPtr1R9ojGQFKk"
     },
     {
       "album": {
@@ -3808,7 +3844,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 214795,
       "name": "LOST IN YOU",
       "url": "https://open.spotify.com/track/4TMtydweRFufJuukwDH48j"
@@ -5053,6 +5089,28 @@
     },
     {
       "album": {
+        "name": "Quantum Level",
+        "url": "https://open.spotify.com/album/7AQLiKBitTPJ9f8VrYYQxE"
+      },
+      "artists": [
+        {
+          "name": "Au5",
+          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
+        },
+        {
+          "name": "Prismatic",
+          "url": "https://open.spotify.com/artist/2W8zVw5vOEFKRz9k5GIZZl"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218709,
+      "name": "Quantum Level",
+      "url": "https://open.spotify.com/track/61Td1mc3CdLhIyMwXblkSU"
+    },
+    {
+      "album": {
         "name": "R2",
         "url": "https://open.spotify.com/album/5LGceKVgkLOikEYSG0o8u4"
       },
@@ -5364,7 +5422,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 214285,
       "name": "Riding",
       "url": "https://open.spotify.com/track/7K0EHTQIjeaG5TXEzzHBRL"
@@ -5492,7 +5550,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 155862,
       "name": "Run The Track",
       "url": "https://open.spotify.com/track/05yBkD9lV6UFGWaDzsUuGG"
@@ -5854,7 +5912,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 300916,
       "name": "Shivering",
       "url": "https://open.spotify.com/track/10Q3ASy9okYt85040yV46c"
@@ -5978,7 +6036,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 214631,
       "name": "Sleep (with Calcium)",
       "url": "https://open.spotify.com/track/091NiGWv2nTM8pnOEXZR6T"
@@ -6018,7 +6076,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-23",
+      "date_removed": null,
       "duration_ms": 208551,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/5bYBWSSkQF9QO0vSAbK3Cm"
@@ -6318,7 +6376,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 251586,
       "name": "Street - PEEKABOO Remix",
       "url": "https://open.spotify.com/track/202xexTyHxpvi6aqaaGEYq"
@@ -6468,7 +6526,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 262805,
       "name": "Take A Trip",
       "url": "https://open.spotify.com/track/5CZo2k6Ru1wJYbcvQVaoub"
@@ -7084,7 +7142,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-05",
+      "date_removed": null,
       "duration_ms": 221666,
       "name": "Underneath My Skin - Crankdat Remix",
       "url": "https://open.spotify.com/track/6JrgAMiQvbPcwZOwuK3oH0"

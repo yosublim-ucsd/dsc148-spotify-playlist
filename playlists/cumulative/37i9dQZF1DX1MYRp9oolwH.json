@@ -1500,10 +1500,32 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 242526,
       "name": "Na Roja Nuvve",
       "url": "https://open.spotify.com/track/2mFkD2KjL1dUhkpNKteaKP"
+    },
+    {
+      "album": {
+        "name": "Na Roja Nuvve (From \"Kushi\") - Single",
+        "url": "https://open.spotify.com/album/7a4m6yhn2bdPSxTn0SXJLS"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "Shiva Nirvana",
+          "url": "https://open.spotify.com/artist/1gajAFPKcgGySskFCZ7qQD"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242526,
+      "name": "Na Roja Nuvve (From \"Kushi\")",
+      "url": "https://open.spotify.com/track/7s2yiftmEe1c5Q1wqIPsqr"
     },
     {
       "album": {
@@ -2754,7 +2776,7 @@
     {
       "album": {
         "name": "What's Happening (From \"Dhamaka\")",
-        "url": "https://open.spotify.com/album/1EDWLK9X6N7vWia8DJxRK9"
+        "url": "https://open.spotify.com/album/0SiMCIFZp69yGCjV8yMa82"
       },
       "artists": [
         {
@@ -2773,6 +2795,32 @@
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 280408,
+      "name": "What's Happening",
+      "url": "https://open.spotify.com/track/5bhSn0QvXGvyUOUnhuTYDn"
+    },
+    {
+      "album": {
+        "name": "What's Happening (From \"Dhamaka\")",
+        "url": "https://open.spotify.com/album/1EDWLK9X6N7vWia8DJxRK9"
+      },
+      "artists": [
+        {
+          "name": "Bheems Ceciroleo",
+          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+        },
+        {
+          "name": "Ramya Behara",
+          "url": "https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv"
+        },
+        {
+          "name": "Bhargavi Pillai",
+          "url": "https://open.spotify.com/artist/7FtuQ5LCrZa0813JkrBQe4"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
       "duration_ms": 280408,
       "name": "What's Happening (From \"Dhamaka\")",
       "url": "https://open.spotify.com/track/4mKZayqLgsawAfmWnJhDSC"

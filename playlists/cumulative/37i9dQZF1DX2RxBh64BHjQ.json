@@ -194,7 +194,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 207603,
       "name": "16CHOPPA (feat. Nardo Wick)",
       "url": "https://open.spotify.com/track/0QyisrAtBYGswf8KTJkkFV"
@@ -500,7 +500,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 108004,
       "name": "4148 (feat. Edot Babyy)",
       "url": "https://open.spotify.com/track/4LqfNIRWW0MrIvLS5UbASS"
@@ -998,7 +998,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 206253,
       "name": "All I Wanna Know",
       "url": "https://open.spotify.com/track/3rWGgckX6iOjacBDMCaV97"
@@ -1162,6 +1162,24 @@
       "duration_ms": 148508,
       "name": "Around And Around",
       "url": "https://open.spotify.com/track/1rX6DkfNiuH3A9XNpwD7eP"
+    },
+    {
+      "album": {
+        "name": "Ass Kickin'",
+        "url": "https://open.spotify.com/album/7xDQYORtibCfUwIFLwtCJh"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117794,
+      "name": "Ass Kickin'",
+      "url": "https://open.spotify.com/track/5hq7feH89FieadyB13oo5p"
     },
     {
       "album": {
@@ -1505,6 +1523,32 @@
     },
     {
       "album": {
+        "name": "Bad Bitches (Remix) [feat. Lola Brooke & Kali]",
+        "url": "https://open.spotify.com/album/4lUP6CjI2ZsClgPCGi6bbW"
+      },
+      "artists": [
+        {
+          "name": "BreezyLYN",
+          "url": "https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq"
+        },
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190902,
+      "name": "Bad Bitches (Remix) [feat. Lola Brooke & Kali]",
+      "url": "https://open.spotify.com/track/5uNg131mN22zZzQ9XjRQ5Q"
+    },
+    {
+      "album": {
         "name": "Bad Days (feat. Sleepy Hallow)",
         "url": "https://open.spotify.com/album/3ubtf0L8eEjiUIDQsSiWYu"
       },
@@ -1600,6 +1644,24 @@
       "duration_ms": 203294,
       "name": "Ball N Chill",
       "url": "https://open.spotify.com/track/4bkGptTkmvTw7bmZqp1osN"
+    },
+    {
+      "album": {
+        "name": "Here 2 Stay",
+        "url": "https://open.spotify.com/album/2hnZC5cplWVngfVm2Hjsfr"
+      },
+      "artists": [
+        {
+          "name": "DD Osama",
+          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154181,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/1Cwv7OzGjvpHcCGxY1Nmvk"
     },
     {
       "album": {
@@ -5344,7 +5406,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 146629,
       "name": "Dusties",
       "url": "https://open.spotify.com/track/7kswp4MJqT6Ts9P0iVL3kg"
@@ -7294,10 +7356,32 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 171872,
       "name": "GOMD",
       "url": "https://open.spotify.com/track/6qlQIOubQeiG3byhhqwPfU"
+    },
+    {
+      "album": {
+        "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
+        "url": "https://open.spotify.com/album/1XTi2AYI6uOEonUfsLSm3s"
+      },
+      "artists": [
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276986,
+      "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
+      "url": "https://open.spotify.com/track/4ncoZ4PKxvyzVoSIJsOLo0"
     },
     {
       "album": {
@@ -9385,6 +9469,24 @@
     },
     {
       "album": {
+        "name": "Keep It Cute",
+        "url": "https://open.spotify.com/album/0SUZ6sHqYkNLI7C4Js5LwW"
+      },
+      "artists": [
+        {
+          "name": "Maiya The Don",
+          "url": "https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171474,
+      "name": "Keep It Cute",
+      "url": "https://open.spotify.com/track/4wEI2bW0thTqJFukEaeXJs"
+    },
+    {
+      "album": {
         "name": "Keep it Playa",
         "url": "https://open.spotify.com/album/3ZqYTwO4j03qVGpXEzv516"
       },
@@ -10533,6 +10635,24 @@
     },
     {
       "album": {
+        "name": "Love Hurts",
+        "url": "https://open.spotify.com/album/0EnPWv3yS6p6vPmVXGJtYH"
+      },
+      "artists": [
+        {
+          "name": "Fase Yoda",
+          "url": "https://open.spotify.com/artist/1TRCsrZwRZKPBJftw4WZKi"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Love Hurts",
+      "url": "https://open.spotify.com/track/4YvMwniKQAXRxo2UTrLk3t"
+    },
+    {
+      "album": {
         "name": "Love Is Blind",
         "url": "https://open.spotify.com/album/2iYwgufcnqYehO9NXMqOdJ"
       },
@@ -11379,6 +11499,28 @@
     },
     {
       "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/05xL551uw7yJyDWjM0LAF9"
+      },
+      "artists": [
+        {
+          "name": "Tafia",
+          "url": "https://open.spotify.com/artist/75s3jBhtUyWmQLLqzhIub4"
+        },
+        {
+          "name": "BIG30",
+          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156055,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/48SOSe8sqpQuQqDdzQ56iB"
+    },
+    {
+      "album": {
         "name": "Up 2 M\u00eb",
         "url": "https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs"
       },
@@ -12116,7 +12258,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 153600,
       "name": "Neighborhood Trapstars",
       "url": "https://open.spotify.com/track/7zXZQEkHUclAqRTJXLIip4"
@@ -13156,7 +13298,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 129923,
       "name": "Oh What A Feeling",
       "url": "https://open.spotify.com/track/4E5gMun6nSKQJg5EqU2QhH"
@@ -14630,7 +14772,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 140053,
       "name": "Pretty Girls Walk (with Coi Leray) - Remix",
       "url": "https://open.spotify.com/track/2g9dhCaJiK7D0FOgZ9vJlR"
@@ -17732,7 +17874,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 178059,
       "name": "Stargaze",
       "url": "https://open.spotify.com/track/6HuodZbqN0qUY1LhrKSzK5"
@@ -18013,6 +18155,24 @@
     },
     {
       "album": {
+        "name": "STILL HUMBLE",
+        "url": "https://open.spotify.com/album/6wO8JOuEelcIK5XVju4hm2"
+      },
+      "artists": [
+        {
+          "name": "Aaron May",
+          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205897,
+      "name": "STILL HUMBLE",
+      "url": "https://open.spotify.com/track/3GKQZZoHZ2MrfvQtipT5f9"
+    },
+    {
+      "album": {
         "name": "Stonecrest",
         "url": "https://open.spotify.com/album/7lJ85CYzlQx2LIFtKZi4fx"
       },
@@ -18064,6 +18224,24 @@
       "duration_ms": 183687,
       "name": "Stressed",
       "url": "https://open.spotify.com/track/0VgFUdSwF7cdQMixbHIXzD"
+    },
+    {
+      "album": {
+        "name": "Stuck In My Ways",
+        "url": "https://open.spotify.com/album/0tLpo1x2gVMIgoHpRYvtNw"
+      },
+      "artists": [
+        {
+          "name": "Dougie B",
+          "url": "https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134265,
+      "name": "Stuck In My Ways",
+      "url": "https://open.spotify.com/track/52K77MKrAormrzJHhL7fYr"
     },
     {
       "album": {

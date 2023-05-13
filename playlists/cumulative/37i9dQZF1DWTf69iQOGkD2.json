@@ -1539,6 +1539,28 @@
     },
     {
       "album": {
+        "name": "Fim De Semana",
+        "url": "https://open.spotify.com/album/3pbfczs2jCRIaPsjWcSszo"
+      },
+      "artists": [
+        {
+          "name": "Kaio Viana",
+          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
+        },
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135718,
+      "name": "Fim De Semana",
+      "url": "https://open.spotify.com/track/4SKrgwolhav2i1NXhjHMix"
+    },
+    {
+      "album": {
         "name": "Fim de Semana",
         "url": "https://open.spotify.com/album/3QrfrubXNF6xRzCAV6DvB7"
       },
@@ -4142,6 +4164,32 @@
       "duration_ms": 165120,
       "name": "Simplesmente - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1mbMSLUSoQePR3EUPO1czn"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico 10 Anos Cacife (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2o0lQSlcbTnFNFpXDOovQ7"
+      },
+      "artists": [
+        {
+          "name": "Cacife Clandestino",
+          "url": "https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203878,
+      "name": "S\u00f3 Me Ligar - Ao Vivo",
+      "url": "https://open.spotify.com/track/7F3wFxzD8nJqXM2AyXYg4B"
     },
     {
       "album": {

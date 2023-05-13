@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. الغلاف: سلطان المرشد
 
-222 songs - 15 hr 4 min
+223 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Sanhat Al Batal](https://open.spotify.com/track/0CnIBJh5OQSLLxCEvRom5s) | [Tareq Al Harbi](https://open.spotify.com/artist/5sc0loMqCN6R1ap06baL2K) | [Sanhat Al Batal](https://open.spotify.com/album/3zvLLHOURRbEsXWqudBwnW) | 3:15 | 2022-01-21 | 2022-06-15 |
 | [Sara Barg](https://open.spotify.com/track/611PXXtuU51ToWk55udzWo) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Sara Barg](https://open.spotify.com/album/38JLjvDN9Vmdv3hlf6KA0O) | 4:07 | 2022-07-22 | 2023-02-03 |
 | [Sha'a Rabi](https://open.spotify.com/track/3xHc0sVjmX3wELp4Gl2bQf) | [Fahad El Salem](https://open.spotify.com/artist/4qVn0gcHkdthKF07tD8F7D), [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Sha'a Rabi](https://open.spotify.com/album/4DwOVSEePfdMFjAiyXyghG) | 4:26 | 2023-03-24 |  |
+| [Shabeah Rouhi](https://open.spotify.com/track/3Ewj9Gg9FIzfkoC6Wu9ISE) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Shabeah Rouhi](https://open.spotify.com/album/0JCxGer8k83sCp2uBLZikd) | 6:15 | 2023-05-12 |  |
 | [Shasawi Lee](https://open.spotify.com/track/7l717FCD5d2XcYNtpAyXEd) | [Huda Al Fahad](https://open.spotify.com/artist/1n9uot3AWMGrSa8i9OGj4a) | [Shasawi Lee](https://open.spotify.com/album/4ugdF8iExaBIxWgsIsCDN6) | 3:50 | 2023-03-14 | 2023-03-18 |
 | [Sheikh Al Ramak](https://open.spotify.com/track/75bIkFeMymOUWLhtLRg5gX) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Sheikh Al Ramak](https://open.spotify.com/album/2kgERNQ27bC262mXWGmyaQ) | 4:26 | 2022-04-01 | 2022-09-29 |
 | [Shof Galbi](https://open.spotify.com/track/1Qn3MbsA6Dae8cFx56IHCK) | [Eman AlShmety](https://open.spotify.com/artist/6m0P4htB7F19GZ2VYlpofd) | [Shof Galbi](https://open.spotify.com/album/0bL0jJFjvRneRInaGQDVkf) | 3:49 | 2023-05-04 |  |
@@ -160,7 +161,7 @@
 | [Swalef Al Lel](https://open.spotify.com/track/02bhyQbENe0BxDAKsTUteA) | [Waleed Al Shami](https://open.spotify.com/artist/05LLsyiJRSjBpe54u0jJRz) | [Swalef Al Lel](https://open.spotify.com/album/4iVcTtt2gMtG6V4PCk0mU1) | 8:51 | 2021-12-23 | 2022-02-05 |
 | [Tajahal](https://open.spotify.com/track/2qT3PjWdra1HvrBat5jDFe) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [Tajahal](https://open.spotify.com/album/3FbgQDIIkTeCXGE5RxkGIH) | 4:44 | 2022-12-16 |  |
 | [Takhayel](https://open.spotify.com/track/5kpt7M3vgU5nBFrECytdSv) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Takhayel](https://open.spotify.com/album/01lmkknyS1jSSXxsLelcNt) | 3:19 | 2022-09-01 | 2023-03-15 |
-| [Takol Galbi](https://open.spotify.com/track/6ZeXXsj7opwkg3eNBTdZwJ) | [Abdulrahman Alazzawi](https://open.spotify.com/artist/2QxSb4y90CGYdmyFsh4XSg) | [Takol Galbi](https://open.spotify.com/album/3nP4mMLP0HJEFYoAWIghdx) | 3:25 | 2022-11-10 |  |
+| [Takol Galbi](https://open.spotify.com/track/6ZeXXsj7opwkg3eNBTdZwJ) | [Abdulrahman Alazzawi](https://open.spotify.com/artist/2QxSb4y90CGYdmyFsh4XSg) | [Takol Galbi](https://open.spotify.com/album/3nP4mMLP0HJEFYoAWIghdx) | 3:25 | 2022-11-10 | 2023-05-13 |
 | [Tamnony Aleh](https://open.spotify.com/track/3nXTVXOH2S8a68T78FGjKT) | [Rola Kadri](https://open.spotify.com/artist/28Jx760F4Z37RhCtjOrLGj) | [Tamnony Aleh](https://open.spotify.com/album/4bRULRxIQFGrAXXl5nu2C6) | 3:02 | 2021-12-23 | 2022-06-04 |
 | [Taraf Thaleth](https://open.spotify.com/track/4o6I7GW1LXGpEV3upoYxlb) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Taraf Thaleth](https://open.spotify.com/album/10nwn4BzwNQAnePtj07bwo) | 3:54 | 2023-01-20 |  |
 | [Tbarak Galbe](https://open.spotify.com/track/5QGkol4xMYr3DgnOPx6jAz) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Tbarak Galbe](https://open.spotify.com/album/7xkSwmQxStACNH2M68zsdT) | 4:35 | 2022-05-01 | 2022-09-15 |

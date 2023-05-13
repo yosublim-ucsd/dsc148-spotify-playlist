@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cn8UU.md) - [plain]
 
 > This is Teddy Pendergrass\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,937 likes - 50 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,949 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cn8UU.md) - [plain]
 | 49 | [Life Is A Song Worth Singing \- Jamie Jones Remix](https://open.spotify.com/track/3MN8hmy8vFs0GcZhVxWLlh) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ), [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Mixmag Presents Teddy Pendergrass: The Remixes \- EP](https://open.spotify.com/album/1pwd4Ug25kzaZbdHDhT1Ho) | 8:47 |
 | 50 | [Only You](https://open.spotify.com/track/2OH7gEuDmtdlUce6y0u7EP) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing \(Expanded Edition\)](https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw) | 5:03 |
 
-Snapshot ID: `MjgwNjM0NjIsMDAwMDAwMDBhYjUzMTgxZTNjYTYyM2Y0MmQxNDNhMTM1OTMzZGY4OQ==`
+Snapshot ID: `MjgwNjQ5MDksMDAwMDAwMDA2ZTYzMDk3MzQ5NTJiNDU2MDJiYzExZjJkZmMyNzY1Yw==`

@@ -1,12 +1,12 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 9064,
+  "num_followers": 9084,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDhiNjMwYjdiOTk1ZDJiNDUyOTBjZDk0OGJhYTA0OGUyMDUwMTM2",
+  "snapshot_id": "MCw3MDBkNzc3MTlhYWI5OWFjZmY2ZDY0YjFmMjZkMzY2MjVhNzU2Njhk",
   "tracks": [
     {
       "added_at": "2021-03-11 16:26:11",
@@ -595,6 +595,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "Brown Eyed Girls BEST - Special Moments",
+        "url": "https://open.spotify.com/album/5KnUQXqS4EtUiN0tn8sW8y"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+        }
+      ],
+      "duration_ms": 203258,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/3liK5xPEDnfkRkJ91gz0Wt"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "Ames Room",
         "url": "https://open.spotify.com/album/5MCWiknia0CVi71e67Fdzh"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 263079,
       "name": "Then Then Then",
       "url": "https://open.spotify.com/track/5SQPTxNUunDOhBMOggDmX7"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "Brown Eyed Girls BEST - Special Moments",
-        "url": "https://open.spotify.com/album/5KnUQXqS4EtUiN0tn8sW8y"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
-        }
-      ],
-      "duration_ms": 203258,
-      "name": "Sign",
-      "url": "https://open.spotify.com/track/3liK5xPEDnfkRkJ91gz0Wt"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -875,18 +875,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Brown Eyes",
-        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
+        "name": "Swan Songs",
+        "url": "https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6"
       },
       "artists": [
         {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Amin. J",
+          "url": "https://open.spotify.com/artist/5xs4WKD1qLTJNSRnX0O4d2"
         }
       ],
-      "duration_ms": 215840,
-      "name": "With Coffee\u2026",
-      "url": "https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV"
+      "duration_ms": 201226,
+      "name": "Fly (feat. Amin. J)",
+      "url": "https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -907,22 +911,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Swan Songs",
-        "url": "https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6"
+        "name": "Brown Eyes",
+        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
       },
       "artists": [
         {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "Amin. J",
-          "url": "https://open.spotify.com/artist/5xs4WKD1qLTJNSRnX0O4d2"
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
         }
       ],
-      "duration_ms": 201226,
-      "name": "Fly (feat. Amin. J)",
-      "url": "https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h"
+      "duration_ms": 215840,
+      "name": "With Coffee\u2026",
+      "url": "https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -979,22 +979,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "N001",
-        "url": "https://open.spotify.com/album/02D06vVmtmZOpeK2p3QFQS"
-      },
-      "artists": [
-        {
-          "name": "Rain",
-          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "\uc548\ub155\uc774\ub780 \ub9d0 \ub300\uc2e0",
-      "url": "https://open.spotify.com/track/6cBKZOBdcSqiDig10ubeZo"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Back in Time",
         "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 272662,
       "name": "Missing you",
       "url": "https://open.spotify.com/track/24UgvaHnAvKOysqdkZ1B8L"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "N001",
+        "url": "https://open.spotify.com/album/02D06vVmtmZOpeK2p3QFQS"
+      },
+      "artists": [
+        {
+          "name": "Rain",
+          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "\uc548\ub155\uc774\ub780 \ub9d0 \ub300\uc2e0",
+      "url": "https://open.spotify.com/track/6cBKZOBdcSqiDig10ubeZo"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "N001",
+        "url": "https://open.spotify.com/album/02D06vVmtmZOpeK2p3QFQS"
+      },
+      "artists": [
+        {
+          "name": "Rain",
+          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
+        }
+      ],
+      "duration_ms": 217533,
+      "name": "\ub098\uc05c \ub0a8\uc790 Bad Man",
+      "url": "https://open.spotify.com/track/119iNERS1h3InUzpC0jtwf"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "Because I Love You",
         "url": "https://open.spotify.com/album/55YORiOuEr6NpZBvWnM9zc"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 259626,
       "name": "Break Away",
       "url": "https://open.spotify.com/track/3xN3UkMQPosLdU6nldyxjl"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "N001",
-        "url": "https://open.spotify.com/album/02D06vVmtmZOpeK2p3QFQS"
-      },
-      "artists": [
-        {
-          "name": "Rain",
-          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
-        }
-      ],
-      "duration_ms": 217533,
-      "name": "\ub098\uc05c \ub0a8\uc790 Bad Man",
-      "url": "https://open.spotify.com/track/119iNERS1h3InUzpC0jtwf"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "RAIN 2",
+        "url": "https://open.spotify.com/album/7gjMBUCENFdEPZwSlVW1gE"
+      },
+      "artists": [
+        {
+          "name": "Rain",
+          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
+        }
+      ],
+      "duration_ms": 231173,
+      "name": "\ud0dc\uc591\uc744 \ud53c\ud558\ub294 \ubc29\ubc95 How to Run From the Sun (Gtr.Remix)",
+      "url": "https://open.spotify.com/track/2ESHlCrJsHzgx8XL1MCkFo"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
         "url": "https://open.spotify.com/album/2vCLAlhvbVkIgxOX3YFi3b"
       },
@@ -1235,22 +1251,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "RAIN 2",
-        "url": "https://open.spotify.com/album/7gjMBUCENFdEPZwSlVW1gE"
-      },
-      "artists": [
-        {
-          "name": "Rain",
-          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
-        }
-      ],
-      "duration_ms": 231173,
-      "name": "\ud0dc\uc591\uc744 \ud53c\ud558\ub294 \ubc29\ubc95 How to Run From the Sun (Gtr.Remix)",
-      "url": "https://open.spotify.com/track/2ESHlCrJsHzgx8XL1MCkFo"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "The Breeze Of Sea",
         "url": "https://open.spotify.com/album/0bWcrwRhhxMaweFaBA8G1S"
       },
@@ -1283,38 +1283,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "The Way I Am",
-        "url": "https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk"
-      },
-      "artists": [
-        {
-          "name": "MC MONG",
-          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
-        }
-      ],
-      "duration_ms": 216323,
-      "name": "Ice Cream",
-      "url": "https://open.spotify.com/track/2KlzrWVFpUIyI2goyvInX4"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "The Windows Of My Soul",
-        "url": "https://open.spotify.com/album/606BZa2tirkJXRAEfOvmZu"
-      },
-      "artists": [
-        {
-          "name": "Yangpa",
-          "url": "https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS"
-        }
-      ],
-      "duration_ms": 238393,
-      "name": "\uc0ac\ub791..\uadf8\uac8c \ubb54\ub370",
-      "url": "https://open.spotify.com/track/17YZlswC4YRd6vMVkH6F5C"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Dropping the Tears",
         "url": "https://open.spotify.com/album/2LPszV62iNiLadCZ2J0kol"
       },
@@ -1331,6 +1299,70 @@
       "duration_ms": 238628,
       "name": "LOVE119 (feat. MC Mong)",
       "url": "https://open.spotify.com/track/4rC34fBjcpOZ4uxonNlLIh"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "It's Raining",
+        "url": "https://open.spotify.com/album/3oZ0ClkVrQS6pqb2VCCbhZ"
+      },
+      "artists": [
+        {
+          "name": "Rain",
+          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
+        }
+      ],
+      "duration_ms": 225306,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/2g05KWuVd5Rixv1YtSSTog"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "The Way I Am",
+        "url": "https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk"
+      },
+      "artists": [
+        {
+          "name": "MC MONG",
+          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
+        }
+      ],
+      "duration_ms": 216323,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/2KlzrWVFpUIyI2goyvInX4"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Shady Girl",
+        "url": "https://open.spotify.com/album/4r8SgrpHX0W7u1kT0lAULE"
+      },
+      "artists": [
+        {
+          "name": "SISTAR",
+          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
+        }
+      ],
+      "duration_ms": 194324,
+      "name": "Shady Girl",
+      "url": "https://open.spotify.com/track/7rWRuFyvRqMlUh8rUTuWqb"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "The Windows Of My Soul",
+        "url": "https://open.spotify.com/album/606BZa2tirkJXRAEfOvmZu"
+      },
+      "artists": [
+        {
+          "name": "Yangpa",
+          "url": "https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS"
+        }
+      ],
+      "duration_ms": 238393,
+      "name": "\uc0ac\ub791..\uadf8\uac8c \ubb54\ub370",
+      "url": "https://open.spotify.com/track/17YZlswC4YRd6vMVkH6F5C"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1383,38 +1415,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Shady Girl",
-        "url": "https://open.spotify.com/album/4r8SgrpHX0W7u1kT0lAULE"
-      },
-      "artists": [
-        {
-          "name": "SISTAR",
-          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
-        }
-      ],
-      "duration_ms": 194324,
-      "name": "Shady Girl",
-      "url": "https://open.spotify.com/track/7rWRuFyvRqMlUh8rUTuWqb"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "It's Raining",
-        "url": "https://open.spotify.com/album/3oZ0ClkVrQS6pqb2VCCbhZ"
-      },
-      "artists": [
-        {
-          "name": "Rain",
-          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
-        }
-      ],
-      "duration_ms": 225306,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/2g05KWuVd5Rixv1YtSSTog"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Type B (1)",
         "url": "https://open.spotify.com/album/017upK3dMmJeQygGsuJyzC"
       },
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Change Yourself",
-        "url": "https://open.spotify.com/album/3lNo7TgizMXNYTve1wIYJj"
-      },
-      "artists": [
-        {
-          "name": "The Jadu",
-          "url": "https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU"
-        }
-      ],
-      "duration_ms": 240440,
-      "name": "\ub300\ud654\uac00 \ud544\uc694\ud574",
-      "url": "https://open.spotify.com/track/7uiRy0wTGtP1XC536Ot7V0"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Double Life ; The Other Side",
         "url": "https://open.spotify.com/album/3soTGhHXEGWYJKw6aSLR98"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 252906,
       "name": "\ucc28\ub9c8...",
       "url": "https://open.spotify.com/track/1sAWuJLbUYdNdl8rrCxK5A"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Change Yourself",
+        "url": "https://open.spotify.com/album/3lNo7TgizMXNYTve1wIYJj"
+      },
+      "artists": [
+        {
+          "name": "The Jadu",
+          "url": "https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU"
+        }
+      ],
+      "duration_ms": 240440,
+      "name": "\ub300\ud654\uac00 \ud544\uc694\ud574",
+      "url": "https://open.spotify.com/track/7uiRy0wTGtP1XC536Ot7V0"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1515,38 +1515,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Like Them",
-        "url": "https://open.spotify.com/album/374rk50TgKbQSbeBaLFjek"
-      },
-      "artists": [
-        {
-          "name": "Gummy",
-          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
-        }
-      ],
-      "duration_ms": 281800,
-      "name": "We Should've Been Friends",
-      "url": "https://open.spotify.com/track/4nLwtNzEa1I1tvqC89xo1L"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "The Jadu 3",
-        "url": "https://open.spotify.com/album/0jUxZh8BKRhj7IqvPVmmJ4"
-      },
-      "artists": [
-        {
-          "name": "The Jadu",
-          "url": "https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU"
-        }
-      ],
-      "duration_ms": 225866,
-      "name": "\uae40\ubc25",
-      "url": "https://open.spotify.com/track/7tSt4Jbnml5l7MMWqxfx7f"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Must Listen",
         "url": "https://open.spotify.com/album/0lAJhXF86SWZa65n4PeJOV"
       },
@@ -1559,6 +1527,22 @@
       "duration_ms": 201066,
       "name": "Passion",
       "url": "https://open.spotify.com/track/1r3RzA093pxz24XEtlvY9D"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Like Them",
+        "url": "https://open.spotify.com/album/374rk50TgKbQSbeBaLFjek"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "duration_ms": 281800,
+      "name": "We Should've Been Friends",
+      "url": "https://open.spotify.com/track/4nLwtNzEa1I1tvqC89xo1L"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1599,6 +1583,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "The Jadu 3",
+        "url": "https://open.spotify.com/album/0jUxZh8BKRhj7IqvPVmmJ4"
+      },
+      "artists": [
+        {
+          "name": "The Jadu",
+          "url": "https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU"
+        }
+      ],
+      "duration_ms": 225866,
+      "name": "\uae40\ubc25",
+      "url": "https://open.spotify.com/track/7tSt4Jbnml5l7MMWqxfx7f"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "\uadf8\ub140\uac00 \uc6c3\uc796\uc544",
         "url": "https://open.spotify.com/album/7khCA52u74RIec1Cpg6uEi"
       },
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Comfort",
-        "url": "https://open.spotify.com/album/63mXEu4xtlyEYDxBrs9EVP"
-      },
-      "artists": [
-        {
-          "name": "Gummy",
-          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
-        },
-        {
-          "name": "T.O.P.",
-          "url": "https://open.spotify.com/artist/4yiB30K5scGkjmAgHGIH8Y"
-        }
-      ],
-      "duration_ms": 236560,
-      "name": "I'm Sorry (Feat. T.O.P)",
-      "url": "https://open.spotify.com/track/6UF4dbXnxEL2kTKDoGAUS8"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Remake Romantic 2",
         "url": "https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ"
       },
@@ -1647,6 +1627,22 @@
       "duration_ms": 215248,
       "name": "\ub110 \uc0ac\ub791\ud558\uaca0\uc5b4",
       "url": "https://open.spotify.com/track/1cSPBiaK1NydJnQaYxKwDt"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Davichi In Wonderland",
+        "url": "https://open.spotify.com/album/1nsgg32Iq4kANSRjdAxRTo"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "\uc0ac\uace0\ucce4\uc5b4\uc694",
+      "url": "https://open.spotify.com/track/6sGDd0oEWCUXA6qyvCXPjs"
     }
   ],
   "unique_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",

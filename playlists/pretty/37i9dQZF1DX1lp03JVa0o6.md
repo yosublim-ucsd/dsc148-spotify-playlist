@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest Dance hits! Cover: Flume
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,130 likes - 95 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,180 likes - 95 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Beggin'](https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Beggin'](https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V) | 3:03 |
 | 2 | [We Are The People \- southstar Remix](https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [We Are The People \(southstar Remix\)](https://open.spotify.com/album/28E0EqraSPvGhUQ0jNkUvb) | 3:56 |
-| 3 | [Side Effects](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/2QsMZVsBumu6t90SB3yGrH) | [Side Effects](https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j) | 2:33 |
+| 3 | [Side Effects](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Side Effects](https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j) | 2:33 |
 | 4 | [MBAPPÉ \(Restricted & Sunset Bros Remix\) \[feat\. JAY1 & KAHUKX\]](https://open.spotify.com/track/63VejDiw2j8qvNIHWcAVwN) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic), [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Sunset Bros](https://open.spotify.com/artist/2LNuTYPmlmFYnti5EJQoKQ), [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [MBAPPÉ \(Restricted & Sunset Bros Remix\) \[feat\. JAY1 & KAHUKX\]](https://open.spotify.com/album/4FHgGUbR5QZxu31GYYqS3V) | 2:12 |
 | 5 | [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 |
 | 6 | [Chalk 1.3.3 \[2017 Export Wav\]](https://open.spotify.com/track/4cNVAgyBsekhIftQjrAdys) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Arrived Anxious, Left Bored](https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK) | 3:32 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 94 | [Sweet Goodbye](https://open.spotify.com/track/3s32YmunFgfXVWgLRKLdKm) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Sweet Goodbye](https://open.spotify.com/album/7mRbem2BY4VVK4fUUjQqzo) | 2:37 |
 | 95 | [Designer Love](https://open.spotify.com/track/3bK9O7F6SMk8hnOcRhxdjm) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [ALYSSA](https://open.spotify.com/artist/75ZLyp0dI6PGiynBQS4rJp) | [Designer Love](https://open.spotify.com/album/4FLy9OVf3KrxN9hjJJOfNN) | 2:54 |
 
-Snapshot ID: `MCxlNDE0OTI2M2E1MWM5OWRkOWYwZDg5YTg4ZDMwYTMwMWQ3Mjc0ZmRm`
+Snapshot ID: `MCxhMjg5NTZhYTg5MDk2MmI4ZDg1YTZjM2YxNTU1ZGQwOTlkM2ZkY2Ex`

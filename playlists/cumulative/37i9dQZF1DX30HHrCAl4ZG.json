@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All new indie rock. Featuring new music from Indigo De Souza.",
+  "description": "All new indie rock. Featuring new music from Krooked Kings",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -4785,6 +4785,24 @@
     },
     {
       "album": {
+        "name": "Doomsday",
+        "url": "https://open.spotify.com/album/02zEFZOxorMIOSEs1HIs19"
+      },
+      "artists": [
+        {
+          "name": "binki",
+          "url": "https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150610,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/3cfgcCQd4wcOzVHpODQbEv"
+    },
+    {
+      "album": {
         "name": "off the grid",
         "url": "https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56"
       },
@@ -6234,6 +6252,24 @@
       "duration_ms": 228693,
       "name": "For You",
       "url": "https://open.spotify.com/track/5lJOWTcuCJm34M2y9G04zK"
+    },
+    {
+      "album": {
+        "name": "Francine",
+        "url": "https://open.spotify.com/album/3qbOr1Vxke04WmPswO4hRv"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266226,
+      "name": "Francine",
+      "url": "https://open.spotify.com/track/5EkuuSlYhPOGw5u8fBZchr"
     },
     {
       "album": {
@@ -8536,6 +8572,24 @@
       "duration_ms": 261556,
       "name": "Imaginary Girl",
       "url": "https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy"
+    },
+    {
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/1akIArJX3OYAgf9xCcPVA1"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219023,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/1yc5LZHmb4HMkRNTWRmjSt"
     },
     {
       "album": {
@@ -12264,6 +12318,24 @@
       "duration_ms": 229920,
       "name": "poppin",
       "url": "https://open.spotify.com/track/7hHZuFMAyVj48DwxhZE9IK"
+    },
+    {
+      "album": {
+        "name": "Wake Up & It's Over",
+        "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227546,
+      "name": "Portrait of a Blank Slate",
+      "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
     },
     {
       "album": {
@@ -17369,6 +17441,24 @@
     },
     {
       "album": {
+        "name": "Winona",
+        "url": "https://open.spotify.com/album/2cwVHZrQ0eaaiUhCxW7glA"
+      },
+      "artists": [
+        {
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275560,
+      "name": "Winona",
+      "url": "https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ"
+    },
+    {
+      "album": {
         "name": "wish i was dead",
         "url": "https://open.spotify.com/album/3B4UmoO1zRScG8X8MSDHy4"
       },
@@ -17402,6 +17492,24 @@
       "duration_ms": 203033,
       "name": "WISH ME LUCK",
       "url": "https://open.spotify.com/track/3jOguPISqOdYbXW3AEfaIi"
+    },
+    {
+      "album": {
+        "name": "All Out of Good Days",
+        "url": "https://open.spotify.com/album/1SS5zZzp492w5EhFuYzVVl"
+      },
+      "artists": [
+        {
+          "name": "Krooked Kings",
+          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151837,
+      "name": "Wish We Could Be Friends",
+      "url": "https://open.spotify.com/track/70f0GBfQ0y6DZvC3jytr5R"
     },
     {
       "album": {

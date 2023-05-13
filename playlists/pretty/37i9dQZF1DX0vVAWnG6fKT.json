@@ -1,12 +1,12 @@
 {
   "description": "Classic Country from the Legends of the 1940's.  Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 140225,
+  "num_followers": 140383,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjBiNDZiZGYyMzA0NGM1NmQxMTIwYmY5MGI0MTAxYTcxODZkYmVh",
+  "snapshot_id": "MCwyNjg5Y2I4YjE0Y2Y3YjU5MTkyMmM4MjdkMjY5ZWVkOTZjM2U4MWI2",
   "tracks": [
     {
       "added_at": "2023-01-02 21:50:32",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "The Late Great - 14 Greatest Hits",
-        "url": "https://open.spotify.com/album/4H07VHStgecHswvKvQHFqo"
-      },
-      "artists": [
-        {
-          "name": "George Morgan",
-          "url": "https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ"
-        }
-      ],
-      "duration_ms": 153373,
-      "name": "Room Full of Roses",
-      "url": "https://open.spotify.com/track/3D9ZLNU7YPW6ijEnsF3hRA"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "The Essential Gene Autry",
         "url": "https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8"
       },
@@ -743,18 +727,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Classic Western Swing",
-        "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
+        "name": "The Late Great - 14 Greatest Hits",
+        "url": "https://open.spotify.com/album/4H07VHStgecHswvKvQHFqo"
       },
       "artists": [
         {
-          "name": "Bob Wills & His Texas Playboys",
-          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+          "name": "George Morgan",
+          "url": "https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ"
         }
       ],
-      "duration_ms": 140866,
-      "name": "Stay a Little Longer",
-      "url": "https://open.spotify.com/track/3T9kdYeXp2E242GvF1ZB9m"
+      "duration_ms": 153373,
+      "name": "Room Full of Roses",
+      "url": "https://open.spotify.com/track/3D9ZLNU7YPW6ijEnsF3hRA"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -775,6 +759,22 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
+        "name": "Classic Western Swing",
+        "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
+      },
+      "artists": [
+        {
+          "name": "Bob Wills & His Texas Playboys",
+          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+        }
+      ],
+      "duration_ms": 140866,
+      "name": "Stay a Little Longer",
+      "url": "https://open.spotify.com/track/3T9kdYeXp2E242GvF1ZB9m"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
         "name": "Capitol Collectors Series",
         "url": "https://open.spotify.com/album/5WNgZP1HqQyYgvmWCNgaPv"
       },
@@ -787,22 +787,6 @@
       "duration_ms": 183893,
       "name": "Mule Train",
       "url": "https://open.spotify.com/track/1gPJTFz0LBq7l9cZ9P7siy"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
-        "name": "The Columbia Singles Collection (1949-1964)",
-        "url": "https://open.spotify.com/album/482S22hQgNU0XOkZNODICb"
-      },
-      "artists": [
-        {
-          "name": "George Morgan",
-          "url": "https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ"
-        }
-      ],
-      "duration_ms": 172733,
-      "name": "Candy Kisses - 78 rpm Version",
-      "url": "https://open.spotify.com/track/4JJ1gdFvZVlnLW9QTKOaeO"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -839,6 +823,22 @@
       "duration_ms": 208066,
       "name": "Blue Yodel No. 4",
       "url": "https://open.spotify.com/track/0qkp5UK0HUwmsRfL8MICXK"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "The Columbia Singles Collection (1949-1964)",
+        "url": "https://open.spotify.com/album/482S22hQgNU0XOkZNODICb"
+      },
+      "artists": [
+        {
+          "name": "George Morgan",
+          "url": "https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ"
+        }
+      ],
+      "duration_ms": 172733,
+      "name": "Candy Kisses - 78 rpm Version",
+      "url": "https://open.spotify.com/track/4JJ1gdFvZVlnLW9QTKOaeO"
     },
     {
       "added_at": "2023-01-02 21:50:32",

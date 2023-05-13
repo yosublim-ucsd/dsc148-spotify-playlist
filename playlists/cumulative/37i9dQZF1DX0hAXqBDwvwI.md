@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! アニメシーンのロング&メガヒット曲をまとめて楽しもう。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-618 songs - 1 day 16 hr 48 min
+619 songs - 1 day 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Icy Ivy](https://open.spotify.com/track/2Cj2leKCQKM5WtaETbD21r) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [Icy Ivy](https://open.spotify.com/album/4kW2ZzZIhYVa8EWzGj9Fis) | 3:18 | 2022-06-03 | 2022-07-23 |
 | [ID](https://open.spotify.com/track/2TdfwkIHpCb0S8NYJVyr2X) | [Cidergirl](https://open.spotify.com/artist/3hprFQEXS7glX1Jxxwv9Dn) | [ID](https://open.spotify.com/album/17RZ0HdVPqFvVcZNQZfvkO) | 3:45 | 2022-06-03 | 2022-07-29 |
 | [IDENTITY](https://open.spotify.com/track/7lbZwJ9X5MZhelteWMxOah) | [ame\_no\_parade](https://open.spotify.com/artist/5KSkFct0RkJYwStW7FGt28) | [IDENTITY](https://open.spotify.com/album/1K8iiCfPzOgntxYJjfl6KD) | 3:10 | 2022-06-24 | 2022-06-26 |
-| [il vento d'oro](https://open.spotify.com/track/17VP4tofJ3evJbtY8Tk1Qi) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Golden Wind O.S.T vol.1 Overture](https://open.spotify.com/album/0SLGYonJPgxa7qRDxqtraX) | 4:55 | 2022-07-28 |  |
+| [il vento d'oro](https://open.spotify.com/track/17VP4tofJ3evJbtY8Tk1Qi) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Golden Wind O.S.T vol.1 Overture](https://open.spotify.com/album/0SLGYonJPgxa7qRDxqtraX) | 4:55 | 2022-07-28 | 2023-05-13 |
 | [In the Back Room](https://open.spotify.com/track/086iznqzaVOAmuYMYyjUpn) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [In the Back Room](https://open.spotify.com/album/3lr5rhG5M4hTvwQ5RzGLqw) | 3:26 | 2022-12-04 | 2023-02-08 |
 | [Into the blue's](https://open.spotify.com/track/3ATB5UCxOR0kUJ9PVB0QKk) | [ACCAMER](https://open.spotify.com/artist/6fl8KnCZzMYMHTklUPWlX2) | [Into the blue's](https://open.spotify.com/album/2aGDirzR8gziYiaJl8BCRd) | 3:49 | 2022-06-21 | 2022-06-25 |
 | [JASMINE](https://open.spotify.com/track/1gjq24OCVofhpXPEweF2WJ) | [Rinne Yoshida](https://open.spotify.com/artist/5gTFlmH6wrELPY1F9wjL4X) | [JASMINE / 25時](https://open.spotify.com/album/1qHKZTQdrx5hMwNO5FqSEa) | 3:22 | 2022-06-03 | 2022-07-08 |
@@ -173,6 +173,7 @@
 | [Koko de Iki wo Shite](https://open.spotify.com/track/7cPYSzsrl6imQkzeO1HZ9b) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Palette](https://open.spotify.com/album/5P6FOSW5vOyPue3gharY5S) | 3:35 | 2022-09-15 | 2022-10-19 |
 | [Kyouran Hey Kids!!](https://open.spotify.com/track/38kcwx5znepLWCIBID0Bwm) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [FIXION](https://open.spotify.com/album/7uy0IV2P1VxmeYcssedEq0) | 4:10 | 2022-07-28 |  |
 | [LEADER](https://open.spotify.com/track/7aL1ICSO4JYdRzQcxQ96lz) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [LEADER](https://open.spotify.com/album/25OW9AC6DkJlE2fD6uTLyn) | 4:05 | 2022-06-03 | 2022-07-11 |
+| [Let There Be Light Again](https://open.spotify.com/track/4Anip7bDkwKk4HacAIwvEl) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/2iuPnIdqfKsze3urSvl7XZ) | [Let There Be Light Again](https://open.spotify.com/album/6uQ4JRkPUIbk757knVVIZS) | 3:47 | 2023-05-12 |  |
 | [LEVEL](https://open.spotify.com/track/5KAGowqL2Rfmocrgh9cKjF) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo), [THE SIXTH LIE](https://open.spotify.com/artist/2sCc8pMRgv99AweDSrFFZt) | [LEVEL](https://open.spotify.com/album/0jGI7aVSs5TidcItBoiXD7) | 4:13 | 2022-06-03 | 2022-07-27 |
 | [Like Flames](https://open.spotify.com/track/4reAFBOJ56ZdM1g0oub5C8) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Like Flames](https://open.spotify.com/album/2jrPkXfpdLLhGCXyPJSCI8) | 4:10 | 2022-06-03 | 2022-07-27 |
 | [Long shot](https://open.spotify.com/track/2Uk204nzrdRZof1hfezO3q) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [TVアニメ「Re:ゼロから始める異世界生活」2nd season 後期オープニングテーマ「Long shot」](https://open.spotify.com/album/0Ew7a8j9vkH1n66LzMNsbE) | 4:15 | 2022-06-14 | 2022-07-22 |

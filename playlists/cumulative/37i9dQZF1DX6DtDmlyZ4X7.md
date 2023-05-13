@@ -4,7 +4,7 @@
 
 > Musik som hjälper dig att fokusera vid intensiva studier.
 
-582 songs - 1 day 1 hr 24 min
+583 songs - 1 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [La Cosa Migliore Che So](https://open.spotify.com/track/2ad6KC9V4jvAB73Z5nWrFF) | [Loreto Bianco](https://open.spotify.com/artist/7DH3PpYqclWL9RpXN4B2PC) | [La Cosa Migliore Che So](https://open.spotify.com/album/6Jd4loeXMsmKpbvxFPnfm2) | 3:14 | 2021-12-07 |  |
 | [Lacrimosa](https://open.spotify.com/track/5NI4ztzijs8sqoxlhqNleo) | [Lucas Vendrai](https://open.spotify.com/artist/5mo25h1sQIVjZ4gIgIK2Lm) | [Lacrimosa](https://open.spotify.com/album/46QupwR45OEVm0U7ZpyxxF) | 1:58 | 2021-12-07 | 2022-05-14 |
 | [Lady Ground](https://open.spotify.com/track/7f6YYO3XtJgWiddeVqnhI0) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Lady Ground](https://open.spotify.com/album/2yFKE5lcraojoSTsV7Jl0a) | 2:54 | 2021-12-07 |  |
+| [Laiski](https://open.spotify.com/track/6gZhFlpLE3Db3yvOI3lR4p) | [Taganema](https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d) | [Laiski](https://open.spotify.com/album/3sSuYj8MOCvxON4t84vdek) | 1:55 | 2023-05-03 |  |
 | [Lambay](https://open.spotify.com/track/4AfTf4LCOYOllXEHPgROVf) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Lambay](https://open.spotify.com/album/04ZM5v3dvvfsuROy3iT7D6) | 2:13 | 2021-12-07 |  |
 | [Landmannalaugar](https://open.spotify.com/track/7tEGou25bp3JObTEpfp2en) | [Oddur Klemenzson](https://open.spotify.com/artist/2rXVYffthMoPjCdmU2fzN1) | [Landmannalaugar](https://open.spotify.com/album/2hls5Cj9XC6jtQPBdyY4rL) | 2:13 | 2021-12-07 | 2022-05-16 |
 | [Lanes Mill](https://open.spotify.com/track/7oebNRU2rprgGdRg8nVo9a) | [Camille Laurent](https://open.spotify.com/artist/7abyHm5fBQV0OD8QJn2NOd) | [Kerala](https://open.spotify.com/album/5DQv0vgau8rwyWqioTZAaX) | 3:04 | 2021-12-07 | 2022-09-24 |
@@ -344,7 +345,7 @@
 | [Nascondiglio](https://open.spotify.com/track/3e8DQgRVImwkDYrJJEh9xO) | [Giovanna Petrini](https://open.spotify.com/artist/25Bpq4sqHbHT853VsYM9wb) | [Nascondiglio](https://open.spotify.com/album/0TRLxuQkDGaKoJEYOmCNMr) | 1:57 | 2022-12-22 |  |
 | [Nebelschleier](https://open.spotify.com/track/6GsRRJRItgJZSFT1USSH1A) | [Torsten Friedrich](https://open.spotify.com/artist/4iE9nQEjk0R2eebGwY5Uyj) | [Das Rosenblatt](https://open.spotify.com/album/3cn9ZaAr8dW2oBrBu898me) | 3:11 | 2022-02-01 |  |
 | [Never Give In](https://open.spotify.com/track/7GghRfjTGCxYDnYo0OVRM3) | [Irma Kantola](https://open.spotify.com/artist/7eP5EaPos8EeIsG7UJfEVP) | [Never Give In](https://open.spotify.com/album/43mYROp7H0H6Ynbi1zVbyY) | 3:05 | 2021-12-07 | 2022-09-16 |
-| [Never Unsaid](https://open.spotify.com/track/1zG58ldyABiNx05Brxkktd) | [Aleisha Millar](https://open.spotify.com/artist/2a2JENyvbHLDEeMCbAKjl4) | [Never Unsaid](https://open.spotify.com/album/0Nfqe5WLzyIhIULRpci5sP) | 2:17 | 2021-12-07 |  |
+| [Never Unsaid](https://open.spotify.com/track/1zG58ldyABiNx05Brxkktd) | [Aleisha Millar](https://open.spotify.com/artist/2a2JENyvbHLDEeMCbAKjl4) | [Never Unsaid](https://open.spotify.com/album/0Nfqe5WLzyIhIULRpci5sP) | 2:17 | 2021-12-07 | 2023-05-13 |
 | [Night Light](https://open.spotify.com/track/7LLLc3Gxg6zRm9lKtmuCGR) | [Jonathan Beaujean](https://open.spotify.com/artist/02L0LCjnSfGqoP3dBRNxei) | [Night Light](https://open.spotify.com/album/6NOESzKosiokfmEwXfZOnX) | 2:09 | 2021-12-07 |  |
 | [Night Solace](https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Night Solace](https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF) | 2:41 | 2022-03-01 |  |
 | [Nomae](https://open.spotify.com/track/3EhHWAEZpRI78OtJEPoabw) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Arctica](https://open.spotify.com/album/3BTmQFkuJ96ZlpeRNXerBd) | 3:09 | 2021-12-07 |  |

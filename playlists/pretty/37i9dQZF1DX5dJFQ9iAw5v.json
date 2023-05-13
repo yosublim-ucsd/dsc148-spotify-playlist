@@ -1,12 +1,12 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Roxana Amed.",
-  "num_followers": 30209,
+  "num_followers": 30216,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTUwYWQ5Yzc1NWE3YTRmNDYzYmUyMzI0NzQ1YzcxM2UxZDM5YTYx",
+  "snapshot_id": "MCw3M2RmOTg1M2JhNTAxMTExZDJmZDM0ZTA4ZGIyMGIyZGNjNzVmNGQ3",
   "tracks": [
     {
       "added_at": "2023-05-05 03:00:00",
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
         }
       ],
-      "duration_ms": 395117,
-      "name": "Chacafrik",
-      "url": "https://open.spotify.com/track/77bO2dZGQFPaGzFrCgp0dY"
+      "duration_ms": 468087,
+      "name": "Sol La, Al Sol",
+      "url": "https://open.spotify.com/track/22Iyd8cBIkbaJMPXBoxEzb"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
+        "name": "San Juan Live Sessions",
+        "url": "https://open.spotify.com/album/1ubJr6ptIPjunkPCrPIoJx"
+      },
+      "artists": [
+        {
+          "name": "Cande y Paulo",
+          "url": "https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1"
+        }
+      ],
+      "duration_ms": 145601,
+      "name": "Summertime - San Juan Live Sessions",
+      "url": "https://open.spotify.com/track/4XlEKFkjAggPIEwQWEtVMz"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
         "name": "Flor de piel",
         "url": "https://open.spotify.com/album/5PAtTXm3sZDzakXru1NHbu"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 155904,
       "name": "Flor de piel",
       "url": "https://open.spotify.com/track/2yl80UjeK76D1QE17hDDPv"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "San Juan Live Sessions",
-        "url": "https://open.spotify.com/album/1ubJr6ptIPjunkPCrPIoJx"
-      },
-      "artists": [
-        {
-          "name": "Cande y Paulo",
-          "url": "https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1"
-        }
-      ],
-      "duration_ms": 145601,
-      "name": "Summertime - San Juan Live Sessions",
-      "url": "https://open.spotify.com/track/4XlEKFkjAggPIEwQWEtVMz"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
         }
       ],
-      "duration_ms": 468087,
-      "name": "Sol La, Al Sol",
-      "url": "https://open.spotify.com/track/22Iyd8cBIkbaJMPXBoxEzb"
+      "duration_ms": 395117,
+      "name": "Chacafrik",
+      "url": "https://open.spotify.com/track/77bO2dZGQFPaGzFrCgp0dY"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -655,30 +655,18 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "De Este Lado",
-        "url": "https://open.spotify.com/album/1jChxnoLvKbJcLkf9Oku8G"
+        "name": "Piazzolla Plays Piazzolla",
+        "url": "https://open.spotify.com/album/2i0WUHuYFeVTCTY0JSmhpv"
       },
       "artists": [
         {
-          "name": "Juan Cruz De Urquiza",
-          "url": "https://open.spotify.com/artist/0nRwYzrk9wrf5ZIsvPuxwl"
-        },
-        {
-          "name": "Miguel Tarzia",
-          "url": "https://open.spotify.com/artist/5l8QeZti5fdN56GFbFHjF0"
-        },
-        {
-          "name": "Mariano Otero",
-          "url": "https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV"
-        },
-        {
-          "name": "Pipi Piazzolla",
-          "url": "https://open.spotify.com/artist/6vTHQ1JriYIqa3vWMFoI14"
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
         }
       ],
-      "duration_ms": 471146,
-      "name": "Promesas Sobre el Bidet",
-      "url": "https://open.spotify.com/track/10U3XS2qEsDX8YUErjgMeJ"
+      "duration_ms": 382989,
+      "name": "Lunfardo",
+      "url": "https://open.spotify.com/track/31YRQ4zys4YOJp4VgxeGWy"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -703,18 +691,30 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Piazzolla Plays Piazzolla",
-        "url": "https://open.spotify.com/album/2i0WUHuYFeVTCTY0JSmhpv"
+        "name": "De Este Lado",
+        "url": "https://open.spotify.com/album/1jChxnoLvKbJcLkf9Oku8G"
       },
       "artists": [
         {
-          "name": "Escalandrum",
-          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+          "name": "Juan Cruz De Urquiza",
+          "url": "https://open.spotify.com/artist/0nRwYzrk9wrf5ZIsvPuxwl"
+        },
+        {
+          "name": "Miguel Tarzia",
+          "url": "https://open.spotify.com/artist/5l8QeZti5fdN56GFbFHjF0"
+        },
+        {
+          "name": "Mariano Otero",
+          "url": "https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV"
+        },
+        {
+          "name": "Pipi Piazzolla",
+          "url": "https://open.spotify.com/artist/6vTHQ1JriYIqa3vWMFoI14"
         }
       ],
-      "duration_ms": 382989,
-      "name": "Lunfardo",
-      "url": "https://open.spotify.com/track/31YRQ4zys4YOJp4VgxeGWy"
+      "duration_ms": 471146,
+      "name": "Promesas Sobre el Bidet",
+      "url": "https://open.spotify.com/track/10U3XS2qEsDX8YUErjgMeJ"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -747,6 +747,22 @@
       "duration_ms": 280635,
       "name": "Pop",
       "url": "https://open.spotify.com/track/4c0rGPqFucB6I2OJS8XtpU"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "100",
+        "url": "https://open.spotify.com/album/3N2E5wcpICEkJpHMeI08u4"
+      },
+      "artists": [
+        {
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+        }
+      ],
+      "duration_ms": 402265,
+      "name": "Primavera Porte\u00f1a",
+      "url": "https://open.spotify.com/track/4kDEbag3hNbXV2A6GUcDYw"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -863,22 +879,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/3N2E5wcpICEkJpHMeI08u4"
-      },
-      "artists": [
-        {
-          "name": "Escalandrum",
-          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
-        }
-      ],
-      "duration_ms": 402265,
-      "name": "Primavera Porte\u00f1a",
-      "url": "https://open.spotify.com/track/4kDEbag3hNbXV2A6GUcDYw"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "Nude (En Vivo)",
         "url": "https://open.spotify.com/album/6EgEoC0cgQtzv6v7RC24cH"
       },
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
+        "name": "Studio 2",
+        "url": "https://open.spotify.com/album/4uBkzGNVkHVt5GXg12yKLt"
+      },
+      "artists": [
+        {
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+        }
+      ],
+      "duration_ms": 327520,
+      "name": "Acu\u00e1tico",
+      "url": "https://open.spotify.com/track/4gXsislzJBKC3iuX9Dc9e1"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
         "name": "Essence of Wes Montgomery (Live in Thelonious Club, Buenos Aires, Argentina)",
         "url": "https://open.spotify.com/album/2Dmf8Z3soN83btDViX5IQH"
       },
@@ -1019,22 +1035,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Studio 2",
-        "url": "https://open.spotify.com/album/4uBkzGNVkHVt5GXg12yKLt"
-      },
-      "artists": [
-        {
-          "name": "Escalandrum",
-          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
-        }
-      ],
-      "duration_ms": 327520,
-      "name": "Acu\u00e1tico",
-      "url": "https://open.spotify.com/track/4gXsislzJBKC3iuX9Dc9e1"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "Sesiones 2017-2020",
         "url": "https://open.spotify.com/album/17NlLQlimG217X7OALtTSy"
       },
@@ -1083,18 +1083,22 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Grabaciones In\u00e9ditas Vol. 1",
-        "url": "https://open.spotify.com/album/2EieDkdmv8W4ECnhEDX3vA"
+        "name": "Mensajes Secretos",
+        "url": "https://open.spotify.com/album/2FutkIdGZozf7lwp0PMk9g"
       },
       "artists": [
         {
-          "name": "Enrique \"Mono\" Villegas",
-          "url": "https://open.spotify.com/artist/5g70cDApbV4sLS0T3zCSP6"
+          "name": "Marta Bellomo",
+          "url": "https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm"
+        },
+        {
+          "name": "Alejandro Moro",
+          "url": "https://open.spotify.com/artist/0HPnoTmtj7B0nFxvNcLfo7"
         }
       ],
-      "duration_ms": 254120,
-      "name": "In a Middle Tone",
-      "url": "https://open.spotify.com/track/3SL3tKWBLcR0jb9QDBSqPu"
+      "duration_ms": 524134,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/79Wgtrmp428O3j5H4k4etr"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1115,6 +1119,22 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
+        "name": "Grabaciones In\u00e9ditas Vol. 1",
+        "url": "https://open.spotify.com/album/2EieDkdmv8W4ECnhEDX3vA"
+      },
+      "artists": [
+        {
+          "name": "Enrique \"Mono\" Villegas",
+          "url": "https://open.spotify.com/artist/5g70cDApbV4sLS0T3zCSP6"
+        }
+      ],
+      "duration_ms": 254120,
+      "name": "In a Middle Tone",
+      "url": "https://open.spotify.com/track/3SL3tKWBLcR0jb9QDBSqPu"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
         "name": "...Baby One More Time",
         "url": "https://open.spotify.com/album/6WeqZRTUp9w2M6sNV0Hw6M"
       },
@@ -1127,26 +1147,6 @@
       "duration_ms": 201500,
       "name": "...Baby One More Time",
       "url": "https://open.spotify.com/track/4rPDxqdzrNVf5Kjj8AngtC"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "Mensajes Secretos",
-        "url": "https://open.spotify.com/album/2FutkIdGZozf7lwp0PMk9g"
-      },
-      "artists": [
-        {
-          "name": "Marta Bellomo",
-          "url": "https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm"
-        },
-        {
-          "name": "Alejandro Moro",
-          "url": "https://open.spotify.com/artist/0HPnoTmtj7B0nFxvNcLfo7"
-        }
-      ],
-      "duration_ms": 524134,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/79Wgtrmp428O3j5H4k4etr"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
+        "name": "Inocencia Repetida",
+        "url": "https://open.spotify.com/album/1ovII6dFGZDpvYU47qu4fX"
+      },
+      "artists": [
+        {
+          "name": "Ignacio Montoya Carlotto",
+          "url": "https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK"
+        }
+      ],
+      "duration_ms": 157533,
+      "name": "Coplas de Luna Quieta",
+      "url": "https://open.spotify.com/track/6wehSI1xwaBBy4U3bUUwZs"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
         "name": "Polacos",
         "url": "https://open.spotify.com/album/3EbzOkNDvfYgvbT5xjqCmi"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 188773,
       "name": "Polacos",
       "url": "https://open.spotify.com/track/2BrNycAn6bLcTzhT0zanr7"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "Bye Bye Blackbird",
-        "url": "https://open.spotify.com/album/0R1VFMXxny6V8HAull4Y2v"
-      },
-      "artists": [
-        {
-          "name": "Hugo Lobo",
-          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
-        }
-      ],
-      "duration_ms": 188345,
-      "name": "Bye Bye Blackbird",
-      "url": "https://open.spotify.com/track/6vgRuIXsJCOhmwHqtaQk1C"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
+        "name": "Bye Bye Blackbird",
+        "url": "https://open.spotify.com/album/0R1VFMXxny6V8HAull4Y2v"
+      },
+      "artists": [
+        {
+          "name": "Hugo Lobo",
+          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
+        }
+      ],
+      "duration_ms": 188345,
+      "name": "Bye Bye Blackbird",
+      "url": "https://open.spotify.com/track/6vgRuIXsJCOhmwHqtaQk1C"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
         "name": "80 A\u00f1os - Jazztar\u00edaenbaterita",
         "url": "https://open.spotify.com/album/4VeDizEy0EEcVNoWVV9MRo"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 413595,
       "name": "Equinox",
       "url": "https://open.spotify.com/track/0dZPiN3FTuvYDJtFyFUdqQ"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "Inocencia Repetida",
-        "url": "https://open.spotify.com/album/1ovII6dFGZDpvYU47qu4fX"
-      },
-      "artists": [
-        {
-          "name": "Ignacio Montoya Carlotto",
-          "url": "https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK"
-        }
-      ],
-      "duration_ms": 157533,
-      "name": "Coplas de Luna Quieta",
-      "url": "https://open.spotify.com/track/6wehSI1xwaBBy4U3bUUwZs"
     }
   ],
   "unique_name": "Jazz Argentino",

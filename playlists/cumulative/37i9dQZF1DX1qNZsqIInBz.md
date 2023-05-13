@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-142 songs - 6 hr 26 min
+143 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Eyez On The Prize](https://open.spotify.com/track/4ewahlsQrOeZwSNZToFvRD) | [Tele.phonk](https://open.spotify.com/artist/7Fi1jHSJRaQfZpHArLW36Q) | [Eyez On The Prize](https://open.spotify.com/album/7eekajxZPv3c0lHDItaAUd) | 1:51 | 2023-05-05 |  |
 | [Faith](https://open.spotify.com/track/4XwbUt1ryz68nbLdBD9dqs) | [STXRZ](https://open.spotify.com/artist/64IEvdOG2d4FAHDR4pNYQ4) | [Faith](https://open.spotify.com/album/3q6Ulf0dRhKrLd5P3cwfYl) | 2:05 | 2022-10-10 |  |
 | [FANTASIA](https://open.spotify.com/track/5ZN7Ryh3gWfYGwn7zHmktL) | [OXXXIDE](https://open.spotify.com/artist/3pAEadIxg8RlAQoDmpNqKS) | [FANTASIA](https://open.spotify.com/album/4I5ybDugkUxiJd2D5fwwTr) | 2:21 | 2023-03-10 |  |
-| [Farewell](https://open.spotify.com/track/3QXLbx8kUNmcbWd1XhNJD4) | [ZXNTURY](https://open.spotify.com/artist/4ACYlsx2wt3mQ2syiTo6AK), [JXXPSINNXR](https://open.spotify.com/artist/4RvUX1Yg2s0aCkBPYCsgP7), [FXLLEN WXRRIOR](https://open.spotify.com/artist/4O4tXxjzXrk06o08zTBVAL) | [Farewell](https://open.spotify.com/album/4i7eb70VPiIHWU7EEDNmIn) | 2:31 | 2022-10-10 |  |
+| [Farewell](https://open.spotify.com/track/3QXLbx8kUNmcbWd1XhNJD4) | [ZXNTURY](https://open.spotify.com/artist/4ACYlsx2wt3mQ2syiTo6AK), [JXXPSINNXR](https://open.spotify.com/artist/4RvUX1Yg2s0aCkBPYCsgP7), [FXLLEN WXRRIOR](https://open.spotify.com/artist/4O4tXxjzXrk06o08zTBVAL) | [Farewell](https://open.spotify.com/album/4i7eb70VPiIHWU7EEDNmIn) | 2:31 | 2022-10-10 | 2023-05-13 |
+| [Farewell](https://open.spotify.com/track/3S9cyna1oXy31j65808QkI) | [ZXNTURY](https://open.spotify.com/artist/4ACYlsx2wt3mQ2syiTo6AK), [JXXPSINNXR](https://open.spotify.com/artist/4RvUX1Yg2s0aCkBPYCsgP7), [FXLLEN WXRRIOR](https://open.spotify.com/artist/4O4tXxjzXrk06o08zTBVAL) | [Farewell](https://open.spotify.com/album/5TpcZRePiWhdEqoWIiwM93) | 2:31 | 2023-03-10 |  |
 | [FIREFLIES](https://open.spotify.com/track/3om71PaqkmHXuxQ5d3Hxjk) | [CYREX](https://open.spotify.com/artist/1NspLfgAsucc39MeTipXNy), [Steveruu](https://open.spotify.com/artist/4NOFcRCgjvnRy8nKVGUM0L) | [FIREFLIES](https://open.spotify.com/album/5t94V0MZ61yjI0lt1sJUcP) | 2:43 | 2022-12-30 |  |
 | [flashback](https://open.spotify.com/track/6LK0dja7B2ibVgwZhVDvTw) | [Eyez Hate U](https://open.spotify.com/artist/0dIUq8UqtoJF5T7Lt3MxBT) | [flashback](https://open.spotify.com/album/7ExcQWKeWVTTA7UPQh3lXn) | 3:16 | 2022-10-10 |  |
 | [Forever In My Mind](https://open.spotify.com/track/5DlRPItm6jsKFewssbaJUB) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [svlient](https://open.spotify.com/artist/4RnM2qExKVcy2IMQBa3a52) | [Forever In My Mind](https://open.spotify.com/album/4BXsCUsZBmrko4vFWMrSRP) | 3:01 | 2023-03-10 |  |

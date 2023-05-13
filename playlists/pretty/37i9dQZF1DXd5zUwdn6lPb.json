@@ -1,12 +1,12 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 255357,
+  "num_followers": 255489,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTU1MGEzYjJkMGQ1YzE2YjI4OTllZGEwZDY5N2RhNjViNDYyNGZl",
+  "snapshot_id": "MCxlYTRlMWUzZTc4YTIwN2I3NTY4Zjc5ZDM3MjZhZjI4ZWMyYzNjMjg1",
   "tracks": [
     {
       "added_at": "2023-03-03 13:28:12",
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/2ZrF3UfwS50CKE8jQQVjWj"
     },
     {
-      "added_at": "2023-05-12 00:41:38",
+      "added_at": "2023-05-13 00:45:07",
       "album": {
         "name": "C. Schumann: 3 Romances, Op. 22: No. 1, Andante molto (Arr. Knoth for Cello and Piano)",
         "url": "https://open.spotify.com/album/3q0ogG562Nocti3uDkZmAP"
@@ -531,18 +531,26 @@
     {
       "added_at": "2023-03-03 13:28:12",
       "album": {
-        "name": "Harpa Sessions",
-        "url": "https://open.spotify.com/album/3Zqumgj3y0lStaZNyZJgCk"
+        "name": "Schubert: Fantasie in F Minor and Other Piano Duets",
+        "url": "https://open.spotify.com/album/2ibKzWy888LJRqRvwpAd1x"
       },
       "artists": [
         {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Andreas Staier",
+          "url": "https://open.spotify.com/artist/3IOUX2zimWLnlS0kRyJQJq"
+        },
+        {
+          "name": "Alexander Melnikov",
+          "url": "https://open.spotify.com/artist/7vk7vgVoYDiZ4Kngc3Jgta"
         }
       ],
-      "duration_ms": 166250,
-      "name": "Memory - Harpa Sessions",
-      "url": "https://open.spotify.com/track/5IdvZgQokqrRjdBZnXwpaM"
+      "duration_ms": 123906,
+      "name": "Variations on an Original Theme in A-Flat Major, D. 813: VI. Variation V",
+      "url": "https://open.spotify.com/track/2PNQn586IZGtwOAKwtEFBn"
     },
     {
       "added_at": "2023-03-03 13:28:12",
@@ -567,26 +575,18 @@
     {
       "added_at": "2023-03-03 13:28:12",
       "album": {
-        "name": "Schubert: Fantasie in F Minor and Other Piano Duets",
-        "url": "https://open.spotify.com/album/2ibKzWy888LJRqRvwpAd1x"
+        "name": "Harpa Sessions",
+        "url": "https://open.spotify.com/album/3Zqumgj3y0lStaZNyZJgCk"
       },
       "artists": [
         {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Andreas Staier",
-          "url": "https://open.spotify.com/artist/3IOUX2zimWLnlS0kRyJQJq"
-        },
-        {
-          "name": "Alexander Melnikov",
-          "url": "https://open.spotify.com/artist/7vk7vgVoYDiZ4Kngc3Jgta"
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 123906,
-      "name": "Variations on an Original Theme in A-Flat Major, D. 813: VI. Variation V",
-      "url": "https://open.spotify.com/track/2PNQn586IZGtwOAKwtEFBn"
+      "duration_ms": 166250,
+      "name": "Memory - Harpa Sessions",
+      "url": "https://open.spotify.com/track/5IdvZgQokqrRjdBZnXwpaM"
     },
     {
       "added_at": "2023-03-03 13:28:12",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2023-03-03 13:28:12",
       "album": {
-        "name": "Schumann: Album for the Young",
-        "url": "https://open.spotify.com/album/0zAGryVqIFExsM17ayKDQr"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Vladimir Feltsman",
-          "url": "https://open.spotify.com/artist/2YU2DA6yZZ0pmcR4utb3TM"
-        }
-      ],
-      "duration_ms": 76746,
-      "name": "Album for the Young, Op. 68: 6. Armes Waisenkind",
-      "url": "https://open.spotify.com/track/1jrCgWRvMGiDYUKgXs99Q4"
-    },
-    {
-      "added_at": "2023-03-03 13:28:12",
-      "album": {
         "name": "Early One Morning",
         "url": "https://open.spotify.com/album/4fYC3U6IjW0DrxgR06hWqe"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 78066,
       "name": "Kesaillan idylli (Summer Night's Idyll) , Op. 16, No. 2 (arr. J. Panula)",
       "url": "https://open.spotify.com/track/2Y9DRm38cPNvXQn1sJ8Tnw"
+    },
+    {
+      "added_at": "2023-03-03 13:28:12",
+      "album": {
+        "name": "Schumann: Album for the Young",
+        "url": "https://open.spotify.com/album/0zAGryVqIFExsM17ayKDQr"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Vladimir Feltsman",
+          "url": "https://open.spotify.com/artist/2YU2DA6yZZ0pmcR4utb3TM"
+        }
+      ],
+      "duration_ms": 76746,
+      "name": "Album for the Young, Op. 68: 6. Armes Waisenkind",
+      "url": "https://open.spotify.com/track/1jrCgWRvMGiDYUKgXs99Q4"
     },
     {
       "added_at": "2023-03-03 13:28:12",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2023-03-03 13:28:12",
       "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
-        },
-        {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
-        }
-      ],
-      "duration_ms": 156233,
-      "name": "Le Rossignol-en-Amour: 14\u00e8me ordre, 3\u00e8me livre",
-      "url": "https://open.spotify.com/track/2UOsrF7Ihl6nxNYU8wMhLM"
-    },
-    {
-      "added_at": "2023-03-03 13:28:12",
-      "album": {
         "name": "Mendelssohn: Piano Works",
         "url": "https://open.spotify.com/album/1cmJVWdLSHChbvNcuMtl55"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 253920,
       "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
       "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
+    },
+    {
+      "added_at": "2023-03-03 13:28:12",
+      "album": {
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+        }
+      ],
+      "duration_ms": 156233,
+      "name": "Le Rossignol-en-Amour: 14\u00e8me ordre, 3\u00e8me livre",
+      "url": "https://open.spotify.com/track/2UOsrF7Ihl6nxNYU8wMhLM"
     },
     {
       "added_at": "2023-03-03 13:28:12",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2023-03-03 13:28:12",
       "album": {
-        "name": "Satie: Gymnop\u00e9dies; Gnossiennes; Pi\u00e8ces froides; Nocturnes; Sonatine bureaucratique",
-        "url": "https://open.spotify.com/album/44PnboL62pJpHZdBvBA2eS"
-      },
-      "artists": [
-        {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
-        },
-        {
-          "name": "Bruno Fontaine",
-          "url": "https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp"
-        }
-      ],
-      "duration_ms": 106320,
-      "name": "Pi\u00e8ces froides: II. Airs \u00e0 faire fuir (Modestement)",
-      "url": "https://open.spotify.com/track/3hUepKDdsvTQ3tr8LU4Lwq"
-    },
-    {
-      "added_at": "2023-03-03 13:28:12",
-      "album": {
         "name": "Beethoven: Piano Sonatas, Vol. 7",
         "url": "https://open.spotify.com/album/0Cquzn7E5wAEmCHjbPO0f6"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 180200,
       "name": "Piano Sonata No.20 in G Major, Op. 49 No.2: II. Tempo di Menuetto",
       "url": "https://open.spotify.com/track/688T7aVGomCvoPqH4YL9yc"
+    },
+    {
+      "added_at": "2023-03-03 13:28:12",
+      "album": {
+        "name": "Satie: Gymnop\u00e9dies; Gnossiennes; Pi\u00e8ces froides; Nocturnes; Sonatine bureaucratique",
+        "url": "https://open.spotify.com/album/44PnboL62pJpHZdBvBA2eS"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Bruno Fontaine",
+          "url": "https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp"
+        }
+      ],
+      "duration_ms": 106320,
+      "name": "Pi\u00e8ces froides: II. Airs \u00e0 faire fuir (Modestement)",
+      "url": "https://open.spotify.com/track/3hUepKDdsvTQ3tr8LU4Lwq"
     },
     {
       "added_at": "2023-03-03 13:28:12",
@@ -1647,8 +1647,8 @@
     {
       "added_at": "2023-03-03 13:28:12",
       "album": {
-        "name": "J.S. Bach: Partitas Nos. 3-4, BWV 827-828",
-        "url": "https://open.spotify.com/album/19p19pPECnHDX3mtuecf97"
+        "name": "Bach: Inventions & Sinfonias",
+        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
       },
       "artists": [
         {
@@ -1656,13 +1656,13 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Wolfgang R\u00fcbsam",
-          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+          "name": "Simone Dinnerstein",
+          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
         }
       ],
-      "duration_ms": 233920,
-      "name": "Partita No. 3 In A Minor, BWV 827 : I. Fantasia",
-      "url": "https://open.spotify.com/track/2rwutsPWAKDybfbVuBRC4L"
+      "duration_ms": 88573,
+      "name": "Invention No. 1 in C Major, BWV 772",
+      "url": "https://open.spotify.com/track/3pfdjnHlyKoLd6UYYrifWs"
     },
     {
       "added_at": "2023-03-03 13:28:12",
@@ -1759,8 +1759,8 @@
     {
       "added_at": "2023-03-03 13:28:12",
       "album": {
-        "name": "Bach: Inventions & Sinfonias",
-        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
+        "name": "J.S. Bach: Partitas Nos. 3-4, BWV 827-828",
+        "url": "https://open.spotify.com/album/19p19pPECnHDX3mtuecf97"
       },
       "artists": [
         {
@@ -1768,13 +1768,33 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Simone Dinnerstein",
-          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
         }
       ],
-      "duration_ms": 88573,
-      "name": "Invention No. 1 in C Major, BWV 772",
-      "url": "https://open.spotify.com/track/3pfdjnHlyKoLd6UYYrifWs"
+      "duration_ms": 233920,
+      "name": "Partita No. 3 In A Minor, BWV 827 : I. Fantasia",
+      "url": "https://open.spotify.com/track/2rwutsPWAKDybfbVuBRC4L"
+    },
+    {
+      "added_at": "2023-03-03 13:28:12",
+      "album": {
+        "name": "Christmas Carols",
+        "url": "https://open.spotify.com/album/4xDKiLk0OUJw4QFBWL4L03"
+      },
+      "artists": [
+        {
+          "name": "Marc-Antoine Charpentier",
+          "url": "https://open.spotify.com/artist/5OvQ8g54fWhffM2x8eCc6s"
+        },
+        {
+          "name": "Andrew Parrott",
+          "url": "https://open.spotify.com/artist/3XHSTHtChESFEiOw1LqKuM"
+        }
+      ],
+      "duration_ms": 69693,
+      "name": "Canticum in nativitatem Domini, 'Frigidae noctis umbra': Marche",
+      "url": "https://open.spotify.com/track/1XwYcsWCKFocYLi7n5VJYd"
     },
     {
       "added_at": "2023-03-03 13:28:12",
@@ -1799,26 +1819,6 @@
       "duration_ms": 158000,
       "name": "Overtures For 2 Horns, 2 Oboes And Strings / Overture No. 2 In A: 2. Andante",
       "url": "https://open.spotify.com/track/4WxImfB2vIXWCibwyRQgql"
-    },
-    {
-      "added_at": "2023-03-03 13:28:12",
-      "album": {
-        "name": "Christmas Carols",
-        "url": "https://open.spotify.com/album/4xDKiLk0OUJw4QFBWL4L03"
-      },
-      "artists": [
-        {
-          "name": "Marc-Antoine Charpentier",
-          "url": "https://open.spotify.com/artist/5OvQ8g54fWhffM2x8eCc6s"
-        },
-        {
-          "name": "Andrew Parrott",
-          "url": "https://open.spotify.com/artist/3XHSTHtChESFEiOw1LqKuM"
-        }
-      ],
-      "duration_ms": 69693,
-      "name": "Canticum in nativitatem Domini, 'Frigidae noctis umbra': Marche",
-      "url": "https://open.spotify.com/track/1XwYcsWCKFocYLi7n5VJYd"
     },
     {
       "added_at": "2023-03-03 13:28:12",

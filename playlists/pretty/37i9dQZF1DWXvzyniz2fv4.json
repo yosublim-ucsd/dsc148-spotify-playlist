@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 147365,
+  "num_followers": 147387,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTQ1MWRiMTc0MTZlMjY5MDZmNDIzYmVjZWFlNjExYmJjMjMwMmFi",
+  "snapshot_id": "MCxmZjFkMDA4MTRiNTA4MmZkZDk0ZjQxODY3ZGRkYjBjODdlZDQ2YWFj",
   "tracks": [
     {
       "added_at": "2023-04-28 03:01:00",
@@ -379,26 +379,6 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "Tudo de bom",
-        "url": "https://open.spotify.com/album/7bZLDpIUpjrHPehJUqRXyO"
-      },
-      "artists": [
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 164760,
-      "name": "Tudo de bom",
-      "url": "https://open.spotify.com/track/3YqLyRFwjGuPBT7EHoyQH7"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
         "name": "Sou F\u00e3",
         "url": "https://open.spotify.com/album/7xFfnMWxvM5VwUxF0Nk1p7"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 224233,
       "name": "Sou F\u00e3",
       "url": "https://open.spotify.com/track/4cCXyCUPg9FFidRr4lWJFl"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
+        "name": "Tudo de bom",
+        "url": "https://open.spotify.com/album/7bZLDpIUpjrHPehJUqRXyO"
+      },
+      "artists": [
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 164760,
+      "name": "Tudo de bom",
+      "url": "https://open.spotify.com/track/3YqLyRFwjGuPBT7EHoyQH7"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
+        "name": "Doses",
+        "url": "https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd"
+      },
+      "artists": [
+        {
+          "name": "K.E",
+          "url": "https://open.spotify.com/artist/1bxL9qRsUIjE58sHjj9FzI"
+        }
+      ],
+      "duration_ms": 206210,
+      "name": "Doses",
+      "url": "https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
         "name": "\u00c9 Voc\u00ea",
         "url": "https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 197067,
       "name": "\u00c9 Voc\u00ea",
       "url": "https://open.spotify.com/track/1e75Ro02st0st8uA2hsUxl"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
-        "name": "Doses",
-        "url": "https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd"
-      },
-      "artists": [
-        {
-          "name": "K.E",
-          "url": "https://open.spotify.com/artist/1bxL9qRsUIjE58sHjj9FzI"
-        }
-      ],
-      "duration_ms": 206210,
-      "name": "Doses",
-      "url": "https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "Pelo Mundo",
-        "url": "https://open.spotify.com/album/3CBgeU3PHAYf1Yai40dUDI"
-      },
-      "artists": [
-        {
-          "name": "CT",
-          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
-        },
-        {
-          "name": "Jef Rodriguez",
-          "url": "https://open.spotify.com/artist/2W964lXNPqsQoUu1xzEKNo"
-        }
-      ],
-      "duration_ms": 166865,
-      "name": "Pelo Mundo",
-      "url": "https://open.spotify.com/track/6Gv2AXzjxhlTYKyb0cznEF"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
         "name": "Jeito Bom #2",
         "url": "https://open.spotify.com/album/66QSLm3YXD0m3NFhIlk03Z"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 209378,
       "name": "Jeito Bom #2",
       "url": "https://open.spotify.com/track/4eCqCBFrINfSySeSQyXsEs"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
+        "name": "Pelo Mundo",
+        "url": "https://open.spotify.com/album/3CBgeU3PHAYf1Yai40dUDI"
+      },
+      "artists": [
+        {
+          "name": "CT",
+          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
+        },
+        {
+          "name": "Jef Rodriguez",
+          "url": "https://open.spotify.com/artist/2W964lXNPqsQoUu1xzEKNo"
+        }
+      ],
+      "duration_ms": 166865,
+      "name": "Pelo Mundo",
+      "url": "https://open.spotify.com/track/6Gv2AXzjxhlTYKyb0cznEF"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -1439,30 +1439,6 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "V\u00e1rios Planos",
-        "url": "https://open.spotify.com/album/48gdIpMmEfBWmJXOAQAazI"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Hila Campelo",
-          "url": "https://open.spotify.com/artist/5ekmhzyylAHmiQrzCS58vf"
-        },
-        {
-          "name": "Thebosh",
-          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
-        }
-      ],
-      "duration_ms": 180705,
-      "name": "V\u00e1rios Planos",
-      "url": "https://open.spotify.com/track/4p7fGgYN66OANZYwLjubv9"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
         "name": "Meia Hora",
         "url": "https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV"
       },
@@ -1483,6 +1459,30 @@
       "duration_ms": 197142,
       "name": "Meia Hora",
       "url": "https://open.spotify.com/track/44CISsYXSoA1BYfLxe7vJZ"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
+        "name": "V\u00e1rios Planos",
+        "url": "https://open.spotify.com/album/48gdIpMmEfBWmJXOAQAazI"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Hila Campelo",
+          "url": "https://open.spotify.com/artist/5ekmhzyylAHmiQrzCS58vf"
+        },
+        {
+          "name": "Thebosh",
+          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
+        }
+      ],
+      "duration_ms": 180705,
+      "name": "V\u00e1rios Planos",
+      "url": "https://open.spotify.com/track/4p7fGgYN66OANZYwLjubv9"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -1559,6 +1559,30 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
+        "name": "Voe",
+        "url": "https://open.spotify.com/album/19QEAyEf7chXx2vpyKOoGs"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        },
+        {
+          "name": "JnrBeats",
+          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Voe",
+      "url": "https://open.spotify.com/track/3QRRlJmJbIlBi3i4YzLgvc"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
         "name": "Lance Casual",
         "url": "https://open.spotify.com/album/6EuxD9uS7jM4bdSG0OBgXi"
       },
@@ -1607,30 +1631,6 @@
       "duration_ms": 139097,
       "name": "27 Dias",
       "url": "https://open.spotify.com/track/1H72zdqyZ4BDjqtgtHm4Z6"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
-        "name": "Voe",
-        "url": "https://open.spotify.com/album/19QEAyEf7chXx2vpyKOoGs"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        },
-        {
-          "name": "JnrBeats",
-          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Voe",
-      "url": "https://open.spotify.com/track/3QRRlJmJbIlBi3i4YzLgvc"
     }
   ],
   "unique_name": "Resenha na Praia",

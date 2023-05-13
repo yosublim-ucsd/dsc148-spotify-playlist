@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,934 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,931 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/track/5b03vF7Qyc70kDJHiQZ8L7) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [髙橋芽以](https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf) | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/album/7ridH3ntXiiWfC2jA6uqb3) | 4:43 |
+| 1 | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/track/1fHXLiqPG6su57eAlbnjVO) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [髙橋芽以](https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf) | [FINE LINE](https://open.spotify.com/album/37XJRNnSBngM8e8Ejp3oQ7) | 4:43 |
 | 2 | [入れ歯](https://open.spotify.com/track/04Ik08oAXg3nPNP4yrw8IR) | [xiangyu](https://open.spotify.com/artist/4YHFvbGOXo06pcFXOQszkB), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [入れ歯](https://open.spotify.com/album/6Bd0XeFFytG5ilK1ZgkeSC) | 2:30 |
 | 3 | [fumble \(feat\. piri\)](https://open.spotify.com/track/1vyzpZ8td4h4QNpuATl3ZX) | [Sudley](https://open.spotify.com/artist/56BZYfbCbGZfo1EZt3XYqn), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [fumble \(feat\. piri\)](https://open.spotify.com/album/5hscifRFV9IXLm2mZ27fSH) | 2:54 |
 | 4 | [Co\-Star](https://open.spotify.com/track/2rYu4zr0jXGWAHmNdpQYsl) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Co\-Star](https://open.spotify.com/album/0FLajXxca41VLTunahQo9s) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 49 | [Musaboru](https://open.spotify.com/track/3brYbbSuxEvTahx41dJ1Vn) | [mayu](https://open.spotify.com/artist/13UpT9Gex05qV9ukq0e7RO) | [Musaboru / Colorful](https://open.spotify.com/album/5wQvP75573asL61ZwpL3mw) | 4:26 |
 | 50 | [A Full Moon in the Sky Tonight](https://open.spotify.com/track/2HqqxhoZRN9BVRgntTEbwx) | [Ayatake Ezaki](https://open.spotify.com/artist/30XTStA4lExo4PotWkoOQT), [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [A Full Moon in the Sky Tonight](https://open.spotify.com/album/3LPknvHeKAF5Pbx2n1inFU) | 5:49 |
 
-Snapshot ID: `MCw1OTZhZWEwYjI0N2I5YjIwNWU3OTFmOWQ2OWRhMDgzYjJmNDRmNjIw`
+Snapshot ID: `MCwxZjIyYzAyYzhkNTk5NjM2MzMwZGZmYmJjYmE3NWJmOGJkYmE2MGQ4`

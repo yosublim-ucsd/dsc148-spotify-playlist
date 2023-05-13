@@ -4,7 +4,7 @@
 
 > Het beste van meer dan 50 jaar Pinkpop!
 
-507 songs - 1 day 10 hr 34 min
+508 songs - 1 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,8 @@
 | [Everything Now](https://open.spotify.com/track/7KsZHCfOitA5V9oQYVdltG) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Everything Now](https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr) | 5:03 | 2019-03-12 |  |
 | [Exploring the Blue](https://open.spotify.com/track/2PXbSyLoEti71VDLKNpfHv) | [Luka Bloom](https://open.spotify.com/artist/39E69agNUFWOZEzO24bjpo) | [The Acoustic Motorbike](https://open.spotify.com/album/24R2zV1ZUvrmoq5N4H61C7) | 4:01 | 2019-03-11 |  |
 | [Fallin'](https://open.spotify.com/track/5H1KBkH6YC1qo8RXlLDeuw) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Judgement Night: Music From The Motion Picture](https://open.spotify.com/album/1qwrbuNLtDcuj2myhuESlh) | 4:25 | 2019-03-11 |  |
-| [Farewell To The Fairground](https://open.spotify.com/track/09v3dFgd3YwrD0U5gkNaTg) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [To Lose My Life ...](https://open.spotify.com/album/1ySdrRPZa9ZRvlcUoGv8UE) | 4:16 | 2019-03-11 |  |
+| [Farewell To The Fairground](https://open.spotify.com/track/09v3dFgd3YwrD0U5gkNaTg) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [To Lose My Life ...](https://open.spotify.com/album/1ySdrRPZa9ZRvlcUoGv8UE) | 4:16 | 2019-03-11 | 2023-05-13 |
+| [Farewell To The Fairground](https://open.spotify.com/track/4wCsnvMyDboBxSDgipm2z0) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [To Lose My Life..\. \(Bonus remix version\)](https://open.spotify.com/album/4A8HMvPUKHOxvTlsrPeNKh) | 4:16 | 2019-03-11 |  |
 | [Figure It Out](https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG) | 3:03 | 2022-03-03 |  |
 | [Fire Water Burn](https://open.spotify.com/track/7FkyQsWH9mmxoYLCNj4f8y) | [Bloodhound Gang](https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh) | [One Fierce Beer Coaster](https://open.spotify.com/album/12Vg9jAQ2maGpRMY1Lqm9f) | 4:51 | 2019-03-11 |  |
 | [First of the Gang to Die](https://open.spotify.com/track/0bWKniFVup1UYgoZww89Vp) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [You Are the Quarry](https://open.spotify.com/album/3AOI0WbFQWOvgRZQrMPGXG) | 3:38 | 2019-03-11 |  |

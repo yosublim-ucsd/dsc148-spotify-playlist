@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvHBEQLnV1N.md) - [plain]
 
 > Get excited with these festive favourites alongside some of the newest holiday releases.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,029,539 likes - 62 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,029,470 likes - 62 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvHBEQLnV1N.md) - [plain]
 | 15 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/2QpN1ZVw8eJO5f7WcvUA1k) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Christmas Album](https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD) | 2:24 |
 | 16 | [Christmas Tree Farm \(Old Timey Version\)](https://open.spotify.com/track/7r7j12XctfJqZWXsy1Zq9L) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Christmas Tree Farm \(Old Timey Version\)](https://open.spotify.com/album/5f4rbgZJhYp4hgswKri00b) | 3:52 |
 | 17 | [Santa, Can’t You Hear Me](https://open.spotify.com/track/2O3MQ6H3gjrIWDcpeTrikT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 4:02 |
-| 18 | [Step Into Christmas](https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration / Super Deluxe\)](https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN) | 4:32 |
+| 18 | [Step Into Christmas](https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 4:32 |
 | 19 | [Santa Baby](https://open.spotify.com/track/0cM5URUqqQTpJWonmdzF1J) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [A Kylie Christmas](https://open.spotify.com/album/0D0L0pzNy8gu9d1jXbridR) | 3:22 |
 | 20 | [Mistletoe](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:02 |
 | 21 | [Christmas Drillings](https://open.spotify.com/track/7oD6QZsaK3lrMWsmJnvuO0) | [Sidemen](https://open.spotify.com/artist/3cz1YSCXv6hjifHO6bYLLH) | [Christmas Drillings](https://open.spotify.com/album/0CBwRbpR7nrqLubnx5CjNo) | 3:12 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvHBEQLnV1N.md) - [plain]
 | 61 | [I Need You Christmas](https://open.spotify.com/track/0viGbbEJ9xV6qNJsTaXruz) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [I Need You Christmas](https://open.spotify.com/album/6ag1TA7jYSh8NjFtBL9bFR) | 3:26 |
 | 62 | [It's Not Christmas Till Somebody Cries](https://open.spotify.com/track/18J9Wt6fBBFjkQciPsxa3g) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [It's Not Christmas Till Somebody Cries](https://open.spotify.com/album/1kmXMD3SJfTEt4NmrSKRhe) | 2:52 |
 
-Snapshot ID: `MCxlNDY0OTRmZDI3MTJkNDEyOTJjZjQ3YThlMzkxMWEzYzUxNDhiNjdi`
+Snapshot ID: `MCxhZGI5MmZlMTk3MTFhNDcwNWNiZjU4OTZmMTQ3OGM5ZDM0MmExYWZm`

@@ -338,7 +338,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 173863,
       "name": "Bagdad",
       "url": "https://open.spotify.com/track/0y4x1MhfyZ41KvoLwWP3PY"
@@ -456,7 +456,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 134638,
       "name": "Bellaqueo",
       "url": "https://open.spotify.com/track/3JGq5tQ2w9L9uoogNjc1VI"
@@ -726,7 +726,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 180868,
       "name": "CHELA VENETA",
       "url": "https://open.spotify.com/track/5sL6dXdOThCLWGeC1BBskr"
@@ -870,7 +870,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-04",
+      "date_removed": null,
       "duration_ms": 177506,
       "name": "Contra la Pared",
       "url": "https://open.spotify.com/track/1AOJGa2b29LokEYqaaHWyg"
@@ -954,6 +954,32 @@
       "duration_ms": 192424,
       "name": "Cumbiatronik",
       "url": "https://open.spotify.com/track/1PooFwkjYMobQx9qCozXhb"
+    },
+    {
+      "album": {
+        "name": "C\u00f3mo Est\u00e1s?",
+        "url": "https://open.spotify.com/album/2hzx2Kc67lSxfWvJkc9Qir"
+      },
+      "artists": [
+        {
+          "name": "LOOJAN",
+          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+        },
+        {
+          "name": "Olmedo MX",
+          "url": "https://open.spotify.com/artist/4azuZkJ588RV7MEJME6W1L"
+        },
+        {
+          "name": "Josa El Menor",
+          "url": "https://open.spotify.com/artist/2G2JiOdyGfRsEWqFs4hKUo"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197052,
+      "name": "C\u00f3mo Est\u00e1s?",
+      "url": "https://open.spotify.com/track/2WqJn2d7gK2kergnqtyLyy"
     },
     {
       "album": {
@@ -1208,7 +1234,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "El Baile De Perrito",
       "url": "https://open.spotify.com/track/6dAyTRWPA1AWMNwHOxKmn5"
@@ -1303,6 +1329,28 @@
     },
     {
       "album": {
+        "name": "El Trenecito Chu-Chu",
+        "url": "https://open.spotify.com/album/6kzfXY7y9qpyvbiBsqDXlP"
+      },
+      "artists": [
+        {
+          "name": "Daario L' Ogrrro",
+          "url": "https://open.spotify.com/artist/6cV15lcXzeT0qhFOW2DSj0"
+        },
+        {
+          "name": "Dj Chino Mx",
+          "url": "https://open.spotify.com/artist/5cvqvsvGl566HYlfAhhRHL"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156734,
+      "name": "El Trenecito Chu-Chu",
+      "url": "https://open.spotify.com/track/7bqhmwvFwaa9KX4iigwlGv"
+    },
+    {
+      "album": {
         "name": "Ella Quiere Hmm... Haa... Hmm...",
         "url": "https://open.spotify.com/album/0D6DGiSFytv1dzqjAvy05D"
       },
@@ -1326,6 +1374,32 @@
       "duration_ms": 212035,
       "name": "Ella Quiere Hmm... Haa... Hmm... - Yayo Remix",
       "url": "https://open.spotify.com/track/0QN1rkBy3D6j9Yw3Czlcsc"
+    },
+    {
+      "album": {
+        "name": "Extasis",
+        "url": "https://open.spotify.com/album/6UdgE5bqOizCSWj6k32UJX"
+      },
+      "artists": [
+        {
+          "name": "one c rodriguez",
+          "url": "https://open.spotify.com/artist/4Kghk8HHdTjWafnRr32Mtl"
+        },
+        {
+          "name": "Juan Caly",
+          "url": "https://open.spotify.com/artist/4SZsAATjInvAqWJ2aWm6l6"
+        },
+        {
+          "name": "LEANDRO",
+          "url": "https://open.spotify.com/artist/6FPsFBCZslHc8RaaOf8HaS"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197002,
+      "name": "Extasis",
+      "url": "https://open.spotify.com/track/5kaoftnTWgzCkKyMRDT8id"
     },
     {
       "album": {
@@ -1374,7 +1448,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-07",
+      "date_removed": null,
       "duration_ms": 173195,
       "name": "Flow Soltera",
       "url": "https://open.spotify.com/track/1TEqM0Fg2wGewCRRkOTjRC"
@@ -1886,7 +1960,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-04",
+      "date_removed": null,
       "duration_ms": 122774,
       "name": "Likes",
       "url": "https://open.spotify.com/track/2MSQ5nSg740lxwalZ2YIiR"
@@ -1960,7 +2034,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 169142,
       "name": "Lo Que Pas\u00f3 Ayer",
       "url": "https://open.spotify.com/track/2RSkodSjQbhRKbozUWLe6u"
@@ -2056,7 +2130,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 185440,
       "name": "Mamita Sensual",
       "url": "https://open.spotify.com/track/1W401R1yONbC7KUXoNQBoM"
@@ -2434,7 +2508,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-23",
+      "date_removed": null,
       "duration_ms": 174703,
       "name": "Oxxo est\u00e1s ah\u00ed?",
       "url": "https://open.spotify.com/track/12QZtyonVLker8V95gYTGB"
@@ -2500,7 +2574,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 117036,
       "name": "Pa' Ti Ya",
       "url": "https://open.spotify.com/track/6OoH0B2xXgNIshGTCQajMH"
@@ -2526,7 +2600,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 212630,
       "name": "Pal Bellakeo",
       "url": "https://open.spotify.com/track/3HNJzcAtMDkmyjcIP4AekL"
@@ -2766,7 +2840,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 146666,
       "name": "Perreito",
       "url": "https://open.spotify.com/track/4M9NvPCoKDqaVwoC5nY33X"
@@ -2836,7 +2910,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 212802,
       "name": "Perreo Como Antes",
       "url": "https://open.spotify.com/track/5InIuRBCKBEiSboJnliVQo"
@@ -2980,7 +3054,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 190999,
       "name": "Pornostar",
       "url": "https://open.spotify.com/track/5nSLXMzZlOBTy8g8ogX6s8"
@@ -3090,7 +3164,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 134400,
       "name": "PUSSY",
       "url": "https://open.spotify.com/track/4iMIvJp1UPVWbAh9nwMM85"
@@ -3222,7 +3296,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 149801,
       "name": "REBOTA",
       "url": "https://open.spotify.com/track/1YFVWYOb38ypAtMmS2eWBD"
@@ -3418,6 +3492,28 @@
       "duration_ms": 207157,
       "name": "Saludos a mi Ex",
       "url": "https://open.spotify.com/track/3dUOKJwVYnbcrBHDfTsUbL"
+    },
+    {
+      "album": {
+        "name": "Se Calent\u00f3",
+        "url": "https://open.spotify.com/album/4LgweqU9lQq2AtIhDXrlVE"
+      },
+      "artists": [
+        {
+          "name": "Yasniel Navarro",
+          "url": "https://open.spotify.com/artist/4okFQ18dzWYmcb595ty7UF"
+        },
+        {
+          "name": "Roy Ace",
+          "url": "https://open.spotify.com/artist/6rlJJnidrT9pwTuMYzqfIj"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158914,
+      "name": "Se Calent\u00f3",
+      "url": "https://open.spotify.com/track/0Cj3iKCq5l6NWDIGGzVVQC"
     },
     {
       "album": {
@@ -3798,6 +3894,24 @@
       "duration_ms": 203478,
       "name": "Toketeo",
       "url": "https://open.spotify.com/track/0pRgURvgp75RPKjTGQodau"
+    },
+    {
+      "album": {
+        "name": "Toma",
+        "url": "https://open.spotify.com/album/4cbxkM3zQSH8nGm9KQaIwF"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162330,
+      "name": "Toma",
+      "url": "https://open.spotify.com/track/48iWXYdWMFNenABULLtopW"
     },
     {
       "album": {

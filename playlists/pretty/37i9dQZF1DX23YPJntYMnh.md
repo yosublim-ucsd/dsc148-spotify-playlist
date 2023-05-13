@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 
 > Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,609 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,682 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cult of Personality](https://open.spotify.com/track/5e3YOg6fIkP0wD5TyxcHOH) | [Living Colour](https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de) | [Vivid \(Expanded Edition\)](https://open.spotify.com/album/532IlegHv3OfVGgyCFGBTs) | 4:54 |
 | 2 | [Poster Child](https://open.spotify.com/track/4ILJxejqqWk4y8oWsxYDtE) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Poster Child](https://open.spotify.com/album/7hcWLkAhIDMGJCi2mIUQa8) | 5:18 |
-| 3 | [High Steppa](https://open.spotify.com/track/7xTg3npAWRMFYToVZGhDFv) | [The Dogon Lights](https://open.spotify.com/artist/3G29JVikNQJAJjzfFUMCIM), [Vir McCoy](https://open.spotify.com/artist/4lQbdxWVeDoHJIiyL05i44), [Evan Fraser](https://open.spotify.com/artist/43KGNBtCYujVFg0pbqJiaA), [Ashel Seazuns](https://open.spotify.com/artist/4BQDwzeKdjVjJ6Zw06hMUQ) | [High Steppa](https://open.spotify.com/album/3veA7ihN3jrojlJrs2DZCZ) | 3:26 |
+| 3 | [High Steppa](https://open.spotify.com/track/7xTg3npAWRMFYToVZGhDFv) | [The Dogon Lights](https://open.spotify.com/artist/3G29JVikNQJAJjzfFUMCIM), [Vir McCoy](https://open.spotify.com/artist/4lQbdxWVeDoHJIiyL05i44), [Evan Fraser](https://open.spotify.com/artist/43KGNBtCYujVFg0pbqJiaA), [Ashel Seasunz](https://open.spotify.com/artist/64scbndU8jiWZoE6WCl12g) | [High Steppa](https://open.spotify.com/album/3veA7ihN3jrojlJrs2DZCZ) | 3:26 |
 | 4 | [Always On The Run](https://open.spotify.com/track/3xxBAMUVusDLjLFwwL9qoY) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 3:53 |
 | 5 | [Beautiful Disaster](https://open.spotify.com/track/0LtsuNRz3IMRrHCYO9fKRk) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Transistor](https://open.spotify.com/album/66MztQRqLYgND6LTeIpRFx) | 3:58 |
 | 6 | [Epic](https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [The Real Thing](https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0) | 4:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 | 99 | [The Rougarou](https://open.spotify.com/track/6Y0E6cel8EllxaxIpCjjih) | [Mashup & Cozy Condition](https://open.spotify.com/artist/4Xgz0ZH1mIhD1E5wSjrj1V) | [The Rougarou](https://open.spotify.com/album/7zFE0ofJbtgK3vzBhAmQMA) | 3:17 |
 | 100 | [Clap For The Killers](https://open.spotify.com/track/1LHvNi1ji3OU26lHASBzaz) | [Street Sweeper Social Club](https://open.spotify.com/artist/1YghQU3PwfnDu94PRfE4pv) | [Street Sweeper Social Club](https://open.spotify.com/album/62R1tsiIXUb9Iq6MuRoaMp) | 3:55 |
 
-Snapshot ID: `MCwyYzQ0YmMzODAyZjg2NDA5MWMyZWY5ZjYwNmY3ZjM2NTBiNjI4ZDRk`
+Snapshot ID: `MCw4OGEyNzdjNjZmNzc2ZDIzMDQ3NTllOTk4M2YxZTkxNTk5OTM4ZmQ0`

@@ -1632,7 +1632,7 @@
       },
       "artists": [
         {
-          "name": "Innerverse",
+          "name": "INNERVERSE",
           "url": "https://open.spotify.com/artist/0lIiVp6FVbJR2utszYQhNf"
         },
         {
@@ -9404,6 +9404,28 @@
       "duration_ms": 379807,
       "name": "Duplicate",
       "url": "https://open.spotify.com/track/0Vj5tDSoPC0ISTmQKbvoCm"
+    },
+    {
+      "album": {
+        "name": "Speicher 125",
+        "url": "https://open.spotify.com/album/0GHCGbjjcx6PgtGWV4fEwx"
+      },
+      "artists": [
+        {
+          "name": "Barnt",
+          "url": "https://open.spotify.com/artist/5UwHHsEQqO6OiQCtYHDpn9"
+        },
+        {
+          "name": "Michael Mayer",
+          "url": "https://open.spotify.com/artist/5R9d1YP5jtBw2IrQItGzQI"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490735,
+      "name": "Duration",
+      "url": "https://open.spotify.com/track/7lCWwzpzO9mi82MDVwq7Ss"
     },
     {
       "album": {

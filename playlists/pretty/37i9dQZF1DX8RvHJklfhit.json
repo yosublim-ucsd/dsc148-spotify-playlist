@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie classics.",
-  "num_followers": 154372,
+  "num_followers": 154507,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGFiZWJhYzU5ZWI3MjYzMTM5YWY0NmM1NzE2N2JmM2NiZDM2YzM5",
+  "snapshot_id": "MCwyMTNkNGY4MzU3NDNiNDE3MDBkYmNiZTlhNzA0YzkwMTA1MmIwY2E1",
   "tracks": [
     {
       "added_at": "2023-02-08 23:13:43",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "Hecho a Mano",
-        "url": "https://open.spotify.com/album/58RU5pUqiS7098vJ5gJlIn"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 188341,
-      "name": "Suin Romanticon",
-      "url": "https://open.spotify.com/track/50ikhv8M3yUnoNW9dUEXxy"
-    },
-    {
-      "added_at": "2023-02-08 23:13:43",
-      "album": {
         "name": "Mira Lo Que Me Hiciste Hacer",
         "url": "https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 228543,
       "name": "Su\u00e9ltame, Bogot\u00e1",
       "url": "https://open.spotify.com/track/7qhunqQrA4o3Hk4c6ohRTg"
+    },
+    {
+      "added_at": "2023-02-08 23:13:43",
+      "album": {
+        "name": "Hecho a Mano",
+        "url": "https://open.spotify.com/album/58RU5pUqiS7098vJ5gJlIn"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 188341,
+      "name": "Suin Romanticon",
+      "url": "https://open.spotify.com/track/50ikhv8M3yUnoNW9dUEXxy"
     },
     {
       "added_at": "2023-02-08 23:13:43",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
-    },
-    {
-      "added_at": "2023-02-08 23:13:43",
-      "album": {
         "name": "Espera (feat. Carlos Sadness)",
         "url": "https://open.spotify.com/album/0AZHlKXAlrkRx6iPs3s2dX"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 232594,
       "name": "Espera (feat. Carlos Sadness)",
       "url": "https://open.spotify.com/track/40q4bzLjO9zqBIZYP442af"
+    },
+    {
+      "added_at": "2023-02-08 23:13:43",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
     },
     {
       "added_at": "2023-02-08 23:13:43",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "The Future Sugar",
-        "url": "https://open.spotify.com/album/1k4iFJs342EvXCEqQ3kt3V"
+        "name": "Eva",
+        "url": "https://open.spotify.com/album/4JwtH9ZZTfQSPMXogxHzgl"
       },
       "artists": [
         {
-          "name": "Rey Pila",
-          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
         }
       ],
-      "duration_ms": 210076,
-      "name": "Alexander",
-      "url": "https://open.spotify.com/track/0F4PEHuH9rGeVZDFNVqTbN"
+      "duration_ms": 224000,
+      "name": "Eva",
+      "url": "https://open.spotify.com/track/1txcYMd5pfWZivOfJcZpiP"
     },
     {
       "added_at": "2023-02-08 23:13:43",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "Eva",
-        "url": "https://open.spotify.com/album/4JwtH9ZZTfQSPMXogxHzgl"
+        "name": "The Future Sugar",
+        "url": "https://open.spotify.com/album/1k4iFJs342EvXCEqQ3kt3V"
       },
       "artists": [
         {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+          "name": "Rey Pila",
+          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Eva",
-      "url": "https://open.spotify.com/track/1txcYMd5pfWZivOfJcZpiP"
+      "duration_ms": 210076,
+      "name": "Alexander",
+      "url": "https://open.spotify.com/track/0F4PEHuH9rGeVZDFNVqTbN"
     },
     {
       "added_at": "2023-02-08 23:13:43",

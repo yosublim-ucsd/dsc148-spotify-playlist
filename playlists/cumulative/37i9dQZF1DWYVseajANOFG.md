@@ -4,7 +4,7 @@
 
 > Así suena la música urbana de Panamá hoy\. Foto: Boza
 
-154 songs - 9 hr 12 min
+155 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Bonita](https://open.spotify.com/track/5S1etwYpbj8f7aVUXa91pB) | [Mr\. Saik](https://open.spotify.com/artist/7fzjOp0zWBmu7M5R7kZW60) | [Bonita](https://open.spotify.com/album/2J86tRQLHdrWeb3sNSp1ln) | 3:07 | 2022-03-11 | 2022-05-20 |
 | [Borracho](https://open.spotify.com/track/0rsTDgGRlXKuzSAxcdb4Ns) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Borracho](https://open.spotify.com/album/0DzwLlhnxgjPgL3uWNZTWG) | 3:39 | 2022-03-11 | 2023-04-01 |
 | [BRUJERIA](https://open.spotify.com/track/5uiH9Ei2V6fyuJHK57xISQ) | [Farah](https://open.spotify.com/artist/499MeLMskp0GHYO1587gZK) | [BRUJERIA](https://open.spotify.com/album/6w5sd8h4qYq52tKIzSgmsv) | 2:35 | 2022-03-11 | 2022-05-28 |
+| [Carrusel \- Radio Mix](https://open.spotify.com/track/1QXu9ubYFn5Rc2kIXFxlNE) | [Jimmix](https://open.spotify.com/artist/3j1xVZx3m3UPoREAQ8depP), [Sampw](https://open.spotify.com/artist/0hItxzL0lp2vWslXmyG2Wl) | [Carrusel](https://open.spotify.com/album/1wqrAcVo2pAAUIR2X8seHQ) | 3:44 | 2023-05-12 |  |
 | [CASA VERDE](https://open.spotify.com/track/56Tqz9oHlrH2Okx282tlu7) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Haquil](https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG), [Nerry Money](https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ), [Kevin](https://open.spotify.com/artist/5XQ0aNr3aINifZ93L4FUYI) | [CASA VERDE](https://open.spotify.com/album/0pRLWvPjTW5zZ2K8iDO4sj) | 4:06 | 2022-07-29 | 2022-09-11 |
 | [CASA VERDE](https://open.spotify.com/track/04w93rJXoDQ4fayGw9BPT7) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Kevin Ice](https://open.spotify.com/artist/5XQ0aNr3aINifZ93L4FUYI), [Haquil](https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG), [Nerry Money](https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ) | [CASA VERDE](https://open.spotify.com/album/4RNy7HfUlON4eclMZlGo2R) | 4:06 | 2022-09-09 |  |
 | [Casaya](https://open.spotify.com/track/4iRHjxLojZsyclcODm5NOv) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [Coexistencia](https://open.spotify.com/album/2Z4R6v7ghh8fbO1xYrk3lW) | 3:26 | 2023-01-20 |  |

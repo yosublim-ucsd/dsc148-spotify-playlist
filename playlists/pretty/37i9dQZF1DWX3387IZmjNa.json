@@ -1,29 +1,13 @@
 {
   "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Karri",
-  "num_followers": 1987795,
+  "num_followers": 1988251,
   "original_name": "B.A.E.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOThhNTViMzAyN2FiMWQ2NWEzNDk0ODM1NjBmMjYzZGU3ZGI1N2Fi",
+  "snapshot_id": "MCw3ZGFiM2ZlOGI3MzE2MWJhNDViNzQ5YzUzOGU5MjhmMjgwOWI3YWZi",
   "tracks": [
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "3AM in Oakland",
-        "url": "https://open.spotify.com/album/6fypcxh577ibSA2kOKfyl2"
-      },
-      "artists": [
-        {
-          "name": "Karri",
-          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
-        }
-      ],
-      "duration_ms": 206270,
-      "name": "3AM in Oakland",
-      "url": "https://open.spotify.com/track/104f3GOgOZkTfHkhK21oge"
-    },
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
@@ -85,20 +69,52 @@
       "url": "https://open.spotify.com/track/7hrcHfHWaLhooHzGltlCYB"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+        "name": "Favorite Song",
+        "url": "https://open.spotify.com/album/4XiUZULpVS6gTgKKU7KTX5"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
         }
       ],
-      "duration_ms": 177789,
-      "name": "California Breeze",
-      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
+      "duration_ms": 208630,
+      "name": "Favorite Song",
+      "url": "https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "3AM in Oakland",
+        "url": "https://open.spotify.com/album/6fypcxh577ibSA2kOKfyl2"
+      },
+      "artists": [
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        }
+      ],
+      "duration_ms": 206270,
+      "name": "3AM in Oakland",
+      "url": "https://open.spotify.com/track/104f3GOgOZkTfHkhK21oge"
+    },
+    {
+      "added_at": "2023-05-12 04:08:38",
+      "album": {
+        "name": "Need Me",
+        "url": "https://open.spotify.com/album/453LC2RXr0Yv6M86esUdqm"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 138946,
+      "name": "Need Me",
+      "url": "https://open.spotify.com/track/7a636g0dl8a487foiAcoCM"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -121,6 +137,22 @@
       "url": "https://open.spotify.com/track/4fPJCekTxkvQREfrh27L1O"
     },
     {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 177789,
+      "name": "California Breeze",
+      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
+    },
+    {
       "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Her Old Friends",
@@ -135,6 +167,22 @@
       "duration_ms": 256117,
       "name": "Her Old Friends",
       "url": "https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti"
+    },
+    {
+      "added_at": "2023-04-28 09:25:52",
+      "album": {
+        "name": "Jackman.",
+        "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 99960,
+      "name": "No Enhancers",
+      "url": "https://open.spotify.com/track/2nK3bNHjO0IAMarcoN27UK"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -155,58 +203,6 @@
       "duration_ms": 141714,
       "name": "Saturday (feat. Kalan.FrFr)",
       "url": "https://open.spotify.com/track/5uQybrSaOXUjaBZCI89KQE"
-    },
-    {
-      "added_at": "2023-04-28 09:25:52",
-      "album": {
-        "name": "Jackman.",
-        "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 99960,
-      "name": "No Enhancers",
-      "url": "https://open.spotify.com/track/2nK3bNHjO0IAMarcoN27UK"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Favorite Song",
-        "url": "https://open.spotify.com/album/4XiUZULpVS6gTgKKU7KTX5"
-      },
-      "artists": [
-        {
-          "name": "Toosii",
-          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
-        }
-      ],
-      "duration_ms": 208630,
-      "name": "Favorite Song",
-      "url": "https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
-        "name": "What It Is (Block Boy) (with Kodak Black)",
-        "url": "https://open.spotify.com/album/1O9xrX782LqLx4Z60528Ih"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 223343,
-      "name": "What It Is (Block Boy) (with Kodak Black)",
-      "url": "https://open.spotify.com/track/1O8zCu3dLLPxkbGfIsbRgE"
     },
     {
       "added_at": "2022-10-18 02:56:45",
@@ -247,6 +243,22 @@
       "duration_ms": 168016,
       "name": "They Don't Know",
       "url": "https://open.spotify.com/track/3iuGyJQKwSIozygB3nwojP"
+    },
+    {
+      "added_at": "2023-05-12 04:08:38",
+      "album": {
+        "name": "Here 2 Stay",
+        "url": "https://open.spotify.com/album/2hnZC5cplWVngfVm2Hjsfr"
+      },
+      "artists": [
+        {
+          "name": "DD Osama",
+          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
+        }
+      ],
+      "duration_ms": 154181,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/1Cwv7OzGjvpHcCGxY1Nmvk"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -305,20 +317,24 @@
       "url": "https://open.spotify.com/track/5G5iMk561afCKl3Di8rWAq"
     },
     {
-      "added_at": "2023-05-05 04:01:00",
+      "added_at": "2023-04-28 09:25:52",
       "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/2OlZc3EjX8Yg3G2voQc6nd"
+        "name": "Talk More Soon",
+        "url": "https://open.spotify.com/album/3Vg8Ol5x9bUzhLk42ABXnc"
       },
       "artists": [
         {
-          "name": "DD Osama",
-          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
+          "name": "Dustystaytrue",
+          "url": "https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL"
+        },
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
         }
       ],
-      "duration_ms": 165084,
-      "name": "Who I Am",
-      "url": "https://open.spotify.com/track/7vq5N3HREotT71RnQoFTB8"
+      "duration_ms": 169606,
+      "name": "Reflections (feat. Toosii)",
+      "url": "https://open.spotify.com/track/3fPjjfF6iU3uklTplZOKTw"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -477,26 +493,6 @@
       "url": "https://open.spotify.com/track/7vPwL4WkrqMCC3XbummsMo"
     },
     {
-      "added_at": "2023-04-28 09:25:52",
-      "album": {
-        "name": "Talk More Soon",
-        "url": "https://open.spotify.com/album/3Vg8Ol5x9bUzhLk42ABXnc"
-      },
-      "artists": [
-        {
-          "name": "Dustystaytrue",
-          "url": "https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL"
-        },
-        {
-          "name": "Toosii",
-          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
-        }
-      ],
-      "duration_ms": 169606,
-      "name": "Reflections (feat. Toosii)",
-      "url": "https://open.spotify.com/track/3fPjjfF6iU3uklTplZOKTw"
-    },
-    {
       "added_at": "2023-01-27 05:00:00",
       "album": {
         "name": "Magic Potion",
@@ -535,22 +531,22 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
-        "name": "BABYST5XNE GORILLAS 2",
-        "url": "https://open.spotify.com/album/5NHBNP3hs6AP1yUVlc4VZv"
+        "name": "What It Is (Block Boy) (with Kodak Black)",
+        "url": "https://open.spotify.com/album/1O9xrX782LqLx4Z60528Ih"
       },
       "artists": [
         {
-          "name": "Baby Stone Gorillas",
-          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         },
         {
-          "name": "Kalan.FrFr",
-          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Shake That Shit (feat. Kalan.FrFr)",
-      "url": "https://open.spotify.com/track/3gP9gEf80R4j2mDjAsv6y5"
+      "duration_ms": 223343,
+      "name": "What It Is (Block Boy) (with Kodak Black)",
+      "url": "https://open.spotify.com/track/1O8zCu3dLLPxkbGfIsbRgE"
     },
     {
       "added_at": "2022-10-21 04:00:00",

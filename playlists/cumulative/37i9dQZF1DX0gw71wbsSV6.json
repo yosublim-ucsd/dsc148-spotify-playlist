@@ -311,6 +311,28 @@
     },
     {
       "album": {
+        "name": "SOFT STORM",
+        "url": "https://open.spotify.com/album/3cXaGOvM63nFeu1uujC57O"
+      },
+      "artists": [
+        {
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/2iuPnIdqfKsze3urSvl7XZ"
+        },
+        {
+          "name": "OHHYUK",
+          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197722,
+      "name": "Candlelight",
+      "url": "https://open.spotify.com/track/1Snc512frBOOQu4OvnVSzW"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1"
       },
@@ -991,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "From The Start",
+        "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169573,
+      "name": "From The Start",
+      "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
+    },
+    {
+      "album": {
         "name": "Eimosezu/Good Luck",
         "url": "https://open.spotify.com/album/4WCNqpJ3itK3YZULcavlrz"
       },
@@ -1166,7 +1206,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 169767,
       "name": "i hate u",
       "url": "https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM"
@@ -1688,7 +1728,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 182013,
       "name": "Nobose",
       "url": "https://open.spotify.com/track/1n6W03okyF7dsmY83leZ6d"
@@ -1782,6 +1822,28 @@
       "duration_ms": 204712,
       "name": "Paris in the Rain",
       "url": "https://open.spotify.com/track/41CgzGD7xlgnJe14R4cqkL"
+    },
+    {
+      "album": {
+        "name": "Pegasus (ft. Phoebe Bridgers)",
+        "url": "https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186836,
+      "name": "Pegasus (ft. Phoebe Bridgers)",
+      "url": "https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh"
     },
     {
       "album": {
@@ -1976,7 +2038,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 215013,
       "name": "Shadow In The Storm",
       "url": "https://open.spotify.com/track/5baV4ZFU0mhUVbrcZyv4FD"
@@ -2491,6 +2553,24 @@
     },
     {
       "album": {
+        "name": "VANILLA VILLA",
+        "url": "https://open.spotify.com/album/6h4GjE3bNKg8cWOVzxdlW7"
+      },
+      "artists": [
+        {
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/2iuPnIdqfKsze3urSvl7XZ"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151282,
+      "name": "Vanilla",
+      "url": "https://open.spotify.com/track/0NksLiIx5lbWzFTYTCx4z7"
+    },
+    {
+      "album": {
         "name": "We Were Never Really Friends",
         "url": "https://open.spotify.com/album/2S7z1CuntMrp5YhDvVRQA9"
       },
@@ -2882,7 +2962,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 248246,
       "name": "\u54b2\u307e\u3046",
       "url": "https://open.spotify.com/track/07kglGIdrAd9p2NdtCLEaD"

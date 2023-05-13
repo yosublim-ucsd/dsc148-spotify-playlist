@@ -4,7 +4,7 @@
 
 > Don't worry, we're back in the funk of it besties ✨
 
-482 songs - 1 day 3 hr 22 min
+483 songs - 1 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Everything I Touch](https://open.spotify.com/track/2VUdkcsNTMGpxy5J5BUy0X) | [CyanBlue](https://open.spotify.com/artist/0XRb1v0ZGxUJJwXWIrTQLE) | [Everything I Touch](https://open.spotify.com/album/2OFt2qhPxrCTR3wiXn1sxm) | 3:16 | 2022-07-15 | 2022-08-13 |
 | [Exacta](https://open.spotify.com/track/05aRMsnObR7SdMQwxxJvHv) | [Tupperwave](https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO) | [Hooked On Aesthetics](https://open.spotify.com/album/2Uadv8pQQjvkAK77xgRB5u) | 2:43 | 2022-11-04 |  |
 | [Extra Toppings](https://open.spotify.com/track/572peHfl2FJyJXw207lAtM) | [Bonus Points](https://open.spotify.com/artist/3GlCVMFRzrZ3FGtt4apejf) | [Take Off](https://open.spotify.com/album/4a8XDmDZpia5Az8LjNzzqH) | 3:42 | 2022-03-04 | 2022-03-12 |
-| [Eyes on Me](https://open.spotify.com/track/2KsIlbHyTl7wJaG0fOLs34) | [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt) | [The Sweetest Dream](https://open.spotify.com/album/0aazBbDWVGrdX0dPHhcj3A) | 3:40 | 2022-06-01 |  |
+| [Eyes on Me](https://open.spotify.com/track/2KsIlbHyTl7wJaG0fOLs34) | [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt) | [The Sweetest Dream](https://open.spotify.com/album/0aazBbDWVGrdX0dPHhcj3A) | 3:40 | 2022-06-01 | 2023-05-13 |
 | [Eyes On You](https://open.spotify.com/track/3QKRZ13JnLK5boY8BT4Igb) | [Zai Kowen](https://open.spotify.com/artist/0Hoo2QCcZxJ8VOl53hr5AB) | [NeoGeo FM](https://open.spotify.com/album/4xZKSYeUXtFOGdc3tFSbg2) | 3:12 | 2022-08-12 | 2022-10-20 |
 | [Facts](https://open.spotify.com/track/3M5MnYR9xqcnSMWJqyYZNF) | [Sparkly Night](https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN) | [MOTORWAY](https://open.spotify.com/album/0e0HcWdJIS3zWPlyw5t5wQ) | 2:38 | 2022-11-04 |  |
 | [FALLING](https://open.spotify.com/track/3JMpbOXO1j2HJBejJaXrlK) | [That's Matt](https://open.spotify.com/artist/0JLZmhpMl3U0XsZYKaJfCo), [ED.](https://open.spotify.com/artist/2WvX9OTkNK2OI2gkj3y7YM) | [BENDER: PART I](https://open.spotify.com/album/7wjzPwprnXXjsQCHykE2ja) | 3:38 | 2022-04-12 | 2022-06-01 |
@@ -316,6 +316,7 @@
 | [Pixel Radio](https://open.spotify.com/track/38TWdQGwbesUPzMcRfbPJe) | [Ikyoto](https://open.spotify.com/artist/5gtDrrVDdpH9S5xLuAOISl) | [Pixel Pop! II](https://open.spotify.com/album/7fsioVTAh9CvWPaWQWkjZF) | 3:14 | 2022-07-15 | 2022-08-13 |
 | [planetarium](https://open.spotify.com/track/5QDe6q5KNYURvqgIdCg3Z8) | [Versiple](https://open.spotify.com/artist/0cEFiT4m9AYmMcV9iB5tfU), [geccochild](https://open.spotify.com/artist/3Jsm7LexLQaXBk9Hy3vS3p) | [planetarium](https://open.spotify.com/album/7B1ZVZLT9RQjUHBwNSqRby) | 2:26 | 2022-02-27 | 2022-07-18 |
 | [Plastic](https://open.spotify.com/track/0zbmRwI3Cn0aPCkVIvxQtO) | [Tendencies](https://open.spotify.com/artist/3HDU9AvCEdAsDIOX6BtgqK) | [Waterbed \(Deluxe\)](https://open.spotify.com/album/1cjuAssWUepRNTprygXosp) | 3:15 | 2021-12-08 | 2022-10-18 |
+| [Plastic](https://open.spotify.com/track/2X6jdDyYRFrs8yh8pjIKaP) | [Tendencies](https://open.spotify.com/artist/3HDU9AvCEdAsDIOX6BtgqK) | [Plastic](https://open.spotify.com/album/5ANcIfETYBjqYxTMX514o3) | 3:15 | 2022-11-04 |  |
 | [Plastic](https://open.spotify.com/track/4YAVirWReJraZhTHasDpyY) | [Tendencies](https://open.spotify.com/artist/3HDU9AvCEdAsDIOX6BtgqK) | [Waterbed \(Deluxe\)](https://open.spotify.com/album/3AgpSfMDtGPCRO2DBrPqZU) | 3:15 | 2022-09-16 | 2023-04-27 |
 | [Polygon Beach](https://open.spotify.com/track/4oTFKaLvALwvYdNKDTBARL) | [Starjunk 95](https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx) | [Polygon Beach](https://open.spotify.com/album/7vg7mqEeZvoWaHtamxIG1c) | 2:36 | 2022-06-08 |  |
 | [Positive](https://open.spotify.com/track/0E2A3EhNsvWYWVqSaqisep) | [Shiruetto](https://open.spotify.com/artist/16OzAoywRbXAPzxftV0XLk) | [Positive](https://open.spotify.com/album/7gKWbapL9jZogKY9aRcVTU) | 3:37 | 2021-12-08 | 2022-07-26 |

@@ -42,7 +42,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 181969,
       "name": "A Little Respect",
       "url": "https://open.spotify.com/track/1skziAXmY45EPpIz89Yyte"
@@ -158,7 +158,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 195759,
       "name": "Always on My Mind",
       "url": "https://open.spotify.com/track/3rzMh3yRuC9OuAU3IepUkQ"
@@ -194,7 +194,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 220750,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/6IZnzJPUfIUaOiNx8sVgRg"
@@ -212,7 +212,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 230385,
       "name": "Aventura",
       "url": "https://open.spotify.com/track/0nz7WW70BXQo99EDZbHKws"
@@ -278,7 +278,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 234200,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/6UWQ9q6gNZC8AQh3otkUFa"
@@ -357,6 +357,24 @@
     },
     {
       "album": {
+        "name": "Life's Love Songs",
+        "url": "https://open.spotify.com/album/0QBv4SvRec1C306sITPlTW"
+      },
+      "artists": [
+        {
+          "name": "David Hazeltine",
+          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328192,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/5DJzLPOCWoC9jlLpMBmzCg"
+    },
+    {
+      "album": {
         "name": "Boyfriend (Bossa Nova)",
         "url": "https://open.spotify.com/album/6kBAw2nCXHTeZxv6Pu1fgP"
       },
@@ -386,7 +404,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 193253,
       "name": "Boys Don't Cry",
       "url": "https://open.spotify.com/track/6HsPGQVhKRgWlLXt9Z3kkJ"
@@ -404,7 +422,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 168000,
       "name": "Burn Rubber on Me (Why You Wanna Hurt Me)",
       "url": "https://open.spotify.com/track/0TyDl7iD1aj2D78xv4UZ1K"
@@ -444,7 +462,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 228963,
       "name": "Call Me Maybe (Bossa Nova Version) [Originally Performed By Carly Rae Jepsen]",
       "url": "https://open.spotify.com/track/52gkD0XbLxHRaIvXGOVkPu"
@@ -466,7 +484,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 261613,
       "name": "Caminhos Cruzados",
       "url": "https://open.spotify.com/track/6hJ3NAOT0bcyVc71mxIwzH"
@@ -550,7 +568,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 246374,
       "name": "Chega de Saudade",
       "url": "https://open.spotify.com/track/1cVydAIXdvoppZ4DmplKBN"
@@ -676,7 +694,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 203307,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/2lJVlO1UwZdTYRSHQoSpGj"
@@ -716,7 +734,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 212689,
       "name": "Dancing In the Moonlight",
       "url": "https://open.spotify.com/track/42jBmDWtXI0dEhAcGubGvi"
@@ -788,7 +806,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 245760,
       "name": "Disturbia (Bossa Version)",
       "url": "https://open.spotify.com/track/2rc7wIxBvb3dx7CiUTdB2F"
@@ -806,7 +824,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 228104,
       "name": "Do You Know (The Ping Pong Song) (Bossa Version)",
       "url": "https://open.spotify.com/track/3KZN0tA4b4BdhiJYQYlprg"
@@ -842,7 +860,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 183030,
       "name": "Does your mother know",
       "url": "https://open.spotify.com/track/1bRflZJHVH5hj3UbLUNyBJ"
@@ -868,6 +886,24 @@
       "duration_ms": 171126,
       "name": "Don't Be Cruel",
       "url": "https://open.spotify.com/track/59cT7sLcDp4hb7yAyRXK9T"
+    },
+    {
+      "album": {
+        "name": "Don't Know Why",
+        "url": "https://open.spotify.com/album/0cBXrplymCEbiJsABgYkV8"
+      },
+      "artists": [
+        {
+          "name": "Trois Amis",
+          "url": "https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179198,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/16F8ZSX2jOtcBQrKdVryWe"
     },
     {
       "album": {
@@ -907,6 +943,24 @@
     },
     {
       "album": {
+        "name": "The Beat Goes On",
+        "url": "https://open.spotify.com/album/6L6CnGHpTnvj3BUf441OCh"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280529,
+      "name": "Don't Think Twice, It's Alright",
+      "url": "https://open.spotify.com/track/6UeCjzfLUBhHOtney81sPn"
+    },
+    {
+      "album": {
         "name": "Bossa N' Disco",
         "url": "https://open.spotify.com/album/33wAEyfeK20Z28mDCxxRpK"
       },
@@ -922,7 +976,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 313283,
       "name": "Don\u00b4t Stop \u00b4till You Get Enough",
       "url": "https://open.spotify.com/track/4VrvrQe8C9QxUVxQoWKHFv"
@@ -1052,7 +1106,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 175750,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/1pj03bsh7KkZgm2z6JcNDF"
@@ -1092,7 +1146,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 230480,
       "name": "Fly Me To the Moon - Yoko Takahashi Acid Bossa Version",
       "url": "https://open.spotify.com/track/3ia8uKWZIDLp8hKm18zuNS"
@@ -1132,7 +1186,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 189631,
       "name": "Garota de Ipanema",
       "url": "https://open.spotify.com/track/7pQimuWRaeJ78d0xrLE8Tg"
@@ -1150,7 +1204,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 203426,
       "name": "Garota de Ipanema (The Girl From Ipanema)",
       "url": "https://open.spotify.com/track/0xYbaQtR9Nj1VbkPPIAUII"
@@ -1288,7 +1342,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 190500,
       "name": "Happier Than Ever",
       "url": "https://open.spotify.com/track/31aRV5rb10gk4bw02WEV3s"
@@ -1404,7 +1458,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 152826,
       "name": "Here Comes the Sun",
       "url": "https://open.spotify.com/track/7J29m3Vq5L3JuwGp8KjFMj"
@@ -1466,7 +1520,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 251720,
       "name": "Hola - Bossa Nova",
       "url": "https://open.spotify.com/track/7bdcu6copaVLJamzZmMFQJ"
@@ -1502,7 +1556,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 139162,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/7loCV1ZchsjMzjKqCM5rv2"
@@ -1542,7 +1596,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 211000,
       "name": "I Cannot Believe It's True",
       "url": "https://open.spotify.com/track/7odoFGdUnYxXhcQSO2dLaN"
@@ -1582,7 +1636,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 228523,
       "name": "I Just Can't Stop Loving",
       "url": "https://open.spotify.com/track/5fNnGGaAQeaZghPOlCzRSQ"
@@ -1640,6 +1694,24 @@
       "duration_ms": 204373,
       "name": "I Still Haven't Found What I'm Looking For",
       "url": "https://open.spotify.com/track/6XLzVUmjuhpYy9EAnC6KDN"
+    },
+    {
+      "album": {
+        "name": "I Still Haven't Found What I'm Looking For",
+        "url": "https://open.spotify.com/album/6DIhteXyU6TqzXu6mdwuzO"
+      },
+      "artists": [
+        {
+          "name": "Tom Rogers Band",
+          "url": "https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205502,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/3URt3hJlLJEJFwBNBIyOGY"
     },
     {
       "album": {
@@ -1708,7 +1780,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 177231,
       "name": "I was made for lovin\u00b4you",
       "url": "https://open.spotify.com/track/0ADLsDbsvP5czdbY2eP0CL"
@@ -1842,7 +1914,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 197546,
       "name": "Is This Love",
       "url": "https://open.spotify.com/track/4h0Lc2sgVxRa9ICugb5IjA"
@@ -1882,7 +1954,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 228195,
       "name": "It Ain't over Til It's Over - Bossa Version",
       "url": "https://open.spotify.com/track/76D2rppXQ0UDtKfk9eXLgc"
@@ -1918,7 +1990,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 227466,
       "name": "It's a Shame",
       "url": "https://open.spotify.com/track/5jczKDtwEGoHxmoQkwKeoc"
@@ -1940,6 +2012,24 @@
       "duration_ms": 204144,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/4Vor8YELTcUw7lBtsnQX2s"
+    },
+    {
+      "album": {
+        "name": "Take To The Sky",
+        "url": "https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2"
+      },
+      "artists": [
+        {
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252200,
+      "name": "Just Like Heaven",
+      "url": "https://open.spotify.com/track/1cfxSquzIuVUXxG7yfUmwF"
     },
     {
       "album": {
@@ -1980,7 +2070,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 210066,
       "name": "Last Friday Night (T.G.I.F.)",
       "url": "https://open.spotify.com/track/6auWMxgWWn4BYFyYwTq4ih"
@@ -2002,7 +2092,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 198233,
       "name": "La\u0301 Vem o Brasil Descendo a Ladeira",
       "url": "https://open.spotify.com/track/6s1ctvxbpVBvazIrdOCO7l"
@@ -2046,7 +2136,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 247309,
       "name": "Let Her Go",
       "url": "https://open.spotify.com/track/5PYR8kczV8VG6H3V6hlu5N"
@@ -2068,7 +2158,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 203152,
       "name": "Let's Stay Together (feat. Daniela Maia)",
       "url": "https://open.spotify.com/track/0j0fypZtR9WqBehhyRjDiu"
@@ -2180,7 +2270,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 234115,
       "name": "Lovely",
       "url": "https://open.spotify.com/track/5vXmRHPqbSqcdtCMDV07GX"
@@ -2256,7 +2346,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 275638,
       "name": "Mrs. Robinson (Bossa version)",
       "url": "https://open.spotify.com/track/7l9PKjqqr8QaOUm3sO7wxr"
@@ -2278,7 +2368,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 207320,
       "name": "Night Fever",
       "url": "https://open.spotify.com/track/3d5jcWXViAq15tAFYq4jHG"
@@ -2304,7 +2394,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 285600,
       "name": "No Woman, No Cry",
       "url": "https://open.spotify.com/track/501YlAetaUihOReeVjAJq1"
@@ -2344,7 +2434,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 199049,
       "name": "O Nego\u0301cio E\u0301 Amar",
       "url": "https://open.spotify.com/track/75GdH53EoZBW6ninKYW9yF"
@@ -2362,7 +2452,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 260277,
       "name": "O Samba \u00e9 Meu Dom",
       "url": "https://open.spotify.com/track/1xvF5QCzObDTJi1jDqK9y0"
@@ -2402,7 +2492,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 220723,
       "name": "Over My Shoulder",
       "url": "https://open.spotify.com/track/5Eg6sYvA3b3tv5RKG11pAi"
@@ -2492,7 +2582,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 230341,
       "name": "Positions - Bossa Version",
       "url": "https://open.spotify.com/track/5JOhyEe6iqEdu8zH8ZCxjl"
@@ -2568,7 +2658,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 205496,
       "name": "Rock Your Baby",
       "url": "https://open.spotify.com/track/7roBdSNPAnwycHCv66dwXM"
@@ -2724,10 +2814,32 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 243478,
       "name": "Say You Say Me (Bossa version)",
       "url": "https://open.spotify.com/track/7bQmMuWGlgc6XhsLL0LJ9L"
+    },
+    {
+      "album": {
+        "name": "LIVING ROOM 2",
+        "url": "https://open.spotify.com/album/0mgDobmUfgJHVNEV7GHfSy"
+      },
+      "artists": [
+        {
+          "name": "Martina DaSilva",
+          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
+        },
+        {
+          "name": "Michael Stephenson",
+          "url": "https://open.spotify.com/artist/2hLykFY0OkRxdzJAaidlzk"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217172,
+      "name": "Say You'll Be There",
+      "url": "https://open.spotify.com/track/5PPFu9Ezev083u2bEuoz3q"
     },
     {
       "album": {
@@ -2742,7 +2854,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 210452,
       "name": "Sa\u0301 Marina",
       "url": "https://open.spotify.com/track/4as7MF2MShkdnjOqukNB2y"
@@ -2984,7 +3096,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 284570,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/0qg2zb0FAnW6OeqCDf59jf"
@@ -3020,7 +3132,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 188622,
       "name": "Soluc\u0327a\u0303o De Vida",
       "url": "https://open.spotify.com/track/5cnwazioBaYWEjzHykF2Om"
@@ -3132,7 +3244,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 242391,
       "name": "Speak Low",
       "url": "https://open.spotify.com/track/7gq6IBWgm5AMaI5ETrrQcH"
@@ -3190,7 +3302,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 148183,
       "name": "Standing Outside in the Rain",
       "url": "https://open.spotify.com/track/6MmUiXsyqAehKtQrTOp9JH"
@@ -3314,7 +3426,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 305511,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/2oRy6hcs9wQzQtYWDK5HzT"
@@ -3390,7 +3502,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 191500,
       "name": "Tape Loop",
       "url": "https://open.spotify.com/track/7MskN2v3epm2MCxGxfD10G"
@@ -3426,7 +3538,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 227675,
       "name": "Thank You Next - Bossa Nova",
       "url": "https://open.spotify.com/track/0oDaCDJSz9K878vbIOmQsT"
@@ -3538,7 +3650,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 218105,
       "name": "Umbrella (Bossa Version)",
       "url": "https://open.spotify.com/track/1RVjKn6pfJJGgVHx9I5sjw"
@@ -3556,7 +3668,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 253213,
       "name": "Valerie",
       "url": "https://open.spotify.com/track/3FYkUS445ZbxKwe4wIWFkp"
@@ -3628,7 +3740,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 249692,
       "name": "Viva La Vida - Bossa Version",
       "url": "https://open.spotify.com/track/2RHTYieGCulnGxOmyl7tl3"
@@ -3650,7 +3762,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 244738,
       "name": "Voc\u00ea",
       "url": "https://open.spotify.com/track/1Dd1vP76i14CB4an8wwWW8"
@@ -3712,7 +3824,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 140478,
       "name": "Wave",
       "url": "https://open.spotify.com/track/0e0yu5W79DVahOtpju6PBk"
@@ -3894,7 +4006,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 202173,
       "name": "You Give Me Something (Bossa Version)",
       "url": "https://open.spotify.com/track/4H39zVSTrnXomaInIgfpDY"

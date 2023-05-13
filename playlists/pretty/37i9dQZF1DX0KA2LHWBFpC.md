@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KA2LHWBFpC.md) - [plain]
 
 > Collection of the greatest songs from Makoto Shinkai's movies, including the latest movie, <a href="https://suzume\-tojimari\-movie.jp/">"Suzume"</a>\.   2022 "Suzume" Film Partners
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,053 likes - 67 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,532 likes - 67 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KA2LHWBFpC.md) - [plain]
 | 5 | [男と女のラブゲーム](https://open.spotify.com/track/4qVrWEpm4fjdTakJg5Ykk6) | [Mika Hino](https://open.spotify.com/artist/4SnVzUk8sP61RFT8czNxjj), [Kenji Niinuma](https://open.spotify.com/artist/4eZxAuDEWugT2KHS32AIkA) | [日野美歌全曲集 いのりうた](https://open.spotify.com/album/3riEoVadQnLwFFGh94BEAk) | 3:57 |
 | 6 | [ルージュの伝言](https://open.spotify.com/track/462O96Nj5zuTA13QAlrd8A) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [ルージュの伝言](https://open.spotify.com/album/4rJiEREugS8KDs7oSF35Tt) | 3:02 |
 | 7 | [SWEET MEMORIES \(Re\-Mix Version\)](https://open.spotify.com/track/6UDky6rmQprD5seH60B8jY) | [Seiko Matsuda](https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h) | [ペンギンズ・メモリー「幸福物語」オリジナル・サウンドトラック](https://open.spotify.com/album/7bcgXOWD6gojVuI6joqEtJ) | 4:34 |
-| 8 | [夢の中へ \- 2017 Remaster](https://open.spotify.com/track/2YgyW0CWOD7vMrgbB68LQk) | [Yosui Inoue](https://open.spotify.com/artist/4BQT8wAPy5SGtRnfstMzbA) | [夢の中へ](https://open.spotify.com/album/6b18Ztx6B8CM0mDE4ZUGwf) | 2:36 |
+| 8 | [夢の中へ \- 2017 Remaster](https://open.spotify.com/track/1HGsenQaGP7MbBMeeISial) | [Yosui Inoue](https://open.spotify.com/artist/4BQT8wAPy5SGtRnfstMzbA) | [TOKYO \- SHOWA KAYO \-](https://open.spotify.com/album/66vVSUnLq20V9AWYxY4C2x) | 2:36 |
 | 9 | [Sotsugyou](https://open.spotify.com/track/60Oi2EFpU4u0tn94LCub1h) | [Yuki Saitou](https://open.spotify.com/artist/5ySccSThgufSUXyDQHnLae) | [Yuki's Best](https://open.spotify.com/album/6wo64DefvXuab2rWWZjEtf) | 4:43 |
 | 10 | [バレンタイン・キッス](https://open.spotify.com/track/27Zq1Uh9ITJwfTaqvqUsfy) | [Sayuri Kokusho](https://open.spotify.com/artist/3Ts5ELxUNyqlHKYJX8uq5t), [Onyanko Club](https://open.spotify.com/artist/5qahyxUWCUPR8C1vuGozmH) | [バレンタイン・キッス](https://open.spotify.com/album/5qxEqwkeJaDCO7vKIB500c) | 3:36 |
 | 11 | [けんかをやめて](https://open.spotify.com/track/2UiO3tzClF7mHiuRyhUt3R) | [Naoko Kawai](https://open.spotify.com/artist/1BMCwAT2geYkKBKjRAJ8Qu) | [けんかをやめて](https://open.spotify.com/album/6JDq7lXrVjiED6fHNjGx1N) | 4:31 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KA2LHWBFpC.md) - [plain]
 | 66 | [The voices of distant star \~PREVIEW\~](https://open.spotify.com/track/6oTgn5L290FDJfunuzRA3m) | [天門](https://open.spotify.com/artist/0dZaFaggaLMwGbMrO39KJJ) | [「ほしのこえ」SOUNDTRACK](https://open.spotify.com/album/7aADsc9Vj2R8ckH6ULg7hf) | 1:11 |
 | 67 | [Main Theme](https://open.spotify.com/track/2H1FBwAjqbTn8aEj65Xfd4) | [天門](https://open.spotify.com/artist/0dZaFaggaLMwGbMrO39KJJ) | [彼女と彼女の猫 SOUNDTRACKS](https://open.spotify.com/album/0IC4wHA2HkbqzZI6oxUcSJ) | 1:23 |
 
-Snapshot ID: `MCxmOTQ3NGViMzU4N2QwYzA0NTFmYmMxMWJhNTE5ODc1OGQwYWVkMWQ2`
+Snapshot ID: `MCw5M2VjNjc3MjVhNTMyYTQ0YzYxYjcxZTU0NDcyZDViMmJhMTdkZjBi`

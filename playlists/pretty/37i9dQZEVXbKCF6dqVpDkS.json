@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Netherlands.",
-  "num_followers": 912666,
+  "num_followers": 912722,
   "original_name": "Top 50 - Netherlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzM3MTY3ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzM3MjU0MjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-05-11 11:20:06",
+      "added_at": "2023-05-12 10:42:34",
       "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/6tsNIdt0wilaoDitknpvC7"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/309wfX4hjhywRlyknsgm8N"
     },
     {
-      "added_at": "2023-05-11 11:20:06",
+      "added_at": "2023-05-12 10:42:34",
       "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
     },
     {
-      "added_at": "2023-05-11 11:20:06",
+      "added_at": "2023-05-12 10:42:34",
       "album": {
         "name": "Engelbewaarder",
         "url": "https://open.spotify.com/album/3c6Hst9lqpnnRRpEbP1RxH"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/2C2vSufLm1wLq2GjDH3iMh"
     },
     {
-      "added_at": "2023-05-11 11:20:06",
+      "added_at": "2023-05-12 10:42:34",
       "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
-      "added_at": "2023-05-11 11:20:06",
+      "added_at": "2023-05-12 10:42:34",
       "album": {
         "name": "Leven",
         "url": "https://open.spotify.com/album/7CDXtPqw2B36tlBnvI912N"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/4fWyBvLIPO68D2Ff87t1em"
     },
     {
-      "added_at": "2023-05-11 11:20:06",
+      "added_at": "2023-05-12 10:42:34",
       "album": {
         "name": "Miracle (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
     },
     {
-      "added_at": "2023-05-11 11:20:06",
+      "added_at": "2023-05-12 10:42:34",
       "album": {
         "name": "Wat Wil Je Van Mij",
         "url": "https://open.spotify.com/album/1y7MAbKaVkvR7G8FkaA1ju"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/7Gzz44FpTbZu0DNVVZjwPs"
     },
     {
-      "added_at": "2023-05-11 11:20:06",
+      "added_at": "2023-05-12 10:42:34",
       "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
@@ -153,7 +153,23 @@
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
     },
     {
-      "added_at": "2023-05-11 11:20:06",
+      "added_at": "2023-05-12 10:42:34",
+      "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "duration_ms": 184791,
+      "name": "People",
+      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
+    },
+    {
+      "added_at": "2023-05-12 10:42:34",
       "album": {
         "name": "Padellen",
         "url": "https://open.spotify.com/album/3q35BTO8rRIOxSPFJgGvh1"
@@ -173,23 +189,7 @@
       "url": "https://open.spotify.com/track/7vjvSnuolvOBNgJDSodY2B"
     },
     {
-      "added_at": "2023-05-11 11:20:06",
-      "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        }
-      ],
-      "duration_ms": 184791,
-      "name": "People",
-      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
-    },
-    {
-      "added_at": "2023-05-11 11:20:06",
+      "added_at": "2023-05-12 10:42:34",
       "album": {
         "name": "Layla",
         "url": "https://open.spotify.com/album/1ba0iVHm6wU4hfVfb8fKhl"
@@ -205,63 +205,7 @@
       "url": "https://open.spotify.com/track/18tV3JqwwB5Acsa8vP12lp"
     },
     {
-      "added_at": "2023-05-11 11:20:06",
-      "album": {
-        "name": "Toute La Night",
-        "url": "https://open.spotify.com/album/0SABD3TM0FJTEZ8qls4OzU"
-      },
-      "artists": [
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        },
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        },
-        {
-          "name": "SRNO",
-          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
-        }
-      ],
-      "duration_ms": 154333,
-      "name": "Toute La Night",
-      "url": "https://open.spotify.com/track/6BCYTbYrUoOMcPVHwtM8gY"
-    },
-    {
-      "added_at": "2023-05-11 11:20:06",
-      "album": {
-        "name": "Ladada (Mon Dernier Mot)",
-        "url": "https://open.spotify.com/album/0MNpgjf367wpgf742ZkHGr"
-      },
-      "artists": [
-        {
-          "name": "Claude",
-          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
-        }
-      ],
-      "duration_ms": 164903,
-      "name": "Ladada (Mon Dernier Mot)",
-      "url": "https://open.spotify.com/track/0LVjBdjZvJykxed42ExTLf"
-    },
-    {
-      "added_at": "2023-05-11 11:20:06",
-      "album": {
-        "name": "Verleden Tijd",
-        "url": "https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 167244,
-      "name": "Verleden Tijd",
-      "url": "https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW"
-    },
-    {
-      "added_at": "2023-05-11 11:20:06",
+      "added_at": "2023-05-12 10:42:34",
       "album": {
         "name": "Zin In De Zomer Man",
         "url": "https://open.spotify.com/album/0fqtF6wuZHItRW9EoNHBOG"
@@ -285,7 +229,7 @@
       "url": "https://open.spotify.com/track/1ThDzyepNdDRIYhU295DNd"
     },
     {
-      "added_at": "2023-05-11 11:20:06",
+      "added_at": "2023-05-12 10:42:34",
       "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
@@ -309,43 +253,47 @@
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
     },
     {
-      "added_at": "2023-05-11 11:20:06",
+      "added_at": "2023-05-12 10:42:34",
       "album": {
-        "name": "- (Deluxe)",
-        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
+        "name": "Ladada (Mon Dernier Mot)",
+        "url": "https://open.spotify.com/album/0MNpgjf367wpgf742ZkHGr"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
         }
       ],
-      "duration_ms": 194848,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg"
+      "duration_ms": 164903,
+      "name": "Ladada (Mon Dernier Mot)",
+      "url": "https://open.spotify.com/track/0LVjBdjZvJykxed42ExTLf"
     },
     {
-      "added_at": "2023-05-11 11:20:06",
+      "added_at": "2023-05-12 10:42:34",
       "album": {
-        "name": "Burning Daylight",
-        "url": "https://open.spotify.com/album/5FdecV9YIP62njz9sgfyWK"
+        "name": "Toute La Night",
+        "url": "https://open.spotify.com/album/0SABD3TM0FJTEZ8qls4OzU"
       },
       "artists": [
         {
-          "name": "Mia Nicolai",
-          "url": "https://open.spotify.com/artist/5oSkgLWQpt5bk4B7JeAzKJ"
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
         },
         {
-          "name": "Dion Cooper",
-          "url": "https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj"
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Burning Daylight",
-      "url": "https://open.spotify.com/track/5pjp1jN7hitQTuSlT2jOep"
+      "duration_ms": 154333,
+      "name": "Toute La Night",
+      "url": "https://open.spotify.com/track/6BCYTbYrUoOMcPVHwtM8gY"
     },
     {
-      "added_at": "2023-05-11 11:20:06",
+      "added_at": "2023-05-12 10:42:34",
       "album": {
         "name": "Slapeloosheid",
         "url": "https://open.spotify.com/album/2DIOF2PigIUoGJWhq9XBCG"
@@ -361,23 +309,39 @@
       "url": "https://open.spotify.com/track/5tiTVSryX1Hu09cPsNvaIR"
     },
     {
-      "added_at": "2023-05-11 11:20:06",
+      "added_at": "2023-05-12 10:42:34",
       "album": {
-        "name": "Betaalbare Romantiek",
-        "url": "https://open.spotify.com/album/2z44b4hwadRlEaNm2SutKO"
+        "name": "- (Deluxe)",
+        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
       },
       "artists": [
         {
-          "name": "Goldband",
-          "url": "https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 214383,
-      "name": "Noodgeval",
-      "url": "https://open.spotify.com/track/2LcmbuYX7tyR4DWy3b273L"
+      "duration_ms": 194848,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg"
     },
     {
-      "added_at": "2023-05-11 11:20:06",
+      "added_at": "2023-05-12 10:42:34",
+      "album": {
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px"
+    },
+    {
+      "added_at": "2023-05-12 10:42:34",
       "album": {
         "name": "Broski\u2019s",
         "url": "https://open.spotify.com/album/6QQveJTy0ZAbqBMTYwpS3V"
@@ -397,7 +361,23 @@
       "url": "https://open.spotify.com/track/3D0wRuJbUqjoLdeXEYc5E3"
     },
     {
-      "added_at": "2023-05-11 11:20:06",
+      "added_at": "2023-05-12 10:42:34",
+      "album": {
+        "name": "Therapie",
+        "url": "https://open.spotify.com/album/7K56y28CXxhIvGI2MKcHIO"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Therapie",
+      "url": "https://open.spotify.com/track/323zcUSa2qrq0aUAwL30sT"
+    },
+    {
+      "added_at": "2023-05-12 10:42:34",
       "album": {
         "name": "19 & Dangerous (Deluxe)",
         "url": "https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8"
@@ -413,23 +393,39 @@
       "url": "https://open.spotify.com/track/1xs8bOvm3IzEYmcLJVOc34"
     },
     {
-      "added_at": "2023-05-11 11:20:06",
+      "added_at": "2023-05-12 10:42:34",
       "album": {
-        "name": "DRIVE",
-        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
+        "name": "Betaalbare Romantiek",
+        "url": "https://open.spotify.com/album/2z44b4hwadRlEaNm2SutKO"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Goldband",
+          "url": "https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p"
         }
       ],
-      "duration_ms": 153442,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px"
+      "duration_ms": 214383,
+      "name": "Noodgeval",
+      "url": "https://open.spotify.com/track/2LcmbuYX7tyR4DWy3b273L"
     },
     {
-      "added_at": "2023-05-11 11:20:06",
+      "added_at": "2023-05-12 10:42:34",
+      "album": {
+        "name": "Verleden Tijd",
+        "url": "https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 167244,
+      "name": "Verleden Tijd",
+      "url": "https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW"
+    },
+    {
+      "added_at": "2023-05-12 10:42:34",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -453,23 +449,7 @@
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
-      "added_at": "2023-05-11 11:20:06",
-      "album": {
-        "name": "Therapie",
-        "url": "https://open.spotify.com/album/7K56y28CXxhIvGI2MKcHIO"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Tauran",
-          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Therapie",
-      "url": "https://open.spotify.com/track/323zcUSa2qrq0aUAwL30sT"
-    },
-    {
-      "added_at": "2023-05-11 11:20:06",
+      "added_at": "2023-05-12 10:42:34",
       "album": {
         "name": "Paracetamollen",
         "url": "https://open.spotify.com/album/2RU3CznHQtlgC1P6vZvEzf"
@@ -485,7 +465,7 @@
       "url": "https://open.spotify.com/track/50vXZhuyOfXaEkG3jVacmd"
     },
     {
-      "added_at": "2023-05-11 11:20:06",
+      "added_at": "2023-05-12 10:42:34",
       "album": {
         "name": "Call It Love",
         "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
@@ -505,7 +485,31 @@
       "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
     },
     {
-      "added_at": "2023-05-11 11:20:06",
+      "added_at": "2023-05-12 10:42:34",
+      "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 157252,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e"
+    },
+    {
+      "added_at": "2023-05-12 10:42:34",
       "album": {
         "name": "Morgen Wordt Fantastisch",
         "url": "https://open.spotify.com/album/2gwvQ8E4bcZbua78zLrj61"
@@ -521,7 +525,7 @@
       "url": "https://open.spotify.com/track/2UI9rmmINuXVWeOrprjWBy"
     },
     {
-      "added_at": "2023-05-11 11:20:06",
+      "added_at": "2023-05-12 10:42:34",
       "album": {
         "name": "Ome Duo",
         "url": "https://open.spotify.com/album/3Qen67cuyJkLyexFWpnQbJ"
@@ -553,31 +557,27 @@
       "url": "https://open.spotify.com/track/7EPNjzimfSsX4bsjQZwAIm"
     },
     {
-      "added_at": "2023-05-11 11:20:06",
+      "added_at": "2023-05-12 10:42:34",
       "album": {
-        "name": "Back To You",
-        "url": "https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr"
+        "name": "Burning Daylight",
+        "url": "https://open.spotify.com/album/5FdecV9YIP62njz9sgfyWK"
       },
       "artists": [
         {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+          "name": "Mia Nicolai",
+          "url": "https://open.spotify.com/artist/5oSkgLWQpt5bk4B7JeAzKJ"
         },
         {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        },
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+          "name": "Dion Cooper",
+          "url": "https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj"
         }
       ],
-      "duration_ms": 157252,
-      "name": "Back To You",
-      "url": "https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e"
+      "duration_ms": 184000,
+      "name": "Burning Daylight",
+      "url": "https://open.spotify.com/track/5pjp1jN7hitQTuSlT2jOep"
     },
     {
-      "added_at": "2023-05-11 11:20:06",
+      "added_at": "2023-05-12 10:42:34",
       "album": {
         "name": "Rommel",
         "url": "https://open.spotify.com/album/6iyEGMk28j3ZuiQxz5lvU5"
@@ -593,7 +593,7 @@
       "url": "https://open.spotify.com/track/0pw06mcIzuAeLPOHZT7W4Z"
     },
     {
-      "added_at": "2023-05-11 11:20:06",
+      "added_at": "2023-05-12 10:42:34",
       "album": {
         "name": "Chemical",
         "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
@@ -609,7 +609,7 @@
       "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
     },
     {
-      "added_at": "2023-05-11 11:20:06",
+      "added_at": "2023-05-12 10:42:34",
       "album": {
         "name": "THIS YEAR (Blessings)",
         "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
@@ -629,23 +629,7 @@
       "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
     },
     {
-      "added_at": "2023-05-11 11:20:06",
-      "album": {
-        "name": "Head Held High",
-        "url": "https://open.spotify.com/album/7w5yY2cw3KJqRoVnlNzmrt"
-      },
-      "artists": [
-        {
-          "name": "SERA",
-          "url": "https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE"
-        }
-      ],
-      "duration_ms": 196220,
-      "name": "Head Held High",
-      "url": "https://open.spotify.com/track/60sCCPmAff8HfYWpaXQQ9e"
-    },
-    {
-      "added_at": "2023-05-11 11:20:06",
+      "added_at": "2023-05-12 10:42:34",
       "album": {
         "name": "Long Way Down",
         "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
@@ -661,75 +645,23 @@
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
     },
     {
-      "added_at": "2023-05-11 11:20:06",
+      "added_at": "2023-05-12 10:42:34",
       "album": {
-        "name": "Dyscalculie",
-        "url": "https://open.spotify.com/album/1hJBIeaY6hODwbYq0Zwsnk"
+        "name": "Head Held High",
+        "url": "https://open.spotify.com/album/7w5yY2cw3KJqRoVnlNzmrt"
       },
       "artists": [
         {
-          "name": "Maks",
-          "url": "https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI"
+          "name": "SERA",
+          "url": "https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE"
         }
       ],
-      "duration_ms": 93509,
-      "name": "Dyscalculie",
-      "url": "https://open.spotify.com/track/0LNT7X2PU2gg8vpMZHC37n"
+      "duration_ms": 196220,
+      "name": "Head Held High",
+      "url": "https://open.spotify.com/track/60sCCPmAff8HfYWpaXQQ9e"
     },
     {
-      "added_at": "2023-05-11 11:20:06",
-      "album": {
-        "name": "Queen of Kings",
-        "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
-      },
-      "artists": [
-        {
-          "name": "Alessandra",
-          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
-        }
-      ],
-      "duration_ms": 147979,
-      "name": "Queen of Kings",
-      "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
-    },
-    {
-      "added_at": "2023-05-11 11:20:06",
-      "album": {
-        "name": "I'm Good (Blue)",
-        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "I'm Good (Blue)",
-      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
-    },
-    {
-      "added_at": "2023-05-11 11:20:06",
-      "album": {
-        "name": "I'll Be Waiting (Sad At Christmas)",
-        "url": "https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM"
-      },
-      "artists": [
-        {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
-        }
-      ],
-      "duration_ms": 172547,
-      "name": "I'll Be Waiting",
-      "url": "https://open.spotify.com/track/0JIhRhZPF5j5dx0FGqTWxy"
-    },
-    {
-      "added_at": "2023-05-11 11:20:06",
+      "added_at": "2023-05-12 10:42:34",
       "album": {
         "name": "February Stories",
         "url": "https://open.spotify.com/album/3hkRbcvcmfrj1fWrBe2oY3"
@@ -749,59 +681,23 @@
       "url": "https://open.spotify.com/track/5RpEwmsV97REIDvj3rVPJ9"
     },
     {
-      "added_at": "2023-05-11 11:20:06",
+      "added_at": "2023-05-12 10:42:34",
       "album": {
-        "name": "TRUSTFALL",
-        "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
+        "name": "Dyscalculie",
+        "url": "https://open.spotify.com/album/1hJBIeaY6hODwbYq0Zwsnk"
       },
       "artists": [
         {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+          "name": "Maks",
+          "url": "https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI"
         }
       ],
-      "duration_ms": 237200,
-      "name": "TRUSTFALL",
-      "url": "https://open.spotify.com/track/1gUwi1o1S9W9P0FQgJdY8s"
+      "duration_ms": 93509,
+      "name": "Dyscalculie",
+      "url": "https://open.spotify.com/track/0LNT7X2PU2gg8vpMZHC37n"
     },
     {
-      "added_at": "2023-05-11 11:20:06",
-      "album": {
-        "name": "Starboy (Deluxe)",
-        "url": "https://open.spotify.com/album/35dut3ICqF3NEDkjxfzJJ1"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 232857,
-      "name": "Die For You (with Ariana Grande) - Remix",
-      "url": "https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2"
-    },
-    {
-      "added_at": "2023-05-11 11:20:06",
-      "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/2FnKv8ojZpkBWNUeknz3la"
-      },
-      "artists": [
-        {
-          "name": "Davina Michelle",
-          "url": "https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1"
-        }
-      ],
-      "duration_ms": 198803,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/0pbLHJrEZFFo3qijqi7XDl"
-    },
-    {
-      "added_at": "2023-05-11 11:20:06",
+      "added_at": "2023-05-12 10:42:34",
       "album": {
         "name": "Wish You The Best",
         "url": "https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS"
@@ -817,83 +713,7 @@
       "url": "https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3"
     },
     {
-      "added_at": "2023-05-11 11:20:06",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 186043,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt"
-    },
-    {
-      "added_at": "2023-05-11 11:20:06",
-      "album": {
-        "name": "Until I Found You (Em Beihold Version)",
-        "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        },
-        {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
-        }
-      ],
-      "duration_ms": 176440,
-      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
-      "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
-    },
-    {
-      "added_at": "2023-05-11 11:20:06",
-      "album": {
-        "name": "Leidseplein",
-        "url": "https://open.spotify.com/album/3qrxL8lc4PrftAnuTvxpgC"
-      },
-      "artists": [
-        {
-          "name": "Sigourney K",
-          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
-        },
-        {
-          "name": "KATNUF",
-          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
-        }
-      ],
-      "duration_ms": 161831,
-      "name": "Leidseplein",
-      "url": "https://open.spotify.com/track/0Hi3vw8XJ14gs9zE721zmN"
-    },
-    {
-      "added_at": "2023-05-11 11:20:06",
-      "album": {
-        "name": "Kipstraat",
-        "url": "https://open.spotify.com/album/754TV1bogkbikwMZjNQ3BY"
-      },
-      "artists": [
-        {
-          "name": "Kevin",
-          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
-        },
-        {
-          "name": "JoeyAK",
-          "url": "https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0"
-        }
-      ],
-      "duration_ms": 207437,
-      "name": "Kipstraat",
-      "url": "https://open.spotify.com/track/0pprNYhVAk7SFtVLtEnyfC"
-    },
-    {
-      "added_at": "2023-05-11 11:20:06",
+      "added_at": "2023-05-12 10:42:34",
       "album": {
         "name": "DARBA 9ADIYA",
         "url": "https://open.spotify.com/album/0A32UfWq7bigKFdXJ0o2LW"
@@ -917,7 +737,187 @@
       "url": "https://open.spotify.com/track/0WCiCbdRB54GMzlRGs3Fa4"
     },
     {
-      "added_at": "2023-05-11 11:20:06",
+      "added_at": "2023-05-12 10:42:34",
+      "album": {
+        "name": "I'll Be Waiting (Sad At Christmas)",
+        "url": "https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 172547,
+      "name": "I'll Be Waiting",
+      "url": "https://open.spotify.com/track/0JIhRhZPF5j5dx0FGqTWxy"
+    },
+    {
+      "added_at": "2023-05-12 10:42:34",
+      "album": {
+        "name": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 175238,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
+    },
+    {
+      "added_at": "2023-05-12 10:42:34",
+      "album": {
+        "name": "Queen of Kings",
+        "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
+        }
+      ],
+      "duration_ms": 147979,
+      "name": "Queen of Kings",
+      "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
+    },
+    {
+      "added_at": "2023-05-12 10:42:34",
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/2FnKv8ojZpkBWNUeknz3la"
+      },
+      "artists": [
+        {
+          "name": "Davina Michelle",
+          "url": "https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1"
+        }
+      ],
+      "duration_ms": 198803,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/0pbLHJrEZFFo3qijqi7XDl"
+    },
+    {
+      "added_at": "2023-05-12 10:42:34",
+      "album": {
+        "name": "Starboy (Deluxe)",
+        "url": "https://open.spotify.com/album/35dut3ICqF3NEDkjxfzJJ1"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 232857,
+      "name": "Die For You (with Ariana Grande) - Remix",
+      "url": "https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2"
+    },
+    {
+      "added_at": "2023-05-12 10:42:34",
+      "album": {
+        "name": "TRUSTFALL",
+        "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "TRUSTFALL",
+      "url": "https://open.spotify.com/track/1gUwi1o1S9W9P0FQgJdY8s"
+    },
+    {
+      "added_at": "2023-05-12 10:42:34",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 186043,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt"
+    },
+    {
+      "added_at": "2023-05-12 10:42:34",
+      "album": {
+        "name": "Until I Found You (Em Beihold Version)",
+        "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        },
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "duration_ms": 176440,
+      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
+      "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
+    },
+    {
+      "added_at": "2023-05-12 10:42:34",
+      "album": {
+        "name": "Leidseplein",
+        "url": "https://open.spotify.com/album/3qrxL8lc4PrftAnuTvxpgC"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        },
+        {
+          "name": "KATNUF",
+          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
+        }
+      ],
+      "duration_ms": 161831,
+      "name": "Leidseplein",
+      "url": "https://open.spotify.com/track/0Hi3vw8XJ14gs9zE721zmN"
+    },
+    {
+      "added_at": "2023-05-12 10:42:34",
+      "album": {
+        "name": "Kipstraat",
+        "url": "https://open.spotify.com/album/754TV1bogkbikwMZjNQ3BY"
+      },
+      "artists": [
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        },
+        {
+          "name": "JoeyAK",
+          "url": "https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0"
+        }
+      ],
+      "duration_ms": 207437,
+      "name": "Kipstraat",
+      "url": "https://open.spotify.com/track/0pprNYhVAk7SFtVLtEnyfC"
+    },
+    {
+      "added_at": "2023-05-12 10:42:34",
       "album": {
         "name": "Cha Cha Cha",
         "url": "https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6"

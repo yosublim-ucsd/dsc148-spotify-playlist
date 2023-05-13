@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-684 songs - 2 day 1 hr 54 min
+685 songs - 2 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Cherry Blossom](https://open.spotify.com/track/1AMYy0LjeIQ5jVs7J0ym9P) | [The Grace Smith Gang](https://open.spotify.com/artist/3wyD1yWbuRCI7JevgoI5Cv) | [Cherry Blossom](https://open.spotify.com/album/6aslcHlAWXZbMcdgkxQbrf) | 3:08 | 2023-04-27 |  |
 | [Cherry Stone](https://open.spotify.com/track/0KZfDnUWPFIHWUZwI1I9sR) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Cherry Stone](https://open.spotify.com/album/1tHbVA6rLJnO4db208ZLSA) | 3:23 | 2022-12-08 |  |
 | [Ciaccona per Embrik](https://open.spotify.com/track/4rznhkoOr1AYneKuWBef4V) | [Trygve Seim](https://open.spotify.com/artist/4puHZxpgNVKxk6ydFviSM8) | [Helsinki Songs](https://open.spotify.com/album/3Kq1Dy1BmAVco780WvXwnM) | 6:00 | 2022-04-14 | 2022-10-02 |
+| [City Lights and Midnight Blues](https://open.spotify.com/track/39HUxb7DxlOSXAGxENoYXg) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [City Lights and Midnight Blues](https://open.spotify.com/album/2mVtNuGjtZRdVQcd0nBurF) | 3:56 | 2023-05-04 |  |
 | [Clear Sight](https://open.spotify.com/track/6LLyyfz8BYrHtd3yPkrPad) | [Midtown Trio](https://open.spotify.com/artist/6WVEwzrXXaJ8JTk1KLkleT) | [Clear Sight](https://open.spotify.com/album/7HPrgW1TsSF5rZAUoGKX4S) | 2:47 | 2022-09-29 |  |
 | [Clowns And Crowns](https://open.spotify.com/track/2xQWfbb9oAoPpeLNNIyOoR) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Clowns And Crowns](https://open.spotify.com/album/4LECNBb5hlVQolcsuoNt0p) | 4:01 | 2023-03-16 |  |
 | [Come on..\. Lucky!](https://open.spotify.com/track/0gyjqALKXPICWiV5j7Bddn) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Come on..\. Lucky!](https://open.spotify.com/album/29N1R6VjY2ynfNJwAXROnX) | 2:44 | 2023-04-20 |  |
@@ -144,7 +145,7 @@
 | [Dear Old Stockholm](https://open.spotify.com/track/6q79ug6e5EVGmkeEuJtDQu) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Swedish Ballads..\. & More](https://open.spotify.com/album/2CrBPHoWZrRA79fU1VRC8s) | 9:56 | 2022-04-14 | 2022-07-29 |
 | [Dear Old Thing](https://open.spotify.com/track/0pZzAYPfcYXXHkflWkV0rB) | [Nick Walters](https://open.spotify.com/artist/5a6sros3Ji7xS9QKav9il2), [The Paradox Ensemble](https://open.spotify.com/artist/7qGVjaMzrfiSDgw5ZARJ18) | [Awakening](https://open.spotify.com/album/1H8iVgSGr10YYPGxjp0kt6) | 6:28 | 2022-08-29 | 2022-09-22 |
 | [Dear Old Thing](https://open.spotify.com/track/4hxj5xy0RFnMlV2gEkR3Vo) | [Nick Walters](https://open.spotify.com/artist/5a6sros3Ji7xS9QKav9il2), [The Paradox Ensemble](https://open.spotify.com/artist/7qGVjaMzrfiSDgw5ZARJ18) | [Dear Old Thing](https://open.spotify.com/album/6tHI7rtkHvUHedrPq6xOMT) | 6:28 | 2022-04-14 | 2022-07-29 |
-| [Deep in a Dream](https://open.spotify.com/track/069VcK8RjjzhZK3UT3A8ja) | [Dmitry Baevsky](https://open.spotify.com/artist/728obCMssc3nIbC1qyaWJq), [Clovis Nicolas](https://open.spotify.com/artist/5JsYUdqyzTibf8j5w3PXKh), [Jason Brown](https://open.spotify.com/artist/2MYIvlQlzAXcgIlS4qqflY), [Stéphane Belmondo](https://open.spotify.com/artist/7uHyUkVGYl24xpCzTGZlzQ) | [Deep in a Dream](https://open.spotify.com/album/3kvH4Zr11zkfvUtwGS2Z7F) | 5:40 | 2023-01-19 |  |
+| [Deep in a Dream](https://open.spotify.com/track/069VcK8RjjzhZK3UT3A8ja) | [Dmitry Baevsky](https://open.spotify.com/artist/728obCMssc3nIbC1qyaWJq), [Clovis Nicolas](https://open.spotify.com/artist/5JsYUdqyzTibf8j5w3PXKh), [Jason Brown](https://open.spotify.com/artist/2MYIvlQlzAXcgIlS4qqflY), [Stéphane Belmondo](https://open.spotify.com/artist/7uHyUkVGYl24xpCzTGZlzQ) | [Deep in a Dream](https://open.spotify.com/album/3kvH4Zr11zkfvUtwGS2Z7F) | 5:40 | 2023-01-19 | 2023-05-13 |
 | [Didn't Know About You](https://open.spotify.com/track/1UjcfBPJt8mMvJ5QyfaWuq) | [Johnny Hodges & His Orchestra](https://open.spotify.com/artist/586u2f7H540oCefUIazflT) | [Blues\-A\-Plenty](https://open.spotify.com/album/43tAFmiohGIyehQQdd3Fps) | 3:32 | 2022-06-30 |  |
 | [Dim](https://open.spotify.com/track/50ma4LjaP5XDL1BsHrZ1D9) | [Davy Mooney](https://open.spotify.com/artist/4d73pkSAEvk4LdXH4DTyxq), [Ko Omura](https://open.spotify.com/artist/4emLm5IIufRxMupCYZB3DP) | [Benign Strangers](https://open.spotify.com/album/0GiNCOob4dZtBafvM8JrHG) | 6:05 | 2022-04-14 | 2022-07-28 |
 | [Dim](https://open.spotify.com/track/7M2CYOlGuAC73LnWPPbNGA) | [Davy Mooney](https://open.spotify.com/artist/4d73pkSAEvk4LdXH4DTyxq), [Ko Omura](https://open.spotify.com/artist/4emLm5IIufRxMupCYZB3DP) | [Benign Strangers](https://open.spotify.com/album/7AhaDHqyVLlmSxc5iAG5Nx) | 6:05 | 2022-08-29 | 2022-09-23 |

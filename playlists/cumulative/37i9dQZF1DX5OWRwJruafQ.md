@@ -2,9 +2,9 @@
 
 ### [Ghaint Flow](https://open.spotify.com/playlist/37i9dQZF1DX5OWRwJruafQ)
 
-> Keep it Punjabi, Keep it Real\. Cover: Varinder Brar
+> Keep it Punjabi, Keep it Real\. Cover: Wazir Patar
 
-111 songs - 5 hr 26 min
+113 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Black Effect](https://open.spotify.com/track/3u1M5fVPD73IElMCBOYyiJ) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Black Effect](https://open.spotify.com/album/3ur9x6ksnT3OUlgk1dghrj) | 2:55 | 2023-03-29 |  |
 | [Blackia](https://open.spotify.com/track/6G6NmeI3pYtySZwyye0tve) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Blackia](https://open.spotify.com/album/40kwbF5EXqVjMOs4XLnnlL) | 3:41 | 2023-03-29 |  |
 | [Bne Na Bne](https://open.spotify.com/track/1DOHmhUluD2V8p2NsKTPFl) | [Sunny Randhawa](https://open.spotify.com/artist/3h87sa2W1TI6kn30DMwz15) | [Bne Na Bne](https://open.spotify.com/album/3yHo3bf6vHcr6OtwhwzhJY) | 2:54 | 2023-03-29 |  |
+| [Bold And Brave](https://open.spotify.com/track/2SFzf5hp9itASMzGykdVWZ) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Back To Skool](https://open.spotify.com/album/2nV3fDaXXox4sEs3NFllkG) | 2:30 | 2023-05-12 |  |
 | [Busy Getting Paid](https://open.spotify.com/track/6JQuDtJCyQcfVdtA0K8ivR) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Busy Getting Paid](https://open.spotify.com/album/7cyE3wvdW2DEf6nUBmygBK) | 3:07 | 2023-04-27 |  |
 | [Calaboose](https://open.spotify.com/track/2wHTMZwkLbpM6LNkUBs2Xt) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:05 | 2023-03-29 |  |
 | [Can't Judge](https://open.spotify.com/track/7HI8nsYQlsdz3DA02qbEpl) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [Kelly](https://open.spotify.com/artist/4rJT3c6YMsd8gcZNgLpGS5) | [Versatile](https://open.spotify.com/album/7EDCJpN41sqQERoxzIsk4V) | 1:59 | 2023-04-14 | 2023-04-21 |
@@ -59,6 +60,7 @@
 | [Hold On](https://open.spotify.com/track/1rtqV8vLqY6bvFw1Mna6rs) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Awara](https://open.spotify.com/album/5yfA6iH6eQ4JkhT0z9mmmF) | 3:02 | 2023-03-29 |  |
 | [Hood Famous](https://open.spotify.com/track/5iVYMQKl3OZi0ULxeKAkho) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Relentless](https://open.spotify.com/album/5RUFZa2yj47Co6rMWEJzwQ) | 2:56 | 2023-03-29 |  |
 | [Hustle](https://open.spotify.com/track/6o2hiOdWaq6hySMxPiQ04q) | [Tyson Sidhu](https://open.spotify.com/artist/5wGjQPYmBAnDmtNeOMoavY) | [Hustle](https://open.spotify.com/album/3xfxVyBuJ0Uf6sTxOpEFkZ) | 2:37 | 2023-03-29 | 2023-04-21 |
+| [Hustle Evuryday](https://open.spotify.com/track/3esqivaz1tFBLv2QeuEfiQ) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Back To Skool](https://open.spotify.com/album/2nV3fDaXXox4sEs3NFllkG) | 2:46 | 2023-05-12 |  |
 | [If I Die](https://open.spotify.com/track/6Hz3tNl55T31nuoX5NKybR) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [If I Die](https://open.spotify.com/album/78piK5s0g1fcELSLFzvDbI) | 3:06 | 2023-03-29 |  |
 | [Invincible \(feat\. Stefflon Don\)](https://open.spotify.com/track/2NBYiYtI4v1ujkhHZBq3xw) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:04 | 2023-03-29 |  |
 | [It Ain't Legal](https://open.spotify.com/track/0i7w67qCK2iCDtraKCshXZ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [B.T.F.U](https://open.spotify.com/album/1qH7e7TaKxpHxu4mGxofDs) | 3:34 | 2023-03-29 |  |

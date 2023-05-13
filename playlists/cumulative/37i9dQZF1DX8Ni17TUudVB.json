@@ -2428,7 +2428,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 168226,
       "name": "Look",
       "url": "https://open.spotify.com/track/2UnYp6QyIXKJiDF0tB8Smy"
@@ -3468,6 +3468,36 @@
       "duration_ms": 167619,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/5otdjL2CJnNLbY3WqHJzMD"
+    },
+    {
+      "album": {
+        "name": "Shock (feat. Kabasaki)",
+        "url": "https://open.spotify.com/album/3Bz8QogW92aM0p6YkXwqsp"
+      },
+      "artists": [
+        {
+          "name": "Ceaese",
+          "url": "https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9"
+        },
+        {
+          "name": "Aqua VS",
+          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
+        },
+        {
+          "name": "Fuka",
+          "url": "https://open.spotify.com/artist/5TyQ1yXiSsZxrJHrL5kFmZ"
+        },
+        {
+          "name": "Kabasaki",
+          "url": "https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167113,
+      "name": "Shock (feat. Kabasaki)",
+      "url": "https://open.spotify.com/track/0aHZqxYvut2l9cqJ73VrpK"
     },
     {
       "album": {

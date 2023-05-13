@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 174367,
+  "num_followers": 174532,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjZkYThhZGM4YTAwNGVlNTNmMDlhZTEyMzExM2RmMjYzZDQxYmZi",
+  "snapshot_id": "MCxmZGQ1MjU5OTZmNjZjM2FkMjFiM2Y1NmY5NjY5ZWZmOGI2NzcxMDA3",
   "tracks": [
     {
       "added_at": "2022-02-03 02:43:26",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 245654,
+      "name": "It All Feels Right",
+      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "Our Love",
         "url": "https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7"
       },
@@ -511,18 +527,18 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Paracosm",
-        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
+        "name": "Soon It Will Be Cold Enough",
+        "url": "https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU"
       },
       "artists": [
         {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+          "name": "Emancipator",
+          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
         }
       ],
-      "duration_ms": 245654,
-      "name": "It All Feels Right",
-      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
+      "duration_ms": 180520,
+      "name": "Soon It Will Be Cold Enough to Build Fires",
+      "url": "https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -543,22 +559,6 @@
       "duration_ms": 251356,
       "name": "Marilyn",
       "url": "https://open.spotify.com/track/75gwWphI9gXlNV0xDyixMw"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "Soon It Will Be Cold Enough",
-        "url": "https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU"
-      },
-      "artists": [
-        {
-          "name": "Emancipator",
-          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
-        }
-      ],
-      "duration_ms": 180520,
-      "name": "Soon It Will Be Cold Enough to Build Fires",
-      "url": "https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Sabresonic",
-        "url": "https://open.spotify.com/album/22UTF5k9TRZ1Mg2V0i0qLw"
-      },
-      "artists": [
-        {
-          "name": "The Sabres Of Paradise",
-          "url": "https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS"
-        }
-      ],
-      "duration_ms": 256133,
-      "name": "Smokebelch II - Beatless Mix",
-      "url": "https://open.spotify.com/track/5Z8BtdkhEzHbb8QlYODMgM"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Fourth Wall",
         "url": "https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 245123,
       "name": "Half Hour Verve",
       "url": "https://open.spotify.com/track/0ffiGkNSrTfbvkXHLz2gGk"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Sabresonic",
+        "url": "https://open.spotify.com/album/22UTF5k9TRZ1Mg2V0i0qLw"
+      },
+      "artists": [
+        {
+          "name": "The Sabres Of Paradise",
+          "url": "https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "Smokebelch II - Beatless Mix",
+      "url": "https://open.spotify.com/track/5Z8BtdkhEzHbb8QlYODMgM"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Permanence",
-        "url": "https://open.spotify.com/album/0SkPmxCUValW4Zpy91uVz3"
-      },
-      "artists": [
-        {
-          "name": "Lomea",
-          "url": "https://open.spotify.com/artist/5p7mJWhUVX9sTV1nr2bBsx"
-        }
-      ],
-      "duration_ms": 229158,
-      "name": "Permanence",
-      "url": "https://open.spotify.com/track/5dxeMseehuQ30ZaIsPKmoC"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "I Lost My Body (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG"
       },
@@ -1547,18 +1531,18 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/6a6QDSVW69j9RM5o0VqwTv"
+        "name": "Permanence",
+        "url": "https://open.spotify.com/album/0SkPmxCUValW4Zpy91uVz3"
       },
       "artists": [
         {
-          "name": "Jacques Greene",
-          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+          "name": "Lomea",
+          "url": "https://open.spotify.com/artist/5p7mJWhUVX9sTV1nr2bBsx"
         }
       ],
-      "duration_ms": 209806,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/7tasS3I1UPfb4i1YsNiLst"
+      "duration_ms": 229158,
+      "name": "Permanence",
+      "url": "https://open.spotify.com/track/5dxeMseehuQ30ZaIsPKmoC"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1575,6 +1559,22 @@
       "duration_ms": 181440,
       "name": "Light Bodied",
       "url": "https://open.spotify.com/track/2ZItZwBUl47tieac2NBBcP"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/6a6QDSVW69j9RM5o0VqwTv"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "duration_ms": 209806,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/7tasS3I1UPfb4i1YsNiLst"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "The Tunnel and the Clearing",
-        "url": "https://open.spotify.com/album/6iVlwI2lSSNISO2ypqXBQV"
-      },
-      "artists": [
-        {
-          "name": "Colleen",
-          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
-        }
-      ],
-      "duration_ms": 333706,
-      "name": "Implosion-Explosion",
-      "url": "https://open.spotify.com/track/3XFE2WVHJ8VpSue33r9POm"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Cerulean",
         "url": "https://open.spotify.com/album/1jjUFDODxguSdb2hZLF2au"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 197346,
       "name": "\u2665",
       "url": "https://open.spotify.com/track/49eZ5yVONl5o1O4UOdqKMQ"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "The Tunnel and the Clearing",
+        "url": "https://open.spotify.com/album/6iVlwI2lSSNISO2ypqXBQV"
+      },
+      "artists": [
+        {
+          "name": "Colleen",
+          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
+        }
+      ],
+      "duration_ms": 333706,
+      "name": "Implosion-Explosion",
+      "url": "https://open.spotify.com/track/3XFE2WVHJ8VpSue33r9POm"
     },
     {
       "added_at": "2022-02-03 02:43:26",

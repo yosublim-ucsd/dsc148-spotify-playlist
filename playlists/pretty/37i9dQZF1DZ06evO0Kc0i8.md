@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Kc0i8.md) - [plain]
 
 > This is Rauw Alejandro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,358 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,849 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Kc0i8.md) - [plain]
 | 49 | [Al Mismo Tiempo](https://open.spotify.com/track/7CF4dWivLZf3Hdg0FKL9Eb) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Trap Cake, Vol\. 1](https://open.spotify.com/album/37rUi63O4koMFvrSC1EMam) | 4:10 |
 | 50 | [Enchule](https://open.spotify.com/track/0S9ZVNTNRzLMgb96tmmG1u) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 3:05 |
 
-Snapshot ID: `MjgwNjM0NjIsMDAwMDAwMDA0NzNiOGUyOGUwNTk0Y2Q4ZTBlMzAyZjFiMWY0MjU1OA==`
+Snapshot ID: `MjgwNjQ5MDksMDAwMDAwMDA4MGZhZTM0M2E4OGU1OWE4NGI1OWY0OWE3OTc4MzkzNw==`

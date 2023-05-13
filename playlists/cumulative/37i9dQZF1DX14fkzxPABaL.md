@@ -2,9 +2,9 @@
 
 ### [Enamorándose](https://open.spotify.com/playlist/37i9dQZF1DX14fkzxPABaL)
 
-> La música que te acompaña en el amor\. Foto: Maria Becerra
+> La música que te acompaña en el amor\. Foto: Diego Torres
 
-179 songs - 9 hr 48 min
+180 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Estabas Ahí](https://open.spotify.com/track/5IwOgqXn6mE1XTIOwnB6Zz) | [Daniela Castillo](https://open.spotify.com/artist/7nriakmj7Rcq8KhhaLSgja) | [Estabas Ahí](https://open.spotify.com/album/7JWGVjzXvuslaS4bxfuHBi) | 3:27 | 2022-01-21 |  |
 | [Estar contigo \(feat\. La Oreja de Van Gogh\)](https://open.spotify.com/track/7G1ZWXlnSXRQ1arx8I60Yd) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Estar contigo \(feat\. La Oreja de Van Gogh\)](https://open.spotify.com/album/23h7gVEPjvnosj6kQsuv2Y) | 3:57 | 2022-02-11 |  |
 | [Este Corazón](https://open.spotify.com/track/01Er69gC98QtvINyqv3az9) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Este Corazón](https://open.spotify.com/album/5ztxAkYymgzvG9C6ri4SYL) | 3:20 | 2022-01-14 |  |
-| [Eva](https://open.spotify.com/track/3kof23H8ZheEzzhARBlf4o) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Eva](https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz) | 4:08 | 2023-03-17 |  |
+| [Eva](https://open.spotify.com/track/3kof23H8ZheEzzhARBlf4o) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Eva](https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz) | 4:08 | 2023-03-17 | 2023-05-13 |
 | [Expectativas](https://open.spotify.com/track/52VSw6NJEKV9IOzi1oSiEp) | [Elisa](https://open.spotify.com/artist/0gnQN7JojqeQnPJllZWNoX) | [Expectativas](https://open.spotify.com/album/73keiP9w81BxkKXTcME3E1) | 4:01 | 2022-07-15 |  |
 | [Fantasias \- Unplugged](https://open.spotify.com/track/6qqd7DGn2VXzxsR4k3Ycun) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Fantasias \(Unplugged\)](https://open.spotify.com/album/2NQINd10CuEMzd7wBMZc7G) | 3:20 | 2022-01-14 |  |
 | [Forever My Love](https://open.spotify.com/track/6TYuTMfBTU4hpXrhLsjIiV) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 3:10 | 2022-04-05 | 2023-04-15 |
@@ -127,6 +127,7 @@
 | [Nuestra Balada](https://open.spotify.com/track/31T16Ycgad8QEKjo1hl356) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Nuestra Balada](https://open.spotify.com/album/6LaYsZ3kISiMSMUDHOfeUi) | 2:47 | 2022-01-14 | 2022-04-02 |
 | [Ojalá Pudiera](https://open.spotify.com/track/2ud45t5skUgbBSYj3hiAEM) | [Homie !](https://open.spotify.com/artist/4c1BgObTgQqoxgky79mgQB), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Ojalá Pudiera](https://open.spotify.com/album/2ctSZbRky4U8Vbe8XBJceV) | 3:52 | 2022-01-14 | 2022-02-12 |
 | [Otra Noche Sin Ti](https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Otra Noche Sin Ti](https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV) | 3:48 | 2022-01-14 | 2022-07-16 |
+| [Parece Mentira](https://open.spotify.com/track/6MPOkyax2MTcsMVhbQ93vz) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Parece Mentira](https://open.spotify.com/album/4qVv2WWXeyeLZqXmbIJ1Pm) | 3:33 | 2023-05-12 |  |
 | [Pareja Del Año](https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Pareja Del Año](https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ) | 3:15 | 2022-01-14 | 2022-07-23 |
 | [Perfecta](https://open.spotify.com/track/6VOb0Kkrd45Bp5RHYSla2J) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Perfecta](https://open.spotify.com/album/5ON2micjtMSXspIHMxh5gc) | 2:54 | 2022-01-14 |  |
 | [Pero Te Conocí](https://open.spotify.com/track/30brAfx64jxQMeUNUgDFaj) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [20 \-\- 21](https://open.spotify.com/album/7H9fuEWZlieEdYj4galfnc) | 3:06 | 2022-07-22 |  |
@@ -140,7 +141,7 @@
 | [providencia111](https://open.spotify.com/track/699DNqDW75pAtQuvbXSOEb) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Verano, por siempre](https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc) | 2:55 | 2022-01-14 | 2022-04-16 |
 | [Que Se Parezca A Ti](https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales \(Deluxe Edition\)](https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU) | 3:04 | 2023-03-31 |  |
 | [Qué Pena](https://open.spotify.com/track/7C4VynskxHgu4EvyudDZCC) | [Joshua Dietrich](https://open.spotify.com/artist/4vPrmLDojtC3tm1jXb4XfM), [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Qué Pena](https://open.spotify.com/album/5cyrC29CWasWVxGmSENhnj) | 3:46 | 2022-01-14 | 2022-08-03 |
-| [Quédate](https://open.spotify.com/track/4qaZgDX8Yp9iwboMUZaQgu) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Quédate](https://open.spotify.com/album/711RfL6UNIcE0yoFGJTRSO) | 3:15 | 2022-01-21 |  |
+| [Quédate](https://open.spotify.com/track/4qaZgDX8Yp9iwboMUZaQgu) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Quédate](https://open.spotify.com/album/711RfL6UNIcE0yoFGJTRSO) | 3:15 | 2022-01-21 | 2023-05-13 |
 | [Ramo De Flores](https://open.spotify.com/track/3C4HM8kntx7fwUEYdAMKPP) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI) | [Ramo De Flores](https://open.spotify.com/album/4IzQFp690PikKWoDL4xRt6) | 3:13 | 2022-01-14 | 2023-01-19 |
 | [Refugio](https://open.spotify.com/track/5iGcOpA2ZVzmpi5gqjHQEA) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Refugio](https://open.spotify.com/album/0USsWJfpUn9FLFTy4TaImn) | 3:13 | 2022-04-01 |  |
 | [Salir Con Vida](https://open.spotify.com/track/5OX1JvE7gTkOd1DSzlrtFw) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Salir Con Vida](https://open.spotify.com/album/3mwKjQSJdQTY0ZdakLi0Vp) | 2:56 | 2022-10-28 |  |

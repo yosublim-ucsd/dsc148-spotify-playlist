@@ -1255,6 +1255,24 @@
     },
     {
       "album": {
+        "name": "TOKYO - SHOWA KAYO -",
+        "url": "https://open.spotify.com/album/66vVSUnLq20V9AWYxY4C2x"
+      },
+      "artists": [
+        {
+          "name": "Yosui Inoue",
+          "url": "https://open.spotify.com/artist/4BQT8wAPy5SGtRnfstMzbA"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156413,
+      "name": "\u5922\u306e\u4e2d\u3078 - 2017 Remaster",
+      "url": "https://open.spotify.com/track/1HGsenQaGP7MbBMeeISial"
+    },
+    {
+      "album": {
         "name": "\u5922\u306e\u4e2d\u3078",
         "url": "https://open.spotify.com/album/6b18Ztx6B8CM0mDE4ZUGwf"
       },
@@ -1266,7 +1284,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 156413,
       "name": "\u5922\u306e\u4e2d\u3078 - 2017 Remaster",
       "url": "https://open.spotify.com/track/2YgyW0CWOD7vMrgbB68LQk"

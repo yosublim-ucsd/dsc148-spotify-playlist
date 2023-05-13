@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-503 songs - 1 day 12 hr 43 min
+505 songs - 1 day 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,8 @@
 | [Hey Ahab](https://open.spotify.com/track/3x8Cv7Mf7zufMptbs1s09o) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Leon Russell](https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN) | [The Union](https://open.spotify.com/album/5O3tJmTjdvIWSRyut7mTbZ) | 5:39 | 2022-09-08 |  |
 | [High \(feat\. Elton John\)](https://open.spotify.com/track/7iMDaY1LnASwCk2uUpMtii) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [On the Run](https://open.spotify.com/album/6VCDStheOuhrQaoYbHP2iO) | 3:15 | 2022-09-08 |  |
 | [High Flying Bird](https://open.spotify.com/track/3pxL77pLjhrnmrrzsLlItS) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 4:12 | 2022-09-08 |  |
-| [Ho! Ho! Ho! \(Who'd Be A Turkey At Christmas\)](https://open.spotify.com/track/5x0OWY20E0u3yoEVa9lyfK) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration / Super Deluxe\)](https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN) | 4:06 | 2022-09-08 |  |
+| [Ho! Ho! Ho! \(Who'd Be A Turkey At Christmas\)](https://open.spotify.com/track/7rs6BMGuc9eBGKMOPfuSn3) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rare Masters](https://open.spotify.com/album/2ozX7odhzuW1PN1v8dpsxQ) | 4:03 | 2023-05-12 |  |
+| [Ho! Ho! Ho! \(Who'd Be A Turkey At Christmas\)](https://open.spotify.com/track/5x0OWY20E0u3yoEVa9lyfK) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration / Super Deluxe\)](https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN) | 4:06 | 2022-09-08 | 2023-05-13 |
 | [Hold Me Closer](https://open.spotify.com/track/5TJEBoTCDbJXiKMdCN9pd3) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [The Lockdown Sessions](https://open.spotify.com/album/3O52AkvWUCF7MfkfLfnobb) | 3:22 | 2022-09-08 |  |
 | [Holiday Inn](https://open.spotify.com/track/7ufKmUVZaevb5uLk5QjlwA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 4:16 | 2022-09-08 |  |
 | [Holy Moly](https://open.spotify.com/track/6L8XA0NcRcgsJBXKxXXGwe) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y) | [Eardrum](https://open.spotify.com/album/4gjttixmMAKMzzfrfGmDGr) | 2:08 | 2022-09-08 |  |
@@ -391,7 +392,8 @@
 | [Sorry Seems To Be The Hardest Word \- Radio Edit](https://open.spotify.com/track/3fPHdvqv44BY06urgU1KYn) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Royal: The First Twenty Years](https://open.spotify.com/album/0GuZ4HveknFIUyDBWJf7i7) | 3:30 | 2023-02-23 |  |
 | [Soul Glove](https://open.spotify.com/track/38sTwkSHVBMnbijbygSmSM) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 3:31 | 2022-09-08 |  |
 | [Spiteful Child \- Remastered 2003](https://open.spotify.com/track/6JthALIr8UuPMqw8COEHOh) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 4:15 | 2022-09-08 |  |
-| [Step Into Christmas](https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration / Super Deluxe\)](https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN) | 4:32 | 2022-09-08 |  |
+| [Step Into Christmas](https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 4:32 | 2023-05-12 |  |
+| [Step Into Christmas](https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration / Super Deluxe\)](https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN) | 4:32 | 2022-09-08 | 2023-05-13 |
 | [Stinker](https://open.spotify.com/track/5NyYHYlGtTboKi5VoRMEtv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 5:20 | 2022-09-08 |  |
 | [Stolen Car](https://open.spotify.com/track/7oZ9ZOd0baM352GNmcTr13) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 5:37 | 2022-09-08 |  |
 | [Stone's Throw From Hurtin'](https://open.spotify.com/track/1MFXJPUz79xxyaxvvg6Q6U) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 4:44 | 2022-09-08 |  |

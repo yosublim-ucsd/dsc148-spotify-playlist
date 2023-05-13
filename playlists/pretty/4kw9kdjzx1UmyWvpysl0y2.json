@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127112,
+  "num_followers": 127119,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDE4Myw0MDNhYTFjMjBkMGEyMzA3MGVjZTc3ZjU2NTllZDUxZTk1MTE1NDIz",
+  "snapshot_id": "NDE5MCw4MTg2MTIyOGU1ODM0MjZmMDZkN2UzZGIxYmU1ZDhiZWRiOWQ4M2Iw",
   "tracks": [
+    {
+      "added_at": "2023-05-12 14:42:41",
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/31BofjIuJwIht4LCcUmzDH"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "King",
+      "url": "https://open.spotify.com/track/0zLwiYqZEwjS4p85V07uOh"
+    },
+    {
+      "added_at": "2023-05-12 14:42:35",
+      "album": {
+        "name": "Someone To Forget",
+        "url": "https://open.spotify.com/album/193cXUcTyX1JDg1VF3mgXO"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "duration_ms": 241714,
+      "name": "Someone To Forget",
+      "url": "https://open.spotify.com/track/6ieSmmi7H6BdBowVhMOZ6F"
+    },
     {
       "added_at": "2023-05-09 14:25:43",
       "album": {
@@ -1059,66 +1095,6 @@
       "duration_ms": 219000,
       "name": "All But A Dream",
       "url": "https://open.spotify.com/track/4OGWWzeMDVVW0D1dqQCS2t"
-    },
-    {
-      "added_at": "2023-02-21 18:04:15",
-      "album": {
-        "name": "Love Runs Out",
-        "url": "https://open.spotify.com/album/03DTFehGzdj45KPNxxpGxg"
-      },
-      "artists": [
-        {
-          "name": "Afinity",
-          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
-        },
-        {
-          "name": "Dror",
-          "url": "https://open.spotify.com/artist/31BRzHwH9Ayqp5AbRDk9kO"
-        }
-      ],
-      "duration_ms": 242689,
-      "name": "Love Runs Out",
-      "url": "https://open.spotify.com/track/62Il6xcyOlZ3oB4qvQ33sj"
-    },
-    {
-      "added_at": "2023-02-21 18:03:27",
-      "album": {
-        "name": "FAR OUT",
-        "url": "https://open.spotify.com/album/5RQAm3Nx1cpPzQzb1veOra"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Machine",
-          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "FAR OUT",
-      "url": "https://open.spotify.com/track/0DT3f2Y9UEwGdJC7f4FOzH"
-    },
-    {
-      "added_at": "2023-02-17 18:09:23",
-      "album": {
-        "name": "Guesses",
-        "url": "https://open.spotify.com/album/2jWPkteLzjDBXLJMbmiaI6"
-      },
-      "artists": [
-        {
-          "name": "Foxela",
-          "url": "https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu"
-        },
-        {
-          "name": "Andrew A",
-          "url": "https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx"
-        },
-        {
-          "name": "Barmuda",
-          "url": "https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM"
-        }
-      ],
-      "duration_ms": 201904,
-      "name": "Guesses",
-      "url": "https://open.spotify.com/track/1MHmJo43gtIN6TQdyuudUB"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

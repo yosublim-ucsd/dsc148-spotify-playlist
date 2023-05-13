@@ -641,6 +641,24 @@
     },
     {
       "album": {
+        "name": "Spirit They're Gone, Spirit They've Vanished (Remastered 2023)",
+        "url": "https://open.spotify.com/album/4HzQP0tw4AOAO5Ntkz8JOL"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354089,
+      "name": "April And The Phantom - Remastered 2023",
+      "url": "https://open.spotify.com/track/5XpKUCdMQmTFc1lFbghSHx"
+    },
+    {
+      "album": {
         "name": "Aqrxvst Is The Band's Name",
         "url": "https://open.spotify.com/album/3OctoMpjK0QHnRqEYwITDB"
       },

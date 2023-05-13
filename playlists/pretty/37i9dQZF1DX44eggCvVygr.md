@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44eggCvVygr.md) - [plain]
 
 > All the music from Netflix's La Casa de Papel/Money Heist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,958 likes - 63 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,104 likes - 63 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44eggCvVygr.md) - [plain]
 | 62 | [Wake Up](https://open.spotify.com/track/6Hmj7SrLRbreLVfVS7mV1S) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Funeral](https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH) | 5:35 |
 | 63 | [Bella ciao](https://open.spotify.com/track/0Hssk7StCZSPBwTaghTJsR) | [Najwa](https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS) | [Bella ciao](https://open.spotify.com/album/5ddDj8XH2GBfgDjEZpVD0p) | 2:09 |
 
-Snapshot ID: `MCw5ODY2YWY1NTQ3NTJkYjk3Mzk3YTMyMGQ4MjkyYTY2ZDk3YmUyYTVh`
+Snapshot ID: `MCwyMzYxMWFkMzY2MTA2NmI1NjA5YTcxOWM0N2QxNjdlMGI2Y2U5NTNl`

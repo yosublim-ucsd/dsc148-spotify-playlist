@@ -4,7 +4,7 @@
 
 > ตอนนี้หน้าร้อน แต่ทำไมมองเธอแล้วเจอแต่น่ารัก \#คลั่งรัก
 
-117 songs - 7 hr 19 min
+118 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [ระยะหัวใจ](https://open.spotify.com/track/1ZvxQC3jxMuceMdoFo0Cor) | [FLUKIE](https://open.spotify.com/artist/3dR2IRGHNpZ5CBbxOQN03t) | [ระยะหัวใจ](https://open.spotify.com/album/2QfNggOnaDCmeUgF2dKCYX) | 3:03 | 2023-02-10 |  |
 | [ระหว่างทาง \(Good Time\) \- เพลงประกอบซีรีส์ Good Old Days ร้านซื้อขายความทรงจำ](https://open.spotify.com/track/4FreerZPFJkNpQqhL2cSCA) | [BRIGHT](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt), [ต้าเหนิง กัญญาวีร์](https://open.spotify.com/artist/3CR3llAxCgUXA1hHBYXFQh) | [เพลงประกอบซีรีส์ Good Old Days ร้านซื้อขายความทรงจำ](https://open.spotify.com/album/19zRl5NJ2IH7wvNdRegoHY) | 4:04 | 2023-02-10 |  |
 | [รักก็รักดิ \- From "Cutie Pie 2 You"](https://open.spotify.com/track/021DOGAOsU2WrJ5Gii9hFZ) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5), [ZEE PRUK](https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg) | [รักก็รักดิ \(From "Cutie Pie 2 You"\)](https://open.spotify.com/album/0AyEXAG2tEss8ErlR2V62p) | 3:17 | 2023-02-10 | 2023-04-03 |
-| [รักเธอ \(ONLY YOU\) \- From ค่อยๆรัก Step By Step](https://open.spotify.com/track/430P9zwgo2Nv56Znbzg3LB) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [รักเธอ \(ONLY YOU\) \[From ค่อยๆรัก Step By Step\]](https://open.spotify.com/album/2wUwCV2FwZQAzmjMBNneM2) | 3:36 | 2023-04-30 |  |
+| [รักเธอ \(ONLY YOU\) \- From ค่อยๆรัก Step By Step](https://open.spotify.com/track/430P9zwgo2Nv56Znbzg3LB) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [รักเธอ \(ONLY YOU\) \[From ค่อยๆรัก Step By Step\]](https://open.spotify.com/album/2wUwCV2FwZQAzmjMBNneM2) | 3:36 | 2023-04-30 | 2023-05-13 |
 | [รักแท้ \- True Love \(เพลงจากละคร คุณชาย\)](https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [รักแท้ \- True Love \(เพลงจากละคร คุณชาย\)](https://open.spotify.com/album/6MOTJiGfu8jW9yjSVBcwm3) | 3:35 | 2023-02-10 |  |
 | [รู้งี้เป็นแฟนกันตั้งนานแล้ว \(Safe Zone\) \- From แปลรักฉันด้วยใจเธอ Part 2](https://open.spotify.com/track/3r7Wk2nT2Vwlnb7xDI4pnE) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [แปลรักฉันด้วยใจเธอ \(The Original Soundtrack\)](https://open.spotify.com/album/2m4GcbFxWcBkyxTCUj3tLh) | 3:19 | 2023-02-10 |  |
 | [ลูกอม](https://open.spotify.com/track/0GbWc31BXewOO7ZYRR9RVn) | [Whatcharawale](https://open.spotify.com/artist/0cGfitvwmFr2sSywioWYNM) | [Legend](https://open.spotify.com/album/3WoDtnsZRzPRFbNlbkfFC1) | 4:07 | 2023-02-10 |  |
@@ -96,6 +96,7 @@
 | [อาหมวยหาย \(阿妹走 / Chinese Girl\)](https://open.spotify.com/track/4rDCI4NQEBQrfTFN5epRYU) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [อาหมวยหาย \(阿妹走 / Chinese Girl\)](https://open.spotify.com/album/5HoeLBMTFqR6M7IJgCfvnC) | 2:58 | 2023-02-10 |  |
 | [เกินต้าน \- Too Cute](https://open.spotify.com/track/7J2Kyx0vT5ss4AqMWR1q3c) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [เกินต้าน \(Too Cute\)](https://open.spotify.com/album/41DGIzxgLakiFk7HKDfE5o) | 3:06 | 2023-02-10 |  |
 | [เธอทั้งนั้น](https://open.spotify.com/track/0B8jGlEYFOQT3USwSr5yX3) | [Groove Riders](https://open.spotify.com/artist/2HVtGhO88wYqktLxpDIUI3) | [The Lift](https://open.spotify.com/album/6AgMabCa4vNDjFytw7XbsO) | 4:04 | 2023-02-10 | 2023-04-30 |
+| [เธอทั้งนั้น](https://open.spotify.com/track/5sQYDe2qBnPQpCmN5UWki9) | [Groove Riders](https://open.spotify.com/artist/2HVtGhO88wYqktLxpDIUI3) | [The Lift](https://open.spotify.com/album/3J11fMgaKmVR0lOODC8tqV) | 4:04 | 2023-02-21 |  |
 | [เธอหมุนรอบฉัน ฉันหมุนรอบเธอ](https://open.spotify.com/track/2qix3Q8yV16k9D9YI5fjmQ) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [ชุดเล็ก](https://open.spotify.com/album/4bjidvn1z3RcqcV8Zqyxb5) | 3:51 | 2023-02-10 |  |
 | [เธอเชื่อเรื่องพรหมลิขิตหรือเปล่า \[Destiny\]](https://open.spotify.com/track/1vZPPkCUwCejpoPt9tzAFK) | [Catchy](https://open.spotify.com/artist/4Rl3VVYfy6fvCyubmwyMat) | [เธอเชื่อเรื่องพรหมลิขิตหรือเปล่า \[Destiny\]](https://open.spotify.com/album/4ezYCgWj2GJL2IWo8ahwVc) | 3:49 | 2023-02-10 |  |
 | [เธอเหมือนเดือนกุมภา](https://open.spotify.com/track/0UdosedsHuO7pFUxOLJNDT) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [เธอเหมือนเดือนกุมภา](https://open.spotify.com/album/1LYnNDgFSwltBX0d6inJff) | 3:23 | 2023-02-10 |  |

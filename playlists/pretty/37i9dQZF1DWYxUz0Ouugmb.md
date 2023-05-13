@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Bernadya
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,722 likes - 29 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,780 likes - 29 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 | 28 | [PIMPSHIT](https://open.spotify.com/track/3boTwjX5FdJerg6Il8MJ2E) | [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj), [BAP.](https://open.spotify.com/artist/1C844mwQd4BOI6pJSgxfiC) | [MY FIRST FRIEND](https://open.spotify.com/album/3J2gpoA7AOnOOIMbNqMhBQ) | 3:11 |
 | 29 | [Cinta Air Mata](https://open.spotify.com/track/1Mhevyt2cl5lvG3htZoK7a) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Cinta Air Mata](https://open.spotify.com/album/7LdARvPk1Wms5pKXqP5UUp) | 4:39 |
 
-Snapshot ID: `MCxjM2VlZTFhNjQ4ZGMyYTkxY2M0OWJmMzYwMDFhODNkNmE4ZjM3YTEx`
+Snapshot ID: `MCw4YzEyMmY0M2Q0YjM3YTUwNGY0ZGZkYjc3YjRmZjQwOTg5NjA5ZTAx`

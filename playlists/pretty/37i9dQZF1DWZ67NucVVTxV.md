@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Grind day motivation
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,341 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,410 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 79 | [pressure](https://open.spotify.com/track/0VQtntLAI7GJAO4CG42WcX) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [YUSFUL MUSIC](https://open.spotify.com/album/1HuptmkvsxXrr4JLulD83n) | 2:34 |
 | 80 | [Wahala](https://open.spotify.com/track/3neQ27BTYg6eBK3Zb4PERm) | [Abstraktt](https://open.spotify.com/artist/2H5FFLsniz7p7rled2S4pD) | [Wahala](https://open.spotify.com/album/2FlTnOE9paxs4soz5FzKJO) | 2:42 |
 
-Snapshot ID: `MCxiZjY5Yzc3MDE1OTExN2I5NDBkZTJlNTlkOTE5ZDc3MGEyMzk1Njk5`
+Snapshot ID: `MCw1ZTYxNWVmNDRjZWI5YTQ2MTY1OGRkYTc2ODgzZGE0MDU5MTM4MTk0`

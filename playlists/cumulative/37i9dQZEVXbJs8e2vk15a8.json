@@ -1225,6 +1225,28 @@
     },
     {
       "album": {
+        "name": "La Luz Es \u00danica",
+        "url": "https://open.spotify.com/album/1DsJVfcNlWH0W1Ie4QxBWB"
+      },
+      "artists": [
+        {
+          "name": "Piero 47",
+          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
+        },
+        {
+          "name": "King Fly",
+          "url": "https://open.spotify.com/artist/3bfahxMCLID17MMlD2DfGc"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136320,
+      "name": "Amiri Jeans",
+      "url": "https://open.spotify.com/track/1kavadKZM6Ah01m1rFCU0o"
+    },
+    {
+      "album": {
         "name": "Ando Enfocado",
         "url": "https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq"
       },
@@ -17560,7 +17582,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 125026,
       "name": "TNT",
       "url": "https://open.spotify.com/track/419xono1KqiWbVCu5bzSd8"

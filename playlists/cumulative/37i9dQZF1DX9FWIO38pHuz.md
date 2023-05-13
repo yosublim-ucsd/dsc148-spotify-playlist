@@ -4,7 +4,7 @@
 
 > Funk favorites from 2022\. Cover: Cory Henry \#SpotifyWrapped
 
-80 songs - 4 hr 45 min
+81 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Pressure](https://open.spotify.com/track/6R8q5huZOkxRUdbq3JsTDp) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Pressure](https://open.spotify.com/album/0tIlSRHdKJQ1ABFNClsglz) | 3:23 | 2022-11-30 |  |
 | [Prince Of Something](https://open.spotify.com/track/4dzTAP52fk1dxxBARWkhZv) | [Jank Setup](https://open.spotify.com/artist/0Qk6tRQWQcA1YENkF0HIXZ) | [Look Who's Talking](https://open.spotify.com/album/0KwBrO0s9dYwXv3lmAm4JW) | 3:46 | 2022-11-30 |  |
 | [Recipe](https://open.spotify.com/track/0xM4e5ON4PcKCF1rnqLmR9) | [Jackie's Boy](https://open.spotify.com/artist/5IWhRKmW8IDdeJfrx4Kl0E) | [Recipe](https://open.spotify.com/album/3EKYhobBWNH0xrU5qpyDrz) | 3:02 | 2022-11-30 |  |
-| [River Keep Runnin'](https://open.spotify.com/track/1ne7KDX3wIEn11XHoh9a0y) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [River Keep Runnin'](https://open.spotify.com/album/6sBBxKO8SWjxAKC8ZF7IHe) | 4:08 | 2022-11-30 |  |
+| [River Keep Runnin'](https://open.spotify.com/track/0d0PEYhvGdBZBMS0wkCanE) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [River Keep Runnin’](https://open.spotify.com/album/3oUZlVmuSj6VtmXVN1uHjp) | 4:06 | 2022-11-30 |  |
+| [River Keep Runnin'](https://open.spotify.com/track/1ne7KDX3wIEn11XHoh9a0y) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [River Keep Runnin'](https://open.spotify.com/album/6sBBxKO8SWjxAKC8ZF7IHe) | 4:08 | 2022-11-30 | 2023-05-13 |
 | [Rock With Me \- Jafunk Remix](https://open.spotify.com/track/4z1AcciBLQ3PjnOiFCrEZd) | [Sparkee](https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf), [Liinks](https://open.spotify.com/artist/3tTrvuZL6yAhHb1x2iWlBY), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Rock With Me \(Jafunk Remix\)](https://open.spotify.com/album/20c9jp8MnyiEDthWVCsDYm) | 2:05 | 2022-11-30 |  |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-11-30 |  |
 | [Say Your Name](https://open.spotify.com/track/46H4hZk0WHNC4fmVJaLfr6) | [Osquello](https://open.spotify.com/artist/6ScAPpYnDsH3Cu3TKmhUJr), [Akin Soul](https://open.spotify.com/artist/2tU7aVBZIXzsKTPhm56266) | [Say Your Name](https://open.spotify.com/album/5SzR4ahdi6DTBn3vevmw0j) | 3:35 | 2022-11-30 |  |

@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-70 songs - 4 hr 9 min
+71 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [California](https://open.spotify.com/track/2TeTcoh9iB1uOOLiQBeTkT) | [Mattanja Joy Bradley](https://open.spotify.com/artist/6u9tyg6IXImKbuB5J12ush) | [California](https://open.spotify.com/album/4R2ALa4EonxEMxi0yDhcGj) | 3:58 | 2023-03-30 | 2023-04-28 |
 | [Can't Nobody](https://open.spotify.com/track/3QjMxiTf0OBM729FA0AqZy) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Can't Nobody](https://open.spotify.com/album/29N9gvVvR2wiXR1hJR7M9R) | 3:23 | 2023-02-23 | 2023-04-28 |
 | [Changing Lanes](https://open.spotify.com/track/6Qh1GNWfKNx3gn3WOA9sLQ) | [Maurice van Hoek](https://open.spotify.com/artist/0XKAZ6AUBdENziqwAdzkD4) | [Changing Lanes](https://open.spotify.com/album/72aGx6oYmgBLunbmHbgmPE) | 2:58 | 2023-05-11 |  |
-| [Closing Time](https://open.spotify.com/track/0CIfnjBJxhYbL69mU4K4yl) | [Deborah Parlor](https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl), [Ed Struijlaart](https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2) | [Closing Time](https://open.spotify.com/album/75jo912nYXWzN6TY8bBFgO) | 3:22 | 2023-04-27 |  |
+| [Closing Time](https://open.spotify.com/track/0CIfnjBJxhYbL69mU4K4yl) | [Deborah Parlor](https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl), [Ed Struijlaart](https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2) | [Closing Time](https://open.spotify.com/album/75jo912nYXWzN6TY8bBFgO) | 3:22 | 2023-04-27 | 2023-05-13 |
 | [Colours](https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50) | [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [In The Morning, When We Rise](https://open.spotify.com/album/6qeEfohwybwm2zAPYLk2lM) | 3:52 | 2023-02-23 |  |
 | [Coyotes](https://open.spotify.com/track/3S0VPSpztymqIswSjQ8Pqm) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [Coyotes](https://open.spotify.com/album/678oZA2MpAcgLyFYKl0Bdy) | 4:56 | 2023-02-23 | 2023-03-18 |
 | [Desire](https://open.spotify.com/track/5vuOY89Toj7pBC2YhLG8rX) | [Mattanja Joy Bradley](https://open.spotify.com/artist/6u9tyg6IXImKbuB5J12ush) | [Desire](https://open.spotify.com/album/351qO6P8FcABXFsYPUfdDf) | 4:58 | 2023-02-23 | 2023-03-31 |
@@ -45,6 +45,7 @@
 | [Lola with the Light Eyes](https://open.spotify.com/track/05eGBCOwS0vA4c2TBVRiJ0) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [The Epic Tale of the Stranded Man](https://open.spotify.com/album/1BfrHxEQliuMZYzetI8TGH) | 3:32 | 2023-02-23 |  |
 | [Loose Future](https://open.spotify.com/track/1f7mKDuWfkhMXOnRcdI8Vz) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Loose Future](https://open.spotify.com/album/25dWaNwrPBrS1UAXUBZOVh) | 3:28 | 2023-02-23 | 2023-05-07 |
 | [Lost & Found](https://open.spotify.com/track/1Mk22y2ZqHMijN57LfOi5U) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Lost & Found](https://open.spotify.com/album/3yF8GCeZkevUHuMSDOBQcV) | 2:38 | 2023-02-23 |  |
+| [Love in the Dark](https://open.spotify.com/track/5rdvOjYb63B0DSEMmA6GLE) | [Abe Partridge](https://open.spotify.com/artist/1RQeZdPAK7c7QakzTfcA2q) | [Love in the Dark](https://open.spotify.com/album/1BQwxISegVx89NtVEb2Umm) | 4:07 | 2023-05-12 |  |
 | [Love You So](https://open.spotify.com/track/7oFbkIDSxQTZN2n4y7cULK) | [Sam Saxton](https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04) | [Love You So](https://open.spotify.com/album/5NHEVyO1PSXb0F1n1gjH55) | 3:14 | 2023-03-16 | 2023-04-28 |
 | [Made Up Mind](https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Made Up Mind](https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh) | 3:40 | 2023-02-23 |  |
 | [Maybe, Maybe Not](https://open.spotify.com/track/1rDkFbHS0krhKweIL6ogTB) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Maybe, Maybe Not](https://open.spotify.com/album/453ui3VLbh97vpNlo5YEAf) | 3:20 | 2023-02-23 |  |

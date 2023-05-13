@@ -1,12 +1,12 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 263520,
+  "num_followers": 263669,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmJkMDVhNGE2MGEwZDI2Njc1ZTEwNzhlM2UyMTU0ZTUyMjA1ODE2",
+  "snapshot_id": "MCwzN2FjYmZjNThkOGQwN2VkODhjN2MxODIxMTQ2NzQyYWQwODAwMDE4",
   "tracks": [
     {
       "added_at": "2023-01-02 21:32:07",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "The Country Music Hall Of Fame",
-        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
       },
       "artists": [
         {
-          "name": "Red Foley",
-          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
+          "name": "Jim Reeves",
+          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
         }
       ],
-      "duration_ms": 169000,
-      "name": "Chattanoogie Shoe Shine Boy - 1949 Single Version",
-      "url": "https://open.spotify.com/track/7Jf323ttHKUnPylFWiaGl3"
+      "duration_ms": 139733,
+      "name": "Am I Losing You",
+      "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
+        "name": "The Country Music Hall Of Fame",
+        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
       },
       "artists": [
         {
-          "name": "Jim Reeves",
-          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
+          "name": "Red Foley",
+          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
         }
       ],
-      "duration_ms": 139733,
-      "name": "Am I Losing You",
-      "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
+      "duration_ms": 169000,
+      "name": "Chattanoogie Shoe Shine Boy - 1949 Single Version",
+      "url": "https://open.spotify.com/track/7Jf323ttHKUnPylFWiaGl3"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -987,26 +987,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Retrospective (Volume 2)",
-        "url": "https://open.spotify.com/album/1NwdehvDYJrG3gmyPkZ9fs"
-      },
-      "artists": [
-        {
-          "name": "Red Foley",
-          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
-        },
-        {
-          "name": "Ernest Tubb",
-          "url": "https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Too Old To Cut The Mustard",
-      "url": "https://open.spotify.com/track/6uaFrJlwnX79ZPz6xyzhrl"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "Frankie Laine's Greatest Hits",
         "url": "https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 154440,
       "name": "I Can't Stop Loving You",
       "url": "https://open.spotify.com/track/3mewJ611cPqPIk8EQDiA12"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "Retrospective (Volume 2)",
+        "url": "https://open.spotify.com/album/1NwdehvDYJrG3gmyPkZ9fs"
+      },
+      "artists": [
+        {
+          "name": "Red Foley",
+          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
+        },
+        {
+          "name": "Ernest Tubb",
+          "url": "https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Too Old To Cut The Mustard",
+      "url": "https://open.spotify.com/track/6uaFrJlwnX79ZPz6xyzhrl"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Good Old Country Music",
-        "url": "https://open.spotify.com/album/4rFH4XdtIsCat15Olnuvkn"
+        "name": "The Essential Hank Snow",
+        "url": "https://open.spotify.com/album/0GcpueUt33P9XoObysUzFR"
       },
       "artists": [
         {
-          "name": "Sons of the Pioneers",
-          "url": "https://open.spotify.com/artist/05FDFpC7GMP5iLbBwpkJYs"
+          "name": "Hank Snow & His Rainbow Ranch Boys",
+          "url": "https://open.spotify.com/artist/5guzUU95QNbzR8NalrE8kd"
         }
       ],
-      "duration_ms": 133375,
-      "name": "I'll Sail My Ship Alone",
-      "url": "https://open.spotify.com/track/121wbuV1IKpsfnh4ENf5JB"
+      "duration_ms": 175266,
+      "name": "I Don't Hurt Anymore - Remastered",
+      "url": "https://open.spotify.com/track/52o7DuuvSLrk6ffYqVphMo"
     }
   ],
   "unique_name": "50s Country",

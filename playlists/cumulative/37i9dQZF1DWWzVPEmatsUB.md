@@ -4,7 +4,7 @@
 
 > Ease into the day
 
-347 songs - 21 hr 2 min
+349 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Coffee in the Morning](https://open.spotify.com/track/6FNOTA9gcK03rocm5fYTL5) | [Jess Best](https://open.spotify.com/artist/4pwfmguHmiuEmH1Xsw2NME) | [Saturday](https://open.spotify.com/album/5oNqJL7BI516bo2E0i5cSA) | 3:21 | 2020-10-17 | 2022-07-29 |
 | [Colors \- Acoustic](https://open.spotify.com/track/4If5wEl5u76l2FcrGNE5AE) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Colors \(Acoustic\)](https://open.spotify.com/album/4qCOopm0NNnTIs92GoQKnm) | 5:23 | 2020-10-17 | 2022-04-21 |
 | [Come in Close](https://open.spotify.com/track/590WDSXUsWycpigozfbgAG) | [Ponderosa](https://open.spotify.com/artist/7GsjfhkUwuxui84Lban1W0) | [Ponderosa](https://open.spotify.com/album/7dYoGB0JNV3jRRGeSKoAD3) | 3:14 | 2020-10-17 | 2022-04-21 |
-| [Compromised](https://open.spotify.com/track/0wQHBv0crqBcbkKqwg65J0) | [Lilith Merlot](https://open.spotify.com/artist/1aj2btWZXYFQP5KhTKGO0s) | [Compromised](https://open.spotify.com/album/3LiGOQ1RaeeGtBkhn0807e) | 2:58 | 2023-02-10 |  |
+| [Compromised](https://open.spotify.com/track/0wQHBv0crqBcbkKqwg65J0) | [Lilith Merlot](https://open.spotify.com/artist/1aj2btWZXYFQP5KhTKGO0s) | [Compromised](https://open.spotify.com/album/3LiGOQ1RaeeGtBkhn0807e) | 2:58 | 2023-02-10 | 2023-05-13 |
 | [Consider Me](https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Building Balance](https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy) | 3:04 | 2020-10-17 | 2023-02-18 |
 | [Cross My Mind](https://open.spotify.com/track/6TKMXuPoDlPZYEkpS5CMB7) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Growth](https://open.spotify.com/album/4pCquj67SkPo5SNpJ5Rsjs) | 2:50 | 2021-07-30 | 2023-02-18 |
 | [Cruisin to the Park](https://open.spotify.com/track/1bfTXGpAL4638bmw5Krpb3) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [Cruisin to the Park](https://open.spotify.com/album/5qgjDKdzAt2fTNdOgx0qmK) | 3:32 | 2020-10-17 | 2022-04-15 |
@@ -106,6 +106,7 @@
 | [Get Away With It](https://open.spotify.com/track/04MGLTCteglQCoDmopDqtv) | [Lacy Cavalier](https://open.spotify.com/artist/0JoKhMFAxTx3WeYAJaYvAa) | [Get Away With It](https://open.spotify.com/album/1KS3miRPc1wyQegMYvSrDJ) | 2:47 | 2020-10-17 | 2022-04-16 |
 | [Get Back To The Land](https://open.spotify.com/track/0bOzDaUYbUVWMLtl8DNt8L) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh), [Emma Donovan](https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs) | [Get Back To The Land](https://open.spotify.com/album/1wHQdMICR6yPfZfvKfh2up) | 4:26 | 2022-01-14 | 2022-07-29 |
 | [Get Back To The Land](https://open.spotify.com/track/1oBCIuFxyHqutsnQhSuqlk) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh), [Emma Donovan](https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs) | [Get Back To The Land](https://open.spotify.com/album/7oj7EsiZB17a22MqGmWO0W) | 4:26 | 2022-01-21 |  |
+| [Girls](https://open.spotify.com/track/7EjL6DoRMa601VXjoyyBSE) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Girls](https://open.spotify.com/album/7y0Rp3VEX8Ix9g9uZp2LAG) | 2:51 | 2023-05-12 |  |
 | [Give in to Me](https://open.spotify.com/track/0WRV8ZT2bzSINqpufUIazn) | [Charlotte Leigh](https://open.spotify.com/artist/7yifAbF2E8xMhw1UMnuw0r) | [Give in to Me](https://open.spotify.com/album/2kTC04fQ5TMi8oIMxSCvk5) | 4:31 | 2020-10-17 | 2022-07-28 |
 | [Give It Up](https://open.spotify.com/track/7AoCNArsiCSt4vr2dqAjJx) | [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Joanna Teters](https://open.spotify.com/artist/5jf4cZ6bJNIQKTakieOupp) | [Saturday Morning](https://open.spotify.com/album/6yLxPkUxQi9UxLwTFX8I9y) | 2:14 | 2020-10-17 | 2023-02-18 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-10 |  |
@@ -264,10 +265,11 @@
 | [Quarantined With You](https://open.spotify.com/track/6ZxWtJqM3r2imGqHFxZSDr) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Quarantined With You](https://open.spotify.com/album/13UK0xfhuNj1kkmz7QuBbs) | 3:22 | 2020-10-17 | 2022-07-28 |
 | [Real Deal](https://open.spotify.com/track/2yCT259s8awbxVuW9bBS31) | [Maths Time Joy](https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Real Deal](https://open.spotify.com/album/4I6A3ebJ9csleHvR6ZE9CE) | 4:41 | 2020-10-17 | 2022-09-09 |
 | [Real Estate](https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Real Estate](https://open.spotify.com/album/6nViscFT0UsASEnVlpObPI) | 3:36 | 2020-10-17 | 2023-02-18 |
-| [Real Thing \(feat\. Tori Kelly\)](https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Pink Moon](https://open.spotify.com/album/5MxLgiQF7yvC7SVMghxPZ1) | 3:15 | 2022-01-28 |  |
+| [Real Thing \(feat\. Tori Kelly\)](https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Pink Moon](https://open.spotify.com/album/5MxLgiQF7yvC7SVMghxPZ1) | 3:15 | 2022-01-28 | 2023-05-13 |
 | [Regenerate](https://open.spotify.com/track/0MIq5zqSNk6XH4BoinuakO) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [Regenerate](https://open.spotify.com/album/1F0penSwQo6C6tEZEID495) | 3:34 | 2020-10-17 | 2022-04-20 |
 | [Reminiscing](https://open.spotify.com/track/2ZIbiTRemxHiYAPg0UqoLY) | [Datsunn](https://open.spotify.com/artist/4zosWP0ung7qeYevTLfuXV) | [Reminiscing](https://open.spotify.com/album/50VMTNsmINXwJGvxgjHxAp) | 2:43 | 2020-10-17 | 2022-07-27 |
 | [Right Now](https://open.spotify.com/track/2cXOqys4hyhCdwy4qp6hYD) | [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Right Now](https://open.spotify.com/album/3LjaQJxClcafNQjSNwJytA) | 3:59 | 2020-10-17 | 2022-07-29 |
+| [Run Through Fire](https://open.spotify.com/track/4U3Xw68LAgaiJahg8Jtoy9) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Run Through Fire](https://open.spotify.com/album/5ZXRhusicgRkkUuCZILOkE) | 3:04 | 2023-05-12 |  |
 | [Same Sunrise](https://open.spotify.com/track/4geh0YJEYzwhNUn6g5gE2u) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [For Once](https://open.spotify.com/album/58NU8TREpty8WbIWzqYxNM) | 3:31 | 2023-03-03 |  |
 | [Same Sunrise](https://open.spotify.com/track/4pJY4C94npAvpBbRqEh3zA) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [Same Sunrise](https://open.spotify.com/album/7DkaKreruueKqkN2IjfHem) | 3:31 | 2023-03-03 | 2023-03-31 |
 | [San Junipero \(Personal Heaven\)](https://open.spotify.com/track/0SddM2ln87iYmyQfLR8AQO) | [Beach Season](https://open.spotify.com/artist/44hIVkpzLPUGJGUa04H3jw), [Charles August](https://open.spotify.com/artist/1s0b8CYKIPDbg6m2MJIWhy) | [San Junipero \(Personal Heaven\)](https://open.spotify.com/album/4VeLLEb0qHif2xQmV388Gf) | 3:10 | 2022-06-10 | 2022-06-18 |

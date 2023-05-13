@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Somos una fusi\u00f3n que nunca termina... MEXCLA somos. Grupo Frontera & Bad Bunny en portada.",
+  "description": "Somos una fusi\u00f3n que nunca termina... MEXCLA somos. Becky G en portada.",
   "name": "MEXCLA",
   "tracks": [
     {
@@ -2981,6 +2981,28 @@
     },
     {
       "album": {
+        "name": "Mejor As\u00ed",
+        "url": "https://open.spotify.com/album/0fa1WYDpSKEHiCj3YTtsDq"
+      },
+      "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168074,
+      "name": "Mejor As\u00ed",
+      "url": "https://open.spotify.com/track/0lmmvf2eUzkjNlDWctEibC"
+    },
+    {
+      "album": {
         "name": "Mentira No Es",
         "url": "https://open.spotify.com/album/6Eb0XXaJ6oEVPclUXz1kz9"
       },
@@ -5136,7 +5158,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 203916,
       "name": "\u00bfC\u00f3mo Se Supera?",
       "url": "https://open.spotify.com/track/3YVgqw3Qw5GZGSiNXw7sd5"

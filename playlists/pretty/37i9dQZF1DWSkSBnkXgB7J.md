@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 
 > Everything you need to hear from the most exciting artists\. Handpicked by our editors\. Cover: BiGSaM.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,182 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,188 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ountha](https://open.spotify.com/track/69UHeUvlSuDB6lBQfzWZe1) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Ountha](https://open.spotify.com/album/2olIPtmKbim1KmWV8pIxho) | 3:27 |
 | 2 | [بخاف](https://open.spotify.com/track/2zU9EApSRrWQuCOGTsPBFj) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [بخاف](https://open.spotify.com/album/6HVGI0FKmqVz8RmOO7p39l) | 3:39 |
 | 3 | [DRAILL](https://open.spotify.com/track/2UYZDBQ89KYUdU3CspLZJ2) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [DRAILL](https://open.spotify.com/album/4Sx9SrFQdcCD5pSY6bwU8M) | 3:40 |
-| 4 | [ارض](https://open.spotify.com/track/4Il19jl68qzjWIlpoSg14U) | [Mohammed Alfares](https://open.spotify.com/artist/1cnYGiDgJh4fLXgRlSmtlr) | [ارض](https://open.spotify.com/album/4RsztYv6UCO12BQ8Vo5Zde) | 3:25 |
+| 4 | [ديدي](https://open.spotify.com/track/5pr1lDwkRKvlUaqlLdA008) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [ديدي](https://open.spotify.com/album/2dsQxG9oNb139KGSePZ4Gv) | 3:25 |
 | 5 | [يا باغية](https://open.spotify.com/track/4VEJSIx2XA4MZbNzRDLQNz) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [يا باغية](https://open.spotify.com/album/5r1nnBiexkEb6NG9Dvlfro) | 3:17 |
 | 6 | [شفتها وعقلي راسا طار](https://open.spotify.com/track/7ypmlaEF73dkmyo6KKOgeL) | [Ghaith Sabah](https://open.spotify.com/artist/7ktjzPxDqpXT76PMmIHIyT) | [شفتها وعقلي راسا طار](https://open.spotify.com/album/6HIocR1nRFrIoK3lZn8YOV) | 1:45 |
 | 7 | [Mehtar](https://open.spotify.com/track/0HOuIvqIhg8gmLSmh8tbOD) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Mehtar](https://open.spotify.com/album/0JuLiEE1xg9UPf9M6KHqC7) | 3:27 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 | 59 | [Wojoud Efterady](https://open.spotify.com/track/0kd00pkjvrTrK8dDKmwMCr) | [Mirelle Mokhtar](https://open.spotify.com/artist/72qojRuTcRlpvPehi30h7p) | [Wojoud Efterady](https://open.spotify.com/album/25NYgltgevJgJjQATySzkQ) | 4:11 |
 | 60 | [يا حبيبة](https://open.spotify.com/track/4rS1EJLl0OJyXkfijXih7Y) | [Alawar](https://open.spotify.com/artist/7hlFz8LW0RDvHdf22JSJVq) | [يا حبيبة](https://open.spotify.com/album/10OMhjxG7IiOFCnbrrU7c4) | 3:06 |
 
-Snapshot ID: `MCwzNWIwNDYzYzAxM2YzMzE0Y2VkMzVmMWQyNjc5N2FkNWVjMDQ3MzUz`
+Snapshot ID: `MCw4ZWQxYjY5MWY4NzNiMjFjYmIyZTM5MmFjYzcwOTkxZWRlMDUwNWQ0`

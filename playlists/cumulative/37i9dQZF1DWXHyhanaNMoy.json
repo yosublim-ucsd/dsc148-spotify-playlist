@@ -1451,6 +1451,24 @@
     },
     {
       "album": {
+        "name": "Big Player",
+        "url": "https://open.spotify.com/album/6yxBzEi4tNslPCYyakJLNb"
+      },
+      "artists": [
+        {
+          "name": "Jamily Jordan",
+          "url": "https://open.spotify.com/artist/6gHqhHMbrZ5VHK1z3CoqDa"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127200,
+      "name": "Big Player",
+      "url": "https://open.spotify.com/track/25uTHWeasYt0agKHBXGMPp"
+    },
+    {
+      "album": {
         "name": "Big Woman Thing",
         "url": "https://open.spotify.com/album/115Wut67FRFDrDIM2CXFpY"
       },
@@ -3132,6 +3150,32 @@
       "duration_ms": 104357,
       "name": "Drunk in Love (Henny)",
       "url": "https://open.spotify.com/track/14xuT74kDW0LIPMsr5g5zf"
+    },
+    {
+      "album": {
+        "name": "Drunk In Love (Henny) [Remix]",
+        "url": "https://open.spotify.com/album/1JHjJkbtscGo9TojghqUu3"
+      },
+      "artists": [
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        },
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        },
+        {
+          "name": "Architrackz",
+          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111428,
+      "name": "Drunk In Love (Henny) - Remix",
+      "url": "https://open.spotify.com/track/61y39ZHY8LtubFtsHm7Ffj"
     },
     {
       "album": {
@@ -5022,7 +5066,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 122972,
       "name": "Jini",
       "url": "https://open.spotify.com/track/5PNZdDZE07oJOnTrE53p7x"
@@ -6382,7 +6426,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 242222,
       "name": "Merci les bleus",
       "url": "https://open.spotify.com/track/0tFY357QKe2GKvjcWA1kxK"
@@ -8056,6 +8100,28 @@
       "duration_ms": 159361,
       "name": "Passa Passa",
       "url": "https://open.spotify.com/track/4CuiTKxzI5IYB4C9DteyRW"
+    },
+    {
+      "album": {
+        "name": "Paz",
+        "url": "https://open.spotify.com/album/7lQMPfBaZEewTGeyPXz46u"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Paz",
+      "url": "https://open.spotify.com/track/0zPR15MfQqMMotAnKesKR4"
     },
     {
       "album": {
@@ -10509,7 +10575,7 @@
       "artists": [
         {
           "name": "Ajay",
-          "url": "https://open.spotify.com/artist/0cZUnZAl3WmjGJwEVcBqEH"
+          "url": "https://open.spotify.com/artist/6blOShkI4PDC0gqCk6PQoa"
         }
       ],
       "date_added": "2023-05-11",
@@ -11200,7 +11266,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 134456,
       "name": "Zonder Jou",
       "url": "https://open.spotify.com/track/4hUh1nZIF3VioqWKuGMceU"

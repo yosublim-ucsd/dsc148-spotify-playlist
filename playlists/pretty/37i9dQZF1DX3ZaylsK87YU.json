@@ -1,12 +1,12 @@
 {
   "description": "Discover this set of songs that define modern hymns for and beyond the church.  Cover artist: Phil Wickham",
-  "num_followers": 42078,
+  "num_followers": 42268,
   "original_name": "Modhymns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTQzNWEyN2E0OTc3NzEyYjdmYjU2ZDVjOGI1YmEzN2FlM2E5ZmJi",
+  "snapshot_id": "MCw5ODhiMzYyNjJkYjhmZTFiZGM5ODU2MmUxODQ5Njk1MTIxZjlkYTgy",
   "tracks": [
     {
       "added_at": "2023-02-18 04:59:55",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Peace Like A River: The Hymns Project",
-        "url": "https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE"
-      },
-      "artists": [
-        {
-          "name": "Chris Rice",
-          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Come Thou Fount Of Every Blessing",
-      "url": "https://open.spotify.com/track/0f9U92JG3vu8BH3PTvxySR"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "Live at the Banks House",
         "url": "https://open.spotify.com/album/06BotF7CerCXpcm5Km2uX7"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 376093,
       "name": "Nothing I Hold on to (Live)",
       "url": "https://open.spotify.com/track/2orHAZyBJH5rbojtwPsztm"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Peace Like A River: The Hymns Project",
+        "url": "https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE"
+      },
+      "artists": [
+        {
+          "name": "Chris Rice",
+          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Come Thou Fount Of Every Blessing",
+      "url": "https://open.spotify.com/track/0f9U92JG3vu8BH3PTvxySR"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
+        "name": "Fire and Stone",
+        "url": "https://open.spotify.com/album/5bbM7zS6XnUD0bGWve3QpT"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        }
+      ],
+      "duration_ms": 264480,
+      "name": "Far Kingdom",
+      "url": "https://open.spotify.com/track/0FqK5zRZm46125vbLR7K6v"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
         "name": "Simple Gospel (Live)",
         "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 394186,
       "name": "Hidden (Live) [feat. Will Reagan]",
       "url": "https://open.spotify.com/track/3ChZ1DsvihNTayyK6BbfEC"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
-        "name": "Fire and Stone",
-        "url": "https://open.spotify.com/album/5bbM7zS6XnUD0bGWve3QpT"
-      },
-      "artists": [
-        {
-          "name": "The Gray Havens",
-          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
-        }
-      ],
-      "duration_ms": 264480,
-      "name": "Far Kingdom",
-      "url": "https://open.spotify.com/track/0FqK5zRZm46125vbLR7K6v"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Where His Light Was",
-        "url": "https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW"
-      },
-      "artists": [
-        {
-          "name": "Kristene DiMarco",
-          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
-        }
-      ],
-      "duration_ms": 42373,
-      "name": "Doxology",
-      "url": "https://open.spotify.com/track/475fggJIgGaM2dgjZrsPnL"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "Be Thou My Vision",
         "url": "https://open.spotify.com/album/27ZlsmMgJgbtLM7XzQQXKv"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 231680,
       "name": "Be Thou My Vision",
       "url": "https://open.spotify.com/track/4TALuYddLLmJDM14GkhSmG"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Where His Light Was",
+        "url": "https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW"
+      },
+      "artists": [
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+        }
+      ],
+      "duration_ms": 42373,
+      "name": "Doxology",
+      "url": "https://open.spotify.com/track/475fggJIgGaM2dgjZrsPnL"
     },
     {
       "added_at": "2023-02-18 04:59:55",

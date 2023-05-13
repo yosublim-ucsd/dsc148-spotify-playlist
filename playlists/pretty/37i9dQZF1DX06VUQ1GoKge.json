@@ -1,12 +1,12 @@
 {
   "description": "Louder, faster! Kickass metal tracks to drive you forward.",
-  "num_followers": 505476,
+  "num_followers": 505923,
   "original_name": "Metal Charge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmM4ZTExN2Y2ZDk3YjIwYzQ4YWQ1Y2QwN2Y5NWI4MDgyY2U0NjJi",
+  "snapshot_id": "MCxkZGZiZjIwZmJjNGU5YTc5NWQwZDRiM2U5MzFmNGZkOTc1NTAwMDZm",
   "tracks": [
     {
       "added_at": "2023-04-04 14:04:12",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-04-04 14:04:12",
       "album": {
-        "name": "TEKKNO",
-        "url": "https://open.spotify.com/album/1RCinQ2MnD8yNRsXKpeKFg"
-      },
-      "artists": [
-        {
-          "name": "Electric Callboy",
-          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
-        }
-      ],
-      "duration_ms": 206133,
-      "name": "We Got the Moves",
-      "url": "https://open.spotify.com/track/0W4N0KzHKWQp2Wn1Mf6uMa"
-    },
-    {
-      "added_at": "2023-04-04 14:04:12",
-      "album": {
         "name": "Painkiller",
         "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 365826,
       "name": "Painkiller",
       "url": "https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08"
+    },
+    {
+      "added_at": "2023-04-04 14:04:12",
+      "album": {
+        "name": "TEKKNO",
+        "url": "https://open.spotify.com/album/1RCinQ2MnD8yNRsXKpeKFg"
+      },
+      "artists": [
+        {
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+        }
+      ],
+      "duration_ms": 206133,
+      "name": "We Got the Moves",
+      "url": "https://open.spotify.com/track/0W4N0KzHKWQp2Wn1Mf6uMa"
     },
     {
       "added_at": "2023-04-04 14:04:12",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-04-04 14:04:12",
       "album": {
-        "name": "Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head",
-        "url": "https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC"
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
       },
       "artists": [
         {
-          "name": "White Zombie",
-          "url": "https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8"
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 268760,
-      "name": "More Human Than Human",
-      "url": "https://open.spotify.com/track/1NbJFhkVdD47YZ2IojKkJi"
+      "duration_ms": 255230,
+      "name": "Prey",
+      "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
     },
     {
       "added_at": "2023-04-04 14:04:12",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-04-04 14:04:12",
       "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
+        "name": "Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head",
+        "url": "https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC"
       },
       "artists": [
         {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+          "name": "White Zombie",
+          "url": "https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8"
         }
       ],
-      "duration_ms": 255230,
-      "name": "Prey",
-      "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
+      "duration_ms": 268760,
+      "name": "More Human Than Human",
+      "url": "https://open.spotify.com/track/1NbJFhkVdD47YZ2IojKkJi"
     },
     {
       "added_at": "2023-04-04 14:04:12",
@@ -855,6 +855,22 @@
       "duration_ms": 215003,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD"
+    },
+    {
+      "added_at": "2023-04-04 14:04:12",
+      "album": {
+        "name": "Darker Still",
+        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 261811,
+      "name": "Glitch",
+      "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0"
     },
     {
       "added_at": "2023-04-04 14:04:12",
@@ -943,22 +959,6 @@
     {
       "added_at": "2023-04-04 14:04:12",
       "album": {
-        "name": "Darker Still",
-        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 261811,
-      "name": "Glitch",
-      "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0"
-    },
-    {
-      "added_at": "2023-04-04 14:04:12",
-      "album": {
         "name": "The Sacrament of Sin",
         "url": "https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC"
       },
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2023-04-04 14:04:12",
       "album": {
-        "name": "Spreading The Disease",
-        "url": "https://open.spotify.com/album/0qEFMrunmeRHqzI9xAnu9L"
+        "name": "Ire",
+        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
       },
       "artists": [
         {
-          "name": "Anthrax",
-          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 259760,
-      "name": "Madhouse",
-      "url": "https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX"
+      "duration_ms": 263586,
+      "name": "Vice Grip",
+      "url": "https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R"
     },
     {
       "added_at": "2023-04-04 14:04:12",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2023-04-04 14:04:12",
       "album": {
-        "name": "Ire",
-        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
+        "name": "Spreading The Disease",
+        "url": "https://open.spotify.com/album/0qEFMrunmeRHqzI9xAnu9L"
       },
       "artists": [
         {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+          "name": "Anthrax",
+          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
         }
       ],
-      "duration_ms": 263586,
-      "name": "Vice Grip",
-      "url": "https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R"
+      "duration_ms": 259760,
+      "name": "Madhouse",
+      "url": "https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX"
     },
     {
       "added_at": "2023-04-04 14:04:12",
@@ -1167,8 +1167,24 @@
     {
       "added_at": "2023-04-04 14:04:12",
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q"
+        "name": "MASSIVE ADDICTIVE",
+        "url": "https://open.spotify.com/album/4R9xcmJHM8qT20wf3meJLe"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Drop Dead Cynical",
+      "url": "https://open.spotify.com/track/3X1usZ9bRwbyEjAnkLAJWO"
+    },
+    {
+      "added_at": "2023-04-04 14:04:12",
+      "album": {
+        "name": "Evolution (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n"
       },
       "artists": [
         {
@@ -1176,9 +1192,9 @@
           "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
         }
       ],
-      "duration_ms": 238109,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82"
+      "duration_ms": 232640,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/2xECSFHPgCyElhTVRaHVYP"
     },
     {
       "added_at": "2023-04-04 14:04:12",
@@ -1195,22 +1211,6 @@
       "duration_ms": 191331,
       "name": "Hardwired",
       "url": "https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF"
-    },
-    {
-      "added_at": "2023-04-04 14:04:12",
-      "album": {
-        "name": "MASSIVE ADDICTIVE",
-        "url": "https://open.spotify.com/album/4R9xcmJHM8qT20wf3meJLe"
-      },
-      "artists": [
-        {
-          "name": "Amaranthe",
-          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Drop Dead Cynical",
-      "url": "https://open.spotify.com/track/3X1usZ9bRwbyEjAnkLAJWO"
     },
     {
       "added_at": "2023-04-04 14:04:12",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2023-04-04 14:04:12",
       "album": {
-        "name": "Evolution (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n"
+        "name": "Seasons In The Abyss",
+        "url": "https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT"
       },
       "artists": [
         {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
         }
       ],
-      "duration_ms": 232640,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/2xECSFHPgCyElhTVRaHVYP"
+      "duration_ms": 291733,
+      "name": "War Ensemble",
+      "url": "https://open.spotify.com/track/1E0yt5XSdjE9NOu897RilW"
     },
     {
       "added_at": "2023-04-04 14:04:12",
@@ -1275,22 +1275,6 @@
       "duration_ms": 217533,
       "name": "Super Charger Heaven",
       "url": "https://open.spotify.com/track/4qVZBA7jWL23SEWOfKFjiw"
-    },
-    {
-      "added_at": "2023-04-04 14:04:12",
-      "album": {
-        "name": "Seasons In The Abyss",
-        "url": "https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT"
-      },
-      "artists": [
-        {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
-        }
-      ],
-      "duration_ms": 291733,
-      "name": "War Ensemble",
-      "url": "https://open.spotify.com/track/1E0yt5XSdjE9NOu897RilW"
     },
     {
       "added_at": "2023-04-04 14:04:12",
@@ -1355,6 +1339,22 @@
       "duration_ms": 200800,
       "name": "Panic",
       "url": "https://open.spotify.com/track/2OPcwNyO1CmKwlqiP0Y4DT"
+    },
+    {
+      "added_at": "2023-04-04 14:04:12",
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 238109,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82"
     },
     {
       "added_at": "2023-04-04 14:04:12",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2023-04-04 14:04:12",
       "album": {
+        "name": "Gravity (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6I860lOEvHfcHKD7qkFhfB"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "duration_ms": 223653,
+      "name": "Letting You Go",
+      "url": "https://open.spotify.com/track/4h7Sc2UWOxz07UmQ60kQNQ"
+    },
+    {
+      "added_at": "2023-04-04 14:04:12",
+      "album": {
         "name": "Dark Passion Play",
         "url": "https://open.spotify.com/album/4oOfQhhbHBfIcIDwuJjwTy"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 231444,
       "name": "Amaranth",
       "url": "https://open.spotify.com/track/1vzqcPRQ6P1Uw7NZ5M77wJ"
-    },
-    {
-      "added_at": "2023-04-04 14:04:12",
-      "album": {
-        "name": "T\u016b",
-        "url": "https://open.spotify.com/album/4RBkIbNroo8Lp1Y8p3VV4M"
-      },
-      "artists": [
-        {
-          "name": "Alien Weaponry",
-          "url": "https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm"
-        }
-      ],
-      "duration_ms": 395500,
-      "name": "Kai Tangata",
-      "url": "https://open.spotify.com/track/0YWyKtLAlmVjryfY6CSxYE"
     }
   ],
   "unique_name": "Metal Charge",

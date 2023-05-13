@@ -4,7 +4,7 @@
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-254 songs - 18 hr 34 min
+255 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Bye Bye](https://open.spotify.com/track/1i8hvM3XJ1EoeqcR9ELxwN) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Móntate en El Viaje](https://open.spotify.com/album/6SKvXVpiz3f38UkRMnMyvZ) | 4:31 | 2022-04-15 | 2022-07-09 |
 | [Búho](https://open.spotify.com/track/15A389LUr9IMkztXv6oFbM) | [Mr\. Bleat](https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb) | [Búho](https://open.spotify.com/album/5LNivPzS2smPjnunOBwKuX) | 5:00 | 2021-11-26 |  |
 | [Canario](https://open.spotify.com/track/6NmWZzCK8iVMXDzUQHRsPb) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Shika Shika / Botanas, Vol\. 15](https://open.spotify.com/album/1C6ozZe6bRxeTeGgB6C5Vk) | 4:08 | 2021-11-26 | 2022-07-29 |
+| [Canario](https://open.spotify.com/track/0hwT9RqvbkUH222D48PsxJ) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Shika Shika / Botanas, Vol\. 15](https://open.spotify.com/album/3j77K4QCAKPo65lXnbDBY6) | 4:09 | 2023-02-13 |  |
 | [Canario](https://open.spotify.com/track/12KVTzqgU558xqkpsywKex) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Shika Shika / Botanas, Vol\. 15](https://open.spotify.com/album/6tFwiVNeI7Pdut9sWkgCXW) | 4:09 | 2022-04-15 | 2023-04-30 |
 | [Capicúa](https://open.spotify.com/track/1A5CCaTiRuJOuEeDm0bgj4) | [Animal Chuki](https://open.spotify.com/artist/1J8r9SsNVL8i1pIU2mOSgg) | [Capicúa](https://open.spotify.com/album/19IB88EXwoHZjM5Kkaj8Uv) | 4:33 | 2022-04-15 | 2022-07-28 |
 | [Capulí](https://open.spotify.com/track/1H7EboPM7h87XxTmHDE6Ug) | [EVHA](https://open.spotify.com/artist/1HygCjIAH9P70iElFVdubm) | [Capulí](https://open.spotify.com/album/0UiSo3oYw78LcfmkvwPXoz) | 4:53 | 2021-11-26 | 2022-05-01 |
@@ -136,7 +137,7 @@
 | [Mano de Fatima](https://open.spotify.com/track/66vLZytisIBNQiQz4qn6n5) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Khalil Mounji](https://open.spotify.com/artist/6jAB1WpJuTMPx7RH0ssZbK) | [Mano de Fatima](https://open.spotify.com/album/6ZJ6wDxhI7dvFnw8abL199) | 3:55 | 2022-02-18 | 2022-07-28 |
 | [Mapalé](https://open.spotify.com/track/4FYOLa4OMokaDwZCUVXZvz) | [La Cumbia Chicharra](https://open.spotify.com/artist/5DT5ozQExex14fHR7KtrEr), [Emilie Rambaud](https://open.spotify.com/artist/6zSjAU2RuN3iBx8dcqcBgG) | [Hijo de Tigre](https://open.spotify.com/album/1QpR9x1tMvitsrR48Fd7dB) | 4:21 | 2022-04-15 | 2022-04-19 |
 | [Marimba Tambó](https://open.spotify.com/track/2rNagq4lJvSat406m0mBGs) | [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW) | [Marimba Tambó](https://open.spotify.com/album/3bKcrO1iIfu2L8eznLVyLs) | 4:15 | 2021-11-26 | 2022-07-28 |
-| [Marimba Tambó](https://open.spotify.com/track/65mQmq2SnmYbo5GkQSupm9) | [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW) | [Marimba Tambó](https://open.spotify.com/album/1v7K6zvUatsiKwpZ98vyhB) | 4:15 | 2023-02-13 |  |
+| [Marimba Tambó](https://open.spotify.com/track/65mQmq2SnmYbo5GkQSupm9) | [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW) | [Marimba Tambó](https://open.spotify.com/album/1v7K6zvUatsiKwpZ98vyhB) | 4:15 | 2023-02-13 | 2023-05-13 |
 | [Marimbalunando](https://open.spotify.com/track/6Y7RKQwqiBvxJfmfh0GW9T) | [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO), [Guadalupe Urbina](https://open.spotify.com/artist/6U2korwDGUn6FgzDpcCJ8j) | [Marimbalunando](https://open.spotify.com/album/1WCEK38htileJzJZIttQEe) | 3:27 | 2022-02-18 | 2022-07-25 |
 | [Mariposa](https://open.spotify.com/track/0g49ATUHh1IJtrXW77VysX) | [CANU](https://open.spotify.com/artist/0LRrOx7jaNrYkN1WcHeNMU), [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Alejandro Castelli](https://open.spotify.com/artist/1PNTdpk9ro2EyigI6gxZVN) | [Mariposa](https://open.spotify.com/album/0znYmByBOKwFZunIH24Lth) | 7:57 | 2022-04-15 |  |
 | [Mariposa](https://open.spotify.com/track/7yoBYwXd4gtGBIygYefGOI) | [CANU](https://open.spotify.com/artist/0LRrOx7jaNrYkN1WcHeNMU), [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Alejandro Castelli](https://open.spotify.com/artist/1PNTdpk9ro2EyigI6gxZVN) | [Mariposa](https://open.spotify.com/album/4w7XAXjOUIOuzIr3MjQC1K) | 7:57 | 2021-11-26 | 2022-07-28 |

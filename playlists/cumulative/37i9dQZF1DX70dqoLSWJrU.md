@@ -4,7 +4,7 @@
 
 > Heartbreaking and sad instrumental and vocal Jazz.
 
-137 songs - 8 hr 2 min
+138 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [He Was Too Good To Me](https://open.spotify.com/track/31jrVem3d0gsLSFcx7CoIi) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [When Your Heart's On Fire](https://open.spotify.com/album/3x8N8hvqBICGRcLwspO5yF) | 3:45 | 2022-04-13 |  |
 | [How Insensitive](https://open.spotify.com/track/443Agnj7SV4wtrIXPPyjO2) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Astrud Gilberto Album](https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E) | 2:47 | 2022-04-13 | 2022-11-19 |
 | [How Long Has This Been Going On?](https://open.spotify.com/track/0HEU3berJ5OBojU8XmEk1c) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Sings Gershwin](https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO) | 3:17 | 2022-04-13 |  |
-| [I Can't Get Started](https://open.spotify.com/track/2NHXhH8nZHgoMtcphN7PnB) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Pointless Nostalgic](https://open.spotify.com/album/4AD8H57Um3MlSuuqN4fZNv) | 5:15 | 2022-04-13 |  |
+| [I Can't Get Started](https://open.spotify.com/track/2NHXhH8nZHgoMtcphN7PnB) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Pointless Nostalgic](https://open.spotify.com/album/4AD8H57Um3MlSuuqN4fZNv) | 5:15 | 2022-04-13 | 2023-05-13 |
+| [I Can't Get Started \- Remastered](https://open.spotify.com/track/1koaigmrZEI4T0pu4PfM1P) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Pointless Nostalgic \(Remastered\)](https://open.spotify.com/album/2XCwuAJ3pMR3Vq5IDdWzn3) | 5:15 | 2023-05-10 |  |
 | [I Can't Make You Love Me](https://open.spotify.com/track/6vw2zBYluM9c3oudW6KDvf) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O), [Avishai Cohen](https://open.spotify.com/artist/1RcZLbtdGVQwn9x6kO6CXp) | [The Women Who Raised Me](https://open.spotify.com/album/2g6J9bq2p9cRxMoBEldSEF) | 4:35 | 2022-04-13 | 2022-08-12 |
 | [I Cried For You](https://open.spotify.com/track/5sOGjH3QgwqhNRwT9I1nYl) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [The Complete Piano Duets](https://open.spotify.com/album/5XbiFk3DRytyQMmo9Pe6dd) | 3:28 | 2022-04-13 |  |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/4DkOOLxg4p72UZzoUwV95W) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Songs from the Heart \(Remastered 2013\)](https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW) | 2:24 | 2022-04-13 |  |

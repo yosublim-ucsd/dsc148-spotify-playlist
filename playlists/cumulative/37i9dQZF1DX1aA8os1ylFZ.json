@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 274400,
       "name": "10,000 Tears (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/1jVAfsSceuAQx7zgY76qDA"
@@ -148,7 +148,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 142120,
       "name": "22",
       "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
@@ -390,7 +390,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 171019,
       "name": "ANGOSTURA",
       "url": "https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3"
@@ -644,7 +644,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 172237,
       "name": "Blueberry Eyes (feat. Lil Mosey, SUGA of BTS & Olivia O'Brien)",
       "url": "https://open.spotify.com/track/3v96wJDPSdTYWEOgssfipO"
@@ -792,7 +792,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 191250,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v"
@@ -828,7 +828,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 216603,
       "name": "Can't Get Over You",
       "url": "https://open.spotify.com/track/178ZvO20GAGgrxSDitOaYG"
@@ -904,7 +904,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 192787,
       "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
       "url": "https://open.spotify.com/track/5VRVc5Cq5MbKJG5llJ8XvH"
@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 196493,
       "name": "Connexion",
       "url": "https://open.spotify.com/track/5euRP53moGQyGCsq8aNjvo"
@@ -1442,7 +1442,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 145700,
       "name": "Excuses",
       "url": "https://open.spotify.com/track/6Gl9htJmNmnugLygZo15QF"
@@ -1540,7 +1540,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 178274,
       "name": "Fantasy (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v"
@@ -1836,7 +1836,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-27",
+      "date_removed": null,
       "duration_ms": 154651,
       "name": "Gameboy Color",
       "url": "https://open.spotify.com/track/6MefIlx2loVSQ0JnIkKPM1"
@@ -1902,10 +1902,28 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-19",
+      "date_removed": null,
       "duration_ms": 166189,
       "name": "Ginger Me",
       "url": "https://open.spotify.com/track/6ihWzjaRWNX9NAHnCzkD4S"
+    },
+    {
+      "album": {
+        "name": "Give It To Me",
+        "url": "https://open.spotify.com/album/26O1NsCrNRAVXBbHaNgkGn"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243539,
+      "name": "Give It To Me",
+      "url": "https://open.spotify.com/track/676xTEyKfYBOGYD0EuVrTq"
     },
     {
       "album": {
@@ -2718,7 +2736,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 225947,
       "name": "I Wish you Roses",
       "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
@@ -3674,7 +3692,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-07",
+      "date_removed": null,
       "duration_ms": 205788,
       "name": "Miss My Dawgs (with 6LACK)",
       "url": "https://open.spotify.com/track/7L2Nh4EsaETigImpQKvSoc"
@@ -4403,6 +4421,32 @@
     },
     {
       "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/4XyrBfLYVSRYIAIeAEJWF1"
+      },
+      "artists": [
+        {
+          "name": "QUiNNA",
+          "url": "https://open.spotify.com/artist/22rDvoC9Ih125ORFkRXU1p"
+        },
+        {
+          "name": "Asiah",
+          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
+        },
+        {
+          "name": "Sevendays",
+          "url": "https://open.spotify.com/artist/7Bjrqi8xQL35Lp9KCRI3sY"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169727,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/2jVophLAvSRFwiC0bhk8K4"
+    },
+    {
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -4458,7 +4502,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 183506,
       "name": "Petty",
       "url": "https://open.spotify.com/track/0crGQ19YYzGgFYLSw0UdrG"
@@ -4904,7 +4948,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 221492,
       "name": "Say Yes (Turquoise) (feat. Joshua J)",
       "url": "https://open.spotify.com/track/2vkx4WjT1wMJyZu4EEseL3"
@@ -5010,7 +5054,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 183575,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/6RjdyJoKIxX8eNbYE5WWBK"
@@ -5311,6 +5355,24 @@
     },
     {
       "album": {
+        "name": "Stuck On You",
+        "url": "https://open.spotify.com/album/2q3cWrPl7r6ClccTNJwTeE"
+      },
+      "artists": [
+        {
+          "name": "Alice Aera",
+          "url": "https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/1HeMmzT6i53MTYFiMODEBD"
+    },
+    {
+      "album": {
         "name": "Surprise",
         "url": "https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb"
       },
@@ -5464,6 +5526,24 @@
       "duration_ms": 199466,
       "name": "Talk About Love (feat. Young Thug)",
       "url": "https://open.spotify.com/track/1qA9TnEJ2sUub9QkN9K3Mv"
+    },
+    {
+      "album": {
+        "name": "Tasty",
+        "url": "https://open.spotify.com/album/44aLFnq6Fjpb3JBPKsEpaK"
+      },
+      "artists": [
+        {
+          "name": "DaniLeigh",
+          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150799,
+      "name": "Tasty",
+      "url": "https://open.spotify.com/track/6lSwB0f2MN7uhJT7q4dRvS"
     },
     {
       "album": {
@@ -6156,6 +6236,28 @@
       "duration_ms": 212573,
       "name": "Whatever Simon Says",
       "url": "https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7"
+    },
+    {
+      "album": {
+        "name": "Sincerely For You",
+        "url": "https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190186,
+      "name": "When You Bad Like That (feat. Future)",
+      "url": "https://open.spotify.com/track/275YNZEcI6UKFU7hO1kzKX"
     },
     {
       "album": {

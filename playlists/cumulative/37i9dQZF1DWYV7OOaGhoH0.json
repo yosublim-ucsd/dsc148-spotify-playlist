@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Explore the ever-evolving folk & roots scene. Cover: Nathaniel Rateliff & The Night Sweats\n",
+  "description": "Explore the ever-evolving folk & roots scene. Cover: David Kushner",
   "name": "Roots Rising",
   "tracks": [
     {
@@ -2909,6 +2909,24 @@
     },
     {
       "album": {
+        "name": "Holdup",
+        "url": "https://open.spotify.com/album/0xwKLtHe9vEa7a4w88guxk"
+      },
+      "artists": [
+        {
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155262,
+      "name": "Holdup",
+      "url": "https://open.spotify.com/track/698FjMKtAofPXufwpCbsxo"
+    },
+    {
+      "album": {
         "name": "Donde Los Terremotos: Songs from and Inspired by the Film",
         "url": "https://open.spotify.com/album/0gcM0ST0KNf9v3ua0rnpkf"
       },
@@ -3540,7 +3558,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 158297,
       "name": "It's Called: Freefall",
       "url": "https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww"
@@ -5372,7 +5390,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 245880,
       "name": "Show Me the Way",
       "url": "https://open.spotify.com/track/71uPeJAESy4ZYB7bN207SU"
@@ -6070,6 +6088,24 @@
       "duration_ms": 218059,
       "name": "The Good Old Days",
       "url": "https://open.spotify.com/track/2OKOfynu79Cq1PVk5NPx0E"
+    },
+    {
+      "album": {
+        "name": "- (Deluxe)",
+        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195083,
+      "name": "The Hills of Aberfeldy",
+      "url": "https://open.spotify.com/track/1eYafSv4c2aFNf98hSFHX0"
     },
     {
       "album": {

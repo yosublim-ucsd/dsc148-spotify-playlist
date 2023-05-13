@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Gabi Hartmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,398 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,455 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 26 | [Black Classical Music \(feat\. Venna & Charlie Stacey\)](https://open.spotify.com/track/3cWCTxaFlebwEnQXibNwAu) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Charlie Stacey](https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g) | [Black Classical Music \(feat\. Venna & Charlie Stacey\)](https://open.spotify.com/album/7L63PL897aTm0Xu1pt8Fbo) | 5:19 |
 | 27 | [I Miss You So](https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [I Miss You So](https://open.spotify.com/album/15cL28NaqFZ5ySBqsa64mF) | 3:43 |
 | 28 | [Day Dream](https://open.spotify.com/track/0pmfzrYIaHzPQ0DYnRWLwi) | [Ashley Henry](https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw) | [Day Dream](https://open.spotify.com/album/406jynG8Y0juiFhyOaviak) | 4:55 |
-| 29 | [Vuma \(feat\. Thandiswa, Joel Ross\)](https://open.spotify.com/track/7t1XwTEKSzxXawdNah4tzw) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [Vuma \(feat\. Thandiswa, Joel Ross\)](https://open.spotify.com/album/0h4Nddo7ZvobQTY5aXWCGO) | 3:00 |
+| 29 | [Vuma \(feat\. Thandiswa, Joel Ross\)](https://open.spotify.com/track/6tmaqOSEJHwviZVBeGhHZe) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [The 5th Dimension \(feat\. The HawtPlates\)](https://open.spotify.com/album/2SQPJFfEPeX2wIIHpzFGci) | 3:00 |
 | 30 | [Momo](https://open.spotify.com/track/0CBX0WAXLUlxZLxVzNcL2U) | [David Georgelet](https://open.spotify.com/artist/2LtA68RzaNBt40yR5HCFJJ), [François Chesnel](https://open.spotify.com/artist/6V7lY4nwZUyd0SfHv8wv0w), [Yoni Zelnik](https://open.spotify.com/artist/4hqzR5w8mpfDRsYS3AGbTs) | [La Septième Reine](https://open.spotify.com/album/33gLfX0wqcpYOhmZViuXAO) | 3:05 |
 | 31 | [Don't Fence Me In / Strollin'](https://open.spotify.com/track/19OTt5vFfApZoRLmMjtgyk) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Plays Well With Others](https://open.spotify.com/album/1glJqGy1jDHQp6KjmV42Tv) | 3:55 |
 | 32 | [Coltrane Plays the Blues](https://open.spotify.com/track/5KT08xhOGbce2aoy0I8sgV) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT) | [Coltrane Plays The Blues](https://open.spotify.com/album/2MCJ9ae1x9jzpx4kOVWzgO) | 5:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [A Baptist Beat](https://open.spotify.com/track/6R7rddgouLxoW9KwWX5azf) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu) | [A Baptist Beat](https://open.spotify.com/album/2tbIMQxw0o5EvK2cCTUcKB) | 4:10 |
 | 50 | [Guess Who I Saw Today \(feat\. Gerald Clayton\) \- Duo Version](https://open.spotify.com/track/4VEOAK2Wf0HmxDfyk0r25t) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq), [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8) | [Guess Who I Saw Today \(Duo Version\)](https://open.spotify.com/album/2SZO6jit46DlAS8kE017FI) | 4:45 |
 
-Snapshot ID: `MCw5NzcyM2JjMzMzYzQzMDU2Njc2MzI1NzRiMGUzMmVkNWUwZGY3OGQy`
+Snapshot ID: `MCxiZmJlM2RmNTMxYWQwNzgyYzc2NDM4MTk5YTA0OWMxNDFiNDJhZDAx`

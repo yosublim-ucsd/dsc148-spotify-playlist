@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,003 likes - 60 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,009 likes - 60 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 26 | [Raplord](https://open.spotify.com/track/3YSagrvQP9x32rAjEI48PL) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Jonas Bento](https://open.spotify.com/artist/48Oxa6B9euthfl9VTQsArN) | [Teto Baixo](https://open.spotify.com/album/2sYBOWYCJlcYoFpbpXnr5Q) | 4:23 |
 | 27 | [Nós](https://open.spotify.com/track/1yHEBmkI2j3lhlVLU8yuTl) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [NU](https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP) | 3:13 |
 | 28 | [Irmão DQbrada!](https://open.spotify.com/track/4CPhkF6SboNZoZfjgaEYME) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [Irmão Dqbrada!](https://open.spotify.com/album/3kpjqMr6KRsxc5n7JVx8mc) | 6:00 |
-| 29 | [Beira de Piscina \(Remix\)](https://open.spotify.com/track/6a0kQTjyGmfwBF0tLVgEha) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Caro Vapor / Vida e Veneno de Don L](https://open.spotify.com/album/1BztKmvBesTWgxAxgc0yZK) | 3:49 |
-| 30 | [Olhares](https://open.spotify.com/track/29gjSnpSaHYKV62A8uwQ1y) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89) | [Olhares](https://open.spotify.com/album/2uEThThOM8x9bDSSvYK8p3) | 3:57 |
+| 29 | [Olhares](https://open.spotify.com/track/29gjSnpSaHYKV62A8uwQ1y) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89) | [Olhares](https://open.spotify.com/album/2uEThThOM8x9bDSSvYK8p3) | 3:57 |
+| 30 | [Beira de Piscina \(Remix\)](https://open.spotify.com/track/6a0kQTjyGmfwBF0tLVgEha) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Caro Vapor / Vida e Veneno de Don L](https://open.spotify.com/album/1BztKmvBesTWgxAxgc0yZK) | 3:49 |
 | 31 | [Vagabundo Também Ama / Vida Longa Mundo Pequeno \- Acústico](https://open.spotify.com/track/2DgQLg0xllUwBwAtMsYiNH) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE) | [Oriente \(Acústico\)](https://open.spotify.com/album/4pRmsv8T3XHrdf7EgT9mRJ) | 8:49 |
 | 32 | [Castelos & Ruínas](https://open.spotify.com/track/56U1WCUL6mbxoSSYgbBame) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 4:09 |
 | 33 | [Rosas e Rimas](https://open.spotify.com/track/1lg7G5zyf8apcquXJ7iPYR) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Slow Flow](https://open.spotify.com/album/1LpPSpMDdzx3WCNs8EUui3) | 2:39 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 59 | [Diáspora](https://open.spotify.com/track/5Ry5dvgGqRn6FJzF3dlH25) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [DV Tribo](https://open.spotify.com/artist/4cePVnCFqOt3chPXh4qAMr) | [Diáspora](https://open.spotify.com/album/1Q03zZsHWMBmW1LJ0Qo9f8) | 5:15 |
 | 60 | [Foco, Força E Fé](https://open.spotify.com/track/28M9CSVpZ8x526MKvb1U2W) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Foco, Força E Fé](https://open.spotify.com/album/2ZkIlqqupIDBsfG1zzvToD) | 3:44 |
 
-Snapshot ID: `MCw2NmE2ZTFiNGE1OWVmNWI4NzI5MWUxYzNlNTQ5ZTVmMzdkZjA5ZWIx`
+Snapshot ID: `MCw4MTE2MTI0N2FjNjFjZTE2YjY3MDFmMjdlODQ1MzZhOTcyMDFlZmNk`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Nothing but the best modern country music. Cover: Luke Bryan",
+  "description": "Nothing but the best modern country music. Cover: Bailey Zimmerman",
   "name": "All About Country",
   "tracks": [
     {
@@ -1347,6 +1347,24 @@
     },
     {
       "album": {
+        "name": "Country Nights",
+        "url": "https://open.spotify.com/album/75prAvBAPUakc6BwI4RiE5"
+      },
+      "artists": [
+        {
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217400,
+      "name": "Country Nights",
+      "url": "https://open.spotify.com/track/52kKdS8gexeh2ePnEYpaQE"
+    },
+    {
+      "album": {
         "name": "Country On",
         "url": "https://open.spotify.com/album/3XgzAqjFk10Vyspx8c7OEm"
       },
@@ -1669,6 +1687,28 @@
     },
     {
       "album": {
+        "name": "Different 'Round Here",
+        "url": "https://open.spotify.com/album/1FkgWqBfOH8VaaiG8PRGxX"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174992,
+      "name": "Different 'Round Here",
+      "url": "https://open.spotify.com/track/4l5w5qGInIhwfvpYmPIYdK"
+    },
+    {
+      "album": {
         "name": "Dirt Road Down",
         "url": "https://open.spotify.com/album/0It8BS2aYEgexa65TJbp18"
       },
@@ -1774,7 +1814,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 195586,
       "name": "Doing Life With Me",
       "url": "https://open.spotify.com/track/57YkkgxAiusJPMtiSG3w3c"
@@ -2168,7 +2208,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 196162,
       "name": "Feel Like This",
       "url": "https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU"
@@ -2400,7 +2440,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 320929,
       "name": "Get Rich Or Drunk Trying",
       "url": "https://open.spotify.com/track/1cwPxz4iIWoqWrdtmy7CUv"
@@ -3977,6 +4017,28 @@
     },
     {
       "album": {
+        "name": "Life Goes On (feat. Luke Combs)",
+        "url": "https://open.spotify.com/album/6fyUUW7ISpjbxCxaBHl1UN"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210208,
+      "name": "Life Goes On (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/63kLorCFyk4ZHMHPhcWOtO"
+    },
+    {
+      "album": {
         "name": "What A Song Can Do",
         "url": "https://open.spotify.com/album/6WFBqvXyejttGfBbyJllyd"
       },
@@ -4292,7 +4354,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 179878,
       "name": "Match For My Memory",
       "url": "https://open.spotify.com/track/5sYsGGJ87apKstNPKgiZFo"
@@ -4682,7 +4744,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 197400,
       "name": "Need A Favor",
       "url": "https://open.spotify.com/track/5jUOG0aeAofL5u3UWyrtDO"
@@ -4824,7 +4886,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 173533,
       "name": "Never Til Now (feat. Brett Young)",
       "url": "https://open.spotify.com/track/4232gJU5ljjFmKaPh0cKds"
@@ -5750,7 +5812,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 178723,
       "name": "Religiously",
       "url": "https://open.spotify.com/track/0ec7EBr0mjWO6J7TRr09bN"
@@ -5913,6 +5975,24 @@
     },
     {
       "album": {
+        "name": "Sad To Work",
+        "url": "https://open.spotify.com/album/2by7rpJLfnRLHsWUMvf55i"
+      },
+      "artists": [
+        {
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166579,
+      "name": "Sad To Work",
+      "url": "https://open.spotify.com/track/46olgrSXSWCt8jkYh9tok0"
+    },
+    {
+      "album": {
         "name": "Same Beer Different Problem",
         "url": "https://open.spotify.com/album/699sP9cMgoC77MayudRDkk"
       },
@@ -5964,6 +6044,28 @@
       "duration_ms": 219960,
       "name": "Same Car",
       "url": "https://open.spotify.com/track/6yCW8qaDobbzDQS4qjTfJO"
+    },
+    {
+      "album": {
+        "name": "Save Me (with Lainey Wilson)",
+        "url": "https://open.spotify.com/album/31QoRLzmn0qTom75qfxEfE"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237493,
+      "name": "Save Me (with Lainey Wilson)",
+      "url": "https://open.spotify.com/track/4Ldp4ixS1y6SinsEn44a23"
     },
     {
       "album": {
@@ -7923,6 +8025,24 @@
     },
     {
       "album": {
+        "name": "What Colour You Drive",
+        "url": "https://open.spotify.com/album/0pcnBEavBIxMwpz7Oi46Ro"
+      },
+      "artists": [
+        {
+          "name": "Hunter Brothers",
+          "url": "https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228929,
+      "name": "What Colour You Drive",
+      "url": "https://open.spotify.com/track/5Zp4gbFOTHdzuTCdiTbRdn"
+    },
+    {
+      "album": {
         "name": "29: Written In Stone",
         "url": "https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a"
       },
@@ -8488,7 +8608,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 196253,
       "name": "You",
       "url": "https://open.spotify.com/track/2xPV95cfbyusygMTxpa3SW"
@@ -8546,6 +8666,24 @@
       "duration_ms": 225813,
       "name": "You Didn\u2019t",
       "url": "https://open.spotify.com/track/5Jwcv2Le3Klwgrgyqa12ZA"
+    },
+    {
+      "album": {
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200506,
+      "name": "You Don\u2019t Want That Smoke",
+      "url": "https://open.spotify.com/track/5uPQjirx9C6MS47V556x46"
     },
     {
       "album": {
@@ -8618,7 +8756,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 187941,
       "name": "You, Me, And Whiskey",
       "url": "https://open.spotify.com/track/2BLlpdGCv0IErmH3OBGHYJ"

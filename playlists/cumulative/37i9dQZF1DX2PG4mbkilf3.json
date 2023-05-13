@@ -532,7 +532,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 195882,
       "name": "ALL EARS",
       "url": "https://open.spotify.com/track/71npaVc8R0tKEF9avvZe7o"
@@ -1908,7 +1908,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 184920,
       "name": "Comfort",
       "url": "https://open.spotify.com/track/633bWqyVVdEFJl9xlVhTY4"
@@ -3264,7 +3264,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 245280,
       "name": "Evergray",
       "url": "https://open.spotify.com/track/2ZbthnkJONdgLLFyjwLeoo"
@@ -3594,7 +3594,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 166250,
       "name": "For Now",
       "url": "https://open.spotify.com/track/443THossCBCsZQ91AKnBDP"
@@ -4770,7 +4770,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 212273,
       "name": "I Feel Good",
       "url": "https://open.spotify.com/track/4fv2pZ3RZS0iZlFtfiXvQQ"
@@ -6079,6 +6079,42 @@
     },
     {
       "album": {
+        "name": "Looping",
+        "url": "https://open.spotify.com/album/7v1fF2heE7azqtCgG9viSk"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193967,
+      "name": "Looping",
+      "url": "https://open.spotify.com/track/6p3qUiFmgLx3nVFJn7zhKn"
+    },
+    {
+      "album": {
+        "name": "Losing Faith",
+        "url": "https://open.spotify.com/album/1HGxWsB6SlGGILjSAOKjnb"
+      },
+      "artists": [
+        {
+          "name": "Kubla",
+          "url": "https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218140,
+      "name": "Losing Faith",
+      "url": "https://open.spotify.com/track/1vrkqfiCKoO6B6yLV3UO6M"
+    },
+    {
+      "album": {
         "name": "Losing You",
         "url": "https://open.spotify.com/album/22iUSFqCbq62Oa7J3pAyhO"
       },
@@ -7177,6 +7213,28 @@
     },
     {
       "album": {
+        "name": "Not Worthy",
+        "url": "https://open.spotify.com/album/245Tjxy00ipfRrrAFXvQ8g"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        },
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192208,
+      "name": "Not Worthy",
+      "url": "https://open.spotify.com/track/7EpHcQ8M4zvcs7pERkduuS"
+    },
+    {
+      "album": {
         "name": "Not Your Girl",
         "url": "https://open.spotify.com/album/6gux4v1DkmpgPe1F1kgWeY"
       },
@@ -7192,6 +7250,24 @@
       "duration_ms": 156499,
       "name": "Not Your Girl",
       "url": "https://open.spotify.com/track/6w2DsQu7yQdcetIECH5ANO"
+    },
+    {
+      "album": {
+        "name": "nothing but the best",
+        "url": "https://open.spotify.com/album/6agho5mzuin38scgISUKXK"
+      },
+      "artists": [
+        {
+          "name": "G\u00e4elle",
+          "url": "https://open.spotify.com/artist/6aiaoT7eRRVYKgpYDB4s6T"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171750,
+      "name": "nothing but the best",
+      "url": "https://open.spotify.com/track/4GokiQ2fvDBKcDFcY0Oa8w"
     },
     {
       "album": {
@@ -7370,7 +7446,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 169691,
       "name": "OHWEI",
       "url": "https://open.spotify.com/track/7n5LQXVhfgRphYIuX6jsCw"
@@ -7656,7 +7732,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 227946,
       "name": "Open (feat. Majid Jordan)",
       "url": "https://open.spotify.com/track/1VcORtwbt560HNpnDMyCCu"
@@ -9149,6 +9225,24 @@
     },
     {
       "album": {
+        "name": "She Said",
+        "url": "https://open.spotify.com/album/7qHEPbWESg5qj663XED0BY"
+      },
+      "artists": [
+        {
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215960,
+      "name": "She Said",
+      "url": "https://open.spotify.com/track/3CR4lqVVx9F96vkd7QAEmJ"
+    },
+    {
+      "album": {
         "name": "Shea Butter Baby",
         "url": "https://open.spotify.com/album/2pOcq4SAJfA8B7eXPwseIt"
       },
@@ -9944,6 +10038,24 @@
       "duration_ms": 216696,
       "name": "Stronger Than You Know",
       "url": "https://open.spotify.com/track/566iyMrmzbowNCMDO0eOO3"
+    },
+    {
+      "album": {
+        "name": "Stuck On You",
+        "url": "https://open.spotify.com/album/2q3cWrPl7r6ClccTNJwTeE"
+      },
+      "artists": [
+        {
+          "name": "Alice Aera",
+          "url": "https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/1HeMmzT6i53MTYFiMODEBD"
     },
     {
       "album": {
@@ -11884,6 +11996,24 @@
       "duration_ms": 235339,
       "name": "you know.",
       "url": "https://open.spotify.com/track/0GYpa6GYpJAOvC1ySnNRGE"
+    },
+    {
+      "album": {
+        "name": "You Still Ain't Shit",
+        "url": "https://open.spotify.com/album/5i6PTLpU0ge7KC1wrxNnGO"
+      },
+      "artists": [
+        {
+          "name": "Romeyo Wilson",
+          "url": "https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "You Still Ain't Shit",
+      "url": "https://open.spotify.com/track/7soKxyV0lIoh9BlbWmuUBZ"
     },
     {
       "album": {

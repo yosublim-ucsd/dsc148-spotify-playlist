@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,898 likes - 100 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,944 likes - 100 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 6 | [Growing Your Hands Back](https://open.spotify.com/track/2iQeEYuZvG1j0wVeNJbZtD) | [ALO](https://open.spotify.com/artist/65c0gzsw9JsPUxm09QPjQj) | [Silver Saturdays](https://open.spotify.com/album/3IbrPiWeBaAf3d1S9RX7Oh) | 4:45 |
 | 7 | [Stuck in Between](https://open.spotify.com/track/2OX0jfmSfFFIk9rFTzivZU) | [Chalk Dinosaur](https://open.spotify.com/artist/0nGLnZVTm8IXRb83Rarg6C) | [Stuck in Between](https://open.spotify.com/album/1NZ2SrbhnuY6jLKoq1MU5Z) | 5:53 |
 | 8 | [Soul Sweet Song](https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Soul Sweet Song](https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud) | 3:55 |
-| 9 | [Scarlet Begonias](https://open.spotify.com/track/7w3f1gluu1NTtKcTD6s5p0) | [Dave McMurray](https://open.spotify.com/artist/1DOwY4lGFMmu4gqoGAI84x), [Oteil Burbridge](https://open.spotify.com/artist/5NxOynAoF4PRKsFHH5LhGL) | [Scarlet Begonias](https://open.spotify.com/album/3WfxL85c4fIfRNPLli2tXo) | 5:47 |
+| 9 | [Scarlet Begonias \(feat\. Oteil Burbridge\)](https://open.spotify.com/track/0sdyxD5y3KxMrWA2kAF5vf) | [Dave McMurray](https://open.spotify.com/artist/1DOwY4lGFMmu4gqoGAI84x), [Oteil Burbridge](https://open.spotify.com/artist/5NxOynAoF4PRKsFHH5LhGL) | [To Lay Me Down \(feat\. Jamey Johnson\)](https://open.spotify.com/album/4Mr06hdaTRf9p4UBMbX7qH) | 5:47 |
 | 10 | [Breakfast of Champs \(Live\)](https://open.spotify.com/track/35S87Fc7BaLnwtKQZQ3633) | [The Jauntee](https://open.spotify.com/artist/79iSQLNRiPa93oo3yYxAmN) | [Jaunts of Our Lives, Vol\. 2 \(Live\)](https://open.spotify.com/album/5b4LQV3XlMqhfevuZeEW3a) | 14:15 |
 | 11 | [All I Need](https://open.spotify.com/track/6vC5WWQXWqBUW5iq7XoGnu) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Night Lights](https://open.spotify.com/album/1UyBQOLKc5jxzrdAOpHjv4) | 6:41 |
 | 12 | [Dreaming Out Loud \[Feat\. Ivan Neville, Ruthie Foster\]](https://open.spotify.com/track/0t4WzuwZWExGugFY2WM4dK) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708), [Ivan Neville](https://open.spotify.com/artist/0xHoBLKrp48wAlwpy54lRv), [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Dreaming Out Loud](https://open.spotify.com/album/3kjYjBpTV0C2gPHpUgAm35) | 4:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 99 | [Enjoy the Ride](https://open.spotify.com/track/4EAZKkjcKYdjm2Ms0cL1Mm) | [The Jauntee](https://open.spotify.com/artist/79iSQLNRiPa93oo3yYxAmN) | [Enjoy the Ride](https://open.spotify.com/album/5CfoFSPM4KCVjS6MbIEDZr) | 6:23 |
 | 100 | [Shahryar's Rage](https://open.spotify.com/track/0EFnmJtuoxXxByPABDAzA5) | [The Heavy Pets](https://open.spotify.com/artist/3Olk7pmwmVS6GxinoMMYol) | [Strawberry Mansion](https://open.spotify.com/album/1thNTCmjYa3DbaxP1uvrGt) | 5:11 |
 
-Snapshot ID: `MCw3ZjI2NzNiZTMyOTNjMjIxYzhkOTVjZTUwZGY3M2Q5MGJmYmFkYjVl`
+Snapshot ID: `MCwwMzI1ZDgxODhiNTY1YzYyMzM0ZjljMDIzMzFhM2Q2ZTg0ZWM2ZjA4`

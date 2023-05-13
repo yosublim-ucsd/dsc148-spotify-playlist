@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 
 > Psychedelic beat science.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,406 likes - 75 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,728 likes - 75 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 21 | [Aftermath](https://open.spotify.com/track/4wcWI3GEtaGm38dbdDFbyI) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Maxinquaye](https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8) | 7:38 |
 | 22 | [Rodney Yates](https://open.spotify.com/track/7g7Pauld8mf8CNpdzad7FW) | [David Holmes](https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL) | [Let's Get Killed](https://open.spotify.com/album/5CVZGhLQA0ndG1tV1G3se1) | 6:24 |
 | 23 | [Blue Lines \- 2012 Mix/Master](https://open.spotify.com/track/4tVhBXOhSlqYCL2IjyoUNu) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Blue Lines \(2012 Mix/Master\)](https://open.spotify.com/album/5mAPk4qeNqVLtNydaWbWlf) | 4:21 |
-| 24 | [Shaolin Satellite \- Remastered 2022](https://open.spotify.com/track/46Ezt0lIxCmEyO3F8yrc5V) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Sounds From The Thievery Hi Fi \(Remastered 2022\)](https://open.spotify.com/album/3YHE7w3WLUFyt1FGtvRP8t) | 6:24 |
+| 24 | [Lonely Soul](https://open.spotify.com/track/2LmFeLBe39IfY0XfqJ0vOi) | [UNKLE](https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC), [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Psyence Fiction](https://open.spotify.com/album/0LFPjvWEaHP7WKQD6F5pVS) | 8:53 |
 | 25 | [Black Baby \(DJ\-KiCKS\)](https://open.spotify.com/track/13FO5ag4v62zedndUziMI7) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [DJ\-Kicks](https://open.spotify.com/album/0Ba6Ld8Ss2oAH1x7Hv1v53) | 6:20 |
-| 26 | [Lonely Soul](https://open.spotify.com/track/2LmFeLBe39IfY0XfqJ0vOi) | [UNKLE](https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC), [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Psyence Fiction](https://open.spotify.com/album/0LFPjvWEaHP7WKQD6F5pVS) | 8:53 |
-| 27 | [Journey to Arnhemland](https://open.spotify.com/track/0tV3gNXkSicVDTe37mjgNo) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [The Return of the Space Cowboy \(Remastered\)](https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk) | 5:22 |
-| 28 | [Sabrosa](https://open.spotify.com/track/3yOhl93toXcntCqDtAI7iL) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [The In Sound From Way Out!](https://open.spotify.com/album/0nA01XOVBUoi1zDVVYKz4i) | 3:32 |
+| 26 | [Shaolin Satellite \- Remastered 2022](https://open.spotify.com/track/46Ezt0lIxCmEyO3F8yrc5V) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Sounds From The Thievery Hi Fi \(Remastered 2022\)](https://open.spotify.com/album/3YHE7w3WLUFyt1FGtvRP8t) | 6:24 |
+| 27 | [Sabrosa](https://open.spotify.com/track/3yOhl93toXcntCqDtAI7iL) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [The In Sound From Way Out!](https://open.spotify.com/album/0nA01XOVBUoi1zDVVYKz4i) | 3:32 |
+| 28 | [Journey to Arnhemland](https://open.spotify.com/track/0tV3gNXkSicVDTe37mjgNo) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [The Return of the Space Cowboy \(Remastered\)](https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk) | 5:22 |
 | 29 | [Turquoise Hexagon Sun](https://open.spotify.com/track/7F3MjS1b1xHeaeXyBTvCE0) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 5:07 |
 | 30 | [Bohemian Sunset](https://open.spotify.com/track/3YOQjNRshNSJcrHH4Ui5gL) | [Jazzanova](https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T) | [Jazzanova EP](https://open.spotify.com/album/1gQEEHS7L5RBi5IQvZZs9f) | 6:54 |
 | 31 | [Overcome](https://open.spotify.com/track/0tYEsmdrsv5Fi3UOn58bou) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Maxinquaye \(Deluxe Edition\)](https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo) | 4:30 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 47 | [Deep Shit, Pt\. 1 & 2](https://open.spotify.com/track/4p2AbJiH4eso5TE3wVqbV4) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [G\-Stoned](https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN) | 6:21 |
 | 48 | [Autumn Leaves](https://open.spotify.com/track/7KQSvoKOECoIdyH5CEIFc5) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND) | [Tone Tales From Tomorrow](https://open.spotify.com/album/1GZkKCcURaTItobePLur4B) | 4:01 |
 | 49 | [What Does Your Soul Look Like, Pt\. 2](https://open.spotify.com/track/6gxE4VdVudpfihWy5jV7L0) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Preemptive Strike](https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9) | 13:51 |
-| 50 | [Listen To The Beat](https://open.spotify.com/track/7wULNOKU99VregJA264okG) | [London Funk Allstars](https://open.spotify.com/artist/2NTMckStRtgsN3A6LacOR6) | [London Funk Volume 1](https://open.spotify.com/album/3mwJkbOsAEobKg21Ad5bMa) | 4:45 |
-| 51 | [The bootleggers](https://open.spotify.com/track/7CUBB5yE9AtXQZANojfUUG) | [Kid Loco](https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL) | [A Grand Love Story](https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS) | 7:08 |
+| 50 | [The bootleggers](https://open.spotify.com/track/7CUBB5yE9AtXQZANojfUUG) | [Kid Loco](https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL) | [A Grand Love Story](https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS) | 7:08 |
+| 51 | [Listen To The Beat](https://open.spotify.com/track/7wULNOKU99VregJA264okG) | [London Funk Allstars](https://open.spotify.com/artist/2NTMckStRtgsN3A6LacOR6) | [London Funk Volume 1](https://open.spotify.com/album/3mwJkbOsAEobKg21Ad5bMa) | 4:45 |
 | 52 | [The Next Shit](https://open.spotify.com/track/6pCFuwCRSJgarK4ESzrVtC) | [DJ Vadim](https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ) | [USSR Repertoire / The Theory Of Verticality](https://open.spotify.com/album/0Af78o9yF8IULqMgW9VoZv) | 2:09 |
 | 53 | [The Rhyme Goes On](https://open.spotify.com/track/6P5Mhl2WB7HVXQ6Yil3coB) | [Poets of Thought](https://open.spotify.com/artist/1dU3l4m2BOP4QJuUstwPMZ) | [Earth, Vol\. 1](https://open.spotify.com/album/1xK2wmIA6nazBG1orPKB4y) | 4:15 |
 | 54 | [Bug Powder Dust \- Kruder & Dorfmeister Session](https://open.spotify.com/track/2LPJmgAK8YNvIIa8ue58rI) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6), [Justin Warfield](https://open.spotify.com/artist/7FsYhkJR8zX4NeEqifNqDA) | [Trip Hop Classics](https://open.spotify.com/album/0SatpsNu81KdWzit0pmCb3) | 7:27 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 68 | [A Mother \(For Your Mind\)](https://open.spotify.com/track/5AenLCL5tkvwas8y8A0IU3) | [The Herbaliser](https://open.spotify.com/artist/1O7aMVbDeSXY2LiVBhb13w) | [Blow Your Headphones](https://open.spotify.com/album/2iITDFv9VGAjLMsIQBzGlh) | 6:48 |
 | 69 | [What Does Your Soul Look Like, Pt\. 1](https://open.spotify.com/track/6mV0YLf8jUgEuIunnDCzUD) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Preemptive Strike](https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9) | 6:21 |
 | 70 | [B Monkey](https://open.spotify.com/track/7D1jDhKqUZrLTLFPSyMWlm) | [Funki Porcini](https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw) | [Hed Phone Sex](https://open.spotify.com/album/0v5ACdpHC4PsDrFuhWFjcW) | 7:21 |
-| 71 | [No Government](https://open.spotify.com/track/20Wu65TWDvjqRK4Rrzsmp8) | [Nicolette](https://open.spotify.com/artist/0ZC2lg6yD32OG48YKBi7Id) | [Trip Hop Classics By Kid Loco](https://open.spotify.com/album/7oJnqZrIB4VhuJJAb73KHC) | 5:32 |
-| 72 | [Mugen \- In the Morning](https://open.spotify.com/track/4ayKqsvMn7CTyUg2cZMzLc) | [Major Force West E.M.S\. Orchestra](https://open.spotify.com/artist/0pRKH6lK1VidZ76cfdGx9v) | [Major Force West \('93 \- '97\)](https://open.spotify.com/album/465mxu1pDJsSCXOziGO7ly) | 6:24 |
-| 73 | [Terrapin](https://open.spotify.com/track/44syVsiS6uTaLRDbr1QIfr) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/7geNHTLjHCBxdg5YlO7gse) | 4:38 |
+| 71 | [Terrapin](https://open.spotify.com/track/44syVsiS6uTaLRDbr1QIfr) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/7geNHTLjHCBxdg5YlO7gse) | 4:38 |
+| 72 | [No Government](https://open.spotify.com/track/20Wu65TWDvjqRK4Rrzsmp8) | [Nicolette](https://open.spotify.com/artist/0ZC2lg6yD32OG48YKBi7Id) | [Trip Hop Classics By Kid Loco](https://open.spotify.com/album/7oJnqZrIB4VhuJJAb73KHC) | 5:32 |
+| 73 | [Mugen \- In the Morning](https://open.spotify.com/track/4ayKqsvMn7CTyUg2cZMzLc) | [Major Force West E.M.S\. Orchestra](https://open.spotify.com/artist/0pRKH6lK1VidZ76cfdGx9v) | [Major Force West \('93 \- '97\)](https://open.spotify.com/album/465mxu1pDJsSCXOziGO7ly) | 6:24 |
 | 74 | [Dieu Reconnaitra Les Siens](https://open.spotify.com/track/4XLTegPY04UEUEateXBUg0) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Underground Vibes](https://open.spotify.com/album/0HvGtxzwRl8L0Oq7HHOIdT) | 6:02 |
 | 75 | [Silver Dawn](https://open.spotify.com/track/49LEjOtuNavbyEDa81CgTX) | [Artemis](https://open.spotify.com/artist/4EPlTAt2kHslwke6grsplV) | [Earth, Vol\. 2](https://open.spotify.com/album/0X4qFMaii26coSv2Mpdipk) | 5:42 |
 
-Snapshot ID: `MCxmYjA3ODQwNmU0MzBmMjdiYzVlOWI0MDIxNDY2NWY1MzAxZDY2OTYx`
+Snapshot ID: `MCxmN2EzN2Q3MWVjNTkyZDAwYjIzZjVmM2ZmNGNiMGVmZDJjZTI1Zjgy`

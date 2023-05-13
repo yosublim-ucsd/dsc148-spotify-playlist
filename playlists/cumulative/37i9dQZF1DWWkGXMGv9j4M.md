@@ -4,7 +4,7 @@
 
 > Weird year overall, but great for indie\. Editors' picks of the best tracks of the year\. Cover: Phoebe Bridgers
 
-172 songs - 9 hr 41 min
+174 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,10 +25,11 @@
 | [bad idea](https://open.spotify.com/track/3X98stWKFFlxLusl21lgWy) | [B0NKY](https://open.spotify.com/artist/3ajCT7sjp3kdZKdFRcPV02) | [bad idea](https://open.spotify.com/album/3Io1pVquas1qAVSXnshJcT) | 1:10 | 2020-12-01 | 2023-04-27 |
 | [bad idea](https://open.spotify.com/track/25ylkWC3rQFFnRKEfw7fhX) | [Cardingfraud](https://open.spotify.com/artist/7dlJAAr67mxtAK8wT96aR7) | [bad idea](https://open.spotify.com/album/1VntM1vgxPzrTBcbFVlBVR) | 1:10 | 2020-12-01 | 2023-05-11 |
 | [Bad Idea](https://open.spotify.com/track/7fPqIDdcOyleyxMXd9R8db) | [Corpyz](https://open.spotify.com/artist/1IdtOQs4WDnMhU7apS0zk4), [p4rkr](https://open.spotify.com/artist/26zhNRtcs21tYaShItiOhD), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u), [Sukoyomi](https://open.spotify.com/artist/6yaYqVukNPDxUsFNH0I8Rp) | [Bad Idea](https://open.spotify.com/album/01BEH4bQqFcbOWVsnB36MJ) | 1:09 | 2020-12-01 | 2023-04-28 |
+| [bad idea](https://open.spotify.com/track/7z60P3mJn29uK3YBROCbtJ) | [days](https://open.spotify.com/artist/4eAxthhvUDNVNYsBOnn4kF) | [insane](https://open.spotify.com/album/7DeikaW5PP9PExXe55DMAi) | 1:09 | 2020-12-01 |  |
 | [bad idea](https://open.spotify.com/track/4gIhQKdskKkhu5KQL0Jn4F) | [lmaopay](https://open.spotify.com/artist/5Lr6vtfzxLavw70fdoex8K), [starrstain](https://open.spotify.com/artist/2hcYnsObiMj0BPiXsGFPyX) | [archiv33](https://open.spotify.com/album/5pRZgTiyCZZfvmBfhEa0WO) | 1:10 | 2020-12-01 | 2023-02-25 |
 | [bad idea](https://open.spotify.com/track/40kKbnnhtks17ZELycGt6w) | [lowheartrate](https://open.spotify.com/artist/5ljQaCybAd1jZCknC8xIl6) | [bad idea](https://open.spotify.com/album/1GrSp0DRYFNu8DUTW12Dol) | 1:10 | 2020-12-01 | 2023-05-01 |
 | [bad idea](https://open.spotify.com/track/494PD9jp6RhTtrbo9JEEjD) | [overlyhigh](https://open.spotify.com/artist/04dpbxEZqLdRpbLsoOg88Q) | [bad idea](https://open.spotify.com/album/0MyLUYxvi2XmAN7ExmsXzl) | 1:09 | 2020-12-01 | 2023-03-02 |
-| [bad idea](https://open.spotify.com/track/4U0VPz4nbsMXqoLLvXNbsv) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [bad idea](https://open.spotify.com/album/1vjhR70VW6jLdMec6GGw5J) | 1:09 | 2020-12-01 |  |
+| [bad idea](https://open.spotify.com/track/4U0VPz4nbsMXqoLLvXNbsv) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [bad idea](https://open.spotify.com/album/1vjhR70VW6jLdMec6GGw5J) | 1:09 | 2020-12-01 | 2023-05-13 |
 | [bad idea](https://open.spotify.com/track/6hDVQ7JPpfbtvStzs5rnhR) | [streety](https://open.spotify.com/artist/7I1VdcozXg7Tm1jN1kYHg6) | [bad idea](https://open.spotify.com/album/2uMlaWtdhhAAG8N3GG5EcB) | 1:10 | 2020-12-01 | 2023-04-06 |
 | [bad idea \(feat\. blackwinterwells\)](https://open.spotify.com/track/21dQoUNcNgkFe52pGmuXRB) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [bad idea \(feat\. blackwinterwells\)](https://open.spotify.com/album/7AHNBk7kZBFAwZH1UNtf10) | 1:09 | 2020-12-01 | 2023-01-05 |
 | [Be Honest](https://open.spotify.com/track/1GDe2pacTrpqTvJANhWRXy) | [A\. K\. Paul](https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe) | [Be Honest](https://open.spotify.com/album/6Sg9GmRJi0tYgBsG2vwCVl) | 3:57 | 2020-12-01 | 2022-07-29 |
@@ -103,7 +104,8 @@
 | [Moments / Tides](https://open.spotify.com/track/7D56acHvA76RlIuebqxWKD) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Moments / Tides](https://open.spotify.com/album/2Amx6zNWVblidE5xhCPMXY) | 3:24 | 2020-12-01 |  |
 | [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:58 | 2020-12-01 |  |
 | [Ne Me Quitte Pas \(Don't Leave Me\)](https://open.spotify.com/track/7DYkWTA0ckaqm2MFfAIlQr) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Hold Space For Me](https://open.spotify.com/album/4Y9r8QQYroasHOYHUwCeSB) | 2:48 | 2020-12-01 |  |
-| [Next To You](https://open.spotify.com/track/081hXBEkvg9ZMUmzBIFPor) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Singles 2020 \- 2021](https://open.spotify.com/album/0dyTtlGRslN0ZOGtA4rTlx) | 3:52 | 2020-12-01 |  |
+| [Next To You](https://open.spotify.com/track/081hXBEkvg9ZMUmzBIFPor) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Singles 2020 \- 2021](https://open.spotify.com/album/0dyTtlGRslN0ZOGtA4rTlx) | 3:52 | 2020-12-01 | 2023-05-13 |
+| [Next To You](https://open.spotify.com/track/2Ahtup0oSl1OZVl4325JGU) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Next To You](https://open.spotify.com/album/7IJEZ5dBc1Kqo3mDUinEFs) | 3:52 | 2020-12-01 |  |
 | [Next to You](https://open.spotify.com/track/6KCwPQApuQNQEV0hw93duq) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Next to You](https://open.spotify.com/album/1TdEFwpJ5LAmfdFNSjdok3) | 3:52 | 2020-12-01 | 2022-07-29 |
 | [Note To Self](https://open.spotify.com/track/72KsNIxvoOKMGpFSe55PCO) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Note To Self](https://open.spotify.com/album/41LVhTarQ3tlu9fKaprxoq) | 2:17 | 2020-12-01 | 2022-11-13 |
 | [Note To Self](https://open.spotify.com/track/7xHap3EOHq2Qn8OQhCpfgW) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [EPHEMERA](https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m) | 2:17 | 2020-12-01 |  |

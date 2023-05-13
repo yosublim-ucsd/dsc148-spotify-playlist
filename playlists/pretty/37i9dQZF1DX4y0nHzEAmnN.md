@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 | 26 | [Rise And Shine](https://open.spotify.com/track/0NW7dYHm3TxI5CQtXYOIhs) | [Cast \- Sofia the First](https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p), [Sofia](https://open.spotify.com/artist/5ocA7gtizL3y8huRNXlali) | [Sofia the First: Once Upon a Princess](https://open.spotify.com/album/60YMCDFuBPIl0vmyEkaVrF) | 2:56 |
 | 27 | [Nice 'N' Clean](https://open.spotify.com/track/2iLdeJktl6Q1cp7NJp0pIU) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Fantastic Voyages](https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7) | 1:49 |
 | 28 | [El Primer Día de Escuela](https://open.spotify.com/track/3fkpODmwBAdwSl8AbLWGsB) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [El Primer Día de Escuela](https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX) | 2:38 |
-| 29 | [The Potty Song](https://open.spotify.com/track/2pl6yuX79AQJtn2gmBjLtW) | [Miss Kitty](https://open.spotify.com/artist/0Sm4L9Y9n0PDeNXTX7xTEx) | [Please Come To My Party](https://open.spotify.com/album/1VP9v0mRFiqjhzrzCj4lt9) | 2:24 |
-| 30 | [Getting Dressed Is the Best](https://open.spotify.com/track/0sRYvGZX6GeAVuKQ1YZNE5) | [Moey](https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs) | [Moey's Music Party](https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU) | 3:20 |
+| 29 | [Getting Dressed Is the Best](https://open.spotify.com/track/0sRYvGZX6GeAVuKQ1YZNE5) | [Moey](https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs) | [Moey's Music Party](https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU) | 3:20 |
+| 30 | [The Potty Song](https://open.spotify.com/track/2pl6yuX79AQJtn2gmBjLtW) | [Miss Kitty](https://open.spotify.com/artist/0Sm4L9Y9n0PDeNXTX7xTEx) | [Please Come To My Party](https://open.spotify.com/album/1VP9v0mRFiqjhzrzCj4lt9) | 2:24 |
 | 31 | [The Potty Dance Song](https://open.spotify.com/track/0zLK9oC1XI6x29tpm0YX1l) | [Heidi Butkus](https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au) | [Music for Classroom Management](https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1) | 1:06 |
 | 32 | [Good Morning](https://open.spotify.com/track/1IFnPPBJrH6QQkeOybxmff) | [Love to Sing](https://open.spotify.com/artist/5dz42IMRAYRfEn0igXDjoz) | [With You](https://open.spotify.com/album/12Bh0hHZUqDxCYy11xCxBv) | 2:11 |
 | 33 | [Aguita Y Jabon](https://open.spotify.com/track/6xAuZbX2PrnuqNqZnloKal) | [Cantando con Adriana](https://open.spotify.com/artist/1nbn5tCrTiPWwDUqhgzMGk) | [Bailaré junto a ti](https://open.spotify.com/album/6IvaryN7xqFwBQQLdWJrFh) | 1:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 | 49 | [I Always Sit When I Eat](https://open.spotify.com/track/7Gmhedp0ne4neq1BgNHClT) | [Moey](https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs) | [Moey's Music Party](https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU) | 2:09 |
 | 50 | [Nappin' Time](https://open.spotify.com/track/5pI482wCmSObEDLo14dPDl) | [Rocknoceros](https://open.spotify.com/artist/6vEKt6eIx5Cnd0KzbNlwyD) | [Pink!](https://open.spotify.com/album/5LdIdJQ3KuAnfeYuWnULAE) | 3:04 |
 
-Snapshot ID: `MCxhM2RlNDM0OTA3MzAyMmUzMzBiNzk4ZjY1NDdlNGI3NmVlOWE4YWM5`
+Snapshot ID: `MCw1NmI5OTZiMDg5M2E1MzgyOTI0YTlmYWU4NDAyMjg4MzE0ZDAzZDA2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72wBcERxgla.md) - [plain]
 
 > Jazz piano to accompany your reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,872 likes - 262 songs - 14 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,013 likes - 262 songs - 14 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -271,4 +271,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72wBcERxgla.md) - [plain]
 | 261 | [I Left My Heart In San Francisco](https://open.spotify.com/track/0qMhdJjFV0VVu7atzy3VXd) | [Jim Jensen](https://open.spotify.com/artist/1mzZZuAmYl9ZyBmrI0beiJ) | [I Left My Heart In San Francisco](https://open.spotify.com/album/7Cti2pokVA6FYhZmYBzBZY) | 4:33 |
 | 262 | [Easy Living](https://open.spotify.com/track/5o2QRKZqtdKMeZ47Im0wgg) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [Easy Living](https://open.spotify.com/album/4G08VuIeQLEvP0ieLg7kIB) | 3:37 |
 
-Snapshot ID: `MCw4OWIwNDdjMmIzYjVhOWM4YmQ4MTNmYWJiYjA3MGM5N2FhOGVmMzBi`
+Snapshot ID: `MCwzYzRlOWFlZDZlZGQ5NTYwYjQyZTU3NzdjNzhkMWNhNTU3NzJhNGM0`

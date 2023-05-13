@@ -4,7 +4,7 @@
 
 > The new sounds of Appalachia, red dirt and everything in between.
 
-127 songs - 7 hr 41 min
+131 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Condemned](https://open.spotify.com/track/6WuVLG5DRHKKuJ6deCw28p) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [DeAnn](https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz) | 2:54 | 2023-02-24 |  |
 | [Cowpoke](https://open.spotify.com/track/1FJDhcC36CbA16lMIxgT1F) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Western Swing & Waltzes and Other Punchy Songs](https://open.spotify.com/album/1RbJr45fQ7wvjfT2poSHwI) | 3:12 | 2023-02-24 |  |
 | [Dark Black Coal](https://open.spotify.com/track/4u0P6WKN5NQRz6wDRgDSlR) | [Logan Halstead](https://open.spotify.com/artist/4XuOM2K7MfXMP6cinOPido) | [Dark Black Coal](https://open.spotify.com/album/0Lf1eMtFx8X9ph0VmVMG7Z) | 4:14 | 2023-05-05 |  |
+| [Darkness](https://open.spotify.com/track/3itjSLPhEeuCV05xkkesrj) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [Darkness](https://open.spotify.com/album/3gXaPXe0YwGAWP4atoOWBy) | 3:35 | 2023-05-12 |  |
 | [Drink The River](https://open.spotify.com/track/3znuPoIQWrUGRRL1nh3Ifz) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Drink The River](https://open.spotify.com/album/6t9HJaQDaEswn0LIweG7hg) | 3:35 | 2023-05-05 |  |
 | [Drowning](https://open.spotify.com/track/5dXBit91O3HQg6jonJbqaQ) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Drowning](https://open.spotify.com/album/0sHHqhHLztj8XsZfZAJvnw) | 3:02 | 2023-03-24 |  |
 | [Drunk Driving](https://open.spotify.com/track/3ERb3f5nGNwRcNLNoN3KRg) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sellout](https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy) | 3:58 | 2023-02-24 |  |
@@ -50,14 +51,15 @@
 | [From Austin](https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [From Austin](https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG) | 3:27 | 2023-02-24 |  |
 | [Ghost Town](https://open.spotify.com/track/2U8gE23QKFcJKNtOE39f50) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Ghost Town](https://open.spotify.com/album/6h4kEmbmGNXFEADoyjwIaK) | 2:48 | 2023-05-05 |  |
 | [Girl Goin' Nowhere](https://open.spotify.com/track/2lyEpuvVOnNGzV5c89Vnpf) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Girl Going Nowhere](https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU) | 3:27 | 2023-02-24 |  |
-| [Happier Alone \(feat\. Koe Wetzel\)](https://open.spotify.com/track/4VyZr1v1MNeZbl6eV8ZJGh) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Happier Alone \(feat\. Koe Wetzel\)](https://open.spotify.com/album/3FMpvDKoq0GAMYKn72pqlC) | 3:44 | 2023-02-24 |  |
+| [Happier Alone](https://open.spotify.com/track/3cTPILvh238II28NyF5OEf) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Happier Alone](https://open.spotify.com/album/3AtxQNOTzdsCm9qUwJVX5j) | 3:44 | 2023-05-12 |  |
+| [Happier Alone \(feat\. Koe Wetzel\)](https://open.spotify.com/track/4VyZr1v1MNeZbl6eV8ZJGh) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Happier Alone \(feat\. Koe Wetzel\)](https://open.spotify.com/album/3FMpvDKoq0GAMYKn72pqlC) | 3:44 | 2023-02-24 | 2023-05-13 |
 | [Heading South](https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Heading South](https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP) | 2:51 | 2023-02-24 |  |
 | [Her](https://open.spotify.com/track/6Ym7UF7000PoA6MZha7ugt) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai) | [Her](https://open.spotify.com/album/7JERMt53TQC4z2Pn4nPUYi) | 3:08 | 2023-05-05 |  |
 | [Hold On](https://open.spotify.com/track/1fOvzFCRA3Ko0ihc2QTE29) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Hold On](https://open.spotify.com/album/3s7URrr4aax9L0kgMyyE00) | 3:04 | 2023-04-21 |  |
 | [Honky Tonk Hell](https://open.spotify.com/track/6zBCsjkZd6SLDX32I8ZzrF) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Honky Tonk Hell](https://open.spotify.com/album/7A07KizyQlXTvwFY0Nj0XF) | 3:53 | 2023-02-24 | 2023-04-15 |
-| [Horses](https://open.spotify.com/track/3Wrbf7Ecb7wDL5nS7L9HL0) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [Horses](https://open.spotify.com/album/1Eh2GN0KEBgCrMCDaTcAfQ) | 3:38 | 2023-03-24 |  |
+| [Horses](https://open.spotify.com/track/3Wrbf7Ecb7wDL5nS7L9HL0) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [Horses](https://open.spotify.com/album/1Eh2GN0KEBgCrMCDaTcAfQ) | 3:38 | 2023-03-24 | 2023-05-13 |
 | [Horses Are Faster](https://open.spotify.com/track/3Jtn0oLAGr0KFA5J8CaT4C) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Ian Munsick \- EP](https://open.spotify.com/album/4SlHhLorpkGrQWiXLxhlLB) | 4:07 | 2023-02-24 |  |
-| [I Am Appalachia](https://open.spotify.com/track/6qmRm8Fq9SvOMT0Ekr06V5) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [I Am Appalachia](https://open.spotify.com/album/63626Q1PaEAugYbB4xAIDn) | 2:40 | 2023-04-07 |  |
+| [I Am Appalachia](https://open.spotify.com/track/6qmRm8Fq9SvOMT0Ekr06V5) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [I Am Appalachia](https://open.spotify.com/album/63626Q1PaEAugYbB4xAIDn) | 2:40 | 2023-04-07 | 2023-05-13 |
 | [If I Were the Devil](https://open.spotify.com/track/3lsWwQnDg99gtni4g5V0UG) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [If I Were the Devil](https://open.spotify.com/album/6h3QqAyUznHmGJj90J3WZl) | 4:02 | 2023-02-24 |  |
 | [If You Want It That Much](https://open.spotify.com/track/6h6uTeYywawEahrjFs2gYz) | [Cody Canada & The Departed](https://open.spotify.com/artist/0sNgjo2IC4YgJr6MF1bFS0) | [If You Want It That Much](https://open.spotify.com/album/5t1em5qrINtpfYgX9y7Qc8) | 3:34 | 2023-02-24 | 2023-05-06 |
 | [In His Arms](https://open.spotify.com/track/0ddFRjXyLgrNulsOwGJKJZ) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [The Marfa Tapes](https://open.spotify.com/album/0Jck41FMi9tJooKSHApv9p) | 2:30 | 2023-02-24 |  |
@@ -124,6 +126,7 @@
 | [This Damn Song](https://open.spotify.com/track/784cuiNXGutuO6wJgqOFWd) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [This Damn Song](https://open.spotify.com/album/1SnlCthXFkWWkZPzNAdqrZ) | 4:40 | 2023-02-24 |  |
 | [Tough Country](https://open.spotify.com/track/20XPXqe5eCGYA5CnVnKUZF) | [The Panhandlers](https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8), [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ), [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L) | [Tough Country](https://open.spotify.com/album/4usJHvZr3K0vTvb7bzzw7w) | 4:03 | 2023-03-03 |  |
 | [Van Gogh](https://open.spotify.com/track/6mlqBATFPrEcg3EC9GYcm8) | [Pony Bradshaw](https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi) | [Sudden Opera](https://open.spotify.com/album/5mczfTrIuyQboTG7frLuUE) | 2:52 | 2023-02-24 |  |
+| [Virginia and You](https://open.spotify.com/track/2XprbiQ9YXfVbAYOHvnahD) | [Low Gap](https://open.spotify.com/artist/4OylEA2mggFkZ63eIVFNio) | [Virginia and You](https://open.spotify.com/album/2hM4NRLVcMbp5Vu6E9odF1) | 3:31 | 2023-05-12 |  |
 | [Wannabe](https://open.spotify.com/track/22NdTBOE9CgBsMwKlwXJoI) | [Dalton Domino](https://open.spotify.com/artist/2qsLBELO7Pw7Bpffvv9yDT), [Stephanie Lambring](https://open.spotify.com/artist/7chfbqQEd0M1cJPwybXaZD) | [Wannabe](https://open.spotify.com/album/5XrGiVliWSPdiaIySBz5y4) | 4:53 | 2023-02-24 |  |
 | [Western White Pines](https://open.spotify.com/track/2zqN6JNBQ13hRQZQMH8g3s) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [Western White Pines](https://open.spotify.com/album/1qb5MTuf6K5BpNZrtywVAw) | 4:07 | 2023-02-24 |  |
 | [Where I'm Coming From](https://open.spotify.com/track/3uZMREE8Fl1MFBeSYqFKzd) | [Brandon Ratcliff](https://open.spotify.com/artist/3nUBs75tDCL2pzPZGHoljy) | [Tale Of Two Towns](https://open.spotify.com/album/5hdl5UuvcEx54G413hxZvh) | 3:35 | 2023-04-21 |  |
@@ -135,5 +138,6 @@
 | [Wildflowers and Wild Horses](https://open.spotify.com/track/4SCIqKkTic7hUHsL201OY0) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9) | 4:10 | 2023-03-03 |  |
 | [With You Gone](https://open.spotify.com/track/2obuXeXtTvUx2O3cppurXN) | [David Pugh](https://open.spotify.com/artist/78vWObWn1yGHBmZlZTXZog) | [With You Gone](https://open.spotify.com/album/4fPB3brCS9rOmoU54rIBK6) | 4:06 | 2023-02-24 |  |
 | [Wouldn't Have to Miss You](https://open.spotify.com/track/1yFIxmYBYEm8WhuYnuq3nD) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Red Eye EP](https://open.spotify.com/album/3tKu9bTu6dfnXHZot0kKFy) | 4:27 | 2023-02-24 |  |
+| [You Don’t Want That Smoke](https://open.spotify.com/track/5uPQjirx9C6MS47V556x46) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:20 | 2023-05-12 |  |
 
 \*This playlist was first scraped on 2023-02-25. Prior content cannot be recovered.

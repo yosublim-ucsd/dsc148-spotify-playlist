@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,907 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,942 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 | 59 | [Baby Get Down](https://open.spotify.com/track/6qJkfU8aHK5NGmpAL6Nfq3) | [The Burroughs](https://open.spotify.com/artist/61xHHZBWUMoheAPbd28E3r) | [Baby Get Down](https://open.spotify.com/album/6S4OFrzckKTRRWg6T6vgUv) | 3:52 |
 | 60 | [Groove for the Ques](https://open.spotify.com/track/2XarYi1aq7MvLQPkYvwPrs) | [Willie Bradley](https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [Groove for the Ques](https://open.spotify.com/album/3jSyt4UEGu3gUaeaGpt4pO) | 4:47 |
 | 61 | [Show Me](https://open.spotify.com/track/1jvIzuhXvNKi5KTKxW0AwT) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Adryon de León](https://open.spotify.com/artist/2fwY7A1HBVzbD44cGTn9Uo) | [Moonshadows](https://open.spotify.com/album/3FJHBeJz2ImwMQEBXSGlGh) | 4:13 |
-| 62 | [I Did It to Myself](https://open.spotify.com/track/4lHiCssWm534vTJdRrdNIR) | [Dakota Jones](https://open.spotify.com/artist/6DQRKapXMed5FzDufBQ83K) | [I Did It to Myself](https://open.spotify.com/album/5dVdmEhvEGuXegj9X7yi6i) | 2:44 |
+| 62 | [I Did It To Myself](https://open.spotify.com/track/18zAjIgSzxpzSfWprqBp5d) | [Dakota Jones](https://open.spotify.com/artist/6DQRKapXMed5FzDufBQ83K) | [Black Light](https://open.spotify.com/album/3lyDIsUBFuRQ4aq9YBYs68) | 2:44 |
 | 63 | [Juice](https://open.spotify.com/track/4ID3iACsnvHL6F5ER140Oo) | [Thomas Atlas](https://open.spotify.com/artist/6JmjdmUmKCrzq0CqDt0vB6) | [Thomas Atlas](https://open.spotify.com/album/1hn0OhkwxNmIbdcjxy4aTv) | 2:51 |
 | 64 | [Bad Mother](https://open.spotify.com/track/4xljuYgtxgfNAHqRXJDjMe) | [The Gold Setting](https://open.spotify.com/artist/75Vs0ljvN9S4DAvNTfwSoH), [Liza Colby](https://open.spotify.com/artist/5bTibFXwZmP1FhKiHcX5iX), [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe) | [Bad Mother](https://open.spotify.com/album/4sdGVLaafBIyRwceP96FnR) | 2:54 |
 | 65 | [Funk Is My Religion](https://open.spotify.com/track/0MUfqhh2wepeXY3xn9O64O) | [Nils Landgren Funk Unit](https://open.spotify.com/artist/3vHrEnwmDYlaScgAiZbnz0) | [Funk Is My Religion](https://open.spotify.com/album/4l1PPZ7MgVuTACORe0vaFz) | 4:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 | 99 | [Let's Celebrate Our Love](https://open.spotify.com/track/6esXoqILAGbmzh5P7IWS9I) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Step Up](https://open.spotify.com/album/3iiNHgr5Pl3fmoqQdSTWlr) | 4:35 |
 | 100 | [Until I Met You](https://open.spotify.com/track/7uil4nygkuyV7Fnv3ujt7f) | [cleaveland jones](https://open.spotify.com/artist/0sCCnNKvvYWRFZqJQRoiqM) | [Heart & Sol](https://open.spotify.com/album/4vMxEkLHiF6ETEtqB85EmD) | 3:20 |
 
-Snapshot ID: `MCw5NzIwNmQ2ZDkxYzkwYjhiNmZiYWEwNmY1NTU5NjQxZTE1YWI5ODU0`
+Snapshot ID: `MCxmZWQ5ZDEwMGU4MTc5YjZkYTExMWE3MmVhODg3YzU5YmE5OTBmYWU3`

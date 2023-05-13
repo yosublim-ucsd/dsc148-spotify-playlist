@@ -4,7 +4,7 @@
 
 > pov: you're crying and dancing at the same time.
 
-191 songs - 10 hr 18 min
+192 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Vale Na](https://open.spotify.com/track/1OgIsaa9XL29hQy7YqR0v1) | [Kat Dahlia](https://open.spotify.com/artist/1peH5tSqnYm8W6Bo3I5egE) | [Vale Na](https://open.spotify.com/album/0KNKIWyEHwDZ74uf1Kgjr0) | 2:45 | 2022-03-21 | 2022-07-09 |
 | [VENENO](https://open.spotify.com/track/7hID0StXCgSbBeJ1WdHhYB) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [CONTINGENTE](https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi) | 3:33 | 2023-01-20 |  |
 | [Vete](https://open.spotify.com/track/5DxXgozhkPLgrbKFY91w0c) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Vete](https://open.spotify.com/album/3fxzSn0ObgCjLadyR53ohN) | 3:12 | 2022-08-02 | 2022-12-24 |
+| [Vidas Pasadas](https://open.spotify.com/track/2G6cOHhIjJGd7fhBKXBjLr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Vidas Pasadas](https://open.spotify.com/album/6xUsWpvDVdDD8qDbQOsOL6) | 2:18 | 2023-05-12 |  |
 | [Viendo el Techo](https://open.spotify.com/track/0iWxrdjwEGOrTC9AszgAJk) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Viendo el Techo](https://open.spotify.com/album/4ikugcbfJKooYlQACL2MUN) | 3:08 | 2022-03-21 | 2022-07-09 |
 | [Visto a las 00:00](https://open.spotify.com/track/0m1zfGk4oYfj4NxBLNheHZ) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Error 93](https://open.spotify.com/album/5zbO01D6uIqC2ejQSQEN2O) | 3:00 | 2022-03-21 | 2022-04-20 |
 | [Volando \- Remix](https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Volando \(Remix\)](https://open.spotify.com/album/4MCZWUKxkvdMITh4KapBKX) | 4:33 | 2022-07-08 |  |
@@ -191,7 +192,7 @@
 | [Vuelve](https://open.spotify.com/track/30zRVzH3FUvbtqYwLvd5fc) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:14 | 2022-03-21 | 2022-07-09 |
 | [Vuelve](https://open.spotify.com/track/1W4JOY9MYgqKSIygbapHcK) | [InnerCut](https://open.spotify.com/artist/0GABUps2B17UMu6M8tkEDS), [Don Patricio](https://open.spotify.com/artist/6vPXtLmNd3mW0dd1Rb9eQ9) | [1996](https://open.spotify.com/album/4zAhXUcXtehKa2wBjOjJWW) | 2:37 | 2022-04-19 | 2022-07-09 |
 | [Wu Wu](https://open.spotify.com/track/4qUBWszQ0OOSVw2ik497YS) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Corazón Cromado](https://open.spotify.com/album/06K7B814dzQ3XUaszFMO02) | 3:27 | 2022-07-18 | 2022-12-24 |
-| [x100](https://open.spotify.com/track/0sFB4g96SSfbxXH03hJL4X) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [x100](https://open.spotify.com/album/397NL1IlW8u4bnd2KUZkDa) | 2:52 | 2023-04-03 |  |
+| [x100](https://open.spotify.com/track/0sFB4g96SSfbxXH03hJL4X) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [x100](https://open.spotify.com/album/397NL1IlW8u4bnd2KUZkDa) | 2:52 | 2023-04-03 | 2023-05-13 |
 | [Ya no siento nada](https://open.spotify.com/track/3JUaCIDpLc2kmY86lCm3aT) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Tiene que haber algo más](https://open.spotify.com/album/5ZqvS6ksJXcWljAPsp9Slt) | 3:12 | 2022-07-08 | 2022-12-24 |
 | [Yate](https://open.spotify.com/track/1MXss9WwWiRXG6ofSDtkIw) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [El Madrileño \(La Sobremesa\)](https://open.spotify.com/album/650sLMsoWUJ6AsjW2YvhCz) | 3:25 | 2022-07-08 | 2022-12-24 |
 | [Yo No Soy Celoso](https://open.spotify.com/track/5kVZxyMY1gfdCLiChsfjn1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 | 2022-07-08 |  |

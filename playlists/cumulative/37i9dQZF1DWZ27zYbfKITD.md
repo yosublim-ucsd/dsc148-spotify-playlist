@@ -4,7 +4,7 @@
 
 > Focus and relax with the help of these chilled cinematic soundtracks.
 
-81 songs - 3 hr 59 min
+82 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Epiphany](https://open.spotify.com/track/1q1T0TbFO2fWkDmgCKwTB0) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 3:48 | 2022-08-05 |  |
 | [Everytime You Leave](https://open.spotify.com/track/4UGOaZPk8uBm74Pc7hueQi) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6) | [The Witcher \(Music from the Netflix Original Series\)](https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS) | 2:07 | 2022-11-08 |  |
 | [Feast of Starlight](https://open.spotify.com/track/1hOavq1yyy1GqzjVpx3vjq) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [The Hobbit: The Desolation of Smaug \(Original Motion Picture Soundtrack\) \[Special Edition\]](https://open.spotify.com/album/3MCUHjDo3wSm2QuLh1Fyrf) | 2:48 | 2022-11-08 |  |
+| [Final Ascent \(arr\. piano\)](https://open.spotify.com/track/3SdxLdtdrggLwsPJlbmx7n) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Final Ascent \(arr\. piano\)](https://open.spotify.com/album/0GtaKqzR76ApRfqdaLuswp) | 2:54 | 2023-05-12 |  |
 | [Forest](https://open.spotify.com/track/2moMdZAnPvsDXbOY5m9fHf) | [Takeshi Furukawa](https://open.spotify.com/artist/1nmiCVZ0sfOQm43MGc9wr5) | [The Last Guardian Soundtrack \(Japan Deluxe Edition\)](https://open.spotify.com/album/4cTewzrku9xOpNPXOZ4jVo) | 2:06 | 2022-08-05 |  |
 | [Frozen Lake \(from "The Human Stain", Arr\. for Piano & Cello\)](https://open.spotify.com/track/6PbvnBmHVFDdjG6pMxag6g) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR), [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50) | [Frozen Lake \(from "The Human Stain", Arr\. for Piano & Cello\)](https://open.spotify.com/album/4RNyRkhOHbb8BVfzKFqhCP) | 3:25 | 2022-09-30 |  |
 | [Giants of the Deep](https://open.spotify.com/track/0EO0ieCZNOUmMZdEq9YvpP) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Adam Lukas](https://open.spotify.com/artist/4E39NH9eiLP3IMISn28wCd), [James Everingham](https://open.spotify.com/artist/2gn4jnqcC9yMXt6433gleQ), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Frozen Planet II \(Original Television Soundtrack\)](https://open.spotify.com/album/6sUYeUEUvgvnMIff7pTNnJ) | 1:31 | 2022-10-07 |  |
@@ -73,7 +74,7 @@
 | [Stop Right Now](https://open.spotify.com/track/4KvN5TDHEndfgy1EX7Bipj) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The Good House \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5hTXpOtf4EgnyR7ZeqNpy1) | 2:05 | 2022-09-30 |  |
 | [Sunny's Theme](https://open.spotify.com/track/32WK8dQzMwl0AjvNxhf7lz) | [Guy Jackson](https://open.spotify.com/artist/3HyEoZ7fYGMAJ2fAHIeD9K) | [Sea of Solitude \(Original Soundtrack\)](https://open.spotify.com/album/0f1WBVSfCzjFJHMUv8n5Ff) | 3:43 | 2022-08-05 | 2022-11-09 |
 | [Sweden](https://open.spotify.com/track/4NsPgRYUdHu2Q5JRNgXYU5) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 3:35 | 2022-08-05 |  |
-| [The Box](https://open.spotify.com/track/4hPVjDcGbuc3neTgsAdzXn) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Shovel Buddies \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3O7wscUi3JM0rSzKlBWAJR) | 4:04 | 2022-08-05 |  |
+| [The Box](https://open.spotify.com/track/4hPVjDcGbuc3neTgsAdzXn) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Shovel Buddies \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3O7wscUi3JM0rSzKlBWAJR) | 4:04 | 2022-08-05 | 2023-05-13 |
 | [The Cider House Rules: Piano Suite](https://open.spotify.com/track/0T7aVa8RpGJxDfth5Yve9x) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Beyond the Screen \- Film Works on Piano](https://open.spotify.com/album/63mhNGE2RR3GATpOgQvHKi) | 2:16 | 2023-03-03 |  |
 | [The Ellie Badge](https://open.spotify.com/track/33riuTg9aVoiRhHTqm2Qq8) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Up \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu) | 1:30 | 2022-11-08 |  |
 | [The Last Dinner](https://open.spotify.com/track/3JHiWZFos4wuk8TzKslK8h) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Despite the Falling Snow \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ur6MeJuL3o7YqnLPRzolr) | 1:50 | 2022-08-05 |  |

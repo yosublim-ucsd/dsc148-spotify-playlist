@@ -4,7 +4,7 @@
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Jordyn Shellhart
 
-232 songs - 13 hr 28 min
+234 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Just Like It Matters](https://open.spotify.com/track/3vOfgOCTf5KdMM8SYbuwl5) | [Mac McAnally](https://open.spotify.com/artist/2dSu4iBQikoVlBc43gwaHY) | [Once In a Lifetime](https://open.spotify.com/album/3ehKE8T72sMLO0epU7OiEc) | 3:44 | 2022-01-01 |  |
 | [Just Tell Me](https://open.spotify.com/track/5LgmjIU908hABiSPk3Ibuy) | [Brett James](https://open.spotify.com/artist/3WIMGDdZYN91QQr3zGzpxo) | [Tell the People](https://open.spotify.com/album/0AXC4SSbB9ojN8ZFxXNTwt) | 3:12 | 2022-01-01 |  |
 | [Kiki](https://open.spotify.com/track/1gEo3St6nqFBAlXX2YU4z6) | [Tyler Cain](https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd) | [Kiki](https://open.spotify.com/album/249z39NOAXP1q0HuhduwM7) | 3:14 | 2022-07-08 |  |
+| [Killing Me \(feat\. Hillary Lindsey\)](https://open.spotify.com/track/3fAZ38PiyZaozDD6zZcNyN) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [Killing Me \(feat\. Hillary Lindsey\)](https://open.spotify.com/album/0mzoK1Yw7i92QboRvlRcWo) | 2:47 | 2023-05-12 |  |
 | [Learn Myself](https://open.spotify.com/track/2R3PX9sHmjO8wJFMbMx9N9) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Learn Myself](https://open.spotify.com/album/1bFjQhSYFc2pMFxZgypnJ2) | 2:57 | 2022-02-11 |  |
 | [Learning To Live Again](https://open.spotify.com/track/4KM4KZ0LSxiJqQZyNPVtDO) | [Don Schlitz](https://open.spotify.com/artist/4qsw90Ipm5SbFLFQZ4tvLr) | [Greatest Hits](https://open.spotify.com/album/7LAKDwDjQsjeOh5YbZobrn) | 3:43 | 2022-01-01 |  |
 | [Leaving You](https://open.spotify.com/track/4nwSN6bLSMQycNLDkOtIRf) | [Corey Crowder](https://open.spotify.com/artist/0Om7HtVeWrbWwWdOo1W5rf) | [Gold And The Sand](https://open.spotify.com/album/2inQbhKxH3ZTW2kkvGTPfz) | 3:02 | 2022-01-01 |  |
@@ -141,6 +142,7 @@
 | [No More of 'Em](https://open.spotify.com/track/0o3dSb5poDTE1ae8io3w23) | [Noah Hicks](https://open.spotify.com/artist/32KwPw06eWXhBWBYFE2BvO), [Rhett Akins](https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24) | [No More of 'Em](https://open.spotify.com/album/7BWtzTiVNhUrR2Xo46hBHt) | 3:08 | 2023-03-24 |  |
 | [No More of 'Em](https://open.spotify.com/track/42JOeAAVPFkUVjUckTTvbe) | [Noah Hicks](https://open.spotify.com/artist/32KwPw06eWXhBWBYFE2BvO), [Rhett Akins](https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24) | [No More of 'Em](https://open.spotify.com/album/7tHHcmBNOH2LD0oNNYKAux) | 3:08 | 2022-02-28 | 2023-03-25 |
 | [Nobody But You](https://open.spotify.com/track/64zyVTT5sn3a4tJB91xxJV) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Spotify Singles](https://open.spotify.com/album/6p3jqERMCdhHa8sanNqvUD) | 3:09 | 2022-01-01 |  |
+| [Northwest](https://open.spotify.com/track/26XedTngu1tjJkwoHqQiC1) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Northwest](https://open.spotify.com/album/7sfdAh5oRQDPknCjqS3Eqt) | 4:45 | 2023-05-12 |  |
 | [Norwegian Wood](https://open.spotify.com/track/5saf8apVFYfrvplj03r6Xb) | [Mac McAnally](https://open.spotify.com/artist/2dSu4iBQikoVlBc43gwaHY) | [Once In a Lifetime](https://open.spotify.com/album/3ehKE8T72sMLO0epU7OiEc) | 2:54 | 2022-01-01 |  |
 | [Nothin' On Us](https://open.spotify.com/track/7LEvJRyxRPQv5ECGKrqorl) | [Corey Crowder](https://open.spotify.com/artist/0Om7HtVeWrbWwWdOo1W5rf) | [Nothin' On Us](https://open.spotify.com/album/3fxBDwT6DSYb2kWCBE0zJc) | 2:43 | 2022-01-01 |  |
 | [On the Other Hand](https://open.spotify.com/track/23ohIOKmAxMpi1PIOhnmpf) | [Don Schlitz](https://open.spotify.com/artist/4qsw90Ipm5SbFLFQZ4tvLr) | [Greatest Hits](https://open.spotify.com/album/7LAKDwDjQsjeOh5YbZobrn) | 3:28 | 2022-01-01 |  |

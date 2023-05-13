@@ -4,7 +4,7 @@
 
 > Chico da Tina e tripsyhell entram na zona.
 
-269 songs - 14 hr 40 min
+270 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,8 @@
 | [Povo](https://open.spotify.com/track/1QuMSpSKb8TddULszTHRDH) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Festival da Canção 2023](https://open.spotify.com/album/57v1ACsenMa34vYqhuLl0d) | 2:54 | 2023-01-27 |  |
 | [PRA MIM](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [PRA MIM](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 | 2022-07-16 | 2023-01-20 |
 | [Pra Sempre \(feat\. Jimmy P & Dino d'Santiago\)](https://open.spotify.com/track/6y7gYOHjUbj0HdTx5iGDuI) | [Prodigio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU), [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr) | [Pra Sempre \(feat\. Jimmy P & Dino d'Santiago\)](https://open.spotify.com/album/7kyvtUprGFS8S2poWsYtEt) | 3:15 | 2022-12-02 |  |
-| [Praça Onze](https://open.spotify.com/track/30WnHkBkq3vE8jJcNZ3RKr) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Praça Onze](https://open.spotify.com/album/3jPS6pgoJ4adGHImcNxETl) | 4:23 | 2022-07-16 |  |
+| [Praça Onze](https://open.spotify.com/track/0hMUCxx0QJfxOmWq7D5oi0) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Praça Onze](https://open.spotify.com/album/6BBDRshfbJrNM9yJJSZhPD) | 4:23 | 2023-05-11 |  |
+| [Praça Onze](https://open.spotify.com/track/30WnHkBkq3vE8jJcNZ3RKr) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Praça Onze](https://open.spotify.com/album/3jPS6pgoJ4adGHImcNxETl) | 4:23 | 2022-07-16 | 2023-05-13 |
 | [Preço](https://open.spotify.com/track/2diz4fN2yJw067uTfUyGJ7) | [Londone](https://open.spotify.com/artist/1rCRiVBfLiDomUEUNGykT2), [Barata](https://open.spotify.com/artist/3rVH1MtVxsddVwm6QcEAMN) | [Preço](https://open.spotify.com/album/0ErHkdC4omVhUWM5syHNe9) | 3:15 | 2022-11-04 | 2023-01-06 |
 | [Primeira Vez](https://open.spotify.com/track/2cnVJ20GRo3kYKoCihOtUz) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [Primeira Vez](https://open.spotify.com/album/1KzJPjeJFsYU8wIorfioPE) | 2:35 | 2022-07-16 | 2022-09-09 |
 | [Pull Up na C](https://open.spotify.com/track/6g6UypqyS4f1mNmf8lVZfE) | [BDK](https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [Pull Up na C](https://open.spotify.com/album/75VR8gQAwNvKRKTWTSYnyv) | 2:58 | 2022-09-22 | 2022-10-14 |

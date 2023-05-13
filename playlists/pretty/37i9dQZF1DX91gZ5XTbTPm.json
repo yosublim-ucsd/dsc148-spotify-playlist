@@ -1,32 +1,76 @@
 {
   "description": "The Midwest is always on time. Cover: G Herbo",
-  "num_followers": 106075,
+  "num_followers": 106149,
   "original_name": "CST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzMwYzc4MWMyN2ZlNjcxM2Q2ZDU2ZjliN2ZlMThmNmZmN2EyMzZk",
+  "snapshot_id": "MCxmYjMxOGE0Y2ViOGVhMGRlOGIyNWM5NjZhZmNhZjljY2JlYWVmZmMz",
   "tracks": [
     {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "B&E Pt. 1",
-        "url": "https://open.spotify.com/album/6es9sQ9dDPmWNUx1kuoOQT"
+        "name": "All My Life (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
       },
       "artists": [
         {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         },
         {
-          "name": "Skilla Baby",
-          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 153282,
-      "name": "B&E Pt. 1",
-      "url": "https://open.spotify.com/track/3w172RIHWXdyTo8KjFyeTo"
+      "duration_ms": 223878,
+      "name": "All My Life (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
+        "url": "https://open.spotify.com/album/1XTi2AYI6uOEonUfsLSm3s"
+      },
+      "artists": [
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 276986,
+      "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
+      "url": "https://open.spotify.com/track/4ncoZ4PKxvyzVoSIJsOLo0"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Strictly 4 My Fans 2",
+        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Mello Buckzz",
+          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
+        }
+      ],
+      "duration_ms": 188157,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/6YiDVrYuJk33GKKzsVUhRE"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -55,22 +99,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "I'm Geekin",
-        "url": "https://open.spotify.com/album/4tgQ15beC7oqscFBlSJWfo"
-      },
-      "artists": [
-        {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        }
-      ],
-      "duration_ms": 101946,
-      "name": "I'm Geekin",
-      "url": "https://open.spotify.com/track/4jQF77FelHaw2u1CB0sIfp"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Wicked Inna RaQ 2",
         "url": "https://open.spotify.com/album/5sDveIPYQRR3qMI6KNV54x"
       },
@@ -89,28 +117,20 @@
       "url": "https://open.spotify.com/track/0C4cunXxLICqzrxhYWorP0"
     },
     {
-      "added_at": "2023-04-28 04:01:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Strictly 4 My Fans 2",
-        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
+        "name": "I'm Geekin",
+        "url": "https://open.spotify.com/album/4tgQ15beC7oqscFBlSJWfo"
       },
       "artists": [
         {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Mello Buckzz",
-          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
         }
       ],
-      "duration_ms": 188157,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/6YiDVrYuJk33GKKzsVUhRE"
+      "duration_ms": 101946,
+      "name": "I'm Geekin",
+      "url": "https://open.spotify.com/track/4jQF77FelHaw2u1CB0sIfp"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -131,18 +151,54 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "GOMD",
-        "url": "https://open.spotify.com/album/6vTsqrGv80CCBH5b2rGMJS"
+        "name": "B&E Pt. 1",
+        "url": "https://open.spotify.com/album/6es9sQ9dDPmWNUx1kuoOQT"
       },
       "artists": [
         {
-          "name": "Veeze",
-          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
         }
       ],
-      "duration_ms": 171872,
-      "name": "GOMD",
-      "url": "https://open.spotify.com/track/6qlQIOubQeiG3byhhqwPfU"
+      "duration_ms": 153282,
+      "name": "B&E Pt. 1",
+      "url": "https://open.spotify.com/track/3w172RIHWXdyTo8KjFyeTo"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Likka Sto",
+        "url": "https://open.spotify.com/album/5rm7h2Kl9uStJE2Y3rBM72"
+      },
+      "artists": [
+        {
+          "name": "Lil Blessin",
+          "url": "https://open.spotify.com/artist/5SwdIfc2sLJoPZhVkrilYH"
+        }
+      ],
+      "duration_ms": 130703,
+      "name": "Likka Sto",
+      "url": "https://open.spotify.com/track/69PUAWTgoHZihzmM0kwYpE"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Talkin Crazy",
+        "url": "https://open.spotify.com/album/0bafwntACaSuNBO9wDnAfm"
+      },
+      "artists": [
+        {
+          "name": "Rio Da Yung Og",
+          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
+        }
+      ],
+      "duration_ms": 210050,
+      "name": "Talkin Crazy",
+      "url": "https://open.spotify.com/track/0ypgbUTj2YsP1JO3etqq1b"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -187,6 +243,26 @@
       "duration_ms": 194786,
       "name": "Trance (with Travis Scott & Young Thug)",
       "url": "https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "ROLL THE DICE (Prod. Gesaffelstein)",
+        "url": "https://open.spotify.com/album/6P4c5OMZZQZVJLQJrYgjbd"
+      },
+      "artists": [
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        },
+        {
+          "name": "Gesaffelstein",
+          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        }
+      ],
+      "duration_ms": 164946,
+      "name": "ROLL THE DICE (Prod. Gesaffelstein)",
+      "url": "https://open.spotify.com/track/7CAg4N1S926AymvuLjnJcy"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -247,22 +323,6 @@
       "duration_ms": 182666,
       "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
       "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "SentRock",
-        "url": "https://open.spotify.com/album/6FS38anvDEjBwNAOKfFPro"
-      },
-      "artists": [
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "SentRock",
-      "url": "https://open.spotify.com/track/2WDEt2vKpQ3hUOeRFVRxQc"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -379,22 +439,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Likka Sto",
-        "url": "https://open.spotify.com/album/5rm7h2Kl9uStJE2Y3rBM72"
-      },
-      "artists": [
-        {
-          "name": "Lil Blessin",
-          "url": "https://open.spotify.com/artist/5SwdIfc2sLJoPZhVkrilYH"
-        }
-      ],
-      "duration_ms": 130703,
-      "name": "Likka Sto",
-      "url": "https://open.spotify.com/track/69PUAWTgoHZihzmM0kwYpE"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "$WISH ft. G-Eazy and Chance The Rapper",
         "url": "https://open.spotify.com/album/0suVVYEcV3LWxREKaLyOGn"
       },
@@ -451,6 +495,22 @@
       "duration_ms": 158122,
       "name": "FW That",
       "url": "https://open.spotify.com/track/28u5CGeIstPNFZcyZ8OAg7"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "SentRock",
+        "url": "https://open.spotify.com/album/6FS38anvDEjBwNAOKfFPro"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "SentRock",
+      "url": "https://open.spotify.com/track/2WDEt2vKpQ3hUOeRFVRxQc"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -709,22 +769,6 @@
       "url": "https://open.spotify.com/track/6GfhoE4A0qgC3eO4WxKVBN"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "The Light",
-        "url": "https://open.spotify.com/album/2thP70nudcFpvmRl3AsYRa"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 172218,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/6j5BK1cFX9TjJd5EXHGgAn"
-    },
-    {
       "added_at": "2023-04-26 06:23:54",
       "album": {
         "name": "12AM",
@@ -807,26 +851,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Way Too Hot (feat. DCG Msavv)",
-        "url": "https://open.spotify.com/album/0ShHKHwRejTIbAG4BSkFIP"
-      },
-      "artists": [
-        {
-          "name": "DCG BROTHERS",
-          "url": "https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J"
-        },
-        {
-          "name": "DCG Msavv",
-          "url": "https://open.spotify.com/artist/0UXXT0Mk3hY49GSk9VyUmU"
-        }
-      ],
-      "duration_ms": 188466,
-      "name": "Way Too Hot (feat. DCG Msavv)",
-      "url": "https://open.spotify.com/track/0gbJ0BNVj4Oq2bV8abqnc3"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Insubordination",
         "url": "https://open.spotify.com/album/4xPjb8cJKvMyuWBXBYz602"
       },
@@ -903,26 +927,6 @@
       "duration_ms": 132238,
       "name": "Way Too Petty",
       "url": "https://open.spotify.com/track/5ObUmPrfvyC7IEOe3n8Z3J"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Ghost Mode",
-        "url": "https://open.spotify.com/album/5bEfOL1sP6CiGnWSCSAOlL"
-      },
-      "artists": [
-        {
-          "name": "Payroll Giovanni",
-          "url": "https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii"
-        },
-        {
-          "name": "Jeezy",
-          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
-        }
-      ],
-      "duration_ms": 171700,
-      "name": "Ex Dealer Flow 2 (feat. Jeezy)",
-      "url": "https://open.spotify.com/track/3uQomGKwOomTBnuwWs9RGd"
     },
     {
       "added_at": "2023-04-21 04:00:00",

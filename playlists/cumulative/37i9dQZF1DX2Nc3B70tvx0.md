@@ -4,7 +4,7 @@
 
 > The best & biggest indie songs of 2023 so far\. Cover: Suki Waterhouse
 
-1,576 songs - 3 day 22 hr 29 min
+1,577 songs - 3 day 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1081,7 +1081,7 @@
 | [PIRATE RADIO\*](https://open.spotify.com/track/04sZfyhVJs0feZjVDq53Y8) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [PIRATE RADIO\*](https://open.spotify.com/album/039CFhV3mgb8ujdSz0Kpp3) | 3:09 | 2022-10-11 | 2022-10-16 |
 | [Pistol](https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/681myoJD0vQ3rCpF15ECcP) | 3:54 | 2022-11-25 | 2023-04-22 |
 | [PISTOLWHIP](https://open.spotify.com/track/5me5yFJlnKZr2spcxSbCTW) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [PISTOLWHIP](https://open.spotify.com/album/6pxLfWRnzSTLXt6HIDz5oI) | 2:05 | 2021-04-20 | 2022-01-08 |
-| [Pit stop](https://open.spotify.com/track/7xRzl8bqp2M7W9niFua0h3) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Good News](https://open.spotify.com/album/4QFU1zIY53hxuX85LyGi4B) | 4:02 | 2023-03-24 |  |
+| [Pit stop](https://open.spotify.com/track/7xRzl8bqp2M7W9niFua0h3) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Good News](https://open.spotify.com/album/4QFU1zIY53hxuX85LyGi4B) | 4:02 | 2023-03-24 | 2023-05-13 |
 | [Please Don't Make Me Cry](https://open.spotify.com/track/46LXErxjs0JgFiaUshrSBI) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/6JwtB0zzNYy4qANDrJtrJy) | 5:14 | 2020-07-24 | 2021-03-18 |
 | [Plum](https://open.spotify.com/track/04DdNbTmZAgHfNP6FdY3Sa) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Plum](https://open.spotify.com/album/5qB5eP8fWoFrKk6qxyazUJ) | 4:24 | 2020-07-24 | 2020-12-04 |
 | [Pluto Projector](https://open.spotify.com/track/64BjH0cofoZQLz7STwGqyw) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pluto Projector](https://open.spotify.com/album/3n4DlItnFse4pNj8jddEXf) | 4:27 | 2019-10-25 | 2020-03-14 |
@@ -1096,6 +1096,7 @@
 | [Postman](https://open.spotify.com/track/0xXuP97Ap5hThLMNjVVRZq) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Postman b/w Magazine](https://open.spotify.com/album/583AzFOPRiKWBTj6Dz0F1Z) | 2:40 | 2022-02-04 | 2022-07-02 |
 | [Potions](https://open.spotify.com/track/3Bqw48ecyeeOHvuU1jYy6C) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Potions](https://open.spotify.com/album/3b5PbgWTo7i4S00wFekoiV) | 3:10 | 2020-04-03 | 2021-04-20 |
 | [Preoccupied](https://open.spotify.com/track/6N4WUdbz6HVKy6u6JX1KqK) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:59 | 2019-06-14 | 2019-08-30 |
+| [Prescription](https://open.spotify.com/track/3sLodWUyZavcKmkWLs1NVY) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Prescription](https://open.spotify.com/album/2wIRcj57SrX5Xz7CsJxnsp) | 3:33 | 2023-05-12 |  |
 | [pressure](https://open.spotify.com/track/1uf4itZeNCVYDHExNH9Ov3) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Getaway](https://open.spotify.com/album/2WtfCHRb8cy4a2x8vOMVkM) | 3:40 | 2022-03-18 | 2022-04-17 |
 | [Prester John](https://open.spotify.com/track/5I1uNW4VfFTY0zrwzF0igS) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Prester John](https://open.spotify.com/album/7rf7oJpUPkn7XGEPvt3fKg) | 6:29 | 2021-11-11 | 2021-11-20 |
 | [Pretend](https://open.spotify.com/track/2XzQvMj0sczBQmAceS8gyT) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Pretend](https://open.spotify.com/album/7rVNmBitSHGRCrt81q6YR5) | 3:12 | 2021-10-22 | 2022-01-04 |

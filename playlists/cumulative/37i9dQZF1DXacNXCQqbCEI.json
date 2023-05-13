@@ -740,6 +740,24 @@
     {
       "album": {
         "name": "Shika Shika / Botanas, Vol. 15",
+        "url": "https://open.spotify.com/album/3j77K4QCAKPo65lXnbDBY6"
+      },
+      "artists": [
+        {
+          "name": "Karen y Los Remedios",
+          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249518,
+      "name": "Canario",
+      "url": "https://open.spotify.com/track/0hwT9RqvbkUH222D48PsxJ"
+    },
+    {
+      "album": {
+        "name": "Shika Shika / Botanas, Vol. 15",
         "url": "https://open.spotify.com/album/6tFwiVNeI7Pdut9sWkgCXW"
       },
       "artists": [
@@ -2616,7 +2634,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 255360,
       "name": "Marimba Tamb\u00f3",
       "url": "https://open.spotify.com/track/65mQmq2SnmYbo5GkQSupm9"

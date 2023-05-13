@@ -4,7 +4,7 @@
 
 > Soft, smoky undertones of singer\-songwriter sounds give way to lingering notes of rich, earthy chamber folk\. Cover: Glen Hansard.
 
-234 songs - 14 hr 38 min
+235 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 | 2020-11-25 |  |
 | [Bones](https://open.spotify.com/track/6GpR9XtEpuKWMA3onpPkOP) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Bones](https://open.spotify.com/album/4FkVOW9SXcaVtok2YecpkU) | 3:50 | 2020-11-25 |  |
 | [Boys](https://open.spotify.com/track/39kdh33tGQuSINsUasOl8v) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Boys](https://open.spotify.com/album/1VmSyB9w03QNYxa1UXndVm) | 3:55 | 2020-11-25 | 2022-07-28 |
-| [Boys](https://open.spotify.com/track/7GoxuKPMDqKRa1QEIIPXHR) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Gloria Duplex](https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b) | 3:55 | 2020-11-25 |  |
+| [Boys](https://open.spotify.com/track/7GoxuKPMDqKRa1QEIIPXHR) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Gloria Duplex](https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b) | 3:55 | 2020-11-25 | 2023-05-13 |
 | [Brave Young Man](https://open.spotify.com/track/3cu4RyvPHcRLROGqxuvx75) | [Howard](https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5) | [Together Alone](https://open.spotify.com/album/17doIeg3S4GqQfqot4oxQf) | 2:51 | 2020-11-25 | 2022-01-25 |
 | [By the River \- Mahogany Sessions](https://open.spotify.com/track/1B8VfDUVMJnUdonnGA5h1P) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah), [London Contemporary Voices](https://open.spotify.com/artist/4AP9UXcQ9PWrnHsR8vnwsE) | [What If / By The River \(Mahogany Sessions\)](https://open.spotify.com/album/6krYdlpN1lleR7wwVprxKI) | 6:12 | 2020-11-25 | 2022-07-28 |
 | [Call Me When You Land](https://open.spotify.com/track/24AlaGqIZd2nUspgzc2ph1) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Call Me When You Land](https://open.spotify.com/album/0xff0oGrrPLKSbBjXbEZ3D) | 4:47 | 2020-11-25 |  |
@@ -83,6 +83,7 @@
 | [Forever Young \- From NBC's Parenthood](https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Forever Young \(From NBC's Parenthood\)](https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN) | 4:21 | 2020-11-25 |  |
 | [God Knows Why](https://open.spotify.com/track/5Wkp4d0wzwIjymQdvN3dP2) | [Jenny O.](https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0) | [God Knows Why](https://open.spotify.com/album/2zrSZmfHNTgufupIQvfeTt) | 3:01 | 2020-11-25 | 2022-07-29 |
 | [Good Woman](https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M) | 3:17 | 2020-11-25 |  |
+| [Got a Lotta Love](https://open.spotify.com/track/0MIFQg8ak1p21EeHK2JrJg) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [Easy Way](https://open.spotify.com/album/28RycHmG72yoKVXZ7X3PEg) | 3:02 | 2020-11-25 |  |
 | [Got a Lotta Love](https://open.spotify.com/track/0RMlPv9lkskpyEXQttMCOq) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [Easy Way](https://open.spotify.com/album/1baZsLfWdRMcdXqgko3Bo7) | 3:02 | 2020-11-25 | 2023-04-29 |
 | [Got a Lotta Love](https://open.spotify.com/track/61jVBCW26jKkv5jn7HMqy3) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [Got a Lotta Love](https://open.spotify.com/album/4xSmXKeOfGCRcDN9Syskly) | 3:02 | 2020-11-25 | 2022-07-29 |
 | [Green Room \(feat\. Ed Droste\)](https://open.spotify.com/track/1zaoc2J0SYRYE5sSjzXNyb) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Ed Droste](https://open.spotify.com/artist/0XF81i7F5hTlfNMHlTNptl) | [Tourism](https://open.spotify.com/album/7G07UTNS6qqiu7c5cz7jcj) | 3:19 | 2020-11-25 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 119094,
+  "num_followers": 119251,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzVhNjliZWJkNGQyNDY1ODI1MDEzM2Q3OTY5OTk2MjY3ODlhOTA4",
+  "snapshot_id": "MCwwNGM1YjIyZjQwOGFiYWUwN2E5MTllZmM5NGE5NDQ1Y2ZlMTcwMDJl",
   "tracks": [
     {
       "added_at": "2023-05-04 19:48:19",
@@ -593,28 +593,12 @@
       "artists": [
         {
           "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+          "url": "https://open.spotify.com/artist/63GBEeDds0fCsl764Kyb7w"
         }
       ],
       "duration_ms": 301160,
       "name": "Fortunate",
       "url": "https://open.spotify.com/track/2RtvkLz5tmOXlzz918It6E"
-    },
-    {
-      "added_at": "2023-05-04 19:48:19",
-      "album": {
-        "name": "Floetic",
-        "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
-      },
-      "artists": [
-        {
-          "name": "Floetry",
-          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
-        }
-      ],
-      "duration_ms": 268373,
-      "name": "Say Yes",
-      "url": "https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw"
     },
     {
       "added_at": "2023-05-04 19:48:19",
@@ -631,6 +615,22 @@
       "duration_ms": 279160,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/0rT9f5BSZrZ6DvzfBEckG0"
+    },
+    {
+      "added_at": "2023-05-04 19:48:19",
+      "album": {
+        "name": "Floetic",
+        "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
+      },
+      "artists": [
+        {
+          "name": "Floetry",
+          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
+        }
+      ],
+      "duration_ms": 268373,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw"
     },
     {
       "added_at": "2023-05-04 19:48:19",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-05-04 19:48:19",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 262960,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8"
-    },
-    {
-      "added_at": "2023-05-04 19:48:19",
-      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/0RJkdbyHeLAxKXCzIrpyOj"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 212571,
       "name": "Mine",
       "url": "https://open.spotify.com/track/1IxfE1rd0ngSFP8MSqYiv0"
+    },
+    {
+      "added_at": "2023-05-04 19:48:19",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 262960,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8"
     },
     {
       "added_at": "2023-05-04 19:48:19",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-05-04 19:48:19",
       "album": {
+        "name": "azz izz",
+        "url": "https://open.spotify.com/album/1d26vGpJ6aO9LX8VaOjM39"
+      },
+      "artists": [
+        {
+          "name": "MoKenStef",
+          "url": "https://open.spotify.com/artist/4R4Y06WNH0YEMcugwoGPPj"
+        }
+      ],
+      "duration_ms": 254171,
+      "name": "He's Mine",
+      "url": "https://open.spotify.com/track/1ExtJxCq3aGNe0pOMapIDr"
+    },
+    {
+      "added_at": "2023-05-04 19:48:19",
+      "album": {
         "name": "Bravebird",
         "url": "https://open.spotify.com/album/4ifJLmQAJIUsAPmm6pnxJw"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 179226,
       "name": "Sleepless Nights (feat. Phoelix)",
       "url": "https://open.spotify.com/track/6h7jn2jE2EqJadOkDXsDJh"
-    },
-    {
-      "added_at": "2023-05-04 19:48:19",
-      "album": {
-        "name": "azz izz",
-        "url": "https://open.spotify.com/album/1d26vGpJ6aO9LX8VaOjM39"
-      },
-      "artists": [
-        {
-          "name": "MoKenStef",
-          "url": "https://open.spotify.com/artist/4R4Y06WNH0YEMcugwoGPPj"
-        }
-      ],
-      "duration_ms": 254171,
-      "name": "He's Mine",
-      "url": "https://open.spotify.com/track/1ExtJxCq3aGNe0pOMapIDr"
     },
     {
       "added_at": "2023-05-04 19:48:19",

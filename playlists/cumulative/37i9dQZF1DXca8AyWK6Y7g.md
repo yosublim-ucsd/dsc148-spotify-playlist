@@ -2,9 +2,9 @@
 
 ### [young & free](https://open.spotify.com/playlist/37i9dQZF1DXca8AyWK6Y7g)
 
-> livin' life in your 250 sq ft apt cover: BENEE & Gus Dapperton
+> livin' life in your 250 sq ft apt cover: Alex Porat
 
-1,635 songs - 3 day 11 hr 13 min
+1,638 songs - 3 day 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,6 +345,7 @@
 | [Dandelion](https://open.spotify.com/track/5wC3UC33J8qiKRl3ecFaA3) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dandelion](https://open.spotify.com/album/1oOykmxvMTXnYOoHpySLCD) | 2:43 | 2022-07-01 | 2022-08-06 |
 | [Danger](https://open.spotify.com/track/1zAITH7C5UFYNE8DOFlE7h) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Danger](https://open.spotify.com/album/6jJup68OjU0nYjj6LWIsUj) | 2:55 | 2022-10-28 | 2022-11-12 |
 | [Dark Bird](https://open.spotify.com/track/1ig7fpdy2W1rl6SkIOMDjN) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Dark Bird](https://open.spotify.com/album/58fbHjXoQNXeNQ4VfWXU41) | 3:37 | 2022-02-25 | 2022-03-26 |
+| [Date Your Dad](https://open.spotify.com/track/0ZkkZYLcjdPv2XnJtfGRzL) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Date Your Dad](https://open.spotify.com/album/4zuYtVKxNBcifjGC1z7pEZ) | 2:16 | 2023-05-12 |  |
 | [dating montage,](https://open.spotify.com/track/0j1CrhTCWXw4jf3mzFlKzJ) | [Morgan Reese](https://open.spotify.com/artist/4Ro2elWptpQoQOLV1F2JoR) | [dating montage,](https://open.spotify.com/album/52Ve9FndkZYzUwTjIBBFAd) | 3:02 | 2021-12-24 | 2022-01-29 |
 | [Daylight](https://open.spotify.com/track/6Ed1q0X8oSKSm4IIhiQbYg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Daylight](https://open.spotify.com/album/1jcNHi5D96aaD0T5f1OjFY) | 2:43 | 2020-08-22 | 2022-01-08 |
 | [Dead End](https://open.spotify.com/track/6Vqw0rhS84CwHDG99e6dZx) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Dead End](https://open.spotify.com/album/5KdJI0MvN0AtXb5oxXHXS9) | 2:58 | 2023-02-24 |  |
@@ -604,7 +605,7 @@
 | [Hardcore](https://open.spotify.com/track/3gHOThR42dJBUnlbNoCQEF) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Hardcore](https://open.spotify.com/album/3EB8voAV8PNRicdD6KDtFV) | 4:08 | 2022-05-13 | 2022-05-20 |
 | [hate my favorite band](https://open.spotify.com/track/0skrS3ItclFdUYVZZeUy07) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [hate my favorite band](https://open.spotify.com/album/4BEWh8xe96dtjPyLZmxguE) | 2:54 | 2022-04-01 | 2023-02-11 |
 | [hate the way you love me](https://open.spotify.com/track/6GXRPqb0daBCcA9SRJMTMe) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 2:53 | 2022-07-08 | 2022-09-03 |
-| [HATELOVE](https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [HATELOVE](https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R) | 2:51 | 2023-02-24 |  |
+| [HATELOVE](https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [HATELOVE](https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R) | 2:51 | 2023-02-24 | 2023-05-13 |
 | [Haunted House](https://open.spotify.com/track/4SLV1kwfWgTVgYjxl9wf4y) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Haunted House](https://open.spotify.com/album/0NNtQyZMNHUm4wec3Q2Oek) | 3:12 | 2021-11-19 | 2022-01-29 |
 | [Have Fun at Your Party](https://open.spotify.com/track/65q2ChWzUOjkgQNIg8jNhW) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Have Fun at Your Party](https://open.spotify.com/album/1AL9EFQOxqCnng4VrPcMJK) | 3:40 | 2019-05-26\* | 2021-01-31 |
 | [Have I Ever Been In Love?](https://open.spotify.com/track/7nXs2GAKKIkNd8m1N4pgsx) | [Huck](https://open.spotify.com/artist/6kyIFL5I0g0kWOBygAJCbu) | [Have I Ever Been In Love?](https://open.spotify.com/album/3Ab8fVMZZL03XHXo0sL1ov) | 2:50 | 2021-03-22 | 2021-11-14 |
@@ -690,7 +691,7 @@
 | [Hurt Like That](https://open.spotify.com/track/6fBN1a9LcsB3QohnijExpz) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Hurt Like That](https://open.spotify.com/album/1YixmyGKRqTOBdBrwb0Xvh) | 3:16 | 2021-10-25 | 2022-01-29 |
 | [HUSH](https://open.spotify.com/track/0Njbfdqov90zIfAXZl7hIf) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Fallen Angel](https://open.spotify.com/album/6zvckLWDs3GtRAll4b0Cvl) | 3:10 | 2022-10-07 |  |
 | [Hydra](https://open.spotify.com/track/09o11md5fskmIRdfFA7l4T) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Hydra](https://open.spotify.com/album/35Q1l3VWkjiFnxXfxJrxNk) | 2:45 | 2021-03-27 | 2021-11-20 |
-| [Hyperfixations](https://open.spotify.com/track/538Ouxq5iceDnEX9k87hQR) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Hyperfixations](https://open.spotify.com/album/6JmO57rWensoCLLngSqju1) | 3:15 | 2023-03-24 |  |
+| [Hyperfixations](https://open.spotify.com/track/538Ouxq5iceDnEX9k87hQR) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Hyperfixations](https://open.spotify.com/album/6JmO57rWensoCLLngSqju1) | 3:15 | 2023-03-24 | 2023-05-13 |
 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 | 2021-11-19 | 2022-09-03 |
 | [I Blame The World](https://open.spotify.com/track/3SrSjUKxAJ6Cq1vpe1mqCZ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I Blame The World](https://open.spotify.com/album/7mIYNERWd8SdGObD8GrO2F) | 3:17 | 2022-04-08 |  |
 | [i can't do anything right](https://open.spotify.com/track/1P76yNLdadQMDblQsmMXvB) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [this is what i get](https://open.spotify.com/album/3dwsGxoPZWWyJzpxKnz1cn) | 2:16 | 2022-11-18 | 2022-12-24 |
@@ -730,6 +731,7 @@
 | [I Would Probably Hate You](https://open.spotify.com/track/6cZRlGzpks6vcWAidMAb88) | [Jules Paymer](https://open.spotify.com/artist/5RsYo1rckHPH2ERWm3tGeS) | [I Would Probably Hate You](https://open.spotify.com/album/7iM4xNI1QxQP3MuCLGQDCA) | 3:00 | 2022-06-06 | 2022-07-29 |
 | [i'm drunk and i miss you still \(feat\. 1nonly & lilbubblegum\)](https://open.spotify.com/track/6zWJc78D3bIkRM8e7sopl9) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [i'm drunk and i miss you still \(feat\. 1nonly & lilbubblegum\)](https://open.spotify.com/album/7bjCPBwFKkM1nZpldVF6Pl) | 2:54 | 2021-02-22 | 2021-05-28 |
 | [I'm Good](https://open.spotify.com/track/5Qlsugh2ZVlaOgPSHpI8D7) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [I'm Good](https://open.spotify.com/album/4XJE2ic3Z1Ir4ylBaKVVnU) | 3:37 | 2019-05-26\* | 2019-08-13 |
+| [I'm Not Crying](https://open.spotify.com/track/1aHHY8YfeH2tepf185bzF7) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [I'm Not Crying](https://open.spotify.com/album/2uUnItlwyHkVGL7INYvinp) | 2:29 | 2023-05-12 |  |
 | [i'm not free](https://open.spotify.com/track/5kIAHgmsJfeUbdWb3rzu8T) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [i'm not free](https://open.spotify.com/album/4NZsTk7cBmcU9toTfLKOAJ) | 2:26 | 2021-11-12 | 2022-01-29 |
 | [I'm So](https://open.spotify.com/track/6gQI4RLH0RLwNMyyz8JIQ3) | [Andrew Applepie](https://open.spotify.com/artist/5BYcwjrQth7em7maAt0yKE) | [Andrew Applepie](https://open.spotify.com/album/4uWPjCwslbnaA8JANTBjaU) | 2:47 | 2021-02-26 | 2021-05-26 |
 | [I'm So Bored](https://open.spotify.com/track/1SAF9h8xdE1YV02Dbgrn2L) | [Sarah and the Sundays](https://open.spotify.com/artist/1vnh2cDW2CgA5M1ya95mZG) | [I'm So Bored](https://open.spotify.com/album/0NWdGnIgHhsQ4ZwXPe1lUF) | 3:28 | 2021-04-29 | 2021-05-26 |
@@ -1142,6 +1144,7 @@
 | [Post Party Trauma](https://open.spotify.com/track/1tgAuknhoJhAtNFeXf0AZu) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Post Party Trauma](https://open.spotify.com/album/6vy8LmzdyUO6r0DmqCXutl) | 3:11 | 2022-07-08 | 2022-09-03 |
 | [poster boy](https://open.spotify.com/track/2TaCG1ArsxRsUyZhqy5jei) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [poster boy](https://open.spotify.com/album/2ErL96QPbe4hXnU8K2giJr) | 2:46 | 2023-04-14 |  |
 | [Postmates](https://open.spotify.com/track/1RtPogfTYqi4r4CUP715fA) | [valentina cy](https://open.spotify.com/artist/6VSCooQeDo6An0mx1mhYyx) | [Postmates](https://open.spotify.com/album/5OfvjKaTnPrWanUVC2mjix) | 2:20 | 2021-02-23 | 2021-09-17 |
+| [Prescription](https://open.spotify.com/track/0ZlTm4xJKaSU98ZLza858W) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Prescription](https://open.spotify.com/album/7HmE6jyAnWoVY870oQGNpo) | 3:33 | 2023-05-12 |  |
 | [Pressure Makes Diamonds](https://open.spotify.com/track/7uvbgJNZV2lDa7p9AWmJv1) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Pressure Makes Diamonds](https://open.spotify.com/album/2Er4Xcq9U8ts068V6w1EM6) | 2:41 | 2022-06-10 | 2022-07-16 |
 | [Pretend](https://open.spotify.com/track/77g8iBbVheVvdXggjAZuEa) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [Pretend](https://open.spotify.com/album/0GpE4hLxKxYFP9nLTix129) | 2:54 | 2019-05-26\* | 2021-05-18 |
 | [Pretty Boys](https://open.spotify.com/track/698ehyxjqZ7i06vUJQFviN) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Thanks For Nothing, See You Never](https://open.spotify.com/album/3z0cezSSci6BbzON9y9LXc) | 2:20 | 2023-03-03 |  |
@@ -1408,7 +1411,7 @@
 | [survival of the littest](https://open.spotify.com/track/07XaCsMZN4EFd2WDdjD1o1) | [NOT THE MAIN CHARACTERS](https://open.spotify.com/artist/3zXPbW06DXFBAToUstfD1V) | [bad things come in 3s](https://open.spotify.com/album/0QgftA6XSfEB7oQW6j0YMl) | 2:12 | 2022-11-11 | 2022-11-13 |
 | [survival of the littest](https://open.spotify.com/track/3VtoWz29VkRNtCMKfn6VZv) | [NOT THE MAIN CHARACTERS](https://open.spotify.com/artist/3zXPbW06DXFBAToUstfD1V) | [bad things come in 3s](https://open.spotify.com/album/29NCAQcGId5b4HAJp87xCM) | 2:12 | 2022-05-20 | 2022-10-09 |
 | [Sweat](https://open.spotify.com/track/0TzXhuxOpmvIa68QykPqIV) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Sweat](https://open.spotify.com/album/1lgihc94VjHPpUEIS9S7gp) | 3:03 | 2022-07-29 | 2022-09-17 |
-| [Sweat You Out My System](https://open.spotify.com/track/6PWJ0aOLUcQ1sqeqikPRjy) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Sweat You Out My System](https://open.spotify.com/album/7FTGQ7UcBkyxH6c92dDLAi) | 3:09 | 2023-01-13 |  |
+| [Sweat You Out My System](https://open.spotify.com/track/6PWJ0aOLUcQ1sqeqikPRjy) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Sweat You Out My System](https://open.spotify.com/album/7FTGQ7UcBkyxH6c92dDLAi) | 3:09 | 2023-01-13 | 2023-05-13 |
 | [Sweet Tooth Baby](https://open.spotify.com/track/7h9GhjA4crhzz4z0Qk9h2Q) | [Ark Woods](https://open.spotify.com/artist/7rFWIQhhSOCe5eCBJhE77e), [RUSL](https://open.spotify.com/artist/2xubHcmLfIGaulRsuseccA), [YOREN!](https://open.spotify.com/artist/1q0VsVFCMq4eICivuuJQQW) | [Sweet Tooth Baby](https://open.spotify.com/album/3EHocdF9UkeXjlEEGCrdCx) | 3:20 | 2020-09-30 | 2021-01-15 |
 | [Swimming Pools](https://open.spotify.com/track/0g1q3xCsQ2KqjJQGONYGZ7) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Swimming Pools](https://open.spotify.com/album/5Zcg17XUGy8YawKHEfBpff) | 2:38 | 2022-06-24 | 2022-08-13 |
 | [Swing Swing](https://open.spotify.com/track/0VWRbuEicramx9Hp2iWCTC) | [ayokay](https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb) | [Swing Swing](https://open.spotify.com/album/1kImx6P9OYh8lob0po00jJ) | 3:11 | 2019-05-26\* | 2019-08-13 |

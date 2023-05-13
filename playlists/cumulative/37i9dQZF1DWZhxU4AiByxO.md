@@ -4,7 +4,7 @@
 
 > Enjoy some kid\-friendly pop tunes.
 
-284 songs - 14 hr 19 min
+287 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Feels](https://open.spotify.com/track/70ZiK7oV2LHGgRwO9zOAKR) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 36](https://open.spotify.com/album/7CdyApdN5Hamda6NepONvs) | 2:28 | 2022-07-28 |  |
 | [Finally Free \- From "Smallfoot"](https://open.spotify.com/track/7xQxjMokrYnY8n9w19FZqr) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Finally Free \(From "Smallfoot"\)](https://open.spotify.com/album/47oDAQvTvsYGXBlGJKe2O2) | 3:23 | 2021-10-22 |  |
 | [Flip the Script \(From "Barbie Big Epic Road Trip"\)](https://open.spotify.com/track/75dfmIGzgXrZtD5cH4T78z) | [Barbie](https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl) | [Flip the Script \(From "Barbie Big Epic Road Trip"\)](https://open.spotify.com/album/2XiCsJTSjI9IxIQY8aBiEk) | 2:34 | 2022-10-25 |  |
+| [Flowers](https://open.spotify.com/track/56IVjXSaLC5WYXHNeNYSrj) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Boy’s a liar](https://open.spotify.com/album/6qLtJJ9Al14QF9xzsWZX7d) | 3:10 | 2023-05-12 |  |
 | [Friend Like Me \(End Title\)](https://open.spotify.com/track/192XFsstn69TuEA3iDez6F) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 2:39 | 2021-10-22 |  |
 | [FRIENDS](https://open.spotify.com/track/1taDlZzWCFEOC9NlohkWx6) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP World Tour](https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD) | 2:55 | 2021-10-22 |  |
 | [Galway Girl](https://open.spotify.com/track/0VQK2axT4qXgYd4aKCHgWx) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Nothing Breaks Like A Heart](https://open.spotify.com/album/05Shj7tRwC3NtUXszdxk6t) | 2:11 | 2021-10-22 |  |
@@ -189,6 +190,7 @@
 | [Overpass Graffiti](https://open.spotify.com/track/5k4jxVDH5w00y8y3OvgguS) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Do It To It](https://open.spotify.com/album/0ovB3nWOd0rRD1SAMufPht) | 3:32 | 2022-06-10 |  |
 | [Overpass Graffiti](https://open.spotify.com/track/6tznrNL9mL4Rxblx0RFFfr) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Overpass Graffiti](https://open.spotify.com/album/6aiy2bxse7lzWxKSvRnk17) | 3:33 | 2022-03-29 |  |
 | [Panini](https://open.spotify.com/track/7LZXuhXXN03F1ndyQOzAZt) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Panini](https://open.spotify.com/album/5wMUxEAX1APPs9PKKwMlhf) | 1:57 | 2021-10-22 |  |
+| [Peaches](https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [The Super Mario Bros\. Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd) | 1:35 | 2023-05-12 |  |
 | [Peppermint Twist](https://open.spotify.com/track/5PpVetS87mgjvmKVF7gv9d) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [Peppermint Twist](https://open.spotify.com/album/7C1905Zli5yhr2Nj8PMAka) | 1:58 | 2022-08-10 |  |
 | [Peter Pan Was Right](https://open.spotify.com/track/2At18rPHOuTEjGEppwGV0A) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Peter Pan Was Right](https://open.spotify.com/album/7qrZu53xdYZvbCrLpoA92t) | 3:12 | 2022-09-27 |  |
 | [Pretty Girl Swag](https://open.spotify.com/track/1Wur9u6PvFCDhu6tFnhvuG) | [Jordan Powers](https://open.spotify.com/artist/12NihrzOJf6YDnkpXrurH7) | [Marvel's Moon Girl and Devil Dinosaur \(Original Soundtrack\)](https://open.spotify.com/album/31zZeDmG2Va5zvgfIyJuOy) | 2:59 | 2023-02-10 | 2023-03-23 |
@@ -263,6 +265,7 @@
 | [Trampoline](https://open.spotify.com/track/0zgYADHtKBRxMYqsjCu3hm) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Trampoline](https://open.spotify.com/album/4nwy1TZpVSYvtPeKy6RKmP) | 3:05 | 2021-10-22 |  |
 | [Truth Hurts](https://open.spotify.com/track/4JzAcIjtO0yQ3refHgCWfE) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Truth Hurts](https://open.spotify.com/album/0NSleBYSq9pSxDqHrS9xnt) | 2:43 | 2021-10-22 |  |
 | [Try Everything](https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3X6netsswLt0U97Doga56C) | 3:16 | 2021-10-22 |  |
+| [Turn Your Color Up](https://open.spotify.com/track/1Q02L5rSO7YaSXEbmftO07) | [Rainbow High](https://open.spotify.com/artist/7cvp5x5lxRteAQnPklF4zD) | [Rainbow Vision](https://open.spotify.com/album/7ICgxvkng11vLDlnpIGeKe) | 2:49 | 2023-05-12 |  |
 | [U Know What's Up](https://open.spotify.com/track/0d83zVs3OmdjrhfoAxg1dE) | [4\*TOWN \(From Disney and Pixar’s Turning Red\)](https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6), [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2), [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Topher Ngo](https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l), [Grayson Villanueva](https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ), [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [Turning Red \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3) | 3:08 | 2022-03-11 |  |
 | [U\-N\-I](https://open.spotify.com/track/0LrivSX1gd7AILZEHxy2N8) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [The J Team \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/784cFhESN44WTceqtXcPLN) | 2:27 | 2021-10-22 | 2022-10-13 |
 | [U\-N\-I](https://open.spotify.com/track/1AIvhp4HzFbe6zyELLGocj) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [The J Team \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/14pCN3JGNyD3oGC8jBucYP) | 2:27 | 2022-11-23 |  |

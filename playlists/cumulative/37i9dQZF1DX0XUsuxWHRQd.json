@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music from Lil Baby, Gucci Mane and DaBaby.",
+  "description": "New music from Lil Durk, Lil Tecca and A Boogie Wit da Hoodie.",
   "name": "RapCaviar",
   "tracks": [
     {
@@ -342,7 +342,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 260530,
       "name": "23",
       "url": "https://open.spotify.com/track/0T0vseuNB4KC8opkrCLNbc"
@@ -1438,6 +1438,28 @@
       "duration_ms": 156662,
       "name": "All In",
       "url": "https://open.spotify.com/track/26nhZEbbCTj6fXTC92wdKD"
+    },
+    {
+      "album": {
+        "name": "All My Life (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223878,
+      "name": "All My Life (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
     },
     {
       "album": {
@@ -7221,6 +7243,24 @@
     },
     {
       "album": {
+        "name": "Do It Again",
+        "url": "https://open.spotify.com/album/3vwGL87DCDLdXsYSlsTrA7"
+      },
+      "artists": [
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231780,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/5x4YAw8bHOuKdn5mSuYQg1"
+    },
+    {
+      "album": {
         "name": "Do It Again (feat. 2Rare)",
         "url": "https://open.spotify.com/album/5qPgB3OSDv3KfALFg1PZwe"
       },
@@ -8584,7 +8624,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 174373,
       "name": "Fact (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/5ht9obvnnWeW4eoRtPAoQD"
@@ -14871,6 +14911,24 @@
     },
     {
       "album": {
+        "name": "Keep Dat Nigga",
+        "url": "https://open.spotify.com/album/4EqXw4bTD5XpdI16CSlWng"
+      },
+      "artists": [
+        {
+          "name": "Icandy",
+          "url": "https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138945,
+      "name": "Keep Dat Nigga",
+      "url": "https://open.spotify.com/track/06eobTXs90ICbtbxhmgviZ"
+    },
+    {
+      "album": {
         "name": "Public Housing",
         "url": "https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn"
       },
@@ -17810,7 +17868,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 180000,
       "name": "Mississippi Slide",
       "url": "https://open.spotify.com/track/4tiKQGqkoVmvshWNFDvFxG"
@@ -18583,6 +18641,28 @@
     },
     {
       "album": {
+        "name": "MVP (feat. G-Eazy)",
+        "url": "https://open.spotify.com/album/4pyhYSKl4jBqkemyG94DSG"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173948,
+      "name": "MVP (feat. G-Eazy)",
+      "url": "https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d"
+    },
+    {
+      "album": {
         "name": "My All",
         "url": "https://open.spotify.com/album/0TDPqwRP3NuPYnxm45BqPg"
       },
@@ -18942,6 +19022,24 @@
       "duration_ms": 151640,
       "name": "Need Me",
       "url": "https://open.spotify.com/track/2dzja72gQodveSpguIQGJl"
+    },
+    {
+      "album": {
+        "name": "Need Me",
+        "url": "https://open.spotify.com/album/453LC2RXr0Yv6M86esUdqm"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138946,
+      "name": "Need Me",
+      "url": "https://open.spotify.com/track/7a636g0dl8a487foiAcoCM"
     },
     {
       "album": {
@@ -19598,7 +19696,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 179533,
       "name": "No Time Wasted (feat. Future)",
       "url": "https://open.spotify.com/track/4MUlNqSrMeFAHA6VpJKMo8"
@@ -20880,7 +20978,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 188157,
       "name": "Outside",
       "url": "https://open.spotify.com/track/6YiDVrYuJk33GKKzsVUhRE"
@@ -21528,6 +21626,24 @@
       "duration_ms": 100291,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/5jbDih9bLGmI8ycUKkN5XA"
+    },
+    {
+      "album": {
+        "name": "CHOMP 2.5 (EP)",
+        "url": "https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167130,
+      "name": "Perfectionist",
+      "url": "https://open.spotify.com/track/1vPvogmqsSQLUx0Kpha08X"
     },
     {
       "album": {
@@ -23971,6 +24087,40 @@
     },
     {
       "album": {
+        "name": "Ring Ring (feat. Travis Scott, Don Toliver, Quavo & Ty Dolla $ign)",
+        "url": "https://open.spotify.com/album/6Op5Oqgnb443EjcHdAR5eY"
+      },
+      "artists": [
+        {
+          "name": "CHASE B",
+          "url": "https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186833,
+      "name": "Ring Ring (feat. Travis Scott, Don Toliver, Quavo & Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/7pFzbZz89oXVsRxhUvO7q2"
+    },
+    {
+      "album": {
         "name": "Riot",
         "url": "https://open.spotify.com/album/1H8N5eRuVbfjFJrQmPMWSE"
       },
@@ -24494,7 +24644,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 214440,
       "name": "Ruff Ryders' Anthem",
       "url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s"
@@ -25306,7 +25456,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 124354,
       "name": "SELLIN CRACK (feat. Offset)",
       "url": "https://open.spotify.com/track/4n5vrfS3mYdxiEz0ODBnlL"
@@ -25694,7 +25844,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 229800,
       "name": "Shmunk (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/2fpTRcMLt4aKlqULOwuXUP"

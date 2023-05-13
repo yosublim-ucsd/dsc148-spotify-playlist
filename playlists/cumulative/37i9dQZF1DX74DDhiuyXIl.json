@@ -146,7 +146,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 246315,
       "name": "Hold Me Tight",
       "url": "https://open.spotify.com/track/18U6DzjWgoMMYg14kJxCMu"
@@ -1330,6 +1330,24 @@
       "duration_ms": 264920,
       "name": "\u518d\u898b\u932f\u7684\u4eba",
       "url": "https://open.spotify.com/track/3qTzmHbS0UejxQkpvRt5x5"
+    },
+    {
+      "album": {
+        "name": "\u51ac\u7720",
+        "url": "https://open.spotify.com/album/0oS3ZVlS3ygBqI7zLDZa21"
+      },
+      "artists": [
+        {
+          "name": "\u53f8\u5357",
+          "url": "https://open.spotify.com/artist/0xftsXB7VnOwibMhupkamE"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269583,
+      "name": "\u51ac\u7720",
+      "url": "https://open.spotify.com/track/0ygttXRPvD5u9ikS8LwJvl"
     },
     {
       "album": {

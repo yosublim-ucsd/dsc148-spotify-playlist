@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 
 > We outside\. Cover: Popcaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,252 likes - 89 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,497 likes - 89 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,14 +50,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 40 | [Pon De River Pon De Bank](https://open.spotify.com/track/46l7fOJggsNqrNPJeFk0og) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Good 2 Go](https://open.spotify.com/album/4N8f7aP3lVNkn7sKHTnHVZ) | 3:59 |
 | 41 | [So Special](https://open.spotify.com/track/3QsYrzBz48de2cqm670ym9) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Mr\. Brooks...A Better Tomorrow](https://open.spotify.com/album/1oQyk4rRCTEx75jlzhXTtB) | 2:58 |
 | 42 | [Skeleton Cartier](https://open.spotify.com/track/7vRm8Bzniw9mtHoFtnoxB0) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 3:41 |
-| 43 | [Dickmatized](https://open.spotify.com/track/2dSbH1DD8CEqHqyS1Ey0bd) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Dickmatized](https://open.spotify.com/album/79gp57yPl6DStAtpdX08KQ) | 2:20 |
-| 44 | [Too Many Man](https://open.spotify.com/track/5iWkcEcUfymaq0POyWCbBQ) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [BBK](https://open.spotify.com/artist/24H5fZrUsczeOXjMQufShz) | [Microphone Champion](https://open.spotify.com/album/5pgSLDET4rMkAok3X4k0wP) | 3:35 |
+| 43 | [Too Many Man](https://open.spotify.com/track/5iWkcEcUfymaq0POyWCbBQ) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [BBK](https://open.spotify.com/artist/24H5fZrUsczeOXjMQufShz) | [Microphone Champion](https://open.spotify.com/album/5pgSLDET4rMkAok3X4k0wP) | 3:35 |
+| 44 | [Dickmatized](https://open.spotify.com/track/2dSbH1DD8CEqHqyS1Ey0bd) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Dickmatized](https://open.spotify.com/album/79gp57yPl6DStAtpdX08KQ) | 2:20 |
 | 45 | [Mimosas](https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Flavors](https://open.spotify.com/album/4UxU8jwt8UEgqqbOdvZ7Ox) | 3:05 |
 | 46 | [Roll It Gal](https://open.spotify.com/track/1dhrBVOBJVRAomxv0sqfmK) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Soca Queen](https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ) | 3:58 |
 | 47 | [Stay So](https://open.spotify.com/track/5Qdbkemkdk8syZXJQVabSf) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Reggae Gold 2018: 25th Anniversary](https://open.spotify.com/album/6NDBbiZSbAqqP6k6vaMFU8) | 3:40 |
 | 48 | [Romping Shop](https://open.spotify.com/track/1xn2rn7Bw8IM3RqYwB4xWz) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Romping Shop](https://open.spotify.com/album/17C2TyzNMDe64H0zpr4DBE) | 3:33 |
-| 49 | [Bad Man Forward](https://open.spotify.com/track/1KW6PVabkLbthK4y0sPX5a) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Bad Man Forward, Bad Man Pull Up](https://open.spotify.com/album/4pWeMGhrk1bvKE3Od3jePT) | 3:15 |
-| 50 | [Drinking Rum](https://open.spotify.com/track/0xezj8YX96S7m4fCDwCIoJ) | [Seanizzle](https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Future Fambo](https://open.spotify.com/artist/6iGnMrpoPy3fPn2JwawcUI) | [One Day Riddim](https://open.spotify.com/album/5PkIgWAMxMDiDv1jrzkqgm) | 2:15 |
+| 49 | [Drinking Rum](https://open.spotify.com/track/0xezj8YX96S7m4fCDwCIoJ) | [Seanizzle](https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Future Fambo](https://open.spotify.com/artist/6iGnMrpoPy3fPn2JwawcUI) | [One Day Riddim](https://open.spotify.com/album/5PkIgWAMxMDiDv1jrzkqgm) | 2:15 |
+| 50 | [Bad Man Forward](https://open.spotify.com/track/1KW6PVabkLbthK4y0sPX5a) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Bad Man Forward, Bad Man Pull Up](https://open.spotify.com/album/4pWeMGhrk1bvKE3Od3jePT) | 3:15 |
 | 51 | [I Am Blessed](https://open.spotify.com/track/1gpA7IZTNvrL6DUuc4qDPx) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [I Am Blessed](https://open.spotify.com/album/2OBChPG9zg8lu4XL3UgY0A) | 3:08 |
 | 52 | [Run Run](https://open.spotify.com/track/2SJm5XYmsKvzPaHI3mW1GB) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Run Run](https://open.spotify.com/album/1H6H54RJH3fGexhTOyzIBr) | 3:06 |
 | 53 | [Nuh Linga](https://open.spotify.com/track/1XDu72IZMRTO2gDPaMydXE) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Dance & Sweep! \- Adventures Of The Energy God](https://open.spotify.com/album/1h6idb5MNxRtSz4EWsMe84) | 2:08 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 88 | [Infiltrate](https://open.spotify.com/track/1lyrrWS0fqtYPLXntd5DwK) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [No Fear](https://open.spotify.com/album/1eju9TiiTgAimhhV0pxNOV) | 3:27 |
 | 89 | [Hot Wuk \(Album Clean\)](https://open.spotify.com/track/2da3Y5CAzX4IZtuXnCD8DN) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Hot Wuk 12"](https://open.spotify.com/album/5ez8QCCTVOHbRIjez9uU0O) | 3:49 |
 
-Snapshot ID: `MCw3NWIyNzAyZjM2NGJlY2NmZmJkYjM0OGEyMGVhMTIzMjg5NjY1OTIw`
+Snapshot ID: `MCwzMmIxNmNiZTBkNWNiM2ExZmRkYTIxNWE1MjljN2RlYTk5MDczOGQ0`

@@ -2,14 +2,14 @@
 
 ### [Indie Brasil](https://open.spotify.com/playlist/37i9dQZF1DWZi7MSnECo7D)
 
-> Novidades e destaques do indie nacional\. Foto: Tangerim
+> Novidades e destaques do indie nacional\. Foto: Marcelo Tofani
 
-388 songs - 22 hr 4 min
+390 songs - 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [18 Graus](https://open.spotify.com/track/5UxS8MWKqR8C6SdV9z29h1) | [Zé Cafofinho](https://open.spotify.com/artist/1tBxo7zs1XFMIY5xbLn3Px), [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [18 Graus](https://open.spotify.com/album/4eltbolPKxeIdiJZ7x6fWZ) | 3:23 | 2022-01-14 | 2022-04-09 |
-| [2 A.M.](https://open.spotify.com/track/34lKWobdEGO69CULhtiREz) | [Versaliz](https://open.spotify.com/artist/6KbgEz6ZShtrAiO5ieUvtK) | [2 A.M.](https://open.spotify.com/album/6Xn86yqgneXDChNJ9rHg49) | 2:45 | 2022-08-12 |  |
+| [2 A.M.](https://open.spotify.com/track/34lKWobdEGO69CULhtiREz) | [Versaliz](https://open.spotify.com/artist/6KbgEz6ZShtrAiO5ieUvtK) | [2 A.M.](https://open.spotify.com/album/6Xn86yqgneXDChNJ9rHg49) | 2:45 | 2022-08-12 | 2023-05-13 |
 | [20 Anos e Meio](https://open.spotify.com/track/3QMQqmpesGqVcHuV0vMv2m) | [Aquino e a Orquestra Invisível](https://open.spotify.com/artist/52fjZORhR21B9pR9kORRTA) | [20 Anos e Meio](https://open.spotify.com/album/08NkxNDTSEsHlvRpVQPexm) | 3:06 | 2022-01-14 | 2022-06-04 |
 | [6 Balas \(Ato II\)](https://open.spotify.com/track/1eWQ7LcFqQcrhzzTTVgWOY) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [6 Balas \(Ato II\)](https://open.spotify.com/album/1miphNWftzGLLtfd5HTKPr) | 4:30 | 2023-03-03 | 2023-04-01 |
 | [A Arte de Se Bastar](https://open.spotify.com/track/7dsbEhIpErUsTewANX617F) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [A Arte de Se Bastar](https://open.spotify.com/album/5EgCWm8o7qX0psDEaszJrr) | 2:18 | 2022-07-22 | 2023-03-18 |
@@ -104,7 +104,7 @@
 | [Dela](https://open.spotify.com/track/6rPPrrFv2nbwF6WglwGUDo) | [Fogo Fera](https://open.spotify.com/artist/0QSdV5uL8HUJOwsyzL5rEI), [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7), [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH) | [Eu Te Amo](https://open.spotify.com/album/0XvbAjrSMinlkhxx0LJdQh) | 3:33 | 2022-11-04 | 2022-11-19 |
 | [Desagradar](https://open.spotify.com/track/7qhbm7QvRktr6ZwDZzWmG1) | [bule](https://open.spotify.com/artist/0G0UBEMCXDj4UWnT3BeBoS) | [Desagradar](https://open.spotify.com/album/49PztzwJqsj3Ini8umF67R) | 3:24 | 2022-01-14 | 2022-01-22 |
 | [Desapego](https://open.spotify.com/track/2qbNEZGcFnauvoOLHwoURB) | [Vice\-Herói](https://open.spotify.com/artist/6cIlz91P4JYOAmdpZTYXnB) | [Vice\-Herói](https://open.spotify.com/album/11RcseLlq4wApBhyLZPRxh) | 2:58 | 2022-02-11 | 2023-04-15 |
-| [Desejos de um Leão](https://open.spotify.com/track/2iMyTW8yaGvIEl5ntwv76U) | [Uiu Lopes](https://open.spotify.com/artist/3weJGyLwPPBBvrarb0XjSZ), [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl) | [Desejos de um Leão](https://open.spotify.com/album/6dV9NQKeqBQbhhx1Z5xRp2) | 3:13 | 2022-07-22 |  |
+| [Desejos de um Leão](https://open.spotify.com/track/2iMyTW8yaGvIEl5ntwv76U) | [Uiu Lopes](https://open.spotify.com/artist/3weJGyLwPPBBvrarb0XjSZ), [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl) | [Desejos de um Leão](https://open.spotify.com/album/6dV9NQKeqBQbhhx1Z5xRp2) | 3:13 | 2022-07-22 | 2023-05-13 |
 | [Destello](https://open.spotify.com/track/5ODNx60tIgYLzgwTFX1g9w) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi), [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Destello](https://open.spotify.com/album/5JQxK89YLJr75ZNykjUwEL) | 3:40 | 2023-05-05 |  |
 | [Devagar](https://open.spotify.com/track/7qUOCHvZ9cLi7u6lTFqLMg) | [Mariana Cavanellas](https://open.spotify.com/artist/4XBAtMS0mrX2bQipALDthL), [Faew](https://open.spotify.com/artist/2wc2o0xe5pjBkzgMMt3Py9) | [Devagar](https://open.spotify.com/album/5XlLrpsRkgC92wfn33kY5B) | 2:16 | 2022-02-04 | 2023-04-15 |
 | [Dias da Juventude](https://open.spotify.com/track/64h7945jIYmp90J9OTNMHN) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [Dias da Juventude](https://open.spotify.com/album/2Mw5D7bDq20kHVHawd2ovC) | 2:55 | 2022-01-21 |  |
@@ -169,6 +169,7 @@
 | [Incomoda](https://open.spotify.com/track/4tZZwP0bPBjOeLjDjKrAGc) | [Sara Não Tem Nome](https://open.spotify.com/artist/31HTzBU95YF2eY7oXK92vM) | [A Situação](https://open.spotify.com/album/29EgsSSK4l4CIQmFJqXPPp) | 3:13 | 2023-01-13 | 2023-02-04 |
 | [Inexplicável Amor](https://open.spotify.com/track/3lVow3bHqRp1RDOhhgMFof) | [Leonn inacio](https://open.spotify.com/artist/3OSfyRBSumv7TjSj5foITc), [Chinaina](https://open.spotify.com/artist/3qL0jNLQDyvtmGU1pcgATa) | [Inexplicável Amor](https://open.spotify.com/album/2NO4dWLwVmZhfE7ExtGzOu) | 5:00 | 2023-03-31 | 2023-04-09 |
 | [Infame](https://open.spotify.com/track/1yJoSwOtQPXcGf3Vzm5DSe) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1), [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Infame](https://open.spotify.com/album/5ajNNK3Yk53P8040QnuhOT) | 4:10 | 2023-03-31 |  |
+| [Infinita](https://open.spotify.com/track/4yv4dVvcP0ldZxjck7sQAF) | [Cidrais](https://open.spotify.com/artist/5QYAoZeTdLdRkiECvhZ5VE) | [Infinita](https://open.spotify.com/album/2Sni0Wz8fACtUr8Q96FgI2) | 3:58 | 2023-05-12 |  |
 | [Inimigo do Fim](https://open.spotify.com/track/1eJ8RTAsQi5tdxQKWR3e1V) | [Tangerim](https://open.spotify.com/artist/33W3swdDTji5TEb4msJsEk) | [Inimigo do Fim](https://open.spotify.com/album/2Bj3pd03x4NY9uCe17U0B7) | 2:40 | 2023-05-05 |  |
 | [Isa](https://open.spotify.com/track/1VfRIkOyn0FsGifUEQAncZ) | [Brado](https://open.spotify.com/artist/1M1PSV5yWI8L9PvwQDVQCR) | [Isa](https://open.spotify.com/album/5vxvzqew5XqasjVjbY8Jr1) | 2:54 | 2023-01-20 | 2023-03-18 |
 | [Isso Não Se Faz](https://open.spotify.com/track/6Quaofku66oYyMJ3m2bgyg) | [Castello Branco](https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90) | [Niska: Uma Mensagem para Os Tempos de Emergência](https://open.spotify.com/album/1DMLwp6NXaU3CxjPHL8el2) | 3:56 | 2022-01-14 | 2022-02-12 |
@@ -234,6 +235,7 @@
 | [Nunca Gostei de Quem Só Me Faz Bem](https://open.spotify.com/track/3uOZL9di0SNwf5JpYdgPMR) | [THAIS](https://open.spotify.com/artist/6HiZPv12Ycvmmg4AZQXz29) | [Nunca Gostei de Quem Só Me Faz Bem](https://open.spotify.com/album/0lnV0m5mAWwpX3vPbnHqD4) | 3:35 | 2023-02-03 |  |
 | [Não foi por mal](https://open.spotify.com/track/40XZqX5zbxr0PaqnmPGr1Y) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Não foi por mal](https://open.spotify.com/album/4rQgElXcm1KYhD2dhoez8g) | 2:15 | 2022-02-11 | 2022-04-16 |
 | [Não Fosse Tão Tarde](https://open.spotify.com/track/1KHWBJTX7apuuYsEmqZLa8) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Não Fosse Tão Tarde](https://open.spotify.com/album/29k7p5Pj0CJbXL3chFwPIP) | 3:25 | 2022-07-08 |  |
+| [não mudo por ninguém](https://open.spotify.com/track/1fXTWjQEdNx0z8Yx383fDw) | [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m) | [fantasia de um amor perfeito](https://open.spotify.com/album/2szRuIFgI3PccmXm2jmDCt) | 2:50 | 2023-05-12 |  |
 | [não posso ficar \(pra sempre\)](https://open.spotify.com/track/4xPYZzsyMbNTJISnGNRLnQ) | [camilobers](https://open.spotify.com/artist/7LY9xAlnzpYcuXNvmFQuXO), [the.lazyb](https://open.spotify.com/artist/4KtU6swIBacJ3KHFMJliOD) | [não posso ficar \(pra sempre\)](https://open.spotify.com/album/3xaJvamcwjwwE51yIzVIRh) | 3:19 | 2022-12-16 | 2023-01-04 |
 | [O Amor Se Acabou](https://open.spotify.com/track/30kvSA3nmIdNcEn7Qbz62V) | [Bárbara Eugênia](https://open.spotify.com/artist/0FJA2ViptVdnv30E7cg51l) | [Crashes n' Crushes](https://open.spotify.com/album/5EVeip4LayRSxsJoIKXmKr) | 2:55 | 2022-01-14 | 2022-01-22 |
 | [o barco](https://open.spotify.com/track/62f4fwsxf54IGvy4ri3z3a) | [Duda In The Sky](https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu) | [o barco](https://open.spotify.com/album/6RmddTpIczOcAEAwuzlcCr) | 4:26 | 2022-08-12 | 2022-09-24 |

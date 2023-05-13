@@ -414,7 +414,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 299871,
       "name": "C\u00f3mo Se Cura una Herida",
       "url": "https://open.spotify.com/track/08wrPjhluxqZ14lOkoZiel"
@@ -705,6 +705,28 @@
     },
     {
       "album": {
+        "name": "El M\u00e1s Feliz Del Mundo",
+        "url": "https://open.spotify.com/album/3YyG3bUijz0cbjvCUagVMr"
+      },
+      "artists": [
+        {
+          "name": "Septeto Acarey",
+          "url": "https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v"
+        },
+        {
+          "name": "Jorge Lu\u00eds Piloto",
+          "url": "https://open.spotify.com/artist/4q3tZzOquSSEmpYJXj8qGp"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289450,
+      "name": "El M\u00e1s Feliz Del Mundo",
+      "url": "https://open.spotify.com/track/6LJ0Vm6VniJW73HvDgz2Mr"
+    },
+    {
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
       },
@@ -818,6 +840,28 @@
       "duration_ms": 300773,
       "name": "Eres Mi Sue\u00f1o",
       "url": "https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn"
+    },
+    {
+      "album": {
+        "name": "Esas manos",
+        "url": "https://open.spotify.com/album/7jC6HQksi4cE6j6mzrcBR6"
+      },
+      "artists": [
+        {
+          "name": "Bun Bun Mezcla'o",
+          "url": "https://open.spotify.com/artist/6ndherunOESABdpW4nGgwd"
+        },
+        {
+          "name": "DJ Marlong Son & Sabor",
+          "url": "https://open.spotify.com/artist/0fW13Vqd5S0Chtdn0h72ts"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217557,
+      "name": "Esas manos",
+      "url": "https://open.spotify.com/track/4rtdbso7LsgSs7RIj236R2"
     },
     {
       "album": {
@@ -1266,7 +1310,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 232355,
       "name": "La Peruana",
       "url": "https://open.spotify.com/track/3GwmnvymwiVxTQ02d1wWB1"

@@ -261,6 +261,24 @@
     },
     {
       "album": {
+        "name": "A Year Ago",
+        "url": "https://open.spotify.com/album/4mXHsCQ4aRccewmcKUxIBJ"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170830,
+      "name": "A Year Ago",
+      "url": "https://open.spotify.com/track/3DBJE1Zndql25OGUQSv7aD"
+    },
+    {
+      "album": {
         "name": "BRIGHTSIDE",
         "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
       },
@@ -312,6 +330,24 @@
       "duration_ms": 185486,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq"
+    },
+    {
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/5R1GZGuNbidvH4kDRAQmfm"
+      },
+      "artists": [
+        {
+          "name": "Joe Hertler & The Rainbow Seekers",
+          "url": "https://open.spotify.com/artist/2bqcjvd6ETkqubaQnx3OtS"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217034,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/6k9TZ3XhsNV9tFv706sqG1"
     },
     {
       "album": {
@@ -1338,6 +1374,24 @@
       "duration_ms": 264271,
       "name": "Bonafide Living",
       "url": "https://open.spotify.com/track/4yP3jLzVplst0epZO5aI5R"
+    },
+    {
+      "album": {
+        "name": "Vulfnik",
+        "url": "https://open.spotify.com/album/2hx7xwv78aW95cduJrslG5"
+      },
+      "artists": [
+        {
+          "name": "Vulfmon",
+          "url": "https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164039,
+      "name": "Bonnie Wait",
+      "url": "https://open.spotify.com/track/11JSE9lPVKyp7pmnpRyB7z"
     },
     {
       "album": {
@@ -2968,7 +3022,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 194195,
       "name": "Eyes Closed - Piano Version",
       "url": "https://open.spotify.com/track/1C0Uqh9cRMLPw9WpZzL4Z1"
@@ -3434,7 +3488,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 173933,
       "name": "get over you",
       "url": "https://open.spotify.com/track/0CdWAFsKkBMT8N5z0WIE8y"
@@ -3940,7 +3994,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 231723,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1"
@@ -4742,7 +4796,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 240173,
       "name": "I Don\u2019t Know How To End",
       "url": "https://open.spotify.com/track/24n43FNabatI424TFU39Tr"
@@ -4976,7 +5030,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 165940,
       "name": "I'm Here",
       "url": "https://open.spotify.com/track/7l5jZiuwClTKk2Xyf5mc69"
@@ -5765,6 +5819,28 @@
     },
     {
       "album": {
+        "name": "Life Goes On (feat. Luke Combs)",
+        "url": "https://open.spotify.com/album/6fyUUW7ISpjbxCxaBHl1UN"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210208,
+      "name": "Life Goes On (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/63kLorCFyk4ZHMHPhcWOtO"
+    },
+    {
+      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/5DIgFG1fM76vmNYlvfv2JJ"
       },
@@ -6220,6 +6296,24 @@
       "duration_ms": 200951,
       "name": "Man On The Moon",
       "url": "https://open.spotify.com/track/7E6jdcJTGDpYmjHFnXu3vG"
+    },
+    {
+      "album": {
+        "name": "Maybe Next Time",
+        "url": "https://open.spotify.com/album/6oGzvyilFapjThmlJPJKiW"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188373,
+      "name": "Maybe Next Time",
+      "url": "https://open.spotify.com/track/3NZDpFKjCApF6WkI5g6iFg"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Listen to your favourite Anime songs, all in one playlist.",
-  "num_followers": 560846,
+  "num_followers": 561272,
   "original_name": "Anime Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzI0OWJmYmI1ZjBkNWE2YzM4YzE2YmQ4NGZlMWIzMGYyZGUxMWY5",
+  "snapshot_id": "MCw5YWYwYTA5ODJlOGUxZGRjYWEyMDQ4MWIwMWJhZjA1NjRkODMxNmNk",
   "tracks": [
     {
       "added_at": "2023-05-01 16:34:16",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-05-01 16:34:16",
       "album": {
-        "name": "\u65b0\u6642\u4ee3 (\u30a6\u30bf from ONE PIECE FILM RED)",
-        "url": "https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb"
-      },
-      "artists": [
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        }
-      ],
-      "duration_ms": 228214,
-      "name": "\u65b0\u6642\u4ee3 - \u30a6\u30bf from ONE PIECE FILM RED",
-      "url": "https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25"
-    },
-    {
-      "added_at": "2023-05-01 16:34:16",
-      "album": {
         "name": "\u6b8b\u6a5f",
         "url": "https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 230066,
       "name": "\u6b8b\u6a5f",
       "url": "https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8"
+    },
+    {
+      "added_at": "2023-05-01 16:34:16",
+      "album": {
+        "name": "\u65b0\u6642\u4ee3 (\u30a6\u30bf from ONE PIECE FILM RED)",
+        "url": "https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 228214,
+      "name": "\u65b0\u6642\u4ee3 - \u30a6\u30bf from ONE PIECE FILM RED",
+      "url": "https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25"
     },
     {
       "added_at": "2023-05-01 16:34:16",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-05-01 16:34:16",
       "album": {
+        "name": "White Noise",
+        "url": "https://open.spotify.com/album/5QFR0drgoyEhPvfFh5zulf"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "duration_ms": 254838,
+      "name": "White Noise",
+      "url": "https://open.spotify.com/track/1mY3E6zTjhjQD5SSy8ctgk"
+    },
+    {
+      "added_at": "2023-05-01 16:34:16",
+      "album": {
         "name": "\u30a2\u30a4\u30bf\u30ea\u30ca\u30a4",
         "url": "https://open.spotify.com/album/1C5VITN2qaLE4PChtSmSrj"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 162366,
       "name": "\u30a2\u30a4\u30bf\u30ea\u30ca\u30a4",
       "url": "https://open.spotify.com/track/67seLhibwW3OAyZcEw5Ijh"
-    },
-    {
-      "added_at": "2023-05-01 16:34:16",
-      "album": {
-        "name": "White Noise",
-        "url": "https://open.spotify.com/album/5QFR0drgoyEhPvfFh5zulf"
-      },
-      "artists": [
-        {
-          "name": "OFFICIAL HIGE DANDISM",
-          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
-        }
-      ],
-      "duration_ms": 254838,
-      "name": "White Noise",
-      "url": "https://open.spotify.com/track/1mY3E6zTjhjQD5SSy8ctgk"
     },
     {
       "added_at": "2023-05-01 16:34:16",
@@ -671,18 +671,18 @@
     {
       "added_at": "2023-05-01 16:34:16",
       "album": {
-        "name": "TOMBI",
-        "url": "https://open.spotify.com/album/1rl1ocAMAPeMfHuFpZj9vF"
+        "name": "Judgement",
+        "url": "https://open.spotify.com/album/5cBA9ERPjJc5TgWnwiqCJf"
       },
       "artists": [
         {
-          "name": "Kvi Baba",
-          "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
+          "name": "ASH DA HERO",
+          "url": "https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT"
         }
       ],
-      "duration_ms": 206509,
-      "name": "TOMBI",
-      "url": "https://open.spotify.com/track/7nnACrn6f6JsKskLYKq1Cl"
+      "duration_ms": 226240,
+      "name": "Judgement",
+      "url": "https://open.spotify.com/track/1hPFCT7wqA0TOIby783Rd9"
     },
     {
       "added_at": "2023-05-01 16:34:16",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-05-01 16:34:16",
       "album": {
-        "name": "Judgement",
-        "url": "https://open.spotify.com/album/5cBA9ERPjJc5TgWnwiqCJf"
+        "name": "TOMBI",
+        "url": "https://open.spotify.com/album/1rl1ocAMAPeMfHuFpZj9vF"
       },
       "artists": [
         {
-          "name": "ASH DA HERO",
-          "url": "https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT"
+          "name": "Kvi Baba",
+          "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
         }
       ],
-      "duration_ms": 226240,
-      "name": "Judgement",
-      "url": "https://open.spotify.com/track/1hPFCT7wqA0TOIby783Rd9"
+      "duration_ms": 206509,
+      "name": "TOMBI",
+      "url": "https://open.spotify.com/track/7nnACrn6f6JsKskLYKq1Cl"
     },
     {
       "added_at": "2023-05-01 16:34:16",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-05-01 16:34:16",
       "album": {
-        "name": "TV Anime \"Attack on Titan Season 2\" (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb"
-      },
-      "artists": [
-        {
-          "name": "Hiroyuki Sawano",
-          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
-        }
-      ],
-      "duration_ms": 178213,
-      "name": "Call of Silence",
-      "url": "https://open.spotify.com/track/7k1HoUdskuBhyWvm7hPctM"
-    },
-    {
-      "added_at": "2023-05-01 16:34:16",
-      "album": {
         "name": "\u30b9\u30ab\u30fc",
         "url": "https://open.spotify.com/album/4qHbR7z8zMoUFOukvg7KXd"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 259191,
       "name": "\u30b9\u30ab\u30fc",
       "url": "https://open.spotify.com/track/5WQAussByRFjUWYQDowtHE"
+    },
+    {
+      "added_at": "2023-05-01 16:34:16",
+      "album": {
+        "name": "TV Anime \"Attack on Titan Season 2\" (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "duration_ms": 178213,
+      "name": "Call of Silence",
+      "url": "https://open.spotify.com/track/7k1HoUdskuBhyWvm7hPctM"
     },
     {
       "added_at": "2023-05-01 16:34:16",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2023-05-01 16:34:16",
       "album": {
-        "name": "Weathering With You",
-        "url": "https://open.spotify.com/album/2BcCxJ3EWhsd4IyN8XJA3q"
-      },
-      "artists": [
-        {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
-        },
-        {
-          "name": "Toko Miura",
-          "url": "https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE"
-        }
-      ],
-      "duration_ms": 188066,
-      "name": "Grand Escape (Movie Edit) [feat. Toko Miura]",
-      "url": "https://open.spotify.com/track/2cE5PbW9PhPmnyETXqH3VE"
-    },
-    {
-      "added_at": "2023-05-01 16:34:16",
-      "album": {
         "name": "LEO-NiNE",
         "url": "https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO"
       },
@@ -1215,18 +1195,22 @@
     {
       "added_at": "2023-05-01 16:34:16",
       "album": {
-        "name": "My Plan",
-        "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
+        "name": "Weathering With You",
+        "url": "https://open.spotify.com/album/2BcCxJ3EWhsd4IyN8XJA3q"
       },
       "artists": [
         {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        },
+        {
+          "name": "Toko Miura",
+          "url": "https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE"
         }
       ],
-      "duration_ms": 223350,
-      "name": "My Plan",
-      "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
+      "duration_ms": 188066,
+      "name": "Grand Escape (Movie Edit) [feat. Toko Miura]",
+      "url": "https://open.spotify.com/track/2cE5PbW9PhPmnyETXqH3VE"
     },
     {
       "added_at": "2023-05-01 16:34:16",
@@ -1259,6 +1243,22 @@
       "duration_ms": 185173,
       "name": "VIVID VICE",
       "url": "https://open.spotify.com/track/4R6yPy83vDEZtwJsBavUfo"
+    },
+    {
+      "added_at": "2023-05-01 16:34:16",
+      "album": {
+        "name": "My Plan",
+        "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 223350,
+      "name": "My Plan",
+      "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
     },
     {
       "added_at": "2023-05-01 16:34:16",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-05-01 16:34:16",
       "album": {
-        "name": "\u6d88\u3048\u3066\u3057\u307e\u3044\u305d\u3046\u3067\u3059",
-        "url": "https://open.spotify.com/album/6UdhROGy9pKEVMLZxTQU5Z"
-      },
-      "artists": [
-        {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
-        }
-      ],
-      "duration_ms": 257799,
-      "name": "\u6d88\u3048\u3066\u3057\u307e\u3044\u305d\u3046\u3067\u3059",
-      "url": "https://open.spotify.com/track/4wYCZ6QS5EClBXqjakTieR"
-    },
-    {
-      "added_at": "2023-05-01 16:34:16",
-      "album": {
         "name": "\u30e1\u30ed\u30a6",
         "url": "https://open.spotify.com/album/0jkxbnOM0JnTw4c3Uegf6e"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 249204,
       "name": "\u30e1\u30ed\u30a6",
       "url": "https://open.spotify.com/track/6cGU6sOzRem6E8S7tCme1n"
+    },
+    {
+      "added_at": "2023-05-01 16:34:16",
+      "album": {
+        "name": "\u6d88\u3048\u3066\u3057\u307e\u3044\u305d\u3046\u3067\u3059",
+        "url": "https://open.spotify.com/album/6UdhROGy9pKEVMLZxTQU5Z"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "duration_ms": 257799,
+      "name": "\u6d88\u3048\u3066\u3057\u307e\u3044\u305d\u3046\u3067\u3059",
+      "url": "https://open.spotify.com/track/4wYCZ6QS5EClBXqjakTieR"
     },
     {
       "added_at": "2023-05-01 16:34:16",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2023-05-01 16:34:16",
       "album": {
+        "name": "Gyakutengeki",
+        "url": "https://open.spotify.com/album/02B8FTElIyIMeHrHkHARbf"
+      },
+      "artists": [
+        {
+          "name": "Tsukuyomi",
+          "url": "https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg"
+        }
+      ],
+      "duration_ms": 182029,
+      "name": "Gyakutengeki",
+      "url": "https://open.spotify.com/track/6emzRn11iO8a4lQGbyJg7i"
+    },
+    {
+      "added_at": "2023-05-01 16:34:16",
+      "album": {
         "name": "\u661f\u304c\u6cf3\u3050",
         "url": "https://open.spotify.com/album/7KgNsK5MtZJJSdNOFBu738"
       },
@@ -1535,30 +1551,6 @@
       "duration_ms": 239078,
       "name": "\u661f\u304c\u6cf3\u3050",
       "url": "https://open.spotify.com/track/0MnPdlWm7MSSUnEamZp5lX"
-    },
-    {
-      "added_at": "2023-05-01 16:34:16",
-      "album": {
-        "name": "takt",
-        "url": "https://open.spotify.com/album/3aInlHXhKl7KFc5unqk1W3"
-      },
-      "artists": [
-        {
-          "name": "ryo (supercell)",
-          "url": "https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX"
-        },
-        {
-          "name": "Mafumafu",
-          "url": "https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ"
-        },
-        {
-          "name": "gaku",
-          "url": "https://open.spotify.com/artist/7jjFT71wanEzrqWDlljqts"
-        }
-      ],
-      "duration_ms": 237500,
-      "name": "takt",
-      "url": "https://open.spotify.com/track/6YSFQShQdR87tMaQEtUfHo"
     },
     {
       "added_at": "2023-05-01 16:34:16",
@@ -1595,22 +1587,6 @@
     {
       "added_at": "2023-05-01 16:34:16",
       "album": {
-        "name": "Gyakutengeki",
-        "url": "https://open.spotify.com/album/02B8FTElIyIMeHrHkHARbf"
-      },
-      "artists": [
-        {
-          "name": "Tsukuyomi",
-          "url": "https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg"
-        }
-      ],
-      "duration_ms": 182029,
-      "name": "Gyakutengeki",
-      "url": "https://open.spotify.com/track/6emzRn11iO8a4lQGbyJg7i"
-    },
-    {
-      "added_at": "2023-05-01 16:34:16",
-      "album": {
         "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269",
         "url": "https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG"
       },
@@ -1623,6 +1599,30 @@
       "duration_ms": 317266,
       "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269",
       "url": "https://open.spotify.com/track/7ebceNRVeFRFpd4qLENYpO"
+    },
+    {
+      "added_at": "2023-05-01 16:34:16",
+      "album": {
+        "name": "takt",
+        "url": "https://open.spotify.com/album/3aInlHXhKl7KFc5unqk1W3"
+      },
+      "artists": [
+        {
+          "name": "ryo (supercell)",
+          "url": "https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX"
+        },
+        {
+          "name": "Mafumafu",
+          "url": "https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ"
+        },
+        {
+          "name": "gaku",
+          "url": "https://open.spotify.com/artist/7jjFT71wanEzrqWDlljqts"
+        }
+      ],
+      "duration_ms": 237500,
+      "name": "takt",
+      "url": "https://open.spotify.com/track/6YSFQShQdR87tMaQEtUfHo"
     },
     {
       "added_at": "2023-05-01 16:34:16",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-05-01 16:34:16",
       "album": {
-        "name": "PAINT",
-        "url": "https://open.spotify.com/album/3nLZFXpFIcKU6BxGqPit3Y"
-      },
-      "artists": [
-        {
-          "name": "I Don't Like Mondays.",
-          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
-        }
-      ],
-      "duration_ms": 208405,
-      "name": "PAINT",
-      "url": "https://open.spotify.com/track/0n099xB2P5c2ZLDazd3dgr"
-    },
-    {
-      "added_at": "2023-05-01 16:34:16",
-      "album": {
         "name": "Starting Over",
         "url": "https://open.spotify.com/album/3d4K0E7Jisj18spw1y7rEF"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 190133,
       "name": "Starting Over",
       "url": "https://open.spotify.com/track/2kuTXMJcOuIgZGc73kP5Is"
+    },
+    {
+      "added_at": "2023-05-01 16:34:16",
+      "album": {
+        "name": "PAINT",
+        "url": "https://open.spotify.com/album/3nLZFXpFIcKU6BxGqPit3Y"
+      },
+      "artists": [
+        {
+          "name": "I Don't Like Mondays.",
+          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
+        }
+      ],
+      "duration_ms": 208405,
+      "name": "PAINT",
+      "url": "https://open.spotify.com/track/0n099xB2P5c2ZLDazd3dgr"
     },
     {
       "added_at": "2023-05-01 16:34:16",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2023-05-01 16:34:16",
       "album": {
-        "name": "Stuck on you",
-        "url": "https://open.spotify.com/album/2YC2JrNogGItC3W9NTZ04h"
-      },
-      "artists": [
-        {
-          "name": "Nowlu",
-          "url": "https://open.spotify.com/artist/0TAhk9VlgZqLcM4wn5nUpO"
-        }
-      ],
-      "duration_ms": 185608,
-      "name": "Stuck on you",
-      "url": "https://open.spotify.com/track/3yQJ2X7Jpufw6vnIhA3ZRb"
-    },
-    {
-      "added_at": "2023-05-01 16:34:16",
-      "album": {
         "name": "\u9178\u6b20\u5c11\u5973",
         "url": "https://open.spotify.com/album/7wULgwMQk3K8FdcYqCKVlO"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 314666,
       "name": "\u30ec\u30a4\u30e1\u30a4",
       "url": "https://open.spotify.com/track/7EZRxYT7qkgNcMIW59POuA"
+    },
+    {
+      "added_at": "2023-05-01 16:34:16",
+      "album": {
+        "name": "Stuck on you",
+        "url": "https://open.spotify.com/album/2YC2JrNogGItC3W9NTZ04h"
+      },
+      "artists": [
+        {
+          "name": "Nowlu",
+          "url": "https://open.spotify.com/artist/0TAhk9VlgZqLcM4wn5nUpO"
+        }
+      ],
+      "duration_ms": 185608,
+      "name": "Stuck on you",
+      "url": "https://open.spotify.com/track/3yQJ2X7Jpufw6vnIhA3ZRb"
     },
     {
       "added_at": "2023-05-01 16:34:16",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2023-05-01 16:34:16",
       "album": {
+        "name": "\u5947\u7e01\u30ed\u30de\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/1YujqcEfWz2zenKQKtDJKT"
+      },
+      "artists": [
+        {
+          "name": "Nanawoakari",
+          "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+        }
+      ],
+      "duration_ms": 221686,
+      "name": "\u5947\u7e01\u30ed\u30de\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/7HpRzCOpC0AgRJwkxrk5bH"
+    },
+    {
+      "added_at": "2023-05-01 16:34:16",
+      "album": {
         "name": "\u9ebb\u75fa",
         "url": "https://open.spotify.com/album/7lXwejcTgkCpmBlwQyMAAV"
       },
@@ -1935,22 +1951,6 @@
       "duration_ms": 349413,
       "name": "remember",
       "url": "https://open.spotify.com/track/37L7Zjb22r6sRPjwDKNJtG"
-    },
-    {
-      "added_at": "2023-05-01 16:34:16",
-      "album": {
-        "name": "\u5947\u7e01\u30ed\u30de\u30f3\u30b9",
-        "url": "https://open.spotify.com/album/1YujqcEfWz2zenKQKtDJKT"
-      },
-      "artists": [
-        {
-          "name": "Nanawoakari",
-          "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
-        }
-      ],
-      "duration_ms": 221686,
-      "name": "\u5947\u7e01\u30ed\u30de\u30f3\u30b9",
-      "url": "https://open.spotify.com/track/7HpRzCOpC0AgRJwkxrk5bH"
     },
     {
       "added_at": "2023-05-01 16:34:16",
@@ -2003,54 +2003,18 @@
     {
       "added_at": "2023-05-01 16:34:16",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/2GzNbQgpNvnMaqT9hrCIrt"
+        "name": "\u30ef\u30b9\u30ec\u30ac\u30bf\u30ad",
+        "url": "https://open.spotify.com/album/3soHYtUh1ITKtBAHPPBJwO"
       },
       "artists": [
         {
-          "name": "Rude-\u03b1",
-          "url": "https://open.spotify.com/artist/6ZtYpkBBZ7wfpM99Qxm0KO"
+          "name": "Huwie Ishizaki",
+          "url": "https://open.spotify.com/artist/4NZJF1Qong0IAWBRE2EjTr"
         }
       ],
-      "duration_ms": 182093,
-      "name": "LIFE",
-      "url": "https://open.spotify.com/track/5JaYaJnVZ3ZCB4VLvfs3eR"
-    },
-    {
-      "added_at": "2023-05-01 16:34:16",
-      "album": {
-        "name": "1,000,000 TIMES",
-        "url": "https://open.spotify.com/album/505IJWUZGRdwSp4AeTwvmP"
-      },
-      "artists": [
-        {
-          "name": "MY FIRST STORY",
-          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
-        },
-        {
-          "name": "chelly (EGOIST)",
-          "url": "https://open.spotify.com/artist/3Pd91SXUFKeNjB6tzhC8jk"
-        }
-      ],
-      "duration_ms": 315066,
-      "name": "1,000,000 TIMES feat. chelly (EGOIST)",
-      "url": "https://open.spotify.com/track/3dVMeI08Of33bjSELmtSqq"
-    },
-    {
-      "added_at": "2023-05-01 16:34:16",
-      "album": {
-        "name": "\u30a2\u30ab\u30b7\u30a2",
-        "url": "https://open.spotify.com/album/68QVVJIcIoem5brTfzbSlo"
-      },
-      "artists": [
-        {
-          "name": "BUMP OF CHICKEN",
-          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
-        }
-      ],
-      "duration_ms": 262106,
-      "name": "\u30a2\u30ab\u30b7\u30a2",
-      "url": "https://open.spotify.com/track/0tvPnYDLySJL9g7OHNJeyb"
+      "duration_ms": 177864,
+      "name": "\u30ef\u30b9\u30ec\u30ac\u30bf\u30ad",
+      "url": "https://open.spotify.com/track/24PaqdVWQBvwnJmbRsvV5a"
     },
     {
       "added_at": "2023-05-01 16:34:16",
@@ -2075,34 +2039,54 @@
     {
       "added_at": "2023-05-01 16:34:16",
       "album": {
-        "name": "\u30ef\u30b9\u30ec\u30ac\u30bf\u30ad",
-        "url": "https://open.spotify.com/album/3soHYtUh1ITKtBAHPPBJwO"
+        "name": "23",
+        "url": "https://open.spotify.com/album/2GzNbQgpNvnMaqT9hrCIrt"
       },
       "artists": [
         {
-          "name": "Huwie Ishizaki",
-          "url": "https://open.spotify.com/artist/4NZJF1Qong0IAWBRE2EjTr"
+          "name": "Rude-\u03b1",
+          "url": "https://open.spotify.com/artist/6ZtYpkBBZ7wfpM99Qxm0KO"
         }
       ],
-      "duration_ms": 177864,
-      "name": "\u30ef\u30b9\u30ec\u30ac\u30bf\u30ad",
-      "url": "https://open.spotify.com/track/24PaqdVWQBvwnJmbRsvV5a"
+      "duration_ms": 182093,
+      "name": "LIFE",
+      "url": "https://open.spotify.com/track/5JaYaJnVZ3ZCB4VLvfs3eR"
     },
     {
       "added_at": "2023-05-01 16:34:16",
       "album": {
-        "name": "\u8db3\u8de1",
-        "url": "https://open.spotify.com/album/2qSycPngTjQbW0JgEPKanq"
+        "name": "\u30a2\u30ab\u30b7\u30a2",
+        "url": "https://open.spotify.com/album/68QVVJIcIoem5brTfzbSlo"
       },
       "artists": [
         {
-          "name": "the peggies",
-          "url": "https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW"
+          "name": "BUMP OF CHICKEN",
+          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
         }
       ],
-      "duration_ms": 227973,
-      "name": "\u8db3\u8de1",
-      "url": "https://open.spotify.com/track/4k5g6HNKtrWbYDllw2Dyp0"
+      "duration_ms": 262106,
+      "name": "\u30a2\u30ab\u30b7\u30a2",
+      "url": "https://open.spotify.com/track/0tvPnYDLySJL9g7OHNJeyb"
+    },
+    {
+      "added_at": "2023-05-01 16:34:16",
+      "album": {
+        "name": "1,000,000 TIMES",
+        "url": "https://open.spotify.com/album/505IJWUZGRdwSp4AeTwvmP"
+      },
+      "artists": [
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        },
+        {
+          "name": "chelly (EGOIST)",
+          "url": "https://open.spotify.com/artist/3Pd91SXUFKeNjB6tzhC8jk"
+        }
+      ],
+      "duration_ms": 315066,
+      "name": "1,000,000 TIMES feat. chelly (EGOIST)",
+      "url": "https://open.spotify.com/track/3dVMeI08Of33bjSELmtSqq"
     },
     {
       "added_at": "2023-05-01 16:34:16",
@@ -2119,6 +2103,22 @@
       "duration_ms": 214493,
       "name": "Numbness like a ginger",
       "url": "https://open.spotify.com/track/6WmH150zngZw8mNenyWY5o"
+    },
+    {
+      "added_at": "2023-05-01 16:34:16",
+      "album": {
+        "name": "\u8db3\u8de1",
+        "url": "https://open.spotify.com/album/2qSycPngTjQbW0JgEPKanq"
+      },
+      "artists": [
+        {
+          "name": "the peggies",
+          "url": "https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW"
+        }
+      ],
+      "duration_ms": 227973,
+      "name": "\u8db3\u8de1",
+      "url": "https://open.spotify.com/track/4k5g6HNKtrWbYDllw2Dyp0"
     },
     {
       "added_at": "2023-05-01 16:34:16",
@@ -2179,6 +2179,22 @@
     {
       "added_at": "2023-05-01 16:34:16",
       "album": {
+        "name": "Where Do We Go?",
+        "url": "https://open.spotify.com/album/13ukRIGlCs6RbRAvDVzhF8"
+      },
+      "artists": [
+        {
+          "name": "OKAMOTO'S",
+          "url": "https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T"
+        }
+      ],
+      "duration_ms": 202293,
+      "name": "Where Do We Go?",
+      "url": "https://open.spotify.com/track/3n2YaCic0C3gjCgkTkwfOz"
+    },
+    {
+      "added_at": "2023-05-01 16:34:16",
+      "album": {
         "name": "\u30e9\u30b9\u30c8\u30b7\u30fc\u30f3",
         "url": "https://open.spotify.com/album/1vPjwkJ6P8GWadlPrlvYY3"
       },
@@ -2211,22 +2227,6 @@
     {
       "added_at": "2023-05-01 16:34:16",
       "album": {
-        "name": "\u3057\u308b\u3057",
-        "url": "https://open.spotify.com/album/4MxZof46XxfA0UmmuY4HWM"
-      },
-      "artists": [
-        {
-          "name": "\u30e9\u30c3\u30af\u30e9\u30a4\u30d5",
-          "url": "https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "\u3057\u308b\u3057",
-      "url": "https://open.spotify.com/track/5jSR1EJai9xHvDEAq2rPt9"
-    },
-    {
-      "added_at": "2023-05-01 16:34:16",
-      "album": {
         "name": "\u541b\u3088 \u6c17\u9ad8\u304f\u3042\u308c",
         "url": "https://open.spotify.com/album/50H81UtyttWHuL3qK9TwLc"
       },
@@ -2239,6 +2239,22 @@
       "duration_ms": 216799,
       "name": "\u541b\u3088 \u6c17\u9ad8\u304f\u3042\u308c",
       "url": "https://open.spotify.com/track/0rlYL6IQIwLZwYIguyy3l0"
+    },
+    {
+      "added_at": "2023-05-01 16:34:16",
+      "album": {
+        "name": "\u3057\u308b\u3057",
+        "url": "https://open.spotify.com/album/4MxZof46XxfA0UmmuY4HWM"
+      },
+      "artists": [
+        {
+          "name": "\u30e9\u30c3\u30af\u30e9\u30a4\u30d5",
+          "url": "https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "\u3057\u308b\u3057",
+      "url": "https://open.spotify.com/track/5jSR1EJai9xHvDEAq2rPt9"
     },
     {
       "added_at": "2023-05-01 16:34:16",
@@ -2271,22 +2287,6 @@
       "duration_ms": 256439,
       "name": "\u3070\u304b\u3058\u3083\u306a\u3044\u306e\u306b",
       "url": "https://open.spotify.com/track/2UkcZV07LP39NQg9tGBvnh"
-    },
-    {
-      "added_at": "2023-05-01 16:34:16",
-      "album": {
-        "name": "Where Do We Go?",
-        "url": "https://open.spotify.com/album/13ukRIGlCs6RbRAvDVzhF8"
-      },
-      "artists": [
-        {
-          "name": "OKAMOTO'S",
-          "url": "https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T"
-        }
-      ],
-      "duration_ms": 202293,
-      "name": "Where Do We Go?",
-      "url": "https://open.spotify.com/track/3n2YaCic0C3gjCgkTkwfOz"
     },
     {
       "added_at": "2023-05-01 16:34:16",
@@ -2711,22 +2711,6 @@
     {
       "added_at": "2023-05-01 16:34:16",
       "album": {
-        "name": "FROZEN MIDNIGHT",
-        "url": "https://open.spotify.com/album/2W2vsABoSxtStk4BnmHWVL"
-      },
-      "artists": [
-        {
-          "name": "\u4f50\u4e45\u9593\u8cb4\u751f",
-          "url": "https://open.spotify.com/artist/2xTubMhZT8kMqvVsMEV5Mp"
-        }
-      ],
-      "duration_ms": 216653,
-      "name": "FROZEN MIDNIGHT",
-      "url": "https://open.spotify.com/track/3vI81nyW6KM3aFHld1BX6K"
-    },
-    {
-      "added_at": "2023-05-01 16:34:16",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/2csneKY1Pr4UXxMrG4I5Gr"
       },
@@ -2739,6 +2723,22 @@
       "duration_ms": 308453,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/15WLZS3pvNj1grj8FsI1tv"
+    },
+    {
+      "added_at": "2023-05-01 16:34:16",
+      "album": {
+        "name": "FROZEN MIDNIGHT",
+        "url": "https://open.spotify.com/album/2W2vsABoSxtStk4BnmHWVL"
+      },
+      "artists": [
+        {
+          "name": "\u4f50\u4e45\u9593\u8cb4\u751f",
+          "url": "https://open.spotify.com/artist/2xTubMhZT8kMqvVsMEV5Mp"
+        }
+      ],
+      "duration_ms": 216653,
+      "name": "FROZEN MIDNIGHT",
+      "url": "https://open.spotify.com/track/3vI81nyW6KM3aFHld1BX6K"
     },
     {
       "added_at": "2023-05-01 16:34:16",
@@ -2763,22 +2763,6 @@
     {
       "added_at": "2023-05-01 16:34:16",
       "album": {
-        "name": "Flare",
-        "url": "https://open.spotify.com/album/2GUZuMzXynqvT2uG34qvxz"
-      },
-      "artists": [
-        {
-          "name": "milet",
-          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
-        }
-      ],
-      "duration_ms": 234879,
-      "name": "Flare",
-      "url": "https://open.spotify.com/track/1qZC7gWAR5blkKT1DI4niR"
-    },
-    {
-      "added_at": "2023-05-01 16:34:16",
-      "album": {
         "name": "Bloody Power Fame",
         "url": "https://open.spotify.com/album/4H9aESabZLTv3U8FEAxvsI"
       },
@@ -2791,6 +2775,22 @@
       "duration_ms": 238498,
       "name": "Bloody Power Fame",
       "url": "https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6"
+    },
+    {
+      "added_at": "2023-05-01 16:34:16",
+      "album": {
+        "name": "Flare",
+        "url": "https://open.spotify.com/album/2GUZuMzXynqvT2uG34qvxz"
+      },
+      "artists": [
+        {
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+        }
+      ],
+      "duration_ms": 234879,
+      "name": "Flare",
+      "url": "https://open.spotify.com/track/1qZC7gWAR5blkKT1DI4niR"
     },
     {
       "added_at": "2023-05-01 16:34:16",
@@ -2907,18 +2907,18 @@
     {
       "added_at": "2023-05-01 16:34:16",
       "album": {
-        "name": "2ND GALAXY",
-        "url": "https://open.spotify.com/album/7aVhOAh7ezTKkV62YaS7w6"
+        "name": "\u30a2\u30a4\u30aa\u30e9\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/231sUO0rctK4kQGp4efhFA"
       },
       "artists": [
         {
-          "name": "Nulbarich",
-          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
+          "name": "Inori Minase",
+          "url": "https://open.spotify.com/artist/6Aal2uLlwnLAQwSI7apV11"
         }
       ],
-      "duration_ms": 243573,
-      "name": "Lost Game",
-      "url": "https://open.spotify.com/track/2blM0SIqgptXPpCan2lGXh"
+      "duration_ms": 225584,
+      "name": "\u30a2\u30a4\u30aa\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/3aEkoZxIUDLgca5DQaZr5r"
     },
     {
       "added_at": "2023-05-01 16:34:16",
@@ -2939,18 +2939,18 @@
     {
       "added_at": "2023-05-01 16:34:16",
       "album": {
-        "name": "\u30a2\u30a4\u30aa\u30e9\u30a4\u30c8",
-        "url": "https://open.spotify.com/album/231sUO0rctK4kQGp4efhFA"
+        "name": "2ND GALAXY",
+        "url": "https://open.spotify.com/album/7aVhOAh7ezTKkV62YaS7w6"
       },
       "artists": [
         {
-          "name": "Inori Minase",
-          "url": "https://open.spotify.com/artist/6Aal2uLlwnLAQwSI7apV11"
+          "name": "Nulbarich",
+          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
         }
       ],
-      "duration_ms": 225584,
-      "name": "\u30a2\u30a4\u30aa\u30e9\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/3aEkoZxIUDLgca5DQaZr5r"
+      "duration_ms": 243573,
+      "name": "Lost Game",
+      "url": "https://open.spotify.com/track/2blM0SIqgptXPpCan2lGXh"
     },
     {
       "added_at": "2023-05-01 16:34:16",
@@ -2987,22 +2987,6 @@
     {
       "added_at": "2023-05-01 16:34:16",
       "album": {
-        "name": "complete single collection '97-'08",
-        "url": "https://open.spotify.com/album/4tTWP0M6kE7r1WkAKvfSV2"
-      },
-      "artists": [
-        {
-          "name": "the brilliant green",
-          "url": "https://open.spotify.com/artist/6ML3nrYx5Mu1wcXP8SmtG2"
-        }
-      ],
-      "duration_ms": 272533,
-      "name": "Ash Like Snow",
-      "url": "https://open.spotify.com/track/0nMflPztzJg8C8w1xcHhIe"
-    },
-    {
-      "added_at": "2023-05-01 16:34:16",
-      "album": {
         "name": "SURVIVE",
         "url": "https://open.spotify.com/album/7q6pacKSTnoHdyFoVa83DV"
       },
@@ -3015,6 +2999,22 @@
       "duration_ms": 234795,
       "name": "SURVIVE",
       "url": "https://open.spotify.com/track/1N2ftX938NJAeCZBiBbFiB"
+    },
+    {
+      "added_at": "2023-05-01 16:34:16",
+      "album": {
+        "name": "complete single collection '97-'08",
+        "url": "https://open.spotify.com/album/4tTWP0M6kE7r1WkAKvfSV2"
+      },
+      "artists": [
+        {
+          "name": "the brilliant green",
+          "url": "https://open.spotify.com/artist/6ML3nrYx5Mu1wcXP8SmtG2"
+        }
+      ],
+      "duration_ms": 272533,
+      "name": "Ash Like Snow",
+      "url": "https://open.spotify.com/track/0nMflPztzJg8C8w1xcHhIe"
     },
     {
       "added_at": "2023-05-01 16:34:16",
@@ -3067,6 +3067,22 @@
     {
       "added_at": "2023-05-01 16:34:16",
       "album": {
+        "name": "PURE",
+        "url": "https://open.spotify.com/album/71TimGdYvnolc8o298RVxs"
+      },
+      "artists": [
+        {
+          "name": "Taichi Mukai",
+          "url": "https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH"
+        }
+      ],
+      "duration_ms": 249895,
+      "name": "\u30ea\u30bb\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/7gm59KVXfG8wEAfN3Lv2Xu"
+    },
+    {
+      "added_at": "2023-05-01 16:34:16",
+      "album": {
         "name": "\u5149\u308b\u3068\u304d",
         "url": "https://open.spotify.com/album/0xGnJth0EnzU8kupgRPZop"
       },
@@ -3111,22 +3127,6 @@
       "duration_ms": 216552,
       "name": "HIGHEST",
       "url": "https://open.spotify.com/track/1ocxu4f7ZOjOcwAbqQ8l1T"
-    },
-    {
-      "added_at": "2023-05-01 16:34:16",
-      "album": {
-        "name": "PURE",
-        "url": "https://open.spotify.com/album/71TimGdYvnolc8o298RVxs"
-      },
-      "artists": [
-        {
-          "name": "Taichi Mukai",
-          "url": "https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH"
-        }
-      ],
-      "duration_ms": 249895,
-      "name": "\u30ea\u30bb\u30c3\u30c8",
-      "url": "https://open.spotify.com/track/7gm59KVXfG8wEAfN3Lv2Xu"
     },
     {
       "added_at": "2023-05-01 16:34:16",
@@ -3195,22 +3195,6 @@
     {
       "added_at": "2023-05-01 16:34:16",
       "album": {
-        "name": "TIMELESS WORLD",
-        "url": "https://open.spotify.com/album/3PRhAHRAHkiPGCIDMi02LC"
-      },
-      "artists": [
-        {
-          "name": "KOBUKURO",
-          "url": "https://open.spotify.com/artist/0llYwFIMgF9Jzmp4ZY7wbr"
-        }
-      ],
-      "duration_ms": 316000,
-      "name": "\u672a\u6765",
-      "url": "https://open.spotify.com/track/7M2ZtqHQWtrDW9oGodD6vm"
-    },
-    {
-      "added_at": "2023-05-01 16:34:16",
-      "album": {
         "name": "iv",
         "url": "https://open.spotify.com/album/5gCI0vdexP2ItOqQnENQ6w"
       },
@@ -3227,6 +3211,22 @@
       "duration_ms": 265186,
       "name": "CRY",
       "url": "https://open.spotify.com/track/66QkNeeHYxNCXIp48W4qcv"
+    },
+    {
+      "added_at": "2023-05-01 16:34:16",
+      "album": {
+        "name": "TIMELESS WORLD",
+        "url": "https://open.spotify.com/album/3PRhAHRAHkiPGCIDMi02LC"
+      },
+      "artists": [
+        {
+          "name": "KOBUKURO",
+          "url": "https://open.spotify.com/artist/0llYwFIMgF9Jzmp4ZY7wbr"
+        }
+      ],
+      "duration_ms": 316000,
+      "name": "\u672a\u6765",
+      "url": "https://open.spotify.com/track/7M2ZtqHQWtrDW9oGodD6vm"
     },
     {
       "added_at": "2023-05-01 16:34:16",
@@ -3263,6 +3263,22 @@
     {
       "added_at": "2023-05-01 16:34:16",
       "album": {
+        "name": "HOLLOW HUNGER",
+        "url": "https://open.spotify.com/album/450SRXXak0hHsMtwazOi0q"
+      },
+      "artists": [
+        {
+          "name": "caleb982",
+          "url": "https://open.spotify.com/artist/0hjUXdnmj0C9gVbmTvtsnm"
+        }
+      ],
+      "duration_ms": 223141,
+      "name": "HOLLOW HUNGER",
+      "url": "https://open.spotify.com/track/77tBI3JCCnvJYLAH6j6Gy1"
+    },
+    {
+      "added_at": "2023-05-01 16:34:16",
+      "album": {
         "name": "ENDING THEME FROM TV SERIES \u201dOVERLORD IV\u201d",
         "url": "https://open.spotify.com/album/6fiyEepRkKNW1rRZLVgt0P"
       },
@@ -3275,22 +3291,6 @@
       "duration_ms": 233452,
       "name": "NO MAN'S DAWN",
       "url": "https://open.spotify.com/track/3w7j5vtYOyNoB2hewUgn0G"
-    },
-    {
-      "added_at": "2023-05-01 16:34:16",
-      "album": {
-        "name": "BEAUTIFUL (Anime Edit)",
-        "url": "https://open.spotify.com/album/02LoAQmz9DRGyD3T3LBc5h"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 92040,
-      "name": "BEAUTIFUL - Anime Edit",
-      "url": "https://open.spotify.com/track/56LHN0v30yTGB6NFdihTg1"
     }
   ],
   "unique_name": "Anime Hits",

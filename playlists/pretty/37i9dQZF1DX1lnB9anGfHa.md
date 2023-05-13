@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 
 > A journey into the unknown, dark, and experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,226 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,335 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 28 | [Who Gives a Thought](https://open.spotify.com/track/0IqZcNlUn3LALc6zwo1wxV) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 3:59 |
 | 29 | [Atlantic Diva](https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Atlantic Diva](https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV) | 4:03 |
 | 30 | [The Order of the Rain](https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [The Order of the Rain](https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK) | 5:00 |
-| 31 | [Close](https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW) | [Johan Graden](https://open.spotify.com/artist/0mASxX1wZrJJQzv1ZiRxak), [Ellen Arkbro](https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn) | [Close](https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u) | 5:20 |
-| 32 | [страх](https://open.spotify.com/track/3nLrrqiK2mDKpazMEQhGHC) | [источник](https://open.spotify.com/artist/0RNBJmKvby1OTsxA1tobZi) | [POP TRIP](https://open.spotify.com/album/0p5ymdzYc3BbVR7Z40x0V8) | 3:23 |
+| 31 | [страх](https://open.spotify.com/track/3nLrrqiK2mDKpazMEQhGHC) | [источник](https://open.spotify.com/artist/0RNBJmKvby1OTsxA1tobZi) | [POP TRIP](https://open.spotify.com/album/0p5ymdzYc3BbVR7Z40x0V8) | 3:23 |
+| 32 | [Close](https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW) | [Johan Graden](https://open.spotify.com/artist/0mASxX1wZrJJQzv1ZiRxak), [Ellen Arkbro](https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn) | [Close](https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u) | 5:20 |
 | 33 | [Music Is The Drug](https://open.spotify.com/track/1BWGyrR8iDDXwhXmE5xmQQ) | [Lolina](https://open.spotify.com/artist/1jj1qbHgrDKYct7IJv5VQ8) | [Music Is The Drug](https://open.spotify.com/album/0tsuOcwGUKiitJ5ZbtwDiN) | 3:39 |
 | 34 | [The Metallic Index](https://open.spotify.com/track/3GQbilk0MocKiEEccxsZmr) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index](https://open.spotify.com/album/0rFQ0WB7KaIEva6TiM0Wpr) | 1:34 |
 | 35 | [Chills Me to the Bone](https://open.spotify.com/track/1TEHus4OKe6OsoABt5rASX) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Marta](https://open.spotify.com/artist/0yz9lVc98Tji7yjwkUe7l7) | [Fall to Pieces](https://open.spotify.com/album/6In2HeTX6Web6mNHcamTOO) | 2:16 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 45 | [Кожа](https://open.spotify.com/track/6O2IxBAZlVeQxgjQIQZtz1) | [AIGEL](https://open.spotify.com/artist/1gpjSKJC0UekvhaI8fAcoq) | [Кожа](https://open.spotify.com/album/4wCIFuLXlbqc5QQIj14H1S) | 4:28 |
 | 46 | [Los ojos](https://open.spotify.com/track/7myGZGiVdiN0LH5Oa0k3Bg) | [Mariana Päraway](https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja) | [Los ojos](https://open.spotify.com/album/2YwK74FkaMLpLA3Ql8cFkk) | 3:34 |
 | 47 | [Hiding In My Room](https://open.spotify.com/track/3si20hOppfHPDiFCyEDkSM) | [Kraków Loves Adana](https://open.spotify.com/artist/2LgLvxq44FkRvstBiPFjsN) | [Hiding In My Room](https://open.spotify.com/album/5FB4hmcRa9sqImroII1pKX) | 4:16 |
-| 48 | [Closer Now](https://open.spotify.com/track/7Gjdqr0xvbe8IR2Dc28wTr) | [Earth Trax](https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ) | [Closer Now](https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC) | 4:42 |
-| 49 | [Oracles](https://open.spotify.com/track/54FyqA3X39JjZZPUEB4Zmp) | [ATŌMI](https://open.spotify.com/artist/2xtvEAA3GV2xnT5iRzbKHX), [Laura Masotto](https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd) | [Little Floating Oracles](https://open.spotify.com/album/1tEL4r90ZTFJVMwg3DvbJ4) | 6:50 |
+| 48 | [Oracles](https://open.spotify.com/track/54FyqA3X39JjZZPUEB4Zmp) | [ATŌMI](https://open.spotify.com/artist/2xtvEAA3GV2xnT5iRzbKHX), [Laura Masotto](https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd) | [Little Floating Oracles](https://open.spotify.com/album/1tEL4r90ZTFJVMwg3DvbJ4) | 6:50 |
+| 49 | [Closer Now](https://open.spotify.com/track/7Gjdqr0xvbe8IR2Dc28wTr) | [Earth Trax](https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ) | [Closer Now](https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC) | 4:42 |
 | 50 | [Sangkakala](https://open.spotify.com/track/02KSiz6vuXHguCHQpfV69n) | [Gabber Modus Operandi](https://open.spotify.com/artist/4z8y2MjTFwLa73dABYP1io) | [Puxxximaxxx](https://open.spotify.com/album/2culL9pTUbpoVNWDdS3Xed) | 1:48 |
 
-Snapshot ID: `MCw2ZDA1NTI4NjAxYjU0MDc0M2NlMTBmY2U0YWExZGU5NzUxZGFmYjRh`
+Snapshot ID: `MCw4NWZlM2Q2ZDVlMjFiNGI4YjYyZDI3NWEyNDlhZGU2OGVhZDI0NzJh`

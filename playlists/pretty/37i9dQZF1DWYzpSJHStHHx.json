@@ -1,12 +1,12 @@
 {
   "description": "Songs to surf to. Co-curated by the cast of OBX (Chase Stokes, Rudy Pankow, Madelyn Cline and Carlacia Grant)",
-  "num_followers": 497375,
+  "num_followers": 497436,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDY3MzYyYjVmM2Q1YzE5OGNlZjVmOTQ5OWVhMjEzMThkOTZhZDNl",
+  "snapshot_id": "MCxmOWJlMTQwNDkxNmI5M2VmOGYwMWY5YjViMmNjMjFhZjA3NGQ3NDhh",
   "tracks": [
     {
       "added_at": "2023-03-01 20:27:16",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-03-01 20:27:16",
       "album": {
-        "name": "The La's",
-        "url": "https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW"
-      },
-      "artists": [
-        {
-          "name": "The La's",
-          "url": "https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT"
-        }
-      ],
-      "duration_ms": 162160,
-      "name": "There She Goes",
-      "url": "https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0"
-    },
-    {
-      "added_at": "2023-03-01 20:27:16",
-      "album": {
         "name": "Somersault",
         "url": "https://open.spotify.com/album/2d7uieZPQtrUi5AQXwdsYV"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 158474,
       "name": "Down the Line",
       "url": "https://open.spotify.com/track/05ZUxHiGT7VR6ShJjhwJxn"
+    },
+    {
+      "added_at": "2023-03-01 20:27:16",
+      "album": {
+        "name": "The La's",
+        "url": "https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW"
+      },
+      "artists": [
+        {
+          "name": "The La's",
+          "url": "https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT"
+        }
+      ],
+      "duration_ms": 162160,
+      "name": "There She Goes",
+      "url": "https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0"
     },
     {
       "added_at": "2023-03-01 20:27:16",

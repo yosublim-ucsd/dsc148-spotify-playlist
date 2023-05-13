@@ -1,12 +1,12 @@
 {
   "description": "<a>https://bit.ly/2WYLxJM </a>",
-  "num_followers": 886,
+  "num_followers": 900,
   "original_name": "THE TECHNO METHOD",
   "owner": {
     "name": "Metodi Hristov",
     "url": "https://open.spotify.com/user/metodihristov"
   },
-  "snapshot_id": "MTMyMiwyZjc3OGNhNTI3NDc1YzY4NDUyZTdlYjczNzU3ZDlkYzgzYTI3Njg4",
+  "snapshot_id": "MTMyOCxmNTMyZWYwMjljZDk5ZmMxNmY4N2MzZjdjZGYyMGFhMDAzZmNjODA3",
   "tracks": [
     {
       "added_at": "2023-05-09 13:49:03",
@@ -45,24 +45,20 @@
       "url": "https://open.spotify.com/track/4VosqOFgprZKZz3EeDOdMA"
     },
     {
-      "added_at": "2023-05-09 13:48:01",
+      "added_at": "2023-05-12 16:29:21",
       "album": {
-        "name": "Monsters",
-        "url": "https://open.spotify.com/album/4ZDcXG75hSksSLM9TacL69"
+        "name": "Storm",
+        "url": "https://open.spotify.com/album/7e5yBaNJWg4me3vPMMR1mN"
       },
       "artists": [
         {
-          "name": "Advokate",
-          "url": "https://open.spotify.com/artist/2NGXNMIoLH8NjuXAp6AssA"
-        },
-        {
-          "name": "Benefice",
-          "url": "https://open.spotify.com/artist/50YinzEDCTthYGZEJDZSus"
+          "name": "ANDATA",
+          "url": "https://open.spotify.com/artist/4EWtOuG1AiHXvrd9LtEnzQ"
         }
       ],
-      "duration_ms": 227272,
-      "name": "Monsters",
-      "url": "https://open.spotify.com/track/1AwDVCplzWNyqDV1Ss64sb"
+      "duration_ms": 216000,
+      "name": "Storm",
+      "url": "https://open.spotify.com/track/06TzfS2sYRaM2adMvJY37y"
     },
     {
       "added_at": "2023-05-09 13:49:51",
@@ -113,20 +109,24 @@
       "url": "https://open.spotify.com/track/33oY9P0s7mZO73OJVun7jK"
     },
     {
-      "added_at": "2023-05-09 13:55:24",
+      "added_at": "2023-05-09 13:48:01",
       "album": {
-        "name": "Frontier",
-        "url": "https://open.spotify.com/album/4W0Dxg2rjqyKP0VqIW2gBm"
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/4ZDcXG75hSksSLM9TacL69"
       },
       "artists": [
         {
-          "name": "Kaori Watt",
-          "url": "https://open.spotify.com/artist/4fOpYq3DgziDI0B3g0OXYM"
+          "name": "Advokate",
+          "url": "https://open.spotify.com/artist/2NGXNMIoLH8NjuXAp6AssA"
+        },
+        {
+          "name": "Benefice",
+          "url": "https://open.spotify.com/artist/50YinzEDCTthYGZEJDZSus"
         }
       ],
-      "duration_ms": 230294,
-      "name": "Frontier",
-      "url": "https://open.spotify.com/track/3pmtd2RlCyMzq0oHFvkswv"
+      "duration_ms": 227272,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/1AwDVCplzWNyqDV1Ss64sb"
     },
     {
       "added_at": "2023-05-09 13:44:19",

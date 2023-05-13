@@ -366,7 +366,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 398380,
       "name": "Anatta",
       "url": "https://open.spotify.com/track/6mBiUBEIfOhpJB9bnlQspd"
@@ -1403,6 +1403,28 @@
     },
     {
       "album": {
+        "name": "Despacio",
+        "url": "https://open.spotify.com/album/2CwoLEkj3bdmZ35UEjSo4A"
+      },
+      "artists": [
+        {
+          "name": "Charly Benavente",
+          "url": "https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP"
+        },
+        {
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201379,
+      "name": "Despacio",
+      "url": "https://open.spotify.com/track/0xH1UoQhmxinSnlF3lShFS"
+    },
+    {
+      "album": {
         "name": "despacito",
         "url": "https://open.spotify.com/album/3F8syeMNfORCQwtsn2aPpC"
       },
@@ -2328,7 +2350,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 180500,
       "name": "Florecer",
       "url": "https://open.spotify.com/track/2t9pRdwTzwgI3ZW6GKC8LO"
@@ -2578,7 +2600,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 192628,
       "name": "Hagamos Como Si Nada de Esto Hubiera Pasado (Emm Ok)",
       "url": "https://open.spotify.com/track/4M4mpwKNwRIXbxuI9fipgX"
@@ -3290,7 +3312,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 184080,
       "name": "Los chicos est\u00e1n tristes",
       "url": "https://open.spotify.com/track/7IrF5Ej7qYZrWnN5gofepC"
@@ -3334,6 +3356,24 @@
       "duration_ms": 168152,
       "name": "Magnetismo",
       "url": "https://open.spotify.com/track/6Ng7uPbsuGEXmKWvgV7x9I"
+    },
+    {
+      "album": {
+        "name": "mala idea",
+        "url": "https://open.spotify.com/album/16ye3Pgj6dZgviuOtoR60Z"
+      },
+      "artists": [
+        {
+          "name": "gabriela arcos",
+          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223236,
+      "name": "mala idea",
+      "url": "https://open.spotify.com/track/5ZSzF6bKMt057Uv4pSOHqY"
     },
     {
       "album": {
@@ -3801,7 +3841,7 @@
     },
     {
       "album": {
-        "name": "Ni\u00f1a",
+        "name": "NI\u00d1A",
         "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
       },
       "artists": [
@@ -3814,7 +3854,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 200245,
-      "name": "Ni\u00f1a",
+      "name": "NI\u00d1A",
       "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
     },
     {
@@ -4899,6 +4939,24 @@
     },
     {
       "album": {
+        "name": "Reflejo",
+        "url": "https://open.spotify.com/album/7Gb9r7PpsscJcAldi2EwAk"
+      },
+      "artists": [
+        {
+          "name": "Los Mil Jinetes",
+          "url": "https://open.spotify.com/artist/5H8rz8dQLNWvaHojkHyQMn"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294979,
+      "name": "Reflejo",
+      "url": "https://open.spotify.com/track/2kfrb4M209Ud28jurnN4gw"
+    },
+    {
+      "album": {
         "name": "REMEMBER",
         "url": "https://open.spotify.com/album/1qihx2rcmCRKx5EsL8gvX3"
       },
@@ -5226,6 +5284,24 @@
       "duration_ms": 214010,
       "name": "Sigue Avanzando",
       "url": "https://open.spotify.com/track/1HP5A6kGG0cpejOw4FqZC8"
+    },
+    {
+      "album": {
+        "name": "\u00c9pica",
+        "url": "https://open.spotify.com/album/4nqQnsYw58gEOZeMWkQ6XV"
+      },
+      "artists": [
+        {
+          "name": "Triciclo Parlante",
+          "url": "https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194756,
+      "name": "Sin Fama ni Fortuna",
+      "url": "https://open.spotify.com/track/0jL1naowZfg9x79IVmP9jf"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "S\u00fabete a la troca \u2764\ufe0f",
-  "num_followers": 33306,
+  "num_followers": 33439,
   "original_name": "La Mamalona Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWQyNGYxOTU4ZTBkMTg2NDdkYWU5MTYxMjA4Mzg1MmI3MmM5YWM2",
+  "snapshot_id": "MCxhZmI2NDU3MjNlN2QzMjNjN2JlMjkyZmYxYmIxZWFhZGQxNjZjZjRh",
   "tracks": [
     {
       "added_at": "2023-04-17 16:07:16",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-04-17 16:07:16",
       "album": {
-        "name": "Andamos En El Ruedo",
-        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 194962,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/7c36pInnsI3DzAGDQcTW99"
-    },
-    {
-      "added_at": "2023-04-17 16:07:16",
-      "album": {
         "name": "Qu\u00e9date Conmigo",
         "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 193666,
       "name": "Qu\u00e9date Conmigo",
       "url": "https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z"
+    },
+    {
+      "added_at": "2023-04-17 16:07:16",
+      "album": {
+        "name": "Andamos En El Ruedo",
+        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 194962,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/7c36pInnsI3DzAGDQcTW99"
     },
     {
       "added_at": "2023-04-17 16:07:16",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-04-17 16:07:16",
       "album": {
-        "name": "Boleros de Hoy",
-        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
+        "name": "Perfecta En Mis Ojos",
+        "url": "https://open.spotify.com/album/6kG1TQCFmtbs0V7GuqurRp"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Angel Perez",
+          "url": "https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe"
         }
       ],
-      "duration_ms": 161766,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR"
+      "duration_ms": 165745,
+      "name": "Perfecta En Mis Ojos",
+      "url": "https://open.spotify.com/track/6j6JokKNpHSiCqEX5eJf2Z"
     },
     {
       "added_at": "2023-04-17 16:07:16",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2023-04-17 16:07:16",
       "album": {
-        "name": "Perfecta En Mis Ojos",
-        "url": "https://open.spotify.com/album/6kG1TQCFmtbs0V7GuqurRp"
+        "name": "Boleros de Hoy",
+        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
       },
       "artists": [
         {
-          "name": "Angel Perez",
-          "url": "https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 165745,
-      "name": "Perfecta En Mis Ojos",
-      "url": "https://open.spotify.com/track/6j6JokKNpHSiCqEX5eJf2Z"
+      "duration_ms": 161766,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR"
     },
     {
       "added_at": "2023-04-17 16:07:16",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-04-17 16:07:16",
       "album": {
-        "name": "Y Lo Volv\u00ed a Hacer",
-        "url": "https://open.spotify.com/album/5DtewXaWzI7IDVLeM58u0V"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 175754,
-      "name": "No Puedo No Caer",
-      "url": "https://open.spotify.com/track/326RrTJoAvLxjUpRv1YFg8"
-    },
-    {
-      "added_at": "2023-04-17 16:07:16",
-      "album": {
         "name": "PDE",
         "url": "https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT"
       },
@@ -1247,18 +1231,34 @@
     {
       "added_at": "2023-04-17 16:07:16",
       "album": {
-        "name": "Jalo",
-        "url": "https://open.spotify.com/album/5ItVyjlKmm3vm9bJUBgKPc"
+        "name": "Y Lo Volv\u00ed a Hacer",
+        "url": "https://open.spotify.com/album/5DtewXaWzI7IDVLeM58u0V"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
         }
       ],
-      "duration_ms": 145277,
-      "name": "Jalo",
-      "url": "https://open.spotify.com/track/7b6XzXDscAvlxofcXveZIz"
+      "duration_ms": 175754,
+      "name": "No Puedo No Caer",
+      "url": "https://open.spotify.com/track/326RrTJoAvLxjUpRv1YFg8"
+    },
+    {
+      "added_at": "2023-04-17 16:07:16",
+      "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 185568,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/3JNUs18dkIO6sNRSdCaMKd"
     },
     {
       "added_at": "2023-04-17 16:07:16",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2023-04-17 16:07:16",
       "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
+        "name": "Jalo",
+        "url": "https://open.spotify.com/album/5ItVyjlKmm3vm9bJUBgKPc"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 185568,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/3JNUs18dkIO6sNRSdCaMKd"
+      "duration_ms": 145277,
+      "name": "Jalo",
+      "url": "https://open.spotify.com/track/7b6XzXDscAvlxofcXveZIz"
     },
     {
       "added_at": "2023-04-17 16:07:16",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2023-04-17 16:07:16",
       "album": {
-        "name": "Como No Queriendo",
-        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
+        "name": "Las Preferidas, Vol. 5 (En vivo)",
+        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
       },
       "artists": [
         {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 221626,
-      "name": "C\u00f3mo No Adorarla",
-      "url": "https://open.spotify.com/track/2VOltazP4iORb1wbbYKPY3"
+      "duration_ms": 245183,
+      "name": "Due\u00f1o De Ti - En vivo",
+      "url": "https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU"
     }
   ],
   "unique_name": "La Mamalona Rom\u00e1ntica",

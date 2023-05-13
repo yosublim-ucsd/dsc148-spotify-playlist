@@ -4,7 +4,7 @@
 
 > The best in new punk rock music\. Cover: Lambrini Girls
 
-135 songs - 6 hr 41 min
+136 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Daylight Robbery](https://open.spotify.com/track/4nlP649wAY4jW7HwfJABWT) | [Boy Bleach](https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V) | [Daylight Robbery](https://open.spotify.com/album/7KKWiPk1PbcUWrKlSkQ2CM) | 2:50 | 2023-03-20 |  |
 | [DBSAC](https://open.spotify.com/track/7GqLhyaR3Cn4w61QOP2kRX) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [DBSAC](https://open.spotify.com/album/6JVhdb3XjSmppHRDNagN1y) | 2:27 | 2023-03-27 |  |
 | [Deadzone](https://open.spotify.com/track/3wnVGG4XF8VbhdfvY8hd1F) | [Cameron Sanderson](https://open.spotify.com/artist/182llcVnhxpVBBmfSElMHX), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Deadzone](https://open.spotify.com/album/1tixQpiCa1jCbXmiEjNAM0) | 2:50 | 2022-12-02 | 2023-02-03 |
+| [Demolition Row](https://open.spotify.com/track/2bOTDi5fEHrr14bYIDUbwV) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Demolition Row](https://open.spotify.com/album/1gVt5YHXoBNEXCUzgkJDlk) | 4:18 | 2023-03-03 |  |
 | [Demolition Row](https://open.spotify.com/track/4WZqRGx9Wer0kkqxOBpYLU) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Demolition Row](https://open.spotify.com/album/14z5OMX99l2AO8ydNmIcdp) | 4:18 | 2023-03-03 | 2023-04-30 |
 | [Desire](https://open.spotify.com/track/0TMa5jD2LbTMoHMZi7yoOf) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Desire](https://open.spotify.com/album/23UvDBMl3LgUfdYdj9Wnay) | 1:55 | 2023-02-06 |  |
 | [Drunk Dial](https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted](https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge) | 2:30 | 2022-12-02 |  |
@@ -93,7 +94,7 @@
 | [Mayday](https://open.spotify.com/track/1edhPisNI08MF5QlmY7cBa) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Mayday](https://open.spotify.com/album/6heLspB3z0lhszKGKwNBfo) | 3:15 | 2022-12-02 |  |
 | [me vs me vs all of y'all](https://open.spotify.com/track/0t7VlVRdaVBqH1p1UIPcrV) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [me vs me vs all of y'all](https://open.spotify.com/album/5wJmMACyVn4r4Eb3AXqM1u) | 2:59 | 2023-01-20 | 2023-04-15 |
 | [Moto](https://open.spotify.com/track/1Zqw6aRk59n8RcgxJkHkEn) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [punkadonk](https://open.spotify.com/album/3Hg3voKbxtusae5j83FLMR) | 2:45 | 2022-12-02 | 2023-03-18 |
-| [New England](https://open.spotify.com/track/3T43iJI71ZeD7V256LNxxn) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB), [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Here's What You Could Have Won \(Deluxe\)](https://open.spotify.com/album/5keOCrzujqEiUbtsf0mDq7) | 3:38 | 2023-03-03 |  |
+| [New England](https://open.spotify.com/track/3T43iJI71ZeD7V256LNxxn) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB), [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Here's What You Could Have Won \(Deluxe\)](https://open.spotify.com/album/5keOCrzujqEiUbtsf0mDq7) | 3:38 | 2023-03-03 | 2023-05-13 |
 | [New England](https://open.spotify.com/track/5zbKXMod7hqor3gJH72enV) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB), [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Here’s What You Could Have Won](https://open.spotify.com/album/7xq7v7rW8L7QAgvw5i6Ig8) | 3:38 | 2022-12-02 | 2023-05-04 |
 | [Night Pill](https://open.spotify.com/track/4ZO9c1pWgiSQHVS5HW2Qvy) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Asha Lorenz](https://open.spotify.com/artist/6W2HXxZcdhtB9P2Njxm3aX) | [LOGGERHEAD](https://open.spotify.com/album/47XvaxAeDolqhNOnGYLxEk) | 3:40 | 2022-12-02 | 2023-01-19 |
 | [No One to Judge Me](https://open.spotify.com/track/3caRPcZ7eOYhxvgIsiVEQe) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Silver Linings \(Deluxe\)](https://open.spotify.com/album/01qHqKXqAp9103BTmj4J1A) | 2:41 | 2022-12-02 | 2023-02-05 |

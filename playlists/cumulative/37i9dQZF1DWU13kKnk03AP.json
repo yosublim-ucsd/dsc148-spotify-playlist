@@ -1776,7 +1776,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 227240,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
@@ -1944,7 +1944,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 206361,
       "name": "COMPLETE MESS",
       "url": "https://open.spotify.com/track/48kpWTPYYy5Edp3CHwrrOj"
@@ -2883,6 +2883,32 @@
     },
     {
       "album": {
+        "name": "Fool 4 U (feat. Enisa)",
+        "url": "https://open.spotify.com/album/0ClMJUgs13v8GUyc40tpqT"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Enisa",
+          "url": "https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146076,
+      "name": "Fool 4 U (feat. Enisa)",
+      "url": "https://open.spotify.com/track/41aBRoaTTz9qq8UGIlykiZ"
+    },
+    {
+      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
@@ -3216,6 +3242,24 @@
       "duration_ms": 231333,
       "name": "Grapefruit",
       "url": "https://open.spotify.com/track/35seOt4wMvu7gWzYFwqNGh"
+    },
+    {
+      "album": {
+        "name": "A R I Z O N A",
+        "url": "https://open.spotify.com/album/0aDCNIuXvrllaGsSddeXED"
+      },
+      "artists": [
+        {
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223400,
+      "name": "Graveyard",
+      "url": "https://open.spotify.com/track/2GtYzWux5LwmdOzKkYLbZG"
     },
     {
       "album": {
@@ -5901,6 +5945,28 @@
     },
     {
       "album": {
+        "name": "More Than Yesterday (feat. Russell Dickerson)",
+        "url": "https://open.spotify.com/album/4Guul13nGTNGzV05VTMwqC"
+      },
+      "artists": [
+        {
+          "name": "Two Friends",
+          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
+        },
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187661,
+      "name": "More Than Yesterday (feat. Russell Dickerson)",
+      "url": "https://open.spotify.com/track/0VNb0HzD2oxJ9zyRbv7xFH"
+    },
+    {
+      "album": {
         "name": "MOTTO",
         "url": "https://open.spotify.com/album/1zt9jr9SYbHe90e2Q6DPLE"
       },
@@ -6428,7 +6494,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 237033,
       "name": "One Life",
       "url": "https://open.spotify.com/track/6bB4AiK5tH13695FcNGjDY"
@@ -8337,7 +8403,7 @@
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 226250,
+      "duration_ms": 225946,
       "name": "The Dumb Song",
       "url": "https://open.spotify.com/track/5udkv8BEG1sAN5ZtR6CAzv"
     },

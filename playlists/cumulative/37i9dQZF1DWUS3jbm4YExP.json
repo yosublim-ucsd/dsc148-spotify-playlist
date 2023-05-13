@@ -1094,7 +1094,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-29",
+      "date_removed": null,
       "duration_ms": 288569,
       "name": "Ben Bene La",
       "url": "https://open.spotify.com/track/167NF5BT2JUVb8RqqCTDQg"
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 262388,
       "name": "Blowing Up Gates",
       "url": "https://open.spotify.com/track/4u9xudffDc3RObR7Bnkusl"
@@ -2494,7 +2494,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 235746,
       "name": "Doktor Civan\u0131m",
       "url": "https://open.spotify.com/track/6Z6LlzgLDhX8tRnmDdfue4"
@@ -3358,7 +3358,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 226568,
       "name": "Flames to Feed - Dr Rubberfunk Remix",
       "url": "https://open.spotify.com/track/2fgh5ZPeZbQ9y8b7AWC4iZ"
@@ -5310,7 +5310,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 232018,
       "name": "La Culebra",
       "url": "https://open.spotify.com/track/5amzhRZcpT9RSkGJVdnlRR"
@@ -6321,6 +6321,24 @@
     },
     {
       "album": {
+        "name": "Mi\u00e9rcoles Picante",
+        "url": "https://open.spotify.com/album/0jZaVY51WJvyIAx7tA3X3r"
+      },
+      "artists": [
+        {
+          "name": "El General Villamil",
+          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Mil Navajas",
+      "url": "https://open.spotify.com/track/25kqGABvosRP3lNla8dnT6"
+    },
+    {
+      "album": {
         "name": "Milestones (Miles Davis Tribute)",
         "url": "https://open.spotify.com/album/32XeeJZai5PbVm9RRxEWNH"
       },
@@ -6484,7 +6502,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 216053,
       "name": "Moody Cumbia",
       "url": "https://open.spotify.com/track/5FCcgvZE7pUa6qKZasTbd7"
@@ -7363,6 +7381,28 @@
     },
     {
       "album": {
+        "name": "Outta Sync (Mexican Institute of Sound Remix)",
+        "url": "https://open.spotify.com/album/2X34QVq5CpTfHTcyL03dIm"
+      },
+      "artists": [
+        {
+          "name": "Don Letts",
+          "url": "https://open.spotify.com/artist/79UXgdUqtyrIIAzgGzGkAa"
+        },
+        {
+          "name": "Mexican Institute Of Sound",
+          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190693,
+      "name": "Outta Sync - Mexican Institute of Sound Remix",
+      "url": "https://open.spotify.com/track/7rlOvbuvt5M0Wa0M8t49Sj"
+    },
+    {
+      "album": {
         "name": "Ox",
         "url": "https://open.spotify.com/album/0RuD3UDc81vLNsE71pFfUq"
       },
@@ -7994,7 +8034,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 220369,
       "name": "Roforofo Fight",
       "url": "https://open.spotify.com/track/3ICKoXCVtFE6rp4bJfgxGa"
@@ -8708,7 +8748,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-05",
+      "date_removed": null,
       "duration_ms": 151948,
       "name": "Space",
       "url": "https://open.spotify.com/track/6pnryYnhE5zBugXN1QxPBg"
@@ -8832,7 +8872,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 199000,
       "name": "Strange Salsa",
       "url": "https://open.spotify.com/track/0m2wxPnFcPOjKnoj5AmQJR"
@@ -8940,7 +8980,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 236886,
       "name": "Sun Khosi",
       "url": "https://open.spotify.com/track/0TFR4fugISTa7kMxqY6JJj"

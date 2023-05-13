@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline! ft\. Bushbaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,083 likes - 70 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,133 likes - 70 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 52 | [Monster](https://open.spotify.com/track/1UfJuFf3V0DfFigaURj3yJ) | [Jamie Duggan](https://open.spotify.com/artist/0MOlBnjY7mmwqxQpFuysB8), [Booda](https://open.spotify.com/artist/1qW7b6PBEfdvzVvZ5bAre6), [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z) | [Monster](https://open.spotify.com/album/3nX64Yz5zsL9GfAS7YJmck) | 3:20 |
 | 53 | [Acid](https://open.spotify.com/track/34GR9jBULKi91lqNSo5og7) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Acid](https://open.spotify.com/album/6OqBUNn9xm5YCEWGAjUWTg) | 3:45 |
 | 54 | [Chances](https://open.spotify.com/track/5szLalLSHItSzMOEqagjwn) | [Wittyboy](https://open.spotify.com/artist/3SgLMH12f6V9dfSW2QPgAw) | [Chances](https://open.spotify.com/album/64QsrEsgFAN6nnxonRjsYP) | 5:10 |
-| 55 | [Signal](https://open.spotify.com/track/2pdswR1p29SsJNP6Zl7d05) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Signal / Have You Over](https://open.spotify.com/album/1i685TMCvqmUHQc9ZcGqf4) | 4:13 |
-| 56 | [All My Love](https://open.spotify.com/track/1v0pYeyqnuqVXfwvT4VodR) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Reigns](https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG) | [All My Love](https://open.spotify.com/album/1aNYbx5BHK36hFD5bbXW98) | 2:49 |
+| 55 | [All My Love](https://open.spotify.com/track/1v0pYeyqnuqVXfwvT4VodR) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Reigns](https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG) | [All My Love](https://open.spotify.com/album/1aNYbx5BHK36hFD5bbXW98) | 2:49 |
+| 56 | [Signal](https://open.spotify.com/track/2pdswR1p29SsJNP6Zl7d05) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Signal / Have You Over](https://open.spotify.com/album/1i685TMCvqmUHQc9ZcGqf4) | 4:13 |
 | 57 | [Far](https://open.spotify.com/track/0bVqiSfH3YnFnRPNHgAMuR) | [Cooky](https://open.spotify.com/artist/1gIG3PQXZfplVilbDBdzap) | [Far](https://open.spotify.com/album/3zoa4ZVBL7McPiAI3EAUjQ) | 4:10 |
 | 58 | [Don't Let Me Down](https://open.spotify.com/track/4dGspblo1g4D5yyYrwBri1) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY), [Prima](https://open.spotify.com/artist/48mKSP3Udy0jlAXG7uv3lX) | [Don't Let Me Down](https://open.spotify.com/album/2mkvOo2qTskjUU8TLmvgxl) | 3:28 |
 | 59 | [Never](https://open.spotify.com/track/43NLj97L6PQUQ05HyZJmQZ) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry), [Aleya Mae](https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb) | [Never](https://open.spotify.com/album/7u24MlEFH8OrFG3RI0pMr5) | 3:26 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 69 | [Hold Me Close](https://open.spotify.com/track/5UM597AY45L1gpRsLdslRu) | [Jacko](https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia) | [Hold Me Close](https://open.spotify.com/album/6kdTGKNxuMUgQ50WhIdVpg) | 3:52 |
 | 70 | [Hot Flush](https://open.spotify.com/track/3Pwcb7LvFeCexk1QzZo225) | [My Nu Leng](https://open.spotify.com/artist/2rChxbkkh2U5ZrPuShKmTZ), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH) | [Hot Flush](https://open.spotify.com/album/4lKHOh8edLTDSrPgPQ5QDn) | 5:17 |
 
-Snapshot ID: `MCw5OWRiNzZjZjRmMTg0ZTZjMjk2M2NkMmQ4MzJiMjBmMTNkZWNlNWE5`
+Snapshot ID: `MCw5ZDVjODIwOTVmMjNhNzg5NTg5NGFkNjAyZmE4ODdiMjljNzBmODA1`

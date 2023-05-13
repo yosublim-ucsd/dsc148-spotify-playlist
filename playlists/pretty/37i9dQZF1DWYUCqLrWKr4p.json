@@ -1,12 +1,12 @@
 {
   "description": "Unforgettable love songs from the 1960s.",
-  "num_followers": 156494,
+  "num_followers": 156692,
   "original_name": "60s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYThkMmFiY2JhZTIxMmQzNDYyOTJkMjUwNTA0N2EwZDM5YTc5MGVk",
+  "snapshot_id": "MCxkMzE5NGNmOGMyNmY2MGM2YzI1MjFmMjgwNTZmNzc2OGZhZWZmOWI0",
   "tracks": [
     {
       "added_at": "2022-05-30 13:02:24",
@@ -491,6 +491,22 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
+        "name": "Mr. Soul",
+        "url": "https://open.spotify.com/album/1rEYwOdpVc2W39d0uxf0va"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 158680,
+      "name": "Nothing Can Change This Love",
+      "url": "https://open.spotify.com/track/6e6Kxot9nHyZ4I8GgmGKII"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
         "name": "Take Two",
         "url": "https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK"
       },
@@ -531,22 +547,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Mr. Soul",
-        "url": "https://open.spotify.com/album/1rEYwOdpVc2W39d0uxf0va"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 158680,
-      "name": "Nothing Can Change This Love",
-      "url": "https://open.spotify.com/track/6e6Kxot9nHyZ4I8GgmGKII"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "Horizontal (Deluxe Version)",
         "url": "https://open.spotify.com/album/2oeuTgRudy4dVoFa15gf05"
       },
@@ -575,26 +575,6 @@
       "duration_ms": 163680,
       "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
       "url": "https://open.spotify.com/track/3aSWQJcWnnqgwYbAgidvlV"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "You're All I Need",
-        "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Tammi Terrell",
-          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "You're All I Need To Get By",
-      "url": "https://open.spotify.com/track/6Ndauo9gCxNjTfklsFYS7b"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -631,22 +611,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "The Beat Goes On: Best Of",
-        "url": "https://open.spotify.com/album/5QzkzMcvCJSk30pQS2mqia"
-      },
-      "artists": [
-        {
-          "name": "Sonny & Cher",
-          "url": "https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO"
-        }
-      ],
-      "duration_ms": 193840,
-      "name": "I Got You Babe",
-      "url": "https://open.spotify.com/track/2SWBfqj1FrS8t8z56G55rP"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "The Chiffons Absolutely The Best!",
         "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
       },
@@ -659,6 +623,42 @@
       "duration_ms": 112520,
       "name": "He's So Fine - Remastered 2000",
       "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "You're All I Need",
+        "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Tammi Terrell",
+          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "You're All I Need To Get By",
+      "url": "https://open.spotify.com/track/6Ndauo9gCxNjTfklsFYS7b"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "The Beat Goes On: Best Of",
+        "url": "https://open.spotify.com/album/5QzkzMcvCJSk30pQS2mqia"
+      },
+      "artists": [
+        {
+          "name": "Sonny & Cher",
+          "url": "https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO"
+        }
+      ],
+      "duration_ms": 193840,
+      "name": "I Got You Babe",
+      "url": "https://open.spotify.com/track/2SWBfqj1FrS8t8z56G55rP"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
+        "name": "The Good Life With the Drifters",
+        "url": "https://open.spotify.com/album/1lvcXSmZa8rTR5M03tihq5"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 153626,
+      "name": "Saturday Night at the Movies",
+      "url": "https://open.spotify.com/track/0jrdWPwYjUZvqfJcwE8ddh"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
         "name": "Erma Franklin: Piece Of Her Heart - The Epic And Shout Years",
         "url": "https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW"
       },
@@ -711,22 +727,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "How Sweet It Is To Be Loved By You",
-        "url": "https://open.spotify.com/album/1kYeM6oy6I8tK7668jM7Hw"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 177773,
-      "name": "How Sweet It Is (To Be Loved By You)",
-      "url": "https://open.spotify.com/track/2zF8ro2hX0aEYaqXQdEKW1"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "Latin Ala Lee",
         "url": "https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK"
       },
@@ -739,22 +739,6 @@
       "duration_ms": 151973,
       "name": "Till There Was You - Remastered",
       "url": "https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "The Good Life With the Drifters",
-        "url": "https://open.spotify.com/album/1lvcXSmZa8rTR5M03tihq5"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 153626,
-      "name": "Saturday Night at the Movies",
-      "url": "https://open.spotify.com/track/0jrdWPwYjUZvqfJcwE8ddh"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -807,6 +791,22 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
+        "name": "How Sweet It Is To Be Loved By You",
+        "url": "https://open.spotify.com/album/1kYeM6oy6I8tK7668jM7Hw"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 177773,
+      "name": "How Sweet It Is (To Be Loved By You)",
+      "url": "https://open.spotify.com/track/2zF8ro2hX0aEYaqXQdEKW1"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
         "name": "My Cherie",
         "url": "https://open.spotify.com/album/4XdE4rX22hiMBUgRoMxlv0"
       },
@@ -819,22 +819,6 @@
       "duration_ms": 166906,
       "name": "Spanish Eyes",
       "url": "https://open.spotify.com/track/55Z0KHofKqhOMIOygAVXxm"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "All-Time Greatest Hits & More 1959-1965",
-        "url": "https://open.spotify.com/album/4Pazwl8nUfQj49K6xyADQ7"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 151560,
-      "name": "This Magic Moment",
-      "url": "https://open.spotify.com/track/4vBDAxKllafwCMDWD76atv"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -855,6 +839,22 @@
       "duration_ms": 183866,
       "name": "You Belong To Me",
       "url": "https://open.spotify.com/track/2STy18bfCVP8v6aOu2CliZ"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "All-Time Greatest Hits & More 1959-1965",
+        "url": "https://open.spotify.com/album/4Pazwl8nUfQj49K6xyADQ7"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 151560,
+      "name": "This Magic Moment",
+      "url": "https://open.spotify.com/track/4vBDAxKllafwCMDWD76atv"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -891,6 +891,26 @@
       "duration_ms": 182573,
       "name": "Mad About The Boy",
       "url": "https://open.spotify.com/track/1c7ELD4W6VyoKTglc4zzUH"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "Diana Ross & The Supremes Join The Temptations",
+        "url": "https://open.spotify.com/album/7tZt4EApjs2MSzt0OJ1vaT"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross & The Supremes",
+          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
+        },
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "I'm Gonna Make You Love Me",
+      "url": "https://open.spotify.com/track/3Rhxe6P1im82NFVkt9X2qZ"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -943,26 +963,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Diana Ross & The Supremes Join The Temptations",
-        "url": "https://open.spotify.com/album/7tZt4EApjs2MSzt0OJ1vaT"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross & The Supremes",
-          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
-        },
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "I'm Gonna Make You Love Me",
-      "url": "https://open.spotify.com/track/3Rhxe6P1im82NFVkt9X2qZ"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "Johnny Tillotson's Best",
         "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
       },
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "The Sound Of Love: The Very Best Of Darlene Love",
-        "url": "https://open.spotify.com/album/2KMh9uqFrGblh1Ui23yoXU"
-      },
-      "artists": [
-        {
-          "name": "Darlene Love",
-          "url": "https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu"
-        }
-      ],
-      "duration_ms": 166053,
-      "name": "(Today I Met) The Boy I'm Gonna Marry",
-      "url": "https://open.spotify.com/track/2Px4PrbPBMeWB1silbjI5H"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "Presenting Rosie & the Originals",
         "url": "https://open.spotify.com/album/76X16nVTLk9S8FrLrAP8ff"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 227600,
       "name": "Angel Baby",
       "url": "https://open.spotify.com/track/1HzfcOcxJeGmxgf5a6MK0W"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "The Sound Of Love: The Very Best Of Darlene Love",
+        "url": "https://open.spotify.com/album/2KMh9uqFrGblh1Ui23yoXU"
+      },
+      "artists": [
+        {
+          "name": "Darlene Love",
+          "url": "https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu"
+        }
+      ],
+      "duration_ms": 166053,
+      "name": "(Today I Met) The Boy I'm Gonna Marry",
+      "url": "https://open.spotify.com/track/2Px4PrbPBMeWB1silbjI5H"
     },
     {
       "added_at": "2022-05-30 13:02:24",

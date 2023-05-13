@@ -2,9 +2,9 @@
 
 ### [FRONTEO](https://open.spotify.com/playlist/37i9dQZF1DX6jW9mPgBGv2)
 
-> El rango más alto\. Ellos lo tienen y lo saben\. Eladio "3MEN2 KBRN" Carrión plantando cara.
+> El rango más alto\. Ellos lo tienen y lo saben\. Don Omar y Coscullela plantando cara.
 
-80 songs - 5 hr 7 min
+82 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Arcángel: Bzrp Music Sessions, Vol\. 54](https://open.spotify.com/track/7cQ0LAxT5HHCLGbxcjaxac) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Arcángel: Bzrp Music Sessions, Vol\. 54](https://open.spotify.com/album/3Bj4v1YmWsctoEsSkEPg63) | 3:43 | 2023-03-23 |  |
 | [Baby Father 2.0 \(feat\. Myke Towers, Arcángel, Ñengo Flow and Yeruza\)](https://open.spotify.com/track/3gnyHrHJ4J0QUFnMllQv1F) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Yeruza](https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb) | [Baby Father 2.0 \(feat\. Myke Towers, Arcángel, Ñengo Flow and Yeruza\)](https://open.spotify.com/album/00Ushoa7kBvcYZeqZFKCr8) | 6:45 | 2023-03-31 |  |
 | [Ballin](https://open.spotify.com/track/0baxKexRrQMY0rQtrgPY9I) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Shootter Ledo](https://open.spotify.com/artist/2e5kXDvESsDPMyuQZ0qouH) | [Ballin](https://open.spotify.com/album/1Ls8KSuaiwbo3dCFJJcrb7) | 3:30 | 2021-12-01 |  |
+| [Bandidos](https://open.spotify.com/track/1KEihgohVX0H1R1C6wjYly) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Bandidos](https://open.spotify.com/album/1ZWbLN7FGdhNwla71leFnt) | 3:44 | 2023-05-12 |  |
 | [Billetes Azules \(with J Balvin\)](https://open.spotify.com/track/7HmnJHfs0BkFzX4x8j0hkl) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Billetes Azules \(with J Balvin\)](https://open.spotify.com/album/0FIqCHhKHDqHd35AvRm8gp) | 3:09 | 2021-12-01 | 2022-03-27 |
 | [Bobby](https://open.spotify.com/track/39szbBeiqQtomPnozReEg9) | [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [3O](https://open.spotify.com/album/1pg2wYeS9f748uM2fgZBMh) | 3:16 | 2022-07-28 |  |
 | [Bobby](https://open.spotify.com/track/3xbl4UEJ28HP7ivHhcm44w) | [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [Bobby](https://open.spotify.com/album/1zxwvuzQYGoDG42nTboexS) | 3:16 | 2021-12-01 | 2023-03-16 |
@@ -47,6 +48,7 @@
 | [Kobe En LA](https://open.spotify.com/track/4bmMAGg2sb9IWUgB0wTVov) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Kobe En LA](https://open.spotify.com/album/31op15nAweoWywt7aBkY4z) | 3:45 | 2021-12-01 | 2022-12-09 |
 | [Kobe En LA](https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Kobe En LA](https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN) | 3:45 | 2022-07-28 |  |
 | [Kobe En LA 2.0](https://open.spotify.com/track/7pWBRneiso1n8vdpn6mp8V) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 6:31 | 2022-04-25 |  |
+| [La Jhayco](https://open.spotify.com/track/011ox5s7df1BY6kcqxKZVE) | [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [T.O.T](https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw) | [La Jhayco](https://open.spotify.com/album/2vBmjKsJ6mMmDhcTJmGaby) | 2:31 | 2023-05-12 |  |
 | [La Maria](https://open.spotify.com/track/1tu5h5BU2WWrGH407kU0pe) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Los Dioses](https://open.spotify.com/album/28adqly9V7wm5DFr7hlqtK) | 3:14 | 2021-12-01 |  |
 | [Las 3 Torres](https://open.spotify.com/track/01nnJYsbiVmikEm1VP0rVi) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Las 3 Torres](https://open.spotify.com/album/2JC96lAWIMYId0no3JwmxI) | 4:01 | 2021-12-01 |  |
 | [Leyenda](https://open.spotify.com/track/0eNe9tTxrXzyoX3DSeJEDN) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Leyenda](https://open.spotify.com/album/00Ts4S6rOgvh41hUjrrA4T) | 3:40 | 2021-12-01 | 2022-02-15 |

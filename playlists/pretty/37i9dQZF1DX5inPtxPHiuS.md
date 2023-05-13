@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Diamante Eléctrico
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,056 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,072 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 59 | [Lejos De Aqui](https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Grandes Exitos](https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW) | 2:59 |
 | 60 | [Soledad Criminal](https://open.spotify.com/track/78JWLDL4fLdGNHT26IaEPS) | [1280 Almas](https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM) | [Aquí Vamos Otra Vez](https://open.spotify.com/album/5M58twn7mZ9tDQstqmH6nD) | 3:09 |
 
-Snapshot ID: `MCw4N2JlNGFkMDFkMjdiMTVkYTAxMzQxZTk5NThlMTAwM2QyNTVhMTA2`
+Snapshot ID: `MCxhYzhlY2MzNjNmYThmM2RkOGQwYjk3YjdkNzI3MWViNGM4MzY3ZWE1`

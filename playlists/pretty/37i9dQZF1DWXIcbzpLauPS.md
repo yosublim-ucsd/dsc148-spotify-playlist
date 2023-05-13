@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: Spiritbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,151 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,298 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 44 | [BLACK\_WAVE](https://open.spotify.com/track/3s3czPHKW5TXmZoeUB9yu7) | [Moodring](https://open.spotify.com/artist/75gi4UlMiDGTClCgtZVpH0) | [BLACK\_WAVE](https://open.spotify.com/album/5kGa3VEUVZLdtiQuwc73FI) | 3:06 |
 | 45 | [Drag Me Under](https://open.spotify.com/track/2CwBf7BQoztOsPNUszOOv8) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf) | [Drag Me Under](https://open.spotify.com/album/05KgX2I0e6LKvBWlUmRW0H) | 3:45 |
 | 46 | [Feast Is Over](https://open.spotify.com/track/1ajCWFb64q72MfXMftyNlV) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Feast Is Over](https://open.spotify.com/album/5iTnzg9NyoAOmkAdSDv9ox) | 3:12 |
-| 47 | [Ultraviolet](https://open.spotify.com/track/0gukK40IEqCb6arYVQxMtl) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Ultraviolet](https://open.spotify.com/album/1gQRMfDzWuQ4J2BCjuvWAS) | 3:52 |
+| 47 | [Ultraviolet](https://open.spotify.com/track/4mB4OnvJp7Grfw5U8AQMz9) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Ultraviolet](https://open.spotify.com/album/3shvTPBaqgggoWWKIZXC94) | 3:52 |
 | 48 | [Hell Is Where The Heart Is](https://open.spotify.com/track/4jZFmBhYpwwiWjuEYmlEYq) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [Hell Is Where The Heart Is, Pt\. III: Clarity](https://open.spotify.com/album/7lt5GA2p1R951h7cg6IycG) | 3:53 |
 | 49 | [ANTAGONIST RETURNS](https://open.spotify.com/track/2tCwpWtQsAFGafn1tZCcfm) | [The Worst of Us](https://open.spotify.com/artist/42VxcSRld3QR7Rmv7m97RW), [ALEX](https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO), [TOKYO ROSE](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N), [THE AKUMA](https://open.spotify.com/artist/20kxwZ3KtZExRwq4s9IXZW) | [ANTAGONIST RETURNS](https://open.spotify.com/album/1Y1gza8GXGUTuwYgZK0EWb) | 3:37 |
 | 50 | [Hivemind](https://open.spotify.com/track/7lRciDLcZY0MKaMyakkvu0) | [Acacia Ridge](https://open.spotify.com/artist/6koaWXkOOBCzZDCd9GaHsj) | [Hivemind](https://open.spotify.com/album/22ZNSrE7hmUqmoXtR4uhIl) | 4:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 74 | [Thick As Blood](https://open.spotify.com/track/1ALVr49q6IjFtzMajHvaU9) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [The Price Of Dreaming](https://open.spotify.com/album/7y1KzLYE9ws4vN3vP6OZh4) | 4:40 |
 | 75 | [Circles](https://open.spotify.com/track/0JIEEyj0EsqTZORin5bxnM) | [Dark Divine](https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX) | [Circles](https://open.spotify.com/album/48yuoZ91DAKQGAvfPwNYF0) | 3:02 |
 
-Snapshot ID: `MCwxNTBjYzQwNzk5Yzk2OWY5NTVkYzgxYWMwMmQ4MTUwNTI2OTZlYjcy`
+Snapshot ID: `MCxkNTI5ZDUwNGJjNDVlNTc2MDJlYWY2MmNjOGYyOTlkYzliODc5NTIx`

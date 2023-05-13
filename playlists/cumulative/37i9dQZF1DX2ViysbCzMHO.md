@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-229 songs - 12 hr 31 min
+230 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Joy Of My Life](https://open.spotify.com/track/4EuaDcxHmHKS6gZ5iuGba0) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 4:34 | 2021-12-17 |  |
 | [Just About Over You \- Acoustic Version](https://open.spotify.com/track/51SIaNorTKeEpmtFBC948L) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Just About Over You \(Acoustic Version\)](https://open.spotify.com/album/3qBrKZAfQcktj3NBWRSpjb) | 3:08 | 2021-12-17 |  |
 | [Landslide \- Live from Nashville](https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:17 | 2022-07-08 |  |
-| [Last Cigarette \- Acoustic](https://open.spotify.com/track/66JmsVeMHIR10x5fYDxlU6) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Acoustic Sessions EP](https://open.spotify.com/album/7cxAEhLYy8mfuFbRVc7kFH) | 2:50 | 2022-08-12 |  |
+| [Last Cigarette \- Acoustic](https://open.spotify.com/track/66JmsVeMHIR10x5fYDxlU6) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Acoustic Sessions EP](https://open.spotify.com/album/7cxAEhLYy8mfuFbRVc7kFH) | 2:50 | 2022-08-12 | 2023-05-13 |
 | [Leave Me Again](https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:58 | 2023-02-17 |  |
 | [Led Myself On \- Acoustic](https://open.spotify.com/track/4ks5IPN4v73N5eib9JRk4N) | [Liddy Clark](https://open.spotify.com/artist/5TFWfcZSH39BwHbxpsn1UJ) | [Led Myself On \(Acoustic\)](https://open.spotify.com/album/4sZn99yH1cxhm9a76aO6C9) | 2:58 | 2021-12-17 | 2022-04-16 |
 | [Lessons \(Acoustic\)](https://open.spotify.com/track/45dRlmdb1eb9shNH6VOvyw) | [Tommy Karlas](https://open.spotify.com/artist/7t5t9O35bE8qMnUAybSzbY) | [Put It in Drive](https://open.spotify.com/album/1QVygeRrG4uHm6RnglN9kB) | 3:11 | 2021-12-17 | 2022-12-16 |
@@ -236,6 +236,7 @@
 | [You \- Acoustic](https://open.spotify.com/track/5vMYHzU676heeOTgLhssKJ) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [You \(Acoustic\)](https://open.spotify.com/album/3irBIIu1tZxxRjIrb4G3n6) | 3:23 | 2022-08-12 |  |
 | [You and Jesus \- Acoustic](https://open.spotify.com/track/2dphPYc5468yOxlGZnf2VC) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg), [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [You and Jesus \(Acoustic\)](https://open.spotify.com/album/7LpFZjTCMspClEBy3J5vWO) | 2:46 | 2022-05-27 | 2022-07-15 |
 | [You Didn’t \- Acoustic](https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Acoustic These Days](https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0) | 4:14 | 2021-12-17 |  |
+| [You Don’t Want That Smoke](https://open.spotify.com/track/5uPQjirx9C6MS47V556x46) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:20 | 2023-05-12 |  |
 | [You Shouldn't Have \- Acoustic](https://open.spotify.com/track/5yeccia0PoUhrNwbL6s4uO) | [Cale Dodds](https://open.spotify.com/artist/4PRfc0tn0HR0GhzWHHckLt) | [You Shouldn't Have \(Acoustic\)](https://open.spotify.com/album/53R4FtEIlu4fGpVI9GtI0r) | 2:46 | 2021-12-17 | 2022-07-10 |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

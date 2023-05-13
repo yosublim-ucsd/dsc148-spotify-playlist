@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 18892,
+  "num_followers": 18936,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzYxYmY5YzRmZWE5ZTkwYjczNGVjNjdiNjEwNzA1OTAwZjk4OWZm",
+  "snapshot_id": "MCw1YTNmMmQwYTkzMjUyNjJiNzdhMjg3ZTdiM2ZiNzliMjMzNmRjMjRh",
   "tracks": [
     {
       "added_at": "2023-03-17 00:52:56",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Persona Ideal",
-        "url": "https://open.spotify.com/album/3YuzaY1bX9uhlhWR0f19mP"
-      },
-      "artists": [
-        {
-          "name": "Adolescent's Orquesta",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
-        }
-      ],
-      "duration_ms": 279849,
-      "name": "Persona Ideal - Me Tengo Que Ir",
-      "url": "https://open.spotify.com/track/4UHRMwbbiZ7tkeEkhyN7iB"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Show",
         "url": "https://open.spotify.com/album/5J4RvXfRjXXSsFEfyPhr0E"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 302253,
       "name": "T\u00fa Con \u00c9l",
       "url": "https://open.spotify.com/track/7DcJXd2xxVcohwehWahFJJ"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Persona Ideal",
+        "url": "https://open.spotify.com/album/3YuzaY1bX9uhlhWR0f19mP"
+      },
+      "artists": [
+        {
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+        }
+      ],
+      "duration_ms": 279849,
+      "name": "Persona Ideal - Me Tengo Que Ir",
+      "url": "https://open.spotify.com/track/4UHRMwbbiZ7tkeEkhyN7iB"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "La Historia... Los \u00c9xitos",
-        "url": "https://open.spotify.com/album/5hVmKtEt52RcmAk6LYB2vJ"
-      },
-      "artists": [
-        {
-          "name": "Adolescent's Orquesta",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
-        }
-      ],
-      "duration_ms": 273763,
-      "name": "Virgen",
-      "url": "https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Acarey Ya Lleg\u00f3",
         "url": "https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 300773,
       "name": "Eres Mi Sue\u00f1o",
       "url": "https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "La Historia... Los \u00c9xitos",
+        "url": "https://open.spotify.com/album/5hVmKtEt52RcmAk6LYB2vJ"
+      },
+      "artists": [
+        {
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+        }
+      ],
+      "duration_ms": 273763,
+      "name": "Virgen",
+      "url": "https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "15 Grandes",
-        "url": "https://open.spotify.com/album/5IFN7h62KHYzNaI5BBIpHj"
-      },
-      "artists": [
-        {
-          "name": "Diablos Locos",
-          "url": "https://open.spotify.com/artist/4VB5hjhR9zb2ZdkShUBGvY"
-        }
-      ],
-      "duration_ms": 308837,
-      "name": "Si No La Tengo",
-      "url": "https://open.spotify.com/track/5BSYu3CEg0L9sDBNXOwKTk"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Reclamando Nuestro Espacio",
         "url": "https://open.spotify.com/album/22oTpQbBrBfkrqMsumH3OX"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 248555,
       "name": "Anhelo",
       "url": "https://open.spotify.com/track/68runhwF0SdEN1DFSadXWk"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "15 Grandes",
+        "url": "https://open.spotify.com/album/5IFN7h62KHYzNaI5BBIpHj"
+      },
+      "artists": [
+        {
+          "name": "Diablos Locos",
+          "url": "https://open.spotify.com/artist/4VB5hjhR9zb2ZdkShUBGvY"
+        }
+      ],
+      "duration_ms": 308837,
+      "name": "Si No La Tengo",
+      "url": "https://open.spotify.com/track/5BSYu3CEg0L9sDBNXOwKTk"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "El Sonero Quel El Pueblo Prefiere",
-        "url": "https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G"
-      },
-      "artists": [
-        {
-          "name": "Raulin Rosendo",
-          "url": "https://open.spotify.com/artist/4pYTSh5LpqCVVSejQ4v6AF"
-        }
-      ],
-      "duration_ms": 300106,
-      "name": "Lady Laura",
-      "url": "https://open.spotify.com/track/2kzquEERgcPf5uO55ARVRR"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
         "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 252826,
       "name": "Sobredosis",
       "url": "https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "El Sonero Quel El Pueblo Prefiere",
+        "url": "https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G"
+      },
+      "artists": [
+        {
+          "name": "Raulin Rosendo",
+          "url": "https://open.spotify.com/artist/4pYTSh5LpqCVVSejQ4v6AF"
+        }
+      ],
+      "duration_ms": 300106,
+      "name": "Lady Laura",
+      "url": "https://open.spotify.com/track/2kzquEERgcPf5uO55ARVRR"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "The Latin World Of Tito Puente",
-        "url": "https://open.spotify.com/album/4jDlifFGsIq4Am1bSbCXVH"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 190416,
-      "name": "Ran Kan Kan",
-      "url": "https://open.spotify.com/track/3FCN9xduajof2MGIJbWdGe"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/6tiLc1GWbqY9MScyrQGeI9"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 338781,
       "name": "Pirata",
       "url": "https://open.spotify.com/track/25yBFDuKXnpPdlBSYZPZvF"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "The Latin World Of Tito Puente",
+        "url": "https://open.spotify.com/album/4jDlifFGsIq4Am1bSbCXVH"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 190416,
+      "name": "Ran Kan Kan",
+      "url": "https://open.spotify.com/track/3FCN9xduajof2MGIJbWdGe"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
+        "name": "Hoy y Ayer",
+        "url": "https://open.spotify.com/album/1Gg0LMPxbrR8SCXtAMveyG"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 168986,
+      "name": "Mambo Gozon",
+      "url": "https://open.spotify.com/track/0hk1gSyn3wKgdxqF6qaKUZ"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
         "name": "CON PERMISO DE MIS MAYORES",
         "url": "https://open.spotify.com/album/1rOnROZrwtjRlBNfU55BSm"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 245434,
       "name": "Ran Kan Kan",
       "url": "https://open.spotify.com/track/1igx29PgdkqLO2JMxW17Je"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
-        "name": "Hoy y Ayer",
-        "url": "https://open.spotify.com/album/1Gg0LMPxbrR8SCXtAMveyG"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 168986,
-      "name": "Mambo Gozon",
-      "url": "https://open.spotify.com/track/0hk1gSyn3wKgdxqF6qaKUZ"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Sorpresa La Flauta",
-        "url": "https://open.spotify.com/album/54Isd9McgLu4F3BuV06MZJ"
-      },
-      "artists": [
-        {
-          "name": "Andy Harlow",
-          "url": "https://open.spotify.com/artist/0OLtqzqTcmE2LTN8t5CacG"
-        }
-      ],
-      "duration_ms": 196640,
-      "name": "La Loter\u00eda",
-      "url": "https://open.spotify.com/track/1i8gsWMG0WxYoPMw498quW"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Lo Que Pas\u00f3... La Historia Del Pr\u00edncipe De La Salsa",
         "url": "https://open.spotify.com/album/3fH9W32gXxYgka8q6SAtOW"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 283013,
       "name": "Mi Mundo",
       "url": "https://open.spotify.com/track/6dvRYk3hch6cxh81jhKwFD"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Sorpresa La Flauta",
+        "url": "https://open.spotify.com/album/54Isd9McgLu4F3BuV06MZJ"
+      },
+      "artists": [
+        {
+          "name": "Andy Harlow",
+          "url": "https://open.spotify.com/artist/0OLtqzqTcmE2LTN8t5CacG"
+        }
+      ],
+      "duration_ms": 196640,
+      "name": "La Loter\u00eda",
+      "url": "https://open.spotify.com/track/1i8gsWMG0WxYoPMw498quW"
     },
     {
       "added_at": "2023-03-17 00:52:56",

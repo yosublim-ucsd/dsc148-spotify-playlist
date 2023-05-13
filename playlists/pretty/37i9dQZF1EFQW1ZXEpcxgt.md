@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6S5xTXudxisQUeWkyU4H74">Alex Eskeerdo Izquierdo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306 likes - 108 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 307 likes - 108 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 32 | [Dancer](https://open.spotify.com/track/62McdrVJELUVywVeDk59r0) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Dancer](https://open.spotify.com/album/4AgennmKnwGzpY8usQKM4J) | 3:02 |
 | 33 | [Dirty Work](https://open.spotify.com/track/49brugMHYob4zfpKhHDhR9) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z) | [Dirty Work](https://open.spotify.com/album/6jSAT6lkW1CoUBA6ifHSIM) | 3:07 |
 | 34 | [No Love Allowed](https://open.spotify.com/track/2fv47VVvysXZPpT7xsdg7b) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 4:09 |
-| 35 | [Best 4 U](https://open.spotify.com/track/1aufVYjIKcrXfEv2rYlzrZ) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/4TzpYBYJA7Jz0k6WYRbnCe) | 3:59 |
-| 36 | [Everywhere](https://open.spotify.com/track/2NRpuYVJPYhxC8xyutxkoL) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 2:48 |
+| 35 | [Everywhere](https://open.spotify.com/track/2NRpuYVJPYhxC8xyutxkoL) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 2:48 |
+| 36 | [Best 4 U](https://open.spotify.com/track/1aufVYjIKcrXfEv2rYlzrZ) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/4TzpYBYJA7Jz0k6WYRbnCe) | 3:59 |
 | 37 | [Poppin Bottles](https://open.spotify.com/track/2pwPtne9zCNTsyYZDLHxDf) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [No Mercy](https://open.spotify.com/album/6LGR2plk2Yk4A33CAktJN3) | 5:20 |
 | 38 | [Powerful \(feat\. Jussie Smollett & Alicia Keys\)](https://open.spotify.com/track/0VcRFRoWqQfXDjFNO6LBJO) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Jussie Smollett](https://open.spotify.com/artist/120Hnh6hOWiIpfL4WDo7nm), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Empire: The Complete Season 2](https://open.spotify.com/album/28L0OF7HJKdFUP5VZgdiz5) | 4:00 |
 | 39 | [Cross Your Mind](https://open.spotify.com/track/7B0jvve829GGdU5kFttQTY) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:48 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 73 | [Dollar Wine](https://open.spotify.com/track/7m9QpC8iqp4GrQ6Ag0BICY) | [Colin Lucas](https://open.spotify.com/artist/30e4w7lTeWNqIvmAOxAhig) | [Soca 101 Vol\. 1](https://open.spotify.com/album/7FEdke9MotkOuK81ZN6VTa) | 5:47 |
 | 74 | [Naked \(feat\. Big Sean\)](https://open.spotify.com/track/6NNWpqisP8aFWSO377cAks) | [Kevin McCall](https://open.spotify.com/artist/2teIxF2qgr0rYmTTMKiZ7s), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Naked \(feat\. Big Sean\)](https://open.spotify.com/album/0jMahV23gJ1MZErE9ZzvGk) | 4:21 |
 | 75 | [Hustle Harder](https://open.spotify.com/track/2SS3wA4pk7jutREHgojJcb) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [Nobody's Smiling \(Deluxe\)](https://open.spotify.com/album/0ymZEUngBCetAJcJaqO63b) | 3:58 |
-| 76 | [BITTA](https://open.spotify.com/track/5FZ1HZ9ke8CVbim5fVTXsm) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [BITTA](https://open.spotify.com/album/5sVuH0zhKKgPz21oKaCOeY) | 3:13 |
-| 77 | [My Guy](https://open.spotify.com/track/2oQhNpylkd2vtbXGr6IBWa) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP) | 3:20 |
+| 76 | [My Guy](https://open.spotify.com/track/2oQhNpylkd2vtbXGr6IBWa) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP) | 3:20 |
+| 77 | [BITTA](https://open.spotify.com/track/5FZ1HZ9ke8CVbim5fVTXsm) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [BITTA](https://open.spotify.com/album/5sVuH0zhKKgPz21oKaCOeY) | 3:13 |
 | 78 | [No Chance](https://open.spotify.com/track/0pZ2vkhWBEWWOwuAB8OlgE) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [No Chance](https://open.spotify.com/album/3zY5iu6GBWO927JdIu8OQT) | 3:40 |
 | 79 | [Weekend Behavior](https://open.spotify.com/track/6Ds1x8qOzlq3tBH12W7WPi) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Cuban Jesus](https://open.spotify.com/album/5qK4ZzsOUh7d0zD42r01ao) | 3:39 |
 | 80 | [We're Not Friends](https://open.spotify.com/track/4v9L9xPXgoZnYoI204IBrE) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Better With You](https://open.spotify.com/album/5B6tCFDLdMHbd1P3p8ApL5) | 2:50 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 107 | [Nothing In Common](https://open.spotify.com/track/4FPt0UqiphP1eiDCX9pxGO) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:48 |
 | 108 | [Outro](https://open.spotify.com/track/0cM6hV1yTWwaG7KaELa4wg) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 0:57 |
 
-Snapshot ID: `MjgwNjQyMjQsMDAwMDAwMDBmMjBhZDJlNmQzNmMwNmQ0NGI2MWFjMTVmZmQwNThmZg==`
+Snapshot ID: `MjgwNjU2NjQsMDAwMDAwMDA2ZGMzOGY2NzNkOWZkMTU4OTI0ODM1MTJmMTU1MzU0Mw==`

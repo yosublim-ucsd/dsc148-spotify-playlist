@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 55712,
+  "num_followers": 55727,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTBkMzZlZmIyM2FhNGNhZDc3YzNmYzQ5ODEzM2ZlYzNhZTQ0OTAz",
+  "snapshot_id": "MCw5NTNmMmJiZTFhMDc3ZjdjNDU5YWZjZmJmY2RmODg5MTIxMjI1MzAw",
   "tracks": [
     {
       "added_at": "2021-07-28 16:44:28",
@@ -271,6 +271,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "...un poco mas.",
+        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
+      },
+      "artists": [
+        {
+          "name": "Na'rimbo",
+          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
+        }
+      ],
+      "duration_ms": 303893,
+      "name": "Naila",
+      "url": "https://open.spotify.com/track/28V7R9TGxz2Nn6mhZXwHGh"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/72BzkLOb7tpcmcpfEvtAox"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 179511,
       "name": "Caminos de Ayer",
       "url": "https://open.spotify.com/track/7bHkQLgxPTVC44Ty5A99Jm"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "...un poco mas.",
-        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
-      },
-      "artists": [
-        {
-          "name": "Na'rimbo",
-          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
-        }
-      ],
-      "duration_ms": 303893,
-      "name": "Naila",
-      "url": "https://open.spotify.com/track/28V7R9TGxz2Nn6mhZXwHGh"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -431,18 +431,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "...un poco mas.",
-        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
+        "name": "As\u00ed Era Entonces, Ahora...",
+        "url": "https://open.spotify.com/album/7DvwqriKTJbGOnrXQot7tX"
       },
       "artists": [
         {
-          "name": "Na'rimbo",
-          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
+          "name": "Iraida Noriega",
+          "url": "https://open.spotify.com/artist/5nOZrHmLp5IoE7ZzJYZOfi"
+        },
+        {
+          "name": "Zinco Big Band",
+          "url": "https://open.spotify.com/artist/3cj2yEjzcCZVRaIuPgfkfv"
         }
       ],
-      "duration_ms": 370613,
-      "name": "Al son de la marimba",
-      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
+      "duration_ms": 270466,
+      "name": "Los Peque\u00f1os Detalles",
+      "url": "https://open.spotify.com/track/7JIuo1FbYeIdJlwXXztn01"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -463,22 +467,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "As\u00ed Era Entonces, Ahora...",
-        "url": "https://open.spotify.com/album/7DvwqriKTJbGOnrXQot7tX"
+        "name": "...un poco mas.",
+        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
       },
       "artists": [
         {
-          "name": "Iraida Noriega",
-          "url": "https://open.spotify.com/artist/5nOZrHmLp5IoE7ZzJYZOfi"
-        },
-        {
-          "name": "Zinco Big Band",
-          "url": "https://open.spotify.com/artist/3cj2yEjzcCZVRaIuPgfkfv"
+          "name": "Na'rimbo",
+          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
         }
       ],
-      "duration_ms": 270466,
-      "name": "Los Peque\u00f1os Detalles",
-      "url": "https://open.spotify.com/track/7JIuo1FbYeIdJlwXXztn01"
+      "duration_ms": 370613,
+      "name": "Al son de la marimba",
+      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
     },
     {
       "added_at": "2022-03-30 03:01:09",
@@ -675,6 +675,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Las Puntadas de Ernesto Riesta",
+        "url": "https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ"
+      },
+      "artists": [
+        {
+          "name": "Ernesto Riestra Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE"
+        }
+      ],
+      "duration_ms": 178773,
+      "name": "No Se que Pasa Entre T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "So\u00f1e - Jazz Mexicano",
         "url": "https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 403946,
       "name": "Temporary Insanity",
       "url": "https://open.spotify.com/track/4Y4brKstYyDiKZlfu9xtmL"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Las Puntadas de Ernesto Riesta",
-        "url": "https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ"
-      },
-      "artists": [
-        {
-          "name": "Ernesto Riestra Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE"
-        }
-      ],
-      "duration_ms": 178773,
-      "name": "No Se que Pasa Entre T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -809,22 +809,6 @@
       "url": "https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp"
     },
     {
-      "added_at": "2022-01-14 03:44:06",
-      "album": {
-        "name": "Sembrando",
-        "url": "https://open.spotify.com/album/3D7czDy4fUgXDJujkjYR2q"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Prieto",
-          "url": "https://open.spotify.com/artist/2SeSiA1BSz51gbwCTzt4Oc"
-        }
-      ],
-      "duration_ms": 458280,
-      "name": "Horizonte Lejano",
-      "url": "https://open.spotify.com/track/1KP9tWQFQSsVp0BdBcteuI"
-    },
-    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "\u00a1Oh! Mi Amor",
@@ -839,6 +823,26 @@
       "duration_ms": 318122,
       "name": "Trato De Asimilar",
       "url": "https://open.spotify.com/track/69xoMlSZEOEZzoc8yDXe6h"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Paisaje Gris",
+        "url": "https://open.spotify.com/album/4WAskgkj1leGkHgXXobvRG"
+      },
+      "artists": [
+        {
+          "name": "Jenny Beaujean",
+          "url": "https://open.spotify.com/artist/6ex3zdLBHsbn07VkD3Nnq3"
+        },
+        {
+          "name": "Benjam\u00edn Garc\u00eda",
+          "url": "https://open.spotify.com/artist/25pBtHDlplMjQ9FrFoMcuE"
+        }
+      ],
+      "duration_ms": 259133,
+      "name": "Paisaje Gris",
+      "url": "https://open.spotify.com/track/7Fo5vh8oUOsw8LsziLXe60"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -869,24 +873,20 @@
       "url": "https://open.spotify.com/track/276aMT3jt0qKDT216Thn3c"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
+      "added_at": "2022-01-14 03:44:06",
       "album": {
-        "name": "Paisaje Gris",
-        "url": "https://open.spotify.com/album/4WAskgkj1leGkHgXXobvRG"
+        "name": "Sembrando",
+        "url": "https://open.spotify.com/album/3D7czDy4fUgXDJujkjYR2q"
       },
       "artists": [
         {
-          "name": "Jenny Beaujean",
-          "url": "https://open.spotify.com/artist/6ex3zdLBHsbn07VkD3Nnq3"
-        },
-        {
-          "name": "Benjam\u00edn Garc\u00eda",
-          "url": "https://open.spotify.com/artist/25pBtHDlplMjQ9FrFoMcuE"
+          "name": "Leonardo Prieto",
+          "url": "https://open.spotify.com/artist/2SeSiA1BSz51gbwCTzt4Oc"
         }
       ],
-      "duration_ms": 259133,
-      "name": "Paisaje Gris",
-      "url": "https://open.spotify.com/track/7Fo5vh8oUOsw8LsziLXe60"
+      "duration_ms": 458280,
+      "name": "Horizonte Lejano",
+      "url": "https://open.spotify.com/track/1KP9tWQFQSsVp0BdBcteuI"
     },
     {
       "added_at": "2021-07-28 16:44:28",

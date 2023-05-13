@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 
 > Big bands, big sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,558 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,599 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 | 29 | [Let The Good Times Roll](https://open.spotify.com/track/2dFJA0ZQ2OjA8TWjEV6P5n) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Q's Jook Joint](https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1) | 2:55 |
 | 30 | [Take The "A" Train](https://open.spotify.com/track/5OjlWOb1Iilm0QFLh17j3U) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 6:44 |
 | 31 | [Are You Having Any Fun](https://open.spotify.com/track/7J15xzJsmb6ikExnnMO7MP) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Tony Bennett With Count Baise](https://open.spotify.com/album/4WHnCeRDUhw3uecb62g7C6) | 2:43 |
-| 32 | [Whirly\-Bird](https://open.spotify.com/track/5YtcHwvM9O2BayUOsghqhO) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [The Atomic Mr Basie](https://open.spotify.com/album/03M3VID0s2wANlxJIJBWKb) | 3:52 |
-| 33 | [Woodchopper’s Ball](https://open.spotify.com/track/28Ku0JK5FGK2tNdfI0rzXz) | [Woody Herman & His Orchestra](https://open.spotify.com/artist/7CUcJMFBfSARR8js036QOn) | [Welcome to My Dream](https://open.spotify.com/album/0DdGWUa83ELS8iOT66bo1o) | 3:15 |
+| 32 | [Woodchopper’s Ball](https://open.spotify.com/track/28Ku0JK5FGK2tNdfI0rzXz) | [Woody Herman & His Orchestra](https://open.spotify.com/artist/7CUcJMFBfSARR8js036QOn) | [Welcome to My Dream](https://open.spotify.com/album/0DdGWUa83ELS8iOT66bo1o) | 3:15 |
+| 33 | [Whirly\-Bird](https://open.spotify.com/track/5YtcHwvM9O2BayUOsghqhO) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [The Atomic Mr Basie](https://open.spotify.com/album/03M3VID0s2wANlxJIJBWKb) | 3:52 |
 | 34 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/57sdRcA5sfIFOKFjReXp2P) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Great American Songbook](https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU) | 3:03 |
 | 35 | [Jack, You're Dead!](https://open.spotify.com/track/1EbSCkFjbaTncuamPWPq11) | [Joe Jackson](https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT) | [Jumpin' Jive \(Remastered 1999\)](https://open.spotify.com/album/7spQJsP6dimhGMNgsBYaRO) | 2:47 |
 | 36 | [Jazz Me Blues](https://open.spotify.com/track/1HCR0Img7vPgXCHxeSCtK6) | [Woody Herman](https://open.spotify.com/artist/2KSxJY1WxGGVYSmoM0N54P) | [Verve Jazz Masters 54: Woody Herman](https://open.spotify.com/album/5VSUS19ItaqyZwSNV7CRuo) | 3:04 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 | 45 | [Just One Of Those Things](https://open.spotify.com/track/6QZ4ZhD8hGVTfwoN2Ypl4Z) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Inspiration \(A Tribute To Nat King Cole\)](https://open.spotify.com/album/7CVBlFmDZnYjHyP6G0aj0m) | 2:42 |
 | 46 | [I Didn´t Tell Them Why](https://open.spotify.com/track/16yjO1COFYdqvjg0r6sweq) | [Andrea Motis](https://open.spotify.com/artist/6CEcslhZk3A6cnin9neg5j), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [I Didn´t Tell Them Why](https://open.spotify.com/album/5MMnRfc7EhstEv91b1itP7) | 4:57 |
 | 47 | [Greenhouse](https://open.spotify.com/track/0C5Pl5iQGnqrnguPjrriUP) | [Rob McConnell & The Boss Brass With Phil Woods](https://open.spotify.com/artist/2Xc5v4VchWoxiC0VJn21br) | [Boss Brass And Woods](https://open.spotify.com/album/4YDkAgQADwIzdytQBDXBtb) | 7:41 |
-| 48 | [I Can't Turn You Loose](https://open.spotify.com/track/7oo9DCy6AxzkWkzxF3GTzb) | [Steve Gadd](https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl), [Eddie Gómez](https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr), [Ronnie Cuber](https://open.spotify.com/artist/0ugeHL6lEUsqwhHjTebNpV), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [I Can't Turn You Loose](https://open.spotify.com/album/7waUTsuvF6q7MRV4T4N40Z) | 5:14 |
+| 48 | [Moonlight on the Ganges](https://open.spotify.com/track/2sbS1rpnQUjxwuVBCFpktO) | [Bob Florence Big Band](https://open.spotify.com/artist/4HYVMozG4UyDaPkEtM0zHI) | [Exotic Sounds from a Space Age Bachelor Pad](https://open.spotify.com/album/3QykPSqLRpwOGiHIQxA6d0) | 1:41 |
 | 49 | [Doodlin'](https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Birks Works: The Verve Big\-Band Sessions](https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS) | 3:55 |
-| 50 | [Moonlight on the Ganges](https://open.spotify.com/track/2sbS1rpnQUjxwuVBCFpktO) | [Bob Florence Big Band](https://open.spotify.com/artist/4HYVMozG4UyDaPkEtM0zHI) | [Exotic Sounds from a Space Age Bachelor Pad](https://open.spotify.com/album/3QykPSqLRpwOGiHIQxA6d0) | 1:41 |
+| 50 | [I Can't Turn You Loose](https://open.spotify.com/track/7oo9DCy6AxzkWkzxF3GTzb) | [Steve Gadd](https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl), [Eddie Gómez](https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr), [Ronnie Cuber](https://open.spotify.com/artist/0ugeHL6lEUsqwhHjTebNpV), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [I Can't Turn You Loose](https://open.spotify.com/album/7waUTsuvF6q7MRV4T4N40Z) | 5:14 |
 
-Snapshot ID: `MCwwNWM1MWQ1MWU3ZGIzZGVjNmZkNmQ4Y2ZjY2UxYmM1NzZkNTY1Mjdm`
+Snapshot ID: `MCw3NWEwYjI0ZDM2ZmE2ZWI4ZjFhMGExYTdiYzQ3MmJmMzE5YzEzNjcx`

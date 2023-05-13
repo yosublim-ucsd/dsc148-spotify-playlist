@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! LAGOS y Reik en portada.",
-  "num_followers": 66819,
+  "num_followers": 66895,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWVhNDJlZTc3ODE1MzViZTU1OTkzNmM4NTVmMDRmMTM5YzE3NDhm",
+  "snapshot_id": "MCwxNzdiNWRhYmMyZmVhNGVlNzM4MDVlZDRmNzQ3ZmZiNGFkYWFlM2E1",
   "tracks": [
     {
       "added_at": "2023-05-06 00:56:17",
@@ -359,6 +359,26 @@
     {
       "added_at": "2023-05-06 00:56:17",
       "album": {
+        "name": "Amapolas (Remix)",
+        "url": "https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 267338,
+      "name": "Amapolas - Remix",
+      "url": "https://open.spotify.com/track/44QxiGlmeSpF8boud04Rkc"
+    },
+    {
+      "added_at": "2023-05-06 00:56:17",
+      "album": {
         "name": "Celestial",
         "url": "https://open.spotify.com/album/1cjDwE4UHCXZOwgYE3XUgw"
       },
@@ -395,26 +415,6 @@
       "duration_ms": 211466,
       "name": "Ser O Parecer",
       "url": "https://open.spotify.com/track/5sgvzXoYFCr5F5tUZdAA20"
-    },
-    {
-      "added_at": "2023-05-06 00:56:17",
-      "album": {
-        "name": "Amapolas (Remix)",
-        "url": "https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 267338,
-      "name": "Amapolas - Remix",
-      "url": "https://open.spotify.com/track/44QxiGlmeSpF8boud04Rkc"
     },
     {
       "added_at": "2023-05-06 00:56:17",
@@ -535,6 +535,38 @@
     {
       "added_at": "2023-05-06 00:56:17",
       "album": {
+        "name": "Bien Por Ti",
+        "url": "https://open.spotify.com/album/7E0TeYo5ebKzkUzxP1NhX5"
+      },
+      "artists": [
+        {
+          "name": "Sofia Castro",
+          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
+        }
+      ],
+      "duration_ms": 154653,
+      "name": "Bien Por Ti",
+      "url": "https://open.spotify.com/track/7LWhpOibaXbJNSgQaTPmgG"
+    },
+    {
+      "added_at": "2023-05-06 00:56:17",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/4Hlh3k8RaJFxb9W3xbLlTH"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/0xK4UKF4xr21C6pzI7msG3"
+    },
+    {
+      "added_at": "2023-05-06 00:56:17",
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -571,38 +603,6 @@
       "duration_ms": 221853,
       "name": "Ens\u00e9\u00f1ame",
       "url": "https://open.spotify.com/track/3eo3Dw5OGSWCzJDVHLKE3v"
-    },
-    {
-      "added_at": "2023-05-06 00:56:17",
-      "album": {
-        "name": "Bien Por Ti",
-        "url": "https://open.spotify.com/album/7E0TeYo5ebKzkUzxP1NhX5"
-      },
-      "artists": [
-        {
-          "name": "Sofia Castro",
-          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
-        }
-      ],
-      "duration_ms": 154653,
-      "name": "Bien Por Ti",
-      "url": "https://open.spotify.com/track/7LWhpOibaXbJNSgQaTPmgG"
-    },
-    {
-      "added_at": "2023-05-06 00:56:17",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/4Hlh3k8RaJFxb9W3xbLlTH"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/0xK4UKF4xr21C6pzI7msG3"
     },
     {
       "added_at": "2023-05-06 00:56:17",
@@ -659,42 +659,6 @@
       "duration_ms": 235360,
       "name": "S\u00f3lo Qu\u00e9date En Silencio",
       "url": "https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD"
-    },
-    {
-      "added_at": "2023-05-06 00:56:17",
-      "album": {
-        "name": "S.H.E.A",
-        "url": "https://open.spotify.com/album/6kc3mO2sDTCs77Gi7OLGYL"
-      },
-      "artists": [
-        {
-          "name": "RBD",
-          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
-        },
-        {
-          "name": "Anah\u00ed",
-          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
-        },
-        {
-          "name": "Dulce Mar\u00eda",
-          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
-        },
-        {
-          "name": "Maite Perroni",
-          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
-        },
-        {
-          "name": "Christian Ch\u00e1vez",
-          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
-        },
-        {
-          "name": "Christopher von Uckermann",
-          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
-        }
-      ],
-      "duration_ms": 190760,
-      "name": "S.H.E.A",
-      "url": "https://open.spotify.com/track/3gQm8QtxHR8pnMxykb1HHH"
     },
     {
       "added_at": "2023-05-06 00:56:17",
@@ -771,6 +735,42 @@
       "duration_ms": 201702,
       "name": "Mi Destino",
       "url": "https://open.spotify.com/track/33ghys6pfpQBc5aiChHlzV"
+    },
+    {
+      "added_at": "2023-05-06 00:56:17",
+      "album": {
+        "name": "S.H.E.A",
+        "url": "https://open.spotify.com/album/6kc3mO2sDTCs77Gi7OLGYL"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        }
+      ],
+      "duration_ms": 190760,
+      "name": "S.H.E.A",
+      "url": "https://open.spotify.com/track/3gQm8QtxHR8pnMxykb1HHH"
     },
     {
       "added_at": "2023-05-06 00:56:17",

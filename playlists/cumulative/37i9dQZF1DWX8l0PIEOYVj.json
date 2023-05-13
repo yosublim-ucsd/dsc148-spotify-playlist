@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-14",
-  "description": "Future & melodic bass. Cover: Blanke.",
+  "description": "Future & melodic bass. Cover: ARMNHMR & Lights.",
   "name": "Bass Lounge",
   "tracks": [
     {
@@ -1444,7 +1444,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 168170,
       "name": "Don't Call Me",
       "url": "https://open.spotify.com/track/3RpXk1LylSSMccjNwpc18F"
@@ -6275,6 +6275,28 @@
     },
     {
       "album": {
+        "name": "Someone To Forget",
+        "url": "https://open.spotify.com/album/193cXUcTyX1JDg1VF3mgXO"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241714,
+      "name": "Someone To Forget",
+      "url": "https://open.spotify.com/track/6ieSmmi7H6BdBowVhMOZ6F"
+    },
+    {
+      "album": {
         "name": "Souvenir",
         "url": "https://open.spotify.com/album/1026SyCwCyd15SR93J2TRH"
       },
@@ -7260,7 +7282,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 200888,
       "name": "UNKNOWN",
       "url": "https://open.spotify.com/track/2bm1bTyHpIRq7KPfOO3ToN"
@@ -7818,7 +7840,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 195200,
       "name": "You Are My Pain",
       "url": "https://open.spotify.com/track/5Xij03tXBHCEdbKSgs0cBf"

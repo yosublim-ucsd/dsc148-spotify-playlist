@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 202 songs - 12 hr 41 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 203 songs - 12 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,5 +210,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 200 | [Everyday](https://open.spotify.com/track/0ameyezi8mF5HdFqBp7DLF) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [And Then Nothing Turned Itself Inside\-Out](https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa) | 6:31 |
 | 201 | [Decora](https://open.spotify.com/track/4AAbuMTQKLT3ls8Maztnbn) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Electr\-o\-pura](https://open.spotify.com/album/4z0y72X6GLvi4EOlezrFS9) | 3:26 |
 | 202 | [Pretty Hurts](https://open.spotify.com/track/6itVTFZWfIA9J6XJaC1eMT) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ](https://open.spotify.com/album/5JSDDzvVmUX1axvnUH3ZJy) | 4:17 |
+| 203 | [Welcome to \(Drifter\)](https://open.spotify.com/track/5ZjaSKUMpSaXVwwFJrGL4O) | [Mouseatouille](https://open.spotify.com/artist/1RCFAywt6h42PGjgTOBNfa) | [Out of the Hospital and Into the Morgue](https://open.spotify.com/album/5HiftUDco0SH7jJmTFCvGm) | 2:04 |
 
-Snapshot ID: `ODQ0LGQwOWZlMTYwZTg5ZGQxZjI5ZjZkNDJhODlhODA1NWE4OTNmNmNlNzI=`
+Snapshot ID: `ODQ1LDhiMWFiNmNkNzMyZGNmZTU5MzY2NjJiOWNjZmNiYTQ0ODgxNTY1N2E=`

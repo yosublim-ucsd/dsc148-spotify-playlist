@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 203300,
+  "num_followers": 203433,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmYwODNjNTIxMmY3MTkzYTgxNjVmMjY3YjkwNzhkMjEzMGE3YThj",
+  "snapshot_id": "MCwwYzM0NjNjOGNmMzU5ZGJlMTlhOGVkZWU4MzdhNTVlMWEwY2M4YjYw",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "In the Heat of the Night",
-        "url": "https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6"
-      },
-      "artists": [
-        {
-          "name": "Imagination",
-          "url": "https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m"
-        }
-      ],
-      "duration_ms": 387866,
-      "name": "Just an Illusion",
-      "url": "https://open.spotify.com/track/4QT3YKobBj4BI7xCYRLr9u"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Give Me the Night",
         "url": "https://open.spotify.com/album/6qwOcN9wZgVF0bishcfFsh"
       },
@@ -187,18 +171,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "We Are Family (1995 Remaster)",
-        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+        "name": "In the Heat of the Night",
+        "url": "https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6"
       },
       "artists": [
         {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+          "name": "Imagination",
+          "url": "https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m"
         }
       ],
-      "duration_ms": 375400,
-      "name": "He's the Greatest Dancer - 1995 Remaster",
-      "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
+      "duration_ms": 387866,
+      "name": "Just an Illusion",
+      "url": "https://open.spotify.com/track/4QT3YKobBj4BI7xCYRLr9u"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -215,6 +199,22 @@
       "duration_ms": 400115,
       "name": "You Make Me Feel (Mighty Real)",
       "url": "https://open.spotify.com/track/0RnCUYXa7jhgTXtiMXF2PQ"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "We Are Family (1995 Remaster)",
+        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+      },
+      "artists": [
+        {
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+        }
+      ],
+      "duration_ms": 375400,
+      "name": "He's the Greatest Dancer - 1995 Remaster",
+      "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "What A Woman Needs",
-        "url": "https://open.spotify.com/album/6V0dGIPJ5CLeNv4TPCqhjm"
-      },
-      "artists": [
-        {
-          "name": "Melba Moore",
-          "url": "https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq"
-        }
-      ],
-      "duration_ms": 219880,
-      "name": "Your Sweet Lovin'",
-      "url": "https://open.spotify.com/track/5jcEF54JEAlhlDH9b5H0d6"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Island Life",
         "url": "https://open.spotify.com/album/0IgaRsWGL9c4bovxkwU7YI"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 218066,
       "name": "Pull Up To The Bumper - Edit",
       "url": "https://open.spotify.com/track/7ddR13zBPxJwGmOBnweH79"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "What A Woman Needs",
+        "url": "https://open.spotify.com/album/6V0dGIPJ5CLeNv4TPCqhjm"
+      },
+      "artists": [
+        {
+          "name": "Melba Moore",
+          "url": "https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq"
+        }
+      ],
+      "duration_ms": 219880,
+      "name": "Your Sweet Lovin'",
+      "url": "https://open.spotify.com/track/5jcEF54JEAlhlDH9b5H0d6"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/3hl2uaqB2zBZdetkeATUBe"
-      },
-      "artists": [
-        {
-          "name": "The System",
-          "url": "https://open.spotify.com/artist/67NN7SgdxKesGnxZOB8YeX"
-        }
-      ],
-      "duration_ms": 357812,
-      "name": "You Are in My System",
-      "url": "https://open.spotify.com/track/47HusOVsGPUcsJtMq40aRd"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "I Want to Feel Your Love",
         "url": "https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 378485,
       "name": "Enjoy Your Life",
       "url": "https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/3hl2uaqB2zBZdetkeATUBe"
+      },
+      "artists": [
+        {
+          "name": "The System",
+          "url": "https://open.spotify.com/artist/67NN7SgdxKesGnxZOB8YeX"
+        }
+      ],
+      "duration_ms": 357812,
+      "name": "You Are in My System",
+      "url": "https://open.spotify.com/track/47HusOVsGPUcsJtMq40aRd"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "World",
-        "url": "https://open.spotify.com/album/4ka25IRzopZcy8QCBwHF80"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 327560,
-      "name": "Exotica Dance Club",
-      "url": "https://open.spotify.com/track/08NpvTDlC0HaA4RwO1wRs7"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "First True Love Affair",
         "url": "https://open.spotify.com/album/0b44pPuVm5P4VKLPVdQbrq"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 428026,
       "name": "First True Love Affair - Larry Levan Remix",
       "url": "https://open.spotify.com/track/7joFZr4bgXEGyKOqswLpGd"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "World",
+        "url": "https://open.spotify.com/album/4ka25IRzopZcy8QCBwHF80"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 327560,
+      "name": "Exotica Dance Club",
+      "url": "https://open.spotify.com/track/08NpvTDlC0HaA4RwO1wRs7"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Love Island",
-        "url": "https://open.spotify.com/album/2k5tKYlTM95TerGw1fsEvT"
-      },
-      "artists": [
-        {
-          "name": "Deodato",
-          "url": "https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr"
-        }
-      ],
-      "duration_ms": 272533,
-      "name": "Whistle Bump",
-      "url": "https://open.spotify.com/track/39GAqGdqxFWHh5OkEHcAqk"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "24 Hours in a Disco 1978-82",
         "url": "https://open.spotify.com/album/0gHy3GjU1oQMce8ZJi2EKL"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 416800,
       "name": "Disco Dancer",
       "url": "https://open.spotify.com/track/5q8C9VZQBmo9ITXI21p11K"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Love Island",
+        "url": "https://open.spotify.com/album/2k5tKYlTM95TerGw1fsEvT"
+      },
+      "artists": [
+        {
+          "name": "Deodato",
+          "url": "https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr"
+        }
+      ],
+      "duration_ms": 272533,
+      "name": "Whistle Bump",
+      "url": "https://open.spotify.com/track/39GAqGdqxFWHh5OkEHcAqk"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Watchin' Out",
-        "url": "https://open.spotify.com/album/51UXHJ2YydaTSxJXoczKVz"
-      },
-      "artists": [
-        {
-          "name": "Split Decision Band",
-          "url": "https://open.spotify.com/artist/4XEEn0HMV7zxiOm6B5DVLf"
-        }
-      ],
-      "duration_ms": 195114,
-      "name": "Watchin' Out",
-      "url": "https://open.spotify.com/track/7AaIWnkDOZFDpZBcW0r6ZQ"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Harmonies",
         "url": "https://open.spotify.com/album/2EVOE2I0qXDO4qtY7driBe"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 354213,
       "name": "The Sweetest Meditation",
       "url": "https://open.spotify.com/track/4n1qwgVWwYIFLuCEfzwnrT"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Watchin' Out",
+        "url": "https://open.spotify.com/album/51UXHJ2YydaTSxJXoczKVz"
+      },
+      "artists": [
+        {
+          "name": "Split Decision Band",
+          "url": "https://open.spotify.com/artist/4XEEn0HMV7zxiOm6B5DVLf"
+        }
+      ],
+      "duration_ms": 195114,
+      "name": "Watchin' Out",
+      "url": "https://open.spotify.com/track/7AaIWnkDOZFDpZBcW0r6ZQ"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Miracles (Original Album and Rare Tracks)",
-        "url": "https://open.spotify.com/album/1DvtnAjG7Nolt61eSaJV1r"
-      },
-      "artists": [
-        {
-          "name": "Change",
-          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
-        }
-      ],
-      "duration_ms": 338453,
-      "name": "Heaven of My Life - Full Length Album Mix",
-      "url": "https://open.spotify.com/track/52f8B5MNlTVQgxNsiGfBOl"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Kiss Me Again",
         "url": "https://open.spotify.com/album/1jDWFLM7HsGgVc4gh3ePbK"
       },
@@ -1383,6 +1367,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Miracles (Original Album and Rare Tracks)",
+        "url": "https://open.spotify.com/album/1DvtnAjG7Nolt61eSaJV1r"
+      },
+      "artists": [
+        {
+          "name": "Change",
+          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
+        }
+      ],
+      "duration_ms": 338453,
+      "name": "Heaven of My Life - Full Length Album Mix",
+      "url": "https://open.spotify.com/track/52f8B5MNlTVQgxNsiGfBOl"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Chance",
         "url": "https://open.spotify.com/album/4RtrnkVrwWjMAvvYZ24PWB"
       },
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Magical Night (Greatest Hits Special Price)",
-        "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
-      },
-      "artists": [
-        {
-          "name": "Change",
-          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
-        }
-      ],
-      "duration_ms": 268653,
-      "name": "Hold Tight - Full Length Album Mix",
-      "url": "https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Agb'oju L'ogun",
         "url": "https://open.spotify.com/album/72S9ok10nlp6jIxzDNC5Rk"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 320851,
       "name": "Today Is the Day - Linkwood Chop",
       "url": "https://open.spotify.com/track/02fPKhvSJZecPhfkguNJan"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Magical Night (Greatest Hits Special Price)",
+        "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
+      },
+      "artists": [
+        {
+          "name": "Change",
+          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
+        }
+      ],
+      "duration_ms": 268653,
+      "name": "Hold Tight - Full Length Album Mix",
+      "url": "https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Disco Baby",
-        "url": "https://open.spotify.com/album/6L69V18qBxDhxTlx4ZqgF2"
-      },
-      "artists": [
-        {
-          "name": "Y. Gershovsky",
-          "url": "https://open.spotify.com/artist/1Ydl0Zxt4RZCfl15pzQTaW"
-        }
-      ],
-      "duration_ms": 229734,
-      "name": "Disco Baby - Floating Points & Red Greg Edit",
-      "url": "https://open.spotify.com/track/1ILmOHn4tzjj7XaGBYx5Xu"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
         "url": "https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 376973,
       "name": "Enjoy Your Life",
       "url": "https://open.spotify.com/track/5Vh1ehh1HL9WyHNUZwh7Ov"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Disco Baby",
+        "url": "https://open.spotify.com/album/6L69V18qBxDhxTlx4ZqgF2"
+      },
+      "artists": [
+        {
+          "name": "Y. Gershovsky",
+          "url": "https://open.spotify.com/artist/1Ydl0Zxt4RZCfl15pzQTaW"
+        }
+      ],
+      "duration_ms": 229734,
+      "name": "Disco Baby - Floating Points & Red Greg Edit",
+      "url": "https://open.spotify.com/track/1ILmOHn4tzjj7XaGBYx5Xu"
     },
     {
       "added_at": "2022-09-05 16:54:43",

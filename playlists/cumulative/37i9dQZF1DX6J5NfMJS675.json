@@ -1188,7 +1188,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 225109,
       "name": "Cabroncete",
       "url": "https://open.spotify.com/track/1xPm1Gy46lvDV3WHOm2ndy"
@@ -1550,6 +1550,28 @@
       "duration_ms": 578823,
       "name": "Command Z",
       "url": "https://open.spotify.com/track/1HPIXNVVPjLe7BdJN8tET1"
+    },
+    {
+      "album": {
+        "name": "Concentrate",
+        "url": "https://open.spotify.com/album/49hL0xuBgLmsFHNvLGQncc"
+      },
+      "artists": [
+        {
+          "name": "Mark Reeve",
+          "url": "https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ"
+        },
+        {
+          "name": "KL\u00d8SET",
+          "url": "https://open.spotify.com/artist/7KlcWxhK5kCE0rBoMnPASa"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325500,
+      "name": "Concentrate",
+      "url": "https://open.spotify.com/track/5TzQwpoOk6BkGhscsEd6zC"
     },
     {
       "album": {
@@ -3325,6 +3347,24 @@
     },
     {
       "album": {
+        "name": "Rave the Planet: Supporter Series, Vol. 015",
+        "url": "https://open.spotify.com/album/0B93hO3gTZR4RBrOVkPwKZ"
+      },
+      "artists": [
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410531,
+      "name": "Further",
+      "url": "https://open.spotify.com/track/1PBh6aYwGLMhguJz9gT6wC"
+    },
+    {
+      "album": {
         "name": "Silence EP",
         "url": "https://open.spotify.com/album/0jk2PButBmv8Kqvu5x9Yys"
       },
@@ -3800,6 +3840,24 @@
       "duration_ms": 275077,
       "name": "Higher",
       "url": "https://open.spotify.com/track/2uQWi34NKPHpka4ldYrki4"
+    },
+    {
+      "album": {
+        "name": "Highlands",
+        "url": "https://open.spotify.com/album/1Zyv6JlAUo5ZFDPCNeevOF"
+      },
+      "artists": [
+        {
+          "name": "Marusha",
+          "url": "https://open.spotify.com/artist/50KRawTAiqdcKftFruSE9W"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462990,
+      "name": "Highlands",
+      "url": "https://open.spotify.com/track/059LIrpxWgoaL4ugOsEWTg"
     },
     {
       "album": {
@@ -5162,7 +5220,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 368375,
       "name": "Mind Hype",
       "url": "https://open.spotify.com/track/7M6BK7guer8tuSMu2ixk5a"
@@ -8164,7 +8222,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 456984,
       "name": "The Sound of the Underground",
       "url": "https://open.spotify.com/track/173zfO8W0VXRZwbfiCPnxr"

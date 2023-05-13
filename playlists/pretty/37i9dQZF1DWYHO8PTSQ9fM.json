@@ -1,12 +1,12 @@
 {
   "description": "Les hits du moment sont ici. Cover : DYSTINCT",
-  "num_followers": 276588,
+  "num_followers": 277096,
   "original_name": "Hot Hits Maghreb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzVhOGMwNzFhYWMzMDVjZWI3ZDI0OTQ1NzljYjc4OTI5MzRjYmRj",
+  "snapshot_id": "MCwwZjE2Yjk1MzQ4MmMyOWExZDM1ZDUwNTZhZDEyYTJhZjYwMGIyMjQ0",
   "tracks": [
     {
       "added_at": "2023-05-11 22:00:00",
@@ -107,6 +107,22 @@
       "duration_ms": 149209,
       "name": "DARBA 9ADIYA",
       "url": "https://open.spotify.com/track/0WCiCbdRB54GMzlRGs3Fa4"
+    },
+    {
+      "added_at": "2023-05-12 11:41:51",
+      "album": {
+        "name": "SOS (Chapitre 3)",
+        "url": "https://open.spotify.com/album/6oCXtKVOwAtyiAncg4QVWt"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "duration_ms": 159839,
+      "name": "Inta habibi",
+      "url": "https://open.spotify.com/track/5nspOXY1J4WLcqUJ1q9fwO"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -527,6 +543,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "\u063a\u0628\u0631\u062a\u064a \u0639\u0644\u064a\u0627 (Cover libianca people - 2023 - nouveaut\u00e9)",
+        "url": "https://open.spotify.com/album/13ZU2TP06EzaUov71aLn5w"
+      },
+      "artists": [
+        {
+          "name": "Cravata",
+          "url": "https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "\u063a\u0628\u0631\u062a\u064a \u0639\u0644\u064a\u0627 - Cover libianca people - 2023 - nouveaut\u00e9",
+      "url": "https://open.spotify.com/track/1F4AZDDP7VW3DTDOBtaO39"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Filamen (\u0641\u064a\u0644\u0645\u0627\u0646)",
         "url": "https://open.spotify.com/album/3Q9SpkTQLw5g0fyfObjYZ5"
       },
@@ -543,22 +575,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Ya Lil",
-        "url": "https://open.spotify.com/album/4jcoGlVZZi1hu3PhxxIeqB"
-      },
-      "artists": [
-        {
-          "name": "Mortadha Ftiti",
-          "url": "https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia"
-        }
-      ],
-      "duration_ms": 166145,
-      "name": "Ya Lil",
-      "url": "https://open.spotify.com/track/3hvJHXAuKeSRSShUEl9v0c"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "WAYLE",
         "url": "https://open.spotify.com/album/2NRpmLrRQOapraNh2MCRnZ"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 190515,
       "name": "WAYLE",
       "url": "https://open.spotify.com/track/0jCNrDbEbpRbuDiGcKa907"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "M3a L3echrane",
-        "url": "https://open.spotify.com/album/66iERpoTGbFoSgy7FY96mk"
-      },
-      "artists": [
-        {
-          "name": "Dizzy DROS",
-          "url": "https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh"
-        }
-      ],
-      "duration_ms": 232727,
-      "name": "M3a L3echrane",
-      "url": "https://open.spotify.com/track/2L1MgWewnKsCx9MKykjZJw"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/1hAdTf1gymTuoTlBd2RQfA"
-      },
-      "artists": [
-        {
-          "name": "kouz1",
-          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/6L1hnXrPSKAoOFmdOA8ANa"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Makhelaw magalou",
         "url": "https://open.spotify.com/album/1aiMHJEw75iDP9reYTQ4lO"
       },
@@ -659,66 +643,78 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "\u063a\u0628\u0631\u062a\u064a \u0639\u0644\u064a\u0627 (Cover libianca people - 2023 - nouveaut\u00e9)",
-        "url": "https://open.spotify.com/album/13ZU2TP06EzaUov71aLn5w"
+        "name": "M3a L3echrane",
+        "url": "https://open.spotify.com/album/66iERpoTGbFoSgy7FY96mk"
       },
       "artists": [
         {
-          "name": "Cravata",
-          "url": "https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR"
+          "name": "Dizzy DROS",
+          "url": "https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh"
         }
       ],
-      "duration_ms": 201600,
-      "name": "\u063a\u0628\u0631\u062a\u064a \u0639\u0644\u064a\u0627 - Cover libianca people - 2023 - nouveaut\u00e9",
-      "url": "https://open.spotify.com/track/1F4AZDDP7VW3DTDOBtaO39"
+      "duration_ms": 232727,
+      "name": "M3a L3echrane",
+      "url": "https://open.spotify.com/track/2L1MgWewnKsCx9MKykjZJw"
     },
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "\u0628\u0627\u0644\u0647\u062f\u0649",
-        "url": "https://open.spotify.com/album/5k3Z3I40E3EXZSoVJgRZpc"
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/1hAdTf1gymTuoTlBd2RQfA"
       },
       "artists": [
         {
-          "name": "Ta Ha",
-          "url": "https://open.spotify.com/artist/63gB2Rrr0fOcwBa4zEspU4"
+          "name": "kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
         }
       ],
-      "duration_ms": 237362,
-      "name": "\u0628\u0627\u0644\u0647\u062f\u0649",
-      "url": "https://open.spotify.com/track/0aDZlrKCeRuZSSg6SXDXMF"
+      "duration_ms": 184800,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/6L1hnXrPSKAoOFmdOA8ANa"
     },
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Allo (\u0627\u0644\u0648)",
-        "url": "https://open.spotify.com/album/5sw19c2WnCbMacw9OzubzT"
+        "name": "Ya Lil",
+        "url": "https://open.spotify.com/album/4jcoGlVZZi1hu3PhxxIeqB"
       },
       "artists": [
         {
-          "name": "Balti",
-          "url": "https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR"
+          "name": "Mortadha Ftiti",
+          "url": "https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia"
         }
       ],
-      "duration_ms": 259591,
-      "name": "Allo - \u0627\u0644\u0648",
-      "url": "https://open.spotify.com/track/1mYKk7dWVDcfn8lTJ6CKJV"
+      "duration_ms": 166145,
+      "name": "Ya Lil",
+      "url": "https://open.spotify.com/track/3hvJHXAuKeSRSShUEl9v0c"
     },
     {
-      "added_at": "2023-05-11 22:00:00",
+      "added_at": "2023-05-12 09:32:53",
       "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
+        "name": "Soweto (with Don Toliver, Rema, and Tempoe)",
+        "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Tempoe",
+          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
         }
       ],
-      "duration_ms": 185093,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
+      "duration_ms": 219500,
+      "name": "Soweto (with Don Toliver, Rema and Tempoe)",
+      "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -739,18 +735,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "KMT",
-        "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
+        "name": "Comforter (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL"
       },
       "artists": [
         {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 240413,
-      "name": "DIE",
-      "url": "https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ"
+      "duration_ms": 216000,
+      "name": "Comforter (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -771,22 +771,50 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Comforter (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL"
+        "name": "\u0628\u0627\u0644\u0647\u062f\u0649",
+        "url": "https://open.spotify.com/album/5k3Z3I40E3EXZSoVJgRZpc"
       },
       "artists": [
         {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        },
+          "name": "Ta Ha",
+          "url": "https://open.spotify.com/artist/63gB2Rrr0fOcwBa4zEspU4"
+        }
+      ],
+      "duration_ms": 237362,
+      "name": "\u0628\u0627\u0644\u0647\u062f\u0649",
+      "url": "https://open.spotify.com/track/0aDZlrKCeRuZSSg6SXDXMF"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
+      },
+      "artists": [
         {
           "name": "Ayra Starr",
           "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Comforter (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K"
+      "duration_ms": 185093,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "KMT",
+        "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 240413,
+      "name": "DIE",
+      "url": "https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -859,22 +887,6 @@
       "duration_ms": 194733,
       "name": "Ya lbahri",
       "url": "https://open.spotify.com/track/62upkw0miJwuVpWVzHdaEV"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "DRAILL",
-        "url": "https://open.spotify.com/album/4Sx9SrFQdcCD5pSY6bwU8M"
-      },
-      "artists": [
-        {
-          "name": "MA3IZ",
-          "url": "https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l"
-        }
-      ],
-      "duration_ms": 220444,
-      "name": "DRAILL",
-      "url": "https://open.spotify.com/track/2UYZDBQ89KYUdU3CspLZJ2"
     }
   ],
   "unique_name": "Hot Hits Maghreb",

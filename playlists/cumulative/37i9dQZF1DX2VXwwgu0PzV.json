@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Abba Father",
+        "url": "https://open.spotify.com/album/5lP7HPJ05Hlk9FSDpPY8Vg"
+      },
+      "artists": [
+        {
+          "name": "Mr M & Revelation",
+          "url": "https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220608,
+      "name": "Abba Father",
+      "url": "https://open.spotify.com/track/4GaNCiCC9xW3W18zpBtt49"
+    },
+    {
+      "album": {
         "name": "Able",
         "url": "https://open.spotify.com/album/6KqJjlg8GqLgZwuME7CbR4"
       },
@@ -1560,7 +1578,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 163829,
       "name": "Jesus You Set Me Free",
       "url": "https://open.spotify.com/track/6B8rlAW9iprZCrz5zld4qw"
@@ -2694,7 +2712,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 198539,
       "name": "See Through",
       "url": "https://open.spotify.com/track/2sfe0Khk1sfs2oErNb3j1n"
@@ -3196,6 +3214,28 @@
       "duration_ms": 188571,
       "name": "WRME (water runaway my eyes)",
       "url": "https://open.spotify.com/track/2Ha0FigQpr3nqsPTXFSJnN"
+    },
+    {
+      "album": {
+        "name": "YAH (Spirit Chant)",
+        "url": "https://open.spotify.com/album/5sR2Q9yzejaiMOdlelBVAi"
+      },
+      "artists": [
+        {
+          "name": "Eljoe onoja",
+          "url": "https://open.spotify.com/artist/63Y0MtLSfC9rjMZ1KsqTZi"
+        },
+        {
+          "name": "Chris Morgan",
+          "url": "https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337320,
+      "name": "YAH - Spirit Chant",
+      "url": "https://open.spotify.com/track/1zbg4LlaiwYvjGSikk3Yjn"
     },
     {
       "album": {

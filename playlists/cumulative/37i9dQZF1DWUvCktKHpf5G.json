@@ -42,7 +42,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 167504,
       "name": "23 (With Ape Drums)",
       "url": "https://open.spotify.com/track/1G7vCwBCxeTe8fB0EGMDdq"
@@ -118,7 +118,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 206586,
       "name": "Antes",
       "url": "https://open.spotify.com/track/73O30uMI7n6DuzBmbtO7kC"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 137913,
       "name": "Cocteles",
       "url": "https://open.spotify.com/track/5rb0LAGWkFdWjn46LyidC5"
@@ -726,7 +726,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 194218,
       "name": "Despues De Las 12",
       "url": "https://open.spotify.com/track/3kYTY4EZu7vJYCL7ojqk5H"
@@ -972,7 +972,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 200494,
       "name": "Fabuloso",
       "url": "https://open.spotify.com/track/3cg2Y9mIiYNdcPTLKaQgK3"
@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 310588,
       "name": "Fan\u00e1tico (feat. Feid & De La Ghetto) - Remix",
       "url": "https://open.spotify.com/track/5SEyiGqIMeZcFpC5ycODJc"
@@ -1450,6 +1450,32 @@
       "duration_ms": 173348,
       "name": "LA FOTO REMIX",
       "url": "https://open.spotify.com/track/2xRYql6rtMQ5peet1FBrGp"
+    },
+    {
+      "album": {
+        "name": "La Habana",
+        "url": "https://open.spotify.com/album/6PzB7p3fEh2XJcjlmTXM6s"
+      },
+      "artists": [
+        {
+          "name": "Yuriel Es Musica",
+          "url": "https://open.spotify.com/artist/1wHaQslJt6H89ArcgEV9qK"
+        },
+        {
+          "name": "Luny Tunes",
+          "url": "https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK"
+        },
+        {
+          "name": "Natax Beat",
+          "url": "https://open.spotify.com/artist/7g5ZEviM2IkEaqkLhO72bx"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197697,
+      "name": "La Habana",
+      "url": "https://open.spotify.com/track/06cLzZxL6XKaMTBqLHjnjg"
     },
     {
       "album": {
@@ -1898,7 +1924,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 194000,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/4VzEjnnyrmJABQlDgbmGng"
@@ -1972,7 +1998,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 188087,
       "name": "Mama Tetema (feat. Rayvanny)",
       "url": "https://open.spotify.com/track/0nuTnOboL7Zaaqm76CQHEk"
@@ -2204,7 +2230,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-07",
+      "date_removed": null,
       "duration_ms": 141198,
       "name": "Me perdiste",
       "url": "https://open.spotify.com/track/1znPo0QYH2TeIBrOCSfrqI"
@@ -2278,7 +2304,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 196320,
       "name": "Mi Cama - Remix",
       "url": "https://open.spotify.com/track/38QmUDpkoYlNbMKvpvAsrE"
@@ -2418,7 +2444,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 138209,
       "name": "Nebuleo (feat. DJ Blass)",
       "url": "https://open.spotify.com/track/1B49GDycK8rmbVqLhFD86z"
@@ -2436,7 +2462,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 182093,
       "name": "Negro",
       "url": "https://open.spotify.com/track/2hsA9YWuF3C9Gosi4dpjJN"
@@ -2480,7 +2506,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 180866,
       "name": "No Bailes Sola",
       "url": "https://open.spotify.com/track/1GNSWpe2SB30zYGbNTD96b"
@@ -2506,7 +2532,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 162149,
       "name": "No Me Controles",
       "url": "https://open.spotify.com/track/4G83XIKqqzv9ofGZs47SmF"
@@ -3476,7 +3502,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 237720,
       "name": "S\u00fabelo & B\u00e1jalo",
       "url": "https://open.spotify.com/track/0eaPs2AlJzS1q6zDvnkoEO"
@@ -3582,7 +3608,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 147224,
       "name": "te kiero ver",
       "url": "https://open.spotify.com/track/6K1l7zkN6jFOxsAEgiW8wV"
@@ -3648,7 +3674,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 203478,
       "name": "Toketeo",
       "url": "https://open.spotify.com/track/0pRgURvgp75RPKjTGQodau"
@@ -3818,7 +3844,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 178789,
       "name": "T\u00fa Me Mientes",
       "url": "https://open.spotify.com/track/6cjXpb4vraCUSSZA7tHtWb"
@@ -3844,7 +3870,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 166929,
       "name": "UNA M\u00c1S",
       "url": "https://open.spotify.com/track/7Hzh5oY6cIitvcK6oJDwTb"

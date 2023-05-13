@@ -1133,6 +1133,24 @@
     },
     {
       "album": {
+        "name": "Egyptian Wifey",
+        "url": "https://open.spotify.com/album/3OCMyZIbBTWyCYqk7lcI1o"
+      },
+      "artists": [
+        {
+          "name": "Bayou",
+          "url": "https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171452,
+      "name": "Egyptian Wifey",
+      "url": "https://open.spotify.com/track/2XBEQM6MEQW0JCEhrsFQp1"
+    },
+    {
+      "album": {
         "name": "EL DAYNASOUR",
         "url": "https://open.spotify.com/album/5vscrHtVOzo7UV9yc9UypS"
       },

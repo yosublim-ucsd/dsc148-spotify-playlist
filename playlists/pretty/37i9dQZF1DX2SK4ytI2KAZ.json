@@ -1,12 +1,12 @@
 {
   "description": "have fun with it.",
-  "num_followers": 692867,
+  "num_followers": 692952,
   "original_name": "It's ALT Good!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjc1ZjkwMTMxMTVmY2I1OWFhMGM0OTI2NmY4ZWNkYWUzMTZmNTUz",
+  "snapshot_id": "MCxjZDJmN2Q0NzA3YTkyYzNiZDI3ODgyNTYxYmY2YTE3OTMyYTM2NTA3",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Hello, All!",
-        "url": "https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 203853,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Glitterbug (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I"
       },
@@ -695,6 +679,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "When I Was Younger",
+        "url": "https://open.spotify.com/album/4A9oVHInBqtXG9ogUXQiKN"
+      },
+      "artists": [
+        {
+          "name": "Colony House",
+          "url": "https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4"
+        }
+      ],
+      "duration_ms": 177773,
+      "name": "Silhouettes",
+      "url": "https://open.spotify.com/track/5zYduVIUSgSWmv56IwBmRl"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Let's go to Hell",
         "url": "https://open.spotify.com/album/2tVcIkd2GmDpNQkXRNpaME"
       },
@@ -707,6 +707,22 @@
       "duration_ms": 152181,
       "name": "Let's go to Hell",
       "url": "https://open.spotify.com/track/38XLUjlR84JEwK0SOvX77a"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Hello, All!",
+        "url": "https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 203853,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -731,18 +747,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "When I Was Younger",
-        "url": "https://open.spotify.com/album/4A9oVHInBqtXG9ogUXQiKN"
+        "name": "Two Vines",
+        "url": "https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy"
       },
       "artists": [
         {
-          "name": "Colony House",
-          "url": "https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4"
+          "name": "Empire of the Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
         }
       ],
-      "duration_ms": 177773,
-      "name": "Silhouettes",
-      "url": "https://open.spotify.com/track/5zYduVIUSgSWmv56IwBmRl"
+      "duration_ms": 224840,
+      "name": "High And Low",
+      "url": "https://open.spotify.com/track/2Q7PDjPz7h559wBF97lO07"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -763,22 +779,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Two Vines",
-        "url": "https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy"
-      },
-      "artists": [
-        {
-          "name": "Empire of the Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "High And Low",
-      "url": "https://open.spotify.com/track/2Q7PDjPz7h559wBF97lO07"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "What, Me Worry?",
         "url": "https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA"
       },
@@ -791,6 +791,22 @@
       "duration_ms": 177397,
       "name": "What, Me Worry?",
       "url": "https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "We Are The Wrecks",
+        "url": "https://open.spotify.com/album/0vQRfUULb3EpObpn28YOkH"
+      },
+      "artists": [
+        {
+          "name": "The Wrecks",
+          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
+        }
+      ],
+      "duration_ms": 242306,
+      "name": "Favorite Liar",
+      "url": "https://open.spotify.com/track/1scwknKtBQpreYy6MSoJqJ"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -815,18 +831,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "We Are The Wrecks",
-        "url": "https://open.spotify.com/album/0vQRfUULb3EpObpn28YOkH"
+        "name": "The Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/5aAfgCIEc9zBKbwFO6jixe"
       },
       "artists": [
         {
-          "name": "The Wrecks",
-          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
         }
       ],
-      "duration_ms": 242306,
-      "name": "Favorite Liar",
-      "url": "https://open.spotify.com/track/1scwknKtBQpreYy6MSoJqJ"
+      "duration_ms": 161120,
+      "name": "Van Horn",
+      "url": "https://open.spotify.com/track/78bsqObGFUD5ntweePBhIY"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -843,22 +859,6 @@
       "duration_ms": 208253,
       "name": "Kid",
       "url": "https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "The Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/5aAfgCIEc9zBKbwFO6jixe"
-      },
-      "artists": [
-        {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
-        }
-      ],
-      "duration_ms": 161120,
-      "name": "Van Horn",
-      "url": "https://open.spotify.com/track/78bsqObGFUD5ntweePBhIY"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "I've Got Some Living To Do",
-        "url": "https://open.spotify.com/album/73ct5rK9qShCYdzBR8C8PX"
-      },
-      "artists": [
-        {
-          "name": "Jelani Aryeh",
-          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
-        }
-      ],
-      "duration_ms": 186324,
-      "name": "Stella Brown",
-      "url": "https://open.spotify.com/track/6n6dqOk5vLiqYaa9Fw5ylH"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "strawberry chainsaw",
         "url": "https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 156008,
       "name": "strawberry chainsaw",
       "url": "https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "I've Got Some Living To Do",
+        "url": "https://open.spotify.com/album/73ct5rK9qShCYdzBR8C8PX"
+      },
+      "artists": [
+        {
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+        }
+      ],
+      "duration_ms": 186324,
+      "name": "Stella Brown",
+      "url": "https://open.spotify.com/track/6n6dqOk5vLiqYaa9Fw5ylH"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Matter",
-        "url": "https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK"
-      },
-      "artists": [
-        {
-          "name": "St. Lucia",
-          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "Dancing On Glass",
-      "url": "https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Bank On The Funeral",
         "url": "https://open.spotify.com/album/3IQhe9N4j1tXTwKlhT2FsL"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 227373,
       "name": "Go Easy",
       "url": "https://open.spotify.com/track/4yoMMiRT5sXtIbSHKQfRqi"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Matter",
+        "url": "https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK"
+      },
+      "artists": [
+        {
+          "name": "St. Lucia",
+          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
+        }
+      ],
+      "duration_ms": 246333,
+      "name": "Dancing On Glass",
+      "url": "https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "It Will Never Be The Same",
+        "url": "https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 250362,
+      "name": "Superglue",
+      "url": "https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Pacific Coast Highway (with Trevor Hall)",
         "url": "https://open.spotify.com/album/2KzhabL9zxpSnPL6cq00Nc"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 227440,
       "name": "Pacific Coast Highway (with Trevor Hall)",
       "url": "https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "It Will Never Be The Same",
-        "url": "https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 250362,
-      "name": "Superglue",
-      "url": "https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Young Rising Sons",
-        "url": "https://open.spotify.com/album/5u2scbuAgP8wLhsKhMnr50"
-      },
-      "artists": [
-        {
-          "name": "Young Rising Sons",
-          "url": "https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV"
-        }
-      ],
-      "duration_ms": 165720,
-      "name": "High",
-      "url": "https://open.spotify.com/track/4gTwPFGhIIlYtlo59jbVUB"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Formentera",
         "url": "https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 263080,
       "name": "All Comes Crashing",
       "url": "https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Young Rising Sons",
+        "url": "https://open.spotify.com/album/5u2scbuAgP8wLhsKhMnr50"
+      },
+      "artists": [
+        {
+          "name": "Young Rising Sons",
+          "url": "https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV"
+        }
+      ],
+      "duration_ms": 165720,
+      "name": "High",
+      "url": "https://open.spotify.com/track/4gTwPFGhIIlYtlo59jbVUB"
     },
     {
       "added_at": "2023-03-24 04:00:00",

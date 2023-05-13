@@ -1,12 +1,12 @@
 {
   "description": "Blues with a British flavor. Cover: Jeff Beck",
-  "num_followers": 116700,
+  "num_followers": 116768,
   "original_name": "Brit-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTU5MmVlMDVkMGY5ZTdkOWUzZGRmZjIwZmFjOGNkMzhlYjkyZDRk",
+  "snapshot_id": "MCw4NDA4ZTE2ZmJmMGQ3MWI0NjcxNjQzNTc5MWY5MWIwNWQ1MjFkMTA2",
   "tracks": [
     {
       "added_at": "2021-04-22 22:35:02",
@@ -169,22 +169,6 @@
       "url": "https://open.spotify.com/track/3ET8TZWF5sP4SPfJK1lKun"
     },
     {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "In the Skies",
-        "url": "https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ"
-      },
-      "artists": [
-        {
-          "name": "Peter Green",
-          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
-        }
-      ],
-      "duration_ms": 464666,
-      "name": "A Fool No More",
-      "url": "https://open.spotify.com/track/2Qm98Rw4rdfvo14ZOUiZTN"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Shining in the Half Light",
@@ -199,6 +183,22 @@
       "duration_ms": 220974,
       "name": "Who's That",
       "url": "https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "In the Skies",
+        "url": "https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ"
+      },
+      "artists": [
+        {
+          "name": "Peter Green",
+          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
+        }
+      ],
+      "duration_ms": 464666,
+      "name": "A Fool No More",
+      "url": "https://open.spotify.com/track/2Qm98Rw4rdfvo14ZOUiZTN"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -299,22 +299,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "In the Skies",
-        "url": "https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ"
-      },
-      "artists": [
-        {
-          "name": "Peter Green",
-          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "In the Skies",
-      "url": "https://open.spotify.com/track/526nHQfF4e5fqr6I2WwyVE"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "Foghat (2016 Remaster)",
         "url": "https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 260813,
       "name": "I Just Want to Make Love to You - 2016 Remaster",
       "url": "https://open.spotify.com/track/6dYZUX7ClBtpzUE7coynkt"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "In the Skies",
+        "url": "https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ"
+      },
+      "artists": [
+        {
+          "name": "Peter Green",
+          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "In the Skies",
+      "url": "https://open.spotify.com/track/526nHQfF4e5fqr6I2WwyVE"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Blues & Gospel (Rare & Unreleased Recordings)",
-        "url": "https://open.spotify.com/album/3tUUbZIkGhzmIGLVXP1Fqi"
-      },
-      "artists": [
-        {
-          "name": "Jo Ann Kelly",
-          "url": "https://open.spotify.com/artist/6enyYil5r9snkIazgAX5DG"
-        }
-      ],
-      "duration_ms": 216186,
-      "name": "Someday Baby Blues",
-      "url": "https://open.spotify.com/track/6SH8e1k6ex1Odj6ukZap0L"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "Gonks Go Beat (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6F7KmbT7Do6tetnKzE5C3i"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 169850,
       "name": "Harmonica",
       "url": "https://open.spotify.com/track/1RzvCKDGLcPaz9jEpsADWZ"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Blues & Gospel (Rare & Unreleased Recordings)",
+        "url": "https://open.spotify.com/album/3tUUbZIkGhzmIGLVXP1Fqi"
+      },
+      "artists": [
+        {
+          "name": "Jo Ann Kelly",
+          "url": "https://open.spotify.com/artist/6enyYil5r9snkIazgAX5DG"
+        }
+      ],
+      "duration_ms": 216186,
+      "name": "Someday Baby Blues",
+      "url": "https://open.spotify.com/track/6SH8e1k6ex1Odj6ukZap0L"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -823,22 +823,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Mk. II (Remastered)",
-        "url": "https://open.spotify.com/album/1BSUQlD675LWJVS4owvcQn"
-      },
-      "artists": [
-        {
-          "name": "Steamhammer",
-          "url": "https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj"
-        }
-      ],
-      "duration_ms": 295213,
-      "name": "Contemporary Chick Con Song - Remastered",
-      "url": "https://open.spotify.com/track/0ejMOOcG8JLEum6LfoPVtl"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "Thank Christ for the Bomb (50th Anniversary Edition)",
         "url": "https://open.spotify.com/album/0YnFiCAP5cvIJe6dEQPfzo"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 304933,
       "name": "Eccentric Man - 2003 Remastered Version",
       "url": "https://open.spotify.com/track/002YdWxaenIUL4PHiv5EB5"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Mk. II (Remastered)",
+        "url": "https://open.spotify.com/album/1BSUQlD675LWJVS4owvcQn"
+      },
+      "artists": [
+        {
+          "name": "Steamhammer",
+          "url": "https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj"
+        }
+      ],
+      "duration_ms": 295213,
+      "name": "Contemporary Chick Con Song - Remastered",
+      "url": "https://open.spotify.com/track/0ejMOOcG8JLEum6LfoPVtl"
     },
     {
       "added_at": "2021-04-22 22:35:02",

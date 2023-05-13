@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bispo e Bárbara Tinoco.
 
-300 songs - 16 hr 23 min
+302 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Até que vc volte](https://open.spotify.com/track/3WYMFOTpwNfbuT8vS67V3D) | [Dougie Knight](https://open.spotify.com/artist/2PU8j6LKs1ndgXQQ92n5RB) | [Até que vc volte](https://open.spotify.com/album/7kRzljKDGhYWAe6Z6kRMVr) | 2:01 | 2023-03-03 | 2023-03-23 |
 | [aventura](https://open.spotify.com/track/1vfTcheHkwGSSbNQjiaom8) | [ÉLLÀH](https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt), [Vincee](https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN) | [aventura](https://open.spotify.com/album/1WxyMf0XHnJjDZoULpX0la) | 3:18 | 2023-04-27 |  |
 | [Baby](https://open.spotify.com/track/2pEHLvTEzLoSePd831mQR3) | [Fran2785](https://open.spotify.com/artist/6eQ7iZBPv29tBjdfSRgjw8) | [Baby](https://open.spotify.com/album/3DRh9PrwDEWZsNDjmNQZpC) | 3:41 | 2023-03-03 | 2023-03-31 |
-| [Backstage](https://open.spotify.com/track/7eoputmT8ACWDmhVFuYFS8) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:16 | 2022-07-07 |  |
+| [Backstage](https://open.spotify.com/track/7eoputmT8ACWDmhVFuYFS8) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:16 | 2022-07-07 | 2023-05-13 |
 | [BAD](https://open.spotify.com/track/7eavXubalNqQjOGnvDneKp) | [Codie](https://open.spotify.com/artist/6572dH5AjosTkf97tnQ4pm) | [BAD](https://open.spotify.com/album/1rm8wxsO4JFwV3Qt4hVgtH) | 2:39 | 2023-03-24 | 2023-04-14 |
 | [Bad Like You](https://open.spotify.com/track/2Gle4hosXEnrkdTu2YMwsH) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Come quarantine w me](https://open.spotify.com/album/4w38KrD6iNjnzUUEj8hfsi) | 4:27 | 2022-07-07 | 2023-04-28 |
 | [BAE](https://open.spotify.com/track/7whAOEEZlRwbp0cLlCyICd) | [Luis Marvão](https://open.spotify.com/artist/0qKkgDdvYql0lH5OfWdPHS) | [BAE](https://open.spotify.com/album/3vdrJJMUftuYgEnOB4seca) | 3:20 | 2022-12-02 | 2023-01-21 |
@@ -84,7 +84,8 @@
 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 | 2022-07-07 |  |
 | [de longe](https://open.spotify.com/track/64Dw1NR6wGTJHMIdWyZUz9) | [Bala de Prata](https://open.spotify.com/artist/6oh2B9GVxXsJ0cEMZuHbpr), [Hernani](https://open.spotify.com/artist/0pv7KRBmPGExsFFLcyPv1y), [Djimetta](https://open.spotify.com/artist/1v1FKWoa3qc7TZBySi0eCW) | [de longe](https://open.spotify.com/album/04GuuwxXFyYKrApJTvDobv) | 4:13 | 2023-04-27 |  |
 | [Demais](https://open.spotify.com/track/6rhYkzPcdqaDgBXhExYWWW) | [GBrïsido](https://open.spotify.com/artist/3QmMiG6180GqdDrl35xqRy) | [Demais](https://open.spotify.com/album/5SjLchkDLzAdhjTS8iUdZy) | 3:07 | 2023-03-03 | 2023-03-25 |
-| [Depois da Chuva](https://open.spotify.com/track/1ScmnksyeYyEtdBlqZcozC) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:39 | 2022-07-07 |  |
+| [Depois da Chuva](https://open.spotify.com/track/1ScmnksyeYyEtdBlqZcozC) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:39 | 2022-07-07 | 2023-05-13 |
+| [Depois da Chuva](https://open.spotify.com/track/7eJD8Ed4FOCFrtDI5o4kKo) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj) | 4:39 | 2023-05-11 |  |
 | [Desce Do Céu](https://open.spotify.com/track/0sL2N1y2f6tjETXH6CLeHY) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Desce Do Céu](https://open.spotify.com/album/29EhHjUiLnhkhpDJPcln7f) | 4:18 | 2022-10-27 | 2022-11-18 |
 | [Desculpa Por Tudo](https://open.spotify.com/track/3A9T5xImBhmIJXjGZ6EZEu) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [VPaiva](https://open.spotify.com/artist/7c5SVMouNYWWVXxp8kmqt9) | [Desculpa Por Tudo](https://open.spotify.com/album/4fW96k2popVR5OB8Ey7EQm) | 2:37 | 2022-07-07 | 2022-07-20 |
 | [DIAMANTE](https://open.spotify.com/track/76bOmc0QLVwP62Sd2ypcdZ) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [ANTI$$OCIAL](https://open.spotify.com/album/1IZA9xdjA6eL5M9sOfCvyI) | 3:24 | 2023-04-06 |  |
@@ -141,6 +142,7 @@
 | [IBC](https://open.spotify.com/track/03jCCoBVLfE3uz0rIeQHwS) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [IBC](https://open.spotify.com/album/5uzZIVVjB9Rwk87pNnyRuP) | 4:06 | 2022-08-18 | 2022-09-17 |
 | [Imagina](https://open.spotify.com/track/2dWbucCC3cVXQWi6JaL7js) | [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Imagina](https://open.spotify.com/album/2C1S5oONnsIYEgvaNf1KWh) | 3:43 | 2022-07-07 |  |
 | [Impec](https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Deepak Looper](https://open.spotify.com/album/6fmSivCeFMAVtMGA2GRMZf) | 3:13 | 2022-07-07 |  |
+| [Impressionanti](https://open.spotify.com/track/0yiExFdxS1wafmmTcKdEHA) | [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O) | [Nu Ta Combina](https://open.spotify.com/album/0HrHUZGAPxXZtenHkbPczt) | 3:20 | 2023-05-11 |  |
 | [In The Middle](https://open.spotify.com/track/3IQQGIHWNK1ryHqoMtqUZg) | [SFISTIKATED](https://open.spotify.com/artist/2LkUD32emCfDhhfldggZ9T), [Rezar](https://open.spotify.com/artist/0KwVGVN1bZfDNQVOySxjsk) | [In The Middle](https://open.spotify.com/album/6etc4KshHLH0RaeZrr0Vgi) | 3:37 | 2023-03-01 | 2023-03-25 |
 | [Jorge Mundo](https://open.spotify.com/track/249u6O2uBVavumgxEpQyWN) | [Reyz](https://open.spotify.com/artist/17NgBeR3LCYGxecmH0PTOl) | [Jorge Mundo](https://open.spotify.com/album/2jtgdgFSqKMJX2AuBIXnYA) | 3:27 | 2022-08-18 | 2022-09-02 |
 | [Já Não Dá](https://open.spotify.com/track/0iWK3yXRNehoxd3mGzOf4x) | [Nello Fellirio](https://open.spotify.com/artist/4bhLHkwtkdynyvACyYesq4), [Johnny B.O.B](https://open.spotify.com/artist/2eSh5msnLJbgXewXSm9XvJ), [Penelas Sidney](https://open.spotify.com/artist/29DNcEMcr9tzvXywJC2L6K) | [Já Não Dá](https://open.spotify.com/album/0AxsOCsnd0mdbqV8XExiTS) | 3:43 | 2022-10-13 | 2022-11-11 |

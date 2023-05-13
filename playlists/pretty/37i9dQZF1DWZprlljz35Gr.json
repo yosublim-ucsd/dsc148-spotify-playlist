@@ -1,12 +1,12 @@
 {
   "description": "Bluesy blips and blops",
-  "num_followers": 7408,
+  "num_followers": 7416,
   "original_name": "Bluestronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzcyYmZhMGM5MjI3Mjc3YmUzZWIxMDk3NGM1ZjE4ZjEyZTQ2YzJh",
+  "snapshot_id": "MCwwNmE0MDEyYWJmOTU4MGY0ZDY0NDg0MmQ2MTI4OWNmZTljYzMxYzgw",
   "tracks": [
     {
       "added_at": "2023-03-17 04:01:00",
@@ -211,6 +211,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Fresh Goods",
+        "url": "https://open.spotify.com/album/3cTRg8cy3cBIDWhN1XYrxZ"
+      },
+      "artists": [
+        {
+          "name": "The Tao Of Groove",
+          "url": "https://open.spotify.com/artist/66nWqKHAI8Q8w72wfUqmZa"
+        }
+      ],
+      "duration_ms": 211706,
+      "name": "Honeybee Blues",
+      "url": "https://open.spotify.com/track/36ED2y9oraEa2mIp1DDxXT"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "This Is For Everyone",
         "url": "https://open.spotify.com/album/1QHlV8vwF7QQjYXO7J2sS7"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 229655,
       "name": "This Is For Everyone - Original Mix",
       "url": "https://open.spotify.com/track/1uGvKTjvBCN1NYzS2DIjCr"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Fresh Goods",
-        "url": "https://open.spotify.com/album/3cTRg8cy3cBIDWhN1XYrxZ"
-      },
-      "artists": [
-        {
-          "name": "The Tao Of Groove",
-          "url": "https://open.spotify.com/artist/66nWqKHAI8Q8w72wfUqmZa"
-        }
-      ],
-      "duration_ms": 211706,
-      "name": "Honeybee Blues",
-      "url": "https://open.spotify.com/track/36ED2y9oraEa2mIp1DDxXT"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -355,22 +355,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "This Is For Everyone",
-        "url": "https://open.spotify.com/album/1QHlV8vwF7QQjYXO7J2sS7"
+        "name": "A Bothered Mind",
+        "url": "https://open.spotify.com/album/19ox7nB02O5mCJtjqzoqGm"
       },
       "artists": [
         {
-          "name": "Jamie Berry",
-          "url": "https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8"
-        },
-        {
-          "name": "Paul Naylor",
-          "url": "https://open.spotify.com/artist/5oIDnYdFJFobh1AMGFdfm5"
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
         }
       ],
-      "duration_ms": 255616,
-      "name": "Stand Together - Original Mix",
-      "url": "https://open.spotify.com/track/2C2G0ZtrQhBa9X6XcbWRH4"
+      "duration_ms": 209640,
+      "name": "Shake 'Em on Down",
+      "url": "https://open.spotify.com/track/1yxCax1l0O8p3lik3WvamC"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -391,22 +387,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "A Bothered Mind",
-        "url": "https://open.spotify.com/album/19ox7nB02O5mCJtjqzoqGm"
-      },
-      "artists": [
-        {
-          "name": "R.L. Burnside",
-          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
-        }
-      ],
-      "duration_ms": 209640,
-      "name": "Shake 'Em on Down",
-      "url": "https://open.spotify.com/track/1yxCax1l0O8p3lik3WvamC"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Deja Booze",
         "url": "https://open.spotify.com/album/7Lt0wInlc4Axf66ch2WyD2"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 217125,
       "name": "Tale of A.G. Smith",
       "url": "https://open.spotify.com/track/5aurQvInAVl4pdWzCXvlWM"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "This Is For Everyone",
+        "url": "https://open.spotify.com/album/1QHlV8vwF7QQjYXO7J2sS7"
+      },
+      "artists": [
+        {
+          "name": "Jamie Berry",
+          "url": "https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8"
+        },
+        {
+          "name": "Paul Naylor",
+          "url": "https://open.spotify.com/artist/5oIDnYdFJFobh1AMGFdfm5"
+        }
+      ],
+      "duration_ms": 255616,
+      "name": "Stand Together - Original Mix",
+      "url": "https://open.spotify.com/track/2C2G0ZtrQhBa9X6XcbWRH4"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -471,18 +471,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Come on In",
-        "url": "https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ"
+        "name": "Stick Em Up",
+        "url": "https://open.spotify.com/album/04MfaVUENsXSnNaY99YYCk"
       },
       "artists": [
         {
-          "name": "R.L. Burnside",
-          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
+          "name": "Charlie Beale",
+          "url": "https://open.spotify.com/artist/5BO1F2wBHUCoX02ZdPP23o"
+        },
+        {
+          "name": "Grid Division",
+          "url": "https://open.spotify.com/artist/31FlFpZXSwN205IxaKG6nt"
         }
       ],
-      "duration_ms": 268226,
-      "name": "Shuck Dub",
-      "url": "https://open.spotify.com/track/7lNr4eqSP7MCUCbDUGHWRo"
+      "duration_ms": 236288,
+      "name": "Stick Em Up",
+      "url": "https://open.spotify.com/track/2s9BHqNHVkbhYCbE5tAMre"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -499,6 +503,22 @@
       "duration_ms": 243370,
       "name": "Grave",
       "url": "https://open.spotify.com/track/1wBICiJNPP9gj6o5nEPHfT"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Come on In",
+        "url": "https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ"
+      },
+      "artists": [
+        {
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
+        }
+      ],
+      "duration_ms": 268226,
+      "name": "Shuck Dub",
+      "url": "https://open.spotify.com/track/7lNr4eqSP7MCUCbDUGHWRo"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -539,26 +559,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Stick Em Up",
-        "url": "https://open.spotify.com/album/04MfaVUENsXSnNaY99YYCk"
-      },
-      "artists": [
-        {
-          "name": "Charlie Beale",
-          "url": "https://open.spotify.com/artist/5BO1F2wBHUCoX02ZdPP23o"
-        },
-        {
-          "name": "Grid Division",
-          "url": "https://open.spotify.com/artist/31FlFpZXSwN205IxaKG6nt"
-        }
-      ],
-      "duration_ms": 236288,
-      "name": "Stick Em Up",
-      "url": "https://open.spotify.com/track/2s9BHqNHVkbhYCbE5tAMre"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Music for Cop Shows",
         "url": "https://open.spotify.com/album/5BXskRJFE9uS1C0K1hZtqE"
       },
@@ -571,22 +571,6 @@
       "duration_ms": 154400,
       "name": "Daddy Was a Wolfman",
       "url": "https://open.spotify.com/track/7i10VbOnkG09EuZuOkz3gO"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Come on In",
-        "url": "https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ"
-      },
-      "artists": [
-        {
-          "name": "R.L. Burnside",
-          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
-        }
-      ],
-      "duration_ms": 178800,
-      "name": "Please Don't Stay",
-      "url": "https://open.spotify.com/track/5QCKfr2ckdL5kf9wCQtzUu"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -607,6 +591,22 @@
       "duration_ms": 157426,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/2CPIE5QUfKjUKFNcKQXgnU"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Come on In",
+        "url": "https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ"
+      },
+      "artists": [
+        {
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
+        }
+      ],
+      "duration_ms": 178800,
+      "name": "Please Don't Stay",
+      "url": "https://open.spotify.com/track/5QCKfr2ckdL5kf9wCQtzUu"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -641,22 +641,6 @@
       "url": "https://open.spotify.com/track/3LAyeN6fnP8Hxd9uNszLsp"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Heavy On My Heart",
-        "url": "https://open.spotify.com/album/55tjr8iorhH3OJUlT60Emf"
-      },
-      "artists": [
-        {
-          "name": "Caiti Baker",
-          "url": "https://open.spotify.com/artist/05eqfIcVnnc9zywXVdHv1P"
-        }
-      ],
-      "duration_ms": 210430,
-      "name": "Heavy On My Heart",
-      "url": "https://open.spotify.com/track/3EaoAfUtmDpe3DEtmEmCQf"
-    },
-    {
       "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "Dirty Blues",
@@ -671,6 +655,22 @@
       "duration_ms": 166574,
       "name": "Dirty Blues",
       "url": "https://open.spotify.com/track/41N9M3HeIQWcS63XAiWOqJ"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Heavy On My Heart",
+        "url": "https://open.spotify.com/album/55tjr8iorhH3OJUlT60Emf"
+      },
+      "artists": [
+        {
+          "name": "Caiti Baker",
+          "url": "https://open.spotify.com/artist/05eqfIcVnnc9zywXVdHv1P"
+        }
+      ],
+      "duration_ms": 210430,
+      "name": "Heavy On My Heart",
+      "url": "https://open.spotify.com/track/3EaoAfUtmDpe3DEtmEmCQf"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Who Else!",
-        "url": "https://open.spotify.com/album/0RkgsbkvvlIsCaoRZK40Dm"
-      },
-      "artists": [
-        {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
-        }
-      ],
-      "duration_ms": 295640,
-      "name": "Psycho Sam",
-      "url": "https://open.spotify.com/track/30gsKtkGEylGX4m7obkefo"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Return",
         "url": "https://open.spotify.com/album/7CVCVJP0FuNBdtOCqd4jD3"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 321375,
       "name": "Ride On",
       "url": "https://open.spotify.com/track/4sEDI5vsiNsdefE0K93181"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Who Else!",
+        "url": "https://open.spotify.com/album/0RkgsbkvvlIsCaoRZK40Dm"
+      },
+      "artists": [
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        }
+      ],
+      "duration_ms": 295640,
+      "name": "Psycho Sam",
+      "url": "https://open.spotify.com/track/30gsKtkGEylGX4m7obkefo"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -817,6 +817,22 @@
       "url": "https://open.spotify.com/track/1Y3xPsuvx57Jtck6U92SNj"
     },
     {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Hard Grind",
+        "url": "https://open.spotify.com/album/1kw3Ixj3jFCe153TQcicpB"
+      },
+      "artists": [
+        {
+          "name": "Little Axe",
+          "url": "https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ"
+        }
+      ],
+      "duration_ms": 243986,
+      "name": "Midnight Dream",
+      "url": "https://open.spotify.com/track/1GSa7lngY88UwrL1WulxJ0"
+    },
+    {
       "added_at": "2021-08-13 04:01:00",
       "album": {
         "name": "High Vibe Remixes, Vol. 1",
@@ -835,22 +851,6 @@
       "duration_ms": 229110,
       "name": "Love Me - KR3TURE Remix",
       "url": "https://open.spotify.com/track/4eBIob5CXTTQ2PvmeENC0S"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Hard Grind",
-        "url": "https://open.spotify.com/album/1kw3Ixj3jFCe153TQcicpB"
-      },
-      "artists": [
-        {
-          "name": "Little Axe",
-          "url": "https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ"
-        }
-      ],
-      "duration_ms": 243986,
-      "name": "Midnight Dream",
-      "url": "https://open.spotify.com/track/1GSa7lngY88UwrL1WulxJ0"
     }
   ],
   "unique_name": "Bluestronica",

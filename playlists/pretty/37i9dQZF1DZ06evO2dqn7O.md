@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 
 > This is X Ambassadors\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,706 likes - 53 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,719 likes - 53 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,6 +60,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 | 50 | [JOYFUL](https://open.spotify.com/track/3mau755ebHNf9B0qXAQXF9) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [JOYFUL](https://open.spotify.com/album/0x5Vn7tPWyACi4e02ahWEs) | 3:52 |
 | 51 | [Everything Sounds Like A Love Song](https://open.spotify.com/track/0TPsp6jaQHOcgL8bYUt4AT) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Belong EP](https://open.spotify.com/album/7inQoz3exeJ2mTCtFXlPqP) | 4:26 |
 | 52 | [Shining](https://open.spotify.com/track/4qwaIFrAbHGLjeqwEO77rG) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [The Reason EP](https://open.spotify.com/album/0mw0LyRyBaqQg2ASXFrjQJ) | 3:37 |
-| 53 | [Down With Me](https://open.spotify.com/track/17FV9pZcXiJsFRn3McId1e) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Love Songs Drug Songs](https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK) | 3:37 |
+| 53 | [Collider](https://open.spotify.com/track/0eATgkWG5F2S0pLFK95ImZ) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [VHS 2.0](https://open.spotify.com/album/07MhkuCXC6XBQTDpXPRyBI) | 3:18 |
 
-Snapshot ID: `MjgwNjM0NjIsMDAwMDAwMDAwMjRmNWRhY2M2OTliMmY5NjEzYzc2Mjc1MDg3ZjE1NA==`
+Snapshot ID: `MjgwNjQ5MDksMDAwMDAwMDAwYmRhY2RhZTg2NzNlNGMxYjM0Mjk1ZjVkNGI2Y2QzZA==`

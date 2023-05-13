@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 
 > Pas mal "tes tounes de karaoké préférées".
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,136 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,140 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,15 +49,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 39 | [Qui a le droit..\. \- Live "Si ce soir"](https://open.spotify.com/track/6uORP6hjzTP6GzzkZJgtok) | [Patrick Bruel](https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg) | [Si ce soir, Vol\. 2](https://open.spotify.com/album/7tRP3KQ3PpfmNqByG0C1K7) | 4:33 |
 | 40 | [L'amour est dans tes yeux](https://open.spotify.com/track/3UBrZaRETY6l2xfCsik4NL) | [Martine St Clair](https://open.spotify.com/artist/7mj0ykOd4nU43TFvJobbyq) | [Ce soir l'amour est dans tes yeux](https://open.spotify.com/album/7HZfX5GAbCjWiJf1L1AJjQ) | 6:33 |
 | 41 | [Je voudrais voir la mer](https://open.spotify.com/track/49PbjFOCzUYDUbjUJxin8V) | [Michel Rivard](https://open.spotify.com/artist/6CVur2iw4ExLNmsSGiATZN) | [Un trou dans les nuages](https://open.spotify.com/album/1wLEC5NI6C2Cq4Ap4TpDKN) | 5:19 |
-| 42 | [Pour une histoire d'un soir](https://open.spotify.com/track/0oXqAQBT0KE2IzBgFivcnW) | [Marie Denise Pelletier](https://open.spotify.com/artist/1Uxer84r7rkh5OFQKMXd1l) | [Les introuvables](https://open.spotify.com/album/6Ow5AKypdyGHNHk4F4BDgo) | 3:39 |
-| 43 | [Seul au combat](https://open.spotify.com/track/28DBhTwgt6Gnu2g4K0Sn83) | [Les BB](https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr) | [Snob](https://open.spotify.com/album/1IDH1RaKNwTjqAcrFSIPOy) | 5:28 |
+| 42 | [Seul au combat](https://open.spotify.com/track/28DBhTwgt6Gnu2g4K0Sn83) | [Les BB](https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr) | [Snob](https://open.spotify.com/album/1IDH1RaKNwTjqAcrFSIPOy) | 5:28 |
+| 43 | [Pour une histoire d'un soir](https://open.spotify.com/track/0oXqAQBT0KE2IzBgFivcnW) | [Marie Denise Pelletier](https://open.spotify.com/artist/1Uxer84r7rkh5OFQKMXd1l) | [Les introuvables](https://open.spotify.com/album/6Ow5AKypdyGHNHk4F4BDgo) | 3:39 |
 | 44 | [Que je t'aime](https://open.spotify.com/track/0ui0AsKMbOntbzq6j2SN9a) | [Sylvain Cossette](https://open.spotify.com/artist/660PvqDaksGwQPFLbAy7pb) | [Mes succès francophones 1](https://open.spotify.com/album/3UvMunvcUi84AkywMx0htO) | 3:57 |
 | 45 | [Ailleurs](https://open.spotify.com/track/423t7wuX8K01IcXZMzVbBW) | [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Sans retour](https://open.spotify.com/album/5NBZzXIoyqDUKlvPrdV3fq) | 7:15 |
 | 46 | [Tu trouveras](https://open.spotify.com/track/2mvv1eZ8tAlm1FkuxTdnL7) | [Natasha St\-Pier](https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch) | [Tu trouveras..\. 10 Ans De Succès](https://open.spotify.com/album/5nRY7aAo34cFREm91rmzET) | 4:58 |
 | 47 | [Quelqu'un M'a Dit](https://open.spotify.com/track/2v9AGeylYJq2EjC9vtSr99) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Learn French Thru Music](https://open.spotify.com/album/4cK3pngh0i9tFpolN7U3cA) | 2:43 |
 | 48 | [Casser la voix](https://open.spotify.com/track/0cp8Fd3p8oMbTBv1s6MmrK) | [Patrick Bruel](https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg) | [Puzzle](https://open.spotify.com/album/5WaAW6zWPlGadqkw3mYaAL) | 4:23 |
-| 49 | [Mon frère](https://open.spotify.com/track/4rd83jWw2g5aP1K7rGnAmE) | [France D'Amour](https://open.spotify.com/artist/5g40u1MQUx691VciJIh3jI) | [Déchaînée](https://open.spotify.com/album/15fDQmVVpW1ojKEmH7MrnB) | 4:03 |
-| 50 | [Shame on U](https://open.spotify.com/track/5Ui48l2ViRrnssgzipXNPc) | [Ophélie Winter](https://open.spotify.com/artist/1CWf9Py9ugzhwqunEEIFYP) | [Soon](https://open.spotify.com/album/4EBnAga3Y1x9iRsp3qsutX) | 4:37 |
+| 49 | [Shame on U](https://open.spotify.com/track/5Ui48l2ViRrnssgzipXNPc) | [Ophélie Winter](https://open.spotify.com/artist/1CWf9Py9ugzhwqunEEIFYP) | [Soon](https://open.spotify.com/album/4EBnAga3Y1x9iRsp3qsutX) | 4:37 |
+| 50 | [Mon frère](https://open.spotify.com/track/4rd83jWw2g5aP1K7rGnAmE) | [France D'Amour](https://open.spotify.com/artist/5g40u1MQUx691VciJIh3jI) | [Déchaînée](https://open.spotify.com/album/15fDQmVVpW1ojKEmH7MrnB) | 4:03 |
 | 51 | [Vivre Avec Celui Qu'on Aime](https://open.spotify.com/track/3QeHjFpa62YmVG4rCVhQ1g) | [Francine Raymond](https://open.spotify.com/artist/4XhSu04KR47kzRHF6esYas) | [Francine Raymond](https://open.spotify.com/album/7yduHV2iKYQgiQHPb9ECkL) | 3:43 |
 | 52 | [Changer](https://open.spotify.com/track/59DiAbELxjxnY5fcgQRTI9) | [Jean\-François Breau](https://open.spotify.com/artist/6TQdhArWgJCZTAHu9V2gdu), [Marie\-Ève Janvier](https://open.spotify.com/artist/0FeqojwZ2cxZ5ME0n9XAwK) | [Don Juan \(Les plus grands succès du spectacle musical de Félix Gray\)](https://open.spotify.com/album/6zCqUEDoZRN92o7vtddpV5) | 4:06 |
 | 53 | [Flagrant délit](https://open.spotify.com/track/0t0zkVay0Nbt9qynMK7C4a) | [Herbert Léonard](https://open.spotify.com/artist/2VsTgQUocqoaXjLG5YerlB) | [Best of Herbert Léonard](https://open.spotify.com/album/6ZudFHSwgkQxsmCDwjHSRX) | 4:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 74 | [Le ciel est à moi](https://open.spotify.com/track/7rei6qkJoTI00AaYWB7a0k) | [Marie\-Élaine Thibert](https://open.spotify.com/artist/4dCRlMJfHuq6GTTVNyxjNH) | [Marie\-Élaine Thibert](https://open.spotify.com/album/7u5RRckpk4riXBpIiIwCFs) | 4:35 |
 | 75 | [Bye Bye Mon Cowboy \- Original Version](https://open.spotify.com/track/1J9by690rO1VvQGrliaR0J) | [Mitsou](https://open.spotify.com/artist/2uaGBnwCVIftDwC3dcbS80) | [La Collection](https://open.spotify.com/album/2pq3KQJYOgxpyQo27Bg0rX) | 3:46 |
 
-Snapshot ID: `MCxiZTI3NDhiNzUzZjczMmI3YjgyNjc0MDU1MTc0ZjllN2MwYTVkNWFj`
+Snapshot ID: `MCw1Y2E0ZmYyY2FhNTAwZTFmYmU3MWVhMjZkMzEyZTZlZDgxNjExMDA1`

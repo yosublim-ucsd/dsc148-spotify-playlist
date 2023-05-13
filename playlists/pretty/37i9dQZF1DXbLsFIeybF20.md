@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 
 > Get into the spirit of New Orleans
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,436 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,438 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 49 | [On the Square](https://open.spotify.com/track/17TMEJXBTWKELB4PQ3vbh1) | [Olympia Brass Band](https://open.spotify.com/artist/3X4cYFPu2LZ4NhAm16TsZt) | [The Great Olympia Band](https://open.spotify.com/album/0Wnrzvyabjext6HSTvJ4IB) | 3:43 |
 | 50 | [Tiger Rag 3](https://open.spotify.com/track/4GHM6gF3ajMxUyRKfYRApf) | [Original Dixieland Jazz Band](https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh) | [The Best of Dixieland](https://open.spotify.com/album/6cwK33nXxr4ijR6rsy7RZd) | 2:36 |
 
-Snapshot ID: `MCwwZWNlYWEwOTE0NTljZjQ4NzRlYWU4MGRkOGMyNjkwYzFjODU4NWE5`
+Snapshot ID: `MCw0NDJiNTU2MGFiNmFlNDQ3ZGU1M2Q3YWJhMzEzOThkNjBiM2VjY2E4`

@@ -1,12 +1,12 @@
 {
   "description": "Only the biggest Hardstyle tracks!",
-  "num_followers": 1201962,
+  "num_followers": 1202416,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDlhYzk4NjA4MzY1ZjNjYmE2ZjIzMWNhN2Y1MTRkYzVlNjBjOTJi",
+  "snapshot_id": "MCwzYjJmZWRlNDBlNmYxMTM0ZjMzNWI1NWEzNjI4ZjBkMmM0MGNlYWYz",
   "tracks": [
     {
       "added_at": "2023-05-11 22:00:00",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Epic Sax Song",
-        "url": "https://open.spotify.com/album/6NaT8AHDRPSuHT3IZKJjL4"
+        "name": "Rest In Pieces",
+        "url": "https://open.spotify.com/album/0GtKJFawJ0GTmEz0uKOyJr"
       },
       "artists": [
         {
-          "name": "Adrenalize",
-          "url": "https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c"
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
         }
       ],
-      "duration_ms": 176212,
-      "name": "Epic Sax Song",
-      "url": "https://open.spotify.com/track/1MBCOLWlw0wXeSlCgLQCK9"
+      "duration_ms": 172500,
+      "name": "Down To Earth",
+      "url": "https://open.spotify.com/track/3kihuUqBuMDO6tXGUY65s9"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -983,18 +983,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Rest In Pieces",
-        "url": "https://open.spotify.com/album/0GtKJFawJ0GTmEz0uKOyJr"
+        "name": "Epic Sax Song",
+        "url": "https://open.spotify.com/album/6NaT8AHDRPSuHT3IZKJjL4"
       },
       "artists": [
         {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+          "name": "Adrenalize",
+          "url": "https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Down To Earth",
-      "url": "https://open.spotify.com/track/3kihuUqBuMDO6tXGUY65s9"
+      "duration_ms": 176212,
+      "name": "Epic Sax Song",
+      "url": "https://open.spotify.com/track/1MBCOLWlw0wXeSlCgLQCK9"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1131,34 +1131,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Surrender (The Remixes)",
-        "url": "https://open.spotify.com/album/3vZnfxMSVRnfrRoBmGfA1W"
-      },
-      "artists": [
-        {
-          "name": "Darude",
-          "url": "https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ"
-        },
-        {
-          "name": "Ashley Wallbridge",
-          "url": "https://open.spotify.com/artist/4hNpdlfPY7R51u4FEkBxJG"
-        },
-        {
-          "name": "Foux",
-          "url": "https://open.spotify.com/artist/2lPR8qx4H6y586exb4SyXk"
-        },
-        {
-          "name": "Hixxy",
-          "url": "https://open.spotify.com/artist/79PC6rrXA39xOdNTf71dvN"
-        }
-      ],
-      "duration_ms": 204906,
-      "name": "Surrender - Hixxy Remix",
-      "url": "https://open.spotify.com/track/7qK0mNHVdVbnqt3Prd26Vs"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Paper Thin (Headhunterz Remix)",
         "url": "https://open.spotify.com/album/0bOFeg0VbNsscC0Kq4Ca5r"
       },
@@ -1187,26 +1159,30 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Geisterbahn",
-        "url": "https://open.spotify.com/album/72CzcpUgHhEYsDPlrZVllJ"
+        "name": "Surrender (The Remixes)",
+        "url": "https://open.spotify.com/album/3vZnfxMSVRnfrRoBmGfA1W"
       },
       "artists": [
         {
-          "name": "HBz",
-          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+          "name": "Darude",
+          "url": "https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ"
         },
         {
-          "name": "Pazoo",
-          "url": "https://open.spotify.com/artist/6HU4BOe89xyKTjx5uPT3Gg"
+          "name": "Ashley Wallbridge",
+          "url": "https://open.spotify.com/artist/4hNpdlfPY7R51u4FEkBxJG"
         },
         {
-          "name": "Schalldicht",
-          "url": "https://open.spotify.com/artist/1eVvlV77JAf5puSZPg1aQ2"
+          "name": "Foux",
+          "url": "https://open.spotify.com/artist/2lPR8qx4H6y586exb4SyXk"
+        },
+        {
+          "name": "Hixxy",
+          "url": "https://open.spotify.com/artist/79PC6rrXA39xOdNTf71dvN"
         }
       ],
-      "duration_ms": 158038,
-      "name": "Geisterbahn",
-      "url": "https://open.spotify.com/track/0b368rOCLexAaKX2fXPnFj"
+      "duration_ms": 204906,
+      "name": "Surrender - Hixxy Remix",
+      "url": "https://open.spotify.com/track/7qK0mNHVdVbnqt3Prd26Vs"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1231,18 +1207,26 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Sky Fall",
-        "url": "https://open.spotify.com/album/5jtPNpTgbhoDusNUlRKpsP"
+        "name": "Geisterbahn",
+        "url": "https://open.spotify.com/album/72CzcpUgHhEYsDPlrZVllJ"
       },
       "artists": [
         {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        },
+        {
+          "name": "Pazoo",
+          "url": "https://open.spotify.com/artist/6HU4BOe89xyKTjx5uPT3Gg"
+        },
+        {
+          "name": "Schalldicht",
+          "url": "https://open.spotify.com/artist/1eVvlV77JAf5puSZPg1aQ2"
         }
       ],
-      "duration_ms": 215225,
-      "name": "Sky Fall",
-      "url": "https://open.spotify.com/track/1T5vk1tmGkK8cSCSQFOWcD"
+      "duration_ms": 158038,
+      "name": "Geisterbahn",
+      "url": "https://open.spotify.com/track/0b368rOCLexAaKX2fXPnFj"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1267,6 +1251,22 @@
       "duration_ms": 241531,
       "name": "Run From Reality",
       "url": "https://open.spotify.com/track/6XAjjeQkt52pLVFaIk6gNi"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Sky Fall",
+        "url": "https://open.spotify.com/album/5jtPNpTgbhoDusNUlRKpsP"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "duration_ms": 215225,
+      "name": "Sky Fall",
+      "url": "https://open.spotify.com/track/1T5vk1tmGkK8cSCSQFOWcD"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Vendetta (X-Qlusive OST)",
-        "url": "https://open.spotify.com/album/07YoVUzYhdzlJvKeIriPTV"
-      },
-      "artists": [
-        {
-          "name": "Rebelion",
-          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
-        }
-      ],
-      "duration_ms": 219477,
-      "name": "Vendetta - X-Qlusive OST",
-      "url": "https://open.spotify.com/track/7hUjxqqihtkNajd5pGFaut"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Rest In Pieces",
         "url": "https://open.spotify.com/album/4TvaNm9rb4wZAwOtE4wF1T"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 192000,
       "name": "Rest In Pieces",
       "url": "https://open.spotify.com/track/7iaHUmMUyXUHfVVJrOKyLC"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Vendetta (X-Qlusive OST)",
+        "url": "https://open.spotify.com/album/07YoVUzYhdzlJvKeIriPTV"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        }
+      ],
+      "duration_ms": 219477,
+      "name": "Vendetta - X-Qlusive OST",
+      "url": "https://open.spotify.com/track/7hUjxqqihtkNajd5pGFaut"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Come With Me",
+        "url": "https://open.spotify.com/album/1nS5RjmwKhROZY2XvSL71u"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "Come With Me",
+      "url": "https://open.spotify.com/track/6vFEXiW7QPKGRardogdK6f"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "So Easy",
         "url": "https://open.spotify.com/album/7wSxGIludeOatyvKPnvbxo"
       },
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Impact",
-        "url": "https://open.spotify.com/album/7pAC6BK4KbA21ffLsT99jY"
-      },
-      "artists": [
-        {
-          "name": "D-Sturb",
-          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
-        }
-      ],
-      "duration_ms": 219870,
-      "name": "Impact",
-      "url": "https://open.spotify.com/track/33yP87JuBfAhwuZplkysHH"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Chase The Sun (Hardstyle Mix)",
         "url": "https://open.spotify.com/album/6Rl1i6qi16I6EOo8rea4Q6"
       },
@@ -1543,6 +1543,22 @@
       "duration_ms": 135967,
       "name": "Chase The Sun (Hardstyle Mix)",
       "url": "https://open.spotify.com/track/4Ujj3fBXpQZOChxAmsEzlL"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Impact",
+        "url": "https://open.spotify.com/album/7pAC6BK4KbA21ffLsT99jY"
+      },
+      "artists": [
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        }
+      ],
+      "duration_ms": 219870,
+      "name": "Impact",
+      "url": "https://open.spotify.com/track/33yP87JuBfAhwuZplkysHH"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1567,22 +1583,6 @@
       "duration_ms": 263453,
       "name": "Silence - Brennan Heart Remix",
       "url": "https://open.spotify.com/track/0cfxGRaCEFKwz66bURIYz5"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Come With Me",
-        "url": "https://open.spotify.com/album/1nS5RjmwKhROZY2XvSL71u"
-      },
-      "artists": [
-        {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "Come With Me",
-      "url": "https://open.spotify.com/track/6vFEXiW7QPKGRardogdK6f"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Conquer Your Mind (APEX 2023 OST)",
-        "url": "https://open.spotify.com/album/0paLy0fl9zbTGi81rqupOp"
-      },
-      "artists": [
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        }
-      ],
-      "duration_ms": 267791,
-      "name": "Conquer Your Mind - APEX 2023 OST",
-      "url": "https://open.spotify.com/track/6NA9FCLctIRhJc9723tZje"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "One More Night",
         "url": "https://open.spotify.com/album/3Y6VZtjdLOo0PmcqtHPsID"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 197142,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/0A6H7CLOfNV01YVDDuCQs1"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Conquer Your Mind (APEX 2023 OST)",
+        "url": "https://open.spotify.com/album/0paLy0fl9zbTGi81rqupOp"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "duration_ms": 267791,
+      "name": "Conquer Your Mind - APEX 2023 OST",
+      "url": "https://open.spotify.com/track/6NA9FCLctIRhJc9723tZje"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1779,26 +1779,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Renaissance Of Rave",
-        "url": "https://open.spotify.com/album/57MtV6axHjkNZxMPHjI2Oz"
-      },
-      "artists": [
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        },
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        }
-      ],
-      "duration_ms": 239111,
-      "name": "Soft Ass Shit",
-      "url": "https://open.spotify.com/track/31w4zlTpovdyggvHvdWBuV"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "All Night (feat. Ally Brooke) [Zero Days Remix]",
         "url": "https://open.spotify.com/album/6dzGmVKEVKh75gfQyRZEOt"
       },
@@ -1839,6 +1819,26 @@
       "duration_ms": 235294,
       "name": "It's All About The Music",
       "url": "https://open.spotify.com/track/0w9Ycu6AN8kuN5LyIskWJD"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Renaissance Of Rave",
+        "url": "https://open.spotify.com/album/57MtV6axHjkNZxMPHjI2Oz"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "duration_ms": 239111,
+      "name": "Soft Ass Shit",
+      "url": "https://open.spotify.com/track/31w4zlTpovdyggvHvdWBuV"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1943,26 +1943,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Make Some Noise (feat. Maikki)",
-        "url": "https://open.spotify.com/album/7FDfFGtICR15kqaUlgHItx"
+        "name": "Come Take My Hand (Ran-D Remix)",
+        "url": "https://open.spotify.com/album/06a36yj8fqrm8MUFeI7qO4"
       },
       "artists": [
         {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+          "name": "2 Brothers On The 4th Floor",
+          "url": "https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm"
         },
         {
-          "name": "Ben Nicky",
-          "url": "https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA"
-        },
-        {
-          "name": "Maikki",
-          "url": "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
         }
       ],
-      "duration_ms": 208937,
-      "name": "Make Some Noise",
-      "url": "https://open.spotify.com/track/7kk5uXHvIq9APSfAuoPfvk"
+      "duration_ms": 262550,
+      "name": "Come Take My Hand - Ran-D Remix",
+      "url": "https://open.spotify.com/track/4plFHRIYpyvO46CWG2UMvG"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1987,22 +1983,26 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Come Take My Hand (Ran-D Remix)",
-        "url": "https://open.spotify.com/album/06a36yj8fqrm8MUFeI7qO4"
+        "name": "Make Some Noise (feat. Maikki)",
+        "url": "https://open.spotify.com/album/7FDfFGtICR15kqaUlgHItx"
       },
       "artists": [
         {
-          "name": "2 Brothers On The 4th Floor",
-          "url": "https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm"
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
         },
         {
-          "name": "Ran-D",
-          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+          "name": "Ben Nicky",
+          "url": "https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA"
+        },
+        {
+          "name": "Maikki",
+          "url": "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
         }
       ],
-      "duration_ms": 262550,
-      "name": "Come Take My Hand - Ran-D Remix",
-      "url": "https://open.spotify.com/track/4plFHRIYpyvO46CWG2UMvG"
+      "duration_ms": 208937,
+      "name": "Make Some Noise",
+      "url": "https://open.spotify.com/track/7kk5uXHvIq9APSfAuoPfvk"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -2099,6 +2099,30 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Das Boot",
+        "url": "https://open.spotify.com/album/4keZc58AKTGa5DEXWKBsa2"
+      },
+      "artists": [
+        {
+          "name": "Noisecontrollers",
+          "url": "https://open.spotify.com/artist/6qJ61DomA73g7jQEKESw9Z"
+        },
+        {
+          "name": "Atmozfears",
+          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
+        },
+        {
+          "name": "B-Front",
+          "url": "https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Das Boot",
+      "url": "https://open.spotify.com/track/0iNIsiJLxEBeqCcKzvBT9A"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Marble (Marc Blou Remix)",
         "url": "https://open.spotify.com/album/3spdRAdTkREkDVLdtBKzbM"
       },
@@ -2123,30 +2147,6 @@
       "duration_ms": 207230,
       "name": "Marble - Marc Blou Remix",
       "url": "https://open.spotify.com/track/68D3lp57w0TBdJd8Z64Exi"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Das Boot",
-        "url": "https://open.spotify.com/album/4keZc58AKTGa5DEXWKBsa2"
-      },
-      "artists": [
-        {
-          "name": "Noisecontrollers",
-          "url": "https://open.spotify.com/artist/6qJ61DomA73g7jQEKESw9Z"
-        },
-        {
-          "name": "Atmozfears",
-          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
-        },
-        {
-          "name": "B-Front",
-          "url": "https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Das Boot",
-      "url": "https://open.spotify.com/track/0iNIsiJLxEBeqCcKzvBT9A"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "NRG OVERLOAD",
-        "url": "https://open.spotify.com/album/4xzs97Rgelf8TAec8xvoz5"
-      },
-      "artists": [
-        {
-          "name": "Hard Driver",
-          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
-        }
-      ],
-      "duration_ms": 204387,
-      "name": "NRG OVERLOAD",
-      "url": "https://open.spotify.com/track/6e4iELsEdqiRDKZX9EJJ2F"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Fine Day",
         "url": "https://open.spotify.com/album/2ZIFHjv7tMdEsYfWy9HwFv"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 236800,
       "name": "Fine Day",
       "url": "https://open.spotify.com/track/7aKme0bvekUFoMI0cHGIRk"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "NRG OVERLOAD",
+        "url": "https://open.spotify.com/album/4xzs97Rgelf8TAec8xvoz5"
+      },
+      "artists": [
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        }
+      ],
+      "duration_ms": 204387,
+      "name": "NRG OVERLOAD",
+      "url": "https://open.spotify.com/track/6e4iELsEdqiRDKZX9EJJ2F"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -2419,22 +2419,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Dark Side Of The Wall",
-        "url": "https://open.spotify.com/album/4abcPRFT4rt5tQYVSW7Xwr"
-      },
-      "artists": [
-        {
-          "name": "KELTEK",
-          "url": "https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e"
-        }
-      ],
-      "duration_ms": 243096,
-      "name": "Dark Side Of The Wall",
-      "url": "https://open.spotify.com/track/0pYJTUbeFC82dHKGmAjONp"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Turn The Tide Revisited",
         "url": "https://open.spotify.com/album/6lO0IvuTGuO9zlpgC2NUCz"
       },
@@ -2451,6 +2435,22 @@
       "duration_ms": 188800,
       "name": "Turn The Tide Revisited",
       "url": "https://open.spotify.com/track/6HZMjW77EJTRimMarTJVnh"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Dark Side Of The Wall",
+        "url": "https://open.spotify.com/album/4abcPRFT4rt5tQYVSW7Xwr"
+      },
+      "artists": [
+        {
+          "name": "KELTEK",
+          "url": "https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e"
+        }
+      ],
+      "duration_ms": 243096,
+      "name": "Dark Side Of The Wall",
+      "url": "https://open.spotify.com/track/0pYJTUbeFC82dHKGmAjONp"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -2575,22 +2575,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Like A Lion",
-        "url": "https://open.spotify.com/album/6KdB1uh7yYtDq5VKnja2ui"
-      },
-      "artists": [
-        {
-          "name": "Coone",
-          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
-        }
-      ],
-      "duration_ms": 199740,
-      "name": "Like A Lion",
-      "url": "https://open.spotify.com/track/2kxeK97qaeEnpwIJDPYCQG"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Until the Day I Die",
         "url": "https://open.spotify.com/album/7woGq9UgKhS6CSaxZhNshV"
       },
@@ -2615,6 +2599,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Like A Lion",
+        "url": "https://open.spotify.com/album/6KdB1uh7yYtDq5VKnja2ui"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        }
+      ],
+      "duration_ms": 199740,
+      "name": "Like A Lion",
+      "url": "https://open.spotify.com/track/2kxeK97qaeEnpwIJDPYCQG"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/0Smj1yoAnscJeGEPCJIUNl"
       },
@@ -2627,6 +2627,22 @@
       "duration_ms": 241032,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/1P0mcQCTn85NY7I1cKFVZh"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Silver Bullet",
+        "url": "https://open.spotify.com/album/3RB9nd2moNxaA2Wi3WQcOZ"
+      },
+      "artists": [
+        {
+          "name": "Phuture Noize",
+          "url": "https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT"
+        }
+      ],
+      "duration_ms": 182709,
+      "name": "Masquerade",
+      "url": "https://open.spotify.com/track/3MBP4fVf4bkD4HH7M4oA7f"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -2651,22 +2667,6 @@
       "duration_ms": 197927,
       "name": "Happy Place (feat. Cathrine Lassen) - Refuzion Remix",
       "url": "https://open.spotify.com/track/2PMzTucvbLGxeHxoFS5giO"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Silver Bullet",
-        "url": "https://open.spotify.com/album/3RB9nd2moNxaA2Wi3WQcOZ"
-      },
-      "artists": [
-        {
-          "name": "Phuture Noize",
-          "url": "https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT"
-        }
-      ],
-      "duration_ms": 182709,
-      "name": "Masquerade",
-      "url": "https://open.spotify.com/track/3MBP4fVf4bkD4HH7M4oA7f"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -2727,6 +2727,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Beat Of The Drum",
+        "url": "https://open.spotify.com/album/6AUQfrGH0q6Fk5j9WiEVUx"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        }
+      ],
+      "duration_ms": 224500,
+      "name": "Beat Of The Drum",
+      "url": "https://open.spotify.com/track/2SfZz1PiMgma882CqeEvqf"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Infinity",
         "url": "https://open.spotify.com/album/7DjLttCTgkKZklPe6GFwBt"
       },
@@ -2755,22 +2771,6 @@
       "duration_ms": 173754,
       "name": "Hunters Lullaby 2020",
       "url": "https://open.spotify.com/track/0ZvKkulRYWDCheU3Wb9yFY"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Beat Of The Drum",
-        "url": "https://open.spotify.com/album/6AUQfrGH0q6Fk5j9WiEVUx"
-      },
-      "artists": [
-        {
-          "name": "Coone",
-          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
-        }
-      ],
-      "duration_ms": 224500,
-      "name": "Beat Of The Drum",
-      "url": "https://open.spotify.com/track/2SfZz1PiMgma882CqeEvqf"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -2899,22 +2899,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Heart On Fire",
-        "url": "https://open.spotify.com/album/2klKsbqt3GHjUSDekdotrL"
-      },
-      "artists": [
-        {
-          "name": "Malice",
-          "url": "https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5"
-        }
-      ],
-      "duration_ms": 151874,
-      "name": "Heart On Fire",
-      "url": "https://open.spotify.com/track/6tv7rh2WOO6WEbzYI9aUYd"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "The Night (Hardstyle Mix)",
         "url": "https://open.spotify.com/album/7foUHVIJy7YFBDP1OFskL1"
       },
@@ -2931,6 +2915,22 @@
       "duration_ms": 148000,
       "name": "The Night - Hardstyle Mix",
       "url": "https://open.spotify.com/track/3XikEye0OgF9rJ4BSCtLp1"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Heart On Fire",
+        "url": "https://open.spotify.com/album/2klKsbqt3GHjUSDekdotrL"
+      },
+      "artists": [
+        {
+          "name": "Malice",
+          "url": "https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5"
+        }
+      ],
+      "duration_ms": 151874,
+      "name": "Heart On Fire",
+      "url": "https://open.spotify.com/track/6tv7rh2WOO6WEbzYI9aUYd"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -2975,30 +2975,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Deep End (Maxtreme Remix)",
-        "url": "https://open.spotify.com/album/503FY6ehD3u23Sa66wdJIC"
-      },
-      "artists": [
-        {
-          "name": "Stupid Whizkid",
-          "url": "https://open.spotify.com/artist/653kl2UPuje4mZQJEwukkv"
-        },
-        {
-          "name": "DROPiXX",
-          "url": "https://open.spotify.com/artist/708jzcyxbTzDceNVOT9kKV"
-        },
-        {
-          "name": "Maxtreme",
-          "url": "https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j"
-        }
-      ],
-      "duration_ms": 183967,
-      "name": "Deep End - Maxtreme Remix",
-      "url": "https://open.spotify.com/track/3eKF84e3XvQjaKoPYMbBk1"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "The Whistle",
         "url": "https://open.spotify.com/album/2NmCGncjJ9u34SFiBHAuA3"
       },
@@ -3035,6 +3011,30 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Deep End (Maxtreme Remix)",
+        "url": "https://open.spotify.com/album/503FY6ehD3u23Sa66wdJIC"
+      },
+      "artists": [
+        {
+          "name": "Stupid Whizkid",
+          "url": "https://open.spotify.com/artist/653kl2UPuje4mZQJEwukkv"
+        },
+        {
+          "name": "DROPiXX",
+          "url": "https://open.spotify.com/artist/708jzcyxbTzDceNVOT9kKV"
+        },
+        {
+          "name": "Maxtreme",
+          "url": "https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j"
+        }
+      ],
+      "duration_ms": 183967,
+      "name": "Deep End - Maxtreme Remix",
+      "url": "https://open.spotify.com/track/3eKF84e3XvQjaKoPYMbBk1"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Fire And Ice (Radio Edit)",
         "url": "https://open.spotify.com/album/2ondbr9eOLVOgfyENFNE1x"
       },
@@ -3051,38 +3051,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Reach For The Sky",
-        "url": "https://open.spotify.com/album/2kQNfDNKvA4aRSUvxIkgdU"
+        "name": "I'm Alive",
+        "url": "https://open.spotify.com/album/4aAyxSa4XSM2Bi3qjr99LU"
       },
       "artists": [
         {
           "name": "Adaro",
           "url": "https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF"
-        },
-        {
-          "name": "Digital Punk",
-          "url": "https://open.spotify.com/artist/3GAHYVHU0HppTq2qgzejcv"
         }
       ],
-      "duration_ms": 167612,
-      "name": "Reach For The Sky",
-      "url": "https://open.spotify.com/track/3XyMLRRZvxj3dhHdgVoTyv"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Mr Brightside",
-        "url": "https://open.spotify.com/album/2bgIA2bqZ61g9VLf1sOSCR"
-      },
-      "artists": [
-        {
-          "name": "Tony Junior",
-          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
-        }
-      ],
-      "duration_ms": 230412,
-      "name": "Mr Brightside",
-      "url": "https://open.spotify.com/track/6x19X5cibbIjsCtlzsgZEY"
+      "duration_ms": 224903,
+      "name": "I'm Alive - Rebirth Anthem 2019",
+      "url": "https://open.spotify.com/track/749ZUdCd2sGwGZfAPnZJos"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -3107,6 +3087,22 @@
       "duration_ms": 195200,
       "name": "Call Me A Spaceman - Dr Phunk Remix",
       "url": "https://open.spotify.com/track/01s9faleC0omVs2oEFzCyp"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Mr Brightside",
+        "url": "https://open.spotify.com/album/2bgIA2bqZ61g9VLf1sOSCR"
+      },
+      "artists": [
+        {
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
+        }
+      ],
+      "duration_ms": 230412,
+      "name": "Mr Brightside",
+      "url": "https://open.spotify.com/track/6x19X5cibbIjsCtlzsgZEY"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -3147,18 +3143,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "I'm Alive",
-        "url": "https://open.spotify.com/album/4aAyxSa4XSM2Bi3qjr99LU"
+        "name": "Reach For The Sky",
+        "url": "https://open.spotify.com/album/2kQNfDNKvA4aRSUvxIkgdU"
       },
       "artists": [
         {
           "name": "Adaro",
           "url": "https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF"
+        },
+        {
+          "name": "Digital Punk",
+          "url": "https://open.spotify.com/artist/3GAHYVHU0HppTq2qgzejcv"
         }
       ],
-      "duration_ms": 224903,
-      "name": "I'm Alive - Rebirth Anthem 2019",
-      "url": "https://open.spotify.com/track/749ZUdCd2sGwGZfAPnZJos"
+      "duration_ms": 167612,
+      "name": "Reach For The Sky",
+      "url": "https://open.spotify.com/track/3XyMLRRZvxj3dhHdgVoTyv"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -3203,18 +3203,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Bodyshock",
-        "url": "https://open.spotify.com/album/2OJvGNMr2cyJAYyf5IMtj7"
+        "name": "WARHORN (E1: To War We Go)",
+        "url": "https://open.spotify.com/album/2Sf193pKD4kRf6LUVCdP2Q"
       },
       "artists": [
         {
-          "name": "MANDY",
-          "url": "https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE"
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
         }
       ],
-      "duration_ms": 178717,
-      "name": "Bodyshock",
-      "url": "https://open.spotify.com/track/5OJCdGZbGPWPLqxQrEf1tS"
+      "duration_ms": 226500,
+      "name": "WARHORN (E1: To War We Go)",
+      "url": "https://open.spotify.com/track/68jxUXJE9kZPHiEvXEIfPF"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -3235,26 +3239,6 @@
       "duration_ms": 288000,
       "name": "Break Free (Official Decibel Outdoor 2022 Anthem)",
       "url": "https://open.spotify.com/track/1VtGStey2iPgtZSLHU6sf0"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "WARHORN (E1: To War We Go)",
-        "url": "https://open.spotify.com/album/2Sf193pKD4kRf6LUVCdP2Q"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "WARHORN (E1: To War We Go)",
-      "url": "https://open.spotify.com/track/68jxUXJE9kZPHiEvXEIfPF"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -3299,6 +3283,22 @@
       "duration_ms": 254901,
       "name": "See You",
       "url": "https://open.spotify.com/track/57mgyauwTOeC725Xa0zJdw"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Bodyshock",
+        "url": "https://open.spotify.com/album/2OJvGNMr2cyJAYyf5IMtj7"
+      },
+      "artists": [
+        {
+          "name": "MANDY",
+          "url": "https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE"
+        }
+      ],
+      "duration_ms": 178717,
+      "name": "Bodyshock",
+      "url": "https://open.spotify.com/track/5OJCdGZbGPWPLqxQrEf1tS"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -3511,26 +3511,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Faith Of This World (Original Mix)",
-        "url": "https://open.spotify.com/album/66FezURQqWeQTcoxvAlOeE"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "B-Front",
-          "url": "https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du"
-        }
-      ],
-      "duration_ms": 242616,
-      "name": "Faith Of This World - Original Mix",
-      "url": "https://open.spotify.com/track/3l0zz7lo8PPlXryowB0254"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Edge Of The Unknown",
         "url": "https://open.spotify.com/album/13mS26sOAVYfngzLevsf82"
       },
@@ -3555,6 +3535,26 @@
       "duration_ms": 258946,
       "name": "Edge of The Unknown",
       "url": "https://open.spotify.com/track/3Dbzy04cQSEcYNBvVISq0J"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Faith Of This World (Original Mix)",
+        "url": "https://open.spotify.com/album/66FezURQqWeQTcoxvAlOeE"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "B-Front",
+          "url": "https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du"
+        }
+      ],
+      "duration_ms": 242616,
+      "name": "Faith Of This World - Original Mix",
+      "url": "https://open.spotify.com/track/3l0zz7lo8PPlXryowB0254"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -3679,22 +3679,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Underworld",
-        "url": "https://open.spotify.com/album/1jSqrzjMduPjOu14cDjxDk"
-      },
-      "artists": [
-        {
-          "name": "The Prophet",
-          "url": "https://open.spotify.com/artist/2iRqqPkOyIvvb7qFZN1Onz"
-        }
-      ],
-      "duration_ms": 151911,
-      "name": "Underworld",
-      "url": "https://open.spotify.com/track/1ETYrKbemhUqMukP04fxe2"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Embracing The Madness",
         "url": "https://open.spotify.com/album/0v8D68fi3xWxB6SeocDTtK"
       },
@@ -3711,6 +3695,22 @@
       "duration_ms": 196896,
       "name": "Embracing The Madness",
       "url": "https://open.spotify.com/track/31zOoImZZMK5rlmiO4NiYL"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Underworld",
+        "url": "https://open.spotify.com/album/1jSqrzjMduPjOu14cDjxDk"
+      },
+      "artists": [
+        {
+          "name": "The Prophet",
+          "url": "https://open.spotify.com/artist/2iRqqPkOyIvvb7qFZN1Onz"
+        }
+      ],
+      "duration_ms": 151911,
+      "name": "Underworld",
+      "url": "https://open.spotify.com/track/1ETYrKbemhUqMukP04fxe2"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -3751,54 +3751,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Rocket",
-        "url": "https://open.spotify.com/album/21TdAkXFQ1PHhUbjLgHC5U"
-      },
-      "artists": [
-        {
-          "name": "Special D.",
-          "url": "https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt"
-        },
-        {
-          "name": "Mental Theo",
-          "url": "https://open.spotify.com/artist/3dOyTnBq9jKfRXJlJlddQq"
-        }
-      ],
-      "duration_ms": 146997,
-      "name": "Rocket",
-      "url": "https://open.spotify.com/track/2LfLW1E8kN6He5nDog7aCl"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "That Way (feat. Chris Crone) [Raakmo Remix]",
-        "url": "https://open.spotify.com/album/63O3aNy67gQ1OMWyeDCTXZ"
-      },
-      "artists": [
-        {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
-        },
-        {
-          "name": "VAMERO",
-          "url": "https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr"
-        },
-        {
-          "name": "Chris Crone",
-          "url": "https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk"
-        },
-        {
-          "name": "Raakmo",
-          "url": "https://open.spotify.com/artist/5RAiaze7u3rrFkJbFJ4dWG"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "That Way (feat. Chris Crone) - Raakmo Remix",
-      "url": "https://open.spotify.com/track/6ljPU0VPm0t3gP73tQ0XOi"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Get Loose",
         "url": "https://open.spotify.com/album/48ymeFuWASkiOSoSji8ywr"
       },
@@ -3835,22 +3787,30 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/6CS5AMrrUvpnKpxeOnOAZh"
+        "name": "That Way (feat. Chris Crone) [Raakmo Remix]",
+        "url": "https://open.spotify.com/album/63O3aNy67gQ1OMWyeDCTXZ"
       },
       "artists": [
         {
-          "name": "Dr Rude",
-          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
         },
         {
-          "name": "Kane Scott",
-          "url": "https://open.spotify.com/artist/03Uxnv0S5yon8NjFeBF3Bu"
+          "name": "VAMERO",
+          "url": "https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr"
+        },
+        {
+          "name": "Chris Crone",
+          "url": "https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk"
+        },
+        {
+          "name": "Raakmo",
+          "url": "https://open.spotify.com/artist/5RAiaze7u3rrFkJbFJ4dWG"
         }
       ],
-      "duration_ms": 212129,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/7nJPt8h1ONb7XRWxxqTW7Q"
+      "duration_ms": 168000,
+      "name": "That Way (feat. Chris Crone) - Raakmo Remix",
+      "url": "https://open.spotify.com/track/6ljPU0VPm0t3gP73tQ0XOi"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -3871,22 +3831,42 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Free Fall",
-        "url": "https://open.spotify.com/album/4gpWr19Zz1Et4GZmBKtYaS"
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/6CS5AMrrUvpnKpxeOnOAZh"
       },
       "artists": [
         {
-          "name": "Zombic",
-          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
+          "name": "Dr Rude",
+          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
         },
         {
-          "name": "Lawstylez",
-          "url": "https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ"
+          "name": "Kane Scott",
+          "url": "https://open.spotify.com/artist/03Uxnv0S5yon8NjFeBF3Bu"
         }
       ],
-      "duration_ms": 195729,
-      "name": "Free Fall",
-      "url": "https://open.spotify.com/track/7BNuc3medoxeqd4qnOhGCA"
+      "duration_ms": 212129,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/7nJPt8h1ONb7XRWxxqTW7Q"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Rocket",
+        "url": "https://open.spotify.com/album/21TdAkXFQ1PHhUbjLgHC5U"
+      },
+      "artists": [
+        {
+          "name": "Special D.",
+          "url": "https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt"
+        },
+        {
+          "name": "Mental Theo",
+          "url": "https://open.spotify.com/artist/3dOyTnBq9jKfRXJlJlddQq"
+        }
+      ],
+      "duration_ms": 146997,
+      "name": "Rocket",
+      "url": "https://open.spotify.com/track/2LfLW1E8kN6He5nDog7aCl"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -3935,6 +3915,26 @@
       "duration_ms": 204350,
       "name": "Symphony - Dr Phunk Remix",
       "url": "https://open.spotify.com/track/3GsarN4hTtOdfqU9dJ1cP5"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Free Fall",
+        "url": "https://open.spotify.com/album/4gpWr19Zz1Et4GZmBKtYaS"
+      },
+      "artists": [
+        {
+          "name": "Zombic",
+          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
+        },
+        {
+          "name": "Lawstylez",
+          "url": "https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ"
+        }
+      ],
+      "duration_ms": 195729,
+      "name": "Free Fall",
+      "url": "https://open.spotify.com/track/7BNuc3medoxeqd4qnOhGCA"
     },
     {
       "added_at": "2023-05-11 22:00:00",

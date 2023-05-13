@@ -898,7 +898,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 171719,
       "name": "Becoming",
       "url": "https://open.spotify.com/track/3XnjwiaFgTM45NmfCtDldk"
@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 180049,
       "name": "Brick By Brick (feat. Blu)",
       "url": "https://open.spotify.com/track/4qAC5kMzIxpY3k40KrfvCd"
@@ -1409,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "CHOMP 2.5 (EP)",
+        "url": "https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121789,
+      "name": "Buckle Up Freestyle",
+      "url": "https://open.spotify.com/track/65qEh62xjgsKVyWH5SbUUG"
+    },
+    {
+      "album": {
         "name": "Burning Bush",
         "url": "https://open.spotify.com/album/5YKN83sKhEwwVxCt8UX9kB"
       },
@@ -1468,7 +1486,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 180221,
       "name": "Can You Hear Me Now?",
       "url": "https://open.spotify.com/track/7Lg6d8ii0EXRqPLsgVjAaa"
@@ -2019,6 +2037,24 @@
     },
     {
       "album": {
+        "name": "Days Like This",
+        "url": "https://open.spotify.com/album/3BFFAxUqAbi9hMoYPMZWdq"
+      },
+      "artists": [
+        {
+          "name": "Katori Walker",
+          "url": "https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161927,
+      "name": "Days Like This",
+      "url": "https://open.spotify.com/track/7dbgtABmOcuNsdNY5b6GXt"
+    },
+    {
+      "album": {
         "name": "Deathfame",
         "url": "https://open.spotify.com/album/3gNLleI1petZq52QmMkcNW"
       },
@@ -2340,7 +2376,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 203906,
       "name": "Don't Remind Me",
       "url": "https://open.spotify.com/track/55KBOq8fdOWrYWYWBCKxLh"
@@ -2402,6 +2438,24 @@
       "duration_ms": 189346,
       "name": "Dropout Boogie",
       "url": "https://open.spotify.com/track/7pNGCmzKPTPUbAE7gAttTE"
+    },
+    {
+      "album": {
+        "name": "CHOMP 2.5 (EP)",
+        "url": "https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141542,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4LGBOpladriYPl7B8g6xME"
     },
     {
       "album": {
@@ -2562,7 +2616,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 212147,
       "name": "FaceTime",
       "url": "https://open.spotify.com/track/2bj4KknKzsI0BbtTnRu0O4"
@@ -3058,7 +3112,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 156972,
       "name": "Ghetto Reporter",
       "url": "https://open.spotify.com/track/0qHXyED9mnRk3DnXowUe6Y"
@@ -5375,6 +5429,28 @@
     },
     {
       "album": {
+        "name": "MOTHERLESS",
+        "url": "https://open.spotify.com/album/445ASNvZBCiKxGuT7Ds7UQ"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213927,
+      "name": "MOTHERLESS - Single Version",
+      "url": "https://open.spotify.com/track/4EMmtIMp0fkU4Au326hA5l"
+    },
+    {
+      "album": {
         "name": "Movie Scenes",
         "url": "https://open.spotify.com/album/4YKd0Z1av5dbj604uZJKBl"
       },
@@ -6564,7 +6640,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 148584,
       "name": "Quarters",
       "url": "https://open.spotify.com/track/0BYSlACvBBTSjSO6rezjGp"
@@ -6642,6 +6718,24 @@
       "duration_ms": 226095,
       "name": "Raised Different",
       "url": "https://open.spotify.com/track/1fwYvYMEdz5lOBXxjbez4T"
+    },
+    {
+      "album": {
+        "name": "Rap Fix",
+        "url": "https://open.spotify.com/album/6lpZMvbuT4uEFvr8AWL0IH"
+      },
+      "artists": [
+        {
+          "name": "Nyck Caution",
+          "url": "https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Rap Fix",
+      "url": "https://open.spotify.com/track/088AAB1SkCbyzU4I7aTepk"
     },
     {
       "album": {
@@ -7463,6 +7557,28 @@
     },
     {
       "album": {
+        "name": "Maps",
+        "url": "https://open.spotify.com/album/3VoX4iyvy7et6Qt47e2XwS"
+      },
+      "artists": [
+        {
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+        },
+        {
+          "name": "Kenny Segal",
+          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173647,
+      "name": "Soft Landing",
+      "url": "https://open.spotify.com/track/0TFzKqmZl7HjklWP0KWqXt"
+    },
+    {
+      "album": {
         "name": "Mrs. Whoever / Something in the Water",
         "url": "https://open.spotify.com/album/5NPPBBqbTIeV7yrD8gPH2w"
       },
@@ -8202,7 +8318,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 175894,
       "name": "The Chosen",
       "url": "https://open.spotify.com/track/1Zo6ZeUSMDTrYICaunEW4y"

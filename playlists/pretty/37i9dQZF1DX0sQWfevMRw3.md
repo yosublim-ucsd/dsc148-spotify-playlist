@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > ETT GLAS TILL!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,173 likes - 100 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,258 likes - 100 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [Eva\-Lena \- Remix](https://open.spotify.com/track/4KNlMLCdp0bqHatWQ5NpHl) | [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT) | [Eva\-Lena \(Remix\)](https://open.spotify.com/album/4zOyj7UzaharbKdsODMW83) | 3:19 |
 | 100 | [FUCKED UP](https://open.spotify.com/track/33WyltHLE1G842rtcXE8yI) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Bangården](https://open.spotify.com/artist/4C21ZKaA4EX1PRXoNsAV7c) | [FUCKED UP](https://open.spotify.com/album/2fr0oCVpVFxHzkVYb6CBoM) | 2:24 |
 
-Snapshot ID: `MCxjNDNlNTE0ODRlNmQ3ODdkZmEwYTA4MDMxYTQwZDdiMDJmMzRiNmI4`
+Snapshot ID: `MCwxNTg4NDkwYWFjMTBlMGY1ZDQ5ZDgwNDkxYmYzZjZjNzkxOWNjYTVk`

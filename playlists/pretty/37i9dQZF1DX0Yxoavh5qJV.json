@@ -1,12 +1,12 @@
 {
   "description": "The biggest Christmas songs of all time.",
-  "num_followers": 5334068,
+  "num_followers": 5333421,
   "original_name": "Christmas Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzFiOWMyNTc3MmY2M2IwOGJhYWM0NzBiZGZiZTI3YzdhYTZhYzc0",
+  "snapshot_id": "MCxlNTkzN2Y2M2FmNTJjMzcwMjk4YWFlNjZmNjlmMzY5NzlkYThkMjFk",
   "tracks": [
     {
       "added_at": "2022-12-22 09:55:37",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
-        "name": "Goodbye Yellow Brick Road (40th Anniversary Celebration / Super Deluxe)",
-        "url": "https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 272393,
-      "name": "Step Into Christmas",
-      "url": "https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT"
-    },
-    {
-      "added_at": "2022-12-22 09:55:37",
-      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 239586,
       "name": "One More Sleep",
       "url": "https://open.spotify.com/track/78pn8k7RogKo2oxl0DyX6d"
+    },
+    {
+      "added_at": "2022-12-22 09:55:37",
+      "album": {
+        "name": "Learning to Crawl (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "duration_ms": 220426,
+      "name": "2000 Miles - 2007 Remaster",
+      "url": "https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU"
     },
     {
       "added_at": "2022-12-22 09:55:37",
@@ -959,58 +959,6 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
-        "name": "Learning to Crawl (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3"
-      },
-      "artists": [
-        {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
-        }
-      ],
-      "duration_ms": 220426,
-      "name": "2000 Miles - 2007 Remaster",
-      "url": "https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU"
-    },
-    {
-      "added_at": "2022-12-22 09:55:37",
-      "album": {
-        "name": "Jingle Bell Rock",
-        "url": "https://open.spotify.com/album/46RzcdoDpVi5UcRLML218R"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 126360,
-      "name": "Jingle Bell Rock - Daryl's Version",
-      "url": "https://open.spotify.com/track/6pVW5LRWgeLaHudxauOTJU"
-    },
-    {
-      "added_at": "2022-12-22 09:55:37",
-      "album": {
-        "name": "Glow",
-        "url": "https://open.spotify.com/album/6FjK2XLQJloz36NgRciCHv"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        },
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 173560,
-      "name": "Baby, It's Cold Outside (feat. Meghan Trainor)",
-      "url": "https://open.spotify.com/track/5Q2P43CJra0uRAogjHyJDK"
-    },
-    {
-      "added_at": "2022-12-22 09:55:37",
-      "album": {
         "name": "Oh Santa! (feat. Ariana Grande & Jennifer Hudson)",
         "url": "https://open.spotify.com/album/2g0Ha2fsHrVBueqWdBGUpB"
       },
@@ -1051,6 +999,42 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/6FjK2XLQJloz36NgRciCHv"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 173560,
+      "name": "Baby, It's Cold Outside (feat. Meghan Trainor)",
+      "url": "https://open.spotify.com/track/5Q2P43CJra0uRAogjHyJDK"
+    },
+    {
+      "added_at": "2022-12-22 09:55:37",
+      "album": {
+        "name": "Jingle Bell Rock",
+        "url": "https://open.spotify.com/album/46RzcdoDpVi5UcRLML218R"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 126360,
+      "name": "Jingle Bell Rock - Daryl's Version",
+      "url": "https://open.spotify.com/track/6pVW5LRWgeLaHudxauOTJU"
+    },
+    {
+      "added_at": "2022-12-22 09:55:37",
+      "album": {
         "name": "Bing Crosby - Christmas Classics",
         "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
       },
@@ -1063,6 +1047,26 @@
       "duration_ms": 165666,
       "name": "Do You Hear What I Hear? - Remastered 2006",
       "url": "https://open.spotify.com/track/5aDoUmxBsbdpS16alksb5Z"
+    },
+    {
+      "added_at": "2022-12-22 09:55:37",
+      "album": {
+        "name": "When Christmas Comes Around...",
+        "url": "https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 242644,
+      "name": "Santa, Can\u2019t You Hear Me",
+      "url": "https://open.spotify.com/track/2O3MQ6H3gjrIWDcpeTrikT"
     },
     {
       "added_at": "2022-12-22 09:55:37",
@@ -1115,26 +1119,6 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
-        "name": "When Christmas Comes Around...",
-        "url": "https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 242644,
-      "name": "Santa, Can\u2019t You Hear Me",
-      "url": "https://open.spotify.com/track/2O3MQ6H3gjrIWDcpeTrikT"
-    },
-    {
-      "added_at": "2022-12-22 09:55:37",
-      "album": {
         "name": "The Lighthouse Keeper",
         "url": "https://open.spotify.com/album/30Nf68hbXjDvoacY0K5fFB"
       },
@@ -1167,22 +1151,6 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
-        "name": "Ring Out The Bells",
-        "url": "https://open.spotify.com/album/0YieGjIrwXOYgt4IBDTGbn"
-      },
-      "artists": [
-        {
-          "name": "Sarah Connor",
-          "url": "https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch"
-        }
-      ],
-      "duration_ms": 239706,
-      "name": "Ring Out The Bells",
-      "url": "https://open.spotify.com/track/03qftRowv8aPZnNZbILxUR"
-    },
-    {
-      "added_at": "2022-12-22 09:55:37",
-      "album": {
         "name": "Make It To Christmas",
         "url": "https://open.spotify.com/album/78M2SymJDiLORvKBQHgmKl"
       },
@@ -1195,6 +1163,22 @@
       "duration_ms": 211013,
       "name": "Make It To Christmas",
       "url": "https://open.spotify.com/track/6RS6rcjnWrdfVuu2U2W2dj"
+    },
+    {
+      "added_at": "2022-12-22 09:55:37",
+      "album": {
+        "name": "Ring Out The Bells",
+        "url": "https://open.spotify.com/album/0YieGjIrwXOYgt4IBDTGbn"
+      },
+      "artists": [
+        {
+          "name": "Sarah Connor",
+          "url": "https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch"
+        }
+      ],
+      "duration_ms": 239706,
+      "name": "Ring Out The Bells",
+      "url": "https://open.spotify.com/track/03qftRowv8aPZnNZbILxUR"
     },
     {
       "added_at": "2022-12-22 09:55:37",
@@ -1215,18 +1199,18 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
-        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 131733,
-      "name": "Frosty The Snowman",
-      "url": "https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D"
+      "duration_ms": 171093,
+      "name": "Santa Claus Is Coming to Town",
+      "url": "https://open.spotify.com/track/1RMDXedcRno6rDBCbNHDJf"
     },
     {
       "added_at": "2022-12-22 09:55:37",
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
+        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 131733,
+      "name": "Frosty The Snowman",
+      "url": "https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D"
+    },
+    {
+      "added_at": "2022-12-22 09:55:37",
+      "album": {
         "name": "White Christmas (Spotify Singles - Holiday, Recorded at Air Studios, London)",
         "url": "https://open.spotify.com/album/1gDgPEEeuFPfRMASQWU8A0"
       },
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
+        "name": "Snowfall: The Tony Bennett Christmas Album",
+        "url": "https://open.spotify.com/album/2zpZloLD6haM3GzorLdfoC"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
         }
       ],
-      "duration_ms": 171093,
-      "name": "Santa Claus Is Coming to Town",
-      "url": "https://open.spotify.com/track/1RMDXedcRno6rDBCbNHDJf"
+      "duration_ms": 133213,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/1yxcKrEcxt4O03IIC25yHk"
     },
     {
       "added_at": "2022-12-22 09:55:37",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
-        "name": "Snowfall: The Tony Bennett Christmas Album",
-        "url": "https://open.spotify.com/album/2zpZloLD6haM3GzorLdfoC"
+        "name": "These are Special Times",
+        "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
       },
       "artists": [
         {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
         }
       ],
-      "duration_ms": 133213,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/1yxcKrEcxt4O03IIC25yHk"
+      "duration_ms": 254706,
+      "name": "Happy Xmas (War Is Over)",
+      "url": "https://open.spotify.com/track/2ohR9Qj4TgZafZCptO9cly"
     },
     {
       "added_at": "2022-12-22 09:55:37",
@@ -1347,22 +1347,6 @@
       "duration_ms": 219720,
       "name": "I'll Be Home",
       "url": "https://open.spotify.com/track/0YupMLYOYz6lZDbN3kRt7A"
-    },
-    {
-      "added_at": "2022-12-22 09:55:37",
-      "album": {
-        "name": "These are Special Times",
-        "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 254706,
-      "name": "Happy Xmas (War Is Over)",
-      "url": "https://open.spotify.com/track/2ohR9Qj4TgZafZCptO9cly"
     },
     {
       "added_at": "2022-12-22 09:55:37",
@@ -1411,6 +1395,22 @@
       "duration_ms": 278946,
       "name": "I Wish It Could Be Christmas Everyday",
       "url": "https://open.spotify.com/track/1mH6tZC6iXIHPI6EixCwxw"
+    },
+    {
+      "added_at": "2022-12-22 09:55:37",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 219293,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/1sFWEpf1aPYN576LS1aa4Y"
     },
     {
       "added_at": "2022-12-22 09:55:37",
@@ -1479,38 +1479,6 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
-        "name": "A Jolly Christmas From Frank Sinatra",
-        "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 136426,
-      "name": "Mistletoe And Holly - Remastered 1999",
-      "url": "https://open.spotify.com/track/7faDzZnZYqTyYThx2sbHVQ"
-    },
-    {
-      "added_at": "2022-12-22 09:55:37",
-      "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 219293,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/1sFWEpf1aPYN576LS1aa4Y"
-    },
-    {
-      "added_at": "2022-12-22 09:55:37",
-      "album": {
         "name": "Bing Crosby - Christmas Classics",
         "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
       },
@@ -1543,6 +1511,22 @@
       "duration_ms": 196254,
       "name": "The Christmas Song (Shawn Mendes & Camila Cabello)",
       "url": "https://open.spotify.com/track/0fwxmtpxpMmEMphmJbCAEx"
+    },
+    {
+      "added_at": "2022-12-22 09:55:37",
+      "album": {
+        "name": "A Jolly Christmas From Frank Sinatra",
+        "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 136426,
+      "name": "Mistletoe And Holly - Remastered 1999",
+      "url": "https://open.spotify.com/track/7faDzZnZYqTyYThx2sbHVQ"
     },
     {
       "added_at": "2022-12-22 09:55:37",
@@ -1651,6 +1635,22 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
+        "name": "Pure Southern Soul",
+        "url": "https://open.spotify.com/album/0IdJOPJy2DQXaqgyrjhXRc"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 155560,
+      "name": "Merry Christmas Baby",
+      "url": "https://open.spotify.com/track/2dbfjsBbi3nt0a173iUumA"
+    },
+    {
+      "added_at": "2022-12-22 09:55:37",
+      "album": {
         "name": "My Kind Of Christmas",
         "url": "https://open.spotify.com/album/0EmIJRj74RImuDbGJh4iOu"
       },
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
-        "name": "Pure Southern Soul",
-        "url": "https://open.spotify.com/album/0IdJOPJy2DQXaqgyrjhXRc"
+        "name": "'Tis The Season",
+        "url": "https://open.spotify.com/album/15q3oOSeIVFQeAtwKWiWcn"
       },
       "artists": [
         {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "Jordan Smith",
+          "url": "https://open.spotify.com/artist/6TV0LZ3BaEun0OQEh96elP"
         }
       ],
-      "duration_ms": 155560,
-      "name": "Merry Christmas Baby",
-      "url": "https://open.spotify.com/track/2dbfjsBbi3nt0a173iUumA"
+      "duration_ms": 211453,
+      "name": "Grown-Up Christmas List",
+      "url": "https://open.spotify.com/track/1h9QQ7e222OSr93MRiMqGZ"
     }
   ],
   "unique_name": "Christmas Hits",

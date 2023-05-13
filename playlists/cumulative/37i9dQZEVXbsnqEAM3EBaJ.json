@@ -540,7 +540,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 331760,
       "name": "Be My Lover - Live in Miami, FL, May 27, 1972",
       "url": "https://open.spotify.com/track/6vkdmJExffiBxtXtCUretE"
@@ -700,7 +700,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 223785,
       "name": "Bogus Operandi",
       "url": "https://open.spotify.com/track/1TJmuC4kMe1ewZdybH159I"
@@ -944,7 +944,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 261540,
       "name": "Cities in Dust",
       "url": "https://open.spotify.com/track/5amzP1D3FDCtOl5fyoPCGV"
@@ -1147,6 +1147,24 @@
     },
     {
       "album": {
+        "name": "Dark Void",
+        "url": "https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232258,
+      "name": "Dark Void",
+      "url": "https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S"
+    },
+    {
+      "album": {
         "name": "The Wretched; The Ruinous",
         "url": "https://open.spotify.com/album/09LBDZTHGu6VF0S8Pcxn34"
       },
@@ -1234,6 +1252,24 @@
       "duration_ms": 333346,
       "name": "Demon Prince Regent",
       "url": "https://open.spotify.com/track/2HYhuvHTNQh5Ise5Aclcjl"
+    },
+    {
+      "album": {
+        "name": "Depraved Mind Murder",
+        "url": "https://open.spotify.com/album/6sZY1rg4jVeL5lBDjD7e9P"
+      },
+      "artists": [
+        {
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283906,
+      "name": "Depraved Mind Murder",
+      "url": "https://open.spotify.com/track/1i9KWkqEOEA876V0J9V2D2"
     },
     {
       "album": {
@@ -1597,6 +1633,24 @@
     },
     {
       "album": {
+        "name": "Enter Sandman EP",
+        "url": "https://open.spotify.com/album/66s72H4sebolFClzRV107Z"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312066,
+      "name": "Enter Sandman",
+      "url": "https://open.spotify.com/track/5n9saQtKvEnGKfbGStiMNF"
+    },
+    {
+      "album": {
         "name": "The Awakening",
         "url": "https://open.spotify.com/album/5DluQzwyljDIzV0i5XSqfE"
       },
@@ -1630,6 +1684,28 @@
       "duration_ms": 185946,
       "name": "Erotic City",
       "url": "https://open.spotify.com/track/0e9aw5dEF7cgRPbnBlHsQ1"
+    },
+    {
+      "album": {
+        "name": "Estranged Fruit",
+        "url": "https://open.spotify.com/album/5rrfqGMrmebvdA4YdYAn2N"
+      },
+      "artists": [
+        {
+          "name": "Fishbone",
+          "url": "https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi"
+        },
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219669,
+      "name": "Estranged Fruit",
+      "url": "https://open.spotify.com/track/0ntWDwPFaWKHmbjtIjjBQI"
     },
     {
       "album": {
@@ -1996,7 +2072,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 271706,
       "name": "Goin' Home",
       "url": "https://open.spotify.com/track/0eir7payQFT0HAdGK88yBd"
@@ -2138,6 +2214,24 @@
       "duration_ms": 263840,
       "name": "Harder They Fall",
       "url": "https://open.spotify.com/track/03FoFnnYhTThtHY0uitNWa"
+    },
+    {
+      "album": {
+        "name": "Hare Hare",
+        "url": "https://open.spotify.com/album/0ymqvaOiilJa797C3Y2mZh"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203546,
+      "name": "Hare Hare",
+      "url": "https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t"
     },
     {
       "album": {
@@ -2297,6 +2391,24 @@
     },
     {
       "album": {
+        "name": "Silver From The Sky (Live)",
+        "url": "https://open.spotify.com/album/3qxEhEOXCAJO8PrxG4gqcC"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378509,
+      "name": "Hey Hey, My My - Live 1986",
+      "url": "https://open.spotify.com/track/01nI9eoHcniQkgAYnic3mt"
+    },
+    {
+      "album": {
         "name": "Hoes In The Sheets",
         "url": "https://open.spotify.com/album/6szlqnJLD3ccchhVqCpOqd"
       },
@@ -2447,6 +2559,36 @@
     },
     {
       "album": {
+        "name": "I Can't Take It",
+        "url": "https://open.spotify.com/album/4KtBKPNEhb9m7sO2YKhblT"
+      },
+      "artists": [
+        {
+          "name": "LYELL",
+          "url": "https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y"
+        },
+        {
+          "name": "Aaron Gillespie",
+          "url": "https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6"
+        },
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        },
+        {
+          "name": "Aaron Gillespie of Underoath",
+          "url": "https://open.spotify.com/artist/04A2VLhqkl5uVeGqVYa3fQ"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172398,
+      "name": "I Can't Take It",
+      "url": "https://open.spotify.com/track/2sXbIjNt3TiYbZi6Dn9ZNg"
+    },
+    {
+      "album": {
         "name": "Asphalt Meadows (Acoustic)",
         "url": "https://open.spotify.com/album/6hRYTGSMlOgLU4KxcHFMJK"
       },
@@ -2552,6 +2694,24 @@
       "duration_ms": 371066,
       "name": "I Still Love You - Live From Mid-Hudson Civic Arena, Poughkeepsie NY / 1984",
       "url": "https://open.spotify.com/track/6jjay9cJ947fptDBu3eZua"
+    },
+    {
+      "album": {
+        "name": "I Wanna Dance with Somebody (Who Loves Me)",
+        "url": "https://open.spotify.com/album/1fY9pAx0sUxfnkVAVU7bn0"
+      },
+      "artists": [
+        {
+          "name": "Emarosa",
+          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286380,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/3uvxNyFioZb9lFJxTTq2eB"
     },
     {
       "album": {
@@ -3130,7 +3290,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 238213,
       "name": "Kaputnik",
       "url": "https://open.spotify.com/track/6vKIR4kdTDVuH0xBg0kRRr"
@@ -3148,7 +3308,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 279158,
       "name": "Kein Mensch",
       "url": "https://open.spotify.com/track/1KH5fD9UJLtF8yPrLfoWM8"
@@ -3188,6 +3348,24 @@
       "duration_ms": 221364,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/0aC3m5Y6lIfG1MqVzrQyme"
+    },
+    {
+      "album": {
+        "name": "Kreel's Magic Staff",
+        "url": "https://open.spotify.com/album/1HR1SvaD6gFTZMvJWsQIsm"
+      },
+      "artists": [
+        {
+          "name": "Rhapsody Of Fire",
+          "url": "https://open.spotify.com/artist/2GnCQNJbs4xqFulqAdAg2U"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372374,
+      "name": "Kreel's Magic Staff",
+      "url": "https://open.spotify.com/track/6eWhmfOxOPClp7IZO7LeOl"
     },
     {
       "album": {
@@ -3362,6 +3540,24 @@
       "duration_ms": 230002,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/2iHdiDAIYBPOqnNxVrNBYO"
+    },
+    {
+      "album": {
+        "name": "Let the Sun Come In",
+        "url": "https://open.spotify.com/album/17kNNfn5Ke37yZC0dtRk1g"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233332,
+      "name": "Let the Sun Come In",
+      "url": "https://open.spotify.com/track/2uopLAXm05NAxUnjIZ3Lbl"
     },
     {
       "album": {
@@ -3640,7 +3836,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 230250,
       "name": "Love Hurts - Re-recorded",
       "url": "https://open.spotify.com/track/2o2p2zYcm0f62F0gQJrHhB"
@@ -3662,6 +3858,24 @@
       "duration_ms": 270880,
       "name": "Love Hurts - Re-recorded - Slower + Reverb",
       "url": "https://open.spotify.com/track/0GEWitESdGCMcjn1LxynYf"
+    },
+    {
+      "album": {
+        "name": "Love Hurts (Re-recorded - Sped Up)",
+        "url": "https://open.spotify.com/album/1iL5xBfaqu9OYVENhxwIIV"
+      },
+      "artists": [
+        {
+          "name": "Nazareth",
+          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200217,
+      "name": "Love Hurts - Re-recorded - Sped Up",
+      "url": "https://open.spotify.com/track/5YsX6aL19Fl3IZbDhzz7Mh"
     },
     {
       "album": {
@@ -3877,6 +4091,24 @@
     },
     {
       "album": {
+        "name": "Migajas",
+        "url": "https://open.spotify.com/album/78bbs8PS1CzwdnE5K8niS3"
+      },
+      "artists": [
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165447,
+      "name": "Migajas",
+      "url": "https://open.spotify.com/track/3nIBgni4vxvdUuZgKcTDZU"
+    },
+    {
+      "album": {
         "name": "[Hwa Sa Show Vol.3] MMM Simile",
         "url": "https://open.spotify.com/album/2xPznUnpJGiaIP1QrQnYAT"
       },
@@ -3946,6 +4178,28 @@
       "duration_ms": 223445,
       "name": "Monta\u00f1a Roja - En Vivo",
       "url": "https://open.spotify.com/track/0Qmhp99CvPvOWs0HEuSkaV"
+    },
+    {
+      "album": {
+        "name": "Moon River",
+        "url": "https://open.spotify.com/album/0Kct4rqr04c01LrmXmaFZh"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304728,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/2WWAgtwFPQlG3tkeVE3XaX"
     },
     {
       "album": {
@@ -4862,7 +5116,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 258648,
       "name": "Rescued",
       "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
@@ -4992,7 +5246,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 206720,
       "name": "Rosalie - Live at Montreux, 2007",
       "url": "https://open.spotify.com/track/1M169HdmaULWWirleVw1Ls"
@@ -5273,6 +5527,24 @@
     },
     {
       "album": {
+        "name": "Un:Sterblich: Our Souls Will Never Die",
+        "url": "https://open.spotify.com/album/0wHHO4fKWWmxHOoxqrYEKe"
+      },
+      "artists": [
+        {
+          "name": "Blutengel",
+          "url": "https://open.spotify.com/artist/2SRu9oxCg91Omb2yMFzttR"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276659,
+      "name": "Shine again",
+      "url": "https://open.spotify.com/track/6SpGa1uZ4gWZgZx1Jcf3SZ"
+    },
+    {
+      "album": {
         "name": "39 Dancing in the Drizzle",
         "url": "https://open.spotify.com/album/742OPXNLhjcOn1h8XRt8Vy"
       },
@@ -5454,6 +5726,24 @@
       "duration_ms": 246837,
       "name": "Spellbinding",
       "url": "https://open.spotify.com/track/74rpTA3zk1IWwBY944OK3r"
+    },
+    {
+      "album": {
+        "name": "Du hast / Spiel mit mir (2023 Mix)",
+        "url": "https://open.spotify.com/album/2rK1E8ZYaYkKjSMkrbM690"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286615,
+      "name": "Spiel mit mir - 2023 Mix",
+      "url": "https://open.spotify.com/track/01jvnYLwnEwdnwGjsZq02E"
     },
     {
       "album": {
@@ -5807,6 +6097,32 @@
     },
     {
       "album": {
+        "name": "The Golden Trail",
+        "url": "https://open.spotify.com/album/4ns2AZUzWlGWgMk2MUYHdP"
+      },
+      "artists": [
+        {
+          "name": "Nita Strauss",
+          "url": "https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf"
+        },
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        },
+        {
+          "name": "Anders Friden",
+          "url": "https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280903,
+      "name": "The Golden Trail",
+      "url": "https://open.spotify.com/track/1rBYsCI24Fw07Hg4e1Dwlh"
+    },
+    {
+      "album": {
         "name": "The Awakening",
         "url": "https://open.spotify.com/album/5DluQzwyljDIzV0i5XSqfE"
       },
@@ -5872,7 +6188,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 252280,
       "name": "The Lost Room",
       "url": "https://open.spotify.com/track/3qeuZqdc0eNjW8s59e6gRp"
@@ -6591,6 +6907,28 @@
     },
     {
       "album": {
+        "name": "Waiting In Vain (Feat. Tiwa Savage)",
+        "url": "https://open.spotify.com/album/2RZvYVj0L48e6eBXFrL1LN"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243450,
+      "name": "Waiting In Vain (Feat. Tiwa Savage)",
+      "url": "https://open.spotify.com/track/47LoDRonq5IUeh7YFOq3zg"
+    },
+    {
+      "album": {
         "name": "War Machine / Creatures Of The Night (Live In Poughkeepsie / 1984)",
         "url": "https://open.spotify.com/album/1U3yjfYHOCQYwixpj1LaQi"
       },
@@ -6664,6 +7002,24 @@
       "duration_ms": 180053,
       "name": "Watching the River Flow",
       "url": "https://open.spotify.com/track/3ektGwc8hlLCghIr93FY1H"
+    },
+    {
+      "album": {
+        "name": "We Love You",
+        "url": "https://open.spotify.com/album/1OtxzVaaGtJw05LtlusYxC"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375026,
+      "name": "We Love You",
+      "url": "https://open.spotify.com/track/3DZoL58N1dCaNah9WEvlP0"
     },
     {
       "album": {
@@ -6897,6 +7253,24 @@
     },
     {
       "album": {
+        "name": "You Drive Me Nervous (Live at Mar Y Sol Pop Festival, Puerto Rico, April 2, 1972)",
+        "url": "https://open.spotify.com/album/0oqKoXvVPiq0IQ2IGU3Ygj"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145373,
+      "name": "You Drive Me Nervous - Live at Mar Y Sol Pop Festival, Puerto Rico, April 2, 1972",
+      "url": "https://open.spotify.com/track/4oRoieR5RNcMBJOAfTbsXD"
+    },
+    {
+      "album": {
         "name": "72 Seasons",
         "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
       },
@@ -6924,9 +7298,27 @@
           "url": "https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD"
         }
       ],
-      "date_added": "2023-04-28",
+      "date_added": "2023-05-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 357175,
+      "name": "You Spin Me Round (Like A Record) - Re-Recorded - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/3JgvZb3xC37ab5Lo9NmfJ0"
+    },
+    {
+      "album": {
+        "name": "You Spin Me Round (Re-Recorded - Sped Up)",
+        "url": "https://open.spotify.com/album/1OBQ3JSqahNuMu4cu8Vl9o"
+      },
+      "artists": [
+        {
+          "name": "Dead Or Alive",
+          "url": "https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
       "duration_ms": 214281,
       "name": "You Spin Me Round (Like A Record) - Re-Recorded - Sped Up",
       "url": "https://open.spotify.com/track/0pnwVkETnoYI57hBeJxAlc"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 
 > smooth drifting only
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,043 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,427 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 | 84 | [Stay](https://open.spotify.com/track/4wBJ1sqcPukNqtMff4EEVb) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW), [Kim](https://open.spotify.com/artist/4q5RE9bDpugEWslh6TfiI0) | [Stay](https://open.spotify.com/album/0lxkx8NDcNRiddCfUlpMfo) | 2:56 |
 | 85 | [vxzduh](https://open.spotify.com/track/702NDQuG9DGPJmwbAUFHTa) | [akiaura](https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc), [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw) | [vxzduh](https://open.spotify.com/album/1aY5R5j1a5dqXXdrFo5lrM) | 3:05 |
 | 86 | [Nightscape](https://open.spotify.com/track/6J3RFzkd1gacuycGdj8V2s) | [OXWAVE](https://open.spotify.com/artist/7B2UfSm1zprogJ0TulxZp9) | [Nightscape](https://open.spotify.com/album/2RtsQWMd6CErHfsxK879xO) | 2:38 |
-| 87 | [Farewell](https://open.spotify.com/track/3QXLbx8kUNmcbWd1XhNJD4) | [ZXNTURY](https://open.spotify.com/artist/4ACYlsx2wt3mQ2syiTo6AK), [JXXPSINNXR](https://open.spotify.com/artist/4RvUX1Yg2s0aCkBPYCsgP7), [FXLLEN WXRRIOR](https://open.spotify.com/artist/4O4tXxjzXrk06o08zTBVAL) | [Farewell](https://open.spotify.com/album/4i7eb70VPiIHWU7EEDNmIn) | 2:31 |
+| 87 | [Farewell](https://open.spotify.com/track/3S9cyna1oXy31j65808QkI) | [ZXNTURY](https://open.spotify.com/artist/4ACYlsx2wt3mQ2syiTo6AK), [JXXPSINNXR](https://open.spotify.com/artist/4RvUX1Yg2s0aCkBPYCsgP7), [FXLLEN WXRRIOR](https://open.spotify.com/artist/4O4tXxjzXrk06o08zTBVAL) | [Farewell](https://open.spotify.com/album/5TpcZRePiWhdEqoWIiwM93) | 2:31 |
 | 88 | [South](https://open.spotify.com/track/4CtO2AMo76k5yAeD44EUPY) | [HXVRMXN](https://open.spotify.com/artist/2kxLXJ17WUKNIwyIfeDigH) | [Eclipse](https://open.spotify.com/album/2oMbcfB4qteV4Wbu7sNVAM) | 3:12 |
 | 89 | [Angel](https://open.spotify.com/track/0OIJbFfZfNoAA8oATXh0xr) | [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [Angel](https://open.spotify.com/album/6PwehYyShfSDzzJPZyoZWq) | 3:18 |
 | 90 | [Rain](https://open.spotify.com/track/6mOAG0zui8izScIIgvWFDH) | [ROMANE](https://open.spotify.com/artist/05ZFcoNvwrfxD1sIRmGqfp) | [Rain](https://open.spotify.com/album/3YdkmgnxDrKj2MK7dXgQD7) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 | 99 | [nothing is eternal](https://open.spotify.com/track/7h3K4ED9jiEO447oGAvISz) | [deadsouls](https://open.spotify.com/artist/0mM8z9rf7HGXaqR0JWBlQE) | [nothing is eternal](https://open.spotify.com/album/7hEjkOUvBZKI3S3pHOGV3l) | 2:29 |
 | 100 | [This Feeling](https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI) | [my!lane](https://open.spotify.com/artist/5AEk8UqmJ2lCUG3xke82Or) | [Sakura's Shadows](https://open.spotify.com/album/2Ve9vOvILPIDomVfrFr4bH) | 2:43 |
 
-Snapshot ID: `MCwwMTg5YjliNzgzZTY2MjkzOWM3MDIwMGE0NWJlNzRmOTc2MTZmNjRm`
+Snapshot ID: `MCwzYzQ2MDdlZmFlYjc3YzQzNzUyOTU1MTdiNGJiOGYxYmFhNzhhZDNj`

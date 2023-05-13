@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest house bangers popping off in the UK, let's go! Cover: Riton, FEYI",
+  "description": "The biggest house bangers popping off in the UK, let's go! Cover: Becky Hill",
   "name": "UK House Music",
   "tracks": [
     {
@@ -902,7 +902,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 461007,
       "name": "Big Eff Off Groove",
       "url": "https://open.spotify.com/track/4gdwfPd0LcJ4GHzE9MPxsl"
@@ -7714,6 +7714,28 @@
       "duration_ms": 359192,
       "name": "Sick n\u2019 Tired",
       "url": "https://open.spotify.com/track/0eSkCKFQsRZaut6LxJUKp1"
+    },
+    {
+      "album": {
+        "name": "Side Effects",
+        "url": "https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Lewis Thompson",
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153742,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp"
     },
     {
       "album": {

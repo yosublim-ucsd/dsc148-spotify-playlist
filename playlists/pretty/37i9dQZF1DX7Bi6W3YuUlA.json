@@ -1,12 +1,12 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover:  Tobe Nwigwe",
-  "num_followers": 15644,
+  "num_followers": 15738,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOWUyZGRlN2JmZWQ3YzJmNGIzMTc0OGRmODBmOTI0ODUxZjUzZTc2",
+  "snapshot_id": "MCwzMmRiODY2ZmM1ODhkNzJkOTZiZjNhNzA2MWNlNzM3MjJlZGJmMjc5",
   "tracks": [
     {
       "added_at": "2023-02-18 05:58:41",
@@ -623,26 +623,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "We Win (Space Jam: A New Legacy)",
-        "url": "https://open.spotify.com/album/5w1tIaJtvgPEn2mHxiJoVo"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 194999,
-      "name": "We Win (Space Jam: A New Legacy) (and Kirk Franklin)",
-      "url": "https://open.spotify.com/track/4Y9BJZccHjVdHUkee0pBRa"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "The Lion King: The Gift [Deluxe Edition]",
         "url": "https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 272464,
       "name": "MOOD 4 EVA (feat. Oumou Sangar\u00e9)",
       "url": "https://open.spotify.com/track/6tbkOI2yzodPd7FsYcz5D3"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "We Win (Space Jam: A New Legacy)",
+        "url": "https://open.spotify.com/album/5w1tIaJtvgPEn2mHxiJoVo"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 194999,
+      "name": "We Win (Space Jam: A New Legacy) (and Kirk Franklin)",
+      "url": "https://open.spotify.com/track/4Y9BJZccHjVdHUkee0pBRa"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
+        "name": "Waking Up",
+        "url": "https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H"
+      },
+      "artists": [
+        {
+          "name": "John Mark Pantana",
+          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+        }
+      ],
+      "duration_ms": 240357,
+      "name": "Waking Up",
+      "url": "https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
         "name": "Ficky Ficky",
         "url": "https://open.spotify.com/album/7udGdBV98HP5C7vvtKDnKF"
       },
@@ -1247,30 +1263,6 @@
       "duration_ms": 104147,
       "name": "Ficky Ficky",
       "url": "https://open.spotify.com/track/0GDBvTELLm5ujaYzAqZebd"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "The Stonebrook Project",
-        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
-      },
-      "artists": [
-        {
-          "name": "Zauntee",
-          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
-        },
-        {
-          "name": "2J Mako",
-          "url": "https://open.spotify.com/artist/4PW8LhWM1NaETYEzlYTpqV"
-        },
-        {
-          "name": "GQ DASTEPPA",
-          "url": "https://open.spotify.com/artist/6FJTRJCbi7oGB9n8CyLMNU"
-        }
-      ],
-      "duration_ms": 251306,
-      "name": "Life I Chose (feat. 2J Mako & GQ Dasteppa)",
-      "url": "https://open.spotify.com/track/4Nz5ui2QPkUXo1BfFI0PJg"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1307,18 +1299,26 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Waking Up",
-        "url": "https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H"
+        "name": "The Stonebrook Project",
+        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
       },
       "artists": [
         {
-          "name": "John Mark Pantana",
-          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+          "name": "Zauntee",
+          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
+        },
+        {
+          "name": "2J Mako",
+          "url": "https://open.spotify.com/artist/4PW8LhWM1NaETYEzlYTpqV"
+        },
+        {
+          "name": "GQ DASTEPPA",
+          "url": "https://open.spotify.com/artist/6FJTRJCbi7oGB9n8CyLMNU"
         }
       ],
-      "duration_ms": 240357,
-      "name": "Waking Up",
-      "url": "https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w"
+      "duration_ms": 251306,
+      "name": "Life I Chose (feat. 2J Mako & GQ Dasteppa)",
+      "url": "https://open.spotify.com/track/4Nz5ui2QPkUXo1BfFI0PJg"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1359,30 +1359,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/641i12iK07r1ALlCWq1xW3"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "Jidenna",
-          "url": "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 184271,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/1fsIS1oqTTr7CJvAkelrXc"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Swerve That",
         "url": "https://open.spotify.com/album/3DB8Imp4jE0LaXof9fzu11"
       },
@@ -1407,6 +1383,30 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/641i12iK07r1ALlCWq1xW3"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "Jidenna",
+          "url": "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "duration_ms": 184271,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/1fsIS1oqTTr7CJvAkelrXc"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
         "name": "Club Eden",
         "url": "https://open.spotify.com/album/2MEwAldfLhuqijyIDgSuy6"
       },
@@ -1423,22 +1423,18 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "NEW HOLLYWOOD",
-        "url": "https://open.spotify.com/album/7BVSP15gMNXLl3DnJkyyjc"
+        "name": "Lord Knows",
+        "url": "https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o"
       },
       "artists": [
         {
-          "name": "WHATUPRG",
-          "url": "https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7"
-        },
-        {
-          "name": "Rhomar Jessy",
-          "url": "https://open.spotify.com/artist/1jqR1m20qbEMSLfigWG6jT"
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
         }
       ],
-      "duration_ms": 247539,
-      "name": "HUMAN",
-      "url": "https://open.spotify.com/track/0JYHhhrkbLDqqV6qZBMwjb"
+      "duration_ms": 182508,
+      "name": "Lord Knows",
+      "url": "https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1459,18 +1455,22 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Lord Knows",
-        "url": "https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o"
+        "name": "NEW HOLLYWOOD",
+        "url": "https://open.spotify.com/album/7BVSP15gMNXLl3DnJkyyjc"
       },
       "artists": [
         {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+          "name": "WHATUPRG",
+          "url": "https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7"
+        },
+        {
+          "name": "Rhomar Jessy",
+          "url": "https://open.spotify.com/artist/1jqR1m20qbEMSLfigWG6jT"
         }
       ],
-      "duration_ms": 182508,
-      "name": "Lord Knows",
-      "url": "https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8"
+      "duration_ms": 247539,
+      "name": "HUMAN",
+      "url": "https://open.spotify.com/track/0JYHhhrkbLDqqV6qZBMwjb"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "KIDS",
-        "url": "https://open.spotify.com/album/4A3mlvuOmU0a0avddEvRmh"
-      },
-      "artists": [
-        {
-          "name": "WHATUPRG",
-          "url": "https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7"
-        }
-      ],
-      "duration_ms": 133021,
-      "name": "KIDS",
-      "url": "https://open.spotify.com/track/6ZvPVZJixqS3i2iUbamS7z"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Pray 2 God",
         "url": "https://open.spotify.com/album/5Wl3TpMmeWfY47wOWdbaec"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 187918,
       "name": "REST",
       "url": "https://open.spotify.com/track/0d0NpcKaUHchHs4sFYemL8"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "KIDS",
+        "url": "https://open.spotify.com/album/4A3mlvuOmU0a0avddEvRmh"
+      },
+      "artists": [
+        {
+          "name": "WHATUPRG",
+          "url": "https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7"
+        }
+      ],
+      "duration_ms": 133021,
+      "name": "KIDS",
+      "url": "https://open.spotify.com/track/6ZvPVZJixqS3i2iUbamS7z"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1871,26 +1871,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Be Gone (feat. Mike Teezy)",
-        "url": "https://open.spotify.com/album/6OLJkhICitLisBY6dAYNY5"
-      },
-      "artists": [
-        {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
-        },
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 176076,
-      "name": "Be Gone (feat. Mike Teezy)",
-      "url": "https://open.spotify.com/track/2cnc9jsFHDsGDQpYBMtgP9"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "ABOVE ME (feat. Parris Chariz)",
         "url": "https://open.spotify.com/album/7a7gNlcfFqoq2tCQmz2RoG"
       },
@@ -1907,6 +1887,26 @@
       "duration_ms": 167142,
       "name": "ABOVE ME (feat. Parris Chariz)",
       "url": "https://open.spotify.com/track/2ux5VNDPUsAV2Q5qKhRA6A"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Be Gone (feat. Mike Teezy)",
+        "url": "https://open.spotify.com/album/6OLJkhICitLisBY6dAYNY5"
+      },
+      "artists": [
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        },
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 176076,
+      "name": "Be Gone (feat. Mike Teezy)",
+      "url": "https://open.spotify.com/track/2cnc9jsFHDsGDQpYBMtgP9"
     }
   ],
   "unique_name": "Blessings",

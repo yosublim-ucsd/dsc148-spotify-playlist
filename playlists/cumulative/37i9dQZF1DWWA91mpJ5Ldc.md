@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-226 songs - 13 hr 51 min
+227 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Calma](https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Calma](https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5) | 3:06 | 2022-02-04 |  |
 | [Cansar De Dançar](https://open.spotify.com/track/4c63lo9vrZ9n0vs0ehiYks) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Cansar De Dançar](https://open.spotify.com/album/0CN6YfcfGslLa48BW7mlDK) | 2:37 | 2022-05-06 |  |
 | [Cara de Segunda](https://open.spotify.com/track/5fdn8MrzRBFVjTYuuC8YIh) | [Ina Magdala](https://open.spotify.com/artist/77b9EH7qYCrmbjrwBNaM5r) | [Cara de Segunda](https://open.spotify.com/album/4sxsQqJmmHJZApi0l6Dsw0) | 3:00 | 2022-06-03 | 2022-07-29 |
-| [Carinhoso](https://open.spotify.com/track/6VjeeVYWXVUn3bA8sfxQAE) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Carinhoso](https://open.spotify.com/album/0rJHcHo2NIgsVWRs4PcBpE) | 4:25 | 2022-02-04 |  |
+| [Carinhoso](https://open.spotify.com/track/6VjeeVYWXVUn3bA8sfxQAE) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Carinhoso](https://open.spotify.com/album/0rJHcHo2NIgsVWRs4PcBpE) | 4:25 | 2022-02-04 | 2023-05-13 |
 | [Cariocas](https://open.spotify.com/track/2ZOzy9aFCI8Yic2DP8n7xB) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7), [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Cariocas / Por Que Você Faz Cinema?](https://open.spotify.com/album/61KGsa3fDakjCMTDlOK1rA) | 3:43 | 2022-02-04 | 2022-07-25 |
 | [Carne dos Deuses](https://open.spotify.com/track/1Cu4k15CyHaUNEMETkRRXZ) | [Barro](https://open.spotify.com/artist/49Ymz7hkosffibefJioODe), [Ubunto](https://open.spotify.com/artist/5jCuYiMEooO3wIxXhzCquh) | [Carne dos Deuses](https://open.spotify.com/album/5Y0aw7qyAfbQK3CRp3kWJk) | 2:47 | 2022-02-04 | 2022-07-28 |
 | [Carne Dos Meus Versos](https://open.spotify.com/track/2mPTW4iRG0f7IBaQcaCnsD) | [As Baías](https://open.spotify.com/artist/7MKatfaGFrdd4jTZiwZW2K) | [Tarântula](https://open.spotify.com/album/6d6PpOHDJIzHwsy97cL0bG) | 3:58 | 2022-03-22 | 2022-06-26 |
@@ -169,6 +169,7 @@
 | [Paradise](https://open.spotify.com/track/2X4CPCeIpodiM1sPCYcXtL) | [DJ Center](https://open.spotify.com/artist/1h3GrJokWIvpbdKn6h4Owq), [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [Thalma De Freitas](https://open.spotify.com/artist/7dRgH9TbkPlyf3auU5jZKY) | [Paradise](https://open.spotify.com/album/1NBcAphFK9qE9rAA6LV8t6) | 3:39 | 2022-03-22 | 2022-04-17 |
 | [Parafuso](https://open.spotify.com/track/6EEglMg2h3npZVTQQzIOeX) | [Qinhones](https://open.spotify.com/artist/0pcMoyp7o9Fv8sGMm9rjAU) | [Parafuso](https://open.spotify.com/album/76F6NYWGJgkqU3WbR9Mo3F) | 4:39 | 2022-02-04 | 2022-10-19 |
 | [Pelo Telefone](https://open.spotify.com/track/1xlcibInQBcgyvJSSS36oR) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Vem](https://open.spotify.com/album/5rCOOZsVbPWwuAVKrA5Xug) | 2:49 | 2022-03-22 | 2022-04-20 |
+| [Pimenta De Cheiro](https://open.spotify.com/track/2cxDLP3uI9ovuHbrNqY3fr) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [ARRISCA](https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc) | 3:27 | 2023-05-12 |  |
 | [Pipa Voada \(feat\. Emicida\)](https://open.spotify.com/track/3oqC4Ta40ft6NnTJwcUTdi) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 3:05 | 2022-02-04 |  |
 | [Pode Ser às Dez](https://open.spotify.com/track/6yGOQ6hA237ZGf1odRXtPT) | [Luciane Dom](https://open.spotify.com/artist/6VixI1Abe7e3mV3ScdQmg1) | [Pode Ser às Dez](https://open.spotify.com/album/1HmIt2tLWJ9VZuFgsVg0fM) | 3:20 | 2022-03-14 | 2022-07-29 |
 | [ponta\-cabeça](https://open.spotify.com/track/6PCUuuWKzoZEH9BIZyHt5P) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Tiago Nacarato](https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X), [Janeiro](https://open.spotify.com/artist/6XkMchHBuVhvBzCOyKIlJ0), [Paulo Novaes](https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6) | [ponta\-cabeça](https://open.spotify.com/album/19qIiCP0f7SnoIgnnDOkJz) | 2:52 | 2022-02-04 | 2022-07-27 |

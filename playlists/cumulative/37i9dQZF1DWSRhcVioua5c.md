@@ -4,7 +4,7 @@
 
 > Una selección de baladas para suspirar de amor.
 
-135 songs - 8 hr 43 min
+137 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Al Decir Adiós](https://open.spotify.com/track/06qoYqycYdCaq6UMfEdiNY) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Al Decir Adiós](https://open.spotify.com/album/53cIKsT8pb3688c5hzNpJ9) | 3:48 | 2021-10-08 |  |
 | [Al Soñarte](https://open.spotify.com/track/13yPWigbj0YOadjdRJ942u) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Los Del Portezuelo](https://open.spotify.com/album/1TvdN3dnu3fV6ghx7s5k47) | 3:23 | 2022-07-15 |  |
 | [Al Soñarte](https://open.spotify.com/track/68PxuWmNJwzHbyic110KB2) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Los del Portezuelo](https://open.spotify.com/album/4i8hRtGYy0U3gbrBT9twWN) | 3:23 | 2021-10-08 | 2022-07-29 |
-| [Amarte Sin Piedad](https://open.spotify.com/track/0Pfov0G5ZoskadtvAgwPl8) | [Qiro](https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO) | [Amarte Sin Piedad](https://open.spotify.com/album/62i9o08soByC7ONFYj67IB) | 3:31 | 2021-10-08 |  |
+| [Amarte Sin Piedad](https://open.spotify.com/track/0Pfov0G5ZoskadtvAgwPl8) | [Qiro](https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO) | [Amarte Sin Piedad](https://open.spotify.com/album/62i9o08soByC7ONFYj67IB) | 3:31 | 2021-10-08 | 2023-05-13 |
 | [Amor de Papel](https://open.spotify.com/track/3vfumP2by7vcgQsEdWEurh) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos \(Sesiones 2020\)](https://open.spotify.com/album/3mrsqUgypqoCX1xyZzlJFk) | 2:13 | 2021-10-08 | 2022-07-29 |
 | [Amor Salvaje](https://open.spotify.com/track/0drALgikHfRAxeVPsZp7D6) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [20 Grandes Exitos](https://open.spotify.com/album/5sRlBY5xX2BaIkyMaYUM7p) | 3:15 | 2021-10-08 | 2022-07-29 |
 | [Amor Salvaje](https://open.spotify.com/track/3uXcL2mkNMUB8aK26xA0jE) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Amor Salvaje](https://open.spotify.com/album/6GtBjRg2ZceYWVd7KJjSG7) | 3:15 | 2022-07-15 |  |
@@ -69,6 +69,7 @@
 | [La Luna](https://open.spotify.com/track/113QNBn4EGOGo2uGNCa1J3) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [La Luna](https://open.spotify.com/album/4GBYS12uU7UxPhQ1jbAXZw) | 3:42 | 2021-10-08 | 2022-07-29 |
 | [La Luna](https://open.spotify.com/track/5m3SdNod7s5n2vFkQiJqYF) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Ahyre](https://open.spotify.com/album/2jJyXMCAAQmgk1WlsFFwAN) | 3:42 | 2022-07-15 |  |
 | [La Noche Sin Tí](https://open.spotify.com/track/6dT5W7zuEcUZHnZuVlSIJ5) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [La Voz Del Viento](https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a) | 4:18 | 2021-10-08 |  |
+| [La Paloma](https://open.spotify.com/track/1xbueGvTrxbpYNtOSFKdTJ) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Paloma](https://open.spotify.com/album/6DgVAve7m06lb2ubFqp3J3) | 3:44 | 2023-05-12 |  |
 | [La Soñé](https://open.spotify.com/track/5irK16GrbSb7eSKzvrbJiZ) | [Canto 4](https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq) | [Poncho](https://open.spotify.com/album/2LqkMvdnxBpqdOwGXPMdP3) | 3:15 | 2022-07-15 |  |
 | [La Soñé](https://open.spotify.com/track/5lChWpKVL0eYsxP8An5qSt) | [Canto 4](https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq) | [Poncho](https://open.spotify.com/album/2793DUGV2AqWDV7cB5Vdbk) | 3:15 | 2021-10-08 | 2022-07-29 |
 | [Luna Llena](https://open.spotify.com/track/27682VM2spSTjaneKmvNjk) | [Juan Fuentes](https://open.spotify.com/artist/3sTzey9Yo1tfeSQD0PIYRF) | [Luna Llena](https://open.spotify.com/album/3qNKPQP0exJIApWPz1SzWR) | 3:07 | 2021-10-08 |  |
@@ -80,7 +81,7 @@
 | [Nada](https://open.spotify.com/track/3MZj5HNiSCfcBE4fMRiSpX) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Nada](https://open.spotify.com/album/0vfHVUcxFuIesJnzwubbbB) | 3:33 | 2021-10-08 |  |
 | [No Dejare de Amarte](https://open.spotify.com/track/7nkSHwvJvfrfsj6HOLcsbG) | [Roxana Carabajal](https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP), [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [Fe](https://open.spotify.com/album/3eoEd7Bfd5VIN9HfCt3vIj) | 4:08 | 2021-10-08 | 2022-07-29 |
 | [No Dejare de Amarte](https://open.spotify.com/track/6xLJsgn7TFJmzmhaoTPOcp) | [Roxana Carabajal](https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP), [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [Fe](https://open.spotify.com/album/3ecNmYNuN7GXoCP064taCu) | 4:08 | 2022-07-15 |  |
-| [No Me Canso de Amar](https://open.spotify.com/track/5LKPve9fCi7TKtgoJx49NF) | [Los Carabajal](https://open.spotify.com/artist/73HzrMaQAGRv2nHCiOBlam) | [Huella](https://open.spotify.com/album/0y0ckypghp0Ae1bdo3qjth) | 3:34 | 2021-10-08 |  |
+| [No Me Canso de Amar](https://open.spotify.com/track/5LKPve9fCi7TKtgoJx49NF) | [Los Carabajal](https://open.spotify.com/artist/73HzrMaQAGRv2nHCiOBlam) | [Huella](https://open.spotify.com/album/0y0ckypghp0Ae1bdo3qjth) | 3:34 | 2021-10-08 | 2023-05-13 |
 | [No Me Olvides](https://open.spotify.com/track/2gxrZW6Isa0sVMgm8D22GM) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Reevolución](https://open.spotify.com/album/6mh57IdIEVmRX7YWnG83pO) | 3:54 | 2021-10-08 | 2022-07-29 |
 | [No Me Olvides](https://open.spotify.com/track/5OJAOB8Pe0IZOeGGjerPkE) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Reevolución](https://open.spotify.com/album/3YL3YmNrEYympobNbV3eXT) | 3:54 | 2022-07-15 |  |
 | [No Me Quiero Olvidar](https://open.spotify.com/track/0pwdW67It2KSrOIRVqFLiQ) | [Los Changos](https://open.spotify.com/artist/5fQdSkybNhdOYKwLLUWL71), [Franco Barrionuevo](https://open.spotify.com/artist/1Lw75bAtvyN31qYzmjgMMb), [Luis Paredes](https://open.spotify.com/artist/62b29phHmw4APV3xe26cco) | [La Última Estrella](https://open.spotify.com/album/3ZRhNcfRj7QzjK9iDNPQDc) | 3:48 | 2021-10-08 |  |
@@ -109,6 +110,7 @@
 | [Serenata Otoñal / Serenata para una Flor / Cuando Llora Mi Guitarra / Adoración / Mantelito Blanco / Nuestro Juramento / Que Nunca Falte Esta Zamba / El Que Toca Nunca Baila](https://open.spotify.com/track/2d63TiTyLpNhj6KkdZSDWd) | [Canto Del Alma](https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa) | [Serenata Otoñal / Serenata para una Flor / Cuando Llora Mi Guitarra / Adoración / Mantelito Blanco / Nuestro Juramento / Que Nunca Falte Esta Zamba / El Que Toca Nunca Baila](https://open.spotify.com/album/4mgOIuHak6A0OQsh6uu5R0) | 12:38 | 2022-07-15 |  |
 | [Si la Vieras](https://open.spotify.com/track/3HZz8dFHhpg1yZ7R9Az0Ye) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Si la Vieras](https://open.spotify.com/album/5oNhgIPJlLFZox7mRgMsuP) | 3:46 | 2021-10-08 | 2022-07-29 |
 | [Si La Vieras](https://open.spotify.com/track/5ULPFMQ1rDkp8XsyqunJ5d) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Si La Vieras](https://open.spotify.com/album/4RcPHUbcXSib4fo1c6h522) | 3:46 | 2022-07-15 |  |
+| [Si Pudiera](https://open.spotify.com/track/2S9oyHCvXTaaIFm2dkpwge) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Si Pudiera](https://open.spotify.com/album/1wMLkuAbaKSaqZr11xG32C) | 2:53 | 2023-05-12 |  |
 | [Si Te Vas](https://open.spotify.com/track/3RwDtnK03C9b7aAMlSVpgj) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [Codigo de Barro](https://open.spotify.com/album/3IPQXVfpqayAQqDAFLpklU) | 5:13 | 2021-10-08 | 2022-07-29 |
 | [Si Te Vas](https://open.spotify.com/track/5OHJKDaqEWl4t5aCilj3aQ) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [Codigo de Barro](https://open.spotify.com/album/0K93fTicVZxSDToZ0wwQDL) | 5:13 | 2022-07-15 |  |
 | [Sol Nocturno](https://open.spotify.com/track/4t38rSXR39gjVi5E7NwoLR) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Sol Nocturno, Pt\. 1](https://open.spotify.com/album/7i5RT2diSWPj2jX4G8iyoR) | 3:53 | 2021-10-08 |  |

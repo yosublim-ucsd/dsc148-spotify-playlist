@@ -2,9 +2,9 @@
 
 ### [Heavy Metal](https://open.spotify.com/playlist/37i9dQZF1DX9qNs32fujYe)
 
-> Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Enforcer
+> Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: DevilDriver
 
-720 songs - 2 day 5 hr 35 min
+721 songs - 2 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,7 +380,7 @@
 | [Metal Division](https://open.spotify.com/track/6IHYWWmVyVXVk8b8rBYy9z) | [Mystic Prophecy](https://open.spotify.com/artist/5kUzPpkPyNpxRYd66c8nYG) | [Metal Division](https://open.spotify.com/album/0cVq9qXjU2QnlocsDrHrRr) | 3:29 | 2021-12-17 | 2022-07-25 |
 | [Metal Is For Everyone](https://open.spotify.com/track/4ZYiE0Y1FttXgTqgZek4Kf) | [Freedom Call](https://open.spotify.com/artist/55RDuy7cQW2Dqrcz3Jjl6F) | [Master Of Light](https://open.spotify.com/album/2zjeaTlWtBPR57pzUSPLIW) | 4:52 | 2021-12-17 | 2022-06-12 |
 | [Metal Is for Everyone](https://open.spotify.com/track/5qKymwS7ymNUCRimGhiQkm) | [Freedom Call](https://open.spotify.com/artist/55RDuy7cQW2Dqrcz3Jjl6F) | [Master of Light](https://open.spotify.com/album/2l3lL1oX1ejmOfZdDZK47W) | 4:52 | 2022-07-08 | 2023-02-11 |
-| [Metal Supremacia](https://open.spotify.com/track/0xPYFEuqIQM9WQ2IIIq6Qf) | [Enforcer](https://open.spotify.com/artist/6nQ7NZbr43lnKpLYBvLf7A) | [Nostalgia](https://open.spotify.com/album/6fK73XeJneVXkMMuYHLXJG) | 2:53 | 2023-05-05 |  |
+| [Metal Supremacia](https://open.spotify.com/track/0xPYFEuqIQM9WQ2IIIq6Qf) | [Enforcer](https://open.spotify.com/artist/6nQ7NZbr43lnKpLYBvLf7A) | [Nostalgia](https://open.spotify.com/album/6fK73XeJneVXkMMuYHLXJG) | 2:53 | 2023-05-05 | 2023-05-13 |
 | [Midnight Bells](https://open.spotify.com/track/7msGMGvVPC1bM40OSfCSSL) | [NorthTale](https://open.spotify.com/artist/0cxYOcvgOWW1MJEoWeuCvg) | [Midnight Bells](https://open.spotify.com/album/50KHCM271IC4nZmnP5v8Bq) | 4:17 | 2022-01-21 | 2022-06-21 |
 | [Midnight Sun](https://open.spotify.com/track/4AbEyowmGAEGnLUZ9YCphR) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv), [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [Midnight Sun](https://open.spotify.com/album/3wh3qtOhkaJkA5mqxkzrGP) | 3:38 | 2022-05-06 | 2022-08-20 |
 | [Midwinter Calls](https://open.spotify.com/track/6rnE3rORv6kUDLoFlgNrq4) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [Midwinter Calls](https://open.spotify.com/album/02x2nCP1iUaHKw5ZrrX23h) | 5:06 | 2022-03-25 | 2022-07-29 |
@@ -445,7 +445,7 @@
 | [Over the Horizon Radar](https://open.spotify.com/track/5GMCA2bj9tyiRzMfqpsMzy) | [Jorn](https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2) | [Over the Horizon Radar](https://open.spotify.com/album/5UOB2GpihCJHEQ30DSnkss) | 5:23 | 2022-07-08 | 2022-07-22 |
 | [Painkiller](https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Painkiller](https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t) | 6:05 | 2022-02-11 |  |
 | [Paint the Sky with Blood](https://open.spotify.com/track/7j0DSyekwDBBkAesbD5bzH) | [Bodom After Midnight](https://open.spotify.com/artist/1pK4DWtAsZ6KSlIPwijXvG) | [Paint the Sky with Blood](https://open.spotify.com/album/6TMCI01byEtKKnGZHuzFUe) | 4:26 | 2021-12-17 | 2022-07-29 |
-| [Paradox](https://open.spotify.com/track/6A7sTvj68RJAVgTduJEQnA) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Paradox](https://open.spotify.com/album/5CVLZcnzPNgpSUqJA71HYz) | 4:01 | 2023-04-14 |  |
+| [Paradox](https://open.spotify.com/track/6A7sTvj68RJAVgTduJEQnA) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Paradox](https://open.spotify.com/album/5CVLZcnzPNgpSUqJA71HYz) | 4:01 | 2023-04-14 | 2023-05-13 |
 | [Paranoid](https://open.spotify.com/track/4MSqgoFS7e8LpsxeeMMVMu) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [The Ultimate Collection](https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv) | 2:48 | 2022-11-04 | 2022-11-14 |
 | [Paranoid \- 2012 \- Remaster](https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 2:48 | 2022-08-19 |  |
 | [Paranormalium](https://open.spotify.com/track/1qnJF3sdfkV2HLHwZRMPEP) | [Voivod](https://open.spotify.com/artist/0lFiKrJUofJpnrAJnMsnQ3) | [Synchro Anarchy](https://open.spotify.com/album/2JZN65DjGzT65ondXiQDHI) | 5:34 | 2022-03-22 | 2022-04-02 |
@@ -539,7 +539,7 @@
 | [Slayer of Kings](https://open.spotify.com/track/0qoznAGKZOBgne7MiycPPc) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [Slayer of Kings](https://open.spotify.com/album/692ScTjOsP51VwCcJtbs9S) | 5:03 | 2021-12-29 | 2022-07-18 |
 | [SLEEPS SOCIETY](https://open.spotify.com/track/1y8k3vis3WkBOVq0fL4GJF) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SLEEPS SOCIETY](https://open.spotify.com/album/0wotrj0XrHFh7x2FVvsuA1) | 3:19 | 2022-07-13 | 2023-05-05 |
 | [Slowly We Rot](https://open.spotify.com/track/5F6ZrWLngDICyjazxM1gNq) | [Obituary](https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz) | [Slowly We Rot \(Reissue\)](https://open.spotify.com/album/7H5MWoD8M6dEQoSj3SMHP7) | 3:38 | 2022-09-02 | 2023-02-11 |
-| [Smoke Signals](https://open.spotify.com/track/49sl0qA6id6Tz84Yrr3BsW) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Déjà Vu](https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW) | 3:34 | 2022-12-16 | 2023-05-11 |
+| [Smoke Signals](https://open.spotify.com/track/49sl0qA6id6Tz84Yrr3BsW) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Déjà Vu](https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW) | 3:34 | 2022-12-16 |  |
 | [Smoke Signals](https://open.spotify.com/track/63cTVY6A0yeJ0DsjXBwYVH) | [Novelists FR](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Smoke Signals](https://open.spotify.com/album/6LlnpYow87yXNdi9TtTUiv) | 3:34 | 2022-07-13 | 2022-10-17 |
 | [Snake Eyes](https://open.spotify.com/track/1i9JhqoNK9JVPkXwGxQR4m) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Snake Eyes](https://open.spotify.com/album/7vrpqWml8U2goskFO0AX7R) | 3:05 | 2022-01-14 | 2022-07-29 |
 | [Snap Your Fingers, Snap Your Neck](https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx) | [Prong](https://open.spotify.com/artist/6SER9tY2pDIDVWVf5Ql97B) | [Cleansing](https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO) | 4:11 | 2022-08-19 |  |
@@ -641,6 +641,7 @@
 | [The Writing On The Wall](https://open.spotify.com/track/20sXcaJkWP0DdzA58Colw3) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU) | 6:13 | 2022-07-13 | 2022-07-29 |
 | [The Writing On The Wall](https://open.spotify.com/track/6lIhdsIjY6iFPq6qZW2LIP) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/4bBIsMKf6EmHRlhBwtC33N) | 6:13 | 2022-07-13 | 2022-11-17 |
 | [The Years of Death and Dying](https://open.spotify.com/track/4dVudcK5JtTjsz2pjWfHni) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [The Years of Death and Dying](https://open.spotify.com/album/1rh3IaZg2O8txp2mSXirNH) | 5:22 | 2021-12-17 | 2022-07-28 |
+| [Through the Depths](https://open.spotify.com/track/1F3Gag1HgKHUBSctaSWn4Y) | [DevilDriver](https://open.spotify.com/artist/79el7mcHYhXYW3Zek21i0L) | [Dealing with Demons Vol\. II](https://open.spotify.com/album/5O4KC0CFhKXjoUniNXKHMw) | 4:45 | 2023-05-12 |  |
 | [Thunder Kiss '65](https://open.spotify.com/track/4tvBoSWeIW0bjhKNre5mod) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [La Sexorcisto: Devil Music Volume 1](https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD) | 3:54 | 2022-08-19 |  |
 | [Thunder Rising](https://open.spotify.com/track/3Vgtq7jtW4sFKwPgtsD4Lg) | [Brother Firetribe](https://open.spotify.com/artist/0FP1GVYq6WKexCiBkPftha) | [Thunder Rising](https://open.spotify.com/album/3cSc1fjJbqiefgFrxQtvyu) | 4:05 | 2021-12-17 | 2022-04-19 |
 | [To Hell and Back](https://open.spotify.com/track/1BrgjqSg9du0lj3TUMLluL) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Heroes](https://open.spotify.com/album/5TdhTTvwtD0ekZBYve97r7) | 3:26 | 2022-08-19 |  |

@@ -4,7 +4,7 @@
 
 > Músicas para dançar e louvar com os pequenos adoradores.
 
-59 songs - 3 hr 17 min
+60 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Com Jesus](https://open.spotify.com/track/1teeml3NtPVTvfdrPiuxID) | [Bunekão de Jesus](https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2) | [Com Jesus](https://open.spotify.com/album/0GPGJJUSk7pCTOrMkKgy60) | 2:58 | 2022-09-02 |  |
 | [Conectada Com Deus](https://open.spotify.com/track/0mdbQRBEonvAxHHJsS5UCj) | [Aline Nascimento](https://open.spotify.com/artist/5Iz1GoxCNhkBe8vn9fXQV4) | [Conectada Com Deus](https://open.spotify.com/album/58yeAD8aegEUHWbQBZp3mx) | 2:33 | 2023-01-20 | 2023-04-27 |
 | [Conectada com Deus](https://open.spotify.com/track/1iK8557dfKjDCeN8Jjkryg) | [Aline Nascimento](https://open.spotify.com/artist/5Iz1GoxCNhkBe8vn9fXQV4) | [Conectada com Deus](https://open.spotify.com/album/2mlaRjwR3nEaaJ78eNa0Ws) | 2:33 | 2023-03-11 | 2023-04-28 |
-| [Conectada com Deus \- PlayBack](https://open.spotify.com/track/4uxJTPhvT8FyOzQkS7DxoL) | [Aline Nascimento](https://open.spotify.com/artist/5Iz1GoxCNhkBe8vn9fXQV4) | [Conectada com Deus \(PlayBack\)](https://open.spotify.com/album/4CNNveKXMH7k2VMTC1FrAs) | 2:33 | 2023-03-11 |  |
+| [Conectada com Deus \- PlayBack](https://open.spotify.com/track/4uxJTPhvT8FyOzQkS7DxoL) | [Aline Nascimento](https://open.spotify.com/artist/5Iz1GoxCNhkBe8vn9fXQV4) | [Conectada com Deus \(PlayBack\)](https://open.spotify.com/album/4CNNveKXMH7k2VMTC1FrAs) | 2:33 | 2023-03-11 | 2023-05-13 |
 | [Corpo Perfeito](https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Kids](https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2) | 2:54 | 2022-09-02 |  |
 | [Criança Nota 10](https://open.spotify.com/track/2kPwaMnS3qowXfg8aBh7nn) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Coral de Crianças](https://open.spotify.com/artist/2qUfzKBWjm4UpH1MjdKnSi) | [Criança Nota 10](https://open.spotify.com/album/2nFtRppoPctEbxAUTpynL3) | 2:44 | 2022-09-02 |  |
 | [Dança do Canguru](https://open.spotify.com/track/1U4Vl0LRSvWtfBtRI6bnBN) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 3](https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg) | 2:53 | 2022-09-02 |  |
@@ -64,6 +64,7 @@
 | [Sr\. Antônimo](https://open.spotify.com/track/1mExcbeOoQEh2ZRFTY705r) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [ImaginAline](https://open.spotify.com/album/4DpfGOe1QVwuIENUOhxgsa) | 4:36 | 2022-09-02 |  |
 | [Tesouro](https://open.spotify.com/track/0d7iluBpPMuBSFxrhqfDyF) | [Vaneyse](https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl) | [Tesouro](https://open.spotify.com/album/61v4qQZaJwjprUBIJx9c1v) | 3:25 | 2022-09-02 |  |
 | [Tic Tac](https://open.spotify.com/track/4jygcdgSgyyf7QJacekxmx) | [Talitha Franco](https://open.spotify.com/artist/4a9BpHMkMFUFZT7j00Dubq), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Tic Tac](https://open.spotify.com/album/1g8HEmXjdRfNLqk9rk1Grk) | 3:08 | 2022-09-02 |  |
+| [Toc Toc Toc \- Baby Fun](https://open.spotify.com/track/6KjIPIOhwSHq2K4ItYRDJb) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Toc Toc Toc \- Baby Fun](https://open.spotify.com/album/1g7vUqTtKS2DzSRn3lugll) | 2:17 | 2023-05-12 |  |
 | [Todo Olho o Verá](https://open.spotify.com/track/5ObzGyGLgiOhAv0etKoboF) | [Minha Vida é Uma Viagem](https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR), [Daniel Lüdtke](https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa), [Marla Lüdtke](https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd) | [Minha Vida É uma Viagem 4](https://open.spotify.com/album/0TOnCsiORdMr35eFNYYA6s) | 3:17 | 2022-09-02 | 2022-10-15 |
 | [Tudo Vai Terminar Bem](https://open.spotify.com/track/4oYgECBXPGWladYejkc4bP) | [Minha Vida é Uma Viagem](https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR) | [Tudo Vai Terminar Bem](https://open.spotify.com/album/45SiWKT4wFF9c67wCqiMBA) | 3:45 | 2022-09-02 |  |
 | [Verdadeiro Amor](https://open.spotify.com/track/0yWQuYf69YZPteFYdVpubx) | [Bunekão de Jesus](https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2), [Olívia Teles](https://open.spotify.com/artist/2ojdlKsNAWovUgFXkFC2IZ) | [Verdadeiro Amor](https://open.spotify.com/album/4UxBeejCnl6LjKlBXNpjTH) | 3:31 | 2022-09-02 |  |

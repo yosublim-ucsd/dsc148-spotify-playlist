@@ -4,7 +4,7 @@
 
 > The best new electronic music from Electronica to Techno\. Cover: Mha Iri
 
-1,823 songs - 6 day 21 hr 59 min
+1,824 songs - 6 day 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [All That Matters \- ARTBAT Remix Radio Edit](https://open.spotify.com/track/4vLdWFBi8WgA00nWPUHaLS) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Troels Abrahamsen](https://open.spotify.com/artist/69NymgZLeHlWbV4Sh1CO36), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [All That Matters \(Artbat Remix\)](https://open.spotify.com/album/5BRqAXbsa6oxnnLQIiDHai) | 5:14 | 2023-04-27 |  |
 | [All the Music](https://open.spotify.com/track/4UGsSWGkwLR5zH0bQIjuvT) | [Rich Vom Dorf](https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9) | [All the Music](https://open.spotify.com/album/3UKVqElOfakcctYGhGHQbB) | 4:03 | 2022-07-07 | 2022-07-29 |
 | [Alle meine Raver](https://open.spotify.com/track/3UShLxr87usr5yQ6G3GVKK) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8), [Ben Dust](https://open.spotify.com/artist/4smTLJEoRPULdc4QuG7JGo) | [Alle meine Raver](https://open.spotify.com/album/3u1t460lF2E1dS547CkEg4) | 5:14 | 2023-03-16 | 2023-04-07 |
-| [Allein Allein](https://open.spotify.com/track/2bpHc7nCduKQWJVNqJ4mDj) | [Innerverse](https://open.spotify.com/artist/0lIiVp6FVbJR2utszYQhNf), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Allein Allein](https://open.spotify.com/album/2oLn47kWsw7iYC3NOtNEx2) | 3:41 | 2023-05-11 |  |
+| [Allein Allein](https://open.spotify.com/track/2bpHc7nCduKQWJVNqJ4mDj) | [INNERVERSE](https://open.spotify.com/artist/0lIiVp6FVbJR2utszYQhNf), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Allein Allein](https://open.spotify.com/album/2oLn47kWsw7iYC3NOtNEx2) | 3:41 | 2023-05-11 |  |
 | [Alles](https://open.spotify.com/track/0jRC8IjHvzRw9zUvgPN71D) | [Sascha Kloeber](https://open.spotify.com/artist/1Rle6CpNbJy2S3nJVTjpNU) | [Alles](https://open.spotify.com/album/6yQ5N7ZUtQlFhf0JAM6Vsg) | 6:53 | 2022-06-23 | 2022-07-08 |
 | [Almost](https://open.spotify.com/track/6KGCfq4NWeRuU2wnT1Cr7F) | [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj), [Johanson](https://open.spotify.com/artist/5oNwxILfJ5rJhMaFdwB9tN), [Feral Garden](https://open.spotify.com/artist/6C3Yrg93t2fro8ikPATMfK) | [Almost](https://open.spotify.com/album/4laJoI4wRtF1SJpIR2mjrr) | 5:43 | 2023-03-24 | 2023-04-14 |
 | [Alone With You](https://open.spotify.com/track/6GpoMwO68bxDCeXCivPqe0) | [Monvol](https://open.spotify.com/artist/3AbpwdjSWkaLmsXyZhmIFl) | [Alone With You](https://open.spotify.com/album/6V7BT0rCnWCeU3dxEc6ApQ) | 8:51 | 2022-09-29 | 2022-10-14 |
@@ -481,6 +481,7 @@
 | [Drone Me Up, Flashy \- &ME Remix](https://open.spotify.com/track/6iNhl5IcRJfm3F42plOPA4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Knock Knock Remixes](https://open.spotify.com/album/2juRFnVLI1Zo3BlVXIa7T4) | 9:06 | 2022-04-14 | 2022-04-29 |
 | [DUNYA \- Extended Version](https://open.spotify.com/track/3EoRtpapDB9EwZYT3iKUyj) | [IAM](https://open.spotify.com/artist/3c1lMwxxFOWKz9Dl7HFhtf) | [DUNYA \(Extended Version\)](https://open.spotify.com/album/1jhz9SB4rL45guWvJaSqiO) | 4:55 | 2022-04-28 | 2022-05-13 |
 | [Duplicate](https://open.spotify.com/track/0Vj5tDSoPC0ISTmQKbvoCm) | [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3) | [Duplicate](https://open.spotify.com/album/2Abwav2UASGK0o7bRgDgl9) | 6:19 | 2023-02-23 | 2023-03-10 |
+| [Duration](https://open.spotify.com/track/7lCWwzpzO9mi82MDVwq7Ss) | [Barnt](https://open.spotify.com/artist/5UwHHsEQqO6OiQCtYHDpn9), [Michael Mayer](https://open.spotify.com/artist/5R9d1YP5jtBw2IrQItGzQI) | [Speicher 125](https://open.spotify.com/album/0GHCGbjjcx6PgtGWV4fEwx) | 8:10 | 2023-05-12 |  |
 | [Dusk](https://open.spotify.com/track/40jU9D52rViqfRjqvZ2F4L) | [Monarke](https://open.spotify.com/artist/5uPPX33s71WjX25P1DfqVk), [Soul Button](https://open.spotify.com/artist/5mcH5yOO7QWoT8CuL8JxEm) | [Dusk](https://open.spotify.com/album/27VgNuEGZnE0nTehmqJAoR) | 7:19 | 2022-09-16 | 2022-09-30 |
 | [Dust2](https://open.spotify.com/track/73TeOQxZq4VMxooPmZ4KEr) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [Dust2](https://open.spotify.com/album/0JMayIqWFUZbGsNBPj3XvW) | 6:26 | 2022-06-02 | 2022-06-24 |
 | [Earth Matrix](https://open.spotify.com/track/061DJMdRy2fnuwdL5zZpYG) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [Earth Matrix EP](https://open.spotify.com/album/2bnywQAUzCE3v1hgTxbscU) | 5:11 | 2023-02-17 | 2023-03-03 |

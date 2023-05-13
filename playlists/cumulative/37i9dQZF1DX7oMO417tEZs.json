@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "Proudly marching to the beat of their own drum. Cover: Snakehips, Rochelle Jordan",
+  "description": "Proudly marching to the beat of their own drum. Cover: Jorja Smith",
   "name": "Outliers",
   "tracks": [
     {
@@ -4266,7 +4266,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 211693,
       "name": "EST\u00c1S BUEN\u00cdSIMO",
       "url": "https://open.spotify.com/track/13MRbFUJGGRKucCMzzdnWF"
@@ -4728,6 +4728,28 @@
       "duration_ms": 253232,
       "name": "FATHER'S DAY",
       "url": "https://open.spotify.com/track/6umZfXvscE1GxzTG2SDiol"
+    },
+    {
+      "album": {
+        "name": "THIS TOO",
+        "url": "https://open.spotify.com/album/6tXexHAySkobzl95v05V2y"
+      },
+      "artists": [
+        {
+          "name": "H\u00e4zel",
+          "url": "https://open.spotify.com/artist/2XuQe6qA4dziDhpLjxUzZx"
+        },
+        {
+          "name": "Beatchild",
+          "url": "https://open.spotify.com/artist/4k7KKAyXbpBKe0iziD7c2P"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280373,
+      "name": "Faux Rouges",
+      "url": "https://open.spotify.com/track/0dpKiYTU2oltVeNR8hFaAm"
     },
     {
       "album": {
@@ -7255,6 +7277,32 @@
     },
     {
       "album": {
+        "name": "Random Access Memories (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4mAhdh996uW5SnnFKXUmC0"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "name": "Julian Casablancas",
+          "url": "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
+        },
+        {
+          "name": "The Voidz",
+          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239213,
+      "name": "Infinity Repeating (2013 Demo) [feat. Julian Casablancas+The Voidz]",
+      "url": "https://open.spotify.com/track/4r4fX4NZIqVIhGyDvERp0l"
+    },
+    {
+      "album": {
         "name": "Inhale / Exhale (with Sabrina Claudio)",
         "url": "https://open.spotify.com/album/1bq8eTRB7o4IWYYeUQ3p5c"
       },
@@ -7770,7 +7818,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 195440,
       "name": "Kick In The Head",
       "url": "https://open.spotify.com/track/0o7a5d0ArD1f1Xwt7ld8EM"
@@ -8273,6 +8321,28 @@
     },
     {
       "album": {
+        "name": "Lisa Leslie",
+        "url": "https://open.spotify.com/album/0Betq18SWb7GZ6kGHyZQTu"
+      },
+      "artists": [
+        {
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+        },
+        {
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133205,
+      "name": "Lisa Leslie",
+      "url": "https://open.spotify.com/track/3O48lwYbFRsDAyOFyvyp8m"
+    },
+    {
+      "album": {
         "name": "Little Bit",
         "url": "https://open.spotify.com/album/6flVS16mkfOamQyQVboaQa"
       },
@@ -8292,6 +8362,24 @@
       "duration_ms": 147907,
       "name": "Little Bit",
       "url": "https://open.spotify.com/track/47rk9eQwI1zUlaZymVQeWQ"
+    },
+    {
+      "album": {
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204600,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
     },
     {
       "album": {
@@ -8970,6 +9058,24 @@
       "duration_ms": 187200,
       "name": "Midnight Delivery",
       "url": "https://open.spotify.com/track/1cKJuD3B2dYZAsolCVABHU"
+    },
+    {
+      "album": {
+        "name": "Midnight Ontario",
+        "url": "https://open.spotify.com/album/2u5bejNVm2oQfsqzxtABAa"
+      },
+      "artists": [
+        {
+          "name": "Jessy Lanza",
+          "url": "https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186853,
+      "name": "Midnight Ontario",
+      "url": "https://open.spotify.com/track/5tPAaQJwbEsFl3unzrBLdt"
     },
     {
       "album": {
@@ -10322,7 +10428,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 137195,
       "name": "okay w/ that",
       "url": "https://open.spotify.com/track/1b1RqfCsTuJYIxNIUFcGas"
@@ -11056,7 +11162,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 191493,
       "name": "Placebo Effect",
       "url": "https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y"
@@ -12691,6 +12797,28 @@
     },
     {
       "album": {
+        "name": "Maps",
+        "url": "https://open.spotify.com/album/3VoX4iyvy7et6Qt47e2XwS"
+      },
+      "artists": [
+        {
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+        },
+        {
+          "name": "Kenny Segal",
+          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173647,
+      "name": "Soft Landing",
+      "url": "https://open.spotify.com/track/0TFzKqmZl7HjklWP0KWqXt"
+    },
+    {
+      "album": {
         "name": "Softly",
         "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
       },
@@ -13214,7 +13342,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 158421,
       "name": "STRAWBERRY LOUIS VUITTON (Ft. Thundercat, Maeta)",
       "url": "https://open.spotify.com/track/2K81yLG5kx2uKqT4PZmTXp"
@@ -14220,7 +14348,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 157824,
       "name": "This Too",
       "url": "https://open.spotify.com/track/7E0ck3kZmSzHTsnkXRINPv"
@@ -14424,7 +14552,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 213933,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/3htVhQPsTXWAkAXYRkfRSz"
@@ -14806,6 +14934,24 @@
       "duration_ms": 201686,
       "name": "Uptick",
       "url": "https://open.spotify.com/track/4ck3tmznrtyCYUnmANYEvv"
+    },
+    {
+      "album": {
+        "name": "UR SO FULL OF IT",
+        "url": "https://open.spotify.com/album/0scVQRLEFHqCysQzYu5NNS"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134270,
+      "name": "UR SO FULL OF IT",
+      "url": "https://open.spotify.com/track/30ZieTpW4I1capqDGSY2mt"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Canciones de despecho para cantarle a quien te rompió el corazón.
 
-106 songs - 6 hr 13 min
+107 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Noche De Entierro](https://open.spotify.com/track/6ksWMnPcHNyNoNf3y1BQCO) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Hector](https://open.spotify.com/artist/46EVasHDUzMdhBXeQ7r0W2), [Tonny Tun Tun](https://open.spotify.com/artist/4a0UP5sUQGKcn2QJnqMT0t) | [Mas Flow \- Los Benjamins](https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f) | 4:23 | 2021-12-15 |  |
 | [Normal](https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Normal](https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu) | 2:51 | 2022-07-28 |  |
 | [Nuestra Canción](https://open.spotify.com/track/7LCVRDkKetzQqMN3ONPvqn) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Nuestra Canción](https://open.spotify.com/album/7GJlThLfkYnaJfs3Wy9JwM) | 3:32 | 2023-02-17 |  |
+| [Orgullo](https://open.spotify.com/track/1rWfFeGXyCsfpsWq5dz94Y) | [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ), [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Orgullo](https://open.spotify.com/album/0Le1Lj2NyXlJZW02C706u3) | 3:43 | 2023-05-12 |  |
 | [otra vez](https://open.spotify.com/track/6RmnotfWeDu72fXhpo26Bq) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [BAHÍA DUCATI](https://open.spotify.com/album/444LqH6QlvR62nY8Vxn37u) | 3:25 | 2022-06-03 | 2022-06-09 |
 | [Otra vez](https://open.spotify.com/track/5cADvuEXTFGjrDfeZIPI0Q) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Trending Top Hits Now!](https://open.spotify.com/album/2Abj4pdxIatBcRJqHvpZhh) | 3:29 | 2022-08-25 | 2022-11-14 |
 | [Otra vez \(feat\. J Balvin\)](https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Motivan2](https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb) | 3:29 | 2022-07-28 |  |

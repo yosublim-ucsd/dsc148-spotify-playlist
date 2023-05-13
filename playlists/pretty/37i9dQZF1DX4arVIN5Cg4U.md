@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4arVIN5Cg4U.md) - [plain]
 
 > Get your bassface on with these classic Dubstep tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,898 likes - 40 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,050 likes - 40 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,13 +18,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4arVIN5Cg4U.md) - [plain]
 | 8 | [Make It Bun Dem](https://open.spotify.com/track/0mlf3yOGzVnIVxjybDQL3h) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Make It Bun Dem After Hours EP](https://open.spotify.com/album/3ipNtzV1LNGEBWu4VSsmjP) | 3:33 |
 | 9 | [Lone Wolf](https://open.spotify.com/track/76I3PmbGZazzNlEwlp1y85) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Lone Wolf](https://open.spotify.com/album/0ZOHOmSoA2F394OWEqvAIY) | 4:16 |
 | 10 | [Promises](https://open.spotify.com/track/2LCCxYQ5dw1dz3Pu6APEUH) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:17 |
-| 11 | [Bass Cannon](https://open.spotify.com/track/4u3a1nylBxY8siO7Os4t22) | [Flux Pavillion](https://open.spotify.com/artist/0z9vD9DKvwTGRPEQ4JZID7) | [Bass Cannon](https://open.spotify.com/album/2cmBRFSeVDZVTSPyQG9AoF) | 5:09 |
-| 12 | [I Need Air \(feat\. Angela Hunte\)](https://open.spotify.com/track/5je1EimWTwYw2p8XVym99q) | [Magnetic Man](https://open.spotify.com/artist/40ttEBZPhAHbXH6aUg4GkL), [Angela Hunte](https://open.spotify.com/artist/7rEqtNYXSDePQHdZNiLN6L) | [Magnetic Man](https://open.spotify.com/album/1xlyG4VH7qEx1tNVXDtcmr) | 4:16 |
+| 11 | [I Need Air \(feat\. Angela Hunte\)](https://open.spotify.com/track/5je1EimWTwYw2p8XVym99q) | [Magnetic Man](https://open.spotify.com/artist/40ttEBZPhAHbXH6aUg4GkL), [Angela Hunte](https://open.spotify.com/artist/7rEqtNYXSDePQHdZNiLN6L) | [Magnetic Man](https://open.spotify.com/album/1xlyG4VH7qEx1tNVXDtcmr) | 4:16 |
+| 12 | [Heartbeat \- Chase & Status We Just Bought A Guitar Mix](https://open.spotify.com/track/5qPmR4nG3nNAECAN5JxrEV) | [Nneka](https://open.spotify.com/artist/0VX4MyYhvKRtU1AZUVGLUZ), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Heartbeat EP](https://open.spotify.com/album/7cFT0IlqXCMqkjYi7iL5Jf) | 3:57 |
 | 13 | [Scary Monsters and Nice Sprites](https://open.spotify.com/track/4rwpZEcnalkuhPyGkEdhu0) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Scary Monsters and Nice Sprites EP](https://open.spotify.com/album/35tQBmq1RblVUzAvfsw5uO) | 4:03 |
 | 14 | [Internet Friends](https://open.spotify.com/track/5qFL2uwfnGU8FccwLMgPNQ) | [Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH) | [100% No Modern Talking](https://open.spotify.com/album/2Ha5B3dapothPfMP9gWvQB) | 5:01 |
 | 15 | [Doomsday](https://open.spotify.com/track/3ziKJoRHiJsaoTaeBYCJBA) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:11 |
-| 16 | [Heartbeat \- Chase & Status We Just Bought A Guitar Mix](https://open.spotify.com/track/5qPmR4nG3nNAECAN5JxrEV) | [Nneka](https://open.spotify.com/artist/0VX4MyYhvKRtU1AZUVGLUZ), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Heartbeat EP](https://open.spotify.com/album/7cFT0IlqXCMqkjYi7iL5Jf) | 3:57 |
-| 17 | [In For The Kill \- Skream's Let's Get Ravey Remix](https://open.spotify.com/track/46SNlNPyoPOF19hGF4dbBD) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [La Roux \(Gold Edition\)](https://open.spotify.com/album/6WGLFg9lQO6ytwJfIflCQA) | 5:01 |
+| 16 | [In For The Kill \- Skream's Let's Get Ravey Remix](https://open.spotify.com/track/46SNlNPyoPOF19hGF4dbBD) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [La Roux \(Gold Edition\)](https://open.spotify.com/album/6WGLFg9lQO6ytwJfIflCQA) | 5:01 |
+| 17 | [Bass Cannon](https://open.spotify.com/track/4u3a1nylBxY8siO7Os4t22) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Bass Cannon](https://open.spotify.com/album/2cmBRFSeVDZVTSPyQG9AoF) | 5:09 |
 | 18 | [Smack My Bitch Up \- Noisia Remix](https://open.spotify.com/track/5NlW1Be0WYIOFp1gx1b7Kf) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB), [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY) | [The Fat of the Land \- Expanded Edition](https://open.spotify.com/album/3knGLri9I3X3oO24mDNdkG) | 5:53 |
 | 19 | [Still Getting It](https://open.spotify.com/track/0LeGeKymBOKaofgQOZXeSo) | [Foreign Beggars](https://open.spotify.com/artist/0sQ1wgSdRpoysgsa1VnI4G), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [The Harder They Fall EP](https://open.spotify.com/album/5s7KcxWTWcGbGehe52aga6) | 4:00 |
 | 20 | [Everyday \- Netsky Remix](https://open.spotify.com/track/7vYutw14Ch1Ee1ZmU7gLQ7) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10), [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP) | [Everyday/Lick The Lizard](https://open.spotify.com/album/3JhkJ5yR4Oh6xljqo58qMY) | 4:11 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4arVIN5Cg4U.md) - [plain]
 | 39 | [Crush On You](https://open.spotify.com/track/6NJNZKFys2ypAG7L0XKaeT) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:10 |
 | 40 | [Rutten](https://open.spotify.com/track/28T5MOMLbQ1MMmJAbrrxWr) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Skream! \(Expanded Edition\)](https://open.spotify.com/album/1nWIYpBIbSn759fhDYPvrx) | 6:31 |
 
-Snapshot ID: `MCxkNDE5MDg5YzYwNTFmNTNjYzU4NjA2ZDcxMjk1MWI2OWU1ODNhNThj`
+Snapshot ID: `MCwzNzhjOTIwZmFmMDFiMGUzZjYzZDE4ZWI0NTAyZTVjNTk4NDYyYTYw`

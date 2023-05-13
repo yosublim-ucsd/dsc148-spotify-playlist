@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Jana Horn
 
-332 songs - 20 hr 55 min
+333 songs - 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [Maggie](https://open.spotify.com/track/6BYUB4l8aAF2FEu8kHAG4I) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [Maggie](https://open.spotify.com/album/7x0Ma71IGM9QuoaAKaIahy) | 4:54 | 2022-01-21 | 2022-07-29 |
 | [Maria, Maria](https://open.spotify.com/track/1OiZlAtgC2mgri19FM4WEU) | [Melissa Mary Ahern](https://open.spotify.com/artist/79KGU3BCSn2jRJi4r0jHZ2) | [Maria, Maria](https://open.spotify.com/album/2arErHVLHlDBsR8iLd5Haf) | 3:37 | 2022-01-21 | 2022-04-28 |
 | [May](https://open.spotify.com/track/4JhCFrz0W9JuwsgT1c4HJT) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [May](https://open.spotify.com/album/53MJvvksiE4OBv49EWp0dl) | 3:58 | 2022-04-13 | 2022-11-13 |
-| [May](https://open.spotify.com/track/6HahXy57PZHiHTFdSCrW7U) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Still Life](https://open.spotify.com/album/4pHFtbFFyiccsHgu1NvKQq) | 3:58 | 2023-04-21 |  |
+| [May](https://open.spotify.com/track/6HahXy57PZHiHTFdSCrW7U) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Still Life](https://open.spotify.com/album/4pHFtbFFyiccsHgu1NvKQq) | 3:58 | 2023-04-21 | 2023-05-13 |
 | [Maybe Someday](https://open.spotify.com/track/2DjwsghflIeh6qmfpoy5UI) | [Alt Bloom](https://open.spotify.com/artist/6JxQbC46LapcvanSk4J3OP) | [Maybe Someday](https://open.spotify.com/album/6onXo7EIPgWuvfkFoVNrAU) | 3:00 | 2022-10-21 | 2022-12-16 |
 | [Memory of a Cut off Head](https://open.spotify.com/track/6x2WOYH0DgXdTi8vg0WivN) | [OCS](https://open.spotify.com/artist/5PhWi4UkdjJYThzuoMItQa) | [Memory of a Cut off Head](https://open.spotify.com/album/0kxeP3unSnuW8GTRzL4MsS) | 4:47 | 2022-04-13 | 2023-02-24 |
 | [Michelangelo](https://open.spotify.com/track/7M5ASYUkhK0iac9WiKyPA3) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE) | 3:29 | 2022-01-21 |  |
@@ -334,6 +334,7 @@
 | [Wind On Tin](https://open.spotify.com/track/49TYOtiNamKbN1xGIaNOgV) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Sorceress](https://open.spotify.com/album/0CGHgo9imbQfU2n8LdbVDO) | 3:06 | 2023-05-05 |  |
 | [Wind On Tin](https://open.spotify.com/track/5eaLSLnaAHcUph093i4Bqr) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Sorceress](https://open.spotify.com/album/7MVsXLrGD9X1iBM0AQGFE6) | 3:06 | 2022-04-29 | 2023-04-30 |
 | [Wind on Tin](https://open.spotify.com/track/5puD6cc8BPlXu3feo5bafr) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Sorceress](https://open.spotify.com/album/4PFQNELzkJ1AFwb9GsQc26) | 3:06 | 2022-04-13 | 2022-07-28 |
+| [Winona](https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Winona](https://open.spotify.com/album/2cwVHZrQ0eaaiUhCxW7glA) | 4:35 | 2023-05-12 |  |
 | [With News About Heaven](https://open.spotify.com/track/5AlvG6En5wNwVQRzxkgXyF) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [New Vanitas](https://open.spotify.com/album/6Y9i01k1rGe69qVjWsGWNM) | 4:31 | 2022-04-13 | 2022-07-28 |
 | [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 | 2023-03-10 |  |
 | [Yeehoo!](https://open.spotify.com/track/7CturcmN3XAaQhl32n5Pm2) | [Lauren Juzang](https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5) | [Yeehoo!](https://open.spotify.com/album/425NhcK8beUulJGrT4duTL) | 3:28 | 2022-11-11 | 2023-01-02 |

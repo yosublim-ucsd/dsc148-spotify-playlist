@@ -4,7 +4,7 @@
 
 > Folk punk, anti\-folk, acoustic punk & more\. Cover: The Moldy Peaches
 
-56 songs - 2 hr 48 min
+57 songs - 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Blister In The Sun](https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG) | 2:25 | 2023-02-21 |  |
 | [Body Terror Song](https://open.spotify.com/track/3D1PuFi2U8lmtdWRZcCz1f) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Good Luck Everybody](https://open.spotify.com/album/2SvkUGRbWkrnsytUsINzf6) | 2:37 | 2023-02-21 |  |
 | [Brave as a Noun](https://open.spotify.com/track/6bfPo8Ge3VoD4dEGSDs0R9) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [People Who Can Eat People are the Luckiest People in the World](https://open.spotify.com/album/2jRdTNGZzb3drtFRYaUpFE) | 1:14 | 2023-02-21 |  |
+| [Bring It Home \(feat\. Jaime Wyatt\)](https://open.spotify.com/track/5PWke7d2ucI1I4NEqgH6DB) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Okemah Rising](https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK) | 3:22 | 2023-05-12 |  |
 | [Coffee, God, And Cigarettes](https://open.spotify.com/track/0SQmgir2AkvVKa3snPcn2z) | [Mischief Brew](https://open.spotify.com/artist/73U1Zb71I5JwgC1qVqZ8NO) | [Songs From Under The Sink](https://open.spotify.com/album/1Adkukn6Z9MjyI1bw53nh9) | 2:20 | 2023-02-21 |  |
 | [Coming of Age](https://open.spotify.com/track/7cy8bN353JaUkc6qeTRg6B) | [Olive Klug](https://open.spotify.com/artist/3SEtmo8E5DJVuGddKYqeiU) | [Coming of Age](https://open.spotify.com/album/1QduDQX8LXLJVTqvrFfbSf) | 3:48 | 2023-02-21 |  |
 | [Crag](https://open.spotify.com/track/4g8Djx0U0KlcKXVd2nYIWy) | [Human Behavior](https://open.spotify.com/artist/7dP5gL9CzGF6lPzRlprwS7) | [Golgotha](https://open.spotify.com/album/7jouh2dK5X0lkHJPEQ0TEp) | 3:15 | 2023-02-21 |  |

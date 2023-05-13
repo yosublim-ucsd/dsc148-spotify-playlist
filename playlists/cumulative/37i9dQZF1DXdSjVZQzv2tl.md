@@ -2,7 +2,7 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Hugo & Guilherme
+> O melhor do sertanejo em uma só playlist! Foto: Israel & Rodolffo, Mari Fernandez
 
 134 songs - 6 hr 23 min
 

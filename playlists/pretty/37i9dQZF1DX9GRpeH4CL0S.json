@@ -1,12 +1,12 @@
 {
   "description": "The greatest Alternative Rock songs through the decades. Cover: The Killers",
-  "num_followers": 661659,
+  "num_followers": 661869,
   "original_name": "Essential Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYmU0MGEzOWRmYTgyMTcxYWJjNWIwYTZiYTQwZDA3N2EzYzNlODIx",
+  "snapshot_id": "MCxkZDkwZDg2MTllNGRhOTRmMzZmM2NiN2EyN2FmMzUwNmMwYTgzODE0",
   "tracks": [
     {
       "added_at": "2022-11-23 20:10:22",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 201726,
-      "name": "R U Mine?",
-      "url": "https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Fallen",
         "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 235893,
       "name": "Bring Me To Life",
       "url": "https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 201726,
+      "name": "R U Mine?",
+      "url": "https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Cage The Elephant (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn"
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
       },
       "artists": [
         {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 175493,
-      "name": "Ain't No Rest for the Wicked",
-      "url": "https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7"
+      "duration_ms": 251840,
+      "name": "Dog Days Are Over",
+      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+        "name": "Cage The Elephant (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn"
       },
       "artists": [
         {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
         }
       ],
-      "duration_ms": 251840,
-      "name": "Dog Days Are Over",
-      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
+      "duration_ms": 175493,
+      "name": "Ain't No Rest for the Wicked",
+      "url": "https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -2031,6 +2031,22 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
+        "name": "Yoshimi Battles the Pink Robots",
+        "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
+      },
+      "artists": [
+        {
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+        }
+      ],
+      "duration_ms": 213173,
+      "name": "Do You Realize??",
+      "url": "https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
         "name": "The Invisible Band",
         "url": "https://open.spotify.com/album/7hktYMjRekLPK3BZRr4sIQ"
       },
@@ -2079,22 +2095,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Songs For The Deaf",
-        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 278706,
-      "name": "No One Knows",
-      "url": "https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Siamese Dream (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo"
       },
@@ -2111,18 +2111,18 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Yoshimi Battles the Pink Robots",
-        "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
       },
       "artists": [
         {
-          "name": "The Flaming Lips",
-          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
         }
       ],
-      "duration_ms": 213173,
-      "name": "Do You Realize??",
-      "url": "https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ"
+      "duration_ms": 278706,
+      "name": "No One Knows",
+      "url": "https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -2155,22 +2155,6 @@
       "duration_ms": 280466,
       "name": "Joker And The Thief",
       "url": "https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
-        "name": "Is This It",
-        "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 193373,
-      "name": "Last Nite",
-      "url": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -2255,6 +2239,22 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
+        "name": "Is This It",
+        "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 193373,
+      "name": "Last Nite",
+      "url": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Manners",
-        "url": "https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv"
-      },
-      "artists": [
-        {
-          "name": "Passion Pit",
-          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "Sleepyhead",
-      "url": "https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Give Up (Deluxe 10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b"
       },
@@ -2315,6 +2299,22 @@
       "duration_ms": 266506,
       "name": "Such Great Heights - Remastered",
       "url": "https://open.spotify.com/track/4G21jWo0Cm6lOIUNnZ2mUI"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Manners",
+        "url": "https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv"
+      },
+      "artists": [
+        {
+          "name": "Passion Pit",
+          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "Sleepyhead",
+      "url": "https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -2383,18 +2383,18 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Nothing's Shocking",
-        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
+        "name": "Vs.",
+        "url": "https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV"
       },
       "artists": [
         {
-          "name": "Jane's Addiction",
-          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 287000,
-      "name": "Jane Says",
-      "url": "https://open.spotify.com/track/7c1Dar0pIAW7w5TzaGjt9t"
+      "duration_ms": 196186,
+      "name": "Elderly Woman Behind the Counter in a Small Town - Remastered",
+      "url": "https://open.spotify.com/track/5lHgBqh9VwAAzQma55gHRY"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -2415,18 +2415,18 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Vs.",
-        "url": "https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV"
+        "name": "Nothing's Shocking",
+        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
       },
       "artists": [
         {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 196186,
-      "name": "Elderly Woman Behind the Counter in a Small Town - Remastered",
-      "url": "https://open.spotify.com/track/5lHgBqh9VwAAzQma55gHRY"
+      "duration_ms": 287000,
+      "name": "Jane Says",
+      "url": "https://open.spotify.com/track/7c1Dar0pIAW7w5TzaGjt9t"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -2495,22 +2495,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "The Guest (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4SvTjA2cwASS1cWzEIG0WD"
-      },
-      "artists": [
-        {
-          "name": "Phantom Planet",
-          "url": "https://open.spotify.com/artist/0LsTFjEB1IIrh7IlTxs1GY"
-        }
-      ],
-      "duration_ms": 193933,
-      "name": "California - Tchad Blake Mix",
-      "url": "https://open.spotify.com/track/497Fkp3gRiGrRMoqBTDudr"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Wolfgang Amadeus Phoenix",
         "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
       },
@@ -2523,6 +2507,22 @@
       "duration_ms": 241640,
       "name": "Lisztomania",
       "url": "https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "The Guest (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4SvTjA2cwASS1cWzEIG0WD"
+      },
+      "artists": [
+        {
+          "name": "Phantom Planet",
+          "url": "https://open.spotify.com/artist/0LsTFjEB1IIrh7IlTxs1GY"
+        }
+      ],
+      "duration_ms": 193933,
+      "name": "California - Tchad Blake Mix",
+      "url": "https://open.spotify.com/track/497Fkp3gRiGrRMoqBTDudr"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -2815,22 +2815,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Plans",
-        "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 229413,
-      "name": "Soul Meets Body",
-      "url": "https://open.spotify.com/track/5yc59J3MR3tVDPTOgwgRI5"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Veni Vidi Vicious",
         "url": "https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li"
       },
@@ -2843,6 +2827,22 @@
       "duration_ms": 199759,
       "name": "Hate To Say I Told You So",
       "url": "https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 229413,
+      "name": "Soul Meets Body",
+      "url": "https://open.spotify.com/track/5yc59J3MR3tVDPTOgwgRI5"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -3071,22 +3071,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Walking On A Dream",
-        "url": "https://open.spotify.com/album/04gYcIojJt78nYnN5oOrKt"
-      },
-      "artists": [
-        {
-          "name": "Empire of the Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 198440,
-      "name": "Walking On A Dream",
-      "url": "https://open.spotify.com/track/0mBkoM8r7KAQzZij5swTUL"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Ga Ga Ga Ga Ga (2017 Remaster)",
         "url": "https://open.spotify.com/album/3tSpLdSd2zhM0N0aYZd13E"
       },
@@ -3099,6 +3083,22 @@
       "duration_ms": 222106,
       "name": "The Underdog",
       "url": "https://open.spotify.com/track/2ZLL9Blx7Tq4tBrhE9YvXE"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Walking On A Dream",
+        "url": "https://open.spotify.com/album/04gYcIojJt78nYnN5oOrKt"
+      },
+      "artists": [
+        {
+          "name": "Empire of the Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 198440,
+      "name": "Walking On A Dream",
+      "url": "https://open.spotify.com/track/0mBkoM8r7KAQzZij5swTUL"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -3311,22 +3311,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Cease To Begin",
-        "url": "https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ"
-      },
-      "artists": [
-        {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
-        }
-      ],
-      "duration_ms": 179666,
-      "name": "Is There A Ghost",
-      "url": "https://open.spotify.com/track/7fgOmdonXZap1Kuz7hs3O1"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Turn On The Bright Lights (The Tenth Anniversary Edition - 2012 Remaster)",
         "url": "https://open.spotify.com/album/5oJ2OTdqCteMkGDjzcItNN"
       },
@@ -3355,6 +3339,22 @@
       "duration_ms": 207373,
       "name": "Shoot the Runner",
       "url": "https://open.spotify.com/track/4baAwbpkroYCwSIlaqzNXy"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Cease To Begin",
+        "url": "https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "duration_ms": 179666,
+      "name": "Is There A Ghost",
+      "url": "https://open.spotify.com/track/7fgOmdonXZap1Kuz7hs3O1"
     },
     {
       "added_at": "2022-11-23 20:10:22",

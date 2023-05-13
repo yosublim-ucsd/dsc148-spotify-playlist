@@ -1,13 +1,33 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Jack Harlow",
-  "num_followers": 7399,
+  "num_followers": 7437,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTNkOGFjZjVkZDU3YjQ3M2FjN2EwOGFmYjBiZmE2NGU1ZDhjNWY4",
+  "snapshot_id": "MCw5MmRhYTQ0MTUwM2JiMzJjYmViMGFiZTgzMGNmZTczODk2ZWEzN2I2",
   "tracks": [
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
+        "name": "All My Life (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 223878,
+      "name": "All My Life (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
+    },
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
@@ -455,6 +475,22 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
+        "name": "CALL DA FIREMAN",
+        "url": "https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 124805,
+      "name": "SHAKE SUMN",
+      "url": "https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
         "name": "Who is Nardo Wick?",
         "url": "https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR"
       },
@@ -475,30 +511,6 @@
       "duration_ms": 225533,
       "name": "Me or Sum (feat. Future & Lil Baby)",
       "url": "https://open.spotify.com/track/2HHLfzE7PkljuqyYU4vwmh"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "I Remember (feat. Roddy Ricch & Kodak Black)",
-        "url": "https://open.spotify.com/album/3uAsKIks1rWzarn1anRo4K"
-      },
-      "artists": [
-        {
-          "name": "Internet Money",
-          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 173379,
-      "name": "I Remember (feat. Roddy Ricch & Kodak Black)",
-      "url": "https://open.spotify.com/track/7qAwnjc2qPbpK1gB4VRwXW"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -535,18 +547,26 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "CALL DA FIREMAN",
-        "url": "https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL"
+        "name": "I Remember (feat. Roddy Ricch & Kodak Black)",
+        "url": "https://open.spotify.com/album/3uAsKIks1rWzarn1anRo4K"
       },
       "artists": [
         {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 124805,
-      "name": "SHAKE SUMN",
-      "url": "https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv"
+      "duration_ms": 173379,
+      "name": "I Remember (feat. Roddy Ricch & Kodak Black)",
+      "url": "https://open.spotify.com/track/7qAwnjc2qPbpK1gB4VRwXW"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -587,26 +607,6 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "We're All Alone In This Together",
-        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        }
-      ],
-      "duration_ms": 204373,
-      "name": "Lazarus (feat. Boj)",
-      "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
         "name": "Let\u2019s Go (feat. Aitch)",
         "url": "https://open.spotify.com/album/03YnYlkkIiMOjIV9qIjykw"
       },
@@ -623,6 +623,26 @@
       "duration_ms": 159031,
       "name": "Let\u2019s Go (feat. Aitch)",
       "url": "https://open.spotify.com/track/1wUpbNyIar4OFPM1Fg3R3j"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
+        "name": "We're All Alone In This Together",
+        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "duration_ms": 204373,
+      "name": "Lazarus (feat. Boj)",
+      "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -675,22 +695,22 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+        "name": "THE FORMULA",
+        "url": "https://open.spotify.com/album/5m14quIRl4HI5KK6rI7thv"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
         },
         {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 211050,
-      "name": "Cloak & Dagger (feat. J Hus)",
-      "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
+      "duration_ms": 227633,
+      "name": "THE FORMULA",
+      "url": "https://open.spotify.com/track/1sCIBNFV7SL3Y2gL2G8iKl"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -759,6 +779,26 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        }
+      ],
+      "duration_ms": 211050,
+      "name": "Cloak & Dagger (feat. J Hus)",
+      "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
         "name": "Dat Way (Remix) [feat. Abra Cadabra, Backroad Gee, French Montana, Clavish, Beenie Man, Pa Salieu, Bandokay, Double Lz, K-Trap & DoRoad]",
         "url": "https://open.spotify.com/album/6H7ndcY9LUys2h4MczxSNt"
       },
@@ -815,26 +855,6 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "THE FORMULA",
-        "url": "https://open.spotify.com/album/5m14quIRl4HI5KK6rI7thv"
-      },
-      "artists": [
-        {
-          "name": "will.i.am",
-          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 227633,
-      "name": "THE FORMULA",
-      "url": "https://open.spotify.com/track/1sCIBNFV7SL3Y2gL2G8iKl"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
         "name": "The Villain I Never Was",
         "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
       },
@@ -847,6 +867,22 @@
       "duration_ms": 161699,
       "name": "Konongo Zongo",
       "url": "https://open.spotify.com/track/3F6xtKBO2YixpP8lFJTiGo"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
+        "name": "My Body",
+        "url": "https://open.spotify.com/album/2xuebkXnp2jQyT2Ml3LF32"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 120933,
+      "name": "My Body",
+      "url": "https://open.spotify.com/track/5kcWZ1cPvyVpSR6gycY0CH"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -867,22 +903,6 @@
       "duration_ms": 259591,
       "name": "Lemons (Lemonade)",
       "url": "https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "My Body",
-        "url": "https://open.spotify.com/album/2xuebkXnp2jQyT2Ml3LF32"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 120933,
-      "name": "My Body",
-      "url": "https://open.spotify.com/track/5kcWZ1cPvyVpSR6gycY0CH"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -1039,34 +1059,6 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "Levels (Explicit)",
-        "url": "https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe"
-      },
-      "artists": [
-        {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Da Les",
-          "url": "https://open.spotify.com/artist/4on53ORBym2GEnRhIptZwy"
-        },
-        {
-          "name": "JR",
-          "url": "https://open.spotify.com/artist/1a0Wc4pzPAFe5ZFiL1glrr"
-        }
-      ],
-      "duration_ms": 258106,
-      "name": "All Eyes on Me (feat. Burna Boy, Da L.E.S. & JR)",
-      "url": "https://open.spotify.com/track/6oAWlzrEbXFis7Z0kyeX0h"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
         "name": "Vigilante Bop",
         "url": "https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG"
       },
@@ -1103,6 +1095,34 @@
       "duration_ms": 150857,
       "name": "BACK IN UNI",
       "url": "https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
+        "name": "Levels (Explicit)",
+        "url": "https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Da Les",
+          "url": "https://open.spotify.com/artist/4on53ORBym2GEnRhIptZwy"
+        },
+        {
+          "name": "JR",
+          "url": "https://open.spotify.com/artist/1a0Wc4pzPAFe5ZFiL1glrr"
+        }
+      ],
+      "duration_ms": 258106,
+      "name": "All Eyes on Me (feat. Burna Boy, Da L.E.S. & JR)",
+      "url": "https://open.spotify.com/track/6oAWlzrEbXFis7Z0kyeX0h"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -1219,22 +1239,18 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "Ivyson Army Tour Mixtape",
-        "url": "https://open.spotify.com/album/1aVDTp3dj2thrSRcXyTVlA"
+        "name": "Penny",
+        "url": "https://open.spotify.com/album/2z4iQHDq7b8i6EjWRxdHOR"
       },
       "artists": [
         {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        },
-        {
-          "name": "Emtee",
-          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
         }
       ],
-      "duration_ms": 178421,
-      "name": "Born To Win",
-      "url": "https://open.spotify.com/track/05xkxPqRIiCuhXP3wSn8Zn"
+      "duration_ms": 183529,
+      "name": "Penny",
+      "url": "https://open.spotify.com/track/5issK1Y1KE7VirtZE4Ac1w"
     }
   ],
   "unique_name": "Hype List",

@@ -421,6 +421,24 @@
     },
     {
       "album": {
+        "name": "Buhloone Mindstate",
+        "url": "https://open.spotify.com/album/4ajtfXfaqumfNlJDTVjhOd"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255008,
+      "name": "Breakadawn",
+      "url": "https://open.spotify.com/track/2WyLyygONxNBVtXCRLMjFY"
+    },
+    {
+      "album": {
         "name": "Grands Succ\u00e8s : Les Plus Grands Orchestre De La Lib\u00e9ration",
         "url": "https://open.spotify.com/album/3M84IpjW6jlrAkEW8dgXao"
       },

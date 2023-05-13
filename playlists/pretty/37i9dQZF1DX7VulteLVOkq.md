@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VulteLVOkq.md) - [plain]
 
 > Just some of the many highlights from the <a href="spotify:artist:3PhoLpVuITZKcymswpck5b">Rocket Man</a>'s career.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,197,830 likes - 52 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,198,120 likes - 52 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VulteLVOkq.md) - [plain]
 | 29 | [Philadelphia Freedom](https://open.spotify.com/track/2hl9ONQ7YGgZGYx0OSHvIq) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Captain Fantastic And The Brown Dirt Cowboy](https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF) | 5:24 |
 | 30 | [Are You Ready For Love? \- Remastered](https://open.spotify.com/track/4IN5LOq2UhGrCk2cBRlsmR) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Diamonds \(Deluxe\)](https://open.spotify.com/album/45F4Pmp3EJi3T6qYonm4Ml) | 3:32 |
 | 31 | [Lucy In The Sky With Diamonds](https://open.spotify.com/track/13JsYnkF16pHKuOFG6uI1C) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Captain Fantastic And The Brown Dirt Cowboy](https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF) | 6:17 |
-| 32 | [Pinball Wizard](https://open.spotify.com/track/7bLVAgQDVEdeGrsPVABVRi) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration / Super Deluxe\)](https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN) | 5:15 |
+| 32 | [Pinball Wizard](https://open.spotify.com/track/6CJCCb9ookMMDQNz1Rrtii) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 5:09 |
 | 33 | [The Bitch Is Back](https://open.spotify.com/track/40tnCfx2mTtHozyaRDcYC5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 3:44 |
 | 34 | [I Want Love](https://open.spotify.com/track/5rnMgctZxjKDNdqrVqg7Bm) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:35 |
 | 35 | [Honky Cat](https://open.spotify.com/track/4wlB8D6OZpHEz3kXVuYD2O) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [To Be Continued...](https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux) | 5:13 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VulteLVOkq.md) - [plain]
 | 51 | [Breaking Hearts \(Ain't What It Used To Be\)](https://open.spotify.com/track/4fBCtdSAeJHMhWlXxTGoEB) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Breaking Hearts](https://open.spotify.com/album/572Rt1N8EW6yMEEQ298qQJ) | 3:33 |
 | 52 | [Merry Christmas](https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Merry Christmas](https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK) | 3:28 |
 
-Snapshot ID: `MCwxNzlkMTcxZDIwOTY3ZGI1ODA0NjU0OGRmYWRkMzJiMzE4ZDFhYzhm`
+Snapshot ID: `MCxlMjYwYjMyMWJiY2EwNzNlMGNhNWRjMmMwOTM0OTVhM2NmMmM1MmNj`

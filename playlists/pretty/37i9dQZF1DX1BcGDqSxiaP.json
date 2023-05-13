@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 18151,
+  "num_followers": 18175,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzAxM2VhYTI0N2ZhNjNiOWVhNDY1MjEwZTUyOGI0NzU3ZjUzYTQ3",
+  "snapshot_id": "MCw3ZjU1YWMzYjcyNDhhZThmYTQwYTQ1ZDEyOTI4NTcwMzEyYzBjMDE5",
   "tracks": [
     {
       "added_at": "2020-09-21 10:42:33",
@@ -127,6 +127,22 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
+        "name": "Hound Dog Taylor and The Houserockers",
+        "url": "https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV"
+      },
+      "artists": [
+        {
+          "name": "Hound Dog Taylor & The HouseRockers",
+          "url": "https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a"
+        }
+      ],
+      "duration_ms": 215800,
+      "name": "Give Me Back My Wig",
+      "url": "https://open.spotify.com/track/65dalI2zUxJy2ITurZAaUb"
+    },
+    {
+      "added_at": "2020-09-21 10:42:33",
+      "album": {
         "name": "Rough Cut",
         "url": "https://open.spotify.com/album/0jPcLwxiq6Fzz3cJOGXO6C"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 167306,
       "name": "I Want My Dog To Live Longer (The Greatest Wish)",
       "url": "https://open.spotify.com/track/4SCge41oDQOTIcfmhnYvAQ"
-    },
-    {
-      "added_at": "2020-09-21 10:42:33",
-      "album": {
-        "name": "Hound Dog Taylor and The Houserockers",
-        "url": "https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV"
-      },
-      "artists": [
-        {
-          "name": "Hound Dog Taylor & The HouseRockers",
-          "url": "https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a"
-        }
-      ],
-      "duration_ms": 215800,
-      "name": "Give Me Back My Wig",
-      "url": "https://open.spotify.com/track/65dalI2zUxJy2ITurZAaUb"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -259,8 +259,8 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "Frostbite",
-        "url": "https://open.spotify.com/album/7C64occ2ChtDhSH5Wsj8mV"
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 248400,
-      "name": "If You Love Me Like You Say",
-      "url": "https://open.spotify.com/track/0t3BTxJpdQnnS52cz0ciw9"
+      "duration_ms": 188840,
+      "name": "Ice Pick",
+      "url": "https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -307,22 +307,6 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "Hound Dog Taylor and The Houserockers",
-        "url": "https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV"
-      },
-      "artists": [
-        {
-          "name": "Hound Dog Taylor & The HouseRockers",
-          "url": "https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a"
-        }
-      ],
-      "duration_ms": 219066,
-      "name": "Wild About You, Baby",
-      "url": "https://open.spotify.com/track/4bSX7lBKZlyIVP4cHJVhna"
-    },
-    {
-      "added_at": "2020-09-21 10:42:33",
-      "album": {
         "name": "Lucky Guy!",
         "url": "https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 189213,
       "name": "312 Blood",
       "url": "https://open.spotify.com/track/6rRCC8vOdzR12gdf33Cb5u"
+    },
+    {
+      "added_at": "2020-09-21 10:42:33",
+      "album": {
+        "name": "Hound Dog Taylor and The Houserockers",
+        "url": "https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV"
+      },
+      "artists": [
+        {
+          "name": "Hound Dog Taylor & The HouseRockers",
+          "url": "https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a"
+        }
+      ],
+      "duration_ms": 219066,
+      "name": "Wild About You, Baby",
+      "url": "https://open.spotify.com/track/4bSX7lBKZlyIVP4cHJVhna"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -415,8 +415,8 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+        "name": "Frostbite",
+        "url": "https://open.spotify.com/album/7C64occ2ChtDhSH5Wsj8mV"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 188840,
-      "name": "Ice Pick",
-      "url": "https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr"
+      "duration_ms": 248400,
+      "name": "If You Love Me Like You Say",
+      "url": "https://open.spotify.com/track/0t3BTxJpdQnnS52cz0ciw9"
     },
     {
       "added_at": "2020-09-21 10:42:33",

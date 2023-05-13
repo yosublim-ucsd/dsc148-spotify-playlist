@@ -2,9 +2,9 @@
 
 ### [Punto Tropical](https://open.spotify.com/playlist/37i9dQZF1DWZ1FUX6sM67g)
 
-> ¡En este punto tropical, se encuentra un poco de todo! Foto: Fonseca, Juan Luis Guerra
+> ¡En este punto tropical, se encuentra un poco de todo! Foto: Sebastian Yatra, Manuel Turizo, Beéle
 
-132 songs - 8 hr 0 min
+133 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [La Mejor Versión de Mi](https://open.spotify.com/track/2yWjS7QcpqtDI5KmmQyxkn) | [Los Barraza](https://open.spotify.com/artist/5uX7ebKHlBttut8EUM9Uzs) | [La Mejor Versión de Mi](https://open.spotify.com/album/4tzJ6ghCYh5fZ61k5s8k5G) | 4:29 | 2022-05-20 | 2022-07-29 |
 | [La Mejor Versión de Mi](https://open.spotify.com/track/62WQGsG4lHE0gQhLjBeAO6) | [Los Barraza](https://open.spotify.com/artist/5uX7ebKHlBttut8EUM9Uzs) | [La Mejor Versión de Mi](https://open.spotify.com/album/0WWfQgz8vCAqLeg7TcdBMJ) | 4:29 | 2022-07-28 | 2022-09-10 |
 | [La Peruana](https://open.spotify.com/track/3GwmnvymwiVxTQ02d1wWB1) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [La Peruana](https://open.spotify.com/album/69yHTiNzBYqJVtzYj1fOT1) | 3:52 | 2022-10-07 | 2022-12-03 |
-| [La Single](https://open.spotify.com/track/7dAwKpgHeKrxPJ2aygL97o) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [La Single](https://open.spotify.com/album/3tRChQRAml4AQlJjRmK3dc) | 4:36 | 2023-03-31 |  |
+| [La Single](https://open.spotify.com/track/7dAwKpgHeKrxPJ2aygL97o) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [La Single](https://open.spotify.com/album/3tRChQRAml4AQlJjRmK3dc) | 4:36 | 2023-03-31 | 2023-05-13 |
 | [Lao' a Lao'](https://open.spotify.com/track/7FERDnffKGQKul3P32Sm37) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Lao' a Lao'](https://open.spotify.com/album/1tvJvDz3tXfhq0xfABFuU9) | 3:04 | 2022-05-20 |  |
 | [Las Locuras Mías](https://open.spotify.com/track/58sCyRSFBV0m60kbV9rtp9) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Las Locuras Mías](https://open.spotify.com/album/0PE6hxgSMyjrsiN0MktJpL) | 3:42 | 2022-05-20 |  |
 | [Leave the Door Open](https://open.spotify.com/track/0FL9B5QQ3605w7qwz9gz7S) | [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk), [Jean Rodriguez](https://open.spotify.com/artist/0AaeA0bBuFyAWdJ2W6597x), [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh) | [Leave the Door Open](https://open.spotify.com/album/5mwOyb0JniHStZYUvN1Bdx) | 5:10 | 2022-05-20 | 2022-09-03 |
@@ -130,6 +130,7 @@
 | [Un Ladrón](https://open.spotify.com/track/0GRqaS1RZuqNTlnlOPb5sX) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [La Última Misión](https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW) | 4:14 | 2022-10-07 | 2022-12-03 |
 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 | 2023-04-17 |  |
 | [Una Mentirita](https://open.spotify.com/track/6ut8ePIEbWycmzEHXWU06p) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Friends & Legends](https://open.spotify.com/album/6ynC3pKZOdcjotW7NTFta1) | 3:37 | 2022-05-20 | 2023-04-29 |
+| [VAGABUNDO](https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [VAGABUNDO](https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc) | 3:35 | 2023-05-12 |  |
 | [Vale la Pena](https://open.spotify.com/track/1gnkKuNpKnOvXMftw747lu) | [Grupo Merenguisimo](https://open.spotify.com/artist/4KcGb6w8lBbsV0tErkz3fW) | [100 % Latino Vol\. 1](https://open.spotify.com/album/6M7YGALzaiR2xPezIz73FA) | 3:26 | 2022-11-11 | 2022-11-13 |
 | [Vale la Pena](https://open.spotify.com/track/4vpii4xtBH8pAgUn8acSGy) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Ni Es Lo Mismo Ni Es Igual](https://open.spotify.com/album/0rMhxS1sNMYZ4OLKuoDhLN) | 3:27 | 2022-05-20 | 2022-10-16 |
 | [Vale la Pena](https://open.spotify.com/track/7uC9TpGGHrAssX8NUKBqed) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Ni Es Lo Mismo Ni Es Igual](https://open.spotify.com/album/0RWsJiIvRxAbmzfSTJsabn) | 3:27 | 2022-10-14 |  |

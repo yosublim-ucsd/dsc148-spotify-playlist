@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmIzNTQ1ZDJhMmU1OTBlYWZmMDllNTgyZjJmNWUyZDJiZmExOGZl",
+  "snapshot_id": "MCxkYzU5OWU4M2EzOTY0YzRiMWE1YmI2NTI0ZTY4NjE1OTA2ZWZkMWIw",
   "tracks": [
     {
       "added_at": "2023-05-05 08:20:58",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-05-05 08:20:58",
       "album": {
-        "name": "Moving",
-        "url": "https://open.spotify.com/album/0T2md2tJWwA35Wl2EFHbiH"
-      },
-      "artists": [
-        {
-          "name": "Krr",
-          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
-        }
-      ],
-      "duration_ms": 202853,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/4jzNb4SziJCRL7K7dVimn7"
-    },
-    {
-      "added_at": "2023-05-05 08:20:58",
-      "album": {
         "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/6lkiYHR4LUv13f0yuXSf2D"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 239866,
       "name": "Saying Hello",
       "url": "https://open.spotify.com/track/0iLX5STkl07zjT4sO8dadX"
+    },
+    {
+      "added_at": "2023-05-05 08:20:58",
+      "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/0T2md2tJWwA35Wl2EFHbiH"
+      },
+      "artists": [
+        {
+          "name": "Krr",
+          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
+        }
+      ],
+      "duration_ms": 202853,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/4jzNb4SziJCRL7K7dVimn7"
     },
     {
       "added_at": "2023-05-05 08:20:58",
@@ -183,22 +183,6 @@
     {
       "added_at": "2023-05-05 08:20:58",
       "album": {
-        "name": "The Film",
-        "url": "https://open.spotify.com/album/5C43D5TjB15GoKHogFTNEq"
-      },
-      "artists": [
-        {
-          "name": "J_ust",
-          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
-        }
-      ],
-      "duration_ms": 196386,
-      "name": "The Film",
-      "url": "https://open.spotify.com/track/4KYzR5AKCyoargIQFOYWxZ"
-    },
-    {
-      "added_at": "2023-05-05 08:20:58",
-      "album": {
         "name": "Sweet Lullaby",
         "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 195013,
       "name": "Sweet Lullaby",
       "url": "https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY"
+    },
+    {
+      "added_at": "2023-05-05 08:20:58",
+      "album": {
+        "name": "The Film",
+        "url": "https://open.spotify.com/album/5C43D5TjB15GoKHogFTNEq"
+      },
+      "artists": [
+        {
+          "name": "J_ust",
+          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
+        }
+      ],
+      "duration_ms": 196386,
+      "name": "The Film",
+      "url": "https://open.spotify.com/track/4KYzR5AKCyoargIQFOYWxZ"
     },
     {
       "added_at": "2023-05-05 08:20:58",
@@ -407,18 +407,18 @@
     {
       "added_at": "2023-05-05 08:20:58",
       "album": {
-        "name": "Think About You",
-        "url": "https://open.spotify.com/album/2NunoRHmbtwi6dJ98e0qAp"
+        "name": "sleepless nights (My Sweden Laundry #1)",
+        "url": "https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd"
       },
       "artists": [
         {
-          "name": "Acoustic Collabo",
-          "url": "https://open.spotify.com/artist/0rMd7FdvwwxKrFEsQ1hC7G"
+          "name": "Choi Yuree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/0cjBJptR0O4Y0ESQoXXzFH"
+      "duration_ms": 220413,
+      "name": "sleepless nights (My Sweden Laundry #1)",
+      "url": "https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC"
     },
     {
       "added_at": "2023-05-05 08:20:58",
@@ -439,34 +439,18 @@
     {
       "added_at": "2023-05-05 08:20:58",
       "album": {
-        "name": "sleepless nights (My Sweden Laundry #1)",
-        "url": "https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd"
+        "name": "Think About You",
+        "url": "https://open.spotify.com/album/2NunoRHmbtwi6dJ98e0qAp"
       },
       "artists": [
         {
-          "name": "Choi Yuree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+          "name": "Acoustic Collabo",
+          "url": "https://open.spotify.com/artist/0rMd7FdvwwxKrFEsQ1hC7G"
         }
       ],
-      "duration_ms": 220413,
-      "name": "sleepless nights (My Sweden Laundry #1)",
-      "url": "https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC"
-    },
-    {
-      "added_at": "2023-05-05 08:20:58",
-      "album": {
-        "name": "All My Love",
-        "url": "https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat"
-      },
-      "artists": [
-        {
-          "name": "PARK BO GUM",
-          "url": "https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv"
-        }
-      ],
-      "duration_ms": 203866,
-      "name": "All My Love - Korean Ver.",
-      "url": "https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u"
+      "duration_ms": 224000,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/0cjBJptR0O4Y0ESQoXXzFH"
     },
     {
       "added_at": "2023-05-05 08:20:58",
@@ -487,6 +471,22 @@
       "duration_ms": 400871,
       "name": "Bye (feat. LeeHi)",
       "url": "https://open.spotify.com/track/4DnMtsF3UfkGys5DwjU3BH"
+    },
+    {
+      "added_at": "2023-05-05 08:20:58",
+      "album": {
+        "name": "All My Love",
+        "url": "https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat"
+      },
+      "artists": [
+        {
+          "name": "PARK BO GUM",
+          "url": "https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv"
+        }
+      ],
+      "duration_ms": 203866,
+      "name": "All My Love - Korean Ver.",
+      "url": "https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u"
     },
     {
       "added_at": "2023-05-05 08:20:58",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-05-05 08:20:58",
       "album": {
+        "name": "Summer Festa",
+        "url": "https://open.spotify.com/album/014u0JnJJYVQCpxVSQ9awM"
+      },
+      "artists": [
+        {
+          "name": "NavyQuokka",
+          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+        }
+      ],
+      "duration_ms": 190040,
+      "name": "Summer Festa",
+      "url": "https://open.spotify.com/track/48FmyTNts7wIojfB3NxDfR"
+    },
+    {
+      "added_at": "2023-05-05 08:20:58",
+      "album": {
         "name": "When It's Cold",
         "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
       },
@@ -675,18 +691,18 @@
     {
       "added_at": "2023-05-05 08:20:58",
       "album": {
-        "name": "Summer Festa",
-        "url": "https://open.spotify.com/album/014u0JnJJYVQCpxVSQ9awM"
+        "name": "Seoul Check-in OST Part 8",
+        "url": "https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5"
       },
       "artists": [
         {
-          "name": "NavyQuokka",
-          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
         }
       ],
-      "duration_ms": 190040,
-      "name": "Summer Festa",
-      "url": "https://open.spotify.com/track/48FmyTNts7wIojfB3NxDfR"
+      "duration_ms": 178758,
+      "name": "Don't Ever Leave Me",
+      "url": "https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs"
     },
     {
       "added_at": "2023-05-05 08:20:58",
@@ -739,22 +755,6 @@
       "duration_ms": 158386,
       "name": "Candy For You",
       "url": "https://open.spotify.com/track/7r32Oz3HuDHfurSAx4iokY"
-    },
-    {
-      "added_at": "2023-05-05 08:20:58",
-      "album": {
-        "name": "Seoul Check-in OST Part 8",
-        "url": "https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5"
-      },
-      "artists": [
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 178758,
-      "name": "Don't Ever Leave Me",
-      "url": "https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs"
     },
     {
       "added_at": "2023-05-05 08:20:58",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-05-05 08:20:58",
       "album": {
-        "name": "Wednesday",
-        "url": "https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX"
-      },
-      "artists": [
-        {
-          "name": "Dailog",
-          "url": "https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF"
-        }
-      ],
-      "duration_ms": 167733,
-      "name": "Wednesday",
-      "url": "https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq"
-    },
-    {
-      "added_at": "2023-05-05 08:20:58",
-      "album": {
         "name": "\uacc1\uc5d0 \uc788\uc5b4\ub3c4 \ub420\uae4c Gently, By Your Side",
         "url": "https://open.spotify.com/album/5kjCYa23rU7FRidKG2gDld"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 178373,
       "name": "\uacc1\uc5d0 \uc788\uc5b4\ub3c4 \ub420\uae4c Gently, By Your Side",
       "url": "https://open.spotify.com/track/6JtjsV2sfqASYFgLkdEYK3"
+    },
+    {
+      "added_at": "2023-05-05 08:20:58",
+      "album": {
+        "name": "Wednesday",
+        "url": "https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX"
+      },
+      "artists": [
+        {
+          "name": "Dailog",
+          "url": "https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF"
+        }
+      ],
+      "duration_ms": 167733,
+      "name": "Wednesday",
+      "url": "https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq"
     }
   ],
   "unique_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",

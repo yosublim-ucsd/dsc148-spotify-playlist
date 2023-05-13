@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-612 songs - 1 day 1 hr 55 min
+614 songs - 1 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [La rue de montmartre](https://open.spotify.com/track/4m6OniLUajvVowVSOtyi5J) | [Aleron Lapointe](https://open.spotify.com/artist/4hPVbHC8a8qIxDeYH1isFc) | [La rue de montmartre](https://open.spotify.com/album/3z86dneZ2m3ZtoUNQBOtCB) | 2:03 | 2023-01-20 |  |
 | [La vérité sera dite](https://open.spotify.com/track/0BCprO6kUA7NzuhXMPctag) | [Marcel Cote](https://open.spotify.com/artist/32mJwpV7mqeU7ACpejFeYS) | [La vérité sera dite](https://open.spotify.com/album/3rJbQjEYzWlfZa5F51PFEx) | 2:27 | 2022-05-27 | 2022-10-14 |
 | [Laetitia](https://open.spotify.com/track/39e67SWLFobtjgr1S10iYE) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Laetitia](https://open.spotify.com/album/2MeED0qq5A14TCiVU2UNdn) | 1:57 | 2022-05-27 |  |
+| [Laiski](https://open.spotify.com/track/6gZhFlpLE3Db3yvOI3lR4p) | [Taganema](https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d) | [Laiski](https://open.spotify.com/album/3sSuYj8MOCvxON4t84vdek) | 1:55 | 2023-05-09 |  |
 | [Last Snow](https://open.spotify.com/track/38oJwdFVSaOvzxHYToFygq) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Harmony](https://open.spotify.com/album/4P2IZgpcl7n589pnQSzU6o) | 1:57 | 2023-03-13 |  |
 | [Late Winter](https://open.spotify.com/track/4Qk7rCJOzPOE8daWO1rJgg) | [Paul Barber](https://open.spotify.com/artist/0jqwKxinI8GMRsHUn8xg8e) | [Stories](https://open.spotify.com/album/01PVhzdLyFu2b2XNuZ1qKC) | 2:24 | 2022-05-27 | 2023-05-08 |
 | [Lavandula](https://open.spotify.com/track/79TCHEeIxQmvo1Y40jgf7Z) | [Isaac Boudillet](https://open.spotify.com/artist/1435UnexYmW8YoyUf5cTmx) | [Lavandula](https://open.spotify.com/album/7DohO27xmIQwXhO6mp0ZyB) | 2:50 | 2022-05-27 |  |
@@ -368,7 +369,7 @@
 | [Nordanvind](https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Nordanvind](https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze) | 2:07 | 2023-01-31 |  |
 | [Notes From Tom](https://open.spotify.com/track/0MXNBq9JKgNoUprg9PMQwA) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT), [Tom Merrall](https://open.spotify.com/artist/6yA3IxrqgMBl7qOZDJZ3hG) | [Notes From Tom](https://open.spotify.com/album/4IMq0YcdnE2gFvU68hQfQa) | 2:47 | 2022-05-27 | 2022-09-24 |
 | [Notes in the Stars](https://open.spotify.com/track/7tVXn05UnymHBVTXISx3sv) | [Laura Sherwin](https://open.spotify.com/artist/0bEESrhv84TNExJrfQ1LAT) | [Notes in the Stars](https://open.spotify.com/album/2Tr3KA6Ch1QwpgdQE83cDY) | 3:01 | 2022-05-27 | 2023-01-21 |
-| [Nourriture et soleil](https://open.spotify.com/track/5eBaIlhJGeM9LwvqYw0J3k) | [Arabelle Blanchar](https://open.spotify.com/artist/2pMQiEztTsr0aHaQp6pM08) | [Nourriture et soleil](https://open.spotify.com/album/4ITksiX8W2gSNoW7mSStD4) | 3:00 | 2022-05-27 |  |
+| [Nourriture et soleil](https://open.spotify.com/track/5eBaIlhJGeM9LwvqYw0J3k) | [Arabelle Blanchar](https://open.spotify.com/artist/2pMQiEztTsr0aHaQp6pM08) | [Nourriture et soleil](https://open.spotify.com/album/4ITksiX8W2gSNoW7mSStD4) | 3:00 | 2022-05-27 | 2023-05-13 |
 | [Now and Then](https://open.spotify.com/track/3flrE9SDAQj4hP2kKzcHOG) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Divisio](https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34) | 2:27 | 2022-05-27 |  |
 | [Nowesind](https://open.spotify.com/track/2p5THyuNwpJ9c7ex3TN383) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Nowesind](https://open.spotify.com/album/0nz4s5aDqAOYKdbogoo15X) | 1:59 | 2022-05-27 | 2023-01-21 |
 | [Numéro 1](https://open.spotify.com/track/4Q4LaLRedI0F02XS2lsYkP) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Numéro 1](https://open.spotify.com/album/2FD6tNq2lHhx57hK0q1X35) | 2:34 | 2022-05-27 |  |
@@ -504,6 +505,7 @@
 | [Storybook](https://open.spotify.com/track/0nMvEL9CNSdeBwV3TgUGSi) | [Mi Soon](https://open.spotify.com/artist/6wM8laf4eWnxQnhABs0E5i) | [Storybook](https://open.spotify.com/album/5KwSIcT8RrbxnKscueYIxI) | 2:21 | 2022-05-27 | 2022-09-24 |
 | [Summer Rain](https://open.spotify.com/track/33hF3bkcfz7bWyyjkCJHAg) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [Summer Rain](https://open.spotify.com/album/2cithPsoePBPykDtE8zWao) | 3:26 | 2022-05-27 | 2022-09-24 |
 | [Sunday Morning](https://open.spotify.com/track/0rlR7gBOx5jfIvVsPfGQsC) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Sunday Morning](https://open.spotify.com/album/0BNnVpYY4xnQkmUNEMUhuO) | 2:14 | 2022-08-09 |  |
+| [Sunday Morning](https://open.spotify.com/track/7BqiHhhOLJ0GBW29DXfwn7) | [Hope Denison](https://open.spotify.com/artist/5zKGolNyglAbVQUghoIdkZ), [Affinity88](https://open.spotify.com/artist/1TtjuHoQlVdbpNsyR6S8bw) | [Sunday Morning](https://open.spotify.com/album/4RvQYoROBAm4R44nWQFVf3) | 2:37 | 2023-05-09 |  |
 | [Sunnebovals](https://open.spotify.com/track/0ob3wzPe3R3NpJtUEz0wUQ) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Sunnebovals](https://open.spotify.com/album/7HFD5GTgPyDOGNaFZKdecx) | 2:53 | 2022-05-27 |  |
 | [Sunset Aglow](https://open.spotify.com/track/2xfXbJK08v7gZb9YvPr0UZ) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Quiet Cove](https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL) | 2:42 | 2022-05-27 |  |
 | [Sværmer](https://open.spotify.com/track/3rcULbCqrlDWDyKPL9OHkh) | [Mark Jubel](https://open.spotify.com/artist/6QhnbblQwendc1TdZMj6qd) | [Sværmer](https://open.spotify.com/album/5VRsA8TwmgXTgTgDBuHnP6) | 2:18 | 2022-05-27 |  |
@@ -560,7 +562,7 @@
 | [Tu me donne de la force](https://open.spotify.com/track/69ZVTxad3rNnwZPwMOk9yX) | [Jonathan Salmon](https://open.spotify.com/artist/3owpIJZNZCgXp7WLQJWObU) | [Tu me donne de la force](https://open.spotify.com/album/5UgRWAzUPftuejgEhpjdM8) | 2:16 | 2022-05-27 | 2023-01-21 |
 | [Tuesday Rain](https://open.spotify.com/track/1UQ81ra1A4myZmEoihQnPJ) | [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Tuesday Rain](https://open.spotify.com/album/6fEGTTswJiXhRc7iIavTeF) | 1:48 | 2022-08-09 | 2023-01-21 |
 | [Tulip](https://open.spotify.com/track/2gOZZ461iBIgZB42kyMu4a) | [Steve Jones Swiff](https://open.spotify.com/artist/3z1Zuq8iUJqouUmX3ugLml) | [Tulip](https://open.spotify.com/album/0iO0SP6ZBPKcazqdqfWRr8) | 2:03 | 2022-05-27 | 2022-09-24 |
-| [Turquoise Move](https://open.spotify.com/track/4A2wH8rE13iOi4hiDqDid6) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Turquoise Move](https://open.spotify.com/album/2jqDjTZvqtCnRpBuuK3yZZ) | 3:08 | 2022-05-27 |  |
+| [Turquoise Move](https://open.spotify.com/track/4A2wH8rE13iOi4hiDqDid6) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Turquoise Move](https://open.spotify.com/album/2jqDjTZvqtCnRpBuuK3yZZ) | 3:08 | 2022-05-27 | 2023-05-13 |
 | [Tålamod](https://open.spotify.com/track/2pFheJ7wiffFLs37le8jrB) | [Carl Fredman](https://open.spotify.com/artist/5jtOQKqrJ7r0exrpWykoWU) | [Tålamod](https://open.spotify.com/album/6QFz6Bw5GxaANTxIiL67EW) | 2:39 | 2022-05-27 |  |
 | [Un instante](https://open.spotify.com/track/3IekwR2RInfv68Xyu7rk2B) | [Lukas Wall](https://open.spotify.com/artist/4N5fnolz7HorIGjo95HuB2) | [Un instante](https://open.spotify.com/album/02BuTkEn4fJqESdijpzFaJ) | 3:35 | 2022-05-27 | 2022-09-24 |
 | [Un Jour Viendra](https://open.spotify.com/track/3ccBuCUCjkArY2U3x3gA8s) | [Francis Laplanne](https://open.spotify.com/artist/5CKQ9qNvPaV6mZ3eeOcUMY) | [Un Jour Viendra](https://open.spotify.com/album/34RXSvhj4VpACMwyx1LDeX) | 1:44 | 2023-03-13 |  |

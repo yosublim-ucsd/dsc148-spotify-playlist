@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "\u00a1M\u00fasica urbana representando a Cuba! Cover: Lenier",
+  "description": "\u00a1M\u00fasica urbana representando a Cuba! Cover: El Micha",
   "name": "Cubat\u00f3n",
   "tracks": [
     {
@@ -68,6 +68,24 @@
       "duration_ms": 195193,
       "name": "A Veces",
       "url": "https://open.spotify.com/track/6vCB60g1U7wIRfncvEcG0a"
+    },
+    {
+      "album": {
+        "name": "Abr\u00e1zame Muy Fuerte",
+        "url": "https://open.spotify.com/album/1YR1WYVZ9CRDGPHjDAmxPu"
+      },
+      "artists": [
+        {
+          "name": "Wow Popy",
+          "url": "https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219333,
+      "name": "Abr\u00e1zame Muy Fuerte - Prod. by Dj Cham",
+      "url": "https://open.spotify.com/track/3KbCHBxt8nAfx2fIYENyJG"
     },
     {
       "album": {
@@ -188,7 +206,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 209077,
       "name": "Atea",
       "url": "https://open.spotify.com/track/3uELF3NF51O7iTjeBMRM6p"
@@ -369,6 +387,40 @@
     },
     {
       "album": {
+        "name": "Cupido (Official Version prod. by Cuban Deejays, Ernesto Losa, Dj Conds)",
+        "url": "https://open.spotify.com/album/3cLDdwbUQFQdU8qI3FLoEo"
+      },
+      "artists": [
+        {
+          "name": "Charly & Johayron",
+          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
+        },
+        {
+          "name": "El Taiger",
+          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
+        },
+        {
+          "name": "Cuban Deejays",
+          "url": "https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1"
+        },
+        {
+          "name": "Ernesto Losa",
+          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
+        },
+        {
+          "name": "DJ Conds",
+          "url": "https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Cupido - Official Version prod. by Cuban Deejays, Ernesto Losa, Dj Conds",
+      "url": "https://open.spotify.com/track/3aCsArlr9Tg02Ko6BoeCr3"
+    },
+    {
+      "album": {
         "name": "Dale Pa' Miami",
         "url": "https://open.spotify.com/album/3pivUJGUg3vK0yqWFqsKer"
       },
@@ -488,7 +540,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 180661,
       "name": "El Doggy (feat. Ovi & Randy) - Perreo",
       "url": "https://open.spotify.com/track/2HpFUVAWXnE9PbMTXaxtIT"
@@ -575,6 +627,32 @@
     },
     {
       "album": {
+        "name": "El Men2 Remix",
+        "url": "https://open.spotify.com/album/2xli8e3TDgvnF2zUIWt2Vg"
+      },
+      "artists": [
+        {
+          "name": "EL YORDY DK",
+          "url": "https://open.spotify.com/artist/4Sjaa8KPxSPX7VqcixAGn8"
+        },
+        {
+          "name": "La Tankeria",
+          "url": "https://open.spotify.com/artist/46zSeracS4TMCzr21OKLiu"
+        },
+        {
+          "name": "Michel Boutic",
+          "url": "https://open.spotify.com/artist/1uac76BPb8mnvmQv6AtBZ9"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "El Men2 Remix",
+      "url": "https://open.spotify.com/track/2gZgg2MnrUYtmlUYuaqWlY"
+    },
+    {
+      "album": {
         "name": "De Menor a Mayor",
         "url": "https://open.spotify.com/album/2e2SQ7KNvfX4B5MinwH4Cs"
       },
@@ -612,7 +690,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 189762,
       "name": "El Pana",
       "url": "https://open.spotify.com/track/1aOPV0btoLbXNPEY0Mpfgm"
@@ -638,7 +716,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 229366,
       "name": "Ella Es Mala",
       "url": "https://open.spotify.com/track/5c3In5YTWqlwSykfDVvfuD"
@@ -1004,7 +1082,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 164706,
       "name": "La Habana (with Pinto \"Wahin\" & DJ Ricky Luna feat. El Taiger)",
       "url": "https://open.spotify.com/track/1yMoKk7UbHlqv8NWlF385d"
@@ -1336,7 +1414,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 169578,
       "name": "Manguera",
       "url": "https://open.spotify.com/track/1QTnbqhKsy6Qw7zdOP5Dbw"
@@ -1358,7 +1436,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 226244,
       "name": "Margarita",
       "url": "https://open.spotify.com/track/2eoWx0xpv4Ghd5o40mXoNh"
@@ -1558,10 +1636,36 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 197114,
       "name": "Mi Fidelidad",
       "url": "https://open.spotify.com/track/13QOBmsYfZdSxPUhPy8yiE"
+    },
+    {
+      "album": {
+        "name": "Mi Lugar Favorito (Prod. by Ernesto Losa, Cuban Deejays)",
+        "url": "https://open.spotify.com/album/7DV49wDTaPb2EQHV7Vtc0d"
+      },
+      "artists": [
+        {
+          "name": "Charly & Johayron",
+          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
+        },
+        {
+          "name": "Ernesto Losa",
+          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
+        },
+        {
+          "name": "Cuban Deejays",
+          "url": "https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158484,
+      "name": "Mi Lugar Favorito - Prod. by Ernesto Losa, Cuban Deejays",
+      "url": "https://open.spotify.com/track/1s1HC6pWnAnD71q7jNVw7w"
     },
     {
       "album": {
@@ -1760,7 +1864,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 194991,
       "name": "No Puede Superarlo",
       "url": "https://open.spotify.com/track/6eEEVV5XQI9zlj4cgOLkiC"
@@ -1874,7 +1978,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 172222,
       "name": "Novios Por Un Dia",
       "url": "https://open.spotify.com/track/082jD4lE4itzfnNkaXlSvW"
@@ -1922,6 +2026,28 @@
       "duration_ms": 196976,
       "name": "Ojal\u00e1 - Remix",
       "url": "https://open.spotify.com/track/5sWqQjbO1NgzjKMAbLZ0Rq"
+    },
+    {
+      "album": {
+        "name": "Tamoarriba",
+        "url": "https://open.spotify.com/album/5VBE3hC5gZeDzlsf1r3I9V"
+      },
+      "artists": [
+        {
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+        },
+        {
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210228,
+      "name": "Otro Trago",
+      "url": "https://open.spotify.com/track/3LxJkenFqGh29Jvg1MIAAV"
     },
     {
       "album": {
@@ -1994,10 +2120,32 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 184932,
       "name": "Party Tu Night",
       "url": "https://open.spotify.com/track/2jq3s9yKtoLBCUzsehvfSg"
+    },
+    {
+      "album": {
+        "name": "Plan B",
+        "url": "https://open.spotify.com/album/2sQCPEQ0fuyLyCmbBbcaX8"
+      },
+      "artists": [
+        {
+          "name": "Orlenis 22k",
+          "url": "https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s"
+        },
+        {
+          "name": "Ernesto Losa",
+          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175735,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/1E5TcIHAZXbcepOW9T8fy5"
     },
     {
       "album": {
@@ -2129,6 +2277,72 @@
     },
     {
       "album": {
+        "name": "Qui\u00e9rete",
+        "url": "https://open.spotify.com/album/0ZS3u4DW0yl21jzb8CipES"
+      },
+      "artists": [
+        {
+          "name": "El Taiger",
+          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
+        },
+        {
+          "name": "Motiff",
+          "url": "https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj"
+        },
+        {
+          "name": "Nesty",
+          "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "Qui\u00e9rete",
+      "url": "https://open.spotify.com/track/2O16sRdYyu4POSZklWErrb"
+    },
+    {
+      "album": {
+        "name": "Rica y Peg\u00e1 (Remix)",
+        "url": "https://open.spotify.com/album/3SPACHwmJ0uhgwsi9hjtTp"
+      },
+      "artists": [
+        {
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+        },
+        {
+          "name": "Leoni Torres",
+          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172795,
+      "name": "Rica y Peg\u00e1 - Remix",
+      "url": "https://open.spotify.com/track/0mogth6Cnq4RoqDEfyCptQ"
+    },
+    {
+      "album": {
+        "name": "Salsa",
+        "url": "https://open.spotify.com/album/5ioWdgA2k4FhPQIC5bjSCY"
+      },
+      "artists": [
+        {
+          "name": "El Micha",
+          "url": "https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176360,
+      "name": "Salsa",
+      "url": "https://open.spotify.com/track/6hJShCXE9NWqhZfH2Qbi6n"
+    },
+    {
+      "album": {
         "name": "Segundas Partes",
         "url": "https://open.spotify.com/album/5a0lWQj2QCsbEthtwXl8KJ"
       },
@@ -2178,6 +2392,28 @@
       "duration_ms": 202203,
       "name": "Segundas Partes",
       "url": "https://open.spotify.com/track/5Ij3qIcQWIrIATGoYVR729"
+    },
+    {
+      "album": {
+        "name": "Si La Ves",
+        "url": "https://open.spotify.com/album/2dPRXosjxESVUNSg1cpiz9"
+      },
+      "artists": [
+        {
+          "name": "Los 4",
+          "url": "https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK"
+        },
+        {
+          "name": "Batule DJ",
+          "url": "https://open.spotify.com/artist/349Ox95zDqb4BMjFf9C2Uq"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223360,
+      "name": "Si La Ves",
+      "url": "https://open.spotify.com/track/1TNyXS0BBlbChi2fpgrIlM"
     },
     {
       "album": {
@@ -2232,10 +2468,36 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 198387,
       "name": "Sigue Recto",
       "url": "https://open.spotify.com/track/5rTHEkJuuXkrWntg7YagKm"
+    },
+    {
+      "album": {
+        "name": "Sola (Remix)",
+        "url": "https://open.spotify.com/album/2askI94d5uFdVYfazFH4YZ"
+      },
+      "artists": [
+        {
+          "name": "Combinacion De La Habana",
+          "url": "https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y"
+        },
+        {
+          "name": "EL DEY",
+          "url": "https://open.spotify.com/artist/3WzQYqbFJ40FsLCFYwZxeF"
+        },
+        {
+          "name": "El Jean",
+          "url": "https://open.spotify.com/artist/4jsfPs9ADxi4kUzQUbVg29"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199880,
+      "name": "Sola - Remix",
+      "url": "https://open.spotify.com/track/7dkxnJqINepdJQKrM6Pf8f"
     },
     {
       "album": {

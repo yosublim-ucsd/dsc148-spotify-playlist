@@ -1,12 +1,12 @@
 {
   "description": "Top hits from homegrown artists showcasing rich culture and talent from Uganda",
-  "num_followers": 1483,
+  "num_followers": 1487,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2Q3YWVkM2VlNzE4NTJiYjE3OWE5OTIwOTkyOTNmZWMxYWQ4NmVl",
+  "snapshot_id": "MCxlYTc5OGNkY2JhNGI0MzZlMzQ1ZTM2OWE4MGFmZGE2NDVmNWY3MWYw",
   "tracks": [
     {
       "added_at": "2023-04-27 21:59:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-04-27 21:59:00",
       "album": {
-        "name": "Belinda",
-        "url": "https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 133537,
-      "name": "Belinda",
-      "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
         "name": "One Bite",
         "url": "https://open.spotify.com/album/5806Vs0UN9KhUaJwKEc7TO"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 174315,
       "name": "One Bite",
       "url": "https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 133537,
+      "name": "Belinda",
+      "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
     },
     {
       "added_at": "2023-04-27 21:59:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-04-27 21:59:00",
       "album": {
-        "name": "Thank God",
-        "url": "https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy"
-      },
-      "artists": [
-        {
-          "name": "Vinka",
-          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
-        }
-      ],
-      "duration_ms": 180172,
-      "name": "Thank God",
-      "url": "https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
         "name": "Your Number (Acoustic)",
         "url": "https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 222309,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/3aYlnF0Pwbhj0tB8WLfdvp"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Thank God",
+        "url": "https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy"
+      },
+      "artists": [
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        }
+      ],
+      "duration_ms": 180172,
+      "name": "Thank God",
+      "url": "https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa"
     },
     {
       "added_at": "2023-04-27 21:59:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-04-27 21:59:00",
       "album": {
+        "name": "Omwana",
+        "url": "https://open.spotify.com/album/0sizEjoqAPgHXqblr8z2v2"
+      },
+      "artists": [
+        {
+          "name": "Juliana Kanyomozi",
+          "url": "https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Omwana",
+      "url": "https://open.spotify.com/track/7wVjsVyZXo5LJI19o8P2lK"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
         "name": "Love Marijuana",
         "url": "https://open.spotify.com/album/5pj7QvTw5ZgQ9iQtJGOwl1"
       },
@@ -547,22 +563,6 @@
     {
       "added_at": "2023-04-27 21:59:00",
       "album": {
-        "name": "Omwana",
-        "url": "https://open.spotify.com/album/0sizEjoqAPgHXqblr8z2v2"
-      },
-      "artists": [
-        {
-          "name": "Juliana Kanyomozi",
-          "url": "https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Omwana",
-      "url": "https://open.spotify.com/track/7wVjsVyZXo5LJI19o8P2lK"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
         "name": "Leaving Summer",
         "url": "https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT"
       },
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-04-27 21:59:00",
       "album": {
-        "name": "Wanting Me",
-        "url": "https://open.spotify.com/album/4kPuWgzIDxOQIfilS2f12b"
-      },
-      "artists": [
-        {
-          "name": "Pia Pounds",
-          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
-        }
-      ],
-      "duration_ms": 165283,
-      "name": "Wanting Me",
-      "url": "https://open.spotify.com/track/7Fx19asavIQFQgv4RoUdp0"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
         "name": "Kitooke Kyagonja",
         "url": "https://open.spotify.com/album/6xb67bqLm01dcf4CrhxEPa"
       },
@@ -619,18 +603,18 @@
     {
       "added_at": "2023-04-27 21:59:00",
       "album": {
-        "name": "Kyaani",
-        "url": "https://open.spotify.com/album/7rTJ4wYCUqLnDQN0Wrwdij"
+        "name": "Wanting Me",
+        "url": "https://open.spotify.com/album/4kPuWgzIDxOQIfilS2f12b"
       },
       "artists": [
         {
-          "name": "Ykee Benda",
-          "url": "https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq"
+          "name": "Pia Pounds",
+          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Kyaani",
-      "url": "https://open.spotify.com/track/5NvvaLZbvtjpzGBPxOARQd"
+      "duration_ms": 165283,
+      "name": "Wanting Me",
+      "url": "https://open.spotify.com/track/7Fx19asavIQFQgv4RoUdp0"
     },
     {
       "added_at": "2023-04-27 21:59:00",
@@ -647,6 +631,22 @@
       "duration_ms": 165015,
       "name": "Chai We Njaye",
       "url": "https://open.spotify.com/track/7kXVi2P9NlNOFlK4FNXD4m"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Kyaani",
+        "url": "https://open.spotify.com/album/7rTJ4wYCUqLnDQN0Wrwdij"
+      },
+      "artists": [
+        {
+          "name": "Ykee Benda",
+          "url": "https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Kyaani",
+      "url": "https://open.spotify.com/track/5NvvaLZbvtjpzGBPxOARQd"
     },
     {
       "added_at": "2023-04-27 21:59:00",
@@ -731,70 +731,6 @@
     {
       "added_at": "2023-04-27 21:59:00",
       "album": {
-        "name": "Baibe",
-        "url": "https://open.spotify.com/album/3pxfc2qdtKQ4FBjcvLTsMe"
-      },
-      "artists": [
-        {
-          "name": "Henry Tigan",
-          "url": "https://open.spotify.com/artist/4upZy8u9qZc5uUZ5w8Z3Eo"
-        }
-      ],
-      "duration_ms": 254850,
-      "name": "Baibe",
-      "url": "https://open.spotify.com/track/7hPUGxExv6E8o7qK4XeZnQ"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
-        "name": "Bbuba",
-        "url": "https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3"
-      },
-      "artists": [
-        {
-          "name": "Maurice Kirya",
-          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
-        }
-      ],
-      "duration_ms": 204289,
-      "name": "Bbuba",
-      "url": "https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
-        "name": "4 U",
-        "url": "https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk"
-      },
-      "artists": [
-        {
-          "name": "Ceee",
-          "url": "https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT"
-        }
-      ],
-      "duration_ms": 135965,
-      "name": "4 U",
-      "url": "https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
-        "name": "Plan Ki",
-        "url": "https://open.spotify.com/album/4qfhrxohGB4hPhDfFJ2nDN"
-      },
-      "artists": [
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        }
-      ],
-      "duration_ms": 194526,
-      "name": "Plan Ki",
-      "url": "https://open.spotify.com/track/2ZbeZtGMyBOhWo4gvoGZZR"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
         "name": "WATERSHED",
         "url": "https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq"
       },
@@ -815,26 +751,66 @@
     {
       "added_at": "2023-04-27 21:59:00",
       "album": {
-        "name": "Say your Mine",
-        "url": "https://open.spotify.com/album/02U5KVJvB0aTId18fSFXEg"
+        "name": "Bbuba",
+        "url": "https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3"
       },
       "artists": [
         {
-          "name": "Jaye Major",
-          "url": "https://open.spotify.com/artist/3E1Gbb7bSYoOGtNQh6Ah3S"
-        },
-        {
-          "name": "Anamie",
-          "url": "https://open.spotify.com/artist/3bMVYs34KhPrhhcKy5LJfb"
-        },
-        {
-          "name": "Dubem K",
-          "url": "https://open.spotify.com/artist/1Vj31IUXsopkzURt05U4HU"
+          "name": "Maurice Kirya",
+          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
         }
       ],
-      "duration_ms": 226478,
-      "name": "Say your Mine",
-      "url": "https://open.spotify.com/track/09kIOLxsPlFlPQSWpMWvF6"
+      "duration_ms": 204289,
+      "name": "Bbuba",
+      "url": "https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Plan Ki",
+        "url": "https://open.spotify.com/album/4qfhrxohGB4hPhDfFJ2nDN"
+      },
+      "artists": [
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        }
+      ],
+      "duration_ms": 194526,
+      "name": "Plan Ki",
+      "url": "https://open.spotify.com/track/2ZbeZtGMyBOhWo4gvoGZZR"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "4 U",
+        "url": "https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk"
+      },
+      "artists": [
+        {
+          "name": "Ceee",
+          "url": "https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT"
+        }
+      ],
+      "duration_ms": 135965,
+      "name": "4 U",
+      "url": "https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Baibe",
+        "url": "https://open.spotify.com/album/3pxfc2qdtKQ4FBjcvLTsMe"
+      },
+      "artists": [
+        {
+          "name": "Henry Tigan",
+          "url": "https://open.spotify.com/artist/4upZy8u9qZc5uUZ5w8Z3Eo"
+        }
+      ],
+      "duration_ms": 254850,
+      "name": "Baibe",
+      "url": "https://open.spotify.com/track/7hPUGxExv6E8o7qK4XeZnQ"
     },
     {
       "added_at": "2023-04-27 21:59:00",
@@ -871,6 +847,30 @@
       "duration_ms": 224947,
       "name": "Byowaba",
       "url": "https://open.spotify.com/track/0gyH24GQiQDOGHn40goN8X"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Say your Mine",
+        "url": "https://open.spotify.com/album/02U5KVJvB0aTId18fSFXEg"
+      },
+      "artists": [
+        {
+          "name": "Jaye Major",
+          "url": "https://open.spotify.com/artist/3E1Gbb7bSYoOGtNQh6Ah3S"
+        },
+        {
+          "name": "Anamie",
+          "url": "https://open.spotify.com/artist/3bMVYs34KhPrhhcKy5LJfb"
+        },
+        {
+          "name": "Dubem K",
+          "url": "https://open.spotify.com/artist/1Vj31IUXsopkzURt05U4HU"
+        }
+      ],
+      "duration_ms": 226478,
+      "name": "Say your Mine",
+      "url": "https://open.spotify.com/track/09kIOLxsPlFlPQSWpMWvF6"
     },
     {
       "added_at": "2023-04-27 21:59:00",

@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-731 songs - 1 day 21 hr 12 min
+732 songs - 1 day 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Extraordinary Storyteller](https://open.spotify.com/track/0oTMSQmvZRNLKyKhXgLtaC) | [Unknöwn Kun](https://open.spotify.com/artist/5zfNAxbKj2jx54fC0GzNMl) | [Extraordinary Storyteller](https://open.spotify.com/album/5Fi5dtGglWOZZMLVNkhkUq) | 2:51 | 2022-07-19 | 2022-07-29 |
 | [Extraordinary Storyteller](https://open.spotify.com/track/3P93crmFk4Ry6CwXUfFavO) | [Unknöwn Kun](https://open.spotify.com/artist/5zfNAxbKj2jx54fC0GzNMl) | [Extraordinary Storyteller](https://open.spotify.com/album/7j7MDmKrqEXpOpaBRzhRNC) | 2:51 | 2022-07-28 | 2022-08-17 |
 | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG) | 3:04 | 2023-03-23 |  |
-| [Eyes](https://open.spotify.com/track/5hztfJs7VAjS4c4IWc3lZc) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [Eyes](https://open.spotify.com/album/2VSREGDOr59t7uOXZ8B7s7) | 2:50 | 2023-03-07 | 2023-05-12 |
+| [Eyes](https://open.spotify.com/track/5hztfJs7VAjS4c4IWc3lZc) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [Eyes](https://open.spotify.com/album/2VSREGDOr59t7uOXZ8B7s7) | 2:50 | 2023-03-07 |  |
 | [Eyes on Me](https://open.spotify.com/track/1te38MsNjzrP8I5MDeGJv7) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l) | [Eyes on Me](https://open.spotify.com/album/0GICag7B018NZ3qZdEKsso) | 3:34 | 2022-11-08 | 2022-11-16 |
 | [FINE LINE \(feat\. Skaai\) \(Prod\. uin\)](https://open.spotify.com/track/2y449AvZEi4dbGoSjnsgSY) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [uin](https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [FINE LINE \(feat\. Skaai\) \(Prod\. uin\)](https://open.spotify.com/album/6YJVSyedYS0JQhntp53G4P) | 2:59 | 2023-03-28 |  |
 | [Fire and Gold](https://open.spotify.com/track/4QBs4j1pzocVbVmsnw2jCA) | [Kenta Dedachi](https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx) | [Fire and Gold](https://open.spotify.com/album/7AgDuTh3DKHTie5WqQB1b7) | 3:02 | 2022-05-26 | 2022-06-01 |
@@ -417,7 +417,8 @@
 | [Save Me Tonight](https://open.spotify.com/track/6BbiAm2kP8ZSVuba0oMvBl) | [Def Tech](https://open.spotify.com/artist/7CifQjntMwkU4kfV85zTnS) | [Save Me Tonight](https://open.spotify.com/album/384puu2XE2cjWNL66vcOhm) | 3:15 | 2022-11-24 | 2022-12-07 |
 | [Save Yourself](https://open.spotify.com/track/1B04DTxiZUA5QW9Zxe1IEJ) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/00h2yL9yVQdjxPqC3n3Qqw) | 3:17 | 2022-06-23 | 2022-07-01 |
 | [Season](https://open.spotify.com/track/28H2R5DE6eVKIBBYvGbKRg) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Season](https://open.spotify.com/album/4Bf2U02MHfbI5QwpdID98M) | 3:28 | 2023-04-18 | 2023-04-20 |
-| [Season](https://open.spotify.com/track/5mIJzqBwYM3SSVuCCCC3gg) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Season](https://open.spotify.com/album/0oNra3mg2Pon6DWljxx8WR) | 3:28 | 2023-04-18 |  |
+| [Season](https://open.spotify.com/track/59ZJXXQ0VeLtBK5EfW0KLJ) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O) | 3:28 | 2023-05-11 |  |
+| [Season](https://open.spotify.com/track/5mIJzqBwYM3SSVuCCCC3gg) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Season](https://open.spotify.com/album/0oNra3mg2Pon6DWljxx8WR) | 3:28 | 2023-04-18 | 2023-05-13 |
 | [Secret Ceremony](https://open.spotify.com/track/4H0jA4BmoPsR1g0YojlYKV) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [Secret Ceremony](https://open.spotify.com/album/79uzDTAtLl2kp5bskMLgtQ) | 3:40 | 2022-05-26 | 2022-06-29 |
 | [Secret Path](https://open.spotify.com/track/0sYJyR15HTyCOPay0uVjng) | [BESPER](https://open.spotify.com/artist/5789BJLcwL0l01iK4OPlyX) | [Orbit](https://open.spotify.com/album/4fpqwqvKAKxOA8OtGFohTm) | 4:01 | 2022-12-06 | 2022-12-28 |
 | [See You Again \(Prod\. KM\)](https://open.spotify.com/track/3UBqo3b3Brb61ibj7cflbQ) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [BLUE BLUR](https://open.spotify.com/album/7D0lh15t5tAZZtTgWCJmUg) | 3:07 | 2023-04-25 |  |
@@ -531,7 +532,7 @@
 | [Two Of Us](https://open.spotify.com/track/6V1YfiwX4NJ2BJR5lVhvXP) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [ANPYO](https://open.spotify.com/artist/42OaUjnLIdRnlCRH7Dczb7), [NARISK](https://open.spotify.com/artist/4maQ6S6tTUotbPZHaxvmxV) | [Two Of Us](https://open.spotify.com/album/4eTU5FJbdq9J2YyqL4oFUW) | 3:20 | 2023-02-21 | 2023-02-23 |
 | [Two Of Us](https://open.spotify.com/track/7qszjOZgNYdkfXB2NwHzWY) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [ANPYO](https://open.spotify.com/artist/42OaUjnLIdRnlCRH7Dczb7), [NARISK](https://open.spotify.com/artist/4maQ6S6tTUotbPZHaxvmxV) | [Two Of Us](https://open.spotify.com/album/1GhoFqozrEhPWZTD7BdlIP) | 3:20 | 2023-02-21 | 2023-03-01 |
 | [TYO \- NYC \- feat\. Kazuo](https://open.spotify.com/track/1jUHVRa2tBgngM9O9UsSVT) | [RHYME SO](https://open.spotify.com/artist/7dtbEudF1BHLVrVtwxxKgm), [Kazuo](https://open.spotify.com/artist/6JN1a5p0aucHtYCLSl3vnY) | [TYO \- NYC \(feat\. Kazuo\)](https://open.spotify.com/album/2uweiXnfAt8GfPputFp5Zb) | 3:23 | 2023-03-02 | 2023-04-05 |
-| [U.F.O](https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [U.F.O](https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0) | 3:50 | 2022-09-27 |  |
+| [U.F.O](https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [U.F.O](https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0) | 3:50 | 2022-09-27 | 2023-05-13 |
 | [U.F.O](https://open.spotify.com/track/1z43YoQTKU3LfOqiMCwvWo) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [U.F.O](https://open.spotify.com/album/7uuke3GUh1KabuRDyoHEe0) | 3:50 | 2022-09-27 | 2022-09-29 |
 | [Us](https://open.spotify.com/track/2LvtKcNpyH9dIOynM3Xz3R) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/5brXjr8BORF46m2FHgY55a) | 5:18 | 2023-04-04 | 2023-05-10 |
 | [Utopia](https://open.spotify.com/track/3T0M0Q9hf9zwDtxICrnnHF) | [Group2](https://open.spotify.com/artist/6V7rXqQ6eNhJArV5K6RCMp) | [Utopia](https://open.spotify.com/album/30iuWckM7sIRzKGkQ6iWDZ) | 2:53 | 2022-08-18 | 2022-08-26 |

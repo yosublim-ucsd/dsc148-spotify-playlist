@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: 3Teeth
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Queens of the Stone Age
 
-400 songs - 1 day 1 hr 42 min
+406 songs - 1 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Earth Shaker](https://open.spotify.com/track/3EytQKQcbsuZrXTrpFcL4P) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Earth Shaker](https://open.spotify.com/album/1pNsCcIhnP2wBeLmBWgB72) | 3:23 | 2022-07-01 |  |
 | [Earthen](https://open.spotify.com/track/7sWv4EF2ie6uNrTX46OpyB) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Earthen](https://open.spotify.com/album/4kdpjgLqZy9VPx47WzZKjx) | 5:24 | 2023-01-20 |  |
 | [Eaten Alive](https://open.spotify.com/track/5XqjUsKIjEuRpeasDGgHGc) | [Ohhms](https://open.spotify.com/artist/2z7v2xekqVRvMCXWNESxt0) | [Eaten Alive](https://open.spotify.com/album/06lU90Mv5lF5bmBbBuMOor) | 3:56 | 2022-10-07 |  |
+| [Emotion Sickness](https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Emotion Sickness](https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S) | 4:31 | 2023-05-12 |  |
 | [Endless Return to the Kingdom of Sleep](https://open.spotify.com/track/21U4EHOgwhHBdscrRKWcXw) | [Predatory Void](https://open.spotify.com/artist/6I1ox6Hu5K9xpmCIAhF7Ch) | [Endless Return to the Kingdom of Sleep](https://open.spotify.com/album/67hjoAqUrtExU3vT4JoxwV) | 6:31 | 2023-02-17 |  |
 | [Engulfed](https://open.spotify.com/track/5AYcMUNmO9sg3cyfuUvom6) | [Judiciary](https://open.spotify.com/artist/1llYaLn43cLcbWg9M4t0Y3) | [Engulfed](https://open.spotify.com/album/15Oca8lzlP9xX3Gv1JsNgk) | 2:41 | 2023-01-20 |  |
 | [Enter The Loop](https://open.spotify.com/track/5LkZ5ACw4BpDe9Ow93rpbW) | [Witch Ripper](https://open.spotify.com/artist/3v6xMwgOKzEYpZNalgtqhI) | [Enter The Loop](https://open.spotify.com/album/6VGF6UMdEThtTOQA3kWtBq) | 7:54 | 2022-12-09 |  |
@@ -154,6 +155,7 @@
 | [Gates of Horn](https://open.spotify.com/track/46rGizKXwrDLKLI0MdUFly) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [Gates of Horn](https://open.spotify.com/album/7LblSAOBS1QY8KQxkwwF6m) | 2:17 | 2023-01-20 |  |
 | [Gearhead](https://open.spotify.com/track/0cEBDdBtmvQJXLgIEbtOEM) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Gearhead](https://open.spotify.com/album/2YuR8K2alQaOo7TPdyJlhP) | 3:24 | 2022-12-16 |  |
 | [Get in the Ring](https://open.spotify.com/track/1UR4uh8g1YO3RxK4QBFf1m) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Get in the Ring](https://open.spotify.com/album/4SZ83KkAeVrEazPQhWfaMP) | 4:24 | 2022-06-03 |  |
+| [Ghost Of Me](https://open.spotify.com/track/25Yfk4XBeglz1QoXhDqJ2w) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Ghost Of Me](https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov) | 3:51 | 2023-05-12 |  |
 | [Glacial Domination \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/track/2R1jLZ4CV3nh9pT5GIJkDs) | [Frozen Soul](https://open.spotify.com/artist/1hwwmQI1vhQamuIksyDKG6), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Glacial Domination \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/album/4Rq0ZN8Thuzx1HkRyXyJjh) | 3:53 | 2023-04-13 |  |
 | [Glorious Devastation](https://open.spotify.com/track/5wUe3PMvFts4OLglUTRq6B) | [All Out War](https://open.spotify.com/artist/34jZDyPFvvXhL4YeBICAiV) | [Glorious Devastation](https://open.spotify.com/album/74gmjJ9wVTo2mzSERuGNrM) | 2:43 | 2022-10-14 |  |
 | [Gold Satin Dreamer](https://open.spotify.com/track/7uafnVLlFkHHFeEVG9aRrw) | [Nicole Dollanganger](https://open.spotify.com/artist/0MfC3pip8rY8OFLJVVNvBO) | [Gold Satin Dreamer](https://open.spotify.com/album/1mvv0K0CzcAczG3UByu7kB) | 5:30 | 2022-11-04 |  |
@@ -179,6 +181,7 @@
 | [I Don't Wanna Talk About It](https://open.spotify.com/track/7MmcCmu1q6a7PDgH1vJT3I) | [Candy Apple](https://open.spotify.com/artist/3EYZaeK8iJPw5PWdNyeFgy) | [I Don't Wanna Talk About It](https://open.spotify.com/album/0o0iQWO3Kb7w4FWcs46Odm) | 2:33 | 2022-09-09 |  |
 | [I Saw You Dancing](https://open.spotify.com/track/6S6KWV6SltScbAcOJU1arC) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [I Saw You Dancing](https://open.spotify.com/album/0PvgVoh30xJa3yicoZcwxx) | 3:51 | 2022-08-19 |  |
 | [I Would Die for You](https://open.spotify.com/track/6ACZ1lOkgxm1PUyMvU0cwm) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [John Wick: Chapter 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0TZNgMbhqhmcD6GUW8aGbM) | 4:39 | 2023-03-24 |  |
+| [Idealized](https://open.spotify.com/track/2MkkjpplmZcb2XqCdwsTUG) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Idealized](https://open.spotify.com/album/1I00QM6BWuhWaFKVGuFWjq) | 3:41 | 2023-05-12 |  |
 | [If Darkness Had a Son](https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [If Darkness Had a Son](https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb) | 6:36 | 2023-03-03 |  |
 | [III](https://open.spotify.com/track/3ZdDBUhVms1TsoaB1FltXk) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm) | [III](https://open.spotify.com/album/57SswxWv0xIHwwJNlQuF55) | 4:08 | 2022-05-06 |  |
 | [Imaginary Fire \- feat\. Greg Puciato](https://open.spotify.com/track/1bqXa1m255ElnYj14xvzll) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP), [Greg Puciato](https://open.spotify.com/artist/3seAlZdPsUKKveZltRG7wi) | [Imaginary Fire](https://open.spotify.com/album/0ZpAiTmi2EpqUqKYlWkfAx) | 4:21 | 2022-01-28 |  |
@@ -252,6 +255,7 @@
 | [One Twenty Two](https://open.spotify.com/track/1YcAT8wzQpk12OOJcBcOT5) | [Botch](https://open.spotify.com/artist/4kRYDoAbgDL7nqeqZhJlA3) | [One Twenty Two](https://open.spotify.com/album/2F2GdWHz62uzpsgNtF7mfd) | 2:16 | 2022-08-26 |  |
 | [Opening Night](https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Opening Night](https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh) | 2:07 | 2023-02-10 |  |
 | [Our Time Is Now](https://open.spotify.com/track/0dDs144SVansAFynvKYQMW) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Our Time Is Now](https://open.spotify.com/album/4tHLRx3g4JwIHlzlz4D7wA) | 4:31 | 2022-10-14 |  |
+| [Outcry](https://open.spotify.com/track/2jacIKE190RZN23fzJtfcb) | [Never Ending Game](https://open.spotify.com/artist/1S8NfdnAl7u08mTjEtDWLp) | [Outcry](https://open.spotify.com/album/1IKjEX9ixB5ZmNqBlS31fW) | 2:55 | 2023-05-12 |  |
 | [Ov My Herculean Exile](https://open.spotify.com/track/6RqT1YOVMVjDATyYKsBpaO) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Ov My Herculean Exile](https://open.spotify.com/album/1493clTk13mwPDs9E4u6xi) | 4:43 | 2022-05-13 |  |
 | [Overwhelming Power](https://open.spotify.com/track/65iLsX6iV3ON0cOU5bzyYN) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [Overwhelming Power](https://open.spotify.com/album/3klZ7YSDDoPjgDhQyux61s) | 4:07 | 2022-02-25 |  |
 | [Pain into Power](https://open.spotify.com/track/7iDxtlSYrdKsCVmTrErFK2) | [Terror](https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg) | [Pain into Power](https://open.spotify.com/album/7CPWJgUaNO7fNofHjwuW09) | 0:53 | 2022-04-29 |  |
@@ -330,6 +334,7 @@
 | [The Acres/The Ache](https://open.spotify.com/track/22qntLdbNRmTxaMOeQUqlJ) | [Absent in Body](https://open.spotify.com/artist/5hOxl1B20sRbDI4h27K3Aw) | [The Acres/The Ache](https://open.spotify.com/album/7r9YsbBFxRAmXwxqa92B2B) | 8:36 | 2022-02-04 |  |
 | [The Bough](https://open.spotify.com/track/6gQ1LiHTZ42Luk9EG7MlNk) | [Black Math Horseman](https://open.spotify.com/artist/6Pqqs38vVtfObyyoUaD5E5) | [The Bough](https://open.spotify.com/album/6rHvNkGI7UyJ7oGNJ8fBpG) | 7:09 | 2022-08-26 |  |
 | [The Comeback](https://open.spotify.com/track/2EgOUEOtkHc2hgNRYHxpv6) | [End It](https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn) | [Unpleasant Living](https://open.spotify.com/album/6w6m1NmBC8Wzsd7Yu856uP) | 2:40 | 2022-07-08 |  |
+| [The Common Breed](https://open.spotify.com/track/3GT73Y2VeQaxa4XczlckO8) | [Creeping Death](https://open.spotify.com/artist/0m8C12hSt640ovLaxlsd5u) | [The Common Breed](https://open.spotify.com/album/2GfU8qLbwtmiGQ75f42IEE) | 4:32 | 2023-05-12 |  |
 | [The Deathless Sun](https://open.spotify.com/track/6b0HdwX9k0RtOUHRvWYl4J) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [The Deathless Sun](https://open.spotify.com/album/1gMfx6El7vzamoJJi6J7u3) | 4:43 | 2022-07-29 |  |
 | [The Dying Song \(Time To Sing\)](https://open.spotify.com/track/5Lqk8Z6MnfIyeTchmMaPEG) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The Dying Song \(Time To Sing\)](https://open.spotify.com/album/1orsA4z63mo1Rp1WUxNRj8) | 3:23 | 2022-07-22 |  |
 | [The End of Times](https://open.spotify.com/track/5PREpWSEGXjkmOvLFQ3i0B) | [Defacing God](https://open.spotify.com/artist/1vDFKivJsGreOJhC7aYLus) | [The End of Times](https://open.spotify.com/album/0lVlIuxzG665JhrCCYGSZg) | 4:13 | 2022-08-05 |  |
@@ -385,6 +390,7 @@
 | [Watchtower](https://open.spotify.com/track/7pgj6tSDzpL73tzrUaW4TP) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Watchtower](https://open.spotify.com/album/0I0qq25JoA8DyCaztuUgHb) | 2:48 | 2022-02-04 |  |
 | [Wavery](https://open.spotify.com/track/3gDn9Om6fPNJ11NILNA4gF) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [Wavery](https://open.spotify.com/album/2To1jRQY2oGoja537Bwyls) | 4:40 | 2022-02-18 |  |
 | [We Came To Play](https://open.spotify.com/track/41zQURNrqtia1f2xXfZkUP) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [We Came To Play](https://open.spotify.com/album/2JCF0uPKnJCJdQ7C5acVFr) | 2:15 | 2022-09-16 |  |
+| [We Love You](https://open.spotify.com/track/3DZoL58N1dCaNah9WEvlP0) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [We Love You](https://open.spotify.com/album/1OtxzVaaGtJw05LtlusYxC) | 6:15 | 2023-05-12 |  |
 | [We’ll Be Back](https://open.spotify.com/track/4SsN1B9ZaSOFmBb4wVu1WB) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [We’ll Be Back](https://open.spotify.com/album/2aeNfVklb5vG8aThJMIQ69) | 4:29 | 2022-06-24 |  |
 | [We’re All Gonna Die](https://open.spotify.com/track/6rvFwsNhcd7Q2RdsEvUEbC) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Voyeurist](https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f) | 3:19 | 2022-01-14 |  |
 | [What Is Delicious? Who Swarms?](https://open.spotify.com/track/4zyPbDKebdwbahJsaQs57a) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [What Is Delicious? Who Swarms?](https://open.spotify.com/album/5Z9n0CXvfI0fsvXC0PLHO2) | 3:16 | 2022-06-03 |  |

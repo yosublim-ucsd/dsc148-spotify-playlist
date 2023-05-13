@@ -1,12 +1,12 @@
 {
   "description": "Relax with this soothing soundtrack from the nineties...",
-  "num_followers": 803661,
+  "num_followers": 803986,
   "original_name": "Easy 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjM1NjNlMWRmYTExNmFkZDcwMzIwOTAwY2JiZmY3YWUwNzVkM2Ix",
+  "snapshot_id": "MCwwZGUyZjBkMDcwZTcxYmQxNzExN2YzOTNkZDhlZGM5YzA0ZmM3N2Q0",
   "tracks": [
     {
       "added_at": "2020-07-08 17:47:52",
@@ -355,22 +355,6 @@
     {
       "added_at": "2020-07-08 17:47:52",
       "album": {
-        "name": "Tragic Kingdom",
-        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 263560,
-      "name": "Don't Speak",
-      "url": "https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS"
-    },
-    {
-      "added_at": "2020-07-08 17:47:52",
-      "album": {
         "name": "The Writing's On The Wall",
         "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 271333,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk"
+    },
+    {
+      "added_at": "2020-07-08 17:47:52",
+      "album": {
+        "name": "Tragic Kingdom",
+        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 263560,
+      "name": "Don't Speak",
+      "url": "https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS"
     },
     {
       "added_at": "2020-07-08 17:47:52",
@@ -759,22 +759,6 @@
     {
       "added_at": "2020-07-08 17:47:52",
       "album": {
-        "name": "Keep The Faith",
-        "url": "https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 394400,
-      "name": "Bed Of Roses",
-      "url": "https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw"
-    },
-    {
-      "added_at": "2020-07-08 17:47:52",
-      "album": {
         "name": "Falling into You",
         "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 273666,
       "name": "Because You Loved Me (Theme from \"Up Close and Personal\")",
       "url": "https://open.spotify.com/track/28UMiBhn383n9S7GL4tsxD"
+    },
+    {
+      "added_at": "2020-07-08 17:47:52",
+      "album": {
+        "name": "Keep The Faith",
+        "url": "https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 394400,
+      "name": "Bed Of Roses",
+      "url": "https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw"
     },
     {
       "added_at": "2020-07-08 17:47:52",
@@ -903,18 +903,18 @@
     {
       "added_at": "2020-07-08 17:47:52",
       "album": {
-        "name": "Ten Summoner's Tales",
-        "url": "https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg"
+        "name": "The Gift Of Game",
+        "url": "https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin"
       },
       "artists": [
         {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 279226,
-      "name": "Shape Of My Heart",
-      "url": "https://open.spotify.com/track/6CKoWCWAqEVWVjpeoJXyNH"
+      "duration_ms": 216733,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC"
     },
     {
       "added_at": "2020-07-08 17:47:52",
@@ -935,18 +935,18 @@
     {
       "added_at": "2020-07-08 17:47:52",
       "album": {
-        "name": "The Gift Of Game",
-        "url": "https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin"
+        "name": "Ten Summoner's Tales",
+        "url": "https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg"
       },
       "artists": [
         {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
         }
       ],
-      "duration_ms": 216733,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC"
+      "duration_ms": 279226,
+      "name": "Shape Of My Heart",
+      "url": "https://open.spotify.com/track/6CKoWCWAqEVWVjpeoJXyNH"
     },
     {
       "added_at": "2020-07-08 17:47:52",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2020-07-08 17:47:52",
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 239226,
-      "name": "Remember the Time",
-      "url": "https://open.spotify.com/track/4jnFqNWeJCeCRHc4HCdxfd"
-    },
-    {
-      "added_at": "2020-07-08 17:47:52",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 239440,
       "name": "I Try",
       "url": "https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi"
+    },
+    {
+      "added_at": "2020-07-08 17:47:52",
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 239226,
+      "name": "Remember the Time",
+      "url": "https://open.spotify.com/track/4jnFqNWeJCeCRHc4HCdxfd"
     },
     {
       "added_at": "2020-07-08 17:47:52",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2020-07-08 17:47:52",
       "album": {
-        "name": "Now in a Minute",
-        "url": "https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL"
-      },
-      "artists": [
-        {
-          "name": "Donna Lewis",
-          "url": "https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2"
-        }
-      ],
-      "duration_ms": 239960,
-      "name": "I Love You Always Forever",
-      "url": "https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD"
-    },
-    {
-      "added_at": "2020-07-08 17:47:52",
-      "album": {
         "name": "Music Box",
         "url": "https://open.spotify.com/album/2NKxb7pk04CuZab5udkGUl"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 213666,
       "name": "Without You",
       "url": "https://open.spotify.com/track/1kMOJBmpfWD9fir6st9uqS"
+    },
+    {
+      "added_at": "2020-07-08 17:47:52",
+      "album": {
+        "name": "Now in a Minute",
+        "url": "https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL"
+      },
+      "artists": [
+        {
+          "name": "Donna Lewis",
+          "url": "https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2"
+        }
+      ],
+      "duration_ms": 239960,
+      "name": "I Love You Always Forever",
+      "url": "https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD"
     },
     {
       "added_at": "2020-07-08 17:47:52",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2020-07-08 17:47:52",
       "album": {
-        "name": "Picture This (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2ddZd59LSTHIyH8QGSisjY"
+        "name": "Very Necessary",
+        "url": "https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g"
       },
       "artists": [
         {
-          "name": "Wet Wet Wet",
-          "url": "https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai"
+          "name": "Salt-N-Pepa",
+          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
         }
       ],
-      "duration_ms": 246240,
-      "name": "Love Is All Around - From \"Four Weddings And A Funeral\"",
-      "url": "https://open.spotify.com/track/0PCGfA36HrVPmsBZJ57zOU"
+      "duration_ms": 248573,
+      "name": "Shoop",
+      "url": "https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ"
     }
   ],
   "unique_name": "Easy 90s",

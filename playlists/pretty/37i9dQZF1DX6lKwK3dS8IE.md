@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 
 > Folk punk, anti\-folk, acoustic punk & more\. Cover: The Moldy Peaches
 
-[Spotify](https://open.spotify.com/user/spotify) - 857 likes - 55 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 860 likes - 56 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 | 49 | [Shadows Follow You](https://open.spotify.com/track/70ocBhBQfu6gRbGZJdMl0h) | [Dogtooth & Nail](https://open.spotify.com/artist/3TzCgwT2fJB0oh2vggswZ9) | [Learning How to Unlearn](https://open.spotify.com/album/2ri1PLSmxfnM0yhamVmHz4) | 3:15 |
 | 50 | [Strong Hearts Bleed Out First](https://open.spotify.com/track/6w3E4mrMqc8Z1sYIU03IUv) | [Chatterbox and the Latter Day Satanists](https://open.spotify.com/artist/1rD5mDlNz6NuvcIq1rYMlt) | [The D.I.Y\. Fecta](https://open.spotify.com/album/2LlDP4y2j8cS3RZRoDEeyb) | 4:30 |
 | 51 | [Forever Yours](https://open.spotify.com/track/0NdkNJhi6xD0REXKIBOmQt) | [Dirty Harry](https://open.spotify.com/artist/59C1eNpE0q9dh7U48KBJUV) | [Get Busy Living or Get Busy Crying](https://open.spotify.com/album/3mJ925Io2NR1Dp4x7oFUyV) | 5:37 |
-| 52 | [The Year I Get It Right](https://open.spotify.com/track/5kX4Ujo8YxIWMGFAofXAIR) | [Brook Pridemore](https://open.spotify.com/artist/5ZWHEFolveKJpzm9Cbd5ml) | [A Brighter Light](https://open.spotify.com/album/0ZpJ88lqMdaDcuSoiGZxsA) | 2:42 |
-| 53 | [Crag](https://open.spotify.com/track/4g8Djx0U0KlcKXVd2nYIWy) | [Human Behavior](https://open.spotify.com/artist/7dP5gL9CzGF6lPzRlprwS7) | [Golgotha](https://open.spotify.com/album/7jouh2dK5X0lkHJPEQ0TEp) | 3:15 |
-| 54 | [Be Happy](https://open.spotify.com/track/6fzlvBtOkL1LNKyrToxVwi) | [A Day Without Love](https://open.spotify.com/artist/09JoYdZo9cekYMqyN1bsGD) | [Be Happy, Today](https://open.spotify.com/album/1dsdPI01rcf6eRHYJTsu1H) | 3:00 |
-| 55 | [Cup of Water](https://open.spotify.com/track/2WxO2FZlWAMz5joaAry6CU) | [Billy Mack Collector](https://open.spotify.com/artist/1e7Ac48NUTW8s93OMz7FWE) | [Songs About Water and Trying to Feel Okay](https://open.spotify.com/album/5JZfn7wYHxgbEbJRs2vb79) | 4:00 |
+| 52 | [Bring It Home \(feat\. Jaime Wyatt\)](https://open.spotify.com/track/5PWke7d2ucI1I4NEqgH6DB) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Okemah Rising](https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK) | 3:22 |
+| 53 | [The Year I Get It Right](https://open.spotify.com/track/5kX4Ujo8YxIWMGFAofXAIR) | [Brook Pridemore](https://open.spotify.com/artist/5ZWHEFolveKJpzm9Cbd5ml) | [A Brighter Light](https://open.spotify.com/album/0ZpJ88lqMdaDcuSoiGZxsA) | 2:42 |
+| 54 | [Crag](https://open.spotify.com/track/4g8Djx0U0KlcKXVd2nYIWy) | [Human Behavior](https://open.spotify.com/artist/7dP5gL9CzGF6lPzRlprwS7) | [Golgotha](https://open.spotify.com/album/7jouh2dK5X0lkHJPEQ0TEp) | 3:15 |
+| 55 | [Be Happy](https://open.spotify.com/track/6fzlvBtOkL1LNKyrToxVwi) | [A Day Without Love](https://open.spotify.com/artist/09JoYdZo9cekYMqyN1bsGD) | [Be Happy, Today](https://open.spotify.com/album/1dsdPI01rcf6eRHYJTsu1H) | 3:00 |
+| 56 | [Cup of Water](https://open.spotify.com/track/2WxO2FZlWAMz5joaAry6CU) | [Billy Mack Collector](https://open.spotify.com/artist/1e7Ac48NUTW8s93OMz7FWE) | [Songs About Water and Trying to Feel Okay](https://open.spotify.com/album/5JZfn7wYHxgbEbJRs2vb79) | 4:00 |
 
-Snapshot ID: `MCw0NTBjN2VmNWY2MjE4NGVhYWJiN2QzODZmYjRjYWZkMjE5NzE0ZDY0`
+Snapshot ID: `MCwxYWNiM2EyMjEwZDU0ZmY3ZWIxZmMwNDU0ZDhlNzRmMmYwNjRmODJh`

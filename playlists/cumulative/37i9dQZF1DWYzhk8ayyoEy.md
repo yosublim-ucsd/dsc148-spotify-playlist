@@ -4,7 +4,7 @@
 
 > Warm, inspirational pop, that's good at heart
 
-83 songs - 4 hr 38 min
+85 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Halo \- Spotify Singles](https://open.spotify.com/track/42RzrKAGLgCzRmUtYeQuRQ) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Spotify Singles](https://open.spotify.com/album/0Innco4HcewIE6ClCLB9kS) | 3:56 | 2023-02-24 |  |
 | [Happy Place \(feat\. Jasmine Thompson\)](https://open.spotify.com/track/2DuDGvtZmUZZINTOvhm3CR) | [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Happy Place \(feat\. Jasmine Thompson\)](https://open.spotify.com/album/38xoqyWybDC5qjbsshhRkd) | 3:06 | 2023-01-04 |  |
 | [Head Above Water](https://open.spotify.com/track/7gY3cyGcB2wnk2xDXiA0pe) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Head Above Water](https://open.spotify.com/album/3FrkD0TTaXBuW19vuEhDGz) | 3:40 | 2023-01-04 |  |
-| [Hold On To Your Love](https://open.spotify.com/track/2oxVItPArYYf155nTFCcaa) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [Hold On To Your Love](https://open.spotify.com/album/62pkGnBoTgvodYHbqg8h0l) | 2:46 | 2023-01-04 |  |
+| [Hold On To Your Love](https://open.spotify.com/track/2oxVItPArYYf155nTFCcaa) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [Hold On To Your Love](https://open.spotify.com/album/62pkGnBoTgvodYHbqg8h0l) | 2:46 | 2023-01-04 | 2023-05-13 |
 | [Hollow](https://open.spotify.com/track/6QeJEhEoMNqsn2yhCvG3jc) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Unbreakable Smile](https://open.spotify.com/album/2mH2TVd6euTmrn9Pcw9XHS) | 3:31 | 2023-01-04 |  |
 | [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/6Xgq7MvZiet0hVi3KaDSgJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:32 | 2023-01-04 |  |
 | [Hope Floats](https://open.spotify.com/track/3Rtx95usvUGG57YgHpOdZt) | [Tyrone Wells](https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR) | [Hope Floats](https://open.spotify.com/album/2b9NvHkvqvPJxN4XKYmv8G) | 3:18 | 2023-01-04 | 2023-02-03 |
@@ -70,6 +70,7 @@
 | [Rescue](https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 3:35 | 2023-01-04 | 2023-04-25 |
 | [Rise Up](https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Cheers to the Fall](https://open.spotify.com/album/6Blubl1glavmervPJa3QVs) | 4:13 | 2023-01-04 |  |
 | [Saved My Life \(with R3HAB\)](https://open.spotify.com/track/6ATM1zRLGYYP72J9xwnL1L) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Saved My Life \(with R3HAB\)](https://open.spotify.com/album/6deJd6SdTPGoCFwyzJk4L7) | 2:54 | 2023-01-04 |  |
+| [So Will I](https://open.spotify.com/track/2MH8nFkQQgVqwr6w6jEPIr) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [So Will I](https://open.spotify.com/album/1jz72j3JNoHfQfaN8QGKH3) | 2:53 | 2023-05-12 |  |
 | [Somebody Loves You](https://open.spotify.com/track/6jOrsBdE4gzgnUuwKjhNdy) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Somebody Loves You](https://open.spotify.com/album/0m1sI2WlgWK2RuYEcB0ExO) | 3:11 | 2023-03-10 |  |
 | [Something in the Water](https://open.spotify.com/track/10RQKVSr4rS0coExTmi4dF) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Greatest Hits: Decade \#1](https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A) | 3:58 | 2023-01-04 |  |
 | [Stand By You](https://open.spotify.com/track/3kSXn1osC89W8JcPLozTzs) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Wildfire](https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT) | 3:39 | 2023-01-04 |  |
@@ -80,10 +81,11 @@
 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 | 2023-01-04 |  |
 | [Thank God I Do](https://open.spotify.com/track/60StAgy8EkIsaGEGebKcBB) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Thank God I Do](https://open.spotify.com/album/13hXymvIOF3Q29fDFTmCeZ) | 4:18 | 2023-03-10 |  |
 | [Thank You](https://open.spotify.com/track/6r4jouSQy2Hl77pwMwChcM) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN) | 3:59 | 2023-01-04 |  |
+| [These Are The Days](https://open.spotify.com/track/3aJs1TqxQh1Y2SNL8Vt1ZA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 3:50 | 2023-05-12 |  |
 | [Try](https://open.spotify.com/track/6buXDkw3Gv4fQC1OZKUhnR) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Gypsy Heart](https://open.spotify.com/album/5nB5tR7ntrEpHbpCS7iHN9) | 3:44 | 2023-01-18 |  |
 | [Unsung Hero](https://open.spotify.com/track/6wKCMaczSlS2V3Vv7mSgNA) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Unsung Hero](https://open.spotify.com/album/0aX8EfgrGeSWvYN4XN2SOv) | 3:31 | 2023-01-04 |  |
 | [Up](https://open.spotify.com/track/53Qec9qsCfbzcXUCiEkfq4) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Up](https://open.spotify.com/album/0xwpeyyjply5M7AHR2ksx3) | 2:57 | 2023-01-04 |  |
-| [Waiting](https://open.spotify.com/track/1vzInuUvpmqKFwe289blUH) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Waiting](https://open.spotify.com/album/13az638Bzrvi5f9zw9JpTt) | 3:11 | 2023-04-24 |  |
+| [Waiting](https://open.spotify.com/track/1vzInuUvpmqKFwe289blUH) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Waiting](https://open.spotify.com/album/13az638Bzrvi5f9zw9JpTt) | 3:11 | 2023-04-24 | 2023-05-13 |
 | [Warm](https://open.spotify.com/track/2DCTvd3tTAfyg0a1to4STY) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Warm](https://open.spotify.com/album/0j1wU0GZ4LbqqXxiYQN2Jn) | 3:03 | 2023-01-04 |  |
 | [When I Get There](https://open.spotify.com/track/74d3yEyNl807mtzttoKTbK) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [When I Get There](https://open.spotify.com/album/7JlQ5Gfci8WZDHIKdmFl1G) | 3:20 | 2023-02-24 |  |
 | [Woke Up in Love](https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Woke Up in Love](https://open.spotify.com/album/06q3cqjSYhkePDu6RW6Uoy) | 3:36 | 2023-01-04 |  |

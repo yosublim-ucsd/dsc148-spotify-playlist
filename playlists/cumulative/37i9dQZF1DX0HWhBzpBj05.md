@@ -4,7 +4,7 @@
 
 > Spread some cheer with this list of new and old seasonal favorites.
 
-148 songs - 8 hr 20 min
+149 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,9 +123,10 @@
 | [Silver Bells](https://open.spotify.com/track/745vzVj6vhA5LqfqOfqBci) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87) | 3:16 | 2022-12-05 |  |
 | [Sleigh Ride \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/6XAdcAseYtijN0QUnQFsH2) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Merry Christmas](https://open.spotify.com/album/3pHNZvjNOHJX8G9Y0OmIzG) | 2:58 | 2021-12-20 |  |
 | [Someday At Christmas](https://open.spotify.com/track/2X5noCM9Klrm4zXfyyPdRN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Mono Singles](https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK) | 2:48 | 2022-12-05 |  |
+| [Step Into Christmas](https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 4:32 | 2022-12-16 |  |
 | [Step Into Christmas](https://open.spotify.com/track/5AG7WObBQyMrmAfP5X9FKw) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Happy Navidad](https://open.spotify.com/album/1PpiyGryY19O7Lk6L1IbFu) | 4:32 | 2022-10-23 | 2022-11-13 |
 | [Step Into Christmas](https://open.spotify.com/track/2uEiuFTudAg6mYwuLWTfZh) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration/ Super Deluxe Edition\)](https://open.spotify.com/album/6Gp6qSE1ywXCLjal5NUWUE) | 4:32 | 2021-12-20 | 2022-07-29 |
-| [Step Into Christmas](https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration / Super Deluxe\)](https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN) | 4:32 | 2021-12-20 |  |
+| [Step Into Christmas](https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration / Super Deluxe\)](https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN) | 4:32 | 2021-12-20 | 2023-05-13 |
 | [Thank God It's Christmas](https://open.spotify.com/track/0QtJZpyfZF67QF32p41NXa) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits III](https://open.spotify.com/album/2BY5L3fpnj4pEduW3T1qN7) | 4:19 | 2021-12-20 | 2022-07-29 |
 | [Thank God It's Christmas \- 2011 Remaster](https://open.spotify.com/track/0MWragmw7l06QuiYuSLS1A) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Christmas Playlist 2021](https://open.spotify.com/album/5VQkuBEAq55jFH8yoNH3df) | 4:19 | 2022-10-23 | 2022-11-13 |
 | [Thank God It's Christmas \- 2011 Remaster](https://open.spotify.com/track/3AymrUApW5JKKaNrHQhcBG) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Remastered Version\)](https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V) | 4:21 | 2021-12-20 |  |

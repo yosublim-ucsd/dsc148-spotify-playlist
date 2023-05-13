@@ -4,7 +4,7 @@
 
 > That summer in the city feeling, any day of the week.
 
-152 songs - 13 hr 48 min
+153 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Dead End Alley](https://open.spotify.com/track/0BDTWTAR0DH4XWiUQ7yBWW) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Introduction](https://open.spotify.com/album/75OSQ2KOnEinVcdADIwT17) | 5:37 | 2021-09-01 | 2022-02-14 |
 | [Disco Dancer](https://open.spotify.com/track/1np1H7mh6iUZhdBhkh3QIo) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/2f2AauWieTBpHDodyHYOcB) | 6:56 | 2021-09-01 | 2022-07-29 |
 | [Disco Dancer](https://open.spotify.com/track/297SLwXcZw0ZUourOzPQpU) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/0p1PYyKaMEsDboqHmERvZu) | 6:56 | 2021-09-01 | 2023-04-30 |
+| [Disco Dancer](https://open.spotify.com/track/5q8C9VZQBmo9ITXI21p11K) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/0gHy3GjU1oQMce8ZJi2EKL) | 6:56 | 2023-02-10 |  |
 | [Done My Best](https://open.spotify.com/track/3KKK9GmxkqURfxSrxxYIJh) | [Nebraska](https://open.spotify.com/artist/1r7iu4v645R7o3bARTQGtn) | [Look What You've Done To Me EP](https://open.spotify.com/album/11GTVP0F2xq6gpjZXTCst4) | 5:33 | 2021-09-01 | 2022-07-24 |
 | [Dreaming Of Better Days](https://open.spotify.com/track/4goILMtibwRJrkzmNbt4Ns) | [Larry Heard](https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz), [Loosefingers](https://open.spotify.com/artist/1vbs5ghUw3aJTLwlVdIqKb) | [Soundtrack From The Duality Double\-Play](https://open.spotify.com/album/6QdZrtyLed3YMUNmOWUlCS) | 5:06 | 2021-09-01 | 2022-07-25 |
 | [Drink Milk](https://open.spotify.com/track/2M9mDj6eNVmpxQ381qP2bV) | [The Draytons Two](https://open.spotify.com/artist/7FPbIQAvYaHUT3HEq1sfTS) | [Raw Spouge](https://open.spotify.com/album/2AbK4DTRJmqmTc9SHYs7ii) | 2:21 | 2021-09-01 | 2022-05-20 |
@@ -151,7 +152,7 @@
 | [Voyage](https://open.spotify.com/track/2Ny9IkHyAJzSaJBEYweXyp) | [Arp Frique](https://open.spotify.com/artist/2Rm5Fw56mWmB0Pz0JPcOyb), [Mariseya](https://open.spotify.com/artist/6CezXXzMXtPnjFvqu4kED1) | [Minina Bem Li](https://open.spotify.com/album/54IZ4wR3HC25QXyV2bOrpQ) | 5:32 | 2021-09-01 | 2022-07-29 |
 | [Waiting](https://open.spotify.com/track/7fxcNshGvCxlNMGHI1GmCx) | [Hidden Spheres](https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa) | [Waiting](https://open.spotify.com/album/0zGcOpLSpmGTJUcHRrNUJz) | 6:52 | 2021-09-01 |  |
 | [Walk on By](https://open.spotify.com/track/2FDIwfqSI44hVE9D6RmLQQ) | [Sybil](https://open.spotify.com/artist/1EbIfIjVcauDatNO4vagL1) | [Sybil's Greatest Hits](https://open.spotify.com/album/6aOF3agLPNHtnLx0A5GaJM) | 4:07 | 2021-09-01 | 2023-03-08 |
-| [Warm Priority](https://open.spotify.com/track/7BKiJ7xesRpNzMceQtYUtb) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Priorities](https://open.spotify.com/album/7cO8doMNBPYcM2WXZnWO6X) | 5:48 | 2021-09-01 |  |
+| [Warm Priority](https://open.spotify.com/track/7BKiJ7xesRpNzMceQtYUtb) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Priorities](https://open.spotify.com/album/7cO8doMNBPYcM2WXZnWO6X) | 5:48 | 2021-09-01 | 2023-05-13 |
 | [Watch Your Step \(Harvey Sutherland Remix\)](https://open.spotify.com/track/3yjN1QyJncu2e7jm8jSR4g) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [ENERGY \(Deluxe\)](https://open.spotify.com/album/5s3SqoM2Url1gIZMJg03oq) | 3:50 | 2021-09-01 | 2022-07-29 |
 | [Watch Your Step \(Harvey Sutherland Remix\)](https://open.spotify.com/track/7G24eVWGQFcDP5DxXGgCSj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [ENERGY \(Special Edition\)](https://open.spotify.com/album/7zkGnjPwwQvjW7RCMnmPEz) | 3:50 | 2021-09-01 |  |
 | [We Ain't Goin' Nowhere](https://open.spotify.com/track/2ZfkpCm1I5TxnQwedtfoW7) | [Chrissy](https://open.spotify.com/artist/04zsBrhqOL2WNQvd5MDupE) | [The Cool Ranch Collection](https://open.spotify.com/album/5f7grdV1DGpXyq70gBMMPv) | 3:32 | 2021-09-01 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Keep your focus and drown out distracting sounds with white noise from the oceans.",
-  "num_followers": 5592,
+  "num_followers": 5617,
   "original_name": "White Waves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjAyNTIzZGIxYTgzNDVkMTljNzgwNTk0NDhjNDI4OGUyZGQ4MTM2",
+  "snapshot_id": "MCw2ZTlhNWE4NjVkZjljNzZiYzhkYzg4NTFmNzhhNWFkZDFmYWFiZjEw",
   "tracks": [
     {
       "added_at": "2023-02-15 09:06:08",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-02-15 09:06:08",
       "album": {
-        "name": "Sunday Night Waves",
-        "url": "https://open.spotify.com/album/5Lu8V4pKtLpaS8Q6OwABjs"
-      },
-      "artists": [
-        {
-          "name": "Microdynamic Recordings",
-          "url": "https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9"
-        }
-      ],
-      "duration_ms": 180777,
-      "name": "Calm Pouring Ocean",
-      "url": "https://open.spotify.com/track/6AiW2dz9mOgsZjsEKwAhIv"
-    },
-    {
-      "added_at": "2023-02-15 09:06:08",
-      "album": {
         "name": "Stormy Beach Waves",
         "url": "https://open.spotify.com/album/1vWTYI5vpjiAdclCZsbkgc"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 130061,
       "name": "Stormy Beach Waves",
       "url": "https://open.spotify.com/track/5MOt0d6iCGy8x0tWqDjNuF"
+    },
+    {
+      "added_at": "2023-02-15 09:06:08",
+      "album": {
+        "name": "Sunday Night Waves",
+        "url": "https://open.spotify.com/album/5Lu8V4pKtLpaS8Q6OwABjs"
+      },
+      "artists": [
+        {
+          "name": "Microdynamic Recordings",
+          "url": "https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9"
+        }
+      ],
+      "duration_ms": 180777,
+      "name": "Calm Pouring Ocean",
+      "url": "https://open.spotify.com/track/6AiW2dz9mOgsZjsEKwAhIv"
     },
     {
       "added_at": "2023-02-15 09:06:08",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-02-15 09:06:08",
       "album": {
-        "name": "Ocean Sounds",
-        "url": "https://open.spotify.com/album/2D26q0hZo0yskDLfl9qo2D"
-      },
-      "artists": [
-        {
-          "name": "Natural Sample Makers",
-          "url": "https://open.spotify.com/artist/2kAU05Lt29wxhRj3BpiwhA"
-        }
-      ],
-      "duration_ms": 113812,
-      "name": "Waves: Tranquility Touch",
-      "url": "https://open.spotify.com/track/2PX3JsYV9ndh0ICsS9uCwg"
-    },
-    {
-      "added_at": "2023-02-15 09:06:08",
-      "album": {
         "name": "Relax Waves",
         "url": "https://open.spotify.com/album/6Qvj2A6BbHE0449Y6DD7Pf"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 94000,
       "name": "Relax Waves",
       "url": "https://open.spotify.com/track/1TCKDptBmCHnGZ9cqGoBSZ"
+    },
+    {
+      "added_at": "2023-02-15 09:06:08",
+      "album": {
+        "name": "Ocean Sounds",
+        "url": "https://open.spotify.com/album/2D26q0hZo0yskDLfl9qo2D"
+      },
+      "artists": [
+        {
+          "name": "Natural Sample Makers",
+          "url": "https://open.spotify.com/artist/2kAU05Lt29wxhRj3BpiwhA"
+        }
+      ],
+      "duration_ms": 113812,
+      "name": "Waves: Tranquility Touch",
+      "url": "https://open.spotify.com/track/2PX3JsYV9ndh0ICsS9uCwg"
     },
     {
       "added_at": "2023-02-15 09:06:08",
@@ -923,8 +923,8 @@
     {
       "added_at": "2023-02-15 09:06:08",
       "album": {
-        "name": "Oceanside Waves & Outer Channel Waves",
-        "url": "https://open.spotify.com/album/4xzchEzzhXDViDHdQXEhre"
+        "name": "The Vast Sea",
+        "url": "https://open.spotify.com/album/2FgrpbWJmq5gxqtPGZAx0Y"
       },
       "artists": [
         {
@@ -932,9 +932,9 @@
           "url": "https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Oceanside Waves",
-      "url": "https://open.spotify.com/track/1lvD3gzMjX7yHL8qfRHRch"
+      "duration_ms": 151000,
+      "name": "Sleepy Rolling Depths (Ocean)",
+      "url": "https://open.spotify.com/track/61QIkVCbYisHbmc8qae4yh"
     },
     {
       "added_at": "2023-02-15 09:06:08",

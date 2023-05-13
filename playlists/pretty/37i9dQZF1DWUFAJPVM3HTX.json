@@ -1,13 +1,333 @@
 {
-  "description": "The best new R&B by independent artists and labels. Cover: Lekan. Updates every Wednesday.",
-  "num_followers": 193603,
+  "description": "The best new R&B by independent artists and labels. Cover: TA Thomas. Updates every Wednesday.",
+  "num_followers": 193705,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGZmYjA5NTFkYTEwZTQ4ZDA1NzNmNDI0NjdkZWUxNDQ3YjJiYjNi",
+  "snapshot_id": "MCw1YmE4OWY3ODBhOGM3MDAwOGI5ZDNhMjI4MmY4ZDQyNDJmODY4NTFl",
   "tracks": [
+    {
+      "added_at": "2023-05-12 05:26:09",
+      "album": {
+        "name": "June 15th",
+        "url": "https://open.spotify.com/album/3NZoQUV5mWoXx9CrCZvulx"
+      },
+      "artists": [
+        {
+          "name": "TA Thomas",
+          "url": "https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul"
+        }
+      ],
+      "duration_ms": 163631,
+      "name": "June 15th",
+      "url": "https://open.spotify.com/track/6LikRE4RwaYvfm79UwEU3X"
+    },
+    {
+      "added_at": "2023-05-12 05:26:09",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/4H1vS1PKnxiypPT7oaf7y7"
+      },
+      "artists": [
+        {
+          "name": "Giift",
+          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
+        }
+      ],
+      "duration_ms": 131541,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/5vt7dvdHX7DFRKHAMKrRDs"
+    },
+    {
+      "added_at": "2023-05-12 05:26:09",
+      "album": {
+        "name": "Strawberry Perfume",
+        "url": "https://open.spotify.com/album/1JloybRxPNoSQRTxPqsGxU"
+      },
+      "artists": [
+        {
+          "name": "Chenayder",
+          "url": "https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y"
+        }
+      ],
+      "duration_ms": 116736,
+      "name": "Strawberry Perfume",
+      "url": "https://open.spotify.com/track/4IbE8jxsczCxfGYJCE2T1x"
+    },
+    {
+      "added_at": "2023-05-12 05:26:09",
+      "album": {
+        "name": "cool_v2",
+        "url": "https://open.spotify.com/album/314cN1rqr9aqjS1J2ag5Sq"
+      },
+      "artists": [
+        {
+          "name": "Merges",
+          "url": "https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3"
+        },
+        {
+          "name": "Kaelin Ellis",
+          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
+        }
+      ],
+      "duration_ms": 132374,
+      "name": "cool_v2",
+      "url": "https://open.spotify.com/track/5KxudlMFpmglXBDeYHxUhm"
+    },
+    {
+      "added_at": "2023-05-12 05:26:09",
+      "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/4WXVew9ALyRwKJ6Avj7FYM"
+      },
+      "artists": [
+        {
+          "name": "Lee England Jr",
+          "url": "https://open.spotify.com/artist/7FabEcDtzenndrHSHMqyQL"
+        }
+      ],
+      "duration_ms": 183412,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/54CJIU0qCLcjgT5KMgHw9B"
+    },
+    {
+      "added_at": "2023-05-12 05:26:09",
+      "album": {
+        "name": "LaSenza",
+        "url": "https://open.spotify.com/album/4vrxfbyeurYiKLySHODPWc"
+      },
+      "artists": [
+        {
+          "name": "Jordel",
+          "url": "https://open.spotify.com/artist/6Wwdgvn4VyRAFwlcJTm92h"
+        }
+      ],
+      "duration_ms": 130151,
+      "name": "LaSenza",
+      "url": "https://open.spotify.com/track/4ekb6cQpOOjAGqmFpzu2J6"
+    },
+    {
+      "added_at": "2023-05-12 05:26:09",
+      "album": {
+        "name": "Outlines",
+        "url": "https://open.spotify.com/album/567bIsxKHOqBqNCUCSI5KU"
+      },
+      "artists": [
+        {
+          "name": "Yakul",
+          "url": "https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO"
+        },
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "duration_ms": 170882,
+      "name": "Time To Lose",
+      "url": "https://open.spotify.com/track/4ywdVPBmQr1PAkAQitNqyS"
+    },
+    {
+      "added_at": "2023-05-12 05:26:09",
+      "album": {
+        "name": "The Process",
+        "url": "https://open.spotify.com/album/0cV67XvouTlEbAWb31q3vM"
+      },
+      "artists": [
+        {
+          "name": "Marie Dahlstrom",
+          "url": "https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM"
+        },
+        {
+          "name": "Sipprell",
+          "url": "https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu"
+        }
+      ],
+      "duration_ms": 140693,
+      "name": "The Process",
+      "url": "https://open.spotify.com/track/0aeoV8KYkGPOxNaFsaHegU"
+    },
+    {
+      "added_at": "2023-05-12 05:26:09",
+      "album": {
+        "name": "You Still Ain't Shit",
+        "url": "https://open.spotify.com/album/5i6PTLpU0ge7KC1wrxNnGO"
+      },
+      "artists": [
+        {
+          "name": "Romeyo Wilson",
+          "url": "https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "You Still Ain't Shit",
+      "url": "https://open.spotify.com/track/7soKxyV0lIoh9BlbWmuUBZ"
+    },
+    {
+      "added_at": "2023-05-12 05:26:09",
+      "album": {
+        "name": "Over and Done",
+        "url": "https://open.spotify.com/album/0GeMb0aWc6goVvVNc5mE05"
+      },
+      "artists": [
+        {
+          "name": "Alexia Jayy",
+          "url": "https://open.spotify.com/artist/13qhBGFWNzC29m0Cq2inta"
+        }
+      ],
+      "duration_ms": 222056,
+      "name": "Over and Done",
+      "url": "https://open.spotify.com/track/6WiNEOWsZaBerUfcEwZxK2"
+    },
+    {
+      "added_at": "2023-05-12 05:26:09",
+      "album": {
+        "name": "ready FR",
+        "url": "https://open.spotify.com/album/7skWOIgaOnSWDuzNdK1RcZ"
+      },
+      "artists": [
+        {
+          "name": "King Sis",
+          "url": "https://open.spotify.com/artist/47jdlqzmvdk0SFUU0gweMz"
+        }
+      ],
+      "duration_ms": 201894,
+      "name": "ready FR",
+      "url": "https://open.spotify.com/track/0EMfs8ICPBc4jFb5zUvhdh"
+    },
+    {
+      "added_at": "2023-05-12 05:26:09",
+      "album": {
+        "name": "CAUTIOUS (feat. Sianybby)",
+        "url": "https://open.spotify.com/album/4QGSbxA0Dgqrz2ksw4HE6X"
+      },
+      "artists": [
+        {
+          "name": "Hollyspleef",
+          "url": "https://open.spotify.com/artist/72l6aSPCYOLpWv7wPSbTDD"
+        },
+        {
+          "name": "Sianybby",
+          "url": "https://open.spotify.com/artist/3iYXghg2T10P2boodfsZLQ"
+        }
+      ],
+      "duration_ms": 152750,
+      "name": "CAUTIOUS (feat. Sianybby)",
+      "url": "https://open.spotify.com/track/40JuksNgBsC8Na8cu0NHnM"
+    },
+    {
+      "added_at": "2023-05-12 05:26:09",
+      "album": {
+        "name": "no facade (demo)",
+        "url": "https://open.spotify.com/album/1nQSqN4Xi1laNxK7aGGp9g"
+      },
+      "artists": [
+        {
+          "name": "Carter Ace",
+          "url": "https://open.spotify.com/artist/0bhck1r45kgsoMNBVqIziz"
+        }
+      ],
+      "duration_ms": 62227,
+      "name": "no facade - demo",
+      "url": "https://open.spotify.com/track/0dht6fYOZedFRh4uTJivf4"
+    },
+    {
+      "added_at": "2023-05-12 05:26:09",
+      "album": {
+        "name": "She Said",
+        "url": "https://open.spotify.com/album/7qHEPbWESg5qj663XED0BY"
+      },
+      "artists": [
+        {
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+        }
+      ],
+      "duration_ms": 215960,
+      "name": "She Said",
+      "url": "https://open.spotify.com/track/3CR4lqVVx9F96vkd7QAEmJ"
+    },
+    {
+      "added_at": "2023-05-12 05:26:09",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/5j1kmevKyjTBSlS6x3xzLJ"
+      },
+      "artists": [
+        {
+          "name": "Natanya",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+        }
+      ],
+      "duration_ms": 201283,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/1C8V8IPSb9pL3VErlpsi61"
+    },
+    {
+      "added_at": "2023-05-12 05:26:09",
+      "album": {
+        "name": "Easier",
+        "url": "https://open.spotify.com/album/3zrpVy4zCTwb7pPXS28m8R"
+      },
+      "artists": [
+        {
+          "name": "Mandolin",
+          "url": "https://open.spotify.com/artist/0iTK08F26s7jrGlBvV3Nmg"
+        }
+      ],
+      "duration_ms": 226093,
+      "name": "Easier",
+      "url": "https://open.spotify.com/track/5LOqXptMPwn7eande71squ"
+    },
+    {
+      "added_at": "2023-05-12 05:26:09",
+      "album": {
+        "name": "LOSE",
+        "url": "https://open.spotify.com/album/2hzx3oVMyk7ZOhqrogE6cP"
+      },
+      "artists": [
+        {
+          "name": "Solomon Headen",
+          "url": "https://open.spotify.com/artist/59jzOW1ygudzEJxwR7c0pv"
+        }
+      ],
+      "duration_ms": 188055,
+      "name": "LOSE",
+      "url": "https://open.spotify.com/track/6QjZTo7JhSBq43nznPSsbb"
+    },
+    {
+      "added_at": "2023-05-12 05:26:09",
+      "album": {
+        "name": "Fickle",
+        "url": "https://open.spotify.com/album/0Qv2r7upfV3ypA63OVwAPA"
+      },
+      "artists": [
+        {
+          "name": "Shamiya Battles",
+          "url": "https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE"
+        }
+      ],
+      "duration_ms": 151714,
+      "name": "Fickle",
+      "url": "https://open.spotify.com/track/1iVkt8ObfcsC4hch6nOhf1"
+    },
+    {
+      "added_at": "2023-05-12 05:26:09",
+      "album": {
+        "name": "That Girl",
+        "url": "https://open.spotify.com/album/5zM10y8nU3ptVAEan7hrFp"
+      },
+      "artists": [
+        {
+          "name": "Bee-B",
+          "url": "https://open.spotify.com/artist/13FgCXn7z3ld9mR2Pz8eqc"
+        }
+      ],
+      "duration_ms": 210697,
+      "name": "That Girl",
+      "url": "https://open.spotify.com/track/2leM6TyCaLhys0W3kZ1b1P"
+    },
     {
       "added_at": "2023-05-05 04:52:40",
       "album": {

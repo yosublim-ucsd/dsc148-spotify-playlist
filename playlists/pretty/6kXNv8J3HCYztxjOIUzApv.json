@@ -1,13 +1,29 @@
 {
   "description": "Rock out while you work out! Follow for updates!",
-  "num_followers": 57916,
+  "num_followers": 57936,
   "original_name": "Hard Rock Workout",
   "owner": {
     "name": "Better Noise Music",
     "url": "https://open.spotify.com/user/elevensevenmusic"
   },
-  "snapshot_id": "MTkzMiw2ZDQzNGJmNWEyMGVkMTVkMWUyMmNmMjE0NzJiZTMwZDNkNGI4NzNl",
+  "snapshot_id": "MTkzNixkNmExNzIxNDkyNGY2OTlkNWY1NzQ2YzU5YzZhZDNiMmRjNWQzNDY0",
   "tracks": [
+    {
+      "added_at": "2023-05-12 18:17:48",
+      "album": {
+        "name": "Dark Void",
+        "url": "https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "Dark Void",
+      "url": "https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S"
+    },
     {
       "added_at": "2023-02-22 10:19:42",
       "album": {

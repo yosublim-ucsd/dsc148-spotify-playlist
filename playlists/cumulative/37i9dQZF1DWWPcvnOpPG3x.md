@@ -4,7 +4,7 @@
 
 > Run to the world of R&B and hip\-hop.
 
-151 songs - 9 hr 39 min
+152 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Dance \(A$$\) Remix](https://open.spotify.com/track/3OVLPcUPS0HbMeAeMP0jZ4) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Dance \(A$$\) Remix](https://open.spotify.com/album/3JkjVA4hXNA0JRQo7B0MMl) | 3:40 | 2022-03-24 | 2022-04-21 |
 | [Dirt Off Your Shoulder](https://open.spotify.com/track/4DqgmnzCCIv0dbzlFDPJZq) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Black Album](https://open.spotify.com/album/6vT81iUtDPLkfHDAwoRNpu) | 4:05 | 2021-11-26 | 2022-07-29 |
 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2022-08-12 |  |
+| [Donald Trump](https://open.spotify.com/track/6Aa7aDayiQHnUw1dUvdneZ) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Best Day Ever \(5th Anniversary Remastered Edition\)](https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj) | 2:44 | 2023-01-03 |  |
 | [Donald Trump](https://open.spotify.com/track/2cAmsZQwOuWBFhdBr0Za9C) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Donald Trump \- Single](https://open.spotify.com/album/6eFkuEfykAUpthUiUeu3zw) | 2:45 | 2021-11-26 | 2022-07-29 |
 | [Dreams](https://open.spotify.com/track/5F7caGhe84C6ONva5S8yXF) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [The Documentary](https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8) | 4:46 | 2021-11-26 | 2022-04-20 |
 | [Drip \(feat\. Migos\)](https://open.spotify.com/track/2qcG0nZ6S3zZV0UrkY5nFo) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 4:22 | 2022-03-24 | 2022-04-20 |
@@ -72,7 +73,7 @@
 | [Have It Your Way](https://open.spotify.com/track/5Gis3rbXy28VG5WG8hmtZI) | [Rich Gang](https://open.spotify.com/artist/6h2J3dxLnTyURwIUBumKog), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Rich Gang \(Deluxe Version\)](https://open.spotify.com/album/2uhiqri87eC7Xe0tg9p7fB) | 4:23 | 2021-11-26 | 2022-07-28 |
 | [Headlines](https://open.spotify.com/track/6RGvWCHTS6BC46TsMyN0WM) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Headlines](https://open.spotify.com/album/2YLE9V9JI8WaDgbyuuJHnU) | 3:56 | 2021-11-26 | 2022-07-29 |
 | [Hip\-Hop](https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy) | [Dead Prez](https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD) | [Let's Get Free](https://open.spotify.com/album/7gXuElmegVReY7imkb5bf8) | 3:34 | 2022-03-24 | 2022-04-20 |
-| [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO) | 3:31 | 2022-08-12 |  |
+| [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO) | 3:31 | 2022-08-12 | 2023-05-13 |
 | [HUMBLE.](https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 2:57 | 2021-11-26 |  |
 | [Hurtin' Me](https://open.spotify.com/track/2VoJe7vkKkigs7C3CGnSXL) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Hurtin' Me](https://open.spotify.com/album/5HWdfsIN1ixzkWpKHib5Dd) | 3:32 | 2021-11-26 | 2022-04-21 |
 | [Hypnotize \- 2014 Remaster](https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 3:49 | 2022-08-12 |  |

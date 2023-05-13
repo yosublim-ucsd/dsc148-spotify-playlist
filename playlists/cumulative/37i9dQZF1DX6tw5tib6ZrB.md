@@ -4,7 +4,7 @@
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Lil Durk, Jack Harlow, Drake, Tyler, The Creator, Quavo and more
 
-137 songs - 7 hr 12 min
+138 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [54321](https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [54321](https://open.spotify.com/album/5vW8LuMydrkQQqkQlw5Won) | 3:02 | 2022-08-19 | 2022-10-28 |
 | [A Bag In A Lexus](https://open.spotify.com/track/3DW8Z1gH89lDgEGjmi903q) | [Misee Billions](https://open.spotify.com/artist/5Lhx3MUyzocreEfyAlOWJ7) | [A Bag In A Lexus](https://open.spotify.com/album/0xQcWh9alDQZF8eAc0iFs6) | 2:54 | 2022-06-16 | 2022-07-23 |
 | [Ain’t Safe \(feat\. Don Toliver\)](https://open.spotify.com/track/6ja11GoXgF75QkEVqqAadn) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Ain’t Safe \(feat\. Don Toliver\)](https://open.spotify.com/album/2XlxXuumhYX4lIU2nXoUXw) | 2:46 | 2022-10-27 | 2023-02-18 |
+| [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 | 2023-05-11 |  |
 | [Back To The Kaap](https://open.spotify.com/track/7pQKbdzWHY6ypWhKLrLsiD) | [Stilo Magolide](https://open.spotify.com/artist/77zNkBGPeehKXAXAXfUfnA), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv) | [Back To The Kaap](https://open.spotify.com/album/5RheolffY6fyYbQPLHBxZv) | 3:18 | 2023-03-23 |  |
 | [BIG TIME \(feat\. Future & Lil Baby\)](https://open.spotify.com/track/6pr7X9UZCDn8CruopaNVha) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 2:53 | 2022-08-26 | 2022-09-02 |
 | [Blackout](https://open.spotify.com/track/5xKXBeEv4mJKG9vDw1Zkc8) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Blackout](https://open.spotify.com/album/2AGpLCQpyNNmU03ENVvkeg) | 2:17 | 2023-02-09 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "Fino y elegante, como un Verano con Blessd.",
+  "description": "Fino y elegante, como un perreo de marquesina con ICON.",
   "name": "FINO",
   "tracks": [
     {
@@ -763,6 +763,24 @@
     },
     {
       "album": {
+        "name": "Dudas De M\u00ed",
+        "url": "https://open.spotify.com/album/3w5McmmXqlY1KWlgSEc3h0"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158698,
+      "name": "Dudas De M\u00ed",
+      "url": "https://open.spotify.com/track/18bYUYFZ43he76OBEQavKH"
+    },
+    {
+      "album": {
         "name": "D\u00e9jala Que Vuelva (feat. Manuel Turizo)",
         "url": "https://open.spotify.com/album/70WadO9CAH4rOI1rEbTS0a"
       },
@@ -924,7 +942,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 244137,
       "name": "El Remate",
       "url": "https://open.spotify.com/track/5ACjsEe2LIsR3EeXQ8ln7j"
@@ -2566,7 +2584,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 210200,
       "name": "PROVENZA",
       "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
@@ -3216,6 +3234,24 @@
       "duration_ms": 240075,
       "name": "Todo Lo Bueno Tarda",
       "url": "https://open.spotify.com/track/5HNjGi0qYXvZgksCYRVXAH"
+    },
+    {
+      "album": {
+        "name": "Toretto (FAST X / Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4YHGjIgKtP3QKRA11AhfJ1"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150517,
+      "name": "Toretto",
+      "url": "https://open.spotify.com/track/2LhnVbBHUWyrDQ4m1LCPvo"
     },
     {
       "album": {

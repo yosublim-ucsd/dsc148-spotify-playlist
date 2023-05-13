@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "FLOAT",
+        "url": "https://open.spotify.com/album/5BdddlQ5i8s5wxXfmyG72Y"
+      },
+      "artists": [
+        {
+          "name": "mid",
+          "url": "https://open.spotify.com/artist/18fyEcWuvZUxxKa5ofDYuD"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214720,
+      "name": "FLOAT",
+      "url": "https://open.spotify.com/track/1Rwo1hDhVccHaDfXurutVP"
+    },
+    {
+      "album": {
         "name": "Hanako Oku Best ~ My Letters ~",
         "url": "https://open.spotify.com/album/10S0x53VUJYn6Dcw7sY1fq"
       },
@@ -414,7 +432,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 266200,
       "name": "memories",
       "url": "https://open.spotify.com/track/12MSmLSGPWulxOPvYBy5Ss"

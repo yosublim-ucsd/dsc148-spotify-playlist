@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 
 > You know all the tracks, you just can't sing\-along\. Cover: Martin Garrix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,955 likes - 47 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,982 likes - 47 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 | 43 | [Reckless](https://open.spotify.com/track/45GtpfaI7fg7mSZBQTNJss) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Reckless](https://open.spotify.com/album/6RtNDAbbah1pa4IFdlAiNE) | 2:28 |
 | 44 | [The Power Of Now](https://open.spotify.com/track/4cDZTA6lEVEmtOxaLDUCWy) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy) | [Neon Future Odyssey](https://open.spotify.com/album/0gVmaYMzy3sehDULjCAMJZ) | 3:21 |
 | 45 | [Don't Give Up](https://open.spotify.com/track/27q6Z9Mo9GeeSHOHfO48gb) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Don't Give Up](https://open.spotify.com/album/1glRZozlvH9QbasNkSYyfy) | 5:21 |
-| 46 | [G.I.P.S.Y\. \- Radio Edit](https://open.spotify.com/track/4BLHQIfrGZX6VKAmCjJwaZ) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Boostedkids](https://open.spotify.com/artist/2PMTEy2vzCh81UZTpjK7fZ) | [G.I.P.S.Y.](https://open.spotify.com/album/7gMun8L9PaRORbVjsi4Bli) | 3:41 |
+| 46 | [G.I.P.S.Y.](https://open.spotify.com/track/5Xhhp2oYeueCjTI06r6LHC) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [Boostedkids](https://open.spotify.com/artist/2PMTEy2vzCh81UZTpjK7fZ) | [G.I.P.S.Y.](https://open.spotify.com/album/3hIa94ZQqFgQSFg1aA9ShB) | 3:41 |
 | 47 | [Cake Face](https://open.spotify.com/track/2mhBN7yxNNqD8eODc5Cg73) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Neon Future Odyssey](https://open.spotify.com/album/0gVmaYMzy3sehDULjCAMJZ) | 6:11 |
 
-Snapshot ID: `MCxmZmZiNmI5YTg5NDA3NWZkMmQxMWY5OGZkNzRiYWFlYTFkNmQ5MDI4`
+Snapshot ID: `MCw0Y2Y2OTA0NDc4NGM4OTMyNjQwNDkzNTVmOGNkYzhiNGU3NGFmY2Iz`

@@ -1,66 +1,18 @@
 {
   "description": "Song Of The Week at the top. Standouts go to <a href=\"https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy\">Big Hit Energy</a> and <a href=\"https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv\">2022% Solid Pop Music</a>. More: <a href=\"http://popjustice.com\">Popjustice.com</a>.",
-  "num_followers": 10537,
+  "num_followers": 10541,
   "original_name": "New Music Friday: The Popjustice Edit",
   "owner": {
     "name": "Popjustice",
     "url": "https://open.spotify.com/user/popjustice"
   },
-  "snapshot_id": "MjUzNSxiZGY4N2YzMjU2NjcwYzc2NjYxNmNhZjg5ZTc3OTg1MDIxYjQ0NzBj",
+  "snapshot_id": "MjU0MywzMjI2NDYxNGY5MWRjOTg3NjhkNTQ4NDY5OTYyYjY5MWVlYzU2MGI1",
   "tracks": [
     {
-      "added_at": "2023-05-05 08:15:50",
+      "added_at": "2023-05-12 07:03:14",
       "album": {
-        "name": "Backbone",
-        "url": "https://open.spotify.com/album/6Bdt1oU6mqRFhFroAopJOb"
-      },
-      "artists": [
-        {
-          "name": "Blusher",
-          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
-        }
-      ],
-      "duration_ms": 180755,
-      "name": "Backbone",
-      "url": "https://open.spotify.com/track/6mXHM9VN5p5Z9kWgtQsm2e"
-    },
-    {
-      "added_at": "2023-05-05 08:15:50",
-      "album": {
-        "name": "Date Your Dad",
-        "url": "https://open.spotify.com/album/4zuYtVKxNBcifjGC1z7pEZ"
-      },
-      "artists": [
-        {
-          "name": "Bellah Mae",
-          "url": "https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT"
-        }
-      ],
-      "duration_ms": 136937,
-      "name": "Date Your Dad",
-      "url": "https://open.spotify.com/track/0ZkkZYLcjdPv2XnJtfGRzL"
-    },
-    {
-      "added_at": "2023-05-05 08:15:50",
-      "album": {
-        "name": "Renegade",
-        "url": "https://open.spotify.com/album/05yGOGCNiN4vhRfOlX50oG"
-      },
-      "artists": [
-        {
-          "name": "Lava La Rue",
-          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "Renegade",
-      "url": "https://open.spotify.com/track/3SqMnzlS5KPE7wFFF4wBWa"
-    },
-    {
-      "added_at": "2023-05-05 08:15:50",
-      "album": {
-        "name": "Love Invention",
-        "url": "https://open.spotify.com/album/27EBdWkxelrRDYitkJgH4W"
+        "name": "The Love Invention",
+        "url": "https://open.spotify.com/album/042rZgYJ5J3oTscBwQ8PPD"
       },
       "artists": [
         {
@@ -68,145 +20,341 @@
           "url": "https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS"
         }
       ],
-      "duration_ms": 259105,
-      "name": "Love Invention",
-      "url": "https://open.spotify.com/track/7xn5k1DSJrEIXYAE824Xvm"
+      "duration_ms": 276746,
+      "name": "Gatto Gelato",
+      "url": "https://open.spotify.com/track/5csn8YbDfbg9YL5McMu6wc"
     },
     {
-      "added_at": "2023-05-05 08:15:50",
+      "added_at": "2023-05-12 07:03:14",
       "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt"
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/3Ep06DZsUIaEQoj8ZpvKP9"
       },
       "artists": [
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+          "name": "Dilj\u00e1",
+          "url": "https://open.spotify.com/artist/2Zy3uwssLs81VYxqIj1Hcv"
+        }
+      ],
+      "duration_ms": 216727,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/2T6kJHBxT84AGsHjP8Ddwx"
+    },
+    {
+      "added_at": "2023-05-12 07:03:14",
+      "album": {
+        "name": "\u200eSing Hallelujah",
+        "url": "https://open.spotify.com/album/7E5TBz8O1MDb6tMjkArdLk"
+      },
+      "artists": [
+        {
+          "name": "Rebecca & Fiona",
+          "url": "https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75"
         },
         {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+          "name": "Dr. Alban",
+          "url": "https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8"
         }
       ],
-      "duration_ms": 175271,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F"
+      "duration_ms": 277105,
+      "name": "\u200eSing Hallelujah",
+      "url": "https://open.spotify.com/track/1ZrxlkARJG6RDBwWmELVqP"
     },
     {
-      "added_at": "2023-05-05 08:15:50",
+      "added_at": "2023-05-12 07:03:14",
       "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW"
+        "name": "Muscle Memory",
+        "url": "https://open.spotify.com/album/3F9BiYMpa8CzpaEf8gAByj"
       },
       "artists": [
         {
-          "name": "Tia Kofi",
-          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq"
-    },
-    {
-      "added_at": "2023-05-05 08:15:50",
-      "album": {
-        "name": "Flight Risk",
-        "url": "https://open.spotify.com/album/1y6mVjHSk1LgscbN30ghnV"
-      },
-      "artists": [
-        {
-          "name": "CXLOE",
-          "url": "https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R"
-        }
-      ],
-      "duration_ms": 199918,
-      "name": "Flight Risk",
-      "url": "https://open.spotify.com/track/368mOZ4hV8aacFU4XN0vLe"
-    },
-    {
-      "added_at": "2023-05-05 08:15:50",
-      "album": {
-        "name": "Co-Star",
-        "url": "https://open.spotify.com/album/0FLajXxca41VLTunahQo9s"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 166533,
-      "name": "Co-Star",
-      "url": "https://open.spotify.com/track/2rYu4zr0jXGWAHmNdpQYsl"
-    },
-    {
-      "added_at": "2023-05-05 08:15:50",
-      "album": {
-        "name": "Feel The Way I Feel",
-        "url": "https://open.spotify.com/album/6BHuZkG4o6NB3va4gVm162"
-      },
-      "artists": [
-        {
-          "name": "Cupid Girl",
-          "url": "https://open.spotify.com/artist/1SfyDxRQj4ro8cluxkCaLq"
-        }
-      ],
-      "duration_ms": 201124,
-      "name": "Feel The Way I Feel",
-      "url": "https://open.spotify.com/track/6WAg4HqQ8SJsapo3TVByJj"
-    },
-    {
-      "added_at": "2023-05-05 08:15:50",
-      "album": {
-        "name": "don\u2019t call me pretty",
-        "url": "https://open.spotify.com/album/02EVktWJJ2yuJs2Q1eqiSB"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 181076,
-      "name": "don\u2019t call me pretty",
-      "url": "https://open.spotify.com/track/6XV4GwRq92E9N3MmXxuxLy"
-    },
-    {
-      "added_at": "2023-05-05 08:15:50",
-      "album": {
-        "name": "SPLIT DECISION",
-        "url": "https://open.spotify.com/album/6slBagdkNJfpNuazFFQ7YM"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 153453,
-      "name": "Celebrity - Blood Bunny Version",
-      "url": "https://open.spotify.com/track/7rzwyFEyQDq80MK2cFotay"
-    },
-    {
-      "added_at": "2023-05-05 08:15:50",
-      "album": {
-        "name": "Air (YouNotUs Remix)",
-        "url": "https://open.spotify.com/album/53NefgIQ5f4U6Uyj8CwJfO"
-      },
-      "artists": [
-        {
-          "name": "Marcus & Martinus",
-          "url": "https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349"
+          "name": "KAMILLE",
+          "url": "https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo"
         },
         {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
         }
       ],
-      "duration_ms": 166560,
-      "name": "Air - YouNotUs Remix",
-      "url": "https://open.spotify.com/track/4enrb2gujSq90c2lmE6spF"
+      "duration_ms": 211049,
+      "name": "Muscle Memory",
+      "url": "https://open.spotify.com/track/2Yc4A9Ds0Y4TwX2wQc4FVl"
+    },
+    {
+      "added_at": "2023-05-12 07:03:14",
+      "album": {
+        "name": "Inferno (feat. Scorccio)",
+        "url": "https://open.spotify.com/album/0RwubAqdP2AmfEdVE5jfQ8"
+      },
+      "artists": [
+        {
+          "name": "Schak",
+          "url": "https://open.spotify.com/artist/7gA8yMxRoBujfmpDLuLPvx"
+        },
+        {
+          "name": "Scorccio",
+          "url": "https://open.spotify.com/artist/7uTD4BLn80TuHxNeIAspJc"
+        }
+      ],
+      "duration_ms": 159962,
+      "name": "Inferno (feat. Scorccio)",
+      "url": "https://open.spotify.com/track/3a4iD8kXESNUQ69DKT75OS"
+    },
+    {
+      "added_at": "2023-05-12 07:03:14",
+      "album": {
+        "name": "Side Effects",
+        "url": "https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Lewis Thompson",
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
+        }
+      ],
+      "duration_ms": 153742,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp"
+    },
+    {
+      "added_at": "2023-05-12 07:06:44",
+      "album": {
+        "name": "Caravan",
+        "url": "https://open.spotify.com/album/03mXLA9pdmWZImZeZPeoO8"
+      },
+      "artists": [
+        {
+          "name": "Frankie Beetlestone",
+          "url": "https://open.spotify.com/artist/3P9q1XRVPpimotcMCGOFqH"
+        }
+      ],
+      "duration_ms": 183893,
+      "name": "If You Say So",
+      "url": "https://open.spotify.com/track/2ktBc6pboQhykReDruR55f"
+    },
+    {
+      "added_at": "2023-05-12 07:03:14",
+      "album": {
+        "name": "It's Not My Fault",
+        "url": "https://open.spotify.com/album/3V4DkNfNbFA4etZNew0iOU"
+      },
+      "artists": [
+        {
+          "name": "Moli",
+          "url": "https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6"
+        }
+      ],
+      "duration_ms": 262630,
+      "name": "It's Not My Fault",
+      "url": "https://open.spotify.com/track/3efkVJDWUsEXM5JxO8he33"
+    },
+    {
+      "added_at": "2023-05-12 07:03:14",
+      "album": {
+        "name": "Little Miss Dynamite",
+        "url": "https://open.spotify.com/album/7MOLCkGoOF4ehlOVKmAuHO"
+      },
+      "artists": [
+        {
+          "name": "Anish Kumar",
+          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
+        }
+      ],
+      "duration_ms": 194645,
+      "name": "Little Miss Dynamite",
+      "url": "https://open.spotify.com/track/6o2xX07z0g72uGj8rPldW3"
+    },
+    {
+      "added_at": "2023-05-12 07:03:14",
+      "album": {
+        "name": "How You Samba",
+        "url": "https://open.spotify.com/album/7yTCyFCX4y3xymp5q65peJ"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+        }
+      ],
+      "duration_ms": 151680,
+      "name": "How You Samba",
+      "url": "https://open.spotify.com/track/3nyebfHIhsgRvUJd9wv3u1"
+    },
+    {
+      "added_at": "2023-05-12 07:03:14",
+      "album": {
+        "name": "why am i like this??",
+        "url": "https://open.spotify.com/album/7yHgre842ssDu7WWnvQjQM"
+      },
+      "artists": [
+        {
+          "name": "girli",
+          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
+        }
+      ],
+      "duration_ms": 174413,
+      "name": "Inner Child",
+      "url": "https://open.spotify.com/track/0ZRIrT707yPnVxWJFhwnt0"
+    },
+    {
+      "added_at": "2023-05-12 07:03:14",
+      "album": {
+        "name": "name everywhere",
+        "url": "https://open.spotify.com/album/3V9iuYMjGOFl3bp5BLxYNq"
+      },
+      "artists": [
+        {
+          "name": "Amelia Moore",
+          "url": "https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo"
+        }
+      ],
+      "duration_ms": 214625,
+      "name": "name everywhere",
+      "url": "https://open.spotify.com/track/3mOd7FgLgWATxB0khHOSOk"
+    },
+    {
+      "added_at": "2023-05-12 07:03:14",
+      "album": {
+        "name": "Oklar",
+        "url": "https://open.spotify.com/album/5wb17YauCYWFzMTYxYSE15"
+      },
+      "artists": [
+        {
+          "name": "Emilia Pantic",
+          "url": "https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG"
+        }
+      ],
+      "duration_ms": 189955,
+      "name": "Oklar",
+      "url": "https://open.spotify.com/track/77m1fhUJ9yXzlumWFbPui3"
+    },
+    {
+      "added_at": "2023-05-12 07:03:14",
+      "album": {
+        "name": "Don't Play Nice",
+        "url": "https://open.spotify.com/album/4UMmSt9ZkyI4mM1BJGSaxY"
+      },
+      "artists": [
+        {
+          "name": "Paula Jiv\u00e9n",
+          "url": "https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D"
+        }
+      ],
+      "duration_ms": 156862,
+      "name": "Don't Play Nice",
+      "url": "https://open.spotify.com/track/5UgC6zKYeyRDxQyNPn2fNr"
+    },
+    {
+      "added_at": "2023-05-12 07:03:14",
+      "album": {
+        "name": "You're So F*****' Perfect",
+        "url": "https://open.spotify.com/album/6SHtnUY5ZhoUsBUe44Aawu"
+      },
+      "artists": [
+        {
+          "name": "Royce Wood Junior",
+          "url": "https://open.spotify.com/artist/681N6DCEDKu6miVIUE4MrT"
+        },
+        {
+          "name": "Lucey Way",
+          "url": "https://open.spotify.com/artist/2wLX2D4Y82gemGsSO0Ep3m"
+        }
+      ],
+      "duration_ms": 191067,
+      "name": "You're So F*****' Perfect",
+      "url": "https://open.spotify.com/track/65x0jT7eeN92OIW7EdwjEt"
+    },
+    {
+      "added_at": "2023-05-12 07:03:14",
+      "album": {
+        "name": "Lipstick Lover",
+        "url": "https://open.spotify.com/album/6eg7CJ9fJAeLJ5PGB1Vf7T"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 169386,
+      "name": "Lipstick Lover",
+      "url": "https://open.spotify.com/track/6IhkXHtj7tJg5waF4utfX0"
+    },
+    {
+      "added_at": "2023-05-12 07:03:14",
+      "album": {
+        "name": "Take Me Back To You",
+        "url": "https://open.spotify.com/album/2SZH4TqwYl4ywjZOqyqANS"
+      },
+      "artists": [
+        {
+          "name": "Sofiloud",
+          "url": "https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm"
+        }
+      ],
+      "duration_ms": 173750,
+      "name": "Take Me Back To You",
+      "url": "https://open.spotify.com/track/6ajWjkqcSrFc6vosOWVRJ2"
+    },
+    {
+      "added_at": "2023-05-12 07:03:14",
+      "album": {
+        "name": "Prescription",
+        "url": "https://open.spotify.com/album/7HmE6jyAnWoVY870oQGNpo"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 213237,
+      "name": "Prescription",
+      "url": "https://open.spotify.com/track/0ZlTm4xJKaSU98ZLza858W"
+    },
+    {
+      "added_at": "2023-05-12 07:03:14",
+      "album": {
+        "name": "Thunder in my heart (music from the series)",
+        "url": "https://open.spotify.com/album/2VqDK3TlI9CJhV1nYurP7B"
+      },
+      "artists": [
+        {
+          "name": "Highasakite",
+          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
+        }
+      ],
+      "duration_ms": 169241,
+      "name": "Thunder in my heart (music from the series)",
+      "url": "https://open.spotify.com/track/3uv4Ypn1ZTT8Su05A8q0l6"
+    },
+    {
+      "added_at": "2023-05-12 07:03:14",
+      "album": {
+        "name": "Mercurial (Deluxe)",
+        "url": "https://open.spotify.com/album/7ujVKxJz8UhQG8dLlUFoMP"
+      },
+      "artists": [
+        {
+          "name": "Vera Blue",
+          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
+        }
+      ],
+      "duration_ms": 198706,
+      "name": "One Condition",
+      "url": "https://open.spotify.com/track/4DINlwRuT0YxROtUJrudQF"
     }
   ],
   "unique_name": "New Music Friday: The Popjustice Edit",

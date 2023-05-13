@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-184 songs - 11 hr 55 min
+186 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Break Up Song](https://open.spotify.com/track/1uZPDMRddtTcjgfXGwL6Vl) | [Gabriel Conte](https://open.spotify.com/artist/6xutNVv1t39GdpK8eImxPU) | [Break Up Song](https://open.spotify.com/album/2CLuqNWHvcetdH8xWZtpQD) | 2:48 | 2022-02-17 | 2022-08-27 |
 | [Break Your Promises](https://open.spotify.com/track/1gHS6nbgR8g2gkIdS8xRfA) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Break Your Promises](https://open.spotify.com/album/2D2KTjkgUrSuV5feyOwBh8) | 3:16 | 2022-02-17 | 2022-08-27 |
 | [Brighter Days](https://open.spotify.com/track/7yfo4vBrhxBDO9IkJz8zkV) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days / Tin Roof](https://open.spotify.com/album/5yuElBwZWNM9LfC3X8CbdX) | 3:28 | 2022-02-25 |  |
+| [Call On The Name \- Live](https://open.spotify.com/track/2Z7crug9ZVQ8TZ6xg1f3pR) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Call On The Name \(Live\)](https://open.spotify.com/album/1IHiwaA7vh2a4hycVsEIqW) | 6:28 | 2023-05-12 |  |
 | [Canyon](https://open.spotify.com/track/0AmKjCIxl7leZzlVbHeAmO) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Canyon](https://open.spotify.com/album/1BSzjovh9NjjdoxfSVyjbV) | 3:40 | 2022-02-17 | 2022-08-27 |
 | [Canyon](https://open.spotify.com/track/2koPlTDIbGWjcMQFUKx7g2) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Canyon](https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ) | 3:40 | 2022-02-17 |  |
 | [Chosen](https://open.spotify.com/track/143qitJ7Iy92Vzu4XZvr5P) | [Ron Artis II](https://open.spotify.com/artist/3u8dOa0zveymreEFH7Yo5C) | [Chosen](https://open.spotify.com/album/0HAZOFZUpAk0JSeqsPjgUl) | 3:05 | 2022-03-25 |  |
@@ -44,6 +45,7 @@
 | [Count On](https://open.spotify.com/track/5xyJYRFB6Mm9hn7eR2c4dK) | [Dreamers](https://open.spotify.com/artist/4LW8svP1k62JqCoU4Esw51) | [Count On](https://open.spotify.com/album/6R91ORPOY75HqPuoAYHQXE) | 4:17 | 2022-02-17 | 2022-08-27 |
 | [Delightful \(The Sower Never Wastes A Tear\)](https://open.spotify.com/track/1KJUtSUzPH7nx8G0Z1KrUN) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Josh Kpozehouen](https://open.spotify.com/artist/6lqVPpXm5sED9guM2fnx6x) | [Are We There Yet?](https://open.spotify.com/album/7CDuEXFRpmqlJbOdcw3ZIq) | 5:07 | 2022-04-29 |  |
 | [Desesperado \- English](https://open.spotify.com/track/7wfeopS60KsVchzRItCwVj) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Desesperado \(English\)](https://open.spotify.com/album/0OioYnPykdyEy9XZWSRLo4) | 2:52 | 2022-02-17 |  |
+| [Did You Come for Me](https://open.spotify.com/track/1wblZ0UBogwtzrwVp8kyq8) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Boys](https://open.spotify.com/album/5Ye5ScJubuk49CLWLf4j8a) | 4:10 | 2023-05-12 |  |
 | [Do What Only You Can Do \- Live](https://open.spotify.com/track/1o1qv2DZbINBcp06exDGqo) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK) | [Shout! \(Live\)](https://open.spotify.com/album/7jumyFfTD3fQChNSk2DzaL) | 7:10 | 2022-09-23 |  |
 | [Drive](https://open.spotify.com/track/4ScuweLj0tTDZobFXMBEEy) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Drive](https://open.spotify.com/album/31N8Te52jkft4appFKnqzd) | 2:42 | 2022-02-17 | 2022-08-27 |
 | [Empty](https://open.spotify.com/track/4TaEBIHkCz3fnVF8gdehSL) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Empty](https://open.spotify.com/album/5rCzSmzEvlebO9cPkDdc5E) | 4:01 | 2022-04-08 |  |

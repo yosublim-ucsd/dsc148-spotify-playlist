@@ -4,7 +4,7 @@
 
 > Aquela playlist pra ficar no quentin, gostosin.
 
-230 songs - 13 hr 58 min
+232 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Crash for a Couple](https://open.spotify.com/track/4QZftmaKVCq83BdkmnEIna) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Little Men \(Deluxe\)](https://open.spotify.com/album/4j5hckSfZgpxQZ2cMmqVaB) | 4:00 | 2022-02-25 |  |
 | [Damaged](https://open.spotify.com/track/2zKsGLytwZOY5WKEZ1ARAk) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [All For You](https://open.spotify.com/album/6VpIFMps1Uha73gk1c50sJ) | 3:16 | 2023-04-28 |  |
 | [Dead To Me](https://open.spotify.com/track/38k5xUTekY8K6yVqHkbgIo) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [Dead To Me](https://open.spotify.com/album/34Uw23xppTz4RJoZvxwSdY) | 2:13 | 2022-05-13 | 2022-08-27 |
+| [Deeper](https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Deeper](https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR) | 3:34 | 2023-05-12 |  |
 | [Deserve Me \(with Summer Walker\)](https://open.spotify.com/track/0vQffWKfl0JyRqtdoZINEM) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 4:25 | 2023-03-03 |  |
 | [Devil In A Dress \- RHEAMIX](https://open.spotify.com/track/3NUs3ZwYy4GFGNE6wvEG5P) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Devil In A Dress \(RHEAMIX\)](https://open.spotify.com/album/5nYbtOgKv3csvwdXvE8dad) | 1:57 | 2022-12-30 |  |
 | [Didn't Cha Know](https://open.spotify.com/track/3BiyFCHlWPgm3q3zdtljxM) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Ebban Dorsey](https://open.spotify.com/artist/5TOrtWMKxGEvLTJUtooZUu) | [On & On](https://open.spotify.com/album/0ubYsntRb3f8BJcrFQJRbA) | 5:02 | 2023-01-20 | 2023-04-09 |
@@ -68,7 +69,7 @@
 | [Exposure](https://open.spotify.com/track/0tHWsBI54oBishkTwMwd9Y) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Exposure](https://open.spotify.com/album/1K1Dv8UvUhejxrbAMPCFu7) | 3:44 | 2022-02-25 |  |
 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 | 2022-03-18 | 2022-04-02 |
 | [Fallin](https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn’t Tell You \(Deluxe\)](https://open.spotify.com/album/2NByZQX5Du6JbAyQff4QxA) | 2:42 | 2023-01-20 |  |
-| [Fatal Attraction](https://open.spotify.com/track/3y9JbvYZAhVeQsAECrKAgt) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:16 | 2023-04-14 |  |
+| [Fatal Attraction](https://open.spotify.com/track/3y9JbvYZAhVeQsAECrKAgt) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:16 | 2023-04-14 | 2023-05-13 |
 | [Fatal Attraction](https://open.spotify.com/track/4YZw8g4J3FM98EWoKH8Tfo) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Fatal Attraction](https://open.spotify.com/album/7jDNiSy9M2tWnvZRl8WsGT) | 3:16 | 2023-03-17 | 2023-04-27 |
 | [Feel](https://open.spotify.com/track/3a8vuQ21AzGHP82BmrMV0H) | [Kaleem Taylor](https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug) | [She Knows](https://open.spotify.com/album/6CryGQCKTRIK0hJcx1I1us) | 4:08 | 2022-02-25 | 2023-03-25 |
 | [Feelings 4 You](https://open.spotify.com/track/7whRnyXkGLSkwluSMe1JH5) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Feelings 4 You](https://open.spotify.com/album/4zQasO3J7GKXQ8zEdFSbqx) | 4:16 | 2022-05-20 |  |
@@ -123,6 +124,7 @@
 | [Letter To Ur N\(ex\)t](https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Letter To Ur Ex](https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY) | 2:14 | 2022-05-20 |  |
 | [Lifetime \- Remastered 2021](https://open.spotify.com/track/0tXq1ob3ysGZN2oK1abtyp) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Now](https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC) | 5:29 | 2022-02-25 | 2022-06-04 |
 | [Light Me Up](https://open.spotify.com/track/0QQMJ3W0zNoHeak1NWnPDm) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Light Me Up](https://open.spotify.com/album/7dZicvXTzIqBHXYpeeeCn2) | 3:49 | 2022-03-18 | 2022-04-09 |
+| [Like Her Too](https://open.spotify.com/track/1Nxx1LHMLKxC6yGaZjpPO5) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Like Her Too](https://open.spotify.com/album/2fw7ZZewq0CRvqwmoTmjIe) | 2:57 | 2023-05-12 |  |
 | [Like You'll Never See Me Again](https://open.spotify.com/track/0KQ6GRR5qKY3XrdsEHU5hT) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Like You'll Never See Me Again](https://open.spotify.com/album/5jXpTr504jjizPvcn9FnZP) | 3:58 | 2022-05-25 | 2022-07-30 |
 | [little story](https://open.spotify.com/track/4ZfwRdhHblKGWcrMYeZMex) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [little story](https://open.spotify.com/album/38vZ3y2bFWOfq3VywVdKam) | 3:18 | 2022-02-25 | 2022-03-26 |
 | [Look At You](https://open.spotify.com/track/2OzMvSU0CuklnI7tsoMUDO) | [Keeyen Martin](https://open.spotify.com/artist/50rvEyhTLlWQ5gIjEM6ZxT), [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [Monma](https://open.spotify.com/artist/50nVKm0xa3p8KYXXssG2ym) | [Look At You](https://open.spotify.com/album/2dZvOTKtZXs9v8AzdnO9pZ) | 2:45 | 2022-04-15 |  |
@@ -185,7 +187,7 @@
 | [Shea Butter Baby \(with J\. Cole\)](https://open.spotify.com/track/5BOBHIBuzvQuIYL1E1nDzl) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Shea Butter Baby](https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w) | 3:31 | 2022-02-25 | 2022-11-19 |
 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 | 2022-10-14 | 2022-11-12 |
 | [Shirt](https://open.spotify.com/track/2wSTnntOPRi7aQneobFtU4) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 | 2022-12-12 |  |
-| [silhouette](https://open.spotify.com/track/2FZi6QvNlnmFEInKKwKdc4) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH), [Dion Dugas](https://open.spotify.com/artist/71eYaTMbcy8TPXVKJm12Fh) | [silhouette](https://open.spotify.com/album/73rn1ZqAlqgCW9z8hGzHSH) | 2:28 | 2022-02-25 |  |
+| [silhouette](https://open.spotify.com/track/2FZi6QvNlnmFEInKKwKdc4) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH), [Dion Dugas](https://open.spotify.com/artist/71eYaTMbcy8TPXVKJm12Fh) | [silhouette](https://open.spotify.com/album/73rn1ZqAlqgCW9z8hGzHSH) | 2:28 | 2022-02-25 | 2023-05-13 |
 | [Skin Tight \(Alternate\) \[feat\. Steve Lacy\]](https://open.spotify.com/track/4c16iHPk6g5XQavzEfDpld) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Skin Tight \(Alternate\) \[feat\. Steve Lacy\]](https://open.spotify.com/album/4KkdTV3S7boFNngZAWsg1Q) | 3:58 | 2022-10-14 | 2023-04-29 |
 | [Sleep At Night](https://open.spotify.com/track/0omx2LN5ABADusOyzKVYUY) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Breezy](https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM) | 3:39 | 2022-06-24 | 2022-08-13 |
 | [Slow \(feat\. J Valentine\)](https://open.spotify.com/track/78t5Br2LpRmlisvBzxE4mZ) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [J\. Valentine](https://open.spotify.com/artist/0YG3fiiee6tHuimu1klAMg) | [Slow \(feat\. J Valentine\)](https://open.spotify.com/album/2URY7aT8Ig8jxhlXK3bWOl) | 3:20 | 2022-06-10 |  |

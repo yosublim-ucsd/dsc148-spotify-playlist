@@ -1236,7 +1236,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 198504,
       "name": "La Canastita",
       "url": "https://open.spotify.com/track/43AzIdY7QJbDuxMx11Fozi"
@@ -1472,6 +1472,24 @@
       "duration_ms": 284605,
       "name": "La Noche Sin Ti",
       "url": "https://open.spotify.com/track/2u6BZDzWCs4OLcneXXaJjh"
+    },
+    {
+      "album": {
+        "name": "La Paloma",
+        "url": "https://open.spotify.com/album/6DgVAve7m06lb2ubFqp3J3"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224759,
+      "name": "La Paloma",
+      "url": "https://open.spotify.com/track/1xbueGvTrxbpYNtOSFKdTJ"
     },
     {
       "album": {
@@ -2035,6 +2053,24 @@
     },
     {
       "album": {
+        "name": "Si Pudiera",
+        "url": "https://open.spotify.com/album/1wMLkuAbaKSaqZr11xG32C"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera y Pampas de Bariloche",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173322,
+      "name": "Si Pudiera",
+      "url": "https://open.spotify.com/track/2S9oyHCvXTaaIFm2dkpwge"
+    },
+    {
+      "album": {
         "name": "Madre Tierra",
         "url": "https://open.spotify.com/album/46cdt75AjwW40xO5MPfweX"
       },
@@ -2068,7 +2104,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 226629,
       "name": "Tanto Amor",
       "url": "https://open.spotify.com/track/0UYDmAoE8TMg4on6RTlk4S"

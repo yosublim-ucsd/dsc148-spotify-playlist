@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,931 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,996 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 33 | [Manos en el aire \(Remix\)](https://open.spotify.com/track/4ywj45xfKm0Y97mgBehyPN) | [Zelote El Rabakanda](https://open.spotify.com/artist/5KTntGyT7yudVsG4WI5NKI), [Creyente.7](https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs) | [Manos en el aire \(Remix\)](https://open.spotify.com/album/2E1UPeb6D2QByHeEH52Bsl) | 2:57 |
 | 34 | [Amores Como el Tuyo](https://open.spotify.com/track/0fuDKjgO55dHCoO2kQo6xi) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Rojo](https://open.spotify.com/album/3l97qUoz7U9K9161S04xKh) | 3:19 |
 | 35 | [Alante Alante](https://open.spotify.com/track/1BFhZ6d45WF88zYgj6GpC4) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [DTOX](https://open.spotify.com/album/12Zeqvk6kAz8ELKNKztD8e) | 2:48 |
-| 36 | [Tuyo \- Remix](https://open.spotify.com/track/5qSX9n1khCEJY3QQHfob9Z) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Tuyo \(Remix\)](https://open.spotify.com/album/3GVhKm1yGltRwaOflbaRl3) | 4:04 |
-| 37 | [A Ciegas](https://open.spotify.com/track/6yfHerzOkiXdbBmpWMNkTg) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Dosis](https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR) | 3:56 |
+| 36 | [A Ciegas](https://open.spotify.com/track/6yfHerzOkiXdbBmpWMNkTg) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Dosis](https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR) | 3:56 |
+| 37 | [Tuyo \- Remix](https://open.spotify.com/track/5qSX9n1khCEJY3QQHfob9Z) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Tuyo \(Remix\)](https://open.spotify.com/album/3GVhKm1yGltRwaOflbaRl3) | 4:04 |
 | 38 | [No Necesito Doctor.](https://open.spotify.com/track/4dsEUfpG1wyx1KTgBSOyxH) | [Josh Gamez](https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr) | [No Necesito Doctor.](https://open.spotify.com/album/7lpoc4oeAmkRV2NY8uPqNg) | 3:22 |
 | 39 | [Irremplazable](https://open.spotify.com/track/6Gafrb0iWf2L8lYKinhvNy) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Irremplazable](https://open.spotify.com/album/02ZRieI3zzi4LiMhJHP1hA) | 3:55 |
 | 40 | [Somos Uno](https://open.spotify.com/track/1uABVd0XV7yZLb3kAHEtUI) | [Ana Bolivar](https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV), [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu), [Pescao Vivo](https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI) | [Somos Uno](https://open.spotify.com/album/7uBOVDAdKIUIw8KpsNAhvJ) | 2:15 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 67 | [NO ME MOVERÉ](https://open.spotify.com/track/5qQ3AMagzXYC32oyrTNr1f) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [Isaac Rojas](https://open.spotify.com/artist/5aGkfIoXHpvpAL983bMFr5) | [NO ME MOVERÉ](https://open.spotify.com/album/1Hghk6MYkggfQKh5aEJKqT) | 3:06 |
 | 68 | [Mi Cielo](https://open.spotify.com/track/53tX3nRjwvi8TvyEMW755d) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR) | [Mi Cielo](https://open.spotify.com/album/5D4GmyyaF6KhL0rjJWzuM6) | 3:18 |
 | 69 | [Por un Momento](https://open.spotify.com/track/67qiKkYxt1IAZnWpofkNpJ) | [The cXurch](https://open.spotify.com/artist/3IFfOqFyWSpSqJ4mtL7NJL), [Villanova](https://open.spotify.com/artist/4PwWDuBaJEmRwCBiMeXUsu) | [Por un Momento](https://open.spotify.com/album/0TWGfGBpb1Wf4yPho7QfJs) | 3:31 |
-| 70 | [Ma' Na](https://open.spotify.com/track/5xzJaxXzxWRNwsyawQpNeE) | [Arias](https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15) | [El Hijo del Borracho](https://open.spotify.com/album/1kTx3gBCYhoOKFPXuyi0S8) | 3:20 |
-| 71 | [Lo Tengo](https://open.spotify.com/track/0lS4oqs52eWZ7RfdWXXVrb) | [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Oveja Cosmica](https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6) | [Lo Tengo](https://open.spotify.com/album/350OlqIrGNKrMs9cvsB6XD) | 3:32 |
+| 70 | [Lo Tengo](https://open.spotify.com/track/0lS4oqs52eWZ7RfdWXXVrb) | [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Oveja Cosmica](https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6) | [Lo Tengo](https://open.spotify.com/album/350OlqIrGNKrMs9cvsB6XD) | 3:32 |
+| 71 | [Ma' Na](https://open.spotify.com/track/5xzJaxXzxWRNwsyawQpNeE) | [Arias](https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15) | [El Hijo del Borracho](https://open.spotify.com/album/1kTx3gBCYhoOKFPXuyi0S8) | 3:20 |
 | 72 | [Yo Te Mire](https://open.spotify.com/track/4cWLRE1mdN12esAunRt7bo) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Yo Te Miré](https://open.spotify.com/album/1JgcgcFc7JovAPTxZCKuFu) | 4:06 |
 | 73 | [Alguien Como Tú](https://open.spotify.com/track/1dirdNUEjZtt5Ruc06p41L) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0), [Ada Betsabe](https://open.spotify.com/artist/7uNB59gDx8XVl1rTJDL1KT) | [Cielo](https://open.spotify.com/album/0ZqAUP4OtAbiz8chIj9aet) | 3:08 |
 | 74 | [Llegaste Tú](https://open.spotify.com/track/5luYTHjsdvio9nY3zwgUWp) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Townix](https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2) | [Llegaste Tú](https://open.spotify.com/album/6GBHEIWKGd5YNz3z3wkDKi) | 4:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 99 | [Picheo](https://open.spotify.com/track/1I3KDCANZfQq4556nAk3DL) | [Mireyli Rosa](https://open.spotify.com/artist/2A1shNbwnD3IXNeo6CK6JC), [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp) | [Picheo](https://open.spotify.com/album/6r7McsBCLRRH3Yz9IAEqul) | 4:00 |
 | 100 | [Firme Y Enfocado](https://open.spotify.com/track/3pFyebmyBd2tQzQKx3HsGr) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Práctiko](https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA) | [Firme Y Enfocado](https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx) | 3:51 |
 
-Snapshot ID: `MCxlMTg2ZTRhZTZmYTRkYmQxZTM5Yjg4YmJmODk3MTdkNTE1MGZjMzlh`
+Snapshot ID: `MCw3MjIwZTJiMmNiZGE2NTA0OTEwMzNkZGRiNTQyZDk1MmFhM2M3NTFm`

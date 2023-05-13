@@ -1430,10 +1430,32 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 264071,
       "name": "KHABTA",
       "url": "https://open.spotify.com/track/4haYrG9E9kcu1inPdfsktK"
+    },
+    {
+      "album": {
+        "name": "KHABTA",
+        "url": "https://open.spotify.com/album/5WvYOZJbUHnsDF8FNPajiU"
+      },
+      "artists": [
+        {
+          "name": "La mass le vrai",
+          "url": "https://open.spotify.com/artist/1HPm1tMewqJhqjGkM7f5vk"
+        },
+        {
+          "name": "Phobia Isaac",
+          "url": "https://open.spotify.com/artist/2q4mJNyOd6lXVRR3DCdci3"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264071,
+      "name": "KHABTA",
+      "url": "https://open.spotify.com/track/6p0nEcRHhxqTpEekVYhiPF"
     },
     {
       "album": {

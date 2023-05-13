@@ -3821,6 +3821,24 @@
     },
     {
       "album": {
+        "name": "On A Roll",
+        "url": "https://open.spotify.com/album/1a6lHO1OX3bTb4T0H9eLJb"
+      },
+      "artists": [
+        {
+          "name": "Bruce Cockburn",
+          "url": "https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211440,
+      "name": "On a Roll",
+      "url": "https://open.spotify.com/track/0BDsgepsUjyAmk5CLeHjwG"
+    },
+    {
+      "album": {
         "name": "Only an Island",
         "url": "https://open.spotify.com/album/3tw9sLSnx1LdZFpgfgXGs6"
       },
@@ -5496,7 +5514,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 240973,
       "name": "What Is a Broken Heart For",
       "url": "https://open.spotify.com/track/0aCm3Et01TEjfKeG2bABUK"

@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 104664,
+  "num_followers": 104767,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGQ4NDdkOWJkMTJjZjRkMThjOGJkODY2ODA5ZGMxMTExOTU3YTRm",
+  "snapshot_id": "MCxiZjg3ODA3ZDZkODkxNzhlYzUwNzcyMzhlOTJjYWNiZjcwMzI3OWU4",
   "tracks": [
     {
       "added_at": "2022-09-15 22:32:37",
@@ -351,26 +351,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Marechi\u00e0",
-        "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        },
-        {
-          "name": "C\u00e9lia Kameni",
-          "url": "https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt"
-        }
-      ],
-      "duration_ms": 264929,
-      "name": "Marechi\u00e0",
-      "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Nova / Moth",
         "url": "https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 342000,
       "name": "Nova",
       "url": "https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Marechi\u00e0",
+        "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        },
+        {
+          "name": "C\u00e9lia Kameni",
+          "url": "https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt"
+        }
+      ],
+      "duration_ms": 264929,
+      "name": "Marechi\u00e0",
+      "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Model Man",
-        "url": "https://open.spotify.com/album/5K6zprAN97GLwBpDxiRgK4"
-      },
-      "artists": [
-        {
-          "name": "Model Man",
-          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
-        }
-      ],
-      "duration_ms": 245653,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/6ynQ0rykKOYSB75YxI0FrT"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "The Distance",
         "url": "https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 291840,
       "name": "The Distance",
       "url": "https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Model Man",
+        "url": "https://open.spotify.com/album/5K6zprAN97GLwBpDxiRgK4"
+      },
+      "artists": [
+        {
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
+        }
+      ],
+      "duration_ms": 245653,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/6ynQ0rykKOYSB75YxI0FrT"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Sister",
-        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 268829,
-      "name": "Sister",
-      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "still slipping vol. 1",
         "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 301933,
       "name": "better",
       "url": "https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Sister",
+        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 268829,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
+        "url": "https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm"
+      },
+      "artists": [
+        {
+          "name": "Steve Monite",
+          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
+        }
+      ],
+      "duration_ms": 381040,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "Heartbreak / 6000 Ft.",
         "url": "https://open.spotify.com/album/1IjSVLxs6dO3BmZ1adf6lt"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 274973,
       "name": "Imagineering",
       "url": "https://open.spotify.com/track/3s768KxqbbRHoOcIt4FDSN"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
-        "url": "https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm"
-      },
-      "artists": [
-        {
-          "name": "Steve Monite",
-          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
-        }
-      ],
-      "duration_ms": 381040,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -971,26 +971,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Shadows",
-        "url": "https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 285093,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Little Dragon",
         "url": "https://open.spotify.com/album/34AtsFexhxnKPVJFtLIN1I"
       },
@@ -1023,6 +1003,26 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 285093,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/7kZLtbf2oWSZJIWchzWGks"
       },
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Diego E.P.",
-        "url": "https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI"
+        "name": "Um Viol\u00e3o em Primeiro Plano",
+        "url": "https://open.spotify.com/album/2gRu1FqkaEtzVrJprvpwSM"
       },
       "artists": [
         {
-          "name": "Gotts Street Park",
-          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+          "name": "Rosinha De Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/3PaJldxyhusOBLFXRkI36B"
         }
       ],
-      "duration_ms": 221946,
-      "name": "Ozu",
-      "url": "https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ"
+      "duration_ms": 252413,
+      "name": "Asa Branca",
+      "url": "https://open.spotify.com/track/6p5QJBr5iE2xvHatGebTbR"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Um Viol\u00e3o em Primeiro Plano",
-        "url": "https://open.spotify.com/album/2gRu1FqkaEtzVrJprvpwSM"
+        "name": "Diego E.P.",
+        "url": "https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI"
       },
       "artists": [
         {
-          "name": "Rosinha De Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/3PaJldxyhusOBLFXRkI36B"
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
         }
       ],
-      "duration_ms": 252413,
-      "name": "Asa Branca",
-      "url": "https://open.spotify.com/track/6p5QJBr5iE2xvHatGebTbR"
+      "duration_ms": 221946,
+      "name": "Ozu",
+      "url": "https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ"
     },
     {
       "added_at": "2022-09-15 22:32:37",

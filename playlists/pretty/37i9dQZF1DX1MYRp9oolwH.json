@@ -1,28 +1,32 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Kushi",
-  "num_followers": 81706,
+  "num_followers": 81952,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTNmNmJhNjUyYWRmYmQxYzVlNmZkYWE0YTkyMTUzNDlhY2E3MTJk",
+  "snapshot_id": "MCw5NTBmYjdlYzZmYTUwMmNjMzVmZWZjMTBjODE3MWZhMjBhMzVkYjA1",
   "tracks": [
     {
       "added_at": "2023-05-09 06:55:53",
       "album": {
-        "name": "Na Roja Nuvve (From \"Kushi\") (Telugu)",
-        "url": "https://open.spotify.com/album/2rYw1yEuTj2qOHj3J8YTJN"
+        "name": "Na Roja Nuvve (From \"Kushi\") - Single",
+        "url": "https://open.spotify.com/album/7a4m6yhn2bdPSxTn0SXJLS"
       },
       "artists": [
         {
           "name": "Hesham Abdul Wahab",
           "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "Shiva Nirvana",
+          "url": "https://open.spotify.com/artist/1gajAFPKcgGySskFCZ7qQD"
         }
       ],
       "duration_ms": 242526,
-      "name": "Na Roja Nuvve",
-      "url": "https://open.spotify.com/track/2mFkD2KjL1dUhkpNKteaKP"
+      "name": "Na Roja Nuvve (From \"Kushi\")",
+      "url": "https://open.spotify.com/track/7s2yiftmEe1c5Q1wqIPsqr"
     },
     {
       "added_at": "2023-04-17 12:14:47",
@@ -992,7 +996,7 @@
       "added_at": "2022-11-14 11:22:31",
       "album": {
         "name": "What's Happening (From \"Dhamaka\")",
-        "url": "https://open.spotify.com/album/1EDWLK9X6N7vWia8DJxRK9"
+        "url": "https://open.spotify.com/album/0SiMCIFZp69yGCjV8yMa82"
       },
       "artists": [
         {
@@ -1009,8 +1013,8 @@
         }
       ],
       "duration_ms": 280408,
-      "name": "What's Happening (From \"Dhamaka\")",
-      "url": "https://open.spotify.com/track/4mKZayqLgsawAfmWnJhDSC"
+      "name": "What's Happening",
+      "url": "https://open.spotify.com/track/5bhSn0QvXGvyUOUnhuTYDn"
     },
     {
       "added_at": "2022-11-23 06:44:22",

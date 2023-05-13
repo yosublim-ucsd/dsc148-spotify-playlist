@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 
 > From the very deep spirit of the almighty North\. Cover: The HU
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,490 likes - 80 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,626 likes - 80 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 79 | [Isä Meidän](https://open.spotify.com/track/7rdSeeSS4JcYjUQtLSuRhZ) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Isä Meidän](https://open.spotify.com/album/63Hue96M6GYO6jc0QG4eWC) | 4:04 |
 | 80 | [Warriors](https://open.spotify.com/track/2BrAj7IrlTXWnR2QHQ8XXS) | [I Am Your God](https://open.spotify.com/artist/5jmZYC9vzvvJnN0QHExUsn) | [Another Day To Die](https://open.spotify.com/album/0AKUhawU3vEgT9AuHaueis) | 3:55 |
 
-Snapshot ID: `MCw3YjRkMDNmNTM5ZjBmM2VkOWM3YWY2ODcyM2I2MzZhMzVmNWE5NjBj`
+Snapshot ID: `MCw0MjA1YTljNTY4NTYyYmU4YTI2N2VhYjFiYmRiNDNlMWMxZmNhNThi`

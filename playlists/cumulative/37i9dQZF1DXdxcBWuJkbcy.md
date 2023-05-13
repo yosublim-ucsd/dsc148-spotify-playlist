@@ -4,7 +4,7 @@
 
 > Uplifting and energetic music that helps you stay motivated.
 
-625 songs - 1 day 7 hr 12 min
+626 songs - 1 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,6 +450,7 @@
 | [Rise \(ft\. Matluck\) \- Thomas Gold Remix](https://open.spotify.com/track/24fghf9YPlSHoWKNHign8p) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH), [Matluck](https://open.spotify.com/artist/5CieAewiroqzWWxdsWuoNu), [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe) | [Rise \(ft\. Matluck\) \[Thomas Gold Remix\]](https://open.spotify.com/album/40ukpHdNiFnK7hdL4XtyfH) | 3:45 | 2021-03-07 | 2021-12-21 |
 | [Rise Up \(feat\. Vamero\)](https://open.spotify.com/track/46lyJh9GYmWsHez3EsvmAx) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [VAMERO](https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr) | [Rise Up \(feat\. Vamero\)](https://open.spotify.com/album/4DsxykS9CPTnJPeoWXkRV8) | 3:02 | 2021-02-16 | 2021-11-12 |
 | [Roads](https://open.spotify.com/track/7CBH8BzH23SksBR5NSb7tT) | [Vargas & Lagola](https://open.spotify.com/artist/2fVW2ix4ANKiofDZIsy1XR) | [Roads](https://open.spotify.com/album/1TBr6GN5yvsNqPNlhgXvsf) | 3:54 | 2021-03-06 | 2021-03-22 |
+| [Rodeo \(feat\. Flo Milli\) \- A7S Remix](https://open.spotify.com/track/2mcTeFUWMOdG9AFsHt7jbJ) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Rodeo \(feat\. Flo Milli\) \[A7S Remix\]](https://open.spotify.com/album/0z2jhJxFjWF52qtWS1ZJmW) | 3:15 | 2023-05-11 |  |
 | [Romani \(feat\. Steve Angello\)](https://open.spotify.com/track/0nAhFLAlXWUvCzfJH43O2c) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [Romani \(feat\. Steve Angello\)](https://open.spotify.com/album/2y8nvzT2kzlWHPsjekBs6l) | 3:19 | 2021-03-06 | 2021-03-22 |
 | [Roots](https://open.spotify.com/track/23FHa9lYnG6Dr8OzombPkS) | [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Roots](https://open.spotify.com/album/4p0nrJ3SXAtZVaCnY0C0kM) | 3:04 | 2020-08-14\* | 2022-04-20 |
 | [Runaway \(with Sigala and JP Cooper\)](https://open.spotify.com/track/6tS1Fm9z3UKuLSxrinY3pC) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Runaway \(with Sigala and JP Cooper\)](https://open.spotify.com/album/3ZdVOcrDeEyQt9UNPubYgo) | 2:48 | 2021-11-13 | 2022-12-01 |

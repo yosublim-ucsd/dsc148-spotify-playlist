@@ -2,9 +2,9 @@
 
 ### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
 
-> A new shade of Country\. Cover: Logan Halstead
+> A new shade of Country\. Cover: Sam Barber
 
-442 songs - 1 day 3 hr 17 min
+444 songs - 1 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Ain't How It Used to Be](https://open.spotify.com/track/3hAbrlI4sOugXvyMa8BPmR) | [Will Hoge](https://open.spotify.com/artist/6a8DSomMqspxk3s3WlBjNT) | [Wings on My Shoes](https://open.spotify.com/album/3x6qsIvqAjncf61GgRegUv) | 3:35 | 2022-08-26 | 2023-05-06 |
 | [Ain't No Harmin' Me](https://open.spotify.com/track/1LnTC50m1LHC36jtKo0UJk) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Ain't No Harmin' Me](https://open.spotify.com/album/0tk6hm3xKUefjBLDt4xkS9) | 3:50 | 2023-03-10 |  |
 | [Ain't Proud](https://open.spotify.com/track/6ykRYSG0m2iuoArpjDpJrT) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Ain't Proud](https://open.spotify.com/album/2BMZC0Al0UlwdvvtwYSptW) | 3:26 | 2023-05-05 |  |
+| [Alcohallelujah](https://open.spotify.com/track/0K6dmuthM56bETaZY10pbk) | [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [Alcohallelujah](https://open.spotify.com/album/0BfroDedjttVda68iUY5ia) | 3:33 | 2023-05-12 |  |
 | [All I Needed](https://open.spotify.com/track/15TlVyJLpMysa7g9FSS0No) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [All I Needed](https://open.spotify.com/album/0tfD1g8c7W0tun48L9ZK7U) | 2:59 | 2022-04-15 | 2022-06-11 |
 | [All I Needed](https://open.spotify.com/track/2VUNlM2B9OqF1A4R7mqCrB) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [Chicamacomico](https://open.spotify.com/album/4oOoEXroTRo6DePYVOrl5B) | 2:59 | 2022-06-10 | 2023-04-15 |
 | [All I See Is You](https://open.spotify.com/track/46fHLVEQBcyC8VjnmdDF3q) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Geronimo](https://open.spotify.com/album/7B2oMtnyw4d5aZOSq2eUhz) | 4:17 | 2021-12-17 | 2022-08-13 |
@@ -261,6 +262,7 @@
 | [Mahogany](https://open.spotify.com/track/0yh0dKIdp1uTZMVau5J0oH) | [Chris Acker](https://open.spotify.com/artist/6zOZGDOyElPbPuiI8kahym) | [Odd, Ordinary & Otherwise](https://open.spotify.com/album/0vpnY9l4BZxZqj3SbLEifx) | 3:21 | 2022-02-18 | 2022-03-12 |
 | [Marfa Lights](https://open.spotify.com/track/62TNzM2AkC9NiTu9nEcmMI) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Marfa Lights](https://open.spotify.com/album/24NOQ09OAx540cYX976EEo) | 3:42 | 2021-12-17 | 2022-10-15 |
 | [Married Alone \(feat\. Vince Gill\)](https://open.spotify.com/track/0zvwzNNpHS4Z4cLk1KNOzD) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Married Alone \(feat\. Vince Gill\)](https://open.spotify.com/album/1wOHneMzn80srFomjCpTR9) | 4:14 | 2022-08-19 | 2023-03-04 |
+| [Mean Old Sun](https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Mean Old Sun](https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk) | 4:08 | 2023-05-12 |  |
 | [Mercy Me \(Memphis Sessions\)](https://open.spotify.com/track/5411Wbb2RgcMhtyeADXWEF) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [Memphis Sessions](https://open.spotify.com/album/16IJckPLGFCIfKsM4ZfscE) | 3:36 | 2023-02-03 |  |
 | [Middle of a Heart](https://open.spotify.com/track/2w7MGuFvgpc7UXSf0ZLLC0) | [Adeem the Artist](https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj) | [White Trash Revelry](https://open.spotify.com/album/2GlHvIfPIhJCgpqimu1mTP) | 4:00 | 2022-12-16 |  |
 | [Misery And Gin](https://open.spotify.com/track/0adJ2biCBdsGx8UvQHOo0E) | [Layla Tucker](https://open.spotify.com/artist/6mwCvYDNETNaNFDaujxY2Z) | [Misery And Gin](https://open.spotify.com/album/55LBQ89hsBDsC1RTFQCaZZ) | 3:11 | 2022-03-11 | 2022-04-23 |

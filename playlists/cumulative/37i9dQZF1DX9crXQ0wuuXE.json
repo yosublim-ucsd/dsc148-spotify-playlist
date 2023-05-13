@@ -2084,7 +2084,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 226186,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz"
@@ -4824,6 +4824,24 @@
       "duration_ms": 166480,
       "name": "Violent Shiver",
       "url": "https://open.spotify.com/track/1kJP08Hra8FQBz5dG80k3m"
+    },
+    {
+      "album": {
+        "name": "Palomino",
+        "url": "https://open.spotify.com/album/4a1gvrakHL6eEm4P86AUiR"
+      },
+      "artists": [
+        {
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Wait so Long",
+      "url": "https://open.spotify.com/track/1I7JVzjG70FM9NrgSY5von"
     },
     {
       "album": {

@@ -2750,7 +2750,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 167066,
       "name": "Lonely One",
       "url": "https://open.spotify.com/track/7dW6aiHZG0A8xApW0Xg40G"
@@ -4842,6 +4842,28 @@
       "duration_ms": 218640,
       "name": "the dealer",
       "url": "https://open.spotify.com/track/0wVIuUDDqemXEU30I9XIWn"
+    },
+    {
+      "album": {
+        "name": "The Lava Is Calm",
+        "url": "https://open.spotify.com/album/5aHkYVIe5sD87SjN4lmFvg"
+      },
+      "artists": [
+        {
+          "name": "Kassa Overall",
+          "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186678,
+      "name": "The Lava Is Calm",
+      "url": "https://open.spotify.com/track/3g1uQN86mg2yLHnJCuN2fR"
     },
     {
       "album": {

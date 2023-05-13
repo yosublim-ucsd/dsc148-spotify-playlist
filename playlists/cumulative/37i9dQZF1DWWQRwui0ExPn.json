@@ -12162,8 +12162,8 @@
           "url": "https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz"
         },
         {
-          "name": "Viva Alpaqua Lo-Fi",
-          "url": "https://open.spotify.com/artist/6FgnsFdyWlEOl9stuwuY7Z"
+          "name": "Viva Alpagua Lo-Fi",
+          "url": "https://open.spotify.com/artist/09299wIN3W2Zx2NnPKgUGd"
         }
       ],
       "date_added": "2023-04-05",
@@ -26995,6 +26995,24 @@
     },
     {
       "album": {
+        "name": "Drifting Smoke",
+        "url": "https://open.spotify.com/album/6AzZmCJhhE7bmRamjbaIDQ"
+      },
+      "artists": [
+        {
+          "name": "Kalaido",
+          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185064,
+      "name": "Drifting Smoke",
+      "url": "https://open.spotify.com/track/1FfpfoaHTO2FxpMSBjLWYi"
+    },
+    {
+      "album": {
         "name": "Drifting Soul",
         "url": "https://open.spotify.com/album/4C9i0MsDgX9U5PEdn2yUJh"
       },
@@ -37838,7 +37856,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 141066,
       "name": "Godspeed",
       "url": "https://open.spotify.com/track/0jhiKLUTNXihMsjkPsQTgb"
@@ -54405,6 +54423,24 @@
     },
     {
       "album": {
+        "name": "Lofi Insignificant Other",
+        "url": "https://open.spotify.com/album/3Gzp0nbhsYStm3wSTGmbS6"
+      },
+      "artists": [
+        {
+          "name": "Single Friend",
+          "url": "https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114285,
+      "name": "Lofi Insignificant Other",
+      "url": "https://open.spotify.com/track/2AXhArqLYYg9WLtMq6RdYb"
+    },
+    {
+      "album": {
         "name": "Lofi Lullaby",
         "url": "https://open.spotify.com/album/4K4PnbU5Hhv6NKG1F8pOBq"
       },
@@ -58926,7 +58962,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 172500,
       "name": "Melatonin",
       "url": "https://open.spotify.com/track/3WHhnxzNHbTHiKyIM91M5G"
@@ -74342,7 +74378,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 144000,
       "name": "Pommard",
       "url": "https://open.spotify.com/track/4jIn1KdXR6vz6oLugEtYIq"
@@ -106268,6 +106304,24 @@
       "duration_ms": 132465,
       "name": "wild blue yonder",
       "url": "https://open.spotify.com/track/50rMrfQJS1ENUWTo5lJLS3"
+    },
+    {
+      "album": {
+        "name": "Wild Dreams",
+        "url": "https://open.spotify.com/album/0uI90jEDIjXgC806kqLuys"
+      },
+      "artists": [
+        {
+          "name": "Guzimi",
+          "url": "https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118500,
+      "name": "Wild Dreams",
+      "url": "https://open.spotify.com/track/4lke2maACdsWr6iYXJAfQd"
     },
     {
       "album": {

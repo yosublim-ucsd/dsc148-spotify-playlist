@@ -895,6 +895,24 @@
     },
     {
       "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/7kPbGx2SpdAATE9m3WX3Bo"
+      },
+      "artists": [
+        {
+          "name": "Will Paquin",
+          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164339,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/1V5y0xMb0syKomJH0jSLdf"
+    },
+    {
+      "album": {
         "name": "Good Grief (Extended Edition)",
         "url": "https://open.spotify.com/album/146n8mcnFHkEnLML0wgIvZ"
       },
@@ -1658,7 +1676,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 184346,
       "name": "Humbug Mountain Song",
       "url": "https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p"

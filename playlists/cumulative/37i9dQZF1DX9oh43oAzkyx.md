@@ -4,7 +4,7 @@
 
 > Energy tracks to get your beast mode on.
 
-262 songs - 12 hr 52 min
+263 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Ambition For Cash](https://open.spotify.com/track/1tkipCYkIgti8f1tqjfcWe) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Ambition For Cash](https://open.spotify.com/album/3lMWNCoEQzdbb9lSZa5gv9) | 2:23 | 2021-10-01 |  |
 | [Andale](https://open.spotify.com/track/4EgZqNfwsDJ1HvvSMEXypp) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [I'M REALLY LIKE THAT](https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV) | 2:48 | 2023-04-09 |  |
 | [AP \- Music from the film Boogie](https://open.spotify.com/track/17vGPZ5EsdvtgAOCD4FLWI) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [AP \(Music from the film Boogie\)](https://open.spotify.com/album/2xAPKH0b7vGsyD5xzkPpnI) | 2:51 | 2021-02-26 | 2022-12-10 |
+| [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 | 2023-05-12 |  |
 | [Back End](https://open.spotify.com/track/1QrL8zd8MIrCiOPuj02dxC) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Back End](https://open.spotify.com/album/40dnVvzZfYX0330N1VqN89) | 2:45 | 2022-10-21 | 2023-01-14 |
 | [Back in Blood \(feat\. Lil Durk\)](https://open.spotify.com/track/7FGdjbZ32vMybPuP0IuE7d) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Shiesty Season](https://open.spotify.com/album/2UwJ4Nt10VStLczYefhcEV) | 3:04 | 2021-02-10 |  |
 | [BackOutsideBoyz](https://open.spotify.com/track/0wshkEEcJUQU33RSRBb5dv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:32 | 2022-11-04 |  |
@@ -229,7 +230,7 @@
 | [Taste \(feat\. Offset\)](https://open.spotify.com/track/2toVe5hfuIi97ytDPDbQFt) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Legendary](https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV) | 3:49 | 2021-01-04 |  |
 | [thailand](https://open.spotify.com/track/0qHPxjC83zQYcxe39xSShx) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 3:20 | 2021-12-17 | 2022-07-29 |
 | [The Box](https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:16 | 2021-01-04 | 2022-01-23 |
-| [THE FORMULA](https://open.spotify.com/track/1sCIBNFV7SL3Y2gL2G8iKl) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [THE FORMULA](https://open.spotify.com/album/5m14quIRl4HI5KK6rI7thv) | 3:47 | 2023-05-05 |  |
+| [THE FORMULA](https://open.spotify.com/track/1sCIBNFV7SL3Y2gL2G8iKl) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [THE FORMULA](https://open.spotify.com/album/5m14quIRl4HI5KK6rI7thv) | 3:47 | 2023-05-05 | 2023-05-13 |
 | [THE FORMULA](https://open.spotify.com/track/4Y4Mwx5w7huiZhpgcaZ5wT) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [THE FORMULA](https://open.spotify.com/album/24pHyKS76eb4SCY16nKQ9k) | 3:47 | 2023-05-05 | 2023-05-08 |
 | [THE REV3NGE](https://open.spotify.com/track/2qvc0vB4AAW39DR9j6vXa1) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [THE REV3NGE](https://open.spotify.com/album/3TJyoj7nUv18q20XnTxtz1) | 2:27 | 2022-01-14 | 2023-04-01 |
 | [THE SCOTTS](https://open.spotify.com/track/39Yp9wwQiSRIDOvrVg7mbk) | [THE SCOTTS](https://open.spotify.com/artist/2PaZWGu5T5nHjY2xxAkFsT), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [THE SCOTTS](https://open.spotify.com/album/7q6zjWaLw8bN5nYiBWjrus) | 2:45 | 2021-01-04 | 2022-12-03 |

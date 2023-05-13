@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: tomodati
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,027 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,030 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 31 | [Makuhari](https://open.spotify.com/track/6AaePXUruO3297PugyiDwT) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Makuhari](https://open.spotify.com/album/5IZ0GS67LGTVTEJTSFvb9o) | 4:10 |
 | 32 | [Blue Perfume](https://open.spotify.com/track/4HkvuFryiLoiMnfeFzlnHd) | [Swimming Sheep](https://open.spotify.com/artist/4lXsVyFTJxtA8LxnKzmDxz) | [Blue Perfume](https://open.spotify.com/album/58sAijyb7wYOwdGthhbWPr) | 1:57 |
 | 33 | [Wagamama Rendezvous](https://open.spotify.com/track/2omvfHfsMOF01W4hOtcjzb) | [Setagaya Drunk Industry](https://open.spotify.com/artist/1UIYGj1d1Bi13tAi4grD7L), [Show Chick Boy](https://open.spotify.com/artist/0JEcGdbz3QOur7R1meQYuS), [ChibiChael](https://open.spotify.com/artist/5Ysy8Nh5YateOJZSOITqLx), [Akusa](https://open.spotify.com/artist/18K2ylw7v44fe9kU0cxQu8), [LEAP](https://open.spotify.com/artist/4M9ZeqGRkEbvzhejyiDJjp) | [Wagamama Rendezvous](https://open.spotify.com/album/1Q8hql7Inm0h7DTyvfw194) | 4:04 |
-| 34 | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/track/5b03vF7Qyc70kDJHiQZ8L7) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [髙橋芽以](https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf) | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/album/7ridH3ntXiiWfC2jA6uqb3) | 4:43 |
+| 34 | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/track/1fHXLiqPG6su57eAlbnjVO) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [髙橋芽以](https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf) | [FINE LINE](https://open.spotify.com/album/37XJRNnSBngM8e8Ejp3oQ7) | 4:43 |
 | 35 | [パノラマ東京](https://open.spotify.com/track/1il64mli0CWwSO2dzMyCyj) | [Pii](https://open.spotify.com/artist/2PSgWXYHWYU45JStIE38LH) | [パノラマ東京](https://open.spotify.com/album/0nurJSUzdcyQCFdTy9ghM3) | 3:50 |
 | 36 | [How To Fly](https://open.spotify.com/track/0JvyNFwdCp7aDVLrm5DMUF) | [NOMAD POP](https://open.spotify.com/artist/2sggfxkeQ5OFGNPZpadSFZ) | [How To Fly](https://open.spotify.com/album/3R0YItYmbYdoAloY2FSt3F) | 3:44 |
 | 37 | [五五](https://open.spotify.com/track/2lwrz8MutAWj3rlKtaTx7W) | [fishbowl](https://open.spotify.com/artist/1nyeiKFHnbe9QsI8bOjGK5) | [五五](https://open.spotify.com/album/5dlcciSo8H52GqXBqdXfdL) | 3:46 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Do What You Do Ably](https://open.spotify.com/track/4MJjFBcxDn2pbrhPeeFazZ) | [SOMETIME'S](https://open.spotify.com/artist/4E3XFAjeq08H7QdEaOtWoc) | [Do What You Do Ably](https://open.spotify.com/album/61ec3jHFueT9kiHbxe6fWA) | 4:14 |
 | 80 | [Wendy](https://open.spotify.com/track/7iju8j90ZM74JPVFuLqFNx) | [SHU\-MI](https://open.spotify.com/artist/63zzxBWQ7ENvYuqyuQ1HNE) | [Wendy](https://open.spotify.com/album/0Am7CHYVofBsImo7zn3jLp) | 2:23 |
 
-Snapshot ID: `MCxkMTQ3ODEyYzA0NTUwNDA0MGU1OWJlZjE0MDQyZTEyNTFkZTRmYTZh`
+Snapshot ID: `MCwwYmUxZjBiODFhYThkYmMyZjg1NGRhYjc0ZWZiNWM1MGVkODg3OGFh`

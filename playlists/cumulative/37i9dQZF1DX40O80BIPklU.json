@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Nuestro hip-hop se escribe con \u00d1, aqu\u00ed los que dominan el\u00a0juego de las rimas. Vico C en portada. ",
+  "description": "Nuestro hip-hop se escribe con \u00d1, aqu\u00ed los que dominan el\u00a0juego de las rimas. Zxmyr y Sandro Malandro en portada. ",
   "name": "Rap en Espa\u00f1ol",
   "tracks": [
     {
@@ -178,6 +178,24 @@
       "duration_ms": 177534,
       "name": "Agua Con Hielo",
       "url": "https://open.spotify.com/track/3qR5fiOr9sLtiIZpfwaTkY"
+    },
+    {
+      "album": {
+        "name": "Agua Salada",
+        "url": "https://open.spotify.com/album/4XuniTXMjxP6MKAV5sbbQB"
+      },
+      "artists": [
+        {
+          "name": "cKovi",
+          "url": "https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Agua Salada",
+      "url": "https://open.spotify.com/track/5waMzAyPrIUdzGImMeUQEF"
     },
     {
       "album": {
@@ -1154,6 +1172,24 @@
       "duration_ms": 182435,
       "name": "El Mundo Es Tuyo",
       "url": "https://open.spotify.com/track/3eDZA496pE44xkDSamlCHD"
+    },
+    {
+      "album": {
+        "name": "El Precio del Valor",
+        "url": "https://open.spotify.com/album/5XlUfc0NrmKhZZ55VWlkEv"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194823,
+      "name": "El Precio del Valor",
+      "url": "https://open.spotify.com/track/69Xy0ICKMuL96Kq95wHcmd"
     },
     {
       "album": {
@@ -3750,6 +3786,32 @@
       "duration_ms": 194723,
       "name": "Una Calada",
       "url": "https://open.spotify.com/track/3dO4nlMMWLo08eiprSMJqN"
+    },
+    {
+      "album": {
+        "name": "Underrated",
+        "url": "https://open.spotify.com/album/4bTHEqX5vfP9UiFairPree"
+      },
+      "artists": [
+        {
+          "name": "Lego Skillz",
+          "url": "https://open.spotify.com/artist/7jk87weJfexobhc1bJJt9M"
+        },
+        {
+          "name": "Punga",
+          "url": "https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk"
+        },
+        {
+          "name": "Haze",
+          "url": "https://open.spotify.com/artist/4OYcQT9EHQHCYJVfbyGNzr"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180348,
+      "name": "Underrated",
+      "url": "https://open.spotify.com/track/42EDLkzqnTmw2xZZ9bkfYT"
     },
     {
       "album": {

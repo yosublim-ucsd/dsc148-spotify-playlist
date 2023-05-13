@@ -59,6 +59,32 @@
     },
     {
       "album": {
+        "name": "ACID",
+        "url": "https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "ACID",
+      "url": "https://open.spotify.com/track/6JkQb1qCCJDBV7kW5vJUAH"
+    },
+    {
+      "album": {
         "name": "Action",
         "url": "https://open.spotify.com/album/7k3IUuffIMangIYqbINKrb"
       },
@@ -1060,7 +1086,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 392008,
       "name": "Hercules",
       "url": "https://open.spotify.com/track/56fFmIpNTFTcQSrfCNxeyu"
@@ -1661,6 +1687,24 @@
     },
     {
       "album": {
+        "name": "Never Forget",
+        "url": "https://open.spotify.com/album/1yWQWTfL2nmGvjaOXFFFeR"
+      },
+      "artists": [
+        {
+          "name": "Deniz Bul",
+          "url": "https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183649,
+      "name": "Never Forget",
+      "url": "https://open.spotify.com/track/4qq3PGw2BJWBtdTUVwLQkd"
+    },
+    {
+      "album": {
         "name": "Never Go Back To Sleep",
         "url": "https://open.spotify.com/album/7LTsOeCZMSlYLbyhoJmwM5"
       },
@@ -1986,7 +2030,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 365373,
       "name": "Quiet Woman - Simina Grigoriu Remix",
       "url": "https://open.spotify.com/track/5L2xfiztZvJZdWLnd64GcY"
@@ -2554,7 +2598,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 360000,
       "name": "The Coldest Form",
       "url": "https://open.spotify.com/track/0EEq5t7dahypAAQDUK1WjW"
@@ -2696,6 +2740,24 @@
       "duration_ms": 288671,
       "name": "Together One Time",
       "url": "https://open.spotify.com/track/5J7b7SmcTkhmO31mF0tEja"
+    },
+    {
+      "album": {
+        "name": "Traffic",
+        "url": "https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM"
+      },
+      "artists": [
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141333,
+      "name": "Traffic",
+      "url": "https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz"
     },
     {
       "album": {

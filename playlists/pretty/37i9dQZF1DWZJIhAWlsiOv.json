@@ -1,12 +1,12 @@
 {
   "description": "Latin songs that changed the game. Cover: Celia Cruz",
-  "num_followers": 979632,
+  "num_followers": 980157,
   "original_name": "100 Latin Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjRiMjFlZjI0YTQzNTc0MzI0OGEwYjcwNTc2ZDA1ZDM0ZWY3MDFm",
+  "snapshot_id": "MCwwZjY0ZDkxM2ZmNDM5MTRiYzQ3ZWY2YzA0YWU0MTI5ZmUwNjYzNTE1",
   "tracks": [
     {
       "added_at": "2023-02-07 00:10:22",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-02-07 00:10:22",
       "album": {
-        "name": "El Sapo",
-        "url": "https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB"
-      },
-      "artists": [
-        {
-          "name": "azul azul",
-          "url": "https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa"
-        }
-      ],
-      "duration_ms": 123960,
-      "name": "La Bomba",
-      "url": "https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb"
-    },
-    {
-      "added_at": "2023-02-07 00:10:22",
-      "album": {
         "name": "Recuerdos II",
         "url": "https://open.spotify.com/album/1xrQ48Vvnvm3SmAbnIukGt"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 328320,
       "name": "Querida",
       "url": "https://open.spotify.com/track/5ySxlyvySBhIEvoO2xx7uT"
+    },
+    {
+      "added_at": "2023-02-07 00:10:22",
+      "album": {
+        "name": "El Sapo",
+        "url": "https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB"
+      },
+      "artists": [
+        {
+          "name": "azul azul",
+          "url": "https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa"
+        }
+      ],
+      "duration_ms": 123960,
+      "name": "La Bomba",
+      "url": "https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb"
     },
     {
       "added_at": "2023-02-07 00:10:22",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-02-07 00:10:22",
       "album": {
-        "name": "Mariachi Total",
-        "url": "https://open.spotify.com/album/2n9v73CTGTAUFrrdxbLMHD"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 221831,
-      "name": "Cielito Lindo",
-      "url": "https://open.spotify.com/track/17UQaysFON93fn278DeWqg"
-    },
-    {
-      "added_at": "2023-02-07 00:10:22",
-      "album": {
         "name": "Lo Esencial",
         "url": "https://open.spotify.com/album/2P9cy8tTevB3UBgAD3MQio"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 274960,
       "name": "El Matador",
       "url": "https://open.spotify.com/track/7N2qyJrAp16ghZFBloT8Ye"
+    },
+    {
+      "added_at": "2023-02-07 00:10:22",
+      "album": {
+        "name": "Mariachi Total",
+        "url": "https://open.spotify.com/album/2n9v73CTGTAUFrrdxbLMHD"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 221831,
+      "name": "Cielito Lindo",
+      "url": "https://open.spotify.com/track/17UQaysFON93fn278DeWqg"
     },
     {
       "added_at": "2023-02-07 00:10:22",

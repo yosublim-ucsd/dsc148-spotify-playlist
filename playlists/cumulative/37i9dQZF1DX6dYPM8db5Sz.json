@@ -835,6 +835,28 @@
     },
     {
       "album": {
+        "name": "Catch the Fire",
+        "url": "https://open.spotify.com/album/3qt54GBdbmi0g1vNZXnPWm"
+      },
+      "artists": [
+        {
+          "name": "JOPHKO",
+          "url": "https://open.spotify.com/artist/6aMw6xZdqXLCqaBlDxivpE"
+        },
+        {
+          "name": "David John",
+          "url": "https://open.spotify.com/artist/1m6au0R3R0GHgUJumI1spC"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280421,
+      "name": "Catch the Fire",
+      "url": "https://open.spotify.com/track/26wr3kGBbCUJbru5I7vETT"
+    },
+    {
+      "album": {
         "name": "Chariot",
         "url": "https://open.spotify.com/album/3R9K985Qq28VqqzeV65bZ0"
       },
@@ -3212,6 +3234,24 @@
       "duration_ms": 327217,
       "name": "No More Lies",
       "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
+    },
+    {
+      "album": {
+        "name": "No Place Like Home",
+        "url": "https://open.spotify.com/album/7xH7wIl5e2rsPGgDP1Nio9"
+      },
+      "artists": [
+        {
+          "name": "TIMMS",
+          "url": "https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163210,
+      "name": "No Place Like Home",
+      "url": "https://open.spotify.com/track/1HDAvSg4nARVkl5inW779y"
     },
     {
       "album": {

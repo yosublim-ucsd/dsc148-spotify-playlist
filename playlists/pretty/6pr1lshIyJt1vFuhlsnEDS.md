@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/6pr1lshIyJt1vFuhlsnEDS.md) - [plain]
 
 > <a>https://bit.ly/2WYLxJM </a>
 
-[Metodi Hristov](https://open.spotify.com/user/metodihristov) - 886 likes - 37 songs - 3 hr 22 min
+[Metodi Hristov](https://open.spotify.com/user/metodihristov) - 900 likes - 37 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Physical Change](https://open.spotify.com/track/0xlGYnc6gnO8KwyhPlavjL) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Physical Change EP](https://open.spotify.com/album/0QeMDNqrQdFQoBNcem9UqF) | 9:58 |
 | 2 | [Simulator](https://open.spotify.com/track/4VosqOFgprZKZz3EeDOdMA) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Simulator](https://open.spotify.com/album/6gP0CsJDvNuJJfCjXamjFJ) | 3:40 |
-| 3 | [Monsters](https://open.spotify.com/track/1AwDVCplzWNyqDV1Ss64sb) | [Advokate](https://open.spotify.com/artist/2NGXNMIoLH8NjuXAp6AssA), [Benefice](https://open.spotify.com/artist/50YinzEDCTthYGZEJDZSus) | [Monsters](https://open.spotify.com/album/4ZDcXG75hSksSLM9TacL69) | 3:47 |
+| 3 | [Storm](https://open.spotify.com/track/06TzfS2sYRaM2adMvJY37y) | [ANDATA](https://open.spotify.com/artist/4EWtOuG1AiHXvrd9LtEnzQ) | [Storm](https://open.spotify.com/album/7e5yBaNJWg4me3vPMMR1mN) | 3:36 |
 | 4 | [In Your Mind](https://open.spotify.com/track/6B0A3sFOMKxg01sOrvGRYa) | [Drunken Kong](https://open.spotify.com/artist/2c8K7cdY2IU2jBacPOxYqk) | [In Your Mind EP](https://open.spotify.com/album/1YBf9rbFGSkHddjJKUPUOO) | 5:36 |
 | 5 | [Rider \- Original Mix](https://open.spotify.com/track/1SMIk113it3eyw9hk0MwXT) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Rider](https://open.spotify.com/album/4YsU1wmbXYOGT7l7kVmEMr) | 6:34 |
 | 6 | [Afraid of the Time \- Reprise](https://open.spotify.com/track/33oY9P0s7mZO73OJVun7jK) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Afraid of the Time](https://open.spotify.com/album/2YF493Mn9nfimBiveq5lZ5) | 4:58 |
-| 7 | [Frontier](https://open.spotify.com/track/3pmtd2RlCyMzq0oHFvkswv) | [Kaori Watt](https://open.spotify.com/artist/4fOpYq3DgziDI0B3g0OXYM) | [Frontier](https://open.spotify.com/album/4W0Dxg2rjqyKP0VqIW2gBm) | 3:50 |
+| 7 | [Monsters](https://open.spotify.com/track/1AwDVCplzWNyqDV1Ss64sb) | [Advokate](https://open.spotify.com/artist/2NGXNMIoLH8NjuXAp6AssA), [Benefice](https://open.spotify.com/artist/50YinzEDCTthYGZEJDZSus) | [Monsters](https://open.spotify.com/album/4ZDcXG75hSksSLM9TacL69) | 3:47 |
 | 8 | [Roll the Dice](https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Roll the Dice](https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ) | 4:36 |
 | 9 | [Afraid of the Time \- Radio Edit](https://open.spotify.com/track/6V8X3Q0Eu8pkjXdqbs96JW) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Afraid of the Time](https://open.spotify.com/album/2YF493Mn9nfimBiveq5lZ5) | 3:41 |
 | 10 | [The Alchemist](https://open.spotify.com/track/5rSLRPEBdRaqDjdbcLZrUo) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Touch The Darkness](https://open.spotify.com/album/4RJKnty59mAjgmslaWAGkm) | 6:19 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/6pr1lshIyJt1vFuhlsnEDS.md) - [plain]
 | 36 | [Silence \- Vocal Mix](https://open.spotify.com/track/6rMSQ5RzR4aiP2uRImEEiG) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Silence EP](https://open.spotify.com/album/0jk2PButBmv8Kqvu5x9Yys) | 5:01 |
 | 37 | [Halcyon \- 30 Something Years Later Mix](https://open.spotify.com/track/3lbm4gzUqMSdosEFs1cxq9) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [30 Something](https://open.spotify.com/album/1pq7A65DygpNTNRnwJv77h) | 9:12 |
 
-Snapshot ID: `MTMyMiwyZjc3OGNhNTI3NDc1YzY4NDUyZTdlYjczNzU3ZDlkYzgzYTI3Njg4`
+Snapshot ID: `MTMyOCxmNTMyZWYwMjljZDk5ZmMxNmY4N2MzZjdjZGYyMGFhMDAzZmNjODA3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: ERRE
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,866 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,882 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 79 | [Roll It](https://open.spotify.com/track/1rmkdRN6cMTLEgVlrl2fVK) | [Jay Sánchez](https://open.spotify.com/artist/3KWXqSfNmUT0fdjBmTisCJ) | [Roll It](https://open.spotify.com/album/3oLDxDpjzpNPOU8KdzUjx4) | 2:56 |
 | 80 | [Tus Fotos](https://open.spotify.com/track/4C4USvr4GemqacUhUZ3Km9) | [Ehlyan Chacon](https://open.spotify.com/artist/2D2fre4AIeXh7bw4oo2A5V) | [Tus Fotos](https://open.spotify.com/album/6pWbGCNM2ebZP0Ja7xWAhu) | 2:36 |
 
-Snapshot ID: `MCxlYmIwNWM3MzkzZGE1MTgxNmYxZGY2ZTNlMDM2MjViMTNjMTRkMWQw`
+Snapshot ID: `MCw5NmIwNDMxOTM0NmQ0NDQ0OWI1MmU1MjQyZjZkNDc3OTk0ZTZlZjBh`

@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal \u2013 fresh and old tunes. Cover: Rammstein",
-  "num_followers": 276348,
+  "num_followers": 276554,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWQ3NjcxYmMxNDUyYjE1YzVlNjUwZTY4MzRlNTMyMDc4ZDYxMzFm",
+  "snapshot_id": "MCxjMDA4YjQxZDc1ZTllYTJmNjQ4ZjYzN2JlZjQ4MjE5Y2U3ZDRmZjk3",
   "tracks": [
     {
       "added_at": "2023-05-05 05:09:11",
@@ -315,18 +315,22 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "The Golden Age Of Grotesque",
-        "url": "https://open.spotify.com/album/38FWu0ePBmlNQdpg6WiLld"
+        "name": "Merchant of the Void",
+        "url": "https://open.spotify.com/album/4DpUdsgqbQekAluRjffr08"
       },
       "artists": [
         {
-          "name": "Marilyn Manson",
-          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+          "name": "3TEETH",
+          "url": "https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2"
+        },
+        {
+          "name": "Mick Gordon",
+          "url": "https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y"
         }
       ],
-      "duration_ms": 205720,
-      "name": "mOBSCENE",
-      "url": "https://open.spotify.com/track/4Ppy0KysTPcXyzyP5JiJDx"
+      "duration_ms": 212814,
+      "name": "Merchant of the Void",
+      "url": "https://open.spotify.com/track/3BIQ9Y3WCwRWZju6jHXHuA"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -347,18 +351,18 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Wahrheit oder Pflicht",
-        "url": "https://open.spotify.com/album/6ChP2BF5LTHwyjzklcSTiG"
+        "name": "The Golden Age Of Grotesque",
+        "url": "https://open.spotify.com/album/38FWu0ePBmlNQdpg6WiLld"
       },
       "artists": [
         {
-          "name": "OOMPH!",
-          "url": "https://open.spotify.com/artist/2mZITUvfEwrKlksoGpHTsM"
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
         }
       ],
-      "duration_ms": 200573,
-      "name": "Augen auf!",
-      "url": "https://open.spotify.com/track/6gcFq5UOdNa8LzTRd4lldD"
+      "duration_ms": 205720,
+      "name": "mOBSCENE",
+      "url": "https://open.spotify.com/track/4Ppy0KysTPcXyzyP5JiJDx"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -379,6 +383,22 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
+        "name": "Wahrheit oder Pflicht",
+        "url": "https://open.spotify.com/album/6ChP2BF5LTHwyjzklcSTiG"
+      },
+      "artists": [
+        {
+          "name": "OOMPH!",
+          "url": "https://open.spotify.com/artist/2mZITUvfEwrKlksoGpHTsM"
+        }
+      ],
+      "duration_ms": 200573,
+      "name": "Augen auf!",
+      "url": "https://open.spotify.com/track/6gcFq5UOdNa8LzTRd4lldD"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
         "name": "KE*A*H** (Psalm 69)",
         "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
       },
@@ -391,26 +411,6 @@
       "duration_ms": 292586,
       "name": "Jesus Built My Hotrod",
       "url": "https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
-        "name": "Merchant of the Void",
-        "url": "https://open.spotify.com/album/4DpUdsgqbQekAluRjffr08"
-      },
-      "artists": [
-        {
-          "name": "3TEETH",
-          "url": "https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2"
-        },
-        {
-          "name": "Mick Gordon",
-          "url": "https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y"
-        }
-      ],
-      "duration_ms": 212814,
-      "name": "Merchant of the Void",
-      "url": "https://open.spotify.com/track/3BIQ9Y3WCwRWZju6jHXHuA"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "New Messiah",
-        "url": "https://open.spotify.com/album/3M5G33aqX2jA7ZyaujjAem"
-      },
-      "artists": [
-        {
-          "name": "Fear Factory",
-          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
-        }
-      ],
-      "duration_ms": 270466,
-      "name": "New Messiah",
-      "url": "https://open.spotify.com/track/784D068nWk6mUvEXkufPnF"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
         "name": "Yggdrasil",
         "url": "https://open.spotify.com/album/7vQ4OHJ5VSq6M4M3bLKoAa"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 194453,
       "name": "Blizzard",
       "url": "https://open.spotify.com/track/2n0lbf90sDwDXqLiZP1j2j"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "New Messiah",
+        "url": "https://open.spotify.com/album/3M5G33aqX2jA7ZyaujjAem"
+      },
+      "artists": [
+        {
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
+        }
+      ],
+      "duration_ms": 270466,
+      "name": "New Messiah",
+      "url": "https://open.spotify.com/track/784D068nWk6mUvEXkufPnF"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
+        "name": "Darkest Days",
+        "url": "https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg"
+      },
+      "artists": [
+        {
+          "name": "Stabbing Westward",
+          "url": "https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG"
+        }
+      ],
+      "duration_ms": 216840,
+      "name": "The Thing I Hate",
+      "url": "https://open.spotify.com/track/4ibsb2epoSHZzDCeoZEluQ"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
         "name": "Recoded",
         "url": "https://open.spotify.com/album/3vpzVxP7HSddMo2IOtgjLj"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 344918,
       "name": "Hatred Will Prevail - Monolith Remix",
       "url": "https://open.spotify.com/track/7cborWFwmCpfEL1Qwnvwt0"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
-        "name": "Darkest Days",
-        "url": "https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg"
-      },
-      "artists": [
-        {
-          "name": "Stabbing Westward",
-          "url": "https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG"
-        }
-      ],
-      "duration_ms": 216840,
-      "name": "The Thing I Hate",
-      "url": "https://open.spotify.com/track/4ibsb2epoSHZzDCeoZEluQ"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
+        "name": "Fault Lines",
+        "url": "https://open.spotify.com/album/4lDCkCAcxuiQ3DNzoKVTu3"
+      },
+      "artists": [
+        {
+          "name": "IAMX",
+          "url": "https://open.spotify.com/artist/223iUzG0kb5V166FJP9ovD"
+        }
+      ],
+      "duration_ms": 263126,
+      "name": "Fault Lines",
+      "url": "https://open.spotify.com/track/18sPvpeqaxYwd8pZ5RNvDj"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
         "name": "A World Lit Only by Fire",
         "url": "https://open.spotify.com/album/1UbMFz1E6gcjrIvqohXoBk"
       },
@@ -1439,18 +1455,18 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Fault Lines",
-        "url": "https://open.spotify.com/album/4lDCkCAcxuiQ3DNzoKVTu3"
+        "name": "Satellites",
+        "url": "https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0"
       },
       "artists": [
         {
-          "name": "IAMX",
-          "url": "https://open.spotify.com/artist/223iUzG0kb5V166FJP9ovD"
+          "name": "Celldweller",
+          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
         }
       ],
-      "duration_ms": 263126,
-      "name": "Fault Lines",
-      "url": "https://open.spotify.com/track/18sPvpeqaxYwd8pZ5RNvDj"
+      "duration_ms": 380885,
+      "name": "My Disintegration",
+      "url": "https://open.spotify.com/track/3oCfEnZRME0pGNUyzzhkeM"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1471,22 +1487,6 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Satellites",
-        "url": "https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0"
-      },
-      "artists": [
-        {
-          "name": "Celldweller",
-          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
-        }
-      ],
-      "duration_ms": 380885,
-      "name": "My Disintegration",
-      "url": "https://open.spotify.com/track/3oCfEnZRME0pGNUyzzhkeM"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
         "name": "For the Beaten",
         "url": "https://open.spotify.com/album/4uiRHyMCLnJvQ09oMIha5T"
       },
@@ -1499,6 +1499,22 @@
       "duration_ms": 211450,
       "name": "For the Beaten",
       "url": "https://open.spotify.com/track/6JcSvWld739CV14RqZyt9u"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/6YlEOQA5byMK5kM6CbZGXA"
+      },
+      "artists": [
+        {
+          "name": "Processor",
+          "url": "https://open.spotify.com/artist/3PsLxyLABzuf3dUMpS05Mp"
+        }
+      ],
+      "duration_ms": 187422,
+      "name": "Justice Way",
+      "url": "https://open.spotify.com/track/22YDeLoN7Oe4t6OKKOLRz2"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1531,22 +1547,6 @@
       "duration_ms": 402706,
       "name": "Supernaut",
       "url": "https://open.spotify.com/track/1LkYAkYzqq7TbJTGfx3ixY"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/6YlEOQA5byMK5kM6CbZGXA"
-      },
-      "artists": [
-        {
-          "name": "Processor",
-          "url": "https://open.spotify.com/artist/3PsLxyLABzuf3dUMpS05Mp"
-        }
-      ],
-      "duration_ms": 187422,
-      "name": "Justice Way",
-      "url": "https://open.spotify.com/track/22YDeLoN7Oe4t6OKKOLRz2"
     },
     {
       "added_at": "2023-05-05 05:09:11",

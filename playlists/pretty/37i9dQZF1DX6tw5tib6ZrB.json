@@ -1,12 +1,12 @@
 {
   "description": "Monster Hiphop anthems to unlock your day. Tracks from Lil Durk, Jack Harlow, Drake, Tyler, The Creator, Quavo and more",
-  "num_followers": 54092,
+  "num_followers": 54449,
   "original_name": "JumpOff",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGViNTM2NjM5ZDRjZDAzNGM4MDM2ZmUyNDBlODBkMTUwYWJjYTZh",
+  "snapshot_id": "MCxhYjVkZWQxNWIwYWE4YzJhNjZjZGRkNjVjMDg4ODZkYmUzMTU1NzUz",
   "tracks": [
     {
       "added_at": "2023-05-11 22:59:00",
@@ -43,6 +43,26 @@
       "duration_ms": 252069,
       "name": "family ties (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
+    },
+    {
+      "added_at": "2023-05-11 22:59:00",
+      "album": {
+        "name": "All My Life (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 223878,
+      "name": "All My Life (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
     },
     {
       "added_at": "2023-05-11 22:59:00",

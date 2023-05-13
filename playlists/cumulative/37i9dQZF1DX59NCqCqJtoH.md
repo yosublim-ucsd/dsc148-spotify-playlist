@@ -4,7 +4,7 @@
 
 > We hear you.
 
-585 songs - 1 day 4 hr 55 min
+586 songs - 1 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Emotionless](https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Emotionless](https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl) | 2:28 | 2021-04-02 |  |
 | [Empty Room](https://open.spotify.com/track/2YUjJiHEhbb7eO9OWHdarW) | [Rishi](https://open.spotify.com/artist/5q1xsAah3kIdY7ouXeBa08) | [Empty Room](https://open.spotify.com/album/39LG3JcDyjuE9QHVhsL3mR) | 3:25 | 2021-06-25 | 2022-04-17 |
 | [essential](https://open.spotify.com/track/5furV6z87xBEymy1nXFAXu) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [essential](https://open.spotify.com/album/3FSZt1nG5DDRADNrd9g6LQ) | 2:42 | 2023-01-20 | 2023-05-08 |
+| [Every Fucking Time](https://open.spotify.com/track/3pcl1nwM7BkNaNcsojvPCz) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Every Fucking Time](https://open.spotify.com/album/5ZivRaxbqlajWwrhA92jAS) | 2:47 | 2023-05-05 |  |
 | [Everything and More](https://open.spotify.com/track/6qTEh8LELYNp9QCYyYfZS4) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Behind the Clouds](https://open.spotify.com/album/5YIez3soImBgLLTak9xyuh) | 1:59 | 2021-04-02 | 2022-07-03 |
 | [everything i couldn't be](https://open.spotify.com/track/0Fzt24jmCa6G0ED7pW3IM1) | [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss), [Belfa](https://open.spotify.com/artist/6sBNAhdkb34YfSofjjZf9L) | [everything i couldn't be](https://open.spotify.com/album/0OO54Y1nTh8WeZBNuD4AMV) | 2:10 | 2021-04-02 | 2022-07-22 |
 | [everything will be okay...](https://open.spotify.com/track/3ocXeXohKnLDwSfzjWs1tE) | [R.L\. Beats](https://open.spotify.com/artist/0EYPvjUpwFLKU6KHM6ecCO) | [everything will be okay...](https://open.spotify.com/album/6jcKxX5Huf3gOOLm98Lm6L) | 1:32 | 2021-04-02 | 2022-05-20 |
@@ -211,7 +212,7 @@
 | [how to live](https://open.spotify.com/track/1DiOSZ8PpnmwgriDH0RNQd) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [how to live](https://open.spotify.com/album/70CHFyAWpiJFddcr0425NF) | 2:26 | 2021-06-25 | 2022-07-22 |
 | [howling](https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [howling](https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL) | 3:33 | 2021-10-08 |  |
 | [Hung up on You](https://open.spotify.com/track/6dlw8Uhym4Jhab0a7HFUeD) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Hung up on You](https://open.spotify.com/album/2dpuDqB4pGJMaWny0kXXNl) | 3:21 | 2021-04-02 | 2022-04-20 |
-| [hurt me enough](https://open.spotify.com/track/46VWMQxwA5cACMY28UlIPs) | [Nathan Archie](https://open.spotify.com/artist/4QTm9TRLBaMhCqQE96ETN6) | [hurt me enough](https://open.spotify.com/album/1lc8Zvp2mYEMTJyxG8rfb0) | 3:06 | 2023-04-26 |  |
+| [hurt me enough](https://open.spotify.com/track/46VWMQxwA5cACMY28UlIPs) | [Nathan Archie](https://open.spotify.com/artist/4QTm9TRLBaMhCqQE96ETN6) | [hurt me enough](https://open.spotify.com/album/1lc8Zvp2mYEMTJyxG8rfb0) | 3:06 | 2023-04-26 | 2023-05-13 |
 | [i can be your home](https://open.spotify.com/track/4ArZJSF6KW4wyaXqrGfdXB) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [i can be your home](https://open.spotify.com/album/2TxiqmbAoKkCDhwnGTrJKr) | 2:01 | 2021-04-02 | 2022-06-27 |
 | [I Can't Hate You](https://open.spotify.com/track/21NeQgKhabORuZ3pfsPfz5) | [Kayou.](https://open.spotify.com/artist/4kTancl0Qa8Y7J0QKKTCrz), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [I Can't Hate You](https://open.spotify.com/album/0hza96UteVyFpucn2BpAUc) | 2:58 | 2021-04-02 |  |
 | [i don't care \- bonus track](https://open.spotify.com/track/3pM7NQahwmilUQ2JSBJOzA) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [HOW DID WE GET HERE?](https://open.spotify.com/album/7AWw0QFEj9pezKu5hu1l4j) | 2:40 | 2022-10-07 | 2022-11-12 |

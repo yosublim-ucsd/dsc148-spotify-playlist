@@ -2,9 +2,9 @@
 
 ### [Salsa Nation](https://open.spotify.com/playlist/37i9dQZF1DX4qKWGR9z0LI)
 
-> Lo último y lo mejor de la salsa\. Cover: Luis Figueroa
+> Lo último y lo mejor de la salsa\. Cover: Leoni Torres
 
-226 songs - 17 hr 13 min
+227 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Me Voy Pa'Cali](https://open.spotify.com/track/1OPOCKhIXHs8mg0TikYyjI) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Salsabor 2](https://open.spotify.com/album/3injVZQOTM5r4G8Issf5Kz) | 4:05 | 2022-01-21 | 2022-01-30 |
 | [Medley](https://open.spotify.com/track/0WwVA5yRSxSUBM3macPfJK) | [Louie Ramirez](https://open.spotify.com/artist/3ZRoChGFOnnQgeTiMo0o8L), [Ray De La Paz](https://open.spotify.com/artist/7vCuHLeYJEynulecY53BwH) | [Otra Noche Caliente](https://open.spotify.com/album/7zeeEkM8eS4wWZARO6QMaM) | 7:19 | 2022-01-01 | 2022-11-13 |
 | [Mi Propiedad Privada](https://open.spotify.com/track/3DAxwWtA3N41eNZ9pCsQnl) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Mi Propiedad Privada](https://open.spotify.com/album/5wzCExW5NvwRMvDRav2taR) | 4:12 | 2022-01-01 |  |
-| [Mira \- Versión Salsa](https://open.spotify.com/track/4nYuL6R1SuWAOJRwAWasct) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Mira](https://open.spotify.com/album/2wrbLhESYlyhzIlhJ1Lo8X) | 3:36 | 2022-01-01 |  |
+| [Mira \- Versión Salsa](https://open.spotify.com/track/4nYuL6R1SuWAOJRwAWasct) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Mira](https://open.spotify.com/album/2wrbLhESYlyhzIlhJ1Lo8X) | 3:36 | 2022-01-01 | 2023-05-13 |
 | [Mis Ojos Lloran por Tí](https://open.spotify.com/track/1hvtQqJSaRAWP0PCW3P80Q) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU) | [Mis Ojos Lloran por Tí](https://open.spotify.com/album/1Yfa4XmFw6Y7L7YIKSPG7R) | 4:18 | 2022-01-01 |  |
 | [Muchachita](https://open.spotify.com/track/1bZ3HVLOlIKEe7RPeq3ByD) | [Sabotage](https://open.spotify.com/artist/1KNORYnqVhiI74Daro0xop) | [Salsa Andina](https://open.spotify.com/album/4KoUwHSjUGM9nYM7cNEp9M) | 3:49 | 2022-01-21 | 2022-02-25 |
 | [Nada de Nada](https://open.spotify.com/track/4CX96IInUaO0d6COMz62Qp) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Pa'lla Voy](https://open.spotify.com/album/463Gp4DWFkicvZ3DCfgj0S) | 4:12 | 2022-03-18 | 2023-05-01 |
@@ -150,6 +150,7 @@
 | [Pa'lante y Pa'tras \- Remix](https://open.spotify.com/track/0j1Fh9m0wZbvTIl8xIlSKH) | [N'Klabe](https://open.spotify.com/artist/3sXLxfvWccL0EI4Q3xxO3q), [La Tribu de Abrante](https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Nuestra Esquina](https://open.spotify.com/album/2KmfhRaTEiEARwxWlyyRDD) | 3:33 | 2022-05-20 |  |
 | [Pa'lante y Pa'tras \- Remix](https://open.spotify.com/track/61adK2aayDAKjms9aMaCt8) | [N'Klabe](https://open.spotify.com/artist/3sXLxfvWccL0EI4Q3xxO3q), [La Tribu de Abrante](https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Nuestra Esquina](https://open.spotify.com/album/6cMmm1Y4VdgChoFTmlMonr) | 3:33 | 2022-01-01 | 2022-07-29 |
 | [Pa'lla Voy](https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Pa'lla Voy](https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh) | 4:06 | 2022-01-01 |  |
+| [Pasándola bien](https://open.spotify.com/track/0ZVS1pGOVYik44LHZiDQW4) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Pasándola bien](https://open.spotify.com/album/1tgtGOkTnvu2RtQkQpiF0j) | 2:54 | 2023-05-12 |  |
 | [Paula C.](https://open.spotify.com/track/0umkHdiZRtXBxyDGmLBkwc) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Roberto Delgado & Orquesta](https://open.spotify.com/artist/2BRXfbwZl8Rqv4Spi8kB8u) | [SALSA PLUS!](https://open.spotify.com/album/0Q8OYG3pgYUyntttMXCjD8) | 5:36 | 2022-01-01 | 2022-07-26 |
 | [Paula C.](https://open.spotify.com/track/5H2y6BJVQ4z44DcscnHgRq) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Roberto Delgado & Orquesta](https://open.spotify.com/artist/5rj835Uo7VJGoT5KHkW23c) | [SALSWING!](https://open.spotify.com/album/5rYDNDOKwq3T0gK5DCI2CI) | 5:36 | 2022-09-09 | 2022-11-13 |
 | [Peligro](https://open.spotify.com/track/12JyMFngqOZ8VSOHgYD9v5) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Peligro](https://open.spotify.com/album/4fCJuQAuofGlTZmRlrfycu) | 3:20 | 2022-04-29 | 2022-11-20 |

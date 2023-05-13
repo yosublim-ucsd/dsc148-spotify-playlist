@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit.
 
-138 songs - 17 hr 5 min
+139 songs - 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Koseunti](https://open.spotify.com/track/2crS3DOA1Gmf7Y8cXVrvas) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Koseunti](https://open.spotify.com/album/5VfphiFcALVuNvfscznY4Z) | 4:23 | 2022-10-14 | 2022-11-05 |
 | [Kumama Papa](https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2) | [Grace Lokwa](https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Kumama](https://open.spotify.com/album/4VWqQy7daz2lmZVLZakGjb) | 4:20 | 2022-07-08 |  |
 | [Lion of Judah](https://open.spotify.com/track/74crNF63DNXE5J20s1IjNg) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8) | [Lion of Judah](https://open.spotify.com/album/5z1FT7nquPSxdERNQ1oUvy) | 5:16 | 2022-06-09 |  |
+| [Love in My Heart](https://open.spotify.com/track/4i6Qzd0sZBNXH5PmMQ9qUH) | [Elijah Oyelade](https://open.spotify.com/artist/2oRaSHeT9xVpXFvon3U4ak) | [Love in My Heart](https://open.spotify.com/album/1UPfneh8tSjjNlsPhcdfPq) | 7:10 | 2023-04-14 |  |
 | [Made A Way](https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 9:51 | 2022-06-09 |  |
 | [Maranatha](https://open.spotify.com/track/1ArP26FqyUNqdZFnyGksOp) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Birth of Revival](https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH) | 6:35 | 2023-01-27 |  |
 | [Mensuro](https://open.spotify.com/track/1cM5uGt3561vmeY5wHQBnY) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [The Encounter](https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x) | 6:48 | 2022-06-09 |  |
@@ -108,7 +109,7 @@
 | [Overflow \- Live](https://open.spotify.com/track/5fGEWpEGRbeqiSx0BFM4ri) | [Chingtok Ishaku](https://open.spotify.com/artist/1lwlqct7jFtSjSvId0bxOQ), [First Love](https://open.spotify.com/artist/5NvCvGYLahLQcc7s5AqMfJ) | [Overflow](https://open.spotify.com/album/6HTnAGRH2XzNOd0jaO482B) | 12:32 | 2022-10-14 | 2022-11-05 |
 | [Prophetic Chant \(Live\)](https://open.spotify.com/track/3rEvSuwWdtfvievLk5ITaD) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Apostolos \(Sounds of Transition\)](https://open.spotify.com/album/2EB9Skh5opMuYmAusHBMlv) | 6:22 | 2023-02-20 |  |
 | [Shouts of Grace](https://open.spotify.com/track/5mNRAl8irEpB8Nuq04UqSG) | [Eno Michael](https://open.spotify.com/artist/4gG4TRziJfH2Tjo5fUqqdk) | [Shouts of Grace](https://open.spotify.com/album/4SLDYrRz9OuqqY9ZoC0izS) | 8:18 | 2022-10-14 | 2022-11-05 |
-| [Soldier](https://open.spotify.com/track/2P3i73dVot37xSx8VdACGr) | [Tobi Adey](https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE) | [Soldier](https://open.spotify.com/album/2VV5ZceaMFArYB23Oi4slm) | 2:12 | 2023-03-30 |  |
+| [Soldier](https://open.spotify.com/track/2P3i73dVot37xSx8VdACGr) | [Tobi Adey](https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE) | [Soldier](https://open.spotify.com/album/2VV5ZceaMFArYB23Oi4slm) | 2:12 | 2023-03-30 | 2023-05-13 |
 | [Spontaneous Worship 1 \- Live](https://open.spotify.com/track/1Ttb0Ex4Tyt8fPwWyCvAAi) | [Akesse Brempong](https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb) | [Heal Our Land \(Live\)](https://open.spotify.com/album/67zMsfA2nQXycWFOe6CzGC) | 7:41 | 2022-06-09 |  |
 | [Strong Tower](https://open.spotify.com/track/4MhjzqLa696TkrCXRk7bsU) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:56 | 2022-06-09 |  |
 | [Take Me to the King \(feat\. Kirk Franklin\)](https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Best Days](https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ) | 4:47 | 2022-06-09 |  |

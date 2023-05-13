@@ -1,12 +1,12 @@
 {
   "description": "Nh\u1eefng nh\u1ea1c ph\u1ea9m \u0111i v\u00e0o l\u00f2ng ng\u01b0\u1eddi t\u1eeb nhi\u1ec1u th\u1ebf h\u1ec7. \u1ea2nh b\u00eca: Nh\u01b0 Qu\u1ef3nh",
-  "num_followers": 34200,
+  "num_followers": 34215,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjgwYjQ3MDIwMTU3MjUwY2IzNTA1YTZlYTY3OGI2MThmMmU1Mzcx",
+  "snapshot_id": "MCxkOGQ4NmEwZTFlYWFiNTg0NGE1ODA3NGNjMzYyMTU0ODVkNDE3NTVj",
   "tracks": [
     {
       "added_at": "2023-01-19 04:02:47",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-01-19 04:02:47",
       "album": {
+        "name": "Cho Ng\u01b0\u1eddi T\u00ecnh L\u1ee1",
+        "url": "https://open.spotify.com/album/2DTriHYKkXQNqf6tVyucvk"
+      },
+      "artists": [
+        {
+          "name": "Ph\u01b0\u01a1ng Ph\u01b0\u01a1ng Th\u1ea3o",
+          "url": "https://open.spotify.com/artist/5KGgAxYWMoCJduQhLpIH4v"
+        }
+      ],
+      "duration_ms": 356671,
+      "name": "Cho Ng\u01b0\u1eddi T\u00ecnh L\u1ee1",
+      "url": "https://open.spotify.com/track/417NJZjAjPLX0p7xf4H8uJ"
+    },
+    {
+      "added_at": "2023-01-19 04:02:47",
+      "album": {
         "name": "G\u00f5 C\u1eeda Tr\u00e1i Tim",
         "url": "https://open.spotify.com/album/0xvLPPcHv9ssU71RNZKgBb"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 325450,
       "name": "G\u00f5 C\u1eeda Tr\u00e1i Tim",
       "url": "https://open.spotify.com/track/0JM9iBk3XplmIDvyC9rGyF"
-    },
-    {
-      "added_at": "2023-01-19 04:02:47",
-      "album": {
-        "name": "Cho Ng\u01b0\u1eddi T\u00ecnh L\u1ee1",
-        "url": "https://open.spotify.com/album/2DTriHYKkXQNqf6tVyucvk"
-      },
-      "artists": [
-        {
-          "name": "Ph\u01b0\u01a1ng Ph\u01b0\u01a1ng Th\u1ea3o",
-          "url": "https://open.spotify.com/artist/5KGgAxYWMoCJduQhLpIH4v"
-        }
-      ],
-      "duration_ms": 356671,
-      "name": "Cho Ng\u01b0\u1eddi T\u00ecnh L\u1ee1",
-      "url": "https://open.spotify.com/track/417NJZjAjPLX0p7xf4H8uJ"
     },
     {
       "added_at": "2023-01-19 04:02:47",

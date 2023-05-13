@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-04-26",
-  "description": "Keeping it lowkey with the best of today's chill pop. Cover: Taylor Swift",
+  "description": "Keeping it lowkey with the best of today's chill pop. Cover: Laufey",
   "name": "Chill Pop",
   "tracks": [
     {
@@ -2250,7 +2250,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 221092,
       "name": "Blades",
       "url": "https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6"
@@ -7314,6 +7314,24 @@
       "duration_ms": 170224,
       "name": "Friends With Benefits",
       "url": "https://open.spotify.com/track/2WbwjvE4L7WTsPhDwET5Ui"
+    },
+    {
+      "album": {
+        "name": "From The Start",
+        "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169573,
+      "name": "From The Start",
+      "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-533 songs - 1 day 8 hr 36 min
+534 songs - 1 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [For Heavens Sake](https://open.spotify.com/track/0RhYQmwfGzHDBV3K8MaMDq) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [House Of Jade](https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR) | 3:47 | 2022-06-28 | 2022-10-08 |
 | [For the First Time](https://open.spotify.com/track/2BlPcDhmDzUyD5cWFyvmoy) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [For the First Time](https://open.spotify.com/album/09juioZQplX39Yj4EDyYWN) | 4:34 | 2022-06-28 |  |
 | [For Theodora](https://open.spotify.com/track/782yLVaT5RonpqxonaqbNu) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [For Theodora](https://open.spotify.com/album/06Ld3YPBpEKNrpFCwrURO3) | 3:08 | 2022-11-17 |  |
+| [Forever and Always](https://open.spotify.com/track/5SLaynsQunaaRIQ6uhCJu6) | [The Dox Band](https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL) | [Forever and Always](https://open.spotify.com/album/4nglRTnyGlgMkRGJf35pzU) | 3:58 | 2023-05-11 |  |
 | [Forever You](https://open.spotify.com/track/184qXvZbse9pQ0hzSPGki1) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [For You My Love](https://open.spotify.com/album/06PdwmlUcKbdKHGw67YCQ8) | 5:39 | 2022-06-28 | 2022-10-02 |
 | [Forget About It, Al](https://open.spotify.com/track/53ITTs99tI13zcMBjdQpoB) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Sally Waits](https://open.spotify.com/album/3RE35ZGRfHOijqNBtePVJz) | 2:38 | 2022-09-29 |  |
 | [Forgetful](https://open.spotify.com/track/415IWIVm7peu22HIHbnPL1) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Forgetful](https://open.spotify.com/album/77QMtfYuSv2cvRnX1Omast) | 4:21 | 2022-09-13 | 2023-03-04 |
@@ -189,7 +190,7 @@
 | [I Cover the Waterfront](https://open.spotify.com/track/2gGerDB2Wi5BgPTUQiwYUJ) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [I Cover the Waterfront](https://open.spotify.com/album/2Xot33Eg7gVwDGGv7BS7Bz) | 2:28 | 2022-06-28 | 2023-02-07 |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/7CFnOzCVrrPbmJk9aCTk9q) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Speak Low](https://open.spotify.com/album/1yGFyTpml5nZFJ692JMOrN) | 3:58 | 2022-06-28 | 2022-10-08 |
 | [I Guess I'll Have To Change My Plans](https://open.spotify.com/track/1Dn4xfTFsE7T3QM7adZFo4) | [Corin Stannard Trio](https://open.spotify.com/artist/30BYi8bW3I7MwFXrqHdiun) | [I Guess I'll Have To Change My Plans](https://open.spotify.com/album/7iJ7DbrzgjSKQF0aBwDoNx) | 3:51 | 2022-08-30 | 2023-03-10 |
-| [I Know Too Well](https://open.spotify.com/track/6tKDtGWfRkozO6r0kwsyYr) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [I Know Too Well](https://open.spotify.com/album/2CkXWv8Yaq4Si9IXgAVvbc) | 3:26 | 2022-09-29 |  |
+| [I Know Too Well](https://open.spotify.com/track/6tKDtGWfRkozO6r0kwsyYr) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [I Know Too Well](https://open.spotify.com/album/2CkXWv8Yaq4Si9IXgAVvbc) | 3:26 | 2022-09-29 | 2023-05-13 |
 | [I Loves You, Porgy](https://open.spotify.com/track/6L620MzHPZRTYKqi1mXiaw) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [I Loves You, Porgy](https://open.spotify.com/album/6OwHbZzxOCbGgOvi3rnl1A) | 3:30 | 2022-06-28 |  |
 | [I Remember Clifford](https://open.spotify.com/track/6taUJ3uoR0GoCGNe8LLwGQ) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Someone To Watch Over Me](https://open.spotify.com/album/71H3cyUj63XR2VBs8BdecJ) | 3:03 | 2022-06-28 | 2022-10-08 |
 | [I Remember You](https://open.spotify.com/track/1k2KhAnHidiCUsTyOiJtr2) | [Alec Taylor Trio](https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J) | [I Remember You](https://open.spotify.com/album/1fRZ3SYAcAoTeiK2h7SNE0) | 3:02 | 2022-10-13 | 2023-02-14 |

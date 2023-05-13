@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Dizzy Sunfist
 
-545 songs - 1 day 5 hr 34 min
+546 songs - 1 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,8 @@
 | [None of Your Business](https://open.spotify.com/track/0FOcGLgUGmMzwT7IlM7hmU) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [SPECIES](https://open.spotify.com/album/4bhfca8CjqItlIeBYQ35JT) | 3:56 | 2022-06-14 | 2022-07-19 |
 | [None Of Your Business](https://open.spotify.com/track/4DI9gLWCpVKhQkGTRzmYmu) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [SPECIES](https://open.spotify.com/album/7CQlJXuU0JXXbolokiPLVK) | 3:56 | 2022-07-21 | 2022-10-18 |
 | [Notebook](https://open.spotify.com/track/1eIXwS3xCwOjfZIcWViSaT) | [Four Get Me A Nots](https://open.spotify.com/artist/18V3SfrN6aSc7QP3fqmUBp) | [TRIAD](https://open.spotify.com/album/5jvnjgeVUYCKJVmndNq5nQ) | 2:18 | 2022-05-12 | 2022-07-26 |
-| [NOTHING MORE TO ME](https://open.spotify.com/track/65nmmHzpkH2Hl9pIfp1C8C) | [HANDSOME ACADEMY](https://open.spotify.com/artist/5WXalzUqPJAvAEsDTNeuhe) | [NOTHING MORE TO ME](https://open.spotify.com/album/5rHSoyBcf6u9E03cj5wwLT) | 3:10 | 2023-05-11 |  |
+| [NOTHING MORE TO ME](https://open.spotify.com/track/65nmmHzpkH2Hl9pIfp1C8C) | [HANDSOME ACADEMY](https://open.spotify.com/artist/5WXalzUqPJAvAEsDTNeuhe) | [NOTHING MORE TO ME](https://open.spotify.com/album/5rHSoyBcf6u9E03cj5wwLT) | 3:10 | 2023-05-11 | 2023-05-13 |
+| [NOTHING MORE TO ME](https://open.spotify.com/track/7AyE99cqpfGlk9nInXW4Q2) | [HANDSOME ACADEMY](https://open.spotify.com/artist/5WXalzUqPJAvAEsDTNeuhe) | [NOTHING MORE TO ME](https://open.spotify.com/album/4MEkKSRCGKHvgKaKZw3e9D) | 3:10 | 2023-05-11 |  |
 | [Ode to Joy](https://open.spotify.com/track/1PP762X3mGJl5OnW4TwK6Q) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [25 \-A Tribute To Dragon Ash\-\(Another Edition\)](https://open.spotify.com/album/4dyz7fp74JIqn8UzSkbeDd) | 3:48 | 2023-02-21 | 2023-02-23 |
 | [Ode to Joy](https://open.spotify.com/track/5OVuQtzwNxAL3V5Y4daijB) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [25 \-A Tribute To Dragon Ash\-\(Another Edition\)](https://open.spotify.com/album/6EjpgYYtbyZbtLzXQmfBm9) | 3:48 | 2023-02-21 | 2023-03-08 |
 | [OFF THE WALL](https://open.spotify.com/track/1UFagrhLahtfM5bpC2a938) | [Five State Drive](https://open.spotify.com/artist/6A61RC9gPIbhN5bdXMl8ku) | [We'll be the Next](https://open.spotify.com/album/6jf1XEwvf9Nwyk3cf9bGKn) | 2:04 | 2022-05-17 | 2022-07-20 |

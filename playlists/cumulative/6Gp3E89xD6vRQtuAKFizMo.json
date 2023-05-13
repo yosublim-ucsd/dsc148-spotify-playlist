@@ -1049,6 +1049,24 @@
     },
     {
       "album": {
+        "name": "Fade Into Your Light",
+        "url": "https://open.spotify.com/album/6ZkgfIAclhPJOAwYOT05D2"
+      },
+      "artists": [
+        {
+          "name": "Nytrix",
+          "url": "https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153543,
+      "name": "Fade Into Your Light",
+      "url": "https://open.spotify.com/track/4yS497HRlZTs3LJeDF6gLR"
+    },
+    {
+      "album": {
         "name": "Favors",
         "url": "https://open.spotify.com/album/5QdDpNbkp0NYCzVsIHVtnY"
       },
@@ -3244,6 +3262,24 @@
       "duration_ms": 122103,
       "name": "Treat U Wrong",
       "url": "https://open.spotify.com/track/0TtPLbRdf1d6paRb1XAXFg"
+    },
+    {
+      "album": {
+        "name": "Trunk",
+        "url": "https://open.spotify.com/album/48Cw18pZx79ctaYTDAtD41"
+      },
+      "artists": [
+        {
+          "name": "Bok Nero",
+          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122769,
+      "name": "Trunk",
+      "url": "https://open.spotify.com/track/3hx3VuB81vvTStn4gkke0D"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee",
-  "num_followers": 117495,
+  "num_followers": 117517,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGY4MTMwODZjODQ0ZjNiMzBjMzY4ZTE0NTAyY2FkNWY2YjMwMzA2",
+  "snapshot_id": "MCwwNzdkNTkzMWNmMzZmNWY0YWY4MzZjZjIyMDk3N2M2MzE2YWY4NjE5",
   "tracks": [
     {
       "added_at": "2023-05-11 22:00:00",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Reunion",
-        "url": "https://open.spotify.com/album/2M9pkurc1jUmSXH95OGixK"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        }
-      ],
-      "duration_ms": 247724,
-      "name": "Coffee and Feels",
-      "url": "https://open.spotify.com/track/2Z2qsGVCBCAPGvXqe3JxeG"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Fidelity Radio Club",
         "url": "https://open.spotify.com/album/7eu46qXLNv9FAagjqNhFZb"
       },
@@ -203,18 +187,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Travellers",
-        "url": "https://open.spotify.com/album/52gMQAcOxIRVUKsVRBxyHe"
+        "name": "Reunion",
+        "url": "https://open.spotify.com/album/2M9pkurc1jUmSXH95OGixK"
       },
       "artists": [
         {
-          "name": "Ran the Man",
-          "url": "https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu"
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
         }
       ],
-      "duration_ms": 215743,
-      "name": "Suburban Sunrise",
-      "url": "https://open.spotify.com/track/3kIyVa8Rnp80iREwvmdTip"
+      "duration_ms": 247724,
+      "name": "Coffee and Feels",
+      "url": "https://open.spotify.com/track/2Z2qsGVCBCAPGvXqe3JxeG"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -231,6 +215,22 @@
       "duration_ms": 178000,
       "name": "Noemie",
       "url": "https://open.spotify.com/track/0WcwBpZZ0CLBz47Z1fEqfy"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Travellers",
+        "url": "https://open.spotify.com/album/52gMQAcOxIRVUKsVRBxyHe"
+      },
+      "artists": [
+        {
+          "name": "Ran the Man",
+          "url": "https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu"
+        }
+      ],
+      "duration_ms": 215743,
+      "name": "Suburban Sunrise",
+      "url": "https://open.spotify.com/track/3kIyVa8Rnp80iREwvmdTip"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Just for a Moment",
-        "url": "https://open.spotify.com/album/7xsTvotryV8cW8m9RuiIEO"
-      },
-      "artists": [
-        {
-          "name": "M\u00d2Z\u00c2MB\u00ceQ\u00daE",
-          "url": "https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Just for a Moment",
-      "url": "https://open.spotify.com/track/1yzYunxXOdl5sQNy1WmOYO"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Resilience",
         "url": "https://open.spotify.com/album/02RAJQOn6I2qtoJt13m0Kg"
       },
@@ -639,6 +623,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Just for a Moment",
+        "url": "https://open.spotify.com/album/7xsTvotryV8cW8m9RuiIEO"
+      },
+      "artists": [
+        {
+          "name": "M\u00d2Z\u00c2MB\u00ceQ\u00daE",
+          "url": "https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Just for a Moment",
+      "url": "https://open.spotify.com/track/1yzYunxXOdl5sQNy1WmOYO"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Toledo",
         "url": "https://open.spotify.com/album/4faNjrs2415Xr3euT2LUl4"
       },
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Deneb Cygni",
-        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
-      },
-      "artists": [
-        {
-          "name": "Takuya Yamashita",
-          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
-        }
-      ],
-      "duration_ms": 453559,
-      "name": "Deneb Cygni - Original Mix",
-      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Overdrive",
         "url": "https://open.spotify.com/album/5swcUAvJoBBxKmwH60xs18"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 270027,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/5PhuSPukGj9G50AWPdpa93"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Deneb Cygni",
+        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
+      },
+      "artists": [
+        {
+          "name": "Takuya Yamashita",
+          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
+        }
+      ],
+      "duration_ms": 453559,
+      "name": "Deneb Cygni - Original Mix",
+      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "House Shit",
-        "url": "https://open.spotify.com/album/4G3XZqQsuKeQmfYuT5OsgD"
-      },
-      "artists": [
-        {
-          "name": "YellowStraps",
-          "url": "https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx"
-        }
-      ],
-      "duration_ms": 107586,
-      "name": "House Shit",
-      "url": "https://open.spotify.com/track/4jw0Ezk1j8xaAdKNdkgX22"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "You Just Danced",
         "url": "https://open.spotify.com/album/17d0PBIogEhv6lGBTgYXKV"
       },
@@ -875,6 +859,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "House Shit",
+        "url": "https://open.spotify.com/album/4G3XZqQsuKeQmfYuT5OsgD"
+      },
+      "artists": [
+        {
+          "name": "YellowStraps",
+          "url": "https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx"
+        }
+      ],
+      "duration_ms": 107586,
+      "name": "House Shit",
+      "url": "https://open.spotify.com/track/4jw0Ezk1j8xaAdKNdkgX22"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Late Night Obsession",
         "url": "https://open.spotify.com/album/30Wa2MaR7XuSsd4g79tNE4"
       },
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "V\u00edn",
-        "url": "https://open.spotify.com/album/2N4UzYs2Qk7xRyc67kaehi"
-      },
-      "artists": [
-        {
-          "name": "Janus Rasmussen",
-          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
-        }
-      ],
-      "duration_ms": 309596,
-      "name": "April",
-      "url": "https://open.spotify.com/track/6KmIwU5i6sCvyeNgP8QB4o"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Petricor",
         "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 204427,
       "name": "Petricor",
       "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "V\u00edn",
+        "url": "https://open.spotify.com/album/2N4UzYs2Qk7xRyc67kaehi"
+      },
+      "artists": [
+        {
+          "name": "Janus Rasmussen",
+          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
+        }
+      ],
+      "duration_ms": 309596,
+      "name": "April",
+      "url": "https://open.spotify.com/track/6KmIwU5i6sCvyeNgP8QB4o"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Parrot Fever",
+        "url": "https://open.spotify.com/album/4bupRjY5TnuoO5MbSxBIKD"
+      },
+      "artists": [
+        {
+          "name": "Kazam",
+          "url": "https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha"
+        }
+      ],
+      "duration_ms": 268474,
+      "name": "Parrot Fever",
+      "url": "https://open.spotify.com/track/1oFLxZDxOVThs5gjWIFlrN"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Profound EP",
         "url": "https://open.spotify.com/album/3SSZfZPuBVKpFaSriYWBUt"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 392347,
       "name": "Harmonic Dreams",
       "url": "https://open.spotify.com/track/13yelaqEIzn1hOz2ZRx2xz"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Parrot Fever",
-        "url": "https://open.spotify.com/album/4bupRjY5TnuoO5MbSxBIKD"
-      },
-      "artists": [
-        {
-          "name": "Kazam",
-          "url": "https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha"
-        }
-      ],
-      "duration_ms": 268474,
-      "name": "Parrot Fever",
-      "url": "https://open.spotify.com/track/1oFLxZDxOVThs5gjWIFlrN"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1055,22 +1055,6 @@
       "duration_ms": 233626,
       "name": "Messin' Around - Mogul Remix",
       "url": "https://open.spotify.com/track/2MuVffmR9wAEFbXFyd75W8"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "<3DAYSOFLOVE",
-        "url": "https://open.spotify.com/album/3rSkEED1B8lUxoQFaNwiTK"
-      },
-      "artists": [
-        {
-          "name": "Hypsidia",
-          "url": "https://open.spotify.com/artist/7yGLwWPe7sZPZwKMUVadkJ"
-        }
-      ],
-      "duration_ms": 305370,
-      "name": "<3DAYSOFLOVE",
-      "url": "https://open.spotify.com/track/29zlMjekcudZdtBi96VEhW"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1107,6 +1091,22 @@
       "duration_ms": 207500,
       "name": "Eyes on You",
       "url": "https://open.spotify.com/track/66EbSUqia2l6aOJvSKpOW7"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "<3DAYSOFLOVE",
+        "url": "https://open.spotify.com/album/3rSkEED1B8lUxoQFaNwiTK"
+      },
+      "artists": [
+        {
+          "name": "Hypsidia",
+          "url": "https://open.spotify.com/artist/7yGLwWPe7sZPZwKMUVadkJ"
+        }
+      ],
+      "duration_ms": 305370,
+      "name": "<3DAYSOFLOVE",
+      "url": "https://open.spotify.com/track/29zlMjekcudZdtBi96VEhW"
     },
     {
       "added_at": "2023-05-11 22:00:00",

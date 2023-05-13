@@ -3910,7 +3910,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 155294,
       "name": "CC Set",
       "url": "https://open.spotify.com/track/3v8fxsdHFgyBzpHhWcuYd3"
@@ -6070,7 +6070,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-23",
+      "date_removed": null,
       "duration_ms": 193800,
       "name": "Drive By",
       "url": "https://open.spotify.com/track/2u3kkvRqcYi56BNXEX6hri"
@@ -7864,7 +7864,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 170889,
       "name": "Forema",
       "url": "https://open.spotify.com/track/2WmQtBy5wG8rdeqYhwljNK"
@@ -8026,7 +8026,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-23",
+      "date_removed": null,
       "duration_ms": 167022,
       "name": "FUCK DA POLICE",
       "url": "https://open.spotify.com/track/6yyMD0sKGOovYrRaE1td8w"
@@ -8308,6 +8308,10 @@
         {
           "name": "Ivan Greko",
           "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
         }
       ],
       "date_added": "2022-10-14",

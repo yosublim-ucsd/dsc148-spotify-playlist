@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Alinéa](https://open.spotify.com/track/22lo0iW3QMBCTyVm1BnsWt) | [El Motor](https://open.spotify.com/artist/4NIlqFEWcoMo6rfATI1FRQ) | [El Motor](https://open.spotify.com/album/6IbcIVV1tB5vboWRJSe3ef) | 4:31 | 2020-06-23 | 2023-05-11 |
+| [Alinéa](https://open.spotify.com/track/22lo0iW3QMBCTyVm1BnsWt) | [El Motor](https://open.spotify.com/artist/4NIlqFEWcoMo6rfATI1FRQ) | [El Motor](https://open.spotify.com/album/6IbcIVV1tB5vboWRJSe3ef) | 4:31 | 2020-06-23 |  |
 | [Amalgame](https://open.spotify.com/track/21ATIZAwB9QXBOpTzw2lDM) | [Les Respectables](https://open.spotify.com/artist/1BgrTWzH5jW2zl79JfSLtl) | [$=Bonheur](https://open.spotify.com/album/3S1vz4DSEQFippvw8v05ev) | 4:27 | 2020-06-23 |  |
 | [Big Bang](https://open.spotify.com/track/0c8BkL4udr8Q3UN2rHLkUS) | [Galaxie](https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa) | [Le temps au point mort](https://open.spotify.com/album/3Gl5kyHaBRlOtbkbZdrDfU) | 3:20 | 2020-06-23 |  |
 | [Big Bang](https://open.spotify.com/track/7bfnzQ0SdG1mi3pItHO4n7) | [Galaxie](https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa) | [Le temps au point mort](https://open.spotify.com/album/01eDW3QDT4HjJ7vWa6tIup) | 3:20 | 2020-06-23 | 2022-07-29 |
@@ -91,7 +91,7 @@
 | [Tu ne peux pas partir](https://open.spotify.com/track/10rmSGVJFAkR3bBFLKKvIt) | [Cafeine](https://open.spotify.com/artist/0Ejf1nVc9FUIfi4czaMwwy) | [Mal éduqué mon amour](https://open.spotify.com/album/6lm22jTtAq2XSWcX4KuR1u) | 3:23 | 2020-06-23 |  |
 | [Tu ne peux pas partir](https://open.spotify.com/track/5lb1bhrrwwV1c4dQbGSIxm) | [Cafeine](https://open.spotify.com/artist/0Ejf1nVc9FUIfi4czaMwwy) | [Mal éduqué mon amour](https://open.spotify.com/album/1FyoH3mAEsI9F9U518fL2B) | 3:23 | 2020-06-23 | 2022-07-29 |
 | [Une araignée au plafond](https://open.spotify.com/track/0JNSKKRtaxBl8WKMdE148h) | [coma](https://open.spotify.com/artist/0HKMEtAro0rnwsLOr6wzEC) | [Coma](https://open.spotify.com/album/1UZHRqAz33EWEkCBcUh1QQ) | 3:39 | 2020-06-23 |  |
-| [Vent fou](https://open.spotify.com/track/6i3659FPWh4fL7dMCQYYeb) | [Jorane](https://open.spotify.com/artist/6i4QbQrxJaY2aDhTYOYvJ7) | [Vent fou](https://open.spotify.com/album/4meRurpCXE1T2EwMM9L02t) | 1:19 | 2020-06-23 |  |
+| [Vent fou](https://open.spotify.com/track/6i3659FPWh4fL7dMCQYYeb) | [Jorane](https://open.spotify.com/artist/6i4QbQrxJaY2aDhTYOYvJ7) | [Vent fou](https://open.spotify.com/album/4meRurpCXE1T2EwMM9L02t) | 1:19 | 2020-06-23 | 2023-05-13 |
 | [Vénus du Mile\-End](https://open.spotify.com/track/4t2Lu1XHneDYLvFARnpyhz) | [Les Chiens](https://open.spotify.com/artist/3RhGeas8gUsn6bmPpZYYFe) | [Le long sentier \(Une anthologie\)](https://open.spotify.com/album/68ypZdUt5HvLjwRdFGolAH) | 5:07 | 2020-06-23 | 2022-07-29 |
 | [Vénus du Mile\-End](https://open.spotify.com/track/5PAghngOh4fop5NV4hhJSp) | [Les Chiens](https://open.spotify.com/artist/3RhGeas8gUsn6bmPpZYYFe) | [La nuit dérobée](https://open.spotify.com/album/4XocEI6NWTsZtY1eJMhjmz) | 5:08 | 2020-06-23 | 2022-08-19 |
 

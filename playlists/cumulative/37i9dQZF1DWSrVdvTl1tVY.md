@@ -2,9 +2,9 @@
 
 ### [UK House Music](https://open.spotify.com/playlist/37i9dQZF1DWSrVdvTl1tVY)
 
-> The biggest house bangers popping off in the UK, let's go! Cover: Riton, FEYI
+> The biggest house bangers popping off in the UK, let's go! Cover: Becky Hill
 
-504 songs - 1 day 6 hr 20 min
+505 songs - 1 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Believe](https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Believe](https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N) | 6:48 | 2022-01-14 | 2022-04-23 |
 | [Believe In You](https://open.spotify.com/track/4jg1AyAqpMyNoSHNN6uw9P) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe), [Reigns](https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG) | [Believe In You](https://open.spotify.com/album/2v0KpPRBm2rMYHMWIMeUJj) | 2:54 | 2021-12-17 | 2022-03-12 |
 | [Better Me \(feat\. Lily Mckenzie\)](https://open.spotify.com/track/3aeqEyOCo9AaKboo37Wr8B) | [Saffron Stone](https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz), [Lily Mckenzie](https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN) | [Better Me \(feat\. Lily Mckenzie\)](https://open.spotify.com/album/6fQqgCDn84OWQZTSswLo6l) | 3:11 | 2022-03-25 | 2022-07-30 |
-| [Big Eff Off Groove](https://open.spotify.com/track/4gdwfPd0LcJ4GHzE9MPxsl) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [Big Eff Off Groove](https://open.spotify.com/album/2TWFldlGIkjFDpCq5BRH2Z) | 7:41 | 2022-12-02 |  |
+| [Big Eff Off Groove](https://open.spotify.com/track/4gdwfPd0LcJ4GHzE9MPxsl) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [Big Eff Off Groove](https://open.spotify.com/album/2TWFldlGIkjFDpCq5BRH2Z) | 7:41 | 2022-12-02 | 2023-05-13 |
 | [Big Talk](https://open.spotify.com/track/28wJwHEsUOnSDfoYi9OPkz) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Big Talk](https://open.spotify.com/album/4oWQgdwL4g852vzrqJ4ohp) | 2:40 | 2023-03-03 |  |
 | [Bill's Groove](https://open.spotify.com/track/1UtZw9Iu0mL6mMHksMN4Hk) | [Angel Lee](https://open.spotify.com/artist/2wu5DECdLoNlHYwdZQ592R), [LKP](https://open.spotify.com/artist/6NOsVeYpH4Tw17P70a1eFi) | [Bill's Groove](https://open.spotify.com/album/76yxcDJz9xKclhGUSdJ3fK) | 3:58 | 2022-10-13 | 2023-03-11 |
 | [Bionic Boy](https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Bionic Boy](https://open.spotify.com/album/3TZ40t04vfJ9MvEZcdoqsg) | 3:26 | 2022-06-09 | 2022-09-23 |
@@ -396,6 +396,7 @@
 | [Set Me Free](https://open.spotify.com/track/5zA3gMIFlgnhNQj39GcTqE) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Set Me Free](https://open.spotify.com/album/2SR6UldibmBVT6te65lEuI) | 3:00 | 2023-01-06 |  |
 | [Set My Mind Free](https://open.spotify.com/track/6YG9ny9p9PmMjIyJ0B1pVw) | [Matt Guy](https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B) | [Set My Mind Free](https://open.spotify.com/album/3ecx2vhbNcocjrQ0M74TnO) | 3:00 | 2022-09-22 | 2023-02-24 |
 | [Sick n’ Tired](https://open.spotify.com/track/0eSkCKFQsRZaut6LxJUKp1) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Sick n' Tired](https://open.spotify.com/album/3eaXEIANS0rJ10fAw2m2r6) | 5:59 | 2023-03-10 |  |
+| [Side Effects](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Side Effects](https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j) | 2:33 | 2023-05-12 |  |
 | [Siento](https://open.spotify.com/track/65d4aua5FrYn9CyKfmABR4) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Siento](https://open.spotify.com/album/2gXRx1iRPgKVSltTi7eBNa) | 3:37 | 2022-04-08 | 2022-08-05 |
 | [Signal \- Original](https://open.spotify.com/track/5oE3UrFw2cFuwMvgKNl4Ha) | [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Signal](https://open.spotify.com/album/5UpBGJmoXUsxLit9CrYpQS) | 7:29 | 2022-01-28 | 2022-05-20 |
 | [Silenced](https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Dark Matter](https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr) | 3:52 | 2022-02-25 | 2022-07-08 |

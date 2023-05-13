@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,525 likes - 127 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,615 likes - 127 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 31 | [サイレント・ヴォイス / with 寺井尚子](https://open.spotify.com/track/0m0H7NxmPiRv1E7yDHYb6F) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV), [Naoko Terai](https://open.spotify.com/artist/7otmuCdy15HH4CXtXeRxVM) | [サイレント・ヴォイス / with 寺井尚子](https://open.spotify.com/album/5SEsi8e78FRTZakCm4QaJF) | 4:55 |
 | 32 | [THE BEYOND](https://open.spotify.com/track/6dl8M66EcAPoZQATKRi2yp) | [LUNA SEA](https://open.spotify.com/artist/5oiTT9V0uAPYS8TABvvjnS) | [CROSS](https://open.spotify.com/album/0yGVq0iZ0Ej7OWcYxQzydi) | 5:33 |
 | 33 | [ブレイキングブレイジング](https://open.spotify.com/track/6vJkrNdMYGJSh5IduOfFpR) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [ブレイキングブレイジング](https://open.spotify.com/album/31fkJFiqOBrxwsFbSJcOwN) | 4:12 |
-| 34 | [HATENA](https://open.spotify.com/track/5UbPHARFFiDdkRgfsJ03Rt) | [PENGUIN RESEARCH](https://open.spotify.com/artist/4jiOvoNgxnEvdlBwrx6o28) | [HATENA](https://open.spotify.com/album/4hWdLdkGzwMstowEcJoGQw) | 3:29 |
+| 34 | [HATENA](https://open.spotify.com/track/79Jpqsmno4iZV7ko4h5rqM) | [PENGUIN RESEARCH](https://open.spotify.com/artist/4jiOvoNgxnEvdlBwrx6o28) | [逆光備忘録](https://open.spotify.com/album/6c9IBWiosIGvWUCNj4KYC8) | 3:33 |
 | 35 | [G](https://open.spotify.com/track/2SgMvyJn1D0ambp2Vm4Ts0) | [DREAMS COME TRUE](https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or) | [G](https://open.spotify.com/album/1X8FdKEQlPqdCMsDxxiSf8) | 4:45 |
 | 36 | [翔べ!ガンダム](https://open.spotify.com/track/6K9o8krsunY1ABd6w1FsXW) | [池田鴻](https://open.spotify.com/artist/3fIav2Iwr4ZhYGMe8hRs8V), [フィーリング・フリー](https://open.spotify.com/artist/0jpYHQy9n4YGEUvUtbAH1n), [ミュージッククリエイション](https://open.spotify.com/artist/0IDweRYyKNXtVQTQ69mTRX) | [翔べ!ガンダム](https://open.spotify.com/album/45dDyX7XuKGbtui6sFWy11) | 2:45 |
 | 37 | [焔の扉](https://open.spotify.com/track/0OGoqbqURRylj7v7cUoMMY) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [焔の扉](https://open.spotify.com/album/0SMBVzy8j0KY3Kmwmi9fXU) | 4:52 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 126 | [ビギニング](https://open.spotify.com/track/515LLsIoa7eetaTiFEJSa6) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [ビギニング](https://open.spotify.com/album/4oel0lHGTN643V87ohpAL1) | 3:24 |
 | 127 | [A Red Ray \(feat\. miwa\)](https://open.spotify.com/track/4kPYWusRFCUOrb1Qw7a4KF) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [Mobile Suit Gundam 40th Anniversary Album \~BEYOND\~](https://open.spotify.com/album/5zpZp7yQ1iRd9DuoLei2BI) | 4:53 |
 
-Snapshot ID: `MCwyY2QxYmU3MGY3ODUwMjVjNGNlZjQ2MzRjYWJmYjRlODJjYmNlOGYx`
+Snapshot ID: `MCw4NjE0OWNkMWIyMmRlNjdkMzUwMDhkZWJmZWQ5NmRmZGNiNGQ1MzU5`

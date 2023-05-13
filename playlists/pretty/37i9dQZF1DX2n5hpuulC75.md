@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 
 > Chill tunes for mellow moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,908 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,971 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 59 | [Do You Feel](https://open.spotify.com/track/1o7GN5kATFdAUw1d8Uimba) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Do You Feel](https://open.spotify.com/album/6zD2T7eIlbfZq3rZb1ngcW) | 3:54 |
 | 60 | [Wherever You Go \(You'll Never See Me\)](https://open.spotify.com/track/1G7KYThXAkjO11OhoKr6z1) | [Aybner](https://open.spotify.com/artist/4AStKJRM6DqXSdst3ENHJA) | [Wherever You Go \(You'll Never See Me\)](https://open.spotify.com/album/1Da9UhVgPmpSYlJsSHV9KG) | 2:56 |
 
-Snapshot ID: `MCwyYWUxZTE4NTU0MGQ3N2U5NzNkYThhM2U0ZDcyZjFiMWRlM2JmMWU1`
+Snapshot ID: `MCxjMTY2NzcwMTg5NDM5ZmE0YWQzMjlmNzdhY2Q0OWI3NmI5OTY4MDk2`

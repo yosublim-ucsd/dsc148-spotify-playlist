@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-172 songs - 8 hr 35 min
+174 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Enter With Caution \(feat\. Alix Robson\)](https://open.spotify.com/track/4sDBG6YWfUcWd6Cev8fWUJ) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Alix Robson](https://open.spotify.com/artist/79GdQ9zaVZKtAIe5XSItbT) | [Enter With Caution \(feat\. Alix Robson\)](https://open.spotify.com/album/15ShC3FREY48amM8OYEP0E) | 3:43 | 2022-05-06 | 2023-01-28 |
 | [Esa Fui Yo](https://open.spotify.com/track/0x50zDF6SsQqas9BzzfL49) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [Esa Fui Yo](https://open.spotify.com/album/4kRO16rJRxAFkSv4WN1bWE) | 2:06 | 2023-03-31 |  |
 | [Euphoria](https://open.spotify.com/track/7l9iHqc96MliysA243IK2V) | [Odd Language](https://open.spotify.com/artist/6jo39RCQ903pfIWvev74XB) | [Euphoria](https://open.spotify.com/album/41ANCAUNiWvzR9cjxq5iVD) | 2:52 | 2022-05-24 |  |
+| [Fade Into Your Light](https://open.spotify.com/track/4yS497HRlZTs3LJeDF6gLR) | [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa) | [Fade Into Your Light](https://open.spotify.com/album/6ZkgfIAclhPJOAwYOT05D2) | 2:33 | 2023-05-12 |  |
 | [Favors](https://open.spotify.com/track/3CkdtRM7B1cY9zk1Fkrbvo) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy) | [Favors](https://open.spotify.com/album/5QdDpNbkp0NYCzVsIHVtnY) | 2:10 | 2023-03-10 |  |
 | [Feels Like](https://open.spotify.com/track/2dJC7TpwGn8b2ricS0nnZV) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Feels Like](https://open.spotify.com/album/0VH6K3eQTPE3sdFAbNnW65) | 3:26 | 2022-08-12 | 2022-12-10 |
 | [Find Me](https://open.spotify.com/track/1ByFlaAaOkFzzIDhhBf3ox) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [3DI](https://open.spotify.com/artist/5lLpc0Fm6VJEcJxai3Fq4G) | [Find Me](https://open.spotify.com/album/0UmkkEWHquA9fVy8MjNMsB) | 3:09 | 2023-01-20 | 2023-04-09 |
@@ -161,6 +162,7 @@
 | [Traces Of You \- Luca Lush Remix](https://open.spotify.com/track/2YfkhjbPbmnkRfXZ2q1cVI) | [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa), [Luca Lush](https://open.spotify.com/artist/5oAjLXTvB7VDWn3Up9LYcQ) | [Traces Of You \(Luca Lush Remix\)](https://open.spotify.com/album/22sXlmZEldxRakyvyv6GyW) | 5:23 | 2023-03-17 | 2023-04-09 |
 | [Traces Of You \- Luca Lush Remix](https://open.spotify.com/track/7uKaLfNSrTcRmRdKO8f1vG) | [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa), [Luca Lush](https://open.spotify.com/artist/5oAjLXTvB7VDWn3Up9LYcQ) | [Traces Of You \(REMIXES\)](https://open.spotify.com/album/4IBnE0hUcJTHemHPNMc27Q) | 5:23 | 2023-04-07 |  |
 | [Treat U Wrong](https://open.spotify.com/track/0TtPLbRdf1d6paRb1XAXFg) | [aboywithabag](https://open.spotify.com/artist/6PqSrv8S89SEEpHAAqpUtY) | [Treat U Wrong](https://open.spotify.com/album/2h2VFBu0mviDo2RXXU9Yzm) | 2:02 | 2022-12-19 | 2023-04-09 |
+| [Trunk](https://open.spotify.com/track/3hx3VuB81vvTStn4gkke0D) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [Trunk](https://open.spotify.com/album/48Cw18pZx79ctaYTDAtD41) | 2:02 | 2023-05-12 |  |
 | [Tuxedo \(feat\. 24hrs\)](https://open.spotify.com/track/4Aps6ZUREBf9WKAOhfjDS0) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [Tuxedo \(feat\. 24hrs\)](https://open.spotify.com/album/3fRXsweRm7Z2fVxlTzM4tk) | 2:46 | 2022-09-30 | 2023-03-11 |
 | [Unbroken](https://open.spotify.com/track/7Dmucn3yhrWeSuaCYoR03n) | [Cabuizee](https://open.spotify.com/artist/60v1WXUYLa0WGarCGy7hF4) | [Unbroken](https://open.spotify.com/album/74IUD0zluNFVCdHgSNtFS8) | 3:15 | 2022-11-08 | 2023-02-11 |
 | [Under Pressure \(feat\. Dani King\)](https://open.spotify.com/track/317fuhJ0JKXQetp2ArD8L9) | [Kamas](https://open.spotify.com/artist/0HwWTf9vdcVii8ly6BP6M2), [RENN](https://open.spotify.com/artist/5avSbzlS5gKrlQ4uc718jA), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Under Pressure \(feat\. Dani King\)](https://open.spotify.com/album/4oz3RAbrJPvTB4B8dv3CFD) | 3:52 | 2022-06-24 | 2022-11-19 |

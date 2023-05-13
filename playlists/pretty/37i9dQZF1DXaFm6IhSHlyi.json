@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 138913,
+  "num_followers": 138941,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGJlY2Q1ODE1ZjkwZDZiMjQyNGUwYjdlZTlmOTE4NmJmYjAyYzhm",
+  "snapshot_id": "MCw2MjM5Y2UxMWIyZGQ4ODc0OTdhMGZlN2JlMGQ1ZjY3M2U3YmJkNGJl",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "Make You Feel My Love",
-      "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 173174,
       "name": "Can't Help Falling in Love",
       "url": "https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -715,26 +715,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "PINK PLANET",
-        "url": "https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 169127,
-      "name": "At My Worst (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/5OdNjYTpLjuDDPCBNWonRX"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Mi Persona Favorita",
         "url": "https://open.spotify.com/album/784Afuukiutm70xPgCQR0w"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 239972,
       "name": "Mi Persona Favorita",
       "url": "https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "PINK PLANET",
+        "url": "https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 169127,
+      "name": "At My Worst (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/5OdNjYTpLjuDDPCBNWonRX"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/6DQxe5EW0vZ1AfaoD8thFq"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        }
-      ],
-      "duration_ms": 160736,
-      "name": "17",
-      "url": "https://open.spotify.com/track/034KyQEk7IhbLtniVhBErj"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "LEO-NiNE",
         "url": "https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 219689,
       "name": "Kahit Maputi Na Ang Buhok ko - From \"The Hows Of Us\"",
       "url": "https://open.spotify.com/track/7aW2GrNlteWTwQZxX6LNjT"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/6DQxe5EW0vZ1AfaoD8thFq"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 160736,
+      "name": "17",
+      "url": "https://open.spotify.com/track/034KyQEk7IhbLtniVhBErj"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Malay Mo, Tayo",
-        "url": "https://open.spotify.com/album/0zBCehKCAFoYUPW0X2g9wj"
-      },
-      "artists": [
-        {
-          "name": "TJ Monterde",
-          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
-        }
-      ],
-      "duration_ms": 274291,
-      "name": "Malay Mo",
-      "url": "https://open.spotify.com/track/0B2GJuD8XZoovLyAvcYBsF"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Everyday Life",
         "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 230013,
       "name": "Church",
       "url": "https://open.spotify.com/track/1e8D1BCD2afT56Km7UahpB"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Malay Mo, Tayo",
+        "url": "https://open.spotify.com/album/0zBCehKCAFoYUPW0X2g9wj"
+      },
+      "artists": [
+        {
+          "name": "TJ Monterde",
+          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
+        }
+      ],
+      "duration_ms": 274291,
+      "name": "Malay Mo",
+      "url": "https://open.spotify.com/track/0B2GJuD8XZoovLyAvcYBsF"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Crying memories",
-        "url": "https://open.spotify.com/album/38CvU57pEdAkDZ8wDOgJCt"
-      },
-      "artists": [
-        {
-          "name": "Leina",
-          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
-        }
-      ],
-      "duration_ms": 219913,
-      "name": "\u672a\u958b\u5c01\u306e\u604b",
-      "url": "https://open.spotify.com/track/1Te8ArNC2nOe79Q2IKXBm9"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 258937,
       "name": "Primera Cita - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/1kw5VKLs2JFpg3FjY1RwCL"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Crying memories",
+        "url": "https://open.spotify.com/album/38CvU57pEdAkDZ8wDOgJCt"
+      },
+      "artists": [
+        {
+          "name": "Leina",
+          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
+        }
+      ],
+      "duration_ms": 219913,
+      "name": "\u672a\u958b\u5c01\u306e\u604b",
+      "url": "https://open.spotify.com/track/1Te8ArNC2nOe79Q2IKXBm9"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1971,18 +1971,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Right There",
-        "url": "https://open.spotify.com/album/4xGFzLizscpyGNhPmK7vZK"
+        "name": "Flourishing",
+        "url": "https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt"
       },
       "artists": [
         {
-          "name": "Ramzi",
-          "url": "https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo"
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
         }
       ],
-      "duration_ms": 239946,
-      "name": "Right There",
-      "url": "https://open.spotify.com/track/1LJlfMCNcVuIRTUJY3BmTX"
+      "duration_ms": 241093,
+      "name": "Call It Love",
+      "url": "https://open.spotify.com/track/3HxurUySp2zUcExO1zi6Y9"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2007,18 +2007,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Flourishing",
-        "url": "https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt"
+        "name": "Right There",
+        "url": "https://open.spotify.com/album/4xGFzLizscpyGNhPmK7vZK"
       },
       "artists": [
         {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+          "name": "Ramzi",
+          "url": "https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo"
         }
       ],
-      "duration_ms": 241093,
-      "name": "Call It Love",
-      "url": "https://open.spotify.com/track/3HxurUySp2zUcExO1zi6Y9"
+      "duration_ms": 239946,
+      "name": "Right There",
+      "url": "https://open.spotify.com/track/1LJlfMCNcVuIRTUJY3BmTX"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2071,18 +2071,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/3yEQXRLQ8SGkgwhGm9r7m5"
+        "name": "Ang Kwento Ng Pag-Ibig",
+        "url": "https://open.spotify.com/album/6yAWkGEiemE4t8Gh55gmSN"
       },
       "artists": [
         {
-          "name": "\u6df1\u6839",
-          "url": "https://open.spotify.com/artist/5wCs789dq9VkEJAdTxlFlt"
+          "name": "Steph",
+          "url": "https://open.spotify.com/artist/59vzNh002ixVsTYtMAwn6i"
         }
       ],
-      "duration_ms": 225082,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/4RDy6zlwAFeMGGKeeJTwUA"
+      "duration_ms": 272288,
+      "name": "Ang Kwento Ng Pag-Ibig",
+      "url": "https://open.spotify.com/track/7xtHYZxdaLiH5Ia6y5CVnS"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2111,18 +2111,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Ang Kwento Ng Pag-Ibig",
-        "url": "https://open.spotify.com/album/6yAWkGEiemE4t8Gh55gmSN"
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/3yEQXRLQ8SGkgwhGm9r7m5"
       },
       "artists": [
         {
-          "name": "Steph",
-          "url": "https://open.spotify.com/artist/59vzNh002ixVsTYtMAwn6i"
+          "name": "\u6df1\u6839",
+          "url": "https://open.spotify.com/artist/5wCs789dq9VkEJAdTxlFlt"
         }
       ],
-      "duration_ms": 272288,
-      "name": "Ang Kwento Ng Pag-Ibig",
-      "url": "https://open.spotify.com/track/7xtHYZxdaLiH5Ia6y5CVnS"
+      "duration_ms": 225082,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/4RDy6zlwAFeMGGKeeJTwUA"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "I mecht nur wissn wo du bist (I.U.E.)",
-        "url": "https://open.spotify.com/album/0UBZIrwAvTOqVty6DaeNR1"
-      },
-      "artists": [
-        {
-          "name": "Popwal",
-          "url": "https://open.spotify.com/artist/3MZS307A4x1ZFtD9MAeZhx"
-        }
-      ],
-      "duration_ms": 207920,
-      "name": "I mecht nur wissn wo du bist - I.U.E.",
-      "url": "https://open.spotify.com/track/2NFS0NEUZwJD7jmjOl9sGP"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "I Miss You",
         "url": "https://open.spotify.com/album/5tnHRJxTgH9mPdCThZFF5P"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 251000,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/7AiZFV9YQFHGNXhajy0eFB"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "I mecht nur wissn wo du bist (I.U.E.)",
+        "url": "https://open.spotify.com/album/0UBZIrwAvTOqVty6DaeNR1"
+      },
+      "artists": [
+        {
+          "name": "Popwal",
+          "url": "https://open.spotify.com/artist/3MZS307A4x1ZFtD9MAeZhx"
+        }
+      ],
+      "duration_ms": 207920,
+      "name": "I mecht nur wissn wo du bist - I.U.E.",
+      "url": "https://open.spotify.com/track/2NFS0NEUZwJD7jmjOl9sGP"
     },
     {
       "added_at": "2022-10-17 15:00:00",

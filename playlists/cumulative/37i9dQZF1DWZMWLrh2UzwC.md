@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: James Arthur
 
-5,887 songs - 13 day 10 hr 47 min
+5,889 songs - 13 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1874,6 +1874,7 @@
 | [Glitch Mode](https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:27 | 2022-03-31 | 2022-04-08 |
 | [GLORIA](https://open.spotify.com/track/6CnvWizSE8b1xgJAu427uB) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [GLORIA](https://open.spotify.com/album/5vaxD3z7lhHm0PcbAtSI0E) | 4:04 | 2022-08-11 | 2022-08-19 |
 | [Gloria](https://open.spotify.com/track/0eiSOdI9rD539QlKroFnSn) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Gloria](https://open.spotify.com/album/1DzSigKyX4kNNgLjhiOpaS) | 1:50 | 2023-01-19 | 2023-02-03 |
+| [Glorious \- The Official Song of FIFA U\-20 World Cup Argentina 2023™](https://open.spotify.com/track/4X7IYCqR576rQi9D1pVUxQ) | [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Glorious \(The Official Song of FIFA U\-20 World Cup Argentina 2023™\)](https://open.spotify.com/album/2m15vzjiJstBHRoB8GqFZT) | 3:23 | 2023-05-11 |  |
 | [GLORY](https://open.spotify.com/track/3tMxtuYadQT7qMVVlCeI9Y) | [SYA](https://open.spotify.com/artist/0rW7V7HZoluUNdKnHK2lTl), [ASYRAF NASIR](https://open.spotify.com/artist/0AuICTYmANWThRroYVxJrT) | [GLORY](https://open.spotify.com/album/3NMz7gHtA29851KYQdqyEX) | 3:06 | 2022-11-24 | 2022-12-02 |
 | [Glory Boyz feat\. 904TEZZO](https://open.spotify.com/track/471zaxTcJ6Ik7XjnhNc5OD) | [Lil Boom](https://open.spotify.com/artist/1mmlWsyPJvvxMdabcGJjRn), [904TEZZO](https://open.spotify.com/artist/56HrCPz22OqbQLizgOEjm7) | [COLORFUL](https://open.spotify.com/album/0AvHIGhIEaYmYLqCw9rgba) | 1:22 | 2022-12-08 | 2022-12-16 |
 | [GLU](https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [GLU](https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe) | 4:22 | 2023-03-16 | 2023-03-25 |
@@ -4359,7 +4360,7 @@
 | [Side](https://open.spotify.com/track/3YNgpO4qcJ84ZGftgmysKv) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Side](https://open.spotify.com/album/4AmiK3Gm7keBi59AwVL1mR) | 3:41 | 2022-08-11 | 2022-08-19 |
 | [Side by Side \(from 'The Amazing Maurice'\)](https://open.spotify.com/track/0AIlOIOaMDbOc38YaAfp1Q) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Side by Side \(from 'The Amazing Maurice'\)](https://open.spotify.com/album/7rKwtSZtahZjbVlIphiGpD) | 2:47 | 2022-12-01 | 2022-12-09 |
 | [Side By Side \(with MKLA\)](https://open.spotify.com/track/37107dPB28NderX4Tpbirg) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Side By Side \(with MKLA\)](https://open.spotify.com/album/41tTMz5QHSUZgrKEYzsPlH) | 2:33 | 2022-07-07 | 2022-07-15 |
-| [Side Effects](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/2QsMZVsBumu6t90SB3yGrH) | [Side Effects](https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j) | 2:33 | 2023-05-11 |  |
+| [Side Effects](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Side Effects](https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j) | 2:33 | 2023-05-11 |  |
 | [Side Eyes](https://open.spotify.com/track/7zVvd9p9Df5XT2xFZNF7zT) | [MAJULAH WEEKENDER](https://open.spotify.com/artist/5QLgkIgeQXD67BvBMYXyDU), [Leeray](https://open.spotify.com/artist/5iYfkAR2436UVRFEFm9iHr), [PravOnTheLoose](https://open.spotify.com/artist/5HvJGgEq2XovGcbdGmWKXg) | [Side Eyes](https://open.spotify.com/album/3CkdRWwKK0FKgqRGauhVCH) | 2:13 | 2022-05-05 | 2022-05-13 |
 | [Sidelines](https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Sidelines](https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF) | 4:24 | 2022-04-14 | 2022-04-22 |
 | [SIDEWAYS](https://open.spotify.com/track/5IhciPDXGz7MGrHKJwexjr) | [ki mi](https://open.spotify.com/artist/4d39hDGApIZV3x5obwnVpZ), [Kinsan](https://open.spotify.com/artist/36W2yCB3Ay3GUKkP52ZXfz) | [SIDEWAYS](https://open.spotify.com/album/5joS2rXWzVhtXiBk4DOkJL) | 1:21 | 2022-11-17 | 2022-11-25 |
@@ -4919,6 +4920,7 @@
 | [The Only Pain I Need](https://open.spotify.com/track/783qLUZ30fthoW3J03wO2s) | [Prince Husein](https://open.spotify.com/artist/3JzIIqZI9biLWd2LyC6lus) | [The Only Pain I Need](https://open.spotify.com/album/2LD06xrg5OXDkQVRnHg69x) | 3:29 | 2022-06-30 | 2022-07-08 |
 | [The Outsider](https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider](https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798) | 3:00 | 2022-03-10 | 2022-03-18 |
 | [The People Say](https://open.spotify.com/track/51Xf6j7GapMJDWO0NXLS7T) | [Steve Mason](https://open.spotify.com/artist/4ieS1hHc74D9RXhkyoriDU) | [The People Say](https://open.spotify.com/album/0vWRvfBYsFjZZ3dxCmoGMf) | 4:25 | 2023-01-26 | 2023-02-03 |
+| [The Planet](https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Planet](https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5) | 2:58 | 2023-05-11 |  |
 | [The Problem Song](https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [The Problem Song](https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX) | 2:37 | 2022-09-29 | 2022-10-07 |
 | [The Race](https://open.spotify.com/track/28Uw7wcsuQQpm5xElRoiww) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [The Race](https://open.spotify.com/album/4BTzguyoRmiBkf9KYV60Dy) | 2:21 | 2023-03-09 | 2023-03-18 |
 | [The Rain](https://open.spotify.com/track/5nUXhYRegkDRODbXbz0pad) | [Kartik Kuna](https://open.spotify.com/artist/5kA8bovz1xGeNSZ2pjc2du) | [The Rain](https://open.spotify.com/album/27AjAlhlVH6Wk15fKzM2Vx) | 3:21 | 2022-06-23 | 2022-07-01 |

@@ -4,7 +4,7 @@
 
 > Channel some chilled\-out back yard vibes.
 
-263 songs - 16 hr 24 min
+265 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Another Story](https://open.spotify.com/track/34N4miRYCGQwmQEXoCiuuL) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Let's Be Still](https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42) | 4:34 | 2022-04-15 |  |
 | [Anybody Else](https://open.spotify.com/track/48V2ir4va6RWkIWJEcl8ip) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Deadeye](https://open.spotify.com/album/0lzI1rQiTkkWyse0qv4y7C) | 4:03 | 2021-10-29 | 2022-07-27 |
 | [Anybody Else](https://open.spotify.com/track/4tGhOyRQ7SS4xOZ7Iw3uQr) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Deadeye](https://open.spotify.com/album/2jqeCy5ydYWWWYB11VMS2V) | 4:03 | 2022-04-15 |  |
-| [April](https://open.spotify.com/track/6J0OvmRxVmiRyLeJ0aBryf) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:08 | 2022-04-15 |  |
+| [April](https://open.spotify.com/track/6J0OvmRxVmiRyLeJ0aBryf) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:08 | 2022-04-15 | 2023-05-13 |
 | [As It Is](https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Because I Wanted You to Know](https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8) | 3:04 | 2022-04-15 |  |
 | [As It Is](https://open.spotify.com/track/3zk8q1oiLgGtnPnepxF2vc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [As It Is](https://open.spotify.com/album/6ZslerQEyaHzEITrBQahOZ) | 3:04 | 2021-10-29 | 2022-07-29 |
 | [Ashes and Leaves](https://open.spotify.com/track/64q6TPp4OacNHu9gulAXsv) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Ashes and Leaves](https://open.spotify.com/album/3W5igH7osnheDaB6nivsaL) | 3:32 | 2021-10-29 | 2022-04-21 |
@@ -68,6 +68,7 @@
 | [doomsday](https://open.spotify.com/track/27KG1LszbO6bBHA0tPgeuW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [doomsday](https://open.spotify.com/album/3RuDESb4PCEevmw6FVzOLm) | 4:28 | 2021-10-29 | 2022-07-29 |
 | [doomsday](https://open.spotify.com/track/4WjxtORnwPavm5PDsAWJEc) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 4:28 | 2022-10-07 |  |
 | [doomsday](https://open.spotify.com/track/6bpZMLiRQDm2XcjZudu3xV) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 4:28 | 2022-04-15 | 2022-10-13 |
+| [Down \(Exit Song\)](https://open.spotify.com/track/4mw2XX72WZ43X7QcrrlIf9) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI), [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Down \(Exit Song\)](https://open.spotify.com/album/78SFR8C0xd8wt4vDuhxmqK) | 3:07 | 2023-05-12 |  |
 | [Dreamers](https://open.spotify.com/track/74892qRbe5YeOnlPAYZzoG) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Dreamers](https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA) | 3:27 | 2022-04-15 | 2022-04-21 |
 | [Dublin, Texas](https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c) | [RF Shannon](https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5) | [Dublin, Texas](https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW) | 4:29 | 2021-10-29 | 2022-11-13 |
 | [Easy Rider](https://open.spotify.com/track/12AZ6nSJdq3bYgVeza8nSE) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Easy Rider](https://open.spotify.com/album/0ttq5m5vbcZNkRm85wDXh7) | 3:49 | 2021-10-29 | 2022-05-10 |
@@ -128,6 +129,7 @@
 | [I Wish I Had](https://open.spotify.com/track/0KkLD3H6kYylkLLVyFWX31) | [Josiah Johnson](https://open.spotify.com/artist/1Vii05hSGW51heihg6h2Gg) | [Every Feeling On A Loop](https://open.spotify.com/album/17MXfeDk8JUKn7gPoWYfZz) | 4:45 | 2021-10-29 | 2022-07-29 |
 | [idkwntht](https://open.spotify.com/track/2HrKYkfaYehPkzBy31XBbG) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [idkwntht](https://open.spotify.com/album/6wfWED4qkP48hB4sPBUX5g) | 4:45 | 2022-04-15 | 2022-07-22 |
 | [If I Was](https://open.spotify.com/track/57VnCqrgGosD2onpFsXIYy) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [If I Was](https://open.spotify.com/album/32SM03aoRXJ6ABsJGkdkJh) | 4:26 | 2021-10-29 | 2022-07-29 |
+| [If We Were Vampires \(feat\. Wesley Schultz\) \- Spotify Singles](https://open.spotify.com/track/6LKvzEJQTIm2RrWAMPwQH6) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Spotify Singles](https://open.spotify.com/album/6WdZ6j0Mm6fOzpyHXKx8PP) | 3:37 | 2023-05-12 |  |
 | [If You Need To, Keep Time On Me](https://open.spotify.com/track/588zNOzyZ0NbK8kMwYv5lO) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [If You Need To, Keep Time On Me](https://open.spotify.com/album/0ieXS9qaiTJHZPQtVG0BHF) | 3:30 | 2021-10-29 | 2022-07-28 |
 | [If You Need To, Keep Time on Me](https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Crack\-Up](https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v) | 3:30 | 2022-04-15 |  |
 | [If/Then](https://open.spotify.com/track/690kSfTxw0OVxgRxHlT4bm) | [Davis John Patton](https://open.spotify.com/artist/4BXF9pCPS864m8VMjuR4Pl) | [If/Then](https://open.spotify.com/album/3k869jddn1qTtcyFECxjy0) | 3:14 | 2022-04-15 | 2022-04-21 |
@@ -147,7 +149,7 @@
 | [Lie to Me](https://open.spotify.com/track/76MCLNEw1AbrDjlprsoFkP) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Lie to Me](https://open.spotify.com/album/4FfQqWJbo7vCoC3oxz3k7E) | 3:25 | 2021-10-29 | 2022-07-25 |
 | [Lighthouse](https://open.spotify.com/track/36EZQkrc24v7LkFnUFbG0y) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Reliever](https://open.spotify.com/album/5jPgTebUcZ6KyqNmYEhP07) | 3:24 | 2022-04-15 | 2022-04-20 |
 | [Limb](https://open.spotify.com/track/2maREpp3D44pj1yCM3o0sq) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Fragments EP](https://open.spotify.com/album/6MFubeEasrCBNKpo26Ddx9) | 3:26 | 2021-11-24 | 2022-05-23 |
-| [Little Lover](https://open.spotify.com/track/4wx3CZ1ykwZj7KY8S2dkC9) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Sleeping Operator](https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq) | 4:50 | 2022-04-15 |  |
+| [Little Lover](https://open.spotify.com/track/4wx3CZ1ykwZj7KY8S2dkC9) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Sleeping Operator](https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq) | 4:50 | 2022-04-15 | 2023-05-13 |
 | [Little Lover](https://open.spotify.com/track/7atukzwVcRwDfzTQwJTvKm) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Sleeping Operator](https://open.spotify.com/album/3heNYqE1CUM8WlJGm6UPEj) | 4:50 | 2021-10-29 | 2022-04-21 |
 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 | 2021-10-29 |  |
 | [Losing You](https://open.spotify.com/track/6tPrmeifTXshblYA7ahTUA) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:18 | 2021-10-29 |  |

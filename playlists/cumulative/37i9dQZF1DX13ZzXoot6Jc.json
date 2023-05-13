@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-31",
-  "description": "A collection of hits that will have you singing every word. Cover: Morgan Wallen",
+  "description": "A collection of hits that will have you singing every word. Cover: Nate Smith",
   "name": "Country Favourites",
   "tracks": [
     {
@@ -520,7 +520,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 236455,
       "name": "Country On",
       "url": "https://open.spotify.com/track/1tRxwf8Q0AcshfHuaD86Yt"
@@ -1298,7 +1298,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-13",
       "duration_ms": 156275,
       "name": "hole in the bottle (with Shania Twain)",
       "url": "https://open.spotify.com/track/2bV4NwncWMnVvcWyU2yxwB"
@@ -1939,6 +1939,24 @@
     },
     {
       "album": {
+        "name": "Need A Favor",
+        "url": "https://open.spotify.com/album/72HQoHvsJTqQaCh3tKyVrd"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197400,
+      "name": "Need A Favor",
+      "url": "https://open.spotify.com/track/5jUOG0aeAofL5u3UWyrtDO"
+    },
+    {
+      "album": {
         "name": "Reboot",
         "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
       },
@@ -2266,6 +2284,24 @@
       "duration_ms": 201832,
       "name": "REDNECKER",
       "url": "https://open.spotify.com/track/0YVdTI4w1BEqSjGNXcRjX1"
+    },
+    {
+      "album": {
+        "name": "Religiously",
+        "url": "https://open.spotify.com/album/5M1xyJCeOsknHsg8k3yOxI"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178723,
+      "name": "Religiously",
+      "url": "https://open.spotify.com/track/0ec7EBr0mjWO6J7TRr09bN"
     },
     {
       "album": {

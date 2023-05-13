@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 285621,
+  "num_followers": 286072,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTY0NThmM2U0YzFjNjMwODNhZjcwZjc2N2VmZDNlMjY4Mzg0N2Jm",
+  "snapshot_id": "MCxjMTQ1ZTdkYjhhNjIwYTE4NjQxYjZjNGUyMmVhZGJkYjUwYWI2NDNj",
   "tracks": [
     {
       "added_at": "2023-05-09 09:26:49",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-05-09 09:26:49",
       "album": {
-        "name": "Les ronds de carotte",
-        "url": "https://open.spotify.com/album/31bS3FqWVQ9st6vTse9ZEw"
-      },
-      "artists": [
-        {
-          "name": "Thomas Fersen",
-          "url": "https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM"
-        }
-      ],
-      "duration_ms": 245226,
-      "name": "Au caf\u00e9 de la paix",
-      "url": "https://open.spotify.com/track/7lTYyo3pDiHnKpw3qSDBa8"
-    },
-    {
-      "added_at": "2023-05-09 09:26:49",
-      "album": {
         "name": "Blossom Dearie (Expanded Edition)",
         "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 143760,
       "name": "Tout Doucement",
       "url": "https://open.spotify.com/track/0OGo0CHKYXBzb9A9KdtQLz"
+    },
+    {
+      "added_at": "2023-05-09 09:26:49",
+      "album": {
+        "name": "Les ronds de carotte",
+        "url": "https://open.spotify.com/album/31bS3FqWVQ9st6vTse9ZEw"
+      },
+      "artists": [
+        {
+          "name": "Thomas Fersen",
+          "url": "https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM"
+        }
+      ],
+      "duration_ms": 245226,
+      "name": "Au caf\u00e9 de la paix",
+      "url": "https://open.spotify.com/track/7lTYyo3pDiHnKpw3qSDBa8"
     },
     {
       "added_at": "2023-05-09 09:26:49",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-05-09 09:26:49",
       "album": {
+        "name": "Navega",
+        "url": "https://open.spotify.com/album/5L0eCMei56cSPTQnNL0Ipu"
+      },
+      "artists": [
+        {
+          "name": "Mayra Andrade",
+          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "Comme s'il en pleuvait",
+      "url": "https://open.spotify.com/track/1bSsHUOFmxzNARPujtglaH"
+    },
+    {
+      "added_at": "2023-05-09 09:26:49",
+      "album": {
         "name": "Rendez Vous",
         "url": "https://open.spotify.com/album/5u7sQwDpqDmhOj72qdLi3Y"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 276720,
       "name": "Samba Saravah",
       "url": "https://open.spotify.com/track/2g86TduNPjOj3bRcgpQEpL"
-    },
-    {
-      "added_at": "2023-05-09 09:26:49",
-      "album": {
-        "name": "Navega",
-        "url": "https://open.spotify.com/album/5L0eCMei56cSPTQnNL0Ipu"
-      },
-      "artists": [
-        {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "Comme s'il en pleuvait",
-      "url": "https://open.spotify.com/track/1bSsHUOFmxzNARPujtglaH"
     },
     {
       "added_at": "2023-05-09 09:26:49",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-05-09 09:26:49",
       "album": {
+        "name": "Chansons",
+        "url": "https://open.spotify.com/album/2BbY1j3Omk7pQsDKjl3r7w"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "J'attendrai",
+      "url": "https://open.spotify.com/track/1MllJS2dPDoVBuWVMoLujP"
+    },
+    {
+      "added_at": "2023-05-09 09:26:49",
+      "album": {
         "name": "N\u00b04",
         "url": "https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 179706,
       "name": "Les eaux de Mars",
       "url": "https://open.spotify.com/track/3FopnRPK626Fbu4ErKdtUo"
-    },
-    {
-      "added_at": "2023-05-09 09:26:49",
-      "album": {
-        "name": "Chansons",
-        "url": "https://open.spotify.com/album/2BbY1j3Omk7pQsDKjl3r7w"
-      },
-      "artists": [
-        {
-          "name": "Jill Barber",
-          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "J'attendrai",
-      "url": "https://open.spotify.com/track/1MllJS2dPDoVBuWVMoLujP"
     },
     {
       "added_at": "2023-05-09 09:26:49",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-05-09 09:26:49",
       "album": {
-        "name": "Chansons sans \u00e9poques: 1964 - 1968 (Remasteris\u00e9 en 2017)",
-        "url": "https://open.spotify.com/album/0lFb6bBBCGagIFrblxhjE3"
-      },
-      "artists": [
-        {
-          "name": "Charles Trenet",
-          "url": "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
-        }
-      ],
-      "duration_ms": 193586,
-      "name": "Si tu vas \u00e0 Paris - Remasteris\u00e9 en 2017",
-      "url": "https://open.spotify.com/track/0WYNxfmeHtYss2iUaiEDCJ"
-    },
-    {
-      "added_at": "2023-05-09 09:26:49",
-      "album": {
         "name": "Chante Vian et Higelin",
         "url": "https://open.spotify.com/album/3HeAWCVAleqYP5Vvdc8jdy"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 141306,
       "name": "La Grippe",
       "url": "https://open.spotify.com/track/7kcRZ2mqIYx1y3LNiOd6lM"
+    },
+    {
+      "added_at": "2023-05-09 09:26:49",
+      "album": {
+        "name": "Chansons sans \u00e9poques: 1964 - 1968 (Remasteris\u00e9 en 2017)",
+        "url": "https://open.spotify.com/album/0lFb6bBBCGagIFrblxhjE3"
+      },
+      "artists": [
+        {
+          "name": "Charles Trenet",
+          "url": "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
+        }
+      ],
+      "duration_ms": 193586,
+      "name": "Si tu vas \u00e0 Paris - Remasteris\u00e9 en 2017",
+      "url": "https://open.spotify.com/track/0WYNxfmeHtYss2iUaiEDCJ"
     },
     {
       "added_at": "2023-05-09 09:26:49",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-05-09 09:26:49",
       "album": {
+        "name": "Chansons",
+        "url": "https://open.spotify.com/album/2BbY1j3Omk7pQsDKjl3r7w"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "duration_ms": 203840,
+      "name": "Plus bleu que tes yeux",
+      "url": "https://open.spotify.com/track/7kZZqvxiakch8uyU9fY7hC"
+    },
+    {
+      "added_at": "2023-05-09 09:26:49",
+      "album": {
         "name": "Chambre Avec Vue",
         "url": "https://open.spotify.com/album/1EE8dKVd22YHhZT2LoiEOB"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 257240,
       "name": "Mes pas dans la neige - Spanish Song Bird",
       "url": "https://open.spotify.com/track/09iBzIVcKTwLhg49ny9j0z"
-    },
-    {
-      "added_at": "2023-05-09 09:26:49",
-      "album": {
-        "name": "Chansons",
-        "url": "https://open.spotify.com/album/2BbY1j3Omk7pQsDKjl3r7w"
-      },
-      "artists": [
-        {
-          "name": "Jill Barber",
-          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
-        }
-      ],
-      "duration_ms": 203840,
-      "name": "Plus bleu que tes yeux",
-      "url": "https://open.spotify.com/track/7kZZqvxiakch8uyU9fY7hC"
     },
     {
       "added_at": "2023-05-09 09:26:49",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2023-05-09 09:26:49",
       "album": {
+        "name": "Chambre Avec Vue",
+        "url": "https://open.spotify.com/album/1EE8dKVd22YHhZT2LoiEOB"
+      },
+      "artists": [
+        {
+          "name": "Henri Salvador",
+          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+        }
+      ],
+      "duration_ms": 168800,
+      "name": "Faire des ronds dans l'eau",
+      "url": "https://open.spotify.com/track/7JFT6vfzNI3Qtyyza6J55R"
+    },
+    {
+      "added_at": "2023-05-09 09:26:49",
+      "album": {
         "name": "The Best Of Bardot",
         "url": "https://open.spotify.com/album/7zBRw7aeKzugZ5bkFtcSID"
       },
@@ -1615,6 +1631,22 @@
     {
       "added_at": "2023-05-09 09:26:49",
       "album": {
+        "name": "Tous mes r\u00eaves",
+        "url": "https://open.spotify.com/album/4QKe2jts0wXrjtSjhUW974"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "duration_ms": 155664,
+      "name": "Tous mes r\u00eaves",
+      "url": "https://open.spotify.com/track/2yL5SiTTbnLeddxS3mbt3v"
+    },
+    {
+      "added_at": "2023-05-09 09:26:49",
+      "album": {
         "name": "Souchon dans l'air (Vol. 1)",
         "url": "https://open.spotify.com/album/5IGv8URch14ZFVg4xmWGsR"
       },
@@ -1627,22 +1659,6 @@
       "duration_ms": 214784,
       "name": "Quand j'serai K.O",
       "url": "https://open.spotify.com/track/45csvaQWw0MMkEv0pP7YMc"
-    },
-    {
-      "added_at": "2023-05-09 09:26:49",
-      "album": {
-        "name": "Chambre Avec Vue",
-        "url": "https://open.spotify.com/album/1EE8dKVd22YHhZT2LoiEOB"
-      },
-      "artists": [
-        {
-          "name": "Henri Salvador",
-          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
-        }
-      ],
-      "duration_ms": 168800,
-      "name": "Faire des ronds dans l'eau",
-      "url": "https://open.spotify.com/track/7JFT6vfzNI3Qtyyza6J55R"
     },
     {
       "added_at": "2023-05-09 09:26:49",
@@ -1675,22 +1691,6 @@
       "duration_ms": 221413,
       "name": "Tu t'laisses aller",
       "url": "https://open.spotify.com/track/1zv0wKzFiSguxypzw67DgN"
-    },
-    {
-      "added_at": "2023-05-09 09:26:49",
-      "album": {
-        "name": "Tous mes r\u00eaves",
-        "url": "https://open.spotify.com/album/4QKe2jts0wXrjtSjhUW974"
-      },
-      "artists": [
-        {
-          "name": "Jill Barber",
-          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
-        }
-      ],
-      "duration_ms": 155664,
-      "name": "Tous mes r\u00eaves",
-      "url": "https://open.spotify.com/track/2yL5SiTTbnLeddxS3mbt3v"
     },
     {
       "added_at": "2023-05-09 09:26:49",

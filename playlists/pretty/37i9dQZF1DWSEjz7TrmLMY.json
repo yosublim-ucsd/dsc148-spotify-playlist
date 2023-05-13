@@ -1,15 +1,15 @@
 {
   "description": "canto de tristeza porque lo nuestro termin\u00f3 ",
-  "num_followers": 53152,
+  "num_followers": 53226,
   "original_name": "perd\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjAwYTg4MTIzNTA0ZDQ0NzRmNDk3OGQ3MDI5NzZmNDJkMjdiYTc0",
+  "snapshot_id": "MCw1NDg0YmI5N2U3Y2VlOWVhMjJhZWJhYzZkMGRhNDhmYzYwNGY3MzQ0",
   "tracks": [
     {
-      "added_at": "2023-05-12 00:54:48",
+      "added_at": "2023-05-13 00:52:31",
       "album": {
         "name": "Que Vuelvas",
         "url": "https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/2FDFz5TuYlpP180AUicAcl"
     },
     {
-      "added_at": "2023-05-12 00:54:48",
+      "added_at": "2023-05-13 00:52:31",
       "album": {
         "name": "Afortunado",
         "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
@@ -335,18 +335,18 @@
     {
       "added_at": "2022-08-02 23:50:53",
       "album": {
-        "name": "Recuerden Mi Estilo",
-        "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
+        "name": "Me Dej\u00e9 Llevar",
+        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
       },
       "artists": [
         {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 183547,
-      "name": "No Lo Hice Bien",
-      "url": "https://open.spotify.com/track/211mktDmIq7g2Q4gBTXphj"
+      "duration_ms": 231173,
+      "name": "Te Fall\u00e9",
+      "url": "https://open.spotify.com/track/2UDoZZSrs3NxlmvFZbffr4"
     },
     {
       "added_at": "2022-08-02 23:50:53",
@@ -383,18 +383,18 @@
     {
       "added_at": "2022-08-02 23:50:53",
       "album": {
-        "name": "Me Dej\u00e9 Llevar",
-        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
+        "name": "Recuerden Mi Estilo",
+        "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 231173,
-      "name": "Te Fall\u00e9",
-      "url": "https://open.spotify.com/track/2UDoZZSrs3NxlmvFZbffr4"
+      "duration_ms": 183547,
+      "name": "No Lo Hice Bien",
+      "url": "https://open.spotify.com/track/211mktDmIq7g2Q4gBTXphj"
     },
     {
       "added_at": "2022-08-02 23:50:53",
@@ -753,7 +753,7 @@
       "url": "https://open.spotify.com/track/1OYZbxODr6TMlaT2PRi6Wi"
     },
     {
-      "added_at": "2023-05-12 00:54:48",
+      "added_at": "2023-05-13 00:52:31",
       "album": {
         "name": "Volver a Verte",
         "url": "https://open.spotify.com/album/7Fr4KyfCljns3TO7M0gS1S"
@@ -805,22 +805,6 @@
       "url": "https://open.spotify.com/track/3qZ4beZNwiXKqGoopSzYBe"
     },
     {
-      "added_at": "2023-05-12 00:54:48",
-      "album": {
-        "name": "El Rey Del Jaripeo",
-        "url": "https://open.spotify.com/album/3tKrubckAUPn0L1tBlzapY"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 194362,
-      "name": "Como Perro Con Rabia",
-      "url": "https://open.spotify.com/track/3bJeZJk8Qq53D0jQWi1mZO"
-    },
-    {
       "added_at": "2022-08-02 23:50:53",
       "album": {
         "name": "Siempre Te Amar\u00e9",
@@ -835,6 +819,22 @@
       "duration_ms": 237440,
       "name": "Perd\u00f3n Por Tus L\u00e1grimas",
       "url": "https://open.spotify.com/track/3YoLl2RHRhzKg3WhpaFRES"
+    },
+    {
+      "added_at": "2023-05-13 00:52:31",
+      "album": {
+        "name": "El Rey Del Jaripeo",
+        "url": "https://open.spotify.com/album/3tKrubckAUPn0L1tBlzapY"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 194362,
+      "name": "Como Perro Con Rabia",
+      "url": "https://open.spotify.com/track/3bJeZJk8Qq53D0jQWi1mZO"
     },
     {
       "added_at": "2022-08-02 23:50:53",

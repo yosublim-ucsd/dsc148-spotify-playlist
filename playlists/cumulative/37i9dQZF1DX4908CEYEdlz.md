@@ -4,7 +4,7 @@
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Bush
 
-235 songs - 14 hr 24 min
+236 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 | 2023-02-10 |  |
 | [Lost In The Grandeur](https://open.spotify.com/track/6whiIhWVTRqFpA2Aa8DSAr) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Lost In The Grandeur](https://open.spotify.com/album/5s4ZVN1095ucWudIEWuiTM) | 3:50 | 2022-02-04 | 2022-06-25 |
 | [Lost In The Grandeur \- Requiem Mass](https://open.spotify.com/track/1AEbkplFNpAzKS5HjC1Fu9) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem Mass \(Deluxe Edition\)](https://open.spotify.com/album/4fN6xfIrXPX8SMgcFU4A6h) | 4:00 | 2023-02-03 |  |
-| [Love From The Other Side \- Edit](https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Love From The Other Side](https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD) | 4:07 | 2023-01-20 |  |
+| [Love From The Other Side \- Edit](https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Love From The Other Side](https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD) | 4:07 | 2023-01-20 | 2023-05-13 |
 | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd) | 3:27 | 2022-01-28 | 2022-09-03 |
 | [Lux Æterna](https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb) | 3:25 | 2022-12-02 | 2023-01-21 |
 | [Maquiagem](https://open.spotify.com/track/5MCWDrTtqhQQL2tIE2prde) | [Ani Belle](https://open.spotify.com/artist/0YyO7b5QpE2BfJxHlM6K2b), [André Perucci](https://open.spotify.com/artist/1Oa1N664mb9Hh4BFWvn4yk) | [Maquiagem](https://open.spotify.com/album/0xvs1QlQNbxBryIYOKCrs1) | 3:04 | 2022-09-30 | 2022-12-21 |
@@ -174,6 +174,7 @@
 | [Screaming Suicide](https://open.spotify.com/track/2zSb2Db4kNYH5qIs5V3BgG) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 5:30 | 2023-04-14 |  |
 | [Screaming Suicide](https://open.spotify.com/track/6ZCh9hBeFzMIPycRnyPqZT) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Screaming Suicide](https://open.spotify.com/album/5RuyqGjhakCG2teiB6VkaC) | 5:30 | 2023-01-20 | 2023-04-17 |
 | [Sex Magik](https://open.spotify.com/track/5QUfvTWB3lufXitDEbrcT7) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Sex Magik](https://open.spotify.com/album/1YiU1FtGcLU67uw0yI3MMU) | 3:26 | 2022-02-25 | 2022-04-02 |
+| [Sing Sorrow](https://open.spotify.com/track/3Eufmj2SkuBktyH23TwZRQ) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Sing Sorrow](https://open.spotify.com/album/6q28xIK0JijQeel3GZ8cg8) | 4:33 | 2023-05-12 |  |
 | [Slow Me](https://open.spotify.com/track/5ZtIuVEKcvfjHeYgit0xDa) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [The Art Of Survival](https://open.spotify.com/album/7lDTe11so67WdsLFd25dwi) | 3:48 | 2022-10-07 |  |
 | [Sol](https://open.spotify.com/track/3Svbk7PnKp2hKqViRCti7S) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Disparity](https://open.spotify.com/album/2aI7O7ukQBWxfMimo9pUo8) | 3:21 | 2022-09-02 | 2022-09-10 |
 | [Soldier On!](https://open.spotify.com/track/7spRyvnK00GrJ3f4iJrkvt) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Soldier On! / Night Stalkers / We’ll Be Back](https://open.spotify.com/album/2qS54pyHeqvTvzdWAo91rv) | 4:54 | 2022-08-12 | 2022-09-03 |
